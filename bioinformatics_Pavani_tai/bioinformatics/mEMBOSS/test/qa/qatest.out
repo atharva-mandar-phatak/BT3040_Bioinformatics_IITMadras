@@ -1,0 +1,83 @@
+Failed to run 'featcopy tensembldasserver:Homo_sapiens_GRCh37_transcript:10[32889611:32973347] stdout -auto < stdin', status 1/0
+dasregistry-featquery-range test failed code 2 Failed to run
+
+Failed to run 'featcopy "tensembldasserver:Homo_sapiens_GRCh37_reference-{segment:11 & type:supercontig}" stdout -auto < stdin', status 1/0
+dasregistry-featquery-type test failed code 2 Failed to run
+
+Failed to run 'seqret tgenedashuman:ENSG00000139618 -send 10 stdout -auto < stdin', status 1/0
+das-genedas test failed code 2 Failed to run
+
+Failed counted pattern [pat 0] '^DB uniprotkb ' found 0/1 times cachedbfetch-wsdbfetch/qatests.server.twsdbfetch
+** requires (axis2C) SOAP webservices library enabled
+** this test can be disabled using -without=soapws option
+cachedbfetch-wsdbfetch test failed code 10 Failed counted pattern
+
+Failed to run 'seqret fasta::twsdbfetch:uniprotkb:P06213 stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+wsdbfetch-uniprot test failed code 2 Failed to run
+
+Failed to run 'ontoget twsdbfetch:edam:0352 stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+wsdbfetch-edam test failed code 2 Failed to run
+
+Failed to run 'textget uniprotxml::twsdbfetch:uniprotkb:p12345 stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+wsdbfetch-uniprotxml test failed code 2 Failed to run
+
+Failed linecount 4 '= 2' wsdbfetch-noentry/stderr
+** requires (axis2C) SOAP webservices library enabled
+wsdbfetch-noentry test failed code 8 Failed linecount
+
+Not empty file cacheebeyesearch-ex/stderr
+** requires (axis2C) SOAP webservices library enabled
+cacheebeyesearch-ex test failed code 6 Not empty file
+
+Failed to run 'textget tebeye:uniprot:1A74_HUMAN stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+ebeye-uniprot test failed code 2 Failed to run
+
+Failed to run 'textget "tebeye:emblrelease_con-{keywords:Aspergillus fumigatus & description:BAC}" stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+ebeye-emblrel_con-multifield test failed code 2 Failed to run
+
+Failed to run 'textget "ebeye:uniprot-{description:genome polyprotein & sequence_length:496}" stdout -auto < stdin', status 1/0
+** requires (axis2C) SOAP webservices library enabled
+ebeye-uniprot-multifield test failed code 2 Failed to run
+
+Failed linecount 0 '= 134' cacheensembl-ex/stdout
+cacheensembl-ex test failed code 8 Failed linecount
+
+Failed pattern [pat 3] '^Sequences \(1:2\) Aligned\. Score:  59\n' emma-dna/stdout
+emma-dna test failed code 4 Failed pattern
+
+Failed size 1364 '= 1321' eprimer32-ex/x65921.eprimer32
+eprimer32-ex test failed code 7 Failed size
+
+Failed linecount 7 '= 11' seealso-ex/stdout
+seealso-ex test failed code 8 Failed linecount
+
+
+
+
+
+Failed linecount 18 '= 20' showserver-ex/stdout
+showserver-ex test failed code 8 Failed linecount
+
+Failed pattern [pat 4] '<a href="[\/\\]embassy[\/\\]mse[\/\\]mse\.html"' wossname-ex5/wossname.html
+wossname-ex5 test failed code 4 Failed pattern
+
+
+Failed to run 'featcopy tgenedb:'NCLIV_chrIb' -auto < stdin', status 1/0
+chado-genedb-chromosome test failed code 2 Failed to run
+
+Failed to run 'featcopy tgenedb:'LinJ.18.0820' stdout -auto < stdin', status 1/0
+chado-genedb-gene test failed code 2 Failed to run
+
+Failed to run 'featcopy tflybase:'FBtr0076663' -auto < stdin', status 1/0
+chado-flybase-transcript test failed code 2 Failed to run
+
+Failed to run 'featcopy tflybase:'FBgn0030105' FBgn0030105.gff -auto < stdin', status 1/0
+chado-flybase-gene test failed code 2 Failed to run
+
+
+

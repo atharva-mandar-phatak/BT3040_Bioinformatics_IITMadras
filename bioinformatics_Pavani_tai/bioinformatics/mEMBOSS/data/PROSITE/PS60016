@@ -1,0 +1,103 @@
+************************************************
+* Omega-atracotoxin (ACTX) families signatures *
+************************************************
+
+Omega-atracotoxins (ACTX)  form  a family of neurotoxins that block insect but
+not vertebrate voltage-gated calcium channels. Omega-ACTXs are environmentally
+benign, insect-specific   toxins   that  represent  excellent  leads  for  the
+development of  new  pesticides.  Omega-ACTXs comprise a disulfide-rich region
+that has  a  [C-C-CC-C-C]  arrangement  and  possess  a  Knottin scaffold (see
+<PDOC60004>) [1,2,3,4,5].
+
+The omega-ACTX  type  1  family  contains  36  to 37-residue toxins with three
+highly conserved   but  structurally  disordered  N-terminal  residues,  which
+precede the  first  cysteine  residue  (see <PDB:1AXH>) [1,2,3,5]. This family
+includes:
+
+ - Omega-ACTX Hv1a, Hv1b, Hv1c, Hv1d, Hv1e, Hv1f from Hadronyche versuta (Blue
+   mountains funnel-web spider) (Atrax versutus),
+ - Omega-ACTX Ar1a from Atrax robustus (Funnel-web spider),
+ - Omega-missulenatoxin-Mb1a from Missulena bradleyi (Eastern mouse spider).
+
+The omega-ACTX  type  2  family  contains  43  to  45-residue  toxins  with  a
+disordered C-terminal lipophilic extension (see <PDB:1G9P>) [4,5]. This family
+includes:
+
+ - Omega-ACTX  Hv2a from Hadronyche versuta (Blue mountains funnel-web spider)
+   (Atrax versutus),
+ - Omega ACTX As2a, As2b from Atrax sp. Illawarra (Funnel-web spider),
+ - Omega  ACTX  Hi2a,  Hi2b  from Hadronyche infensa (Fraser island funnel-web
+   spider).
+
+                                   +------------------+
+                                   |                  |
+                      ********     ######             |
+                   xxxCxxxxxxCxxxxxCCxxxCxxxxxxxxxxxxxC
+                      |      |      |   |
+                      +------|------+   |
+                             +----------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern for type 1.
+'#': position of the pattern for type 2.
+
+We developed two signature patterns for omega-ACTXs, one for the type 1 family
+and one for the type 2 family.
+
+-Conserved pattern: C-[IT]-P-S-G-Q-P-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Conserved pattern: C-C-[GE]-[ML]-T-P-x-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: June 2005 / First entry.
+
+[ 1] Fletcher J.I., Smith R., O'Donoghue S.I., Nilges M., Connor M.,
+     Howden M.E.H., Christie M.J., King G.F.
+     "The structure of a novel insecticidal neurotoxin,
+     omega-atracotoxin-HV1, from the venom of an Australian funnel web
+     spider."
+     Nat. Struct. Biol. 4:559-566(1997).
+     PubMed=9228949
+[ 2] Wang X., Smith R., Fletcher J.I., Wilson H., Wood C.J., Howden M.E.H.,
+     King G.F.
+     "Structure-function studies of omega-atracotoxin, a potent antagonist
+     of insect voltage-gated calcium channels."
+     Eur. J. Biochem. 264:488-494(1999).
+     PubMed=10491095
+[ 3] Tedford H.W., Gilles N., Menez A., Doering C.J., Zamponi G.W.,
+     King G.F.
+     "Scanning mutagenesis of omega-atracotoxin-Hv1a reveals a spatially
+     restricted epitope that confers selective activity against insect
+     calcium channels."
+     J. Biol. Chem. 279:44133-44140(2004).
+     PubMed=15308644; DOI=10.1074/jbc.M404006200
+[ 4] Wang X., Connor M., Wilson D., Wilson H.I., Nicholson G.M.,
+     Smith R., Shaw D., Mackay J.P., Alewood P.F., Christie M.J.,
+     King G.F.
+     "Discovery and structure of a potent and highly specific blocker of
+     insect calcium channels."
+     J. Biol. Chem. 276:40306-40312(2001).
+     PubMed=11522785; DOI=10.1074/jbc.M105206200
+[ 5] Corzo G., Escoubas P.
+     "Pharmacologically active spider peptide toxins."
+     Cell. Mol. Life Sci. 60:2409-2426(2003).
+     PubMed=14625686; DOI=10.1007/s00018-003-3108-6
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

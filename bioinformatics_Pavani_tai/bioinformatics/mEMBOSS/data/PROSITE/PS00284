@@ -1,0 +1,123 @@
+*********************
+* Serpins signature *
+*********************
+
+Serpins (SERine  Proteinase INhibitors) [1,2,3,4]  are a group of structurally
+related proteins.    They  are high molecular weight (400 to 500 amino acids),
+extracellular,  irreversible  serine protease  inhibitors  with a well defined
+structural-functional characteristic:  a reactive region that acts as a 'bait'
+for an  appropriate  serine  protease.  This region is found in the C-terminal
+part of  these  proteins.     Proteins which are known to belong to the serpin
+family are  listed below (references are only provided for recently determined
+sequences):
+
+ - Alpha-1 protease inhibitor (alpha-1-antitrypsin, contrapsin).
+ - Alpha-1-antichymotrypsin,
+ - Antithrombin III.
+ - Alpha-2-antiplasmin.
+ - Heparin cofactor II.
+ - Complement C1 inhibitor.
+ - Plasminogen activator inhibitors 1 (PAI-1) and 2 (PAI-2).
+ - Glia derived nexin (GDN) (Protease nexin I).
+ - Protein C inhibitor.
+ - Rat hepatocytes SPI-1, SPI-2 and SPI-3 inhibitors.
+ - Human  squamous  cell  carcinoma  antigen  (SCCA)  which  may  act  in  the
+   modulation of the host immune response against tumor cells.
+ - A lepidopteran protease inhibitor.
+ - Leukocyte elastase inhibitor  which, in  contrast  to  other serpins, is an
+   intracellular protein.
+ - Neuroserpin  [5],  a  neuronal  inhibitor  of  plasminogen  activators  and
+   plasmin.
+ - Cowpox  virus  crmA  [6], an inhibitor of the thiol protease interleukin-1B
+   converting enzyme  (ICE).  CrmA  is the only serpin known to inhibit a non-
+   serine proteinase.
+ - Some orthopoxviruses probable protease inhibitors, which may be involved in
+   the regulation  of  the  blood  clotting  cascade  and/or of the complement
+   cascade in the mammalian host.
+
+On the  basis  of  strong  sequence similarities, a number of proteins with no
+known inhibitory activity are said to belong to this family:
+
+ - Birds ovalbumin and the related genes X and Y proteins.
+ - Angiotensinogen; the precursor of the angiotensin active peptide.
+ - Barley protein Z; the major endosperm albumin.
+ - Corticosteroid binding globulin (CBG).
+ - Thyroxine-binding globulin (TBG).
+ - Sheep uterine  milk protein (UTMP) and pig  uteroferrin-associated  protein
+   (UFAP).
+ - Hsp47, an endoplasmic reticulum heat-shock protein that  binds  strongly to
+   collagen and could act  as a chaperone in the collagen biosynthetic pathway
+   [7].
+ - Maspin, which seems to function as a tumor supressor [5].
+ - Pigment epithelium-derived factor precursor (PEDF), a protein with a strong
+   neutrophic activity [8].
+ - Ep45, an estrogen-regulated protein from Xenopus [9].
+
+We developed  a signature pattern for  this family of  proteins, centered on a
+well conserved Pro-Phe sequence  which is found ten to fifteen residues on the
+C-terminal side of the reactive bond.
+
+-Consensus pattern: [LIVMFY]-{G}-[LIVMFYAC]-[DNQ]-[RKHQS]-[PST]-F-[LIVMFY]-
+                    [LIVMFYC]-x-[LIVMFAH]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 7 sequences.
+-Other sequence(s) detected in Swiss-Prot: 27.
+
+-Note: In position 6 of the pattern, Pro is found in most serpins.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Carrell R., Travis J.
+     Trends Biochem. Sci. 10:20-24(1985).
+[ 2] Carrell R.W., Pemberton P.A., Boswell D.R.
+     "The serpins: evolution and adaptation in a family of protease
+     inhibitors."
+     Cold Spring Harb. Symp. Quant. Biol. 52:527-535(1987).
+     PubMed=3502621
+[ 3] Huber R., Carrell R.W.
+     "Implications of the three-dimensional structure of alpha
+     1-antitrypsin for structure and function of serpins."
+     Biochemistry 28:8951-8966(1989).
+     PubMed=2690952
+[ 4] Remold-O'Donneel E.
+     FEBS Lett. 315:105-108(1993).
+[ 5] Osterwalder T., Contartese J., Stoeckli E.T., Kuhn T.B., Sonderegger P.
+     "Neuroserpin, an axonally secreted serine protease inhibitor."
+     EMBO J. 15:2944-2953(1996).
+     PubMed=8670795
+[ 6] Komiyama T., Ray C.A., Pickup D.J., Howard A.D., Thornberry N.A.,
+     Peterson E.P., Salvesen G.
+     "Inhibition of interleukin-1 beta converting enzyme by the cowpox
+     virus serpin CrmA. An example of cross-class inhibition."
+     J. Biol. Chem. 269:19331-19337(1994).
+     PubMed=8034697
+[ 7] Clarke E.P., Sanwal B.D.
+     "Cloning of a human collagen-binding protein, and its homology with
+     rat gp46, chick hsp47 and mouse J6 proteins."
+     Biochim. Biophys. Acta 1129:246-248(1992).
+     PubMed=1309665
+[ 8] Zou Z., Anisowicz A., Hendrix M.J., Thor A., Neveu M., Sheng S.,
+     Rafidi K., Seftor E., Sager R.
+     "Maspin, a serpin with tumor-suppressing activity in human mammary
+     epithelial cells."
+     Science 263:526-529(1994).
+     PubMed=8290962
+[ 9] Steele F.R., Chader G.J., Johnson L.V., Tombran-Tink J.
+     "Pigment epithelium-derived factor: neurotrophic activity and
+     identification as a member of the serine protease inhibitor gene
+     family."
+     Proc. Natl. Acad. Sci. U.S.A. 90:1526-1530(1993).
+     PubMed=8434014
+[10] Holland L.J., Suksang C., Wall A.A., Roberts L.R., Moser D.R.,
+     Bhattacharya A.
+     J. Biol. Chem. 267:7053-7059(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

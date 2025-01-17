@@ -1,0 +1,66 @@
+***********************
+* ApaG domain profile *
+***********************
+
+The  apaG  domain  is  a  ~125  amino  acids  domain present in bacterial apaG
+proteins  and  in  eukaryotic  F-box  proteins.  The domain is named after the
+bacterial  apaG protein, of which it forms the core. The domain also occurs in
+the  C-terminal  part  of  eukaryotic proteins with an N-terminal F-box domain
+(see  <PDOC50181>).  The  Salmonella  typhimurium  apaG domain protein corD is
+involved  in  Co(2+)  resistance  and  Mg(2+) efflux. Tertiary structures from
+different  apaG  proteins show a fold of several beta-sheets (see <PDB:1XVS>).
+The apaG domain may be involved in protein-protein interactions which could be
+implicated in substrate-specificity [1-4].
+
+Some proteins known to contain an apaG domain:
+
+ - Escherichia  coli  apaG,  a  protein  that  is well-conserved among diverse
+   bacteria.
+ - Salmonella typhimurium apaG/corD, involved in Co(2+) sensitivity and Mg(2+)
+   homeostasis [1].
+ - Mammalian  FBA/F-box  only  protein 3, a substrate-recognition component of
+   the SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex [2].
+ - Mammalian    PDIP38/POLD2-interacting   protein,   which   interacts   with
+   proliferating  cell  nuclear  antigen  (PCNA)  and  the  p50 subunit of DNA
+   polymerase delta. It is conserved among metazoans [3].
+
+The profile we developed covers the entire apaG domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2005 / First entry.
+
+[ 1] Gibson M.M., Bagga D.A., Miller C.G., Maguire M.E.
+     "Magnesium transport in Salmonella typhimurium: the influence of new
+     mutations conferring Co2+ resistance on the CorA Mg2+ transport
+     system."
+     Mol. Microbiol. 5:2753-2762(1991).
+     PubMed=1779764
+[ 2] Ilyin G.P., Rialland M., Pigeon C., Guguen-Guillouzo C.
+     "cDNA cloning and expression analysis of new members of the mammalian
+     F-box protein family."
+     Genomics 67:40-47(2000).
+     PubMed=10945468
+[ 3] Liu L., Rodriguez-Belmonte E.M., Mazloum N., Xie B., Lee M.Y.W.T.
+     "Identification of a novel protein, PDIP38, that interacts with the
+     p50 subunit of DNA polymerase delta and proliferating cell nuclear
+     antigen."
+     J. Biol. Chem. 278:10041-10047(2003).
+     PubMed=12522211; DOI=10.1074/jbc.M208694200
+[ 4] Katsuyama A.M., Cicero D.O., Spisni A., Paci M., Farah C.S.,
+     Pertinhez T.A.
+     "1H, 15N and 13C resonance assignments of the ApaG protein of the
+     phytopathogen Xanthomonas axonopodis pv. citri."
+     J. Biomol. NMR 29:423-424(2004).
+     PubMed=15213450; DOI=10.1023/B:JNMR.0000032502.66997.25
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

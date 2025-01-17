@@ -1,0 +1,113 @@
+*********************************
+* Saposin B-type domain profile *
+*********************************
+
+The  saposin  B-type domain is a ~80 amino acid domain present in saposins and
+related  proteins  that  interact  with  lipids. The domain is named after the
+small  lysosomal  proteins,  saposins,  which  serve as sphingolipid hydrolase
+activator proteins in vertebrates. The mammalian saposins are synthesized as a
+single  precursor  molecule  (prosaposin)  which  contains  two saposin A-type
+domains  in  the  extremities that are removed in the activation reaction (see
+<PDOC51110>),  and four saposin B-type domains yielding the active saposins A,
+B,  C  and  D  after proteolytic cleavage. Saposin-like proteins (SAPLIPs) can
+have  different  functions,  such  as  enzymatic  activities,  as cofactors of
+enzymes  involved  in  lipid  metabolism,  as  components  of  lung surfactant
+reducing  the  surface  tension,  as  part  of  a  complex  involved  in stage
+regulation  of  Dictyostelium,  as  antimicrobial  effector molecules, or as a
+stimulator of dendritic outgrowth [1-4].
+
+The  3D  structures of different SAPLIPs have been resolved, and show that the
+saposin   B-type   domain  is  formed  by  a  four/five  helical  bundle  (see
+<PDB:1SN6>).  The  saposin  B-type  domain  is  characterized by six conserved
+cysteine  residues  involved in three disulfide bridges: one between helices 2
+and  3,  one  between the first and the last helix and one from the N-terminal
+part  of  the first helix to the C-terminus. In plant aspartic proteinases the
+two  subdomains  that are connected by the disulfide bridges occur in inversed
+order,  these are called "swaposin" domains [5-7]. In these phytepsin proteins
+the  two  half  saposin  B-type domains occur in combination with the aspartyl
+protease signature (see <PDOC00128>) [3,8].
+
+Some proteins known to contain a saposin B-type domain:
+
+ - Mammalian  proactivator  polypeptide, the saposin precursor (prosapin) that
+   is  processed  into  saposins  A,  B,  C  and  D.  Saposins A and C bind as
+   activating  cofactors  to beta-glucosylceramidase and galactosylceramidase.
+   Saposin   B   facilitates   the   hydrolysis   of  cerebroside  sulfate  by
+   arylsulfatase  A.  Saposin  D is a specific sphingomyelin phosphodiesterase
+   activator.
+ - Mammalian  acid  sphingomyelinase, an enzyme activated by saposins B and D,
+   which converts sphingomyelin to ceramide.
+ - Mammalian  acyloxyacyl-hydrolase,  an  enzyme  which  removes the secondary
+   fatty acyl chains from the lipid A region of bacterial lipopolysaccharides.
+ - Mammalian  pulmonary  surfactant-associated  protein  B  (SP-B),  a surface
+   tension reducing surfactant secreted by type II epithelial cells.
+ - Mammalian   lymfocyte   proteins  NK-lysin  and  granulysin,  antimicrobial
+   effector molecules from natural killer cells and T-cells.
+ - Entamoeba   histolytica   amoebapores,   membrane-interacting  pore-forming
+   proteins with a key role in the pathogenicity of amoeba.
+ - Plant  aspartic proteases related to cyprosin and phytepsin. These proteins
+   have a peculiar saposin B-type domain where the two halves are "swapped".
+ - Dictyostelium discoideum countin, an inhibitor of glucose-6-phosphatase and
+   a  component  of the secreted counting factor complex (CF) involved in cell
+   group size regulation.
+ - Mammalian MIR-interacting saposin-like protein (MSAP), a positive regulator
+   of neurite outgrowth.
+
+The  profile we developed covers the entire saposin B-type domain and has been
+manually  adapted  to  detect  the  two halves of the "swaposin" domain and to
+accept inserts like in MSAP.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2005 / First entry.
+
+[ 1] Ponting C.P.
+     "Acid sphingomyelinase possesses a domain homologous to its activator
+     proteins: saposins B and D."
+     Protein Sci. 3:359-361(1994).
+     PubMed=8003971
+[ 2] Munford R.S., Sheppard P.O., O'Hara P.J.
+     "Saposin-like proteins (SAPLIP) carry out diverse functions on a
+     common backbone structure."
+     J. Lipid Res. 36:1653-1663(1995).
+     PubMed=7595087
+[ 3] Bruhn H., Leippe M.
+     "Novel putative saposin-like proteins of Entamoeba histolytica
+     different from amoebapores."
+     Biochim. Biophys. Acta 1514:14-20(2001).
+     PubMed=11513801
+[ 4] Bornhauser B.C., Olsson P.A., Lindholm D.
+     "MSAP is a novel MIR-interacting protein that enhances neurite
+     outgrowth and increases myosin regulatory light chain."
+     J. Biol. Chem. 278:35412-35420(2003).
+     PubMed=12826659; DOI=10.1074/jbc.M306271200
+[ 5] Ponting C.P., Russell R.B.
+     "Swaposins: circular permutations within genes encoding saposin
+     homologues."
+     Trends Biochem. Sci. 20:179-180(1995).
+     PubMed=7610480
+[ 6] Tschopp J., Hofmann K.
+     "Cytotoxic T cells: more weapons for new targets?"
+     Trends Microbiol. 4:91-94(1996).
+     PubMed=8868085
+[ 7] Kervinen J., Tobin G.J., Costa J., Waugh D.S., Wlodawer A., Zdanov A.
+     "Crystal structure of plant aspartic proteinase prophytepsin:
+     inactivation and vacuolar targeting."
+     EMBO J. 18:3947-3955(1999).
+     PubMed=10406799; DOI=10.1093/emboj/18.14.3947
+[ 8] Ahn V.E., Faull K.F., Whitelegge J.P., Fluharty A.L., Prive G.G.
+     "Crystal structure of saposin B reveals a dimeric shell for lipid
+     binding."
+     Proc. Natl. Acad. Sci. U.S.A. 100:38-43(2003).
+     PubMed=12518053; DOI=10.1073/pnas.0136947100
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

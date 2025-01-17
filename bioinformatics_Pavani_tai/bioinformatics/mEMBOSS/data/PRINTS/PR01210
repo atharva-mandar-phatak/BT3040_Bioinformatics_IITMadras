@@ -1,0 +1,26 @@
+GGTRANSPTASE
+Gamma-glutamyltranspeptidase (GGT) catalyses the transfer of the glutathione 
+gamma-glutamyl moiety to an acceptor that may be an amino acid, a peptide 
+or water (forming glutamate) [1]. GGT plays a central role in glutathione 
+metabolism, and drug and xenobiotic detoxification [2]. In both prokaryotes
+and eukaryotes, the enzyme contains heavy and light subunits, which are 
+processed from a single chain precursor. The light subunit houses the GGT 
+active site.
+
+Sequence analysis reveals that GGTs share several regions of similarity both
+with each other [3] and with Pseudomonas cephalosporin acylases; these are
+enzymes that convert 7-beta-(4-carboxybutanamido)-cephalosporanic acid 
+(GL-7ACA) to 7-aminocephalosporanic acid (7ACA) and glutaric acid, and are
+known to exhibit some GGT activity [4]. Like GGT, GL-7ACA acylases contain 
+two subunits.
+
+GGTRANSPTASE is a 9-element fingerprint that provides a signature for gamma-
+glutamyltranspeptidases. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motifs 1-5 reside in the 
+heavy chain and motifs 6-9 in the light chain, motif 6 including the region 
+encoded by PROSITE pattern G_GLU_TRANSPEPTIDASE (PS00462), which lies at the
+light chain extreme N-terminus. Four iterations on SPTR37_9f were required 
+to reach convergence, at which point a true set comprising 22 sequences was 
+identified. Several partial matches were also found, all of which are 
+fragments or related sequences that fail to match one or more motifs.

@@ -1,0 +1,29 @@
+HUDSXLRNA
+Many eukaryotic proteins that are either known or thought to bind single-
+stranded RNA contain one or more copies of a putative RNA-binding domain
+of about 90 amino acids [1,2]. This region has been found in, for example,
+heterogeneous nuclear ribonucleoproteins, small nuclear ribonucleoproteins,
+pre-RNA and mRNA associated proteins, Drosophila sex determination and elav
+proteins, human paraneoplastic encephalomyelitis antigen HuD, and many
+others.
+
+The structure of an RNA-binding domain of Drosophila Sex-lethal (Sxl) 
+protein has been determined using multi-dimensional hetero-nuclear NMR [3].
+Sxl contains two RNP consensus-type RNA-binding domains (RBDs) - the
+determined structure represents the second of these (RBD-2) [3]. The
+calculated intermediate-resolution family of structures exhibits the beta-
+alpha-beta/beta-alpha-beta tertiary fold found in other RBD-containing
+proteins [3].
+
+HUDSXLRNA is a 6-element fingerprint that provides a signature for the
+HuD/Elav/Sxl family of RNA-binding proteins. The fingerprint was derived
+from an initial alignment of 11 sequences: the motifs were drawn from
+conserved regions spanning the N-terminal half of the alignment - motif 3
+encodes strand 1; motif 4 includes helix 1; and motif 5 includes strand 2.
+Two iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 30 sequences was identified. Several partial matches
+were also found, all of which are fragments or ribonucleoprotein homologues
+that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 4
+partial matches.

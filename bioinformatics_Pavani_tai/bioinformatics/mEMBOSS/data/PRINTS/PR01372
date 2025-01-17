@@ -1,0 +1,32 @@
+YERSINIAYOPE
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+Exotoxins secreted by the type III system do not possess a secretion signal,
+and are considered unique for this reason [1]. Yersinia spp. secrete a Rho
+GTPase-activating protein, YopE [2,3], that disrupts the host cell actin 
+cytoskeleton. YopE is regulated by another bacterial gene, SycE [4], that 
+enables the exotoxin to remain soluble in the bacterial cytoplasm. A similar
+protein, exoenzyme S from Pseudomonas aeruginosa, has both ADP-ribosylation 
+and GTPase activity [3,4].
+
+YERSINIAYOPE is a 6-element fingerprint that provides a signature for the
+Yersinia type III secreted virulence determinant YopE protein family. The
+fingerprint was derived from an initial alignment of 2 sequences: the 
+motifs were drawn from conserved regions spanning the full alignment length
+(~450 amino acids). Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 6 sequences was
+identified. A single partial match was also found, Q51445, a Pseudomonas
+type III secreted exoenzyme, which fails to match motifs 3 and 6. 

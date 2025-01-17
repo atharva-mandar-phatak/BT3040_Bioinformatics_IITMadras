@@ -1,0 +1,77 @@
+***********************************************************
+* Somatotropin, prolactin and related hormones signatures *
+***********************************************************
+
+The hormone somatotropin (growth hormone, GH)  which  plays  an important role
+in growth control, choriomammotropin (lactogen), a placental analog of GH; and
+prolactin which acts primarily  on  the  mammary gland by promoting lactation,
+have been shown [1]  to be homologous.  This family  of proteins also includes
+other hormones  listed  below    (references  are  only  provided for recently
+determined sequences).
+
+ - Rodents placental lactogens I and II.
+ - Bovine and sheep lactogen.
+ - Mouse proliferin I, II, III and proliferin related protein [2].
+ - Bovine placental prolactin-related proteins I, II, and III [3].
+ - Rat placental prolactin-like proteins A and B.
+ - Human growth hormone variants 1 (GH-V1) and 2 (GH-V2).
+ - Somatolactin (SL) from various fish [4].
+
+The schematic representation  of  the  structure of proteins belonging to this
+family is shown below.
+
+        <----------------180-to-210-residues------------->
+                     ***                          *****
+        xxxxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxCxxxCxxC
+                     |                            |   |  |
+                     +----------------------------+   +--+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+We developed two signature patterns for this family of proteins, both patterns
+include cysteines involved in conserved disulfide bonds.
+
+-Consensus pattern: C-x-[STN]-x(2)-[LIVMFYS]-x-[LIVMSTA]-P-x(5)-[TALIV]-x(7)-
+                    [LIVMFY]-x(6)-[LIVMFY]-x(2)-[STACV]-W
+                    [The C is involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 8 sequences.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Consensus pattern: C-[LIVMFY]-{PT}-x-D-[LIVMFYSTA]-x-{S}-{RK}-{A}-x-[LIVMFY]-
+                    x(2)-[LIVMFYT]-x(2)-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 7 sequences.
+-Other sequence(s) detected in Swiss-Prot: 16.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wallis M.
+     "Episodic evolution of protein hormones in mammals."
+     J. Mol. Evol. 53:10-18(2001).
+     PubMed=11683318
+[ 2] Connor A.M., Waterhouse P., Khokha R., Denhardt D.T.
+     "Characterization of a mouse mitogen-regulated protein/proliferin gene
+     and its promoter: a member of the growth hormone/prolactin gene
+     superfamily."
+     Biochim. Biophys. Acta 1009:75-82(1989).
+     PubMed=2790033
+[ 3] Kessler M.A., Milosavljevic M., Zieler C.G., Schuler L.A.
+     "A subfamily of bovine prolactin-related transcripts distinct from
+     placental lactogen in the fetal placenta."
+     Biochemistry 28:5154-5161(1989).
+     PubMed=2765528
+[ 4] Rand-Weaver M., Noso T., Muramoto K., Kawauchi H.
+     Biochemistry 30:1509-1515(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

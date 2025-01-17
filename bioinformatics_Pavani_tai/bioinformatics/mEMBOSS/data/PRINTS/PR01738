@@ -1,0 +1,34 @@
+RNABINDINGM8
+RNA-binding motif protein 8 (RBM8) contains a putative RNA-binding domain 
+known as an RNA recognition motif (RRM). The RRM motif is found in numerous
+RNA-binding proteins, including heterogenous nuclear ribonucleoproteins
+(hnRNPs), and proteins implicated in regulation of alternative splicing. The
+RRM is a 90-residue domain that binds single-stranded RNA; the structure
+consists of four beta-stands and two alpha-helices arranged in an alpha/beta 
+sandwich, with a third helix present in some cases during RNA binding [1].
+Three-dimensional modelling of the RBM8 RRM domain indicates that the
+sequences fold into an RNA-binding domain, forming a hydrophobic core
+between a beta-sheet and two helices.
+
+The human RBM8A protein is ubiquitously expressed; the protein is localised
+predominantly in the cell nucleus and diffused throughout the cytoplasm
+[2]. It preferentially associates with mRNAs produced by splicing, including
+both nuclear mRNAs and newly exported cytoplasmic mRNAs. Evidence suggests
+the protein remains associated with spliced mRNAs as a tag to indicate the
+position of spliced introns. Human RBM8A protein specicially binds to MAGOH,
+the human homologue of Drosophila mago nashi, a protein required for normal
+germ plasm development in the Drosophila embryo [3]; a similar association
+occurs with the Drosophila RBM8 protein, Tsunagi [4].
+
+The RBM8A and RBM8B protein sequences contain a putative bipartate nuclear
+localisation signal [5] at the N-terminus, as well a stretch of glycine
+residues. In addition, the RRM contained within RBM8A and RBM8B contains 
+one set of the two consensus nucleic acid-binding motifs, RNP-1 and RNP-2,
+charactersitic of heterogeneous nuclear ribonucleoprotein (hnRNP). 
+
+RNABINDINGM8 is a 4-element fingerprint that provides a signature for the
+RNA-binding motif 8 protein family. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motifs 2-4 span the RRM. Two
+iterations SPTR40_20f were required to reach convergence, at which point a
+true set comprising 10 sequences was identified.

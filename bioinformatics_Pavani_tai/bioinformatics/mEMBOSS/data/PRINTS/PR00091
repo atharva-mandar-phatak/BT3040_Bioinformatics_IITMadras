@@ -1,0 +1,34 @@
+NITROGNASEII
+Nitrogen fixing bacteria possess a nitrogenase enzyme complex that
+comprises 2 components, which catalyse the reduction of molecular nitrogen
+to ammonia [1,2]: component I (nitrogenase MoFe protein or dinitrogenase)
+contains 2 molecules each of 2 non-identical subunits; component II 
+(nitrogenase Fe protein or dinitrogenase reductase) is a homodimer, the
+monomer being coded for by the nifH gene [1]. Component II has 2 ATP-binding
+domains and one 4Fe-4S cluster per homodimer: it supplies energy by ATP 
+hydrolysis, and transfers electrons from reduced ferredoxin or flavodoxin
+to component I for the reduction of molecular nitrogen to ammonia [3].
+
+Various proteins are known to bear an evolutionary relationship to nifH,
+including the chloroplast-encoded frxC protein [3], and Rhodobacter
+capsulatus proteins bchL and bchX [4]. The frxC gene product is found in
+the chloroplasts of liverwort and, although its exact function is not clear
+(only prokaryotes are known to fix nitrogen and a nitrogenase component I
+analogue is not present), it may act as an electron carrier in the
+conversion of protochlorophyllide to chlorophyllide. The bchL and bchX 
+proteins are also likely to play a role in chlorophyll synthesis, perhaps
+supplying electrons for the reduction of 2-devinyl-2-hydroxyethyl
+chlorophyllide a. 
+
+NITROGNASEII is a 4-element fingerprint that provides a signature for
+nitrogenase component II and related proteins. The fingerprint was derived 
+from an initial alignment of 11 sequences: motif 1 spans an N-terminal
+ATP-binding site; and motifs 3 and 4 include regions encoded by PROSITE
+patterns NIFH_FRXC_1 (PS00746) and NIFH_FRXC_2 (PS00692), the Cys residues
+in each of which bind the 4Fe-4S centre. Two iterations on OWL21.1 were
+required to reach convergence, at which point a true set comprising 46
+sequences was identified. Five partial matches were also found, all of
+which are fragments.
+
+An update on SPTR37_9f identified a true set of 74 sequences, and 1
+partial match.

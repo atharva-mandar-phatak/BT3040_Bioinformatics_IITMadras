@@ -1,0 +1,24 @@
+INSP3RECEPTR
+Inositol 1,4,5-trisphosphate (InsP3) is an intracellular second messenger 
+that transduces growth factor and neurotransmitter signals. InsP3 mediates 
+the release of Ca2+ from intracellular stores by binding to specific Ca2+ 
+channel-coupled receptors. One such receptor contains a C-terminal Ca2+ 
+channel with 8 possible transmembrane (TM) regions, while its N-terminal 
+cytoplasmic region houses ligand-binding and modulatory sites [1,2]. Ca2+
+appears to inhibit ligand binding, possibly by interacting with a Ca2+-
+binding protein that itself inhibits the receptor.
+
+The InsP3 receptor is an integral membrane protein located in the
+endoplasmic reticulum. It is a homotetramer. The protein shows some
+similarity to the ryanodine receptor, which functions as a Ca2+-release
+channel in the sarcoplasmic reticulum of cardiac and skeletal muscle [3].
+
+INSP3RECEPTR is a 9-element fingerprint that provides a signature for
+InsP3 receptors. The fingerprint was derived from an initial alignment
+of 11 sequences - the motifs were drawn from conserved regions spanning
+the N-terminal third of the alignment. A single iteration on OWL29.4 was
+required to reach convergence, no further sequences being identified
+beyond the starting set. Two partial matches were found, S27272 and
+MVRYR3, both of which are ryanodine receptors that match motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

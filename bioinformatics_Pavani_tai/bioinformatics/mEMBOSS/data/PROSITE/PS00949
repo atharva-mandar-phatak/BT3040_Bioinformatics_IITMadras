@@ -1,0 +1,90 @@
+*****************************************************
+* Autoinducer synthase family signature and profile *
+*****************************************************
+
+Autoinducers  are  hormone-like  molecules  produced by bacteria as signals to
+sense  cell  density  and  activate  adaptations,  by  a process termed quorum
+sensing.  N-(3-oxohexanoyl)-L-homoserine lactone (OHHL) is a molecule produced
+by  a  number of Gram-negative bacteria that acts as an autoinducer by binding
+to  transcriptional  regulatory  proteins  and activating them [1,2]. OHHL and
+related  molecules  such  as  N-butanoyl-  (BHL),  N-hexanoyl-  (HHL)  and  N-
+oxododecanoyl-  (PAI) homoserine lactones are produced by a family of proteins
+which have a length of about 200 amino acids. The 3D structures of autoinducer
+synthases (see  <PDB:1KZF>)  have  features  essential  for phosphopantetheine
+binding   and   N-acylation   that   are   similar  to  that  of  Gcn5-related
+N-acetyltransferases (GNAT) (see <PDOC51186>) [3,4].
+
+Some proteins currently known to belong to the autoinducer synthase family:
+
+ - Vibrio  fischeri  luxI. The target of OHHL is the luxR protein that acts in
+   the regulation of bioluminescence genes.
+ - Aeromonas  ahyI  and asaI, which synthesize BHL and whereof the targets are
+   ahyR and asaR.
+ - Agrobacterium  tumefaciens traI. The target of OHHL is traR which regulates
+   Ti plasmid transfer.
+ - Erwinia  carotovora  carI. The target of OHHL is carR which activates genes
+   involved in the biosynthesis of carbapenem antibiotics.
+ - Erwinia  carotovora  expI.  The target of OHHL is expR which is involved in
+   virulence  (soft  rot  disease)  by  activating  the genes for plant tissue
+   macerating enzymes.
+ - Erwinia stewartii esaI. The target of OHHL is esaR which is involved in the
+   regulation of the biosynthesis of EPS virulence factor.
+ - Pseudomonas aeruginosa lasI, which synthesizes PAI and whose target is lasR
+   which activates the transcription of the elastase gene.
+ - Pseudomonas  aureofaciens  phzI,  whose  target  is  phzR, the activator of
+   phenazine biosynthetic genes.
+ - Pseudomonas  aeruginosa  rhlI  (or vsmI), which synthesizes BHL and HHL and
+   whose target is rhlR.
+ - Serratia liquefaciens swrI, which synthesizes BHL.
+ - Enterobacter agglomerans eagI.
+ - Yersinia enterocolitica yenI.
+
+The  best conserved region is located in the N-terminal region and can be used
+as  a  signature  pattern. We also developed a profile which covers the entire
+autoinducer synthase domain.
+
+-Consensus pattern: [LMFYA]-R-x(3)-F-x(2)-[KRQ]-x(2)-W-x-[LIVM]-x(6,9)-E-x-D-
+                    x-[FY]-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2006 / Text revised; profile added.
+
+[ 1] Swift S., Winson M.K., Chan P.F., Bainton N.J., Birdsall M., Reeves P.J.,
+     Rees C.E.D., Chhabra S.R., Hill P.J., Throup J.P., Bycroft B.W.,
+     Salmond G.P.C., Williams P., Stewart G.S.A.B.
+     "A novel strategy for the isolation of luxI homologues: evidence for
+     the widespread distribution of a LuxR:LuxI superfamily in enteric
+     bacteria."
+     Mol. Microbiol. 10:511-520(1993).
+     PubMed=7968529;
+[ 2] Latifi A., Winson M.K., Foglino M., Bycroft B.W., Stewart G.S.A.B.,
+     Lazdunski A., Williams P.
+     "Multiple homologues of LuxR and LuxI control expression of virulence
+     determinants and secondary metabolites through quorum sensing in
+     Pseudomonas aeruginosa PAO1."
+     Mol. Microbiol. 17:333-343(1995).
+     PubMed=7494482;
+[ 3] Watson W.T., Minogue T.D., Val D.L., von Bodman S.B., Churchill M.E.
+     "Structural basis and specificity of acyl-homoserine lactone signal
+     production in bacterial quorum sensing."
+     Mol. Cell 9:685-694(2002).
+     PubMed=11931774
+[ 4] Gould T.A., Schweizer H.P., Churchill M.E.
+     "Structure of the Pseudomonas aeruginosa acyl-homoserinelactone
+     synthase LasI."
+     Mol. Microbiol. 53:1135-1146(2004).
+     PubMed=15306017; DOI=10.1111/j.1365-2958.2004.04211.x
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

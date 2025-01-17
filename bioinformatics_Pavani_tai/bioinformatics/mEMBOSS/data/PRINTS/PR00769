@@ -1,0 +1,32 @@
+DPTHRIATOXIN
+Diphtheria toxin is a 58kDa protein secreted by lysogenic strains of
+Corynebacterium diphtheriae. The toxin causes the disease diphtheria in
+humans by gaining entry into the cell cytoplasm and inhibiting protein
+synthesis [1]. The mechanism of inhibition involves transfer of the ADP-
+ribose group of NAD to elongation factor-2 (EF-2), rendering EF-2 inactive.
+The catalysed reaction is as follows: NAD(+) + peptide diphthamide = 
+nicotinamide + peptide N-(ADP-D-ribosyl)diphthamide.
+
+The crystal structure of the diphtheria toxin homodimer has been determined 
+to 2.5A resolution [2]. The structure reveals a Y-shaped molecule of 3 
+domains: a catalytic domain (fragment A), whose fold is of the alpha + beta 
+type; a transmembrane (TM) domain, which consists of 9 alpha-helices, 2 
+pairs of which may participate in pH-triggered membrane insertion and 
+translocation; and a receptor-binding domain, which forms a flattened beta-
+barrel with a jelly-roll-like topology [2]. The TM- and receptor binding-
+domains together constitute fragment B.
+
+DPTHRIATOXIN is a 10-element fingerprint that provides a signature for
+the diphtheria toxin precursor. The fingerprint was derived from an
+initial alignment of 12 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length, motifs 1-6 residing in fragment
+A and motifs 7-10 in fragment B - motif 1 spans strands 1 and 2; motif 2
+includes helix 4 and strand 3; motif 3 spans strands 4 and 5; motif 4 
+includes helices 8 and 9; motif 5 encodes strands 6 and 7; motif 6 spans
+helices 11 and 12; motif 7 spans helices 19 and 20; motif 8 includs part of
+helix 22, helix 23 and strands 9 and 10; motif 9 encodes helix 24; and
+motif 10 includes part of helix 26. A single iteration on OWL29.4 was
+required to reach convergence, no further sequences being identified
+beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

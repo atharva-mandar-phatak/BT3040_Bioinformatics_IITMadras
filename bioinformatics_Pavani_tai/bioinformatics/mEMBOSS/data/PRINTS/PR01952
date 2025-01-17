@@ -1,0 +1,33 @@
+NISCPROTEIN
+The LanC-like protein superfamily encompasses a highly divergent group of
+peptide-modifying enzymes, including the eukaryotic and bacterial 
+lanthionine synthetase C-like proteins (LanC) [1-3]; subtilin biosynthesis
+protein SpaC from Bacillus subtilis [4,5]; epidermin biosynthesis protein
+EpiC from Staphylococcus epidermidis [6]; nisin biosynthesis protein NisC 
+from Lactoccocus lactis [7-9]; GCR2 from Arabidopsis thaliana [10]; and
+many others.  
+
+The 3D structure of the lantibiotic cyclase from L.lactis has been
+determined by X-ray crystallography to 2.5A resolution [11]. The globular
+structure is characterised by an all-alpha fold, in which an outer ring
+of helices envelops an inner toroid composed of 7 shorter, hydrophobic 
+helices. This 7-fold hydrophobic periodicity has led several authors to 
+claim various members of the family, including eukaryotic LanC-1 and GCR2,
+to be novel G protein-coupled receptors [10,12]; some of these claims have
+since been corrected [2,13,14].
+
+Nisin biosynthesis protein NisC [15-17] is believed to be involved in the 
+cyclisation of the lantibiotic nisin: specifically, nisin contains 5 cyclic
+thioethers, which are installed by the NisC enzyme.
+
+NISCPROTEIN is a 12-element fingerprint that provides a signature for nisin
+biosynthesis protein NisC. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the NisC proteins but distinguish them from closely
+related members of the LanC-like protein superfamily - each of the motifs 
+encompass part of the helical structure of the protein. A single iteration
+on SPTR55_38f was required to reach convergence, no further sequences being
+identified beyond the starting set. A single partial match was also found,
+Q2QBS7_STRUB, a divergent member of the LanC-like superfamily from 
+Streptococcus uberis, which matches motifs 7 and 8.

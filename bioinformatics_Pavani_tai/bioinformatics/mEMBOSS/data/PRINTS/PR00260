@@ -1,0 +1,34 @@
+CHEMTRNSDUCR
+Many biological processes depend on the function of proteins that detect
+changes in a cell's environment and transmit the information to the 
+cytoplasm [1]. In bacteria, such a class of proteins is represented by 
+the methyl-accepting chemotaxis transducers, which play a central role 
+in mediating chemotactic behaviour [1]. 
+
+The transducers detect changes in the extracellular concentration of a
+small number of attractants or repellents (such as serine, maltose, ribose,
+etc.), and signal changes to the flagellar apparatus of the cell [1]. The
+detection of these changes is facilitated by the methylation of the
+transducers at a number of glutamate residues, the level of methylation
+depending on the attractant concentration [1]. The proteins appear to
+possess the following components: an N-terminal signal sequence that acts
+as a transmembrane (TM) domain in the mature protein; a poorly-conserved
+periplasmic receptor region; a second TM domain; and a highly-conserved
+C-terminal cytoplasmic region [2], which contains the glycosylated
+glutamate residues [3].
+
+CHEMTRNSDUCR is a 7-element fingerprint that provides a signature for the
+bacterial chemotaxis transducers. The fingerprint was derived from an
+initial alignment of 6 sequences: motifs 1 and 3 span the 2 TM domains;
+motif 2 corresponds to a conserved region in the periplasmic receptor
+region; and motifs 4-7 span highly conserved areas in the C-terminal
+cytoplasmic domain - motif 4 includes the region encoded by PROSITE
+pattern CHEMOTAXIS_TRANSDUCER (PS00538), in which some of the Glu/Gln
+residues undergo reversible methylation. Two iterations on OWL23.2 were
+required to reach convergence, at which point a true set comprising 8
+sequences was identified. Several partial matches were also found -
+these are chemotaxis inducer fragments, or homologues showing only low
+levels of similarity to the motifs (most match motifs 4-7).
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 78
+partial matches.

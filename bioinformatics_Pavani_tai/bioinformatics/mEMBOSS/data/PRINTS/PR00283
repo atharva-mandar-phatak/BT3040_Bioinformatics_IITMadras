@@ -1,0 +1,17 @@
+MYOTOXIN
+Myotoxins [1,2] are small basic peptides found in rattlesnake venom that 
+cause severe muscle necrosis by a non-enzymatic mechanism. The peptides
+act very rapidly, causing instantaneous paralysis of the limbs to limit
+the flight of prey, and promoting death by paralysis of the diaphragm.
+Myotoxins have a well-conserved structure containing 6 cysteine residues, 
+which are involved in 3 disulphide bridges.
+
+MYOTOXIN is a 3-element fingerprint that provides a signature for the
+myotoxins. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs span the full alignment length and include the
+6 well-conserved Cys residues encoded by PROSITE pattern MYOTOXINS
+(PS00459). Two iterations on OWL23.1 were required to reach convergence,
+at which point a true set comprising 11 sequences was identified. A single
+partial match was also indentified, C39560, a myotoxin fragment.
+
+An update on SPTR37_9f identified a true set of 11 sequences.

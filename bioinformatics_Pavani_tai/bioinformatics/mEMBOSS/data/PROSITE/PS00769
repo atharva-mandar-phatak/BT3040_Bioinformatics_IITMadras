@@ -1,0 +1,49 @@
+****************************
+* Transthyretin signatures *
+****************************
+
+Transthyretin (prealbumin) [1] is a thyroid hormone-binding protein that seems
+to transport thyroxine (T4) from the bloodstream to the brain. It is a protein
+of about  130  amino  acids that  assembles as a homotetramer and  forms    an
+internal channel that binds thyroxine. Transthyretin is mainly synthesized  in
+the brain  choroid  plexus.  In humans, variants of the protein are associated
+with distinct forms of amyloidosis.
+
+The sequence  of transthyretin is highly conserved in vertebrates. A number of
+uncharacterized proteins also belong to this family:
+
+ - Escherichia coli hypothetical protein yedX.
+ - Bacillus subtilis hypothetical protein yunM.
+ - Caenorhabditis elegans hypothetical protein R09H10.3.
+ - Caenorhabditis elegans hypothetical protein ZK697.8.
+
+We selected  two  regions  as  signature patterns. The first located in the N-
+terminal extremity  starts  with a lysine  known to be involved in binding T4.
+The second pattern is located in the C-terminal extremity.
+
+-Consensus pattern: [KH]-[IV]-L-[DN]-x(3)-G-x-P-[AG]-x(2)-[LIVM]-x-[IV]
+                    [The K binds thyroxine]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [YWF]-[TH]-[IVT]-[AP]-x(2)-[LIVM]-[STA]-[PQ]-[FYWG]-[GS]-
+                    [FY]-[QST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Schreiber G., Richardson S.J.
+     "The evolution of gene expression, structure and function of
+     transthyretin."
+     Comp. Biochem. Physiol. 116B:137-160(1997).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,29 @@
+FMOXYGENASE
+Flavin-containing monooxygenases (FMOs) constitute a family of xenobiotic-
+metabolising enzymes [1]. Using an NADPH cofactor and FAD prosthetic group,
+these microsomal proteins catalyse the oxygenation of nucleophilic nitrogen,
+sulphur, phosphorous and selenium atoms in a range of structurally diverse
+compounds. FMOs have been implicated in the metabolism of a number of
+pharmaceuticals, pesticides and toxicants. In man, lack of hepatic FMO-
+catalysed trimethylamine metabolism results in trimethylaminuria (fish 
+odour syndrome).
+
+Five mammalian forms of FMO are now known and have been designated
+FMO1-FMO5 [2-6]: this is a recent nomenclature based on comparison of
+amino acid sequences, and has been introduced in an attempt to eliminate
+confusion inherent in multiple, laboratory-specific designations and
+tissue-based classifications [1]. Following the determination of the
+complete nucleotide sequence of S.cerevisiae [7], a novel gene was found
+to encode a protein with similarity to mammalian monooygenases.
+
+FMOXYGENASE is a 13-element fingerprint that provides a signature for
+flavin-containing monooxygenases. The fingerprint was derived from an
+initial alignment of 17 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal two-thirds of the alignment - motif 1 spans 
+the region presumed to bind FAD (ADP moiety); and motif 11 includes the 
+so-called FATGY motif that has also been observed in a range of siderphore 
+biosynthetic enzymes [8]. Two iterations on SPTR37_9f were required to reach 
+convergence, at which point a true set comprising 20 sequences was 
+identified. Several partial matches were also found, largely unidentified 
+sequences from the C.elegans genome project, and a tryptophan 2-mono-
+oxygenase from Agrobacterium rhizogenes that matches 2 motifs.

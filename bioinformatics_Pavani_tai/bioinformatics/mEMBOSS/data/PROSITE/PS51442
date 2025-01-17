@@ -1,0 +1,68 @@
+****************************************************
+* Coronavirus main protease (M-pro) domain profile *
+****************************************************
+
+Coronaviruses (CoVs)  are positive-stranded RNA viruses that can infect humans
+and multiple species of animals, causing a wide spectrum of diseases [E1]. The
+CoV replicase  gene  encodes  two  overlapping  polyproteins,  termed pp1a and
+pp1ab, which  mediate  viral  replication and transcription. The maturation of
+CoVs involves a highly complex cascade of proteolytic processing events on the
+polyproteins to control viral gene expression and replication. Most maturation
+cleavage events  within  the  precursor  polyprotein  are  mediated by a viral
+cysteine proteinase   which  is  called  the  'main  proteinase'  (M-pro)  or,
+alternatively, the  '3C-like  proteinase'  (3CL-pro).  The ~300-residue mature
+form of  the M-pro is released from pp1a and pp1ab by autoproteolytic cleavage
+and employs  conserved  cysteine  and histidine residues in the catalytic site
+[1,2,3,4]. It belongs to peptidase family C30 [E2].
+
+The CoV  M-pro  comprises three domains (see <PDB:1LVO>). Domains I and II are
+six-stranded antiparallel beta barrels and together ressemble the architecture
+of chymotrypsin  and  of  picornaviruses 3C proteinases. The substrate-binding
+site is  located  in  a cleft between these two domains. The catalytic site is
+situated at  the center of the cleft. A long loop connects domain II to the C-
+terminal domain  (domain  III). This latter domain, a globular cluster of five
+helices, has  been  implicated  in  the  proteolytic activity of M-pro. In the
+active site of M-pro, Cys and His form a catalytic dyad. In contrast to serine
+proteinases and  other  cysteine  proteinases,  which  have a catalytic triad,
+there is no third catalytic residue present [1,2,3,4].
+
+The profile we developed covers the entire M-pro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2009 / First entry.
+
+[ 1] Anand K., Palm G.J., Mesters J.R., Siddell S.G., Ziebuhr J.,
+     Hilgenfeld R.
+     "Structure of coronavirus main proteinase reveals combination of a
+     chymotrypsin fold with an extra alpha-helical domain."
+     EMBO J. 21:3213-3224(2002).
+     PubMed=12093723; DOI=10.1093/emboj/cdf327
+[ 2] Anand K., Ziebuhr J., Wadhwani P., Mesters J.R., Hilgenfeld R.
+     "Coronavirus main proteinase (3CLpro) structure: basis for design of
+     anti-SARS drugs."
+     Science 300:1763-1767(2003).
+     PubMed=12746549; DOI=10.1126/science.1085658
+[ 3] Xue X., Yu H., Yang H., Xue F., Wu Z., Shen W., Li J., Zhou Z.,
+     Ding Y., Zhao Q., Zhang X.C., Liao M., Bartlam M., Rao Z.
+     "Structures of two coronavirus main proteases: implications for
+     substrate binding and antiviral drug design."
+     J. Virol. 82:2515-2527(2008).
+     PubMed=18094151; DOI=10.1128/JVI.02114-07
+[ 4] Zhao Q., Li S., Xue F., Zou Y., Chen C., Bartlam M., Rao Z.
+     "Structure of the main protease from a global infectious human
+     coronavirus, HCoV-HKU1."
+     J. Virol. 82:8647-8655(2008).
+     PubMed=18562531; DOI=10.1128/JVI.00298-08
+[E1] http://www.expasy.org/viralzone/all_by_species/128.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C30
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

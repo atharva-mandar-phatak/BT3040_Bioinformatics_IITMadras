@@ -1,0 +1,28 @@
+SPUMVIRPTASE
+Aspartic proteases have a catalytic aspartate residue at their active site.
+More than 8 families (denoted A1-A9) have been identified, three of which
+(pepsin, retropepsin and cauliflower mosaic virus) have been grouped into 
+a single clan (AA), as they are thought to share a common ancestry. The
+remaining five families have not yet been assigned to clans [1-3].
+
+Foamy virus (spumavirus) proteases belong to the A9 family of aspartic 
+proteases [3]. At the moment, it is not clear whether they share a common 
+evolutionary origin with other aspartic proteases. Foamy viruses are single-  
+stranded enveloped retroviruses that have been noted to infect monkeys, cats
+and humans. In the human virus, the aspartic protease is encoded by the
+retroviral gag gene [4], and in monkeys by the pol gene [5]. At present,
+the virus has not been proven to cause any particular disease. However,
+studies have shown human foamy virus causes neurological disorders in
+infected mice [6]. 
+
+SPUMVIRPTASE is a 7-element fingerprint that provides a signature for the 
+aspartic protease of foamy viruses (spumavirus). The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal portion the gag polyprotein and 
+the N-terminal portion of the pol polyprotein - motif 1 encodes the
+catalytic aspartate residue. Two iterations of OWL30.1 were required to 
+reach convergence, at which point a true set comprising 9 sequences was
+identified. A single partial match was also found, FVPROPOL, a feline foamy 
+virus fragment that matches motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 6 sequences.

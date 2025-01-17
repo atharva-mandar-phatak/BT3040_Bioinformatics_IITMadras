@@ -1,0 +1,54 @@
+DOPTRANSPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane helices and includes 
+carriers for gamma-aminobutyric acid (GABA), noradrenaline/adrenaline, 
+dopamine, serotonin, proline, glycine, choline, betaine and taurine. They
+are structurally distinct from the second more-restricted family of plasma
+membrane transporters, which are responsible for excitatory amino acid
+tranport. The latter couple glutamate and aspartate uptake to the co-
+transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5].
+
+In the mammalian brain, the dopamine system is thought to be involved in 
+the control of locomotion, cognition and endocrine function. The dopamine
+transporter is critical for the removal of dopamine from the extracellular
+space, following its release, and is the principal site of action for
+psycho-stimulant drugs, such as cocaine and amphetamines, which inhibit
+the transporter's activity. A single form of dopamine transporter
+(containing ~620 amino acids) has been isolated from humans and other
+mammals. Studies of its brain distribution show transcripts to be present
+in areas previously established to possess dopaminergic systems, such as
+the substantia nigra and ventral tegmental area, which regions are known
+to contain dopaminergic cell bodies [6]. Targeted gene disruption of the
+dopamine transporter has confirmed its importance in maintaining low
+extracellular dopamine levels. Mice lacking the transporter show profound
+alterations in the homeostasis of the nigrostriatal dopamine system of the
+brain. Extracellular levels of dopamine are elevated and removal of
+released dopamine is ~300 times slower then in control mice. Additionally,
+the rather stereotyped behavioural responses observed in response to
+administration of cocaine or amphetamine are greatly attenuated [7].
+
+DOPTRANSPORT is a 4-element fingerprint that provides a signature for the
+dopamine neurotransmitter transporter. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regsions spanning virtually the full alignment length, focusing on those
+sections that characterise the dopamine transporter but distinguish it from
+others - motifs 1-3 reside within the putative cytoplasmic N-terminus; and 
+motif 4 lies within the putative extracellular loop between TM domains 11
+and 12. A single iteration on SPTR37_9f was required to reach convergence,
+no further sequences being identified beyond the starting set.

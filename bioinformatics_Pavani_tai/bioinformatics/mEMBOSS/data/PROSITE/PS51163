@@ -1,0 +1,61 @@
+****************************
+* YrdC-like domain profile *
+****************************
+
+The yrdC-like  domain  is  an ~185-residue module which can be found in stand-
+alone form,  or in association with other domains such as the acylphosphatase-
+like domain  (see  <PDOC00136>), the sua5-like domain, the hypF-like domain or
+the hypF-type zinc finger [1,2].
+
+The yrdC-like  domain  folds  into  an alpha/beta twisted open-sheet structure
+with parallel  and  antiparallel  orientations  of  adjacent beta-strands (see
+<PDB:1HRU>). The  structure  comprises  seven  alpha-helices  and  seven beta-
+strands with  an  unusual  order  and topology of beta-strands and very strong
+twisting between  them.  The yrdC-like domain features a large concave surface
+on one side that exhibits a positive electrostatic potential. The dimension of
+this depression,  its curvature, and the fact that conserved basic amino acids
+are located  at its floor suggest that it may be a nucleic acid binding domain
+[1].
+
+Some proteins known to contain a yrdC-like domain are listed below:
+
+ - Yeast protein SUA5. It has been identified as a suppressor of a translation
+   initiation defect in cytochrome c and is required for normal growth.
+ - Escherichia  coli  hypothetical  protein yciO and HI1198, the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia  coli  hypothetical  protein yrdC and HI0656, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein ywlC.
+ - Mycobacterium leprae hypothetical protein in rfe-hemK intergenic region.
+ - Methanococcus jannaschii hypothetical protein MJ0062.
+
+These are proteins of from 20 to 46 Kd.
+
+The profile we developed covers the entire yrdC-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2005 / Text revised; pattern removed and profile added.
+
+[ 1] Teplova M., Tereshko V., Sanishvili R., Joachimiak A., Bushueva T.,
+     Anderson W.F., Egli M.
+     "The structure of the yrdC gene product from Escherichia coli reveals
+     a new fold and suggests a role in RNA binding."
+     Protein Sci. 9:2557-2566(2000).
+     PubMed=11206077
+[ 2] Chen J., Ji C., Gu S., Zhao E., Dai J., Huang L., Qian J., Ying K.,
+     Xie Y., Mao Y.
+     "Isolation and identification of a novel cDNA that encodes human yrdC
+     protein."
+     J. Hum. Genet. 48:164-169(2003).
+     PubMed=12730717; DOI=10.1007/s10038-002-0001-3
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

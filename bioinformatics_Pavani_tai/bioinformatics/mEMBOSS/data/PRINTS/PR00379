@@ -1,0 +1,33 @@
+INTEIN
+Inteins, or protein introns, are parts of protein sequences that are
+post-translationally excised, their flanking regions (exteins) being
+spliced together to yield an additional protein product [1,2]. This
+process is believed to be self-catalysed, apparently initiating at
+the C-terminal splice junction, where a conserved asparagine residue
+mediates the nucleophilic attack of the peptide bond between it and its
+neighbouring residue.
+
+Inteins are difficult to identify from sequence data because they lie in
+the same reading frame as the spliced protein and they are characterised
+by only a few short conserved motifs [1]: two of these are similar to
+the nonapeptide LAGLIDADG, which is diagnostic of certain homing
+endonucleases (mutation of one such motif causes loss of endonucleic
+activity, but not of the protein splicing function); another includes the
+C' splice site, mutations in which disable protein function.
+
+INTEIN is a 6-element fingerprint that provides a signature for inteins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from short conserved regions within the central portion
+of the alignment (after Pietrokovski [1]) - motifs 2 and 3 include the nona-
+peptide characteristic of endonucleic acitivity; motif 6 includes the C'
+splice site containing the nucleophilic asparagine, and corresponds to
+the region encoded by PROSITE pattern PROTEIN_SPLICING (PS00881). Two
+iterations on OWL26.0 were required to reach convergence, at which point a
+true set comprising 8 sequences was identified. A single partial match was
+also found, the yeast HO endonuclease, which fails to make significant
+matches with motifs 4 and 6 (note, although the fingerprint makes only a
+single identification of entries DPOL_THELI and PYWKODPOL, each in fact
+contains 2 independent protein sequences).
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 18
+partial matches.

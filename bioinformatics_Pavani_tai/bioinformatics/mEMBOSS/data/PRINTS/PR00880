@@ -1,0 +1,39 @@
+ACHEINSECT
+Acetylcholine is involved in the transfer of messages across a variety of
+synapses in vertebrates and invertebrates. The diverse physiological effects
+attributable to this molecule arise from the presence of specific receptors
+in the postsynaptic cell membranes. Several classes of receptor are known, 
+most of which translate the binding of acetylcholine into the opening of 
+channels for the passage of ions, such as sodium and potassium.
+
+Acetylcholinesterase is an enzyme that catalyses the hydrolysis of 
+acetylcholine to choline and acetate:
+
+     Acetylcholine + H(2)O -> Choline + Acetate 	     
+
+The enzyme also acts on a variety of acetic esters and catalyses trans-
+acetylations. It is found in, or attached to, cellular or basement membranes
+of presynaptic cholinergic neurons and postsynaptic cholinoceptive cells.
+To prevent continuous firing of nerve impulses, acetylcholinesterase has a
+high K(cat) (~14000/s), to ensure that acetylcholine is broken down quickly.
+
+Cholinesterases constitute a family of enzymes that fall into two main
+types, depending on their substrate specificity: enzymes that preferentially
+hydrolyse acetyl esters are termed acetylcholinesterase (AChE) (EC 3.1.1.7); 
+those that prefer other types of ester, such as butyrylcholine are termed 
+butyrylcholinesterase (BChE) (EC 3.1.1.8). 
+
+Due to the importance of this enzyme, it is often targeted by insecticides,
+and is especially relevant in efforts to eradicate mosquitos from certain
+areas of the world [4,5].
+
+ACHEINSECT is a 9-element fingerprint that provides a signature for insect
+acetylcholinesterases. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from short conserved sections spanning
+the N-terminal portion of the alignment. Two iterations on OWL30.2 were 
+required to reach convergence, at which point a true set comprising 5
+sequences was identified. Several partial matches were also found, all of
+which are Drosophila AChE fragments.
+
+An update on SPTR37_9f identified a true set of 4 sequences, and 1
+partial match.

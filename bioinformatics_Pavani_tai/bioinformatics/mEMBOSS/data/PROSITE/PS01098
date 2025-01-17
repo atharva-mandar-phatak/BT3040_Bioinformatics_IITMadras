@@ -1,0 +1,54 @@
+**********************************************************
+* Lipolytic enzymes "G-D-S-L" family, serine active site *
+**********************************************************
+
+Recently [1],  a  family  of  lipolytic  enzymes  has been characterized. This
+family currently consist of the following proteins:
+
+ - Aeromonas hydrophila lipase/phosphatidylcholine-sterol acyltransferase.
+ - Xenorhabdus luminescens lipase 1.
+ - Vibrio mimicus arylesterase.
+ - Escherichia coli acyl-coA thioesterase I (gene tesA).
+ - Vibrio parahaemolyticus thermolabile hemolysin/atypical phospholipase.
+ - Rabbit  phospholipase  AdRab-B,  an  intestinal  brush  border protein with
+   esterase and  phospholipase  A/lysophospholipase  activity  that  could  be
+   involved in the uptake of dietary lipids.  AdRab-B contains four repeats of
+   about 320 amino acids.
+ - Arabidopsis thaliana and Brassic napus anther-specific proline-rich protein
+   APG.
+ - A Pseudomonas putida hypothetical protein in trpE-trpG intergenic region.
+
+A serine  has  been  identified  a  part  of the active site in the Aeromonas,
+Vibrio mimicus  and  Escherichia  coli  enzymes.  It is located in a conserved
+sequence motif that can be used as a signature pattern for these proteins.
+
+-Consensus pattern: [LIVMFYAG](4)-G-D-S-[LIVM]-x(1,2)-[TAG]-G
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern will pick up two of the four repeats in AdRab-B, the first
+ one is  not  detected  as  its  sequence  has  diverged  in the region of the
+ putative active site residue. The last one is also not detected because it is
+ slightly divergent at the end of the pattern.
+
+-Expert(s) to contact by email:
+           Upton C.; upton@sol.uvic.ca
+           Buckley J.T.; tbuckley@sol.uvic.ca
+
+-Last update: November 1995 / First entry.
+
+[ 1] Upton C., Buckley J.T.
+     "A new family of lipolytic enzymes?"
+     Trends Biochem. Sci. 20:178-179(1995).
+     PubMed=7610479
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

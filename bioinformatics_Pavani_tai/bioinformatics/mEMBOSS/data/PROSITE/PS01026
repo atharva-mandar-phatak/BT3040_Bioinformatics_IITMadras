@@ -1,0 +1,42 @@
+**************************************************
+* Photosystem I psaG and psaK proteins signature *
+**************************************************
+
+Photosystem I  (PSI)  [1]  is  an integral membrane protein complex  that uses
+light energy to mediate electron transfer from plastocyanin to ferredoxin.  It
+is found  in  the chloroplasts of plants and cyanobacteria. PSI is composed of
+at least  14  different  subunits,  two of which - PSI-G (gene psaG) and PSI-K
+(gene psaK)  -  are  small  hydrophobic  proteins  of  about  7  to  9  Kd and
+evolutionary related  [2].  Both  seem  to  contain two transmembrane regions.
+Cyanobacteria seem to encode only for PSI-K.
+
+As a signature  pattern, we selected the best  conserved region which seems to
+correspond to the second transmembrane region.
+
+-Consensus pattern: [GTND]-[FPMI]-x-[LIVMH]-x-[DEAT]-x(2)-[GA]-x-[GTAM]-[STA]-
+                    x-G-H-x-[LIVM]-[GAS]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Cyanidium caldarium psaK.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Golbeck J.H.
+     "Structure, function and organization of the Photosystem I reaction
+     center complex."
+     Biochim. Biophys. Acta 895:167-204(1987).
+     PubMed=3333014
+[ 2] Kjaerulff S., Andersen B., Nielsen V.S., Moller B.L., Okkels J.S.
+     "The PSI-K subunit of photosystem I from barley (Hordeum vulgare L.).
+     Evidence for a gene duplication of an ancestral PSI-G/K gene."
+     J. Biol. Chem. 268:18912-18916(1993).
+     PubMed=8360180
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

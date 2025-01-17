@@ -1,0 +1,104 @@
+***********************************************
+* Heat shock hsp70 proteins family signatures *
+***********************************************
+
+Prokaryotic   and  eukaryotic  organisms   respond  to  heat  shock  or  other
+environmental  stress  by  the  induction   of   the  synthesis   of  proteins
+collectively known as heat-shock proteins (hsp) [1].  Amongst them is a family
+of proteins  with  an  average   molecular weight of 70 Kd, known as the hsp70
+proteins [2,3,4].  In most species, there are many proteins that belong to the
+hsp70 family.  Some  of them are  expressed under unstressed conditions. Hsp70
+proteins can  be found in different cellular compartments (nuclear, cytosolic,
+mitochondrial, endoplasmic reticulum, etc.). Some of the hsp70 family proteins
+are listed below:
+
+ - In Escherichia coli and other bacteria, the main hsp70  protein is known as
+   the dnaK  protein.  A  second  protein, hscA, has been recently discovered.
+   dnaK is also found in the chloroplast genome of red algae.
+ - In yeast, at least ten hsp70 proteins  are  known  to exist:  SSA1 to SSA4,
+   SSB1, SSB2, SSC1, SSD1 (KAR2), SSE1 (MSI3) and SSE2.
+ - In Drosophila, there are  at least eight  different  hsp70 proteins: HSP70,
+   HSP68, and HSC-1 to HSC-6.
+ - In  mammals,  there  are at least eight different proteins: HSPA1 to HSPA6,
+   HSC70, and  GRP78  (also  known  as  the immunoglobulin heavy chain binding
+   protein (BiP)).
+ - In the sugar beet yellow virus (SBYV),  a hsp70  homolog has been shown [5]
+   to exist.
+ - In archaebacteria, hsp70 proteins are also present [6].
+
+All proteins belonging to the hsp70 family bind ATP.   A variety  of functions
+has  been postulated for  hsp70 proteins.  It now appears  [7] that some hsp70
+proteins play an important role in the transport of proteins across membranes.
+They also  seem    to  be    involved in protein  folding and in the assembly/
+disassembly of protein complexes [8].
+
+We have derived three signature patterns for the hsp70 family of proteins; the
+first centered on a conserved  pentapeptide found in the N-terminal section of
+these proteins;  the  two  others  on conserved regions located in the central
+part of the sequence.
+
+-Consensus pattern: [IV]-D-L-G-T-[ST]-x-[SC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 16 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMF]-[LIVMFY]-[DN]-[LIVMFS]-G-[GSH]-[GS]-[AST]-x(3)-
+                    [ST]-[LIVM]-[LIVMFC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 7 sequences.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [LIVMY]-x-[LIVMF]-x-G-G-x-[ST]-{LS}-[LIVM]-P-x-[LIVM]-x-
+                    [DEQKRSTA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 4 sequences.
+-Other sequence(s) detected in Swiss-Prot: 6.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Lindquist S., Craig E.A.
+     "The heat-shock proteins."
+     Annu. Rev. Genet. 22:631-677(1988).
+     PubMed=2853609; DOI=10.1146/annurev.ge.22.120188.003215
+[ 2] Pelham H.R.B.
+     "Speculations on the functions of the major heat shock and
+     glucose-regulated proteins."
+     Cell 46:959-961(1986).
+     PubMed=2944601
+[ 3] Pelham H.
+     "Heat-shock proteins. Coming in from the cold."
+     Nature 332:776-777(1988).
+     PubMed=3282176; DOI=10.1038/332776a0
+[ 4] Craig E.A.
+     "Essential roles of 70kDa heat inducible proteins."
+     BioEssays 11:48-52(1989).
+     PubMed=2686623
+[ 5] Agranovsky A.A., Boyko V.P., Karasev A.V., Koonin E.V., Dolja V.V.
+     "Putative 65 kDa protein of beet yellows closterovirus is a homologue
+     of HSP70 heat shock proteins."
+     J. Mol. Biol. 217:603-610(1991).
+     PubMed=2005613
+[ 6] Gupta R.S., Singh B.
+     "Cloning of the HSP70 gene from Halobacterium marismortui: relatedness
+     of archaebacterial HSP70 to its eubacterial homologs and a model for
+     the evolution of the HSP70 gene."
+     J. Bacteriol. 174:4594-4605(1992).
+     PubMed=1624448
+[ 7] Deshaies R.J., Koch B.D., Schekman R.
+     "The role of stress proteins in membrane biogenesis."
+     Trends Biochem. Sci. 13:384-388(1988).
+     PubMed=3072700
+[ 8] Craig E.A., Gross C.A.
+     "Is hsp70 the cellular thermometer?"
+     Trends Biochem. Sci. 16:135-140(1991).
+     PubMed=1877088
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

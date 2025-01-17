@@ -1,0 +1,31 @@
+TECBTKDOMAIN
+Kinases are generally multi-domain, multi-functional proteins. Protein
+tyrosine kinases (PTKs), serine/threonine kinases, and other signal
+transduction proteins, possess a region of unknown function related to
+pleckstrin, designated the PH domain. A point mutation affecting a
+conserved Arg in the PH domain of the cytoplasmic PTK Btk causes the human
+disease X-linked agammaglobulinemia and X-linked immunodeficiency in mice.
+
+Btk forms a family with 2 other PTKs, Isk/Tsk and Tec, in which the PH
+domain is followed by an SH3 domain. The conserved sequence between the
+2 regions has tentatively been designated the TH (Tec homology) domain.
+The N-terminal 27 residues of the TH domain are highly conserved (the
+Btk motif), and are followed by a proline-rich (PRR) region: the Btk motif
+contains a conserved His and 3 Cys residues that are involved in zinc
+fingers (although these differ from known zinc finger topologies), while
+PRRs are commonly involved in protein-protein interactions. The Tec
+extension to the PH domain may be of functional importance in various
+signalling pathways in different species [1]. A complete TH domain,
+containing both the Btk and PRR regions, has not been found outside the
+Btk family, and may be a hallmark of these cytoplasmic PTKs.
+
+TECBTKDOMAIN is a 3-element fingerprint that provides a signature for the
+Tec Btk motif. The fingerprint was derived from an initial alignment of 7
+sequences: the motifs completely span the conserved Btk region - motifs 2
+and 3 contain the His and Cys residues that participate in zinc fingers.
+Two iterations on OWL26.3 were required to reach convergence, at which
+point a true set comprising 18 sequences was identified. A single partial
+match was also found, HSINSP4BP, an Ins P4-binding protein that fails to
+make a significant match with motif 3. 
+
+An update on SPTR37_9f identified a true set of 19 sequences.

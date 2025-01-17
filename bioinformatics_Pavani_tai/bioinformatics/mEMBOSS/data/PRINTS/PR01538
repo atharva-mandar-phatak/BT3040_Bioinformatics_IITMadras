@@ -1,0 +1,39 @@
+INTRLEUKN1R1
+Interleukin-1 alpha and interleukin-1 beta (IL-1 alpha and IL-1 beta) are 
+cytokines that participate in the regulation of immune responses, 
+inflammatory reactions, and hematopoiesis [1]. Two types of IL-1 receptor, 
+each with three extracellular immunoglobulin (Ig)-like domains, limited
+sequence similarity (28%) and different pharmacological characteristics
+have been cloned from mouse and human cell lines: these have been termed 
+type I and type II receptors [2]. The receptors both exist in transmembrane
+(TM) and soluble forms: the soluble IL-1 receptor is thought to be post-
+translationally derived from cleavage of the extracellular portion of the
+membrane receptors [2].
+
+Both IL-1 receptors appear to be well conserved in evolution, and map to the
+same chromosomal location [3]. The receptors can both bind all three forms 
+of IL-1 (IL-1 alpha, IL-1 beta and IL-1RA) [3].
+
+The crystal structure of the soluble extracellular part of type-I IL1R
+complexed with IL1RA has been determined to 2.7A resolution [4]. The
+receptor structure is characterised by three Ig-like domains, of which
+domains 1 and 2 are tightly linked, while domain 3 is completely separate
+and connected by a flexible linker [4].  
+
+INTRLEUKN1R1 is a 12-element fingerprint that provides a signature for the
+interleukin-1 receptor type I precursor. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from short
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise the interleukin-1 receptor type I precursor
+but distinguish it from other members of the interleukin-1 receptor family - 
+motifs 1 and 2 lie N-terminal to Ig-like C2-type domain 1; motifs 5 and 6
+span Ig-like C2-type domain 2; motifs 8 and 9 reside within Ig-like C2-type
+domain 3; motif 10 spans the N-terminal portion of the putative TM domain;
+and motifs 11 and 12 reside within the cytoplasmic domain. Two iterations on
+SPTR39_15f were required to reach convergence, at which point a true set 
+comprising 4 sequences was identified. Several partial matches were also 
+found: Q62692 is the soluble IL-1 receptor type I from rat, which matches 
+only the N-terminal 7 motifs; Q90874 is the IL-1 receptor i precursor from
+chicken, which matches motifs 3, 9 and 10; and Q13525 and Q62929 are 
+interleukin-1 receptor-related proteins from human and rat respectively,
+which match motifs 3 and 10.

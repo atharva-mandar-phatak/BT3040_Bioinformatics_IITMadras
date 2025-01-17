@@ -1,0 +1,137 @@
+*********************************************
+* Pre-SET, post-SET and SET domain profiles *
+*********************************************
+
+The SET  domain  is  an  130-  to  140-amino acid, evolutionary well conserved
+sequence motif  that  was  initially  characterized in the Drosophila proteins
+Su(var)3-9, Enhancer-of-zeste  and Trithorax. In addition to these chromosomal
+proteins modulating gene activities and/or chromatin structure, the SET domain
+is found  in  proteins of diverse functions ranging from yeast to mammals, but
+also including some bacteria and viruses [1,2].
+
+The  SET  domains  of mammalian SUV39H1 and 2 and fission yeast clr4 have been
+shown  to  be  necessary  for  the  methylation  of lysine-9 in the histone H3
+N-terminus  [2].  However, this histone methyltransferase (HMTase) activity is
+probably  restricted  to  a  subset  of SET domain proteins as it requires the
+combination  of  the  SET  domain with the adjacent cysteine-rich regions, one
+located  N-terminally  (pre-SET)  and  the  other  posterior to the SET domain
+(post-SET).  Post-  and pre- SET regions seem then to play a crucial role when
+it comes to substrate recognition and enzymatic activity [7,8].
+
+Structure  of the SET domain and the two adjacent regions pre-SET and post-SET
+have  been solved (see <PDB:1ML9>) [3,4,5]. The SET structure is all beta, but
+consists  only in sets of few short strands composing no more than a couple of
+small  sheets.  Consequently  the SET structure is mostly defined by turns and
+loops.  An unusual feature is that the SET core is made up of two discontinual
+segments  of the primary sequence forming an approximate L shape. [6,7,8]. Two
+of  the  most  conserved  motifs  in  the  SET domain are constituted by (1) a
+stretch at the C-terminal containing a strictly conserved tyrosine residue and
+(2)  a  preceding  loop  inside  which the C-terminal segment passes forming a
+knot-like  structure,  but  not quite a true knot. These two regions have been
+proven  to  be  essential  for  SAM  binding  and  catalysis, particularly the
+invariant tyrosine where in all likelihood catalysis takes place [7,8].
+
+The  pre-SET  domain  forms  a  triangular  zinc  cluster where nine cysteines
+coordinate  three  zinc  atoms.  Each  zinc  ion  is coordinated by two unique
+cysteines  and  the  remaining  three  cysteines  are shared by two zinc atoms
+serving  as  a bridge to complete the tetrahedral coordination of the metal. A
+similar metal cluster is found in methallothioneins.
+
+The PR domain, first noted as the PRDI-BF1-RIZ1 homologous region, is found in
+a sub-class  of  zinc  finger  containing  proteins that appear to function as
+negative regulators  of  tumorigenesis. Its significant sequence identity with
+the SET  domain  has  led to suggest that the PR domain is a derivative of SET
+domain [6].
+
+Some proteins currently known to include a SET or PR domain are listed below:
+
+ - Arabidopsis  thaliana  CURLY  LEAF  (CLF)  protein. It is homologous to the
+   Drosophila E(z)  protein and is necessary for stable repression of a floral
+   homeotic gene.
+ - Drosophila    Enhancer-of-zeste (E(z)), which belongs to the polycomb group
+   of genes  needed  to  maintain  the segment specific repression of homeotic
+   genes.
+ - Drosophila  Suppressor  of  variegation  3-9  (Su(var)3-9), heterochromatic
+   protein implied in position effect variegation.
+ - Drosophila Trithorax (trx). Founding member of the trithorax group of genes
+   needed to maintain the segment specific activation of homeotic genes.
+ - Fission   yeast cryptic loci regulator 4 (clr4), the homolog of  Drosophila
+   Su(var)3-9. It  is  essential  for silencing of centromeres and the mating-
+   type loci.
+ - Mammalian  Hrx  protein.  In human, this homologue of Trx implicated in the
+   onset of translocation-induced leukaemia.
+ - Mammalian PRDI-BF1/Blimp-1, a PR domain containing protein, which acts as a
+   transcriptional repressor of the c-myc oncogene.
+ - Mammalian  retinoblastoma-interacting  zinc-finger  protein  1 (RIZ1). RIZ1
+   contains a N-terminal PR domain.
+ - Mammalian  SUV39H1  and  SUV39H2.  Homologs  of  Drosophila  Su(var)3-9 and
+   fission yeast clr4.
+ - Some  plant methyltransferase. They contain an insertion of about 100 amino
+   acids in  the  middle  of  the SET domain and do not comprise a SET-domain-
+   associated cysteine-rich  region  or  the  C-terminal  tail  with its three
+   cysteines.
+ - Yeast SET1. Important for mating-type switching and telomeric silencing.
+
+We  have  developed a profile that detects both the SET domain and the closely
+related  PR domain. We also developed two other profiles, one specific for the
+pre-SET  domain and the other for the post-SET domain. Each profile covers the
+whole domain for which it was developed.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2002 / Text revised.
+
+[ 1] Jenuwein T., Laible G., Dorn R., Reuter G.
+     "SET domain proteins modulate chromatin domains in eu- and
+     heterochromatin."
+     Cell. Mol. Life Sci. 54:80-93(1998).
+     PubMed=9487389
+[ 2] Rea S., Eisenhaber F., O'Carroll D., Strahl B.D., Sun Z.W., Schmid M.,
+     Opravil S., Mechtler K., Ponting C.P., Allis C.D., Jenuwein T.
+     "Regulation of chromatin structure by site-specific histone H3
+     methyltransferases."
+     Nature 406:593-599(2000).
+     PubMed=10949293; DOI=10.1038/35020506
+[ 3] Zhang X., Tamaru H., Khan S.I., Horton J.R., Keefe L.J., Selker E.U.,
+     Cheng X.
+     "Structure of the Neurospora SET domain protein DIM-5, a histone H3
+     lysine methyltransferase."
+     Cell 111:117-127(2002).
+     PubMed=12372305
+[ 4] Wilson J.R., Jing C., Walker P.A., Martin S.R., Howell S.A.,
+     Blackburn G.M., Gamblin S.J., Xiao B.
+     "Crystal structure and functional analysis of the histone
+     methyltransferase SET7/9."
+     Cell 111:105-115(2002).
+     PubMed=12372304
+[ 5] Trievel R.C., Beach B.M., Dirk L.M., Houtz R.L., Hurley J.H.
+     "Structure and catalytic mechanism of a SET domain protein
+     methyltransferase."
+     Cell 111:91-103(2002).
+     PubMed=12372303
+[ 6] Huang S., Shao G., Liu L.
+     "The PR domain of the Rb-binding zinc finger protein RIZ1 is a protein
+     binding interface and is related to the SET domain functioning in
+     chromatin-mediated gene expression."
+     J. Biol. Chem. 273:15933-15939(1998).
+     PubMed=9632640
+[ 7] Schubert H.L., Blumenthal R.M., Cheng X.
+     "Many paths to methyltransfer: a chronicle of convergence."
+     Trends. Biochem. Sci. 28:329-335(2003).
+     PubMed=12826405
+[ 8] Yeates T.O.
+     "Structures of SET domain proteins: protein lysine methyltransferases
+     make their mark."
+     Cell 111:5-7(2002).
+     PubMed=12372294
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

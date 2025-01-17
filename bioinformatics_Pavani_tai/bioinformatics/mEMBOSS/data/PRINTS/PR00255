@@ -1,0 +1,23 @@
+NATPEPTIDER
+Natriuretic peptides are hormones involved in the regulation of fluid and
+electrolyte homeostasis; they stimulate intracellular production of the
+second messenger cyclic GMP. Three peptide receptors are known, two of
+which express quanylate cyclase activity, while the third is probably
+responsible for the clearance of atrial natriuretic peptide from the
+circulation and does not play a role in signal transduction [1,2]. The
+receptors are plasma membrane-bound, and share the following topology:
+an N-terminal extracellular domain, which is involved in ligand binding,
+a transmembrane domain, and a cytoplasmic domain.
+
+NATPEPTIDER is a 5-element fingerprint that provides a signature for
+natriuretic peptide receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 1 including the area
+encoded by PROSITE pattern ANF_RECEPTORS (PS00458), which corresponds to
+the ligand-binding region. Two iterations on OWL24.0 were required to 
+reach convergence, at which point a true set comprising 11 sequences was
+identified. A single partial match was also found, which fails to make a
+significant match with motif 1.
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 2
+partial matches.

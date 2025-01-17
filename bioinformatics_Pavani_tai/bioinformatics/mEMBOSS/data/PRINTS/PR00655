@@ -1,0 +1,22 @@
+AUXINBINDNGP
+Auxin binding protein is located in the lumen of the endoplasmic reticulum
+(ER). The primary structure contains an N-terminal hydrophobic leader
+sequence of 30-40 amino acids, which could represent a signal for
+translocation of the protein to the ER [1,2]. The mature protein comprises
+around 165 residues, and contains a number of potential N-glycosylation
+sites. In vitro transport studies have demonstrated co-translational
+glycosylation [1]. Retention within the lumen of the ER correlates with
+an additional signal located at the C terminus, represented by the
+sequence Lys-Asp-Glu-Leu, known to be responsible for preventing secretion
+of proteins from the lumen of the ER in eucaryotic cells [1,2].
+
+AUXINBINDNGP is a 7-element fingerprint that provides a signature for 
+auxin binding proteins. The fingerprint was derived from an initial 
+alignment of 9 sequences: the motifs were drawn from conserved regions
+spanning the full length of the mature protein. A single iteration on
+OWL29.2 was required to reach convergence, no further sequences being
+identified beyond the starting set. A single partial match was found,
+ABP5_MAIZE, a maize auxin binding protein fragment that lacks the 
+portion of sequence bearing the final 2 motifs.
+
+An update on SPTR37_9f identified a true set of 11 sequences.

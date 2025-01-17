@@ -1,0 +1,51 @@
+********************************************
+* Natriuretic peptides receptors signature *
+********************************************
+
+Natriuretic peptides  are  hormones  involved  in  the regulation of fluid and
+electrolyte homeostasis. These hormones stimulate the intracellular production
+of cyclic GMP as a second messenger.
+
+Currently, three types of natriuretic peptide receptors are known [1,2].   Two
+express guanylate  cyclase activity: GC-A (or ANP-A)  which  seems specific to
+atrial  natriuretic  peptide  (ANP), and  GC-B (or ANP-B) which  seems  to  be
+stimulated  more  effectively  by brain natriuretic peptide (BNP) than by ANP.
+The third receptor (ANP-C) is  probably  responsible  for the clearance of ANP
+from the circulation and does not play a role in signal transduction.
+
+GC-A and GC-B are  plasma  membrane-bound  proteins  that  share the following
+topology: an N-terminal extracellular domain  which acts as the ligand binding
+region, then  a  transmembrane  domain  followed  by  a  large  cytoplasmic C-
+terminal region that can be subdivided into two domains: a protein kinase-like
+domain (see <PDOC00100>) that  appears important  for  proper signalling and a
+guanylate cyclase catalytic domain (see <PDOC00425>). The topology of ANP-C is
+different: like  GC-A  and  -B  it  possesses  an extracellular ligand-binding
+region and a transmembrane domain, but its cytoplasmic domain is very short.
+
+We developed  a pattern from the ligand-binding  region of natriuretic peptide
+receptors based on a highly conserved region located in the N-terminal part of
+the domain.
+
+-Consensus pattern: G-P-x-C-x-Y-x-A-A-x-V-x-R-x(3)-H-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 1991 / First entry.
+
+[ 1] Garbers D.L.
+     "The guanylyl cyclase receptor family."
+     New Biol. 2:499-504(1990).
+     PubMed=1982420
+[ 2] Schulz S., Chinkers M., Garbers D.L.
+     "The guanylate cyclase/receptor family of proteins."
+     FASEB J. 3:2026-2035(1989).
+     PubMed=2568301
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

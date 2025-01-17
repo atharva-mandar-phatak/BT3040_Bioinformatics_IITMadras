@@ -1,0 +1,17 @@
+HTHCRP
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+anr, crp, clp, cysR, fixK, flp, fnr, fnrN, hlyX and ntcA [1-3]. Within this
+family, the HTH motif is situated towards the C-terminus.
+
+HTHCRP is a 2-element fingerprint that provides a signature for the HTH
+motif of the crp bacterial regulatory proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs completely encompass
+the HTH motif, extending a few residues beyond its N- and C-termini (cf.
+PROSITE pattern HTH_CRP_FAMILY (PS00042)). Four iterations on OWL21.1 were
+required to reach convergence, at which point a true set comprising 27
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 48 sequences.

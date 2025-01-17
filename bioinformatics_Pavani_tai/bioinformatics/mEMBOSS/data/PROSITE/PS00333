@@ -1,0 +1,62 @@
+***************************************************
+* ATP-dependent DNA ligase signatures and profile *
+***************************************************
+
+DNA ligase (polydeoxyribonucleotide synthase) is the enzyme that joins two DNA
+fragments by catalyzing the formation of an internucleotide ester bond between
+phosphate and deoxyribose. It is active during DNA replication, DNA repair and
+DNA recombination.  There  are  two  forms  of  DNA  ligase:  one requires ATP
+(EC 6.5.1.1), the other NAD (EC 6.5.1.2).
+
+Eukaryotic, archaebacterial,  virus  and  phage DNA ligases are ATP-dependent.
+During the  first  step of the joining reaction, the ligase interacts with ATP
+to form  a  covalent enzyme-adenylate intermediate. A conserved lysine residue
+is the site of adenylation [1,2].
+
+Apart from the active  site  region,  the  only conserved region common to all
+ATP-dependent DNA ligases is found [3] in the C-terminal section and  contains
+a conserved glutamate as well as four positions with conserved basic residues.
+
+We developed signature patterns for both conserved regions.
+
+-Consensus pattern: [EDQH]-{K}-K-{VEDI}-[DN]-G-{GLYN}-R-[GACIVM]
+                    [K is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 33.
+
+-Consensus pattern: E-G-[LIVMA]-[LIVM]-[LIVMA]-[KR]-x(5,8)-[YW]-[QNEKTI]-
+                    x(2,6)-[KRH]-x(3,5)-K-[LIVMFY]-K
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for archebacterial DNA ligases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Tomkinson A.E., Totty N.F., Ginsburg M., Lindahl T.
+     "Location of the active site for enzyme-adenylate formation in DNA
+     ligases."
+     Proc. Natl. Acad. Sci. U.S.A. 88:400-404(1991).
+     PubMed=1988940
+[ 2] Lindahl T., Barnes D.E.
+     "Mammalian DNA ligases."
+     Annu. Rev. Biochem. 61:251-281(1992).
+     PubMed=1497311; DOI=10.1146/annurev.bi.61.070192.001343
+[ 3] Kletzin A.
+     "Molecular characterisation of a DNA ligase gene of the extremely
+     thermophilic archaeon Desulfurolobus ambivalens shows close
+     phylogenetic relationship to eukaryotic ligases."
+     Nucleic Acids Res. 20:5389-5396(1992).
+     PubMed=1437556
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,41 @@
+***************************
+* Synaptobrevin signature *
+***************************
+
+Synaptobrevin [1] is an intrinsic membrane  protein of small synaptic vesicles
+whose function is  not  yet known, but  which is highly  conserved in mammals,
+electric ray  (where  its  is  known as VAMP-1),  Drosophila and yeast [2]. In
+yeast there  are  two  closely  related forms of synaptobrevin (genes SNC1 and
+SNC2) while in mammals there is at least 4 (genes SYB1, SYB2, SYB3 and SYBL1).
+
+Structurally synaptobrevin  consist of a N-terminal cytoplasmic domain of from
+90 to 110 residues,  followed  by  a transmembrane region, and then by a short
+(from 2 to 22 residues) C-terminal intravesicular domain.
+
+As a  signature  pattern  for  synaptobrevin  we  selected  a highly conserved
+stretch of residues located in the central part of the sequence.
+
+-Consensus pattern: [NT]-[LIVMF]-[DENSTG]-[KLNRGS]-[VAI]-x-[DEQA]-R-x(2)-
+                    [KRN]-[LIVM]-[STDEA]-x-[LIVM]-x-[DEQGN]-[KR]-[TAS]-[DEAS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Suedhof T.C., Baumert M., Perin M.S., Jahn R.
+     Neuron 2:1475-1481(1989).
+[ 2] Gerst J.E., Rodgers L., Riggs M., Wigler M.
+     "SNC1, a yeast homolog of the synaptic vesicle-associated membrane
+     protein/synaptobrevin gene family: genetic interactions with the RAS
+     and CAP genes."
+     Proc. Natl. Acad. Sci. U.S.A. 89:4338-4342(1992).
+     PubMed=1316605
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

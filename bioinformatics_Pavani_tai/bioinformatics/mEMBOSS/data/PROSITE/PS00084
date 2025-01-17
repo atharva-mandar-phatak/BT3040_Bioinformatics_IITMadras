@@ -1,0 +1,51 @@
+*****************************************************************
+* Copper type II, ascorbate-dependent monooxygenases signatures *
+*****************************************************************
+
+Copper type II, ascorbate-dependent  monooxygenases [1] are a class of enzymes
+that requires  copper  as  a  cofactor and which uses ascorbate as an electron
+donor. The enzymes which belong to this category are:
+
+ - Dopamine-beta-monooxygenase (EC 1.14.17.1)  (DBH) [2], which  catalyzes the
+   conversion of dopamine to the neurotransmitter norepinephrine.
+ - Peptidyl-glycine alpha-amidating  monooxygenase (EC 1.14.17.3) (PAM), which
+   catalyzes the  conversion of the  carboxy-terminal  glycine  of many active
+   peptides and hormones to an amide group.
+
+There are a few regions  of  sequence  similarities between these two enzymes,
+two of these regions  contain clusters  of conserved  histidine residues which
+are most probably involved  in binding copper.   We selected these two regions
+as signature patterns.
+
+-Consensus pattern: H-H-M-x(2)-F-x-C
+                    [The 2 H's are copper ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: H-x-F-x(4)-H-T-H-x(2)-G
+                    [The 3 H's are copper ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Southan C., Kruse L.I.
+     "Sequence similarity between dopamine beta-hydroxylase and peptide
+     alpha-amidating enzyme: evidence for a conserved catalytic domain."
+     FEBS Lett. 255:116-120(1989).
+     PubMed=2792366
+[ 2] Stewart L.C., Klinman J.P.
+     "Dopamine beta-hydroxylase of adrenal chromaffin granules: structure
+     and function."
+     Annu. Rev. Biochem. 57:551-592(1988).
+     PubMed=3052283; DOI=10.1146/annurev.bi.57.070188.003003
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

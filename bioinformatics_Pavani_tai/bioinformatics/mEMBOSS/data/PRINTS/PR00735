@@ -1,0 +1,22 @@
+GLHYDRLASE8
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 8 includes mostly endoglucanases, which are essential
+enzymes for microbial degradation of cellulose and xylans. 
+
+GLHYDRLASE8 is a 6-element fingerprint that provides a signature for
+family 8 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 2 includes the region
+encoded by PROSITE pattern GLYCOSYL_HYDROL_F8 (PS00812), the first 
+aspartate of which is thought to act as the nucleophile in the catalytic
+mechanism [5]. A single iteration on OWL29.3 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Several partial matches were found, all of which are family members that
+fail to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 2
+partial matches.

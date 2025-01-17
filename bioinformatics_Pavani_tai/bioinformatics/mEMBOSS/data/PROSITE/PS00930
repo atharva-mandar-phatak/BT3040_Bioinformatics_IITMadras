@@ -1,0 +1,61 @@
+********************************
+* Peripherin / rom-1 signature *
+********************************
+
+Peripherin (or  RDS)  and rom-1 are related retinal-specific integral membrane
+proteins which  are located at the rims of the photoreceptor disks, where they
+may act  jointly  in  disk  morphogenesis  [1]. Both peripherin and rom-1 form
+disulfide-linked homodimers.
+
+Defects in  the  peripherin  gene  (RDS)  cause various Human diseases such as
+autosomal dominant retinitis pigmentosa, autosomal dominant punctata albescens
+and butterfly-shaped pigment dystrophy. In mice it causes retinopathy known as
+'retinal degeneration slow' (rds).
+
+These proteins  contain  about  350  amino  acid  residues.  Structurally they
+consist of   a   short   cytoplasmic   N-terminal  domain,  followed  by  four
+transmembrane segments that delimit two lumenal and one cytoplasmic loops; the
+C-terminal domain is cytoplasmic. The second lumenal loop is very large (about
+140 amino acid residues) and contains seven conserved cysteines. The schematic
+representation of this structure is shown below.
+
+       NH2-***                   ************-COOH
+             *      * * *        *
+             *     *     *       *   Cytoplasmic
+          ---* ----* ----*-------*----------------
+             *     *     *       *   Membrane
+             *     *     *       *
+          ---* ----* ----*-------*----------------
+             *     *     *       *   Lumenal
+              * * *      *       *
+                         *       *
+                          *     *
+                            * *
+                             *
+
+As a signature pattern  we selected a region  of 16  residues  which is almost
+perfectly conserved.  This region is located in the large lumenal  loop and it
+contains three of the seven conserved cysteines.
+
+-Consensus pattern: D-[GS]-V-P-F-[ST]-C-C-N-P-x-S-P-R-P-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1998 / Pattern and text revised.
+
+[ 1] Bascom R.A., Manara S., Collins L., Molday R.S., Kalnins V.I.,
+     McInnes R.R.
+     "Cloning of the cDNA for a novel photoreceptor membrane protein
+     (rom-1) identifies a disk rim protein family implicated in human
+     retinopathies."
+     Neuron 8:1171-1184(1992).
+     PubMed=1610568
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

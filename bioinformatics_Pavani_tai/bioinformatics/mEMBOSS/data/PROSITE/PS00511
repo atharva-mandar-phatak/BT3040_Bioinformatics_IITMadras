@@ -1,0 +1,56 @@
+***************************************************
+* Corticotropin-releasing factor family signature *
+***************************************************
+
+Corticotropin-releasing factor (CRF)  (corticoliberin) [1] is  a hormone  from
+the hypothalamus  that  regulates  the release  of  corticotropin  (ACTH) from
+the pituitary  gland.  CRF is evolutionary related to a number of other active
+peptides which are listed below.
+
+ - Urocortin (Ucn) [2], a brain mammalian peptide with corticotropin-releasing
+   factor activity.
+ - Urotensin 1 from the urophysis of fish. Like CRF and Ucn, it  acts  in ACTH
+   secretion.
+ - Sauvagine from frog skin, a peptide  with a  potent hypotensive action that
+   elicits a diuretic effect.
+ - Diuretic  hormone (DH) (or diuretic peptide (DP) from a variety of insects.
+   DH is involved in the regulation of fluid secretion [3].
+
+All these hormones are peptides of about 40 amino acid  residues  which are C-
+terminally amidated and processed from a larger precursor protein.  We derived
+a signature pattern  of conserved  residues, running  from position 4 to 19 in
+these peptides.
+
+-Consensus pattern: [PQA]-x-[LIVM]-S-[LIVM]-x(2)-[PST]-[LIVMF]-x-[LIVM]-L-R-
+                    x(2)-[LIVMW]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for diuretic hormone 2 from tobacco hornworm.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Lederis K.P., Okawara Y., Richter D., Morley S.D.
+     "Evolutionary aspects of corticotropin releasing hormones."
+     Prog. Clin. Biol. Res. 342:467-472(1990).
+     PubMed=2200028
+[ 2] Vaughan J., Donaldson C., Bittencourt J., Perrin M.H., Lewis K.,
+     Sutton S., Chan R., Turnbull A.V., Lovejoy D., Rivier C.
+     "Urocortin, a mammalian neuropeptide related to fish urotensin I and
+     to corticotropin-releasing factor."
+     Nature 378:287-292(1995).
+     PubMed=7477349; DOI=10.1038/378287a0
+[ 3] Clottens F.L., Holman G.M., Coast G.M., Totty N.F., Hayes T.K.,
+     Kay I., Mallet A.I., Wright M.S., Chung J.S., Truong O.
+     "Isolation and characterization of a diuretic peptide common to the
+     house fly and stable fly."
+     Peptides 15:971-979(1994).
+     PubMed=7991460
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

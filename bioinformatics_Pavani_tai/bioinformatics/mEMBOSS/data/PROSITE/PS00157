@@ -1,0 +1,43 @@
+*************************************************************
+* Ribulose bisphosphate carboxylase large chain active site *
+*************************************************************
+
+Ribulose bisphosphate carboxylase (EC 4.1.1.39) (RuBisCO) [1,2]  catalyzes the
+initial step  in  Calvin's reductive pentose phosphate cycle in plants as well
+as purple  and  green  bacteria.  It  consists of a large catalytic unit and a
+small subunit of undetermined function.  In plants, the large subunit is coded
+by the chloroplastic genome  while the small subunit is encoded in the nuclear
+genome. Molecular  activation  of  RuBisCO  by CO2 involves the formation of a
+carbamate  with the  epsilon-amino group of a  conserved lysine residue.  This
+carbamate  is  stabilized  by a  magnesium ion.  One of  the  ligands  of  the
+magnesium ion is an aspartic acid residue close to the active site lysine [3].
+We developed a pattern  which  includes  both  the active site residue and the
+metal ligand, and which is specific to RuBisCO large chains.
+
+-Consensus pattern: G-x-[DN]-F-x-K-x-D-E
+                    [K is the active site residue]
+                    [The second D is a magnesium ligand]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Cheilopleuria biscuspis RuBisCO.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Miziorko H.M., Lorimer G.H.
+     "Ribulose-1,5-bisphosphate carboxylase-oxygenase."
+     Annu. Rev. Biochem. 52:507-535(1983).
+     PubMed=6351728; DOI=10.1146/annurev.bi.52.070183.002451
+[ 2] Akazawa T., Takabe T., Kobayashi H.
+     Trends Biochem. Sci. 9:380-383(1984).
+[ 3] Andersson I., Knight S., Schneider G., Lindqvist Y., Lundqvist T.,
+     Branden C.-I., Lorimer G.H.
+     Nature 337:229-234(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

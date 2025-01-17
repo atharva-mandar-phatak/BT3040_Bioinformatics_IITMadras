@@ -1,0 +1,49 @@
+HISDACETLASE
+Histone deacetylases (HDA), acetoin utilisation proteins (ACUC) and
+acetylpolyamine amidohydrolases (APHA) form an ancient protein superfamily
+and are all believed to catalyse the deacetylation of a substrate [1]. HDAs
+are found in eukaryotes, from yeast to humans; ACUCs are found in 
+eubacteria; and APHAs occur in archaeal bacteria, eubacteria and some
+eukaryotic organisms [1]. HDA nomenclature is confusing: the family
+can also be identified by the codes RPD, HOS, HD and HDAC, regardless of
+specific sequence similarities [1]. HDAs may have evolved at least twice
+from APHAs, the more recent gene duplication event resembling APHAs more 
+closely [1].
+
+Only the most highly conserved regions in the group of HDAs including RPD3
+are similar to regions in the prokaryotic enzymes [2]. Many of the invariant
+residues are histidine, glycine, cysteine, aspartic acid or glutamic acid,
+and may be essential for maintaining structural integrity or catalytic
+activity [1,2]. Histidines and acidic amino acids may be required for the
+co-ordination of metal ion cofactors; APHA is known to contain one zinc ion
+that is necessary for catalysis [2].
+
+The crystal structure of a HDA homologue from the hyperthermophilic
+bacterium Aquifex aeolicus has revealed that it has a single domain
+structure belonging to the open alpha/beta class of folds [3]. It consists
+of a central eight-stranded parallel beta-sheet and 16 alpha-helices [3].
+Seven loops form an active site comprising a tubular pocket, a zinc-binding
+site and two Asp-His charge relay systems; thus the active site has features
+of metalloproteases and serine proteases [3].
+
+HDAs function in multi-subunit complexes, reversing the acetylation of
+histones by histone acetyltransferases [4,5], and are also believed to
+deacetylate general transcription factors such as TFIIF and sequence-
+specific transcription factors such as p53 [4]. Thus, HDAs contribute to 
+the regulation of transcription, in particular transcriptional repression
+[1-5]. At N-terminal tails of histones, removal of the acetyl group from
+the epsilon-amino group of a lysine side chain will restore its positive
+charge, which may stabilise the histone-DNA interaction and prevent
+activating transcription factors binding to promoter elements [1]. HDAs
+play important roles in the cell cycle and differentiation, and their
+deregulation can contribute to the development of cancer [5,6].
+
+HISDACETLASE is a 7-element fingerprint that provides a signature for
+histone deacetylases. The fingerprint was derived from an initial alignment
+of 11 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that
+characterise the HDAs but distinguish them from the rest of the HDA
+superfamily. Three iterations on SPTR37_10f were required to reach 
+convergence, at which point a true set comprising 26 sequences was
+identified. Two partial matches were also found, both of which are members
+of the HDA superfamily that match 2 motifs.

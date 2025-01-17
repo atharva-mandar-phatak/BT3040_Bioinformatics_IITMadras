@@ -1,0 +1,23 @@
+RIBOSOMALL19
+Protein synthesis is co-ordinated in all cells by ribosomes, ribonucleo-
+protein particles containing more than 50 different proteins and several
+large RNAs [1]. Low resolution models show the protein arrangement in both
+the large and small ribosomal subunits, but higher resolution structures are
+required to reveal the detailed mechanistic functioning of the complex [2].
+
+L19 is a protein from the large (50S) subunit; in E.coli it is known
+to be located at the 30S-50S subunit interface [3], and may play a role in 
+the structure and function of the aminoacyl-tRNA binding site. It belongs
+to a family of ribosomal proteins, including L19 from eubacteria and red
+alga chloroplasts.
+
+RIBOSOMALL19 is a 4-element fingerprint that provides a signature for L19
+ribosomal proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from virtually the full alignment
+length, motifs 4 and 5 spanning the C-terminal region encoded by PROSITE
+pattern RIBOSOMAL_L19 (PS01015). A single iteration on OWL24.0 was required
+to reach convergence, no further sequences being identified beyond the
+starting set.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 3
+partial matches.

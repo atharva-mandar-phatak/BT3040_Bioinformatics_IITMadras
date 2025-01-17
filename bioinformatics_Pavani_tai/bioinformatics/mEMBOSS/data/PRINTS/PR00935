@@ -1,0 +1,33 @@
+BAND41
+A number of cytoskeletal-associated proteins that associate with various
+proteins at the interface between the plasma membrane and the cytoskeleton
+contain a conserved N-terminal domain of about 150 residues [1-3]. Proteins
+that contain such a domain include: band 4.1, which links the spectrin-actin
+erythrocyte cytoskeleton to the plasma membrane; ezrin, a component of the
+undercoat of the microvilli plasma membrane; moesin, which is thought to be
+involved in binding major cytoskeletal structures to the plasma membrane;
+radixin, which appears to play a crucial role in binding the barbed end of
+actin filaments to the plasma membrane in the undercoat of the cell-to-cell
+adherens junction; talin, which binds to vinculin and with lesser affinity
+to integrins; filopodin, a slime mold protein that binds actin and is
+involved in the control of cell motility and chemotaxis; merlin, defects in
+which cause type 2 neurofibromatosis; protein NBL4; protein tyrosine  
+phosphatases PTPN3, PTPN4, PTPN14, PTP-D1, PTP-RL10 and PTP2E; and C.elegans
+protein phosphatase ptp-1.
+
+Ezrin, moesin and radixin are closely related, but other proteins containing
+the domain share no other regions of similarity. In band 4.1, the domain 
+plays a role in interactions with glycophorin, an integral membrane protein.
+
+BAND41 is a 4-element fingerprint that provides a signature for band 4.1
+proteins. The fingerprint was derived from an initial alignment of 13
+sequences: the motifs were drawn from short conserved regions spanning the
+full length of the band 4.1 domain, motif 4 residing within the C-terminal
+region encoded by PROSITE pattern BAND_41_2 (PS00661). Three iterations on
+OWL30.2 were required to reach convergence, at which point a true set
+comprising 56 sequences was identified. Several partial matches were also
+found, three of which are isoforms that lack the portion of sequence bearing
+motif 1, the fourth being a Drosophila protein that matches motifs 2 and 3. 
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 1
+partial match.

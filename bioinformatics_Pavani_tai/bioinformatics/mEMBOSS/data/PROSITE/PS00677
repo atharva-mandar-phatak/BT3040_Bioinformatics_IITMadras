@@ -1,0 +1,45 @@
+***********************************
+* D-amino acid oxidases signature *
+***********************************
+
+D-amino acid  oxidase  (EC  1.4.3.3) (DAMOX or DAO) is an FAD flavoenzyme that
+catalyzes the  oxidation  of  neutral  and  basic  D-amino  acids  into  their
+corresponding keto  acids. DAOs have been characterized and sequenced in fungi
+and vertebrates where they are known to be located in the peroxisomes.
+
+D-aspartate oxidase  (EC  1.4.3.1)  (DASOX)  [1]  is  an  enzyme, structurally
+related to  DAO,  which  catalyzes the same reaction but is active only toward
+dicarboxylic D-amino acids.
+
+In DAO, a  conserved  histidine  has  been  shown  [2] to be important for the
+enzyme's catalytic  activity.    We have used the conserved region around this
+residue as a signature pattern for these enzymes.
+
+-Consensus pattern: [LIVM](2)-H-[NHA]-Y-G-x-[GSA](2)-x-G-x(5)-G-x-A
+                    [H may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Negri A., Ceciliani F., Tedeschi G., Simonic T., Ronchi S.
+     "The primary structure of the flavoprotein D-aspartate oxidase from
+     beef kidney."
+     J. Biol. Chem. 267:11865-11871(1992).
+     PubMed=1601857
+[ 2] Miyano M., Fukui K., Watanabe F., Takahashi S., Tada M., Kanashiro M.,
+     Miyake Y.
+     "Studies on Phe-228 and Leu-307 recombinant mutants of porcine kidney
+     D-amino acid oxidase: expression, purification, and
+     characterization."
+     J. Biochem. 109:171-177(1991).
+     PubMed=1673125
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,34 @@
+TYPE3IMPPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+It is believed that the family of type III inner membrane proteins are 
+used as structural moieties in a complex with several other subunits [4], 
+including the ATPase necessary for driving the secretion system. One such
+set of inner membrane proteins, termed "P" here for nomenclature purposes,
+includes the Salmonella and Shigella SpaP, the Yersinia YscR, the Erwinia 
+HrcR, and the Xanthamonas Pro2 genes [4], as well as several FliP flagellar 
+biosynthesis genes [3]. FliP is an ~30kDa protein containing three or four
+transmembrane (TM) regions.
+
+TYPE3IMPPROT is a 6-element fingerprint that provides a signature for the
+type III secretion system inner membrane P protein family. The fingerprint
+was derived from an initial alignment of 5 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length (~260 amino acids)
+- motif 1 includes the first putative TM region; motif 3 spans TM domain 2;
+motifs 4 and 5 span TM domain 3; and motif 6 includes the C-terminal portion
+of TM domain 4. Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 35 sequences was 
+identified.

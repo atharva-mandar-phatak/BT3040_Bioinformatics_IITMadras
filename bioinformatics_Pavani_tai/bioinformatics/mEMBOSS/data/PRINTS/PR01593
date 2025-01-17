@@ -1,0 +1,38 @@
+SOPEPROTEIN
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+Effector proteins secreted by the type III system do not possess a secretion 
+signal, and are considered unique because of this [1]. Salmonella spp. 
+secrete an effector protein called SopE that is responsible for stimulating 
+the reorganisation of the host cell actin cytoskeleton, and ruffling of the 
+cellular membrane [2]. It acts as a guanyl-nucleotide-exchange factor on Rho- 
+GTPase proteins such as Cdc42 and Rac. As it is imperative for the bacterium 
+to revert the cell back to its "normal" state as quickly as possible, 
+another tyrosine phosphatase effector called SptP reverses the actions 
+brought about by SopE [2,3]. 
+
+Recently, it has been found that SopE and its protein homologue SopE2 can
+activate different sets of Rho-GTPases in the host cell [3]. Far from being 
+a redundant set of two similar type III effectors, they both act in unison 
+to specifically activate different Rho-GTPase signalling cascades in the
+host cell during infection [3].
+
+SOPEPROTEIN is a 9-element fingerprint that provides a signature for 
+the Salmonella type III secretion SopE effector protein family. The 
+fingerprint was derived from an initial alignment of 5 sequences: the motifs 
+were drawn from conserved regions spanning the full alignment length (~240
+amino acids). A single iteration on SPTR39_17f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

@@ -1,0 +1,62 @@
+************************************
+* ATP synthase c subunit signature *
+************************************
+
+ATP synthase (proton-translocating ATPase) (EC 3.6.3.14) [1,2]  is a component
+of the cytoplasmic membrane of eubacteria, the inner membrane of mitochondria,
+and the thylakoid membrane of chloroplasts.  The ATPase complex is composed of
+an oligomeric  transmembrane  sector, called CF(0),  which acts  as  a  proton
+channel, and a catalytic core, termed coupling factor CF(1).
+
+The CF(0) c subunit (also called protein 9, proteolipid, or subunit III) [3,4]
+is a highly hydrophobic protein of about 8 Kd which has been implicated in the
+proton-conducting activity of ATPase. Structurally subunit c  consist  of  two
+long  terminal  hydrophobic  regions, which probably span the membrane,  and a
+central  hydrophilic region.   N,N'-dicyclohexylcarbodiimide (DCCD)  can  bind
+covalently to subunit c and thereby abolish the ATPase activity. DCCD binds to
+a specific glutamate or aspartate residue  which  is  located in the middle of
+the second hydrophobic region near the C-terminus of the protein.
+
+We derived a signature pattern which includes the DCCD-binding residue.
+
+-Consensus pattern: [GSTA]-R-[NQ]-P-x(5)-{A}-x-{F}-x(2)-[LIVMFYW](2)-x(3)-
+                    [LIVMFYW]-x-[DE]
+                    [D or E binds DCCD]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for sunflower mitochondrial encoded subunit C which has Trp instead of Arg in
+ position 2 of the pattern.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Note: The proteolipid subunit of the vacuolar ATPase,  a 16 Kd protein, which
+ also binds DCCD, is evolutionary  related to subunit c  and has arisen by the
+ duplication of a subunit c type domain. This protein is however too divergent
+ to be detected by this pattern.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Futai M., Noumi T., Maeda M.
+     "ATP synthase (H+-ATPase): results by combined biochemical and
+     molecular biological approaches."
+     Annu. Rev. Biochem. 58:111-136(1989).
+     PubMed=2528322; DOI=10.1146/annurev.bi.58.070189.000551
+[ 2] Senior A.E.
+     "ATP synthesis by oxidative phosphorylation."
+     Physiol. Rev. 68:177-231(1988).
+     PubMed=2892214
+[ 3] Ivaschenko A.T., Karpenyuk T.A., Ponomarenko S.V.
+     Biokhimiia 56:406-419(1991).
+[ 4] Recipon H., Perasso R., Adoutte A., Quetier F.
+     "ATP synthase subunit c/III/9 gene sequences as a tool for
+     interkingdom and metaphytes molecular phylogenies."
+     J. Mol. Evol. 34:292-303(1992).
+     PubMed=1533253
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,18 @@
+CDK2IP
+Cyclin-dependent kinase 2-interacting protein (CINP) is a component of the
+active cyclin E/Cdk2 and cyclin A/Cdk2 complexes [1]. It is phopshorylated
+by Cdc7, but not by Cdk2 [1]. CINP has also been shown to bind to chromatin
+in a replication-dependent manner, and to associate with Origin Recognition 
+Complex-2 (ORC2)-containing complexes and minichromosome maintenance/DNA
+replication licensing complex, MCM [1]. It has been proposed that CINP is
+part of the Cdc7-dependent mechanism of origin firing, and constitutes a
+physical link between Cdk2 and Cdc7 complexes at the origins [1].
+
+CDK2IP is a 7-element fingerprint that provides a signature for cyclin-
+dependent kinase 2-interacting proteins. The fingerprint was derived from
+an initial alignment of 9 sequences: the motifs were drawn from conserved 
+regions spanning the full alignment length. A single iteration on
+SPTR57.15_40.15f was required to reach convergence, no further sequences
+being identified beyond the starting set. Two partial matches were found, 
+A7T300_NEMVE and C4WTA7_ACYPI - these are predicted proteins that make 
+significant matches with motifs 6 and 7, and 1 and 6 respectively.

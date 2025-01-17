@@ -1,0 +1,106 @@
+****************************************************
+* Ubiquitin-interacting motif (UIM) repeat profile *
+****************************************************
+
+Covalent modification of proteins by the small, evolutionary conserved protein
+ubiquitin (see  <PDOC00271>)  plays  a  central  role in a variety of cellular
+processes, including  bulk  protein  degradation,  cell-cycle  control, stress
+response, DNA  repair,  signal  transduction,  transcriptional  regulation and
+vesicular traffic. A cascade of three enzymes (called E1, E2 and E3) catalyzes
+the conjugation  of  ubiquitin  to  lysine  side-chains  of  target  proteins.
+Ubiquitination is  a  reversible  process: several specific ubiquitin carboxy-
+terminal hydrolases   (UBPs)  (see  <PDOC00750>)  can  remove  ubiquitin  from
+proteins. The  variety  of  cellular  processes  regulated  by  ubiquitination
+demands a  high  substrate specificity of the ubiquitination machinery as well
+as the  existence  of  diverse  downstream  effector proteins interacting with
+ubiquitinated substrates.  Most  of these cellular effectors are characterized
+by a  modular  composition  of  ubiquitin-binding  motifs  and further domains
+mediating specific functions.
+
+The ubiquitin-interacting motif (UIM), or 'LALAL-motif', is a stretch of about
+20 amino  acid  residues,  which  was  first  described  in the 26S proteasome
+subunit PSD4/RPN-10 that is known to recognize ubiquitin [1]. In addition, the
+UIM is  found,  often  in  tandem  or triplet arrays, in a variety of proteins
+either involved  in  ubiquitination  and  ubiquitin  metabolism,  or  known to
+interact with  ubiquitin-like  modifiers.  Among  the  UIM  proteins  are  two
+different subgroups  of  the UBP family of deubiquitinating enzymes, one F-box
+protein, one  family  of  HECT-containing ubiquitin-ligases (E3s) from plants,
+and several  proteins  containing ubiquitin-associated UBA and/or UBX domains.
+In most  of  these  proteins,  the  UIM  occurs  in  multiple  copies  and  in
+association with  other  domains  such  as  UBA  (see  <PDOC50030>),  UBX (see
+<PDOC50033>), ENTH,  EH  (see  <PDOC50031>),  VHS  (see <PDOC50179>), SH3 (see
+<PDOC50002>), HECT (see <PDOC50237>), VWFA (see <PDOC50234>), EF-hand calcium-
+binding (see  <PDOC50031>),  WD-40 (see <PDOC00574>), F-box (see <PDOC50181>),
+LIM (see   <PDOC00382>),   protein  kinase  (see  <PDOC00100>),  ankyrin  (see
+<PDOC50088>), PX  (see <PDOC50195>), phosphatidylinositol 3- and 4-kinase (see
+<PDOC00710>), C2   (see   <PDOC00380>),   OTU  (see  <PDOC50802>),  dnaJ  (see
+<PDOC00553>), RING-finger  (see <PDOC00449>) or FYVE-finger (see <PDOC50178>).
+UIMs have  been  shown  to bind ubiquitin and to serve as a specific targeting
+signal important for monoubiquitination. Thus, UIMs may have several functions
+in ubiquitin  metabolism  each  of which may require different numbers of UIMs
+[3,4,5].
+
+The UIM  is  unlikely to form an independent folding domain. Instead, based on
+the spacing  of the conserved residues, the motif probably forms a short alpha
+helix that can be embedded into different protein folds [1].
+
+Some proteins known to contain an UIM are listed below:
+
+ - Eukaryotic  PSD4/RPN-10/S5a  multiubiquitin  binding  subunit  of  the  26S
+   proteasome.
+ - Vertebrate  Machado-Joseph  disease  protein  1  (Ataxin-3).  It  acts as a
+   histone-binding protein  that  regulates  transcription.  In human, defects
+   Ataxin-3 the  cause  of  Machado-Joseph  disease (MJD), a neurodegenerative
+   disorder characterized  by  cerebellar ataxia, pyramidal and extrapyramidal
+   signs, peripheral  nerve palsy, external ophtalmoplegia, facial and lingual
+   fasciculation and bulging.
+ - Vertebrate epsin and epsin2.
+ - Vertebrate  hepatocyte  growth  factor-regulated  tyrosine kinase substrate
+   (HRS).
+ - Mammalian  epidermal  growth  factor  receptor  substrate 15 (EPS15). It is
+   involved in cell growth regulation.
+ - Mammalian epidermal growth factor receptor substrate EPS15R.
+ - Drosophila melanogaster liquid facets (lqf), an epsin.
+ - Yeast  VPS27  vacuolar sorting protein. It is required for membrane traffic
+   to the vacuole.
+
+The profile we developed covers the entire UIM.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2003 / First entry.
+
+[ 1] Hofmann K., Falquet L.
+     "A ubiquitin-interacting motif conserved in components of the
+     proteasomal and lysosomal protein degradation systems."
+     Trends Biochem. Sci. 26:347-350(2001).
+     PubMed=11406394
+[ 2] Buchberger A.
+     "From UBA to UBX: new words in the ubiquitin vocabulary."
+     Trends Cell Biol. 12:216-221(2002).
+     PubMed=12062168
+[ 3] Oldham C.E., Mohney R.P., Miller S.L.H., Hanes R.N., O'Bryan J.P.
+     "The ubiquitin-interacting motifs target the endocytic adaptor protein
+     epsin for ubiquitination."
+     Curr. Biol. 12:1112-1116(2002).
+     PubMed=12121618
+[ 4] Riezman H.
+     "Cell biology: the ubiquitin connection."
+     Nature 416:381-383(2002).
+     PubMed=11919614; DOI=10.1038/416381a
+[ 5] Polo S., Sigismund S., Faretta M., Guidi M., Capua M.R., Bossi G.,
+     Chen H., De Camilli P., Di Fiore P.P.
+     "A single motif responsible for ubiquitin recognition and
+     monoubiquitination in endocytic proteins."
+     Nature 416:451-455(2002).
+     PubMed=11919637; DOI=10.1038/416451a
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

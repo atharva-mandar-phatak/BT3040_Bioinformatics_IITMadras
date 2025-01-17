@@ -1,0 +1,63 @@
+*******************************
+* Aconitase family signatures *
+*******************************
+
+Aconitase  (aconitate hydratase)  (EC  4.2.1.3) [1]  is  the enzyme  from  the
+tricarboxylic  acid  cycle  that  catalyzes  the  reversible  isomerization of
+citrate and isocitrate.  Cis-aconitate  is  formed  as an intermediary product
+during the course of the reaction. In eukaryotes two isozymes of aconitase are
+known to exist: one found in  the mitochondrial  matrix and the other found in
+the cytoplasm. Aconitase, in its active form,  contains  a 4Fe-4S  iron-sulfur
+cluster; three  cysteine  residues have been shown to be ligands of the 4Fe-4S
+cluster.
+
+It has  been  shown  that  the  aconitase  family  also contains the following
+proteins:
+
+ - Iron-responsive  element binding  protein (IRE-BP).  IRE-BP  is a cytosolic
+   protein that binds  to iron-responsive elements (IREs).  IREs are stem-loop
+   structures found in  the 5'UTR of ferritin,  and  delta aminolevulinic acid
+   synthase mRNAs, and in the 3'UTR of  transferrin receptor mRNA. IRE-BP also
+   express aconitase activity.
+ - 3-isopropylmalate  dehydratase (EC 4.2.1.33)  (isopropylmalate  isomerase),
+   the enzyme that catalyzes the second step in the biosynthesis of leucine.
+ - Homoaconitase  (EC  4.2.1.36)  (homoaconitate  hydratase),  an  enzyme that
+   participates in  the  alpha-aminoadipate pathway of lysine biosynthesis and
+   that converts cis-homoaconitate into homoisocitric acid.
+ - Esherichia coli protein ybhJ.
+
+As a  signature  for  proteins  from the aconitase family we have selected two
+conserved regions  that  contain  the  three  cysteine  ligands  of the 4Fe-4S
+cluster.
+
+-Consensus pattern: [LIVM]-x(2)-[GSACIVM]-x-[LIV]-[GTIV]-[STP]-C-x(0,1)-T-N-
+                    [GSTANI]-x(4)-[LIVMA]
+                    [C binds the iron-sulfur center]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ybhJ.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x(2)-[LIVWPQT]-x(3)-[GACST]-C-[GSTAM]-[LIMPTA]-C-[LIMV]-
+                    [GA]
+                    [The 2 C's bind the iron-sulfur center]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ybhJ.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Gruer M.J., Artymiuk P.J., Guest J.R.
+     "The aconitase family: three structural variations on a common
+     theme."
+     Trends Biochem. Sci. 22:3-6(1997).
+     PubMed=9020582
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,25 @@
+LMWPTPASE
+Low molecular weight (LMW) phosphotyrosine protein phosphatase (or acid
+phosphatase) acts on tyrosine phosphorylated proteins, low-MW aryl
+phosphates and natural and synthetic acyl phosphates [1,2]. It is a
+cytoplasmic enzyme that catalyses the reaction:
+protein tyrosine phosphate + H(2)O = protein tyrosine + orthophosphate.
+
+The structure of the protein has been solved by NMR [3]. It belongs to the
+alpha/beta class, with 6 alpha-helices and 4 beta-strands forming a 3-layer
+alpha-beta-alpha sandwich architecture.
+
+LMWPTPASE is a 5-element fingerprint that provides a signature for LMW
+phosphotyrosine protein phosphatases. The fingerprint was derived from
+an initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 spans the first beta-
+strand and the N-terminus of the first helix; motif 2 includes helix 3;
+motifs 3 and 4 include the third and fourth beta-strands; and motif 5 
+includes the N-terminus of helix 6. Two iterations on OWL29.3 were required
+to reach convergence, at which point a true set comprising 14 sequences was
+identified. Several partial matches were also found, all of which are
+fragments (e.g., YRP2_SYNPY) or family members that fail to make signficant
+matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 5
+partial matches.

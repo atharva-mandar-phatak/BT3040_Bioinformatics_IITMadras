@@ -1,0 +1,68 @@
+****************************
+* CpcD-like domain profile *
+****************************
+
+Ferredoxin-NADP(+) oxydoreductase (FNR) (EC=1.18.1.2) transfers electrons from
+ferredoxin (or  flavodoxin)  to  NADP(+) to generate NADPH. In eucaryotes, the
+nuclear-encoded, chloroplast-targeted  enzyme  contains  two  domains: an FAD-
+binding domain  (see  <PDOC51384>)  and  an  NADP(+)-binding  domain. With the
+exception of  Gloeobacter  violaceous PCC 7421, the predicted sequences of all
+cyanobacterial petH  genes,  encoding  FNR, correspond to a protein containing
+three domains.  Two  domains  at  the  C-terminus  correspond  to the FAD- and
+NADP(+)-binding domains  of  higher  plants  FNR  protein,  which  compose the
+catalytic domains   of  the  enzyme.  The  N-terminal  domain  is  similar  to
+phycobilisome (PBS)-associated  linker  proteins  from  numerous cyanobacteria
+[1,2,3]:
+
+ - cpcD,  the  phycocyanin (PC)-associated, rod-capping, linker polypeptide of
+   PBS. The similarity spans nearly the entire sequence of this linker class.
+ - cpcC,  the PC-associated rod linker polypeptide. The similarity is confined
+   only to the C-terminus of this linker class.
+ - apcC,  the  allophycocyanin  (APC)-associated, core linker polypeptide. The
+   similarity only correspond to about half of the molecule.
+
+The cpcD-like  domain  has an elongated shape and consists of a three-stranded
+beta-sheet, two  alpha-helices,  one of which has only about one turn, and the
+connecting random coil segments (see <PDB:1B33>) [4].
+
+The profile we developed covers the entire cpcD-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2009 / First entry.
+
+[ 1] Schluchter W.M., Bryant D.A.
+     "Molecular characterization of ferredoxin-NADP+ oxidoreductase in
+     cyanobacteria: cloning and sequence of the petH gene of Synechococcus
+     sp. PCC 7002 and studies on the gene product."
+     Biochemistry 31:3092-3102(1992).
+     PubMed=1554697
+[ 2] Nakajima M., Sakamoto T., Wada K.
+     "The complete purification and characterization of three forms of
+     ferredoxin-NADP(+) oxidoreductase from a thermophilic cyanobacterium
+     Synechococcus elongatus."
+     Plant Cell Physiol. 43:484-493(2002).
+     PubMed=12040095
+[ 3] Gomez-Lojero C., Perez-Gomez B., Shen G., Schluchter W.M.,
+     Bryant D.A.
+     "Interaction of ferredoxin:NADP+ oxidoreductase with phycobilisomes
+     and phycobilisome substructures of the cyanobacterium Synechococcus
+     sp. strain PCC 7002."
+     Biochemistry 42:13800-13811(2003).
+     PubMed=14636046; DOI=10.1021/bi0346998
+[ 4] Reuter W., Wiegand G., Huber R., Than M.E.
+     "Structural analysis at 2.2 A of orthorhombic crystals presents the
+     asymmetry of the allophycocyanin-linker complex, AP.LC7.8, from
+     phycobilisomes of Mastigocladus laminosus."
+     Proc. Natl. Acad. Sci. U.S.A. 96:1363-1368(1999).
+     PubMed=9990029
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,19 @@
+HTHMARR
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family, marR, groups together a range of proteins,
+including emrR, hpcR, hpR, marR, pecS, petP, papX, prsX, ywaE, yxaD and yybA.
+
+HTHMARR is a 4-element fingerprint that provides a signature for the
+multiple antibiotic resistance transcriptional regulator (marR) family.
+The fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from short conserved regions spanning virtually the
+full alignment length, motifs 2 and 3 spanning the region encoded by
+PROSITE pattern HTH_MARR_FAMILY (PS011117). Two iterations on OWL28.1
+were required to reach convergence, at which point a true set comprising
+11 sequences was identified. A single partial match was also found,
+BACYACA36, which makes relatively strong matches with motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 3
+partial matches.

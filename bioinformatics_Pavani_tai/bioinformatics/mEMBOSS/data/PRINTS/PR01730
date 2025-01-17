@@ -1,0 +1,34 @@
+INFPOTNTIATR
+Legionella pneumophila, the causative agent of Legionnaire's disease, is a
+facultative intracellular microbe that commonly infects human lung 
+monocytes and macrophages and causes pneumonia [1]. It is water-borne and 
+highly virulent, relying on several specific pathogenic factors to invade 
+and infect the alveolar tissue. However, once grown to stationary phase in 
+culture, the pathogen spontaneously converts to an avirulent state [1]. 
+
+The major virulence factor expressed by Legionella pneumophila is the 
+macrophage infectivity potentiator (Mip) [2]. Site-directed mutagenesis
+studies of this protein in vitro severely impaired the intracellular
+infection of human macrophages by L.pneumophila, causing it to lose
+its potent antigenic activity [2]. Further studies into the enzymatic 
+activity of Mip have revealed that it plays a similar role to eukaryotic
+FK506-binding proteins. In vivo, it acts as a peptidyl-prolyl-cis/trans-
+isomerase (PPIase) on oligopeptides [3], although it is unclear whether this
+forms part of the virulence process. Substitution of Asp142 of the mature 
+protein by Leu severely reduces the PPIase activity of Mip [4].
+
+The structure of Mip has been resolved to 2.41A by X-ray crystallography [5],
+revealing the virulence factor to exist as a homodimer. Each monomer 
+consists of an N-terminal dimerisation module, a long central connecting
+alpha-helix and a conserved PPIase domain at the C-terminus [5]. 
+
+INFPOTNTIATR is a 4-element fingerprint that provides a signature for the 
+macrophage infectivity potentiator proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the N-terminal portion of the alignment (~80
+amino acids) - motif 1 encodes the N-terminus of alpha-helix 1; motif 2 
+spans the C-terminus of helix 1 and the N-terminus of helix 2; motif 3
+encompasses the N-terminus of the long connecting alpha-helix 3; and motif
+4 encodes the C-terminus of the same helix. Two iterations on SPTR40_20f 
+were required to reach convergence, at which point a true set comprising 41
+sequences was identified.

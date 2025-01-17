@@ -1,0 +1,56 @@
+****************************************************
+* Uncharacterized protein family UPF0076 signature *
+****************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Goat antigen UK114, a human homolog and the rat corresponding protein which
+   is known as perchloric acid soluble protein (PSP1). PSP1 [2] may inhibit an
+   initiation stage of cell-free protein synthesis.
+ - Mouse heat-responsive protein HRSP12.
+ - Yeast chromosome V hypothetical protein YER057c.
+ - Yeast chromosome IX hypothetical protein YIL051c.
+ - Caenorhabditis elegans hypothetical protein C23G10.2.
+ - Escherichia coli hypothetical protein ycdK.
+ - Escherichia coli hypothetical protein yhaR.
+ - Escherichia  coli  hypothetical  protein yjgF and HI0719, the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia coli hypothetical protein yoaB.
+ - Bacillus subtilis hypothetical protein yabJ.
+ - Haemophilus influenzae hypothetical protein HI1627.
+ - Helicobacter pylori hypothetical protein HP0944.
+ - Lactococcus lactis aldR.
+ - Myxococcus xanthus dfrA.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0709.
+ - Rhizobium strain NGR234 symbiotic plasmid hypothetical protein y4sK.
+ - Pyrococcus horikoshii hypothetical protein PH0854.
+
+These are  small  proteins of around 15 Kd whose sequence is highly conserved.
+As a signature  pattern, we selected a well conserved region located in the C-
+terminal part of these proteins.
+
+-Consensus pattern: [PA]-[ASTPV]-R-[SACVF]-x-[LIVMFY]-x(2)-[GSAKR]-x-[LMVA]-
+                    x(5,8)-[LIVM]-E-[MI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1995).
+[ 2] Oka T., Tsuji H., Noda C., Sakai K., Hong Y.-M., Suzuki I., Munoz S.,
+     Natori Y.
+     "Isolation and characterization of a novel perchloric acid-soluble
+     protein inhibiting cell-free protein synthesis."
+     J. Biol. Chem. 270:30060-30067(1995).
+     PubMed=8530410
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

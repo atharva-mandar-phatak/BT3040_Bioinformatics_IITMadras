@@ -1,0 +1,22 @@
+ALKPHPHTASE
+Alkaline phosphatase, a metalloenzyme found in most organisms, hydrolyses
+phosphate esters, optimally in basic (high pH) conditions [1]. It is found
+in the periplasmic space of E.coli, in lysosome-like vacuoles in yeasts,
+and is a membrane-bound glycoprotein in mammals, being attached to the
+membrane via a GPI anchor [2]. Mammals have 3 tissue-specific isozymes
+(placental, germ cell and intestinal) and one non-tissue-specific form [1].
+Alkaline phosphatase exists as a dimer, each monomer binding 2 zinc atoms
+and one magnesium atom, which are essential for enzymic activity, and folds
+into a 10-stranded beta-sheet structure [1].
+
+ALKPHPHTASE is a 5-element fingerprint that provides a signature for the 
+alkaline posphatases. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved regions spanning the
+first two-thirds of the alignment, motif 2 including the region encoded by
+PROSITE pattern ALKALINE_PHOSPHATASE (PS00123), which contains a
+catalytically important serine. Two iterations on OWL22.1 were required to
+reach convergence, at which point a true set comprising 31 sequences was
+identified. A single partial match was also found, an alkaline phosphatase
+fragment matching motifs 1 and 2 only.
+
+An update on SPTR37_9f identified a true set of 40 sequences.

@@ -1,0 +1,56 @@
+********************************************************
+* Copper-fist DNA-binding domain signature and profile *
+********************************************************
+
+Some fungal  transcription  factors  contains  a N-terminal domain which seems
+to be involved in copper-dependent DNA-binding [1,2].  Such a  domain,  called
+"copper-fist" seem  to  undergo a conformational change in presence of copper.
+The proteins that are known to contain such a domain are:
+
+ - Yeast ACE1 (or CUP2), which regulates the expression of the metallothionein
+   gene (CUP1).
+ - Candida   glabrata   AMT1,   which   also   regulates   the  expression  of
+   metallothionein genes (MT-I and MT-II).
+ - Yeast  MAC1  (CUA1),  a  regulator  of  the expression of the FRE1 and CTT1
+   (catalase) genes.
+ - Yarrowia lipolytica copper resistance protein CRF1.
+ - Fission yeast metal-binding regulatory protein cuf1.
+ - Fission yeast copper homeostasis protein cuf2.
+
+The signature  pattern  we  developed  spans the complete length of the domain
+and includes  three  cysteines  and  two histidines that are probably involved
+in copper-binding.
+
+-Consensus pattern: M-[LIVMFP]-[LIVMF](2)-x(3)-[KN]-[MY]-A-C-x(2)-C-[IL]-[KR]-
+                    x-H-[KR]-x(3)-C-x-H-x(8,9)-[KR]-x-[KRP]-G-R-P
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ cuf2.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Thorvaldsen J.L., Sewell A.K., McCowen C.L., Winge D.R.
+     "Regulation of metallothionein genes by the ACE1 and AMT1
+     transcription factors."
+     J. Biol. Chem. 268:12512-12518(1993).
+     PubMed=8509391
+[ 2] Jungmann J., Reins H.-A., Lee J., Romeo A., Hassett R., Kosman D.,
+     Jentsch S.
+     "MAC1, a nuclear regulatory protein related to Cu-dependent
+     transcription factors is involved in Cu/Fe utilization and stress
+     resistance in yeast."
+     EMBO J. 12:5051-5056(1993).
+     PubMed=8262047
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

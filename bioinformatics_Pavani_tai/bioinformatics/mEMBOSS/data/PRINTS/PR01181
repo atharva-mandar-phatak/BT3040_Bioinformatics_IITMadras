@@ -1,0 +1,30 @@
+DAPDCRBXLASE
+Pyridoxal-dependent decarboxylases that act on ornithine-, lysine-, 
+arginine- and related substrates can be classified into different families
+on the basis of sequence similarity [1,2]. One of these families includes:
+eukaryotic ornithine decarboxylase (ODC), which catalyses the transformation
+of ornithine into putrescine; prokaryotic diaminopimelic acid decarboxylase
+(DAPDC), which catalyses the conversion of diaminopimelic acid into lysine,
+the final step of lysine biosynthesis; Pseudomonas syringae pv. tabaci
+protein, tabA, which is probably involved in tabtoxin biosynthesis and
+is similar to DAPDC; and bacterial and plant biosynthetic arginine
+decarboxylase (ADC), which catalyses the transformation of arginine 
+into agmatine, the first step in putrescine synthesis from arginine.
+
+Although these proteins, which are known collectively as group IV
+decarboxylases [2], probably share a common evolutionary origin, their
+levels of sequence similarity are low, being confined to a few short
+conserved regions. These conserved motifs suggest a common structural
+arrangement for positioning of substrate and the cofactor pyridoxal
+5'-phosphate among bacterial DAP decarboxylases, eukaryotic ornithine
+decarboxylases and arginine decarboxylases [3]. 
+
+DAPDCRBXLASE is a 4-element fingerprint that provides a signature for
+diaminopimelate decarboxylases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the diaminopimelate decarboxylases but distinguish them
+from the rest of the ODA family. Four iterations on SPTR37_10f were required
+to reach convergence, at which point a true set comprising 19 sequences was
+identified. A single partial match was found, TABA_PSESZ, Pseudomonas
+syringae tabA protein, which matches motifs 3 and 4.

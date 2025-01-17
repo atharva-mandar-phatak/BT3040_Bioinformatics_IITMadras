@@ -1,0 +1,85 @@
+**************************************************
+* ATP synthase alpha and beta subunits signature *
+**************************************************
+
+ATP synthase (proton-translocating ATPase) (EC 3.6.3.14) [1,2]  is a component
+of the cytoplasmic membrane of eubacteria, the inner membrane of mitochondria,
+and the thylakoid membrane of chloroplasts.  The ATPase complex is composed of
+an oligomeric transmembrane sector, called CF(0), and a catalytic core, called
+coupling factor  CF(1).  The  former  acts  as a proton channel; the latter is
+composed of  five  subunits,  alpha,  beta,  gamma,  delta  and  epsilon.  The
+sequences of   subunits  alpha  and  beta  are  related  and  both  contain  a
+nucleotide-binding site  for  ATP  and  ADP.  The  beta  chain  has  catalytic
+activity, while the alpha chain is a regulatory subunit.
+
+Vacuolar ATPases [3] (V-ATPases)  are  responsible for acidifying a variety of
+intracellular  compartments  in  eukaryotic cells.  Like  F-ATPases,  they are
+oligomeric complexes  of  a transmembrane and a catalytic sector. The sequence
+of the  largest  subunit of the catalytic sector (70 Kd) is related to that of
+F-ATPase beta subunit, while a 60 Kd subunit, from the same sector, is related
+to the F-ATPases alpha subunit [4].
+
+Archaebacterial membrane-associated  ATPases  are  composed of three subunits.
+The alpha  chain  is  related  to  F-ATPases  beta chain and the beta chain is
+related to F-ATPases alpha chain [4].
+
+A protein  highly  similar  to  F-ATPase  beta  subunits  is found [5] in some
+bacterial apparatus  involved  in  a  specialized  protein export pathway that
+proceeds without  signal  peptide  cleavage.  This protein is known as fliI in
+Bacillus and    Salmonella,    Spa47  (mxiB)  in  Shigella  flexneri, HrpB6 in
+Xanthomonas campestris and yscN in Yersinia virulence plasmids.
+
+In order to  detect these ATPase subunits, we took a segment of ten amino-acid
+residues, containing two conserved serines, as a signature pattern.  The first
+serine seems  to  be  important  for  catalysis - in the ATPase alpha chain at
+least - as its mutagenesis causes catalytic impairment.
+
+-Consensus pattern: P-[SAP]-[LIV]-[DNH]-{LKGN}-{F}-{S}-S-{DCPH}-S
+                    [The first S may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the  archaebacterium  Sulfolobus  acidocaldarius ATPase alpha chain where
+ the first Ser is replaced by Gly.
+-Other sequence(s) detected in Swiss-Prot: 45.
+
+-Note: F-ATPase  alpha  and  beta  subunits,  V-ATPase  70  Kd subunit and the
+ archaebacterial ATPase alpha  subunit also  contain a copy of the ATP-binding
+ motifs A and B (see <PDOC00017>).
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Futai M., Noumi T., Maeda M.
+     "ATP synthase (H+-ATPase): results by combined biochemical and
+     molecular biological approaches."
+     Annu. Rev. Biochem. 58:111-136(1989).
+     PubMed=2528322; DOI=10.1146/annurev.bi.58.070189.000551
+[ 2] Senior A.E.
+     "ATP synthesis by oxidative phosphorylation."
+     Physiol. Rev. 68:177-231(1988).
+     PubMed=2892214
+[ 3] Nelson N.
+     "Structure, molecular genetics, and evolution of vacuolar
+     H+-ATPases."
+     J. Bioenerg. Biomembr. 21:553-571(1989).
+     PubMed=2531737
+[ 4] Gogarten J.P., Kibak H., Dittrich P., Taiz L., Bowman E.J.,
+     Bowman B.J., Manolson M.F., Poole R.J., Date T., Oshima T.
+     "Evolution of the vacuolar H+-ATPase: implications for the origin of
+     eukaryotes."
+     Proc. Natl. Acad. Sci. U.S.A. 86:6661-6665(1989).
+     PubMed=2528146
+[ 5] Dreyfus G., Williams A.W., Kawagishi I., Macnab R.M.
+     "Genetic and biochemical analysis of Salmonella typhimurium FliI, a
+     flagellar protein related to the catalytic subunit of the F0F1 ATPase
+     and to virulence proteins of mammalian and plant pathogens."
+     J. Bacteriol. 175:3131-3138(1993).
+     PubMed=8491729
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

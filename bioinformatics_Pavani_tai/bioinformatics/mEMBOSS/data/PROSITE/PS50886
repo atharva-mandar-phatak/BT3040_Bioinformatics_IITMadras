@@ -1,0 +1,80 @@
+*******************************
+* tRNA-binding domain profile *
+*******************************
+
+The tRNA-binding  domain  (TRBD)  [1] is a domain of ~110 amino acids which is
+widespread among  all  living  organisms, from eubacteria, archaea or eukarya.
+The TRBD  domain,  which  is  also  called Trbp111-like domain or EMAP II-like
+domain, is  widely  distributed  among  different  tRNA  synthetases and their
+association factors  (such  as  p43,  ARC1,  and Trbp111 isolated from various
+species). The  TRBD  domain  has  been shown to possess a general tRNA-binding
+capacity with recognition of the L shape of tRNA and it has been proposed that
+the TRBD  domain  might  be a non-specific binder of tRNAs acting in cis or in
+trans to   enhance  the  catalytic  efficiency  or  substrate  specificity  of
+aminoacyl-tRNA synthetases [1,2,3,4].
+
+The resolution  of  the structure of the TRBD domain has shown that part of it
+adopts the oligonucleotide/oligosaccharide-binding (OB)-fold (see <PDB:1FL0>).
+The OB-fold  of  the  TRBD  domain consists of a five-stranded Greek-key beta-
+barrel capped  by  a  short  alpha-helix  located between the third and fourth
+strands [3,4,5,6].
+
+Some proteins known to contain a TRBD domain are listed below:
+
+ - Mammalian endothelial-monocyte activating polypeptide II (EMAP-II). EMAP-II
+   is an  inflammatory  cytokine  produced  after  apoptotic  cleavage  of the
+   multisynthetase complex auxiliary component p43.
+ - Yeast  GU4  nucleic-binding protein 1 or ARC1 protein. It binds to tRNA and
+   functions as a cofactor for the methionyl- and glutamyl-tRNA synthetases.
+ - Bacterial  proteins  of the Trb11/CsaA family, which consist only of a TRBD
+   domain.
+
+The profile we developed covers the entire TRBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2002 / First entry.
+
+[ 1] Kaminska M., Deniziak M., Kerjan P., Barciszewski J., Mirande M.
+     "A recurrent general RNA binding domain appended to plant
+     methionyl-tRNA synthetase acts as a cis-acting cofactor for
+     aminoacylation."
+     EMBO J. 19:6908-6917(2000).
+     PubMed=11118226; DOI=10.1093/emboj/19.24.6908
+[ 2] Galani K., Grosshans H., Deinert K., Hurt E.C., Simos G.
+     "The intracellular location of two aminoacyl-tRNA synthetases depends
+     on complex formation with Arc1p."
+     EMBO J. 20:6889-6898(2001).
+     PubMed=11726524; DOI=10.1093/emboj/20.23.6889
+[ 3] Kim Y., Shin J., Li R., Cheong C., Kim K., Kim S.
+     "A novel anti-tumor cytokine contains an RNA binding motif present in
+     aminoacyl-tRNA synthetases."
+     J. Biol. Chem. 275:27062-27068(2000).
+     PubMed=10852899; DOI=10.1074/jbc.C000216200
+[ 4] Crepin T., Schmitt E., Blanquet S., Mechulam Y.
+     "Structure and function of the C-terminal domain of methionyl-tRNA
+     synthetase."
+     Biochemistry 41:13003-13011(2002).
+     PubMed=12390027; DOI=10.1021/bi026343m
+[ 5] Renault L., Kerjan P., Pasqualato S., Menetrey J., Robinson J.-C.,
+     Kawaguchi S., Vassylyev D.G., Yokoyama S., Mirande M., Cherfils J.
+     "Structure of the EMAPII domain of human aminoacyl-tRNA synthetase
+     complex reveals evolutionary dimer mimicry."
+     EMBO J. 20:570-578(2001).
+     PubMed=11157763; DOI=10.1093/emboj/20.3.570
+[ 6] Kawaguchi S., Mueller J., Linde D., Kuramitsu S., Shibata T., Inoue Y.,
+     Vassylyev D.G., Yokoyama S.
+     "The crystal structure of the ttCsaA protein: an export-related
+     chaperone from Thermus thermophilus."
+     EMBO J. 20:562-569(2001).
+     PubMed=11157762; DOI=10.1093/emboj/20.3.562
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,58 @@
+************************
+* Clusterin signatures *
+************************
+
+Clusterin is a vertebrate glycoprotein [1] which is known by various names:
+
+ - In Human as complement-associated  protein SP-40,40,  complement  cytolysis
+   inhibitor (CLI), NA1/NA2, and apolipoprotein J (Apo-J).
+ - In rat as sulfated glycoprotein 2 (SGP-2), dimeric acid glycoprotein (DAG),
+   and Testosterone Repressed Prostate Message-2 (TRPM-2).
+ - In bovine as glycoprotein III (GP-III).
+ - In dog as glycoprotein 80 (gp-80).
+ - In quail as protein T64.
+
+The exact function  of  this  protein  is  not  yet  clear,  it is known to be
+expressed in a variety of tissues and  it  seems  to be able to bind to cells,
+membranes, and hydrophobic proteins.  It has  been  associated with programmed
+cell death.
+
+Clusterin is  synthesized as a precursor polypeptide of about 400  amino acids
+which is post-translationally cleaved to form two subunits (of about 200 amino
+acids each).  The  two  subunits are linked by five disulfide bonds to form an
+antiparallel ladder-like structure [2]. In  each of  the  mature  subunits the
+five cysteines that are  involved  in disulfide bonds are clustered in domains
+of about 30 amino acids located in the central part of the subunits.
+
+We have developed two signature patterns for clusterin, each  of them contains
+three cysteines, the first pattern is  derived  from  the  N-terminal  subunit
+cluster and the second pattern is derived from the C-terminal subunit cluster.
+
+-Consensus pattern: C-K-P-C-L-K-x-T-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-L-[RK]-M-[RK]-x-[EQ]-C-[ED]-K-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Jenne D.E., Tschopp J.
+     "Clusterin: the intriguing guises of a widely expressed
+     glycoprotein."
+     Trends Biochem. Sci. 17:154-159(1992).
+     PubMed=1585460
+[ 2] Choi-Miura N.H., Takahashi Y., Nakano Y., Tobe T., Tomita M.
+     J. Biochem. 112:557-561(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

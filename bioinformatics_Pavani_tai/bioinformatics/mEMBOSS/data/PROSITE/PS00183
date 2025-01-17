@@ -1,0 +1,57 @@
+*******************************************************
+* Ubiquitin-conjugating enzymes signature and profile *
+*******************************************************
+
+Ubiquitin-conjugating  enzymes  (EC 6.3.2.19)   (UBC  or  E2 enzymes)  [1,2,3]
+catalyze the covalent attachment of ubiquitin to target proteins. An activated
+ubiquitin moiety is transferred from an ubiquitin-activating enzyme (E1) to E2
+which later ligates ubiquitin  directly  to substrate proteins with or without
+the assistance of 'N-end' recognizing proteins (E3).
+
+In most species there are  many forms  of UBC  (at least 9 in yeast) which are
+implicated in diverse cellular functions.
+
+A cysteine residue is  required for ubiquitin-thiolester formation. There is a
+single conserved  cysteine in UBC's and  the  region  around  that  residue is
+conserved in the sequence of known UBC isozymes.   We have used that region as
+a signature  pattern.  We  also  developed  a  profile that spans the complete
+catalytical domain.
+
+-Consensus pattern: [FYWLSP]-H-[PC]-[NHL]-[LIV]-x(3,4)-G-x-[LIVP]-C-[LIV]-
+                    x(1,2)-[LIVR]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast UBC6 (DOA2).
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Jentsch S.; jentsch@zmbh.uni-heidelberg.de
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Jentsch S., Seufert W., Sommer T., Reins H.-A.
+     "Ubiquitin-conjugating enzymes: novel regulators of eukaryotic
+     cells."
+     Trends Biochem. Sci. 15:195-198(1990).
+     PubMed=2193438
+[ 2] Jentsch S., Seufert W., Hauser H.-P.
+     "Genetic analysis of the ubiquitin system."
+     Biochim. Biophys. Acta 1089:127-139(1991).
+     PubMed=1647207
+[ 3] Hershko A.
+     "The ubiquitin pathway for protein degradation."
+     Trends Biochem. Sci. 16:265-268(1991).
+     PubMed=1656558
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

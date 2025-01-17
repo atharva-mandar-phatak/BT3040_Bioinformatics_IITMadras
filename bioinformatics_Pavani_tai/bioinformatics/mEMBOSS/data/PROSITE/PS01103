@@ -1,0 +1,42 @@
+**************************************************
+* Aspartate-semialdehyde dehydrogenase signature *
+**************************************************
+
+Aspartate-semialdehyde dehydrogenase  (EC 1.2.1.11) (ASD) catalyzes the second
+step in  the  common  biosynthetic pathway leading from Asp to diaminopimelate
+and Lys, to Met, and to Thr; the NADP-dependent reductive dephosphorylation of
+L-aspartyl phosphate  to  L-aspartate-semialdehyde. In bacteria and fungi, ASD
+is a  protein  of  about  40  Kd  (340  to 370 residues) whose sequence is not
+extremely well conserved [1]. A conserved cysteine residue has been implicated
+as important for the catalytic activity [2].
+
+The region  of  conservation around the active site residue is too small to be
+used as  as  signature  pattern.  We  have used another more conserved region,
+located in the last third of the sequence, and which contains both a conserved
+cysteine as well as an histidine.
+
+-Consensus pattern: [LIVM]-[SADN]-x(2)-C-x-R-[LIVM]-x(4)-[GSC]-H-[STA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 1995 / First entry.
+
+[ 1] Baril C., Richaud C., Fournie E., Baranton G., Saint Girons I.
+     "Cloning of dapD, aroD and asd of Leptospira interrogans serovar
+     icterohaemorrhagiae, and nucleotide sequence of the asd gene."
+     J. Gen. Microbiol. 138:47-53(1992).
+     PubMed=1348268
+[ 2] Karsten W.E., Viola R.E.
+     "Identification of an essential cysteine in the reaction catalyzed by
+     aspartate-beta-semialdehyde dehydrogenase from Escherichia coli."
+     Biochim. Biophys. Acta 1121:234-238(1992).
+     PubMed=1350921
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

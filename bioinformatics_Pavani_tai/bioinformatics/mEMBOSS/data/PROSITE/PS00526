@@ -1,0 +1,49 @@
+************************************
+* Ribosomal protein L19e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Mammalian ribosomal protein L19 [1].
+ - Drosophila ribosomal protein L19 [2].
+ - Slime mold (D. discoideum) vegetative specific protein V14 [3].
+ - Yeast ribosomal protein L19 (YL14).
+ - Archebacterial ribosomal protein L19E.
+
+These proteins have 148 to 203 amino-acid residues. As a signature pattern, we
+selected a  stretch  of  about  20  residues  in  the N-terminal part of these
+proteins.
+
+-Consensus pattern: Q-[KR]-R-[LIVM]-x-[SA]-x(4)-[CV]-G-x(3)-[IV]-[WK]-[LIVF]-
+                    [DNSV]-[PE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Chan Y.-L., Lin A., McNally J., Peleg D., Meyuhas O., Wool I.G.
+     "The primary structure of rat ribosomal protein L19. A determination
+     from the sequence of nucleotides in a cDNA and from the sequence of
+     amino acids in the protein."
+     J. Biol. Chem. 262:1111-1115(1987).
+     PubMed=3542997
+[ 2] Hart K., Klein T., Wilcox M.
+     "A Minute encoding a ribosomal protein enhances wing morphogenesis
+     mutants."
+     Mech. Dev. 43:101-110(1993).
+     PubMed=8297785
+[ 3] Singleton C.K., Manning S.S., Ken R.
+     "Primary structure and regulation of vegetative specific genes of
+     Dictyostelium discoideum."
+     Nucleic Acids Res. 17:9679-9692(1989).
+     PubMed=2602140
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

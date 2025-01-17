@@ -1,0 +1,55 @@
+********************************************
+* Thymidine kinase cellular-type signature *
+********************************************
+
+Thymidine kinase (TK) (EC 2.7.1.21) is an ubiquitous enzyme that catalyzes the
+ATP-dependent phosphorylation of thymidine.   A comparison of TK sequences has
+shown [1,2,3] that there are two different families of TK.   One family groups
+together TK from herpesviruses as well as cellular thymidylate kinases,  while
+the second family currently consists of TK from the following sources:
+
+ - Vertebrates.
+ - Bacterial.
+ - Bacteriophage T4.
+ - Poxviruses.
+ - African swine fever virus (ASF).
+
+As a signature pattern  for  this family of TK we selected a  conserved region
+which is located in the C-terminal section of these enzymes.
+
+-Consensus pattern: [GA]-x(1,2)-[DE]-x-Y-x-[STAPV]-x-C-[NKR]-x-[CH]-[LIVMFYWH]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Proteins belonging to this family  also contain a copy  of the ATP/GTP-
+ binding motif 'A' (P-loop) in their N-terminal extremity (see <PDOC00017>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Boyle D.B., Coupar B.E.H., Gibbs A.J., Seigman L.J., Both G.W.
+     "Fowlpox virus thymidine kinase: nucleotide sequence and relationships
+     to other thymidine kinases."
+     Virology 156:355-365(1987).
+     PubMed=3027984
+[ 2] Blasco R., Lopez-Otin C., Munoz M., Bockamp E.-O., Simon-Mateo C.,
+     Vinuela E.
+     "Sequence and evolutionary relationships of African swine fever virus
+     thymidine kinase."
+     Virology 178:301-304(1990).
+     PubMed=2389555
+[ 3] Robertson G.R., Whalley J.M.
+     "Evolution of the herpes thymidine kinase: identification and
+     comparison of the equine herpesvirus 1 thymidine kinase gene reveals
+     similarity to a cell-encoded thymidylate kinase."
+     Nucleic Acids Res. 16:11303-11317(1988).
+     PubMed=2849761
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

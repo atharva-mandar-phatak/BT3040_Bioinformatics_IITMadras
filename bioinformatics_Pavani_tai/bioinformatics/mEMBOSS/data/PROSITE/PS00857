@@ -1,0 +1,78 @@
+********************************************************
+* Prephenate dehydratase domain signatures and profile *
+********************************************************
+
+Prephenate  dehydratase  (EC  4.2.1.51) (PDT) catalyzes the decarboxylation of
+prephenate  into  phenylpyruvate.  In  microorganisms  PDT  is involved in the
+terminal  pathway  of the biosynthesis of phenylalanine. In some bacteria such
+as Escherichia coli PDT is part of a bifunctional enzyme (P-protein) that also
+catalyzes the transformation of chorismate into prephenate (chorismate mutase,
+see <PDOC51167>) while in other prokaryotes it is a monofunctional enzyme [1].
+Fungal  and  plant  PDT  seem  to  be monofunctional enzymes as well. Most PDT
+contain  a  C-terminal  regulatory  domain (R), which can be an ACT domain and
+which allosterically regulates PDT by binding to aromatic amino acids [2,3].
+
+Some proteins known to contain a prephenate dehydratase domain:
+
+ - Bacterial  P-protein,  a  bifunctional  enzyme  composed  of  two catalytic
+   domains, chorismate mutase and PDT for biosynthesis of phenylalanine (Phe).
+   A C-terminal domain can be involved in feedback inhibition by Phe.
+ - Mycobacterium tuberculosis PDT encoded by pheA, a monofunctional PDT that is
+   allosterically activated by Phe, Tyr and Trp.
+ - Yeast prephenate dehydratase.
+
+As  signature  patterns  for  PDT we selected two conserved regions. The first
+region  contains a conserved threonine which has been said to be essential for
+the  activity of the enzyme in E. coli [4]. The second motif is located in the
+regulatory  (Phe  binding)  region  in  the  part  C-terminal  to PDT and this
+includes  a  conserved  glutamate. We also developed a profile that covers the
+entire enzymatic domain of prephenate dehydratase.
+
+-Consensus pattern: [FY]-x-[LIVM]-x(2)-[LIVM]-x(5)-[DN]-x(5)-T-R-F-[LIVMW]-x-
+                    [LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-[ST]-[KR]-[LIVMF]-E-[ST]-R-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / Text revised; profile added.
+
+[ 1] Fischer R.S., Zhao G., Jensen R.A.
+     "Cloning, sequencing, and expression of the P-protein gene (pheA) of
+     Pseudomonas stutzeri in Escherichia coli: implications for
+     evolutionary relationships in phenylalanine biosynthesis."
+     J. Gen. Microbiol. 137:1293-1301(1991).
+     PubMed=1919506
+[ 2] Zhang S., Pohnert G., Kongsaeree P., Wilson D.B., Clardy J., Ganem B.
+     "Chorismate mutase-prephenate dehydratase from Escherichia coli. Study
+     of catalytic and regulatory domains using genetically engineered
+     proteins."
+     J. Biol. Chem. 273:6248-6253(1998).
+     PubMed=9497350
+[ 3] Prakash P., Pathak N., Hasnain S.E.
+     "pheA (Rv3838c) of Mycobacterium tuberculosis encodes an
+     allosterically regulated monofunctional prephenate dehydratase that
+     requires both catalytic and regulatory domains for optimum activity."
+     J. Biol. Chem. 280:20666-20671(2005).
+     PubMed=15753077; DOI=10.1074/jbc.M502107200
+[ 4] Zhang S., Wilson D.B., Ganem B.
+     "Probing the catalytic mechanism of prephenate dehydratase by
+     site-directed mutagenesis of the Escherichia coli P-protein
+     dehydratase domain."
+     Biochemistry 39:4722-4728(2000).
+     PubMed=10769128; DOI=10.1021/bi9926680
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

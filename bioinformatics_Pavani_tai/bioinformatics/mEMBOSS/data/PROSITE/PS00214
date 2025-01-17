@@ -1,0 +1,105 @@
+***************************************************
+* Cytosolic fatty-acid binding proteins signature *
+***************************************************
+
+A number of  low molecular  weight proteins which  bind fatty  acids and other
+organic anions are present in the cytosol [1,2]. Most of them are structurally
+related and have probably diverged from a common ancestor. This structure is a
+ten stranded  antiparallel  beta-barrel,  albeit  with  a  wide  discontinuity
+between the fourth and fifth strands, with a repeated + 1 topology enclosing a
+internal ligand  binding  site  [2,7]. Proteins known to belong to this family
+include:
+
+ - Six,  tissue-specific,  types  of fatty acid binding proteins (FABPs) found
+   in liver,  intestine, heart, epidermal, adipocyte, brain/retina. Heart FABP
+   is also  known  as  mammary-derived growth inhibitor (MDGI), a protein that
+   reversibly inhibits  proliferation  of  mammary  carcinoma cells. Epidermal
+   FABP is also known as psoriasis-associated FABP [3].
+ - Insect muscle fatty acid-binding proteins.
+ - Testis lipid binding protein (TLBP).
+ - Cellular retinol-binding proteins I and II (CRBP).
+ - Cellular retinoic acid-binding protein (CRABP).
+ - Gastrotropin, an ileal protein which stimulates gastric acid and pepsinogen
+   secretion. It seems that gastrotropin binds to bile salts and bilirubins.
+ - Fatty  acid  binding  proteins  MFB1 and MFB2 from the midgut of the insect
+   Manduca sexta [4].
+
+In addition to the above cytosolic proteins, this family also includes:
+
+ - Myelin P2 protein, which may be a lipid transport protein in Schwann cells.
+   P2 is associated with the lipid bilayer of myelin.
+ - Schistosoma mansoni protein Sm14 [5] which seems  to  be  involved  in  the
+   transport of fatty acids.
+ - Ascaris  suum  p18  a secreted protein that may play a role in sequestering
+   potentially toxic  fatty  acids and their peroxidation products or that may
+   be involved  in  the  maintenance  of  the  impermeable  lipid layer of the
+   eggshell.
+ - Hypothetical  fatty  acid-binding  proteins  F40F4.2,  F40F4.3, F40F4.4 and
+   ZK742.5 from Caenorhabditis elegans.
+
+We use as a signature pattern for these proteins a segment from the N-terminal
+extremity.
+
+-Consensus pattern: [GSAIVK]-{FE}-[FYW]-x-[LIVMF]-x(2)-{K}-x-[NHG]-[FY]-[DE]-
+                    x-[LIVMFY]-[LIVM]-{N}-{G}-[LIVMAKR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 22.
+
+-Note: It  is  suggested, on the basis of similarities of structure, function,
+ and sequence,    that  this  family  forms an overall superfamily, called the
+ calycins, with  the lipocalin <PDOC00187> and avidin/streptavidin <PDOC00499>
+ families [6,7].
+
+-Expert(s) to contact by email:
+           Flower D.R.; darren.flower@jenner.ac.uk
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bernier I., Jolles P.
+     "A survey on cytosolic non-enzymic proteins involved in the metabolism
+     of lipophilic compounds: from organic anion binders to new protein
+     families."
+     Biochimie 69:1127-1152(1987).
+     PubMed=3129018
+[ 2] Veerkamp J.H., Peeters R.A., Maatman R.G.H.J.
+     "Structural and functional features of different types of cytoplasmic
+     fatty acid-binding proteins."
+     Biochim. Biophys. Acta 1081:1-24(1991).
+     PubMed=8068722
+[ 3] Siegenthaler G., Hotz R., Chatellard-Gruaz D., Didierjean L.,
+     Hellman U., Saurat J.-H.
+     "Purification and characterization of the human epidermal fatty
+     acid-binding protein: localization during epidermal cell
+     differentiation in vivo and in vitro."
+     Biochem. J. 302:363-371(1994).
+     PubMed=8092987
+[ 4] Smith A.F., Tsuchida K., Hanneman E., Suzuki T.C., Wells M.A.
+     "Isolation, characterization, and cDNA sequence of two fatty
+     acid-binding proteins from the midgut of Manduca sexta larvae."
+     J. Biol. Chem. 267:380-384(1992).
+     PubMed=1730603
+[ 5] Moser D., Tendler M., Griffiths G., Klinkert M.-Q.
+     "A 14-kDa Schistosoma mansoni polypeptide is homologous to a gene
+     family of fatty acid binding proteins."
+     J. Biol. Chem. 266:8447-8454(1991).
+     PubMed=2022660
+[ 6] Flower D.R., North A.C.T., Attwood T.K.
+     "Structure and sequence relationships in the lipocalins and related
+     proteins."
+     Protein Sci. 2:753-761(1993).
+     PubMed=7684291
+[ 7] Flower D.R.
+     "Structural relationship of streptavidin to the calycin protein
+     superfamily."
+     FEBS Lett. 333:99-102(1993).
+     PubMed=8224179
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

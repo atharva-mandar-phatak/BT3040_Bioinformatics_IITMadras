@@ -1,0 +1,54 @@
+THIKCHANNEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered to
+be an essential element of the aqueous K+-selective pore. Shaker-type and
+Kir K+ channel subunits both contain a single P-domain, and four such
+subunits are thought to associate to form a multimer, together with 
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunits was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one but two P-domains in each 
+subunit, and evidence suggests a complete channel may be formed by the 
+dimerisation of two such subunits.
+
+The first member of this family (TOK1) cloned from S.cerevisiae [1] was
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show 
+inward or outward rectification, their activity may be modulated in 
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these disparate
+properties, they are all thought to share the same topology of four TM 
+segments, including two P-domains. That TWIK-related K+ channels all produce
+instantaneous and non-inactivating K+ currents, which do not display a
+voltage-dependent activation threshold, suggests that they are background 
+(leak) K+ channels involved in the generation and modulation of the resting
+membrane potential in various cell types. Further studies have revealed that
+they may be found in many species, including: plants, invertebrates and 
+mammals.
+
+The THIK (Tandem pore-domain Halothane Inhibited K+ channel) family
+contains two members: THIK-1 and THIK-2. Both proteins were first isolated
+from rat and have subsequently been found in human. THIK-1 is expressed
+ubiquitously and is activated by arachidonic acid and inhibited by the
+volatile anaesthetic halothane. The second member, THIK-2, shares 58% amino
+acid identity with THIK-1, but is not functionally expressed. THIK-2 is 
+strongly expressed in several tissues, and is particularly abundant in the
+brain [7].
+
+THIKCHANNEL is a 7-element fingerprint that provides a signature for the
+THIK K+ channel. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise
+THIK channel proteins but distinguish them from related two P-domain K+
+channel sequences - motif 1 is situated in the first putative TM domain; 
+motifs 2 and 3 are located in the N-terminus of the first P-domain; motif 4
+lies in the C-terminus of the first P-domain; motif 5 spans the N-terminus
+of the second P-domain; motif 6 lies in the fourth TM domain; and motif 7
+resides in the C-terminus. A single iteration on SPTR39.22_17.3f was 
+required to reach convergence, no further sequences being identified beyond
+the starting set.

@@ -1,0 +1,54 @@
+***********************************
+* Zinc finger matrin-type profile *
+***********************************
+
+This C2H2  zinc finger was first identified in the protein Matrin 3 [1]. It is
+also found  in several spliceosome RNA-binding proteins, suggesting a possible
+role in pre-mRNA binding.
+
+The matrin zinc finger follows the general pattern C-x2-C-x(12,16)-H-x5-H. The
+spacings  are different from the 'classical' DNA-binding C2H2 zinc finger (see
+<PDOC00028>),  nevertheless  these  two  domains are too closely related to be
+fully separated by a pattern.
+
+Some of the proteins containing this domain are listed below:
+
+ - Matrin  3.  May  interact  with  other  nuclear matrix proteins to form the
+   internal fibrogranular network.
+ - Eukaryotic  splicing factor 3A subunits 2 (SAP62/PRP11) and 3 (SAP60/PRP9).
+   These are  subunits  of  the SF3A complex required for 'A' complex assembly
+   formed by  the stable binding of U2 snRNP to the branchpoint sequence (BPS)
+   in pre-mRNA. May anchor U2 snRNP to pre-mRNA.
+ - U1 small nuclear ribonucleoprotein C. Directly bind pre-mRNA [2].
+ - Mammalian nuclear protein NP220. Related to matrin 3.
+ - Formin binding protein 21, a spliceosome-associated protein.
+
+We have developed a profile that covers the whole zinc finger with 2 positions
+upstream,  usually  aromatic,  and  5  positions downstream which could form a
+positively charge tail important for RNA binding activity.
+
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ yeast PRP11.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Matsushima Y., Matsumura K., Kitagawa Y.
+     "Zinc finger-like motif conserved in a family of RNA binding
+     proteins."
+     Biosci. Biotechnol. Biochem. 61:905-906(1997).
+     PubMed=9178570
+[ 2] Rossi F., Forne T., Antoine E., Tazi J., Brunel C., Cathala G.
+     "Involvement of U1 small nuclear ribonucleoproteins (snRNP) in 5'
+     splice site-U1 snRNP interaction."
+     J. Biol. Chem. 271:23985-23991(1996).
+     PubMed=8798632
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,58 @@
+PROFILINMAML
+Profilin is a ubiquitous eukaryotic protein that plays an active role in
+the regulation of actin polymerisation. In view of its relatively small
+molecular mass (12-15kDa), the functions of profilin are complex and
+diverse. Under some circumstances, the protein sequesters actin monomers 
+and inhibits filament growth; under others, it "desequesters" actin monomers
+and actively promotes filament growth. Desequestering involves binding of
+profilin to the fast-growing ends of actin-filaments, which accelerates the
+exchange of the adenine nucleotide bound to monomeric actin. ATP-actin
+monomers polymerise faster than ADP-actin, and make stiffer filaments. 
+Therefore, under conditions of rapid filament reorganisation, where large 
+amounts of ADP-actin monomers are produced, and in the presence of a large
+excess of ATP over ADP, profilin may actually promote polymerisation [1,2].
+
+Profilin is probably also involved in some signalling pathways. It has been
+shown to bind tightly and specifically to phosphoinositides (PIP). Its 
+binding to PIP2 in lipid bilayers protects PIP2 from hydrolysis by soluble
+phosphoinositol-specific phospholipase C. Interestingly, the activity of RAS
+is controlled by mitogenically active phospholipids. Two proteins that
+regulate the GTPase activity of H-Ras (GAP and GIP) are regulated in 
+opposite ways by specific phospholipids, including polyphosphoinositides and 
+diacylglycerol. The net result of the phospholipid regulation of these two
+proteins is the activation of H-Ras. This suggests that profilin may 
+participate in the pathway activated by receptor tyrosine kinases and may
+be part of the mechanism by which receptor tyrosine kinases control the
+reorganisation of the cytoskeleton. Thus, the regulation of profilin may
+be an important link between growth factor signals from the outside world
+and the internal state of the actin cytoskeleton [1,2].
+
+Profilin homologues are present in organisms ranging from fungi and amoebae,
+to trees and mammals; a protein structurally similar to profilin is also
+present in the genome of variola and vaccinia viruses. Profilin is, in part,
+responsible for cross-reactivities in pollen and food allergic patients.
+
+Although the N-terminal region of profilins, which is thought to be involved 
+in actin binding, is relatively well conserved, in general, sequence 
+similarities between profilins from different species is low. The 
+differences are especially pronounced between mammal-specific and all
+other profilins. 
+
+The structure of profilin has been determined by NMR [3]. The protein folds
+into a single compact globular domain, which is bisected by an extended 
+anti-parallel beta-sheet. Two alpha-helices (which include the N- and
+C-terminal residues) lie on the convex face of the sheet, and 3 smaller
+helices lie on the concave face [3,4].
+
+PROFILINMAML is a 6-element fingerprint that provides a signature for
+mammal profilins. The fingerprint was derived from an initial alignment of
+6 sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise the 
+mammalian profilins but distinguish them from the rest of the profilin 
+family - motif 1 spans alpha-helix 1 and the N-terminus of beta-strand 1;
+motif 2 spans strand 2 and helix 2; motif 3 encompasses helix 4 and strand 3;
+motif 4 encodes strand 4; motif 5 encodes strand 6; and motif 6 spans the
+C-terminus of strand 7 and the N-terminus of helix 5. Three iterations on 
+SPTR39_17f were required to reach convergence, at which point a true set
+comprising 10 sequences was identified. Three partial matches were also
+found, all of which are C-terminal mouse profilin fragments. 

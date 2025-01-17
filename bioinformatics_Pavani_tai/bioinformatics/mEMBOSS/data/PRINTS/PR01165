@@ -1,0 +1,31 @@
+CYCOXIDASEI
+Haem-copper respiratory oxidases are oligomeric integral membrane protein
+complexes that catalyse the terminal step in the respiratory chain [1]: they
+transfer electrons from cytochrome c or a quinol to oxygen. In prokaryotes,
+terminal oxidases generate a transmembrane (TM) proton gradient across the 
+plasma membrane, and, in eukaryotes, the mitochondrial inner membrane. The
+enzyme complex consists of 3-4 subunits in prokaryotes and up to 13
+polypeptides in mammals. Only the catalytic subunit (equivalent to mammalian
+subunit 1 (CO I)) is found in all haem-copper respiratory oxidases. A
+bimetallic centre (formed by a high-spin haem and copper B) and a low-spin
+haem, both ligated to six conserved histidine residues near the outer side
+of four TM regions within CO I, is common to all family members [2-4].
+
+By contrast with eukaryotes, the respiratory chain of prokaryotes is
+branched to multiple terminal oxidases. The enzyme complexes vary in haem
+and copper composition, substrate type and substrate affinity. The different 
+respiratory oxidases allow the cells to customise their respiratory systems 
+according a variety of environmental growth conditions [1].
+
+CYCOXIDASEI is a 13-element fingerprint that provides a signature for
+cytochrome C oxidase subunit I. The fingerprint was derived from an initial
+alignment of 20 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 2 includes a conserved histidine,
+which may be a haem ligand; motifs 8 and 9 span the region encoded by 
+PROSITE pattern COX1 (PS00077), which encompasses the copper-binding region
+(the conserved histidines are copper B ligands); and motif 12 includes two
+conserved histidines, which may be haem ligands. Six iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 179 sequences was identified. Several partial matches were also 
+found, all of which are cytochrome C oxidase subunit I sequences that fail 
+to make significant matches with one or more motifs.

@@ -1,0 +1,63 @@
+***********************************************
+* v-SNARE coiled-coil homology domain profile *
+***********************************************
+
+The process  of  vesicular  membrane  fusion  in eukaryotic cells depends on a
+conserved fusion  machinery  called  SNARE (soluble N-ethylmaleimide-sensitive
+factor (NSF)  attachment  protein (SNAP) receptors). In the process of vesicle
+docking, proteins  present  on  the  vesicle  (v-SNARE)  have to bind to their
+counterpart  on the target membrane (t-SNARE)  to form a core complex that can
+then recruit  the soluble proteins NSF and SNAP. This so called fusion complex
+can then  disassemble  after  ATP  hydrolysis  mediated by the ATPase NSF in a
+process that leads to membrane fusion and the release of the vesicle contents.
+v-SNAREs include proteins homologous to synaptobrevin [1,2,3].
+
+Structurally the  SNARE  complex is generally a four-helix bundle comprised of
+three coiled-coil-forming domains from t-SNAREs (see <PDOC50192>) and one from
+v-SNARE (see  <PDB:1GL2>).  Although sequence similarity in the t- and v-SNARE
+coiled-coil homology  domains  are low there is a striking conservation of the
+so-called heptad repeat that is of central importance in forming a coiled-coil
+structure. In  a  coiled-coil  motif,  seven  residues  constitute a canonical
+heptad and  are designated 'a' through 'g', with 'a' and 'd' being occupied by
+hydrophobic residues.  The  association of the four alpha-helices in the SNARE
+fusion complex structure produces highly conserved layers of interacting amino
+acid side  chains  in  the  center of the four-helix bundle. The center of the
+bundle is  made  up of 15 hydrophobic layers from the 'a' and 'd' positions of
+the heptad    repeats  of the coiled-coil-forming domains, whereas the central
+'ionic' layer  is highly conserved and polar in nature, containing a glutamine
+residue in  the  three  t-SNAREs  and  an  arginine  in the v-SNARE, hence the
+classification of   v-  and  t-SNAREs as R- and Q-SNAREs, respectively. The v-
+SNARE coiled-coil homology domain is around 60 amino acids in length [1,2,3].
+
+The profile  we  developed  cover  the  entire  v-SNARE  coiled-coil  homology
+domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2002 / New entry.
+
+[ 1] Terrian D.M., White M.K.
+     "Phylogenetic analysis of membrane trafficking proteins: a family
+     reunion and secondary structure predictions."
+     Eur. J. Cell Biol. 73:198-204(1997).
+     PubMed=9243180
+[ 2] Fasshauer D., Sutton R.B., Brunger A.T., Jahn R.
+     "Conserved structural features of the synaptic fusion complex: SNARE
+     proteins reclassified as Q- and R-SNAREs."
+     Proc. Natl. Acad. Sci. U.S.A. 95:15781-15786(1998).
+     PubMed=9861047
+[ 3] Scales S.J., Hesser B.A., Masuda E.S., Scheller R.H.
+     "Amisyn, a novel syntaxin-binding protein that may regulate SNARE
+     complex assembly."
+     J. Biol. Chem. 277:28271-28279(2002).
+     PubMed=12145319; DOI=10.1074/jbc.M204929200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

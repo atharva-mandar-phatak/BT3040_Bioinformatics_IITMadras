@@ -1,0 +1,52 @@
+PRTACTNFAMLY
+Bordetella pertussis is a Gram-negative, aerobic coccobacillus that causes 
+pertussis (whooping cough), especially in young children [1]. Once present 
+in the lungs, the bacterium attaches to ciliated pulmonary epithelial cells 
+via a collection of outer membrane proteins, all of which are virulence 
+factors [1].
+
+Pertactin, or P69 protein, is one of these virulence factors. Pertactin and
+filamentous haemagglutinin have been identified as bordetella adhesins [2]. 
+Both proteins contain an arg-gly-asp (RGD) motif that promotes binding to
+integrins, known to be important in cell mobility and development [2]. The
+production of most bordetella virulence factors (including pertactin) is 
+controlled by a two-component signal transduction system, comprising the
+BvgA regulator and the BvgS sensor [3]. Pertactin shares a high level of
+similarity with other bordetella adhesins [3]. The protein is first produced
+as a 93kDa precursor. Upon secretion into the extracellular environment, a
+30kDa domain at the C-terminus remains in the outer membrane, while the
+mature 60.4kDa pertactin molecule is released [4].
+
+The crystal structure of mature pertactin has been determined to 2.5A 
+resolution by means of X-ray diffraction {4]. The fold is characterised by
+a 16-stranded parallel beta-helix, with a V-shaped cross-section. Several
+between-strand amino-acid repeats form internal and external ladders [4].
+The helical structure is interrupted by several protruding loops that
+contain motifs associated with the activity of the protein [4]. One 
+such sequence - [GGXXP]5 - appears directly after the RGD motif, and may
+mediate interaction with epithelial cells [4]. The C-terminal region of
+P.69 pertactin contains a [PQP]5 motif loop, which contains the major
+immunoprotective epitope [4]. 
+
+The tcfA gene of Bordetella pertussis encodes a unique virulence-associated 
+factor, Tcf (tracheal colonisation factor) [5]. The derived amino acid
+sequence of tcfA predicts a 68kDa RGD-containing, proline-rich protein.
+Amino acid sequence analysis reveals that the C-terminal 30kDa of this
+protein shares ~50% identity with the 30kDa C-terminus of the Bordetella
+pertactin precursor [5]. 
+
+The Bordetella resistance to killing, brk, locus has cloned and sequenced
+and found to encode two divergently transcribed open reading frames (ORFs),
+designated BrkA and BrkB [6]. Both ORFs are necessary for serum resistance.
+BrkA shares ~29% identity with pertactin and contains two RGD motifs, in 
+addition to a proteolytic processing site and an outer membrane targeting
+signal [6]. BrkA, like pertactin, is involved in adherence and invasion [6].
+
+PRTACTNFAMLY is an 8-element fingerprint that provides a signature for the 
+pertactin virulence factor family. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning the C-terminal half of the alignment, which has been 
+identified as the putative pertactin propeptide. Two iterations on 
+SPTR39_15f were required to reach convergence, at which point a true set
+comprising 15 sequences was identified. A single partial match was also
+found, O66044, a VAG8 protein from B.pertussis that matches motifs 2 and 4-8.

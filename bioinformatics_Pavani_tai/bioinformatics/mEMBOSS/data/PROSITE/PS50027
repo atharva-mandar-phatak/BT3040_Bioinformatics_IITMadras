@@ -1,0 +1,131 @@
+***********************************************************
+* Laminin-type EGF-like (LE) domain signature and profile *
+***********************************************************
+
+Laminins [1]  are  the  major  noncollagenous components of basement membranes
+that mediate  cell  adhesion,  growth migration, and differentiation. They are
+composed of  distinct  but  related  alpha,  beta  and gamma chains. The three
+chains form a cross-shaped molecule that consist of a long arm and three short
+globular arms.  The long arm consist of a coiled coil structure contributed by
+all three chains and cross-linked by interchain disulfide bonds.
+
+Beside different types of globular domains each subunit contains, in its first
+half, consecutive repeats of about 60 amino acids in length that include eight
+conserved cysteines [2]. The tertiary structure (see <PDB:1KLO>) [3,4] of this
+domain  is  remotely  similar in its N-terminal to that of the EGF-like module
+(see  <PDOC00021>).  It  is known as a 'LE' or 'laminin-type EGF-like' domain.
+The  number  of  copies of the LE domain in the different forms of laminins is
+highly variable; from 3 up to 22 copies have been found.
+
+A schematic  representation  of  the  topology  of the four disulfide bonds in
+the LE domain is shown below.
+
+         +-------------------+
+       +-|-----------+       |  +--------+  +-----------------+
+       | |           |       |  |        |  |                 |
+     xxCxCxxxxxxxxxxxCxxxxxxxCxxCxxxxxGxxCxxCxxgaagxxxxxxxxxxxCxx
+                             **********************************
+       sssssssssssssssssssssssssssssssssss
+
+'C': conserved cysteine involved in a disulfide bond
+'a': conserved aromatic residue
+'G': conserved glycine (lower case = less conserved)
+'s': region similar to the EGF-like domain
+'*': position of the pattern
+
+In additions to laminins, the LE domain is also found in:
+
+ - Agrin, a basal lamina protein  that causes the aggregation of acetylcholine
+   receptors on cultured muscle fibers. It consists of 9 Kazal-like domains, 2
+   LE domains, and 4 EGF-like domains.
+ - Perlecan,  a  multidomain  basement  membrane  heparan sulfate proteoglycan
+   composed of  4  LDLRA  domains,  3  LamB  domains, 12 LE domains, 14-21 IG-
+   like domains, 3 LamG domains, and 4 EGF-like domains.
+ - Caenorhabditis  elegans  basement membrane proteoglycan unc-52, which seems
+   to be involved in myofilament assembly and/or attachment of the myofilament
+   lattice to  the  cell membrane. The modular architecture is similar to that
+   of perlecan;  it  consists of 3 LDLRA domains, 2 LamB domains, 7 LE domains
+   and 16 IG-like domains.
+ - Netrins,  proteins  that  control  guidance of CNS commissural axons at the
+   midline and    peripheral  motor  axons. An homolog of netrin is UNC-6 from
+   Caenorhabditis  elegans,  a  component  of an extracellular matrix cue that
+   guides  dorso-ventral  migrations  on the epidermis. UNC-6 is required  for
+   the guidance  of  pioneer  axons  and  migrating cells along the body wall.
+   Netrins and UNC-6 are composed of a  laminin N-terminal domain (domain VI),
+   3 LE domains and a complement C3/4/5 C-terminal domain.
+ - Caenorhabditis  elegans  hypothetical  proteins  C54D1.5 and K08C7.3, which
+   both contain  a  laminin  N-terminal  domain  (domain VI), 10.5 and 21.5 LE
+   domains and a laminin domain IV.
+ - Caenorhabditis  elegans  hypothetical  protein F33C8.1, that contain two LE
+   domains and 3 EGF-like domains.
+
+In mouse laminin gamma-1 chain, the seventh LE domain has been shown to be the
+only one that binds with a high affinity to nidogen [5]. The binding-sites are
+located on   the  surface  within  the  loops  C1-C3  and  C5-C6  [3,4].  Long
+consecutive arrays of LE domains in laminins form rod-like elements of limited
+flexibility [1],  which  determine  the  spacing  in  the formation of laminin
+networks of basement membranes [6,7].
+
+We  derived  a signature pattern for the LE domain which covers the C-terminal
+half  of  the  repeat  starting  with  the  fourth conserved cysteine. We also
+developed a profile that covers the whole LE domain.
+
+-Consensus pattern: C-x(1,2)-C-x(5)-G-x(2)-C-x(2)-C-x(3,4)-[FYW]-x(3,15)-C
+                    [The 5 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Most,  but  not  all  LE domains in a given protein are detected by the
+ pattern.
+
+-Last update: May 2005 / Text revised; profile added.
+
+[ 1] Beck K., Hunter I., Engel J.
+     "Structure and function of laminin: anatomy of a multidomain
+     glycoprotein."
+     FASEB J. 4:148-160(1990).
+     PubMed=2404817
+[ 2] Engel J.
+     "EGF-like domains in extracellular matrix proteins: localized signals
+     for growth and differentiation?"
+     FEBS Lett. 251:1-7(1989).
+     PubMed=2666164
+[ 3] Stetefeld J., Mayer U., Timpl R., Huber R.
+     "Crystal structure of three consecutive laminin-type epidermal growth
+     factor-like (LE) modules of laminin gamma1 chain harboring the nidogen
+     binding site."
+     J. Mol. Biol. 257:644-657(1996).
+     PubMed=8648630
+[ 4] Baumgartner R., Czisch M., Mayer U., Poschl E., Huber R., Timpl R.,
+     Holak T.A.
+     "Structure of the nidogen binding LE module of the laminin gamma1
+     chain in solution."
+     J. Mol. Biol. 257:658-668(1996).
+     PubMed=8648631
+[ 5] Mayer U., Poeschl E., Gerecke D.R., Wagman D.W., Burgeson R.E., Timpl R.
+     "Low nidogen affinity of laminin-5 can be attributed to two serine
+     residues in EGF-like motif gamma 2III4."
+     FEBS Lett. 365:129-132(1995).
+     PubMed=7781764
+[ 6] Yurchenco P.D., Cheng Y.-S.
+     "Self-assembly and calcium-binding sites in laminin. A three-arm
+     interaction model."
+     J. Biol. Chem. 268:17286-17299(1993).
+     PubMed=8349613
+[ 7] Yurchenco P.D.
+     (In) Extracellular Matrix Assembly and Structure, Yurchenco P.D.,
+     Birk D., Mecham R.D., Eds., pp 351-388, Academic Press, San Diego,
+     (1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

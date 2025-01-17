@@ -1,0 +1,51 @@
+**********************
+* NAF domain profile *
+**********************
+
+The  NAF  domain  is  a 25 amino acid domain that is found in a plant-specific
+subgroup  of  serine-threonine  protein  kinases  (CIPKs),  that interact with
+calcineurin B-like calcium sensor proteins (CBLs). Whereas the N-terminal part
+of  CIPKs  comprises  a conserved catalytic domain typical of Ser-Thr kinases,
+the  much  less  conserved  C-terminal  domain  appears  to  be unique to this
+subgroup  of  kinases.  The  only  exception  is  the NAF domain that forms an
+'island of conservation' in this otherwise variable region. The NAF domain has
+been   named  after  the  prominent  conserved  amino  acids  Asn-Ala-Phe.  It
+represents  a  minimum  protein  interaction module that is both necessary and
+sufficient  to  mediate  the  interaction with the CBL calcium sensor proteins
+[1,2].
+
+The  secondary  structure  of  the  NAF  domain  is  currently  not known, but
+secondary  structure  computation  of  the  C-terminal  region  of Arabidopsis
+thaliana  CBL-interacting  protein  kinase 1 revealed a long helical structure
+[1].
+
+The profile we developed covers the entire NAF domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  NAF  domain has also been named FISL motif for its conserved amino
+ acid residues [2].
+
+-Last update: November 2003 / First entry.
+
+[ 1] Albrecht V., Ritz O., Linder S., Harter K., Kudla J.
+     "The NAF domain defines a novel protein-protein interaction module
+     conserved in Ca2+-regulated kinases."
+     EMBO J. 20:1051-1063(2001).
+     PubMed=11230129; DOI=10.1093/emboj/20.5.1051
+[ 2] Guo Y., Halfter U., Ishitani M., Zhu J.-K.
+     "Molecular characterization of functional domains in the protein
+     kinase SOS2 that is required for plant salt tolerance."
+     Plant Cell 13:1383-1400(2001).
+     PubMed=11402167
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

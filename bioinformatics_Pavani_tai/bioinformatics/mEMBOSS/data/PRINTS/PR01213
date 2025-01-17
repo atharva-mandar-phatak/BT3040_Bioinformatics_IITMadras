@@ -1,0 +1,30 @@
+BSYNUCLEIN
+Human synuclein has been shown to belong to a gene family [1]. To date, 
+three different proteins, termed alpha, beta and gamma, have been 
+characterised. The amino acid sequences of synucleins share a similar
+overall structure: hydropathy analysis reveals a central hydrophobic domain
+of ~30 amino acids, flanked by highly hydrophilic stretches; the N-terminal
+flanking region contains four repeating motifs (EKTKEGV); and the C-terminal
+domain is rich in glutamic acid and proline [2]
+
+Synelfin, a homologue of synuclein, is a soluble presynaptic protein that 
+is predicted to form an amphipathic alpha-helical structure typical of the
+lipid-binding domain in apolipoproteins [3]. This protein is believed to
+serve a novel function critical to the regulation of vertebrate neural
+plasticity [3]. 
+
+Beta-synuclein is expressed in the brain, specifically in synapses around
+neurons, but not in glial cells [4]. The protein, which has been designated
+a phosphoneuroprotein, has been found to be phosphorylated in vitro and in
+vivo [4]. It is believed that the physiological functions of beta-synuclein
+may be controlled by the phosphorylation reaction. 
+
+BSYNUCLEIN is a 4-element fingerprint that provides a signature for
+beta-synucleins. The fingerprint was derived from an initial alignment of
+3 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length, focusing on those sections that
+characterise the beta-synucleins but distinguish them from the rest of the
+synuclein family - motif 1 lies in the N-terminal region of the hydrophobic
+domain; and motifs 2-4 span the Glu-Pro-rich C-terminal domain. A single
+iteration on SPTR37_10f was required to reach convergence, no further
+sequences being identified beyond the starting set.

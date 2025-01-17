@@ -1,0 +1,25 @@
+ABHYDROLASE
+The alpha/beta hydrolase fold is common to a number of hydrolytic enzymes
+of widely differing phylogenetic origin and catalytic function. The core
+of each enzyme is an alpha/beta-sheet (rather than a barrel), containing 8
+strands connected by helices [1]. The enzymes are believed to have diverged
+from a common ancestor, preserving the arrangement of the catalytic
+residues. All have a catalytic triad, the elements of which are borne on
+loops, which are the best conserved structural features of the fold. 
+
+ABHYDROLASE is a 4-element fingerprint that provides a signature for 
+members of this diverse family of enzymes. The fingerprint was derived 
+from an initial alignment of 3 sequences: motifs 2 and 4 include elements
+of the catalytic triad. Three iterations on OWL17.0 were required to reach
+convergence, at which point a true set comprising 10 sequences was
+identified: this included hydrolases, dehalogenases, lipases, and a
+depolymerase. Several partial matches were also found, including magnesium
+chelatase, chloroperoxidase, atropine acylhydrolase, haloacetate
+dehalogenase, and so on, all of which are likely to be family members. The
+low level of similarity between the different sequence types means that the
+fingerprint has not performed well, and has missed sequences that are
+probably family members (e.g. epoxide hydrolases). It does, however,
+provide a rough diagnostic tool.
+
+An update on SPTR37_9f identified a true set of 29 sequences, and 44
+partial matches.

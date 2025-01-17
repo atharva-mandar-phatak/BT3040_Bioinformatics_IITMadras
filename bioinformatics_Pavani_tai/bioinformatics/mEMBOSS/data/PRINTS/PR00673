@@ -1,0 +1,29 @@
+LIGHTHARVSTA
+The antenna complexes of photosynthetic bacteria function as light-
+harvesting systems that absorb light and transfer the excitation energy
+to the reaction centers. The antenna complexes usually comprise 2
+polypeptides (alpha- and beta-chains), 2-3 bacteriochlorophyll molecules
+and some carotenoids [1,2].
+
+The alpha- and beta-chains are small proteins of 40-70 residues. Each has 
+an N-terminal hydrophilic cytoplasmic domain, a single transmembrane (TM)
+region, and a small C-terminal hydrophilic periplasmic domain. In both
+chains, the TM domain houses a conserved His residue, presumed to be
+involved in binding the magnesium atom of a bacteriochlorophyll group.
+The beta-chains are characterised by a further histidine at the C-terminal
+extremity of the cytoplasmic domain, which is also thought to be involved
+in bacteriochlorophyll binding.
+
+LIGHTHARVSTA is a 3-element fingerprint that provides a signature for 
+light harvesting protein A chains. The fingerprint was derived from an
+initial alignment of 26 sequences: the motifs span the full alignment
+length - motif 1 was drawn from the cytoplasmic domain; motif 2 spans
+the TM domain and includes the conserved His (cf. PROSITE pattern 
+ANTENNA_COMP_ALPHA (PS00968)); and motif 3 lies in the C-terminal
+periplasmic domain. Two iterations on OWL29.2 were required to reach
+convergence, at which point a true set comprising 34 sequences was
+identified. Three partial matches were also found, all of which are family
+members that fail to make significant matches with either motif 1 or 3.
+
+An update on SPTR37_9f identified a true set of 31 sequences, and 5
+partial matches.

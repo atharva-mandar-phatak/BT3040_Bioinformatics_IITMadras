@@ -1,0 +1,42 @@
+SIGMA54FCT
+Sigma factors are bacterial transcription factors that promote the binding 
+of RNA polymerase to promoters containing their recognition sites. This 
+binding is facilitated by 2 leucine zipper regions [1], which help to
+position the polymerase-sigma factor complex over the correct DNA region.
+This region is then 'melted' by the acidic domain of the sigma factor,
+allowing transcription to take place.
+
+Most bacteria express a multiplicity of sigma factors. Two of these,
+sigma-70 (generally known as the major or primary sigma factor) and 
+sigma-54, direct the transcription of a wide variety of genes: the others
+(known as alternative sigma factors) are required for the transcription of 
+specific subsets of genes. 
+
+Sigma-54 differs from sigma-70 in that it allows regulation of gene
+expression by remotely-bound enhancer molecules upstream from the promoter.
+These enhancers are often phosphorylated by a sensor protein before they
+can activate transcription. Binding of the enhancers activates the pre-
+bound polymerase-sigma factor complex, which then 'melts' the DNA at the
+transcriptional start site, allowing transcriptional activation. Thus the
+RNA polymerase-sigma-54 complex acts as a receptor complex for receipt of
+the melting signal from the remotely-bound activator.
+
+Genes that are activated by sigma-54 are, in general, involved in nitrogen
+source assimilation [2] in Gram-negative bacteria, although genes involved
+in forming the structure of flagellae [3] and degradation of toluene and
+xylenes [4] have also been found to require the presence of sigma-54. The
+main feature of these genes is that they lack the usual -10 and -35
+sequences recognised by factor 70, but have strongly conserved -12 and
+-24 sequences.
+
+SIGMA54FCT is a 4-element fingerprint that provides a signature for the 
+sigma-54 proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: motif 2 spans the ATP-binding region (the so-called P-loop)
+(cf. PROSITE pattern SIGMA54_1 (PS00717)), and motif 4 encodes a second
+ATP-binding region (cf. PROSITE pattern SIGMA54_2 (PS00718)). Two
+iterations on OWL19.1 were required to reach convergence, at which point
+a true set comprising 16 sequences was identified. Several partial matches
+were also found that lack matches with motif 3. 
+
+An update on SPTR37_9f identified a true set of 34 sequences, and 3
+partial matches.

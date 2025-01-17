@@ -1,0 +1,100 @@
+***********************************
+* Polyprenyl synthases signatures *
+***********************************
+
+A variety of isoprenoid compounds  are synthesized by various organisms.   For
+example in eukaryotes the isoprenoid biosynthetic  pathway is  responsible for
+the synthesis of a variety  of end products including  cholesterol,  dolichol,
+ubiquinone or coenzyme Q.  In  bacteria this pathway leads to the synthesis of
+isopentenyl tRNA, isoprenoid quinones, and sugar carrier lipids.    Among  the
+enzymes  that  participate  in  that  pathway,  are  a  number  of  polyprenyl
+synthase enzymes  which  catalyze a 1'4-condensation between 5 carbon isoprene
+units.
+
+Currently the sequence of some of these enzymes is known:
+
+ - Eukaryotic  farnesyl  pyrophosphate  synthase  (FPP synthase) (EC 2.5.1.1 /
+   EC 2.5.1.10) which  catalyzes  the  sequential condensation  of isopentenyl
+   pyrophosphate (IPP) with dimethylallyl pyrophosphate (DMAPP), and then with
+   the resultant  geranyl pyrophosphate  to form farnesyl pyrophosphate.   FPP
+   synthase is a cytoplasmic dimeric enzyme.
+ - Prokaryotic farnesyl pyrophosphate synthase (gene ispA).
+ - Prokaryotic octaprenyl diphosphate synthase (gene ispB).
+ - Prokaryotic heptaprenyl diphosphate synthase (EC 2.5.1.30).
+ - Eukaryotic    geranylgeranyl   pyrophosphate   synthase   (GGPP   synthase)
+   (EC 2.5.1.1 / EC 2.5.1.10 / EC 2.5.1.29)  which  catalyzes  the  sequential
+   addition of the three molecules  of  IPP  onto DMAPP to form geranylgeranyl
+   pyrophosphate.  In plants GGPP synthase is a chloroplast enzyme involved in
+   the biosynthesis of terpenoids; in  fungi,  such as Neurospora crassa (gene
+   al-3), this enzyme is involved in the biosynthesis of carotenoids.
+ - Prokaryotic  GGPP  synthase,  which  are  involved  in  the biosynthesis of
+   carotenoids (gene crtE). Such  an  enzyme  is  also encoded in the cyanelle
+   genome of Cyanophora paradoxa.
+ - Eukaryotic  hexaprenyl  pyrophosphate  synthase,  which  is involved in the
+   biosynthesis of coenzyme Q  and which catalyzes the formation of all trans-
+   polyprenyl pyrophosphates generally ranging in  length of  between 6 and 10
+   isoprene units  depending  on  the  species. HP synthase is a mitochondrial
+   membrane-associated enzyme.
+
+It has been shown [1 to 5] that  all the above enzymes share some  regions  of
+sequence similarity.   Two of these regions are rich in aspartic-acid residues
+and could be  involved  in the  catalytic  mechanism and/or the binding of the
+substrates. We have developed signature patterns for both regions.
+
+Possible additional members of this family of proteins are:
+
+ - Bacillus subtilis spore germination protein C3 (gene gerC3).
+
+We believe [6] that both  proteins  are most probably also enzymes involved in
+isoprenoid metabolism.
+
+-Consensus pattern: [LIVM](2)-x-D-D-x(2,4)-D-x(4)-R-R-[GH]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFY]-G-x(2)-[FYL]-Q-[LIVM]-x-D-D-[LIVMFY]-x-[DNG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Ashby M.N., Edwards P.A.
+     "Elucidation of the deficiency in two yeast coenzyme Q mutants.
+     Characterization of the structural gene encoding hexaprenyl
+     pyrophosphate synthetase."
+     J. Biol. Chem. 265:13157-13164(1990).
+     PubMed=2198286
+[ 2] Fujisaki S., Hara H., Nishimura Y., Horiuchi K., Nishino T.
+     "Cloning and nucleotide sequence of the ispA gene responsible for
+     farnesyl diphosphate synthase activity in Escherichia coli."
+     J. Biochem. 108:995-1000(1990).
+     PubMed=2089044
+[ 3] Carattoli A., Romano N., Ballario P., Morelli G., Macino G.
+     "The Neurospora crassa carotenoid biosynthetic gene (albino 3) reveals
+     highly conserved regions among prenyltransferases."
+     J. Biol. Chem. 266:5854-5859(1991).
+     PubMed=1826006
+[ 4] Kuntz M., Romer S., Suire C., Hugueney P., Weil J.H., Schantz R.,
+     Camara B.
+     "Identification of a cDNA for the plastid-located geranylgeranyl
+     pyrophosphate synthase from Capsicum annuum: correlative increase in
+     enzyme activity and transcript level during fruit ripening."
+     Plant J. 2:25-34(1992).
+     PubMed=1303794
+[ 5] Math S.K., Hearst J.E., Poulter C.D.
+     "The crtE gene in Erwinia herbicola encodes geranylgeranyl diphosphate
+     synthase."
+     Proc. Natl. Acad. Sci. U.S.A. 89:6761-6764(1992).
+     PubMed=1495965
+[ 6] Bairoch A.
+     Unpublished observations (1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

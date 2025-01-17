@@ -1,0 +1,31 @@
+EUOM20RECPTR
+Virtually all mitochondrial precursors are imported via the same 
+mechanism [1]: precursors first bind to receptors on the mitochondrial
+surface, then insert into the translocation channel in the outer membrane.
+Many outer-membrane proteins participate in the early stages of import,
+4 of which (MAS20, MAS22, MAS37 and MAS70) are components of the receptor.
+MAS20, which forms a subcomplex with MAS22, seems to interact with most or
+all mitochondrial precursors, suggesting that the protein binds directly
+to mitochondrial targeting sequences. The MAS37 and MAS70 components also
+form a subcomplex, the 2 subcomplexes possibly binding via their trans-
+membrane (TM) regions - the TM region of MAS70 promotes oligomerisation
+of attatched protein domains and shares sequence similarity with the
+TM region of MAS20 [2]. 
+
+The human homologue of the fungal MAS20 (TOM20) import receptor has been
+identified and characterised [3]. Although the amino acid sequences exhibit
+pronounced differences, similarity is greatest in the N-terminal third of
+the molecules. The structure of the rat TOM20 import receptor has been
+determined by NMR [4]. The cytosolic domain forms an all-alpha structure,
+with a hydrophobic groove that mediates presequence binding [4].
+
+EUOM20RECPTR is a 7-element fingerprint that provides a signature for the
+metazoan eukaryotic MAS20 (TOM20) import receptor subunit. The fingerprint 
+was derived from an initial alignment of 11 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length, focusing on those
+sections that characterise the eukaryotic receptors but distinguish them
+from the rest of the MAS20 (TOM20) family. Two iterations on SPTR55_38f 
+were required to reach convergence, at which point a true set comprising 12
+sequences was identified. Seven partial matches were also found, all of
+which are TOM20-like proteins that fail to make significant matches with
+two or more motifs.

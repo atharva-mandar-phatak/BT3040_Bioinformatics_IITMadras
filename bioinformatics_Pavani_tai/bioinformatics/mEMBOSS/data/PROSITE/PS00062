@@ -1,0 +1,87 @@
+*****************************************
+* Aldo/keto reductase family signatures *
+*****************************************
+
+The aldo-keto reductase family [1,2] groups together a number of  structurally
+and functionally related NADPH-dependent oxidoreductases as well as some other
+proteins. The proteins known to belong to this family are:
+
+ - Aldehyde reductase (EC 1.1.1.2).
+ - Aldose reductase (EC 1.1.1.21).
+ - 3-alpha-hydroxysteroid   dehydrogenase   (EC  1.1.1.50),  which  terminates
+   androgen  action  by  converting  5-alpha-dihydrotestosterone  to  3-alpha-
+   androstanediol.
+ - Prostaglandin F synthase (EC 1.1.1.188) which   catalyzes  the reduction of
+   prostaglandins H2 and D2 to F2-alpha.
+ - D-sorbitol-6-phosphate dehydrogenase (EC 1.1.1.200) from apple.
+ - Morphine  6-dehydrogenase  (EC  1.1.1.218)  from Pseudomonas putida plasmid
+   pMDH7.2 (gene morA).
+ - Chlordecone   reductase   (EC   1.1.1.225)   which  reduces  the  pesticide
+   chlordecone (kepone) to the corresponding alcohol.
+ - 2,5-diketo-D-gluconic acid  reductase   (EC 1.1.1.274) which catalyzes  the
+   reduction  of 2,5-diketogluconic  acid  to  2-keto-L-gulonic  acid,  a  key
+   intermediate in the production of ascorbic acid.
+ - NAD(P)H-dependent  xylose  reductase  (EC  1.1.1.-)  from  the yeast Pichia
+   stipitis. This enzyme reduces xylose into xylit.
+ - Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase (EC 1.3.1.20).
+ - 3-oxo-5-beta-steroid  4-dehydrogenase  (EC  1.3.99.6)  which  catalyzes the
+   reduction of delta(4)-3-oxosteroids.
+ - A soybean reductase, which co-acts with chalcone synthase  in the formation
+   of 4,2',4'-trihydroxychalcone.
+ - Frog eye lens rho crystallin.
+ - Yeast GCY protein, whose function is not known.
+ - Leishmania  major P110/11E protein. P110/11E is a developmentally regulated
+   protein whose abundance is markedly elevated in promastigotes compared with
+   amastigotes. Its exact function is not yet known.
+ - Escherichia coli hypothetical protein yafB.
+ - Escherichia coli hypothetical protein yghE.
+ - Yeast hypothetical protein YBR149w.
+ - Yeast hypothetical protein YHR104w.
+ - Yeast hypothetical protein YJR096w.
+
+These proteins have all about 300 amino acid residues.  We derived 3 consensus
+patterns specific to this family of proteins.  The first one is located in the
+N-terminal section of these  proteins.  The  second  pattern is located in the
+central section.  The third pattern, located in the C-terminal, is centered on
+a  lysine  residue  whose  chemical  modification,  in   aldose  and  aldehyde
+reductases, affect the catalytic efficiency.
+
+-Consensus pattern: G-[FY]-R-[HSAL]-[LIVMF]-D-[STAGCL]-[AS]-x(5)-[EQ]-x(2)-
+                    [LIVMCA]-[GS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFY]-x(8)-{L}-[KREQ]-{K}-[LIVM]-G-[LIVM]-[SC]-N-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for morA.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: [LIVM]-[PAIV]-[KR]-[ST]-{EPQG}-{RFI}-x(2)-R-{SVAF}-x-
+                    [GSTAEQK]-[NSL]-x-{LVRI}-[LIVMFA]
+                    [K may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yafB.
+-Other sequence(s) detected in Swiss-Prot: 41.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Bohren K.M., Bullock B., Wermuth B., Gabbay K.H.
+     "The aldo-keto reductase superfamily. cDNAs and deduced amino acid
+     sequences of human aldehyde and aldose reductases."
+     J. Biol. Chem. 264:9547-9551(1989).
+     PubMed=2498333
+[ 2] Bruce N.C., Willey D.L., Coulson A.F.M., Jeffery J.
+     "Bacterial morphine dehydrogenase further defines a distinct
+     superfamily of oxidoreductases with diverse functional activities."
+     Biochem. J. 299:805-811(1994).
+     PubMed=8192670
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

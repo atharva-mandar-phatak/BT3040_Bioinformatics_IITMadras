@@ -1,0 +1,54 @@
+NEUROMEDNU2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Neuromedin U is a neuropeptide, first isolated from porcine spinal cord and
+expressed widely in the gastrointestinal, genitourinary and central nervous
+systems [6,7]. Neuromedin U has potent contractile activity on smooth muscle
+and this activity is believed to reside within the C-terminal portion of
+the peptide, which is highly conserved between species [6]. Other roles 
+for the peptide include: regulation of blood flow and ion transport in
+the intestine, regulation of adrenocortical function and increased blood
+pressure [6,7]. The roles of neuromedin U in the central nervous system
+are poorly understood, but may include: regulation of food intake,
+neuroendocrine control, modulation of dopamine actions and involvement in
+neuropsychiatric disorders [6]. Two G protein-coupled receptor subtypes,
+with differing expression patterns, have been identified and shown to bind
+neuromedin U [6,7].
+
+The neuromedin U type 2 receptor (NMU2) is expressed most abundantly in the
+central nervous system, particularly in the medulla oblongata, pontine
+reticular formation, substantia nigra, spinal cord and thalamus [6,7]. High
+levels of expression have also been found in the thymus, thyroid and testes
+[7]. NMU2 has been detected at much lower levels in some peripheral tissues,
+including the kidney, lung, trachea and gastrointestinal tract [6].
+
+NEUROMEDNU2R is an 8-element fingerprint that provides a signature for the
+neuromedin U type 2 receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within N- and C-terminal and loop regions, focusing on those areas of the
+alignment that characterise type 2 neuromedin U receptors but distinguish
+them from the rest of the neuromedin U receptor family - motifs 1 and 2 
+reside at the N-terminus; motif 3 encodes the second cytoplasmic loop, 
+leading into TM domain 4; motif 4 lies in the second external loop; motif 5
+lies in the third cytoplasmic loop; motif 6 is located at the C-terminus of
+TM domain 6, leading into the third external loop; and motifs 7 and 8 
+reside at the C-terminus. A single iteration on SPTR39.22_17.3f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set.

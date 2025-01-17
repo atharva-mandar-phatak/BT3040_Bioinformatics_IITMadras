@@ -1,0 +1,52 @@
+VASOPRSNV2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Vasopressin and oxytocin are members of the neurohypophyseal hormone family
+found in all mammalian species [6]. They are present in high levels in the
+posterior pituitary. Vasopressin has an essential role in the control of 
+the water content of the body, acting in the kidney to increase water and
+sodium absorption [6]. In higher concentrations, vasopressin stimulates
+contraction of vascular smooth muscle, stimulates glycogen breakdown in the
+liver, induces platelet activation, and evokes release of corticotrophin 
+from the anterior pituitary [6]. Vasopressin and its analogues are used
+clinically to treat diabetes insipidus [6]. 
+
+The V2 receptor is found in high levels in the osmoregulatory epithelia of
+the terminal urinary tract, where it stimulates water reabsorption [6]. It
+is also present in lower levels in the endothelium and blood vessels of some
+species, where it induces vasodilation [6]. In the CNS, binding sites are
+found in the subiculum, with lower levels in caudate-putamen and islands 
+of Calleja [6]. The receptor is involved in an effector pathway that forms
+cAMP through activation of Gs [6].
+
+VASOPRSNV2R is an 8-element fingerprint that provides a signature for
+vasopressin V2 receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from short conserved
+sections spanning the full alignment length, focusing on those regions
+that characterise the vasopressin V2 receptors but distinguish them from
+the rest of the vasopressin family - motifs 1 and 2 reside at the N-terminus; 
+motif 3 spans the first cytoplasmic loop; motif 4 spans the second 
+cytoplasmic loop; motifs 5 and 6 span the third cytoplasmic loop; and 
+motifs 7 and 8 reside at the C-terminus. A single iteration on OWL30.1 was
+required to reach convergence, no further sequences being identified
+beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 1
+partial match.

@@ -1,0 +1,23 @@
+MGATPASE
+P-type (or E1-E2-type) ATPases constitute a superfamily of cation transport
+enzymes, present both in prokaryota and eukaryota, whose members mediate
+membrane flux of all common biologically relevant cations [1]. The enzymes
+can be divided into 4 major groups [2]: (1) Ca2+-transporting ATPases; 
+(2) Na+/K+- and gastric H+/K+-transporting ATPases; (3) plasma membrane
+H+-transporting ATPases (proton pumps) of plants, fungi and lower
+eukaryotes; and (4) all bacterial P-type ATPases, except the Mg2+-ATPase
+of Salmonella typhimurium [3,4], which is more similar to the eukaryotic
+sequences.
+
+P-type Mg2+ transporters have been characterised primarily in Salmonella
+typhimurium [5]. These are unusual in that they mediate Mg2+ influx with,
+rather than against, the Mg2+ electrochemical gradient - this has led to
+the suggestion that Mg2+ transport is coupled with the transport of an 
+as-yet unidentified molecule [5].
+
+MGATPASE is a 9-element fingerprint that provides a signature for the
+magnesium-transporting ATPases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length. Two iterations on SPTR40_18f
+were required to reach convergence, at which point a true set comprising 7 
+sequences was identified.

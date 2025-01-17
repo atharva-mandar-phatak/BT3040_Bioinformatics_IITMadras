@@ -1,0 +1,43 @@
+VP7CAPSID
+Bluetongue virus (BTV) is a representative of the orbivirus genus of the 
+Reoviridae [1]. Orbiviruses infect mammalian hosts through insect vectors,
+causing economically-important diseases of domesticated animals [1]. They
+possess a segmented, double-stranded RNA genome within a capsid that
+comprises four major polypeptides, designated VP2, VP3, VP5 and VP7. On 
+entering a target cell, an outer layer, formed from VP2 and VP5, is removed,
+leaving an intact core within the cell [1]. The core, which is 70nm across, 
+contains 780 copies of VP7, which together form 260 trimeric 'bristly'
+capsomeres clothing an inner scaffold constructed from VP3 [1].
+
+The 3D structure of VP7 reveals two domains, one a beta-sandwich, the other
+a bundle of alpha-helices, and a short C-terminal arm, which is thought to
+unite trimers during capsid formation [1]. A concentration of methionine 
+residues at the core of the molecule could provide plasticity, relieving 
+structural mismatches during assembly [1]. 
+
+The 3D structure of baculovirus-expressed core protein VP7 of African horse
+sickness virus serotype 4 (AHSV-4) has been determined to 2.3A resolution 
+[2]. During crystallisation, the two-domain protein is cleaved, leaving 
+only the top domain, in a manner reminiscent of bluetongue virus (BTV) VP7; 
+this suggests that connections between top and bottom domains are relatively
+weak for these two distinct orbiviruses [2]. The top domains of both BTV and
+AHSV VP7 are trimeric and structurally very similar. Electron density maps 
+indicate an extra density feature along their molecular 3-fold axes, 
+probably the result of an unidentified ion [2]. The characteristics of the
+molecular surface indicate the possibility of attachment to the cell via 
+attachment of an Arg-Gly-Asp (RGD) motif in the top domain of VP7 to a 
+cellular integrin for both of these orbiviruses [2]. 
+
+VP7CAPSID is a 9-element fingerprint that provides a signature for viral
+VP7 core proteins. The fingerprint was derived from an initial alignment
+of 10 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motif 1 encodes most of helix 2;
+motif 2 encodes most of helix 3; motif 3 includes helix 4; motif 4 spans
+helix 5 and strand 1; motif 5 includes strand 6; motif 6 spans strands 8-10;
+motif 7 includes part of strand 12; motif 8 spans helix 8; and motif 9
+includes most of helix 9. Two iterations on OWL30.1 were required to 
+reach convergence, at which point a true set comprising 13 sequences was
+identified. A single partial match was found, VP7_BRD, a VP7 protein from
+broadhaven virus that matches motifs 3 and 8.
+
+An update on SPTR37_9f identified a true set of 13 sequences.

@@ -1,0 +1,42 @@
+AMLASEINHBTR
+Seeds of cereals contain a variety of serine proteases and alpha-amylase
+inhibitors. These inhibitors can be grouped into families based on structural
+similarities. Trypsin/alpha-amylase inhibitors are specific to trypsin or to
+alpha-amylase, and a few are bifunctional. The proteins contain ~120 amino
+acids, including 10 cysteine residues, all of which are involved in
+disulphide bond formation [1], as represented schematically below:
+
+                      +----------------------------+
+          +----------+|   +-+                      |
+          |          ||   | |                      |
+ xxCxxxxxxCxxxCxxxxxxCCxxxCxCxxxxxxxxxxxxxCxxxxxxxxCxxxxxxxCxxxx
+   |          |                           |                |
+   |          +---------------------------+                |
+   +-------------------------------------------------------+
+
+
+The 3D structure of the bifunctional alpha-amylase/trypsin inhibitor (RBI)
+from seeds of ragi (Eleusine coracana) has been determined in solution using
+multidimensional 1H and 15N NMR spectroscopy [2]. The inhibitor forms a 
+globular 4-helix motif with a simple "up-and-down" topology, and includes
+a short anti-parallel beta-sheet [2]. 
+
+This family also includes various rice seed allergenic proteins [3,4].
+
+AMLASEINHBTR is a 4-element fingerprint that provides a signature for the
+cereal trypsin/alpha-amylase inhibitor protein family. The fingerprint was
+derived from an initial alignment of 14 sequences: the motifs were drawn
+from short conserved regions spanning the full length of the mature protein
+- motifs 1 and 2 span the region encoded by PROSITE pattern
+CEREAL_TRYP_AMYL_INH (PS00426), which includes the first 3 Cys residues;
+motif 2 encompasses the first helix; motif 3 encodes the second helix 
+and includes the adjacent pair of cysteines; motif 4 includes the following
+Cys pair and includes the first turn of helix 3; motif 5 spans the N-terminal 
+half of helix 4 and includes the eighth Cys; and motif 6 includes the ninth
+Cys. Three iterations on OWL30.0 were required to reach convergence, at 
+which point a true set comprising 39 sequences was identified. Several
+partial matches were also found, all of which are fragments, or members of
+the alpha/beta-gliadin family, most of which match motifs 2 and 4.
+
+An update on SPTR37_9f identified a true set of 34 sequences, and 13
+partial matches.

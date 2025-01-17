@@ -1,0 +1,45 @@
+**********************
+* KBD domain profile *
+**********************
+
+The c-Kit-binding  domain (KBD) composed of about 50 amino acids is found in a
+family of  membrane-bound molecules, Spreds, which contain an EVH1 domain (see
+<PDOC50229>) in the N-terminus and a Sprouty-related cysteine rich region (SPR
+domain) (see <PDOC51227>) in the C-terminus [1,2]:
+
+ - Spred-1
+ - Spred-2
+ - Spred-3.  It  does  not possess a functional KBD domain, since the critical
+   amino acid Arg was replaced with Gly.
+
+Spred proteins  function  as  suppressors of the MAP kinase pathway in various
+systems. Each member of the Spred family may have a selective function for the
+regulation of the MAP kinase cascade [1,2].
+
+The profile we developed covers the entire KBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2010 / First entry.
+
+[ 1] Wakioka T., Sasaki A., Kato R., Shouda T., Matsumoto A., Miyoshi K.,
+     Tsuneoka M., Komiya S., Baron R., Yoshimura A.
+     "Spred is a Sprouty-related suppressor of Ras signalling."
+     Nature 412:647-651(2001).
+     PubMed=11493923; DOI=10.1038/35088082
+[ 2] Kato R., Nonami A., Taketomi T., Wakioka T., Kuroiwa A., Matsuda Y.,
+     Yoshimura A.
+     "Molecular cloning of mammalian Spred-3 which suppresses tyrosine
+     kinase-mediated Erk activation."
+     Biochem. Biophys. Res. Commun. 302:767-772(2003).
+     PubMed=12646235
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

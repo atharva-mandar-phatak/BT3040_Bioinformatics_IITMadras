@@ -1,0 +1,41 @@
+KIR12CHANNEL
+Potassium channels are found in virtually all cell types. Their pore-
+forming subunits fall into three structural families, i.e. those possessing
+six, four and two transmembrane (TM) domains. The six-TM domain K+ channels
+can be further subdivided into six families: the voltage-gated K+ channels
+(Kv), the KCNQ channels, the eag-like K+ channels, and three Ca2+-activated
+K+ channels. Inwardly-rectifying K+ channels (Kir) are the principal class
+of two-TM domain K+ channels, and the recently-discovered two-pore domain
+K+ channels, make up a family of four-TM domain K+ channels.
+
+Inwardly rectifying potassium channels (Kir) are responsible for regulating
+diverse processes including: cellular excitability, vascular tone, heart
+rate, renal salt flow, and insulin release [1]. To date, around twenty
+members of this superfamily have been cloned, which can be grouped into six
+families by sequence similarity - these are designated Kir1.x-7.x [2,3].
+
+Cloned Kir channel cDNAs encode proteins of between ~370-500 residues,
+containing two predicted TM domains, with the characteristic K+ channel
+pore-forming domain located between them. Both N- and C-termini are thought
+to be cytoplasmic, and the N-terminus lacks a signal sequence. It is thought
+that four Kir subunits assemble to form a tetrameric channel complex, which
+may be hetero- or homomeric [1].
+
+The Kir1.2 channel (also known as Kir4.1, ROMK2, BIR10, KAB-2 and BIRK1)
+is found principally in the brain, where it is widely distributed. It has
+also been found on satellite cells of the rat cochlear ganglia, and at
+low levels within the kidney. Kir1.2 channel activity is dependent upon
+phosphorylation-state, with two serine residues within the C-terminus,
+likely the target of PKA protein kinase A, being involved [4]. Kir1.2 has
+recently been shown to interact with a novel PDZ domain-containing protein,
+CIPP [5].
+
+KIR12CHANNEL is a 9-element fingerprint that provides a signature for the 
+Kir1.2 inward rectifier K+ channel. The fingerprint was derived from an
+initial alignment of 2 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise Kir1.2 but distinguish it from other subtypes -
+motifs 1-3 encode portions of the putative cytoplasmic N-terminus; and
+motifs 4-7 lie in the cytoplasmic C-terminus. A single iteration on 
+SPTR37_10f was required to reach convergence, no further sequences being
+identified beyond the starting set.

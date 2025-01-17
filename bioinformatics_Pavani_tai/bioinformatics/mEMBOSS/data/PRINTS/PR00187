@@ -1,0 +1,33 @@
+HAEMOCYANIN
+Haemocyanins are copper-containing oxygen transport proteins found in the 
+haemolymph of many invertebrates. They are divided into 2 main groups -
+arthropodan and molluscan. These have structurally similar oxygen-binding 
+centres (which are similar to the oxygen-binding centre of tyrosinases [1])
+but their quaternary structures are arranged differently: the arthropodan 
+proteins exist as hexamers comprising 3 heterogeneous subunits (a, b and c)
+and possess 1 oxygen-binding centre per subunit; the molluscan proteins 
+exist as cylindrical oligomers of 10 to 20 subunits and possess 7 or 8 
+oxygen-binding centres per subunit [2]. 
+
+Although the proteins have similar amino-acid compositions, the only real 
+similarity in their primary sequences is in the region corresponding to the
+second copper-binding domain, which also shows similarity to the copper-
+binding domain of tyrosinases [1] (see signature TYROSINASE).
+
+HAEMOCYANIN is a 5-element fingerprint that provides a signature for the 
+arthropodan haemocyanins and closely related larval storage proteins. The 
+fingerprint was derived from an initial alignment of 4 sequences: motifs
+1 and 2 encode the first copper-binding domain (CuA) (cf. PROSITE patterns 
+HEMOCYANIN_1 (PS00209) and TYROSINASE_1 (PS00497)); motifs 3 and 4 
+correspond to the area around the oxygen-binding domain; and motif 5 
+encodes the second copper-binding domain (CuB) (cf. PROSITE patterns 
+HEMOCYANIN_2 (PS00210) and TYROSINASE_2 (PS00498)) [1]. Three iterations on
+OWL11.0 were required to reach convergence, at which point a true set
+comprising 15 sequences was identified, all of which were arthropodan 
+haemocyanins or arylphorin alpha subunit precursors. The latter are larval 
+storage proteins found in the haemolymph of insects, and are believed to 
+act as a reservoir of amino acids for the synthesis of adult proteins: like
+haemocyanins, they exist as hexamers, but have 2 subunits, alpha and beta. 
+
+An update on SPTR37_9f identified a true set of 49 sequences, and 6
+partial matches.

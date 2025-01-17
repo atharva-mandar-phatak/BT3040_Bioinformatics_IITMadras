@@ -1,0 +1,65 @@
+**********************
+* GED domain profile *
+**********************
+
+Dynamin superfamily  members  are  large  GTPases, conserved through evolution
+mainly described  as  mechanochemical  enzymes  involved  in membrane scission
+events. The  dynamin  superfamily  has  been subdivided into several subgroups
+based on domain organization: classical dynamin, dynamin-like proteins (Dlps),
+Mc proteins,  optic  atrophy  1  protein (OPA1), Mitofusins, guanylate-binding
+proteins (GBP)  and  alastatins.  All members display a common architecture: a
+large GTPase  (see  <PDOC00362>)  domain followed by a 'middle domain' of ill-
+defined function  and  a  downstream  coiled-coil GTPase effector domain (GED)
+that functions  in  higher  order  assembly and as a GTPase activating protein
+(GAP) for  dynamin's  GTPase activity. Most members contain additional domains
+that characterize  the  different  subgroups.  For example, classical dynamins
+contain a  lipid  binding  Pleckstrin-homology  (PH)  (see <PDOC50003>) domain
+between the  middle domain and the GED domain as well as a C-terminal proline-
+arginine rich  domain (PRD) that interacts with numerous SH3 domain-containing
+binding partners  while  Dlps  lack  the  PRD but have a PH domain, which may,
+however, by  highly  divergent.  These  various  domains  confer  to dynamin a
+variety of biochemical properties and cellular localizations, that may explain
+the diversity  of  their biological implications in endocytosis, intracellular
+traffic, organelle  fission  and  fusion,  cytokinesis and pathogen resistance
+[1-4].
+
+The GED  is  seen  to  be  largely  helical in nature, and its oligomerization
+occurs via intermolecular packing of the helices [2].
+
+The profile we developed covers the entire GED domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2008 / First entry.
+
+[ 1] Song B.D., Yarar D., Schmid S.L.
+     "An assembly-incompetent mutant establishes a requirement for dynamin
+     self-assembly in clathrin-mediated endocytosis in vivo."
+     Mol. Biol. Cell. 15:2243-2252(2004).
+     PubMed=15004222; DOI=10.1091/mbc.E04-01-0015
+[ 2] Chugh J., Chatterjee A., Kumar A., Mishra R.K., Mittal R., Hosur R.V.
+     "Structural characterization of the large soluble oligomers of the
+     GTPase effector domain of dynamin."
+     FEBS J. 273:388-397(2006).
+     PubMed=16403025; DOI=10.1111/j.1742-4658.2005.05072.x
+[ 3] Soulet F., Schmid S.L., Damke H.
+     "Domain requirements for an endocytosis-independent, isoform-specific
+     function of dynamin-2."
+     Exp. Cell Res. 312:3539-3545(2006).
+     PubMed=16938290; DOI=10.1016/j.yexcr.2006.07.018
+[ 4] Charneau S., Bastos I.M.D., Mouray E., Ribeiro B.M., Santana J.M.,
+     Grellier P., Florent I.
+     "Characterization of PfDYN2, a dynamin-like protein of Plasmodium
+     falciparum expressed in schizonts."
+     Microbes Infect. 9:797-805(2007).
+     PubMed=17533148; DOI=10.1016/j.micinf.2007.02.020
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

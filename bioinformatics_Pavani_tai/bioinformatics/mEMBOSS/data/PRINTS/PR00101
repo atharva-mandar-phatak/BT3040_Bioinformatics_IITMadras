@@ -1,0 +1,29 @@
+ATCASE
+Aspartate carbamoyltransferase (ATCase) catalyses the formation of 
+carbamoyl-aspartate in the pyrimidine biosynthesis pathway, by the 
+association of aspartate and carbamoyl-phosphate. This is the commitment 
+step in the E.coli pathway and is regulated by feedback inhibition by CTP, 
+the final product of the pathway.
+
+The structural organisation of the ATCase protein varies considerably 
+between different organisms. In bacteria such as E.coli, S.typhimurium and
+Serratia marcescens, the ATCase is a dodecamer of 2 catalytic (c) trimers
+and 3 regulatory (r) dimers. The catalytic domains are coded for by the
+pyrB gene, and the regulatory domains by pyrI. In Gram-positive bacteria
+such as B.subillis, ATCase exists as a trimer of catalytic subunits, but
+unlike in E.coli, it neither contains nor binds to regulatory subunits. In
+eukaryotes, ATCase is found as a single domain in a multifinctional enzyme
+that contains activity for glutamine amidotransferase, carbamoylphosphate
+synthetase, dihydroorotase, and aspartate carbamoyltransferase.
+
+ATCASE is a 6-element fingerprint that provides a signature for aspartate
+carbamoyltransferases. The fingerprint was derived from an initial
+alignment of 9 sequences: motif 1 encodes a region containing 3 residues
+believed to be implicated in binding the phosphoryl group of carbamoyl
+phosphate (cf. PROSITE pattern CARBAMOYLTRANSFERASE (PS00097)). Two
+iterations on OWL15.0 were required to reach convergence, at which point a
+true set comprising 31 sequences was identified. Fourteen partial matches
+were also found, all of which are ornithine carbamoyltransferases.
+
+An update on SPTR37_9f identified a true set of 39 sequences, and 6
+partial matches.

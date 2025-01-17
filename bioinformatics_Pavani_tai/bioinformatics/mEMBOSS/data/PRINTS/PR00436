@@ -1,0 +1,40 @@
+INTERLEUKIN8
+The accumulation of neutrophil leukocytes in tissues is a major event in 
+inflammation, a defensive reaction in response to injury or infection [1].
+Neutrophils are drawn in from the blood by chemotactic signals that
+direct their migration to the affected site [1]. Interleukin-8 (IL8) is one
+such chemotactic protein: it is released by phagocytes, mesenchymal cells
+and a wide variety of tissue cells, upon exposure to inflammation [1]; and
+it acts as a neutrophil-activating cytokine, inducing chemotaxis, exo-
+cytosis, and the respiratory burst [1].
+
+IL8 contains 4 cysteines, the first 2 separated by a single amino acid: as
+such, it is a member of the intercrine alpha family (also known as small
+cytokine CxC or chemokine CxC), a group of low molecular weight proteins
+that induce various cells in response to a variety of stimuli [1]. The
+mature protein is produced by cleavage of an N-terminal signal sequence
+[1,2], and exists in vivo as a homodimer [1,3]. 
+
+Each monomer has a short, conformationally-flexible N-terminal domain,  
+anchored by 2 disulphide bonds to a core fold containing a 3-stranded
+anti-parallel beta-sheet and a C-terminal alpha-helix [1]. The dimer
+has 2 alpha-helices (one from each monomer) lying atop a 6-stranded
+anti-parallel beta-sheet platform [3]. The 2 helices may form the binding
+site for the cellular receptor, and specificity for IL8, or other family
+members, may be achieved by the distinct distribution of charged and polar
+residues at the surface of the helices [3].
+
+INTERLEUKIN8 is a 4-element fingerprint that provides a signature for the
+interleukin-8 cytokines. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 encodes the signal sequence;
+motif 2 lies in the flexible N-terminal region; motif 3 spans the first and
+second beta-strands; and motif 4 spans the third beta-strand and the
+C-terminal helix (motifs 2-4 include the region encoded by PROSITE pattern 
+SMALL_CYTOKINES_CXC (PS00471)). Two iterations on OWL26.3 were required to
+reach convergence, at which point a true set comprising 10 sequences was
+identified. Twenty partial matches were also found, all of which are
+small CxC cytokines, which lack the N-terminal signal sequence.
+
+An update on SPTR37_9f identified a true set of 31 sequences, and 11
+partial matches.

@@ -1,0 +1,32 @@
+CACHANNEL
+Calcium channel proteins are involved in the control of neurotransmitter
+release from neurons [1], and play an important role in the regulation of 
+a variety of cellular functions, including membrane excitability, muscle
+contraction and synaptic transmission [2]. The channel proteins are 
+composed of 4 tightly-coupled subunits (alpha-1, alpha-2, beta and gamma),
+the alpha-1 subunit from each creating the pore for the import of 
+extracellular calcium ions. The alpha-1 subunit shares sequence 
+characteristics with all voltage-dependent cation channels, and exploits 
+the same 6-helix bundle structural motif - in both sodium and calcium 
+channels, this motif is repeated 4 times within the sequence to give a 
+24-helix bundle. There are several tissue-specific pharmacologically and 
+electrophysiologically distinct isoforms of calcium channels, coded for 
+by separate genes in a multi-gene family. In skeletal muscle, each 
+tightly-bound assembly of alpha, beta and gamma subunits associates with 
+4 others to form a pentameric macromolecule [3].
+
+CACHANNEL is a 7-element fingerprint that provides a signature for the 
+alpha-1 subunit of calcium channels. The fingerprint was derived from an 
+initial alignment of 6 sequences: the motifs were drawn from conserved
+loop regions capable of distinguishing between these and other cation
+channels; motifs 1 and 2 encode those between transmembrane segments
+4 and 5, and 5 and 6 (first internal repeat); motif 3 corresponds to that
+between segment 6 of repeat 1 and segment 1 of repeat 2; motif 4 encodes
+that between segments 5 and 6 of repeat 2; motif 5 corresponds to that
+between segment 6 of repeat 3 and segment 1 of repeat 4; and motifs 6 and
+7 encode those between segments 4 and 5, and 5 and 6 of repeat 4. Two
+iterations on OWL20.0 were required to reach convergence, at which point a 
+true set comprising 27 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 64 sequences, and 3
+partial matches.

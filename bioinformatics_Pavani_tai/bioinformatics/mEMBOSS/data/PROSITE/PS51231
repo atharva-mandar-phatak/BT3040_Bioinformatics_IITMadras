@@ -1,0 +1,80 @@
+**************************************************
+* Diaphanous autoregulatory domain (DAD) profile *
+**************************************************
+
+Formins participate in the assembly of the actin and microtubule cytoskeletons
+in    processes    like    cell    division,   migration,   and   development.
+Diaphanous-related  formins  (DRF) contain an N-terminal GTPase-binding domain
+(GBD)  and  a  C-terminal  diaphanous  autoregulatory  domain  (DAD). DRFs are
+regulated  by an autoinhibitory interaction of the C-terminal DAD with the DRF
+N-terminal  armadillo  repeat-like  region  (see  <PDOC50176>)  in  the DID or
+GBD/FH3 domain [1-3]. This autoinhibition is released upon competitive binding
+of  an  activated  Rho  GTPase  to  the  GBD.  The  release  of DAD allows the
+catalytical  formin  homology  2  (FH2)  domain  to then nucleate and elongate
+nonbranched actin filaments.
+
+The  DAD  domain  is a ~32 amino acid autoinhibitory domain, which facilitates
+intramolecular  binding.  The  DAD  core forms an alpha-helical structure (see
+<PDB:2BAP; D>)  [3, 4]  and the C-terminal part of the domain contains several
+basic residues that form a basic region [5, 6].
+
+Some proteins known to contain a DAD domain:
+
+ - Fruit  fly  protein  diaphanous,  which  plays  an  important  role  during
+   cytokinesis.
+ - Mammalian  diaphanous-related  formins  (DRF)  1-3, which act as Rho GTPase
+   effectors during cytoskeletal remodeling.
+ - Baker's yeast proteins BNI1 and BNI1-related protein 1 (BNR1).
+ - Aspergillus  nidulans  cytokinesis  protein sepA, which participates in two
+   actin-mediated processes, septum formation and polarized growth.
+ - Mammalian disheveled-associated activator of morphogenesis (DAAM) proteins.
+ - Mammalian  formin-like  1 protein (Fmnl1) or formin-related protein gene in
+   leukocytes (FRL).
+
+The profile we developed covers the entire DAD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2006 / First entry.
+
+[ 1] Higgs H.N.
+     "Formin proteins: a domain-based approach."
+     Trends Biochem. Sci. 30:342-353(2005).
+     PubMed=15950879; DOI=10.1016/j.tibs.2005.04.014
+[ 2] Rivero F., Muramoto T., Meyer A.-K., Urushihara H., Uyeda T.Q.P.,
+     Kitayama C.
+     "A comparative sequence analysis reveals a common GBD/FH3-FH1-FH2-DAD
+     architecture in formins from Dictyostelium, fungi and metazoa."
+     BMC Genomics 6:28-28(2005).
+     PubMed=15740615; DOI=10.1186/1471-2164-6-28
+[ 3] Lammers M., Rose R., Scrima A., Wittinghofer A.
+     "The regulation of mDia1 by autoinhibition and its release by
+     Rho*GTP."
+     EMBO J. 24:4176-4187(2005).
+     PubMed=16292343; DOI=10.1038/sj.emboj.7600879
+[ 4] Nezami A.G., Poy F., Eck M.J.
+     "Structure of the autoinhibitory switch in formin mDia1."
+     Structure 14:257-263(2006).
+     PubMed=16472745; DOI=10.1016/j.str.2005.12.003
+[ 5] Alberts A.S.
+     "Identification of a carboxyl-terminal diaphanous-related formin
+     homology protein autoregulatory domain."
+     J. Biol. Chem. 276:2824-2830(2001).
+     PubMed=11035012; DOI=10.1074/jbc.M006205200
+[ 6] Wallar B.J., Stropich B.N., Schoenherr J.A., Holman H.A.,
+     Kitchen S.M., Alberts A.S.
+     "The basic region of the diaphanous-autoregulatory domain (DAD) is
+     required for autoregulatory interactions with the diaphanous-related
+     formin inhibitory domain."
+     J. Biol. Chem. 281:4300-4307(2006).
+     PubMed=16361707; DOI=10.1074/jbc.M510277200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

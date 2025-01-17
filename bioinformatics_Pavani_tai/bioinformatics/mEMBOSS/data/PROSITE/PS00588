@@ -1,0 +1,52 @@
+**********************************************
+* Flagella basal body rod proteins signature *
+**********************************************
+
+Many bacterial species  swim  actively by means of flagella [1].  The flagella
+organelle is made of three parts:  the basal body, the hook  and the filament.
+The basal body consists of four rings (L,P,S, and M) mounted on a central rod.
+In Salmonella typhimurium and related organisms the  rod has been shown [2] to
+consist of  four different, yet evolutionary related proteins:  in  the distal
+portion of the  rod  there  are  about  26 subunits of protein flgG and in the
+proximal portion  there  are about 6 subunits each of proteins flgB, flgC, and
+flgF.
+
+These four proteins  contain  in  their N-terminal section  a highly conserved
+asparagine-rich domain that we have used as a signature pattern.
+
+This pattern is also found in:
+
+ - Flagella hook protein flgE from Gram-negative bacteria.
+ - Flagellar  hook-associated  protein  1  (HAP1)  (flgK)  from  Gram-negative
+   bacteria.
+ - Flagellar hook-basal body proteins flhO and flhP from Bacillus subtilis.
+ - The  central  section  of  the  flagella  core  protein  (flaA) of Borrelia
+   burgdorferi.
+
+-Consensus pattern: [GTARYQ]-x-{R}-x(7)-[LIVMYSTA](2)-[GSTA]-[STADEN]-N-
+                    [LIVM]-[SAN]-N-x-[SADENFR]-[STV]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 3 sequences.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] MacNab R.M.
+     (In) Escherichia coli and Salmonella typhimurium: cellular and molecular
+     biology, Neidhardt F.C., Ingraham J.L., Low K.B., Magasanik B.,
+     Schaechter M., Umbarger H.E., Eds., pp70-83, American society for
+     Microbiology, Washington D.C, (1987).
+[ 2] Homma M., Kutsukake K., Hasebe M., Iino T., Macnab R.M.
+     "FlgB, FlgC, FlgF and FlgG. A family of structurally related proteins
+     in the flagellar basal body of Salmonella typhimurium."
+     J. Mol. Biol. 211:465-477(1990).
+     PubMed=2129540
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

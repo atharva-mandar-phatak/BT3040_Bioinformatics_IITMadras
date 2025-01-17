@@ -1,0 +1,41 @@
+GABAARALPHA
+Gamma-aminobutyric acid (GABA) receptors are members of the neurotransmitter
+ligand-gated ion channels: they mediate neuronal inhibition by opening 
+chloride channels on binding GABA [1,2]. There are 5 classes of receptor
+subunit (alpha, beta, gamma, delta and rho), with variants in each class
+[3]. Each subunit contains 4 proposed transmembrane (TM) domains, with a
+large intracellular loop between the third and fourth domain. Active
+receptors contain 5 subunits of varying classes and variants - the use
+of highly similar receptor subtypes, which differ in functionality, is a
+common feature of brain receptors [3].
+
+The neurotransmitter action of the subtype A receptor (GABAA) is
+potentiated by both benzodiazepines and barbiturates [3]. Alpha subunits
+largely determine benzodiazepine binding properties [4], and gamma-2
+subunits appear to be essential for benzodiazepine modulation of receptor
+function [1]. In insects, cyclodiene (an insecticide) resistence is due to
+insensitivity of the cyclodiene/picrotoxinin binding site on the GABAA
+receptor-chloride ionophore complex [5].
+
+Mutagenesis and agonist/antagonist binding studies have suggested a close
+functional and structural association of alpha-subunits with the agonist/
+antagonist binding site, and involvement of N-terminal portions of the 
+extracellular domains of all subunits in the gating of the channel [6].
+
+GABAARALPHA is an 8-element fingerprint that provides a signature for GABAA
+alpha subunit precursors. The fingerprint was derived from an initial 
+alignment of 12 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the alpha subunits but distinguish them from 
+the rest of the GABA receptor superfamily - motifs 1-5 lie withing the
+N-terminal extracellular domain; motif 6 spans part of the extracellular
+loop and the N-terminus of putative TM domain 3; and motifs 7 and 8 span
+the cytoplasmic loop and putative TM domain 4. Two iterations on OWL31.1 
+were required to reach convergence, at which point a true set comprising 24
+sequences was identified. Several partial matches were also found: HSGABAA
+and MMAJ2970 and fragments that lack portions of sequence bearing the
+C-terminal motifs; and GAC3_HUMAN, GAC3_MOUSE and GAC3_RAT are GABA
+receptor gamma subunit precursors.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 3
+partial matches.

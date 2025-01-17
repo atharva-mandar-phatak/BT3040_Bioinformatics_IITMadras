@@ -1,0 +1,61 @@
+*********************
+* CS domain profile *
+*********************
+
+The bipartite  CS  domain, which was named after CHORD-containing proteins and
+SGT1 [1],  is  a  ~100-residue  protein-protein interaction module. It is only
+present in  eukaryota (alveolata, fungi, metazoa, and plant divisions). The CS
+domain can  be found in stand-alone form, as well as fused with other domains,
+such as  CHORD,  SGS  (see  <PDOC51048>), TPR (see <PDOC50005>), cytochrome b5
+(see <PDOC00170>) or b5 reductase, in multidomain proteins [2].
+
+The CS  domain  has  a  compact  antiparallel beta-sandwich fold consisting of
+seven beta-strands (see <PDB:1EJF>) [2,3].
+
+Some proteins known to contain a CS domain are listed below [2]:
+
+ - Eukaryotic proteins of the SGT1 family.
+ - Eukaryotic  Rar1,  related  to  pathogenic  resistance  in  plants,  and to
+   development in animals.
+ - Eukaryotic nuclear movement protein nudC.
+ - Eukaryotic proteins of the  p23/wos2 family, which act as co-chaperone.
+ - Animal b5+b5R flavo-hemo cytochrome NAD(P)H oxydoreductase type B.
+ - Mammalian integrin beta-1-binding protein 2 (melusin).
+
+The profile we developed covers the entire CS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The CS domain is also known as the p23-like domain [2].
+
+-Last update: May 2006 / First entry.
+
+[ 1] Shirasu K., Lahaye T., Tan M.-W., Zhou F., Azevedo C.,
+     Schulze-Lefert P.
+     "A novel class of eukaryotic zinc-binding proteins is required for
+     disease resistance signaling in barley and development in C.
+     elegans."
+     Cell 99:355-366(1999).
+     PubMed=10571178
+[ 2] Garcia-Ranea J.A., Mirey G., Camonis J., Valencia A.
+     "p23 and HSP20/alpha-crystallin proteins define a conserved sequence
+     domain present in other eukaryotic protein families."
+     FEBS Lett. 529:162-167(2002).
+     PubMed=12372593
+[ 3] Lee Y.-T., Jacob J., Michowski W., Nowotny M., Kuznicki J.,
+     Chazin W.J.
+     "Human Sgt1 binds HSP90 through the CHORD-Sgt1 domain and not the
+     tetratricopeptide repeat domain."
+     J. Biol. Chem. 279:16511-16517(2004).
+     PubMed=14761955; DOI=10.1074/jbc.M400215200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

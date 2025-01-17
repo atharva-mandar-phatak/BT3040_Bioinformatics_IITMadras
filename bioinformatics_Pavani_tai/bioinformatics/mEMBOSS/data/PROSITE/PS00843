@@ -1,0 +1,51 @@
+******************************************
+* D-alanine--D-alanine ligase signatures *
+******************************************
+
+D-alanine--D-alanine ligase (EC 6.3.2.4) is  a  bacterial  enzyme  involved in
+cell-wall biosynthesis.   It   participates   in  forming  UDP-N-acetylmuramyl
+pentapeptide, the peptidoglycan precursor.
+
+In Escherichia coli and related bacteria, there are two different D-ala--D-ala
+ligase  isozymes (genes  ddlA  and ddlB) [1].  In Enterobacterium faecium  and
+gallinarum, genes  vanA  and  vanC  encode  D-ala--D-ala  ligases  of  altered
+specificity, which  catalyze  ester  bond formations between D-ala and various
+D-hydroxy acids   [2].  They  are  required  for  resistance  to  glycopeptide
+antibiotics, such  as  vancomycin  which  inhibits  late  stages  in cell-wall
+synthesis.
+
+These enzymes  are  proteins of      300  to 360 amino acids.  There  are many
+conserved regions, of  which  we selected two as signature patterns. The first
+pattern, which  is  Gly-rich  and could be involved in ATP-binding, is located
+near the N-terminal extremity, the second is in the C-terminal section.
+
+-Consensus pattern: H-[GN]-x(2)-[GC]-E-[DNT]-G-x-[LIVMAFT]-[QSAPH]-[GSA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVAMSFT]-x(3)-[GAHDVSI]-x-[GSAIVCT]-R-[LIVMCAFST]-[DE]-
+                    [LIVMFAYGT]-[LIVMFAR]-x(7,12)-[LIVWCAF]-x-[EK]-[LIVAPMT]-
+                    N-[STPA]-x-P-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Zawadzke L.E., Bugg T.D., Walsh C.T.
+     "Existence of two D-alanine:D-alanine ligases in Escherichia coli:
+     cloning and sequencing of the ddlA gene and purification and
+     characterization of the DdlA and DdlB enzymes."
+     Biochemistry 30:1673-1682(1991).
+     PubMed=1993184
+[ 2] Dutka-Malen S., Molinas C., Arthur M., Courvalin P.
+     Gene 112:53-58(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

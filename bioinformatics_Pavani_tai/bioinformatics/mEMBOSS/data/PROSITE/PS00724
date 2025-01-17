@@ -1,0 +1,70 @@
+******************************************************
+* Stress-induced proteins SRP1/TIP1 family signature *
+******************************************************
+
+It has  been  recently shown [1]  that three yeast proteins,  two of which are
+known to be induced by various stress conditions, are structurally related and
+are probably part of a larger family. These proteins are listed below.
+
+ - Cold-shock  inducible  protein  TIR1  (also  known as serine-rich protein 1
+   (SRP1)). TIR1 is induced by glucose [2] and cold shock [3].
+ - Temperature-shock inducible protein 1 (TIP1).  TIP1 can be induced  by both
+   cold and heat shocks [4].
+ - Cold-shock inducible protein TIR2 (SRP2) [3].
+ - Seripauperins, which are closely related protein of about 13 Kd (120 to 124
+   residues) which are generally encoded at the extremity of yeast chromosomes
+   [5]. The    known   members  of  this  family  are: PAU1, PAU2, PAU3, PAU4,
+   PAU5, PAU6,  YBR301w,  YGL261c,  YGR294w,  YHL046c,  YIL176c,  YIR041w  and
+   YKL224c.
+ - Hypothetical protein YIL011w.
+ - Hypothetical protein YJR150c.
+ - Hypothetical protein YJR151c.
+
+These proteins all seem to start with a putative signal sequence followed by a
+conserved domain  of  about 90 residues. In TIR1, TIR2, TIP1, YIL011w, YJR150c
+and YJR151c,  this  domain is followed by a repetitive serine and alanine rich
+region absent in the other members of this family.
+
+As a signature pattern for this protein family, we selected a region at the C-
+terminus of the conserved domain.
+
+-Consensus pattern: P-W-Y-[ST](2)-R-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Bork P., Ouzounis C., Sander C., Scharf M., Schneider R.,
+     Sonnhammer E.
+     "Comprehensive sequence analysis of the 182 predicted open reading
+     frames of yeast chromosome III."
+     Protein Sci. 1:1677-1690(1992).
+     PubMed=1304897
+[ 2] Marguet D., Guo X.J., Lauquin G.J.-M.
+     "Yeast gene SRP1 (serine-rich protein). Intragenic repeat structure
+     and identification of a family of SRP1-related DNA sequences."
+     J. Mol. Biol. 202:455-470(1988).
+     PubMed=3139887
+[ 3] Kowalski L.R.Z., Kondo K., Inouye M.
+     "Cold-shock induction of a family of TIP1-related proteins associated
+     with the membrane in Saccharomyces cerevisiae."
+     Mol. Microbiol. 15:341-353(1995).
+     PubMed=7746155
+[ 4] Kondo K., Inouye M.
+     "TIP 1, a cold shock-inducible gene of Saccharomyces cerevisiae."
+     J. Biol. Chem. 266:17537-17544(1991).
+     PubMed=1894636
+[ 5] Viswanathan M., Muthukumar G., Cong Y.-S., Lenard J.
+     "Seripauperins of Saccharomyces cerevisiae: a new multigene family
+     encoding serine-poor relatives of serine-rich proteins."
+     Gene 148:149-153(1994).
+     PubMed=7926827
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

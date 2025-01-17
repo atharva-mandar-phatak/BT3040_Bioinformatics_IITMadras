@@ -1,0 +1,65 @@
+***********************
+* SPOC domain profile *
+***********************
+
+Split end (spen) proteins have been identified in worms, flies and vertebrates
+and appear  to  play a similar role in each organism: they regulate expression
+of key  transcriptional effectors in diverse signaling pathways. Spen proteins
+vary widely  in size (90-600 kDa), but are nevertheless characterized by three
+repeated N-terminal  RNA  recognition  motifs  (RRMs)  (see <PDOC00030>) and a
+highly conserved  C-terminal SPOC domain (Spen Paralog and Ortholog C-terminal
+domain), of  ~165  amino  acids  [1]. It has been suggested that Spen proteins
+play an  essential role in regulating transcriptional repression, and that the
+conserved function   of  the  SPOC  domain  is  to  mediate  interaction  with
+corepressors [2].
+
+The SPOC  domain  is folded into a single compact domain consisting of a beta-
+barrel with  seven  strands  framed  by six alpha helices (see <PDB:1OW1>). It
+appears to  be  ideally  suited  to  mediate  interaction  with other proteins
+through a  number  of  deep  grooves  and clefts in the surface as well as two
+nonpolar loops. Most significantly, the structure reveals a highly basic patch
+on the  surface,  which  is  absolutely  conserved throughout the Spen protein
+family. This  basic  patch  has  been  shown to mediate the tight and specific
+interaction of  the SPOC domain of the human transcriptional corepressor SHARP
+with the   conserved   acidic   C-terminal   LSD   motif  from  the  SMRT/NCoR
+corepressors. Of  the  residues conserved across the whole family, most lie on
+the molecular surface rather than in the core [2].
+
+Some proteins known to contain a SPOC domain are listed below:
+
+ - Drosophila  split ends (spen). It promotes sclerite development in the head
+   region and represses head-like sclerite development in the thorax.
+ - Mouse  MINT  (Msx2  intercating nuclear target). It is involved in skeletal
+   and neuronal   development  by  mediating  repression  by  the  homeodomain
+   transcriptional repressor Msx2.
+ - Human SHARP (SMRT/HDAC1-associated repressor protein), the homolog of MINT.
+
+The profile we developed covers the entire SPOC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2003 / First entry.
+
+[ 1] Wiellette E.L., Harding K.W., Mace K.A., Ronshaugen M.R., Wang F.Y.,
+     McGinnis W.
+     "spen encodes an RNP motif protein that interacts with Hox pathways to
+     repress the development of head-like sclerites in the Drosophila
+     trunk."
+     Development 126:5373-5385(1999).
+     PubMed=10556062
+[ 2] Ariyoshi M., Schwabe J.W.R.
+     "A conserved structural motif reveals the essential transcriptional
+     repression function of Spen proteins and their role in developmental
+     signaling."
+     Genes Dev. 17:1909-1920(2003).
+     PubMed=12897056; DOI=10.1101/gad.266203
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

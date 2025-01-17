@@ -1,0 +1,91 @@
+************************************************************
+* Class VI SAM-dependent methyltransferases family profiles *
+************************************************************
+
+Methyltransferases  (EC  2.1.1.-)  constitute  an  important  class of enzymes
+present  in every life form. They transfer a methyl group most frequently from
+S-adenosyl  L-methionine  (SAM  or  AdoMet) to a nucleophilic acceptor such as
+nitrogen,  oxygen,  sulfur  or  carbon  leading  to  S-adenosyl-L-homocysteine
+(AdoHcy) and a methylated molecule [1,2,3]. The substrates that are methylated
+by these enzymes cover virtually every kind of biomolecules ranging from small
+molecules,  to  lipids, proteins and nucleic acids. Methyltransferases
+are   therefore  involved  in  many  essential  cellular  processes  including
+biosynthesis,  signal  transduction,  protein repair, chromatin regulation and
+gene  silencing  [1,2,3].  More  than  230  different  enzymatic  reactions of
+methyltransferases  have been described so far, of which more than 220 use SAM
+as  the  methyl  donor  [E1].  A  review  published  in  2003  [2] divides all
+methyltransferases  into  5  classes based on the structure of their catalytic
+domain (fold):
+ - class I:    Rossmann-like                    alpha/beta     see <PDOC51555>
+ - class II:   TIM beta/alpha-barrel            alpha/beta
+ - class III:  tetrapyrrole methylase           alpha/beta
+ - class IV:   SPOUT                            alpha/beta     see <PDOC51604>
+ - class V:    SET domain                       all beta       see <PDOC51565>
+A  more  recent  paper  [3]  based  on a study of the Saccharomyces cerevisiae
+methyltransferome argues for four more folds:
+ - class VI:   transmembrane			all alpha
+ - class VII:  DNA/RNA-binding 3-helical bundle all alpha
+ - class VIII: SSo0622-like                     alpha+beta
+ - class IX:   thymidylate synthetase           alpha+beta
+
+So far, methyltransferases that have been assigned to Class VI (transmembrane)
+are  all  multi-pass  proteins  [3]  and  they  all have been localized to the
+endoplamic  reticulum  membrane  [3,4,5]. Some methyltransferases belonging to
+this  class  have been implicated in the formation of phosphatidylcholine (PC)
+from  phosphatidylethanolamine  (PE) [6] and others to the carboxy-methylation
+of proteins containing a C-terminal CAAX motif [5].
+
+Some enzymatic activities known to belong to the Class VI superfamily:
+
+ - CHO2 phosphatidylethanolamine N-methyltransferase (EC 2.1.1.17).
+ - PEMT/PEM2  methyltransferases: phosphatidylethanolamine N-methyltransferase
+   (EC 2.1.1.17), methylene-fatty-acyl-phospholipid synthase (EC 2.1.1.16) and
+   other PEMT/PEM2 methyltransferases (EC 2.1.1.-).
+ - Protein-S-isoprenylcysteine O-methyltransferase (EC 2.1.1.100).
+
+The profiles we developed to identify Class VI SAM-dependent methyltransferases
+families are directed against whole length proteins.
+
+-Last update: January 2012 / First entry.
+
+[ 1] Kozbial P.Z., Mushegian A.R.
+     "Natural history of S-adenosylmethionine-binding proteins."
+     BMC Struct. Biol. 5:19-19(2005).
+     PubMed=16225687; DOI=10.1186/1472-6807-5-19
+[ 2] Schubert H.L., Blumenthal R.M., Cheng X.
+     "Many paths to methyltransfer: a chronicle of convergence."
+     Trends. Biochem. Sci. 28:329-335(2003).
+     PubMed=12826405
+[ 3] Wlodarski T., Kutner J., Towpik J., Knizewski L., Rychlewski L.,
+     Kudlicki A., Rowicka M., Dziembowski A., Ginalski K.
+     "Comprehensive structural and substrate specificity classification of
+     the Saccharomyces cerevisiae methyltransferome."
+     PLoS One. 6:E23168-E23168(2011).
+     PubMed=21858014; DOI=10.1371/journal.pone.0023168
+[ 4] Zinser E., Sperka-Gottlieb C.D., Fasch E.V., Kohlwein S.D.,
+     Paltauf F., Daum G.
+     "Phospholipid synthesis and lipid composition of subcellular membranes
+     in the unicellular eukaryote Saccharomyces cerevisiae."
+     J. Bacteriol. 173:2026-2034(1991).
+     PubMed=2002005
+[ 5] Romano J.D., Schmidt W.K., Michaelis S.
+     "The Saccharomyces cerevisiae prenylcysteine carboxyl
+     methyltransferase Ste14p is in the endoplasmic reticulum membrane."
+     Mol. Biol. Cell. 9:2231-2247(1998).
+     PubMed=9693378
+[ 6] de Kroon A.I., Koorengevel M.C., Vromans T.A., de Kruijff B.
+     "Continuous equilibration of phosphatidylcholine and its precursors
+     between endoplasmic reticulum and mitochondria in yeast."
+     Mol. Biol. Cell. 14:2142-2150(2003).
+     PubMed=12802081; DOI=10.1091/mbc.E02-08-0460
+[E1] http://enzyme.expasy.org/EC/2.1.1.-
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

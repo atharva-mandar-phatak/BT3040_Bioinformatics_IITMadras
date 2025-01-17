@@ -1,0 +1,64 @@
+****************************************************************
+* Respiratory-chain NADH dehydrogenase 49 Kd subunit signature *
+****************************************************************
+
+Respiratory-chain NADH dehydrogenase (EC 1.6.5.3) [1,2] (also known as complex
+I  or  NADH-ubiquinone  oxidoreductase) is  an  oligomeric  enzymatic  complex
+located in  the  inner mitochondrial membrane  which  also  seems  to exist in
+the chloroplast and in cyanobacteria (as a NADH-plastoquinone oxidoreductase).
+Among the 25 to 30 polypeptide  subunits  of  this bioenergetic enzyme complex
+there is one with a molecular weight of 49 Kd (in mammals), which is the third
+largest subunit of  complex I  and  is a  component  of  the  iron-sulfur (IP)
+fragment of the enzyme. It seems to bind a 4Fe-4S iron-sulfur cluster.  The 49
+Kd subunit has been found to be:
+
+ - Nuclear encoded, as a precursor form with a transit peptide in mammals, and
+   in Neurospora crassa.
+ - Mitochondrial encoded in protozoan such as Paramecium (ORF 400), Leishmania
+   and Trypanosoma (MURF 3).
+ - Chloroplast encoded in various higher plants (ORF 392).
+
+The 49 Kd subunit is highly similar to [3,4]:
+
+ - Subunit D of Escherichia coli NADH-ubiquinone oxidoreductase (gene nuoD).
+ - Subunit NQO4 of Paracoccus denitrificans NADH-ubiquinone oxidoreductase.
+ - Subunit 5 of Escherichia coli formate hydrogenlyase (gene hycE).
+ - Subunit G of Escherichia coli hydrogenase-4 (gene hyfG).
+
+As as signature pattern we selected a highly  conserved region, located in the
+N-terminal section of this subunit.
+
+-Consensus pattern: [LIVMH]-H-[RT]-[GA]-x-E-K-[LIVMTN]-x-E-x-[KRQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Ragan C.I.
+     Curr. Top. Bioenerg. 15:1-36(1987).
+[ 2] Weiss H., Friedrich T., Hofhaus G., Preis D.
+     "The respiratory-chain NADH dehydrogenase (complex I) of
+     mitochondria."
+     Eur. J. Biochem. 197:563-576(1991).
+     PubMed=2029890
+[ 3] Fearnley I.M., Walker J.E.
+     "Conservation of sequences of subunits of mitochondrial complex I and
+     their relationships with other proteins."
+     Biochim. Biophys. Acta 1140:105-134(1992).
+     PubMed=1445936
+[ 4] Weidner U., Geier S., Ptock A., Friedrich T., Leif H., Weiss H.
+     "The gene locus of the proton-translocating NADH: ubiquinone
+     oxidoreductase in Escherichia coli. Organization of the 14 genes and
+     relationship between the derived proteins and subunits of
+     mitochondrial complex I."
+     J. Mol. Biol. 233:109-122(1993).
+     PubMed=7690854
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

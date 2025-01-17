@@ -1,0 +1,71 @@
+*****************************
+* Pentaxin family signature *
+*****************************
+
+Pentaxins (or pentraxins) [1,2] are a  family  of  proteins  which show, under
+electron  microscopy,  a  discoid  arrangement  of  five  noncovalently  bound
+subunits. Proteins known to belong to this family are:
+
+ - C-reactive protein (CRP), a protein which, in  mammals, is expressed during
+   acute phase response to tissue injury or inflammation. CRP displays several
+   functions  associated  with   host  defense:  it  promotes   agglutination,
+   bacterial capsular swelling, phagocytosis  and complement  fixation through
+   its calcium-dependent binding  to phosphorylcholine.   CRPs  have also been
+   sequenced in an invertebrate, the Atlantic horseshoe crab, where they are a
+   normal constituent of the hemolymph.
+ - Serum Amyloid P-component (SAP), a precursor of amyloid  component P  which
+   is found in basement membrane and is associated with amyloid deposits.
+ - Hamster  female  protein  (FP),  a  plasma  protein  whose concentration is
+   altered by sex steroids and stimuli that elicit an acute phase response.
+
+A number of proteins, whose  function is  not yet clear,  contain a C-terminal
+pentaxin-like domain. These proteins are:
+
+ - Human PTX3 (or TSG-14). PTX3 is a cytokine-induced protein.
+ - Guinea  pig  apexin  [3], a sperm acrosomal protein. Apexin seems to be the
+   ortholog of human neuronal pentraxin II (gene NPTX2) [4].
+ - Rat neuronal pentaxin I [5].
+
+The sequences of the different members of this family are quite conserved.  As
+a signature,  we  selected  a six residue pattern  which  includes a  cysteine
+known to be involved in a disulfide bridge in CRPs and SAP.
+
+-Consensus pattern: H-x-C-x-[ST]-W-x-[ST]
+                    [The C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Pepys M.B., Baltz M.L.
+     "Acute phase proteins with special reference to C-reactive protein and
+     related proteins (pentaxins) and serum amyloid A protein."
+     Adv. Immunol. 34:141-212(1983).
+     PubMed=6356809
+[ 2] Gewurz H., Zhang X.H., Lint T.F.
+     "Structure and function of the pentraxins."
+     Curr. Opin. Immunol. 7:54-64(1995).
+     PubMed=7772283
+[ 3] Reid M.S., Blobel C.P.
+     "Apexin, an acrosomal pentaxin."
+     J. Biol. Chem. 269:32615-32620(1994).
+     PubMed=7798266
+[ 4] Hsu Y.-C., Perin M.S.
+     "Human neuronal pentraxin II (NPTX2): conservation, genomic structure,
+     and chromosomal localization."
+     Genomics 28:220-227(1995).
+     PubMed=8530029
+[ 5] Schlimgen A.K., Helms J.A., Vogel H., Perin M.S.
+     "Neuronal pentraxin, a secreted protein with homology to acute phase
+     proteins of the immune system."
+     Neuron 14:519-526(1995).
+     PubMed=7695898
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

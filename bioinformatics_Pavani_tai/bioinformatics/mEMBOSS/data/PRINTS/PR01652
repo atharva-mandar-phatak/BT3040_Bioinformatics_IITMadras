@@ -1,0 +1,40 @@
+SHAPEPROTEIN
+Bacterial cell shape varies greatly between species, and characteristic
+morphologies are used for identification purposes. In addition to individual
+cell shape, the way in which groups of cells are arranged is also typical of
+some bacterial species, especially Gram-positive coccoids [1]. Microscopy
+has proved its value in the classification and diagnosis of species based
+on cell shape.
+
+For many years, it was believed that micro-organisms with other than
+spheroidal cell shapes maintained morphology by means of their external cell 
+walls. Recently, however, studies of the Gram-positive rod Bacillus subtilis
+have revealed two related genes that are essential for the integrity of cell
+morphogenesis [1]. Termed mreB and mbl, the gene products localise close to
+the cell surface, forming filamentous helical structures [1,2]. Many 
+homologues have been found in diverse bacterial groups, suggesting a common 
+ancestor [2].
+
+The crystal structure of MreB from Thermotoga maritima has been resolved 
+using X-ray crystallography [2]. It consists of 19 beta-strands and 15 alpha-
+helices, and shows remarkable structural similarity to eukaryotic actin [2].  
+MreB crystals also contain proto-filaments, with individual proteins 
+assembling into polymers like F-actin, in the same orientation. It is 
+hypothesised therefore, that MreB was the forerunner of actin in early 
+eukaryotes [2,3].
+
+Another bacterial protein involved in morphogenesis and cell division, FtsZ,
+shows structural and functional resemblance to another eukaryotic cell 
+cytoskeletal moiety, tubulin. [3]. This indicates a prokaryotic origin for 
+tubulin as well as actin [3].
+
+SHAPEPROTEIN is a 5-element fingerprint that provides a signature for the
+bacterial cell shape determinant MreB/Mbl proteins. The fingerprint was 
+derived from an initial alignment of 7 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motif
+1 spans alpha-helix 1 and the N-terminus of beta-strand 6; motif 2 spans
+strands 7, 8 and the N-terminus of helix 2; motif 3 encompasses strand 10 
+and helix 4; motif 4 spans helix 5 and strand 14; and motif 5 spans helices
+12 and 13, and strand 18. Three iterations on SPTR40_18f were required to 
+reach convergence, at which point a true set comprising 34 sequences was
+identified.

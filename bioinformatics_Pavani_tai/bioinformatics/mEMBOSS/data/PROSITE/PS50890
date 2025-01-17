@@ -1,0 +1,58 @@
+**********************
+* PUA domain profile *
+**********************
+
+The PUA  domain,  which  has  been  named  after  PseudoUridine  synthase  and
+Archaeosine-specific transglycosylase,   is   a  small,  compact  domain  that
+consists of  78-83  amino acid residues. The PUA domain is widely conserved in
+eukaryotic and archaeal RNA modification enzymes and is found in:
+
+ - Archaeal and eukaryotic pseudouridine synthases.
+ - Archaeosine tRNA-guanine transglycosylases.
+ - A family of predicted ATPases that may be involved in RNA modification.
+ - A family of predicted archaeal and bacterial rRNA methylases.
+ - A conserved family of putative novel eukaryotic translation factors.
+ - Glutamate 5-kinases (EC 2.7.2.11).
+
+The PUA  domain  can be found alone or in association with other domains, such
+as the  glutamate  kinase domain (see <PDOC00701>), the pseudouridine synthase
+catalytic domain, the phosphoadenosine phosphosulfate (PAPS) reductase domain,
+the methylase  domain,  the TGT domain, or the SUI1 domain (see <PDOC00862 >).
+The PUA  domain  is  supposed  to  bind  to  RNA molecules with complex folded
+structures [1].
+
+The PUA  domain  contains highly conserved motifs that center around stretches
+of hydrophobic  residues.  The  domain  also  contains  two  highly  conserved
+positions occupied   by  small  amino  acids  (primarily  glycines)  [1].  The
+resolution of    the    crystal    structure   of   archaeosine   tRNA-guanine
+transglycosylase from  Pyrococcus  horikoshii  has  shown  that the PUA domain
+consists of  two  alpha-helices  and  six beta-strands, and folds into a beta-
+sandwich structure  similar  to  the  oligonucleotide-binding  (OB)-fold  (see
+<PDB:1IQ8>) [2].
+
+The profile we developed covers the entire PUA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2002 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "Novel predicted RNA-binding domains associated with the translation
+     machinery."
+     J. Mol. Evol. 48:291-302(1999).
+     PubMed=10093218
+[ 2] Ishitani R., Nureki O., Fukai S., Kijimoto T., Nameki N., Watanabe M.,
+     Kondo H., Sekine M., Okada N., Nishimura S., Yokoyama S.
+     "Crystal structure of archaeosine tRNA-guanine transglycosylase."
+     J. Mol. Biol. 318:665-677(2002).
+     PubMed=12054814; DOI=10.1016/S0022-2836(02)00090-6
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

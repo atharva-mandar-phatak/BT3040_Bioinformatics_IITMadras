@@ -1,0 +1,65 @@
+**********************
+* SEP domain profile *
+**********************
+
+The SEP (after shp1, eyc and p47) domain is an eukaryotic domain, which occurs
+frequently and  mainly  in  single units. Almost all proteins containing a SEP
+domain are  succeeded  closely by a UBX domain (see <PDOC50033>). The function
+of the  SEP  domain  is  as  yet  unknown but it has been proposed to act as a
+reversible competitive  inhibitor of the lysosomal cysteine protease cathepsin
+L [1,2].
+
+The sructure  of  the  SEP  domain  comprises  a  beta-sheet  composed of four
+strands, and two alpha-helices (see <PDB:1VAZ; A>). One side of the beta-sheet
+faces alpha1  and  alpha2.  The  longer  helix  alpha1 packs against the four-
+stranded beta-sheet,  where as the shorter helix alpha2 is located at one edge
+of the globular structure formed by alpha1 and the four stranded beta sheet. A
+number of highly conserved hydrophobic residues are present in the SEP domain,
+which are predominantly buried and form the hydrophobic core [1,2].
+
+Some proteins known to contain a SEP domain are listed below:
+
+ - Eukaryotic  NSFL1  cofactor  p37  (or p97 cofactor p37), an adapter protein
+   required for  Golgi and endoplasmic reticulum biogenesis. It is involved in
+   Golgi and  endoplasmic reticulum maintenance during interphase and in their
+   reassembly at the end of mitosis.
+ - Eukaryotic  NSFL1  cofactor  p47  (or  p97  cofactor  p47), a major adaptor
+   molecule of  the cytosolic AAA-type ATPase (ATPases associated with various
+   cellular activities)  p97.  p47  is required for the p97-regulated membrane
+   reassembly of  the endoplasmic reticulum (ER), the nuclear envelope and the
+   Golgi apparatus.
+ - Vertebrate UBX domain-containing protein 4 (UBXD4).
+ - Plant UBA and UBX domain-containing protein.
+ - Saccharomyces  cerevisiae  UBX domain-containing protein 1 or Suppressor of
+   high-copy PP1 protein (shp1), the homologue of p47.
+ - Drosophila melanogaster eyes closed (eyc).
+
+The profile we developed covers the entire SEP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2008 / First entry.
+
+[ 1] Yuan X., Simpson P., Mckeown C., Kondo H., Uchiyama K., Wallis R.,
+     Dreveny I., Keetch C., Zhang X., Robinson C., Freemont P.,
+     Matthews S.
+     "Structure, dynamics and interactions of p47, a major adaptor of the
+     AAA ATPase, p97."
+     EMBO J. 23:1463-1473(2004).
+     PubMed=15029246; DOI=10.1038/sj.emboj.7600152
+[ 2] Soukenik M., Diehl A., Leidert M., Sievert V., Buessow K., Leitner D.,
+     Labudde D., Ball L.J., Lechner A., Naegler D.K., Oschkinat H.
+     "The SEP domain of p47 acts as a reversible competitive inhibitor of
+     cathepsin L."
+     FEBS Lett. 576:358-362(2004).
+     PubMed=15498563; DOI=10.1016/j.febslet.2004.09.037
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

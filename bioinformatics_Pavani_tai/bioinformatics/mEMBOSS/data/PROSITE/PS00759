@@ -1,0 +1,104 @@
+******************************************************
+* ArgE / dapE / ACY1 / CPG2 / yscS family signatures *
+******************************************************
+
+The  following  enzymes  have   been   shown [1,2,3]  to be  evolutionary  and
+functionally related:
+
+ - In the biosynthetic pathway from glutamate to  arginine, the  removal of an
+   acetyl group from  N2-acetylornithine can  be catalyzed  via  two  distinct
+   enzymatic  strategies  depending on the organism.  In some  bacteria and in
+   fungi, the   acetyl   group  is  transferred  on  glutamate  by   glutamate
+   N-acetyltransferase   (EC 2.3.1.35)   while   in  enterobacteria   such  as
+   Escherichia   coli,  it  is   hydrolyzed  by  acetylornithine   deacetylase
+   (EC 3.5.1.16) (acetylornithinase) (AO)  (gene argE). AO  is  a  homodimeric
+   cobalt-dependent  enzyme which  displays  broad  specificity and  can  also
+   deacylates    substrates   such    as   acetylarginine,    acetylhistidine,
+   acetylglutamate semialdehyde, etc.
+ - Succinyldiaminopimelate desuccinylase (EC 3.5.1.18)  (SDAP)  (gene dapE) is
+   the enzyme  which  catalyzes  the  fifth step in the biosynthesis of lysine
+   from aspartate  semialdehyde: the hydrolysis of succinyl-diaminopimelate to
+   diaminopimelate and succinate. SDAP  is an  enzyme that  requires cobalt or
+   zinc as a cofactor.
+ - Aminoacylase-1   [4]  (EC 3.5.1.14)   (N-acyl-l-amino-acid  amidohydrolase)
+   (ACY1). ACY1  is a homodimeric zinc-binding mammalian enzyme that catalyzes
+   the hydrolysis of N-alpha-acylated amino acids (except for aspartate).
+ - Carboxypeptidase G2 (EC 3.4.17.11) (folate  hydrolase G2)  (gene cpg2) from
+   Pseudomonas strain RS-16.  This enzyme catalyzes the hydrolysis of  reduced
+   and non-reduced  folates  to  pteroates  and glutamate. G2 is a homodimeric
+   zinc-dependent enzyme.
+ - Vacuolar carboxypeptidase S (EC 3.4.17.4) (yscS) from yeast (gene CPS1).
+ - Peptidase  T  (EC  3.4.11.-) (gene pepT) (tripeptidase) from bacteria. This
+   enzyme catalyzes a variety of tripeptides containing N-terminal methionine,
+   leucine, or phenylalanine.
+ - Xaa-His dipeptidase (EC 3.4.13.3)  (carnosinase)  from  Lactobacillus (gene
+   pepV) [5],  a  metalloenzyme  with  activity against beta-alanyl-dipeptides
+   including carnosine (beta-alanyl-histidine).
+
+These enzymes  share  a  few characteristics. They hydrolyse peptidic bonds in
+substrates that share a common structure, they are dependent on cobalt or zinc
+for their  activity  and  they are proteins of 40 Kd to 60 Kd with a number of
+regions of sequence similarity.
+
+As signature patterns for  these  proteins, we  selected  two of the conserved
+regions. The  first  pattern  contains  a  conserved  histidine which could be
+involved in  binding  metal  ions  and the second pattern contains a number of
+conserved charged residues.
+
+-Consensus pattern: [LIV]-[GALMY]-[LIVMF]-{Q}-[GSA]-H-x-D-[TV]-[STAV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 9.
+
+-Consensus pattern: [GSTAI]-[SANQCVIT]-D-x-K-[GSACN]-x(1,2)-[LIVMA]-x(2)-
+                    [LIVMFY]-x(12,17)-[LIVM]-x-[LIVMF]-[LIVMSTAGC]-[LIVMFA]-
+                    x(2)-[DNGM]-E-E-x(0,1)-[GSTNE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belong  to families M20A/M20B in the classification of
+ peptidases [6,E1].
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Meinnel T., Schmitt E., Mechulam Y., Blanquet S.
+     "Structural and biochemical characterization of the Escherichia coli
+     argE gene product."
+     J. Bacteriol. 174:2323-2331(1992).
+     PubMed=1551850
+[ 2] Boyen A., Charlier D., Charlier J., Sakanyan V., Mett I.,
+     Glansdorff N.
+     "Acetylornithine deacetylase, succinyldiaminopimelate desuccinylase
+     and carboxypeptidase G2 are evolutionarily related."
+     Gene 116:1-6(1992).
+     PubMed=1628835
+[ 3] Miller C.G., Miller J.L., Bagga D.A.
+     "Cloning and nucleotide sequence of the anaerobically regulated pepT
+     gene of Salmonella typhimurium."
+     J. Bacteriol. 173:3554-3558(1991).
+     PubMed=1904438
+[ 4] Mitta M., Ohnogi H., Yamamoto A., Kato I., Sakiyama F., Tsunasawa S.
+     "The primary structure of porcine aminoacylase 1 deduced from cDNA
+     sequence."
+     J. Biochem. 112:737-742(1992).
+     PubMed=1284246
+[ 5] Vongerichten K.F., Klein J.R., Matern H., Plapp R.
+     "Cloning and nucleotide sequence analysis of pepV, a carnosinase gene
+     from Lactobacillus delbrueckii subsp. lactis DSM 7290, and partial
+     characterization of the enzyme."
+     Microbiology 140:2591-2600(1994).
+     PubMed=7528082
+[ 6] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

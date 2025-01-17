@@ -1,0 +1,63 @@
+******************************************
+* Ubiquitin-activating enzyme signatures *
+******************************************
+
+Ubiquitin-activating  enzyme  (E1 enzyme) [1,2] activates ubiquitin  by  first
+adenylating with ATP its C-terminal  glycine  residue  and  thereafter linking
+this residue to  the  side  chain  of  a  cysteine  residue in E1, yielding an
+ubiquitin-E1   thiolester  and  free  AMP.   Later  the  ubiquitin  moiety  is
+transferred to a  cysteine  residue on  one  of  the  many forms of ubiquitin-
+conjugating enzymes (E2).
+
+E1 is  a large monomeric protein of about 110 to 115 Kd (about 1000 residues).
+In yeast  there are two forms (UBA1 and UBA2) [3], while in plants and mammals
+multiple forms  exist  including  a  form  which is Y-linked in mouse and some
+other mammals and which may be involved in spermatogenesis.
+
+It has been shown [4] that  the  last of the five cysteines that are conserved
+in the sequence of E1 from various species is the one that binds ubiquitin. We
+have developed  two  patterns  specific for E1, the first pattern contains the
+second of  the  five conserved cysteines while the second pattern includes the
+active site cysteine.
+
+-Consensus pattern: K-[AI]-[CL]-S-G-K-[FI]-x-[PQ]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for human UBE1L.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-[LIVMG]-C-T-[LIVM]-[KRHA]-x-[FTNM]-P
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Jentsch S., Seufert W., Hauser H.-P.
+     "Genetic analysis of the ubiquitin system."
+     Biochim. Biophys. Acta 1089:127-139(1991).
+     PubMed=1647207
+[ 2] Hershko A.
+     "The ubiquitin pathway for protein degradation."
+     Trends Biochem. Sci. 16:265-268(1991).
+     PubMed=1656558
+[ 3] Dohmen R.J., Stappen R., McGrath J.P., Forrova H., Kolarov J.,
+     Goffeau A., Varshavsky A.
+     "An essential yeast gene encoding a homolog of ubiquitin-activating
+     enzyme."
+     J. Biol. Chem. 270:18099-18109(1995).
+     PubMed=7629121
+[ 4] Hatfield P.M., Vierstra R.D.
+     "Multiple forms of ubiquitin-activating enzyme E1 from wheat.
+     Identification of an essential cysteine by in vitro mutagenesis."
+     J. Biol. Chem. 267:14799-14803(1992).
+     PubMed=1634524
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

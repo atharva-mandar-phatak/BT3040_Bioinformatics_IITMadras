@@ -1,0 +1,49 @@
+SREBPS2PTASE
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, around
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+relatively common, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure 
+adopted by this motif in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of their metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. In the first group, a glutamic acid completes the active site -
+these are termed HEXXH+E: all families in this group show some sequence
+relationship and have been assigned to clan MA [1]. The second group, which
+have a third histidine as the extra metal-binding residue, are termed
+HEXXH+H and are grouped into clan MB on the basis of their inter-relation-
+ship[1]. In the third group, the additional metal-binding residues are
+unidentified. The fourth group is diverse - the metal-binding residues are
+known but do not form the HEXXH motif. And the fifth group comprises the
+remaining families where the metal-binding residues are as yet unknown [1,2].
+
+Members of the M50 metallopeptidase family include mamalian sterol-regulatory
+element binding protein (SREBP) site 2 proteases and various hypothetical 
+bacterial homologues [3]. SREBPs are membrane-bound transcription factors 
+that regulate cholesterol and fatty acid synthesis in mamalian cells. In
+order to be activated, the N-terminal domain must be released from the
+membrane into the nucleus by proteolytic cleavage at two sites: the first
+site is located within the lumen of the endoplasmic reticulum, and second 
+site within the transmembrane (TM) region. SREBP site 2 proteases act at 
+this second, TM, site. In humans, the protease is encoded by the S2P gene
+[4]. Once the SREBP has been released into the nucleus, it acts to stimulate
+transcription of genes involved in lipid metabolism. The site 2 protease has
+been shown to act on SREBP at the Leu522-Ser523 bond [5].
+
+SREBPS2PTASE is a 4-element fingerprint that provides a signature for the
+mamalian sterol-regulatory element binding protein site 2 protease and its
+hypothetical bacterial homologues (the M50 metallopeptidase family). The
+fingerprint was derived from an initial alignment of 8 sequences: the motifs
+were drawn from conserved regions surrounding the active site - motif 2 
+includes the region encoded by the PROSITE pattern ZINC_PROTEASE (PS00142),
+which describes the HEXXH active site. A single iteration on OWL31.1 was
+required to reach convergence, no further sequences being identified beyond
+the starting set. 
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 2
+partial matches.

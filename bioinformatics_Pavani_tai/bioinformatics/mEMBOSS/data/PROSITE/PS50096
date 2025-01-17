@@ -1,0 +1,71 @@
+********************
+* IQ motif profile *
+********************
+
+The IQ motif  is  an  extremely  basic  unit  of  about 23 amino acids,  whose
+conserved core usually fits the consensus A-x(3)-I-Q-x(2)-F-R-x(4)-K-K. The IQ
+motif, which  can  be  present in one or more copies, serves as a binding site
+for different  EF-hand proteins (see <PDOC00018>) including the  essential and
+regulatory myosin light chains, calmodulin (CaM), and CaM-like proteins [1,2].
+Many IQ motis are protein kinase C (PKC) phosphorylation sites [3,4].
+
+Resolution  of the 3D structure of scallop myosin has shown that the IQ motif
+forms a basic amphipathic helix [5].
+
+Some proteins known to contain an IQ motif are listed below:
+
+ - A number of conventional and unconventional myosins.
+ - Neuromodulin  (GAP-43)  (see  <PDOC00344>). This protein is associated with
+   nerve growth.    It  is a major component of the motile "growth cones" that
+   form the tips of elongating axons.
+ - Neurogranin  (NG/p17).  Acts  as  a  "third messenger" substrate of protein
+   kinase C-mediated   molecular  cascades  during  synaptic  development  and
+   remodeling.
+ - Sperm surface protein Sp17.
+ - Ras GTPase-activating-like protein IQGAP1. IQGAP1 contains 4 IQ motifs.
+
+The profile we developed covers the entire IQ motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Last update: December 2001 / First entry.
+
+[ 1] Cheney R.E., Mooseker M.S.
+     "Unconventional myosins."
+     Curr. Opin. Cell Biol. 4:27-35(1992).
+     PubMed=1558751
+[ 2] Rhoads A.R., Friedberg F.
+     "Sequence motifs for calmodulin recognition."
+     FASEB J. 11:331-340(1997).
+     PubMed=9141499
+[ 3] Baudier J., Deloulme J.C., Van Dorsselaer A., Black D., Matthes H.W.D.
+     "Purification and characterization of a brain-specific protein kinase
+     C substrate, neurogranin (p17). Identification of a consensus amino
+     acid sequence between neurogranin and neuromodulin (GAP43) that
+     corresponds to the protein kinase C phosphorylation site and the
+     calmodulin-binding domain."
+     J. Biol. Chem. 266:229-237(1991).
+     PubMed=1824695
+[ 4] Chen S.J., Klann E., Gower M.C., Powell C.M., Sessoms J.S., Sweatt J.D.
+     "Studies with synthetic peptide substrates derived from the neuronal
+     protein neurogranin reveal structural determinants of potency and
+     selectivity for protein kinase C."
+     Biochemistry 32:1032-1039(1993).
+     PubMed=8424932
+[ 5] Xie X., Harrison D.H., Schlichting I., Sweet R.M., Kalabokis V.N.,
+     Szent-Gyorgyi A.G., Cohen C.
+     "Structure of the regulatory domain of scallop myosin at 2.8 A
+     resolution."
+     Nature 368:306-312(1994).
+     PubMed=8127365; DOI=10.1038/368306a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

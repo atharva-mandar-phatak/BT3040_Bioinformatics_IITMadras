@@ -1,0 +1,16 @@
+FMRFAMIDEPEP
+Neuropeptide FF (together with neuropeptides AF and SF, which are derived
+from the same precursor) belongs to a family of neuropeptides containing an 
+RF-amide motif at their C-termini [1]. Neuropeptide FF is found at high
+concentrations in the posterior pituitary, spinal cord, hypothalamus and 
+medulla, and is believed to be involved in pain modulation, opioid tolerance,
+cardiovascular regulation, memory and neuroendocrine regulation [1,2].
+
+FMRFAMIDEPEP is a 6-element fingerprint that provides a signature for the
+FMRFamide-related peptide precursor. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+sections spanning the full alignment length - motif 1 encodes the putative
+signal peptide; motif 4 spans the region of the precursor that encodes
+neuropeptides SF and FF; and motif 6 encodes neuropeptide AF. A single
+iteration on SPTR40_18f was required to reach convergence, no further 
+sequences being identified beyond the starting set.

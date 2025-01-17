@@ -1,0 +1,81 @@
+NUCFACTORATC
+Antigenic stimulation of T lymphocytes initiates a complex series of 
+intracellular signal transduction pathways that leads to the expression of a 
+panel of immunoregulatory genes, whose function is critical to the 
+initiation and coordination of the immune response. The multi-subunit 
+nuclear factor of activated T cells (NFAT) transcription factor family 
+plays a pivotal role in this process and is involved in the expression of a 
+number of immunologically important genes. These include the cytokines IL-2, 
+IL-3, IL-4, IL-5, granulocyte-macrophage colony-stimulating factor, and 
+tumour necrosis factor-alpha, as well as several cell-surface molecules, 
+such as CD40L and FasL. Although originally described in T cells, it is now 
+apparent that NFAT proteins are also expressed in other immune system cells,
+including B cells, mast cells, basophils and natural killer cells, as well 
+as in a variety of non-immune cell types and tissues, such as skeletal 
+muscle, neurons, heart and adipocytes. However, although NFAT acts as a 
+calcium-dependent transcription factor and serves to couple gene expression 
+to changes in intracellular calcium levels in most cases, NFAT target genes 
+have not been identified in these latter cell types [1-5].
+
+NFAT proteins appear to be regulated primarily at the level of their  
+subcellular localisation. They are found exclusively in the cytoplasm of 
+resting T cells, and consist of 2 components: a pre-existing cytoplasmic 
+component that translocates into the nucleus on calcium mobilisation, and an 
+inducible nuclear component comprising members of the activating protein-1 
+(AP-1) family of transcription factors. In response to antigen receptor 
+signalling, the calcium-regulated phosphatase calcineurin acts directly to 
+dephosphorylate NFAT proteins, causing their rapid translocation from the 
+cytoplasm to the nucleus, where they cooperatively bind their target 
+sequences together with AP-1 proteins, thereby initiating transcription. 
+It is now apparent that regulation of NFAT subcellular localisation is a 
+highly dynamic process, which greatly depends on quantitative changes in 
+intracellular calcium concentration. The calcineurin-mediated 
+dephosphorylation and nuclear translocation of NFAT proteins are 
+counteracted by poorly defined NFAT kinase(s), which phosphorylate the 
+proteins, thereby either antagonising their nuclear translocation or
+promoting their export from the nucleus back to the cytoplasm. Thus, in the 
+absence of sustained calcineurin activity, nuclear NFAT proteins are rapidly 
+rephosphorylated and exported back into the cytoplasm [3,5].
+
+The NFAT family of transcription factors contains 4 members: NFAT1 (NFATp),
+NFAT2 (NFATc), NFAT3 and NFAT4 (NFATx), each expressed as several isoforms 
+related by alternative splicing. These proteins share a highly conserved 
+DNA-binding domain of ~270 amino acids. This domain, which is related to  
+that of the Rel family of transcription factors, is required for cooperative 
+interactions with AP-1 proteins, and contains one of 2 redundant nuclear 
+localisation sequences (NLSs). Upstream of this region is a less well 
+conserved regulatory domain of ~300 amino acids, characterised by the 
+presence of repeated motifs rich in serine and proline residues 
+(SPXXSPXXSPXXXXXX[D/E][D/E]). The N-terminal domain is both necessary and 
+sufficient to confer calcinuerin-dependent nuclear localisation and 
+recycling: it contains binding sites for calcineurin, as well as a second 
+redundant NLS and a sequence motif involved in directing the nuclear export 
+of NFAT proteins. Most, if not all, of the sites of regulatory 
+phosphorylation are found within this domain. It has been proposed that the 
+phophorylation status of these sites modifies the activity of the two 
+redundant NFAT NLSs and so determines the subcellular distribution of NFAT 
+proteins. By contrast, little is known about the C-terminal domain, which 
+shares no significant sequence similarities with other proteins, and is 
+absent in NFATc [2,3,5].
+
+An additional member of the NFAT family, NFAT5, has a constitutive nuclear 
+localisation that is not modified on cellular activation, implying that it 
+is a target of signalling pathways distinct from those that regulate NFAT1-
+4, and that it is likely to modulate cellular processes in a wide variety of 
+cells [4].
+
+The calcineurin dependence of NFAT proteins makes them targets of the 
+immunosuppressive drugs cyclosporin A (CsA) and FK506. These powerful agents
+have not only contributed in a major way to the success of transplant 
+surgery, but may also prove important in the treatment of cardiac 
+hypertrophy (where NFAT3 is specifically implicated) [4].
+
+NUCFACTORATC is a 4-element fingerprint that provides a signature for the 
+NFAT proteins. The fingerprint was derived from an initial alignment of 5 
+sequences: the motifs were drawn from conserved regions largely spanning 
+the central portion of the alignment, focusing on those sections that
+characterise the NFAT1-4 proteins but distinguish them from the rest of the 
+Rel-domain containing proteins (rel/Dorsal/NFkB) - motifs 1 and 2 span the 
+DNA-binding domain. Two iterations on SPTR39_17f were required to reach 
+convergence, at which point a true set comprising 11 sequences was 
+identified.

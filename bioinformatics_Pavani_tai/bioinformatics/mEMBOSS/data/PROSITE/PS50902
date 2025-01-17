@@ -1,0 +1,76 @@
+**********************************
+* Flavodoxin-like domain profile *
+**********************************
+
+The flavodoxin-like  domain  is  an  around  170-residue  domain with a flavin
+mononucleotide (FMN)-binding   site.  It  is  involved  in  electron  transfer
+reactions [1,2].
+
+Structure analyses  of several flavodoxin-like domains have shown that it is a
+wound alpha-beta-alpha  fold  with  a  central 5-stranded parallel hydrophobic
+beta-sheet flanked   on   either   side   by  amphipathic  alpha-helices  (see
+<PDB:2FCR>) [3,4,5].  The  FMN is positioned at the tip of the C-terminal side
+of the beta-sheet [3]. The fold correlates with a highly conserved, repetitive
+sequence pattern  in  which  hydrophobic  residues cluster in beta-strands and
+have a 3-4-residue periodicity in alpha-helices [2].
+
+Some proteins known to contain a flavodoxin-like domain are listed below:
+
+ - Flavodoxin,  a  low-potential  electron  donor to a number of redox enzymes
+   (see <PDOC00178>).
+ - Eukaryotic nitric-oxide synthase (NOS).
+ - Bacterial and eukaryotic NADPH-cytochrome P450 reductase.
+ - Yeast protein YCP4.
+ - Fission  yeast  protein P25, the target of a complex transcriptional system
+   that involves  the AP-1-liker factor PAP1 as positive regulator and CRM1 as
+   negative regulator.
+ - Bacterial protein mioC, a probable electron transporter required for biotin
+   synthase activity.
+ - Bacterial protein hemG.
+ - Bacterial tryptophan repressor-binding protein wrbA.
+ - Bacterial    sulfite   reductase   [NADPH]   flavoprotein   alpha-component
+   (EC 1.8.1.2)  (SIR-FP). It catalyzes the 6-electron reduction of sulfite to
+   sulfide.
+
+The profile we developed covers the entire flavodoxin-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2003 / First entry.
+
+[ 1] Grandori R., Carey J.
+     Two highly homologous putative DNA-binding proteins in yeast and E.
+     "coli."
+     Trends Biochem. Sci. 19:72-72(1994).
+     PubMed=8160268
+[ 2] Grandori R., Carey J.
+     "Six new candidate members of the alpha/beta twisted open-sheet family
+     detected by sequence similarity to flavodoxin."
+     Protein Sci. 3:2185-2193(1994).
+     PubMed=7756978
+[ 3] Wang M., Roberts D.L., Paschke R., Shea T.M., Masters B.S.S., Kim J.-J.P.
+     "Three-dimensional structure of NADPH-cytochrome P450 reductase:
+     prototype for FMN- and FAD-containing enzymes."
+     Proc. Natl. Acad. Sci. U.S.A. 94:8411-8416(1997).
+     PubMed=9237990
+[ 4] Zhao Q., Modi S., Smith G., Paine M., McDonagh P.D., Wolf C.R.,
+     Tew D., Lian L.-Y., Roberts G.C.K., Driessen H.P.C.
+     "Crystal structure of the FMN-binding domain of human cytochrome P450
+     reductase at 1.93 A resolution."
+     Protein Sci. 8:298-306(1999).
+     PubMed=10048323
+[ 5] Drennan C.L., Pattridge K.A., Weber C.H., Metzger A.L., Hoover D.M.,
+     Ludwig M.L.
+     "Refined structures of oxidized flavodoxin from Anacystis nidulans."
+     J. Mol. Biol. 294:711-724(1999).
+     PubMed=10610791; DOI=10.1006/jmbi.1999.3151
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

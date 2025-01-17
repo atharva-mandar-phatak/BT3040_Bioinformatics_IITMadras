@@ -1,0 +1,35 @@
+ANNEXINV
+The annexins (or lipocortins) are a family of proteins that bind to
+phospholipids in a calcium-dependent manner [1]. They are distributed
+ubiquitously in different tissues and cell types of higher and lower
+eukaryotes, including mammals, fish, birds, Drosophila melanogaster,
+Xenopus laevis, Caenorhabtidis elegans, Dictyostelium discoideum and
+Neurospora crassa [2,3]. The plant annexins are somewhat distinct from
+those found in other taxa [3].
+
+Several distinct annexin subtypes exist, each of which has an amino-acid
+sequence consisting of an N-terminal 'arm' followed by 4 or 8 copies of a
+conserved domain of 61 residues (only one of these residues, an arginine,
+is conserved between all copies). The calcium-binding sites are found in
+the repeated domains [4]. Individual repeats (sometimes referred to as
+endonexin folds) consist of 5 alpha-helices wound into a right-handed
+superhelix. The biological roles of some annexin subtypes is unclear; the
+family has been linked with inhibition of phospholipase activity, exo-
+cytosis and endoctyosis, signal transduction, organisation of the extra-
+cellular matrix, resistance to reactive oxygen species and DNA replication
+[2]. Type V annexin behaves as an anticoagulant, acting as an indirect
+inhibitor of the thromboplastin-specific complex, which is involved in the
+blood coagulation casacade. It may also act as a form of calcium channel.
+
+ANNEXINV is a 4-element fingerprint that provides a signature for type V
+annexins. The fingerprint was derived from an initial alignment of 7
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those areas that characterise type
+V annexins but distinguish them from related annexin subtypes - motif 1
+resides in the second annexin repeat; motif 2 lies between the second and 
+third repeats; and motifs 3 and 4 are located in the third and fourth 
+repeats, respectively. Two iterations on SPTR41_24f were required to
+reach convergence, at which point a true set comprising 9 sequences was
+identified. Five partial matches were also found, including a type V 
+annexin, Q804G6, several related subtypes and a hypothetical protein,
+Q803A1, from Danio rerio.

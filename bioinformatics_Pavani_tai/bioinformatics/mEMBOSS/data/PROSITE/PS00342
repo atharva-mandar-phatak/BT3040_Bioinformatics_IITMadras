@@ -1,0 +1,80 @@
+*******************************************
+* Microbodies C-terminal targeting signal *
+*******************************************
+
+Microbodies are  a class of small, single membraned organelles to which belong
+peroxisomes, glyoxysomes,  and  glycosomes. Microbody proteins are synthesized
+on free polysomes and imported into the organelle post-translationally. Unlike
+the import  of  proteins  into  mitochondria, chloroplasts or the ER/secretion
+pathway, import  into  microbodies does not generally require the removal of a
+presequence [1].  It  has  been  experimentally  shown  [2,3,4]  that, in some
+peroxisomal proteins,  the  targeting  signal  (PTS) resides in the last three
+amino acids  of  the  C-terminus.  This consensus sequence is known as 'S-K-L'
+(Ser-Lys-Leu), although some variations are allowed in all three positions. As
+the peroxisomal  targeting  signal  also  seems  to    be  recognized by other
+microbodies, it  is now [1] known as the C-terminal microbody targeting signal
+(CMTS).
+
+It must  be noted that not all microbody proteins contain a CMTS; some seem to
+contain an  internal  CMTS-like  sequence,  but  it  is not yet known if it is
+active as such. Finally, a  few  proteins are  synthesized  with an N-terminal
+presequence which is cleaved off during import.
+
+Microbody proteins known or thought to contain a CMTS are listed below.
+
+ - Mammalian D-amino acid oxidase.
+ - Mammalian acyl-coenzyme A oxidase (but not the fungal enzymes).
+ - Mammalian and yeast (S. cerevisiae) carnitine o-acetyltransferase.
+ - Mammalian trifunctional fatty acid beta oxidation pathway enzyme.
+ - Mammalian, insect, plants, and Aspergillus uricase.
+ - Mammalian sterol carrier protein-2 high molecular form (SCP-X).
+ - Mammalian long chain alpha-hydroxy acid oxidase.
+ - Mammalian soluble epoxide hydrolase (sEH).
+ - Firefly luciferase.
+ - Plants glycolate oxidase.
+ - Plants glyoxisomal isocitrate lyase.
+ - Plants and fungal glyoxisomal malate synthase.
+ - Trypanosoma glycosomal glucose-6-phosphate isomerase.
+ - Trypanosoma glycosomal glyceraldehyde 3-phosphate dehydrogenase.
+ - Yeast (H. polymorpha and Pichia pastoris) alcohol oxidase (AOX).
+ - Yeast (H. polymorpha) dihydroxy-acetone synthase (DHAS).
+ - Yeast (S. cerevisiae) catalase A.
+ - Yeast (S. cerevisiae) citrate synthase.
+ - Yeast (S. cerevisiae) peroxisomal malate dehydrogenase.
+ - Yeast (C. boidinii) peroxisomal protein PMP20.
+ - Yeast (C. tropicalis) hydratase-dehydrogenase-epimerase  (HDE)  from  fatty
+   acid beta oxidation pathway.
+ - Yeast (C. tropicalis) isocitrate lyase.
+ - Aspergillus niger monoamine oxidase N.
+ - Candida albicans vacuolar aspartic protease PRA1.
+
+-Consensus pattern: [STAGCN]-[RKH]-[LIVMAFY]>
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] De Hoop M.J., Ab G.
+     Biochem. J. 286:657-669(1992).
+[ 2] Gould S.J., Keller G.-A., Subramani S.
+     "Identification of peroxisomal targeting signals located at the
+     carboxy terminus of four peroxisomal proteins."
+     J. Cell Biol. 107:897-905(1988).
+     PubMed=2901422
+[ 3] Gould S.J., Keller G.-A., Hosken N., Wilkinson J., Subramani S.
+     "A conserved tripeptide sorts proteins to peroxisomes."
+     J. Cell Biol. 108:1657-1664(1989).
+     PubMed=2654139
+[ 4] Gould S.J., Keller G.-A., Schneider M., Howell S.H., Garrard L.J.,
+     Goodman J.M., Distel B., Tabak H., Subramani S.
+     "Peroxisomal protein import is conserved between yeast, plants,
+     insects and mammals."
+     EMBO J. 9:85-90(1990).
+     PubMed=2104803
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

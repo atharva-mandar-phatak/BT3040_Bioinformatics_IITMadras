@@ -1,0 +1,63 @@
+*************************************************
+* Rap GTPase activating proteins domain profile *
+*************************************************
+
+Rap  small  G proteins have been implicated in various cellular processes such
+as  exocytosis,  cAMP  signalling,  cell  adhesion and cell proliferation. Rap
+proteins  acts  as  molecular  switches,  with an active GTP-bound form and an
+inactive  GDP-bound  form  [1].  The  inactive  GDP  bound form is promoted by
+GTPase-activating  proteins  (GAPs).  GAP  proteins specific for Rap contain a
+conserved  region  of  around 200 amino-acid residues, the RapGAP domain. This
+domain  can  accelerate  the  GTP hydrolysis activity of Rap by five orders of
+magnitude [2].
+
+Some proteins known to contain a Rap-GAP domain are listed below:
+
+ - RAP1 GTPase activating protein (RAP1GAP).
+ - Mammalian  tuberin  protein,  the  product of a familial tuberous sclerosis
+   gene  which,  when  deleted,  causes  begnin  tumours.  It  also have a GAP
+   activity for Rab5 [3].
+ - Drosophila Gigas protein, an homologue of tuberin involved in regulation of
+   cell cycle.
+ - Mammalian tuberin-like protein TULIP.
+ - GTPase-activating  protein  Spa-1. It functions as a negative regulator for
+   the  activation  of Rap1, thereby having a negative effect on cell adhesion
+   [4].
+
+The profile we developed covers the entire RapGAP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2003 / First entry.
+
+[ 1] Bos J.L., de Rooij J., Reedquist K.A.
+     "Rap1 signalling: adhering to new models."
+     Nat. Rev. Mol. Cell Biol. 2:369-377(2001).
+     PubMed=11331911; DOI=10.1038/35073073
+[ 2] Kurachi H., Wada Y., Tsukamoto N., Maeda M., Kubota H., Hattori M.,
+     Iwai K., Minato N.
+     "Human SPA-1 gene product selectively expressed in lymphoid tissues is
+     a specific GTPase-activating protein for Rap1 and Rap2. Segregate
+     expression profiles from a rap1GAP gene product."
+     J. Biol. Chem. 272:28081-28088(1997).
+     PubMed=9346962
+[ 3] Xiao G.H., Shoarinejad F., Jin F., Golemis E.A., Yeung R.S.
+     "The tuberous sclerosis 2 gene product, tuberin, functions as a Rab5
+     GTPase activating protein (GAP) in modulating endocytosis."
+     J. Biol. Chem. 272:6097-6100(1997).
+     PubMed=9045618
+[ 4] Tsukamoto N., Hattori M., Yang H., Bos J.L., Minato N.
+     "Rap1 GTPase-activating protein SPA-1 negatively regulates cell
+     adhesion."
+     J. Biol. Chem. 274:18463-18469(1999).
+     PubMed=10373454
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

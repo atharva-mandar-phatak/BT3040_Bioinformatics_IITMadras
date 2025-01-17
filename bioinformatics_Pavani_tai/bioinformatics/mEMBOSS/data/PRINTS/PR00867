@@ -1,0 +1,41 @@
+DNAPOLG
+DNA	carries the biological information that instructs cells how to exist
+in an ordered fashion: accurate replication is thus one of the most
+important events in the cell life cycle. This function is mediated by
+DNA-directed DNA-polymerases, which add nucleotide triphosphate (dNTP)
+residues to the 5'-end of the growing DNA chain, using a complementary 
+DNA as template. Small RNA molecules are generally used as primers for
+chain elongation, although terminal proteins may also be used.
+
+DNA-dependent DNA-polymerases have been grouped into families, denoted A, B
+and X, on the basis of sequence similarities [1,2].	Members of family A, 
+which includes bacterial and bacteriophage polymerases, share significant
+similarity to E.coli polymerase I; hence family A is also known as the pol I
+family. The	bacterial polymerases also contain an exonuclease activity,
+which is coded for in the N-terminal portion. The yeast gamma polymerases
+show some similarity to the prokaryotic nuclear polymerases of family A,
+but their function is restricted to mitochondrial DNA replication and 
+repair [3].
+
+Three motifs, A, B and C, as defined by Delarue et al. [2], are seen to be 
+conserved across all DNA-polymerases, with motifs A and C also seen in RNA- 
+polymerases. They are centered on invariant residues, and their structural 
+significance was implied from the Klenlow (E.coli) structure: motif A 
+contains a strictly-conserved aspartate at the junction of a beta-strand 
+and an alpha-helix; motif B contains an alpha-helix with positive charges; 
+and motif C has a doublet of negative charges, located in a beta-turn-beta 
+secondary structure [2]. 
+
+DNAPOLG is a 9-element fingerprint that provides a signature for the DNA-
+polymerase gamma family. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved sections
+spanning the full alignment length, focusing on those regions that
+characterise the gamma polymerases but distinguish them from the rest of
+the pol I family - motif 5 includes part of the region encoded by PROSITE
+pattern DNA_POLYMERASE_A (PS00447), which corresponds to "motif B". Two 
+iterations on OWL30.1 were required to reach convergence, at which point a
+true set comprising 10 sequences was identified. A single partial match was
+also found, DPOG_CHICK, a chicken gamma polymerase fragment that matches 
+motifs 4-9.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

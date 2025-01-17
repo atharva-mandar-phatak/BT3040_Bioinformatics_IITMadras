@@ -1,0 +1,88 @@
+***********************************************
+* Guanylate kinase-like signature and profile *
+***********************************************
+
+Guanylate  kinase   (EC 2.7.4.8)   (GK)  [1]   catalyzes   the   ATP-dependent
+phosphorylation of  GMP  into  GDP.  It  is  essential  for  recycling GMP and
+indirectly, cGMP.  In prokaryotes (such as Escherichia coli), lower eukaryotes
+(such as    yeast)  and  in  vertebrates,  GK  is a highly conserved monomeric
+protein of about 200 amino acids. GK has been shown [2,3,4] to be structurally
+similar to the following proteins:
+
+ - Protein  A57R  (or  SalG2R)  from various  strains  of Vaccinia virus. This
+   protein is  highly similar to GK, but contains a frameshift mutation in the
+   N-terminal section and could therefore be inactive in that virus.
+
+The following  proteins are characterized by the presence in their sequence of
+one or more copies of the DHR domain, a SH3 domain (see <PDOC50002> as well as
+a C-terminal  GK-like  domain,  these  protein are collectively termed  MAGUKs
+(membrane-associated guanylate kinase homologs) [5]:
+
+ - Drosophila  lethal(1)discs  large-1  tumor  suppressor protein (gene dlg1).
+   This protein  is  associated with septate junctions in developing flies and
+   defects in the dlg1 gene cause neoplastic overgrowth of the imaginal disks.
+ - Mammalian tight junction protein Zo-1.
+ - A  family  of  mammalian  synaptic  proteins that seem to interact with the
+   cytoplasmic tail  of NMDA receptor subunits. This familly currently consist
+   of SAP90/PSD-95, CHAPSYN-110/PSD-93, SAP97/DLG1 and SAP102.
+ - Vertebrate 55 Kd erythrocyte membrane protein (p55). p55 is a palmitoylated,
+   membrane-associated protein of unknown function.
+ - Caenorhabditis  elegans  protein lin-2, which may play a structural role in
+   the induction of the vulva.
+ - Rat protein CASK.
+ - Human protein DLG2.
+ - Human protein DLG3.
+
+There is  an  ATP-binding  site (P-loop) in the N-terminal section of GK. This
+region is not conserved in the  GK-like domain of the above proteins which are
+therefore unlikely  to  be kinases. However these proteins retain the residues
+known, in  GK, to be involved in the binding of GMP. As a signature pattern we
+selected a highly conserved region  that  contains two arginine and a tyrosine
+which are involved in GMP-binding.
+
+-Consensus pattern: [TS]-[ST]-R-x(2)-[KR]-x(2)-[DE]-x(2)-[GA]-x(2)-Y-x-[FY]-
+                    [LIVMKHRT]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ZO-1.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Stehle T., Schulz G.E.
+     "Refined structure of the complex between guanylate kinase and its
+     substrate GMP at 2.0 A resolution."
+     J. Mol. Biol. 224:1127-1141(1992).
+     PubMed=1314905
+[ 2] Bryant P.J., Woods D.F.
+     "A major palmitoylated membrane protein of human erythrocytes shows
+     homology to yeast guanylate kinase and to the product of a Drosophila
+     tumor suppressor gene."
+     Cell 68:621-622(1992).
+     PubMed=1310897
+[ 3] Goebl M.G.
+     "Is the erythrocyte protein p55 a membrane-bound guanylate kinase?"
+     Trends Biochem. Sci. 17:99-99(1992).
+     PubMed=1329277
+[ 4] Zschocke P.D., Schiltz E., Schulz G.E.
+     "Purification and sequence determination of guanylate kinase from pig
+     brain."
+     Eur. J. Biochem. 213:263-269(1993).
+     PubMed=8097461
+[ 5] Woods D.F., Bryant P.J.
+     "ZO-1, DlgA and PSD-95/SAP90: homologous proteins in tight, septate
+     and synaptic cell junctions."
+     Mech. Dev. 44:85-89(1993).
+     PubMed=8155583
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,47 @@
+**********************************
+* Glycoprotease family signature *
+**********************************
+
+Glycoprotease (GCP)  (EC 3.4.24.57) [1], or o-syaloglycoprotein endopeptidase,
+is a  metalloprotease  secreted  by Pasteurella haemolytica which specifically
+cleaves O-sialoglycoproteins  such  as glycophorin A.  The  sequence of GCP is
+highly similar  to  uncharacterized  orthologs  in  most  complete  genomes of
+bacteria and archaebacteria as well as in yeast (QRI7 and YKR038c).
+
+One of the conserved regions contains two conserved histidines. It is possible
+that this region is involved in coordinating a metal ion such as zinc.
+
+-Consensus pattern: [KRC]-[GSAT]-x(4)-[FYWLMH]-[DQNGKRH]-x-P-x-[LIVMFY]-x(3)-
+                    H-x(2)-[GSA]-H-[LIVMFA]
+                    [The 2 H's may be zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family M22 in the classification of peptidases
+ [2,E1].
+
+-Expert(s) to contact by email:
+           Lo R.Y.C.; rlo@uoguelph.ca
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Abdullah K.M., Lo R.Y.C., Mellors A.
+     "Cloning, nucleotide sequence, and expression of the Pasteurella
+     haemolytica A1 glycoprotease gene."
+     J. Bacteriol. 173:5597-5603(1991).
+     PubMed=1885539
+[ 2] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

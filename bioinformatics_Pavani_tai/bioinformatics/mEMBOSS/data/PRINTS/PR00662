@@ -1,0 +1,22 @@
+G6PISOMERASE
+Phosphoglucose isomerase (PGI) catalyses the reversible isomerisation of
+glucose-6-phosphate and fructose-6-phosphate [1,2]. The enzyme is dimeric
+and is involved in a number of pathways: e.g., glycolysis in higher
+organisms; gluconeogenesis in mammals; carbohydrate biosynthesis in plants;
+and provides a gateway for fructose into the Entner-Doudouroff pathway in
+some bacteria. PGI is identical in sequence to neuroleukin, a neurotrophic
+factor that supports survival of certain neurons [3].
+
+G6PISOMERASE is a 6-element fingerprint that provides a signature for the
+glucose-6-phosphate isomerases. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from short conserved
+regions spanning the central and C-terminal portions of the alignment -
+motifs 2 and 6 include the regions encoded by PROSITE patterns P_GLUCOSE_
+ISOMERASE_1 (PS00765) and P_GLUCOSE_ISOMERASE_2 (PS00174) respectively. 
+Two iterations on OWL29.1 were required to reach convergence, at which
+point a true set comprising 38 sequences was identified. Several partial
+matches were also found, including a number of fragments and more distant
+relatives that fail to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 58 sequences, and 5
+partial matches.

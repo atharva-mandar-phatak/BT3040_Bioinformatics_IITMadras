@@ -1,0 +1,59 @@
+**********************************************
+* Arterivirus nsp4 proteinase domain profile *
+**********************************************
+
+Arteriviruses are   enveloped,   positive-stranded  RNA  viruses  and  include
+pathogens of   major   economic  concern  to  the  swine-  and  horse-breeding
+industries [E1]:
+
+  - Equine arteritis virus (EAV).
+  - Porcine reproductive and respiratory syndrome virus (PRRSV).
+  - Mice actate dehydrogenase-elevating virus.
+  - Simian hemorrhagic fever virus.
+
+The arterivirus  replicase  gene encodes two large precursor polyproteins that
+are processed by the viral main proteinase nonstructural protein 4 (nsp4). The
+structure of  the  enzyme  reveals  two  chymotrypsin-like  antiparallel beta-
+barrels and  an  extra  C-terminal  alpha/beta  domain that may play a role in
+mediating protein-protein  interactions  (see  <PDB:1MBM;  A>). The N-terminal
+barrel consists of six beta-strands (A1 to F1), while the C-terminal barrel is
+composed of  seven  (A2  to G2). The core of both beta-barrels is comprised of
+conserved hydrophobic  residues.  The additional C-terminal domain consists of
+two pairs   of  short  antiparallel  beta-sheets  and  two  alpha-helices.  It
+interacts with  the  C-terminal  barrel  through  an  interface  consisting of
+conserved hydrophobic  residues.  A canonical catalytic triad that is composed
+of Ser,  His,  and  Asp  is located in the open cleft between the beta-barrels
+domain [1,2]. The nsp4 proteinase domain forms peptidase family S32 [E2].
+
+The profile we developed covers the entire nsp4 proteinase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2010 / First entry.
+
+[ 1] Barrette-Ng I.H., Ng K.K.S., Mark B.L., van Aken D., Cherney M.M.,
+     Garen C., Kolodenko Y., Gorbalenya A.E., Snijder E.J., James M.N.G.
+     "Structure of arterivirus nsp4. The smallest chymotrypsin-like
+     proteinase with an alpha/beta C-terminal extension and alternate
+     conformations of the oxyanion hole."
+     J. Biol. Chem. 277:39960-39966(2002).
+     PubMed=12163505; DOI=10.1074/jbc.M206978200
+[ 2] Tian X., Lu G., Gao F., Peng H., Feng Y., Ma G., Bartlam M., Tian K.,
+     Yan J., Hilgenfeld R., Gao G.F.
+     "Structure and cleavage specificity of the chymotrypsin-like serine
+     protease (3CLSP/nsp4) of Porcine Reproductive and Respiratory Syndrome
+     Virus (PRRSV)."
+     J. Mol. Biol. 392:977-993(2009).
+     PubMed=19646449; DOI=10.1016/j.jmb.2009.07.062
+[E1] http://www.expasy.org/viralzone/all_by_species/284.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=s32
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

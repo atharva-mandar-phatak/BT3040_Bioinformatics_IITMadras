@@ -1,0 +1,57 @@
+HISBINDING
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+The tick histamine binding proteins are the most recently identified set of 
+outlier lipocalins. The structure of one tick histamine binding protein has
+been solved [5] and has shown the proteins to have the characteristic 
+lipocalin fold but without any appreciable sequence similarity. The tick
+histamine binding proteins are secreted into the saliva of the ixodid tick 
+Rhipicephalus appendiculatus and share functional similarity with the 
+nitrophorins, sequestering histamine at the wound site. Because the tick
+histamine binding proteins outcompete histamine receptors, they are able to
+overcome host inflammatory and immune responses. This enables the ticks to
+feed for extended periods, lasting from days to several weeks, and are able 
+to gorge themselves on large blood meals increasing their body mass 100 fold.
+Unlike nitrophorins, the tick proteins do not bind haem (or other cofactor),
+but ligate histamine directly in two rigid orthogonally-arranged binding 
+sites, at opposing ends of the lipocalin anti-parallel beta-barrel, which
+have an unusually polar character.
+
+HISBINDING is a 6-element fingerprint that provides a signature for tick 
+histamine binding proteins. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length - motif 1 spans the first two N-terminal
+helical sections; motif 2 spans the length of the first beta-strand; motif 3
+covers the distal portion of the large loop L1 and the anterior region of 
+the second beta-strand; motif 4 spans the second section of the fourth beta-
+strand; motif 5 spans the seventh beta-strand; and motif 6 covers the length
+of the long C-terminal alpha-helix. It should be noted that neither of these
+sequences are detected by the PROSITE pattern LIPOCALIN (PS00213) nor by the
+LIPOCALIN fingerprint (PR00179). Two iterations on SPTR37_10f were required 
+to reach convergence, at which point a true set comprising 3 sequences was 
+identified.

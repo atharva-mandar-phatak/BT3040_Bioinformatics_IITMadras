@@ -1,0 +1,35 @@
+GLHYDRLASE15
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt).
+
+Family 15 encompasses the glucoamylases (GA). GA catalyses the release of
+D-glucose from the non-reducing ends of starch and other oligo- or poly-
+saccharides. Studies of fungal GA have indicated 3 closely-clustered acidic
+residues that play a role in the catalytic mechanism [5]. This region is 
+also conserved in a recently sequenced bacterial GA [6].
+
+The 3D structure of the pseudo-tetrasaccharide acarbose complexed with
+glucoamylase II(471) from Aspergillus awamori var. X100 has been determined
+to 2.4A resolution [7]. The protein belongs to the mainly-alpha class, and
+contains 19 helices and 9 strands.
+
+GLHYDRLASE15 is a 7-element fingerprint that provides a signature for
+family 15 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from short conserved regions 
+spanning the N-terminal half of the alignment - motif 2 includes part of 
+helix 5 and the second beta-strand; motif 3 encompasses most of helix 6;
+motif 4 spans strands 3 and 4, and includes the region encoded by PROSITE
+pattern GLUCOAMYLASE (PS00820), which contains the catalytic cluster of
+acidic residues; motif 5 includes part of helix 13; motif 6 spans the C-
+terminus of helix 17 and strand 8; and motif 7 spans helix 18. Two
+iterations on OWL29.3 was required to reach convergence, at which point
+a true set comprising 18 sequences was identified. Several partial matches
+were also found, all of which are related sequences that fail to make
+significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 3
+partial matches.

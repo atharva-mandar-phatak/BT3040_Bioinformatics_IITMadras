@@ -1,0 +1,23 @@
+CLPPROTEASEA
+An evolutionary relationship has been demonstrated in a group of ATP-
+binding proteins that includes the regulatory subunit of the ATP-dependent
+protease clpA; heat shock proteins clpB, 104 and 78; and chloroplast
+proteins CD4a and CD4b [1,2]. The proteins are thought to protect cells
+from stress by controlling the aggregation and denaturation of vital
+cellular structures. They vary in size, but share 2 conserved 200-amino
+acid domains, each of which contains an ATP-binding site.
+
+CLPPROTEASEA is a 4-element fingerprint that provides a signature for ATP-
+dependent CLP protease ATP-binding subunits. The fingerprint was derived
+from an initial alignment of 4 sequences: the motifs were drawn from
+the second domain, in the region of the ATP-binding site (cf. PROSITE
+patterns CLPAB_1 (PS00870) and CLPAB_2 (PS00871)). Two iterations on
+OWL24.0 were required to reach convergence, at which point a true set
+comprising 18 sequences was identified. Amongst the partial matches was
+the hypothetical protein of the putative ATP operon from Mycobacterium
+leprae, which is a fragment lacking the last motif; and strong matches
+with motif 1 were also made by a transmembrane ATPase from L.lactis, and
+DNA polymerase III, which contains an ATP-binding site.
+
+An update on SPTR37_9f identified a true set of 59 sequences, and 1
+partial match.

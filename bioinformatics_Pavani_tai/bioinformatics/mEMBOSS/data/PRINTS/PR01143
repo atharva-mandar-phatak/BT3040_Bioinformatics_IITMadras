@@ -1,0 +1,52 @@
+FSHRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The gonadotrophins (luteinising hormone, choriogonadotrophin, follicle-
+stimulating hormone) and thyroid-stimulating hormone are heterotrimeric
+glycoproteins composed of a common alpha-subunit and distinct beta-subunits
+[6]. The carbohydrate moiety of the glycoproteins has an essential role in
+receptor recognition. The receptors share close sequence similarity, and
+are characterised by large extracellular domains believed to be involved
+in hormone binding via leucine-rich repeats (LRR) [7]. Modelling of this
+portion of the receptors suggests that they contain three-dimensional
+structures similar to that of porcine ribonuclease inhibitor [7].
+
+FSH is released from the anterior pituitary under the influence of
+gonadotrophin-releasing hormone and oestrogens, and from the placenta during
+pregnancy [6]. In females, it acts on the ovaries, promoting development
+of follicles and is the principal hormone regulating secretion of
+oestrogens [6]. In males, it is responsible for the integrity of the
+seminiferous tubules and acts on Sertoli cells to support gametogenesis [6].
+FSH is used clinically to treat infertility in females and for some types
+of spermatogenesis in males [6]. The receptor is found in ovary and testis,
+its predominant effector pathway being via activation of adenylyl cyclase
+through Gs [6].
+
+FSHRECEPTOR is a 10-element fingerprint that provides a signature for the
+follicle stimulating hormone receptors. The fingerprint was derived from an
+initial alignment of 9 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise the FSH receptors but distinguish them from the
+rest of the glycoprotein hormone receptor family - motifs 1-9 reside within
+the N-terminal half of the alignment, prior to the TM domains; and motif 10
+lies at the C-terminus. Two iterations on SPTR37_9f were required to reach 
+convergence, at which point a true set comprising 10 sequences was identfied.
+Two partial matches were also found, Q28574 and Q28573, both of which are
+fragments.

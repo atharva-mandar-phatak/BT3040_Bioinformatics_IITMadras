@@ -1,0 +1,65 @@
+****************************
+* CheW-like domain profile *
+****************************
+
+The CheW-like domain is an around 150-residue domain that is found in proteins
+involved in   the   two-component   signaling   systems  regulating  bacterial
+chemotaxis. Two  components  systems  are composed of a receptor kinase, which
+monitors the   environmental   conditions  and  its  substrate,  the  response
+regulator, which  acts  as  a  binary  switch depending on the phosphorylation
+state. In  Escherichia  coli,  the  signal transduction pathway for chemotaxis
+consists of  specialized  membrane receptors, termed chemotaxis transducers; a
+CheA-CheY two-component system, which transmits the signal from transducers to
+flagellar motors;  and  a  docking  protein,  CheW,  which  couples  the  CheA
+histidine kinase  to  transducers.  Whereas  CheW  is only made of a CheW-like
+domain, CheA   additionally  contains  an  HPt domain (see <PDOC50894>) and an
+histidine kinase domain (see <PDOC50109>). The CheW-like domain has been shown
+to mediate  the  interaction  between  CheA and the adaptor protein CheW. Some
+bacteria contain  another  bifunctional  protein,  CheV,  consisting  of an N-
+terminal CheW-like  domain  and  a  C-terminal response regulatory domain (see
+<PDOC50110>). Although  its  precise  function  in chemotaxis is unknown, CheV
+probably acts in adaptation to attractants [1,2,3,4].
+
+The CheW-like  domain  is composed of two beta-sheet subdomains, each of which
+forms a  loose  five-stranded  beta-barrel around an internal hydrophobic core
+(see <PDB:1K0S>). The interactions between the subdomains are contributed by a
+third hydrophobic  core  sandwiched between the two beta-sheet subdomains. The
+CheW-like structure is stabilized by extensive hydrophobic interactions [1,4].
+
+The profile we developed covers the entire CheW-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2003 / First entry.
+
+[ 1] Bilwes A.M., Alex L.A., Crane B.R., Simon M.I.
+     "Structure of CheA, a signal-transducing histidine kinase."
+     Cell 96:131-141(1999).
+     PubMed=9989504
+[ 2] Karatan E., Saulmon M.M., Bunn M.W., Ordal G.W.
+     "Phosphorylation of the response regulator CheV is required for
+     adaptation to attractants during Bacillus subtilis chemotaxis."
+     J. Biol. Chem. 276:43618-43626(2001).
+     PubMed=11553614; DOI=10.1074/jbc.M104955200
+[ 3] Alexandre G., Zhulin I.B.
+     "Different evolutionary constraints on chemotaxis proteins CheW and
+     CheY revealed by heterologous expression studies and protein sequence
+     analysis."
+     J. Bacteriol. 185:544-552(2003).
+     PubMed=12511501
+[ 4] Griswold I.J., Zhou H., Matison M., Swanson R.V., McIntosh L.P.,
+     Simon M.I., Dahlquist F.W.
+     "The solution structure and interactions of CheW from Thermotoga
+     maritima."
+     Nat. Struct. Biol. 9:121-125(2002).
+     PubMed=11799399; DOI=10.1038/nsb753
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

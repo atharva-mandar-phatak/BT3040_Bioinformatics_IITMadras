@@ -1,0 +1,31 @@
+ANKYRIN
+The ankyrin repeat is a common structural motif found in a variety of
+functionally diverse proteins. Each repeat consists of 33 residues that are
+prone to substitutions [1]. Many ankyrin repeats have been shown to moderate
+protein-protein interactions, e.g. in cytoskeletal, membrane and regulatory
+proteins [2]. The diversity of their sequences leads to their efficacy as
+interaction mediators, the character and specificity of interaction being
+mediated by particular repeats [3].
+
+Ankyrin repeats are usually found in tandem (one immediately following
+another) groups of 4 or more [1]. Their structures are dependent on
+interaction and hydrogen bonding with their neighbour repeats, so that the
+first and last repeats in a sequence will have different structures from
+those in the middle. The repeats generally adopt beta-hairpin helix-loop-
+helix conformations [4-7].
+
+ANKYRIN is a 2-element fingerprint that provides a signature for the ankyrin
+repeat. The fingerprint was derived from an initial alignment of 96 repeats
+from 7 sequences: the motifs were drawn from conserved regions spanning the
+entire repeat - in the common beta-hairpin helix-loop-helix structure, motif
+1 spans the beta-hairpin and part of the first helix, and motif 2 encodes
+the second helix. Eleven iterations on SPTR39_14f were required to reach
+convergence, at which point a true set comprising 138 sequences was
+identified. It should be stressed, however, that ankyrin repeats are highly
+divergent and occur in such diverse proteins that absolute definition of an
+ankyrin repeat 'superfamily' fingerprint is difficult - this result is
+therefore intended primarily as a guide.
+
+An update on SPTR57_40f revealed a true set comprising 6,826 sequences -
+note that the motifs were modified slightly from the original description
+of this fingerprint.

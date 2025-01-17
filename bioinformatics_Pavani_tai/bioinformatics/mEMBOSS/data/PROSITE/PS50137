@@ -1,0 +1,94 @@
+******************************************************
+* Double stranded RNA-binding domain (dsRBD) profile *
+******************************************************
+
+In contrast  to other RNA-binding domains, the about 65 amino acids long dsRBD
+domain [1,2,3] has  been  found  in  a  number  of  proteins that specifically
+recognize double-stranded  RNAs.  The  dsRBD  domain  is  also  known  as DSRM
+(Double-Stranded RNA-binding  Motif).  dsRBD  proteins  are mainly involved in
+posttranscriptional gene  regulation, for example by preventing the expression
+of proteins  or  by  mediating RNAs localization. This domain is also found in
+RNA editing proteins. Interaction of the dsRBD with RNA is unlikely to involve
+the recognition of specific sequences [1,4,5,6]. Nevertheless, multiple dsRBDs
+may be  able  to  act  in  combination to recognize the secondary structure of
+specific RNAs  (i.e.  Staufen)  [1].  NMR  analysis  of  the  third  dsRBD  of
+Drosophila Staufen have revealed an alpha-beta-beta-beta-alpha structure [7].
+
+Some proteins known to include this domain are listed below.
+
+ - Mammalian  double-stranded  RNA  adenosine  deaminase (DRADA) (EC 3.5.-.-),
+   deaminates multiple  adenosines  to  inosines  by  a hydrolytic deamination
+   reaction only  on  double-stranded  RNA;  editates  the  messenger RNAs for
+   glutamate receptor (GLUR) subunits (4 times).
+ - Mammalian    RNA-specific  editase  1  (RED1), edits the messenger RNAs for
+   glutamate receptor (GLUR) subunits (4 times).
+ - Vertebrate  TRBP,  a  protein  that  binds in vitro to the TAR stem-loop of
+   human immunodeficiency virus (HIV) RNA (5 times).
+ - Mammalian   dsRNA-dependent   p68   kinase  (DAI, TIK)  (EC  2.7.11.1),  an
+   interferon-induced protein that is involved in the cellular defense against
+   viral infection.
+ - Animal ATP-dependent RNA helicase A.
+ - Human son protein.
+ - Drosophila  maleless  protein.  It  associates  with  the  X  chromosome to
+   regulate dosage  compensation.  It probably unwinds double-stranded DNA and
+   RNA.
+ - Drosophila  Staufen,  a  developmental  protein that associate specifically
+   with Oskar  and  bicoid  mRNAs,  and  is required for their localization to
+   opposite poles in the egg.
+ - S.pombe  Pac-1  protein  which  digests  double  stranded-RNAs  into  short
+   oligonucleotide. Identified as a suppressor of meiosis.
+ - Bacterial RNase III (EC 3.1.26.3), an endonuclease that digest dsRNAs.
+ - Viral  E3L, a Vaccina virus protein which inhibits the p68 kinase activity,
+   maybe by competing for dsRNA.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Not  all  RNase  III  proteins  are picked-up by this motif, because of
+ their high divergence.
+
+-Last update: December 2001 / First entry.
+
+[ 1] St Johnston D., Brown N.H., Gall J.G., Jantsch M.
+     Proc. Natl. Acad. Sci. U.S.A. 89:10979-10983(1992).
+[ 2] Burd C.G., Dreyfuss G.
+     "Conserved structures and diversity of functions of RNA-binding
+     proteins."
+     Science 265:615-621(1994).
+     PubMed=8036511
+[ 3] Kim U., Wang Y., Sanford T., Zeng Y., Nishikura K.
+     "Molecular cloning of cDNA for double-stranded RNA adenosine
+     deaminase, a candidate enzyme for nuclear RNA editing."
+     Proc. Natl. Acad. Sci. U.S.A. 91:11457-11461(1994).
+     PubMed=7972084
+[ 4] Manche L., Green S.R., Schmedt C., Mathews M.B.
+     "Interactions between double-stranded RNA regulators and the protein
+     kinase DAI."
+     Mol. Cell. Biol. 12:5238-5248(1992).
+     PubMed=1357546
+[ 5] Polson A.G., Bass B.L.
+     "Preferential selection of adenosines for modification by
+     double-stranded RNA adenosine deaminase."
+     EMBO J. 13:5701-5711(1994).
+     PubMed=7527340
+[ 6] Schweisguth D.C., Chelladurai B.S., Nicholson A.W., Moore P.B.
+     "Structural characterization of a ribonuclease III processing
+     signal."
+     Nucleic Acids Res. 22:604-612(1994).
+     PubMed=8127710
+[ 7] Bycroft M., Grunert S., Murzin A.G., Proctor M., St Johnston D.
+     "NMR solution structure of a dsRNA binding domain from Drosophila
+     staufen protein reveals homology to the N-terminal domain of ribosomal
+     protein S5."
+     EMBO J. 14:3563-3571(1995).
+     PubMed=7628456
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

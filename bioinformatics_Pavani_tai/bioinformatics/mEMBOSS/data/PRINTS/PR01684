@@ -1,0 +1,56 @@
+EP450ICYP2A
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1], widely
+distributed in bacteria, fungi, plants and animals. The enzymes are involved
+in metabolism of a plethora of both exogenous and endogenous compounds [2].
+Usually, they act as terminal oxidases in multi-component electron transfer
+chains, called P450-containing monooxygenase systems.
+
+Current P450 nomenclature, based on divergent evolution of the P450
+superfamily, was proposed and developed by Nebert et al. [3]. On the basis
+of sequence similarity, all P450s can be categorised into 2 main classes,
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component
+systems and fungal P450nor (CYP55) belong to the B-class; all other known
+P450s from distinct systems are of the E-class [4]. E-class P450s may be
+further divided into 5 subclasses (groups) according to protein sequence
+similarities. The data suggest that divergence of the P450 superfamily 
+into B- and E-classes, and further divergence into stable P450 groups 
+within the E-class, must be very ancient and had occured before the 
+appearance of eukaryotes. 
+
+Due to the rapid increase in numbers of P450s, Nelson introduced the concept
+of a higher order classification of P450 families into clans [5,6] based on 
+sequence similarity. This is similar to the previous grouping into B- and
+E-classes; both classifications are still used. According to Nelson's 
+system, clan 2 contains the CYP2 plus CYP1, 17, 18, 21 and 71 families, and
+corresponds to the E-class group I proteins [6]. Members of the first 4
+families are of vertebrate origin, while those from CYP71 derive from plants.
+CYP1 and CYP2 enzymes mainly metabolise exogenous substrates, while CYP17
+and CYP21 are involved in metabolism of endogenous physiologically-active
+compounds. 
+
+The CYP2 family, comprising 15 subfamilies (A-H, J-N, P and Q), is the most
+dominant in clan 2. Six of these subfamilies are non-mammalian: 2H derives
+from chicken; 2K, 2M, 2N and 2P are from fish; 2L is from lobster; and 2Q
+from Xenopus [5]. The first five (A-E) are present in mammalian liver, but
+in differing amounts and with different inducibilities [7]. These five 
+subfamilies show varied substrate specificities, with some degree of 
+overlap. The various mammalian orthologues of the CYP2A subfamily (of which
+2A1, 2A2 and 2A3 are the rat forms, 2A4 and 2A5 are the mouse forms, and
+2A6 and 2A7 represent those in human) exhibit some interesting inter-species
+differences, indicating possible evolutionary modifications that may 
+represent responses to dietary challenges [7]. The CYP2A gene is located on
+chromosome 19 in mouse and man [3].
+
+EP450ICYP2A is a 4-element fingerprint that provides a signature for the
+CYP2A P450 family. The fingerprint was derived from an initial alignment of
+13 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that
+characterise the CYP2A proteins but distinguish them from the rest of the
+CYP2 family - using the model of de Groot et al. [8], motif 1 lies in the
+N-terminal membrane anchor domain; motif 2 spans the N-terminal region of
+the G helix, and is located between substrate recognition site (SRS) 2 and
+SRS 3; motif 3 encodes the J' helix between the J and K helices; and motif 
+4 encodes the K' helix between SRS 5 and the haem-binding domain. Two 
+iterations on SPTR40_18f were required to reach convergence, at which point
+a true set comprising 19 sequences was identified. A single partial match
+was also found, Q92129, a P450 from Xenopus that matches motifs 3 and 4.

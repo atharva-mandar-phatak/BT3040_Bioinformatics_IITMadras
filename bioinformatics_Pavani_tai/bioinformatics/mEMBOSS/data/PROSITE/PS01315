@@ -1,0 +1,42 @@
+************************************************
+* Phosphatidate cytidylyltransferase signature *
+************************************************
+
+Phosphatidate cytidylyltransferase  (EC  2.7.7.41) [1,2,3] (also known as CDP-
+diacylglycerol synthase)  (CDS)  is the enzyme that catalyzes the synthesis of
+CDP-diacylglycerol from CTP  and phosphatidate (PA).  CDP-diacylglycerol is an
+important branch   point  intermediate  in  both  prokaryotic  and  eukaryotic
+organisms. CDS  is a membrane-bound enzyme. As a signature pattern we selected
+a conserved region located in the C-terminal part.
+
+-Consensus pattern: S-x-[LIVMF]-K-R-x(4)-K-D-x-[GSA]-x(2)-[LIF]-[PGS]-x-H-G-G-
+                    [LIVMF]-x-D-R-[LIVMFT]-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sparrow C.P., Raetz C.R.H.
+     "Purification and properties of the membrane-bound CDP-diglyceride
+     synthetase from Escherichia coli."
+     J. Biol. Chem. 260:12084-12091(1985).
+     PubMed=2995359
+[ 2] Shen H., Heacock P.N., Clancey C.J., Dowhan W.
+     "The CDS1 gene encoding CDP-diacylglycerol synthase in Saccharomyces
+     cerevisiae is essential for cell growth."
+     J. Biol. Chem. 271:789-795(1996).
+     PubMed=8557688
+[ 3] Saito S., Goto K., Tonosaki A., Kondo H.
+     "Gene cloning and characterization of CDP-diacylglycerol synthase from
+     rat brain."
+     J. Biol. Chem. 272:9503-9509(1997).
+     PubMed=9083091
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,44 @@
+DNAPOLX
+DNA	carries the biological information that instructs cells how to exist
+in an ordered fashion: accurate replication is thus one of the most
+important events in the cell life cycle. This function is mediated by
+DNA-directed DNA-polymerases, which add nucleotide triphosphate (dNTP)
+residues to the 5'-end of the growing DNA chain, using a complementary 
+DNA as template. Small RNA molecules are generally used as primers for
+chain elongation, although terminal proteins may also be used.
+
+DNA-dependent DNA-polymerases have been grouped into families, denoted A, B
+and X, on the basis of sequence similarities [1,2].	Members of family X
+encompass two distinct polymerase enzymes that have similar functionality:
+vertebrate polymerase beta (yeast pol 4), and terminal deoxynucleotidyl-
+transferase (TdT) (EC 2.7.7.31). The former functions in DNA repair, while
+the latter terminally adds single nucleotides to polydeoxynucleotide chains.
+Both enzymes catalyse addition of nucleotides in a distributive manner, 
+i.e. they dissociate after the addition of a single nucleotide.
+
+Three motifs, A, B and C, as defined by Delarue et al. [2], are seen to be 
+conserved across all DNA-polymerases, with motifs A and C also seen in RNA- 
+polymerases. They are centered on invariant residues, and their structural 
+significance was implied from the Klenlow (E.coli) structure: motif A 
+contains a strictly-conserved aspartate at the junction of a beta-strand 
+and an alpha-helix; motif B contains an alpha-helix with positive charges; 
+and motif C has a doublet of negative charges, located in a beta-turn-beta 
+secondary structure [2]. 
+
+DNAPOLX is a 6-element fingerprint that provides a signature for DNA-
+polymerase family X. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length - motif 1 includes helix 7 and a number of conserved
+residues involved in metal and DNA binding; motif 2 straddles strands
+2 and 3, and helix 12; motif 3 includes "motif C", which contains two of
+the active site Asps; motif 4 spans strand 7 and helix 14, and corresponds
+to "motif A", which includes an active site Asp; motif 5 spans the
+C-terminus of helix 15 and the N-terminus of helix 16, and includes a
+conserved aromatic residue involved in ligand binding; and motif 6, which
+lies at the C-terminus, spans helices 17 and 18. Two iterations on OWL30.1
+were required to reach convergence, at which point a true set comprising 16
+sequences was identified. Several partial matches were also found, all of
+which are non-vertebrate polymerase X family homologues.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 6
+partial matches.

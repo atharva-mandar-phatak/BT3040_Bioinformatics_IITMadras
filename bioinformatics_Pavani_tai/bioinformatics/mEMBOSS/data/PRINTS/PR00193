@@ -1,0 +1,32 @@
+MYOSINHEAVY
+Muscle contraction is caused by sliding between the thick and thin 
+filaments of the myofibril. Myosin is a major component of thick filaments 
+and exists as a hexamer of 2 heavy chains [1], 2 alkali light chains, and 
+2 regulatory light chains. The heavy chain can be subdivided into the 
+N-terminal globular head and the C-terminal coiled-coil rod-like tail, 
+although some forms have a globular region in their C-terminal. There are 
+many cell-specific isoforms of myosin heavy chains, coded for by a multi-
+gene family [2]. Myosin interacts with actin to convert chemical energy, in
+the form of ATP, to mechanical energy [3]. The 3-D structure of the head
+portion of myosin has been determined [4] and a model for actin-myosin
+complex has been constructed [5].
+                                                                          
+The globular head is well conserved, some highly-conserved regions possibly
+relating to functional and structural domains [6]. The rod-like tail starts
+with an invariant proline residue, and contains many repeats of a 28 
+residue region, interrupted at 4 regularly-spaced points known as skip 
+residues. Although the sequence of the tail is not well conserved, the 
+chemical character is, hydrophobic, charged and skip residues occuring
+in a highly ordered and repeated fashion [6].
+
+MYOSINHEAVY is a 5-element fingerprint that provides a signature for the 
+myosin heavy chain. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from highly conserved regions in the
+globular head region. Three iterations on OWL20.0 were required to reach
+convergence, at which point a true set comprising 57 sequences was
+identified. Several partial matches were also found: these include myosin
+fragments and 3 ninaC proteins, which are required for photoreceptor cell
+function in fruit fly and are similar to the myosin heavy chain head region.
+
+An update on SPTR37_9f identified a true set of 133 sequences, and 7
+partial matches.

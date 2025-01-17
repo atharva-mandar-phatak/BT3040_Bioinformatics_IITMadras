@@ -1,0 +1,58 @@
+***********************************
+* TFIIS N-terminal domain profile *
+***********************************
+
+Transcription factor  IIS  (TFIIS)  is  a transcription elongation factor that
+increases the  overall transcription rate of RNA polymerase II by reactivating
+transcription elongation complexes that have arrested transcription. The three
+structural domains of TFIIS are conserved from yeast to human. The 80 or so N-
+terminal residues  form  a  protein  interaction domain containing a conserved
+motif, which has been called the LW motif because of the invariant leucine and
+tryptophane residues it contains. Although the N-terminal domain is not needed
+for transcriptional  activity, a similar sequence has been identified in other
+transcription factors  and  proteins  that are predominantly nuclear localized
+[1,2]:
+
+ - MED26  (also known as CRSP70 and ARC70), a subunit of the Mediator complex,
+   which is required for the activity of the enhancer-binding protein Sp1.
+ - Elongin  A, a subunit of a transcription elongation factor previously known
+   as SIII.  It  increases  the rate of transcription by suppressing transient
+   pausing of the elongation complex.
+ - PPP1R10,  a  nuclear  regulatory  subunit of protein phosphatase 1 that was
+   previously known as p99, FB19 or PNUTS.
+ - PIBP, a small hypothetical protein that could be a phosphoinositide binding
+   protein.
+ - IWS1,  which  is  thought  to function in both transcription initiation and
+   elongation.
+
+The TFIIS  N-terminal  domain is a compact four-helix bundle (see <PDB:1EO0>).
+The hydrophobic  core residues of helices 2, 3, and 4 are well conserved among
+TFIIS domains, although helix 1 is less conserved [2].
+
+The profile we developed covers the entire TFIIS N-terminal domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2007 / First entry.
+
+[ 1] Booth V., Koth C.M., Edwards A.M., Arrowsmith C.H.
+     "Structure of a conserved domain common to the transcription factors
+     TFIIS, elongin A, and CRSP70."
+     J. Biol. Chem. 275:31266-31268(2000).
+     PubMed=10811649; DOI=10.1074/jbc.M002595200
+[ 2] Ling Y., Smith A.J., Morgan G.T.
+     "A sequence motif conserved in diverse nuclear proteins identifies a
+     protein interaction domain utilised for nuclear targeting by human
+     TFIIS."
+     Nucleic Acids Res. 34:2219-2229(2006).
+     PubMed=16648364; DOI=10.1093/nar/gkl239
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

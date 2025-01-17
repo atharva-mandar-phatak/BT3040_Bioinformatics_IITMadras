@@ -1,0 +1,86 @@
+**********************************************
+* LacI-type HTH domain signature and profile *
+**********************************************
+
+The  lacI-type  HTH  domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  50-60  residues  present  in  the  lacI/galR  family of transcriptional
+regulators  involved  in  metabolic  regulation  in prokaryotes. Most of these
+bacterial  regulators  recognize sugar-inducers. The family is named after the
+Escherichia  coli lactose operon repressor lacI and galactose operon repressor
+galR.  LacI-type  regulators  are  present in diverse bacterial genera, in the
+cytoplasm.   The  'helix-turn-helix'  DNA-binding  motif  is  located  in  the
+N-terminal  extremity of these transcriptional regulators. The C-terminal part
+of  lacI-type  regulators contains several regions that can be involved in (1)
+binding   of   inducers,   which   are   sugars  and  their  analogs  and  (2)
+oligomerization.  The  lac  repressor  is  a  tetramer, whilst the gal and cyt
+repressors  are  dimers. LacI-type transcriptional regulators are important in
+the coordination of catabolic, metabolic and transport operons [1,2].
+
+Several  structures of lacI-type transcriptional regulators have been resolved
+and  their  DNA-binding  domain  encompasses  a headpiece, formed by a fold of
+three helices, followed by a hinge region, which can form a fourth alpha helix
+or  hinge-helix  (see  <PDB:1L1M>).  The  helix-turn-helix motif comprises the
+first  and  second helices, the second being called the recognition helix. The
+HTH  is  involved  in DNA-binding into the major groove, while the hinge-helix
+fits into the minor groove and the complete domain specifically recognizes the
+operator DNA [3,4].
+
+Some proteins known to contain a lacI-type HTH domain:
+
+ - Bacillus subtilis  ccpA  and  ccpB,  transcriptional regulators involved in
+   the catabolic repression of several operons.
+ - Salmonella  typhimurium  fruR,  the  fructose  repressor,  involved  in the
+   regulation of a large number of operons encoding enzymes which take part in
+   central pathways of carbon metabolism.
+ - Escherichia coli lacI, the lactose operon repressor, serving as a model for
+   gene regulation.
+ - Escherichia  coli  purF  and purR, repressors involved in the regulation of
+   enzymes for purine nucleotide synthesis.
+ - Haemophilus influenzae galR, a repressor of the galactose operon.
+
+The  pattern  we  developed  spans the complete HTH motif, except for the last
+residue.  We  also  developed  a  profile  that  covers  the  entire  HTH  and
+DNA-binding  domain,  including  the  hinge-helix  and allows a more sensitive
+detection.
+
+-Consensus pattern: [LIVM]-x-[DE]-[LIVM]-A-x(2)-[STAGV]-x-V-[GSTP]-x(2)-
+                    [STAG]-[LIVMA]-x(2)-[LIVMFYAN]-[LIVMC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for rafR.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2003 / Text revised; profile added.
+
+[ 1] Vartak N.B., Reizer J., Reizer A., Gripp J.T., Groisman E.A., Wu L.-F.,
+     Tomich J.M., Saier M.H. Jr.
+     "Sequence and evolution of the FruR protein of Salmonella typhimurium:
+     a pleiotropic transcriptional regulatory protein possessing both
+     activator and repressor functions which is homologous to the
+     periplasmic ribose-binding protein."
+     Res. Microbiol. 142:951-963(1991).
+     PubMed=1805309
+[ 2] Weickert M.J., Adhya S.
+     "A family of bacterial regulators homologous to Gal and Lac
+     repressors."
+     J. Biol. Chem. 267:15869-15874(1992).
+     PubMed=1639817
+[ 3] Nguyen C.C., Saier M.H. Jr.
+     "Phylogenetic, structural and functional analyses of the LacI-GalR
+     family of bacterial transcription factors."
+     FEBS Lett. 377:98-102(1995).
+     PubMed=8543068
+[ 4] Mueller-Hill B.
+     Curr. Opin. Microbiol. 1:145-151(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

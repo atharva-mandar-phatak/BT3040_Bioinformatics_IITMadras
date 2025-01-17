@@ -1,0 +1,26 @@
+CUZNDISMTASE
+Superoxide dismutases are ubiquitous metalloproteins that prevent damage
+by oxygen-mediated free radicals by catalysing the dismutation of superoxide
+into molecular oxygen and hydrogen peroxide [1]. Superoxide is a normal 
+by-product of aerobic respiration and is produced by a number of reactions, 
+including oxidative phosphorylation and photosynthesis [2]. The dismutase
+enzymes have a very high catalytic efficiency due to the attraction of
+superoxide to the ions bound at the active site [3].
+
+There are 3 forms of superoxide dismutase, depending on the metal cofactor: 
+Cu/Zn (which binds both copper and zinc), Fe and Mn types. The Fe and Mn
+forms are similar in their primary, secondary and tertiary structures, but 
+are distinct from the Cu/Zn form [4]. Prokaryotes and protists contain Mn,
+Fe or both types, while most eukaryotic organisms utilise the Cu/Zn type.
+
+CUZNDISMTASE is a 4-element fingerprint that provides a signature for the
+Cu-Zn-superoxide dismutases. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs line the active site, 1 and 4 including
+regions encoded by PROSITE patterns SOD_CU_ZN_1 (PS00087) and SOD_CU_ZN_2
+(PS00332), the former containing 2 His residues involved in binding the Cu
+ion, and the latter a Cys residue involved in disulphide bond formation. Two
+iterations on OWL21.1 were required to reach convergence, at which point a 
+true set comprising 66 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 97 sequences, and 3
+partial matches.

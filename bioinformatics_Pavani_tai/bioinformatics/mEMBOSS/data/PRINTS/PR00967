@@ -1,0 +1,32 @@
+ONCOGENEAML1
+The AML1 gene is rearranged by the t(8;21) translocation in acute myeloid
+leukemia [1]. The gene is highly similar to the Drosophila segmentation 
+gene runt and to the mouse transcription factor PEBP2 alpha subunit gene [1].
+The region of shared similarity, known as the Runt domain, is responsible 
+for DNA-binding and protein-protein interaction [1]. 
+
+In addition to the highly-conserved Runt domain, the AML-1 gene product
+carries a putative ATP-binding site (GRSGRGKS), and has a C-terminal region
+rich in proline and serine residues. The protein (known as acute myeloid 
+leukemia 1 protein, oncogene AML-1, core-binding factor (CBF), alpha-B 
+subunit, etc.) binds to the core site, 5'-pygpyggt-3', of a number of
+enhancers and promoters. 
+
+The protein is a heterodimer of alpha- and beta-subunits. The alpha-subunit
+binds DNA as a monomer, and appears to have a role in the development of
+normal hematopoiesis. CBF is a nuclear protein expressed in numerous tissue
+types, except brain and heart; highest levels have been found to occur in 
+thymus, bone marrow and peripheral blood.
+
+ONCOGENEAML1 is a 10-element fingerprint that provides a signature for
+acute myeloid leukemia 1 protein (oncogene AML-1). The fingerprint was
+derived from an initial alignment of 16 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motifs
+1-6 span the Runt domain, motif 5 encoding a putative ATP-binding site; 
+and motifs 7-10, which are Ser/Thr/Pro-rich regions, lie towards the
+C-terminus. A single iteration on OWL30.2 was required to reach convergence,
+no further sequences being identified beyond the starting set. Several
+partial matches were found, all of which lie in the Runt domain.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 10
+partial matches.

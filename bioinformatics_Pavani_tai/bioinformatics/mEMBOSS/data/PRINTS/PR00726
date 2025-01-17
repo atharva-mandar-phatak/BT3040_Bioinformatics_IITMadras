@@ -1,0 +1,48 @@
+LEXASERPTASE
+Proteolytic enzymes that exploit serine in their catalytic activity are
+ubiquitous, being found in viruses, bacteria and eukaryotes [1]. They 
+include a wide range of peptidase activity, including exopeptidase, endo-
+peptidase, oligopeptidase and omega-peptidase activity. Over 20 families
+(denoted S1 - S27) of serine protease have been identified, these being
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+similarity and other functional evidence [1]. Structures are known for four
+of the clans (SA, SB, SC and SE): these appear to be totally unrelated,
+suggesting at least four evolutionary origins of serine peptidases and
+possibly many more [1].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and 
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+The lexA protein represses around 20 genes of the cellular SOS response to 
+DNA damage in E.coli [1]. Damage to cellular DNA results in inactivation of
+lexA, allowing transcription of the genes involved in DNA repair [1]. In 
+E.coli, this derepression of the DNA repair system is effected by the recA
+protein, which binds to lexA upon interaction with single-stranded 
+DNA [1]. This results in inactivation of lexA by proteolytic cleavage,
+disrupting the DNA-binding capabilities of lexA [1]. Although initially
+thought to be mediated by recA, it has been found that the cleavage of lexA
+is an autolytic event catalysed by the presence of recA [1].
+
+The lexA protein consists of around 200 amino acids, of which the first 90 
+form the DNA-binding domain [1]. The remaining residues form the protease 
+domain, Ser-119 and Lys-156 being the active residues.
+
+LEXASERPTASE is a 3-element fingerprint that provides a signature for the
+protease domain of the lexA repressor and related proteins. The fingerprint
+was derived from an initial alignment of 8 sequences: the motifs were drawn
+from conserved regions spanning the C-terminal half of the alignment in the
+vicinity of the active site -  motif 1 contains the catalytic serine,
+and motif 3 the catalytic lysine. Two iterations on OWL29.3 were
+required to reach convergence, at which point a true set comprising 17
+sequences was identified. A single partial match was also found, RNU77699,
+a fragment that shows a high degree of similarity to the first 2 motifs.
+
+An update on SPTR37_9f identified a true set of 26 sequences.

@@ -1,0 +1,112 @@
+*********************
+* PX domain profile *
+*********************
+
+The phox  homology  (PX)  domain is a 100-140 amino acid module that was first
+identified in  p40-phox,  p47-phox,  the  Cpk class of phosphatidylinositol 3-
+kinase, homologues  of  a  sorting  nexin (SNX1), phospholipase D, and several
+yeast proteins,  including  BEM1  and  SCD2  [1].  The PX domain is found in a
+single copy   in   several  eukaryotic  proteins  generally  involved  in  the
+regulation of   vesicular   trafficking   machinery,  growth  factor  receptor
+degradation in  lysosomes,  signal  transduction mechanisms, and NADPH oxidase
+activity. In  addition  to  proteins containing only PX domains, the PX domain
+can coexist  with  other  functional  domains  such  as  the lipase, the lipid
+kinase, the   protein  kinase  (see  <PDOC00100>),  the  t-SNARE  domain  (see
+<PDOC50192>), the  SH3  domain  (see  <PDOC50002>),  and  the  RGS domain (see
+<PDOC50132>). Several PX domains have been shown to bind phosphatidylinositol-
+3-phosphate (PtdIns(3)P),       phosphatidylinositol-3,4-bisphosphate       or
+phosphatidylinositol-4,5-bisphosphate [2,3,4,5,6].  Thus, it seems likely that
+PX domains fulfill a general function as phosphoinositide-binding domains in a
+variety of cellular processes in unicellular and multicellular organisms. Many
+PX domains  contain a  conserved  proline-rich  motif representing a consensus
+SH3-binding site  and  an  interaction between the p47-phox PX and SH3 domains
+has been shown to exist [1,7]. This  suggests  that SH3 docking might regulate
+the interaction  between  PX  domains  and phosphoinositide-enriched membranes
+[2].
+
+The PX  domain  contains  several conserved positively charged and hydrophobic
+residues characteristic  of  domains known to bind to specific phosphopeptides
+or phospholipids.  The NMR structures of the p47-phox and VAM7 PX domains have
+been solved  and  revealed  that  the  PX domain has a flat compact shape (see
+<PDB:1GD5>). The  p47-phox  and  VAM7 PX domains consist of three/four strands
+forming an  antiparallel  beta-sheet structure in the N-terminal  one-third of
+the amino-acid structure, and four/three helices in the C-terminal two-thirds,
+respectively [2,7].  The conserved proline-rich motif found in many PX domains
+and which could bind SH3 domains is located between alpha-helices 1 and 2 or 2
+and 3, respectively [1,2,7].
+
+Some proteins known to contain a PX domain are listed below:
+
+ - Eukaryotic  sorting nexin (SNX) proteins. They are implicated in regulating
+   membrane traffic.
+ - Animal Cpk class of phosphatidylinositol 3-kinase.
+ - Mouse  serine/threonine  protein  kinase  CISK.  It  is implicated in IL-3-
+   dependent cell survival.
+ - Mammalian  p47-phox  (NCF-1)  and  p40-phox  (NCF-4),  which  are cytosolic
+   components of  the  phagocyte  NADPH  oxidase.  In human, defects in the PX
+   domain of   p47-phox   cause   chronic  granulomatous  disease  (CGD)  with
+   predisposition to infection by fungi and bacteria.
+ - Mammalian  Fish  protein.  It is involved in the tyrosine kinase signalling
+   pathway.
+ - Some eukaryotic phospholipases D (EC 3.1.4.4).
+ - Yeast vacuolar morphogenesis protein VAM7. It helps to transport cargo such
+   as hydrolytic enzymes to the vacuole, the yeast lysosomal counterpart.
+ - Yeast BEM1 and BEM3 bud-mergence proteins.
+ - Fission yeast scd2, the orthologue of BEM1.
+
+The profile we developed covers the entire PX domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Ponting C.P.
+     "Novel domains in NADPH oxidase subunits, sorting nexins, and PtdIns
+     3-kinases: binding partners of SH3 domains?"
+     Protein Sci. 5:2353-2357(1996).
+     PubMed=8931154
+[ 2] Cheever M.L., Sato T.K., de Beer T., Kutateladze T.G., Emr S.D.,
+     Overduin M.
+     "Phox domain interaction with PtdIns(3)P targets the Vam7 t-SNARE to
+     vacuole membranes."
+     Nat. Cell Biol. 3:613-618(2001).
+     PubMed=11433291; DOI=10.1038/35083000
+[ 3] Xu Y., Hortsman H., Seet L., Wong S.H., Hong W.
+     "SNX3 regulates endosomal function through its PX-domain-mediated
+     interaction with PtdIns(3)P."
+     Nat. Cell Biol. 3:658-666(2001).
+     PubMed=11433298; DOI=10.1038/35083051;
+[ 4] Kanai F., Liu H., Field S.J., Akbary H., Matsuo T., Brown G.E.,
+     Cantley L.C., Yaffe M.B.
+     "The PX domains of p47phox and p40phox bind to lipid products of
+     PI(3)K."
+     Nat. Cell Biol. 3:675-678(2001).
+     PubMed=11433300; DOI=10.1038/35083070
+[ 5] Ellson C.D., Gobert-Gosse S., Anderson K.E., Davidson K.,
+     Erdjument-Bromage H., Tempst P., Thuring J.W., Cooper M.A., Lim Z.-Y.,
+     Holmes A.B., Gaffney P.R.J., Coadwell J., Chilvers E.R., Hawkins P.T.,
+     Stephens L.R.
+     "PtdIns(3)P regulates the neutrophil oxidase complex by binding to the
+     PX domain of p40(phox)."
+     Nat. Cell Biol. 3:679-682(2001).
+     PubMed=11433301; DOI=10.1038/35083076
+[ 6] Song X., Xu W., Zhang A., Huang G., Liang X., Virbasius J.V.,
+     Czech M.P., Zhou G.W.
+     "Phox homology domains specifically bind phosphatidylinositol
+     phosphates."
+     Biochemistry 40:8940-8944(2001).
+     PubMed=11467955; DOI=10.1021/bi0155100
+[ 7] Hiroaki H., Ago T., Ito T., Sumimoto H., Kohda D.
+     "Solution structure of the PX domain, a target of the SH3 domain."
+     Nat. Struct. Biol. 8:526-530(2001).
+     PubMed=11373621; DOI=10.1038/88591
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

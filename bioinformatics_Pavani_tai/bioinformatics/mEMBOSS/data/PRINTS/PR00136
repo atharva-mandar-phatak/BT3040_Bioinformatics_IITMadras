@@ -1,0 +1,38 @@
+LACTALBUMIN
+Alpha-lactalbumin comprises 15 percent of the total human milk protein and
+is essential for lactose production [1]. It is a globular calcium-binding 
+metalloprotein secreted in the lactating mammary gland [2], the calcium
+being bound in a novel binding loop that is superficially similar to the 
+classic EF-hand motif. Lactalbumin attaches to beta-galactosyltransferase 
+on the luminal surface of the Golgi apparatus, creating the lactose 
+synthetase complex [1], which catalyses the addition of galactose to
+glucose, forming lactose. The lactalbumin gene also contains a novel
+upstream regulatory sequence called the 'milk box' [3], which is also found
+in genes of other milk proteins, and may be involved in either hormone
+regulation or tissue-specific expression in the lactating mammary gland.
+
+Alpha-lactalbumin is similar to C-type lysozyme in terms of primary 
+sequence and structure [4], and has probably evolved from a common 
+ancestral protein. There is, however, no similarity in function, lysozyme 
+being involved in the hydrolysis of bacterial cell wall polysaccharides, 
+lactalbumin playing an essential role in milk production. Another
+difference between the enzymes is that whereas all lactalbumins have the
+ability to bind calcium, this property is restricted to only a few
+lysozymes [5]. It was first suggested that calcium binding stabilised the 
+structure and protected it from heat denaturation, but recently it has 
+been claimed that calcium controls the release of lactalbumin from the 
+golgi membrane and that the pattern of ion binding may also affect the 
+catalytic properties of the lactose synthetase complex.
+
+LACTALBUMIN is a 5-element fingerprint that provides a signature for the 
+alpha-lactalbumins and distinguishes them from the lysozymes. The 
+fingerprint was derived from an initial alignment of 6 sequences: motif 4 
+encodes the calcium binding region, and motif 3 contains 2 of 8 cysteine 
+residues conserved in both lysozymes and lactalbumins (cf. PROSITE pattern
+LACTALBUMIN_LYSOZYME (PS00128)). Two iterations on OWL20.0 were required to
+reach convergence, at which point a true set comprising 17 sequences was
+identified. Five partial matches were also found, all of which are
+lysozymes, most matching motifs 1 and 3.
+
+An update on SPTR37_9f identified a true set of 17 sequences, and 1
+partial match.

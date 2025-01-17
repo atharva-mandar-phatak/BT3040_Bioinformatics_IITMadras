@@ -1,0 +1,87 @@
+*********************************************
+* Ubiquitin-associated domain (UBA) profile *
+*********************************************
+
+Covalent modification of proteins by the small, evolutionary conserved protein
+ubiquitin (see  <PDOC00271>)  plays  a  central  role in a variety of cellular
+processes, including  bulk  protein  degradation,  cell-cycle  control, stress
+response, DNA  repair,  signal  transduction,  transcriptional  regulation and
+vesicular traffic. A cascade of three enzymes (called E1, E2 and E3) catalyzes
+the conjugation  of  ubiquitin  to  lysine  side-chains  of  target  proteins.
+Ubiquitination is  a  reversible  process: several specific ubiquitin carboxy-
+terminal hydrolases  (UBPs) can remove ubiquitin from proteins. The variety of
+cellular processes  regulated  by  ubiquitination  demands  a  high  substrate
+specificity of  the  ubiquitination  machinery  as  well  as  the existence of
+diverse downstream    effector   proteins   interacting   with   ubiquitinated
+substrates. Most  of  these  cellular effectors are characterized by a modular
+composition of ubiquitin-binding motifs and further domains mediating specific
+functions. The  ubiquitin-associated (UBA) domain is a short sequence motif of
+~45 amino  acid  residues  that was initially identified in E2s, E3s, UBPs and
+several other  proteins having connections to ubiquitin and the ubiquitination
+pathway. The  UBA  domain  was  latter  found  to occur frequently either as a
+single copy  or  as multiple copies in tandem arrangement in proteins found in
+all eukaryotes. In addition to many enzymes of the ubiquitination pathway, the
+UBA domain  occurs in UV excision repair proteins and protein kinases involved
+in cell-signaling  pathways  and  cell-cycle  control. The UBA domain has been
+shown to  bind  ubiquitin but also proteins without ubiquitin-like domains and
+lacking an  obvious  link  to  ubiquitin, such as HIV Vpr, 3-methyladenine DNA
+glycosylase (MPG) or the nuclear mRNA export factor TAP/Mex67 [1,2,3].
+
+The three  dimensional  structure  of  the UBA domain is a compact three-helix
+bundle with an unusually large hydrophobic surface patch (see <PDBD:1DV0>). It
+has been  proposed  that  this  hydrophobic surface patch is a common protein-
+interacting surface present in diverse UBA domains [3].
+
+Some proteins known to contain an UBA domain are listed below:
+
+ - Mammalian E2-25K and  several  other  ubiquitin-conjugating  enzymes  (E2),
+   catalyzing the second step in protein ubiquitination.
+ - Drosophila  hyperplastic discs protein, a putative ubiquitin-protein ligase
+   (E3), catalyzing the third and final step in protein ubiquitination.
+ - Eukaryotic  ubiquitin isopeptidase T and several other ubiquitin C-terminal
+   hydrolases, catalyzing regulatory protein de-ubiquitination.
+ - Yeast RAD23 and its mammalian homologues. These proteins act in UV excision
+   repair and contain a N-terminal domain similar to ubiquitin itself.
+ - Yeast DSK2. It is required for spindle pole body duplication.
+   This protein contains an N-terminal domain similar to ubiquitin itself.
+ - Mammalian  proto-oncogene c-cbl, a protein interacting with multiple signal
+   transduction factors.  Cbl  has  recently  been shown to undergo regulatory
+   ubiquination upon macrophage stimulation.
+ - Drosophila  Ref(2)P  protein  and  its  mammalian homologues.
+ - A  large  family  of  SNF1-like  kinases  from  various  plants  and  other
+   organisms.
+
+The profile we developed covers the entire UBA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hofmann K.; kay.hofmann@memorec.com
+
+-Last update: March 2003 / First entry.
+
+[ 1] Hofmann K., Bucher P.
+     "The UBA domain: a sequence motif present in multiple enzyme classes
+     of the ubiquitination pathway."
+     Trends Biochem. Sci. 21:172-173(1996).
+     PubMed=8871400
+[ 2] Buchberger A.
+     "From UBA to UBX: new words in the ubiquitin vocabulary."
+     Trends Cell Biol. 12:216-221(2002).
+     PubMed=12062168
+[ 3] Mueller T.D., Feigon J.
+     "Solution structures of UBA domains reveal a conserved hydrophobic
+     surface for protein-protein interactions."
+     J. Mol. Biol. 319:1243-1255(2002).
+     PubMed=12079361; DOI=10.1016/S0022-2836(02)00302-9
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

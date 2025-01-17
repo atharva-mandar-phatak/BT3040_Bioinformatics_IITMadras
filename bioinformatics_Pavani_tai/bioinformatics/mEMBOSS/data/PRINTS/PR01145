@@ -1,0 +1,61 @@
+TSHRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The gonadotrophins (luteinising hormone, choriogonadotrophin, follicle-
+stimulating hormone) and thyroid-stimulating hormone are heterotrimeric
+glycoproteins composed of a common alpha-subunit and distinct beta-subunits
+[6]. The carbohydrate moiety of the glycoproteins has an essential role in
+receptor recognition. The receptors share close sequence similarity, and
+are characterised by large extracellular domains believed to be involved
+in hormone binding via leucine-rich repeats (LRR) [7]. Modelling of this
+portion of the receptors suggests that they contain three-dimensional
+structures similar to that of porcine ribonuclease inhibitor [7].
+
+TSHR (also known as thyrotrophin) is synthesised in the thyrotroph cells of
+the anterior pituitary under the influence of TRH and thyroid hormones [6].
+It acts on the thyroid gland, stimulating iodine uptake, synthesis and
+release of thyroid hormones, hypertrophy and hyperplasia [6]. Graves disease
+is caused by stimulatory anti-TSH receptor antibodies [6]. The receptor is
+found in thyroid follicular cells and related cell lines, its predominant
+effector pathway being via activation of adenylyl cyclase through Gs [6]. 
+
+Activating somatic mutations in the TSH receptor have been identified as a
+cause of hyperfunctioning thyroid adenomas, and germline mutations have been
+found in familial non-autoimmune hyperthyroidism and sporadic congenital
+hyperthyroidism [8]. To date, all reported mutations have been located in
+the TM domain. Now, an example of an activating mutation in the extra-
+cellular, TSH-binding domain, has been found in a male infant with
+congenital hyperthyroidism due to a toxic adenoma [8]. The results indicate
+that activating mutations can also occur in the extracellular domain of the
+TSH receptor, and support a model in which this domain serves to restrain
+receptor function in the absence of TSH or antibody-induced conformational
+changes [8]. 
+
+TSHRECEPTOR is a 15-element fingerprint that provides a signature for the
+thyrotropin receptors. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that 
+characterise the TSH receptors but distinguish them from the rest of the
+glycoprotein hormone receptor family - motifs 1-13 reside within the 
+N-terminal half of the alignment, prior to the TM domains; and motifs 14 and
+15 lie at the C-terminus. A single iteration on SPTR37_9f was required to
+reach convergence, no further sequences being identfied beyond the starting
+set. Three partial matches were found, all of which are thyrotropin receptor
+variants.

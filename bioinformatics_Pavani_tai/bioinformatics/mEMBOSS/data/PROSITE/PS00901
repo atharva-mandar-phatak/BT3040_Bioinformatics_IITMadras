@@ -1,0 +1,51 @@
+*****************************************************************************
+* Cysteine synthase/cystathionine beta-synthase P-phosphate attachment site *
+*****************************************************************************
+
+Cysteine synthase  (EC  2.5.1.47) (CSase) is the pyridoxal-phosphate dependent
+enzyme responsible [1] for the formation of  cysteine from O-acetyl-serine and
+hydrogen sulfide with the concomitant release of acetic acid. In bacteria such
+as Escherichia  coli, two forms of the enzyme are known (genes cysK and cysM).
+In plants there are also two forms, one located in the cytoplasm and the other
+in chloroplasts.
+
+Cystathionine beta-synthase (EC 4.2.1.22) [2] catalyzes the first irreversible
+step in  homocysteine transulfuration;  the  conjugation  of  homocysteine and
+serine forming cystathionine. Like Csase it is a pyridoxal-phosphate dependent
+enzyme.
+
+The two  types  of  enzymes  are evolutionary related. The pyridoxal-phosphate
+group of  CSases  has  been  shown to be attached to a lysine residue which is
+located in  the N-terminal section of these enzymes; the sequence  around this
+residue is  highly  conserved and can be used as a signature pattern to detect
+this class of enzymes.
+
+-Consensus pattern: K-x-E-x(3,4)-[PAF]-[STAGC]-x-S-[IVAPM]-K-x-R-x-[STAG]-
+                    x(2)-[LIVM]
+                    [The second K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Saito K., Kurosawa M., Murakoshi I.
+     "Determination of a functional lysine residue of a plant cysteine
+     synthase by site-directed mutagenesis, and the molecular evolutionary
+     implications."
+     FEBS Lett. 328:111-114(1993).
+     PubMed=8344414
+[ 2] Swaroop M., Bradley K., Ohura T., Tahara T., Roper M.D.,
+     Rosenberg L.E., Kraus J.P.
+     "Rat cystathionine beta-synthase. Gene organization and alternative
+     splicing."
+     J. Biol. Chem. 267:11455-11461(1992).
+     PubMed=1597473
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

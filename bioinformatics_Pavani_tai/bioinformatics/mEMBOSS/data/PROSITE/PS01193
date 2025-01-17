@@ -1,0 +1,41 @@
+***********************************
+* Ribosomal protein S8e signature *
+***********************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities [1]. One of these families consists of:
+
+ - Mammalian S8.
+ - Caenorhabditis elegans S8 (F42C5.8).
+ - Leishmania major S8.
+ - Plant S8.
+ - Yeast S8 (S14) (Rp19).
+ - Archebacterial S8e.
+
+These proteins  have either about 220 amino acids (in eukaryotes) or about 125
+amino acids (in archebacteria). As a signature pattern we selected a conserved
+stretch which is located in the N-terminal section and which is rich in
+positively charged residues.
+
+-Consensus pattern: [KR]-x(2)-[ST]-G-[GAR]-x(5,6)-[KRHSA]-x-[KRT]-x-[KR]-x-
+                    [EA]-[LIMPA]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Engemann S., Herfurth E., Briesemeister U., Wittmann-Liebold B.
+     "Amino acid sequence of the ribosomal protein HS23 from the halophilic
+     Haloarcula marismortui and homology studies to other ribosomal
+     proteins."
+     J. Protein Chem. 14:189-195(1995).
+     PubMed=7662106
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,73 @@
+**********************************************************
+* Nickel-dependent hydrogenases large subunit signatures *
+**********************************************************
+
+Hydrogenases are enzymes that catalyze the  reversible  activation of hydrogen
+and which occur widely in prokaryotes as well as in some eukaryotes. There are
+various types of hydrogenases,  but  all  of them seem to contain at least one
+iron-sulfur cluster. They can be broadly divided into two groups: hydrogenases
+containing nickel and, in  some cases,  also selenium (the [NiFe] and [NiFeSe]
+hydrogenases) and those lacking nickel (the [Fe] hydrogenases).
+
+The [NiFe] and [NiFeSe] hydrogenases  are  heterodimer that consist of a small
+subunit that  contains  a  signal  peptide  and a large subunit. All the known
+large subunits seem to be evolutionary related [1]; they contain  two Cys-x-x-
+Cys motifs; one  at  their N-terminal end;  the other at their C-terminal end.
+These four  cysteines  are  involved  in  the  binding  of  nickel [2]. In the
+[NiFeSe] hydrogenases  the  first  cysteine  of  the  C-terminal  motif  is  a
+selenocysteine which  has experimentally been shown to be a nickel ligand [3].
+We have developed two patterns which are centered on the Cys-x-x-Cys motifs.
+
+Alcaligenes eutrophus  possess  a NAD-reducing cytoplasmic  hydrogenase (hoxS)
+[4]; this enzyme is composed of four subunits. Two of these subunits (beta and
+delta) are responsible  for  the hydrogenase  reaction  and  are  evolutionary
+related to the large and small subunits of membrane-bound hydrogenases.
+
+The alpha  subunit  of  coenzyme  F420  hydrogenase  (EC 1.12.98.1) (FRH) from
+archaebacterial methanogens also belongs to this family.
+
+-Consensus pattern: R-G-[LIVMF]-E-x(15)-[QESMP]-[RK]-x-C-[GR]-[LIVM]-C
+                    [The 2 C's are nickel ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FY]-D-[PI]-[CU]-[LIMAV]-[ASG]-C-x(2,3)-H
+                    [The 2 C's are nickel ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2008 / Pattern updated.
+
+[ 1] Menon N.K., Robbins J., Peck H.D. Jr., Chatelus C.Y., Choi E.-S.,
+     Przybyla A.E.
+     "Cloning and sequencing of a putative Escherichia coli [NiFe]
+     hydrogenase-1 operon containing six open reading frames."
+     J. Bacteriol. 172:1969-1977(1990).
+     PubMed=2180913;
+[ 2] Volbeda A., Charon M.-H., Piras C., Hatchikian E.C., Frey M.,
+     Fontecilla-Camps J.C.
+     "Crystal structure of the nickel-iron hydrogenase from Desulfovibrio
+     gigas."
+     Nature 373:580-587(1995).
+     PubMed=7854413; DOI=10.1038/373580a0;
+[ 3] Eidsness M.K., Scott R.A., Prickrill B., der Vartaninan D.V., LeGall J.,
+     Moura I., Moura J.J.G., Peck H.D. Jr.
+     "vidence for selenocysteine coordination to the active site nickel in
+     the [NiFeSe]hydrogenases from Desulfovibrio baculatus."
+     Proc. Natl. Acad. Sci. U.S.A. 86:147-151(1989).
+     PubMed=2521386;
+[ 4] Tran-Betcke A., Warnecke U., Boecker C., Zaborosch C., Friedrich B.
+     "Cloning and nucleotide sequences of the genes for the subunits of
+     NAD-reducing hydrogenase of Alcaligenes eutrophus H16."
+     J. Bacteriol. 172:2920-2929(1990).
+     PubMed=2188945;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

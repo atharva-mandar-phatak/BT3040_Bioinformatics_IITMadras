@@ -1,0 +1,65 @@
+*************************************
+* Ribosomal protein L30e signatures *
+*************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Mammalian L30 [1].
+ - Leishmania major L30.
+ - Yeast YL32 [2].
+ - Bacillus subtilis hypothetical protein ybxF.
+ - Thermococcus celer L30 [3].
+ - A probable ribosomal protein (ORF 1) from Methanococcus vannielii [4].
+ - A probable ribosomal protein (ORF 104) from Sulfolobus acidocaldarius [5].
+
+These proteins  have  82 to 114 amino-acid residues. As signature patterns, we
+selected  two conserved regions; one located  in  the  N-terminal  region, the
+other in the C-terminal.
+
+-Consensus pattern: [STA]-x(5)-G-x-[QKRN]-x(2)-[LIVMQ]-[KRQT]-x(2)-[KR]-x-
+                    [GS]-x(2)-[KQ]-x-[LIVM](3)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DE]-[LM]-G-[STALPD]-x(2)-[GK]-[KR]-x(6)-[LIVM]-x-[LIVM]-
+                    x-[DEN]-x-[GI]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus subtilis ybxF.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Nakanishi O., Oyanagi M., Kuwano Y., Tanaka T., Nakayama T.,
+     Mitsui H., Nabeshima Y., Ogata K.
+     "Molecular cloning and nucleotide sequences of cDNAs specific for rat
+     liver ribosomal proteins S17 and L30."
+     Gene 35:289-296(1985).
+     PubMed=3840111
+[ 2] Dabeva M.D., Warner J.R.
+     "The yeast ribosomal protein L32 and its gene."
+     J. Biol. Chem. 262:16055-16059(1987).
+     PubMed=3316213
+[ 3] Klenk H.-P., Schwass V., Zillig W.
+     "Nucleotide sequence of the genes encoding the L30, S12 and S7
+     equivalent ribosomal proteins from the archaeum Thermococcus celer."
+     Nucleic Acids Res. 19:6047-6047(1991).
+     PubMed=1840672
+[ 4] Lechner K., Heller G., Boeck A.
+     "Organization and nucleotide sequence of a transcriptional unit of
+     Methanococcus vannielii comprising genes for protein synthesis
+     elongation factors and ribosomal proteins."
+     J. Mol. Evol. 29:20-27(1989).
+     PubMed=2475640
+[ 5] Puehler G., Lottspeich F., Zillig W.
+     Nucleic Acids Res. 17:4517-4534(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

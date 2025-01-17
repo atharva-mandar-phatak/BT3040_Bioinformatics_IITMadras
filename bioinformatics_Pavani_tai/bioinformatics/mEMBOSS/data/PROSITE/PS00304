@@ -1,0 +1,54 @@
+*******************************************************************
+* Small, acid-soluble spore proteins, alpha/beta type, signatures *
+*******************************************************************
+
+Small, acid-soluble spore proteins  (SASP or ASSP) [1,2] are proteins found in
+the spores of  bacteria  of  the  genera  Bacillus,  Thermoactynomycetes,  and
+Clostridium. SASP are bound to spore DNA. They are double-stranded DNA-binding
+proteins  that cause DNA to change to an A-like conformation. They protect the
+DNA backbone from chemical  and  enzymatic  cleavage  and are thus involved in
+dormant spore's high resistance to UV light.  SASP  are  degraded in the first
+minutes of spore  germination  and  provide  amino  acids for both new protein
+synthesis and metabolism.
+
+There are two distinct families  of SASP: the  alpha/beta type and the  gamma-
+type. Alpha/beta SASP are small proteins of about sixty to  seventy amino acid
+residues.  They  are generally  coded by a multigene family.  Two  regions  of
+alpha/beta SASP are particularly well conserved: the  first  region is located
+in the N-terminal  half  and  contains  the  site  which is cleaved by a SASP-
+specific protease that acts during  germination;  the second region is located
+in the C-terminal section and is probably involved in DNA-binding. We selected
+both regions as signature patterns for these proteins.
+
+-Consensus pattern: K-x-E-[LIV]-A-x-[DE]-[LIVMF]-G-[LIVMF]
+                    [The cleavage site is between the first E and I/V]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [KRC]-[SAQ]-x-G-x-[VF]-G-[GA]-x-[LIVM]-x-[KR]-[KRC]-
+                    [LIVM](2)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus sspF.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Setlow P.
+     "Small, acid-soluble spore proteins of Bacillus species: structure,
+     synthesis, genetics, function, and degradation."
+     Annu. Rev. Microbiol. 42:319-338(1988).
+     PubMed=3059997; DOI=10.1146/annurev.mi.42.100188.001535
+[ 2] Setlow P.
+     "I will survive: protecting and repairing spore DNA."
+     J. Bacteriol. 174:2737-2741(1992).
+     PubMed=1569005
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

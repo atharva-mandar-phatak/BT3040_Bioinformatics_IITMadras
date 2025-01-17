@@ -1,0 +1,151 @@
+*****************************************************************
+* Tyrosine specific protein phosphatases signature and profiles *
+*****************************************************************
+
+Tyrosine specific protein phosphatases  (EC 3.1.3.48)  (PTPase) [1 to 5]   are
+enzymes  that catalyze the removal of a phosphate group attached to a tyrosine
+residue.  These  enzymes  are  very  important in  the control of cell growth,
+proliferation, differentiation and transformation.   Multiple  forms of PTPase
+have been characterized  and   can be  classified into two categories: soluble
+PTPases and transmembrane receptor proteins that contain PTPase domain(s). The
+currently known PTPases are listed below:
+
+Soluble PTPases.
+
+ - PTPN1 (PTP-1B).
+ - PTPN2 (T-cell PTPase; TC-PTP).
+ - PTPN3  (H1) and PTPN4 (MEG), enzymes that contain an N-terminal FERM domain
+   (see <PDOC00566>)  and  could  act  at  junctions  between the membrane and
+   cytoskeleton.
+ - PTPN5 (STEP).
+ - PTPN6  (PTP-1C;  HCP; SHP) and PTPN11 (PTP-2C; SH-PTP3; Syp), enzymes which
+   contain two  copies  of  the  SH2  domain  at its N-terminal extremity. The
+   Drosophila protein corkscrew (gene csw) also belongs to this subgroup.
+ - PTPN7 (LC-PTP; Hematopoietic protein-tyrosine phosphatase; HePTP).
+ - PTPN8 (70Z-PEP).
+ - PTPN9 (MEG2).
+ - PTPN12 (PTP-G1; PTP-P19).
+
+ - Yeast PTP1.
+ - Yeast PTP2  which  may  be  involved    in  the  ubiquitin-mediated protein
+   degradation pathway.
+ - Fission  yeast  pyp1  and pyp2 which play a role in inhibiting the onset of
+   mitosis.
+ - Fission yeast pyp3 which contributes to the dephosphorylation of cdc2.
+ - Yeast CDC14 which may be involved in chromosome segregation.
+ - Yersinia virulence plasmid PTPAses (gene yopH).
+ - Autographa californica nuclear polyhedrosis virus 19 Kd PTPase.
+
+Dual specificity PTPases.
+
+ - DUSP1 (PTPN10; MAP kinase phosphatase-1; MKP-1); which dephosphorylates MAP
+   kinase on both Thr-183 and Tyr-185.
+ - DUSP2 (PAC-1), a nuclear enzyme that dephosphorylates  MAP kinases ERK1 and
+   ERK2 on both Thr and Tyr residues.
+ - DUSP3 (VHR).
+ - DUSP4 (HVH2).
+ - DUSP5 (HVH3).
+ - DUSP6 (Pyst1; MKP-3).
+ - DUSP7 (Pyst2; MKP-X).
+ - Yeast MSG5, a PTPase that dephosphorylates MAP kinase FUS3.
+ - Yeast YVH1.
+ - Vaccinia virus H1 PTPase; a dual specificity phosphatase.
+
+Receptor PTPases.
+
+Structurally, all known receptor PTPases, are  made  up  of  a variable length
+extracellular domain,  followed    by a  transmembrane region and a C-terminal
+catalytic cytoplasmic domain. Some of the receptor PTPases contain fibronectin
+type III   (FN-III)  repeats,  immunoglobulin-like  domains,  MAM  domains  or
+carbonic anhydrase-like domains in their extracellular region. The cytoplasmic
+region generally  contains two copies of the PTPAse domain. The first seems to
+have enzymatic    activity,  while  the second is inactive but seems to affect
+substrate specificity  of  the first. In these domains, the catalytic cysteine
+is generally conserved but some other, presumably important, residues are not.
+
+In the  following  table,  the  domain  structure of known receptor PTPases is
+shown:
+
+                                         Extracellular         Intracellular
+                                         -------------------   -------------
+                                         Ig  FN-3   CAH  MAM   PTPase
+
+ Leukocyte common antigen (LCA) (CD45)    0     2     0    0      2
+ Leukocyte antigen related (LAR)          3     8     0    0      2
+ Drosophila DLAR                          3     9     0    0      2
+ Drosophila DPTP                          2     2     0    0      2
+ PTP-alpha (LRP)                          0     0     0    0      2
+ PTP-beta                                 0    16     0    0      1
+ PTP-gamma                                0     1     1    0      2
+ PTP-delta                                0    >7     0    0      2
+ PTP-epsilon                              0     0     0    0      2
+ PTP-kappa                                1     4     0    1      2
+ PTP-mu                                   1     4     0    1      2
+ PTP-zeta                                 0     1     1    0      2
+
+PTPase  domains  consist  of about 300  amino  acids.  There are two conserved
+cysteines, the  second  one  has  been  shown  to  be  absolutely required for
+activity. Furthermore,  a  number  of  conserved  residues  in  its  immediate
+vicinity have also been shown to be important.
+
+We derived  a signature pattern for PTPase domains centered on the active site
+cysteine.
+
+There are  three profiles for PTPases, the first one spans a short region that
+is common  to  both  dual-specificity  protein  phosphatases  and PTPases. The
+second and third ones cover the whole domain and are respectively specific for
+Ser/Thr and Tyr protein phosphatases and Tyr protein phosphatases.
+
+-Consensus pattern: [LIVMF]-H-C-x(2)-G-x(2)-R-[STC]-[STAGP]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 41 sequences.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Sequences known to belong to this class detected by the 1st profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Sequences known to belong to this class detected by the 2nd profile: ALL dual
+ type PTPases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the 3rd profile: ALL  PTP
+ type PTPases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The M-phase inducer phosphatases (cdc25-type phosphatase) are tyrosine-
+ protein phosphatases that are not structurally related to the above PTPases.
+
+-Last update: August 2007 / Pattern revised.
+
+[ 1] Fischer E.H., Charbonneau H., Tonks N.K.
+     "Protein tyrosine phosphatases: a diverse family of intracellular and
+     transmembrane enzymes."
+     Science 253:401-406(1991).
+     PubMed=1650499
+[ 2] Charbonneau H., Tonks N.K.
+     "1002 protein phosphatases?"
+     Annu. Rev. Cell Biol. 8:463-493(1992).
+     PubMed=1335746; DOI=10.1146/annurev.cb.08.110192.002335
+[ 3] Trowbridge I.S.
+     "CD45. A prototype for transmembrane protein tyrosine phosphatases."
+     J. Biol. Chem. 266:23517-23520(1991).
+     PubMed=1836211
+[ 4] Tonks N.K., Charbonneau H.
+     "Protein tyrosine dephosphorylation and signal transduction."
+     Trends Biochem. Sci. 14:497-500(1989).
+     PubMed=2560275
+[ 5] Hunter T.
+     "Protein-tyrosine phosphatases: the other side of the coin."
+     Cell 58:1013-1016(1989).
+     PubMed=2550140
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

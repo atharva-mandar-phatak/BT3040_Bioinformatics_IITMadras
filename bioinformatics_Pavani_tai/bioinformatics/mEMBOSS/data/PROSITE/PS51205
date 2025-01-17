@@ -1,0 +1,67 @@
+***********************
+* VPS9 domain profile *
+***********************
+
+Rab  proteins  form  a family of signal-transducing GTPases that cycle between
+active GTP-bound and inactive GDP-bound forms. The Rab5 GTPase is an essential
+regulator of endocytosis and endosome biogenesis. Rab5 is activated by GDP-GTP
+exchange  factors  (GEFs) that contain a VPS9 domain and generate the Rab5-GTP
+complex  [1].  The  VPS9  domain  catalyzes nucleotide exchange on Rab5 or the
+yeast  homolog  VPS21.  The domain has a length of ~140 residues and forms the
+central  part of the yeast VPS9 (vacuolar protein sorting-associated) protein,
+which  acts  as  a  GEF for VPS21. Some domains which can occur in combination
+with  the  VPS9  domain  are  CUE (see <PDOC51140>), A20-type zinc finger (see
+<PDOC51036>),  Ras-associating  (RA) (see <PDOC50200>), SH2 (see <PDOC50001>),
+RCC1  (see  <PDOC00544>),  DH  (see <PDOC00605>), PH (see <PDOC50003>), rasGAP
+(see <PDOC00438>), MORN and ankyrin repeat (see <PDOC50088>).
+
+Structurally,  the VPS9 domain adopts a layered fold of six alpha helices (see
+<PDB:1TXU>).  Conserved  residues  from  the  fourth and sixth helices and the
+loops  N-terminal  to  these helices form the surface that interacts with Rab5
+and Rab21 [2].
+
+Some proteins known to contain a VPS9 domain:
+
+ - Fungal   Vacuolar   Protein  Sorting-associated  protein  VPS9,  a  guanine
+   nucleotide  exchange  factor  for the Rab-like GTPase VPS21. VPS9 is needed
+   for the transport of proteins from biosynthetic and endocytic pathways into
+   the  vacuole.
+ - Mammalian  Rab5  GDP/GTP  exchange factor or Rabex-5 (Rababtin-5 associated
+   exchange  factor for Rab5), catalyzes nucleotide exchange on RAB5A. Rabex-5
+   promotes  endocytic membrane fusion and is involved in membrane trafficking
+   of recycling endosomes.
+ - Mammalian Ras and Rab interactor 1 (RIN1), 2 (RIN2) and 3 (RIN3).
+ - Mammalian   alsin  or  Amyotrophic  Lateral  Sclerosis  protein  2  (ALS2).
+   Different  juvenile-onset  forms of neurodegenerative diseases (ALS2, JPLS,
+   IAHSP)  are caused by mutations in the ALS2 gene, which result in truncated
+   alsin lacking the C-terminal part of the VPS9 domain.
+ - Fruit fly protein sprint, which is a RIN homologue.
+ - Caenorhabditis elegans RME-6 protein, which is conserved among metazoans.
+
+The profile we developed covers the entire VPS9 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2006 / First entry.
+
+[ 1] Carney D.S., Davies B.A., Horazdovsky B.F.
+     "Vps9 domain-containing proteins: activators of Rab5 GTPases from
+     yeast to neurons."
+     Trends Cell Biol. 16:27-35(2006).
+     PubMed=16330212; DOI=10.1016/j.tcb.2005.11.001
+[ 2] Delprato A., Merithew E., Lambright D.G.
+     "Structure, exchange determinants, and family-wide rab specificity of
+     the tandem helical bundle and Vps9 domains of Rabex-5."
+     Cell 118:607-617(2004).
+     PubMed=15339665; DOI=10.1016/j.cell.2004.08.009
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

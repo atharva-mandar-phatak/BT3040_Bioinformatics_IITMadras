@@ -1,0 +1,31 @@
+SECYTRNLCASE
+The preprotein translocase system of bacteria is a complex of 7 proteins
+(the products of genes secA-F and secY) essential for the translocation of
+exocytoplasmic proteins across the membrane [2]. The secY gene product is
+an integral membrane protein that plays a central role in the protein
+secretion system [1]. It is believed to have 10 transmembrane (TM), 6 
+cytoplasmic and 5 periplasmic regions, and interacts with the secA and
+secE gene products to form a membrane channel that allows protein export.
+
+Cytoplasmic regions 2 and 3, and TM domains 1, 2, 4, 5, 7 and 10 are well
+conserved: the conserved cytoplasmic regions are believed to interact with
+cytoplasmic secretion factors, while the TM domains may participate in
+protein export [1]. Similar proteins are also found in archaebacteria and
+the chloroplasts of some algae, where they could be involved in the export
+of proteins across the membranes of the endoplasmic reticulum.
+
+SECYTRNLCASE is a 9-element fingerprint that provides a signature for the
+secY subunit of the preprotein translocase system. The fingerprint was
+derived from an initial alignment of 6 sequences: motifs 1-3 span TM
+domains 1-3; motifs 4 and 5 include TM regions 4 and 5 and the intervening
+cytoplasmic loop; and motifs 6-9 span TM domains 7-10 - motifs 2, 4 and 5
+include the regions encoded by PROSITE patterns SECY_1 (PS00755) and SECY_2
+(PS00756). Two iterations on OWL23.2 were required to reach convergence, at
+which point a true set comprising 15 sequences was identified. Several
+partial matches were also found: SECY_CHLTR is a fragment; SECY_HALMA and
+SECY_METVA are secY gene products that show little similarity to the rest
+of the family; and A44170 and SC61_YEAST are sec61p proteins, which have a
+similar function to secY proteins.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 9
+partial matches.

@@ -1,0 +1,27 @@
+CALCITONINA
+The calcitonin (CT) gene is alternatively expressed in a tissue-specific
+manner, producing either the calcium regulatory hormone CT in the thyroid,
+or the neuropeptide calcitonin gene related peptide (CGRP) in the brain [1].
+In medullary carcinoma of the thyroid, both peptides are produced [1]. 
+
+The calcitonin regulatory hormone is a peptide of 32 residues that causes a
+rapid but short-lived drop in calcium and phosphate levels in the blood by
+promoting the incorporation of these ions in the bones [2]. The structure
+of salmon calcitonin has been studied by 2D NMR in SDS micelles [3]. The
+main conformational feature of the hormone is an alpha-helix from residues
+6-22, which includes an amphipathic segment. Two cysteine residues (at 
+positions 1 and 7) form an N-terminal loop, and a C-terminal decapeptide
+forms a loop that folds back towards the helix [3]. 
+
+CALCITONINA is a 3-element fingerprint that provides a signature for alpha-
+type calcitonin peptides. The fingerprint was derived from an initial
+alignment of 11 sequences: the motifs span the full length of the peptide -
+motifs 1 and 2 span the alpha-helix, motif 1 also including the two Cys
+residues known to be involved in disulphide bond formation [3] (these motifs
+also include the region encoded by PROSITE pattern CALCITONIN (PS00258)); 
+motif 3 encompasses the C-terminal loop. Two iterations on OWL30.0 were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified. A single partial match was also found, SYNCALAA,
+a synthetic human calcitonin fragment.
+
+An update on SPTR37_9f identified a true set of 12 sequences.

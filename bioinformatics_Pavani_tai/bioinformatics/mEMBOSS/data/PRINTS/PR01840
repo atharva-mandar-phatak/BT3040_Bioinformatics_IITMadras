@@ -1,0 +1,40 @@
+TATCFAMILY
+Translocation of proteins across the two membranes of Gram-negative bacteria
+can be effected via a number of routes. Most proteins marked for export
+carry a secretion signal at their N-terminus, and are secreted by the
+general secretory pathway; the signal peptide is cleaved as they pass
+through the outer membrane. Other secretion systems include the type III
+system found in a select group of Gram-negative plant and animal pathogens,
+and the CagA system of Helicobacter pylori [1].
+
+In some bacterial species, however, there exists a system that operates
+independently of the Sec pathway [2]. It selectively translocates
+periplasmic-bound molecules that are synthesised with, or are in close
+association with, "partner" proteins bearing an (S/T)RRXFLK twin arginine
+motif at the N-terminus. The pathway is thus termed the Twin-Arginine
+Translocation (TAT) system. Surprisingly, the four elements that comprise
+the TAT system are structurally and mechanistically related to a
+pH-dependent import system in plant chloroplast thylakoid membranes [2]. The
+gene products responsible for the Sec-independent pathway are TatA, TatB,
+TatC and TatE. TatB is essential for the secretion of these specific
+proteins, and forms a scaffold upon which TatC assembles in the membrane
+[4]. TatC itself is essential for the final stage of protein translocation,
+and TatC- mutants are unable to secrete a number of important proteins [4].
+
+The predicted structure of TatC, based on sequence analyis, has six
+transmembrane (TM) helices arranged such that the N- and C-termini of the
+polypeptide chain are located at the cytoplasmic side of the membrane
+[1]. In addition to being found in bacterial genomes, TatC homologues are
+also encoded by certain plastid genomes, where they are involved in the 
+thylakoid pH-dependent protein import system. They are also encoded in the
+mitochodrial genomes of algae, higher plants and some protists.
+
+TATCFAMILY is a 4-element fingerprint that provides a signature for the
+bacterial Sec-independent translocation TatC protein family. The fingerprint
+was derived from an initial alignment of 16 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motifs
+1-3 encode the N-termini of putative TM domains 1, 3 and 4, respectively; 
+and motif 4 spans TM domain 5. Three iterations on SPTR40_20f were required
+to reach convergence, at which point a true set comprising 53 sequences was
+identified. Several partial matches were also found, all of which are family
+members that fail to make significant matches with one or more motifs. 

@@ -1,0 +1,38 @@
+**********************************************************
+* Bacterial type II secretion system protein C signature *
+**********************************************************
+
+The secretion  pathway  (GSP) for the export of proteins (also called the type
+II pathway)  [1] requires a number of protein components. One of them is known
+as the  'C'  protein  and  has been sequenced in a variety of bacteria such as
+Aeromonas (gene  exeC);  Erwinia  (gene  outC);  Escherichia coli (gene yheE);
+Klebsiella pneumoniae  (gene  pulC);  Pseudomonas  aeruginosa  (gene  xcpS) or
+Vibrio cholerae (gene epsC).
+
+The size  of  the  'C' protein is around 270 to 300 amino acids. It apparently
+contains a single transmembrane domain located in the N-terminal section.  The
+short N-terminal  domain  is  predicted  to  be  cytoplasmic  and the large C-
+terminal domain  periplasmic.  As a signature pattern, we selected a conserved
+region in the C-terminal part of these proteins.
+
+-Consensus pattern: P-x(6)-F-x(4)-[LF]-x(3)-D-[LIVM]-A-[LIVM]-x-[LIVM]-N-x-
+                    [LIVMQ]-x-[LF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Salmond G.P.C., Reeves P.J.
+     "Membrane traffic wardens and protein secretion in gram-negative
+     bacteria."
+     Trends Biochem. Sci. 18:7-12(1993).
+     PubMed=8438237
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

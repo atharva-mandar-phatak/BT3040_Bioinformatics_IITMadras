@@ -1,0 +1,117 @@
+******************************************************
+* GATA-type zinc finger domain signature and profile *
+******************************************************
+
+The GATA family of transcription factors are proteins  that bind  to DNA sites
+with the consensus sequence (A/T)GATA(A/G), found within the regulatory region
+of a number of genes. Proteins currently known to belong to this family are:
+
+ - GATA-1 [1] (also known as Eryf1, GF-1 or NF-E1),  which  binds  to the GATA
+   region of globin genes and other genes expressed in erythroid cells.  It is
+   a transcriptional  activator  which   probably serves as a general 'switch'
+   factor for erythroid development.
+ - GATA-2 [2], a transcriptional activator which  regulates  endothelin-1 gene
+   expression in endothelial cells.
+ - GATA-3 [3], a transcriptional activator which  binds to the enhancer of the
+   T-cell receptor alpha and delta genes.
+ - GATA-4 [4], a transcriptional  activator  expressed in endodermally derived
+   tissues and heart.
+ - Drosophila protein pannier (or DGATAa) (gene pnr) which acts as a repressor
+   of the achaete-scute complex (as-c).
+ - Bombyx mori BCFI [5], which regulates the expression of chorion genes.
+ - Caenorhabditis elegans elt-1 and elt-2, transcriptional activators of genes
+   containing the GATA region, including vitellogenin genes [6].
+ - Ustilago  maydis  urbs1  [7],  a  protein involved in the repression of the
+   biosynthesis of siderophores.
+ - Fission yeast protein GAF2.
+
+All these transcription factors contain a pair of highly similar 'zinc finger'
+type domains with the consensus sequence C-x2-C-x17-C-x2-C.
+
+Some other proteins contain a single zinc finger motif highly related to those
+of the GATA transcription factors. These proteins are:
+
+ - Drosophila  box A-binding factor (ABF) (also known as protein serpent (gene
+   srp)) which  may  function  as  a transcriptional activator protein and may
+   play a key role in the organogenesis of the fat body.
+ - Emericella nidulans areA [8], a  transcriptional  activator  which mediates
+   nitrogen metabolite repression.
+ - Neurospora crassa nit-2 [9], a transcriptional activator which turns on the
+   expression of genes coding for enzymes required for the use of a variety of
+   secondary nitrogen sources, during conditions of nitrogen limitation.
+ - Neurospora  crassa  white  collar  proteins  1 and 2 (WC-1 and WC-2), which
+   control expression of light-regulated genes.
+ - Saccharomyces cerevisiae DAL81 (or UGA43), a  negative  nitrogen regulatory
+   protein.
+ - Saccharomyces cerevisiae GLN3, a positive nitrogen regulatory protein.
+ - Saccharomyces cerevisiae GAT1 to GAT4.
+ - Saccharomyces cerevisiae GZF3.
+
+-Consensus pattern: C-x-[DNEHQSTI]-C-x(4,6)-[ST]-x(2)-[WM]-[HR]-
+                    [RKENAMSLPGQT]-x(3,4)-[GNEP]-x(3,6)-C-[NES]-[ASNR]-C
+                    [The 4 C's are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ GAT2, GAT3 and GAT4.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Trainor C.D., Evans T., Felsenfeld G., Boguski M.S.
+     "Structure and evolution of a human erythroid transcription factor."
+     Nature 343:92-96(1990).
+     PubMed=2104960; DOI=10.1038/343092a0
+[ 2] Lee M.E., Temizer D.H., Clifford J.A., Quertermous T.
+     "Cloning of the GATA-binding protein that regulates endothelin-1 gene
+     expression in endothelial cells."
+     J. Biol. Chem. 266:16188-16192(1991).
+     PubMed=1714909
+[ 3] Ho I.-C., Vorhees P., Marin N., Oakley B.K., Tsai S.-F., Orkin S.H.,
+     Leiden J.M.
+     "Human GATA-3: a lineage-restricted transcription factor that
+     regulates the expression of the T cell receptor alpha gene."
+     EMBO J. 10:1187-1192(1991).
+     PubMed=1827068
+[ 4] Spieth J., Shim Y.H., Lea K., Conrad R., Blumenthal T.
+     "elt-1, an embryonically expressed Caenorhabditis elegans gene
+     homologous to the GATA transcription factor family."
+     Mol. Cell. Biol. 11:4651-4659(1991).
+     PubMed=1875944
+[ 5] Drevet J.R., Skeiky Y.A., Iatrou K.
+     "GATA-type zinc finger motif-containing sequences and chorion gene
+     transcription factors of the silkworm Bombyx mori."
+     J. Biol. Chem. 269:10660-10667(1994).
+     PubMed=8144656
+[ 6] Hawkins M.G., McGhee J.D.
+     "elt-2, a second GATA factor from the nematode Caenorhabditis
+     elegans."
+     J. Biol. Chem. 270:14666-14671(1995).
+     PubMed=7782329
+[ 7] Voisard C.P.O., Wang J., McEvoy J.L., Xu P., Leong S.A.
+     "urbs1, a gene regulating siderophore biosynthesis in Ustilago maydis,
+     encodes a protein similar to the erythroid transcription factor
+     GATA-1."
+     Mol. Cell. Biol. 13:7091-7100(1993).
+     PubMed=8413298
+[ 8] Arst H.N. Jr., Kudla B., Martinez-Rossi N., Caddick M.X., Sibley S.,
+     Davies R.W.
+     "Aspergillus and mouse share a new class of 'zinc finger' protein."
+     Trends Genet. 5:291-291(1989).
+     PubMed=2511649
+[ 9] Fu Y.-H., Marzluf G.-A.
+     "nit-2, the major nitrogen regulatory gene of Neurospora crassa,
+     encodes a protein with a putative zinc finger DNA-binding domain."
+     Mol. Cell. Biol. 10:1056-1065(1990).
+     PubMed=2137552
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

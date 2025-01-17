@@ -1,0 +1,50 @@
+***********************************************************
+* Prokaryotic transcription elongation factors signatures *
+***********************************************************
+
+Bacterial proteins   greA and  greB [1,2]  are  necessary  for  efficient  RNA
+polymerase transcription elongation  past  template-encoded  arresting  sites.
+Arresting sites  in  DNA  have  the property of trapping a certain fraction of
+elongating RNA polymerases  that  pass  through, resulting in  locked DNA/RNA/
+polymerase ternary  complexes.  Cleavage of the nascent transcript by cleavage
+factors, such  as  greA or greB, allows  the resumption of elongation from the
+new 3'terminus.  GreA  induces cleavage 2 or 3 nucleotides behind the terminus
+while greB releases longer sequences up to 9 nucleotides in length.
+
+GreA and greB are related proteins  of about 160 amino-acid residues.  We have
+developed two   signature   patterns   for  this  protein  family.  The  first
+corresponds to  a  conserved region in the N-terminal section, the second to a
+region in the C-terminal section.
+
+-Consensus pattern: [EKH]-[LHVI]-x(9,10)-[IVNLR]-x(3)-[LIV]-x(6)-G-D-x(2)-E-N-
+                    [GSA]-x-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: S-x(2)-S-[PK]-[LIVMF]-[AG]-x-[SAGNE]-[LIVM]-[LIVY]-x(4)-
+                    [DNG]-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Borukhov S., Sagitov V., Goldfarb A.
+     "Transcript cleavage factors from E. coli."
+     Cell 72:459-466(1993).
+     PubMed=8431948
+[ 2] Stebbins C.E., Borukhov S., Orlova M., Polyakov A., Goldfarb A.,
+     Darst S.A.
+     "Crystal structure of the GreA transcript cleavage factor from
+     Escherichia coli."
+     Nature 373:636-640(1995).
+     PubMed=7854424; DOI=10.1038/373636a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

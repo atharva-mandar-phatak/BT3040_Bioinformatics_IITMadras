@@ -1,0 +1,90 @@
+******************************************************************
+* Bacterial chemotaxis sensory transducers signature and profile *
+******************************************************************
+
+Bacterial chemotactic-signal transducers [1,2] are  proteins  that  respond to
+changes in the concentration of attractants and repellents in the environment,
+and transduce a signal from the  outside to  the  inside  of  the cell.  These
+proteins  undergo  two  covalent  modifications:  deamidation  and  reversible
+methylation.  Attractants  increase  the level of methylation while repellents
+decrease it.    The methyl groups are added by the methyl-transferase cheR and
+are removed by the methylesterase cheB.
+
+In Escherichia coli and related bacteria, there are four different chemotactic
+transducers:
+
+ - tsr, responsible  for  taxis  to the attractants L-serine and related amino
+   acids and away from the repellents leucine, indole, and weak acids.
+ - tar, responsible for taxis to the attractants L-aspartate and related amino
+   and dicarboxylic  acids.  Also mediates taxis to the attractant maltose via
+   an interaction with the periplasmic maltose-binding protein. Mediates taxis
+   away from the repellents cobalt and nickel.
+ - trg, responsible for taxis to ribose  and galactose via an interaction with
+   the periplasmic ribose- or galactose-binding proteins.
+ - tap, responsible for taxis towards dipeptides via  an  interaction with the
+   periplasmic dipeptide-binding protein.
+
+In Enterobacter aerogenes [3] there are  at  least  two  different chemotactic
+transducers:
+
+ - tsr, responsible for taxis to the attractant L-serine.
+ - tas, responsible for taxis to the attractant L-aspartate.
+
+In Salmonella typhimurium [4], in addition to tar, there is:
+
+ - tcp, responsible for taxis to the attractant citrate.
+
+All these proteins are composed of the  same  structural domains: a N-terminal
+region that  resembles a  signal  peptide,  but which is not removed from the
+mature protein  and  serves  as  a  membrane-spanning  region;  a  periplasmic
+domain of about  160 amino acids  that  forms  the  receptor  domain; a second
+transmembrane region  and finally a C-terminal cytoplasmic domain of about 300
+amino acids which contains the methylation sites.
+
+The methyl-accepting sites are  specific  glutamate  residues  (some  of these
+sites are translated as  glutamine  but are  irreversibly deamidated by cheB).
+They are  clustered  in  two  regions  of  the  cytoplasmic  domain  [5]. As a
+signature pattern we have selected the first of these two regions.
+
+-Consensus pattern: R-T-E-[EQ]-Q-x(2)-[SA]-[LIVM]-x-[EQ]-T-A-A-S-M-E-Q-L-T-A-
+                    T-V
+                    [The two E/Q position and the last Q are all sites of
+                     reversible methylation]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: September 2002 / text revised; profile added.
+
+[ 1] Stewart R.C., Dahlquist F.W.
+     Chem. Rev. 87:997-1025(1987).
+[ 2] Hazelbauer G.L.
+     "The bacterial chemosensory system."
+     Can. J. Microbiol. 34:466-474(1988).
+     PubMed=3052756
+[ 3] Dahl M.K., Boos W., Manson M.D.
+     "Evolution of chemotactic-signal transducers in enteric bacteria."
+     J. Bacteriol. 171:2361-2371(1989).
+     PubMed=2496104
+[ 4] Yamamoto K., Imae Y.
+     "Cloning and characterization of the Salmonella typhimurium-specific
+     chemoreceptor Tcp for taxis to citrate and from phenol."
+     Proc. Natl. Acad. Sci. U.S.A. 90:217-221(1993).
+     PubMed=8419927
+[ 5] Rice M.S., Dahlquist F.W.
+     "Sites of deamidation and methylation in Tsr, a bacterial chemotaxis
+     sensory transducer."
+     J. Biol. Chem. 266:9746-9753(1991).
+     PubMed=2033064
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

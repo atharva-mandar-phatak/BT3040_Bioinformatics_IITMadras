@@ -1,0 +1,75 @@
+**********************
+* SAM domain profile *
+**********************
+
+The sterile  alpha motif (SAM) domain is a putative protein interaction module
+present in  a  wide  variety  of  proteins  [1]  involved  in  many biological
+processes. The  SAM  domain  that  spreads over around 70 residues is found in
+diverse eukaryotic  organisms  [2].  SAM  domains have been shown to homo- and
+hetero-oligomerize [3],  nevertheless with a low-affinity constant [4], and to
+mediate specific protein-protein interactions.
+
+Structural analyses show that the SAM domain is arranged in a small five-helix
+bundle with  two  large  interfaces  [3,4].   In the case of the SAM domain of
+EphB2, each  of  these  interfaces is able to form dimers [4]. The presence of
+these two  distinct  intermonomers binding surface suggest that SAM could form
+extended polymeric structures [4].
+
+Some of  the  proteins  in  which  such  a domain is known to exist are listed
+below.
+
+ - Vertebrate Eph receptor protein tyrosine kinases. Involved in developmental
+   regulation.
+ - Yeast  STE11,  serine/threonine protein kinase which participates in mating
+   pheromone response pathways.
+ - Mammalian  liprin  alpha. Interacts with LAR transmembrane protein tyrosine
+   phosphatase.
+ - Mammalian  Neurabin  actin  filament  binding  protein. Involved in neurite
+   formation.
+ - Mammalian inositol phosphatase protein Ship2.
+ - Mammalian  SH2  domain-containing  leukocyte  Protein  of  76kDa  (SLP-76).
+   Hematopoietic cell specific molecule, critical for T cell development.
+ - Mammalian ETS translocation variant (ETV) or TEL. Translocations which fuse
+   the SAM  domain  from  ETV to Abl, PDGFB, JAK2 or AML1 have been associated
+   with many human leukemias.
+ - Drosophila  polyhomeotic  (ph)  and Sex comb on midleg (Scm), member of the
+   Polycomb group genes, implied in the transcriptional repression of homeotic
+   genes.
+ - Mammalian   Polycomb  group  proteins  Rae-28/MPH1 and SCML1. Homologues of
+   drosophila ph and Scm proteins.
+
+We developed a profile that spans the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2001 / First entry.
+
+[ 1] Schultz J., Ponting C.P., Hofmann K., Bork P.
+     "SAM as a protein interaction domain involved in developmental
+     regulation."
+     Protein Sci. 6:249-253(1997).
+     PubMed=9007998
+[ 2] Stapleton D., Balan I., Pawson T., Sicheri F.
+     "The crystal structure of an Eph receptor SAM domain reveals a
+     mechanism for modular dimerization."
+     Nat. Struct. Biol. 6:44-49(1999).
+     PubMed=9886291; DOI=10.1038/4917
+[ 3] Peterson A.J., Kyba M., Bornemann D., Morgan K., Brock H.W., Simon J.
+     "A domain shared by the Polycomb group proteins Scm and ph mediates
+     heterotypic and homotypic interactions."
+     Mol. Cell. Biol. 17:6683-6692(1997).
+     PubMed=9343432
+[ 4] Thanos C.D., Goodwill K.E., Bowie J.U.
+     "Oligomeric structure of the human EphB2 receptor SAM domain."
+     Science 283:833-836(1999).
+     PubMed=9933164
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

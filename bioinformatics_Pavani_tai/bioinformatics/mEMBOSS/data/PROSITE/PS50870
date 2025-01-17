@@ -1,0 +1,62 @@
+*****************************************
+* Arfaptin homology (AH) domain profile *
+*****************************************
+
+The arfaptin  homology domain (AH) is an about 210-residue region of homology,
+which has  been  identified between PICK1 and arfaptins [1]. The AH domain can
+be found  alone  or  in  association  with  other  domains  such  as  PDZ (see
+<PDOC50106>) [1].  The AH domain of arfaptin has been shown to dimerize and to
+bind Arf and Rho family GTPases [2,3].
+
+The resolution  of  arfaptin  has  shown  that the AH domain consists of three
+alpha-helices arranged  as  an extended antiparallel alpha-helical bundle. Two
+arfaptin AH  domains  associate  to  form  a highly elongated, crescent-shaped
+dimer (see <PDB:1I49>) [2,3].
+
+Some proteins known to contain an AH domain are listed below:
+
+ - Animal protein kinase C-binding protein PICK1.
+ - Animal arfaptin 1 and 2. Arfaptins are effectors of two G proteins, Rac and
+   Arf (ADP-ribosylation factor).
+ - Mammalian 69 kDa islet cell autoantigen (ICA69) [4]. It is likely to play a
+   role in  membrane  trafficking  at the Golgi complex and immature secretory
+   granules in neurosecretory cells.
+
+The profile we developed covers the entire AH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2003 / First entry.
+
+[ 1] Takeya R., Takeshige K., Sumimoto H.
+     "Interaction of the PDZ domain of human PICK1 with class I
+     ADP-ribosylation factors."
+     Biochem. Biophys. Res. Commun. 267:149-155(2000).
+     PubMed=10623590; DOI=10.1006/bbrc.1999.1932
+[ 2] Tarricone C., Xiao B., Justin N., Walker P.A., Rittinger K.,
+     Gamblin S.J., Smerdon S.J.
+     "The structural basis of Arfaptin-mediated cross-talk between Rac and
+     Arf signalling pathways."
+     Nature 411:215-219(2001).
+     PubMed=11346801; DOI=10.1038/35075620
+[ 3] Cherfils J.
+     "Structural mimicry of DH domains by Arfaptin suggests a model for the
+     recognition of Rac-GDP by its guanine nucleotide exchange factors."
+     FEBS Lett. 507:280-284(2001).
+     PubMed=11696355
+[ 4] Spitzenberger F., Pietropaolo S., Verkade P., Habermann B.,
+     Lacas-Gervais S., Mziaut H., Pietropaolo M., Solimena M.
+     "Islet cell autoantigen of 69 kDa is an arfaptin-related protein
+     associated with the Golgi complex of insulinoma INS-1 cells."
+     J. Biol. Chem. 278:26166-26173(2003).
+     PubMed=12682071; DOI=10.1074/jbc.M213222200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

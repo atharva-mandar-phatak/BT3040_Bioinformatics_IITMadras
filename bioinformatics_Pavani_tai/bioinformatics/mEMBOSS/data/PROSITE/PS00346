@@ -1,0 +1,107 @@
+*************************************
+* Ets-domain signatures and profile *
+*************************************
+
+Avian leukemia virus E26 is a replication defective  retrovirus that induces a
+mixed erythroid/myeloid leukemia in chickens.  E26 virus  carries two distinct
+oncogenes, v-myb and v-ets.  The ets portion  of this oncogene is required for
+the induction of erythroblastosis. V-ets and c-ets-1, its cellular progenitor,
+have been shown [1] to be nuclear DNA-binding proteins. Ets-1 differs slightly
+from v-ets at its carboxy-terminal region.   In most species where it has been
+sequenced, c-ets-1   exists  in  various  isoforms  generated  by  alternative
+splicing and differential phosphorylation.
+
+A number  of  proteins,  that  share regions of similarity with v-ets/c-ets-1,
+have been found and are listed below:
+
+ - Ets-2,  which  has  been   sequenced  in  mammals,  chicken,  Xenopus   and
+   Drosophila.
+ - Human ELF-1, a transcription factor that appears to be  required for the T-
+   cell-receptor-mediated trans activation of HIV-2 genes.
+ - Mammalian   ELK-1, ELK-3 (also known as Net or SAP-2) and ELK-4 (also known
+   as SRF  accessory protein 1 (SAP-1)), which all form a ternary complex with
+   the serum response factor (SRF).
+ - Human  ERF, a potent transcriptional repressor that binds to the HI element
+   of the Ets-2 promoter.
+ - Human ERG.
+ - Human ERM.
+ - Mammalian ETV1, a transcriptional activator.
+ - FLI-1, a sequence specific transcriptional activator.
+ - Adenovirus E1A enhancer-binding protein (E1A-F) (ETV4) (PEA3).
+ - PU.1 (also known as Spi-1), a protein that binds to a purine-rich sequence,
+   the PU-box, that can act as a lymphoid-specific enhancer.  PU.1 is probably
+   a transcriptional  activator  that  may  be  specifically  involved  in the
+   differentiation or activation of macrophages or B cells. In mouse, Spi-1 is
+   an oncogene involved in murine acute friend erythroleukemia.
+ - Spi-B, a transcription factor that binds the PU-box.
+ - GA binding protein (GAPB) alpha subunit.  GAPB  is  a  transcription factor
+   capable of interacting with purine-rich repeats (GA repeats).
+ - Drosophila protein elg-1.
+ - Drosophila  protein  pokkuri (pok) (also known as yan), which is a negative
+   regulator of photoreceptor development.
+ - Drosophila  protein pointed (pnt) which is required for glial-neuronal cell
+   interactions.
+ - Drosophila ecdysone induced protein 74E.
+
+All these  proteins  contain  a  conserved domain, the 'ETS-domain', [2,3,4,5]
+involved in    DNA-binding. It seems to  recognize  purine-rich sequences [5].
+This domain, of about 85 to 90 amino acids, is rich in aromatic and positively
+charged residues.  It is generally localized at the C-terminus of the protein,
+with the  exception of ELF-1, ELK-1, ELK-3, ELK-4 and ERF where it is found at
+the N-terminus.
+
+We have derived two signature patterns for the ETS-domain.  The  first  one is
+based on a highly conserved region in the N-terminal part of the domain, while
+the second is based on a region in the second third of the domain. The profile
+spans the complete domain.
+
+-Consensus pattern: L-[FYW]-[QEDH]-F-[LI]-[LVQK]-{N}-[LI]-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [RKHN]-x(2)-M-x-Y-[DENQ]-x-[LIVM]-[STAG]-R-[STAG]-[LI]-R-
+                    x-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Reddy E.S.P., Rao V.N.
+     "Localization and modulation of the DNA-binding activity of the human
+     c-ets-1 protooncogene."
+     Cancer Res. 50:5013-5016(1990).
+     PubMed=2165853
+[ 2] Karim F.D., Urness L.D., Thummel C.S., Klemsz M.J., McKercher S.R.,
+     Celada A., Van Beveren C., Maki R.A., Gunther C.V., Nye J.A.
+     "The ETS-domain: a new DNA-binding motif that recognizes a purine-rich
+     core DNA sequence."
+     Genes Dev. 4:1451-1453(1990).
+     PubMed=2253872
+[ 3] McLeod K., Leprince D., Stehelin D.
+     Trends Biochem. Sci. 17:251-256(1992).
+[ 4] Laudet V., Niel C., Duterque-Coquillaud M., Leprince D., Stehelin D.
+     "Evolution of the ets gene family."
+     Biochem. Biophys. Res. Commun. 190:8-14(1993).
+     PubMed=8422262
+[ 5] Wasylyk B., Hahn S.L., Giovane A.
+     "The Ets family of transcription factors."
+     Eur. J. Biochem. 211:7-18(1993).
+     PubMed=8425553
+[ 6] Wang C.-Y., Petryniak B., Ho I.-C., Thompson C.B., Leiden J.M.
+     "Evolutionarily conserved Ets family members display distinct DNA
+     binding specificities."
+     J. Exp. Med. 175:1391-1399(1992).
+     PubMed=1569404
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

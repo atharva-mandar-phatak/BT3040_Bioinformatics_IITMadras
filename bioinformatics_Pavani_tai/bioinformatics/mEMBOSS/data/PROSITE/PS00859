@@ -1,0 +1,49 @@
+***********************************
+* GTP cyclohydrolase I signatures *
+***********************************
+
+GTP cyclohydrolase  I  (EC 3.5.4.16) catalyzes the biosynthesis of formic acid
+and dihydroneopterin triphosphate from GTP. This reaction is the first step in
+the biosynthesis of tetrahydrofolate in prokaryotes, of tetrahydrobiopterin in
+vertebrates, and of pteridine-containing pigments in insects.
+
+GTP cyclohydrolase  I is a protein of from 190 to 250 amino acid residues. The
+comparison of the sequence of the enzyme from bacterial and eukaryotic sources
+shows that  the  structure  of  this  enzyme has been extremely well conserved
+throughout evolution [1].
+
+As signature patterns we selected two conserved regions.  The first contains a
+perfectly conserved  tetrapeptide which is part of the GTP-binding pocket [2],
+the second region also contains conserved residues involved in GTP-binding.
+
+-Consensus pattern: [DENGQST]-[LIVMPF]-[LIVM]-x(1,2)-[KRNQELD]-[DENKGS]-
+                    [LIVM]-x(3)-[STG]-x-C-[EP]-H(2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [SA]-x-[RK]-x-Q-[LIVMT]-Q-E-[RNAK]-[LIM]-[TSNV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Maier J., Witter K., Gutlich M., Ziegler I., Werner T., Ninnemann H.
+     "Homology cloning of GTP-cyclohydrolase I from various unrelated
+     eukaryotes by reverse-transcription polymerase chain reaction using a
+     general set of degenerate primers."
+     Biochem. Biophys. Res. Commun. 212:705-711(1995).
+     PubMed=7542887
+[ 2] Nar H., Huber R., Meining W., Schmid C., Weinkauf S., Bacher A.
+     "Atomic structure of GTP cyclohydrolase I."
+     Structure 3:459-466(1995).
+     PubMed=7663943
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

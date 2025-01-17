@@ -1,0 +1,36 @@
+ISLETAMYLOID
+Islet amyloid polypeptide (IAPP) (also known as diabetes-associated peptide
+or amylin) is a pancreatic islet hormone that is stored with insulin in beta
+cell granules [1]. IAPP has a propensity to form islet cell-disrupting 
+amyloid deposits, and opposes the action of insulin in peripheral tissues; 
+the peptide may therefore have a significant role in the development of Type
+2 diabetes mellitus [1]. It is thought that an intrinsic structural motif of
+IAPP, which only occurs in species that develop age-associated or Type 2 
+diabetes (e.g., humans and cats), is linked to its amyloidogenicity [1].
+
+IAPP is a short, 37-residue peptide. The hormone selectively inhibits 
+insulin-stimulated glucose utilisation and glycogen deposition in muscle,
+but does not affect adipocyte glucose metabolism. The sequences of amylin
+and the calcitonin gene-related peptides (CGRPs) show strong similarity:
+both peptides have a conserved N-terminal intramolecular disulphide bridge,
+and both have a C-terminal glycine, which suggests that the C-terminal
+residue of amylin, like that of CGRP, is amidated [2].
+
+Near- and far-UV CD spectra of human alpha CGRP, analogues and fragments of
+CGRP, and amylin have been recorded in aqueous solution and in trifluoro-
+ethanol/water mixtures [3]. The peptides were shown to contain significant
+amounts of alpha-helix in aqueous solution, this amount increasing upon 
+addition of TFE. Amylin appears to contain less helix than CGRP [3].
+
+ISLETAMYLOID is a 4-element fingerprint that provides a signature for
+islet amyloid peptides. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 encodes the putative signal
+sequence; and motifs 2-4 span the amyloid peptide, motif 2 including part of
+the region encoded by PROSITE pattern CALCITONIN (PS00258), which contains 
+the two N-terminal Cys residues that form a disulphide-linked loop. A single
+iteration on OWL30.0 was required to reach convergence, no further sequences
+being identified beyond the starting set. Several partial matches were also
+found, all of which are related calcitonins that match motifs 2 and 4. 
+
+An update on SPTR37_9f identified a true set of 9 sequences.

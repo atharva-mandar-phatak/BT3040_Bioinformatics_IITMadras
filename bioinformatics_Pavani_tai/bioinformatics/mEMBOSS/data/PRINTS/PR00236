@@ -1,0 +1,85 @@
+HSVCAPSIDP40
+Proteases can be grouped into 4 classes according to the prominent
+functional groups at the active sites: viz., the Ser, Asp, Cys and
+metalloproteases. 3D structures are known for examples from all these
+classes: e.g., trypsin (Ser), pepsin (Asp), papain (Cys), and 
+carboxypeptidase (Zn).
+
+A number of viral proteases have been discovered and attempts have been
+made to assign them to one or other of the above classes, but the extent
+of the sequence similarity is very low. In a few cases, X-ray studies have
+confirmed the assignment; e.g., sindbis core protein seems to belong to a
+third class of the trypsin-like Ser proteases [5,6]. [nb. There are 2 
+types of Ser protease: the trypsin-like and subtilisin-like, which have 
+an identical spatial arrangement of catalytic His, Asp and Ser but in quite
+different protein scaffolds (an example of convergent evolution). The 
+family of trypsin-like Ser proteases has been subdivided into 2 classes: 
+the "large" class (ca 230 residues) includes mostly mammalian enzymes (e.g.
+chymotrypsin, trypsin, elastase, kallikrein, thrombin) and the "small" 
+class (ca 190 residues) includes the bacterial enzymes (e.g., alpha-lytic 
+protease, S.griseus proteases A and B, S.griseus trypsin, S.aureus
+protease)].
+
+Retrovirus proteases, such as HIV protease, are Asp proteases [7,8].
+There seems to be fairly good evidence that the Cys-active-centre viral
+proteases are in fact trypsin-like Ser proteases in which the active
+site Ser has been replaced by Cys [9,10]. The 2a and 3c subclasses of the 
+viral Cys proteases are homologous with the small and large subclasses, 
+respectively, of the trypsin-like Ser proteases. All the animal and plant
+viral Cys proteases have in common a +ve strand RNA genome that is 
+translated into a large polyprotein.
+
+Herpesviridae are large ds DNA viruses. The capsid of herpes simplex virus
+type 1 is composed of 7 proteins: VP5, VP19c, VP21, VP22a, VP23, VP24 and 
+VP26. The region of the genome encoding VP22a is transcribed into 2 mRNAs
+which have identical 3' ends but different 5' ends. The smaller mRNA is
+specified by gene UL26.5 and encodes a 329 residue protein. The larger mRNA
+is transcribed from gene UL26 and encodes a 635 residue protein whose
+C-terminal region is identical to the 329 residue protein. The promoter
+of the UL26.5 ORF is embedded in the 5'-terminal domain of the UL26 ORF.
+
+The UL26 protein can proteolytically cleave itself and the UL26.5 protein
+at a position 25 residues from the C-terminus. This proteolysis is
+essential for capsid maturation. Capsid protein VP22a would correspond to
+the UL26.5 protein cleaved 25 residues from its C-terminus, i.e. a 304
+residue protein. The product of UL26.5 ORF is devoid of enzyme activity so
+that the protease domain would map to the amino-proximal domain of the
+UL26 ORF.
+
+Genes corresponding to UL26 have been sequenced for a number of
+Herpesviruses in addition to herpes simplex virus 1, including human
+cytomegalovirus (UL80), simian cytomegalovirus, Epstein-Barr virus,
+infectious laryngotracheitis virus, varicella voster virus (ORF33), equine
+herpes virus and herpes virus saimiri. The amino terminus is the most
+conserved of the UL26 protein.
+
+There is a consensus sequence VXAS (where X is a polar residue) at the C-
+terminal cleavage site. A similar consensus Y(V/L)XAS exists towards the C-
+terminus of the putative protease domain (Ala247 - Ser248 in herpes 
+simplex) and it has been proposed that the protease also acts at this 
+site to produce capsid proteins VP24 (residues 1-247) and VP21 (248-610).
+
+The exact extent of the protease domain remains unclear. There is some
+evidence to suggest that residues 1 to 306 are necessary in herpes simplex
+virus 1, but only 1 to 249 seem to be necessary in simian cytomegalovirus.
+Studies with protease inhibitors suggest that the herpesvirus protease is
+a Ser protease belonging to either the trypsin-like or subtilisin-like
+families; it is not inhibited by inhibitors of Cys, Asp or metallo
+proteases. The Ser proteases have His, Asp, and Ser in their active
+sites. In an alignment of the first 300 residues of the putative protease
+there are well-conserved regions containing His or Ser, but it is a little
+more difficult to find a conserved Asp or Glu. Mutagenesis studies have so
+far shown that out of Asp31, Ser32, Asp34, His61, His148 and Ser215, the
+only residues whose substitution abolished enzyme activity were His61 and 
+His148.
+
+HSVCAPSIDP40 is an 8-element fingerprint that provides a general signature 
+for the herpesvirus maturational proteases. The fingerprint was derived
+from an initial alignment of 8 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length. A single iteration 
+on OWL20.0 was required to reach convergence, no further sequences being
+identified beyond the starting set. A more subtle fingerprint would be
+needed to pinpoint related proteases.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 21
+partial matches.

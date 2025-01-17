@@ -1,0 +1,64 @@
+*******************************************
+* Cysteine proteases inhibitors signature *
+*******************************************
+
+Inhibitors of cysteine  proteases [1,2,3],  which are found in the tissues and
+body fluids of animals,  in the larva of the worm Onchocerca volvulus [4],  as
+well as in plants, can be grouped into three distinct but related families:
+
+ - Type 1 cystatins (or stefins), molecules of  about 100 amino  acid residues
+   with neither disulfide bonds nor carbohydrate groups.
+ - Type 2 cystatins, molecules of about 115  amino acid residues which contain
+   one or two disulfide loops near their C-terminus.
+ - Kininogens, which are  multifunctional  plasma glycoproteins.  They are the
+   precursor  of  the  active  peptide  bradykinin  and  play  a role in blood
+   coagulation by  helping  to  position optimally prekallikrein and factor XI
+   next  to factor XII.  They  are  also  inhibitors  of  cysteine  proteases.
+   Structurally,  kininogens  are  made  of  three  contiguous type-2 cystatin
+   domains, followed  by an  additional  domain  (of  variable  length)  which
+   contains  the  sequence of bradykinin.  The  first  of  the  three cystatin
+   domains seems to have lost its inhibitory activity.
+
+In all  these  inhibitors,  there is a conserved region of five residues which
+has been proposed to be  important for  the binding to the cysteine proteases.
+Our pattern starts one residue before this conserved region.
+
+-Consensus pattern: [GSTEQKRV]-Q-[LIVT]-[VAF]-[SAGQ]-G-{DG}-[LIVMNK]-{TK}-x-
+                    [LIVMFY]-{S}-[LIVMFYA]-[DENQKRHSIV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 11.
+
+-Note: This pattern is always twice in kininogens.
+-Note: Members  of the fetuin family (see <PDOC00966>) contain two copies of a
+ cystatin-like domain.
+
+-Expert(s) to contact by email:
+           Turk B.; boris.turk@ijs.si
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Barrett A.J.
+     Trends Biochem. Sci. 12:193-196(1987).
+[ 2] Rawlings N.D., Barrett A.J.
+     "Evolution of proteins of the cystatin superfamily."
+     J. Mol. Evol. 30:60-71(1990).
+     PubMed=2107324
+[ 3] Turk V., Bode W.
+     "The cystatins: protein inhibitors of cysteine proteinases."
+     FEBS Lett. 285:213-219(1991).
+     PubMed=1855589
+[ 4] Lustigman S., Brotman B., Huima T., Prince A.M.
+     "Characterization of an Onchocerca volvulus cDNA clone encoding a
+     genus specific antigen present in infective larvae and adult worms."
+     Mol. Biochem. Parasitol. 45:65-75(1991).
+     PubMed=2052041
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

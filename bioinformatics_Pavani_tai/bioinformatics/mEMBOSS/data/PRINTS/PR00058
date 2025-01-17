@@ -1,0 +1,29 @@
+RIBOSOMALL5
+The ribosomal 5S RNA is the only known rRNA species to bind a ribosomal
+protein before its assembly into the ribosomal subunits [1]. In eukaryotes,
+the 5S rRNA molecule binds one protein species, while in bacteria it binds
+2 or 3 different protein species [2]. The synthesis of the component RNA
+and its binding protein appears to be closely linked; thus, disruption of
+binding protein synthesis causes 5S rRNA instability and subsequent
+failure of 60S ribosomal assembly [3].
+
+In S.cerevisiae, the 5S rRNA binding protein is L1 (also known as L1a or
+YL3): this contains 297 amino acid residues and shares more than 87%
+sequence similarity with the other eukaryotic 5S rRNA binding proteins [2].
+A conserved, C-terminal basic region of L1 is thought to be important for
+its interaction with the 5S rRNA molecule - it is suggested that several
+basic residues fall on the same face of an alpha-helix, making multiple
+contacts with the 5S rRNA [3]. 
+
+RIBOSOMALL5 is a 6-element fingerprint that provides a signature for L5
+ribosomal proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length (the C-terminal basic region was not
+included as it is less well conserved than other motifs). Two iterations
+on OWL25.2 were required to reach convergence, at which point a true set
+comprising 8 sequences was identified. Two partial matches were also found,
+RL18_METVA and RL18_HALMA, both 50S ribosomal proteins, which are known to
+share a high degree of similarity with the L5 family.
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 8
+partial matches.

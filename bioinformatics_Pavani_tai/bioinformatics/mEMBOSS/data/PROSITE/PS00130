@@ -1,0 +1,96 @@
+************************************
+* Uracil-DNA glycosylase signature *
+************************************
+
+Uracil-DNA glycosylase (EC 3.2.2.-)  (UNG) [1] is  a  DNA repair  enzyme  that
+excises uracil residues from DNA by cleaving the N-glycosylic bond.  Uracil in
+DNA can arise as  a  result  of  misincorportation  of  dUMP residues  by  DNA
+polymerase or deamination of cytosine.
+
+The sequence of uracil-DNA  glycosylase  is  extremely  well  conserved [2] in
+bacteria and  eukaryotes  as well as in herpes viruses. More distantly related
+uracil-DNA glycosylases are also found in poxviruses [3].
+
+In eukaryotic  cells,  UNG activity  is  found  in  both  the  nucleus and the
+mitochondria. Human  UNG1  protein is transported to both the mitochondria and
+the nucleus [4]. The N-terminal 77 amino acids of UNG1 seem to be required for
+mitochondrial localization  [4],  but  the presence of a mitochondrial transit
+peptide has not been directly demonstrated.
+
+As  a  signature  for  this type  of  enzyme, we  selected the most N-terminal
+conserved region. This region contains an aspartic acid residue which has been
+proposed, based  on  X-ray  structures  [5,6]  to act as a general base in the
+catalytic mechanism.
+
+-Consensus pattern: [KR]-[LIVA]-[LIVC]-[LIVM]-x-G-[QI]-D-P-Y
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In  humans, two  additional  sequences of UNG have been reported [7,8].
+ These isozymes  are  not evolutionary related to other known UNG. One of them
+ is a  glyceraldehyde  3-phosphate  dehydrogenase [8] and the other related to
+ cyclins [9]. Data available on three proteins proposed to be human uracil-DNA
+ glycosylases is discussed in [10].
+
+-Expert(s) to contact by email:
+           Aasland R.; aasland@bio.uib.no
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sancar A., Sancar G.B.
+     "DNA repair enzymes."
+     Annu. Rev. Biochem. 57:29-67(1988).
+     PubMed=3052275
+[ 2] Olsen L.C., Aasland R., Wittwer C.U., Krokan H.E., Helland D.E.
+     "Molecular cloning of human uracil-DNA glycosylase, a highly conserved
+     DNA repair enzyme."
+     EMBO J. 8:3121-3125(1989).
+     PubMed=2555154
+[ 3] Upton C., Stuart D.T., McFadden G.
+     "Identification of a poxvirus gene encoding a uracil DNA
+     glycosylase."
+     Proc. Natl. Acad. Sci. U.S.A. 90:4518-4522(1993).
+     PubMed=8389453
+[ 4] Slupphaug G., Markussen F.-H., Olsen L.C., Aasland R., Aarsaether N.,
+     Bakke O., Krokan H.E., Helland D.E.
+     "Nuclear and mitochondrial forms of human uracil-DNA glycosylase are
+     encoded by the same gene."
+     Nucleic Acids Res. 21:2579-2584(1993).
+     PubMed=8332455
+[ 5] Savva R., McAuley-Hecht K., Brown T., Pearl L.
+     "The structural basis of specific base-excision repair by uracil-DNA
+     glycosylase."
+     Nature 373:487-493(1995).
+     PubMed=7845459; DOI=10.1038/373487a0
+[ 6] Mol C.D., Arvai A.S., Slupphaug G., Kavli B., Alseth I., Krokan H.E.,
+     Tainer J.A.
+     "Crystal structure and mutational analysis of human uracil-DNA
+     glycosylase: structural basis for specificity and catalysis."
+     Cell 80:869-878(1995).
+     PubMed=7697717
+[ 7] Mueller S.J., Caradonna S.
+     "Isolation and characterization of a human cDNA encoding uracil-DNA
+     glycosylase."
+     Biochim. Biophys. Acta 1088:197-207(1991).
+     PubMed=2001396
+[ 8] Meyer-Siegler K., Mauro D.J., Seal G., Wurzer J., Deriel J.K.,
+     Sirover M.A.
+     Proc. Natl. Acad. Sci. U.S.A. 88:8460-8464(1991).
+[ 9] Mueller S.J., Caradonna S.
+     "Cell cycle regulation of a human cyclin-like gene encoding uracil-DNA
+     glycosylase."
+     J. Biol. Chem. 268:1310-1319(1993).
+     PubMed=8419333
+[10] Barnes D.E., Lindahl T., Sedgwick B.
+     Curr. Opin. Cell Biol. 5:424-433(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

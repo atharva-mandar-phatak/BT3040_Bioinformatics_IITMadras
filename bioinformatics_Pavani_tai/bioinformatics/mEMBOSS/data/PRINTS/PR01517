@@ -1,0 +1,55 @@
+KV42CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels are
+involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+    
+Structurally, Kv channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-
+gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ channels and
+3 kinds of Ca2+-activated K+ channels (BK, IK and SK) [2]. All K+
+channels share a characteristic sequence feature: a TMxTVGYG motif
+that resides between the 2 C-terminal membrane spanning helices, and
+forms the K+-selective pore domain [1-2].
+   
+The Kv family can be divided into 4 subfamilies on the basis of sequence
+similarity and function: Shaker (Kv1), Shab (Kv2), Shaw (Kv3) and Shal 
+(Kv4). All consist of pore-forming alpha subunits that associate with 
+different types of beta subunit. To form a functional K+ channel pore,
+4 alpha subunits and 4 beta subunits are required. The alpha subunits
+have 6 well-conserved TM domains, a pore loop region and variable length
+N- and C-termini. TM domains 5 and 6, and the loop region, form the K+ 
+channel pore through which the K+ ions pass [3].
+   
+The first Shal (Kv4) sequence was found in Drosophila. Several vertebrate
+K+ channels with similar amino acid sequences were subsequently found and,
+together with the Drosophila Shal channel, now constitute the Shal (Kv4)
+family. These channels support outward K+-selective currents and are
+inhibited by free fatty acids [4]. The Shal family can be further divided 
+into 3 families, designated Kv4.1, Kv4.2 and Kv4.3.
+
+Kv4.2 channels are the major contributors to somatodendritic A-type K+
+channels in the basal ganglia and basal forebrain neurons [5]. They are also
+expressed in the heart and CNS. In rodents, they are an important
+constituent of the cardiac transient outward current, Ito. In addition, they
+have a predicted role in regulating neuronal transmission at post-synaptic 
+loci in defined brain regions [4-5]. Kv4.2 channels contain a number of
+conserved sites for mitogen-activated protein kinase ERK phosphorylation, 
+suggesting that ERK may regulate potassium channel function by direct
+phosphorylation [6].
+
+KV42CHANNEL is a 5-element fingerprint that provides a signature for the
+Kv4.2 voltage-gated K+ channel. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections 
+that characterise the Kv4.2 channels but distinguish them from other 
+members of the Shal family - motifs 1 and 2 reside at the N-terminus; and
+motifs 3-5 span the C-terminus. Two iterations on SPTR39_15f were required
+to reach convergence, at which point a true set comprising 5 sequences was
+identified. Two partial matches were also found, Q99249 and Q9JJ60, both of
+which are closely related K+ channel proteins that match motifs 1-3.

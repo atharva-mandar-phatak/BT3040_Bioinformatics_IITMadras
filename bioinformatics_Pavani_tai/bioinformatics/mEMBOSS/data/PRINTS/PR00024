@@ -1,0 +1,37 @@
+HOMEOBOX
+The homeobox is a 60-residue motif first identified in a number of
+Drosophila homeotic and segmentation proteins, but now known to be well-
+conserved in many other animals, including vertebrates [1-3]. Proteins
+containing homeobox domains are likely to play an important role in
+development - most are known to be sequence-specific DNA-binding
+transcription factors. The domain binds DNA through a helix-turn-helix
+(HTH) structure.
+
+The HTH motif is characterised by 2 alpha-helices, which make intimate 
+contacts with the DNA and are joined by a short turn. The second helix 
+binds to DNA via a number of hydrogen bonds and hydrophobic interactions, 
+which occur between specific side chains and the exposed bases and thymine 
+methyl groups within the major groove of the DNA [3]. The first helix helps
+to stabilise the structure [4]. The motif is very similar in sequence and 
+structure in a wide range of DNA-binding proteins (e.g., cro and repressor 
+proteins, homeotic proteins, etc.). One of the principal differences 
+between HTH motifs in these different proteins arises from the stereo-
+chemical requirement for glycine in the turn (position 9 of the motif), 
+which is needed to avoid steric interference of the beta-carbon with the 
+main chain: for cro and repressor proteins the glycine appears to be 
+mandatory, while for many of the homeotic and other DNA-binding proteins
+the requirement is relaxed. 
+
+HOMEOBOX is a 3-element fingerprint that provides a signature for the 
+homeobox domain. The fingerprint was derived from an initial alignment of
+10 sequences: the motifs span the HTH motif, motif 2 including position 9,
+which is frequently Cys rather than Gly (cf. PROSITE pattern HOMEOBOX
+(PS00027)). Seven iterations on OWL20.0 were required to reach convergence,
+at which point a true set comprising 342 sequences was identified. A subset
+of 48 partial matches was also found, most of which are fragments - the
+remaining partial matches are regarded as noise. This apparently poor
+discrimination results from the use of only 3 motifs, which compromises
+discrimination power.
+
+An update on SPTR37_9f identified a true set of 458 sequences, and 127
+partial matches.

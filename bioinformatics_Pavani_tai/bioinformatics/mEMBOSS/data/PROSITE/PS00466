@@ -1,0 +1,86 @@
+************************************************
+* Zinc finger TFIIS-type signature and profile *
+************************************************
+
+In  eukaryotes  the  initiation  of transcription of protein encoding genes by
+polymerase  II  (Pol  II)  is  modulated by general and specific transcription
+factors.  The  general  transcription factors operate through common promoters
+elements  (such  as the TATA box). At least eight different proteins associate
+to  form  the  general  transcription  factors: TFIIA, -IIB, -IID, -IIE, -IIF,
+-IIG, -IIH and -IIS [1].
+
+During  mRNA elongation, Pol II can encounter DNA sequences that cause reverse
+movement  of  the  enzyme.  Such  'backtracking' involved extrusion of the RNA
+3'-end  into  the  pore,  and  can lead to transcriptional arrest. Escape from
+arrest requires cleavage of the extruded RNA with the help of TFIIS [2]. TFIIS
+is  a  protein  of about 300 amino acids. It contains two conserved regions, a
+central  domain  which is required for Pol II binding and a C-terminal C4-type
+zinc   finger  essential  for  RNA  cleavage.  The  zinc  finger  folds  in  a
+conformation  termed  a  'zinc ribbon' (see <PDB:1TFI>) [3] characterized by a
+three-stranded antiparallel beta-sheet and two beta-hairpins. A backbone model
+for  Pol  II-TFIIS  complex  was obtained from X-ray analysis. It shows that a
+beta  hairpin protrudes from the zinc finger and complements the pol II active
+site [4].
+
+The TFIIS zinc finger is also found in the following proteins:
+
+ - Eukaryotic  and  archebacterial  RNA  polymerase  subunits of the 15 Kd / M
+   family (see <PDOC00790>).
+ - Vaccinia virus RNA polymerase 30 Kd subunit (rpo30) [5].
+ - African swine fever virus protein I243L [6].
+
+The  pattern  we developed starts at the first cysteine of the zinc finger and
+ends  at  the  last  one.  We  also  developed a profile which spans the whole
+structural domain.
+
+-Consensus pattern: C-x(2)-C-x(9)-[LIVMQSART]-[QH]-[STQLMI]-[RA]-[SACR]-x-
+                    [DE]-[DET]-[PGSEAM]-x(6)-C-x(2,5)-C-x(3)-[FWE]
+                    [The 4 C's are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hirashima S., Hirai H., Nakanishi Y., Natori S.
+     "Molecular cloning and characterization of cDNA for eukaryotic
+     transcription factor S-II."
+     J. Biol. Chem. 263:3858-3863(1988).
+     PubMed=3346229
+[ 2] Wind M., Reines D.
+     "Transcription elongation factor SII."
+     Bioessays 22:327-336(2000).
+     PubMed=10723030; DOI=10.1002/(SICI)1521-1878(200004)22:4<327::AID-BIES3>3.0.CO;2-4
+[ 3] Qian X., Jeon C., Yoon H., Agarwal K., Weiss M.A.
+     "Structure of a new nucleic-acid-binding motif in eukaryotic
+     transcriptional elongation factor TFIIS."
+     Nature 365:277-279(1993).
+     PubMed=7626141; DOI=10.1038/365277a0;
+[ 4] Kettenberger H., Armache K.J., Cramer P.
+     "Architecture of the RNA polymerase II-TFIIS complex and implications
+     for mRNA cleavage."
+     Cell 114:347-357(2003).
+     PubMed=12914699
+[ 5] Ahn B.-Y., Gershon P.D., Jones E.V., Moss B.
+     "Identification of rpo30, a vaccinia virus RNA polymerase gene with
+     structural similarity to a eucaryotic transcription elongation
+     factor."
+     Mol. Cell. Biol. 10:5433-5441(1990).
+     PubMed=2398897
+[ 6] Rodriguez J.M., Salas M.L., Vinuela E.
+     "Genes homologous to ubiquitin-conjugating proteins and eukaryotic
+     transcription factor SII in African swine fever virus."
+     Virology 186:40-52(1992).
+     PubMed=1309282
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,45 @@
+SIGNALPTASE
+Proteolytic enzymes that exploit serine in their catalytic activity are 
+ubiquitous, being found in viruses, bacteria and eukaryotes [1]. They 
+include a wide range of peptidase activity, including exopeptidase, endo-
+peptidase, oligopeptidase and omega-peptidase activity. Over 20 families
+(denoted S1-S26) of serine protease have been identified, these being
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+similarity and other functional evidence [1]. Structures are known for four
+of the clans (SA, SB, SC and SE): these appear to be totally unrelated,
+suggesting at least four evolutionary origins of serine peptidases and
+possibly many more [1].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and 
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Eukaryotic microsomal signal peptidase is involved in the removal of signal
+peptides from secretory proteins as they pass into the endoplasmic reticulum
+lumen [1]. The peptidase is more complex than its mitochondrial and
+bacterial counterparts, containing a number of subunits, ranging from two
+in the chicken oviduct peptidase, to five in the dog pancreas protein [1].
+A number of these have been shown to be similar and form the eukaryotic
+signal peptidase (S26) family. They share sequence similarity with the
+bacterial leader peptidases (family S26A), although activity here is mediated
+by a serine/histidine dyad rather than a serine/lysine dyad [1].
+
+SIGNALPTASE is a 2-element fingerprint that provides a signature for the
+eukaryotic signal peptidase (S26B) family. The fingerprint was derived from
+an inital alignment of 5 sequences: the motifs were drawn from conserved
+regions within the putative lumenal domain - motif 1 includes the region
+encoded by PROSITE pattern SPASE_I_1 (PS00501), which contains the active
+serine; and motif 2 includes the region encoded by PROSITE pattern SPASE_I_3
+(PS00760), a conserved region of unknown function (the region surrounding
+the proposed active His was not sufficiently well conserved to be used as
+a diagnostic motif). Two iterations on OWL29.3 were required to reach
+convergence, at which point a true set comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 12 sequences.

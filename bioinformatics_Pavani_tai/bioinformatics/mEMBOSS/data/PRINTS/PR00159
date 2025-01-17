@@ -1,0 +1,52 @@
+2FE2SFRDOXIN
+Ferredoxins [1,2] are iron-sulphur proteins that mediate electron transfer
+in a range of metabolic reactions; they fall into several subgroups
+according to the nature of their iron-sulphur cluster(s). One group,
+originally found in chloroplast membranes, has been termed "chloroplast-
+type" or "plant-type". Here, the active centre is a 2Fe-2S cluster, where
+the irons are tetrahedrally coordinated by both inorganic sulphurs and
+sulphurs provided by 4 conserved Cys residues [3], as shown in the
+following scheme:
+
+                        |   Cys308 |
+                        \_____x___/  /
+                              |     /
+                             HS     |
+                              :  H  |
+                   \      S''Fe..S--x Cys280  
+                    |      :   :     |
+             Cys272 x--S...Fe..S     |   
+                    |  H   :         |
+                    |      SH        |
+                    |      |         /
+                    \______x________/
+                          Cys277
+                               
+In chloroplasts, 2Fe-2S ferredoxins function as electron carriers in the
+photosynthetic electron transport chain and as electron donors to various
+cellular proteins, such as nitrate reductase, sulphite reductase and
+glutamate synthase [4]. In hydroxylating bacterial dioxygenase systems,
+they serve as intermediate electron-transfer carriers between reductase
+flavoproteins and oxygenase [2].
+
+Several oxidoreductases contain redox domains similar to 2Fe-2S
+ferredoxins, including ferredoxin/ferredoxin reductase components of
+several bacterial aromatic di- and monooxygenases, phenol hydroxylase,
+methane monooxygenase, vanillate demethylase oxidoreductase, phthalate
+dioxygenase reductase, bacterial fumarate reductase iron-sulphur protein,
+eukaryotic succinate dehydrogenase and xanthine dehydrogenase. 
+
+3D structures are known for a number of 2Fe-2S ferredoxins [3] and for
+the ferredoxin reductase/ferredoxin fusion protein phthalate dioxygenase
+reductase [5]. The fold belongs to the alpha + beta class, with 3 helices
+and 4 strands forming a barrel-like structure, and an extruded loop
+containing 3 of the 4 cysteinyl residues of the iron-sulphur cluster.
+
+2FE2SFRDOXIN is a 2-element fingerprint that provides a signature for the 
+plant ferredoxins. The fingerprint was derived from an initial alignment 
+of 25 sequences: the motifs span the region encoded by PROSITE pattern
+2FE2S_FERREDOXIN (PS00197), which contains 3 of the 4 Cys residues of the
+cluster. Two iterations on OWL25.2 were required to reach convergence, at
+which point a true set comprising 126 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 86 sequences.

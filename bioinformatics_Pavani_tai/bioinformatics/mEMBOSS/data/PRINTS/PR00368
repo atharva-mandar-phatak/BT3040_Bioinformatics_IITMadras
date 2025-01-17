@@ -1,0 +1,38 @@
+FADPNR
+FAD flavoproteins belonging to the family of pyridine nucleotide-disulphide
+oxidoreductases [1] (glutathione reductase, trypanothione reductase,
+lipoamide dehydrogenase, mercuric reductase, thioredoxin reductase, alkyl
+hydroperoxide reductase) share sequence similarity with a number of other
+flavoprotein oxidoreductases, in particular with ferredoxin-NAD+ reductases
+involved in oxidative metabolism of a variety of hydrocarbons [2] 
+(rubredoxin reductase, putidaredoxin reductase, terpredoxin reductase,
+ferredoxin-NAD+ reductase components of benzene 1,2-dioxygenase, toluene
+1,2-dioxygenase, chlorobenzene dioxygenase, biphenyl dioxygenase), NADH
+oxidase and NADH peroxidase [3]. Comparison of the crystal structures of
+human glutathione reductase and E.coli thioredoxin reductase reveals
+different locations of their active sites, suggesting that the enzymes
+diverged from an ancestral FAD/NAD(P)H reductase and acquired their
+disulphide reductase activities independently [1]. 
+
+Despite functional similarities, oxidoreductases of this family show no 
+sequence similarity with adrenodoxin reductases [4] and flavoprotein
+pyridine nucleotide cytochrome reductases (FPNCR) [5]. Assuming that 
+disulphide reductase activity emerged later, during divergent evolution, 
+the family can be referred to as FAD-dependent pyridine nucleotide 
+reductases, FADPNR. To date, 3D structures of glutathione reductase 
+[6], thioredoxin reductase [1], mercuric reductase [7], lipoamide 
+dehydrogenase [8], trypanothione reductase [9] and NADH peroxidase [10] 
+have been solved. The enzymes share similar tertiary structures based on
+a doubly-wound alpha/beta fold, but the relative orientations of their
+FAD- and NAD(P)H-binding domains may vary significantly. By contrast with
+the FPNCR family, the folds of the FAD- and NAD(P)H-binding domains are
+similar, suggesting that the domains evolved by gene duplication [11].
+
+FADPNR is a 5-element fingerprint that provides a signature for the  
+FAD-dependent pyridine nucleotide reductase family. The fingerprint 
+was derived from an initial alignment of 20 sequences: motifs 3 and 4
+contain conserved Gly residues involved in binding the FAD flavin moiety.
+Nine iterations on SPTR57.15_40.15f were required to reach convergence, at
+which point a true set comprising 5,455 sequences was identified. Numerous
+partial matches were also found, all of which are family members that fail
+to make significant matches with one or more motifs.

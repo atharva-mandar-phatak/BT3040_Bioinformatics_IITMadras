@@ -1,0 +1,122 @@
+******************************************
+* Ubiquitin domain signature and profile *
+******************************************
+
+Ubiquitin [1,2,3] is a protein  of  seventy  six amino acid residues, found in
+all eukaryotic  cells  and  whose  sequence   is extremely well conserved from
+protozoan to  vertebrates.  It  plays  a  key  role  in  a variety of cellular
+processes, such as ATP-dependent  selective  degradation of cellular proteins,
+maintenance of  chromatin  structure,  regulation  of  gene expression, stress
+response and ribosome biogenesis.
+
+In most  species,  there are many genes coding for ubiquitin. However they can
+be classified  into  two  classes.  The  first  class  produces  polyubiquitin
+molecules consisting of exact head to tail repeats of ubiquitin. The number of
+repeats  is  variable (up  to  twelve in a Xenopus gene).  In  the majority of
+polyubiquitin precursors, there is a  final amino-acid  after the last repeat.
+The second  class  of genes produces precursor proteins consisting of a single
+copy of ubiquitin fused to a C-terminal extension protein (CEP). There are two
+types of CEP proteins and both seem to be ribosomal proteins.
+
+Ubiquitin is a globular protein, the  last  four C-terminal residues (Leu-Arg-
+Gly-Gly) extending  from the compact structure to form a 'tail', important for
+its function.  The latter is mediated by the covalent conjugation of ubiquitin
+to target  proteins,  by  an isopeptide linkage between the C-terminal glycine
+and the epsilon amino group of lysine residues in the target proteins.
+
+There are a number of proteins which are evolutionary related to ubiquitin:
+
+ - Ubiquitin-like  proteins from  baculoviruses as well as in  some strains of
+   bovine viral diarrhea viruses (BVDV).  These proteins are highly similar to
+   their eukaryotic counterparts.
+ - Mammalian  protein  GDX [4].  GDX is composed  of two domains, a N-terminal
+   ubiquitin-like domain of 74 residues and a C-terminal domain of 83 residues
+   with some similarity with the thyroglobulin hormonogenic site.
+ - Mammalian  protein  FAU  [5].   FAU is a  fusion protein which consist of a
+   N-terminal ubiquitin-like protein of 74 residues fused to ribosomal protein
+   S30.
+ - Mouse protein NEDD-8 [6], a ubiquitin-like protein of 81 residues.
+ - Human protein BAT3, a large fusion protein of 1132 residues that contains a
+   N-terminal ubiquitin-like domain.
+ - Caenorhabditis elegans protein ubl-1 [7].  Ubl-1 is a  fusion protein which
+   consist of  a  N-terminal  ubiquitin-like  protein  of 70 residues fused to
+   ribosomal protein S27A.
+ - Yeast DNA repair protein RAD23 [8]. RAD23 contains a N-terminal domain that
+   seems to be distantly, yet significantly, related to ubiquitin.
+ - Mammalian RAD23-related proteins RAD23A and RAD23B.
+ - Mammalian  BCL-2  binding  athanogene-1  (BAG-1). BAG-1 is a protein of 274
+   residues that contains a central ubiquitin-like domain.
+ - Human spliceosome associated protein 114 (SAP 114 or SF3A120).
+ - Yeast protein DSK2, a protein involved in spindle pole body duplication and
+   which contains a N-terminal ubiquitin-like domain.
+ - Human  protein  CKAP1/TFCB,  Schizosaccharomyces  pombe  protein  alp11 and
+   Caenorhabditis elegans hypothetical protein F53F4.3. These proteins contain
+   a N-terminal   ubiquitin  domain  and  a  C-terminal  CAP-Gly  domain  (see
+   <PDOC00660>).
+ - Schizosaccharomyces  pombe  hypothetical  protein SpAC26A3.16. This protein
+   contains a N-terminal ubiquitin domain.
+
+ - Yeast protein SMT3.
+ - Human ubiquitin-like proteins SMT3A and SMT3B.
+ - Human ubiquitin-like protein SMT3C (also known as PIC1; Ubl1, Sumo-1; Gmp-1
+   or Sentrin).  This  protein is involved in targeting ranGAP1 to the nuclear
+   pore complex protein ranBP2.
+ - SMT3-like proteins in plants and Caenorhabditis elegans.
+
+To identify ubiquitin and related proteins  we  have developed a pattern based
+on conserved  positions  in the central section of the sequence. A profile was
+also developed that spans the complete length of the ubiquitin domain.
+
+-Consensus pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-
+                    [LIVMC]-[LIVMFY]-x-G-x(4)-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the RAD23 and SMT3 subfamilies, BAG-1 and SAP 114.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Jentsch S., Seufert W., Hauser H.-P.
+     "Genetic analysis of the ubiquitin system."
+     Biochim. Biophys. Acta 1089:127-139(1991).
+     PubMed=1647207
+[ 2] Monia B.P., Ecker D.J., Croke S.T.
+     Bio/Technology 8:209-215(1990).
+[ 3] Finley D., Varshavsky A.
+     Trends Biochem. Sci. 10:343-347(1985).
+[ 4] Filippi M., Tribioli C., Toniolo D.
+     "Linkage and sequence conservation of the X-linked genes DXS253E (P3)
+     and DXS254E (GdX) in mouse and man."
+     Genomics 7:453-457(1990).
+     PubMed=1973144
+[ 5] Olvera J., Wool I.G.
+     "The carboxyl extension of a ubiquitin-like protein is rat ribosomal
+     protein S30."
+     J. Biol. Chem. 268:17967-17974(1993).
+     PubMed=8394356
+[ 6] Kumar S., Yoshida Y., Noda M.
+     "Cloning of a cDNA which encodes a novel ubiquitin-like protein."
+     Biochem. Biophys. Res. Commun. 195:393-399(1993).
+     PubMed=8395831
+[ 7] Jones D., Candido E.P.
+     "Novel ubiquitin-like ribosomal protein fusion genes from the
+     nematodes Caenorhabditis elegans and Caenorhabditis briggsae."
+     J. Biol. Chem. 268:19545-19551(1993).
+     PubMed=7690036
+[ 8] Melnick L., Sherman F.
+     "The gene clusters ARC and COR on chromosomes 5 and 10, respectively,
+     of Saccharomyces cerevisiae share a common ancestry."
+     J. Mol. Biol. 233:372-388(1993).
+     PubMed=8411151
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

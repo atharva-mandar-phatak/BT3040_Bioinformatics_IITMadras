@@ -1,0 +1,41 @@
+TOPISMRASE4B
+Topoisomerases catalyse the interconversion of topological isomers of DNA
+and play a key role in DNA metabolism [1]. Topoisomerase I catalyses an ATP-
+independent reaction, while topoisomerase II catalyses an ATP-dependent
+reaction, resulting in the formation of DNA supercoils [1-3]. The supercoil
+is formed by transient cleavage in both strands of double-stranded DNA,
+followed by the passage of a segment of DNA through the break, and break
+ligation [3]. Eukaryotic enzymes can form both positive and negative
+supercoils, while prokaryotic enzymes form only negative supercoils.
+
+Eukaryotic topoisomerase II exists as a homodimer; in bacteriophage T4 it 
+consists of 3 heterologous subunits; in prokaryotes it exists as a tetramer
+of 2 subunits (2 each of gyrA and gyrB); and in E.coli, a second type II
+topoisomerase, involved in chromosome segregation (topoisomerase IV),
+consists of 2 subunits (parC and parE). GyrB, parE, and the product of 
+bacteriophage T4 gene 39, are all similar to the eukaryotic proteins [1-3].
+
+Investigations have shown that full-length ParC and ParE are required to
+reconstitute Topo IV activity, while truncated ParC and ParE are inactive 
+[4]. Topo IV activity is inhibited by quinolone and coumarin antibiotics, 
+but the concentrations required for 50% inhibition of activity are 3-30-fold
+higher than those required to inhibit DNA gyrase [4]. Norfloxacin-induced 
+DNA cleavage patterns of Topo IV and DNA gyrase are distinct, but over-
+lapping. The native forms of ParC and ParE are respectively a dimer and a
+monomer, while the active form of Topo IV is a heterotetramer, ParC2ParE2. 
+It is thought that the inactivity of truncated forms of ParC and ParE might
+be attributed to their failure to form the heterotetramer [4]. 
+
+TOPISMRASE4B is a 15-element fingerprint that provides a signature for
+topoisomerase IV subunit B. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those regions that
+characterise topoisomerase IV but distinguish it from closely related
+members of the topoisomerase II family. Two iterations on OWL31.1 were
+required to reach convergence, at which point a true set comprising 4
+sequences was identified. A single partial match was also found, a
+topoisomerase IV subunit B fragment from Vibrio cholerae that matches 
+motifs 9-12.
+
+An update on SPTR37_9f identified a true set of 3 sequences, and 4
+partial matches.

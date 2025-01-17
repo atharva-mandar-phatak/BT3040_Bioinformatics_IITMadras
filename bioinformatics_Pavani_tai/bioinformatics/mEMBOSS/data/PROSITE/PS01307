@@ -1,0 +1,32 @@
+*************************************************
+* Flagellar motor protein motA family signature *
+*************************************************
+
+The bacterial  protein  motA [1] is required for the rotation of the flagellar
+motor. This  protein  probably  forms  a  transmembrane proton channel used to
+energize the  flagellar rotary motor. The motA protein is an integral membrane
+protein that contains four transmembrane domains.
+
+As as  signature  for  the  motA  family  of proteins, we selected a conserved
+region that corresponds to the fourth transmembrane region.
+
+-Consensus pattern: A-[LMF]-x-[GAT]-T-[LIVMF]-x-G-x-[LIVMF]-x(7)-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Nguyen C.C., Saier M.H. Jr.
+     "Structural and phylogenetic analysis of the MotA and MotB families of
+     bacterial flagellar motor proteins."
+     Res. Microbiol. 147:317-332(1996).
+     PubMed=8763618
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

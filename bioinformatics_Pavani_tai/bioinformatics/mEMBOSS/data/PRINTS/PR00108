@@ -1,0 +1,24 @@
+THYMDSNTHASE
+Thymidylate synthase catalyses the conversion of deoxypuridine monophosphate
+(dUMP) and 5,10-methylenetetrahydrofolate to oxythymidine monophosphate
+(dTMP) and dihydrofolate. This provides the sole de novo pathway for 
+production of dTMP and is the only enzyme in folate metabolism in which the
+5,10-methylenetetrahydrofolate is oxidised during one-carbon transfer [1].
+The enzyme is essential for regulating the balanced supply of the 4 DNA
+precursors in normal DNA replication: defects in the enzyme activity
+affecting the regulation process cause various biological and genetic
+abnormalities, such as thymineless death [2]. The enzyme exists as a homo-
+dimer, and is also found as a bifunctional enzyme in protozoa, containing
+dihydrofolate reductase activity [1].
+
+THYMDSNTHASE is a 5-element fingerprint that provides a signature for
+thymidylate synthases. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs surround the active site, motif 4
+including the region encoded by PROSITE pattern THYMIDYLATE_SYNTHASE
+(PS00091), which contains the catalytically important Cys residue. Two
+iterations on OWL21.1 were required to reach convergence, at which point
+a true set comprising 30 sequences was identified. A single partial match
+was also found, TYSY_LACLA, a thymidylate synthase fragment.
+
+An update on SPTR37_9f identified a true set of 47 sequences, and 4
+partial matches.

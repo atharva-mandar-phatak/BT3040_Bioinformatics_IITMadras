@@ -1,0 +1,30 @@
+LPSBIOSNTHSS
+Temperature-sensitive mutants of Escherichia coli, defective in the transfer
+of 3-deoxy-D-manno-octulosonic acid (KDO) from CMP-KDO to a tetraacyldi-
+saccharide 1,4'-bisphosphate precursor of lipid A, have been used to map
+KDO transferase activity on the E.coli chromosome [1]. The KDO transferase
+gene, designated kdtA, was shown to code for a 43kDa polypeptide [1]. 
+Overexpression of this single gene product greatly stimulates incorporation 
+of two stereochemically distinct KDO residues during lipopolysaccharide
+biosynthesis in extracts of E.coli [1]. 
+
+The role of some genes in the synthesis of the lipopolysaccharide (LPS) core
+of Escherichia coli has been defined by complementation analysis with known
+Salmonella typhimurium LPS mutants [2]. The genetic organisation of this 
+locus seems to be identical in E.coli K-12 and S.typhimurium [2]. 
+
+LPSBIOSNTHSS is a 5-element fingerprint that provides a signature for
+lipopolysaccharide core biosynthesis protein kdtB. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs were drawn
+from short conserved regions spanning virtually the full alignment length.
+Two iterations on OWL30.2 were required to reach convergence, at which
+point a true set comprising 12 sequences was identified. Several partial
+matches were also found: E70187 is a kdtB homologue that fails to make
+a significant match with motif 3; B64447 and S75359 are hypothetical
+proteins from Methanococcus jannaschii and Synechocystis sp. respectively,
+and TAGD_BACSU is a glycerol-3-phosphate cytidylyltransferase, all of 
+which match motifs 1 and 2 (the kdtA and cytidylyltransferase sequences
+share a high degree of similarity in this N-terminal region). 
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 1
+partial match.

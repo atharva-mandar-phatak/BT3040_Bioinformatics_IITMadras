@@ -1,0 +1,31 @@
+ARSENICPUMP
+Arsenic is a toxic metalloid whose trivalent and pentavalent ions inhibit
+a variety of biochemical processes. Operons that encode arsenic resistance
+have been found in multicopy plasmids from both Gram-positive and Gram-
+negative bacteria [1]. The resistance mechanism is encoded from a single
+operon, which houses an anion pump. The pump has two polypeptide components:
+a catalytic subunit (the ArsA protein), which functions as an oxyanion-
+stimulated ATPase; and an arsenite export component (the ArsB protein), 
+which is associated with the inner membrane [2]. The ArsA and ArsB proteins
+are thought to form a membrane complex that functions as an anion-
+translocating ATPase.
+
+The ArsB protein is distinguished by its overall hydrophobic character, 
+in keeping with its role as a membrane-associated channel. Sequence
+analysis reveals the presence of 13 putative transmembrane (TM) regions.
+
+ARSENICPUMP is an 8-element fingerprint that provides a signature for
+arsenical pump ArsB membrane-associated proteins. The fingerprint was
+derived from an initial alignment of 8 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motif
+1 spans putative TM regions 3 and 4; motif 2 includes part of the fifth TM
+region; motif 3 spans the sixth TM region; motifs 4, 5 and 6 include parts
+of the seventh, ninth and tenth putative TM regions; and motifs 7 and 8 span
+the twelfth and final TM regions. A single iteration on OWL29.4 was required
+to reach convergence, no further sequences being identified beyond the
+starting set. Several partial matches were also found, all of which are
+fragments and family members that fail to make significant matches with
+one or more motifs.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 5
+partial matches.

@@ -1,0 +1,70 @@
+EDG8RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Lysophospholipids (LPs), such as lysophosphatidic acid (LPA), sphingosine
+1-phosphate (S1P) and sphingosylphosphorylcholine (SPC), have long been
+known to act as signalling molecules in addition to their roles as
+intermediates in membrane biosynthesis [6]. They have roles in the
+regulation of cell growth, differentiation, apoptosis and development, and
+have been implicated in a wide range of pathophysiological conditions,
+including: blood clotting, corneal wounding, subarachinoid haemorrhage,
+inflammation and colitis [7]. A number of G-protein-coupled receptors bind
+members of the lysophospholipid family. These include: the cannabinoid
+receptors; platelet activating factor receptor; OGR1, an SPC receptor
+identified in ovarian cancer cell lines; PSP24, an orphan receptor that has
+been proposed to bind LPA; and at least 8 closely related receptors, the EDG
+family, that bind LPA and S1P [6].
+
+S1P is released from activated platelets and is also produced by a number
+of other cell types in response to growth factors and cytokines [8]. It is
+proposed to act both as an extracellular mediator and as an intracellular
+second messenger. The cellular effects of S1P include growth related
+effects, such as proliferation, differentiation, cell survival and
+apoptosis, and cytoskeletal effects, such as chemotaxis, aggregation,
+adhesion, morphological change and secretion. The molecule has been
+implicated in control of angiogenesis, inflammation, heart-rate and tumour
+progression and may play an important role in a number of disease states
+such as atherosclerosis and breast and ovarian cancer [8]. Recently, 5
+G protein-coupled receptors have been identified that act as high affinity
+receptors for S1P and also as low affinity receptors for the related
+lysophospholipid, SPC [6]. EDG-1, EDG-3, EDG-5 and EDG-8 share a high degree
+of similarity and are also referred to as lpB1, lpB3, lpB2 and lpB4,
+respectively. EDG-6 is referred to as lpC1, reflecting its more distant
+relationship to the other S1P receptors [6].
+
+EDG-8 is expressed predominantly in the white matter tracts of the brain and
+in the pancreas [8]. Upon binding of S1P, EDG-8 appears to couple to Gi and
+G12 proteins but not Gq family members. Unlike other EDG receptors, which 
+activate MAP kinases and stimulate proliferation, EDG-8 causes inhibition 
+of ERK MAP kinases and proliferation, and also inhibition of adenylyl 
+cyclase [9].
+
+EDG8RECEPTOR is a 10-element fingerprint that provides a signature for the
+EDG-8 sphingosine 1-phosphate receptors. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved
+sections within N- and C-terminal and loop regions, focusing on those areas
+of the alignment that characterise the EDG-8 receptors but distinguish them
+from the rest of the sphingosine 1-phosphate receptor family - motif 1
+resides at the N-terminus; motif 2 also lies at the N-terminus, leading into
+TM domain 1; motif 3 encodes the first cytoplasmic loop; motif 4 spans the
+second cytoplasmic loop, leading into TM domain 4; motifs 5 and 6 lie in the
+third cytoplasmic loop; and motifs 7-10 reside at the C-terminus. A single
+iteration on SPTR39.22_17.3f was required to reach convergence, no further
+sequences being identified beyond the starting set.

@@ -1,0 +1,77 @@
+***********************************************************************
+* Bacterial extracellular solute-binding proteins, family 3 signature *
+***********************************************************************
+
+Bacterial high affinity transport systems are involved in active  transport of
+solutes across  the  cytoplasmic  membrane.  The  protein  components of these
+traffic systems  include  one  or two transmembrane protein components, one or
+two membrane-associated    ATP-binding   proteins   (ABC   transporters;   see
+<PDOC00185>) and a high affinity periplasmic solute-binding protein. The later
+are thought  to  bind the substrate in the vicinity of the inner membrane, and
+to transfer  it to a complex of inner membrane proteins for concentration into
+the cytoplasm.
+
+In gram-positive  bacteria  which are surrounded by a single membrane and have
+therefore no  periplasmic  region  the  equivalent  proteins  are bound to the
+membrane via an N-terminal lipid anchor. These homolog proteins do not play an
+integral role in the transport process per se, but probably serve as receptors
+to trigger  or  initiate  translocation of the solute throught the membrane by
+binding to  external  sites  of  the  integral membrane proteins of the efflux
+system.
+
+In addition  at  least some solute-binding proteins function in the initiation
+of sensory transduction pathways.
+
+On the  basis  of  sequence  similarities,  the vast majority of these solute-
+binding proteins  can  be  grouped  [1] into eight families of clusters, which
+generally correlate with the nature of the solute bound.
+
+Family 3  groups  together  specific amino acids and opine-binding periplasmic
+proteins and a periplasmic homolog with catalytic activity:
+
+ - Histidine-binding  protein  (gene  hisJ)  of  Escherichia  coli and related
+   bacteria. An homologous lipoprotein exists in Neisseria gonorrhoeae.
+ - Lysine/arginine/ornithine-binding proteins (LAO) (gene argT) of Escherichia
+   coli and  related  bacteria  are involved in the same transport system than
+   hisJ. Both  solute-binding  proteins  interact with a common membrane-bound
+   receptor hisP of the binding protein dependent transport system HisQMP.
+ - Glutamine-binding  proteins  (gene  glnH)  of Escherichia coli and Bacillus
+   stearothermophilus.
+ - Glutamate-binding protein (gene gluB) of Corynebacterium glutamicum.
+ - Arginine-binding proteins artI and artJ of Escherichia coli.
+ - Nopaline-binding protein (gene nocT) from Agrobacterium tumefaciens.
+ - Octopine-binding protein (gene occT) from Agrobacterium tumefaciens.
+ - Major cell-binding factor (CBF1) (gene: peb1A) from Campylobacter jejuni.
+ - Bacteroides nodosus protein aabA.
+ - Cyclohexadienyl/arogenate   dehydratase   of   Pseudomonas   aeruginosa,  a
+   periplasmic enzyme  which  forms  an  alternative pathway for phenylalanine
+   biosynthesis.
+ - Escherichia coli protein fliY.
+ - Vibrio harveyi protein patH.
+ - Escherichia coli hypothetical protein ydhW.
+ - Bacillus subtilis hypothetical protein yckB.
+ - Bacillus subtilis hypothetical protein yckK.
+
+The signature pattern is located near the N-terminus of the mature proteins.
+
+-Consensus pattern: G-[FYIL]-[DE]-[LIVMT]-[DE]-[LIVMF]-{PS}-{YG}-x-[LIVMA]-
+                    [VAGC]-{TPRG}-{GL}-[LIVMAGN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 23.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Tam R., Saier M.H. Jr.
+     "Structural, functional, and evolutionary relationships among
+     extracellular solute-binding receptors of bacteria."
+     Microbiol. Rev. 57:320-346(1993).
+     PubMed=8336670
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

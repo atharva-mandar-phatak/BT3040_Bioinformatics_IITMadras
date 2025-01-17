@@ -1,0 +1,73 @@
+**********************
+* KEN domain profile *
+**********************
+
+The proteins  listed  below  share a common architecture with a protein kinase
+homology domain (see <PDOC00100>) followed by an ~135-residue globular kinase-
+extension nuclease (KEN) domain made of eight helices (see <PDB:2RIO>) [1]:
+
+ - Mammalian  2-5A-dependent  RNase  or  RNase L (EC 3.1.26.-), an interferon-
+   induced enzyme  implicated  in  both the molecular mechanisms of interferon
+   action and  the  fundamental control of RNA stability. 2-5A-dependent RNase
+   is a  unique  enzyme in that it requires 2-5A, unusual oligoadenylates with
+   2',5'-phosphodiester linkages.  RNase  L is catalytically active only after
+   binding to an unusual activator molecule containing a 5'-phosphorylated 2',
+   5'-linked oligoadenylate  (2-5A),  in the N-terminal half. RNase L consists
+   of three   domains,  namely  the  N-terminal  ankyrin  repeat  domain  (see
+   <PDOC50088>), the  protein  kinase  homology domain, and the C-terminal KEN
+   domain [2-4].
+ - Eukaryotic  Ire1/Ern1,  an  ancient  transmembrane  sensor  of  endoplasmic
+   reticulum (ER) stress with dual protein kinase and ribonuclease activities.
+   In repsonse  to  ER stress Ire1/Ern1 catalyzes the splicing of target mRNAs
+   in a  spliceosome-independent  manner.  Ire1/Ern1 is a type 1 transmembrane
+   receptor consisting  of  an  N-terminal  ER luminal domain, a transmembrane
+   segment and  a  cytoplasmic  region.  The  cytoplasmic region encompasses a
+   protein kinase domain followed by a C-terminal KEN domain [1,5].
+
+The dimerization  of  the kinase domain activates the ribonuclease function of
+the KEN domain [1].
+
+The profile we developed covers the entire KEN domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2008 / First entry.
+
+[ 1] Lee K.P.K., Dey M., Neculai D., Cao C., Dever T.E., Sicheri F.
+     "Structure of the dual enzyme Ire1 reveals the basis for catalysis and
+     regulation in nonconventional RNA splicing."
+     Cell 132:89-100(2008).
+     PubMed=18191223; DOI=10.1016/j.cell.2007.10.057
+[ 2] Zhou A., Hassel B.A., Silverman R.H.
+     "Expression cloning of 2-5A-dependent RNAase: a uniquely regulated
+     mediator of interferon action."
+     Cell 72:753-765(1993).
+     PubMed=7680958
+[ 3] Tanaka N., Nakanishi M., Kusakabe Y., Goto Y., Kitade Y.,
+     Nakamura K.T.
+     "Structural basis for recognition of 2',5'-linked oligoadenylates by
+     human ribonuclease L."
+     EMBO J. 23:3929-3938(2004).
+     PubMed=15385955; DOI=10.1038/sj.emboj.7600420
+[ 4] Townsend H.L., Jha B.K., Han J.-Q., Maluf N.K., Silverman R.H.,
+     Barton D.J.
+     "A viral RNA competitively inhibits the antiviral endoribonuclease
+     domain of RNase L."
+     RNA 14:1026-1036(2008).
+     PubMed=18426919; DOI=10.1261/rna.958908
+[ 5] Tirasophon W., Welihinda A.A., Kaufman R.J.
+     "A stress response pathway from the endoplasmic reticulum to the
+     nucleus requires a novel bifunctional protein kinase/endoribonuclease
+     (Ire1p) in mammalian cells."
+     Genes Dev. 12:1812-1824(1998).
+     PubMed=9637683
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

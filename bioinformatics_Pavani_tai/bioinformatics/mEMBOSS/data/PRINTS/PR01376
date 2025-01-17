@@ -1,0 +1,31 @@
+BACSURFANTGN
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens such as Salmonella and Yersinia, with further 
+sequence homologies in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagella itself [1], type III subunits in the outer membrane translocate 
+secreted proteins through a channel-like structure.
+
+Exotoxins secreted by the type III system do not possess a secretion signal,
+and are considered unique because of this [1]. Yersinia pestis secretes such 
+a protein, as recently described [2]. YopT is injected into the host cell 
+upon contact, and is therefore considered to be a virulence factor [2]. 
+Haemophilus spp. express a similar toxin on their surface, a 76kDa
+antigen [2].
+
+BACSURFANTGN is a 7-element fingerprint that provides a signature for 
+the Yersinia/Haemophilus type III secreted virulence surface antigen family. 
+The fingerprint was derived from an initial alignment of 2 sequences: the
+motifs were drawn from conserved regions spanning the full alignment length 
+(~800 amino acids). A single iteration on SPTR37_10f was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Two partial matches were also found, Q9ZHL0 and Q9ZHL3, both Haemophilus
+type III surface antigens that fail to match motifs 1 and 2. 

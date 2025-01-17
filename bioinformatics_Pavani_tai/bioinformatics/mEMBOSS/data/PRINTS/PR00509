@@ -1,0 +1,36 @@
+PGMPMM
+Phosphoglucomutase (PGM) is responsible for the conversion of D-glucose
+1-phosphate to D-glucose 6-phosphate. The enzyme participates in both the
+breakdown and synthesis of glucose [1]. Phosphomannomutase (PMM) is
+involved in the conversion of D-mannose 1-phosphate to D-mannose
+6-phosphate. The enzyme is required for different biosynthetic pathways
+in bacteria. In enterobacteria, 2 different genes code for PMM: rfbK,
+which is involved in the synthesis of the O antigen of lipopolysaccharide;
+and cpsG, which is required for the synthesis of the M antigen capsular
+polysaccharide [2]. In P.aeruginosa (gene algC), PMM is involved in the
+biosynthesis of the alginate layer [3], and in X.campestris (gene xanA),
+it is involved in the biosynthesis of xanthan.
+
+The catalytic mechanism of both PGM and PMM involves the formation of a
+phosphoserine intermediate [1]. Residues around the active site serine are
+well conserved and can be used to characterise a wider PGM/PMM family,
+which includes the urease operon ureC protein from H.pylori, E.coli mrsA
+protein, P.tetraurelia parafusin (a phosphoglycoprotein involved in
+exocytosis), and Methanococcus vannielii hypothetical protein in the
+3' region of the gene for ribosomal protein S10.
+
+PGMPMM is a 4-element fingerprint that provides a signature for the
+phosphogluco- and phosphomannomutase family. The fingerprint was
+derived from an initial alignment of 13 sequences: the motifs were
+drawn from short conserved regions towards the central portion of the
+alignment, motif 1 including the region described by PROSITE pattern
+PGM_PMM (PS00710), which includes the active site serine. Three
+iterations on OWL28.0 were required to reach convergence, at which
+point a true set comprising 28 sequences was identified. Numerous
+partial matches were also found, all of which are family members that
+fail to make significant matches with one or more motifs. Note: this is 
+a highly divergent family, hence the relatively poor diagnositic 
+performance of the fingerprint - nevertheless, it may be useful as a guide.
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 37
+partial matches.

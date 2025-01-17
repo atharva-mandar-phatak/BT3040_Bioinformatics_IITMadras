@@ -1,0 +1,24 @@
+GLHYDRLASE10
+Fungi and bacteria produce a spectrum of cellulases and xylanases for the
+degradation of cellulase and xylans [1,2]. Using sequence similarity
+criteria, the enzymes can be grouped into families, one of which has been
+referred to as cellulase family F [3] or glycosyl hydrolase family 10 [4,5]
+(http://expasy.hcuge.ch/cgi-bin/lists?glycosid.txt). This family includes
+fungal and bacterial endo-1,4-beta-xylanases and endo-1,3-beta-xylosidases.
+Alignments of such sequences reveal a number of short conserved regions,
+one of which contains a glutamic acid residue, which in exoglucanase from
+Cellulomonas fimi has been shown to be involved in glycosidic bond cleavage
+[6].
+
+GLHYDRLASE10 is a 4-element fingerprint that provides a signature for
+family 10 glycosyl hyrolases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length (the active site motif encoded
+by PROSITE pattern GLYCOSYL_HYDROL_F10 (PS00591) was not included as it was
+not present in all sequences). Two iterations on OWL24.0 were required to
+reach convergence, at which point a true set comprising 27 sequences was
+identified. Two partial matches were also found, each of which fails to
+make significant matches with 2 motifs.
+
+An update on SPTR37_9f identified a true set of 66 sequences, and 6
+partial matches.

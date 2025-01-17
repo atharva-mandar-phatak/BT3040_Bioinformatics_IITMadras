@@ -1,0 +1,71 @@
+CYTB5RDTASE
+Flavoprotein pyridine nucleotide cytochrome reductases [1] (FPNCR) catalyse
+the interchange of reducing equivalents between one-electron carriers and
+the two-electron-carrying nicotinamide dinucleotides. The enzymes include
+ferredoxin:NADP+ reductases (FNR) [2]; plant and fungal NAD(P)H:nitrate
+reductases [1,3]; NADH:cytochrome b5 reductases [4]; NADPH:P450 reductases;
+NADPH:sulphite reductases; nitric oxide synthases; phthalate dioxygenase 
+reductase; and various other flavoproteins.
+
+NADH:cytochrome b5 reductase (CBR) serves as electron donor for cytochrome
+b5, a ubiquitous electron carrier (see signature CYTOCHROMEB5), thus 
+participating in a variety of metabolic pathways (including steroid 
+biosynthesis, desaturation and elongation of fatty acids, P450-dependent
+reactions, methaemoglobin reduction, etc.). A membrane-bound form of CBR is
+located on the cytosolic side of the endoplasmic reticulum, while a soluble
+form is found in erythrocytes [4]. In the membrane-bound form, the N-
+terminal residue is myristoylated [5]. Deficiency of the erythrocyte form
+causes hereditary methaemoglobinemia [6].
+
+In biological nitrate assimilation, reduction of nitrate to nitrite is
+catalysed by the multidomain redox enzyme NAD(P)H:nitrate reductase (NR).
+Three forms of NR are known: an NADH-specific enzyme found in higher plants
+and algae (EC 1.6.6.1); an NAD(P)H-bispecific enzyme found in higher plants,
+algae and fungi (EC 1.6.6.2); and an NADPH-specific enzyme found only in
+fungi (EC 1.6.6.3) [3]. NR can be divided into 3 structure/function domains:
+the molybdopterin cofactor binds in the N-terminal domain; the central
+region is the cytochrome b domain, which is similar to animal cytochrome b5
+(see signature CYTOCHROMEB5); and the C-terminal portion of the protein is
+occupied by the FAD/NAD(P)H binding domain, which is similar to CBR [3].
+The catalytic reduction of nitrate to nitrite can be viewed as a single
+polypeptide electron transport chain with electron flow from NAD(P)H ->
+FAD -> cytochrome b5 -> molybdopterin -> NO(3). Thus, the flavin domain of
+NR is functionally identical to CBR.  
+
+To date, the 3D-structures of the flavoprotein domain of corn nitrate
+reductase [7] and of pig NADH:cytochrome b5 reductase [8] have been solved.
+The overall fold is similar to that of ferredoxin:NADP+ reductase [2]: 
+the FAD-binding domain (N-terminal) has the topology of an anti-parallel 
+beta-barrel, while the NAD(P)-binding domain (C-terminal) has the topology 
+of a classical pyridine dinucleotide-binding fold (i.e., a central parallel 
+beta-sheet flanked by 2 helices on each side).
+
+CYTB5RDTASE is a 6-element fingerprint that provides a signature for the
+cytochrome b5 reductase family. The fingerprint was derived from an initial
+alignment of 12 sequences - the motifs were drawn from short conserved
+regions spanning virtually the full alignment length - motifs 1-3 lie
+in the beta-barrel domain, and motifs 4-6 in the NAD(P)-binding domain. 
+Motif 2 is involved in binding the isoalloxazine ring of FAD (cf. motif 2
+of FPNCR); motif 4 includes residues involved in binding the diphosphate
+group of the pyridine nucleotide (cf. motif 4 of FPNCR); motif 5
+corresponds to motif 6 of FPNCR; and motif 6 contains a conserved Cys
+residue that may interact with NAD(P)H, and is necessary for efficient
+electron transfer (cf. motif 8 of FPNCR). Two iterations on OWL26.2 were
+required to reach convergence, at which point a true set comprising 47
+sequences was identified. Several partial matches were also found: a
+hypothetical yeast protein (S54059), identified as a putative CBR, matches
+motifs 2-5; 2 hypothetical yeast proteins, similar to NR (YKP0_YEAST and
+S49640), match motifs 2, 4, 5, 6 and 3-6, respectively; NIA_LOTTE is a
+C-terminal fragment of NR matching motifs 4-6; FNR from Anabaena 
+(FENR_ANASO) matches motifs 3-5; 2 [2Fe-2S] ferredoxin/FNR fusion proteins
+(MEMC_METCA and XYLZ_PSEPU) match motifs 3, 4 and 6; plant FNRs 
+(FENR_ORYSA, FENS_ORYSA, FENR_PEA, FENR_VICFA, FENR_MESCR and S53305),
+bacterial [2Fe-2S] ferredoxin/FNR fusion proteins (C48360 and PPU040525),
+and the reductase component of the phenoxybenzoate dioxygenase system 
+(S44172) match motifs 3 and 4; animal P450 reductases (NCPR_RAT, RATNCPR6,
+NCPR_CAVPO, NCPR_HUMAN, NCPR_MOUSE, NCPR_PIG and NCPR_RABIT) match motifs
+4 and 5; cytochrome-c3 hydrogenase (S48834) matches motifs 3 and 5; and
+[2Fe-2S] ferredoxin/FNR fusion protein (PCCBDABC3) matches motifs 4 and 6.
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 23
+partial matches.

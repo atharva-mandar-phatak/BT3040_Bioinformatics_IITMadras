@@ -1,0 +1,33 @@
+SIROHAEM
+Nitrite reductases and bacterial sulphite reductases catalyse the 
+6-electron reduction of nitrite (sulphite) to ammonia (sulphide) [1,2].
+On the basis of physiological function, 2 types of nitrite reductase
+can be defined: the assimilatory type, which is involved in nitrate
+assimilation (denitrification); and the dissimilatory type, which is 
+responsible for nitrate respiration function. Assimilatory nitrite
+reductases contain a prosthetic group termed sirohaem (an iron tetra- 
+hydroporphyrin of the isobacteriochlorin type, with 8 carboxylic acid-
+containing peripheral sidechains), and an iron-sulphur cluster.   
+
+Similarly, there are 2 types of sulphite reductase: the assimilatory type,
+which participate in the synthesis of sulphur-containing compounds; and
+the dissimilatory type, which are terminal reductases in the reduction of
+sulphate. Assimilatory sulphite reductases can catalyse 6-electron
+reduction without the formation of free intermediates, while dissimilatory
+reductases can produce trithionate and thiosulphate in addition to sulphide.
+Both types of reductase contain sirohaem and iron-sulphur clusters [2]. 
+
+A region of sequence similarity, about 80 amino acids long, is shared by 
+assimilatory nitrite [1] and sulphite reductases [3,4]. Four conserved Cys
+residues are suggested to be involved in binding the sirohaem group and/or
+the iron-sulphur center [3].
+
+SIROHAEM is a 2-element fingerprint that provides a signature for the
+sirohaem-Fe binding site. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs include the first and last pair of
+4 conserved Cys residues, respectively - motif 2 includes the region
+encoded by PROSITE pattern NIR_SIR (PS00365). Two iterations on OWL25.3
+were required to reach convergence, at which point a true set comprising
+15 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 45 sequences.

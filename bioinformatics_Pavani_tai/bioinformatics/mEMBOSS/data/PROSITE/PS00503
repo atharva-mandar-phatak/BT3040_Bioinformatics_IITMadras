@@ -1,0 +1,61 @@
+*****************************
+* Pectinesterase signatures *
+*****************************
+
+Pectinesterase (EC 3.1.1.11) (pectin methylesterase)  catalyzes the hydrolysis
+of pectin into pectate and methanol.  In plants, it plays an important role in
+cell wall  metabolism  during  fruit  ripening, cell wall extension and during
+pollen germination.  In  plant  bacterial pathogens such as Erwinia carotovora
+and in  fungal pathogens such as Aspergillus niger, pectinesterase is involved
+in maceration and soft-rotting of plant tissue.
+
+Prokaryotic and  eukaryotic  pectinesterases  share  a few regions of sequence
+similarity [1,2,3].  We  selected  two of these regions as signature patterns.
+The first is based on a region in the N-terminal section of these enzymes;  it
+contains a conserved tyrosine which may play a role in the catalytic mechanism
+[3]. The second pattern corresponds to the conserved sequence around an active
+site aspartate  [4],  an  octapeptide  located  in  the  central part of these
+enzymes.
+
+-Consensus pattern: [GSTNP]-x(6)-[FYVHR]-[IVN]-[KEP]-x-G-[STIVKRQ]-Y-
+                    [DNQKRMV]-[EP]-x(3)-[LIMVA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [IV]-x-G-[STAD]-[LIVT]-D-[FYI]-[IV]-[FSN]-G
+                    [D is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: June 2002 / Text revised.
+
+[ 1] Ray J., Knapp J., Grierson D., Bird C., Schuch W.
+     "Identification and sequence determination of a cDNA clone for tomato
+     pectin esterase."
+     Eur. J. Biochem. 174:119-124(1988).
+     PubMed=3371355
+[ 2] Plastow G.S.
+     "Molecular cloning and nucleotide sequence of the pectin methyl
+     esterase gene of Erwinia chrysanthemi B374."
+     Mol. Microbiol. 2:247-254(1988).
+     PubMed=2837615
+[ 3] Markovic O., Joernvall H.
+     "Disulfide bridges in tomato pectinesterase: variations from
+     pectinesterases of other species; conservation of possible active site
+     segments."
+     Protein Sci. 1:1288-1292(1992).
+     PubMed=1303747
+[ 4] Markovic O., Cederlund E., Griffiths W.J., Lipka T., Joernvall H.
+     "Characterization of carrot pectin methylesterase."
+     Cell. Mol. Life Sci. 59:513-518(2002).
+     PubMed=11964128
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

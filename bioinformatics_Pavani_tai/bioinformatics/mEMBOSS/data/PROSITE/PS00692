@@ -1,0 +1,86 @@
+*******************************************
+* NifH/frxC family signatures and profile *
+*******************************************
+
+Nitrogenase (EC 1.18.6.1) [1] is  the enzyme system responsible for biological
+nitrogen fixation.  Nitrogenase is an oligomeric complex which consists of two
+components: component 1  which  contains  the active site for the reduction of
+nitrogen to ammonia and component 2 (also called the iron protein).
+
+Component 2 is a homodimer of a  protein (gene nifH) which binds a single 4Fe-
+4S iron sulfur cluster [2]. In the  nitrogen fixation  process  nifH  is first
+reduced by a protein  such as ferredoxin;  the reduced  protein then transfers
+electrons to component 1 with the concomitant consumption of ATP.
+
+Crystal  structure  of  the  nitrogenase  iron  protein  has  been solved (see
+<PDB:1NIP>)[2],  and revealed that it is composed of two subunits, each folded
+as  a single alpha/beta type domain and connected at one surface by the 4Fe:4S
+cluster.  The  shape  of the overall fold could be described as either an iron
+butterfly or an iron lung, with the cluster representing the head or the heart
+respectively.  At  the  core  of  each subunit is an eight-stranded beta sheet
+(with  seven  of the eight beta strands oriented in parallel fashion), flanked
+by nine alpha helices. This fold is a common motif found in nucleotide-binding
+proteins [2].
+
+A number of proteins  are  known  to  be  evolutionary related to nifH.  These
+proteins are:
+
+ - Chloroplast  encoded  chlL  (or  frxC) protein [3].  ChlL is encoded on the
+   chloroplast genome of some plant species, its exact function  is not known,
+   but it   could   act   as   an   electron  carrier  in  the  conversion  of
+   protochlorophyllide to chlorophyllide.
+ - Photosynthetic bacteria proteins  bchL  and bchX [4].  These  proteins  are
+   also likely to play a role in chlorophyll synthesis.
+
+There  are a number of conserved regions in the sequence of these proteins: in
+the  N-terminal section there is an ATP-binding site motif 'A' (P-loop) and in
+the  central  section there are two conserved cysteines which have been shown,
+in  nifH,  to  be  the  ligands  of  the 4Fe-4S cluster. We have developed two
+signature  patterns that correspond to the regions around these cysteines, and
+a profile which cover all the conserved regions.
+
+-Consensus pattern: E-x-G-G-P-x(2)-[GA]-x-G-C-[AG]-G
+                    [C binds the iron-sulfur center]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: D-x-L-G-D-V-V-C-G-G-F-[AGSP]-x-P
+                    [C binds the iron-sulfur center]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2004 / Text revised and profile added.
+
+[ 1] Pau R.N.
+     "Nitrogenases without molybdenum."
+     Trends Biochem. Sci. 14:183-186(1989).
+     PubMed=2672439
+[ 2] Georgiadis M.M., Komiya H., Chakrabarti P., Woo D., Kornuc J.J.,
+     Rees D.C.
+     "Crystallographic structure of the nitrogenase iron protein from
+     Azotobacter vinelandii."
+     Science 257:1653-1659(1992).
+     PubMed=1529353
+[ 3] Fujita Y., Takahashi Y., Kohchi T., Ozeki H., Ohyama K., Matsubara H.
+     "Identification of a novel nifH-like (frxC) protein in chloroplasts of
+     the liverwort Marchantia polymorpha."
+     Plant Mol. Biol. 13:551-561(1989).
+     PubMed=2491672
+[ 4] Burke D.H., Alberti M., Hearst J.E.
+     "The Rhodobacter capsulatus chlorin reductase-encoding locus, bchA,
+     consists of three genes, bchX, bchY, and bchZ."
+     J. Bacteriol. 175:2407-2413(1993).
+     PubMed=8468299
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

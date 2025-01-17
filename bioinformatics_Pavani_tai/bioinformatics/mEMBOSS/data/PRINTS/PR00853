@@ -1,0 +1,46 @@
+XPGRADSUPER
+Defects in DNA repair proteins can give rise, in humans, to the autosomal
+recessive disorders xeroderma pigmentosum (XP) and Cockayne's syndrome [1,2].
+XP is characterised by a high incidence of sunlight-induced skin cancer,
+the effect of skin-cell hypersensitivity to UV resulting from defects in
+the nucleotide excision pathway. Seven XP complementation groups have
+been identified: XP-A to XP-G. 
+
+XP-G is one of the most rare and phenotypically heterogeneous of XP, showing
+anything from slight to extreme dysfunction in DNA excision repair [3,4].
+XP-G can be corrected by a 133kDa nuclear protein, XPGC [1]. XPGC is an 
+acidic protein that confers normal UV resistance in expressing cells [4].
+It is a magnesium-dependent, single-strand DNA endonuclease that makes
+structure-specific endonucleolytic incisions in a DNA substrate containing
+a duplex region and single-stranded arms [4,5]. XPGC cleaves one strand of
+the duplex at the border with the single-stranded region [5].
+
+XPG belongs to a family of proteins that includes RAD2 from budding yeast
+and rad13 from fission yeast, which are single-stranded DNA endonucleases
+[5,6]; mouse and human FEN-1, a structure-specific endonuclease; RAD2 from 
+fission yeast and RAD27 from budding yeast; fission yeast exo1, a 5'->3'
+double-stranded DNA exonuclease that may act in a pathway that corrects
+mismatched base pairs; yeast DHS1, and yeast DIN7.
+
+Sequence analysis reveals that similarities within the family are largely
+confined to two well-conserved domains, the first of which is located at
+the N-terminal extremity (the N-region), the second lying towards the 
+C-terminus (the I-region). The I-region contains a perfectly conserved
+hexapeptide, EAEAQC, the Glu and Cys residues of which may be involved in
+the excision repair mechanism.
+
+XPGRADSUPER is a 5-element fingerprint that provides a signature for the
+XPG/RAD superfamily. The fingerprint was derived from an initial alignment
+of 17 sequences: the motifs were drawn from short conserved regions within 
+the N- and C-terminal portions of the alignment - motifs 1 and 2 lie within
+the N-domain, motif 2 including the region encoded by PROSITE pattern XPG_1
+(PS00841); and motifs 3-5 lie in the I domain, motif 3 including the region
+encoded by PROSITE pattern XPG_2 (PS00842), which contains a putative
+catalytic core pentapeptide. Two iterations on OWL30.0 were required to 
+reach convergence, at which point a true set comprising 23 sequences was
+identified. Several partial matches were also found: CELT12A25 is a
+C.elegans sequence that fails to match the first 2 motifs; and YA31_SCHPO,
+YEN1_YEAST and SCU13615 are yeast proteins that match only 2 motifs.
+
+An update on SPTR37_9f identified a true set of 32 sequences, and 2
+partial matches.

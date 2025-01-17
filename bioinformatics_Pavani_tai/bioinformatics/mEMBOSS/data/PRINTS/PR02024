@@ -1,0 +1,29 @@
+AQUAPORIN11
+Aquaporins form water-specific channels that provide the plasma membranes 
+of red cells and kidney proximal tubules with high permeability to water,
+thereby permitting water to move in the direction of an osmotic gradient.
+Aquaporin amino acid sequences contain two tandem repeats, each containing
+three transmembrane (TM) domains and a pore-forming loop, with the signature
+motif Asn-Pro-Ala (NPA).
+
+Aquaporin-11 (AQP11) and aquaporin-12 belong to a new aquaporin subfamily
+termed superaquaporins [1]. AQP11 is found in the endoplasmic reticulum and
+has been connected to policystic kidney disease through knock-out
+experiments [2]. It has also been shown that although the characteristic
+NPA motif may not be fully conserved in both tandem repeats, the molecule
+nevertheless preserves its water-transport function [3].
+
+AQUAPORIN11 is a 13-element fingerprint that provides a signature for 
+aquaporin-11. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 1 lies in the cytoplasmic N-terminal region; motif
+2 encodes the first putative TM domain; motif 3 spans the extracellular 
+region between TM domains 1 and 2; motif 4 spans the end of the second TM
+domain and part of the cytoplasmic region between TM domains 2 and 3; motif
+5 spans the rest of this region and part of the third TM domain; motifs 6-10
+reside in the large extracellular region between TM domains 3 and 4; motif
+11 spans part of TM domain 4 and most of the following cytoplasmic region;
+motif 12 lies in the extracellular region between TM domains 5 and 6; and
+motif 13 spans the end of TM domain 6 and part of the cytoplasmic C-terminal
+region. A single iteration on SPTR57_40f was required to reach convergence,
+no further sequences being identified beyond the starting set.

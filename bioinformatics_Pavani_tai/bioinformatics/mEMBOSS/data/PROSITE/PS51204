@@ -1,0 +1,55 @@
+**********************
+* HSA domain profile *
+**********************
+
+The helicase/SANT-associated (HSA) domain is a predicted DNA-binding domain of
+~75 amino  acids  [1],  which  is  found  in the eukaryotic SRCAP/p400/DOM and
+SNF2/brahma families [2]. While each family has the core sequences that define
+the HSA  domain,  they  each  also  have additional sequences that distinguish
+these families  from one another. For example, the sequence HWDY(L/C)EEEM(Q/V)
+is found  in the SRCAP/p400/DOM family, whereas the sequence HQE(Y/F)LNSILQ is
+found in  the  SNF2  /brahma  family [2]. In addition to the SANT and helicase
+(see <PDOC51192>)  domains,  the  HSA domain is also found in association with
+bromo (see <PDOC00550>) [1].
+
+Some proteins known to contain a HSA domain are listed below [2]:
+
+ - Yeast transcription regulatory protein SWI2/SNF2.
+ - Drosophila brahma.
+ - Mammalian SNF2-alpha (BRM).
+ - Mammalian SNF2-beta (BRG).
+ - Yeast  SNF2-related CBP-activating protein (SRCAP), a coactivator for CREB-
+   and nuclear hormone receptor-mediated transcriptional activation.
+ - Drosophila  domino  (DOM),  the  homolog  of  SCRAP.  It  is  essential for
+   organismal viability  and  has  been  implicated  in several aspects of fly
+   development, including   hematopoeisis,   wing   development,   and  female
+   fertility.
+ - Mammalian SRCAP.
+ - Mammalian SWI2/SNF2-like ATPase-containing p400/Domino.
+
+The profile we developed covers the entire HSA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2006 / First entry.
+
+[ 1] Doerks T., Copley R.R., Schultz J., Ponting C.P., Bork P.
+     "Systematic identification of novel protein domain families associated
+     with nuclear functions."
+     Genome Res. 12:47-56(2002).
+     PubMed=11779830; DOI=10.1101/
+[ 2] Eissenberg J.C., Wong M., Chrivia J.C.
+     "Human SRCAP and Drosophila melanogaster DOM are homologs that
+     function in the notch signaling pathway."
+     Mol. Cell. Biol. 25:6559-6569(2005).
+     PubMed=16024792; DOI=10.1128/MCB.25.15.6559-6569.2005
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

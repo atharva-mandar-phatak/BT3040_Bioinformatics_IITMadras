@@ -1,0 +1,66 @@
+*******************************
+* Chaperonins cpn10 signature *
+*******************************
+
+Chaperonins [1,2] are  proteins  involved in  the  folding  of proteins or the
+assembly of  oligomeric  protein  complexes.    They  seem  to    assist other
+polypeptides in    maintaining  or assuming  conformations  which permit their
+correct assembly into oligomeric structures.  They  are found in abundance  in
+prokaryotes,  chloroplasts  and  mitochondria.   Chaperonins  form  oligomeric
+complexes and  are  composed  of  two  different  types  of  subunits: a 60 Kd
+protein, known  as  cpn60  (groEL  in  bacteria) and a 10 Kd protein, known as
+cpn10 (groES in bacteria).
+
+The cpn10  protein binds to cpn60  in the presence of MgATP and suppresses the
+ATPase activity of the latter.  Cpn10  is  a  protein  of about 100 amino acid
+residues whose sequence is well conserved in bacteria, vertebrate mitochondria
+and plants chloroplast [3,4]. Cpn10 assembles as an heptamer that forms a dome
+[5]. As  a  signature pattern for cpn10 we selected a region located in the N-
+terminal section of the protein.
+
+-Consensus pattern: [LIVMFY]-x-P-[ILT]-x-[DEN]-[KR]-[LIVMFA](3)-[KREQS]-
+                    x(8,9)-[SG]-x-[LIVMFY](3)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 bacterial sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This  pattern  is  found  twice  in the plant chloroplast protein which
+ consist of the tandem repeat of a cpn10 domain.
+
+-Expert(s) to contact by email:
+           Georgopoulos C.; georgopo@medecine.unige.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ellis R.J., van der Vies S.M.
+     "Molecular chaperones."
+     Annu. Rev. Biochem. 60:321-347(1991).
+     PubMed=1679318; DOI=10.1146/annurev.bi.60.070191.001541
+[ 2] Zeilsta-Ryalls J., Fayet O., Georgopoulos C.
+     Annu. Rev. Microbiol. 45:301-325(1991).
+[ 3] Hartman D.J., Hoogenraad N.J., Condron R., Hoj P.B.
+     "Identification of a mammalian 10-kDa heat shock protein, a
+     mitochondrial chaperonin 10 homologue essential for assisted folding
+     of trimeric ornithine transcarbamoylase in vitro."
+     Proc. Natl. Acad. Sci. U.S.A. 89:3394-3398(1992).
+     PubMed=1348860
+[ 4] Bertsch U., Soll J., Seetharam R., Viitanen P.V.
+     "Identification, characterization, and DNA sequence of a functional
+     'double' groES-like chaperonin from chloroplasts of higher plants."
+     Proc. Natl. Acad. Sci. U.S.A. 89:8696-8700(1992).
+     PubMed=1356267
+[ 5] Hunt J.F., Weaver A.J., Landry S.J., Gierasch L., Deisenhofer J.
+     "The crystal structure of the GroES co-chaperonin at 2.8 A
+     resolution."
+     Nature 379:37-45(1996).
+     PubMed=8538739
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

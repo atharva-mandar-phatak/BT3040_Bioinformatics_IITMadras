@@ -1,0 +1,69 @@
+******************************
+* Adenylate kinase signature *
+******************************
+
+Adenylate kinase  (EC 2.7.4.3) (AK) [1]  is  a  small  monomeric  enzyme  that
+catalyzes the reversible transfer of MgATP to AMP (MgATP + AMP = MgADP + ADP).
+In mammals there are three different isozymes:
+
+ - AK1 (or myokinase), which is cytosolic.
+ - AK2, which is located in the outer compartment of mitochondria.
+ - AK3 (or GTP:AMP phosphotransferase),  which is located in the mitochondrial
+   matrix and which uses MgGTP instead of MgATP.
+
+The sequence of  AK has also  been  obtained from different  bacterial species
+and from plants and fungi.
+
+Two other enzymes have been found to be evolutionary related to AK. These are:
+
+ - Yeast uridylate kinase  (EC 2.7.4.-) (UK)  (gene URA6) [2]  which catalyzes
+   the transfer of a phosphate group from ATP to UMP to form UDP and ADP.
+ - Slime mold UMP-CMP kinase (EC 2.7.4.14) [3] which catalyzes the transfer of
+   a phosphate group from ATP to either CMP or UMP to form CDP or UDP and ADP.
+
+Several regions of  AK  family enzymes  are well conserved, including the ATP-
+binding domains.  We have  selected the  most conserved  of  all  regions as a
+signature for this type  of  enzyme.   This  region includes  an aspartic acid
+residue that is  part of the  catalytic  cleft  of  the  enzyme  and  that  is
+involved in  a salt  bridge.    It  also  includes an  arginine  residue whose
+modification leads to inactivation of the enzyme.
+
+-Consensus pattern: [LIVMFYWCA]-[LIVMFYW](2)-D-G-[FYI]-P-R-x(3)-[NQ]
+                    [The R is an active site residue]
+                    [The D is involved in a salt bridge]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Schistosoma mansoni (blood fluke) and Yersinia enterocolitica AK.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Archaebacterial AK do not belong to this family [4].
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Schulz G.E.
+     "Structural and functional relationships in the adenylate kinase
+     family."
+     Cold Spring Harb. Symp. Quant. Biol. 52:429-439(1987).
+     PubMed=2841070
+[ 2] Liljelund P., Sanni A., Friesen J.D., Lacroute F.
+     "Primary structure of the S. cerevisiae gene encoding uridine
+     monophosphokinase."
+     Biochem. Biophys. Res. Commun. 165:464-473(1989).
+     PubMed=2556145
+[ 3] Wiesmueller L., Noegel A.A., Barzu O., Gerisch G., Schleicher M.
+     J. Biol. Chem. 265:6339-6345(1990).
+[ 4] Kath T.H., Schmid R., Schaefer G.
+     "Identification, cloning, and expression of the gene for adenylate
+     kinase from the thermoacidophilic archaebacterium Sulfolobus
+     acidocaldarius."
+     Arch. Biochem. Biophys. 307:405-410(1993).
+     PubMed=8274029
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

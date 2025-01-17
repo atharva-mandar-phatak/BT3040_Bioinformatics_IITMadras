@@ -1,0 +1,68 @@
+**************************************************
+* Arthropod hemocyanins / insect LSPs signatures *
+**************************************************
+
+Hemocyanins are copper-containing  oxygen  carriers occurring freely dissolved
+in the hemolymph of many molluscs  and  arthropods [1].  Arthropod hemocyanins
+consist  of  hexamer or  multi-hexamers with  subunits of about 75 Kd. Each of
+these subunits binds two copper ions.
+
+Larval storage proteins (LSP) [2] are proteins  from the hemolymph of insects,
+which may serve as  a  store of  amino acids  for synthesis of adult proteins.
+There are two classes of LSP's: arylphorins,  which are rich in aromatic amino
+acids, and methionine-rich LSP's.  LSP's forms hexameric complexes.  LSP's are
+structurally related to arthropod hemocyanins.
+
+In the lepidopteran Trichoplusia ni  a  protein  has  been  found [3] which is
+associated with larval metamorphosis.  This  protein,  which  is called acidic
+juvenile hormone-suppressible protein 1 (AJSP-1) is  also structurally related
+to arthropod hemocyanins.
+
+As signature patterns for these  proteins  we selected  two conserved regions,
+the first  of  these  regions is located  in the  N-terminal  section of these
+proteins  and  include a conserved  histidine  residue  which, in hemocyanins,
+binds a copper atom.  The second pattern is located in the central part of the
+protein.
+
+-Consensus pattern: Y-[FYW]-x-E-D-[LIVM]-x(2)-N-x(6)-H-x(3)-P
+                    [H is a copper ligand in hemocyanins]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ most LSPs.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: T-x(2)-R-D-P-x-[FY]-[FYW]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ one LSP.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Note: See  also  the  pattern  for  the  copper B binding site  of tyrosinase
+ <PDOC00398>;  this  pattern  will  also  pick  up  all arthropod and  mollusc
+ hemocyanins.
+
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Linzen B.
+     "Blue blood: structure and evolution of hemocyanin."
+     Naturwissenschaften 76:206-211(1989).
+     PubMed=2664531
+[ 2] Willott E., Wang X.-Y., Wells M.A.
+     "cDNA and gene sequence of Manduca sexta arylphorin, an aromatic amino
+     acid-rich larval serum protein. Homology to arthropod hemocyanins."
+     J. Biol. Chem. 264:19052-19059(1989).
+     PubMed=2808410
+[ 3] Jones G., Brown N., Manczak M., Hiremath S., Kafatos F.C.
+     "Molecular cloning, regulation, and complete sequence of a
+     hemocyanin-related, juvenile hormone-suppressible protein from insect
+     hemolymph."
+     J. Biol. Chem. 265:8596-8602(1990).
+     PubMed=2341396
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

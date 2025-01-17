@@ -1,0 +1,62 @@
+****************************************************
+* General diffusion Gram-negative porins signature *
+****************************************************
+
+The  outer membrane  of  Gram-negative bacteria acts as a molecular filter for
+hydrophilic compounds.  Proteins, known as porins [1], are responsible for the
+'molecular sieve' properties of the outer membrane.  Porins  form large water-
+filled channels which allows the  diffusion  of hydrophilic molecules into the
+periplasmic space. Some porins form general diffusion channels that allows any
+solutes  up to  a certain  size (that size is known as the exclusion limit) to
+cross the membrane, while other porins  are  specific for a solute and contain
+a binding site for that solute inside the pores  (these are known as selective
+porins).  As porins are the major outer membrane proteins,  they also serve as
+receptor sites for the binding of phages and bacteriocins.
+
+General diffusion porins generally assemble as  trimer in the membrane and the
+transmembrane core of these proteins  is composed  exclusively of beta strands
+[2]. It has been shown [3] that a  number  of general porins are  evolutionary
+related, these porins are:
+
+ - Enterobacteria phoE.
+ - Enterobacteria ompC.
+ - Enterobacteria ompF.
+ - Enterobacteria nmpC.
+ - Bacteriophage PA-2 LC.
+ - Neisseria PI.A.
+ - Neisseria PI.B.
+
+As a  signature  pattern  we  selected  a  conserved  region,  located  in the
+C-terminal part of these proteins, which spans two putative transmembrane beta
+strands.
+
+-Consensus pattern: [LIVMFY]-x(2)-G-x(2)-Y-x-F-x-K-x(2)-[SN]-[STAV]-[LIVMFYW]-
+                    V
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Benz R., Bauer K.
+     "Permeation of hydrophilic molecules through the outer membrane of
+     gram-negative bacteria. Review on bacterial porins."
+     Eur. J. Biochem. 176:1-19(1988).
+     PubMed=2901351
+[ 2] Jap B.K., Walian P.J.
+     "Biophysics of the structure and function of porins."
+     Q. Rev. Biophys. 23:367-403(1990).
+     PubMed=2178269
+[ 3] Jeanteur D., Lakey J.H., Pattus F.
+     "The bacterial porin superfamily: sequence alignment and structure
+     prediction."
+     Mol. Microbiol. 5:2153-2164(1991).
+     PubMed=1662760
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

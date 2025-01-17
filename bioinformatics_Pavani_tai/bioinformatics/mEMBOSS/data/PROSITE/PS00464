@@ -1,0 +1,50 @@
+***********************************
+* Ribosomal protein L22 signature *
+***********************************
+
+Ribosomal protein L22 is one of the proteins from the large ribosomal subunit.
+In Escherichia coli, L22 is known to bind 23S rRNA.  It belongs to a family of
+ribosomal proteins  which,  on  the  basis  of  sequence similarities [1,2,3],
+groups:
+
+ - Eubacterial L22.
+ - Algal and plant chloroplast L22 (in legumes L22  is  encoded in the nucleus
+   instead of the chloroplast).
+ - Cyanelle L22.
+ - Archaebacterial L22.
+ - Mammalian L17.
+ - Plant L17.
+ - Yeast YL17.
+
+As a  signature  pattern,  we  selected  a  conserved region located in the C-
+terminal section of these proteins.
+
+-Consensus pattern: [RKQN]-x(2)-{G}-x-[RH]-[GAS]-x-G-[KRQS]-x(8)-{L}-[HDN]-
+                    [LIVM]-{A}-[LIVMS]-x-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gantt J.S., Baldauf S.L., Calie P.J., Weeden N.F., Palmer J.D.
+     "Transfer of rpl22 to the nucleus greatly preceded its loss from the
+     chloroplast and involved the gain of an intron."
+     EMBO J. 10:3073-3078(1991).
+     PubMed=1915281
+[ 2] Madsen L.H., Kreiberg J.D., Gausing K.
+     "A small gene family in barley encodes ribosomal proteins homologous
+     to yeast YL17 and L22 from archaebacteria, eubacteria, and
+     chloroplasts."
+     Curr. Genet. 19:417-422(1991).
+     PubMed=1913880
+[ 3] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

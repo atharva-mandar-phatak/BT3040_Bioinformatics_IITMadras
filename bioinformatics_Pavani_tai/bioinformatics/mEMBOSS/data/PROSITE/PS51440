@@ -1,0 +1,61 @@
+****************************************************************
+* Triosephosphate isomerase (TIM) family signature and profile *
+****************************************************************
+
+Triosephosphate isomerase (EC 5.3.1.1) (TIM) [1] is the glycolytic enzyme that
+catalyzes  the  reversible  interconversion  of glyceraldehyde 3-phosphate and
+dihydroxyacetone  phosphate.  TIM plays an important role in several metabolic
+pathways  and  is  essential for efficient energy production. It is present in
+eukaryotes  as  well  as in prokaryotes. TIM is a dimer of identical subunits,
+each of which is made up of about 250 amino-acid residues. A glutamic acid and
+a histidine residue are involved in the catalytic mechanism [2,3].
+
+The tertiary structure of TIM has eight beta/alpha motifs folded into a barrel
+structure  (see  <PDB:1NEY>).  The  TIM barrel fold occurs ubiquitously and is
+found  in  numerous  other  enzymes that can be involved in energy metabolism,
+macromolecule metabolism, or small molecule metabolism [4].
+
+The sequence around the active site residue is strongly conserved in all known
+TIM's  and can be used as a signature pattern for this type of enzyme. We also
+developed a profile that covers the entire TIM structure.
+
+-Consensus pattern: [AVG]-[YLV]-E-P-[LIVMEPKST]-[WYEAS]-[SAL]-[IV]-[GN]-
+                    [TEKDVS]-[GKNAD]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2009 / Text revised; profile added.
+
+[ 1] Lolis E., Alber T., Davenport R.C., Rose D., Hartman F.C., Petsko G.A.
+     "Structure of yeast triosephosphate isomerase at 1.9-A resolution."
+     Biochemistry 29:6609-6618(1990).
+     PubMed=2204417
+[ 2] Knowles J.R.
+     "Enzyme catalysis: not different, just better."
+     Nature 350:121-124(1991).
+     PubMed=2005961; DOI=10.1038/350121a0
+[ 3] Jogl G., Rozovsky S., McDermott A.E., Tong L.
+     "Optimal alignment for enzymatic proton transfer: structure of the
+     Michaelis complex of triosephosphate isomerase at 1.2-A resolution."
+     Proc. Natl. Acad. Sci. U.S.A. 100:50-55(2003).
+     PubMed=12509510; DOI=10.1073/pnas.0233793100
+[ 4] Nagano N., Orengo C.A., Thornton J.M.
+     "One fold with many functions: the evolutionary relationships between
+     TIM barrel families based on their sequences, structures and
+     functions."
+     J. Mol. Biol. 321:741-765(2002).
+     PubMed=12206759
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

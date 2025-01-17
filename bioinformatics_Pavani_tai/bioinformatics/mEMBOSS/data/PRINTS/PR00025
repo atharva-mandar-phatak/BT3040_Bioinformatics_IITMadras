@@ -1,0 +1,41 @@
+ANTENNAPEDIA
+Organisms develop according to a precise program that specifies the body
+plan in intricate detail, and also determines the timing of developmental
+events [1]. The highly complex nature of these events has suggested that 
+the process may be regulated by proteins capable of controlling the 
+temporal and spatial expression of many structural genes. The genes for 
+this process were first discovered as homeotic mutations in Drosophila [2],
+and many similar genes are now known in a wide variety of organisms.
+
+Proteins that regulate developmental gene expression are nuclear proteins 
+[3] that contain a conserved domain known as the homeobox, the flanking 
+sequences of which differ considerably among different proteins. The homeo 
+domain includes the helix-turn-helix (HTH) motif, which binds to DNA in a 
+sequence-specific manner to exert a temporal and spatial regulation of 
+developmental gene expression [4]. The second helix of this motif binds 
+to DNA via a number of hydrogen bonds and hydrophobic interactions, which
+occur between specific side chains and the exposed bases and thymine methyl
+groups within the major groove. The first helix may help to stabilise the 
+structure [5].
+
+Many homeodomain-containing proteins have now been sequenced and, while
+the homeodomain flanking regions vary, characteristic conserved sequences
+upstream of the domain allow the proteins to be grouped into 3 subfamilies:
+the so-called antennapedia, engrailed and 'paired box' proteins. Antenna-
+pedia, which regulates the formation of leg structures in Drosophila, was 
+one of the first homeotic genes studied and led to the discovery of the 
+homeobox domain. Over expression of this gene in the wrong segment of the 
+fruit fly can lead to the formation of leg structures in these segments. 
+For example, over expression in the head segment can lead to the formation 
+of legs instead of antennae (hence the name antennapedia). The sequences of
+the antennapedia proteins contain a conserved hexapeptide 5-16 residues 
+upstream of the homeobox, the specific function of which is unclear.
+
+ANTENNAPEDIA is a 2-element fingerprint that provides a signature for the
+antennapedia-type homeobox proteins. The fingerprint was derived from an 
+initial alignment of 10 sequences: motif 1 encodes the conserved hexa-
+peptide (cf. PROSITE pattern PS00032)). Five iterations on OWL20.0 were
+required to reach convergence, at which point a true set comprising 79 
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 140 sequences.

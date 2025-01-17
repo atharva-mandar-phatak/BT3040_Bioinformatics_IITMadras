@@ -1,0 +1,48 @@
+*******************************
+* HD Cas3-type domain profile *
+*******************************
+
+Clustered regularly  interspaced  short  palindromic repeats (CRISPRs) and Cas
+proteins represents  an  adaptative  microbial immunity system against viruses
+and plasmids.  Cas3  proteins  have  been  proposed  to play a key role in the
+CRISPR mechanism  through  the direct cleavage of invasive nucleic acids. Cas3
+proteins are  predicted  to  contain the DExD/H-box helicase (see <PDOC51192>)
+and HD  domains, which can be covalently fused (Cas3) or encoded as individual
+proteins (Cas3'  or  Cas3'', respectively). The HD domain proteins represent a
+large group    of    enzymes,    which    catalyze    phosphomonoesterase   or
+phosphodiesterase reactions   on   a   broad  range  of  substrates  including
+nucleotides and   nucleic   acids  and  function  primarily  in  nucleic  acid
+metabolism and  signal  transduction.  The  Cas3-type  HD  domain has nuclease
+activity against ssDNA and ssRNA [1,2].
+
+The globular  Cas3-type  HD  domain is composed of eigth alpha-helices and two
+short beta-strands connected by extended loops (see <PDB:3S4L>) [2].
+
+The profile we developed covers the entire Cas3-type HD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2012 / First entry.
+
+[ 1] Sinkunas T., Gasiunas G., Fremaux C., Barrangou R., Horvath P.,
+     Siksnys V.
+     "Cas3 is a single-stranded DNA nuclease and ATP-dependent helicase in
+     the CRISPR/Cas immune system."
+     EMBO J. 30:1335-1342(2011).
+     PubMed=21343909; DOI=10.1038/emboj.2011.41
+[ 2] Beloglazova N., Petit P., Flick R., Brown G., Savchenko A.,
+     Yakunin A.F.
+     "Structure and activity of the Cas3 HD nuclease MJ0384, an effector
+     enzyme of the  CRISPR interference."
+     EMBO J. 30:4616-4627(2011).
+     PubMed=22009198; DOI=10.1038/emboj.2011.377
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

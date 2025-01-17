@@ -1,0 +1,79 @@
+VNEBNERGLAND
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration, and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The 
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, von Ebner's gland proteins, alpha-1-acid glycoproteins, tick 
+histamine binding proteins and the nitrophorins.
+
+Von Ebner's gland protein (VEGP), a protein highly expressed by the small 
+acinar von Ebner's salivary glands of the tongue, but not in the secretory 
+duct, undertakes the selective binding of sapid chemicals and their transport 
+to taste receptors [5] in salivary secretions. VEGP can help to clear the 
+bitter-tasting compound denatonium benzoate in vivo [6], suggesting a 
+possible clearance function in taste reception, although it fails to bind
+other bitter compounds [7]. VEGP is also secreted by the lachrymal gland 
+into tear fluid, where, historically, it has been called tear prealbumin [8].
+Together with lysozyme and lactoferrin, VEGP forms 70-80% of total tear 
+protein, although diseases affecting the lachrymal gland decrease this. Tear
+VEGP has been suggested to enhance the bactericial activity of lysozyme and
+to have an anti-microbial function, perhaps through transported compounds
+with anti-bacterial properties [9]. VEGP has been shown to bind retinol [8],
+and can be co-extracted with fatty acids, particularly stearate and 
+palmitate, phospholipids, glycolipids and fatty alcohols (including 
+cholesterol) [9]. VEGP may act as a transporter of lipids, synthesised in 
+the dorsal, or meibomian, glands of the eyelid, to the thin film they form 
+at the tear-fluid/air interface. 
+
+Recently, two lipocalins, specifically expressed in the posterior and
+vomeronasal glands of the mouse nasal septum, have been identified and were
+suggested to act in the chemoreception of, as yet-unidentified, small 
+lipophilic pheromones [10]. One of these proteins was immunolocalised on the
+vomeronasal sensory epithelium, the site of primary pheromone reception, and
+the immunoreactivity was greatest during periods when contact between 
+animals plays an important role in modulating behaviour.
+
+Canis familiaris allergen 1 (Can f1) is the major allergen present in dog
+dander and is produced by tongue epithelial tissue [11]. Recombinant forms
+of Can f1 have been tested for immunoglobulin E (IgE) reactivity. Among dog-
+allergic subjects, 45% had IgE directed exclusively to rCan f1, and 25% had
+IgE to both rCan f1 and rCan f2. In addition, both recombinant proteins were
+able to cross-link IgE and release histamine from peripheral blood 
+leucocytes in vitro. 
+
+VNEBNERSGLAND is a 6-element fingerprint that provides a signature for 
+von Ebner's gland proteins. The fingerprint was derived from an initial 
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections 
+that characterise the von Ebner's gland proteins but distinguish them from
+the rest of lipocalin superfamily  - motif 1 includes the GxW triplet that
+forms part of the first beta-strand (cf. LIPOCALIN signature motif 1 and 
+PROSITE pattern LIPOCALIN (PS00213)); motif 5 spans the region encoded by 
+LIPOCALIN signature motif 2, which contains a TDY triplet that lies in a 
+conserved part of the barrel involving the 6th and 7th beta-strands and 
+the loop between them; and motif 6 spans the region encoded by LIPOCALIN 
+signature motif 3, which contains an Arg (sometimes a Lys) residue that
+lies in a structurally conserved region involving the final strand and
+part of the loop linking it to the C-terminal alpha-helix. Two iterations 
+on SPRT37_10f were required to reach convergence, at which point a true set 
+comprising 8 sequences was identified.

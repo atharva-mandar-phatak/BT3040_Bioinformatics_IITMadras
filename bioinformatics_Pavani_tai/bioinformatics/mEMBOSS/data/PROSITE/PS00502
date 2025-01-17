@@ -1,0 +1,66 @@
+*********************************
+* Polygalacturonase active site *
+*********************************
+
+Polygalacturonase (EC 3.2.1.15)  (PG)  (pectinase) [1,2] catalyzes  the random
+hydrolysis  of 1,4-alpha-D-galactosiduronic  linkages  in  pectate  and  other
+galacturonans. In fruit,  polygalacturonase  plays  an  important role in cell
+wall metabolism during ripening. In plant bacterial pathogens  such as Erwinia
+carotovora or   Pseudomonas   solanacearum   and   fungal  pathogens  such  as
+Aspergillus niger, polygalacturonase  is  involved  in  maceration  and  soft-
+rotting of plant tissue.
+
+Exo-poly-alpha-D-galacturonosidase (EC 3.2.1.82) (exoPG) [3] hydrolyzes peptic
+acid from the non-reducing end, releasing digalacturonate.
+
+Prokaryotic, eukaryotic   PG  and  exoPG  share  a  few  regions  of  sequence
+similarity. We selected the best conserved of these regions, which is centered
+on a  conserved  histidine  most  probably involved in the catalytic mechanism
+[4].
+
+-Consensus pattern: [GSDENKRH]-x(2)-[VMFC]-x(2)-[GS]-H-G-[LIVMAG]-x(1,2)-
+                    [LIVM]-G-S
+                    [H may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family 28  in  the  classification of glycosyl
+ hydrolases [5,E1].
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Ruttowski E., Labitzke R., Khanh N.Q., Loeffler F., Gottschalk M.,
+     Jany K.-D.
+     Biochim. Biophys. Acta 1087:104-106(1990).
+[ 2] Huang J.H., Schell M.A.
+     "DNA sequence analysis of pglA and mechanism of export of its
+     polygalacturonase product from Pseudomonas solanacearum."
+     J. Bacteriol. 172:3879-3887(1990).
+     PubMed=2193922
+[ 3] He S.Y., Collmer A.
+     "Molecular cloning, nucleotide sequence, and marker exchange
+     mutagenesis of the exo-poly-alpha-D-galacturonosidase-encoding pehX
+     gene of Erwinia chrysanthemi EC16."
+     J. Bacteriol. 172:4988-4995(1990).
+     PubMed=2168372
+[ 4] Bussink H.J.D., Buxton F.P., Visser J.
+     "Expression and sequence comparison of the Aspergillus niger and
+     Aspergillus tubigensis genes encoding polygalacturonase II."
+     Curr. Genet. 19:467-474(1991).
+     PubMed=1878999
+[ 5] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,43 @@
+GABAB1RECPTR
+GABA (gamma-amino-butyric acid) is the principal inhibitory neurotransmitter
+in the brain, and signals through ionotropic (GABA(A)/GABA(C)) and
+metabotropic (GABA(B)) receptor systems [1]. The GABA(B) receptors have 
+been cloned, and photoaffinity labelling experiments suggest that they
+correspond to two highly conserved receptor forms in the vertebrate nervous
+system [1]. 
+
+GABA(B) receptors are involved in the fine tuning of inhibitory synaptic
+transmission [2]. Presynaptic receptors inhibit neurotransmitter release by
+down-regulating high-voltage activated Ca2+ channels, while postsynaptic 
+receptors decrease neuronal excitability by activating a prominent inwardly
+rectifying K+ (Kir) conductance that underlies the late inhibitory post-
+synaptic potentials [2]. GABA(B) receptors negatively couple to adenylyl
+cyclase and show sequence similarity to the metabotropic receptors for the
+excitatory neurotransmitter L-glutamate. 
+
+A new subtype of the GABA(B) receptor (GABA(B)R2) has been identified by
+EST database mining [3]. Yeast two-hybrid screening has shown that the new
+subtype forms heterodimers with GABA(B)R1 via an interaction at their
+intracellular C-terminal tails [3]. On expression with GABA(B)R2 in HEK293T
+cells, GABA(B)R1 is terminally glycosylated and expressed at the cell 
+surface. Co-expression of the receptors produces a fully functional GABA(B)
+receptor at the cell surface; this receptor binds GABA with a high affinity
+equivalent to that of the endogenous brain receptor [3]. Such results
+indicate that, in vivo, functional brain GABA(B) receptors may be hetero-
+dimers of GABA(B)R1 and GABA(B)R2.
+
+Neurophysiological and pharmacological studies point to a major role of the
+GABA(B) receptor in the epileptogenesis of absence seizures [4]. Using in
+situ hybridisation, the gene encoding the human GABA(B) type 1 receptor has
+been mapped to chromosome 6p21.3, in the vicinity of a susceptibility locus
+(EJM1) for idiopathic generalised epilepsies, identifying a candidate gene
+for inherited forms of epilepsy [2,4]. 
+
+GABAB1RECPTR is a 10-element fingerprint that provides a signature for type
+1 GABA(B) receptors. The fingerprint was derived from an initial alignment 
+of 6 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that
+characterise the type 1 receptors but distinguish them from the rest of the
+GABA(B) receptor family. Two iterations on SPTR37_10f were required to 
+reach convergence, at which point a true set comprising 9 sequences was 
+identified. 

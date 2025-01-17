@@ -1,0 +1,33 @@
+ALDKETRDTASE
+The aldo-keto reductase family includes a number of related monomeric 
+NADPH-dependent oxidoreductases [1], such as aldehyde reductase, aldose
+reductase, prostaglandin F synthase, xylose reductase, rho crystallin, and
+many others. All possess a similar structure, with a beta-alpha-beta fold 
+characteristic of nucleotide binding proteins [2].
+
+The fold comprises a parallel beta-8/alpha-8-barrel, which contains a 
+novel NADP-binding motif [3]. The binding site is located in a large,
+deep, elliptical pocket in the C-terminal end of the beta sheet, the 
+substrate being bound in an extended conformation [3]. The hydrophobic
+nature of the pocket favours aromatic and apolar substrates over highly
+polar ones [3]. Binding of the NADPH coenzyme causes a massive
+conformational change, reorienting a loop, effectively locking the
+coenzyme in place [4]. This binding is more similar to FAD- than to
+NAD(P)-binding oxidoreductases [4].
+
+ALDKETRDTASE is a 5-element fingerprint that provides a signature for
+the aldo-keto reductases. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions 
+around the NADPH-binding/active site, motifs 1, 3 and 6 including the N-
+terminal, central and C-terminal regions encoded by PROSITE patterns
+ALDOKETO_REDUCTASE_1 (PS00798), ALDOKETO_REDUCTASE_2 (PS00062) and ALDOKETO_
+REDUCTASE_3 (PS00063); and motif 2 containing a conserved His, which is
+implicated as the active site residue. Two iterations on OWL25.1 were
+required to reach convergence, at which point a true set comprising 50
+sequences was identified. Two partial matches were also found: CRO_RANTE
+is a rho crystallin fragment lacking the first motif; and YSCSEQCAT is a
+yeast ORF1 sequence, similar to the aldo-keto reductases, but with a
+deletion in the middle of the first motif.
+
+An update on SPTR37_9f identified a true set of 85 sequences, and 15
+partial matches.

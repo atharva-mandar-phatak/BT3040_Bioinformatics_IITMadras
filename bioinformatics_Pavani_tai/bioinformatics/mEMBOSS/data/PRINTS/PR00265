@@ -1,0 +1,32 @@
+INTERLEUKIN2
+T-Lymphocytes regulate the growth and differentiation of certain lympho-
+poietic and haemopoietic cells through the release of various secreted
+protein factors [1]. These factors, which include interleukin-2 (IL2), are
+secreted by lectin- or antigen-stimulated T-cells, and have various 
+physiological effects. IL2 is a lymphokine that induces the proliferation
+of responsive T-cells. In addition, it acts on some B-cells, via receptor-
+specific binding [2], as a growth factor and antibody production stimulant
+[3]. The protein is secreted as a single glycosylated polypeptide, cleavage
+of a signal sequence being required for its activity, which is partially
+species restricted [2]. 
+
+Solution NMR suggests that IL2 is a mainly alpha-helical protein, its
+structure comprising a bundle of 4 helices (termed A-D), flanked by 2
+shorter helices and several poorly-defined loops. Residues in helix A, and
+in the loop region between helices A and B, are important for receptor
+binding [3]. Secondary structure analysis has suggested similarity to IL4
+and granulocyte-macrophage colony stimulating factor (GMCSF) [3]. 
+
+INTERLEUKIN2 is a 5-element fingerprint that provides a signature for the
+IL2 cytokine family. The fingerprint was derived from an initial alignment
+of 4 sequences: motif 1 spans the signal peptide and the highly-conserved
+N-terminal PTSSST sequence; motif 3 includes the region encoded by PROSITE
+pattern INTERLEUKIN_2 (PS00424); and motifs 3 and 4 each contain a Cys
+residue required to form a disulphide bridge that stabilises the active
+form of the peptide. Two iterations on OWL22.1 were required to reach
+convergence, at which point a true set comprising 11 sequences was
+identified. Five partial matches were also found: S34052, SYNDABILA,
+SYNDABILB and SYNDABILC are IL2 sequences and fusion proteins that lack
+the signal peptide; and S31209 is an IL2 fusion protein fragment.
+
+An update on SPTR37_9f identified a true set of 19 sequences.

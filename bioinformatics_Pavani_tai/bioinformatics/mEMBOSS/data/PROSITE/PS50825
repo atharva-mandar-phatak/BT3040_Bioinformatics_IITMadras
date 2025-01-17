@@ -1,0 +1,73 @@
+**********************
+* HYR domain profile *
+**********************
+
+The HYR  (HYalin  Repeat)  domain  is  an extracellular domain of about 80-100
+amino acids.  It  has  been  named after the hyalin protein, which is composed
+exclusively of  repeats  of  this  domain.  The HYR domain is found in several
+eukaryotic proteins,  either in multiple copies as in hyalin or in association
+with other domains like the CCP (sushi) domain, the Von Willebrand factor type
+A (VWA)  domain  (see <PDOC50234>), the EGF-like domain (see <PDOC00021>), the
+calcium-binding EGF-like  domain  (see <PDOC00913>), the pentraxin domain (see
+<PDOC00261>), the  CUB  domain  (see  <PDOC00908>),  the  LDL-receptor class A
+domain (see  <PDOC00929>),  the  C-type lectin domain (see <PDOC00537>) or the
+discoidin domain.  As the HYR domains of hyalin have been shown to contain the
+ligand for  the  hyalin  cell  surface  receptor,  the  HYR domain can also be
+expected to play a direct role in cellular adhesion in other proteins in which
+it is present [1].
+
+Secondary structure  predictions  of  the HYR domain indicate an all-beta fold
+including seven   beta-strands.   The   HYR   domain   shares  clear  sequence
+similarities limited to the C-terminal region with the Fn3 and PKD domains and
+is believed to belong to the immunoglobulin-like fold [1].
+
+Some proteins containing a HYR domain are listed below:
+
+ - Echinoderm hyalin, a protein of the extra-embryonic matrix.
+ - Mouse  polydom, a secreted protein with pentraxin, CCP, EGF and VWA domains
+   [2].
+ - Mammalian  sushi-repeat-containing  protein  (SRPX).  It  is  thought to be
+   located at the photoreceptor cell surface. In human, the gene encoding SRPX
+   is deleted in patients with X-linked retinitis pigmentosa.
+ - Caenorhabditis   elegans  hypothetical  proteins  F55H12.3,  F47C12.10  and
+   W02C12.1.
+
+The profile we developed covers the entire HYR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2003 / First entry.
+
+-Note: The  HYR  domain  of  SRPX  was  first  suggested to be a divergent CCP
+ module [3].  Although  both  modules  should have similar secondary structure
+ pattern, they   are  clearly  distinguishable  by  the  number  of  conserved
+ cysteines and sequence analysis tools [1].
+
+[ 1] Callebaut I., Gilges D., Vigon I., Mornon J.-P.
+     "HYR, an extracellular module involved in cellular adhesion and
+     related to the immunoglobulin-like fold."
+     Protein Sci. 9:1382-1390(2000).
+     PubMed=10933504
+[ 2] Gilges D., Vinit M.-A., Callebaut I., Coulombel L., Cacheux V.,
+     Romeo P.-H., Vigon I.
+     "Polydom: a secreted protein with pentraxin, complement control
+     protein, epidermal growth factor and von Willebrand factor A
+     domains."
+     Biochem. J. 352:49-59(2000).
+     PubMed=11062057
+[ 3] Meindl A., Carvalho M.R.S., Herrmann K., Lorenz B., Achatz H.,
+     Lorenz B., Apfelstedt-Sylla E., Wittwer B., Ross M., Meitinger T.
+     "A gene (SRPX) encoding a sushi-repeat-containing protein is deleted
+     in patients with X-linked retinitis pigmentosa."
+     Hum. Mol. Genet. 4:2339-2346(1995).
+     PubMed=8634708
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

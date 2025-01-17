@@ -1,0 +1,111 @@
+***************************************
+* Peptidase family C16 domain profile *
+***************************************
+
+Peptidase  family  C16  (EC  3.4.22.-)  contains  the  coronaviruses  cysteine
+endopeptidases   involved   in   viral   polyprotein   processing   [E1].  All
+coronaviruses  encodes between one and two accessory cysteine proteinases that
+recognize  and  process  one  or  two  sites in the amino-terminal half of the
+replicase  polyprotein  during assembly of the viral replication complex. MHV,
+HCoV   and   TGEV   encode  two  accesssory  proteinases,  called  coronavirus
+papain-like  proteinase  1  and  2 (PL1-PRO and PL2-PRO). IBV and SARS encodes
+only one called PL-PRO [1]. Coronaviruses papain-like proteinases 1 and 2 have
+restricted  specificities,  cleaving  respectively  two  and one bond(s)in the
+polyprotein.  This  restricted  activity  may  be  due to extended specificity
+sites:  Arg  or  Lys at the cleavage site position P5 are required for PL1-PRO
+[2],  and  Phe  at  the cleavage site position P6 is required for PL2-PRO [3].
+PL1-PRO  releases  p28 and p65 from the N-terminus of the polyprotein; PL2-PRO
+cleaves between p210 and p150.
+
+The  peptidase  family  C16  domain  is  about 260 amino acids in length. This
+domain is predicted to have an alpha-beta structural organisation known as the
+papain-like  fold.  It  consists  of  three alpha-helices and three strands of
+antiparallel  beta-sheet [4]. This domain has a catalytic dyad consisting of a
+Cys  and  a  downstream  His [1,2,4]. The nucleophilic Cys occurs in the motif
+Asn-Cys-Xaa-Yaa in which Xaa is an aromatic, hydrophobic residue and Yaa is an
+aliphatic  hydrophobic  amino  acid.  There  is little conservation around the
+general base His. This peptidase domain also contains Cys residues involved in
+the  formation of a zinc-binding finger which connects the left and right hand
+domains  of  a  papain-like  fold, and may be involved in substrate binding or
+control the movement of the catalytic domain [4].
+
+Some proteins known to contain a peptidase C16 domain are listed below:
+
+ - Murine  hepatitis  coronavirus  (MHV)  papain-like  endopeptidase 2  (PLP2)
+   (C16.006) [3,5].
+ - Human coronavirus (HCoV) 229E papain-like endopeptidase 1 (C16.002) [4].
+ - Murine  hepatitis  coronavirus  (MHV)  papain-like  endopeptidase 1  (PLP1)
+   (C16.001) [6].
+ - Porcine  epidemic   diarrhea   virus   (PEDV)  papain-like  endopeptidase 1
+   (C16.003) [7].
+ - Avian  infectious  bronchitis coronavirus (IBV) papain-like endopeptidase 1
+   (C16.005) [8].
+ - SARS coronavirus papain-like endopeptidase (C16.009) [9].
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2005 / First entry.
+
+[ 1] Ziebuhr J., Snijder E.J., Gorbalenya A.E.
+     "Virus-encoded proteinases and proteolytic processing in the
+     Nidovirales."
+     J. Gen. Virol. 81:853-879(2000).
+     PubMed=10725411
+[ 2] Baker S.C., Yokomori K., Dong S., Carlisle R., Gorbalenya A.E.,
+     Koonin E.V., Lai M.M.C.
+     "Identification of the catalytic sites of a papain-like cysteine
+     proteinase of murine coronavirus."
+     J. Virol. 67:6056-6063(1993).
+     PubMed=8396668
+[ 3] Dong S., Baker S.C.
+     "Determinants of the p28 cleavage site recognized by the first
+     papain-like cysteine proteinase of murine coronavirus."
+     Virology 204:541-549(1994).
+     PubMed=7941320
+     MEDLINE=22689675; PubMed=12805436; DOI=10.1128/JVI.77.13.7376-7382.2003
+[ 4] Herold J., Siddell S.G., Gorbalenya A.E.
+     "A human RNA viral cysteine proteinase that depends upon a unique
+     Zn2+-binding finger connecting the two domains of a papain-like
+     fold."
+     J. Biol. Chem. 274:14918-14925(1999).
+     MEDLINE=99262645; PubMed=10329692; DOI=10.1074/jbc.274.21.14918
+[ 5] Kanjanahaluethai A., Jukneliene D., Baker S.C.
+     "Identification of the murine coronavirus MP1 cleavage site recognized
+     by papain-like proteinase 2."
+     J. Virol. 77:7376-7382(2003).
+     PubMed=12805436
+[ 6] Gosert R., Kanjanahaluethai A., Egger D., Bienz K., Baker S.C.
+     "RNA replication of mouse hepatitis virus takes place at
+     double-membrane vesicles."
+     J. Virol. 76:3697-3708(2002).
+     PubMed=11907209
+[ 7] Kocherhans R., Bridgen A., Ackermann M., Tobler K.
+     "Completion of the porcine epidemic diarrhoea coronavirus (PEDV)
+     genome sequence."
+     Virus Genes 23:137-144(2001).
+     MEDLINE=21580790; PubMed=11724265; DOI=10.1023/A:1011831902219
+[ 8] Ziebuhr J., Thiel V., Gorbalenya A.E.
+     "The autocatalytic release of a putative RNA virus transcription
+     factor from its polyprotein precursor involves two paralogous papain-
+     like proteases that cleave the same peptide bond."
+     J. Biol. Chem. 276:33220-33232(2001).
+     MEDLINE=21413900; PubMed=11431476; DOI=10.1074/jbc.M104097200
+[ 9] Harcourt B.H., Jukneliene D., Kanjanahaluethai A., Bechill J.,
+     Severson K.M., Smith C.M., Rota P.A., Baker S.C.
+     "Identification of severe acute respiratory syndrome coronavirus
+     replicase products and characterization of papain-like protease
+     activity."
+     J. Virol. 78:13600-13612(2004).
+     PubMed=15564471; DOI=10.1128/JVI.78.24.13600-13612.2004
+[E1] http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C16;action=summary
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

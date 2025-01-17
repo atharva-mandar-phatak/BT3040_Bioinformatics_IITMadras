@@ -1,0 +1,62 @@
+NGELATINASE
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloproteinase inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Murine neutrophil gelatinase-associated lipocalin precursor (NGAL) exhibits
+a 7-10-fold increase in expression in cultured mouse kidney cells infected
+by simian-virus 40 or other viruses [5]. NGAL has been identified as a 
+major secretory product of lipopolysaccharide-stimulated cultured mouse 
+macrophages, suggesting that the protein might function in defence against
+infection [6]. Recently, NGAL has been shown to be identical to SIP24, a 
+previously identified secretory product of quiescent mouse fibroblasts 
+induced by serum, dexamethasone, basic fibroblast growth factor, and phorbol
+ester [7]. Mouse plasma levels of NGAL rise as a result of increased 
+expression levels in the liver, in response to intramuscular turpentine 
+injection. Tumour necrosis factor can regulate NGAL expression in cultured 
+liver cells. These findings indicate that NGAL is a positive acute phase
+protein and may possess immunosuppressive or anti-inflammatory properties, 
+possibly linked to its regulation of neutrophil gelatinase or other plasma
+protein [8]. The uterus is also a major site of NGAL synthesis, especially
+at parturition, when expression increases significantly, suggesting a
+physiological role for the protein in uterine secretions [9].
+
+NGELATINASE is a 7-element fingerprint that provides a signature for the 
+neutrophil gelatinase associated lipocalin. The fingerprint was derived from
+an initial alignment of 2 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motif 1 includes the
+long, unstructured but functionally important N-terminal peptide; motif 2 
+spans the first beta-strand of the lipocalin barrel, including the region
+encoded by PROSITE pattern LIPOCALIN (PS00213) and corresponds to the 
+LIPOCALIN fingerprint motif 1; motif 3 spans strands B and C, and the
+intervening loop; likewise, motif 4 spans strands D and E and the loop
+between them; motif 5 spans strands F and G, and corresponds to the second
+LIPOCALIN motif; motif 6, which corresponds to strand H and the loop 
+connecting it to the main C-terminal alpha helix, is similar to the third
+motif of the LIPOCALIN fingerprint; and motif 7 spans the C-terminus of the
+large C-terminal helix and the short beta-strand I. Two iterations on
+SPRT37_10f were required to reach convergence, at which point a true set 
+comprising 3 sequences was identified.

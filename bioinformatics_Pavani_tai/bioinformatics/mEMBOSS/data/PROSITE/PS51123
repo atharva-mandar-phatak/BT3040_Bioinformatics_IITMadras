@@ -1,0 +1,83 @@
+******************************************
+* OmpA-like domain signature and profile *
+******************************************
+
+The following Gram-negative outer membrane  proteins  share  a domain of about
+150 residues [1,2]:
+
+ - Outer membrane protein ompA from enterobacteria such as Escherichia coli.
+ - Outer membrane protein P5 from Haemophilus influenzae.
+ - Outer membrane protein P.III/class IV from Neisseria.
+ - Outer membrane porin F (gene oprF) from Pseudomonas.
+ - Protein TpN50 from Treponema pallidum.
+ - Peptidoglycan-associated  lipoprotein  (gene  pal)  from  Escherichia coli,
+   Haemophilus influenzae, Legionella pneumophila and Pseudomonas putida.
+ - Outer membrane lipoprotein P6 from Haemophilus influenzae.
+ - Escherichia coli hypothetical lipoprotein yiaD.
+ - Vibrio parahaemolyticus sodium-type flagellar protein motY.
+
+This domain  is  found  in the C-terminal section of the above proteins. Apart
+from this  domain,  these  proteins are not structurally related. Most of them
+are porin-like  integral  membrane proteins (such as ompA), but some are small
+lipid-anchored proteins  (such  as  pal). In addition to being attached to the
+outer membrane,  OmpA-like  domains  are  also  found  attached  to  the inner
+membrane: MotB  proteins,  part of the flagellar motor/stator complex in Gram-
+positive and Gram-negative bacteria, span the inner membrane and contain OmpA-
+like domains in their periplasmic regions [3].
+
+The OmpA-like   domain   is   thought   to  be  responsible  for  non-covalent
+interactions with peptidoglycan [3].
+
+The OmpA-like   domain  adopts  a  Beta-Alpha-Beta-Alpha-Beta-Beta  fold  (see
+<PDB:1R1M>). The  core  OmpA-like domain consists of a mixed beta-sheet formed
+from parallel  and  antiparallel  beta-strands  (beta1  to  beta4),  which are
+flanked by two long alpha helices (alpha2 and alpha3). A short helix alpha1 is
+part of  the  segment  connecting  beta1 to alpha2. An extension formed by two
+antiparallel alpha  helices (alpha4 and alpha5), is stabilized by a disulphide
+bond. The  domain  fold  creates a hydrophilic groove which could accomodate a
+glycan chain [3].
+
+The signature  pattern  that  we developed spans the central part of the OmpA-
+like domain. We also developed a profile which covers the entire domain.
+
+-Consensus pattern: [LIVMA]-x-[GT]-x-[TA]-[DAN]-x(2,3)-[DG]-[GSTPNKQ]-x(2)-
+                    [LFYDEPAVI]-[NQS]-x(2)-[LI]-[SG]-[QEA]-[KRQENAD]-R-A-x(2)-
+                    [LVAIT]-x(3)-[LIVMF]-x(4,5)-[LIVMF]-x(4)-[LIVM]-x(3)-
+                    [SGW]-x-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 4 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           De Mot R.; Rene.DeMot@agr.kuleuven.ac.be
+
+-Last update: June 2005 / Profile added and text revised.
+
+[ 1] De Mot R., Proost P., van Damme J., Vanderleyden J.
+     "Homology of the root adhesin of Pseudomonas fluorescens OE 28.3 with
+     porin F of P. aeruginosa and P. syringae."
+     Mol. Gen. Genet. 231:489-493(1992).
+     PubMed=1538702
+[ 2] Hardham J.M., Stamm L.V.
+     "Identification and characterization of the Treponema pallidum tpn50
+     gene, an ompA homolog."
+     Infect. Immun. 62:1015-1025(1994).
+     PubMed=8112835
+[ 3] Grizot S., Buchanan S.K.
+     "Structure of the OmpA-like domain of RmpM from Neisseria
+     meningitidis."
+     Mol. Microbiol. 51:1027-1037(2004).
+     PubMed=14763978
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

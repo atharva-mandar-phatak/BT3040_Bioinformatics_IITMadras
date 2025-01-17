@@ -1,0 +1,32 @@
+CRFFAMILY
+Corticotropin-releasing factor (CRF), urotensin-I, urocortin and sauvagine
+form a family of related neuropeptides in vertebrates. The family can be
+grouped into 2 separate paralogous lineages, with urotensin-I, urocortin and
+sauvagine in one group and CRF forming the other group. Urocortin and
+sauvagine appear to represent orthologues of fish urotensin-I in mammals and
+amphibians, respectively. The peptides have a variety of physiological
+effects on stress and anxiety, vasoregulation, thermoregulation, growth and
+metabolism, metamorphosis and reproduction in various species, and are all
+released as preprohormones [1].
+
+CRF is found mainly in the paraventricular nucleus of the mammalian hypo-
+thalamus (PVN), where it is released into the portal vessels. From here, CRF
+is transported to the anterior pituitary, stimulating adrenocorticotropic
+hormone (ACTH) release via CRF type 1 receptors, thereby activating the
+hypothalamo-pituitary-adrenocortical axis (HPA) and thus glucocorticoid
+release. Urocortin is also found in mammalian brain; however, the
+distribution of its mRNA is quite different from CRF, highest expression 
+levels being found in the Edinger-Westphal (EW) nucleus. In addition, 
+urocortin exhibits a much greater potency at CRF type 2 receptors, which 
+are absent from the anterior pituitary [2]. Urotensin-I is released
+from the urophysis of fish, and produces ACTH and subsequent cortisol 
+release in vivo. The nonhormonal portion of the prohormone is thought to be
+the urotensin binding protein (urophysin). Sauvagine, isolated from frog 
+skin, has a potent hypotensive and diuretic effect.
+
+CRFFAMILY is a 3-element fingerprint that provides a signature for the
+corticotropin-releasing factor related neuropeptides. The fingerprint was
+derived from an initial alignment of 8 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal peptide portion of the alignment. 
+Two iterations on SPTR40_18f were required to reach convergence, at which 
+point a true set comprising 17 sequences was identified.

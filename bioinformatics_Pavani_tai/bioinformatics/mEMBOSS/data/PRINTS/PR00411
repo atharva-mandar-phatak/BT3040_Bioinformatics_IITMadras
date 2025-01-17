@@ -1,0 +1,49 @@
+PNDRDTASEI
+The pyridine nucleotide-disulphide reductases (PNDR) use the isoalloxazine
+ring of FAD to shuttle reducing equivalents from NAD(P)H to a Cys residue
+that is usually a part of a redox-active disulphide bridge. In a second
+step, the reduced disulphide reduces the substrate. On the basis of 
+sequence and structural similarities [1], PNDR can be categorised into 2
+groups. Class I includes glutathione reductase, trypanothione reductase,
+lipoamide dehydrogenase and mercuric reductase. They cover a wide range of
+catalytic functions: glutathione reductase ensures that the cell has 
+enough reduced glutathione to maintain protein thiol groups in the reduced
+state [2]; trypanothione reductase carries out the analogous reaction in 
+trypanosomal cells (trypanothione is an analogue of glutathione) [3]; 
+lipoamide dehydrogenase, the E3 component of alpha-ketoacid dehydrogenase
+multienzyme complex, oxidises the dihydrolypoyl groups of lipoate 
+acyltransferase, and so couples glycolysis to the tricarboxylic acid cycle 
+[4]; and mercuric reductase enables bacteria to detoxify the mercuric ion
+by reducing it to elemental mercury, which evaporates from the cell [5].
+
+To date, the 3D-structures of glutathione reductase [6], mercuric reductase
+[7], lipoamide dehydrogenase [8] and trypanothione reductase [9] have been
+solved. The proteins exist as homodimers, having 4 domains per monomer: an
+N-terminal FAD-binding domain; an NAD(P)H-binding domain; a central domain;
+and a C-terminal interface domain. The FAD- and NAD(P)H-binding domains
+have similar doubly-wound alpha/beta folds, suggesting that these domains
+evolved by gene duplication [10]. The relative orientations of structural
+domains in PNDR may vary significantly. Since the active site occurs between
+domains, this alteration provides a mechanism for adjusting the catalytic 
+properties to meet the special requirements of a particular  reaction.
+
+PNDRDTASEI is a 9-element fingerprint that provides a signature for the 
+PNDR class I family. The fingerprint was derived from an initial alignment
+of 11 sequences: motifs 1 and 4 contain 3 conserved Gly residues and
+correspond to the ADP moiety binding site for FAD and NAD(P) respectively
+(cf. motifs 1 and 3 of signature FADPNR); motif 6 encodes the binding site 
+for the FAD flavin moiety (cf. motif 5 of FADPNR); motif 2 contains 2 Cys
+residues involved in the redox-active disulphide bond, and includes the
+region encoded by PROSITE pattern PYRIDINE_REDOX_1 (PS00076); and motif 9
+contains a conserved His-Glu diad at positions 16 and 21 (mercuric
+reductases have a conserved Tyr instead of His). Site-directed mutagenesis
+experiments on lipoamide dehydrogenase show that mutation of the His-Glu
+diad impairs intramolecular electron transfer between the disulphide/dithiol
+and the FADH-/FAD [11]. Four iterations on OWL26.3 were required to reach 
+convergence, at which point a true set comprising 62 sequences was 
+identified. Numerous partial matches were also found, all of which are
+members of the PNDR and FADPNR families (matching 6-8 motifs, and 5 or
+less motifs respectively). 
+
+An update on SPTR37_9f identified a true set of 102 sequences, and 184
+partial matches.

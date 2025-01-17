@@ -1,0 +1,35 @@
+ANNEXINI
+The annexins (or lipocortins) are a family of proteins that bind to
+phospholipids in a calcium-dependent manner [1]. They are distributed
+ubiquitously in different tissues and cell types of higher and lower
+eukaryotes, including mammals, fish, birds, Drosophila melanogaster,
+Xenopus laevis, Caenorhabtidis elegans, Dictyostelium discoideum and
+Neurospora crassa [2,3]. The plant annexins are somewhat distinct from
+those found in other taxa [3].
+
+Several distinct annexin subtypes exist, each of which has an amino-acid
+sequence consisting of an N-terminal 'arm' followed by 4 or 8 copies of a
+conserved domain of 61 residues (only one of these residues, an arginine,
+is conserved between all copies). The calcium-binding sites are found in
+the repeated domains [4]. Individual repeats (sometimes referred to as
+endonexin folds) consist of 5 alpha-helices wound into a right-handed
+superhelix. The biological roles of some annexin subtypes is unclear; the
+family has been linked with inhibition of phospholipase activity, exo-
+cytosis and endoctyosis, signal transduction, organisation of the extra-
+cellular matrix, resistance to reactive oxygen species and DNA replication
+[2]. Type I annexins inhibit phospholipase A2, either in response to
+inflammation, or following dephosphorylation by protein kinases involved
+in the signal transduction pathway. The protein may also associate with
+the cell cytoskeleton by binding to actin fibres.
+
+ANNEXINI is a 5-element fingerprint that provides a signature for type I
+annexins. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those areas that characterise type
+I annexins but distinguish them from related annexin subtypes - motifs 1 
+and 2 lie at the N-terminus; motif 3 resides in the first annexin repeat;
+motif 4 is located between the second and third annexin repeats; and motif
+5 lies in the C-terminal portion of the third annexin repeat. Two iterations
+on SPTR41_24f were required to reach convergence, at which point a true set
+comprising 9 sequences was identified. Two partial matches were also found,
+both of which are type I annexin isoforms from the domestic pigeon. 

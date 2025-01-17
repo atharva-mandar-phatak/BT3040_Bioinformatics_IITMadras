@@ -1,0 +1,49 @@
+**************************
+* Snake toxins signature *
+**************************
+
+Snake toxins belong to  a  family of  proteins [1,2,3]  which groups short and
+long neurotoxins, cytotoxins and short toxins, as well as a other miscellanous
+venom peptides.  Most  of  these  toxins  act  by  binding  to  the  nicotinic
+acetylcholine receptors  in  the postsynaptic membrane of skeletal muscles and
+prevent the  binding  of  acetylcholine,  thereby  blocking  the excitation of
+muscles.
+
+Snake toxins  are  proteins that consist of sixty to seventy five amino acids.
+Among the  invariant  residues  are  eight cysteines all involved in disulfide
+bonds. A  signature  pattern  was  developed  [4] which includes four of these
+cysteines as    well  as  a  conserved proline thought to be important for the
+maintenance of the tertiary structure.   The second cysteine in the pattern is
+linked to the third one by a disulfide bond.
+
+-Consensus pattern: G-C-x(1,3)-C-P-x(8,10)-C-C-x(2)-[PDEN]
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: Most  of the
+ snake toxins  are detected except for fasciatoxin, which is an atypical short
+ neurotoxin, and eight toxins which have a very low activity.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Dufton M.J.
+     "Classification of elapid snake neurotoxins and cytotoxins according
+     to chain length: evolutionary implications."
+     J. Mol. Evol. 20:128-134(1984).
+     PubMed=6433031
+[ 2] Endo T., Tamiya N.
+     (In) Snake toxins, Harvey A.L., Ed., pp165-222, Pergamon Press, New-York,
+     (1991).
+[ 3] Mebs D., Claus I.
+     (In) Snake toxins, Harvey A.L., Ed., pp425-447, Pergamon Press, New-York,
+     (1991).
+[ 4] Jonassen I., Collins J.F., Higgins D.G.
+     Protein Sci. 4:1587-1595(1995).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

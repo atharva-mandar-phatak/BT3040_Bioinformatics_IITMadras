@@ -1,0 +1,25 @@
+LDLRECEPTOR
+Low density lipoprotein (LDL) is the major cholesterol-carrying lipoprotein
+of plasma. The receptor protein binds LDL and transports it into cells by
+endocytosis. In order to be internalised, the receptor-ligand complex must
+first cluster into clathrin-coated pits. The N-terminal region of the
+extracellular domain contains 7 or 8 40-residue repeats, each of which
+contains 6 cysteine residues, which are involved in disulphide bond 
+formation. Following these repeats is a 350 residue domain that resembles
+part of the epidermal growth factor (EGF) precursor [1,2].
+
+LDLRECEPTOR is a 6-element fingerprint that provides a signature for Cys-
+rich LDL repeats. The fingerprint was derived from an initial alignment of
+2 sequences: each of the motifs encodes 3 well-conserved Cys residues in a
+22 residue motif (i.e., corresponds to about half of the 6-Cys repeat). Two
+iterations on OWL21.1 were required to reach convergence, at which point a
+true set comprising 14 sequences was identified. Four partial matches were
+also found: all are LDL-receptors, neural cell adhesion molecules, and
+basement membrane heparan sulphate proteoglycans (perlecans), which are
+known to show a high degree of similarity to LDL-receptors.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 34
+partial matches.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 34
+partial matches.

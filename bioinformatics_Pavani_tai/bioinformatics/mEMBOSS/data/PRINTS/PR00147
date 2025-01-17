@@ -1,0 +1,27 @@
+DNAPHOTLYASE
+DNA photolyases are enzymes that bind to DNA containing pyrimidine dimers:
+on absorption of visible light, they catalyse dimer splitting into the
+constituent monomers, a process called photoreactivation [1]. This is a DNA
+repair mechanism, repairing mismatched pyrimidine dimers induced by
+exposure to ultra-violet light [2]. The precise mechanisms involved in
+substrate binding, conversion of light energy to the mechanical energy
+needed to rupture the cyclobutane ring, and subsequent release of the
+product are uncertain [1]. Analysis of DNA lyases has revealed the presence
+of an intrinsic chromophore, all monomers containing a reduced FAD moiety,
+and, in addition, either a reduced pterin or 8-hydroxy-5-diazaflavin as a
+second chromophore [2,3]. Either chromophore may act as the primary photon
+acceptor, peak absorptions occurring in the blue region of the spectrum
+and in the UV-B region, at a wavelength around 290nm [3].
+
+DNAPHOTLYASE is a 4-element fingerprint that provides a signature for the 
+DNA photolyases. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motifs 2 and 3 including the regions
+encoded by PROSITE patterns DNA_PHOTOLYASE_1 (PS00394) and DNA_PHOTOLYASE_2
+(PS00691). Two iterations on OWL22.1 were required to reach convergence, at
+which point a true set comprising 8 sequences was identified. A single
+partial match was also found, SAPHR1, a DNA lyase from Sinapis alba, which
+only matches motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 9
+partial matches.

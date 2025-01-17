@@ -1,0 +1,74 @@
+**********************************
+* Zinc finger TFIIB-type profile *
+**********************************
+
+In eukaryotes the initiation of transcription of protein encoding genes by the
+polymerase  II  complexe  (Pol  II)  is  modulated  by  general  and  specific
+transcription  factors.  The  general  transcription  factors  operate through
+common  promoters  elements  (such  as the TATA box). At least seven different
+proteins  associate  to  form  the general transcription factors: TFIIA, -IIB,
+-IID, -IIE, -IIF, -IIG, and -IIH [1].
+
+TFIIB  and TFIID are responsible for promoter recognition and interaction with
+pol  II; together with Pol II, they form a minimal initiation complex, capable
+of  transcription  under certain conditions. The TATA box of a Pol II promoter
+is  bound  in  the initiation complex by the TBP subunit of TFIID, which bends
+the  DNA  around  the C-terminal domain of TFIIB (see <PDOC00624>) whereas the
+N-terminal zinc finger of TFIIB interacts with Pol II [2,3].
+
+The  TFIIB  zinc  finger  adopts  a  zinc  ribbon  fold  characterized  by two
+beta-haipins  forming  two  structurally  similar  zinc-binding sub-sites (see
+<PDB:1PFT>)  [4].  The zinc finger contacts the rbp1 subunit of Pol II through
+its  dock  domain, a conserved region of about 70 amino acids located close to
+the  polymerase  active  site  [5,6].  In  the  Pol II complex this surface is
+located  near  the  RNA  exit  groove [6]. Interestingly this sequence is best
+conserved   in  the  three  polymerases  that  utilize  a  TFIIB-like  general
+transcription factor (Pol II, Pol III, and archaeal RNA polymerase) but not in
+Pol I [6].
+
+The profile we developed covers the whole TFIIB zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2005 / First entry.
+
+[ 1] Weinmann R.
+     "The basic RNA polymerase II transcriptional machinery."
+     Gene Expr. 2:81-91(1992).
+     PubMed=1633439
+[ 2] Buratowski S., Zhou H.
+     "Functional domains of transcription factor TFIIB."
+     Proc. Natl. Acad. Sci. U.S.A. 90:5633-5637(1993).
+     PubMed=8516312
+[ 3] Ha I., Roberts S., Maldonado E., Sun X., Kim L.U., Green M.,
+     Reinberg D.
+     "Multiple functional domains of human transcription factor IIB:
+     distinct interactions with two general transcription factors and RNA
+     polymerase II."
+     Genes Dev. 7:1021-1032(1993).
+     PubMed=8504927
+[ 4] Zhu W., Zeng Q., Colangelo C.M., Lewis M., Summers M.F., Scott R.A.
+     "The N-terminal domain of TFIIB from Pyrococcus furiosus forms a zinc
+     ribbon."
+     Nat. Struct. Biol. 3:122-124(1996).
+     PubMed=8564536
+[ 5] Bushnell D.A., Westover K.D., Davis R.E., Kornberg R.D.
+     "Structural basis of transcription: an RNA polymerase II-TFIIB
+     cocrystal at 4.5 Angstroms."
+     Science 303:983-988(2004).
+     PubMed=14963322; DOI=10.1126/science.1090838
+[ 6] Tubon T.C., Tansey W.P., Herr W.
+     "A nonconserved surface of the TFIIB zinc ribbon domain plays a direct
+     role in RNA polymerase II recruitment."
+     Mol. Cell. Biol. 24:2863-2874(2004).
+     PubMed=15024075
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

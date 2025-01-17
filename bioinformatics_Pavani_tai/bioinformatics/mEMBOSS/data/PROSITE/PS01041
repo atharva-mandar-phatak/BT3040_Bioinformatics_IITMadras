@@ -1,0 +1,66 @@
+******************************
+* Stathmin family signatures *
+******************************
+
+Stathmin [1] (from the Greek 'stathmos' which means relay),  is an  ubiquitous
+intracellular protein, present in a variety  of phosphorylated forms and which
+is involved  in  the  regulation  of  the  microtubule (MT) filament system by
+destabilizing microtubules.  It  prevents assembly and promotes disassembly of
+microtubules.
+
+Stathmin  is  a  highly   conserved  protein  of  149  amino  acid   residues.
+Structurally, it  consists  of  an  N-terminal  domain  of  about  45 residues
+followed by  a  78  residue alpha-helical domain consisting of a heptad repeat
+coiled coil structure and a C-terminal domain of 25 residues.
+
+Stathmin belongs to a family that also includes:
+
+ - Stathmin 2 (Protein SCG10); a  neuron-specific, membrane-associated protein
+   that accumulates  in  the  growth cones of developing neurons. It is highly
+   similar in  its  sequence  to  stathmin, but differs in that it contains an
+   additional N-terminal hydrophobic segment of 32 residues  which is probably
+   responsible for its interaction with membranes.
+ - Stathmin 3  (SCG10-like  protein;  SCLIP)  [2];  a   protein   specifically
+   expressed in neurons.
+ - Stathmin  4  (Stathmin-like  protein  B3);  which contains an additional N-
+   terminal hydrophobic domain [3].
+
+As signatures  for  proteins  of  the stathmin family, we selected a conserved
+decapeptide which  ends  with  the  first  three  residues  of the coiled coil
+domain and  a second pattern that corresponds to part of the central region of
+the coiled coil.
+
+-Consensus pattern: P-[KRQ]-[KR](2)-[DE]-x-S-L-[EG]-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: A-E-[KR]-R-E-H-E-[KR]-E-V
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Sobel A.
+     "Stathmin: a relay phosphoprotein for multiple signal transduction?"
+     Trends Biochem. Sci. 16:301-305(1991).
+     PubMed=1957351
+[ 2] Ozon S., Byk T., Sobel A.
+     "SCLIP: a novel SCG10-like protein of the stathmin family expressed in
+     the nervous system."
+     J. Neurochem. 70:2386-2396(1998).
+     PubMed=9603203
+[ 3] Ozon S., Maucuer A., Sobel A.
+     "The stathmin family -- molecular and biological characterization of
+     novel mammalian proteins expressed in the nervous system."
+     Eur. J. Biochem. 248:794-806(1997).
+     PubMed=9342231
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,28 @@
+INTCLCHANNEL
+Chloride (Cl-) channels are known to be present in the plasma and
+intracellular membranes of many cell types. Whilst the molecular identity
+of plasma membrane Cl- channels has been known for some time, only recently
+have intracellular Cl- channels been characterised. Initially, a 64 kDa
+protein was purified from solubilised kidney cortical membranes, which, when
+reconstituted into phospholipid vesicles, gave rise to chloride channel
+activity [1]. An antibody generated against this protein (p64) was
+subsequently used to identify and clone it. The predicted amino acid
+sequence for p64 shows that it contains two, or possibly four, putative
+transmembrane (TM) domains and a number of possible phosphorylation sites.
+Expression studies have revealed that it is targeted to intracellular
+organelles, not the plasma membrane [2].
+
+Subsequently, a number of homologous cDNAs have been identified, which,
+when expressed, give rise to Cl- channels in the membranes of both cell
+nuclei and endoplasmic reticulum [3,4]. They do not show significant
+sequence similarity to the CLC family of plasma membrane voltage-gated Cl-
+channels.
+
+INTCLCHANNEL is a 5-element fingerprint that provides a signature for
+intracellular chloride channels. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved
+regions from the N-terminal 2/3 of the alignment - motif 1 resides within
+the single putative TM domain; and motifs 2-5 lie in the cytoplasmic
+C-terminal domain. Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 6 sequences was
+identified.

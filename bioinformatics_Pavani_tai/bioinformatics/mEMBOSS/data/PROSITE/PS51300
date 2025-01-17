@@ -1,0 +1,48 @@
+***************************************************
+* NADH-nitrite reductase subunit D family profile *
+***************************************************
+
+In  Proteobacteria  and  Actinobacteria the main nitrite reductase activity is
+contributed  by  the  NADH-dependent  nitrite  reductase, which detoxifies the
+nitrite formed as the product of nitrate reduction. The NADH-nitrite reductase
+operon consists of 4 genes: nirB, nirD, nirC and cysG. The enzyme is formed by
+the  two  subunits  nirB  and  nirD. NirC is a nitrite transporter and cysG is
+required for the synthesis of siroheme, a cofactor of the nirB subunit [1,2].
+
+NirD  displays  some  sequence similarities with the 2Fe-2S Rieske domain (see
+<PDOC00177>),  but  it  does  not  contain  the  essential  residues  for  the
+coordination of the iron sulfur [3].
+
+The profile we developed covers the whole conserved region.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2007 / First entry.
+
+-Note:  The  nirD  profile  is  in  competition  with a profile of a related
+ domain, i.e.  Rieske domain (see <PDOC51300>).
+
+[ 1] Cole J.
+     "Nitrate reduction to ammonia by enteric bacteria: redundancy, or a
+     strategy for survival during oxygen starvation?"
+     FEMS Microbiol. Lett. 136:1-11(1996).
+     PubMed=8919448
+[ 2] Peakman T., Crouzet J., Mayaux J.F., Busby S., Mohan S., Harborne N.,
+     Wootton J., Nicolson R., Cole J.
+     "Nucleotide sequence, organisation and structural analysis of the
+     products of genes in the nirB-cysG region of the Escherichia coli K-12
+     chromosome."
+     Eur. J. Biochem. 191:315-323(1990).
+     PubMed=2200672
+[ 3] Hulo N.
+     Unpublished observations (2007).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

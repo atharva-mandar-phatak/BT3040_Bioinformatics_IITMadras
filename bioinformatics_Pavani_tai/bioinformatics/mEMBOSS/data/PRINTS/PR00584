@@ -1,0 +1,62 @@
+PRSTNOIDE32R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Prostanoids (prostaglandins (PG) and thromboxanes (TX)) mediate a wide
+variety of actions and play important physiological roles in the cardio-
+vascular and immune systems, and in pain sensation in peripheral systems
+[6]. PGI2 and TXA2 have opposing actions, involving regulation of the
+interaction of platelets with the vascular endothelium, while PGE2, PGI2
+and PGD2 are powerful vasodilators and potentiate the action of various
+autocoids to induce plasma extravasation and pain sensation. To date,
+evidence for at least 5 classes of prostanoid receptor has been obtained.
+However, identification of subtypes and their distribution is hampered by
+expression of more than one receptor within a tissue, coupled with poor
+selectivity of available agonists and antagonists. 
+
+EP3 receptors mediate contraction in a wide range of smooth muscles, 
+including gastrointestinal and uterine [6]. They also inhibit neurotrans-
+mitter release in central and autonomic nerves through a presynaptic action,
+and inhibit secretion in glandular tissues (e.g., acid secretion from
+gastric mucosa, and sodium and water reabsorption in the kidney) [6]. mRNA
+is found in high levels in the kidney and uterus, and in lower levels in
+the brain, thymus, lung, heart, stomach and spleen. The receptors activate
+adenylate cyclase via an uncharacterised G protein, probably of the Gi/Go
+class [6].
+
+Sequence analysis shows the EP3 receptors to fall into distinct classes,
+based on their N- and C-terminal and loop signatures. For convenience, we
+have designated these classes types 1 to 3.
+
+PRSTNOIDE32R is a 5-element fingerprint that provides a signature for the
+prostanoid EP3 type 2 receptors. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved sections
+within either loop or N-terminal regions, focusing on those areas of the
+alignment that characterise the type 2 prostanoid EP3 receptors but
+distinguish them from the rest of the rhodopsin-like superfamily - motifs
+1-3 span the N-terminus; and motifs 4 and 5 lie in the second and third
+external loops res.. A single iteration on OWL28.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Several partial matches were also found, which are largely type 1 and
+type 3 prostanoid EP3 receptors (JC2056 and SSU27083 most closely resemble
+the type 2 receptors in the loop regions, but lack the characteristic
+N-terminal signature); D53216 is an EP3 receptor fragment.
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 2
+partial matches.

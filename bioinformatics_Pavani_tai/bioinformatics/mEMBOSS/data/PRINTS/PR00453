@@ -1,0 +1,38 @@
+VWFADOMAIN
+The von Willebrand factor is a large multimeric glycoprotein found in blood
+plasma. Mutant forms are involved in the aetiology of bleeding disorders 
+[1]. In von Willebrand factor, the type A domain (vWF) is the prototype for
+a protein superfamily. The vWF domain is found in various plasma proteins:
+complement factors B, C2, CR3 and CR4; the integrins (I-domains); collagen 
+types VI, VII, XII and XIV; and other extracellular proteins [2-4]. Proteins
+that incorporate vWF domains participate in numerous biological events
+(e.g., cell adhesion, migration, homing, pattern formation, and signal
+transduction), involving interaction with a large array of ligands [2]. 
+
+Secondary structure prediction from 75 aligned vWF sequences has revealed
+a largely alternating sequence of alpha-helices and beta-strands [3]. Fold
+recognition algorithms were used to score sequence compatibility with a
+library of known structures: the vWF domain fold was predicted to be a
+doubly-wound, open, twisted beta-sheet flanked by alpha-helices [5]. 
+
+3D structures have been determined for the I-domains of integrins CD11b
+(with bound magnesium) [6] and CD11a (with bound manganese) [7]. The domain 
+adopts a classic alpha/beta Rossmann fold and contains an unusual metal 
+ion coordination site at its surface. It has been suggested that this site
+represents a general metal ion-dependent adhesion site (MIDAS) for binding 
+protein ligands [6]. The residues constituting the MIDAS motif in the CD11b
+and CD11a I-domains are completely conserved, but the manner in which the 
+metal ion is coordinated differs slightly [7]. 
+
+VWFADOMAIN is a 3-element fingerprint that provides a signature for the vWF
+domain superfamily. The fingerprint was derived from an initial alignment 
+of 14 sequences. Motif 1 includes the first beta-strand and 3 conserved 
+residues involved in metal ion coordination in I-domains (Asp and 2 serines
+in positions 8, 10 and 12, respectively); motif 2 spans strands beta-2 and
+beta-2'; and motif 3 encodes beta-strand 3 and a conserved Asp (in position
+7), which coordinates the metal ion [6,7]. Three iterations on OWL27.0 were
+required to reach convergence, at which point a true set comprising 56
+sequences was identified. Numerous partial matches were also found.
+
+An update on SPTR37_9f identified a true set of 52 sequences, and 11
+partial matches.

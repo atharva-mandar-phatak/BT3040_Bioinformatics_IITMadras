@@ -1,0 +1,31 @@
+V8PROTEASE
+In a number of prokaryotic proteases the catalytic activity is provided by
+a charge relay system analagous to that of the trypsin family of serine
+proteases, but which probably evolved by independent convergent evolution
+[1,2]. The sequences around the catalytic residues (Asp, Ser and His) are 
+completely different from those of the corresponding residues in trypsin
+serine proteases. 
+
+These proteins belong to family S2B of the peptidase classification system
+[3]. Members include S.aureus V8 protease, which preferentially cleaves
+peptide bonds C-terminal to Asp and Glu residues; B.licheniformis glutamate-
+specific endopeptidase [4], which also cleaves on the C-terminal side of 
+acidic residues, but with strong preference for glutamate; B.subtilis
+extracellular "metalloprotease" [5]; and S.aureus exfoliative (or 
+epidermolytic) toxins A and B, which cause impetigous diseases (also known
+as Staphylococcal scalded skin syndrome).
+
+V8PROTEASE is a 6-element fingerprint that provides a signature for the
+V8 family of serine proteases. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length - motif 2 includes the
+region encoded by PROSITE pattern V8_HIS (PS00672), which contains the
+active site His; and motif 5 spans the region encoded by PROSITE pattern
+V8_SER (PS00673), which includes the active site serine. A single iteration
+on OWL30.0 was required to reach convergence, no further sequences being 
+identified beyond the starting set. Several partial matches were also found, 
+all of which appear to be related proteases that match motif 5, and most of
+which also match motif 6.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 8
+partial matches.

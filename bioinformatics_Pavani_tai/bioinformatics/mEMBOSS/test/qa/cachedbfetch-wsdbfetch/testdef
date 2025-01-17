@@ -1,0 +1,14 @@
+ID cachedbfetch-wsdbfetch
+RQ soapws
+CC requires (axis2C) SOAP webservices library enabled
+CC this test can be disabled using -without=soapws option
+AP cachedbfetch
+CL -servername twsdbfetch -auto
+CL -cachefile ~/.embossdata/qatests.server.twsdbfetch
+QQ cp ~/.embossdata/qatests.server.twsdbfetch .
+FI qatests.server.twsdbfetch
+FP 1 /^DB uniprotkb /
+FP /embl/
+FI stderr
+FC < 145
+//

@@ -1,0 +1,21 @@
+HTHLACI
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+ascG, ccpA, cytR, ebgR, fruR, galR, galS, lacI, malI, opnR, purF, rafR,
+rbtR and scrR [1-2]. Within this family, the HTH motif is situated towards
+the N-terminus.
+
+HTHLACI is a 2-element fingerprint that provides a signature for the HTH
+motif of the lacI bacterial regulatory proteins. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs completely
+encompass the HTH motif (cf. PROSITE pattern HTH_LACI_FAMILY (PS00356)).
+Two iterations on OWL21.1 were required to reach convergence, at which
+point a true set comprising 22 sequences was identified. The raffinose
+operon, which is not detected by the PROSITE pattern, is similarly not
+identified by the fingerprint, as it matches strongly only with the second
+motif. The fingerprint also fails to identify the Agrobacterium opnR
+protein, which lacks a significant match with the first motif.
+
+An update on SPTR37_9f identified a true set of 64 sequences.

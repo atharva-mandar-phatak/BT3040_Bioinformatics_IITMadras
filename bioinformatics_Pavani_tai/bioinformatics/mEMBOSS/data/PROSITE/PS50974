@@ -1,0 +1,44 @@
+************************************
+* AdoMet activation domain profile *
+************************************
+
+Prokaryotic and    eukaryotic   B12-dependent   methionine   synthase   (MetH)
+(EC 2.1.1.13)  is  a  large,  modular protein that catalyses the transfer of a
+methyl group  from methyltetrahydrofolate (CH3-H4folate) to homocysteine (Hcy)
+to form  methionine,  using  cobalamin as an intermediate methyl carrier. MetH
+enzymes consist  of  four functional modules arranged in a linear fashion with
+single interdomain  connectors.  The  N-terminal  Hcy domain (see <PDOC50970>)
+utilizes a  Zn(Cys)3  cluster to bind and activate Hcy, the second module, the
+pterin-binding domain   (see  <PDOC50972>),  activates  methyltetrahydrofolate
+(CH3-H4folate) for  methyl transfer, and the third module binds cobalamin. The
+fourth C-terminal  module  binds  S-adenosylmethionine (AdoMet, or SAM) and is
+required for  reductive  activation. The ~330-residue AdoMet activation domain
+of MetH  is  a  C-shaped  single  domain  whose  central  feature  is  a  bent
+antiparallel beta-sheet (see <PDB:1MSK>. The AdoMet ligand binds to the domain
+near the center of the inner face of the 'C' and is held in place by both side
+chain and backbone interactions. The three-dimensional structure of the AdoMet
+activation domain  of  MetH  is  unlike any of the recently determined AdoMet-
+dependent DNA-  and RNA-methyltransferases or the catechol O-methyltransferase
+[1].
+
+The profile we developed covers the entire AdoMet activation domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / First entry.
+
+[ 1] Dixon M.M., Huang S., Matthews R.G., Ludwig M.
+     "The structure of the C-terminal domain of methionine synthase:
+     presenting S-adenosylmethionine for reductive methylation of B12."
+     Structure 4:1263-1275(1996).
+     PubMed=8939751
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,64 @@
+******************************
+* Vinculin family signatures *
+******************************
+
+Vinculin [1] is  a eukaryotic  protein  that  seems  to  be  involved  in  the
+attachment of the actin-based microfilaments to the plasma membrane.  Vinculin
+is located  at  the cytoplasmic  side  of  focal contacts or adhesion plaques.
+In addition to actin, vinculin interacts  with  other structural proteins such
+as talin and alpha-actinins.
+
+Vinculin is a large protein of 116 Kd (about a 1000 residues).    Structurally
+the protein  consists of an  acidic N-terminal domain of about 90 Kd separated
+from a basic C-terminal  domain  of  about  25 Kd by  a proline-rich region of
+about 50 residues.  The  central part of  the  N-terminal domain consists of a
+variable number (3 in vertebrates, 2 in Caenorhabditis elegans)  of repeats of
+a 110 amino acids domain.
+
+Catenins [2] are  proteins  that  associate with  the  cytoplasmic domain of a
+variety of cadherins. The  association  of  catenins to  cadherins  produces a
+complex which is linked  to the actin filament network, and which  seems to be
+of primary importance for cadherins cell-adhesion properties.  Three different
+types  of  catenins seem to exist: alpha, beta, and gamma.  Alpha-catenins are
+proteins of about 100 Kd which  are  evolutionary  related  to  vinculin.   In
+term of their structure  the most significant  differences are the absence, in
+alpha-catenin, of the repeated domain and of the proline-rich segment.
+
+We developed two signature patterns  for  this family of proteins.   The first
+pattern is located in the  N-terminal  section  of  both  vinculin  and alpha-
+catenins and is part, in vinculin, of a domain that seems to be  involved with
+the interaction with talin.  The second pattern is based on a conserved region
+in the N-terminal part of the repeated domain of vinculin.
+
+-Consensus pattern: [KR]-x-[LIVMF]-x(3)-[LIVMA]-x(2)-[LIVM]-x(6)-R-Q-Q-E-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-x-[QA]-A-x(2)-W-[IL]-x-[DN]-P
+-Sequences known to belong to this class detected by the pattern: vinculins.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Note: This pattern will pick up all copies of the repeated domain.
+
+-Last update: June 1994 / Patterns and text revised.
+
+[ 1] Otto J.J.
+     "Vinculin."
+     Cell Motil. Cytoskeleton 16:1-6(1990).
+     PubMed=2112986
+[ 2] Herrenknecht K., Ozawa M., Eckerskorn C., Lottspeich F., Lenter M.,
+     Kemler R.
+     "The uvomorulin-anchorage protein alpha catenin is a vinculin
+     homologue."
+     Proc. Natl. Acad. Sci. U.S.A. 88:9156-9160(1991).
+     PubMed=1924379
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

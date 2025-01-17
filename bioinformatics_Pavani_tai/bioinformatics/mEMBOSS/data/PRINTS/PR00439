@@ -1,0 +1,26 @@
+11SGLOBULIN
+Plant seed storage proteins that provide the major nitrogen source for
+developing plants may be classified into a number of different families.
+The 11-S family are non-glycosylated proteins that form hexameric
+structures [1,2]. Each of the constituent subunits comprises an acidic and
+a basic chain derived from a single precursor and linked by a disulphide
+bond. Members of the 11-S family include pea and broad bean legumins; rape
+cruciferin; rice glutelins; cotton beta-globulins; soybean glycinins;
+pumpkin 11-S globulin; oat globulin; and so on.
+
+11SGLOBULIN is a 6-element fingerprint that provides a signature for the
+11-S family of plant seed storage proteins. The fingerprint was derived 
+from an initial alignment of 7 sequences: the motifs were drawn from
+conserved regions spanning the basic, C-terminal portion of the alignment,
+motif 1 including the region encoded by PROSITE pattern 11S_SEED_STORAGE
+(PS00305), which contains both the cleavage site between the acidic and
+basic chains, and the proximal Cys involved in interchain disulphide bond
+formation. Three iterations on OWL26.0 were required to reach convergence,
+at which point a true set comprising 90 sequences was identified. Twenty
+partial matches were also found, all of which are fragments and related
+plant storage proteins. 
+
+An update on SPTR57.15_40.15f identified a true set of 197 sequences.
+Numerous partial matches were also found, all of which are related plant
+storage proteins and translated genomic sequences that fail to match one or
+more motifs.

@@ -1,0 +1,36 @@
+****************************************************
+* Uncharacterized protein family UPF0029 signature *
+****************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Yeast chromosome III hypothetical protein YCR59c.
+ - Yeast chromosome IV hypothetical protein YDL177C.
+ - Escherichia  coli  hypothetical  protein yigZ and HI0722, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein yvyE.
+ - A Thermus aquaticus hypothetical protein in pol 5'region.
+
+These proteins can be picked up in the database by the following pattern.
+
+-Consensus pattern: G-x(2)-[LIVM](2)-x(2)-[LIVM]-x(4)-[LIVM]-x(5)-[LIVM](2)-x-
+                    R-[FYW](2)-G-G-x(2)-[LIVM]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Koonin E.V., Bork P., Sander C.
+     "Yeast chromosome III: new gene functions."
+     EMBO J. 13:493-503(1994).
+     PubMed=8313894
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

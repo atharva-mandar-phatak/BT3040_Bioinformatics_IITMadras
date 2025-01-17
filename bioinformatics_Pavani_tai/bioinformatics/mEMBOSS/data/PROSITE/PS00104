@@ -1,0 +1,57 @@
+****************************
+* EPSP synthase signatures *
+****************************
+
+EPSP   synthase (3-phosphoshikimate  1-carboxyvinyltransferase)  (EC 2.5.1.19)
+catalyzes the sixth step  in the biosynthesis from  chorismate of the aromatic
+amino acids (the shikimate pathway)  in bacteria (gene aroA), plants and fungi
+(where it is part of a multifunctional enzyme which catalyzes five consecutive
+steps in  this  pathway) [1]. EPSP synthase has been extensively studied as it
+is the target of the potent herbicide glyphosate which inhibits the enzyme.
+
+The sequence  of EPSP from various biological sources shows that the structure
+of the  enzyme  has  been well conserved throughout evolution. We selected two
+conserved regions  as  signature  patterns. The first pattern corresponds to a
+region that  is  part  of  the active site and which is also important for the
+resistance to  glyphosate [2]. The second pattern is located in the C-terminal
+part of  the  protein  and  contains  a  conserved  lysine  which  seems to be
+important for the activity of the enzyme.
+
+-Consensus pattern: [LIVF]-{LV}-x-[GANQK]-[NLG]-[SA]-[GA]-[TAI]-[STAGV]-{N}-R-
+                    x-[LIVMFYAT]-x-[GSTAP]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Mycobacterium tuberculosis aroA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [KR]-x-[KH]-E-[CSTVI]-[DNE]-R-[LIVMY]-x-[GSTAVLD]-
+                    [LIVMCTF]-x(3)-[LIVMFA]-x(2)-[LIVMFCGANY]-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Lactococcus lactis and Staphylococcus aureus aroA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Stallings W.C., Abdel-Meguid S.S., Lim L.W., Shieh H.-S., Dayringer H.E.,
+     Leimgruber N.K., Stegeman R.A., Anderson K.S., Sikorski J.A.,
+     Padgette S.R., Kishore G.M.
+     "Structure and topological symmetry of the glyphosate target
+     5-enolpyruvylshikimate-3-phosphate synthase: a distinctive protein
+     fold."
+     Proc. Natl. Acad. Sci. U.S.A. 88:5046-5050(1991).
+     PubMed=11607190;
+[ 2] Padgette S.R., Re D.B., Gaser C.S., Eicholtz D.A., Frazier R.B.,
+     Hironaka C.M., Levine E.B., Shah D.M., Fraley R.T., Kishore G.M.
+     "Site-directed mutagenesis of a conserved region of the
+     5-enolpyruvylshikimate-3-phosphate synthase active site."
+     J. Biol. Chem. 266:22364-22369(1991).
+     PubMed=1939260;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

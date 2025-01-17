@@ -1,0 +1,43 @@
+5HTTRANSPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane helices and includes 
+carriers for gamma-aminobutyric acid (GABA), noradrenaline/adrenaline, 
+dopamine, serotonin, proline, glycine, choline, betaine and taurine. They
+are structurally distinct from the second more-restricted family of plasma
+membrane transporters, which are responsible for excitatory amino acid
+tranport. The latter couple glutamate and aspartate uptake to the co-
+transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5].
+
+The 5-HT neurotransmitter transporter is known to be expressed in the brain
+and also in the periphery: on platelet, placental and pulmonary cell
+membranes. The brain 5-HT transporter is thought to be the principal site
+of action of therapeutic anti-depressants (which inhibit this transporter),
+and it may also mediate the behavioural effects of cocaine and amphetamines
+[6].  The human form (630 amino acids) is 92% identical to the rat brain
+5-HT transporter, and shares the same predicted topology and conserved sites
+for post-translational modification.
+
+5HTTRANSPORT is a 4-element fingerprint that provides a signature for the
+5-HT neurotransmitter transporter. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions located within the N-terminal portion of the alignment, focusing on
+those sections that characterise the 5-HT transporter but distinguish it
+from others - motifs 1-4 all reside within the putative cytoplasmic
+N-terminus. A single iteration on SPTR37_9f was required to reach
+convergence, no further sequences being identified beyond the starting set.

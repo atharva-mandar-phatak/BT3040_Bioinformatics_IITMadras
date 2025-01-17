@@ -1,0 +1,24 @@
+HTHCRO
+The cro family comprises a set of small, single-domain DNA binding proteins
+that regulate phage transcription by binding to DNA in a sequence-specific 
+manner using a characteristic helix-turn-helix (HTH) motif [1]. The motif 
+occurs between residues 16-35: it consists of 2 alpha-helices joined by a 
+short turn that contains a critically conserved glycine (position 9 in
+the motif). The second helix binds to DNA via a number of hydrogen bonds 
+and hydrophobic interactions, which occur between specific side chains and 
+the exposed bases and thymine methyl groups within the major groove of the 
+DNA [3]. The first helix helps to stabilise the structure [4]. This motif 
+is very similar in sequence and structure to the N-terminal region of the 
+lamda [2] and other repressor proteins, and has also been identified in 
+many other DNA-binding proteins on the basis of sequence and structure 
+similarity [1]. 
+
+HTHCRO is a 2-element fingerprint that provides a signature for the HTH
+motif of cro repressors. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs span the complete motif and hinge on
+the conserved glycine. Two iterations on OWL19.1 were required to reach
+convergence, at which point a true set comprising 15 sequences was
+identified. One cro sequence was not found, RCRO_BPP22, which appears
+to be more similar to other repressor proteins than to the cro family.
+
+An update on SPTR37_9f identified a true set of 2 sequences.

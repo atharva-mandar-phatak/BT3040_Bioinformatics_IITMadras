@@ -1,0 +1,50 @@
+CATPATPASEA
+Proteins that transport heavy metals in micro-organisms and mammals share
+similarities in their sequences and structures. These proteins provide an
+important focus for research, some being involved in bacterial resistance
+to toxic metals, such as lead and cadmium, while others are involved in
+inherited human syndromes, such as Wilson and Menkes diseases [1].
+
+A conserved 30-residue domain has been found in a number of these heavy
+metal transport or detoxification proteins [1]. The domain, which has been
+termed Heavy-Metal-Associated (HMA), contains two conserved cysteines that
+are probably involved in metal binding. 
+
+The HMA domain has been identified in the N-terminal regions of a variety
+of cation-transporting ATPases (E1-E2 ATPases): the human copper ATPases 
+involved in Wilson and Menkes diseases (ATP7A and ATP7B) each contain 6 
+tandem copies; a chromosomal Staphylococcus aureus cadA contains two copies;
+and the copper ATPases CCC2 from budding yeast, copA from Enterococcus 
+faecalis, synA from Synechococcus, and cadmium ATPases cadA from Bacillus 
+firmus and plasmid pI258 from Staphylococcus aureus contain a single copy.
+Other ATPases that contain the HMA domain include: fixI from Rhizobium 
+meliloti; pacS from Synechococcus strain PCC 7942; Mycobacterium leprae 
+ctpA and ctpB; and Escherichia coli hypothetical protein yhhO. In addition,
+the domain has been found in bacterial mercuric reductase; the copP copper-
+binding protein of Helicobacter pylori; and in bacterial mercuric transport
+proteins.
+
+The structure of the mercuric ion-binding protein MerP from Shigella
+flexneri has been determined. The fold has been classed as a ferredoxin-like
+alpha-beta sandwich, having a beta-alpha beta-beta alpha-beta architecture,
+with the two alpha-helices overlaying a four-stranded anti-parallel beta-
+sheet [2]. Structural differences between the reduced and mercury-bound 
+forms of merP are localised to the metal-binding loop containing the 
+consensus sequence GMTCXXC, the two cysteines of which are involved in
+bi-coordination of Hg(2+) [2].
+
+Cation-transporting P-type ATPase from Mycobacterium leprae is an integral
+membrane protein, with 12 predicted transmembrane (TM) domains. The protein,
+which contains a single copy of the HMA domain, catalyses the reaction:
+
+            ATP + H(2)O = ADP + orthophosphate
+
+CATPATPASEA is an 4-element fingerprint that provides a signature for the
+cation-transporting P-type ATPases. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions in the N-terminal third of the alignment - motifs 1 and 2 lie partially
+within TM domain 1; motif 3 encodes part of TM domain 4; and motif 4 resides 
+between TM domains 4 and 5. Two iterations on SPTR55_38f were required to reach
+convergence, at which point a true set comprising 18 sequences was identified.
+A single partial match was also found, Q70K41_9ACTO, a translated nucleotide
+sequence from Gordonia westfalica that fails to match motif 4.

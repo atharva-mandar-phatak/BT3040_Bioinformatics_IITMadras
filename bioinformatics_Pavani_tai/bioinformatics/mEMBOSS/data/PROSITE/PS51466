@@ -1,0 +1,40 @@
+************************
+* PINIT domain profile *
+************************
+
+The Siz/PIAS  RING  family  of  SUMO  E3  ligases  structure reveals a modular
+architecture that  includes  an  N-terminal  PINIT  domain,  a central SP-RING
+domain (see  <PDOC51044>),  and  a  unique  C-terminal domain (SP-CTD). The N-
+terminal PINIT  domain is formed by two antiparallel beta sheets; one includes
+beta1, beta2,  beta4,  and  beta9,  and  the  other includes beta3, beta5, and
+beta8 (see  <PDB:3I2D;  A>). The beta sheets are connected by protruding loops
+(L1, L2, and L3) that join strands beta2-3, beta4-5, and beta8-9 at one end of
+the molecule,  while  beta3-4  and beta5-8 are connected by alpha helix alpha1
+and a loop, respectively, on the opposite surface [1].
+
+Most E3  ligases  achieve  substrate  specificity  by recruiting the E2~Ub/Ubl
+thioester and  substrate  into  a  complex  to  promote conjugation. The PINIT
+domain serves  as a scaffold to coordinate PCNA to promote SUMO conjugation to
+both consensus and nonconsensus lysine side chains [1].
+
+The profile we developed covers the entire PINIT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2009 / First entry.
+
+[ 1] Yunus A.A., Lima C.D.
+     "Structure of the Siz/PIAS SUMO E3 ligase Siz1 and determinants
+     required for SUMO modification of PCNA."
+     Mol. Cell 35:669-682(2009).
+     PubMed=19748360; DOI=10.1016/j.molcel.2009.07.013
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

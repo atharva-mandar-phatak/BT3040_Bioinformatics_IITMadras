@@ -1,0 +1,38 @@
+NACHANNEL1
+Voltage-dependent sodium channels are transmembrane (TM) proteins
+responsible for the depolarising phase of the action potential in most
+electrically excitable cells [1]. They may exist in 3 states [3]: the
+resting state, where the channel is closed; the activated state, where the
+channel is open; and the inactivated state, where the channel is closed
+and refractory to opening. Several different structurally and functionally
+distinct isoforms are found in mammals, coded for by a multigene family
+[4], these being responsible for the different types of sodium ion currents
+found in excitable tissues.
+                
+The structure of sodium channels is based on 4 internal repeats of a 6-helix
+bundle [2] (in which 5 of the membrane-spanning segments are hydrophobic and
+the other is positively charged), forming a 24-helical bundle. The charged
+segments are believed to be localised within clusters formed by their 5 
+hydrophobic neighbours: it is postulated that the charged domain may be the
+voltage sensor region, possibly moving outward on depolarisation, causing a
+conformational change. This model, proposed by Noda et al. [2], contrasts
+with that of Sato and Matsumoto [5], in which the TM segments are juxtaposed
+octagonally. The basic structural motif (the 6-helix bundle) is also found 
+in potassium and calcium channel alpha subunits.
+
+The SCN1A gene encodes the NaB1 channel and is particularly expressed in
+the brain, but is also found in a variety of other tissues, ranging from the
+retina to the olfactory bulb [6]. Epilepsy, a disorder of neuronal
+hyperexcitability, has been associated with altered kinetics of SCN1A, as
+well as delayed inactivation of SCN2A [7].
+
+NACHANNEL1 is a 4-element fingerprint that provides a signature for the
+voltage-gated Na+ channel alpha 1 subunit. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal third of the alignment, focusing on those
+sections that characterise the alpha 1 subunits but distinguish them from
+the rest of the voltage-gated Na+ channel superfamily - motifs 1 and 2
+reside in the loop between TM domains 5 and 6 in the first repeat; and
+motifs 3 and 4 lie in the C-terminus of the fourth repeat. A single
+iteration on SPTR40_18f was required to reach convergence, no further
+sequences being identified beyond the starting set.

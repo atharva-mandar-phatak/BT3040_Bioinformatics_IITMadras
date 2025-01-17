@@ -1,0 +1,21 @@
+NSFATTACHMNT
+The 'secretory complex' comprises a family of conserved proteins, members
+of which appear to function at all sites of constitutive and regulated
+secretion in eukaryotes [1]. Among them are 2 types of cytosolic protein:
+NSF (N-ethyl-maleimide-sensitive protein) and the SNAPs (alpha-, beta- and
+gamma-soluble NSF attachment proteins). The yeast vesicular fusion protein,
+sec17, a cytoplasmic peripheral membrane protein involved in vesicular
+transport between the endoplasmic reticulum and the golgi apparatus, shows
+a high degree of sequence similarity to the alpha-SNAP family.
+
+NSFATTACHMNT is a 7-element fingerprint that provides a signature for NSF
+and sec17 proteins. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length. Two iterations on OWL26.3 were required to reach
+convergence, at which point a true set comprising 7 sequences was
+identified. Three partial matches were also found: BI47_MOUSE is a
+fragment lacking the first motif; and DHYC_ANTCR and DHYC_TRIGR are 
+dynein beta chains.  
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 4
+partial matches.

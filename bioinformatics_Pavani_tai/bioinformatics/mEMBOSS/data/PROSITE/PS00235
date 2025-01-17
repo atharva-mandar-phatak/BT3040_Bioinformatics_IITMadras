@@ -1,0 +1,49 @@
+*******************************************************
+* Gas vesicles protein GVPc repeated domain signature *
+*******************************************************
+
+Gas vesicles are small, hollow, gas filled protein structures found in several
+cyanobacterial  and archaebacterial     microorganisms  [1].  They  allow  the
+positioning of  the  bacteria  at the favorable depth for growth. Gas vesicles
+are hollow    cylindrical tubes, closed by a hollow, conical cap  at each end.
+Both the    conical  end caps and central cylinder are made  up of 4-5 nm wide
+ribs that  run at right angles to the long axis of the structure. Gas vesicles
+seem to be constituted of two different protein components: GVPa and GVPc.
+
+GVPc is  a  minor  constituent  of gas vesicles and seems to be located on the
+outer surface.    Structurally,  cyanobacterial GVPc  consists of four or five
+tandem repeats  of  a 33  residue  sequence  flanked by sequences of 18 and 10
+residues at the N- and C-termini, respectively.
+
+We derived a  signature pattern for the repeated domain.  This signature spans
+positions 11 to 33 of that domain.
+
+-Consensus pattern: F-L-x(2)-T-x(3)-R-x(3)-A-x(2)-Q-x(3)-L-x(2)-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern is not  designed to  detect archaebacterial GVPc [2] which
+ is composed of 8  tandem  repeats of  a sequence  very  distantly (if at all)
+ related to that of cyanobacterial GVPc.
+
+-Last update: June 1992 / Text revised.
+
+[ 1] Walsby A.E., Hayes P.K.
+     "Gas vesicle proteins."
+     Biochem. J. 264:313-322(1989).
+     PubMed=2513809
+[ 2] Jones J.G., Young D.C., DasSarma S.
+     "Structure and organization of the gas vesicle gene cluster on the
+     Halobacterium halobium plasmid pNRC100."
+     Gene 102:117-122(1991).
+     PubMed=1864501
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

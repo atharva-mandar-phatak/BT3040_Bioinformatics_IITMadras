@@ -1,0 +1,34 @@
+RIBOSOMALL6
+Protein synthesis is co-ordinated in all cells by ribosomes, ribonucleo-
+protein particles containing more than 50 different proteins and several
+large RNAs [1]. Low resolution models show the protein arrangement in both
+the large and small ribosomal subunits, but higher resolution structures are
+required to reveal the detailed mechanistic functioning of the complex [2].
+
+L6 is a protein from the large (50S) subunit; in E.coli, it is located in
+the aminoacyl-tRNA binding site of the peptidyltransferase centre, and is
+known to bind directly to 23S rRNA. It belongs to a family of ribosomal
+proteins, including L6 from eubacteria, cyanelles (structures that perform
+similar functions to chloroplasts, but have structural and biochemical
+characteristics of cyanobacteria) and mitochondria. L6 comprises 2 almost
+identical folds, suggesting that is was derived by the duplication of an
+ancient RNA-binding protein gene [1]. Analysis reveals several sites on the
+protein surface where interactions with other ribosome components may
+occur, the N-terminus being involved in protein-protein interactions and
+the C-terminus containing possible RNA-binding sites [1]. 
+
+RIBOSOMALL6 is a 3-element fingerprint that provides a signature for L6
+ribosomal proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motif 3 including the region encoded
+by PROSITE pattern RIBOSOMAL_L6_1 (PS00525), a highly conserved nonapeptide
+located in the putative RNA-binding region. Two iterations on OWL24.0 were
+required to reach convergence, at which point a true set comprising 9
+sequences was identified. Two partial matches were also found, RL6_THETH
+and RM06_MARPO, both of which are fragments. Note that no archaebacterial
+L6 or eukaryotic L9 proteins were detected: these are structurally and
+functionally related to the L6 family identified, but lack significant
+sequence similarity.
+
+An update on SPTR37_9f identified a true set of 31 sequences, and 2
+partial matches.

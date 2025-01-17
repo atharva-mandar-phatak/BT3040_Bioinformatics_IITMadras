@@ -1,0 +1,46 @@
+**********************************************
+* Dephospho-CoA kinase (DPCK) domain profile *
+**********************************************
+
+Dephospho-coenzyme A  kinase  (DPCK) (EC 2.7.1.24) catalyzes the final step in
+coenzyme A (CoA) biosynthesis, the phosphorylation of the 3'-hydroxyl group of
+ribose using  ATP  as  a  phosphate  donor. DPCK is present in a wide range of
+organisms, including  bacteria,  fungi,  plants and animals. Whereas bacterial
+DPCK is  found  in stand-alone form, mammalian DPCK is associated with another
+enzyme of the CoA biosynthetic pathway, phosphopantetheine adenylyltransferase
+(PPAT) (EC 2.7.7.3), in bifunctional coenzyme A synthase (CoA synthase) [1,2].
+
+The DPCK  domain  contains  an  ATP/GTP-binding  Walker  A motif (P-loop) (see
+<PDOC00017>) in  its  N-terminal extremity. It is structurally similar to many
+nucleoside kinases   and   other   P-loop-containing  nucleotide  triphosphate
+hydrolases, despite  having  negligible  sequence similarity to these enzymes.
+The DPCK  domain  consists  of  five  parallel  beta-strands flanked by alpha-
+helices (see <PDB:1JJV>) [1,2].
+
+The profile we developed covers the entire DPCK domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2006 / Pattern removed, profile added and text revised.
+
+[ 1] Obmolova G., Teplyakov A., Bonander N., Eisenstein E., Howard A.J.,
+     Gilliland G.L.
+     "Crystal structure of dephospho-coenzyme A kinase from Haemophilus
+     influenzae."
+     J. Struct. Biol. 136:119-125(2001).
+     PubMed=11886213; DOI=10.1006/jsbi.2001.4428
+[ 2] O'Toole N., Barbosa J.A.R.G., Li Y., Hung L.-W., Matte A., Cygler M.
+     "Crystal structure of a trimeric form of dephosphocoenzyme A kinase
+     from Escherichia coli."
+     Protein Sci. 12:327-336(2003).
+     PubMed=12538896
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

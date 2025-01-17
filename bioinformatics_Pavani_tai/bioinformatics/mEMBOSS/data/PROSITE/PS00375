@@ -1,0 +1,82 @@
+**************************************
+* UDP-glycosyltransferases signature *
+**************************************
+
+UDP glycosyltransferases (UGT) are a superfamily of enzymes that catalyzes the
+addition of  the  glycosyl  group  from  a  UTP-sugar  to  a small hydrophobic
+molecule. This family currently consist of:
+
+ - Mammalian  UDP-glucoronosyl    transferases  (EC 2.4.1.17) (UDPGT) [1,2]. A
+   large family    of  membrane-bound  microsomal  enzymes  which catalyze the
+   transfer of  glucuronic  acid to a wide variety of exogenous and endogenous
+   lipophilic substrates.  These  enzymes  are  of  major  importance  in  the
+   detoxification and  subsequent elimination of xenobiotics such as drugs and
+   carcinogens.
+ - A large number of putative UDPGT from Caenorhabditis elegans.
+ - Mammalian   2-hydroxyacylsphingosine      1-beta-galactosyltransferase  [3]
+   (EC 2.4.1.45) (also known as UDP-galactose-ceramide galactosyltransferase).
+   This enzyme  catalyzes  the  transfer  of  galactose  to  ceramide,  a  key
+   enzymatic step  in  the  biosynthesis  of  galactocerebrosides,  which  are
+   abundant sphingolipids of the myelin membrane of the central nervous system
+   and peripheral nervous system.
+ - Plants flavonol O(3)-glucosyltransferase  (EC 2.4.1.91). An enzyme [4] that
+   catalyzes the  transfer  of  glucose  from  UDP-glucose to a flavanol. This
+   reaction is  essential  and  one  of  the last steps in anthocyanin pigment
+   biosynthesis.
+ - Plants limonoid glucosyltransferase (EC 2.4.1.210).
+ - Baculoviruses  ecdysteroid  UDP-glucosyltransferase (EC 2.4.1.-) [5] (egt).
+   This enzyme   catalyzes   the  transfer  of  glucose  from  UDP-glucose  to
+   ectysteroids which  are  insect  molting hormones. The expression of egt in
+   the insect  host  interferes with the normal insect development by blocking
+   the molting process.
+ - Prokaryotic  zeaxanthin  glucosyl  transferase (EC 2.4.1.-) (gene crtX), an
+   enzyme involved   in   carotenoid   biosynthesis  and  that  catalyses  the
+   glycosylation reaction   which   converts  zeaxanthin  to  zeaxanthin-beta-
+   diglucoside.
+ - Streptomyces macrolide glycosyltransferases (EC 2.4.1.-) [6]. These enzymes
+   specifically inactivates   macrolide  anitibiotics  via  2'-O-glycosylation
+   using UDP-glucose.
+
+These enzymes share a conserved domain of about 50 amino acid residues located
+in their  C-terminal  section  and  from which a pattern has been extracted to
+detect them.
+
+-Consensus pattern: [FW]-x(2)-[QL]-x(2)-[LIVMYA]-[LIMV]-x(4,6)-[LVGAC]-
+                    [LVFYAHM]-[LIVMF]-[STAGCM]-[HNQ]-[STAGC]-G-x(2)-[STAG]-
+                    x(3)-[STAGL]-[LIVMFA]-x(4,5)-[PQR]-[LIVMTA]-x(3)-[PA]-
+                    x(2,3)-[DES]-[QEHNR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dutton G.J.
+     (In) Glucoronidation of drugs and other compounds, Dutton G.J., Ed.,
+     pp 1-78, CRC Press, Boca Raton, (1980).
+[ 2] Burchell B., Nebert D.W., Nelson D.R., Bock K.W., Iyanagi T.,
+     Jansen P.L., Lancet D., Mulder G.J., Chowdhury J.R., Siest G.,
+     Tephly T.R., Mackenzie P.I.
+     DNA Cell Biol. 10:487-494(1991).
+[ 3] Schulte S., Stoffel W.
+     "Ceramide UDPgalactosyltransferase from myelinating rat brain:
+     purification, cloning, and expression."
+     Proc. Natl. Acad. Sci. U.S.A. 90:10265-10269(1993).
+     PubMed=7694285
+[ 4] Furtek D., Schiefelbein J.W., Johnston F., Nelson O.E. Jr.
+     Plant Mol. Biol. 11:473-481(1988).
+[ 5] O'Reilly D.R., Miller L.K.
+     Science 245:1110-1112(1989).
+[ 6] Hernandez C., Olano C., Mendez C., Salas J.A.
+     "Characterization of a Streptomyces antibioticus gene cluster encoding
+     a glycosyltransferase involved in oleandomycin inactivation."
+     Gene 134:139-140(1993).
+     PubMed=8244027
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

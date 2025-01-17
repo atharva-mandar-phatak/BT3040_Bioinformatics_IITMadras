@@ -1,0 +1,26 @@
+BARWIN
+Barwin is a basic protein isolated from aqueous extracts of barley seeds
+[1]. It is 125 amino acids in length, and contains 6 cysteine residues that 
+combine to form 3 disulphide bridges [1,2]. Comparative analysis shows the
+sequence to be highly similar to a 122 amino acid stretch in the C-terminal
+of the products of 2 wound-induced genes (win1 and win2) from potato, the 
+product of the hevein gene of rubber trees, and pathogenesis-related 
+protein 4 from tobacco [1,2]. The high levels of similarity to these 
+proteins, and its ability to bind saccharides, suggest that the barwin 
+domain may be involved in a common defense mechanism in plants [1,2].
+
+NMR analysis shows that the secondary structure of the barwin domain is 
+dominated by a large 4-stranded anti-parallel beta-sheet and a small 
+parallel beta-sheet [2]. Three short alpha-helices are also present, the
+remaining sequence forming loops and coils with no regular secondary
+structure elements [2].
+
+BARWIN is a 4-element fingerprint that provides a signature for the barwin
+domain. The fingerprint was derived from an initial alignment of 8 sequences:
+the motifs were drawn from conserved regions spanning virtually the full
+alignment length - motifs 2 and 4 include the regions encoded by PROSITE
+patterns BARWIN_1 (PS00771) and BARWIN_2 (PS00772), which contain conserved
+Cys residues. Two iterations on OWL28.2 were required to reach convergence,
+at which point a true set comprising 14 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

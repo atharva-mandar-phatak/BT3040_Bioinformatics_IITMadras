@@ -1,0 +1,28 @@
+NUCLEARHMG
+The gene for high mobility group (HMG)-like nuclear protein NHP2 from 
+S.cerevisiae has been cloned and characterised [1]. NHP2 has been termed
+'HMG-like' in that it shares certain physical/chemical properties with
+HMG proteins from higher eukaryotes. Nevertheless, it shows no significant
+sequence similarity to such proteins, and thus constitutes a distinct HMG
+protein class. NHP2 does, however, share sequence similarity with two
+ribosomal proteins: the acidic ribosomal protein S6 from H.marismorium
+and mammalian L7a ribosomal protein [2]. 
+
+The biological implications of the observed similarities to S6 and L7a are
+unclear, as biochemical studies have indicated that NHP2 is not a ribosomal
+protein. Nevertheless, deletion experiments have indicated NHP2 to have an
+essential physiological function [1].
+
+NUCLEARHMG is a 4-element fingerprint that provides a signature for high-
+mobility group-like proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from short conserved
+N- and C-terminal sections, focusing on those regions that characterise the
+nuclear HMG-like proteins but distinguish them from the L7A/RS6 family of
+ribosomal proteins - motifs 1-3 span the N-terminus; and motif 4, which lies
+towards the C-terminus, includes part of the region encoded by PROSITE
+pattern RIBOSOMAL_L7AE (PS01082). A single iteration on OWL30.2 was required
+to reach convergence, no further sequences being identified beyond the
+starting set. A single partial match was found, RS6X_METJA, a related 30S
+ribosomal HS6-like protein that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

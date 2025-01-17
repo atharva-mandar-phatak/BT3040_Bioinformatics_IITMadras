@@ -1,0 +1,23 @@
+PRORICH
+Keratinocytes from the skin epidermis are functionally specialised to
+protect against the damaging effects of external agents, including 
+ultraviolet (UV) light [1]. The presence of damage somewhere in genomic DNA
+activates a signal transduction cascade, which results in the expression of
+a number of genes, including the gene for small proline-rich proteins [2].
+These proteins are rich in Pro, Cys and Gln and are either structural 
+proteins or metal-binding proteins. They can also bind DNA, however, since 
+they contain many Lys, Ser and Thr residues, which are known to mediate 
+DNA-binding in repressor proteins [1]. Small proline-rich proteins are also
+found in higher concentrations during normal keratinocyte differentiation, 
+although the reason for this is unclear [2].
+
+PRORICH is a 5-element fingerprint that provides a signature for small 
+proline-rich repeats. The fingerprint was derived from an initial alignment
+of 6 sequences: in general, motifs were drawn from conserved Gln/Pro/Cys-
+rich regions. A single iteration on OWL20.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+A single partial match was also found, S48958, which fails to make a
+significant match with motif 5.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 8
+partial matches.

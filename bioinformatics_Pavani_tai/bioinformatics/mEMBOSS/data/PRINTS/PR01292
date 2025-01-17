@@ -1,0 +1,63 @@
+RETNOICACIDR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+The retinoic acid receptors (RAR) belong to the large family of ligand 
+responsive gene regulatory proteins that includes receptors for steroid and
+thyroid hormones [4]. These proteins contain two highly conserved domains
+that are involved in determining their DNA and ligand-binding activities [4].
+Three distinct RARs have been identified (termed RAR alpha, beta, and gamma)
+and are encoded by genes on separate chromosomes [4]. Additional isoforms
+of the receptors have been described, all of which differ in the N-terminal
+regions [4]. Comparison of the amino acid sequences of human and mouse RARs
+indicates that interspecies conservation in members of the RAR subfamily 
+(either alpha, beta or gamma) is much higher than conservation of the
+receptors within species [5]. These observations indicate that RAR-alpha, 
+-beta and -gamma may perform specific functions [5]. hRAR-gamma RNA has 
+been shown to be the predominant RAR RNA species in human skin, suggesting
+that hRAR-gamma mediates some of the retinoid effects in this tissue [4]. 
+
+The crystal structure of the ligand-binding domain (LBD) of the hRAR-gamma
+bound to all-trans retinoic acid has been determined to 2.0A resolution [6].
+Overall, the fold is similar to that of the human RXR-alpha apo-LBD, except
+for the C-terminal portion, which folds back towards the LBD core, 
+contributing to the hydrophobic ligand pocket and 'sealing' its entry site
+[6]. A 'mouse trap' mechanism is thus proposed, whereby a ligand-induced 
+conformational transition re-positions the amphipathic alpha-helix of the
+activating domain and forms a transcriptionally active receptor [6]. 
+
+RETNOICACIDR is a 10-element fingerprint that provides a signature for
+retinoic acid (RAR) receptors. The fingerprint was derived from an initial
+alignment of 12 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the retinoic acid receptors but distinguish them from
+the rest of the steroid hormone receptor superfamily - motif 1 lies towards
+the C-terminus of the modulating domain; motifs 2 and 3 lie immediately 
+C-terminal to the zinc finger domain within the hinge region; and motifs
+4-10 span the ligand-binding domain - motif 4 includes helix 2; motif 5
+encodes helix 3; motif 6 spans strands 1-3 and helix 6; motif 7 spans the
+C-terminal half of helix 8 and helix 9; motif 8 encodes helix 11; motif 9
+encodes the C-terminus of helix 12; and motif 10 spans helix 13. Two
+iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 26 sequences was identified.

@@ -1,0 +1,60 @@
+**********************************************
+* Nucleoside diphosphate kinases active site *
+**********************************************
+
+Nucleoside diphosphate kinases (EC 2.7.4.6) (NDK) [1] are enzymes required for
+the synthesis of nucleoside triphosphates (NTP)  other than ATP.  They provide
+NTPs for   nucleic   acid   synthesis,   CTP  for  lipid  synthesis,  UTP  for
+polysaccharide synthesis  and  GTP for protein elongation, signal transduction
+and microtubule polymerization.
+
+In eukaryotes, there seems to be a small family  of NDK isozymes each of which
+acts in  a  different subcellular compartment and/or has a distinct biological
+function. Eukaryotic NDK isozymes are hexamers of two highly related chains (A
+and B)  [2].    By  random association (A6, A5B...AB5, B6), these two kinds of
+chain form isoenzymes differing in their isoelectric point.
+
+NDK are  proteins  of  17  Kd  that  act  via a ping-pong mechanism in which a
+histidine residue  is  phosphorylated, by transfer  of  the terminal phosphate
+group from  ATP.  In the presence of magnesium, the phosphoenzyme can transfer
+its phosphate group to any NDP, to produce an NTP.
+
+NDK isozymes have been  sequenced from prokaryotic and eukaryotic sources.  It
+has also been shown [3] that the Drosophila awd (abnormal wing discs) protein,
+is a  microtubule-associated NDK.  Mammalian NDK  is also  known as metastasis
+inhibition factor nm23.
+
+The sequence of NDK has been highly  conserved through evolution.  There  is a
+single histidine  residue  conserved  in  all  known  NDK  isozymes,  which is
+involved in  the  catalytic mechanism [2]. Our signature pattern contains this
+residue.
+
+-Consensus pattern: N-x(2)-H-[GA]-S-D-[GSA]-[LIVMPKNE]
+                    [H may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: May 2004 / Text revised.
+
+[ 1] Parks R., Agarwal R.
+     (In) The Enzymes (3rd edition) 8:307-334(1973).
+[ 2] Gilles A.-M., Presecan E., Vonica A., Lascu I.
+     "Nucleoside diphosphate kinase from human erythrocytes. Structural
+     characterization of the two polypeptide chains responsible for
+     heterogeneity of the hexameric enzyme."
+     J. Biol. Chem. 266:8784-8789(1991).
+     PubMed=1851158
+[ 3] Biggs J., Hersperger E., Steeg P.S., Liotta L.A., Shearn A.
+     "A Drosophila gene that is homologous to a mammalian gene associated
+     with tumor metastasis codes for a nucleoside diphosphate kinase."
+     Cell 63:933-940(1990).
+     PubMed=2175255
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

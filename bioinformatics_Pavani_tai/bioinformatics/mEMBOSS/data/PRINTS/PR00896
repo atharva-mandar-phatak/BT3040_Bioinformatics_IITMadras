@@ -1,0 +1,53 @@
+VASOPRESSINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Vasopressin and oxytocin are members of the neurohypophyseal hormone family
+found in all mammalian species [6]. They are present in high levels in the
+posterior pituitary. Vasopressin has an essential role in the control of 
+the water content of the body, acting in the kidney to increase water and
+sodium absorption [6]. In higher concentrations, vasopressin stimulates
+contraction of vascular smooth muscle, stimulates glycogen breakdown in the
+liver, induces platelet activation, and evokes release of corticotrophin 
+from the anterior pituitary [6]. Vasopressin and its analogues are used
+clinically to treat diabetes insipidus [6]. Oxytocin stimulates contraction 
+of uterine smooth muscle, and stimulates milk secretion in response to 
+suckling by inducing contraction of myoepithelial cells in the mammary gland
+[6]. Clinically, it is used to induce labour and promote lactation.
+
+VASOPRESSINR is an 8-element fingerprint that provides a signature for the
+vasopressin receptor family. The fingerprint was derived from an initial
+alignment of 19 sequences: the motifs were drawn from conserved sections
+spanning the full alignment length, focusing on those regions that
+characterise the vasopressin family of receptors but distinguish them from
+the rest of the rhodopsin-like GPCRs - motif 1 lies at the N-terminus,
+leading into the first TM domain; motif 2 spans the C-terminus of the first
+cytoplasmic loop, leading into TM domain 2; motif 3 lies in the first
+external loop; motif 4 lies in the second external loop; motif 5 lies at 
+the C-terminus of TM domain 5, leading into the third cytoplasmic loop; 
+motif 6 lies at the C-terminus of the third cytoplasmic loop, leading into
+TM domain 6; motif 7 lies in the third external loop; and motif 8 resides
+at the C-terminus of TM domain 7. Two iterations on OWL30.1 were required
+to reach convergence, at which point a true set comprising 25 sequences was
+identified. Several partial matches were also found, all of which are
+fragments, or closely related rhodopsin-like GPCRs that fail to match one
+or more motifs.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 2
+partial matches.

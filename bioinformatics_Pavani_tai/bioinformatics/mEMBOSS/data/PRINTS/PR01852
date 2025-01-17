@@ -1,0 +1,35 @@
+SIBAPROTEIN
+At present, Streptococci are amongst the most medically important bacterial
+species, causing a variety of diseases across a wide range of age groups 
+[1]. They are non-motile, Gram-positive cocci that are facultative or 
+obligate anaerobes, and occur in pairs or chains [1]. These microbes can be
+separated into groups according to their serological specificity, group A 
+streptococci (GAS) being amongst the most virulent and showing the most
+antibiotic resistance [1]. 
+
+To combat the sudden surge of infections caused by GAS, namely S.pyogenes 
+and S.pneumoniae, researchers have turned to the wealth of information 
+contained within streptococcal genomes as a source of novel drug and vaccine
+targets [2]. This, coupled with other techniques, such as microarray
+analysis and comparative genomics, are providing insights into the
+variations between clinical strains and avirulent commensal bacteria [2]. 
+Virulence factors, like the well-characterised glucan-binding protein from
+S.mutans are useful in assigning function to novel ORFs in new genomes [3].
+
+An example of this approach is the recent discovery of the SibA secreted
+protein of S.pyogenes, an immunoglobulin binding moiety that is completely
+different from the classical Ig-binding M protein of other GAS isolates [4].
+It shows similarity to other GAS glucan-binding proteins and secreted 
+antigens, suggesting a common ancestor [4]. Deletional studies in vitro 
+showed that it is essential for virulence, and has several homologues in 
+other Gram-positive pathogens [4].
+
+SIBAPROTEIN is a 4-element fingerprint that provides a signature for the
+Streptococcal non-M secreted SibA protein family. The fingerprint was
+derived from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal portion of the alignment. Two 
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 8 sequences was identified. Two partial matches were
+also found: Q93RG6 is Streptococcus intermedius hypothetical protein that
+fails to match motif 1; and Q99VV6 is a Staphylococcus aureus secretory 
+antigen SSAA homologue that matches motifs 2 and 3.

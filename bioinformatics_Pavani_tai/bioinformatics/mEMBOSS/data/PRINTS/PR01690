@@ -1,0 +1,55 @@
+TASK5CHANNEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered to
+be an essential element of the aqueous K+-selective pore. Shaker-type and
+Kir K+ channel subunits both contain a single P-domain, and four such
+subunits are thought to associate to form a multimer, together with
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunit was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one but two P-domains in each
+subunit, and evidence suggests a complete channel may be formed by the
+dimerisation of two such subunits.
+
+The first member of this family (TOK1) cloned from S.cerevisiae [1] is
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show  
+inward or outward rectification, their activity may be modulated in
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these disparate 
+properties, they are all thought to share the same topology of four TM 
+segments, including two P-domains. That TWIK-related K+ channels all produce
+instantaneous and non-inactivating K+ currents, which do not display a
+voltage-dependent activation threshold, suggests that they are background
+(leak) K+ channels involved in the generation and modulation of the resting
+membrane potential in various cell types. Further studies have revealed that
+they may be found in many species, including: plants, invertebrates and 
+mammals.
+
+The TASK (TWIK-related acid-sensitive K+ channel) family contains five
+members (TASK1-5), which share no more than 54% amino acid identity. These
+form functional K+ channels in various cell types and encode background
+K+ channels, thereby helping to set the resting membrane potential. All
+members are very sensitive to variations in extracellular pH in the
+physiological range, changing from fully-open to closed in approximately
+0.5pH units around pH7.4. Thus, they may well constitute biological sensors
+of external pH variations [7].
+
+TASK-5 is expressed in the pancreas, liver, kidney, lung, ovary, testis and
+heart. It requires another as yet unidentified partner subunit to form 
+functional channels in the plasma membrane, or it may form a channel in an
+intracellular organelle [8,9].
+
+TASK5CHANNEL is a 4-element fingerprint that provides a signature for the
+TASK-5 K+ channel. The fingerprint was derived from an initial alignment of
+2 sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise
+TASK-5 proteins but distinguish them from related TASK family members -
+motif 1 lies at the N-terminus; and motifs 2-4 span the C-terminus. A
+single iteration on SPTR40_18f was required to reach convergence, no
+further sequences being identified beyond the starting set.

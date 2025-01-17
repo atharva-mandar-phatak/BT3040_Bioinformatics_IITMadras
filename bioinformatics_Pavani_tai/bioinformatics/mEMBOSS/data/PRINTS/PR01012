@@ -1,0 +1,43 @@
+NRPEPTIDEYR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide Y (NPY) is one of the most abundant peptides in mammalian
+brain, inducing a variety of behavioural effects (e.g., stimulation of food
+intake, anxiety, facilitation of learning and memory, and regulation of the
+cardiovascular and neuroendocrine systems) [6]. In the periphery, NPY 
+stimulates vascular smooth muscle contraction and modulates hormone
+secretion. NPY has been implicated in the pathophysiology of hypertension, 
+congestive heart failure, affective disorders and appetite regulation [6].
+
+NRPEPTIDEYR is a 5-element fingerprint that provides a signature for
+neuropeptide Y receptors. The fingerprint was derived from an initial
+alignment of 11 sequences: the motifs were drawn from conserved sections
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the neuropeptide Y receptors but distinguish them from the
+rest of the rhodopsin-like GPCR superfamily - motif 1 spans the first 
+cytoplasmic loop; motif 2 spans the first external loop; motif 3 encodes
+the N-terminal portion of TM domain 3; motif 4 spans the central portion 
+of TM domain 7; and motif 5 lies at the C-terminus. Two iterations on
+OWL30.2 were required to reach convergence, at which point a true set 
+comprising 20 sequences was identified. Several partial matches were also
+found, all of which are superfamily members that match two motifs. 
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 9
+partial matches.

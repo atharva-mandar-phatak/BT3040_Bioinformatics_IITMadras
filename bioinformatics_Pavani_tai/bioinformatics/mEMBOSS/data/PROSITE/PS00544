@@ -1,0 +1,60 @@
+**************************************
+* Methylmalonyl-CoA mutase signature *
+**************************************
+
+Methylmalonyl-CoA mutase  (EC 5.4.99.2)  (MCM)  [1]  is  an  adenosylcobalamin
+(vitamin B12)  dependent  enzyme  that  catalyzes  the  isomerization  between
+methylmalonyl-CoA and succinyl-CoA.   MCM is  involved in various catabolic or
+biosynthetic pathways; for example in man it is involved in the degradation of
+several amino acids, odd-chain  fatty acids  and cholesterol via propionyl-CoA
+to the tricarboxylic acid cycle; while in some bacteria it is involved  in the
+synthesis of propionate from tricarboxylic acid-cycle intermediates.
+
+Deficiency of MCM in  man  causes  an  often  fatal  disorder  of organic acid
+metabolism termed methylmalonic acidemia.
+
+In eukaryotes MCM is located in the mitochondrial matrix and is a homodimer of
+a polypeptide  chain  of  about 710 amino acids. In bacteria MCM is a dimer of
+two non-identical, yet structurally related chains.
+
+The sequences  of  eukaryotic and prokaryotic MCM  are  rather well conserved.
+This family  also  includes  an  Escherichia  coli  protein  (gene  sbm) whose
+function is not yet known.
+
+As a signature pattern  we selected the best conserved region which is located
+in the central part of these sequences.
+
+-Consensus pattern: R-I-A-R-N-[TQ]-x(2)-[LIVMFY](2)-x-[EQH]-E-x(4)-[KRN]-x(2)-
+                    D-P-x-[GSA]-G-S
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for meaA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: A small degree of similarity is said [2]  to  exist between MCM and the
+ large subunit of the adenosylcobalamin-dependent enzyme ethanolamine ammonia-
+ lyase, but this similarity is so weak  that these two type of enzymes can not
+ be detected by a single pattern.
+
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Ledley F.D.
+     "Perspectives on methylmalonic acidemia resulting from molecular
+     cloning of methylmalonyl CoA mutase."
+     BioEssays 12:335-340(1990).
+     PubMed=1975493
+[ 2] Faust L.R.P., Connor J.A., Roof D.M., Hoch J.A., Babior B.M.
+     "Cloning, sequencing, and expression of the genes encoding the
+     adenosylcobalamin-dependent ethanolamine ammonia-lyase of Salmonella
+     typhimurium."
+     J. Biol. Chem. 265:12462-12466(1990).
+     PubMed=2197274
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

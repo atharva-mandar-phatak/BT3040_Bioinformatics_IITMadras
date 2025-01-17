@@ -1,0 +1,64 @@
+**********************
+* WIF domain profile *
+**********************
+
+The WIF   domain  is  an  around  140-amino  acid  module  which  presents  an
+independent folding  unit  in  receptor  molecules  that bind to palmitoylated
+signaling proteins.  It has been identified in the extracellular region of the
+Ryk receptor  tyrosine  kinases  and  in  the secreted Wnt-inhibitory-factor-1
+(WIF-1) proteins.  As  the WIF module is both necessary and sufficient for Wnt
+binding by  WIF-1,  it  has been proposed that the WIF module of Ryk receptors
+might also  serve  to  bind  to  Wnt  proteins or related ligands. It has been
+suggested that  the  WIF  domain  recognizes  and binds to Wnts that have been
+activated by  palmitoylation.  The  WIF modules found in Ryk receptor tyrosine
+kinases and  WIF-1  proteins  contain conserved sequence motifs, including two
+conserved cysteines which form a disulfide bridge [1,2].
+
+The fold  of  the  WIF  domain  is  related  to  the  immunoglobulin fold (see
+<PDOC50835>). It  comprises  nine beta-strands and two alpha-helices, with two
+of the  beta-strands  (6  and  9)  interrupted  by  four  and  six residues of
+irregular secondary  structure,  respectively  (see  <PDB:2D3J>).  The N and C
+termini are  located  at  opposite  ends  of the domain, in agreement with its
+function as  a  structurally independent module in different sequence contexts
+[2].
+
+Some proteins known to contain a WIF module are listed below:
+
+ - Mammalian  Ryk  proteins. Although mammalian Ryk proteins are found in most
+   tissues, little  is  known  about  their  function. They are believed to be
+   involved in cellular recognition processes.
+ - Caenorhabditis   elegans  lin-18, the Ryk homolog. It is required for cell-
+   cuticle recognition.
+ - Drosophila melanogaster derailed (drl) and doughnut (dnt) proteins. The drl
+   protein plays  a  crucial  role  in  cell-recognition processes controlling
+   nervous system  development  and muscle development. The dnt receptor has a
+   related and significantly overlapping biochemical function.
+ - Animal  WIF-1  proteins.  WIF-1s are secreted proteins, consisting of an N-
+   terminal WIF  domain and five EGF-like repeats (see <PDOC00021>). They bind
+   to wnt proteins and inhibit their activities.
+
+The profile we developed covers the entire WIF domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2011 / Text revised.
+
+[ 1] Patthy L.
+     "The WIF module."
+     Trends Biochem. Sci. 25:12-13(2000).
+     PubMed=10637605
+[ 2] Liepinsh E., Banyai L., Patthy L., Otting G.
+     "NMR structure of the WIF domain of the human Wnt-inhibitory
+     factor-1."
+     J. Mol. Biol. 357:942-950(2006).
+     PubMed=16476441; DOI=10.1016/j.jmb.2006.01.047
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

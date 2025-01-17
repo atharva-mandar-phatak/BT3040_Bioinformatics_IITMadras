@@ -1,0 +1,28 @@
+TIFACTORIID
+Transcription factor TFIID (also known as TATA-binding protein, TBP) is a
+general factor that plays a central role in the activation of eukaryotic
+genes transcribed by RNA polymerase II [1,2]. TFIID binds specifically to
+the TATA-box promoter element, which lies close to the position of
+transcription initiation.
+
+The C-terminal domain (~180 residues) of eukaryotic TFIID sequences is
+highly conserved and is involved in TATA-box binding. The most striking
+feature of the domain is the presence of 2 conserved 77 amino-acid repeats.
+The symmetrical disposition of these features generates a saddle-shaped
+structure that straddles the DNA [3].
+
+Drosophila TRF (TBP-related factor), a sequence-specific transcription
+factor that also binds to the TATA-box, is highly similar to TFIID [4].
+
+TIFACTORIID is a 6-element fingerprint that provides a signature for TFIID
+TATA sequence-binding proteins. The fingerprint was derived from an initial
+alignment of 16 sequences: the motifs were drawn from short conserved
+regions essentially spanning the C-terminal half of the alignment, motifs 2
+and 3 lying in the region encoded by PROSITE pattern TFIID (PS00351). Two
+iterations on OWL29.1 were required to reach convergence, at which point a
+true set comprising 40 sequences was identified. Three partial matches were
+also found, all of which are TATA-binding proteins that fail to make a
+significant match with motif 1. 
+
+An update on SPTR37_9f identified a true set of 47 sequences, and 4
+partial matches.

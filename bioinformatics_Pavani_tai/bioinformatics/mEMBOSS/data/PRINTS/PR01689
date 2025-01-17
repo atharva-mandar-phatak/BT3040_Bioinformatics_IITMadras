@@ -1,0 +1,77 @@
+EP450IICYP3A
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1], widely
+distributed in bacteria, fungi, plants and animals. The enzymes are involved
+in metabolism of a plethora of both exogenous and endogenous compounds [2].
+Usually, they act as terminal oxidases in multi-component electron transfer
+chains, called P450-containing monooxygenase systems.
+
+Current P450 nomenclature, based on divergent evolution of the P450
+superfamily, was proposed and developed by Nebert et al. [3]. On the basis
+of sequence similarity, all P450s can be categorised into 2 main classes,
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component
+systems and fungal P450nor (CYP55) belong to the B-class; all other known
+P450s from distinct systems are of the E-class [4]. E-class P450s may be
+further divided into 5 subclasses (groups) according to protein sequence
+similarities. 
+
+Group II P450s are distributed widely in life, i.e., in eubacteria (family
+CYP102), cyanobacteria (CYP110), fungi (CYP52, CYP53 and CYP56), insects
+(CYP4 and CYP6) and mammals (CYP3, CYP4 and CYP5). Many group II P450s
+catalyse hydroxylation of linear chains such as alkanes (CYP52), alcohols
+and fatty acids (CYP4, CYP5, CYP102); Aspergillus niger CYP53 carries out
+para-hydroxylation of benzoate; yeast CYP56 is possibly involved in
+oxidation of tyrosine residues; insect CYP6 metabolises a wide range of
+toxic compounds; and members of the CYP3 family are omnivorous [4]. The
+existence of two prokaryotic P450s in group II strongly suggests that the
+divergence of the P450 superfamily into B- and E-classes, and further
+divergence into stable P450 groups within the E-class, must be very ancient
+and had occured before the appearance of eukaryotes [4].
+
+The 3D structure of the P450 domain of P450BM-3 (CYP102) has been determined
+[7] and is used as a model for microsomal P450s. The P450 molecule is an
+alpha/beta protein, shaped like a triangular prism: the overall structure
+can be roughly divided into alpha-rich ('right side') and beta-rich ('left
+side') domains. However, this division appears to be artificial since the 
+alpha- and beta-rich domains comprise discontinuous assemblies of secondary
+structure elements, and do not constitute independent folding units.
+
+Due to the rapid increase in numbers of P450s, Nelson introduced the concept
+of a higher order classification of P450 families into clans [6] based on
+sequence similarity. This is similar to the previous grouping into B- and
+E-classes; both classifications are still used. According to Nelson's
+system, clans 3 and 4 correspond to the E-class group II proteins [6]. Clan
+3 contains CYP3, 5, 6, 9 and 30; it might be extended to include CYP25 and
+CYP13, both of which are from C.elegans.
+
+Enzymes of the CYP3 family constitute major mammalian, especially human,
+forms involved in the metabolism of foreign compounds [8]. There is
+considerable structural variety in the known substrates of CYP3A enzymes and
+it is difficult to categorise such diverse substrate specificity. Although a
+number of 3A substrates are also metabolised by other P450s, such as 2D6 and
+2C isozymes, the site of metabolism is often different and N-dealkylation is
+a common feature of 3A mediated metabolism. One means of rationalising the
+apparent lack of similarity in 3A substrates can be achieved by molecular
+modelling of the relevant enzymes. It appears that a highly conserved
+asparagine residue may be strategically placed in the 3A binding site such
+that hydrogen-bonding interactions with known substrates enable orientation
+for oxygenation in the relevant positions [9]. In general, the CYP3A
+subfamily mediates detoxifying metabolism of exogenous substrates, but a
+number of activating pathways, such as detoxifying carcinogens by additional
+metabolism in alternative, non-activating positions, have been demonstrated
+[8].
+
+EP450IICYP3A is a 6-element fingerprint that provides a signature for the
+CYP3A P450 family. The fingerprint was derived from an initial alignment of
+21 sequences: the motifs were drawn from conserved regions spanning the 
+N-terminal half of the alignment, focusing on those sections that
+characterise the CYP3A proteins but distinguish them from the rest of the
+P450 superfamily - using the model of Lewis et al. [9], motif 1 spans the
+N-terminal membrane anchor domain; motif 2 spans beta-strands 1-5 and part
+of the B/B' helix, and represents the N-terminus of the first substrate
+recognition site (SRS1); motif 3 encodes the E helix; motif 4 lies between
+the E and F helices; motif 5 spans the F-G loop between the F and G helices;
+and motif 6 encodes the well-conserved H helix [7]. Two iterations on 
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 37 sequences was identified. Two partial matches were also found:
+Q9PU44, a cytochrome P-450 encoding the CYP3A37 gene, matches motifs 1-4 
+and 6; and Q9HB52 is human CYP3A43, which lacks motif 5 and 6.

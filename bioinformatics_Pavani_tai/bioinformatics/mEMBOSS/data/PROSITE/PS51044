@@ -1,0 +1,78 @@
+************************************
+* Zinc finger SP-RING-type profile *
+************************************
+
+SIZ1,  SIZ2,  and  PIAS  (protein inhibitor of activated STAT) proteins form a
+conserved  family defined by an unusual RING-related domain, the Siz/PIAS RING
+finger (SP-RING)  [1].  While  RING  fingers  coordinate two Zn2+ ions, with a
+cross-brace architecture,  the  SP-RING  finger  contains only one Zn2+ ion in
+site B,  which is coordinated in a tetrahedral configuration (see <PDB:3I2D>).
+Three of  the four amino acid side chains that coordinate the Zn2+ ion at site
+A in  RING  proteins are lacking in Siz/PIAS proteins [2]. Like classical RING
+fingers SP-RINGs  function  as  an E3 enzyme but specific for sumoylation (see
+<PDOC00449> for  more details on the ubiquitination pathway). The SP-RING zinc
+finger has  the  capacity  to interact with Ubc9 (the SUMO specific E2 enzyme)
+and the  substrate  and  thus  can  increase the rate of substrate sumoylation
+[3,4].
+
+Some proteins known to contain an SP-RING zinc finger are listed below:
+
+ - Mammalian PIAS proteins (PIAS 1,3,x and y). They bind to STAT transcription
+   factors  and  prevent STAT-activated transcription. The mouse PIAS3 protein
+   has also been called Msx-interacting-zinc finger protein (Miz1) [5].
+ - Drosophila  Su(var)2-10. It is required for proper chromosome structure and
+   chromosome inheritance [6].
+ - Yeast  SIZ1  and  SIZ2.  They  are  required  for  SUMO  attachment  to the
+   cytoskeletal septin proteins.
+ - Pli1, the unique fission yeast member of the SP-RING family. It is involved
+   in centromeric function.
+
+The profile we developed covers the whole SP-RING-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The SP-RING-type zinc  finger is also known as the MIZ-type zinc finger
+ [5].
+
+-Last update: October 2009 / Text revised.
+
+[ 1] Hochstrasser M.
+     "SP-RING for SUMO: new functions bloom for a ubiquitin-like protein."
+     Cell 107:5-8(2001).
+     PubMed=11595179
+[ 2] Yunus A.A., Lima C.D.
+     "Structure of the Siz/PIAS SUMO E3 ligase Siz1 and determinants
+     required for SUMO modification of PCNA."
+     Mol. Cell 35:669-682(2009).
+     PubMed=19748360; DOI=10.1016/j.molcel.2009.07.013
+[ 3] Johnson E.S., Gupta A.A.
+     "An E3-like factor that promotes SUMO conjugation to the yeast
+     septins."
+     Cell 106:735-744(2001).
+     PubMed=11572779
+[ 4] Seeler J.S., Dejean A.
+     "Nuclear and unclear functions of SUMO."
+     Nat. Rev. Mol. Cell Biol. 4:690-699(2003).
+     PubMed=14506472; DOI=10.1038/nrm1200
+[ 5] Wu L., Wu H., Ma L., Sangiorgi F., Wu N., Bell J.R., Lyons G.E.,
+     Maxson R.
+     "Miz1, a novel zinc finger transcription factor that interacts with
+     Msx2 and enhances its affinity for DNA."
+     Mech. Dev. 65:3-17(1997).
+     PubMed=9256341
+[ 6] Hari K.L., Cook K.R., Karpen G.H.
+     "The Drosophila Su(var)2-10 locus regulates chromosome structure and
+     function and encodes a member of the PIAS protein family."
+     Genes Dev. 15:1334-1348(2001).
+     PubMed=11390354; DOI=10.1101/gad.877901
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,95 @@
+************************************************
+* Thermonuclease domain signatures and profile *
+************************************************
+
+Staphylococcus aureus secretes a thermostable nuclease (EC 3.1.31.1), known as
+thermonuclease (TNase) or staphylococcal nuclease (SNase), which is a calcium-
+dependent enzyme  that  catalyzes the hydrolysis of both DNA and RNA at the 5'
+position of   the   phosphodiester   bond   yielding   3'-mononucleotides  and
+dinucleotides [1].  Three  residues,  two arginines and a glutamate, have been
+implicated in the catalytic mechanism.
+
+The sequence  of the TNase of S.aureus is evolutionary related [2,3,4] to that
+of other Staphylococcus as well as to:
+
+  - Nuclease from the pSa plasmid of Shigella flexneri.
+  - Escherichia  coli  plasmid RP4 parB protein, which is involved in  plasmid
+    partition.
+  - Escherichia coli plasmid R100 hypothetical protein (OrfA).
+  - Rhizobium meliloti succinoglycan biosynthesis protein exoI.
+  - Bacillus subtilis hypothetical protein yhcR.
+  - Mycoplasma genitalium hypothetical lipoprotein MG186.
+  - Haemophilus influenzae hypothetical protein HI1296.
+  - Methanococcus jannaschii hypothetical protein MJ1439.
+  - Yeast hypothetical protein Ygl085w.
+  - A   38.1   Kd  protein  of  unknown  function  from  the  plant  Corydalis
+    sempervirens.
+  - Human  Epstein-Barr  virus  nuclear  antigen  2 (EBNA-2) coactivator p100,
+    which contains  four repeats homologous to TNase. As each of these repeats
+    lacks equivalent  TNase  catalytic  residues, they are unlikely to possess
+    TNase-like activities,   but   may   mediate  single-stranded  DNA-binding
+    function.
+  - Caenorhabditis elegans F10g7.2 protein, which is similar to the human p100
+    coactivator.
+
+The TNase-like  domain  is  about  150  residues long and consists of a highly
+twisted five  stranded  beta-barrel  and  three  helices.  It  folds  into two
+subdomains consisting  of an oligonucleotide/oligosaccharide-binding (OB)-fold
+and two  C-terminal helices. The OB-fold consists of a five-stranded Greek-key
+beta-barrel often  capped  by  an  alpha-helix  located  between the third and
+fourth strands. It is found in several proteins that bind nucleic acid as well
+as carbohydrates,  whereas  others  bind  protein receptors or small molecules
+[4].
+
+We developed  two  signature  patterns  based  on  conserved regions that each
+contain active  site  residues.  We  also  developed  a profile that spans the
+entire TNase-like domain.
+
+-Consensus pattern: D-G-D-T-[LIVM]-x-[LIVMC]-x(9,10)-R-[LIVM]-x(2)-[LIVM]-D-x-
+                    P-E
+                    [R and E are active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Corydalis sempervirens 38.1 Kd protein.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DT]-[KRP]-[YQ]-[GQ]-R-x-[LVY]-[GA]-x-[IV]-[FYW]
+                    [R is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hynes T.R., Fox R.O.
+     "The crystal structure of staphylococcal nuclease refined at 1.7 A
+     resolution."
+     Proteins 10:92-105(1991).
+     PubMed=1896431
+[ 2] Chesneau O., el Solh N.
+     "Primary structure and biological features of a thermostable nuclease
+     isolated from Staphylococcus hyicus."
+     Gene 145:41-47(1994).
+     PubMed=8045422
+[ 3] Ponting C.P.
+     "P100, a transcriptional coactivator, is a human homologue of
+     staphylococcal nuclease."
+     Protein Sci. 6:459-463(1997).
+     PubMed=9041650
+[ 4] Callebaut I., Mornon J.-P.
+     "The human EBNA-2 coactivator p100: multidomain organization and
+     relationship to the staphylococcal nuclease fold and to the tudor
+     protein involved in Drosophila melanogaster development."
+     Biochem. J. 321:125-132(1997).
+     PubMed=9003410
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

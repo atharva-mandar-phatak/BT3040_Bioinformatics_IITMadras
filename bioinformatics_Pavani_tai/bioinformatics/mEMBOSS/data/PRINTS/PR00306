@@ -1,0 +1,23 @@
+SERUMAMYLOID
+Serum amyloid A (SAA) proteins are a family of vertebrate apolipoproteins
+that associate with high density lipoproteins (HDL) [1]. In normal serum,
+most family members are present at low concentration, but their synthesis
+is rapidly increased in cases of acute inflammation, making them major
+acute-phase reactants [2]. The principal physiological role of SAA is
+uncertain, but continued elevation of plasma SAA levels, as in chronic
+inflammation, results in amyloidosis, a pathological condition characterised
+by the deposition of highly insoluble amyloid A fibrils in the liver,
+kidney and spleen [2,3]. The proteins are polymorphic, the various isoforms
+apparently capable of responding in different ways to different stimuli.
+
+SERUMAMYLOID is a 3-element fingerprint that provides a signature for serum
+amyloid A proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions encompassing
+virtually the full alignment length, motifs 2 and 3 spanning the region
+encoded by PROSITE pattern SAA (PS00992), which describes a well-conserved
+motif in the centre of the sequence. Two iterations on OWL24.0 were
+required to reach convergence, at which point a true set comprising 32
+sequences was identified. Two partial matches were also found, S20104 and
+PL0166, both of which are amyloid protein fragments lacking the first motif.
+
+An update on SPTR37_9f identified a true set of 32 sequences.

@@ -1,0 +1,40 @@
+ORPHNNPRCRSR
+Vertebrate endogenous opioid neuropeptides are released by post-transla-
+tional proteolytic cleavage of precursor proteins. The precursors consist of
+the following components: a signal sequence that precedes a conserved region
+of about 50 residues; a variable-length region; and the sequence of the 
+neuropeptide itself. Three types of precursor are known: preproenkephalin A
+(gene PENK), which is processed to produce 6 copies of Met-enkephalin, plus
+Leu-enkephalin; preproenkephalin B (gene PDYN), which is processed to
+produce neoendorphin, dynorphin, leumorphin, rimorphin and Leu-enkephalin;
+and prepronocipeptin (gene PNOC), whose processing produces nociceptin
+(orphanin FQ) and two other potential neuropeptides.
+
+Sequence analysis reveals that the conserved N-terminal region of the
+precursors contains 6 cysteines, which are probably involved in disulphide
+bond formation. It is speculated that this region might be important for 
+neuropeptide processing [1].
+
+Nociceptin (or orphanin FQ) is a natural agonist of opioid receptor-like
+receptor [1]. The peptide is derived from the prepronociceptin precursor,
+whose gene is predominantly transcribed in the central nervous system 
+(brain and spinal cord) and, weakly, in the ovary (the sole peripheral
+organ that expresses the gene) [1]. Studies on rat and mouse nociceptin
+suggest that the protein functions not only as a neuropeptide precursor
+but also as an important component in neuronal differentiation [2]. 
+
+ORPHNNPRCRSR is an 8-element fingerprint that provides a signature for the
+nociceptin precursor. The fingerprint was derived from an initial alignment 
+of 5 sequences: the motifs were drawn from short conserved regions spanning 
+the full alignment length, focusing on those regions that characterise the
+nociceptin precursors but distinguish them from the rest of the opioid 
+neuropeptide precursor family - motifs 1-4 span the N-terminal region 
+encoded by PROSITE pattern OPIOIDS_PRECURSOR (PS01252), which contains the 
+six conserved cysteines thought to be involved in disulphide bond formation;
+motifs 5 and 6 span a conserved region thought to encode a neuropeptide; 
+the nociceptin peptide is encoded within the C-terminal portion of motif 6
+and the N-terminal half of motif 7; and a second possible neuropeptide 
+spans motifs 7 and 8. A single iteration on OWL30.2 was required to reach 
+convergence, no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

@@ -1,0 +1,106 @@
+********************************************************
+* Cytochrome c oxidase subunit I signature and profile *
+********************************************************
+
+Cytochrome  c  oxidase  (EC  1.9.3.1)  [1]  is an oligomeric integral membrane
+protein  complexes  that  catalyze the terminal step in the respiratory chain:
+they transfer electrons from cytochrome c or a quinol to oxygen. Some terminal
+oxidases  generate  a transmembrane proton gradient across the plasma membrane
+(prokaryotes)  or  the  mitochondrial  inner membrane (eukaryotes). The enzyme
+complex consists of 3-4 subunits (prokaryotes) up to 13 polypeptides (mammals)
+of which only the catalytic subunit (equivalent to mammalian subunit 1 (CO I))
+is found in all heme-copper respiratory oxidases. The presence of a bimetallic
+center,  formed  by  a  high-spin  heme  (heme  a3) and copper B, as well as a
+low-spin  heme (heme a), both ligated to six conserved histidine residues near
+the outer side of four transmembrane spans within CO I is common to all family
+members [2-4].
+
+In contrary to  eukaryotes the respiratory chain of prokaryotes is branched to
+multiple terminal  oxidases.  The  enzyme  complexes  vary  in heme and copper
+composition, substrate  type and substrate affinity. The different respiratory
+oxidases  allow  the cells to customize their  respiratory systems according a
+variety of environmental growth conditions [1].
+
+The  crystal  structure  of  the  whole  enzyme complexe have been solved [5].
+Subunit I contains 12 transmembrane helical segments and binds heme a and heme
+a3-copper  B binuclear centre where molecular oxygen is reduced to water. (see
+<PDB:1OCZ; A>).
+
+Recently also  a component of an anaerobic respiratory chain has been found to
+contain  the copper B binding signature of this family: nitric oxide reductase
+(NOR) exists in denitrifying species of Archae and Eubacteria.
+
+Enzymes that belong to this family are:
+
+ - Mitochondrial-type cytochrome c oxidase (EC  1.9.3.1) which uses cytochrome
+   c as electron donor. The electrons are transferred via copper A (Cu(A)) and
+   heme a  to  the  bimetallic  center  of  CO  I  that  is formed by a penta-
+   coordinated heme   a     and  copper  B  (Cu(B)).  Subunit  1  contains  12
+   transmembrane regions.  Cu(B)  is  said  to  be  ligated  to  three  of the
+   conserved histidine  residues  within  the  transmembrane segments 6 and 7.
+ - Quinol oxidase  from prokaryotes  that transfers electrons from a quinol to
+   the binuclear  center  of  polypeptide I. This category of enzymes includes
+   Escherichia coli cytochrome O terminal oxidase complex which is a component
+   of the  aerobic respiratory chain that predominates when cells are grown at
+   high aeration.
+ - FixN,  the  catalytic  subunit  of  a  cytochrome  c  oxidase  expressed in
+   nitrogen-fixing bacteroids  living  in  root nodules. The high affinity for
+   oxygen allows oxidative phosphorylation under low  oxygen concentrations. A
+   similar enzyme has been found in other purple bacteria.
+ - Nitric oxide reductase (EC 1.7.99.7) from Pseudomonas stutzeri. NOR reduces
+   nitrate to  dinitrogen.  It  is  a  heterodimer  of  norC and the catalytic
+   subunit norB. The latter contains the 6 invariant histidine residues and 12
+   transmembrane segments [6].
+
+As  a signature pattern we used the copper-binding region. We also developed a
+profile that cover the whole subunit I.
+
+-Consensus pattern: [YWG]-[LIVFYWTA](2)-[VGS]-H-[LNP]-x-V-x(44,47)-H-H
+                    [The 3 H's are copper B ligands]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Cytochrome bd complexes do not belong to this family.
+
+-Last update: June 2004 / Text revised; profile added.
+
+[ 1] Garcia-Horsman J.A., Barquera B., Rumbley J., Ma J., Gennis R.B.
+     J. Bacteriol. 176:5587-5600(1994).
+[ 2] Castresana J., Luebben M., Saraste M., Higgins D.G.
+     "Evolution of cytochrome oxidase, an enzyme older than atmospheric
+     oxygen."
+     EMBO J. 13:2516-2525(1994).
+     PubMed=8013452
+[ 3] Capaldi R.A., Malatesta F., Darley-Usmar V.M.
+     "Structure of cytochrome c oxidase."
+     Biochim. Biophys. Acta 726:135-148(1983).
+     PubMed=6307356
+[ 4] Holm L., Saraste M., Wikstrom M.
+     "Structural models of the redox centres in cytochrome oxidase."
+     EMBO J. 6:2819-2823(1987).
+     PubMed=2824194
+[ 5] Yoshikawa S., Shinzawa-Itoh K., Nakashima R., Yaono R., Yamashita E.,
+     Inoue N., Yao M., Fei M.J., Libeu C.P., Mizushima T., Yamaguchi H.,
+     Tomizaki T., Tsukihara T.
+     "Redox-coupled crystal structural changes in bovine heart cytochrome c
+     oxidase."
+     Science 280:1723-1729(1998).
+     PubMed=9624044
+[ 6] Saraste M., Castresana J.
+     "Cytochrome oxidase evolved by tinkering with denitrification
+     enzymes."
+     FEBS Lett. 341:1-4(1994).
+     PubMed=8137905
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

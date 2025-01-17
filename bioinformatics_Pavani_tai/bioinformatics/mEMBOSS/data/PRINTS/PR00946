@@ -1,0 +1,50 @@
+HGSCAVENGER
+Proteins that transport heavy metals in micro-organisms and mammals share
+similarities in their sequences and structures. These proteins provide an
+important focus for research, some being involved in bacterial resistance
+to toxic metals, such as lead and cadmium, while others are involved in
+inherited human syndromes, such as Wilson and Menkes diseases [1].
+
+A conserved 30-residue domain has been found in a number of these heavy
+metal transport or detoxification proteins [1]. The domain, which has been
+termed Heavy-Metal-Associated (HMA), contains two conserved cysteines that
+are probably involved in metal binding. 
+
+The HMA domain has been identified in the N-terminal regions of a variety
+of cation transporting ATPases, and in other ATPases such as fixI from 
+Rhizobium meliloti; pacS from Synechococcus strain PCC 7942; Mycobacterium 
+leprae ctpA and ctpB; and Escherichia coli hypothetical protein yhhO. In
+addition, the domain has been found in bacterial mercuric reductase; the
+copP copper-binding protein of Helicobacter pylori; and in the N-terminal 
+regions of mercuric transport protein periplasmic component (gene merP) and
+plasmids carried by mercury-resistant Gram-negative bacteria, where it seems
+to be a mercury scavenger that specifically binds to one Hg(2+) ion, passing
+this to mercuric reductase via the merT protein. 
+
+The structure of the mercuric ion-binding protein MerP from Shigella
+flexneri has been determined. The fold has been classed as a ferredoxin-like
+alpha-beta sandwich, having a beta-alpha beta-beta alpha-beta architecture,
+with the two alpha-helices overlaying a four-stranded anti-parallel beta-
+sheet [2]. Structural differences between the reduced and mercury-bound 
+forms of merP are localised to the metal-binding loop containing the 
+consensus sequence GMTCXXC, the two cysteines of which are involved in
+bi-coordination of Hg(2+) [2].
+
+HGSCAVENGER is a 6-element fingerprint that provides a signature for
+mercury scavenger proteins. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 lies at the N-
+terminus and spans the signal sequence; motifs 2-4 span the heavy-metal 
+binding domain, and include the region encoded by PROSITE pattern HMA 
+(PS01047), within which the two Cys residues are involved in metal binding
+(motif 2 encodes the first beta-strand, motif 3 includes the first alpha-
+helix and motif 4 spans strand 2); and motifs 5 and 6 lie towards the C-
+terminus, motif 5 including strand 3, and motif 6 spanning helix 2 and 
+strand 4. Two iterations on OWL30.2 were required to reach convergence, 
+at which point a true set comprising 11 sequences was identified. Several
+partial matches were also found, all of which are fragments, or closely-
+related class II mercury-binding proteins.
+
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 3
+partial matches.

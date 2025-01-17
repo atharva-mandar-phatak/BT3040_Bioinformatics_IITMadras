@@ -1,0 +1,46 @@
+************************************
+* Ribosomal protein S21e signature *
+************************************
+
+A number  of  eukaryotic  ribosomal  proteins  can  be grouped on the basis of
+sequence similarities. One of these families consists of:
+
+ - Mammalian S21 [1].
+ - Caenorhabditis elegans S21.
+ - Plants S21.
+ - Yeast S21 (Ys25) [2].
+ - Fission yeast S28 [3].
+
+These proteins  have 82 to 87 amino acids. As a signature pattern, we selected
+a highly conserved nonapeptide in the N-terminal part of these proteins.
+
+-Consensus pattern: [LV]-Y-[IVC]-P-R-K-C-S-[SAT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2005 / Pattern and text revised.
+
+[ 1] Bhat K.S., Morrison S.G.
+     "Primary structure of human ribosomal protein S21."
+     Nucleic Acids Res. 21:2939-2939(1993).
+     PubMed=8332502
+[ 2] Suzuki K., Otaka E.
+     "Cloning and nucleotide sequence of the gene encoding yeast ribosomal
+     protein YS25."
+     Nucleic Acids Res. 16:6223-6223(1988).
+     PubMed=2899871
+[ 3] Itoh T., Otaka E., Matsui K.A.
+     "Primary structures of ribosomal protein YS25 from Saccharomyces
+     cerevisiae and its counterparts from Schizosaccharomyces pombe and rat
+     liver."
+     Biochemistry 24:7418-7423(1985).
+     PubMed=3910104
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

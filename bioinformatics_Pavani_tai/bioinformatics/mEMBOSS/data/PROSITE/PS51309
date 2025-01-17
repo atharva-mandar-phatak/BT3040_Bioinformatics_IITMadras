@@ -1,0 +1,78 @@
+************************************************************
+* Poly(A)-binding protein C-terminal (PABC) domain profile *
+************************************************************
+
+The ~75-residue poly(A)-binding protein C-terminal domain (PABC) is a peptide-
+binding domain found in:
+
+ - poly(A)-binding  proteins (PABPs), ubiquitous RNA binding proteins found in
+   all eukaryotes.  They  are  implicated  in  stabilizing  mRNA and promoting
+   translation. PABPs  are modular proteins consisting of an N-terminal region
+   with four  RNA  recognition  motifs  (RRMs)  (see  <PDOC00030>)  and a PABC
+   domain.
+ - The  HYD  (for  hyperplastic  discs),  EDD or Rat100 family of ubiquitin E3
+   protein ligases.   HYD   ubiquitin  ligases  contain  a  HECT  domain  (see
+   <PDOC50237>).
+
+The PABC  domain  binds  a  conserved motif of 12-15 amino acids, termed PABP-
+interacting motif  (PAM)-2,  with conserved alanine, phenylalanine and proline
+residues at position 7, 10 and 12 [1-5].
+
+The PABC   domain   consists   of  five  (see  <PDB:1JH4;  A>)  or  four  (see
+<PDB:1IFW; A>)  alpha-helices that form a compact structure with a well packed
+hydrophobic core.  Characteristic  to  all PABC domains, the last four helices
+fold into  a  right-handed super coil. They encompass the peptide-binding site
+and among  PABC domains, sequences conservation is highest among helices 2, 3,
+and 5,  which  are  required  for  peptide  recognition  [1-5]. A phylogenetic
+analysis of  the  PABC  domain reveals that they can be categorized into three
+main classes:  animal, vegetal and a 'divergent' group including Saccharomyces
+cerevisiae, Schizosaccharomyces pombe, and the HYD family of ubiquitin ligases
+[2,3].
+
+The profile we developed covers the entire PABC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2007 / First entry.
+
+[ 1] Kozlov G., Trempe J.-F., Khaleghpour K., Kahvejian A., Ekiel I.,
+     Gehring K.
+     "Structure and function of the C-terminal PABC domain of human
+     poly(A)-binding protein."
+     Proc. Natl. Acad. Sci. U.S.A. 98:4409-4413(2001).
+     PubMed=11287632; DOI=10.1073/pnas.071024998
+[ 2] Kozlov G., Siddiqui N., Coillet-Matillon S., Trempe J.-F., Ekiel I.,
+     Sprules T., Gehring K.
+     "Solution structure of the orphan PABC domain from Saccharomyces
+     cerevisiae poly(A)-binding protein."
+     J. Biol. Chem. 277:22822-22828(2002).
+     PubMed=11940585; DOI=10.1074/jbc.M201230200
+[ 3] Siddiqui N., Kozlov G., D'Orso I., Trempe J.-F., Gehring K.
+     "Solution structure of the C-terminal domain from poly(A)-binding
+     protein in Trypanosoma cruzi: a vegetal PABC domain."
+     Protein Sci. 12:1925-1933(2003).
+     PubMed=12930992
+[ 4] Kozlov G., De Crescenzo G., Lim N.S., Siddiqui N., Fantus D.,
+     Kahvejian A., Trempe J.-F., Elias D., Ekiel I., Sonenberg N.,
+     O'Connor-McCourt M., Gehring K.
+     "Structural basis of ligand recognition by PABC, a highly specific
+     peptide-binding domain found in poly(A)-binding protein and a HECT
+     ubiquitin ligase."
+     EMBO J. 23:272-281(2004).
+     PubMed=14685257; DOI=10.1038/sj.emboj.7600048
+[ 5] Siddiqui N., Osborne M.J., Gallie D.R., Gehring K.
+     "Solution Structure of the PABC Domain from Wheat Poly (A)-Binding
+     Protein: An Insight into RNA Metabolic and Translational Control in
+     Plants."
+     Biochemistry 46:4221-4231(2007).
+     PubMed=17358048; DOI=10.1021/bi061986d
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

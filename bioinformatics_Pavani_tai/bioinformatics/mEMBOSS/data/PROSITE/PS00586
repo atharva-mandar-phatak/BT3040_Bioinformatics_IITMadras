@@ -1,0 +1,41 @@
+************************************
+* Ribosomal protein L16 signatures *
+************************************
+
+Ribosomal protein L16 is one of the proteins from the large ribosomal subunit.
+In Escherichia  coli,  L16  is  known  to bind directly the 23S rRNA and to be
+located at  the  A  site  of  the  peptidyltransferase center. It belongs to a
+family of ribosomal proteins which, on the basis of sequence similarities [1],
+groups:
+
+ - Eubacterial L16.
+ - Algal and plant chloroplast L16.
+ - Cyanelle L16.
+ - Plant mitochondrial L16.
+
+L16 is a protein of 133 to 185 amino-acid residues.  As signature patterns, we
+selected two conserved regions in the central section of these proteins.
+
+-Consensus pattern: [KRG]-[KR]-x-[GSAC]-[KRQVA]-[LIVMK]-[WY]-[LIVM]-[KRN]-
+                    [LIVM]-[LFY]-[APK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-M-G-x-[GR]-K-G-x(4)-[FWKR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

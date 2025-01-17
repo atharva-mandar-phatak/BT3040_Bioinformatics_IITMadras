@@ -1,0 +1,35 @@
+HADHALOGNASE
+Microorganisms that can utilise halogenated compounds as growth substrates
+produce enzymes that cleave carbon-halogen bonds and are commonly called
+dehalogenases. The hydrolytic dehalogenases catalyse a nucleophilic
+displacement reaction, with water as the sole co-substrate [1]. They are
+divided into haloalkane dehalogenases and haloacid dehalogenases (HAD).
+HADs belong to a large superfamily of hydrolases with diverse substrate
+specificity, which also includes epoxide hydrolases, phosphoglycolate
+phosphatases, histidinol phosphate phosphatases, nitrophenyl phosphatases
+and numerous putative (not yet characterised) proteins [2].  
+
+The epoxide hydrolases (EH) add water to epoxides, forming the corresponding
+diol. On the basis of sequence similarity, it has been proposed that the
+mammalian soluble EHs contain 2 evolutionarily distinct domains [3]. The
+N-terminal domain is similar to bacterial HADs; the C-terminal domain is 
+similar to soluble plant EH, microsomal EH, and bacterial haloalkane 
+dehalogenase.
+
+HADHALOGNASE is a 7-element fingerprint that provides a signature for the
+haloacid dehalogenase/epoxide hydrolase family. The fingerprint was derived
+from an initial alignment of 10 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motifs 1,
+5 and 6 encode the putative catalytic triad, including the invariant Asp
+Lys, and nucleophile (Ser or Asp) respectively, and overlap with motifs I,
+II and III proposed in [2]. Two iterations on OWL26.0 were required to
+reach convergence, at which point a true set comprising 12 sequences was
+identified. Several partial matches were also found: a hypothetical protein
+(YIHX_ECOLI) matches motifs 4-7; phosphoglycolate phosphatase (PGPC_ALCEU
+and PGPP_ALCEU) matches motifs 4, 5 and 7; and hypothetical protein YigB
+(YIGB_ECOLI and ECOXERC3) matches motifs 5, 6 and 7. Among the sequences
+matching 2 motifs, only U00148 (Klebsiella oxytoca E1 enzyme), matching
+motifs 1 and 6, has been characterised functionally [4].
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 13
+partial matches.

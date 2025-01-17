@@ -1,0 +1,65 @@
+*********************************
+* Headpiece (HP) domain profile *
+*********************************
+
+Headpiece  is  an ~70-residue F-actin-binding domain present at the C terminus
+of  many  cytoskeletal proteins [1]. It was first discovered in the epithelial
+brush  border  protein villin, a member of the gelsolin family, which consists
+of six gelsolin repeats, followed by the C-terminal headpiece domain [2].
+
+The  headpiece  domain  folds  in  a very compact globular structure organized
+around  an extended hydrophobic core (see <PDB:1QQV>) [1]. It is composed of a
+highly  alpha-helical C-terminal subdomain and an N-terminal subdomain made up
+of  bends  and  turns  with  a  short  alpha-helix.  Most of the actin-binding
+residues  identified  by biochemical studies are localized on a single face on
+the surface of the domain [3].
+
+Some of the proteins known to contain a headpiece domain are listed below:
+
+ - Eukaryotic villin protein, a Ca(2+)-regulated actin-binding protein. Villin
+   has been demonstrated to bundle and sever F-actin [4].
+ - Drosophila villin-like protein quail.
+ - Vertebrate dematin, an actin-bundling protein.
+ - Animal actin-binding LIM (AbLIM) or limatin protein. It may act as scaffold
+   protein and may play a role in axon guidance.
+ - Vertebrate  advillin  protein.  It  may  function  in  the morphogenesis of
+   neuronal cells which form ganglia.
+ - Supervillin  protein.  It  forms  a  high-affinity  link  between the actin
+   cytoskeleton and the membrane.
+
+The profile we developed covers the whole headpiece domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2005 / First entry.
+
+[ 1] Vardar D., Buckley D.A., Frank B.S., McKnight C.J.
+     "NMR structure of an F-actin-binding 'headpiece' motif from villin."
+     J. Mol. Biol. 294:1299-1310(1999).
+     PubMed=10600386; DOI=10.1006/jmbi.1999.3321
+[ 2] Finidori J., Friederich E., Kwiatkowski D.J., Louvard D.
+     "In vivo analysis of functional domains from villin and gelsolin."
+     J. Cell Biol. 116:1145-1155(1992).
+     PubMed=1310994
+[ 3] Vermeulen W., Vanhaesebrouck P., Van Troys M., Verschueren M.,
+     Fant F., Goethals M., Ampe C., Martins J.C., Borremans F.A.
+     "Solution structures of the C-terminal headpiece subdomains of human
+     villin and advillin, evaluation of headpiece F-actin-binding
+     requirements."
+     Protein Sci. 13:1276-1287(2004).
+     PubMed=15096633; DOI=10.1110/ps.03518104
+[ 4] Bretscher A., Weber K.
+     "Villin is a major protein of the microvillus cytoskeleton which binds
+     both G and F actin in a calcium-dependent manner."
+     Cell 20:839-847(1980).
+     PubMed=6893424
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

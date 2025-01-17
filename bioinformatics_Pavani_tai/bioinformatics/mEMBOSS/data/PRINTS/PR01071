@@ -1,0 +1,43 @@
+ACOABIOTINCC
+Fatty acid synthesis involves a set of reactions, commencing with 
+carboxylation of acetyl-CoA to malonyl-CoA [1]. This is an irreversible
+reaction, catalysed by the acetyl-CoA carboxylase complex (EC 6.4.1.2); a
+heterohexamer of biotin carboxyl carrier protein, biotin carboxylase [2] and
+two non-identical carboxyl transferase subunits (alpha and beta) in a 2:2
+association [1,3]. 
+
+The reaction involves two steps: 
+
+(1) Biotin carrier protein + ATP + HCO(3)(-) <=>
+	    Carboxybiotin carrier protein + ADP + Phosphate
+
+(2) Carboxybiotin carrier protein + Acetyl-CoA ->
+	    Malonyl-CoA + Biotin carrier protein
+
+In the first step, biotin carboxylase catalyses the carboxylation of the
+carrier protein to form an intermediate. Next, the transcarboxylase complex
+transfers the carboxyl group from the intermediate to acetyl-CoA forming
+malonyl-CoA.
+
+The crystal structure of selenomethionyl (Se-met) biotin carboxy carrier 
+protein has been determined to 1.8A resolution [4]. The structure forms a
+capped beta sandwich with quasi-dyad symmetry, each half of which contains
+a characteristic hammerhead motif [4]. The biotinylated lysine is located at
+a hairpin beta-turn that connects the symmetric halves of the molecule, and
+its biotinyl group interacts with a non-symmetric protrusion from the core.
+The hammerhead domain is regarded as the basic structural motif of biotinyl
+and lipoyl domains of a superfamily of enzymes [4].
+
+ACOABIOTINCC is a 3-element fingerprint that provides a signature for the
+acetyl-CoA biotin carboxyl carrier protein. The fingerprint was derived from
+an initial alignment of 7 sequences: the motifs were drawn from conserved
+regions within the C-terminal portion of the alignment - motif 1 encodes 
+beta-strand 2; motif 2 spans strand 3 and the N-terminus of strand 4; and
+motif 3 spans the C-terminus of strand 4 and beta-strand 5, and includes the
+biotin-binding lysine (motifs 2 and 3 span the region encoded by PROSITE
+pattern BIOTIN (PS00188)). Three iterations on OWL31.1 were required to 
+reach convergence, at which point a true set comprising 21 sequences was
+identified. A single partial match was also found, S66566, a biotin 
+carboxyl carrier fragment that matches motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 18 sequences.

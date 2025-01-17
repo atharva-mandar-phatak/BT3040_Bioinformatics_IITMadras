@@ -1,0 +1,116 @@
+********************************************
+* WW/rsp5/WWP domain signature and profile *
+********************************************
+
+The WW  domain  [1-4,E1]  (also  known  as  rsp5  or  WWP) has been originally
+discovered as a  short  conserved  region  in  a number of unrelated proteins,
+among them  dystrophin,  the gene responsible for Duchenne muscular dystrophy.
+The domain,  which  spans about 35 residues, is repeated up to 4 times in some
+proteins.  It has  been    shown [5] to bind proteins with particular proline-
+motifs, [AP]-P-P-[AP]-Y, and  thus  resembles somewhat SH3 domains. It appears
+to contain  beta-strands  grouped  around  four  conserved aromatic positions;
+generally Trp.  The  name  WW or WWP derives from the presence of these Trp as
+well as  that  of a conserved Pro.  It  is  frequently  associated  with other
+domains typical for proteins in signal transduction processes.
+
+Proteins containing the WW domain are listed below.
+
+ - Dystrophin,  a  multidomain cytoskeletal protein. Its longest alternatively
+   spliced form consists of an N-terminal actin-binding domain, followed by 24
+   spectrin-like repeats,  a  cysteine-rich  calcium-binding  domain  and a C-
+   terminal globular domain. Dystrophin form tetramers and is thought to have
+   multiple functions   including   involvement   in    membrane    stability,
+   transduction of  contractile  forces  to the extracellular  environment and
+   organization of  membrane specialization. Mutations in  the dystrophin gene
+   lead to muscular dystrophy of Duchenne or Becker type.  Dystrophin contains
+   one WW domain C-terminal of the spectrin-repeats.
+ - Utrophin, a dystrophin-like protein of unknown function.
+ - Vertebrate YAP protein is a substrate of an unknown serine kinase. It binds
+   to the  SH3  domain  of the Yes oncoprotein via a proline-rich region. This
+   protein appears in alternatively spliced isoforms, containing either one or
+   two WW domains [6].
+ - Mouse NEDD-4  plays a role in the embryonic development and differentiation
+   of the central nervous system.  It contains 3 WW modules followed by a HECT
+   domain.  The human  ortholog contains 4 WW domains, but the third WW domain
+   is probably spliced resulting in an alternate NEDD-4 protein with only 3 WW
+   modules [3].
+ - Yeast  RSP5 is similar to NEDD-4 in its molecular organization. It contains
+   an N-terminal  C2  domain  (see  <PDOC00380>,  followed by a histidine-rich
+   region, 3 WW domains and a HECT domain.
+ - Rat    FE65,  a  transcription-factor activator expressed preferentially in
+   liver. The  activator  domain is located within the N-terminal 232 residues
+   of FE65, which also contain the WW domain.
+ - Yeast ESS1/PTF1, a putative peptidyl prolyl cis-trans isomerase from family
+   ppiC (see  <PDOC00840>).  A  related  protein,  dodo  (gene  dod) exists in
+   Drosophila and in mammals (gene PIN1).
+ - Tobacco  DB10  protein.  The  WW domain is located N-terminal to the region
+   with similarity to ATP-dependent RNA helicases.
+ - IQGAP,  a  human GTPase activating protein acting on ras. It contains an N-
+   terminal domain  similar  to  fly  muscle mp20 protein and a C-terminal ras
+   GTPase activator domain.
+ - Yeast  pre-mRNA  processing  protein PRP40, Caenorhabditis elegans ZK1098.1
+   and fission yeast SpAC13C5.02 are related proteins with similarity to MYO2-
+   type myosin, each containing two WW-domains at the N-terminus.
+ - Caenorhabditis  elegans hypothetical protein C38D4.5, which contains one WW
+   module, a PH domain (see <PDOC50003>) and a C-terminal phosphatidylinositol
+   3-kinase domain.
+ - Yeast hypothetical protein YFL010c.
+
+For the  sensitive  detection of WW domains, we have developed a profile which
+spans the whole homology region as well as a pattern.
+
+-Consensus pattern: W-x(9,11)-[VFY]-[FYW]-x(6,7)-[GSTNE]-[GSTQCR]-[FYW]-{R}-
+                    {SA}-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 9.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+           Sudol M.; m_sudol@smtplink.mssm.edu
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bork P., Sudol M.
+     "The WW domain: a signalling site in dystrophin?"
+     Trends Biochem. Sci. 19:531-533(1994).
+     PubMed=7846762
+[ 2] Andre B., Springael J.Y.
+     "WWP, a new amino acid motif present in single or multiple copies in
+     various proteins including dystrophin and the SH3-binding
+     Yes-associated protein YAP65."
+     Biochem. Biophys. Res. Commun. 205:1201-1205(1994).
+     PubMed=7802651
+[ 3] Hofmann K., Bucher P.
+     "The rsp5-domain is shared by proteins of diverse functions."
+     FEBS Lett. 358:153-157(1995).
+     PubMed=7828727
+[ 4] Sudol M., Chen H.I., Bougeret C., Einbond A., Bork P.
+     "Characterization of a novel protein-binding module--the WW domain."
+     FEBS Lett. 369:67-71(1995).
+     PubMed=7641887
+[ 5] Chen H.I., Sudol M.
+     "The WW domain of Yes-associated protein binds a proline-rich ligand
+     that differs from the consensus established for Src homology 3-binding
+     modules."
+     Proc. Natl. Acad. Sci. U.S.A. 92:7819-7823(1995).
+     PubMed=7644498
+[ 6] Sudol M., Bork P., Einbond A., Kastury K., Druck T., Negrini M.,
+     Huebner K., Lehman D.
+     "Characterization of the mammalian YAP (Yes-associated protein) gene
+     and its role in defining a novel protein module, the WW domain."
+     J. Biol. Chem. 270:14733-14741(1995).
+     PubMed=7782338
+[E1] http://www.bork.embl-heidelberg.de/Modules/ww-gif.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

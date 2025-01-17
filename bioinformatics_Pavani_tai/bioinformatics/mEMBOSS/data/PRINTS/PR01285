@@ -1,0 +1,45 @@
+HMRNUCRECPTR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+NGFI-B is an early response protein and orphan member of the steroid
+hormone receptor superfamily [4]. It is expressed in the lung, brain and
+superior cervical ganglia, and high levels are also seen in adrenal
+tissue. While members of this superfamily typically bind DNA as dimers, 
+NGFI-B binds as a monomer. A domain separate from the NGFI-B zinc fingers
+(the so-called A box) has been identified and is required for recognition
+of two adenine-thymidine base pairs at the 5' end of the NGFI-B DNA binding
+element [4].
+
+HMRNUCRECPTR is a 9-element fingerprint that provides a signature for the
+HMR orphan nuclear receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the HMR nuclear receptors but distinguish them from the
+rest of the nuclear receptor family - motifs 1-7 lie N-terminal to the
+zinc finger domain; motif 8 falls after the zinc finger domain; and motif 9
+resides at the C-terminus. A single iteration on SPTR37_10f was required to 
+reach convergence, no further sequences being identified beyond the starting
+set. A single partial match was found, Q15627, a human TR3beta fragment that
+matches the N-terminal motifs. 

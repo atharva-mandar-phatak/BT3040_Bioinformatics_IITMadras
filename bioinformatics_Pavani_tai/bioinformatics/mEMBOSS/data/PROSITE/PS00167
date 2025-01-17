@@ -1,0 +1,51 @@
+*********************************************
+* Tryptophan synthase alpha chain signature *
+*********************************************
+
+Tryptophan synthase (EC 4.2.1.20) catalyzes the last step in  the biosynthesis
+of  tryptophan:  the  conversion  of  indoleglycerol  phosphate and serine, to
+tryptophan and   glyceraldehyde  3-phosphate  [1,2].  It  has  two  functional
+domains: one for  the aldol cleavage of indoleglycerol phosphate to indole and
+glyceraldehyde 3-phosphate and  the other for the synthesis of tryptophan from
+indole and  serine.  In  bacteria  and  plants  [3], each domain is found on a
+separate subunit (alpha and beta chains),  while  in fungi the two domains are
+fused together on a single multifunctional protein.
+
+As a  signature  pattern  for  the alpha chain, we selected a conserved region
+that contains three conserved acidic residues.  The first and the third acidic
+residues  are  believed to   serve as  proton donors/acceptors in the enzyme's
+catalytic mechanism.
+
+-Consensus pattern: [LIVM]-E-[LIVM]-[GQ]-x-[PALT]-[FYCHTWP]-[STPK]-[DEKY]-
+                    [PA]-[LIVMYGK]-[SGALIMY]-[DE]-[GN]
+                    [The first E and the second D/E are active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the Sulfolobus solfataricus enzyme which is highly divergent.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2011 / Pattern revised.
+
+[ 1] Crawford I.P.
+     "Evolution of a biosynthetic pathway: the tryptophan paradigm."
+     Annu. Rev. Microbiol. 43:567-600(1989).
+     PubMed=2679363; DOI=10.1146/annurev.mi.43.100189.003031
+[ 2] Hyde C.C., Miles E.W.
+     "The tryptophan synthase multienzyme complex: exploring
+     structure-function relationships with X-ray crystallography and
+     mutagenesis."
+     Biotechnology (N.Y.) 8:27-32(1990).
+     PubMed=1366510
+[ 3] Berlyn M.B., Last R.L., Fink G.R.
+     "A gene encoding the tryptophan synthase beta subunit of Arabidopsis
+     thaliana."
+     Proc. Natl. Acad. Sci. U.S.A. 86:4604-4608(1989).
+     PubMed=2734310
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

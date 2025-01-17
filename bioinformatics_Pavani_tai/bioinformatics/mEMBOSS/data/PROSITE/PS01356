@@ -1,0 +1,76 @@
+***************************************************
+* Short hematopoietin receptor family 2 signature *
+***************************************************
+
+A number  of  receptors  for  lymphokines,  hematopoietic  growth  factors and
+growth hormone-related  molecules  have  been  found to share a common binding
+domain. These  receptors  are  designated as hematopoietin receptors [1,2] and
+the corresponding ligands as hematopoietins. Further, hematopoietins have been
+subdivided into  two  major  structural  groups:  Large/long  and  small/short
+hematopoietins.
+
+One subset  of  individual receptor chains that are part of receptor complexes
+for small   hematopoietins   contain   common  structural  elements  in  their
+extracellular parts:  an  immunoglobulin-like  domain at the N-terminal end of
+the hematopoietin  receptor domain and a rather short cytoplasmic domain. They
+define a structural subgroup containing the following chains:
+
+ - Granulocyte/macrophage colony stimulating factor receptor alpha (GMCSFRA).
+ - Interleukin-3 receptor alpha chain (IL3RA).
+ - Interleukin-5 receptor alpha chain (IL5RA).
+ - Interleukin-13 receptor alpha-1 chain (IL13RA1).
+ - Interleukin-13 receptor alpha-2 chain (IL13RA2).
+
+A schematic representation of the structure of these receptors is shown below:
+
+ +-----------+-------------------------------------------xxxxxxx-------------+
+ |  Ig-like  |  C C     C  C         Extracellular       XXXXXXX Cytoplasmic |
+ +-----------+--|-|-----|--|-----------------------------xxxxxxx-------------+
+                | |     |  |                          Transmembrane
+                +-+     +--+
+
+GMCSFRA, IL3RA  or  IL5RA  chains  of  this  subgroup  bind  to  their cognate
+cytokines: GM-CSF, IL-3 and IL-5, with a common beta chain, KH97/AIC2B [3].
+
+Either IL13RA1  chain  or  IL13RA2  chain form the IL13R complex together with
+IL4RA chain. IL-4 can compete with IL-13 to bind to either IL13R form [4].
+
+We have  used  one  pattern  to  detect this subfamily. The motif is located a
+the N-terminal end of the 200 amino acid hematopoietin domain.
+
+-Consensus pattern: [LIVM]-x-C-x-W-x(2)-G-x(5)-D-x(2)-Y-x-[LIVM]-x(10,14)-C
+-Sequences known to belong to this class detected by the pattern: ALL
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Boulay J.-L.; Jean-Louis.Boulay@unibas.ch
+
+-Last update: December 2001 / First entry.
+
+[ 1] Boulay J.-L., Paul W.E.
+     "Hematopoietin sub-family classification based on size, gene
+     organization and sequence homology."
+     Curr. Biol. 3:573-581(1993).
+     PubMed=15335670
+[ 2] Sprang S.R., Bazan J.F.
+     Curr. Opin. Struct. Biol. 3:815-827(1993).
+[ 3] Nicola N.A., Metcalf D.
+     "Subunit promiscuity among hemopoietic growth factor receptors."
+     Cell 67:1-4(1991).
+     PubMed=1913811
+[ 4] Hilton D.J., Zhang J.G., Metcalf D., Alexander W.S., Nicola N.A.,
+     Willson T.A.
+     "Cloning and characterization of a binding subunit of the interleukin
+     13 receptor that is also a component of the interleukin 4 receptor."
+     Proc. Natl. Acad. Sci. U.S.A. 93:497-501(1996).
+     PubMed=8552669
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

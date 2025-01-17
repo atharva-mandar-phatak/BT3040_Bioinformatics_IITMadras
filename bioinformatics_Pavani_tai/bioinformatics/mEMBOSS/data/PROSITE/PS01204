@@ -1,0 +1,103 @@
+******************************************************
+* NF-kappa-B/Rel/dorsal domain signature and profile *
+******************************************************
+
+Various studies  (reviewed  in  [1-5])  have allowed the characterization of a
+family of  eukaryotic  transcription factors with basic impact on oncogenesis,
+embryonic development and  differentiation including immune response and acute
+phase reaction.  Most  of  these  transcription  factors bind as dimers to the
+consensus DNA  sequence  motif  5'-GGGRNNYYCC-3'  termed kappa-B according the
+first  described factor-binding  sequence  motif located in the immunoglobulin
+kappa light chain enhancer region.
+
+Proteins of  this  family  appear  to  be  regulated,  at  least  in  part, by
+subcellular localization  whereby the inactive cytoplasmic forms become active
+transcriptional  control  proteins by translocation to the nucleus. Members of
+the  Rel  family  share  a highly  conserved 300 amino acids domain termed Rel
+homology domain (RHD) which is located towards  the amino terminus. The unique
+C-terminal is  thought  to  be  involved  in  gene  activation and cytoplasmic
+anchoring functions.
+
+Proteins known to contain a RHD domain are listed below:
+
+ - Both subunits of vertebrate nuclear factor NF-kappa-B. The active NF-kappa-
+   B is  a heterodimer of an about 50 Kd DNA-binding subunit (p50 or p49, p52)
+   and the transcription factor p65.
+ - Mammalian  transcription factor RelB, which stimulates promoter activity in
+   the presence of the 50 Kd subunit of NF-kappa-B.
+ - Vertebrate  proto-oncogene  c-rel,  a  protein  that  may  play  a  role in
+   differentiation and lymphopoiesis.
+ - Avian  reticuloendotheliosis  virus p58 v-rel, a transforming protein which
+   induces acute leucemia in juvenile birds.
+ - Drosophila    embryonic    polarity   dorsal protein.  The concentration of
+   this morphogenetic  protein in the  nucleus  during  the  blastoderm  stage
+   determines the lateral or ventral identity of a cell. It directly  controls
+   the  expression of zygotically  active  genes crucial for development along
+   this axis.
+ - Drosophila  dorsal-related  immunity  factor  (gene  Dif) which mediates an
+   immune response in the larvae.
+ - Mammalian  nuclear  factor  of  activated  T  cells  (NFAT);  a  family  of
+   transcription factors  that    play   a role in the inducible expression of
+   cytokine genes in T cells.
+
+For several  proteins  it  has  been demonstrated ([1] and references therein)
+that the Rel homology domain includes:
+
+ (1) a  DNA-binding domain, which binds to the consensus  DNA  sequence  motif
+     5'-GGGRNNYYCC-3' (except  for  dorsal, which recognizes the related motif
+     5'-GRGAAAANCC-3');
+ (2) a  dimerization  domain,  which  is located in the C-terminal part of the
+     RHD;
+ (3) a PKA phosphorylation site (see <PDOC00004>) (except in RelB);
+ (4) a nuclear localization signal (NLS),  which consists of a stretch of four
+     or five basic residues.
+
+As a  signature  for  this  family we selected a region that is located at the
+N-terminal of the RHD. This region includes a conserved cysteine that seems to
+be essential  for  DNA-binding  in  p50  [6]. We also developed a profile that
+spans completly the RHD.
+
+-Consensus pattern: F-R-Y-x-C-E-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ members of the NFAT family.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Text revised; profile added.
+
+[ 1] Kabrun N., Enrietto P.J.
+     "The Rel family of proteins in oncogenesis and differentiation."
+     Semin. Cancer Biol. 5:103-112(1994).
+     PubMed=8061327
+[ 2] Blank V., Kourilsky P., Israel A.
+     "NF-kappa B and related proteins: Rel/dorsal homologies meet
+     ankyrin-like repeats."
+     Trends Biochem. Sci. 17:135-140(1992).
+     PubMed=1533967
+[ 3] Gerondakis S.
+     Current Biol. 1:103-105(1991).
+[ 4] Gilmore T.D.
+     "Malignant transformation by mutant Rel proteins."
+     Trends Genet. 7:318-322(1991).
+     PubMed=1781029
+[ 5] Gilmore T.D.
+     "NF-kappa B, KBF1, dorsal, and related matters."
+     Cell 62:841-843(1990).
+     PubMed=2203533
+[ 6] Mitomo K., Nakayama K., Fujimoto K., Sun X., Seki S., Yamamoto K.-I.
+     "Two different cellular redox systems regulate the DNA-binding
+     activity of the p50 subunit of NF-kappa B in vitro."
+     Gene 145:197-203(1994).
+     PubMed=8056331
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

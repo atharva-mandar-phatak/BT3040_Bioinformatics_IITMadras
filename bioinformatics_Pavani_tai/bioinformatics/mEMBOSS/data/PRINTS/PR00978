@@ -1,0 +1,26 @@
+STARPROTEIN
+Steroidogenic cells respond to trophic hormone stimulation by mobilisation
+of cholesterol from cellular stores to the mitochondrial outer membrane, 
+and thence to the inner membrane, where the first enzymatic step in 
+steroidogenesis occurs [1]. Cholesterol transfer across the membranes is
+dependent on de novo protein synthesis, which is the regulated step in
+the process [1]. 
+
+The newly-synthesised regulatory protein(s) have yet to be identified.
+Nevertheless, a candidate mitochondrial protein has been characterised that
+is synthesised in response to luteinising hormone stimulation [1]. 
+Expression of the protein in the absence of hormone stimulation is 
+sufficient to induce steroid production, suggesting that this protein is 
+required in the acute regulation of steroidogenesis. This novel protein has
+been termed Steroidogenic Acute Regulatory protein (StAR). 
+
+STARPROTEIN is a 9-element fingerprint that provides a signature for
+steroidogenic acute regulatory proteins. The fingerprint was derived from
+an initial alignment of 11 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length. A single iteration
+on OWL30.2 was required to reach convergence, no further sequences being
+identified beyond the starting set. Two partial matches were found,
+SSU72195 and S80098, both of which are fragments that match motifs 3-6.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 2
+partial matches.

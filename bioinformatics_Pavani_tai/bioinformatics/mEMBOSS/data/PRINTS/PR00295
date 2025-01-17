@@ -1,0 +1,34 @@
+STEFINA
+Stefin A is a member of the cystatin superfamily, which are tight,
+reversibly-binding inhibitors of the papain-like cysteine proteases [1].
+The inhibitors are involved in the control mechanism responsible for
+protein breakdown, and are thought to help protect cells from inappropriate
+endogenous or external proteolysis [2]. 
+
+The cystatin superfamily comprises 3 families: the stefins, cystatins 
+and kininogens. The stefin family includes proteins that lack disulphide 
+bonds and carbohydrates. The most abundant source of stefin A is poly-
+morphonuclear leucocytes from the liver, but it is also found in extracts
+of squamous epithelia from the mouth and oesophagus, and has been localised
+to the cytoplasm of the strata corneum and granulosum of the epidermis. The
+selective distribution of the inhibitor correlates with tissues that
+constitute a "first line of defence" against pathogenic organisms. Stefin A
+may thus provide a protective function as an inhibitor of cysteine
+proteases utilised as invasive tools by many infectious agents [1].
+
+The structure of stefin A contains a 5-stranded anti-parallel beta-sheet,
+wrapped around a central helix. The loops formed between the strands are
+involved in inhibitor binding, one of these containing a QVVAG sequence,
+which is highly conserved in most members of the cystatin superfamily [2].
+
+STEFINA is a 4-element fingerprint that provides a signature for stefins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from conserved regions spanning the full alignment
+length, motifs 2 and 3 encompassing the region encoded by PROSITE pattern
+CYSTATIN (PS00287), which contains the conserved QVVAG motif implicated in
+protease binding. Two iterations on OWL25.2 were required to reach
+convergence, at which point a true set comprising 11 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 1
+partial match.

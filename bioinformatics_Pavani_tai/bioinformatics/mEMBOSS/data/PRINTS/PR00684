@@ -1,0 +1,27 @@
+T4LYSOZYME
+T4 lysozyme helps to release mature phage particles from the cell wall by
+breaking down the peptidoglycan. The enzyme hydrolyses the 1,4-beta
+linkages between N-acetyl-D-glucosamine and N-acetylmuramic acid in
+peptidoglycan heteropolymers of prokaryotic cell walls.
+
+The T4 lysozyme structure contains 2 domains, the interface between which
+forms the active-site cleft. The N-terminus of the 2 domains undergoes a
+'hinge-bending' motion about an axis passing through the molecular waist
+[1]. This mobility is thought to be important in allowing access of
+substrates to the enzyme active site. 
+
+T4LYSOZYME is a 7-element fingerprint that provides a signature for the
+phage t4 lysozymes. The fingerprint was derived from an initial alignment
+of 19 sequences: the motifs were drawn from conserved regions spanning
+the full alignment length - motif 1 spans the first alpha-helix and the
+first beta-strand; motif 2 encompasses strands 2 and 3; motif 3 includes
+the N-terminal portion of helix 3; motif 4 spans the C-terminal portion of
+helix 3 and helix 4; motif 5 spans helices 5 and 6; motif 6 spans helices
+7 and 8; and motif 7 encompasses helix 10. Two iterations on OWL29.0 were
+required to reach convergence, at which point a true set comprising 109
+sequences was identified. Four partial matches were also found: NRL_103L2,
+NRL_205L2 and SYNT4LSN are fragments; and VG05_BPT4 is a tail-associated
+lysozyme that matches motifs 1, 2, 5 and 7. 
+
+An update on OWL31_3 identified a true set of 170 sequences, and 4
+partial matches.

@@ -1,0 +1,16 @@
+HISTONEH2B
+Histone H2B is a small, highly conserved nuclear protein that, together
+with 2 molecules each of histones H2A, H3 and H4, forms the eukaryotic
+nucleosome core [1]; the nucleosome octamer winds ~146 DNA base-pairs.
+
+HISTONEH2B is a 5-element fingerprint that provides a signature for the
+H2B histones. The fingerprint was derived from an initial alignment of
+20 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motifs 3-5 include the region encoded by
+PROSITE pattern HISTONE_H2B (PS00357). Two iterations on OWL29.0 were
+required to reach convergence, at which point a true set comprising 95
+sequences was identified. Several partial matches were also found, all
+of which are fragments.
+
+An update on SPTR37_9f identified a true set of 105 sequences, and 1
+partial match.

@@ -1,0 +1,54 @@
+****************************************************************
+* Cytochrome c oxidase subunit Vb family signature and profile *
+****************************************************************
+
+Cytochrome c oxidase (EC 1.9.3.1) [1] is an oligomeric enzymatic complex which
+is  a  component  of  the  respiratory  chain  complex  and is involved in the
+transfer  of  electrons from cytochrome c to oxygen. In eukaryotes this enzyme
+complex is located in the mitochondrial inner membrane; in aerobic prokaryotes
+it  is  found  in the plasma membrane. In addition to the three large subunits
+that form the catalytic center of the enzyme complex there are, in eukaryotes,
+a  variable number of small polypeptidic subunits. One of these subunits which
+is known as Vb in mammals, V in slime mold and IV in yeast, binds a zinc atom.
+The  sequence  of  subunit  Vb  is  well  conserved and includes three to four
+conserved cysteines that coordinate the zinc ion [2,3]. Two of these cysteines
+are  clustered  in  the  C-terminal  section of the subunit; we have used this
+region  as  a  signature  pattern. We also developed a profile that covers the
+whole subunit Vb zinc binding region.
+
+-Consensus pattern: [LIVM](2)-[FYW]-x(10)-C-x(2)-C-G-x(2)-[FY]-K-L
+                    [The 2 C's may bind zinc]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2008 / Text revised; profile added.
+
+[ 1] Capaldi R.A., Malatesta F., Darley-Usmar V.M.
+     "Structure of cytochrome c oxidase."
+     Biochim. Biophys. Acta 726:135-148(1983).
+     PubMed=6307356
+[ 2] Rizzuto R., Sandona D., Brini M., Capaldi R.A., Bisson R.
+     "The most conserved nuclear-encoded polypeptide of cytochrome c
+     oxidase is the putative zinc-binding subunit: primary structure of
+     subunit V from the slime mold Dictyostelium discoideum."
+     Biochim. Biophys. Acta 1129:100-104(1991).
+     PubMed=1661610
+[ 3] Tsukihara T., Aoyama H., Yamashita E., Tomizaki T., Yamaguchi H.,
+     Shinzawa-Itoh K., Nakashima R., Yaono R., Yoshikawa S.
+     "The whole structure of the 13-subunit oxidized cytochrome c oxidase
+     at 2.8 A."
+     Science 272:1136-1144(1996).
+     PubMed=8638158
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

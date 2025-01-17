@@ -1,0 +1,34 @@
+NTKRECEPTOR3
+Neurotrophins are a family of secreted proteins that regulate development, 
+maintenance and function of vertebrate nervous systems. They act via two 
+different classes of receptor: p75NTR (a member of the TNF receptor 
+superfamily), and neurotrophic tyrosine kinase receptors (NTRKs) - also 
+known as tropomyosin-related kinases (Trks) [1]. 
+
+NTRKs are multi-domain, transmembrane proteins - in addition to their
+cytoplasmic kinase domains, members of the family possess a number of
+extracellular leucine-rich repeat (LRR) and Ig-like C2-type regions. Ligand
+binding induces them to dimerise, resulting in activation of their
+cytoplasmic tyrosine kinase domains. The activated receptors couple to a
+variety of intracellular signalling cascades, including the Ras,
+phosphatidylinositol-3-kinase (PI-3 kinase), mitogen-activated protein (MAP)
+kinase, and phospholipase C (PLC)-gamma pathways [2].
+
+NTRK3 (also termed TrkC) is a high-affinity receptor for neurotrophin-3
+(NT-3). The receptor is widely expressed in the developing nervous system,
+and is also found in many non-neuronal tissues [3]. In addition to roles in
+synaptogenesis [4] and neuronal differentiation [5], NTRK3 is implicated in
+peripheral nerve cell myelination, mediating the inhibitory effects of NT-3
+on this process [6].
+
+NTKRECEPTOR3 is a 4-element fingerprint that provides a signature for 
+neurotrophic tyrosine kinase receptor type 3. The fingerprint was derived
+from an initial alignment of 2 sequences: the motifs were drawn from 
+conserved regions spanning the N-terminal extracellular domain, focusing on
+those sections that characterise NTRK3 but distinguish it from other members
+of the NTRK family - motif 1 lies in the signal sequence; and motifs 3 and 4
+reside within the second Ig-like C2-type region, each encompassing a short
+region of beta strand. Two iterations on SPTR55_38f were required to
+reach convergence, at which point a true set comprising 11 sequences was
+identified. A single partial match was also found, Q2PFX3_MACFA, a 
+translated macaque cDNA that fails to match motifs 1 and 2.

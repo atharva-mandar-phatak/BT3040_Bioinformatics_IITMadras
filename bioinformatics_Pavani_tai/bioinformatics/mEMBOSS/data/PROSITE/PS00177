@@ -1,0 +1,66 @@
+**********************************
+* DNA topoisomerase II signature *
+**********************************
+
+DNA topoisomerase II (EC 5.99.1.3) [1,2,3,4] is one of the two types of enzyme
+that catalyze   the  interconversion  of  topological  DNA  isomers.  Type  II
+topoisomerases are  ATP-dependent  and act by passing a DNA  segment through a
+transient double-strand   break.   Topoisomerase   II   is  found  in  phages,
+archaebacteria, prokaryotes,  eukaryotes,  and  in  African  Swine Fever virus
+(ASF). In  bacteriophage  T4  topoisomerase II consists of three subunits (the
+product of  genes  39,  52  and  60). In prokaryotes and in archaebacteria the
+enzyme, known  as  DNA  gyrase,  consists of two subunits (genes gyrA and gyrB
+[E1]). In  some  bacteria, a second type II topoisomerase has been identified;
+it is known as topoisomerase IV and is required for chromosome segregation, it
+also consists  of  two  subunits (genes parC and parE). In eukaryotes, type II
+topoisomerase is a homodimer.
+
+There are many regions of sequence homology between the different  subtypes of
+topoisomerase II. The relation between the different  subunits is shown in the
+following representation:
+
+  <----------------About-1400-residues----------------------->
+
+  [----------Protein 39-*-----][----Protein 52----]              Phage T4
+  [----------gyrB-------*-----][--------gyrA-----------------]   Prokaryote II
+                                                                 Archaea
+  [----------parE-------*-----][--------parD-----------------]   Prokaryote IV
+  [---------------------*------------------------------------]   Eukaryote and
+                                                                 ASF
+
+'*': Position of the pattern.
+
+As a signature pattern for this family of proteins,  we have selected a region
+that contains a highly conserved pentapeptide. The pattern is located in gyrB,
+in parE, and in protein 39 of phage T4 topoisomerase.
+
+-Consensus pattern: [LIVMA]-{R}-E-G-[DN]-S-A-{F}-[STAG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sternglanz R.
+     "DNA topoisomerases."
+     Curr. Opin. Cell Biol. 1:533-535(1989).
+     PubMed=2560656
+[ 2] Bjornsti M.-A.
+     Curr. Opin. Struct. Biol. 1:99-103(1991).
+[ 3] Sharma A., Mondragon A.
+     "DNA topoisomerases."
+     Curr. Opin. Struct. Biol. 5:39-47(1995).
+     PubMed=7773745
+[ 4] Roca J.
+     "The mechanisms of DNA topoisomerases."
+     Trends Biochem. Sci. 20:156-160(1995).
+     PubMed=7770916
+[E1] http://seasquirt.mbio.co.jp/icb/background/background.php
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

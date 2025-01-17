@@ -1,0 +1,49 @@
+PTRHORMONER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that   
+encompasses a wide range of functions (including various autocrine, para-   
+crine and endocrine processes). They show considerable diversity at the   
+sequence level, on the basis of which they can be separated into distinct   
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,   
+but between which there is no statistically significant similarity in   
+sequence [1]. The currently known clan members include the rhodopsin-like   
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating   
+pheromone receptors, and the metabotropic glutamate receptor family.       
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid   
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-   
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+families: the secretin-like receptors thus bear their own unique '7TM'
+signature.      
+
+Parathyroid hormone (PTH) is involved in calcium homeostasis within the
+body in combination with calcitonin and vitamin D [6]. PTH is released in
+response to hypocalcaemia and stimulates a rise in blood calcium; the
+converse is true for calcitonin. The principle targets for PTH are bone
+and kidney. Antagonists at the PTH receptor are of potential clinical use
+in the treatment of hyperparathyroidism and short-term hypercalcaemic
+states. In addition to its presence in bone and kidney, the receptor is
+found in lower levels in blood vessels, where it mediates vasodilation.
+The principle second messenger pathway is activation of adenylyl cyclase
+through Gs. In addition, PTH stimulates phosphoinositide metabolism on
+the expressed receptor.
+
+PTRHORMONER is a 6-element fingerprint that provides a signature for the
+parathyroid hormone/parathyroid related peptide receptors. The fingerprint
+was derived from an initial alignment of 4 sequences: the motifs were
+drawn from conserved sections within either loop or TM regions, focusing
+on those areas of the alignment that characterise the parathyroid hormone
+receptors but distinguish them from the rest of the secretin-like family -
+motifs 1 and 2 were drawn from the N-terminal region leading into the first
+TM domain; motif 3 lies in the loop region preceding the third TM domain;
+motif 4 spans the loop region leading into the seventh TM region; and 
+motifs 5 and 6 were drawn from the C-terminus. Two iterations on OWL25.2
+were required to reach convergence, at which point a true set comprising
+7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

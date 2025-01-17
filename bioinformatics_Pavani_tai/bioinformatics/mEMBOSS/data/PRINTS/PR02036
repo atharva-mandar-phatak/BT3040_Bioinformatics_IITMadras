@@ -1,0 +1,34 @@
+CHEMOTAXISIP
+Chemotaxis inhibitory protein (also knows as CHIPS) is a Staphylococcus
+aureus-secreted virulence factor that impairs the response of neutrophils
+and monocytes to FPR and C5a [1]. CHIPS has been shown to reduce neutrophil
+recruitment toward C5a in mouse models (its activity is more potent on 
+human than on mouse cells). As such, its properties may make it a
+candidate new anti-inflammatory therapeutic compound [1].
+
+CHIPS also plays an key role in bacterial invasion, by inhibiting FMLP-
+and C5a-induced calcium moblisation [1]. By influencing 2 related receptors
+with very different ligand specificities (C5aR and FPR), the protein has a
+unique role; nevertheless, neither the manner in which it binds such
+structurally different molecules nor how its expression is regulated are
+currently unknown [1].
+
+The structure of a CHIPS fragment (residues 31-121) has been solved by NMR
+spectroscopy [2]. This fragment has the same activity in blocking the C5aR
+relative to full-length CHIPS, but lacks FPR antagonism [2]. The protein
+has a compact fold comprising 2 short alpha-helices packed onto a 4-stranded
+anti-parallel beta-sheet: strands-2 and -3 are joined by a loop with a
+well-defined conformation [2]. The protein shares a high degree of
+structural similarity with a number of proteins, including the C-terminal 
+domain of staphylococcal superantigen-like proteins (SSLs) 5 and 7, 
+staphyloccocal and streptococcal superantigens TSST-1 and SPE-C, and various
+domains of the staphylococcal extracellullar adherence protein (EAP) [2].
+
+CHEMOTAXISIP is a 6-element fingerprint that provides a signature for 
+chemotaxis inhibitory proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 1 and 2 span the N-terminal 
+region; motif 4 includes the C-terminal half of helix 1; motif 4 spans part
+of strands 1 and 2; motif 5 includes strand 3; and motif 6 includes strand
+4. Two iterations on SPTR57.15_40.15f were required to reach convergence,
+at which point a true set comprising 33 sequences was identified. 

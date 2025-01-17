@@ -1,0 +1,25 @@
+BRSTCANCERI
+Breast cancer is a common malignancy, affecting 1 in 8 women. A major
+contributary factor in disease development lies in a positive family
+history, a correlation that is striking for early-onset breast cancer.
+Mutations in BRCA1 are believed to be responsible for 45% of inherited
+breast cancer and more than 80% of inherited breast and ovarian cancer.
+
+The BRCA1 gene is expressed in numerous tissues, including breast and
+ovary, and encodes a predicted protein of 1863 amino acids [1]. The protein
+contains an N-terminal zinc-finger domain, but otherwise appears unrelated
+to currently known protein families. It is hoped that BRCA1 will both
+facilitate early diagnosis of breast and ovarian cancer susceptibility, and  
+provide a better understanding of breast cancer biology [1].
+
+BRSTCANCERI is an 8-element fingerprint that provides a signature for
+breast cancer type I susceptibility proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing
+on domains in which mutations have been linked to disease development. A
+single iteration on OWL27.0 was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match
+was also found, MMU33835, a fragment that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 1
+partial match.

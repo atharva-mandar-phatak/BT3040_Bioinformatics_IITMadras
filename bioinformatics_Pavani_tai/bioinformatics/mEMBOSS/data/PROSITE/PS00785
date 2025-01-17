@@ -1,0 +1,66 @@
+******************************
+* 5'-nucleotidase signatures *
+******************************
+
+5'-nucleotidases (EC 3.1.3.5) [1]  are enzymes that catalyze the hydrolysis of
+phosphate  esterified at carbon 5' of  the ribose  and deoxyribose portions of
+nucleotide molecules.  5'-nucleotidase  is a ubiquitous enzyme found in a wide
+variety of  species  and  which  occurs  in  different cellular locations. The
+sequences of the following 5'-nucleotidases are currently known:
+
+ - Extracellular 5'-nucleotidase from mammals and electric ray.  This  isozyme
+   is a homodimeric disulfide-bonded glycoprotein attached to the  membrane by
+   a GPI-anchor. It requires zinc for its activity
+ - Vibrio parahaemolyticus 5'-nucleotidase (gene nutA).  This isozyme is bound
+   to the membrane by a lipid chain.  NutA  requires  chloride  and magnesium
+   ions for   its  activity.  It  is    involved  in  degrading  extracellular
+   5'-nucleotides for nutritional needs.
+ - Periplasmic bacterial 5'-nucleotidase (gene ushA).  This enzyme, also known
+   as UDP-sugar hydrolase (EC 3.6.1.45), can  degrade  UDP-glucose and   other
+   nucleotide diphosphate  sugars.  It  produces  sugar-1-phosphate  which can
+   then be used by the cell. UshA seems to require cobalt for its activity.
+
+5'-nucleotidases are evolutionary related to the following enzyme:
+
+ - Periplasmic bacterial 2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.
+   4.16) (gene cpdB).  This  bifunctional  enzyme  catalyzes  two  consecutive
+   reactions: it  first converts 2',3'-cyclic-nucleotide  to 3'-nucleotide and
+   then acts as a 3'-nucleotidase.
+ - Mosquito  apyrase  (EC  3.6.1.5)  (ATP-diphosphohydrolase) [2]. This enzyme
+   catalyzes the  hydrolysis  of  ATP  into AMP and facilitates hematophagy by
+   preventing ADP-dependent platelet aggregation in the host.
+
+All these  proteins share a number of regions of sequence similarity, of which
+we selected  two  as  signature  patterns.  Both regions are located in the N-
+terminal section  of  these  enzymes.  The second pattern contains a perfectly
+conserved pentapeptide.
+
+-Consensus pattern: [LIVM]-x-[LIVM](2)-[HEA]-[TI]-x-D-x-H-[GSA]-x-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FYPH]-x(4)-[LIVM]-G-N-H-E-F-[DN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Zimmermann H.
+     "5'-Nucleotidase: molecular structure and functional aspects."
+     Biochem. J. 285:345-365(1992).
+     PubMed=1637327
+[ 2] Champagne D.E., Smartt C.T., Ribeiro J.M.C., James A.A.
+     "The salivary gland-specific apyrase of the mosquito Aedes aegypti is
+     a member of the 5'-nucleotidase family."
+     Proc. Natl. Acad. Sci. U.S.A. 92:694-698(1995).
+     PubMed=7846038
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

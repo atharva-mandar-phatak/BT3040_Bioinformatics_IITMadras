@@ -1,0 +1,49 @@
+ECDYSTEROIDR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+In Drosophila melanogaster, the steroid hormone ecdysone triggers larval-to-
+adult metamorphosis, a process in which the hormone induces imaginal tissues
+to generate adult structures, and larval tissues to degenerate [4]. The
+ecdysone receptor (EcR) binds DNA with high specificity at ecdysone response
+elements. EcR is nuclear and is found in larval wing discs, pupal wings and
+in prothoracic glands. 
+
+In the mosquito Aedes aegypti, 20-hydroxyecdysone plays an important role
+in the regulation of egg maturation [5]. There are three EcR transcripts
+(of 4.2kb, 6kb and 11kb) in adult mosquitoes; 4.2kb mRNA is predominantly
+expressed in female mosquitoes during vitellogenesis [5]. In both the fat
+body and ovaries of the female mosquito, the level of EcR mRNA is high at
+the previtellogenic period and after the onset of vitellogenesis [5]. 
+
+ECDYSTEROIDR is an 8-element fingerprint that provides a signature for
+ecdysone receptors. The fingerprint was derived from an initial alignment 
+of 5 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that
+characterise the ecdysone receptors but distinguish them from the rest of 
+the steroid hormone receptor superfamily - motif 1 lies at the C-terminus 
+of the putative modulating domain; motif 2 lies immediately C-terminal to
+the zinc fingers; and motifs 3-8 span the hormone binding domain. Two
+iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 14 sequences was identified.

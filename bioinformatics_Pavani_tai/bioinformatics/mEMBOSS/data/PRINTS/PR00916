@@ -1,0 +1,47 @@
+2CENDOPTASE
+Cysteine protease activity is dependent on an active dyad of cysteine and
+histidine, the order and spacing of these residues varing in the known 
+families. Nearly half of all cysteine proteases are found exclusively
+in viruses [1]. Cysteine protease families have been grouped into five 
+clans (designated CA, CB, CC, CD and CE) on the basis of structural and
+functional similarity. Families C1, C2 and C10, which belong to the CA clan,
+have a Cys/His catalytic diad, and are loosely termed papain-like. Families
+in the CB clan have a His/Cys diad, and contain enzymes from RNA viruses
+distantly related to chymotrypsin. Enzymes in clan CC are also from RNA
+viruses, but have a papain-like Cys/His active site. The remaining two
+clans, CD and CE, contain only one family each [2]. Some families have not
+yet been asigned to a clan. 
+
+Two additional clans (PA and PB) have been identified, these containing a
+mixture of serine, cysteine and threonine proteases. Clan PA contains a
+catalytically-active serine or cysteine nucleophilic residue as part of the
+ordered triad His, Asp, Ser (or Cys). Clan PB contains a serine, cysteine or
+threonine active residue at the N-terminus of the mature protease [3]. 
+
+Caliciviruses are positive-stranded ssRNA viruses that cause gastroenteritis
+[4]. The calicivirus genome contains two open reading frames, ORF1 and ORF2.
+ORF1 encodes a non-structural polypeptide, which has RNA helicase, cysteine
+protease and RNA polymerase activity. The regions of the polyprotein in 
+which these activities lie are similar to proteins produced by the picorna-
+viruses. ORF2 encodes a structural protein [5]. Two different families of
+caliciviruses can be distinguished on the basis of sequence similarity, 
+namely those classified as small round structured viruses (SRSVs) and those
+classed as non-SRSVs. 
+
+Calicivirus proteases from the non-SRSV group, which are members of the PA
+protease clan, constitute family C24 of the cysteine proteases (proteases 
+from SRSVs belong to the C37 family). As mentioned above, the protease 
+activity resides within a polyprotein. The enzyme cleaves the polyprotein
+at sites N-terminal to itself, liberating the polyprotein helicase.
+
+2CENDOPTASE is a 4-element fingerprint that provides a signature for the 
+cysteine protease (C24) of non-SRSV caliciviruses. The fingerprint was 
+derived from an initial alignment of 4 sequences: the motifs were drawn 
+from conserved regions spanning the full length of the polyprotein protease,
+focusing on those regions that characterise members of the C24 family but
+distinguish them from the C37 proteases - motif 1 includes the active site
+histidine residue; and motif 3 contains the catalytic cysteine. Two 
+iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 14 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 12 sequences.

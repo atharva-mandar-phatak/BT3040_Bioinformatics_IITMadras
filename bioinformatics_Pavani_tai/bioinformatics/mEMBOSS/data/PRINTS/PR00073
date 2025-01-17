@@ -1,0 +1,23 @@
+COPRGNOXDASE
+Coprogen oxidase (i.e. coproporphyrin III oxidase or coproporphyrinogenase)
+catalyses the oxidative decarboxylation of coproporphyrinogen III to proto-
+porhyrinogen IX in the haem and chlorophyll biosynthetic pathways [1,2].
+The protein is a homodimer containing 2 iron atoms per molecule of native
+protein [3]. The iron atoms can be removed neither by exhaustive dialysis
+nor by gel filtration, indicating that they are internally bound [3]: their
+involvement in the catalytic activity cannot be demonstrated, the enzyme
+only being active in the presence of molecular oxygen (acting as the
+electron acceptor) [3]. Thiol-directed agents partially inhibit catalytic
+activity, indicating that an SH group is required for activity [3].
+
+COPRGNOXDASE is a 7-element fingerprint that provides a signature for
+coprogen oxidases. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motif 5 including the region encoded
+by PROSITE pattern COPROGEN_OXIDASE (PS01021), a highly-conserved charged
+area containing the putative catalytically-important Cys. Two iterations on
+OWL25.1 were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 1
+partial match.

@@ -1,0 +1,64 @@
+********************************************************************
+* Prokaryotic-type class I peptide chain release factors signature *
+********************************************************************
+
+Peptide chain  release  factors (RFs) are  required  for  the  termination  of
+protein biosynthesis [1]. At present two  classes of RFs can be distinguished.
+Class I  RFs  bind  to  ribosomes  that have encountered a stop codon at their
+decoding site  and induce release of the nascent polypeptide. Class II RFs are
+GTP-binding proteins  that  interact  with  class I RFs and enhance class I RF
+activity.
+
+In prokaryotes  there  are two class I RFs that act in a codon specific manner
+[2]: RF-1 (gene prfA)  mediates UAA  and UAG-dependent  termination while RF-2
+(gene prfB)  mediates    UAA  and UGA-dependent termination. RF-1 and RF-2 are
+structurally and  evolutionary  related  proteins which have been shown [3] to
+make up a family that also contains the following proteins:
+
+ - Fungal  MRF1,  a  mitochondrial  RF (m-RF) which recognizes the UAA and UAG
+   codons.
+ - Escherichia coli RF-H, a protein of unknown function.
+ - Escherichia coli  hypothetical protein yaeJ  and a close Pseudomonas putida
+   homolog.
+
+We use as a signature pattern a highly conserved region located in the central
+part of the 40 to 45 Kd RF-1/2 and m-RF and in  the N-terminal of the 15 to 16
+Kd RF-H and yaeJ.
+
+-Consensus pattern: [ARH]-[STA]-x-G-x-G-G-Q-[HNGCSY]-[VI]-N-x(3)-[ST]-[AKG]-
+                    [IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Prokaryotic-type class I RFs display no significant sequence similarity
+ to prokaryotic-type  class  II  which  belong  to  the  family of GTP-binding
+ elongation factors  (see  <PDOC00273>)  nor to eukaryotic class I or class II
+ RFs.
+
+-Expert(s) to contact by email:
+           Tate W.P.; wptate@sanger.otago.ac.nz
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Tate W.P., Poole E.S., Mannering S.M.
+     Prog. Nucleic Acids. Res. Mol. Biol. 52:293-335(1996).
+[ 2] Craigen W.J., Lee C.C., Caskey C.T.
+     "Recent advances in peptide chain termination."
+     Mol. Microbiol. 4:861-865(1990).
+     PubMed=2215213
+[ 3] Pel H.J., Rep M., Grivell L.A.
+     "Sequence comparison of new prokaryotic and mitochondrial members of
+     the polypeptide chain release factor family predicts a five-domain
+     model for release factor structure."
+     Nucleic Acids Res. 20:4423-4428(1992).
+     PubMed=1408743
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,16 @@
+PHPHLIPASED
+Phosphatidylinositol-glycan-specific phospholipase D is an extracellular
+amphiphilic glycoprotein [1,2]: it hydrolyses the inositol phosphate linkage
+in proteins anchored by phosphatidylinositol glycans, releasing these
+proteins from the membrane. The enzyme catalyses the reaction: glycoprotein
+phosphatidylinositol + H(2)O = phosphatidate + glycoprotein inositol.
+
+PHPHLIPASED is a 9-element fingerprint that provides a signature for
+phospholipase D. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs were drawn from short conserved regions
+spanning the full alignment length. A single iteration on OWL29.3 was
+required to reach convergence, no further sequences being identified
+beyond the starting set. A single partial match was found, PHLD_HUMAN,
+a composite sequence a phospholipase D fragments. 
+
+An update on SPTR37_9f identified a true set of 4 sequences.

@@ -1,0 +1,63 @@
+*****************************************************
+* Janus-faced atracotoxin (J-ACTX) family signature *
+*****************************************************
+
+Janus-faced atracotoxins  (J-ACTXs)  form a family of insecticidal neurotoxins
+isolated from  the venom of one of the world's most lethal arachnids, the Blue
+mountains funnel-web  spider Hadronyche versuta. J-ACTXs are 36 or 37 residues
+in length  with  eight  conserved cysteine residues involved in four disulfide
+bonds, including  an extemely rare vicinal disulfide (a disulfide bond between
+adjacent cysteine   residues)   that  has  been  shown  to  be  essential  for
+insecticidal activity.  J-ACTXs  possess  two strikingly dissimilar faces. One
+face presents  an  almost  contiguous charged surface, while the opposing face
+containing the vicinal disulfide is devoid of ionizable side chains [1].
+
+J-ACTX family  proteins  have a [C-C-CC-CC-C-C] cysteine arrangement, which is
+similar to  that  of the I-superfamily conotoxins (see <PDOC60004>). The three
+dimensional structure   of   J-ACTXs   possesses   a   knottin  scaffold  (see
+<PDOC60004>) [E1]  and  III-IV  pair  of  cysteine  residues (as marked '#' in
+schematic representation)  involved  in  a  additional  disulfide linkage. The
+cysteine knot  motif  in  J-ACTXs  provides  high  stability and maintains the
+tertiary structure.
+
+                                    +----------------+
+                                 ## |                |
+                       CxxxxxxCxxCCxCCxxxxCxxxxxxxxxxC
+                       |      |      |    |
+                       +------|------+    |
+                              +-----------+
+
+'C': conserved cysteine involved in disulfide bond.
+'#': Cysteines  three and four are connected to each other through a disulfide
+     bond.
+
+Our signature  pattern  for  J-ACTXs  contains  the  eight conserved cysteines
+involved in disulfide bonds.
+
+-Conserved pattern: C-{C}(6)-C-x(2)-C-C-x-C-C-x(4)-C-x(9,10)-C
+                    [The 8 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: July 2005 / First entry.
+
+[ 1] Wang X., Connor M., Smith R., Maciejewski M.W., Howden M.E.H.,
+     Nicholson G.M., Christie M.J., King G.F.
+     "Discovery and characterization of a family of insecticidal
+     neurotoxins with a rare vicinal disulfide bridge."
+     Nat. Struct. Biol. 7:505-513(2000).
+     PubMed=10881200; DOI=10.1038/75921
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

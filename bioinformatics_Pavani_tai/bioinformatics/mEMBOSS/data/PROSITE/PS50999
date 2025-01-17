@@ -1,0 +1,82 @@
+**********************************************************
+* Cytochrome c oxidase subunit II signature and profiles *
+**********************************************************
+
+Cytochrome  c  oxidase  (EC  1.9.3.1) [1,2] is an oligomeric enzymatic complex
+which  is a component of the respiratory chain and is involved in the transfer
+of electrons from cytochrome c to oxygen. In eukaryotes this enzyme complex is
+located  in  the  mitochondrial  inner  membrane; in aerobic prokaryotes it is
+found  in  the  plasma  membrane.  The enzyme complex consists of 3-4 subunits
+(prokaryotes) to up to 13 polypeptides (mammals).
+
+Subunit  2  (CO II) transfers the electrons from cytochrome c to the catalytic
+subunit  1.  It  contains two adjacent transmembrane regions in its N-terminus
+and  the  major  part  of  the protein is exposed to the periplasmic or to the
+mitochondrial intermembrane space, respectively. CO II provides the substrate-
+binding  site  and  contains  a  copper  center  called  Cu(A), located in the
+extramembrane  domain  (see  <PDB:1OCZ;  B>), probably the primary acceptor in
+cytochrome  c  oxidase.  An  exception  is  the  corresponding  subunit of the
+cbb3-type  oxidase which lacks the copper A redox-center. Several bacterial CO
+II have a C-terminal extension that contains a covalently bound heme c.
+
+It has been shown [3,4] that nitrous oxide reductase (EC 1.7.99.6) (gene nosZ)
+of Pseudomonas has sequence similarity in its C-terminus to CO II. This enzyme
+is part of the bacterial respiratory system which is activated under anaerobic
+conditions in  the presence of nitrate or nitrous oxide. NosZ is a periplasmic
+homodimer that  contains  a  dinuclear copper center, probably located in a 3-
+dimensional fold  similar  to the cupredoxin-like fold that has been suggested
+for the copper-binding site of CO II [3].
+
+The  dinuclear  purple copper center is formed by 2 histidines and 2 cysteines
+[5].  We used this region as a signature pattern. The conserved valine and the
+conserved methionine are said to be involved in stabilizing the copper-binding
+fold  by  interacting  with  each  other.  We also developed two profiles, one
+directed against the transmembrane region and one against the copper center.
+
+-Consensus pattern: V-x-H-x(33,40)-C-x(3)-C-x(3)-H-x(2)-M
+           [The 2 C's and the 2 H's are copper ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Paramecium  primaurelia  as well as in some plants where the pattern ends
+ with Thr; an RNA editing event at this position could change this Thr to Met.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Cytochrome cbb(3) subunit 2 does not belong to this family.
+
+-Last update: June 2004 / Text revised; profiles added.
+
+[ 1] Capaldi R.A., Malatesta F., Darley-Usmar V.M.
+     "Structure of cytochrome c oxidase."
+     Biochim. Biophys. Acta 726:135-148(1983).
+     PubMed=6307356
+[ 2] Garcia-Horsman J.A., Barquera B., Rumbley J., Ma J., Gennis R.B.
+     J. Bacteriol. 176:5587-5600(1994).
+[ 3] van der Oost J., Lappalainen P., Musacchio A., Warne A., Lemieux L.,
+     Rumbley J., Gennis R.B., Aasa R., Pascher T., Malmstrom B.G., Saraste M.
+     EMBO J. 11:3209-3217(1992).
+[ 4] Zumft W.G., Dreusch A., Lochelt S., Cuypers H., Friedrich B.,
+     Schneider B.
+     "Derived amino acid sequences of the nosZ gene (respiratory N2O
+     reductase) from Alcaligenes eutrophus, Pseudomonas aeruginosa and
+     Pseudomonas stutzeri reveal potential copper-binding residues.
+     Implications for the CuA site of N2O reductase and cytochrome-c
+     oxidase."
+     Eur. J. Biochem. 208:31-40(1992).
+     PubMed=1324835
+[ 5] Saraste M.
+     Unpublished observations (1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

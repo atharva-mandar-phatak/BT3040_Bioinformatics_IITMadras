@@ -1,0 +1,135 @@
+*****************************************************
+* Small cytokines (intercrine/chemokine) signatures *
+*****************************************************
+
+Many low-molecular  weight  factors  secreted  by cells including fibroblasts,
+macrophages and  endothelial cells,  in  response  to  a  variety  of  stimuli
+such as  growth factors,  interferons,  viral  transformation   and  bacterial
+products, are structurally related [1,2,3,E1]. Most members of this  family of
+proteins seem to have mitogenic, chemotactic or inflammatory activities. These
+small cytokines are also  called intercrines or chemokines.  They are cationic
+proteins of 70 to 100  amino  acid residues that share four conserved cysteine
+residues involved in  two disulfide bonds, as shown in the following schematic
+representation:
+
+                             +------------------------------------+
+                             |                                    |
+     xxxxxxxxxxxxxxxxxxxxxxCxCxxxxxxxxxxxxxxxxxxxxxxxCxxxxxxxxxxxxCxxxxx
+                           |                         |
+                           +-------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+These proteins can be  sorted into two  groups based on the spacing of the two
+amino-terminal cysteines.  In the first group, the two cysteines are separated
+by a  single  residue  (C-x-C),  while  in the second group, they are adjacent
+(C-C).
+
+The 'C-x-C' group is currently known to consist of the following proteins:
+
+ - Platelet factor 4 (PF4), a protein released from platelet alpha-granules as
+   a complex with a proteoglycan molecule.   PF4 neutralizes the anticoagulant
+   effect of heparin because  it  binds  more strongly  to heparin than to the
+   chondroitin-4-sulfate chains  of  the  carrier molecule. PF4 is chemotactic
+   for neutrophils and monocytes.
+ - Platelet basic protein (PBP), which is the precursor of two active peptides:
+   connective-tissue  activating  peptide III (CTAP III)   (also known as low-
+   affinity platelet factor IV (LA-PF4)) and beta-thromboglobulin. CTAP-III is
+   a growth  factor  that  stimulates a  variety  of  specific  metabolic  and
+   cellular activities.
+ - Interleukin-8 (IL-8), a monokine  which is  released  from monocytes  by an
+   inflammatory response and which is selectively chemotactic for neutrophils.
+   IL-8 is  also  known  as  Monocyte-Derived  Neutrophil  Chemotactic  Factor
+   (MDNCF), or as Neutrophil Activating Protein 1 (NAP-1).
+ - Melanoma growth stimulatory activity protein (MGSA), a  growth  factor with
+   potent mitogenic activity.  MGSA  is also  known  as  Neutrophil Activating
+   Protein 3  (NAP-3)  or  as 'gro', as KC or N51 in mouse and as CICN in rat.
+ - Macrophage inflammatory protein 2 (MIP-2), an extremely potent  chemotactic
+   agent for polymorphonuclear leukocytes.
+ - Mouse Mig (m119), a gamma-interferon induced protein that may be a cytokine
+   affecting the   growth,   movement   or  activation  state  of  cells  that
+   participate in immune and inflammatory response.
+ - Chicken 9E3 (or pCEF-4), a protein expressed constitutively in Rous Sarcoma
+   virus (RSV)  infected  cells  and  which  may  be  an autocrine factor that
+   promotes the growth of fibroblasts.
+ - Pig alveolar macrophage chemotactic factors I and I (AMCF-I and -II).
+ - Pre-B cell growth stimulating factor (PBSF) (stromal cell-derived factor 1)
+   (SDF-1).
+ - IP10, a gamma-interferon induced protein which is chemotactic for monocytes
+   and T lymphocytes.
+
+The 'C-C' group is currently known to consist of the following proteins:
+
+ - Monocyte chemotactic protein 1 (MCP-1)  [Also known as monocyte chemotactic
+   and activating factor (MCAF); JE].
+ - Monocyte chemotactic protein 2 (MCP-2).
+ - Monocyte chemotactic protein 3 (MCP-3) [Also known as MARC; FIC].
+ - Monocyte chemotactic protein 4 (MCP-4) [Also known as NCC-1].
+ - Macrophage  inflammatory  protein 1 alpha (MIP-1-alpha) [Also known as SIS-
+   alpha; TY-5; L2G25B; PAT 464.1; GOS19-1].
+ - Macrophage inflammatory protein 1 beta  (MIP-1-beta) [Also  known  as  SIS-
+   gamma; H400; ACT-2; PAT 744].
+ - Macrophage  inflammatory  protein  1  gamma  (MIP-1-gamma)  [Also  known as
+   macrophage inflammatory protein-related protein-2 (MRP2)].
+ - Macrophage inflammatory protein 3 alpha (MIP-3-alpha)  [Also known as Liver
+   and Activation-Regulated Chemokine (LARC)].
+ - Macrophage inflammatory protein 3 beta  (MIP-3-beta)  [Also  known as EBI1-
+   Ligand Chemokine (ELC)].
+ - Macrophage  inflammatory  protein  4  (MIP-4)  [Also known as Pulmonary and
+   Activation-Regulated Chemokine (PARC)].
+ - Macrophage inflammatory protein 5 (MIP-5) [Also known as HCC-2; NCC-3].
+ - LD78 beta (also known as PAT 464.2 or GOS19-2).
+ - RANTES [Also known as SIS-delta].
+ - SIS-epsilon (p500).
+ - Thymus and activation-regulated chemokine (TARC).
+ - Eotaxin [Also known as eosinophil chemotactic protein].
+ - I-309 [Also known as TCA3].
+ - Human protein HCC-1/NCC-2.
+ - Human protein HCC-3.
+ - Mouse protein C10.
+
+For each of the two groups of proteins, we  have developed a signature pattern
+spanning the region that includes the four conserved cysteines.
+
+-Consensus pattern: C-x-C-[LIVMS]-x(4,6)-[LIVMFY]-x(2)-[RKSEQNA]-x-[LIVM]-
+                    x(2)-[LIVMA]-x(5)-[STAG]-x(2)-C-x(3)-[EQ]-[LIVM](2)-
+                    x(9,10)-C-[LV]-[DN]
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL   C-x-C,
+ except for PBSF.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-C-[LIFYTRQ]-x(5,8)-[LIR]-x(4)-[LIVMFA]-x(2)-[FYWECI]-
+                    x(5,8)-C-x(3,4)-[SAG]-[LIVM](2)-[FL]-x(7,9)-C-[STAV]
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL C-C.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Oppenheim J.J., Zachariae C.O.C., Mukaida N., Matsushima K.
+     "Properties of the novel proinflammatory supergene 'intercrine'
+     cytokine family."
+     Annu. Rev. Immunol. 9:617-648(1991).
+     PubMed=1910690; DOI=10.1146/annurev.iy.09.040191.003153
+[ 2] Stoeckle M.Y., Barker K.A.
+     "Two burgeoning families of platelet factor 4-related proteins:
+     mediators of the inflammatory response."
+     New Biol. 2:313-323(1990).
+     PubMed=2149646
+[ 3] Wolpe S.D., Cerami A.
+     "Macrophage inflammatory proteins 1 and 2: members of a novel
+     superfamily of cytokines."
+     FASEB J. 3:2565-2573(1989).
+     PubMed=2687068
+[E1] http://www.copewithcytokines.de/cope.cgi
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

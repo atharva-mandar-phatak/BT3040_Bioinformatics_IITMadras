@@ -1,0 +1,57 @@
+*************************************
+* Interleukins -4 and -13 signature *
+*************************************
+
+Interleukin-4 (IL-4) [1,2] is a  cytokine that  plays  a  central  role in the
+control and   regulation of  the  immune and  inflammatory system.  IL-4  is a
+participant in several B-cell activation processes.  It  also stimulates other
+cell types  such  as  T cells or mast cells. IL-4 is a glycoprotein  of 110 to
+131 residues.  It  contains  three  disulfide  bonds.    The position of these
+disulfide bonds  is  not  highly  conserved  since the topology of two of them
+differs in Human and mouse IL-4 [3].
+
+Interleukin-13 [4] (IL-13) is a recently discovered pleiotropic cytokine which
+may be important in  the regulation  of the inflammatory and immune responses.
+IL-13 is a glycoprotein of 110 residues.
+
+The sequence of IL-4 and IL-13 are distantly related.  As a signature  pattern
+we selected the best conserved region  which  is  located  in  the  N-terminal
+part of these proteins. This  region contains  a  cysteine  which, in IL-4, is
+involved in the sole disulfide bond conserved between human and mouse IL-4.
+
+-Consensus pattern: [LI]-x-E-[LIVM](2)-x(4,5)-[LIVM]-[TL]-x(5,7)-C-x(4)-[IVA]-
+                    x-[DNS]-[LIVMA]
+                    [The C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Yokota T., Arai N., Vries J.D., Spits H., Banchereau J., Zlotnik A.,
+     Rennik D., Howard M., Takebe Y., Miyatake S., Lee F., Arai K.-I.
+     Immunol. Rev. 103:137-187(1988).
+[ 2] Finkelman F.D., Holmes J., Katona I.M., Urban J.F. Jr., Beckmann M.P.,
+     Park L.S., Schooley K.A., Coffman R.L., Mosmann T.R., Paul W.E.
+     "Lymphokine control of in vivo immunoglobulin isotype selection."
+     Annu. Rev. Immunol. 8:303-333(1990).
+     PubMed=1693082; DOI=10.1146/annurev.iy.08.040190.001511
+[ 3] Carr C., Aykent S., Kimack N.M., Levine A.D.
+     "Disulfide assignments in recombinant mouse and human interleukin 4."
+     Biochemistry 30:1515-1523(1991).
+     PubMed=1993171
+[ 4] Minty A., Chalon P., Derocq J.-M., Dumont X., Guillemot J.-C., Kaghad M.,
+     Labit C., Leplatois P., Liauzun P., Miloux B., Minty C., Casellas P.,
+     Loison G., Lupker J., Shire D., Ferrara P., Caput D.
+     "Interleukin-13 is a new human lymphokine regulating inflammatory and
+     immune responses."
+     Nature 362:248-250(1993).
+     PubMed=8096327; DOI=10.1038/362248a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

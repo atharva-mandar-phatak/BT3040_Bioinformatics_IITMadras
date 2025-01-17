@@ -1,0 +1,98 @@
+***************************************************************
+* G-protein coupled receptors family 3 signatures and profile *
+***************************************************************
+
+Glutamate and  calcium  bind  to  G-protein  coupled    receptors  that, while
+structurally similar to the majority of G-protein coupled receptors (R7G) (see
+the relevant entry <PDOC00210>),  do not show any  similarity  at the level of
+their sequence, thus representing a new family whose current known members are
+listed below:
+
+ - The  metabotropic  glutamate  receptors  which evoke a variety of function,
+   such as  long-tern  potentiation,  memory  acquisition  and learning, etc.,
+   through the modulation of intracellular effectors [1,2,3].  Currently there
+   are eight known  subtypes  of  metabotropic glutamate  receptors; mGluR1 to
+   mGluR8. The  subtypes  mGluR1  and mGluR5 are coupled to the stimulation of
+   the phosphatidylinositol-calcium  second  messenger  system  while  mGluR2,
+   mGluR3, mGluR4,  mGluR6,  mGluR7  and mGluR8 are coupled to G proteins that
+   inhibit adenylate cyclase activity.
+ - The extracellular calcium-sensing receptor [4]  which  sense changes in the
+   extracellular concentration of calcium ions.  The activity of this receptor
+   is coupled  to  the  stimulation of the phosphatidylinositol-calcium second
+   messenger system.
+ - Caenorhabditis elegans hypothetical protein ZC506.4.
+
+Structurally these receptors are composed of:
+
+ a) A signal sequence;
+ b) A  very  large  hydrophilic extracellular region of about 540 to 600 amino
+    acid  residues. This region contains 17 conserved cysteines which could be
+    involved in disulfide bonds;
+ c) A region of about 250 residues that  seem  to  contain seven transmembrane
+    domains;
+ d) A C-terminal cytoplasmic domain of variable length (50 to 350 residues).
+
+There are quite a number of regions of high sequence conservation both  in the
+N-terminal domain  and  in the region containing the transmembrane domains. We
+have selected  three  of  these  conserved  regions as signature patterns. The
+first one corresponds to a highly conserved hydrophobic segment in the central
+part of  the  N-terminal  extracellular  region.  The  second corresponds to a
+section that contains a cluster of six cysteines in the C-terminal part of the
+extracellular domain.  The  last one corresponds to the C-terminal part of the
+cytoplasmic loop between the fifth and sixth transmembrane domains.
+
+We also developed a profile which covers the seven transmembrane regions.
+
+-Consensus pattern: [LV]-x-N-[LIVM](2)-x-L-F-x-I-[PA]-Q-[LIVM]-[STA]-x-
+                    [STA](3)-[STAN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-C-[FYW]-x-C-x(2)-C-x(4)-[FYW]-x(2,5)-[DNE]-x(2)-
+                    [STAHENRI]-C-x(2)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FLY]-N-[ED]-[STA]-K-x-[IV]-[STAG]-[FM]-[ST]-[MVL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Kolakowski L.F. Jr.; kolakowski@uthsca.edu
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Tanabe Y., Masu M., Ishii T., Shigemoto R., Nakanishi S.
+     "A family of metabotropic glutamate receptors."
+     Neuron 8:169-179(1992).
+     PubMed=1309649
+[ 2] Okamoto N., Hori S., Akazawa C., Hayashi Y., Shigemoto R., Mizuno N.,
+     Nakanishi S.
+     "Molecular characterization of a new metabotropic glutamate receptor
+     mGluR7 coupled to inhibitory cyclic AMP signal transduction."
+     J. Biol. Chem. 269:1231-1236(1994).
+     PubMed=8288585
+[ 3] Duvoisin R.M., Zhang C., Ramonell K.
+     "A novel metabotropic glutamate receptor expressed in the retina and
+     olfactory bulb."
+     J. Neurosci. 15:3075-3083(1995).
+     PubMed=7722646
+[ 4] Brown E.M., Gamba G., Riccardi D., Lombardi M., Butters R., Kifor O.,
+     Sun A., Hediger M.A., Lytton J., Hebert S.C.
+     "Cloning and characterization of an extracellular Ca(2+)-sensing
+     receptor from bovine parathyroid."
+     Nature 366:575-580(1993).
+     PubMed=8255296; DOI=10.1038/366575a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

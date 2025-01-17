@@ -1,0 +1,53 @@
+PROTEASEAR2
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Thrombin is a coagulation protease that activates platelets, leukocytes, 
+endothelial and mesenchymal cells at sites of vascular injury, acting partly
+through an unusual proteolytically activated GPCR [6]. Gene knockout 
+experiments have provided definitive evidence for a second thrombin receptor
+in mouse platelets and have suggested tissue-specific roles for different
+thrombin receptors. Because the physiological agonist at the receptor was
+originally unknown, it was provisionally named protease-activated receptor
+(PAR) [7]. At least 4 PAR subtypes have now been characterised. Thus, the 
+thrombin and PAR receptors constitute a fledgling receptor family that 
+shares a novel proteolytic activation mechanism [8].
+
+Human PAR-2 (hPAR-2) resides both on the plasma membrane and in the Golgi 
+apparatus [9]. hPAR-2 mRNA is highly expressed in human pancreas, kidney,
+colon, liver and small intestine, and by A549 lung and SW480 colon 
+adenocarcinoma cells [9]. Hybridisation in situ reveals high expression in 
+intestinal epithelial cells throughout the gut [9], where it is thought that
+PAR-2 may serve as a trypsin sensor [9]. Its expression by cells and tissues
+not normally exposed to pancreatic trypsin suggests that other proteases
+could serve as physiological activators [9]. 
+
+PROTEASEAR2 is a 10-element fingerprint that provides a signature for
+protease activated receptor 2. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from short conserved regions
+spanning the full alignment length, focusing on those sections that 
+characterise the PAR 2 receptor but distinguish it from closely related
+members of the PAR family - motifs 1-3 reside at the N-terminus; motif 4
+lies in the first external loop; motif 5 lies in the second cytoplasmic
+loop, leading into TM domain 4; motif 6 lies in the second external loop,
+leading into TM domain 5; motif 7 lies in the third cytoplasmic loop,
+leading into TM domain 6; motif 8 lies in the third external loop, leading 
+into TM domain 7; and motifs 9 and 10 reside at the C-terminus. A single
+iteration on SPTR37_9f was required to reach convergence, no further
+sequences being identified beyond the starting set.

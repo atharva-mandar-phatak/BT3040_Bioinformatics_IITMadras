@@ -1,0 +1,56 @@
+**************************************************
+* 'Homeobox' antennapedia-type protein signature *
+**************************************************
+
+The homeotic  Hox  proteins  are sequence-specific transcription factors. They
+are part  of  a  developmental  regulatory  system  that  provides  cells with
+specific  positional identities on the anterior-posterior (A-P) axis [1].  The
+hox proteins  contain  a  'homeobox'  domain. In Drosophila and other insects,
+there are eight different Hox genes  that  are  encoded in two gene complexes,
+ANT-C and BX-C. In vertebrates there are 38 genes organized in four complexes.
+
+In six of the eight Drosophila Hox genes the homeobox domain is highly similar
+and a  conserved hexapeptide  is found five to sixteen amino acids upstream of
+the homeobox domain. The six Drosophila proteins that belong to this group are
+antennapedia (Antp),  abdominal-A (abd-A), deformed (Dfd), proboscipedia (pb),
+sex combs reduced (scr)  and ultrabithorax (ubx) and are collectively known as
+the 'antennapedia' subfamily.
+
+In vertebrates  the  corresponding  Hox genes are known [2] as Hox-A2, A3, A4,
+A5, A6,  A7,  Hox-B1,  B2, B3, B4, B5, B6, B7, B8, Hox-C4, C5, C6, C8, Hox-D1,
+D3, D4 and D8.
+
+Caenorhabditis elegans lin-39 and mab-5 are also members of the 'antennapedia'
+subfamily.
+
+As a signature pattern  for this subfamily of  homeobox proteins, we have used
+the conserved hexapeptide.
+
+-Consensus pattern: [LIVMFE]-[FY]-P-W-M-[KRQTA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 6 sequences.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Note: Arg  and  Lys  are  most  frequently  found in the last position of the
+ hexapeptide; other amino acids are found in only a few cases.
+
+-Last update: June 1994 / Text revised.
+
+[ 1] McGinnis W., Krumlauf R.
+     "Homeobox genes and axial patterning."
+     Cell 68:283-302(1992).
+     PubMed=1346368
+[ 2] Scott M.P.
+     "Vertebrate homeobox gene nomenclature."
+     Cell 71:551-553(1992).
+     PubMed=1358459
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,156 @@
+**************************************************************
+* G-protein coupled receptors family 1 signature and profile *
+**************************************************************
+
+G-protein  coupled  receptors  [1  to 4,E1] (also called R7G) are an extensive
+group of  hormones,  neurotransmitters,  odorants  and  light  receptors which
+transduce extracellular  signals   by  interaction  with  guanine  nucleotide-
+binding (G) proteins. The receptors that are currently known to belong to this
+family are listed below.
+
+ - 5-hydroxytryptamine (serotonin) 1A to 1F, 2A to 2C, 4, 5A, 5B, 6 and 7 [5].
+ - Acetylcholine, muscarinic-type, M1 to M5.
+ - Adenosine A1, A2A, A2B and A3 [6].
+ - Adrenergic alpha-1A to -1C; alpha-2A to -2D;  beta-1 to -3 [7].
+ - Angiotensin II types I and II.
+ - Bombesin subtypes 3 and 4.
+ - Bradykinin B1 and B2.
+ - c3a and C5a anaphylatoxin.
+ - Cannabinoid CB1 and CB2.
+ - Chemokines C-C CC-CKR-1 to CC-CKR-8.
+ - Chemokines C-X-C CXC-CKR-1 to CXC-CKR-4.
+ - Cholecystokinin-A and cholecystokinin-B/gastrin.
+ - Dopamine D1 to D5 [8].
+ - Endothelin ET-a and ET-b [9].
+ - fMet-Leu-Phe (fMLP) (N-formyl peptide).
+ - Follicle stimulating hormone (FSH-R) [10].
+ - Galanin.
+ - Gastrin-releasing peptide (GRP-R).
+ - Gonadotropin-releasing hormone (GNRH-R).
+ - Histamine H1 and H2 (gastric receptor I).
+ - Lutropin-choriogonadotropic hormone (LSH-R) [10].
+ - Melanocortin MC1R to MC5R.
+ - Melatonin.
+ - Neuromedin B (NMB-R).
+ - Neuromedin K (NK-3R).
+ - Neuropeptide Y types 1 to 6.
+ - Neurotensin (NT-R).
+ - Octopamine (tyramine), from insects.
+ - Odorants [11].
+ - Opioids delta-, kappa- and mu-types [12].
+ - Oxytocin (OT-R).
+ - Platelet activating factor (PAF-R).
+ - Prostacyclin.
+ - Prostaglandin D2.
+ - Prostaglandin E2, EP1 to EP4 subtypes.
+ - Prostaglandin F2.
+ - Purinoreceptors (ATP) [13].
+ - Somatostatin types 1 to 5.
+ - Substance-K (NK-2R).
+ - Substance-P (NK-1R).
+ - Thrombin.
+ - Thromboxane A2.
+ - Thyrotropin (TSH-R) [10].
+ - Thyrotropin releasing factor (TRH-R).
+ - Vasopressin V1a, V1b and V2.
+ - Visual pigments (opsins and rhodopsin) [14].
+
+ - Proto-oncogene mas.
+ - A number of orphan receptors (whose ligand is not known) from  mammals  and
+   birds.
+ - Caenorhabditis  elegans  putative    receptors  C06G4.5, C38C10.1, C43C3.2,
+   T27D1.3 and ZC84.4.
+ - Three putative receptors encoded  in  the  genome of cytomegalovirus: US27,
+   US28, and UL33.
+ - ECRF3, a putative receptor encoded in the genome of herpesvirus saimiri.
+
+The  structure of all  these receptors is  thought  to be identical. They have
+seven hydrophobic regions,  each  of which most probably  spans  the membrane.
+The N-terminus is located on the  extracellular  side of the  membrane  and is
+often  glycosylated,  while  the  C-terminus  is  cytoplasmic   and  generally
+phosphorylated.  Three extracellular loops  alternate with three intracellular
+loops to link the seven transmembrane regions.  Most,  but  not  all  of these
+receptors, lack a signal peptide. The most conserved parts  of  these proteins
+are the transmembrane regions and the first two cytoplasmic loops. A conserved
+acidic-Arg-aromatic triplet is  present  in  the N-terminal  extremity  of the
+second cytoplasmic loop [15] and could be implicated in the interaction with G
+proteins.
+
+To detect this widespread family of  proteins we have developed a pattern that
+contains the conserved triplet and that also spans the major part of the third
+transmembrane helix.  We  have  also  developed a profile that spans the seven
+transmembrane regions.
+
+-Consensus pattern: [GSTALIVMFYWC]-[GSTANCPDE]-{EDPKRH}-x-{PQ}-[LIVMNQGA]-
+                    {RK}-{RK}-[LIVMFT]-[GSTANC]-[LIVMFYWSTAC]-[DENH]-R-
+                    [FYWCSH]-{PE}-x-[LIVM]
+-Sequences known to belong to this class detected by the pattern: the majority
+ of receptors. About 5% are not detected.
+-Other sequence(s) detected in Swiss-Prot: 64.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Attwood T.K.; attwood@bsm.bioc.ucl.ac.uk
+           Kolakowski L.F. Jr.; kolakowski@uthsca.edu
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Strosberg A.D.
+     "Structure/function relationship of proteins belonging to the family
+     of receptors coupled to GTP-binding proteins."
+     Eur. J. Biochem. 196:1-10(1991).
+     PubMed=1848179
+[ 2] Kerlavage A.R.
+     Curr. Opin. Struct. Biol. 1:394-401(1991).
+[ 3] Probst W.C., Snyder L.A., Schuster D.I., Brosius J., Sealfon S.C.
+     "Sequence alignment of the G-protein coupled receptor superfamily."
+     DNA Cell Biol. 11:1-20(1992).
+     PubMed=1310857
+[ 4] Savarese T.M., Fraser C.M.
+     "In vitro mutagenesis and the search for structure-function
+     relationships among G protein-coupled receptors."
+     Biochem. J. 283:1-19(1992).
+     PubMed=1314560
+[ 5] Branchek T.
+     "More serotonin receptors?"
+     Curr. Biol. 3:315-317(1993).
+     PubMed=15335760
+[ 6] Stiles G.L.
+     "Adenosine receptors."
+     J. Biol. Chem. 267:6451-6454(1992).
+     PubMed=1551861
+[ 7] Friell T., Kobilka B.K., Lefkowitz R.J., Caron M.G.
+     Trends Neurosci. 11:321-324(1988).
+[ 8] Stevens C.F.
+     "New recruit to the magnificent seven."
+     Curr. Biol. 1:20-22(1991).
+     PubMed=15336196
+[ 9] Sakurai T., Yanagisawa M., Masaki T.
+     "Molecular characterization of endothelin receptors."
+     Trends Pharmacol. Sci. 13:103-108(1992).
+     PubMed=1315462
+[10] Salesse R., Remy J.J., Levin J.M., Jallal B., Garnier J.
+     Biochimie 73:109-120(1991).
+[11] Lancet D., Ben-Arie N.
+     Curr. Biol. 3:668-674(1993).
+[12] Uhl G.R., Childers S., Pasternak G.
+     Trends Neurosci. 17:89-93(1994).
+[13] Barnard E.A., Burnstock G., Webb T.E.
+     Trends Pharmacol. Sci. 15:67-70(1994).
+[14] Applebury M.L., Hargrave P.A.
+     Vision Res. 26:1881-1895(1986).
+[15] Attwood T.K., Eliopoulos E.E., Findlay J.B.C.
+     Gene 98:153-159(1991).
+[E1] http://www.gpcr.org/7tm/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

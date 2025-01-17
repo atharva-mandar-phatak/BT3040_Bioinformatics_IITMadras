@@ -1,0 +1,48 @@
+LEUZIPPRCREB
+Transcription initiation is dictated by the presence and activity of 
+specific nuclear factors that bind to DNA regulatory sequences and interact
+with the transcriptional machinery. The functions of some of these factors
+can be altered by phosphorylation, which affects both DNA binding and
+transcriptional activation [1]. Phosphorylation is effected by specific
+protein kinases that have been activated by the stimulus of signal
+transduction pathways, resulting in the regulation of gene transcription
+by modulating the phosphorylation sites of transcription factors.
+
+Cyclic AMP (cAMP) regulates the expression of many genes via a conserved
+gene promoter element CRE (cAMP response element) [2], which has the
+sequence 5'-TGACGTCA-3' [3]. The cAMP response element binding protein
+(CREB) is a nuclear factor that is regulated by protein kinase A phos-
+phorylation. Transcription is stimulated on binding to the CRE of a phos-
+phorylated CREB dimer, which is held together by leucine zippers. Dimer-
+isation and transcriptional efficacy have been found to be stimulated by
+phosphorylation at several distinct sites, and it has thus been suggested 
+[2] that CREB may be regulated by multiple kinases. Sequence analysis of 
+the gene has revealed a cluster of protein kinase A, protein kinase C, and 
+casein kinase II consensus recognition sites near the N-terminus of the 
+protein sequence, and the proximity of these sites to one another indicates
+the possibility of interaction in a positive or negative fashion to 
+regulate CREB bioactivity.
+
+The 'leucine zipper' is a structure that is believed to mediate the
+function of several eukaryotic gene regulatory proteins. The zipper
+consists of a periodic repetition of leucine residues at every seventh
+position, and regions containing them appear to span 8 turns of alpha-
+helix. The leucine side chains that extend from one helix interact with
+those from a similar helix, hence facilitating dimerisation in the form
+of a coiled-coil. Leucine zippers are present in many gene regulatory
+proteins, including the CREB proteins, Jun/AP1 transcription factors,
+fos oncogene and fos-related proteins, C-myc, L-myc and N-myc oncogenes,
+and so on.
+
+LEUZIPPRCREB is a 6-element fingerprint that provides a signature for the 
+leucine zipper and DNA-binding domains characteristic of CREB proteins. 
+The fingerprint was derived from an initial alignment of 7 sequences: 
+motifs 4 and 5 encode the highly basic DNA-binding domain, while motifs 5
+and 6 span the zipper region (cf. PROSITE pattern LEUCINE_ZIPPER (PS00029)).
+Two iterations on OWL19.1 were required to reach convergence, at which
+point a true set comprising 17 sequences was identified. Two partial
+matches were also found: the first (ATF6_HUMAN) is a CREB protein fragment,
+and the second (S15664) is an AP1-like transcription factor.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 14
+partial matches.

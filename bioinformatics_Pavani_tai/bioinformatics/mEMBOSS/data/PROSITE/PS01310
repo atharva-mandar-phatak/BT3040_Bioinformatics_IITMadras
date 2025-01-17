@@ -1,0 +1,51 @@
+*************************
+* FXYD family signature *
+*************************
+
+A family  of  vertebrate small membrane proteins is collectively known as FXYD
+in recognition of invariant amino acids in its signature motif. These proteins
+are involved  in  the  control  of  ion transport and consist of the following
+members [1,2]:
+
+ - Phospholemman (gene FXYD1).
+ - Sodium/potassium-transporting ATPase gamma chain (gene FXYD2).
+ - Chloride conductance inducer protein mat-8 (gene FXYD3).
+ - Channel inducing factor (CHIF) (gene FXYD4).
+ - FXYD5 (RIC; OIT2).
+ - FXYD6
+ - FXYD7
+ - FXYD8
+
+Except for  FXYD5, all these proteins are very small and their size range from
+58 residues for FXYD2 to 95 for FXYD6. FXYD5 is longer (178 residues) due to a
+N-terminal extension. They all contain a single transmembrane domain. With the
+exception of  FXYD2,  they  all seem to have a N-terminal signal peptide. As a
+signature pattern,  we  selected  a conserved region that start a few residues
+before the  beginning  of the transmembrane domain and that stop four residues
+inside that region.
+
+-Consensus pattern: [DNSE]-x-F-x-Y-[DN]-x(2)-[STNR]-[LIVM]-[RQ]-x(2)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Chen L.-S.K., Lo C.F., Numann R., Cuddy M.
+     "Characterization of the human and rat phospholemman (PLM) cDNAs and
+     localization of the human PLM gene to chromosome 19q13.1."
+     Genomics 41:435-443(1997).
+     PubMed=9169143
+[ 2] Sweadner K.J., Rael E.
+     "The FXYD gene family of small ion transport regulators or channels:
+     cDNA sequence, protein signature sequence, and expression."
+     Genomics 68:41-56(2000).
+     PubMed=10950925; DOI=10.1006/geno.2000.6274
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

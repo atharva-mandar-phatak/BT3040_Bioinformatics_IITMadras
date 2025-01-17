@@ -1,0 +1,24 @@
+MAPKPHPHTASE
+The dual specificity phosphatases, also known as MAP Kinase Phosphatases 
+(MKP), constitute a class of phosphatases that reverse the activation of MAP
+(mitogen activated protein) kinases by dephosphorylating critical tyrosine 
+and threonine residues [1]. This regulation is mediated via interaction of a 
+Kinase Interaction Motif (KIM) with the common docking domain of the kinase 
+- this motif is shared with a number of other protein families that interact 
+with MAP kinases: these include kinases (MEKs), phosphatases (PTP-SL) and 
+transcription factors (Elk1). MKPs also share an active site motif with the
+protein tyrosine phosphatases (PTPs). Different MKPs exhibit specificity 
+towards different members of the MAP kinase family [2].
+
+The structure of the MPK catalytic domain is similar to that of the PTPs 
+[3] - the fold exhibits a complex mixed alpha-/beta-architecture. The 
+catalytic mechanism involves a general acid (Asp92 in 1VHR) and a catalytic 
+cysteine (130 in 1VHR), which acts as a nucleophile.
+
+MAPKPHPHTASE is a 5-element fingerprint that provides a signature for the 
+MAP kinase phosphatases. The fingerprint was derived from an initial 
+alignment of 12 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length. Two iterations on SPTR40_20f were
+required to reach convergence, at which point a true set comprising 30 
+sequences was identified. Several partial matches were also found, most of
+which appear to be N- or C-terminal fragments.

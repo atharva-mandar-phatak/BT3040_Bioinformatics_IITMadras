@@ -1,0 +1,65 @@
+******************************************************
+* Fructose-bisphosphate aldolase class-II signatures *
+******************************************************
+
+Fructose-bisphosphate aldolase (EC 4.1.2.13) [1,2] is a glycolytic enzyme that
+catalyzes  the reversible  aldol cleavage   or  condensation of  fructose-1,6-
+bisphosphate into  dihydroxyacetone-phosphate and  glyceraldehyde 3-phosphate.
+There are  two  classes  of  fructose-bisphosphate  aldolases  with  different
+catalytic mechanisms.  Class-II aldolases [2], mainly found in prokaryotes and
+fungi, are homodimeric enzymes which  require a divalent metal ion - generally
+zinc - for their activity.
+
+This family also includes the following proteins:
+
+ - Escherichia  coli  galactitol  operon  protein  gatY  which  catalyzes  the
+   transformation of tagatose 1,6-bisphosphate into glycerone phosphate and D-
+   glyceraldehyde 3-phosphate.
+ - Escherichia coli N-acetyl galactosamine operon protein agaY which catalyzes
+   the same reaction as that of gatY.
+
+As signature  patterns for  this class  of  enzyme, we  selected two conserved
+regions. The first  pattern is  located in the  first half of the sequence and
+contains two  histidine  residues  that  have been shown [4] to be involved in
+binding a  zinc  ion.  The  second  is  located  in the C-terminal section and
+contains clustered acidic residues and glycines.
+
+-Consensus pattern: [FYVMT]-x(1,3)-[LIVMH]-[APNT]-[LIVM]-x(1,2)-[LIVM]-H-x-D-
+                    H-[GACH]
+                    [The two H's are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Mycoplasma pneumoniae aldolase.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-E-x-E-[LIVM]-G-x(2)-[GM]-[GSTA]-x-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Perham R.N.
+     "The fructose-1,6-bisphosphate aldolases: same reaction, different
+     enzymes."
+     Biochem. Soc. Trans. 18:185-187(1990).
+     PubMed=2199259
+[ 2] Marsh J.J., Lebherz H.G.
+     "Fructose-bisphosphate aldolases: an evolutionary history."
+     Trends Biochem. Sci. 17:110-113(1992).
+     PubMed=1412694
+[ 3] von der Osten C.H., Barbas C.F. III, Wong C.-H., Sinskey A.J.
+     Mol. Microbiol. 3:1625-1637(1989).
+[ 4] Berry A., Marshall K.E.
+     "Identification of zinc-binding ligands in the class II
+     fructose-1,6-bisphosphate aldolase of Escherichia coli."
+     FEBS Lett. 318:11-16(1993).
+     PubMed=8436219
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

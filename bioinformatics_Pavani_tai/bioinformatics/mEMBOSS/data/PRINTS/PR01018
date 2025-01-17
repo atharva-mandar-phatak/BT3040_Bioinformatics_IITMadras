@@ -1,0 +1,59 @@
+PRPRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Hypothalamic peptide hormones regulate secretion of anterior pituitary 
+hormones, such as growth hormone, follicle stimulating hormone, luteinising
+hormone and thyrotropin. A novel bioactive peptide has been identified from 
+bovine hypothalamus and found to increase prolactin secretion from the 
+anterior pituitary [6]. This peptide - prolactin-releasing peptide (PrRP) -
+is a member of the structurally related RF-amide family, which includes 
+neuropeptide FF [8]. The peptide exists in two forms: a 31-amino acid form
+and a truncated 20-amino acid form [6]. PrRP has been found in the medulla
+oblongata, hypothalamus and pituitary, as well as in a number of other 
+tissues [7]. This distribution suggests the peptide may have other roles
+in addition to prolactin release [7].
+
+The receptor for PrRP was identified to be an orphan receptor, previously
+known as GPR10 [6]. This receptor is expressed in the central nervous 
+system with highest levels in the pituitary. Expression has also been 
+detected in the cerebellum, brainstem, hypothalamus, thalamus and spinal
+cord in rat [7]. Binding of PrRP to the receptor results in activation of 
+extracellular signal-related kinase (ERK) in a mainly pertussis toxin
+sensitive manner, suggesting coupling to Gi/o proteins [8]. PrRP can also
+cause increases in intracellular calcium and activation of c-Jun 
+N-terminal protein kinase (JNK) in a pertussis toxin insensitive manner,
+indicating that the receptor can also couple to Gq proteins, depending on 
+the cell type in which it is expressed [8].
+
+PRPRECEPTOR is a 10-element fingerprint that provides a signature for
+prolactin-releasing peptide receptor. The fingerprint was derived from an 
+initial alignment of 2 sequences: the motifs were drawn from conserved 
+sections within either loop or TM regions, focusing on those areas of the 
+alignment that characterise the prolactin-releasing peptide receptors but 
+distinguish them from the rest of the rhodopsin-like superfamily - motifs 1 
+and 2 lie at the N-terminus; motif 3 spans the C-terminal portion of TM 
+domain 2 and part of the first external loop; motif 4 encodes the 
+N-terminal portion of TM domain 3; motif 5 spans the second external loop; 
+motif 6 spans the C-terminal portion of TM domain 5, leading into the third 
+cytoplasmic loop; motif 7 encodes the rest of the third cytoplasmic loop; 
+motif 8 spans the third external loop, leading into TM domain 7; and motifs 
+9 and 10 lie at the C-terminus. Two iterations on SPTR39_15f were required
+to reach convergence, at which point a true set comprising 3 sequences was
+identified.

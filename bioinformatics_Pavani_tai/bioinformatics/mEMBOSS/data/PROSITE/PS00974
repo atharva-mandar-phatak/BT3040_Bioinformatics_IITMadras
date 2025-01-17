@@ -1,0 +1,41 @@
+*************************************
+* Mannitol dehydrogenases signature *
+*************************************
+
+The following dehydrogenases have been shown [1] to be evolutionary related:
+
+ - Mannitol-1-phosphate  5-dehydrogenase    (EC 1.1.1.17)  (gene mtlD),  which
+   catalyzes the NAD-dependent reduction of mannitol 1-phosphate into fructose
+   6-phosphate.
+ - Mannitol 2-dehydrogenase (EC 1.1.1.67)  (gene mtlK),  which  catalyzes  the
+   NAD-dependent reduction of mannitol into fructose.
+ - Mannonate  oxidoreductase  (EC  1.1.1.57)  (fructuronate  reductase)  (gene
+   uxuB), which  catalyzes  the  NAD-dependent  reduction of fructuronate into
+   mannonate.
+ - Escherichia coli hypothetical protein ydfI.
+ - Escherichia coli hypothetical protein yeiQ.
+ - Yeast hypothetical protein YEL070w.
+
+As a signature pattern, we  selected a conserved region located in the central
+section of these enzymes.
+
+-Consensus pattern: [LIVMY]-x-[FS]-x(2)-[STAGCV]-x-V-D-R-[IV]-x-[PS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Schneider K.-H., Giffhorn F., Kaplan S.
+     "Cloning, nucleotide sequence and characterization of the mannitol
+     dehydrogenase gene from Rhodobacter sphaeroides."
+     J. Gen. Microbiol. 139:2475-2484(1993).
+     PubMed=8254318
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

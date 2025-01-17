@@ -1,0 +1,32 @@
+TYPE3OMGPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+One of the outer membrane protein subunit families, termed "G" here for 
+nomenclature purposes, aids in the structural assembly of the invasion 
+complex [4]. Another characteristic of this family is its ability to form a 
+channel through the outer bacterial membrane, allowing secretion to take 
+place. Members include the Salmonella InvG and SpiA gene, the Shigella MxiD, 
+and the Yersinia Kim5 and YscC proteins. Plant pathogen members include the 
+Hypersensitivity Response (HR) genes of Burkholderia and Erwinia.
+
+TYPE3OMGPROT is a 5-element fingerprint that provides a signature for the
+type III secretion system outer membrane G protein family. The fingerprint
+was derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning the C-terminal two-thirds of the alignment.
+Nine iterations on SPTR57.15_40.15f were required to reach convergence, at
+which point a true set comprising 373 sequences was identified. Several
+partial matches were also found, all of which are family members that fail
+to make significant matches with one or more motifs.

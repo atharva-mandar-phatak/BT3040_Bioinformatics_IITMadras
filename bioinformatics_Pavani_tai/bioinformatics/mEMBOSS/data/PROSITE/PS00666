@@ -1,0 +1,64 @@
+*******************************************
+* Dihydrodipicolinate synthase signatures *
+*******************************************
+
+Dihydrodipicolinate synthase  (EC  4.2.1.52)  (DHDPS) [1] catalyzes, in higher
+plants chloroplast and  in  many  bacteria (gene dapA),  the   first  reaction
+specific to the  biosynthesis  of  lysine and  of  diaminopimelate.  DHDPS  is
+responsible for the condensation of aspartate semialdehyde and pyruvate  by  a
+ping-pong  mechanism  in which pyruvate first binds to the enzyme by forming a
+Schiff-base with a lysine residue.
+
+Three other  proteins  are structurally related to DHDPS and probably also act
+via a similar catalytic mechanism:
+
+ - Escherichia  coli N-acetylneuraminate lyase (EC 4.1.3.3) (gene nanA), which
+   catalyzes the  condensation  of N-acetyl-D-mannosamine and pyruvate to form
+   N-acetylneuraminate.
+ - Rhizobium  meliloti protein mosA [3], which is involved in the biosynthesis
+   of the rhizopine 3-o-methyl-scyllo-inosamine.
+ - Escherichia coli hypothetical protein yjhH.
+
+We have  developed  two signature patterns for these enzymes. The first one is
+centered on  highly conserved region in the N-terminal part of these proteins.
+The second  signature  contains  a  lysine  residue  which  has been shown, in
+Escherichia  coli dapA  [2],  to  be the one that forms a Schiff-base with the
+substrate.
+
+-Consensus pattern: [GSA]-[LIVM]-[LIVMFY]-x(2)-G-[ST]-[TG]-G-E-[GASNF]-x(6)-
+                    [EQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: Y-[DNSAH]-[LIVMFAN]-P-x(2)-[STAV]-x(2,3)-[LIVMFT]-
+                    x(13,14)-[LIVMCF]-x-[SGA]-[LIVMFNS]-K-[DEQAFYH]-[STACI]
+                    [K is involved in Schiff-base formation]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kaneko T., Hashimoto T., Kumpaisal R., Yamada Y.
+     "Molecular cloning of wheat dihydrodipicolinate synthase."
+     J. Biol. Chem. 265:17451-17455(1990).
+     PubMed=2211639
+[ 2] Laber B., Gomis-Ruth F.-X., Romao M.J., Huber R.
+     "Escherichia coli dihydrodipicolinate synthase. Identification of the
+     active site and crystallization."
+     Biochem. J. 288:691-695(1992).
+     PubMed=1463470
+[ 3] Murphy P.J., Trenz S.P., Grzemski W., De Bruijn F.J., Schell J.
+     "The Rhizobium meliloti rhizopine mos locus is a mosaic structure
+     facilitating its symbiotic regulation."
+     J. Bacteriol. 175:5193-5204(1993).
+     PubMed=8349559
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

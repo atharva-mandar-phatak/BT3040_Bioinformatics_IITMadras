@@ -1,0 +1,43 @@
+KCNE3CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Some types of K+ channel are closed at the resting potential of the cell,
+but open on membrane depolarisation, and are thus known as voltage-gated 
+channels. Each of these types of channel typically comprises 4 pore-forming
+alpha subunits that may associate with one of a number of different types of
+beta subunit. Two types of beta subunit (KCNE and KCNAB) are presently known
+to associate with voltage-gated alpha subunits (Kv, KCNQ and eag-like).
+However, not all combinations of alpha and beta subunits are possible.
+
+The KCNE family of K+ channel subunits are membrane glycoproteins that 
+possess a single transmembrane (TM) domain. They share no structural 
+relationship with the alpha subunit proteins, which possess pore forming 
+domains. The subunits appear to have a regulatory function, modulating the 
+kinetics and voltage dependence of the alpha subunits of voltage-dependent
+K+ channels [2]. KCNE subunits are formed from short polypeptides of ~130 
+amino acids, and are divided into five subfamilies: KCNE1 (MinK/IsK),
+KCNE2 (MiRP1), KCNE3 (MiRP2), KCNE4 (MiRP3) and KCNE1L (AMMECR2).
+
+KCNE3 is known to associate with the pore forming subunits KCNQ1, KCNQ4,
+HERG and Kv3.4. KCNE3 forms complexes with Kv3.4 in skeletal muscle -
+KCNE3 mutations have been identified in families with skeletal muscle
+disorders [3]. In the intestine, KCNE3 associates with KCNQ1 to form
+channels that are stimulated by cAMP and are thought to be involved in
+secretory diarrhoea and cystic fibrosis [4].
+
+KCNE3CHANNEL is a 3-element fingerprint that provides a signature for the
+KCNE voltage-gated K+ channel subfamily E3. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the N-terminal portion of the alignment, focusing
+on those sections that characterise the KCNE3 subunits but distinguish them 
+from the rest of the KCNE family - motifs 1-3 lie in the extracellular 
+N-terminus. A single iteration on SPTR39.22_17.3f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

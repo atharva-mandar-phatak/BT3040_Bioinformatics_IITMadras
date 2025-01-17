@@ -1,0 +1,43 @@
+FADG3PDH
+FAD-dependent glycerol-3-phosphate dehydrogenase (G3PDH; EC 1.1.99.5) is
+involved in glycerol metabolism. Insulin exposure often stimulates G3PDH
+activity [1,2], and thus is key to reducing the effects of the disease
+diabetes. In obese people, where insulin resistance has been demonstrated,
+the amount of G3PDH has been shown to be correspondingly lower than
+that in normal weight people [1].
+
+G3PDH catalyses the conversion of glycerol-3-phosphate into dihydroxy-
+acetone phosphate:
+
+   sn-glycerol-3-phosphate	      glycerone phosphate
+	     +		       =	       +
+	  acceptor			reduced acceptor
+
+In bacteria, G3PDH is associated with the utilisation of glycerol coupled
+to respiration. In E.coli and H.influenzae, there are two isoforms of the
+enzyme; one that operates in aerobic conditions and another that is 
+specially adapted to work in anaerobic conditions.
+
+In eukaryotes, the enzyme is generally found in the mitochondria, where, in
+concert with an NAD-dependent cytoplasmic GPD, it is involved in a process
+termed the glycerol-phosphate shuttle. This mechanism is responsible for
+the preservation of a redox balance [3,4]. In this environment, the enzyme
+has been recorded to increase activity in the presence of calcium [5].
+
+G3PDH is a protein of ~60-70kDa that contains a probable FAD-binding domain
+at its N-terminal extremity. The mammalian enzyme differs from the bacterial
+or yeast proteins by housing a C-terminal EF-hand calcium-binding region.
+
+FADG3PDH is a 6-element fingerprint that provides a signature for the
+FAD-dependent glycerol-3-phosphate dehydrogenase family. The fingerprint was
+derived from an initial alignment of 11 sequences: the motifs were drawn
+from short conserved regions, mainly in the N-terminal portion of the
+alignment - motifs 1 and 2 include the region encoded by PROSITE pattern 
+FAD_G3PDH_1 (PS00977); and motif 6 spans part of the region encoded by 
+PROSITE pattern FAD_G3PDH_2 (PS00978). Two iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 15
+sequences was identified. Several partial matches were also found, all of
+which are fragments or homologues that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 2
+partial matches.

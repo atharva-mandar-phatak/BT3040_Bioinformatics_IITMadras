@@ -1,0 +1,109 @@
+**********************************************************************************************
+* Insulin-like growth factor binding protein (IGFBP) N-terminal domain signature and profile *
+**********************************************************************************************
+
+The insulin-like growth factors  (IGF-I and  IGF-II) bind to  specific binding
+proteins in extracellular fluids with high affinity [1,2,3]. These IGF-binding
+proteins (IGFBP) prolong  the half-life  of the  IGFs and have  been shown  to
+either inhibit or stimulate the growth promoting effects of the IGFs on  cells
+culture.  They  seem  to alter the interaction of IGFs with their cell surface
+receptors. The  IGFBP  family comprises six proteins (IGFBP-1 to -6) that bind
+to IGFs  with  high  affinity.  The  precursor  forms  of  all six IGFBPs have
+secretory signal  peptides.  All IGFBPs share a common domain organization and
+also a  high  degree  of  similarity  in  their primary protein structure. The
+highest conservation  is found in the N- and C-terminal cysteine-rich regions.
+Twelve conserved  cysteines  (ten  in  IGFBP-6)  are  found  in the N-terminal
+domain, and six are found in the C-terminal domain. Both the N- and C-terminal
+domains participate  in  binding  to IGFs, although the specific roles each of
+these domains in IGF binding have not been decisively established. In general,
+the strongest  binding  to  IGFs  is shown by amino-terminal fragments, which,
+however bind  to  IGF  with  10-  to 1000-fold lower affinity than full length
+IGFBPs. The  central  weakly  conserved  part  (L domain) contains most of the
+cleavage sites for specific proteases [4,5].
+
+The N-terminal  domain  is  ~80 residues in length and has an L-like structure
+(see <PDB:1WQJ>).  It can be divided into two subdomains that are connected by
+a short  stretch  of amino acids. The two subdomains are perpendicular to each
+other, creating the "L" shape for the whole N-terminal domain. The core of the
+first subdomain  presents a novel fold stabilized by a short two-stranded beta
+sheet and   four  disulfide  bridges  forming  a  disulfide  bond  ladder-like
+structure. The  beta  sheet and disulfide bridges are all in one plane, making
+the structure  appear  flat from one side like a "palm" of a hand. The palm is
+extended with  a "thumb" segment in various IGFBPs. The thumb segment consists
+of the  very N-terminal residues and contains a consensus XhhyC motif, where h
+is a  hydrophobic amino acid and y is positively charged. The second subdomain
+adopts a  globular  fold whose scaffold is secured by an inside packing of two
+cysteines bridges stabilized by a three-stranded beta sheet [4,5].
+
+The following growth-factor inducible  proteins  are  structurally  related to
+IGFBPs and could function as growth-factor binding proteins [6,7]:
+
+ - Mouse protein cyr61 and its probable chicken homolog, protein CEF-10.
+ - Human connective tissue growth factor (CTGF) and its mouse homolog, protein
+   FISP-12.
+ - Vertebrate protein NOV.
+
+As a signature pattern we  have  used a conserved cysteine-rich region located
+in the  N-terminal  IGFBP  domain. We also developed a profile that covers the
+entire IGFBP N-terminal domain.
+
+-Consensus pattern: [GP]-C-[GSET]-[CE]-[CA]-x(2)-C-[ALP]-x(6)-C
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for IGFBP-6's.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Landale E.C.; elandale@biotechnet.com
+
+-Last update: July 2007 / Text revised; profile added.
+
+[ 1] Rechler M.M.
+     "Insulin-like growth factor binding proteins."
+     Vitam. Horm. 47:1-114(1993).
+     PubMed=7680510
+[ 2] Shimasaki S., Ling N.
+     "Identification and molecular characterization of insulin-like growth
+     factor binding proteins (IGFBP-1, -2, -3, -4, -5 and -6)."
+     Prog. Growth Factor Res. 3:243-266(1991).
+     PubMed=1725860
+[ 3] Clemmons D.R.
+     Trends Endocrinol. Metab. 1:412-417(1990).
+[ 4] Kalus W., Zweckstetter M., Renner C., Sanchez Y., Georgescu J.,
+     Grol M., Demuth D., Schumacher R., Dony C., Lang K., Holak T.A.
+     "Structure of the IGF-binding domain of the insulin-like growth
+     factor-binding protein-5 (IGFBP-5): implications for IGF and IGF-I
+     receptor interactions."
+     EMBO J. 17:6558-6572(1998).
+     PubMed=9822601; DOI=10.1093/emboj/17.22.6558
+[ 5] Siwanowicz I., Popowicz G.M., Wisniewska M., Huber R., Kuenkele K.-P.,
+     Lang K., Engh R.A., Holak T.A.
+     "Structural basis for the regulation of insulin-like growth factors by
+     IGF binding proteins."
+     Structure 13:155-167(2005).
+     PubMed=15642270; DOI=10.1016/j.str.2004.11.009
+[ 6] Bradham D.M., Igarashi A., Potter R.L., Grotendorst G.R.
+     "Connective tissue growth factor: a cysteine-rich mitogen secreted by
+     human vascular endothelial cells is related to the SRC-induced
+     immediate early gene product CEF-10."
+     J. Cell Biol. 114:1285-1294(1991).
+     PubMed=1654338
+[ 7] Joliot V., Martinerie C., Dambrine G., Plassiart G., Brisac M.,
+     Crochet J., Perbal B.
+     "Proviral rearrangements and overexpression of a new cellular gene
+     (nov) in myeloblastosis-associated virus type 1-induced
+     nephroblastomas."
+     Mol. Cell. Biol. 12:10-21(1992).
+     PubMed=1309586
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

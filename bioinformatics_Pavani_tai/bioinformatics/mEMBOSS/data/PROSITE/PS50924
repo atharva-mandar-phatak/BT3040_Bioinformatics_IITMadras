@@ -1,0 +1,49 @@
+***********************
+* MHYT domain profile *
+***********************
+
+The MHYT  domain  is  an  about  190-residue domain, which was named after its
+conserved amino  acid  pattern.  The  MHYT  domain  consists  of six predicted
+transmembrane (TM)  segments,  connected  by  short  arginine-rich cytoplasmic
+loops and periplasmic loops that are also rich in charged amino acid residues.
+Three of  its  TM  segments have a very similar amino acid sequence motif with
+highly conserved  methionine, histidine and tyrosine residues located near the
+outer face  of  the  cytoplasmic  membrane.  The MHYT domain has been found in
+several phylogenetically distant bacteria, either as a separate, single domain
+protein, or   fused   to   a   LytTR-type  DNA-binding  helix-turn-helix  (see
+<PDOC50930>), or  fused  to  signaling  domains, such as histidine kinase (see
+<PDOC50109>), GGDEF  (see  <PDOC50887>),  EAL  (see <PDOC50883>), and PAS (see
+<PDOC50112>). It  has  been  proposed  that the MHYT domain serves as a sensor
+domain in  some bacterial two-component signal transduction systems as well as
+in a  variety of other bacterial proteins. A model of the membrane topology of
+the MHYT  domain indicates that its conserved residues could coordinate one or
+two copper ions, suggesting a role in sensing oxygen, CO or NO [1].
+
+Some proteins known to contain a MHYT domain are listed below:
+
+ - Bacillus  subtilis  ykoW. It is expressed during logarithmic growth in rich
+   medium.
+ - Synechocystis sp. sensory transduction histidine kinase slr2098.
+ - Oligotropha carboxidovorans coxC and coxH proteins.
+
+The profile we developed covers the entire MHYT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2003 / First entry.
+
+[ 1] Galperin M.Y., Gaidenko T.A., Mulkidjanian A.Y., Nakano M.,
+     Price C.W.
+     "MHYT, a new integral membrane sensor domain."
+     FEMS Microbiol. Lett. 205:17-23(2001).
+     PubMed=11728710;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

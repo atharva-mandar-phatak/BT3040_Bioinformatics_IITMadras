@@ -1,0 +1,36 @@
+**********************************************************
+* Bacterial type II secretion system protein N signature *
+**********************************************************
+
+The secretion  pathway  (GSP) for the export of proteins (also called the type
+II pathway)  [1] requires a number of protein components. One of them is known
+as the  'N'  protein  and  has been sequenced in a variety of bacteria such as
+Aeromonas  (gene  exeN);  Erwinia  (gene outN);  Klebsiella  pneumoniae  (gene
+pulN); or Vibrio cholerae (gene epsN).
+
+The size of the  'N' protein is around 250 amino acids. It apparently contains
+a single  transmembrane domain located in the N-terminal section. The short N-
+terminal domain is predicted to be cytoplasmic and the large C-terminal domain
+periplasmic. As  a signature pattern, we selected a conserved region in the N-
+terminal part of these proteins.
+
+-Consensus pattern: G-T-L-W-x-G-x(11)-L-x(4)-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / First entry.
+
+[ 1] Salmond G.P.C., Reeves P.J.
+     "Membrane traffic wardens and protein secretion in gram-negative
+     bacteria."
+     Trends Biochem. Sci. 18:7-12(1993).
+     PubMed=8438237
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

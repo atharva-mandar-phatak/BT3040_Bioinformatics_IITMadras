@@ -1,0 +1,62 @@
+******************************************************
+* Glycosyl hydrolases family 35 putative active site *
+******************************************************
+
+Beta-galactosidases (EC 3.2.1.23) from mammals, fungi, plants and the bacteria
+Xanthomonas manihotis are evolutionary related [1,2]. They belong to family 35
+in the classification of glycosyl hydrolases [3,E1].
+
+Mammalian beta-galactosidase  is  a lysosomal enzyme (gene GLB1) which cleaves
+the terminal     galactose     from     gangliosides,    glycoproteins,    and
+glycosaminoglycans and  whose  deficiency  is the cause of the genetic disease
+Gm(1) gangliosidosis (Morquio disease type B).
+
+On of  the  best  conserved  regions in these enzymes contains a glutamic acid
+residue which,  on the basis of similarities with  other  families of glycosyl
+hydrolases [4], probably acts as the proton donor in the  catalytic mechanism.
+We use this region as a signature pattern.
+
+-Consensus pattern: G-G-P-[LIVM](2)-x(2)-Q-x-E-N-E-[FY]
+                    [The second E may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Taron C.H., Benner J.S., Hornstra L.J., Guthrie E.P.
+     "A novel beta-galactosidase gene isolated from the bacterium
+     Xanthomonas manihotis exhibits strong homology to several eukaryotic
+     beta-galactosidases."
+     Glycobiology 5:603-610(1995).
+     PubMed=8563148
+[ 2] Carey A.T., Holt K., Picard S., Wilde R., Tucker G.A., Bird C.R.,
+     Schuch W., Seymour G.B.
+     "Tomato exo-(1--&gt;4)-beta-D-galactanase. Isolation, changes during
+     ripening in normal and mutant tomato fruit, and characterization of a
+     related cDNA clone."
+     Plant Physiol. 108:1099-1107(1995).
+     PubMed=7630937
+[ 3] Henrissat B., Bairoch A.
+     "New families in the classification of glycosyl hydrolases based on
+     amino acid sequence similarities."
+     Biochem. J. 293:781-788(1993).
+     PubMed=8352747
+[ 4] Henrissat B., Callebaut I., Fabrega S., Lehn P., Mornon J.-P., Davies G.
+     "Conserved catalytic machinery and the prediction of a common fold for
+     several families of glycosyl hydrolases."
+     Proc. Natl. Acad. Sci. U.S.A. 92:7090-7094(1995).
+     PubMed=7624375
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

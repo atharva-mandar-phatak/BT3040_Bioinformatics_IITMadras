@@ -1,0 +1,36 @@
+CONNEXIN
+Gap junctions are specialised cell contact areas that have a distinct
+appearance and are prevalent in a number of diverse tissues [1]. The
+junctions allow the transfer of ions and small molecules between connected
+cells: in muscle, such ion transfer allows the formation and transfer of
+action potentials [1]. Gap junctions are membrane structures with aqueous
+channels: they comprise hexamers of identical connexin subunits surrounding
+a central pore, which is aligned with a similar structure on the touching
+cell [1]. 
+
+Gap junctions from different cells have different transfer properties, 
+which has been attributed to the use of different connexins [1]. Each
+connexin monomer has 4 well-conserved transmembrane (TM) regions, 2 well-
+conserved extracellular domains, and 3 variable cytoplasmic domains [2].
+Variability in the cytoplasmic regions is thought to confer different
+physiological properties, leading to tissue-specific function [2].
+Exploitation of different connexins results in differences in unitary
+conductance, and sensitivity to voltage, pH and various pharmacological
+agents [2]. Gap junction conductance can also be regulated by calcium ions,
+protons and cAMP, although the precise mechanism is unknown [3]. In cases
+of cAMP regulation, the connexin monomers may be phosphorylated or de-
+phosphorylated by a cAMP-dependent protein kinase [3].
+
+CONNEXIN is a 6-element fingerprint that provides a signature for the 
+connexins. The fingerprint was derived from an initial alignment of 7
+sequences: motifs 1, 3, 4 and 6 correspond to the 4 TM regions, and motifs
+2 and 5 to parts of the 2 extracellular domains, the 3 Cys residues of
+which are involved in disulphide bonding with a connexin monomer in the
+touching cell - motifs 2 and 5 include the regions encoded by PROSITE
+patterns CONNEXINS_1 (PS00407) and CONNEXINS_2 (PS00408). Two iterations
+on OWL22.1 were required to reach convergence, at which point a true set
+comprising 38 sequences was identified. A single partial match was also
+found, CX26_HUMAN, a connexin sequence that lacks the fourth TM domain.
+
+An update on SPTR37_9f identified a true set of 58 sequences, and 1
+partial match.

@@ -1,0 +1,84 @@
+*******************************************
+* Fork head domain signatures and profile *
+*******************************************
+
+It has been shown [1]  that  some  eukaryotic  transcription factors contain a
+conserved  domain of    about  100  amino-acid  residues, called the fork head
+domain (but also known as a "winged helix"), which is  involved in DNA-binding
+[2]. Proteins known to contain this domain are listed below.
+
+ - Drosophila fork head protein (fkh). Fkh is probably a transcription  factor
+   that regulates the expression of genes involved in terminal development.
+ - Drosophila  protein  crocodile  (gene  croc) [3], which is required for the
+   establishment of head structures.
+ - Drosophila proteins FD2, FD3, FD4, and FD5.
+ - Drosophila  proteins  sloppy  paired  1  and  2 (slp1 and slp2) involved in
+   segmentation.
+ - Bombyx  mori  silk  gland factor-1 (SGF-1) which regulates transcription of
+   the sericim-1 gene.
+ - Mammalian  transcriptional  activators  HNF-3-alpha, -beta, and -gamma. The
+   HNF-3 proteins interact with the cis-acting  regulatory regions of a number
+   of liver genes.
+ - Mammalian  interleukin-enhancer  binding  factor  (ILF).  ILF  binds to the
+   purine-rich NFAT-like  motifs  in  the  HIV-1  LTR  and  the  interleukin-2
+   promoter.  ILF may be involved in both  positive and negative regulation of
+   important viral and cellular promoter elements.
+ - Mammalian  transcription  factor  BF-1 which plays an important role in the
+   establishment  of  the regional subdivision of the developing brain and  in
+   the development of the telencephalon.
+ - Human HTLF, a protein that binds  to the purine-rich region in human T-cell
+   leukemia virus long terminal repeat (HTLV-I LTR).
+ - Mammalian  transcription  factors  FREAC-1 (FKHL5, HFH-8), FREAC-2 (FKHL6),
+   FREAC-3 (FKHL7,  FKH-1),  FREAC-4  (FKHL8),  FREAC-5 (FKHL9, FKH-2, HFH-6),
+   FREAC-6 (FKHL10,  HFH-5), FREAC-7 (FKHL11), FREAC-8 (FKHL12, HFH-7), FKH-3,
+   FKH-4, FKH-5, HFH-1 and HFH-4.
+ - Human  AFX1  which  is  involved in a chromosomal translocation that causes
+   acute leukemia.
+ - Human  FKHR  which  is  involved in a chromosomal translocation that causes
+   rhabdomyosarcoma.
+ - Xenopus XFKH1, a protein essential for normal axis formation.
+ - Caenorhabditis  elegans  lin-31;  involved in the regulation of vulval cell
+   fates.
+ - Yeast HCM1, a protein of unknown function.
+ - Yeast FKH1.
+ - Yeast FKH2.
+
+The fork domain is highly conserved.  We have  developed  two patterns for its
+detection. The  first corresponds to the N-terminal section of the domain; the
+second is a heptapeptide located in the central section of the domain.
+
+-Consensus pattern: [KR]-P-[PTQ]-[FYLVQH]-S-[FY]-x(2)-[LIVM]-x(3,4)-[AC]-
+                    [LIM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for AFX1 and FKHR.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: W-[QKR]-[NSD]-[SA]-[LIV]-R-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Weigel D., Jaeckle H.
+     "The fork head domain: a novel DNA binding motif of eukaryotic
+     transcription factors?"
+     Cell 63:455-456(1990).
+     PubMed=2225060
+[ 2] Clark K.L., Halay E.D., Lai E., Burley S.K.
+     "Co-crystal structure of the HNF-3/fork head DNA-recognition motif
+     resembles histone H5."
+     Nature 364:412-420(1993).
+     PubMed=8332212
+[ 3] Haecker U., Kaufmann E., Hartmann C., Juergens G., Knoechel W.,
+     Jaeckle H.
+     EMBO J. 14:5306-5317(1995).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,138 @@
+*****************************************************
+* POU-specific (POUs) domain signatures and profile *
+*****************************************************
+
+The POU  (pronounced 'pow') domain [1 to 7 ] is a highly charged 155-162-amino
+acid region  of  sequence  similarity  which  has been identified in the three
+mammalian transcription  factors Pit-1, Oct-1, and Oct-2 and in the product of
+the nematode  gene  unc-86.  The POU domain is a bipartite DNA binding protein
+module that  binds  selectively to the DNA octamer motif ATGCAAAT and a subset
+of derivatives. It consists of two subdomains, a C-terminal homeodomain (POUh)
+(see <PDOC00027>)  and  an  N-terminal  75-  to 82-residue POU-specific (POUs)
+region separated  by  a short non-conserved linker. The POU-specific region or
+'box' can  be  subdivided  further into two highly conserved regions, A and B,
+separated by  a less highly conserved segment. The POUs domain is always found
+in association with a POUh domain, and both are required for high affinity and
+sequence-specific DNA binding.
+
+The POUs  domain consists of four alpha helices packed to enclose an extensive
+hydrophobic core  (see  <PDB:1POU>).  The  POUs domain contains an unusual HTH
+structure, which  differs  from  the  canonical HTH motif in the length of the
+first alpha helix and the turn. The region of hypervariability located between
+subdomains A  and  B  lies within the sequence corresponding to the C-terminal
+end of  helix  2  and  the linker between helices 2 and 3. In the model of the
+POUs-DNA complex,  the  C-terminus  of  helix  2 and the turn of the HTH motif
+project away from the DNA such that sequence variability in this region can be
+accomodated without  adversely  affecting DNA binding [8].
+
+Some proteins currently known to contain a POUs domain are listed below:
+
+ - Oct-1  (or  OTF-1,  NF-A1)  (gene POU2F1), a transcription factor for small
+   nuclear RNA and histone H2B genes.
+ - Oct-2  (or  OTF-2,  NF-A2)  (gene  POU2F2),  a  transcription  factor  that
+   specifically binds  to  the  immunoglobulin  promoters  octamer  motif  and
+   activates these genes.
+ - Oct-3  (or  Oct-4,  NF-A3)  (gene POU5F1), a transcription factor that also
+   binds to the octamer motif.
+ - Oct-6    (or   OTF-6, SCIP) (gene POU3F1), an octamer-binding transcription
+   factor thought to be involved in early embryogenesis and neurogenesis.
+ - Oct-7  (or  N-Oct 3, OTF-7, Brn-2) (gene POU3F2), a nervous-system specific
+   octamer-binding transcription factor.
+ - Oct-11 (or OTF-11) (gene POU2F3), an octamer-binding transcription factor.
+ - Pit-1  (or  GHF-1)  (gene  POU1F1),  a transcription factor that  activates
+   growth hormone and prolactin genes.
+ - Brn-1 (or OTF-8) (gene POU3F3).
+ - Brn-3A (or RDC-1) (gene POU4F1), a probable transcription factor  that  may
+   play a role in neuronal tissue differentiation.
+ - Brn-3B (gene POU4F2), a probable transcription factor  that may play a role
+   in determining  or  maintaining  the identities of a small subset of visual
+   system neurons.
+ - Brn-3C (gene POU4F3).
+ - Brn-4 (or OTF-9) (gene POU3F4), a probable transcription factor which exert
+   its primary  action  widely  during  early neural development and in a very
+   limited set of neurons in the mature brain.
+ - Mpou  (or  Brn-5,  Emb)  (gene  POU6F1),  a transcription factor that binds
+   preferentially to a variant of the octamer motif.
+ - Skn, that activates cytokeratin 10 (k10) gene expression.
+ - Sprm-1,  a  transcription  factor  that binds preferentially to the octamer
+   motif and  that  may exert a regulatory function in meiotic events that are
+   required for terminal differentiation of male germ cell.
+ - Unc-86,  a  Caenorhabditis  elegans  transcription  factor involved in cell
+   lineage and differentiation.
+ - Cf1-a, a Drosophila neuron-specific  transcription factor necessary for the
+   expression of the dopa decarboxylase gene (dcc).
+ - I-POU, a Drosophila protein that forms a stable heterodimeric  complex with
+   Cf1-a and inhibits its action.
+ - Drosophila protein nubbin/twain (PDM-1 or DPou-19).
+ - Drosophila protein didymous (PDM-2 or DPou-28) that may play multiple roles
+   during development.
+ - Bombyx mori silk gland factor 3 (SGF-3).
+ - Xenopus proteins Pou1, Pou2, and Pou3.
+ - Zebrafish proteins Pou1, Pou2, Pou[C], ZP-12, ZP-23, ZP-47 and ZP-50.
+ - Caenorhabditis elegans protein ceh-6.
+ - Caenorhabditis elegans protein ceh-18.
+
+We  have derived  two  signature patterns for the 'POU' domain.  The first one
+spans positions 15 to 27 of the domain, the second positions 42 to 55. We have
+also developed a profile which covers the entire POUs domain.
+
+-Consensus pattern: [RKQ]-R-[LIM]-x-[LF]-G-[LIVMFY]-x-Q-x-[DNQ]-V-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: S-Q-[STK]-[TA]-I-[SC]-R-[FH]-[ET]-x-[LSQ]-x(0,1)-[LIR]-
+                    [ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2006 / Text revised; profile added.
+
+[ 1] Robertson M.
+     "Homoeo boxes, POU proteins and the limits to promiscuity."
+     Nature 336:522-524(1988).
+     PubMed=2904652; DOI=10.1038/336522a0
+[ 2] Sturm R.A., Herr W.
+     "The POU domain is a bipartite DNA-binding structure."
+     Nature 336:601-604(1988).
+     PubMed=2904656; DOI=10.1038/336601a0
+[ 3] Herr W., Sturm R.A., Clerc R.G., Corcoran L.M., Baltimore D.,
+     Sharp P.A., Ingraham H.A., Rosenfeld M.G., Finney M., Ruvkun G.,
+     Horvitz H.R.
+     "The POU domain: a large conserved region in the mammalian pit-1,
+     oct-1, oct-2, and Caenorhabditis elegans unc-86 gene products."
+     Genes Dev. 2:1513-1516(1988).
+     PubMed=3215510
+[ 4] Levine M., Hoey T.
+     "Homeobox proteins as sequence-specific transcription factors."
+     Cell 55:537-540(1988).
+     PubMed=2902929
+[ 5] Rosenfeld M.G.
+     "POU-domain transcription factors: pou-er-ful developmental
+     regulators."
+     Genes Dev. 5:897-907(1991).
+     PubMed=2044958
+[ 6] Schoeler H.R.
+     Trends Genet. 7:323-329(1991).
+[ 7] Verrijzer C.P., Van der Vliet P.C.
+     "POU domain transcription factors."
+     Biochim. Biophys. Acta 1173:1-21(1993).
+     PubMed=8485147
+[ 8] Assa-Munt N., Mortishire-Smith R.J., Aurora R., Herr W., Wright P.E.
+     "The solution structure of the Oct-1 POU-specific domain reveals a
+     striking similarity to the bacteriophage lambda repressor DNA-binding
+     domain."
+     Cell 73:193-205(1993).
+     PubMed=8462099
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

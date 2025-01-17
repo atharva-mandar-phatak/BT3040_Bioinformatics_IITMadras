@@ -1,0 +1,43 @@
+*********************************************
+* Eukaryotic initiation factor 4E signature *
+*********************************************
+
+Eukaryotic translation initiation factor 4E (eIF-4E)  [1]  is  a  protein that
+binds to the cap structure of eukaryotic cellular mRNAs. eIF-4E recognizes and
+binds the 7-methylguanosine-containing (m7Gppp)  cap  during  an early step in
+the initiation of protein synthesis and facilitates ribosome binding to a mRNA
+by inducing the unwinding of its secondary structures.
+
+eIF-4E is  a  conserved protein  of  about 25 Kd.  Site  directed  mutagenesis
+experiments  have  shown [2]  that  a  tryptophan  in  the central part of the
+sequence of human eIF-4E seems to be implicated in cap-binding.  The signature
+pattern for eIF-4E includes this tryptophan.
+
+-Consensus pattern: [DE]-[IFYL]-x(2)-F-[KRL]-x(2)-[LIVM]-x-P-x-W-E-[DVA]-x(5)-
+                    G-G-[KR]-W
+                    [The first W seems to be involved in cap-binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Thach R.E.
+     "Cap recap: the involvement of eIF-4F in regulating gene expression."
+     Cell 68:177-180(1992).
+     PubMed=1733496
+[ 2] Ueda H., Iyo H., Doi M., Inoue M., Ishida T., Morioka H., Tanaka T.,
+     Nishikawa S., Uesugi S.
+     "Combination of Trp and Glu residues for recognition of mRNA cap
+     structure. Analysis of m7G base recognition site of human cap binding
+     protein (IF-4E) by site-directed mutagenesis."
+     FEBS Lett. 280:207-210(1991).
+     PubMed=1672854
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,29 @@
+ACRYSTALLIN
+The crystallins are water-soluble structural proteins that occur in
+high concentration in the cytoplasm of eye lens fibre cells. Four major
+groups of crystallin have been distinguished on the basis of size,
+charge and immunological properties: alpha-, beta- and gamma-crystallins
+occur in all vertebrate classes (though gamma-crystallins are low or
+absent in avian lenses); and delta-crystallin is found exclusively in
+reptiles and birds [1,2].
+
+Alpha-crystallin occurs as large aggregates, comprising 2 types of related
+subunits (A and B). These are highly similar to the small (15-30kDa) heat
+shock proteins (HSPs), particularly in their C-terminal halves. The
+relationship between these families is one of classic gene duplication
+and divergence, from the small HSP family, allowing adaptation to novel
+functions. Divergence probably occurred prior to evolution of the eye
+lens, alpha-crystallin being found in small amounts in tissues outside
+the lens [1].
+
+ACRYSTALLIN is a 7-element fingerprint that provides a signature for 
+alpha crystallins. The fingerprint was derived from an initial alignment
+10 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length, motifs 3-7 falling in the C-terminal domain encoded
+by PROSITE profile HSP20 (PS01031). Two iterations on OWL25.2 were required
+to reach convergence, at which point a true set comprising 51 sequences was
+identified. Numerous partial matches were also found, i.e. the  related
+family of heat shock proteins, all of which fail to match motifs 1 and 7. 
+
+An update on SPTR37_9f identified a true set of 56 sequences, and 38
+partial matches.

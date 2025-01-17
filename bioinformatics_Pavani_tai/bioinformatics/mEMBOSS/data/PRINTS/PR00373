@@ -1,0 +1,47 @@
+GLYCHORMONER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The gonadotrophins (luteinising hormone, choriogonadotrophin, follicle-
+stimulating hormone) and thyroid-stimulating hormone are heterotrimeric
+glycoproteins composed of a common alpha-subunit and distinct beta-subunits
+[6]. The carbohydrate moiety of the glycoproteins has an essential role in
+receptor recognition. The receptors share close sequence similarity, and
+are characterised by large extracellular domains believed to be involved
+in hormone binding [6].
+
+GLYCHORMONER is an 8-element fingerprint that provides a signature for the
+glycoprotein hormone receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the glycoprotein hormone receptors but distinguish them
+from the rest of the rhodopsin-like superfamily - motif 1 was drawn from
+the N-terminal region leading into TM domain 1; motif 2 spans the first
+cytoplasmic loop; motif 3 spans the first external loop; motif 4 lies in
+TM domain 3; motif 5 lies at the C-terminus of TM domain 4 leading into the
+second external loop; motif 6 spans the third cytoplasmic loop and part of
+TM domain 6; and motif 7 spans the third external loop leading into TM 
+domain 7. Two iterations on OWL26.0 were required to reach convergence, at
+which point a true set comprising 19 sequences was identfied. Four partial
+matches were also found, three of which are hormone receptor fragments,
+and the fourth is a putative GPCR from the great pond snail, which is
+highly similar to 3 of the motifs.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 3
+partial matches.

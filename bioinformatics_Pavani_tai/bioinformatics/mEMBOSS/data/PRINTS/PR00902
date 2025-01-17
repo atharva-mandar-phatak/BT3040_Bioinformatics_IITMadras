@@ -1,0 +1,20 @@
+VP6CAPSID
+The sequences of the structural protein, VP6, from five United States (US)
+prototype bluetongue virus (BTV) serotypes have been compared [1]. The
+analysis showed VP6 to contain unusually high concentrations of glycine,  
+few aromatic amino acids, but a high concentration of charged amino acids,
+a characteristic of hydrophilic proteins [1]. 
+
+VP6 is an inner capsid protein that surrounds the genomic DS-RNA. Its
+hydrophilic nature [1], coupled with a capability to bind ss- and ds-RNA,
+suggest that it interacts directly with the BTV genomic RNA.
+
+VP6CAPSID is an 11-element fingerprint that provides a signature for the
+orbivirus inner capsid protein VP6. The fingerprint was derived from an
+initial alignment of 12 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motifs 1 and 3 lie within
+a Gly-rich region within the N-terminal half of the alignment. Two
+iterations on OWL30.1 were required to reach convergence, at which point
+a true set comprising 25 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 25 sequences.

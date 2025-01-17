@@ -1,0 +1,34 @@
+****************************************************
+* Ribonucleotide reductase large subunit signature *
+****************************************************
+
+Ribonucleotide reductase (EC 1.17.4.1) [1,2] catalyzes the reductive synthesis
+of deoxyribonucleotides from their  corresponding ribonucleotides. It provides
+the precursors necessary  for  DNA synthesis.   Ribonucleotide reductase is an
+oligomeric enzyme  composed of a  large  subunit (700 to 1000 residues)  and a
+small subunit (300 to 400 residues).  There are regions of similarities in the
+sequence of the large chain from prokaryotes, eukaryotes and viruses.  We have
+selected one of these regions as a signature pattern.
+
+-Consensus pattern: W-x(2)-[LIVF]-x(6,7)-G-[LIVM]-[FYRA]-[NH]-x(3)-[STAQLIVM]-
+                    [ASC]-x(2)-[PA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Nillson O., Lundqvist T., Hahne S., Sjoberg B.-M.
+     Biochem. Soc. Trans. 16:91-94(1988).
+[ 2] Reichard P.
+     "From RNA to DNA, why so many ribonucleotide reductases?"
+     Science 260:1773-1777(1993).
+     PubMed=8511586
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

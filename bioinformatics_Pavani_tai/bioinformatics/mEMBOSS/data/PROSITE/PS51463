@@ -1,0 +1,78 @@
+*********************************************************************
+* Glucose-6-phosphate isomerase (GPI) family signatures and profile *
+*********************************************************************
+
+Glucose-6-phosphate  isomerase  (GPI) (EC 5.3.1.9) or phosphoglucose isomerase
+(PGI) [1,2] is a dimeric enzyme that catalyzes the reversible isomerization of
+glucose-6-phosphate  and  fructose-6-phosphate.  PGI  is involved in different
+pathways: in most higher organisms it is involved in glycolysis; in mammals it
+is  involved  in  gluconeogenesis;  in plants in carbohydrate biosynthesis; in
+some  bacteria  it  provides a gateway for fructose into the Entner-Doudouroff
+pathway.  Besides it's role as a glycolytic enzyme, mammalian PGI can function
+as  a  tumor-secreted  cytokine and an angiogenic factor (AMF) that stimulates
+endothelial   cell   motility.  Mammalian  PGI  is  also  neuroleukin  [3],  a
+neurotrophic factor which supports the survival of various types of neurons.
+
+The  sequence  of PGI is conserved among diverse species ranging from bacteria
+to  mammals  and  structures  form  a  similar  fold  (see  <PDB:1IAT>) [4,5],
+comprised  of two subdomains that each form an alpha-beta-alpha sandwich, with
+the  active  site located in the cleft between the subdomains and on the dimer
+interface.  A  glutamate  and a lysine residue as well as a histidine from the
+other  protomer  in  the  dimer are implicated in the catalytic mechanism. The
+structure resembles that of the SIS domain (see <PDOC51464>).
+
+As  signature  patterns for this enzyme we selected two conserved regions, the
+first region is located in the central section of PGI, while the second one is
+located in its C-terminal section. We also developed a profile that covers the
+entire PGI.
+
+-Consensus pattern: [DENSA]-x-[LIVM]-[GP]-G-R-[FY]-[ST]-[LIVMFSTAP]-x-[GSTA]-
+                    [PSTACM]-[LIVMSA]-[GSAN]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for PCC 6803 PGI.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSA]-x-[LIVMCAYQS]-[LIVMFYWN]-x(4)-[FY]-[DNTH]-Q-x-[GA]-
+                    [IV]-[EQST]-x(2)-K
+                    [K is the active site residue]
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: September 2009 / Text revised; profile added.
+
+[ 1] Achari A., Marshall S.E., Muirhead H., Palmieri R.H., Noltmann E.A.
+     "Glucose-6-phosphate isomerase."
+     Philos. Trans. R. Soc. Lond., B, Biol. Sci. 293:145-157(1981).
+     PubMed=6115414
+[ 2] Smith M.W., Doolittle R.F.
+     "Anomalous phylogeny involving the enzyme glucose-6-phosphate
+     isomerase."
+     J. Mol. Evol. 34:544-545(1992).
+     PubMed=1593646
+[ 3] Faik P., Walker J.I.H., Redmill A.A.M., Morgan M.J.
+     "Mouse glucose-6-phosphate isomerase and neuroleukin have identical 3'
+     sequences."
+     Nature 332:455-457(1988).
+     PubMed=3352745; DOI=10.1038/332455a0
+[ 4] Read J., Pearce J., Li X., Muirhead H., Chirgwin J., Davies C.
+     "The crystal structure of human phosphoglucose isomerase at 1.6 A
+     resolution: implications for catalytic mechanism, cytokine activity
+     and haemolytic anaemia."
+     J. Mol. Biol. 309:447-463(2001).
+     PubMed=11371164; DOI=10.1006/jmbi.2001.4680
+[ 5] Yamamoto H., Miwa H., Kunishima N.
+     "Crystal structure of glucose-6-phosphate isomerase from Thermus
+     thermophilus HB8 showing a snapshot of active dimeric state."
+     J. Mol. Biol. 382:747-762(2008).
+     PubMed=18675274; DOI=10.1016/j.jmb.2008.07.041
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

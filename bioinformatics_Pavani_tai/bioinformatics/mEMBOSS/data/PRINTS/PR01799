@@ -1,0 +1,24 @@
+SFASSEMBLIN
+Striated fibre assemblin (SFA), an acidic 33kDa protein, is the major 
+component of striated microtubule-associated fibres (SMAFs) in the flagellar
+basal apparatus of green flagellates. In Chlamydomonas, and other green
+flagellates, the SMAFs form a cross-like pattern and run alongside the
+proximal parts of four bundles of flagellar root microtubules.
+
+The sequence of SFA contains two structurally distinct domains [1]. The
+head domain, with ~30 residues, contains all the prolines (3-8 depending on
+species) and is rich in hydroxyamino acids. This non-helical domain is
+further characterised by the presence of repetitive SP-motifs, some of them
+in the context SP(M/T)R, which is a putative substrate for p34-CDC2 kinase
+[2]. The rod domain, with ~250 residues, is predicted to be mostly alpha-
+helical (the alpha-helix content was estimated to be 76% for the entire
+molecule or 85% for the postulated rod domain [1]). This domain shows a 
+pronounced coiled-coil-forming ability and contains a 29-residue repeat
+pattern based on four heptads, followed by a skip residue [1].
+
+SFASSEMBLIN is a 9-element fingerprint that provides a signature for the
+SF-assemblins. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full length of the rod domain - motif 4 includes the putative coiled-
+coil domain. A single iteration on SPTR40_20f was required to reach
+convergence, no further sequences being identified beyond the starting set.

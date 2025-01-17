@@ -1,0 +1,52 @@
+**********************************************
+* cAMP phosphodiesterases class-II signature *
+**********************************************
+
+Cyclic  AMP  phosphodiesterase   (EC 3.1.4.17)  (cAMP-PDEase)   catalyzes  the
+hydrolysis of  cAMP to  the  corresponding nucleoside 5' monophosphate.  While
+most PDEases can be, on  the  basis of sequence similarities, grouped together
+[1], there are at least two enzymes which do not  belong to the main family of
+PDEases and which represent a second class of these enzymes [2]:
+
+ - Slime mold Dictyostelium discoideum extracellular cAMP PDEase.  This enzyme
+   plays an essential role in  development  by  hydrolyzing the cAMP used as a
+   chemoattractant by aggregating cells.
+ - Budding yeast and Candida albicans low-affinity cAMP PDEase (gene PDE1).
+ - Fission yeast probable cAMP PDEase (gene cgs2).
+ - Vibrio fischeri periplasmic cAMP PDEase (gene cpdP) [3].
+
+There is, in the central part of  these enzymes,  a  highly  conserved  region
+which contains three histidines.  We  have  used  this  region  as a signature
+pattern.
+
+-Consensus pattern: H-x-H-L-D-H-[LIVM]-x-[GS]-[LIVMA]-[LIVM](2)-x-S-[AP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Text revised.
+
+[ 1] Beavo J.A., Reifsnyder D.H.
+     "Primary sequence of cyclic nucleotide phosphodiesterase isozymes and
+     the design of selective inhibitors."
+     Trends Pharmacol. Sci. 11:150-155(1990).
+     PubMed=2159198
+[ 2] Nikawa J.-I., Sass P., Wigler M.
+     "Cloning and characterization of the low-affinity cyclic AMP
+     phosphodiesterase gene of Saccharomyces cerevisiae."
+     Mol. Cell. Biol. 7:3629-3636(1987).
+     PubMed=2824992
+[ 3] Dunlap P.V., Callahan S.M.
+     "Characterization of a periplasmic 3':5'-cyclic nucleotide
+     phosphodiesterase gene, cpdP, from the marine symbiotic bacterium
+     Vibrio fischeri."
+     J. Bacteriol. 175:4615-4624(1993).
+     PubMed=8393003
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

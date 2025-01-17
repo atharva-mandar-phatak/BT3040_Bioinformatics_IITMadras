@@ -1,0 +1,26 @@
+CALICVIRUSNS
+Caliciviruses are positive-stranded ssRNA viruses that cause gastroenteritis 
+[1]. The calicivirus genome contains two open reading frames, ORF1 and ORF2
+[2,3]. ORF1 encodes a non-structural polypeptide, which has RNA helicase,
+cysteine protease and RNA polymerase activity. The regions of the poly-
+protein in which these activities lie are similar to proteins produced by
+the picornaviruses [2,4]. ORF2 encodes a structural protein [2]. Two
+different families of caliciviruses can be distinguished on the basis of
+sequence similarity, namely those classified as small round structured 
+viruses (SRSVs) and those classed as non-SRSVs. 
+
+CALICVIRUSNS is a 6-element fingerprint that provides a signature for the 
+non-structural polyprotein of caliciviridae. The fingerprint was derived
+from an initial alignment of four sequences: the motifs were drawn from the
+central to C-terminal portion of the alignment - motifs 1 and 2 lie within
+the helicase region; motif 3 resides in the protease domain, and includes 
+a catalytic Cys residue; motifs 4 and 5 lie at the N- and C-terminal
+extremities of the RNA-directed RNA-polymerase domain; and motif 6 lies 
+towards the C-terminus. Two iterations on OWL30.1 were required to reach
+convergence, at which point a true set comprising 15 sequences was 
+identified. Numerous partial matches were also found, all of which are 
+calicivirus polyprotein fragments that lack portions of sequence bearing 
+one or more motifs.
+
+An update on SPTR57.15_40.15f identified a true set of 216 sequences, and 
+5 partial matches.

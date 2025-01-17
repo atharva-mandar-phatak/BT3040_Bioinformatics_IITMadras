@@ -1,0 +1,47 @@
+ALPHAAMYLASE
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 57 encompases the alpha-amylases (EC 3.2.1.1).
+
+Alpha-amylases are 1,4-alpha-D-glucan glucanohydrolases, which degrade 
+both the branched and unbranched forms of starch by cleaving the internal
+alpha-1,4 bonds connecting the glucose monomers. The products of these
+reactions are maltose and maltotriose, which are further degraded to glucose
+by maltases. One atom of calcium is required to bind to each protein
+molecule to allow it to function, but excess calcium can inhibit activity 
+by binding to amino acids that are required for the catalytic activity 
+of the enzyme.
+
+ALPHAAMYLASE is a 5-element fingerprint that provides a signature for alpha-
+amylase family. The fingerprint was derived from an initial alignment of 6
+sequences (after J.C. Rogers [5]): the motifs were drawn from conserved
+regions spanning the first two-thirds of the alignment. Three iterations
+on OWL11.0 were required to reach convergence, at which point a true set
+comprising 44 sequences was identified. Of these, all but 3 were alpha-
+amylases: AMT4_PSEST and AMT4_PSESA are maltotetrahydrolases, which cleave 
+the alpha-1,4 bonds between adjacent glucose monomers of maltotetrose, and 
+thus perform similar roles to alpha-amylases; and AMT6_BACS7 is a glucan-1,
+4-alpha-maltohexaosidase, which cleaves amylaceous polysaccharides in such 
+a way as to yield maltohexaose, a molecule consisting of 6 glucose monomers
+joined by alpha-1,4 bonds. 
+
+Motifs 2, 3 and 5 are good discriminators for all alpha-amylases and 
+related proteins, such as maltases and cyclomaltodextrin glucanotrans-
+ferases, which also digest alpha-1,4 bonds between connected glucose 
+monomers in either starch (CDGTases) or smaller molecules such as maltose 
+(maltases). Motifs 1 and 4 appear to discriminate between the alpha-amylases
+and the subfamily of related proteins that make only partial matches.
+
+Computer modelling studies have shown that the 5 motifs surround the active
+site, suggesting that they may be required for the activity of the protein
+(M.E.Beck, unpublished data). This hypothesis has been strengthened by 2
+studies: the first shows that of the 18 residues thought to be required for
+enzymic activity, 11 are contained within the 5 motifs [7]; the second
+shows that excess calcium acts as an inhibitor by binding to some of the
+residues contained in the motifs believed to have catalytic functions [8].
+
+An update on SPTR37_9f identified a true set of 102 sequences, and 99
+partial matches.

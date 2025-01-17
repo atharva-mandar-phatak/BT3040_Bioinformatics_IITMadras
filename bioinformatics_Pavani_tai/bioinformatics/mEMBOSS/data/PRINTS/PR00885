@@ -1,0 +1,31 @@
+BCTERIALGSPH
+The general (type II) secretion pathway (GSP) within Gram-negative bacteria
+is a signal sequence-dependent process repsonsible for protein export
+[1-3]. The process has two stages: exoproteins are first translocated
+across the inner membrane by the general signal-dependent export pathway
+(GEP), and then across the outer membrane by a species-specific accessory
+mechanism.
+
+A number of proteins are involved in the GSP; one of these is known as
+protein H (GSPH protein). This protein shares several sequence similarities
+with bacterial fimbrial protein, or pilin, the major structural protein of
+pili [4]. Pili are polar flexible filamentous adhesions ~2500nm in length, 
+and diameter ~5.4nm. Fimbrial and GSPG proteins share the following
+characteristics: a methylated, hydrophobic N-terminal residue; a
+hydrophobic leader peptide of 5-10 residues, terminating with glycine;
+glutamate as the fifth residue of the mature sequence; and a highly
+hydrophobic N-terminus.
+
+BCTERIALGSPH is a 3-element fingerprint that provides a signature for the
+bacterial general secretion pathway protein H family. The fingerprint was
+derived from an initial alignment of 8 sequences: motifs 1 and 2 were drawn
+from the hydrophobic N-terminal section, motif 1 including the region
+encoded by PROSITE pattern PROKAR_NTER_METHYL (PS00409), in which the
+conserved glycine is methylated; and motif 3 lies in the C-terminal region.
+Two iterations on OWL30.1 were required to reach convergence, at which point
+a true set comprising 9 sequences was identified. Two partial matches were
+also found, ECRECC1 and PPDB_ECOLI, both of which are prepilin proteins that
+match motifs 1 and 3.
+
+An update on SPTR57_40f identified a true set comprising 75 sequences, 
+together with 18 partial matches.

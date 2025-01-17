@@ -1,0 +1,29 @@
+BACINVASINB
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [2], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+Exotoxins secreted by the type III system do not possess a secretion signal,
+and are considered unique for this reason [3]. Salmonella and Shigella spp.
+secrete an invasive protein, named SipB and IpaB respectively [1]. These 
+proteins are required for internalisation of the bacterium within the host
+cell [2]. Induction of apoptosis is then carried out, by the binding of IL-1
+converting enzyme to the exotoxin.
+
+BACINVASINB is a 7-element fingerprint that provides a signature for 
+Salmonella and Shigella bacterial invasin B proteins. The fingerprint was
+derived from an initial alignment of 2 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~600 amino acids). Two
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 4 sequences was identified. 

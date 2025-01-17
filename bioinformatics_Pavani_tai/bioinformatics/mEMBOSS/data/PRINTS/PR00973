@@ -1,0 +1,46 @@
+RIBOSOMALS17
+Ribosomes are ribonucleoprotein particles that are the site of protein
+synthesis. The structure of the ribosome is well conserved across the
+prokaryotic and eukaryotic lineages, reflecting the early origin of their
+essential function. They comprise two subunits, which can dissociate on 
+heating. In prokaryotes, the small subunit contains a single large RNA 
+moeity denoted, according to its sedimentation coefficient, 16S rRNA, and 21 
+different ribosomal proteins, designated S1-S21. Eukaryotic small ribosomal
+subunits contain 33 proteins, many of which are similar to those found
+in prokaryotes. 
+
+There are two major tRNA binding sites on the ribosome, termed the A site, 
+where incoming aminoacyl-tRNA is bound, and the P site (for peptidyl tRNA), 
+where new peptide bonds are formed. The ribosomal proteins catalyse ribosome 
+assembly and stabilise the rRNA, tuning the structure of the ribosome for 
+optimal function [1]. Evidence suggests that, in prokaryotes, the peptidyl
+transferase reaction is performed by the large subunit 23S rRNA, whereas
+proteins probably have a greater role in eukaryotic ribosomes. Most of the
+proteins lie close to, or on the surface of, the 30S subunit, arranged
+peripherally around the rRNA [2]. The small subunit ribosomal proteins can
+be categorised as primary binding proteins, which bind directly and
+independently to 16S rRNA; secondary binding proteins, which display no
+specific affinity for 16S rRNA, but its assembly is contingent upon the
+presence of one or more primary binding proteins; and tertiary binding
+proteins, which require the presence of one or more secondary binding
+proteins and sometimes other tertiary binding proteins.
+
+The small ribosomal subunit protein S17 is known to bind specifically to 
+the 5' end of 16S ribosomal RNA in E.coli (primary rRNA binding protein), 
+and is thought to be involved in the recognition of termination codons. 
+Experimental evidence [3] has revealed that S17 has virtually no groups
+exposed on the ribosomal surface. S17 belongs to a family of ribosomal 
+proteins [4-6], including: eubacterial S17; plant chloroplast S17 (nuclear
+encoded); red algal chloroplast S17; cyanelle S17; archaebacterial S17; 
+mammalian and plant cytoplasmic S11; and yeast S18a and S18b (RP41, YS12).
+
+RIBOSOMALS17 is a 3-element fingerprint that provides a signature for S17
+ribosomal proteins. The fingerprint was derived from an initial alignment 
+of 15 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motif 2 spans most of the C-terminal region 
+encoded by PROSITE pattern RIBOSOMAL_S17 (PS00056), which includes a short
+beta-strand. Two iterations on OWL30.2 were required to reach convergence,
+at which point a true set comprising 50 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 50 sequences, and 1
+partial match.

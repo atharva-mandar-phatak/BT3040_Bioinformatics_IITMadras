@@ -1,0 +1,77 @@
+*************************************************************
+* Histidine-containing phosphotransfer (HPt) domain profile *
+*************************************************************
+
+Most prokaryotic signal-transduction systems and a few eukaryotic pathways use
+phosphotransfer schemes   involving  two  conserved  components,  a  histidine
+protein kinase  (HK)  (see  <PDOC50109>) and a response regulator protein (RR)
+(see <PDOC50110>).  The  HK,  which  is  regulated  by  environmental stimuli,
+autophosphorylates at  a  histidine residue, creating a high-energy phosphoryl
+group that  is  subsequently  transferred  to  an  aspartate residue in the RR
+domain. Phosphorylation  induces a conformational change in RR that results in
+activation of an associated domain that effects the response [1].
+
+Besides these  two  signaling domains, a small number of two-component systems
+contain another  common  signaling  domain,  termed  the  Histidine-containing
+Phosphotransfer (HPt) domain.  A large majority of prokaryotic HPt domains are
+part of  multi-domain  sensor kinases, whereas in eukaryotes they are found in
+separate independent  proteins. HPt domains are ~120 amino acids in length and
+contain a  histidine  residue  capable of participating in phosphoryl transfer
+reactions. They  serve a dual purpose as a phosphoreceiver and phosphodonor in
+order to  shuttle  phosphoryl  groups  between  two or more response regulator
+domains. The presence of HPt domains and use of multistep phosphorelay systems
+provide for additional points of regulation of signaling pathway [1].
+
+The resolution  of  the  3D  structure  of some HPt domains revealed that they
+have a kidney shape and an all-alpha structure (see <PDB:1A0B>). Despite their
+overall low  sequence homology and length variability, all of the HPts share a
+common up-down-up-down  four-helix  bundle  core  with  the  site of histidine
+phosphorylation located  at  the  same  position on the second helix. The most
+conserved positions  are  the  phosphorylation  site  defined by the histidine
+followed by  several  highly  conserved  residues  and a number of hydrophobic
+residues which  seem  to  play a role in the formation of the hydrophobic core
+that allows association of the four-helix bundle [2,3,4,5].
+
+The profile  we  developed covers the entire four-helix bundle core of the HPt
+domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2003 / First entry.
+
+[ 1] Stock A.M., Robinson V.L., Goudreau P.N.
+     "Two-component signal transduction."
+     Annu. Rev. Biochem. 69:183-215(2000).
+     PubMed=10966457; DOI=10.1146/annurev.biochem.69.1.183
+[ 2] Robinson V.L., Buckler D.R., Stock A.M.
+     "A tale of two components: a novel kinase and a regulatory switch."
+     Nat. Struct. Biol. 7:626-633(2000).
+     PubMed=10932244; DOI=10.1038/77915
+[ 3] Xu Q., West A.H.
+     "Conservation of structure and function among histidine-containing
+     phosphotransfer (HPt) domains as revealed by the crystal structure of
+     YPD1."
+     J. Mol. Biol. 292:1039-1050(1999).
+     PubMed=10512701; DOI=10.1006/jmbi.1999.3143
+[ 4] Kato M., Mizuno T., Shimizu T., Hakoshima T.
+     "Refined structure of the histidine-containing phosphotransfer (HPt)
+     domain of the anaerobic sensor kinase ArcB from Escherichia coli at
+     1.57 A resolution."
+     Acta Crystallogr. D 55:1842-1849(1999).
+     PubMed=10531481
+[ 5] Ikegami T., Okada T., Ohki I., Hirayama J., Mizuno T., Shirakawa M.
+     "Solution structure and dynamic character of the histidine-containing
+     phosphotransfer domain of anaerobic sensor kinase ArcB from
+     Escherichia coli."
+     Biochemistry 40:375-386(2001).
+     PubMed=11148031; DOI=10.1021/bi001619g
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

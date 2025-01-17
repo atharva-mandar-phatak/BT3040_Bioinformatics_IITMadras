@@ -1,0 +1,33 @@
+VEGFRECEPTR1
+Vascular endothelial growth factor (VEGF) is a potent and specific
+endothelial cell mitogen [1]. Through binding with its receptor, VEGFR, VEGF
+has critical roles in the growth and maintenance of vascular endothelial
+cells and in the development of new blood- and lymphatic-vessels in
+physiological and pathological states [2]. The vessel systems are important 
+for the supply of oxygen and nutrients to all tissues of the body, as well
+as for the drainage of excess fluids with waste metabolites from peripheral
+tissues. VEGF receptors have a characteristic structure, with 7 Ig-like
+domains in the extracellular domain and a cytoplasmic tyrosine kinase domain
+with a long kinase insert region.
+
+The VEGF receptor family consists of three members, VEGFR-1 (Flt-1), VEGFR-2
+(KDR/Flk-1) and VEGFR-3 (Flt-4), all of which belong to the receptor type
+tyrosine kinase superfamily [3]. Among these receptors, VEGFR-1 binds
+strongest to VEGF, VEGF-2 binds more weakly, and VEGFR-3 shows essentially
+no binding, although it does bind to other members of the VEGF family.
+
+The tyrosine kinase domain of VEGFR-1, although much weaker than that of
+VEGFR-2, tranduces signals for endothelial cells. A null mutation of VEGFR-1
+in mice results in lethality in early embryogenesis, owing to a dis-
+organisation of blood vessels and an overgrowth of endothelial-like cells.
+
+VEGFRECEPTR1 is a 7-element fingerprint that provides a signature for the
+type 1 vascular endothelial growth factor receptors. The fingerprint was
+derived from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the N-terminal half of the extracellular domain,
+focusing on those sections that characterise VEGFR1 subtypes, but 
+distinguish them from the rest of the VEGFR family - motif 2 lies in the 
+first Ig domain; motif 3 spans beta-strands 1 and 2; motif 5 residues in the
+third Ig domain; and motif 7 lies in the fourth Ig domain. Two iterations on
+SPTR40_20f were required to reach convergence, at which point a true set 
+comprising 7 sequences was identified.

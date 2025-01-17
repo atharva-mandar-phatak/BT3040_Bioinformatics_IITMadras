@@ -1,0 +1,46 @@
+***********************
+* TRAM domain profile *
+***********************
+
+The TRAM  (after  TRM2 and miaB) domain is a 60-70-residue-long module that is
+found in:
+
+ - Two  distinct  classes of tRNA-modifying enzymes, namely uridine methylases
+   of the  TRM2  family and enzymes of the miaB family that are involved in 2-
+   methylthioadenine formation,
+ - In several other proteins associated with the translation machinery,
+ - In  a  family of small uncharacterized archaeal proteins that are predicted
+   to have a role in the regulation of tRNA modification and/or translation.
+
+The TRAM  domain can be found alone or in association with other domains, such
+as the  catalytic  biotin/lipoate  synthase-like  domain,  the  RNA  methylase
+domain, the  ribosomal  S2  domain (see <PDOC00744>) and the eIF2-beta domain.
+The TRAM  domain  is  predicted  to  bind  tRNA  and deliver the RNA-modifying
+enzymatic domain to their targets [1].
+
+Secondary structure  prediction indicates that the TRAM domain adopts a simple
+beta barrel  fold.  The  conservation  pattern  of  the  TRAM  domain consists
+primarily of  small  and  hydrophobic  residues  that correspond to five beta-
+strands in the predicted secondary structure [1].
+
+The profile we developed covers the entire TRAM domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2003 / First entry.
+
+[ 1] Anantharaman V., Koonin E.V., Aravind L.
+     "TRAM, a predicted RNA-binding domain, common to tRNA uracil
+     methylation and adenine thiolation enzymes."
+     FEMS Microbiol. Lett. 197:215-221(2001).
+     PubMed=11313137
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

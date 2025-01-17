@@ -1,0 +1,22 @@
+HPVCAPSIDL1
+Papillomaviruses are members of the papovavirus superfamily. More than
+70 different types of papillomavirus have been discovered in humans, some
+of which have been shown to cause genital carcinomas and cutaneous
+warts. The viruses contain a circular dsDNA genome surrounded by an 
+icosahedral capsid. Two proteins are involved in capsid formation: a major
+(L1) and  minor (L2) protein, in the approximate proportion 95:5%.
+Experiments have indicated that intermolecular disulphide bonding is 
+responsible for cohesion of the L1 capsid proteins [1].
+
+HPVCAPSIDL1 is an 11-element fingerprint that provides a signature for
+the major L1 protein in the papillomavirus capsid. The fingerprint was
+derived from an initial alignment of 18 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length. Two
+iterations on OWL29.6 were required to reach convergence, at which point a
+true set comprising 106 sequence was identified. Several partial matches
+were also found, all of which are fragments that lack one or more motifs:
+AF001600 fails to match motif 11; those with 5 motifs match motifs 4-8; two
+distinct groups of fragment match three motifs, namely 3-5 and 6-8; and
+almost all with 2 motifs match motifs 9 and 10. 
+
+An update on SPTR37_9f identified a true set of 100 sequences.

@@ -1,0 +1,25 @@
+CCAATSUBUNTB 
+The CCAAT-binding factor (CBF) is a mammalian transcription factor that
+binds to a CCAAT motif in the promoters of a wide variety of genes,
+including type I collagen and albumin [1,2]. The factor is a heteromeric
+complex of A and B subunits, both of which are required for DNA-binding
+[1,2]. The subunits can interact in the absence of DNA-binding, conserved
+regions in each being important in mediating this interaction.
+
+The B subunit contains a region of 65 amino acids that shares 75% identity
+with the yeast protein HAP2 [4]. Deletions in the C-terminus of this region
+results in the loss of DNA-binding ability, but subunit interaction is
+unaffected [3]. It is therefore suggested that the N-terminal portion of
+the conserved region is involved in subunit interaction and the C-terminal
+region involved in DNA-binding [3].
+
+CCAATSUBUNTB is a 2-element fingerprint that provides a signature for the
+CCAAT-binding transcription factor B subunit. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from 
+virtually the full length of the central conserved region - motif 1 spans 
+the subunit-association domain encoded by PROSITE pattern CBFB_NFYA
+(PS00686); and motif 2 encodes the DNA recognition domain. Two iterations
+on OWL28.2 were required to reach convergence, at which point a true set
+comprising 11 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 18 sequences.

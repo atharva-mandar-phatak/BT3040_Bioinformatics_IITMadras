@@ -1,0 +1,28 @@
+CYANASE
+Cyanase, an enzyme found in bacteria and plants, catalyses the reaction
+of cyanate with bicarbonate to produce ammonia and carbon dioxide, allowing
+the host organisms to overcome the toxicity of environmental cyanate [2].
+The enzyme is also known as cyanase lyase and cyanase hydrolase. 
+
+The cyanate lyase monomer is composed of two domains: an N-terminal domain
+that shows structural similarity to the DNA-binding alpha-helix bundle
+motif, and a C-terminal domain that has an 'open fold' that shows no 
+structural similarity to other proteins [2,4].
+
+The enzyme is active as a homodecamer of 17kDa subunits, and displays
+half-site binding of substrates or substrate analogues. The dimer structure
+reveals the C-terminal domains to be intertwined; the decamer is formed
+from a pentamer of these dimers. The active site of the enzyme is located
+between dimers and comprises residues from four adjacent subunits
+of the homodecamer [4].
+
+CYANASE is a 5-element fingerprint that provides a signature for the
+cyanases. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 1 spans the C-terminus of alpha-helix 1 and helix
+2; motif 2 spans helix 3 and the N-terminus of helix 4; motif 3 encodes the
+N-terminus of helix 6, and includes the active site arginine and glutamate
+residues; motif 4 spans the C-terminus of helix 6 and the N-terminal portion
+of beta-strand 1, including the active site serine; and motif 5 encodes
+strand 2. Two iterations on SPTR40_18f were required to reach convergence,
+at which point a true set comprising 7 sequences was identified.

@@ -1,0 +1,28 @@
+XYLOSISMRASE
+Xylose isomerase is an enzyme found in microorganisms that catalyses the
+interconversion of D-xylose to D-xylulose [1]; it can also isomerise
+D-ribose to D-ribulose and D-glucose to D-fructose. The enzyme is a homo-
+tetramer, which is stabilised by cobalt, and requires magnesium for its
+catalytic activity. Each subunit contains 2 domains: the core domain is a 
+parallel alpha-beta barrel; the C-terminal domain is a loop structure
+consisting of 5 helices and is involved in intermolecular contacts between
+adjacent subunits [2]. The active site lies in a deep pocket near the
+C-terminal ends of the strands of the barrel domain and includes residues
+from a second subunit. The tetramer is effectively a dimer of "active"
+dimers, the active sites being composed of residues from both subunits [2].
+
+XYLOSISMRASE is a 9-element fingerprint that provides a signature for 
+xylose isomerases. The fingerprint was derived from an initial alignment
+of 18 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length - motif 1 includes the region encoded by PROSITE 
+pattern  XYLOSE_ISOMERASE_1 (PS00172), which includes a conserved His
+residue known to be involved in the catalytic mechanism of the enzyme [3];
+and motif 6 includes the short conserved region encoded by PROSITE pattern
+XYLOSE_ISOMERASE_2 (PS00173), which contains both a glutamic acid residue
+that binds magnesium and a lysine involved with the enzyme catalytic
+activity [2]. Two iterations on OWL29.2 were required to reach convergence,
+at which point a true set comprising 35 sequences was identified. A single
+partial match was also found, ECDXI11, a xylose isomerase fragment from
+E.coli.
+
+An update on SPTR37_9f identified a true set of 32 sequences.

@@ -1,0 +1,87 @@
+P450
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1],
+widely distributed in bacteria, fungi, plants and animals. The enzymes
+are involved in metabolism of a plethora of both exogenous and endogenous
+compounds [2]. Usually, they act as terminal oxidases in multicomponent
+electron transfer chains, called P450-containing monooxygenase systems. 
+
+P450-containing monooxygenase systems primarily fall into 2 major classes:
+bacterial/mitochondrial (type I), and microsomal (type II). Alternatively,
+P450-containing systems can be classified according to the number of their
+protein components [3]: mitochondrial and most bacterial P450 systems have
+3 components - an FAD-containing flavoprotein (NADPH or NADH-dependent
+reductase), an iron-sulphur protein, and P450; the eukaryotic microsomal 
+P450 system contains 2 components - NADPH:P450 reductase (a flavoprotein
+containing both FAD and FMN) and P450; and a soluble monooxygenase P450BM-3
+from Bacillus megaterium exists as a single polypeptide chain with 2 
+functional parts (the haem and flavin domains), and represents a unique 
+bacterial one-component system - sequence and functional comparisons show
+that these domains are more similar to P450 and the flavoprotein of the
+microsomal 2-component P450 monooxygenase system than to the relevant
+proteins of the 3-component system [4].
+
+Current P450 nomenclature, based on divergent evolution of the P450 super-
+family, was proposed and developed by Nebert et al. [5]. But evolution of
+P450s is not restricted to phylogeny; phylogenetic analysis can only be
+applied to certain groups of orthologous genes (e.g. CYP1A1, 1A2, 2E1, 7,
+11A1, 11B1, 17, 19, 21A1, 27 and 51). Some P450 gene clusters (e.g. the
+mammalian CYP1A1 and CYP1A2, rat CYP2D cluster, house fly CYP6A and CYP6C 
+gene clusters, CYP13A cluster in Caenorhabditis elegans) have seemingly 
+appeared via gene duplication events and should be considered paralogous.
+In P450 gene subfamilies such as CYP2A, 2B, 2C, 2D, 3A, 4A and 52A, which,
+presumably, have arisen through numerous species-specific gene duplication
+and conversion events, orthologue assignments are impossible. This kind of
+evolution can be concerned with intraspecific specialisation. Gene fusion
+events can lead to the appearance of a one-component P450 system. It has
+been hypothesised that the Fusarium oxysporum P450nor (CYP55) gene is a
+xenologous gene of prokaryotic origin [6]. Another example of a much more
+ancient horizontal gene transfer event could be the integration of former
+mitochondrial genes (families CYP11 and CYP27) into the nuclear genome.
+Finally, convergent evolution cannot be ignored, such as witnessed in the
+membrane-binding anchors or in the substrate-binding sites of P450 enzymes
+from the different families, which have similar substrate specificity. 
+
+On the basis of sequence similarity, all P450s can be categorised into 2
+main groups, the so-called B- and E-classes: P450 proteins of prokaryotic
+3-component systems and fungal P450nor (CYP55) belong to the B-class; all
+other known P450s from distinct systems are of the E-class. The data
+suggest that divergence of the P450 superfamily into B- and E-classes, and
+further divergence into stable P450 groups within the E-class, must be very
+ancient and had occured before the appearance of eukaryotes. 
+
+The 3D structures of several P450s have now been reported (P450cam [7],
+the P450 domain of P450BM-3 [8], P450terp [9] and P450eryF [10]). The P450
+molecule is an alpha/beta protein, shaped like a triangular prism; the
+overall structure can be roughly divided into alpha-rich ('right side') and
+beta-rich ('left side') domains [7-10]. However, this division appears to
+be artificial since the alpha- and beta-rich domains comprise discontinuous
+assemblies of secondary structure segments and do not constitute independent
+folding units. Although the sequence identity between any 2 P450s with known
+3D structure reaches only 20% or less, the overall topology of the proteins
+is similar, with some differences in the orientations of various helices.
+The most dramatic variations between P450 structures are found in regions
+responsible for substrate binding and access. 
+
+The uneven distribution of the various P450 genes in living organisms,
+coupled with disparate efforts on genome sequencing, causes serious bias
+problems: e.g., there are 48 CYP genes in rat, 3 genes in S.cerevisiae, and
+a unique P450 in B.subtilis; the CYP2C subfamily contains more than 30 P450
+genes, while P450cam is the only representative of the CYP101 family. 
+
+P450 is a 5-element fingerprint that provides a signature for the P450
+superfamily. The fingerprint was derived from an initial alignment of 59
+sequences: the motifs were drawn from conserved regions within the 'helix-
+rich' domain - motif 1 spans the major part of the I helix, which is
+proposed to be central to the catalytic function of P450s (residues of this
+helix are involved in substrate binding and are thought to play a role in
+proton delivery and dioxygen binding [7]); motifs 2 and 3 correspond to
+the well-conserved J and K helices, respectively; motifs 4 and 5 are
+adjacent, spanning the invariant Cys residue that provides the haem iron
+thiolate ligand (cf. PROSITE pattern CYTOCHROME_P450) - motif 5 spans the
+N-terminus of the L helix. Four iterations on OWL26.0 were required to
+reach convergence, at which point a true set comprising 354 sequences was
+identified. Several partial matches were also found - most of those
+matching only 2 motifs are noise. 
+
+An update on SPTR37_9f identified a true set of 443 sequences, and 271
+partial matches.

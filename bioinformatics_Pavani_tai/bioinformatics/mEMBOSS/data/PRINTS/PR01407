@@ -1,0 +1,30 @@
+BUTYPHLNCDUF
+Several proteins that contain RING fingers also contain a well-conserved
+40-residue cysteine-rich domain termed a B-box zinc finger. Often, one or 
+two copies of the B-box are associated with a coiled coil domain in addition
+to the ring finger, forming a tripartite motif. The tripartite motif is 
+found in transcription factors, ribonucleoproteins and proto-oncoproteins,
+but no function has yet been ascribed to the domain [1]. 
+
+The solution structure of the B-box motif has been determined by NMR [2]. 
+The protein is a monomer, with 2 beta-strands, 2 helical turns and 3
+extended loop regions packed in a novel topology [2]. Of 7 potential zinc
+ligands, only 4 are used, binding a single zinc atom in a C2-H2 tetrahedral 
+arrangement [2]. The B-box structure differs in tertiary fold from all
+other known zinc-binding motifs.
+
+A group of proteins that contain the B-box motif also host a well conserved
+domain of unknown function (DUF). Proteins that include this domain are,
+e.g.: butyrophilin, the RET finger protein, the 52kDa Ro protein and the
+Xenopus nuclear factor protein. The C-terminal portion of this region has
+been termed the SPRY domain (after SPla and the RYanodine Receptor) [1].
+
+BUTYPHLNCDUF is a 6-element fingerprint that provides a signature for the
+butyrophilin C-terminal domain and related proteins. The fingerprint was
+derived from an initial alignment of 7 proteins: the motifs were drawn from
+short conserved regions spanning the C-terminal portion of the alignment -
+motifs 1-3 lie N-terminal to the SPRY domain, and motifs 4-6 reside within
+it. Five iterations on SPTR37_10f were required to reach convergence, at
+which point a true set comprising 26 sequences was identified. Several
+partial matches were also found, all of which are related DNA-binding
+proteins that fail to match one or more motifs.

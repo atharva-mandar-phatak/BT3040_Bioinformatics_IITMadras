@@ -1,0 +1,71 @@
+*********************************************
+* Zinc finger ZZ-type signature and profile *
+*********************************************
+
+The  putative  ZZ  zinc finger, was first identified in the Dystrophin gene, a
+427 kDa protein, involved in the Duchenne muscular dystrophy (DMD). This motif
+is  also  present  in  the  adaptor proteins CBP and P300 in a region known to
+interact  with  YY1,  E1A  and TFIIB, which suggest a possible protein binding
+function  for this domain [1]. It is closely related to the B-box zinc finger,
+(see <PDOC50119>)  however  B-box  do  not contain  the Asp-Tyr-Asp-Leu  motif
+present in most of the ZZ zinc fingers [2].
+
+Some of the proteins containing this domain are listed below:
+
+ - Mammalian CBP  and  the  related  protein p300. Large nuclear proteins that
+   interact with transcriptional activators and repressors.
+ - Mammalian  dystrophin,    a   multidomain cytoskeletal protein. Its longest
+   alternatively spliced  form consists of an N-terminal actin-binding domain,
+   followed by  24  spectrin-like  repeats,  a  cysteine-rich  calcium-binding
+   domain  and a C-terminal  globular domain. Dystrophin form tetramers and is
+   thought to  have  multiple  functions  including  involvement  in  membrane
+   stability, transduction   of   contractile   forces  to  the  extracellular
+   environment and  organization of membrane specialization. Mutations in  the
+   dystrophin gene lead to muscular dystrophy of Duchenne or Becker type.
+ - Human   dystrophin  related  protein  2.  Possibly  involved  in  membrane-
+   cytosqueleton interactions in the central nervous system.
+ - Utrophin, a dystrophin-like protein of unknown function.
+ - Drosophila  Ref(2)P protein. Implicated in sigma rhabdovirus multiplication
+   and necessary for male fertility.
+ - Prt1  of Arabidopsis  thaliana. Encodes a component of the plant N-end rule
+   pathway [3].
+
+The  ZZ  zinc  finger  contains  7 positions able to coordinate one zinc atom,
+among them  only  4  are completely conserved. Our pattern is based on these 4
+positions. We have also developed a profile that spans the whole domain.
+
+-Consensus pattern: C-x(2)-C-x(4,8)-[RHDGSCV]-[YWFMVIL]-x-[CS]-x(2,5)-[CHEQ]-
+                    x-[DNSAGE]-[YFVLI]-x-[LIVFM]-C-x(2)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Giles R.H., Peters D.J., Breuning M.H.
+     "Conjunction dysfunction: CBP/p300 in human disease."
+     Trends Genet. 14:178-183(1998).
+     PubMed=9613201
+[ 2] Ponting C.P., Blake D.J., Davies K.E., Kendrick-Jones J., Winder S.J.
+     "ZZ and TAZ: new putative zinc fingers in dystrophin and other
+     proteins."
+     Trends Biochem. Sci. 21:11-13(1996).
+     PubMed=8848831
+[ 3] Potuschak T., Stary S., Schlogelhofer P., Becker F., Nejinskaia V.,
+     Bachmair A.
+     "PRT1 of Arabidopsis thaliana encodes a component of the plant N-end
+     rule pathway."
+     Proc. Natl. Acad. Sci. U.S.A. 95:7904-7908(1998).
+     PubMed=9653113
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

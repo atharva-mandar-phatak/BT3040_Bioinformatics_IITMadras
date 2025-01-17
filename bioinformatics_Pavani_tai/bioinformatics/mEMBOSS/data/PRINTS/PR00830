@@ -1,0 +1,57 @@
+ENDOLAPTASE
+Proteolytic enzymes that use serine in their catalytic machinery are 
+widespread and numerous, being found in viruses, bacteria and eukaryotes
+[1]. They encompass a range of peptidase activity, including exopeptidase,
+endopeptidase, oligopeptidase and omega-peptidase. More than 20 serine
+protease families (denoted S1 - S27) have been identified, which have been
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+and functional similarities [1]. Structures from four clans have been
+examined (SA, SB, SC and SE): these appear to be unrelated, suggesting at 
+least four evolutionary origins of serine peptidase, and possibly many more
+[1]. Since that examination, structural representations from the other two 
+clan members (SF, SG) have been determined [3].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Endopeptidase La (Lon) proteins belong to the S16 family of the ATP-dependent
+endopeptidase (SG) clan [1,3]. The active site contains a conserved serine
+residue, by contrast with the active site of the only other clan member,
+ClpP endopeptidase (S16), which contains catalytic serine and histidine
+residues [1]. There are no sequence similarities around the active sites of
+these two clan members [1]. 
+
+Lon (La) protease was the first ATP-dependent protease to be purified from
+E.coli [4-7]. The enzyme is a homotetramer of 87kDa subunits, with one 
+proteolytic and one ATP-binding site per monomer, making it structurally
+less complex than other known ATP-dependent proteases [5]. Despite this
+relative structural simplicity, Lon recognises its substrates directly,
+without delegating the task of substrate recognition to other enzymes [5].
+By contrast, ClpP endopeptidases are multimeric assemblies of two different
+types of subunit, one of which has ATPase activity, and the other has
+proteolytic activity [4].
+
+ENDOLAPTASE is a 5-element fingerprint that provides a signature for the
+endopeptidase La ATP dependent (S14) family of serine proteases. The
+fingerprint was derived from an initial alignment of 7 sequences: the motifs
+were drawn from conserved regions spanning the C-terminal half of the
+alignment - motif 1 includes the region encoded by PROSITE pattern ATP_GTP_A
+(PS00017), which describes the ATP binding site; and motif 3 includes the
+region encoded by PROSITE pattern LON_SER (PS01046), which describes the
+serine active site. Two iterations on OWL30.1 were required to reach
+convergence, at which point a true set comprising 35 sequences was
+identified. Three partial matches were also found: S77765 is an endopeptidase
+La fragment that matches motifs 4 and 5; LONH_HAEIN lacks the ATP binding
+domain, and matches motifs 3 and 4 only; and CEC06C37 is a translated
+sequence from the C.elegans genome project that matches motifs 4 and 5.
+
+An update on SPTR37_9f identified a true set of 39 sequences, and 10
+partial matches.

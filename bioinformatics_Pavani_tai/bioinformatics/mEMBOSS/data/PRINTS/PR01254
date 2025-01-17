@@ -1,0 +1,73 @@
+PGNDSYNTHASE
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Glutathione-independent prostaglandin D (PGD2) synthase (EC 5.3.99.2) is the
+main factor involved in synthesis of PGD2 in the brain, accounting for over
+90% of activity in the rat; it is responsible for catalysing the conversion
+of PGH2 into PGD2 in the presence of various thiol compounds [5,6]. PGD2 is
+a major prostaglandin in mammalian brains, functioning in the central 
+nervous system as both a neuromodulator and a trophic factor. The enzymic
+activity of PGD synthase makes it unique among the lipocalins. It is 
+localised in the choroid plexus, meninges and oligodendrocytes, but is also 
+a major component of cerebrospinal fiuid. Immunocytochemistry indicates that
+the protein is associated with the rough endoplasmic reticulum and the outer
+nuclear membranes of rat oligodendrocytes, and seems to be a peripheral 
+membrane protein easily dissociated by detergents.
+
+A near homologue of PGD2 synthase has been identified in cane-toad (Bufo 
+marinus) choroid plexus, where it is the most abundant protein secreted into
+the cerebrospinal fluid [7]. It is also found in other areas of the brain,
+albeit at much lower levels, and is expressed throughout amphibian 
+metamorphosis. The choroid plexus helps form the barrier between blood and 
+cerebrospinal fluid, and it has been suggested that this lipocalin may help 
+transport lipophilic molecules across the blood/brain barrier.
+
+The PGD2 syhnthase homologue cpl-1 is expressed in the early neural plate of
+Xenopus laevis embryos and the adult choroid plexus [8]. In AtT20 cells, 
+cpl-1 is secreted via the constitutive secretory pathway. The protein was 
+found to bind retinal at nanomolar concentration, retinoic acid at
+micromolar concentration, but shows no retinol binding. It also binds 
+thyroxine. Cpl1 is thought to bind retinaldehyde during its transport
+through secretory pathway compartments. It has been suggested that the
+protein is an integral member of the retinoid signalling pathway and plays
+a key role in early embryo pattern formation.
+
+PGNDSYNTHASE is a 6-element fingerprint that provides a signature for the 
+prostagladin D synthases. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 covers the N-terminal
+310 helix and strand A, which includes the region encoded by PROSITE pattern
+LIPOCALIN (PS00213) and corresponds to motif 1 of the LIPOCALIN fingerprint;
+motif 2 encodes the end of the large loop L1 and the second beta-strand; 
+motif 3 spans strands 2 and 3; motif 4, which spans the C-terminus of
+strand 6 and strand 7, corresponds to the second LIPOCALIN motif; motif 5,
+which spans strand 8 and the N-terminus of the main C-terminal alpha helix, is similar 
+corresponds to the third LIPOCALIN motif; and motif 6 spans the end of the
+C-terminal helix and also includes the short beta-strand 9. Two iterations
+on SPRT37_10f were required to reach convergence, at which point a true set
+comprising 12 sequences was identified.

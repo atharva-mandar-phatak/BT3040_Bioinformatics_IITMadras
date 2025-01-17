@@ -1,0 +1,52 @@
+MHCCLASSI
+Major Histocompatibility Complex (MHC) superfamily molecules are hetero-
+dimeric cell surface receptors that function to present antigen peptide
+fragments to T cells responsible for cell-mediated immune responses. MHC
+molecules can be subdivided into two groups on the basis of structure and
+function: class I molecules present intracellular antigen peptide fragments 
+(~10 amino acids) on the surface of the host cells to cytotoxic T cells; 
+class II molecules present exogenously derived antigenic peptides (~15 amino
+acids) to helper T cells. MHC class I and II molecules are assembled and
+loaded with their peptide ligands via different mechanisms. However, both
+present T cells with antigen peptides for recognition and subsequent host
+cell degradation.
+
+Class I molecules are expressed on the surface of all somatic nucleated
+cells, with the exception of neurons. Cytotoxic T cell receptors (TCR) are
+able to recognise peptides, but only when they are complexed with MHC I
+molecules on the surface of the host cell. Antigen peptide fragments are
+generated within the cytosol of the host cell by the proteosome. These
+peptides are then translocated from the cytoplasm to the rough endoplasmic
+reticulum (RER) by the transporter of antigenic peptide (TAP) protein.
+Inside the RER, some of these peptides bind to the MHC class I protein,
+resulting in a change in conformation [1]. This allows for the association 
+of beta-2 microglobulin, without which the MHC molecule would destabilise
+and not be expressed on the cell surface.
+
+MHC class I molecules comprise two chains [2]: the alpha chain consists
+of three extracellular domains (alpha 1-3, alpha-1 being closest to the 
+N-terminus and alpha-3 closest to the membrane), a  transmembrane region 
+and a C-terminal cytoplasmic tail; the soluble extracellular beta-2
+microglobulin chain associates primarily with the alpha-3 domain and is
+necessary for MHC stability. A deep groove exists between the alpha-1 and
+alpha-2 domains, which binds peptides in order to display them to the TCR.
+
+The crystal structure of human major histocompatibility complex class I B
+allele HLA B*3501 complexed with the 8-mer peptide epitope HIV1 Nef 75-82 
+(VPLRPMTY) has been determined to 2.0A resolution [3]. The structure 
+exhibits a novel conformation of the peptide within the binding groove [3].
+Comparison with crystal structures of closely related alleles reveals
+significant differences at both N- and C-termini, indicating a strong 
+interdependence between the HLA class I molecule and the bound peptide [4].
+
+MHCCLASSI is a 4-element fingerprint that provides a signature for the MHC
+class I alpha chain. The fingerprint was derived from an initial alignment
+of 17 sequences: the motifs were drawn from conserved regions spanning the
+N-terminal half of the alignment - motif 1, which lies in the extracellular
+alpha-1 domain, encodes alpha-helix 2; and motifs 2-4, which span the 
+extracellular alpha-2 domain, encode beta-strand 5, strand 6, and the 
+C-terminus of helix 4 and helix 5, respectively. Seven iterations on 
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 671 sequences was identified. Several partial matches were also
+found, all of which are MHC class I and related proteins (including splice 
+variants) that fail to make significant matches with one or more motifs.

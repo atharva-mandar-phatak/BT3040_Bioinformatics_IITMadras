@@ -1,0 +1,39 @@
+**************************************************
+* Phosphoribosylglycinamide synthetase signature *
+**************************************************
+
+Phosphoribosylglycinamide synthetase (EC 6.3.4.13) (GARS) (phosphoribosylamine
+glycine ligase) [1] catalyzes  the second step in  the de novo biosynthesis of
+purine, the  ATP-dependent  addition  of  5-phosphoribosylamine  to glycine to
+form 5'phosphoribosylglycinamide.
+
+In bacteria GARS is a  monofunctional  enzyme  (encoded by  the purD gene), in
+yeast it  is  part, with phosphoribosylformylglycinamidine cyclo-ligase (AIRS)
+of a bifunctional enzyme (encoded by the ADE5,7 gene), in higher eukaryotes it
+is part, with AIRS and with phosphoribosylglycinamide formyltransferase (GART)
+of a trifunctional enzyme (GARS-AIRS-GART).
+
+The sequence of GARS is well conserved.   As a signature pattern we selected a
+highly conserved octapeptide.
+
+-Consensus pattern: R-[LF]-G-D-P-E-x-[EQIM]
+-Sequences known to belong to this class detected by the pattern: ALL,  with a
+ few exceptions.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Aiba A., Mizobuchi K.
+     "Nucleotide sequence analysis of genes purH and purD involved in the
+     de novo purine nucleotide biosynthesis of Escherichia coli."
+     J. Biol. Chem. 264:21239-21246(1989).
+     PubMed=2687276
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

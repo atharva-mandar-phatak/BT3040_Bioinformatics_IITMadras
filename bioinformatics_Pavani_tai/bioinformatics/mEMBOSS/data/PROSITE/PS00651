@@ -1,0 +1,41 @@
+**********************************
+* Ribosomal protein L9 signature *
+**********************************
+
+Ribosomal protein L9 is one  of the proteins from the large ribosomal subunit.
+In Escherichia coli, L9 is known to bind directly to the 23S rRNA.  It belongs
+to a family of ribosomal proteins which, on the basis of sequence similarities
+[1,2], groups:
+
+ - Eubacterial L9.
+ - Cyanobacterial L9.
+ - Plant chloroplast L9 (nuclear-encoded).
+ - Red algal chloroplast L9.
+
+As a signature pattern, we have selected a conserved region, located in the N-
+terminal section of these proteins.
+
+-Consensus pattern: G-x(2)-[GNF]-x(4)-[VAI]-x(2)-G-[FY]-x(2)-[NH]-[FYWL]-L-
+                    x(5)-[GA]-x(3)-[STNG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Hoffman D.W., Davies C., Gerchman S.E., Kycia J.H., Porter S.J.,
+     White S.W., Ramakrishnan V.
+     "Crystal structure of prokaryotic ribosomal protein L9: a bi-lobed
+     RNA-binding protein."
+     EMBO J. 13:205-212(1994).
+     PubMed=8306963;
+[ 2] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

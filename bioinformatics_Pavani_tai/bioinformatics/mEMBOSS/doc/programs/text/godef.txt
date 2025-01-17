@@ -1,0 +1,311 @@
+                                    godef
+
+
+
+Wiki
+
+   The master copies of EMBOSS documentation are available at
+   http://emboss.open-bio.org/wiki/Appdocs on the EMBOSS Wiki.
+
+   Please help by correcting and extending the Wiki pages.
+
+Function
+
+   Find GO ontology terms by definition
+
+Description
+
+   godef searches the definition of gene ontology terms and returns
+   matching terms. The input is read from the installed GO database. The
+   ontology term output can be written to screen, to file, or passed to
+   another program. A wide range of standard ontology term formats may be
+   specified for input and output.
+
+   Optionally the search can be restricted to specified GO namespaces.
+
+Usage
+
+   Here is a sample session with godef
+
+
+% godef glycoprotein
+Find GO ontology terms by definition
+Obo output file [godef.obo]:
+
+
+   Go to the output files for this example
+
+Command line arguments
+
+Find GO ontology terms by definition
+Version: EMBOSS:6.5.0.0
+
+   Standard (Mandatory) qualifiers:
+  [-query]             string     Definition word(s) to search for in ontology
+                                  (Any string)
+  [-outfile]           outobo     [*.godef] Output ontology term file name
+
+   Additional (Optional) qualifiers:
+   -namespace          menu       [*] By default all terms are returned.
+                                  Searches can be limited to one or a few
+                                  namespaces. (Values: biological_process
+                                  (Biological process); cellular_component
+                                  (Cellular component); molecular_function
+                                  (Molecular function))
+
+   Advanced (Unprompted) qualifiers:
+   -subclasses         boolean    [N] Extend the query matches to include all
+                                  terms which are specialisations (GO
+                                  sub-classes) of the matched type.
+   -obsolete           boolean    [N] The default behaviour is to not use or
+                                  return obsolete terms. This option if set
+                                  will include all terms.
+
+   Associated qualifiers:
+
+   "-outfile" associated qualifiers
+   -odirectory2        string     Output directory
+   -oformat2           string     Ontology term output format
+
+   General qualifiers:
+   -auto               boolean    Turn off prompts
+   -stdout             boolean    Write first file to standard output
+   -filter             boolean    Read first file from standard input, write
+                                  first file to standard output
+   -options            boolean    Prompt for standard and additional values
+   -debug              boolean    Write debug output to program.dbg
+   -verbose            boolean    Report some/full command line options
+   -help               boolean    Report command line options and exit. More
+                                  information on associated and general
+                                  qualifiers can be found with -help -verbose
+   -warning            boolean    Report warnings
+   -error              boolean    Report errors
+   -fatal              boolean    Report fatal errors
+   -die                boolean    Report dying program messages
+   -version            boolean    Report version number and exit
+
+
+Input file format
+
+   godef queries the gene ontology.
+
+Output file format
+
+   The output is a standard EMBOSS ontology term file.
+
+   The results can be output in one of several styles by using the
+   command-line qualifier -oformat xxx, where 'xxx' is replaced by the
+   name of the required format. The available format names are: obo,
+   brief, list, html, xml, json, excel.
+
+   See: http://emboss.sf.net/docs/themes/OntologyFormats.html for further
+   information on ontology formats.
+
+  Output files for usage example
+
+  File: godef.obo
+
+[Term]
+id: GO:0060388
+name: vitelline envelope
+namespace: cellular_component
+def: A glycoprotein-based structure that lies outside the plasma membrane and su
+rrounds the egg before fertilization.
+synonym: "fertilization membrane" RELATED []
+is_a: GO:0035805 ! egg coat
+
+[Term]
+id: GO:0051541
+name: elastin metabolic process
+namespace: biological_process
+def: The chemical reactions and pathways involving elastin, a glycoprotein which
+ is randomly coiled and crosslinked to form elastic fibers that are found in con
+nective tissue.
+synonym: "elastin metabolism" EXACT []
+is_a: GO:0009100 ! glycoprotein metabolic process
+
+[Term]
+id: GO:0050698
+name: proteoglycan sulfotransferase activity
+namespace: molecular_function
+def: Catalysis of the reaction: 3'-phosphoadenosine 5'-phosphosulfate + proteogl
+ycan = adenosine 3',5'-bisphosphate + proteoglycan sulfate. A proteoglycan is a
+glycoprotein whose carbohydrate units are glycosaminoglycans.
+synonym: "proteoglycan sulfate transfer" RELATED []
+synonym: "proteoglycan sulphotransferase activity" EXACT []
+xref: EC:2.8.2.-
+is_a: GO:0008146 ! sulfotransferase activity
+
+[Term]
+id: GO:0050654
+name: chondroitin sulfate proteoglycan metabolic process
+namespace: biological_process
+def: The chemical reactions and pathways involving chondroitin sulfate proteogly
+can, any glycoprotein whose glycosaminoglycan units are chondroitin sulfate. Cho
+ndroitin sulfates are a group of 10-60 kDa glycosaminoglycans, widely distribute
+d in cartilage and other mammalian connective tissues; the repeat units consist
+of beta-(1,4)-linked D-glucuronyl beta-(1,3)-N-acetyl-D-galactosamine sulfate.
+subset: gosubset_prok
+synonym: "chondroitin sulfate proteoglycan metabolism" EXACT []
+synonym: "chondroitin sulphate proteoglycan metabolic process" EXACT []
+synonym: "chondroitin sulphate proteoglycan metabolism" EXACT []
+is_a: GO:0006029 ! proteoglycan metabolic process
+is_a: GO:0006790 ! sulfur compound metabolic process
+
+[Term]
+id: GO:0050651
+name: dermatan sulfate proteoglycan biosynthetic process
+namespace: biological_process
+def: The chemical reactions and pathways resulting in the formation of dermatan
+sulfate proteoglycan, any glycoprotein whose glycosaminoglycan units are dermata
+n sulfate (chondroitin sulfate B). Dermatan sulfate is a glycosaminoglycan with
+repeats consisting of beta-(1,4)-linked L-iduronyl-beta-(1,3)-N-acetyl-D-galacto
+samine 4-sulfate units.
+subset: gosubset_prok
+synonym: "chondroitin sulfate B proteoglycan biosynthesis" EXACT []
+synonym: "chondroitin sulfate B proteoglycan biosynthetic process" EXACT []
+synonym: "dermatan sulfate proteoglycan anabolism" EXACT []
+synonym: "dermatan sulfate proteoglycan biosynthesis" EXACT []
+synonym: "dermatan sulfate proteoglycan formation" EXACT []
+synonym: "dermatan sulfate proteoglycan synthesis" EXACT []
+
+
+  [Part of this file has been deleted for brevity]
+
+namespace: biological_process
+def: The chemical reactions and pathways involving a cell wall arabinogalactan I
+I glycoprotein, which is composed of a group of core protein of highly varying l
+ength and domain complexity. These are O-glycosylated at one or more hydroxyprol
+ine residues by arabinogalactan (AG) type II groups, which consist of (1->3)-bet
+a-galactan and (1->6)-beta-linked galactan chains connected to each other by (1-
+>3,1->6)-linked branch points, O-3 and O-6 positions substituted with terminal a
+rabinosyl residues. Also, rhamnose, fucose, glucuronic and galacturonic acid can
+ be present in the glycan structures.
+synonym: "arabinogalactan protein metabolism" EXACT []
+is_a: GO:0010404 ! cell wall hydroxyproline-rich glycoprotein metabolic process
+
+[Term]
+id: GO:0070051
+name: fibrinogen binding
+namespace: molecular_function
+def: Interacting selectively and non-covalently with fibrinogen, a highly solubl
+e hexameric glycoprotein complex that is found in blood plasma and is converted
+to fibrin by thrombin in the coagulation cascade.
+is_a: GO:0032403 ! protein complex binding
+
+[Term]
+id: GO:0047965
+name: glycoprotein O-fatty-acyltransferase activity
+namespace: molecular_function
+def: Catalysis of the reaction: palmitoyl-CoA + mucus glycoprotein = CoA + O-pal
+mitoylglycoprotein.
+synonym: "fatty-acyl-CoA:mucus-glycoprotein fatty-acyltransferase activity" EXAC
+T [EC:2.3.1.142]
+synonym: "protein acyltransferase activity" EXACT [EC:2.3.1.142]
+xref: EC:2.3.1.142
+xref: MetaCyc:GLYCOPROTEIN-O-FATTY-ACYLTRANSFERASE-RXN
+is_a: GO:0016416 ! O-palmitoyltransferase activity
+
+[Term]
+id: GO:0038026
+name: reelin-mediated signaling pathway
+namespace: biological_process
+def: A series of molecular signals initiated by the binding of reelin (a secrete
+d glycoprotein) to a receptor on the surface of a target cell, and ending with r
+egulation of a downstream cellular process, e.g. transcription.
+synonym: "reeler-mediated signaling pathway" EXACT [GOC:bf, PR:000013879]
+synonym: "reelin-mediated signal transduction pathway" EXACT [GOC:bf]
+synonym: "reelin-mediated signalling pathway" EXACT [GOC:bf]
+is_a: GO:0007166 ! cell surface receptor signaling pathway
+
+[Term]
+id: GO:0033947
+name: mannosylglycoprotein endo-beta-mannosidase activity
+namespace: molecular_function
+def: Catalysis of the hydrolysis of the alpha-D-mannosyl-(1->6)-beta-D-mannosyl-
+(1->4)-beta-D-N-acetylglucosaminyl-(1->4)-beta-D-N-acetylglucosaminyl sequence o
+f glycoprotein to alpha-D-mannosyl-(1->6)-D-mannose and beta-D-N-acetylglucosami
+nyl-(1->4)-beta-D-N-acetylglucosaminyl sequences.
+synonym: "endo-beta-mannosidase activity" EXACT [EC:3.2.1.152]
+xref: EC:3.2.1.152
+xref: MetaCyc:3.2.1.152-RXN
+is_a: GO:0004567 ! beta-mannosidase activity
+
+[Term]
+id: GO:0010404
+name: cell wall hydroxyproline-rich glycoprotein metabolic process
+namespace: biological_process
+def: The chemical reactions and pathways involving a cell wall hydroxyproline-ri
+ch glycoprotein that consist of a core-protein backbone O-glycosylated by one or
+ more complex carbohydrates.
+synonym: "cell wall hydroxyproline-rich glycoprotein metabolism" EXACT []
+is_a: GO:0010384 ! cell wall proteoglycan metabolic process
+
+
+Data files
+
+   The gene Ontology is included in EMBOSS as local database go.
+
+Notes
+
+   None.
+
+References
+
+   None.
+
+Warnings
+
+   None.
+
+Diagnostic Error Messages
+
+   None.
+
+Exit status
+
+   It always exits with status 0.
+
+Known bugs
+
+   None.
+
+See also
+
+                     Program name                        Description
+                    edamdef         Find EDAM ontology terms by definition
+                    edamhasinput    Find EDAM ontology terms by has_input relation
+                    edamhasoutput   Find EDAM ontology terms by has_output relation
+                    edamisformat    Find EDAM ontology terms by is_format_of relation
+                    edamisid        Find EDAM ontology terms by is_identifier_of relation
+                    edamname        Find EDAM ontology terms by name
+                    goname          Find GO ontology terms by name
+                    ontoget         Get ontology term(s)
+                    ontogetcommon   Get common ancestor for terms
+                    ontogetdown     Get ontology term(s) by parent id
+   ontogetobsolete  Get ontology ontology terms
+                    ontogetroot     Get ontology root terms by child identifier
+                    ontogetsibs     Get ontology term(s) by id with common parent
+                    ontogetup       Get ontology term(s) by id of child
+                    ontoisobsolete  Report whether an ontology term id is obsolete
+                    ontotext        Get ontology term(s) original full text
+
+Author(s)
+
+   Peter            Rice
+   European         Bioinformatics Institute, Wellcome Trust Genome Campus,
+   Hinxton,         Cambridge CB10 1SD, UK
+
+                    Please report all bugs to the EMBOSS bug team
+                    (emboss-bug (c) emboss.open-bio.org) not to the original author.
+
+History
+
+Target users
+
+                    This program is intended to be used by everyone and everything, from
+                    naive users to embedded scripts.
+
+Comments
+
+                    None

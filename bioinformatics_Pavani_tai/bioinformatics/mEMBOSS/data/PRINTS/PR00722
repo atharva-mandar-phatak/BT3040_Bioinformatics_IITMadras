@@ -1,0 +1,81 @@
+CHYMOTRYPSIN
+Proteolytic enzymes that exploit serine in their catalytic activity are
+ubiquitous, being found in viruses, bacteria and eukaryotes [1]. They 
+include a wide range of peptidase activity, including exopeptidase, endo-
+peptidase, oligopeptidase and omega-peptidase activity. Over 20 families
+(denoted S1 - S27) of serine protease have been identified, these being
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+similarity and other functional evidence [1]. Structures are known for four
+of the clans (SA, SB, SC and SE): these appear to be totally unrelated,
+suggesting at least four evolutionary origins of serine peptidases and
+possibly many more [1].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and 
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+The trypsin family is almost totally confined to animals, although trypsin-
+like enzymes are found in actinomycetes of the genera Streptomyces and
+Saccharopolyspora, and in the fungus Fusarium oxysporum [1]. The enzymes
+are inherently secreted, being synthesised with a signal peptide that
+targets them to the secretory pathway. Animal enzymes are either secreted
+directly, packaged into vesicles for regulated secretion, or are retained
+in leukocyte granules [1].
+
+Members of the chymotrypsin family may occasionally function intracellularly
+(for example, the intracellular digestion of bacteria in neutrophils), but
+most function extracellularly, for example in roles such as food digestion, 
+fibrinolysis and complement activation [1].
+
+The essential catalytic unit of the chymotrypsin family is around 220 
+amino acids in length, although the protein may be extended at the
+N-terminus with unrelated sequences, often containing modules. They are
+rarely extended at the C-terminus: exceptions include acrosin, complement 
+component C2, and coagulation factor X, which has a 16 residue extension
+that is removed upon activation [1]. 
+
+Proteolytic activation of the protein takes place extracellularly, or
+sometimes in storage organelles, creating a new N-terminal residue - this is
+often isoleucine, but may be leucine, valine or methionine [3]. Salivary
+plasminogen activator from vampire bat contains serine as its new N-terminal
+residue [2]. The N-terminus forms a salt-bridge with Asp-194, leading to the
+formation of the functional active site [1]. The cleaved propeptide can be 
+as small as two amino acids, but many are much larger peptides that may 
+contain modules. The cleaved peptide, not uncommonly, remains disulphide-
+bonded to the active enzyme [1].
+
+A number of non-functional proteins that have one or more of the active
+site residues substituted belong to this family, including haptoglobulin,
+azurocidin and apolipoprotein A.
+
+Actinomycete trypsins are too similar to their eukaryotic counterparts to be
+consistent with divergence 3500 million years ago when the common precursor
+of prokaryotes and eukaryotes is thought to have lived. Hartley attempted
+to explain this by suggesting a horizontal gene transfer from the higher
+organisms to bacteria [4]. However, Young et al. suggested a horizontal gene
+transfer from bacteria to higher organisms around 1300 million years ago,
+when mitochondria were introduced into eukaryotes [5]. This is thought to 
+be a more likely scenario [1].
+
+CHYMOTRYPSIN is a 3-element fingerprint that provides a signature for the 
+chymotrypsin (S1) family of serine proteases. The fingerprint was derived
+from an initial alignment of 26 sequences: the motifs were drawn from
+conserved regions around the active site - motif 1 includes the region
+encoded by PROSITE pattern TRYPSIN_HIS (PS00134), which contains the
+catalytic histidine; motif 2 contains the catalytic aspartate; and motif 3
+includes the region encoded by PROSITE pattern TRYPSIN_SER (PS00135), which
+contains the catalytic serine. Four iterations on OWL28.2 were required to
+reach convergence, at which point a true set comprising 460 sequences was
+identified. Twenty six partial matches were also found: 23 of these are
+fragments, most of which lack the first motif; 9 sequences lack the second
+motif; and 4 lack the final motif.
+
+An update on SPTR37_9f identified a true set of 450 sequences, and 77
+partial matches.

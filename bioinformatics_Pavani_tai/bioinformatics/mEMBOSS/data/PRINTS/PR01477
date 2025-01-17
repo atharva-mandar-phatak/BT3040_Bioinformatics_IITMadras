@@ -1,0 +1,66 @@
+LTB1RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Leukotrienes (LT) are potent lipid mediators derived from arachidonic acid
+metabolism. They can be divided into two classes, based on the presence or
+absence of a cysteinyl group. Leukotriene B4 (LTB4) does not contain such a
+group, whereas LTC4, LTD4, LTE4 and LTF4 are cysteinyl leukotrienes [6].
+
+LTB4 is one of the most effective chemoattractant mediators known, and is
+produced predominantly by neutrophils and macrophages. It is involved in a
+number of events, including: stimulation of leukocyte migration from the
+bloodstream; activation of neutrophils; inflammatory pain; host defense
+against infection; increased interleukin production and transcription [8].
+It is found in elevated concentrations in a number of inflammatory and
+allergic conditions, such as asthma, psoriasis, rheumatoid arthritis and
+inflammatory bowel disease, and has been implicated in the pathogenesis of
+these diseases [6,8].
+
+Binding sites for LTB4 have been observed in membrane preparations from
+leukocytes, macrophages and spleen. Two receptors for LTB4 have since been
+cloned (BLT1 and BLT2); both are members of the rhodopsin-like G protein-
+coupled receptor superfamily [7].
+
+The leukotriene B4 type 1 receptor (BLT1) has been cloned from human, mouse,
+rat and guinea pig, and was found to be identical to a previously cloned
+receptor, P2Y7 [7,9]. This receptor was originally thought to be a
+purinoceptor but is now widely accepted to bind LTB4. BLT1 has also been
+reported to act as a coreceptor for macrophage-tropic HIV1 strains [9]. BLT1
+is expressed primarily in peripheral leukocytes and peritoneal macrophages,
+with lower levels of expression detected in the spleen and thymus of humans
+[9]. Activation of the receptor by LTB4 leads to the production of inositol
+trisphosphate and an increase in intracellular calcium levels. This response
+is sensitive to pertussis toxin in some cell types. The receptor also causes
+chemotaxis and inhibition of forskolin-stimulated adenylyl cyclase activity 
+in a pertussis toxin sensitive manner. It has been demonstrated that BLT1
+can couple to Gi2 and G16 G proteins, depending on the cell type in which
+it is expressed [7].
+
+LTB1RECEPTOR is a 6-element fingerprint that provides a signature for the
+leukotriene B4 type 1 receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved sections
+within the N- and C-termini and loop regions, focusing on those areas of
+the alignment that characterise the leukotriene B4 type 1 receptors but
+distinguish them from the rest of the leukotriene B4 receptor family - motif
+1 spans the N-terminus; motif 2 encodes the first cytoplasmic loop; motif 3
+encodes the third cytoplasmic loop; motif 4 spans part of TM domain 6,
+leading into the third external loop; and motifs 5 and 6 reside within the
+C-terminus. Two iterations on SPTR39_15f were required to reach convergence,
+at which point a true set comprising 4 sequences was identified.

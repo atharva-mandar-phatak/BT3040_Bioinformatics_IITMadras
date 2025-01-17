@@ -1,0 +1,48 @@
+JANUSKINASE3
+Janus kinases (JAKs) are tyrosine kinases that function in membrane-proximal
+signalling events initiated by a variety of extracellular factors binding to
+cell surface receptors. Many type I and II cytokine receptors lack a protein
+tyrosine kinase domain and rely on JAKs to initiate the cytoplasmic signal 
+transduction cascade [1,2]. Ligand binding induces oligomerisation of the
+receptors, which then activates the cytoplasmic receptor-associated JAKs.
+These subsequently phosphorylate tyrosine residues along the receptor chains
+with which they are associated. The phosphotyrosine residues are a target
+for a variety of SH2 domain-containing transducer proteins. Amongst these
+are the signal transducers and activators of transcription (STAT) proteins,
+which, after binding to the receptor chains, are phosphorylated by the JAK
+proteins. Phosphorylation enables the STAT proteins to dimerise and
+translocate into the nucleus, where they alter the expression of cytokine-
+regulated genes. This system is known as the JAK-STAT pathway [3]
+
+Four mammalian JAK family members have been identified: JAK1, JAK2, JAK3, 
+and TYK2. They are relatively large kinases of approximately 1150 amino 
+acids, with molecular weights of ~120-130kDa. Their amino acid sequences
+are characterised by the presence of 7 highly conserved domains, termed
+JAK homology (JH) domains [4]. The C-terminal domain (JH1) is responsible 
+for the tyrosine kinase function. The next domain in the sequence (JH2) is 
+known as the tyrosine kinase-like domain, as its sequence shows high 
+similarity to functional kinases but does not possess any catalytic 
+activity [5]. Although the function of this domain is not well established,
+there is some evidence for a regulatory role on the JH1 domain, thus
+modulating catalytic activity [6]. The N-terminal portion of the JAKs 
+(spanning JH7 to JH3) is important for receptor association and 
+non-catalytic activity [7].
+
+JAK3 was initially cloned using a PCR-based strategy utilising degenerate
+primers corresponding to conserved motifs within the catalytic domain of 
+protein-tyrosine kinases [8]. By contrast with the relatively ubiquitous 
+expression of JAK1, JAK2 and TYK2, JAK3 has more restricted and regulated 
+tissue expression. It is expressed constitutively at high levels in NK cells
+and thymocytes, and is inducible in T cells, B cells and myeloid cells. JAK3
+is also expressed in vascular smooth muscle cells and endothelium [2].
+
+JANUSKINASE3 is a 4-element fingerprint that provides a signature for the
+janus kinase 3 (JAK3) proteins. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections 
+that characterise JAK3 but distinguish it from other family members - 
+motif 1 lies in the JH6 domain; motif 2 resides partially within the JH5
+domain and partially between the JH5 and JH4 domains; motif 3 lies in the 
+JH3 domain; and motif 4 resides in the JH2 tyrosine kinase-like domain. Two
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 6 sequences was identified.

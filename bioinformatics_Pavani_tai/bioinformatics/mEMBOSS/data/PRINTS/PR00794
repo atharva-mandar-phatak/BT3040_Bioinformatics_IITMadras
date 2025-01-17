@@ -1,0 +1,50 @@
+RIBONUCLEASE
+Pancreatic ribonucleases (RNAse) are pyrimidine-specific endonucleases 
+found in high quantity in the pancreas of certain mammalian taxa and of
+some reptiles [1]. Specifically, the enzymes are involved in endonucleolytic
+cleavage of 3'-phosphomononucleotides and 3'-phosphooligonucleotides ending
+in C-P or U-P with 2',3'-cyclic phosphate intermediates. Ribonuclease can
+unwind the DNA helix by complexing with single-stranded DNA; the complex
+arises by an extended multi-site cation-anion interaction between lysine
+and arginine residues of the enzyme and phosphate groups of the nucleotides.
+
+Other proteins belonging to the pancreatic RNAse family include: bovine
+seminal vesicle and brain ribonucleases; kidney non-secretory ribonucleases
+[2]; liver-type ribonucleases [3]; angiogenin, which induces vascularisation
+of normal and malignant tissues; eosinophil cationic protein [4], a
+cytotoxin and helminthotoxin with ribonuclease activity; and frog liver
+ribonuclease and frog sialic acid-binding lectin.
+
+The sequences of pancreatic RNases contain 4 conserved disulphide bonds and
+3 amino acid residues involved in the catalytic activity, as depicted
+schematically below:
+
+                        +---------------------------+
+                        |        +------------------|------+
+                        |        |                  |      |
+     xxxxx#xxxxxxCxxxxxxC#xxxxxxxCxxCxxxCxxxxxCxxxxxCxxxxxxCxxx#xxx
+                 |      ****        |   |     |
+                 |                  +---+     |
+                 +----------------------------+
+
+C denotes the positions of cysteines involved in disulphide bond formation;
+# marks active site residues. The structure of the protein has been
+determined to 1.26A resolution [5]. The fold belongs to the alpha/beta
+class, with a roll-type architecture.
+
+RIBONUCLEASE is a 4-element fingerprint that provides a signature for
+the pancreatic ribonuclease family. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 spans helix
+2 and the N-terminal portion of strand 1, and includes the region encoded
+by PROSITE pattern RNASE_PANCREATIC (PS00127), which contains residues
+involved both in the catalytic activity and in substrate binding; motif 2
+spans helices 3 and 4 and strand 2; motif 3 includes strands 3 and 4; and
+motif 4 includes strands 5 and 6. Three iterations on OWL29.4 were required
+to reach convergence, at which point a true set comprising 85 sequences was
+identified. Several partial matches were also found, all of which are
+fragments and family members that fail to make significant matches with
+one or more motifs.
+
+An update on SPTR37_9f identified a true set of 94 sequences, and 4
+partial matches.

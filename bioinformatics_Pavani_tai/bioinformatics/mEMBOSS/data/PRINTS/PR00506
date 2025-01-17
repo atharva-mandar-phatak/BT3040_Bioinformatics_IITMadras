@@ -1,0 +1,45 @@
+D21N6MTFRASE
+In prokaryotes, the major role of DNA methylation is to protect host
+DNA against degradation by restriction enzymes. There are 2 major classes
+of DNA methyltransferase that differ in the nature of the modifications 
+they effect [1]. The members of one class (C-MTases) methylate a ring
+carbon and form C5-methylcytosine (see PRINTS signature C5METTRFRASE).
+Members of the second class (N-MTases) methylate exocyclic nitrogens and
+form either N4-methylcytosine (N4-MTases) or N6-methyladenine (N6-MTases).
+Both classes of MTase utilise the cofactor S-adenosyl-L-methionine (SAM)
+as the methyl donor and are active as monomeric enzymes [1].
+
+The structure of N6-MTase TaqI (M.TaqI) has been resolved to 2.4A [2].
+The molecule folds into 2 domains: an N-terminal catalytic domain, which
+contains the catalytic and cofactor binding sites, and comprises a central
+9-stranded beta-sheet, surrounded by 5 helices; and a C-terminal DNA
+recognition domain, which is formed by 4 small beta-sheets and 8 alpha-
+helices. The N- and C-terminal domains form a cleft that accommodates the
+DNA substrate.
+
+A classification of N-MTases has been proposed, based on conserved motif
+(CM) arrangements [3]. According to this classification, N6-MTases that
+have a DPPY motif (CM II) occuring before the FxGxG motif (CM I) are
+designated D21 class N6-adenine MTases.
+
+D21N6MTFRASE is a 4-element fingerprint that provides a signature for the
+D21 class N6-adenine MTases. The fingerprint was derived from an initial
+alignment of 13 sequences. The motifs were drawn from the conserved
+regions used by Timinskas et al. [3] in their DNA MTase classification:
+the motifs correspond to CM II, III, Is and I, respectively - motif 1,
+which contains the N-MTase-specific tetrapeptide DPPY (cf. PROSITE pattern
+N6_MTASE), is important for methylation; and motif 4, which contains the
+FxGxG pattern, forms part of the cofactor (SAM) binding site [4]. Three
+iterations on OWL27.1 were required to reach convergence, at which point a 
+true set comprising 22 sequences was identified. Several partial matches
+were also found: S53866 is a phage HP1 cytosine MTase (M.PhiHII) that fails
+to match motif 3; MTC9_CITFR (M.Cfr9I), MTC1_CITFR (M.CfrBI) and MTX1_XANCC
+(XcyI) fail to match motif 1 and belong to the S21 class N4-cytosine MTases;
+MTB2_BACAM (M.BamHII) and MTP2_PROVU (M.PvuII), which match motifs 3 and 4,
+and MTSM_SERMA (M.SmaI), which match motifs 2 and 4, also belong to the S21
+class N4-cytosine MTases; MTB3_BACAR, BAMBAN111 (M.BanIII), MTB1_BACST
+(M.BseCI), MTTA_THEAQ and TATAQI (M.TaqI), which match motifs 1 and 2, are
+N12 class N6-adenine MTases, with CM I occuring before the CM II. 
+
+An update on SPTR37_9f identified a true set of 54 sequences, and 12
+partial matches.

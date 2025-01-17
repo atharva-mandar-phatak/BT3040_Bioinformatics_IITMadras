@@ -1,0 +1,22 @@
+CYCLINKINASE
+In eukaryotes, cyclin-dependent protein kinases interact with cyclins to
+regulate cell cycle progression, and are required for the G1 and G2 stages
+of cell division [1]. The proteins bind to a regulatory subunit (cyclin-
+dependent kinase regulatory subunit, or CKS), which is essential for their
+function [2]. The regulatory subunits exist as hexamers, formed by the
+symmetrical assembly of 3 interlocked homodimers, creating an unusual
+12-stranded beta-barrel structure [2]. Through the barrel centre runs a
+12A diameter tunnel, lined by 6 exposed helix pairs [3]. Six kinase units
+can be modelled to bind the hexameric structure, which may thus act as a
+hub for cyclin-dependent protein kinase multimerisation [2,3].
+
+CYCLINKINASE is a 4-element fingerprint that provides a signature for
+cyclin-dependent kinase regulatory subunits. The fingerprint was derived
+from an initial alignment of 4 sequences: the motifs were drawn from
+conserved regions encompassing virtually the full alignment length, motifs
+1, 2 and 4 spanning the regions encoded by PROSITE patterns CKS_1 (PS00944)
+and CKS_2 (PS00945). Two iterations on OWL24.0 were required to reach
+convergence, at which point a true set comprising 5 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 13 sequences.

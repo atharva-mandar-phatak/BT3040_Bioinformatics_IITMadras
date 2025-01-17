@@ -1,0 +1,53 @@
+*******************************************
+* Phytochrome chromophore attachment site *
+*******************************************
+
+Phytochrome [1,2,3] is a plant protein that acts as a regulatory photoreceptor
+and which mediates red-light effects on a  wide  variety  of physiological and
+molecular responses.    Phytochrome  can  undergo a  reversible  photochemical
+conversion between a  biologically  inactive red light-absorbing  form and the
+active far-red light-absorbing form.   Phytochrome is a dimer of identical 124
+Kd subunits, each  of which contains a covalently attached linear tetrapyrrole
+chromophore.
+
+The chromophore  is  attached  to  a  cysteine  which  is  located in a highly
+conserved region that can be used as a signature pattern.
+
+Synechocystis strain  PCC  6803 hypothetical protein slr0473 contains a domain
+similar to that of plants phytochrome and seems to also bind a chromophore.
+
+-Consensus pattern: [RGS]-[GSA]-[PV]-H-x-C-H-x(2)-Y
+                    [C is the chromophore attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for slr0473.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Partis M.D.; mickp@hotmail.com
+
+-Last update: November 1997 / Pattern and text revised; profile.
+
+[ 1] Silverthorne J., Tobin E.M.
+     BioEssays 7:18-23(1987).
+[ 2] Quail P.H.
+     "Phytochrome: a light-activated molecular switch that regulates plant
+     gene expression."
+     Annu. Rev. Genet. 25:389-409(1991).
+     PubMed=1812812; DOI=10.1146/annurev.ge.25.120191.002133
+[ 3] Quail P.H.
+     "The phytochromes: a biochemical mechanism of signaling in sight?"
+     BioEssays 19:571-579(1997).
+     PubMed=9230690
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

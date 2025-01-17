@@ -1,0 +1,37 @@
+************************************
+* Ribosomal protein L10e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Vertebrate L10 (QM) [1].
+ - Plant L10.
+ - Caenorhabditis elegans L10 (F10B5.1).
+ - Yeast L10 (QSR1).
+ - Archaebacterial L10e.
+
+These proteins have 174 to 232 amino-acid residues. As a signature pattern, we
+selected a conserved region located in the central section.
+
+-Consensus pattern: A-D-R-x(3)-[GR]-[MH]-R-x-[SAP]-[FYW]-G-[KRVTS]-[PANI]-x-
+                    [GS]-x(1,2)-A-[KRLV]-[LIVQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Chan Y.-L., Diaz J.-J., Denoroy L., Madjar J.J., Wool I.G.
+     "The primary structure of rat ribosomal protein L10: relationship to a
+     Jun-binding protein and to a putative Wilms' tumor suppressor."
+     Biochem. Biophys. Res. Commun. 225:952-956(1996).
+     PubMed=8780716
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

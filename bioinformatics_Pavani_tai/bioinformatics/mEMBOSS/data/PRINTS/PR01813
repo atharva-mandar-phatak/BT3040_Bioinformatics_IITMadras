@@ -1,0 +1,36 @@
+ANNEXINFUNGI
+The annexins (or lipocortins) are a family of proteins that bind to
+phospholipids in a calcium-dependent manner [1]. They are distributed
+ubiquitously in different tissues and cell types of higher and lower
+eukaryotes, including mammals, fish, birds, Drosophila melanogaster, Xenopus
+laevis, Caenorhabtidis elegans, Dictyostelium discoideum and Neurospora 
+crassa [2,3]. The plant annexins are somewhat distinct from those found in
+other taxa [3].
+
+Several distinct annexin subtypes exist, each of which has an amino acid
+sequence consisting of an N-terminal 'arm' followed by 4 or 8 copies of a
+conserved domain of 61 residues (only one of these residues, an arginine,
+is conserved between all copies). The calcium binding sites are found within
+the repeated domains [4]. Individual repeats (sometimes referred to as 
+endonexin folds) consist of 5 alpha-helices wound into a right-handed
+superhelix. The biological roles of some annexin subtypes is unclear; the
+family has been linked with inhibition of phospholipase activity,
+exocytosis and endoctyosis, signal transduction, organisation of the
+extracellular matrix, resistance to reactive oxygen species and DNA
+replication [2].
+
+The first fungal annexin was reported in 1998, encoded by the anx14
+gene of the filamentous ascomycete Neurospora crassa [2]. Phylogenetic
+analyses clustered the fungal annexin with homologous proteins from a
+number of animal species; this is consistent with the existence of an
+animal-fungal clade.
+
+ANNEXINFUNGI is a 5-element fingerprint that provides a signature for the
+type XIV fungal annexins. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the C-terminal half of the alignment, focusing on those sections
+that characterise fungal type XIV annexins but distinguish them from other
+closely related annexin subtypes - motifs 1 and 2 lie within the first core
+repeat; motif 3 resides within the third repeat; and motifs 4 and 5 lie
+within repeat 4. A single iteration on SPTR40_20f was required to reach
+convergence, no further sequences being identified beyond the starting set.

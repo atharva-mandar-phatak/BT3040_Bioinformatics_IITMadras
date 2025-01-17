@@ -1,0 +1,50 @@
+***********************************************
+* Prokaryotic DNA topoisomerase I active site *
+***********************************************
+
+DNA topoisomerase  I (EC 5.99.1.2) [1,2,3,4] is one of the two types of enzyme
+that catalyze   the   interconversion  of  topological  DNA  isomers.  Type  I
+topoisomerases act  by catalyzing the transient breakage of DNA, one strand at
+a time, and the subsequent rejoining of the strands. When a prokaryotic type I
+topoisomerase breaks  a DNA backbone bond, it  simultaneously forms a protein-
+DNA link  where  the hydroxyl  group  of a tyrosine residue is joined to a 5'-
+phosphate on DNA, at one end of the enzyme-severed DNA strand.
+
+Prokaryotic organisms, such as Escherichia coli, have two type I topoisomerase
+isozymes: topoisomerase  I  (gene  topA)  and  topoisomerase  III (gene topB).
+Eukaroytes also contain homologs of prokaryotic topoisomerase III.
+
+There are a  number of conserved residues in the region around the active site
+tyrosine; we used this region as a signature pattern.
+
+-Consensus pattern: [EQ]-x-L-Y-[DEQSTLM]-x(3,12)-[LIVST]-[ST]-Y-x-R-[ST]-
+                    [DEQSN]
+                    [The second Y is the active site tyrosine]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sternglanz R.
+     "DNA topoisomerases."
+     Curr. Opin. Cell Biol. 1:533-535(1989).
+     PubMed=2560656
+[ 2] Sharma A., Mondragon A.
+     "DNA topoisomerases."
+     Curr. Opin. Struct. Biol. 5:39-47(1995).
+     PubMed=7773745
+[ 3] Bjornsti M.-A.
+     Curr. Opin. Struct. Biol. 1:99-103(1991).
+[ 4] Roca J.
+     "The mechanisms of DNA topoisomerases."
+     Trends Biochem. Sci. 20:156-160(1995).
+     PubMed=7770916
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,27 @@
+NAFLGMOTY
+Energy to power the rotation of bacterial flagella can be derived from the
+proton or sodium transmembrane potential [1]. The motY gene encoding a
+component of the sodium-type flagellar motor of Vibrio parahaemolyticus has
+been cloned, and a 33kDa product identified [1]. Unlike mot genes from
+other bacteria, the locus was not an extended region with multiple motility 
+genes [1]. 
+
+To date, sequence analysis has failed to reveal significant similarity to
+known motility components. Nevertheless, the MotY C-terminus is similar
+to a number of outer membrane proteins known to interact with peptidoglycan,
+including OmpA and peptidoglycan-associated lipoproteins [1]. This suggests 
+that MotY may play the role of a stator in the sodium flagellar motor, 
+stabilising the force-generating unit through direct interaction with the 
+cell wall [1]. 
+
+NAFLGMOTY is a 13-element fingerprint that provides a signature for the
+sodium-type flagellar protein MotY. The fingerprint was derived from an 
+initial alignment of 2 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 includes the putative
+signal sequence; and motifs 10-12 span the OmpA-like domain. A single 
+iteration on OWL30.2 was required to reach convergence, no further sequences
+being identified beyond the starting set. Two partial matches were found, 
+OMPA_BORAV and YIAD_ECOLI, both of which contain C-terminal OmpA-like
+domains and hence match the C-terminal motifs.
+
+An update on SPTR37_9f identified a true set of 2 sequences.

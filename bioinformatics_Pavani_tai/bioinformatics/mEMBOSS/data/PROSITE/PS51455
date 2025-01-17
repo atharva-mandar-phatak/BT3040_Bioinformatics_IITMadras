@@ -1,0 +1,61 @@
+***************************************************************
+* Phosphatidylinositol phosphate kinase (PIPK) domain profile *
+***************************************************************
+
+Phosphoinositides (PIs)  are  central  to  signal  transduction  and  membrane
+trafficking in  all  eukaryotes.  They  are  derived from phosphatidylinositol
+(PtdIns) as the result of phosphorylation of hydroxyl groups at positions 3, 4
+or 5  of the PtdIns head group. Phosphatidylinositol phosphate kinases (PIPKs)
+phosphorylate phosphatidylinositol phosphate (PtdInsP) to phosphatidylinositol
+bisphosphate (PtdInsP2).  Three  types  of  PIPKs  are  present throughout the
+eukaryotic kingdoms.  Type  I  (PtdIns4P  5-kinase)  and  type II (PtdIns5P 4-
+kinase) generate  PtdIns(4,5)P2 from PtdIns4P and PtdIns5P, respectively. Type
+III PIPK  (PtdIns3P  5-kinases)  are distinct from the type I and II PIPKs and
+synthesize PtdIns(3,5)P2 [1,2,3].
+
+The basic structure of PIPKs shared by animals, yeast and plant PIPks consists
+of a  highly  conserved  central kinase domain and a dimerization domain. PIPK
+domains have   high  sequence  identity,  well-defined  motifs  and  conserved
+residues. They  consist  of  two  alpha+beta  subdomains (see <PDB:1BO1>]. The
+larger N-terminal  subdomain contains a seven-stranded antiparallel beta sheet
+and four   helices.   The   C-terminal   subdomain  contains  a  five-stranded
+antiparallel beta sheet and four helices [4].
+
+The profile we developed covers the entire PIPK domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2009 / First entry.
+
+[ 1] Bakthavatsalam D., Meijer H.J.G., Noegel A.A., Govers F.
+     "Novel phosphatidylinositol phosphate kinases with a G-protein coupled
+     receptor signature are shared by Dictyostelium and Phytophthora."
+     Trends Microbiol. 14:378-382(2006).
+     PubMed=16876997; DOI=10.1016/j.tim.2006.07.006
+[ 2] Heck J.N., Mellman D.L., Ling K., Sun Y., Wagoner M.P., Schill N.J.,
+     Anderson R.A.
+     "A conspicuous connection: structure defines function for the
+     phosphatidylinositol-phosphate kinase family."
+     Crit. Rev. Biochem. Mol. Biol. 42:15-39(2007).
+     PubMed=17364683; DOI=10.1080/10409230601162752
+[ 3] Saavedra L., Balbi V., Dove S.K., Hiwatashi Y., Mikami K.,
+     Sommarin M.
+     "Characterization of phosphatidylinositol phosphate kinases from the
+     moss Physcomitrella patens: PpPIPK1 and PpPIPK2."
+     Plant Cell Physiol. 50:595-609(2009).
+     PubMed=19188261; DOI=10.1093/pcp/pcp018
+[ 4] Rao V.D., Misra S., Boronenkov I.V., Anderson R.A., Hurley J.H.
+     "Structure of type IIbeta phosphatidylinositol phosphate kinase: a
+     protein kinase fold flattened for interfacial phosphorylation."
+     Cell 94:829-839(1998).
+     PubMed=9753329
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

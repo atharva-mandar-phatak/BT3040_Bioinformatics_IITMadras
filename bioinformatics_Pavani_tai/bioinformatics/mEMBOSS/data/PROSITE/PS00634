@@ -1,0 +1,52 @@
+***********************************
+* Ribosomal protein L30 signature *
+***********************************
+
+Ribosomal protein L30 is one of the proteins from the large ribosomal subunit.
+L30 belongs to a family  of ribosomal proteins which, on the basis of sequence
+similarities [1], groups:
+
+ - Eubacterial L30.
+ - Archaebacterial L30.
+ - Drosophila L7.
+ - Slime mold L7.
+ - Mammalian L7.
+ - Fungi L7 (YL8).
+ - Yeast mitochondrial L33.
+
+L30 from  eubacteria are  small  proteins   of  about  60 residues, those from
+archaebacteria are proteins of about 150 residues.  Eukaryotic L7 are proteins
+of about  250  to  270 residues.  The schematic relationship between the three
+groups of proteins is shown below.
+
+ Eub. L30                         NxxxxxxxxxxC
+ Arc. L30                         NxxxxxxxxxxxxxxxxxxxxxxxxxxxC
+ Euk. L7      NxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxC
+                                   *******
+
+'*': position of the pattern.
+
+The  signature  pattern  for  this  family of  ribosomal  proteins  spans  the
+N-terminal half of the region common to all these proteins.
+
+-Consensus pattern: [IVTAS]-[LIVM]-x(2)-[LF]-x-[LI]-x-[KRHQEG]-x(2)-[STNQH]-x-
+                    [IVTR]-x(10)-[LMSN]-[LIV]-x(2)-[LIVA]-x(2)-[LMFY]-[IVT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Mizuta K., Hashimoto T., Otaka E.
+     "Yeast ribosomal proteins: XIII. Saccharomyces cerevisiae YL8A gene,
+     interrupted with two introns, encodes a homolog of mammalian L7."
+     Nucleic Acids Res. 20:1011-1016(1992).
+     PubMed=1549461
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

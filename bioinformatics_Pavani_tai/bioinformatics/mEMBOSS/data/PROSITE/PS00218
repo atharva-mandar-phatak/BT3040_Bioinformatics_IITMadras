@@ -1,0 +1,78 @@
+**********************************
+* Amino acid permeases signature *
+**********************************
+
+Amino acid permeases are integral  membrane proteins involved in the transport
+of amino acids into the cell.  A number of such proteins have been found to be
+evolutionary related [1,2,3]. These proteins are:
+
+ - Yeast general amino acid permeases (genes GAP1, AGP2 and AGP3).
+ - Yeast basic amino acid permease (gene ALP1).
+ - Yeast Leu/Val/Ile permease (gene BAP2).
+ - Yeast arginine permease (gene CAN1).
+ - Yeast dicarboxylic amino acid permease (gene DIP5).
+ - Yeast asparagine/glutamine permease (gene AGP1).
+ - Yeast glutamine permease (gene GNP1).
+ - Yeast histidine permease (gene HIP1).
+ - Yeast lysine permease (gene LYP1).
+ - Yeast proline permease (gene PUT4).
+ - Yeast valine and tyrosine permease (gene VAL1/TAT1).
+ - Yeast tryptophan permease (gene TAT2/SCM2).
+ - Yeast choline transport protein (gene HNM1/CTR1).
+ - Yeast GABA permease (gene UGA4).
+ - Yeast hypothetical protein YKL174c.
+ - Fission yeast protein isp5.
+ - Fission yeast hypothetical protein SpAC8A4.11
+ - Fission yeast hypothetical protein SpAC11D3.08c.
+ - Emericella nidulans proline transport protein (gene prnB).
+ - Trichoderma harzianum amino acid permease INDA1.
+ - Salmonella typhimurium L-asparagine permease (gene ansP).
+ - Escherichia coli aromatic amino acid transport protein (gene aroP).
+ - Escherichia coli D-serine/D-alanine/glycine transporter (gene cycA).
+ - Escherichia coli GABA permease (gene gabP).
+ - Escherichia coli lysine-specific permease (gene lysP).
+ - Escherichia coli phenylalanine-specific permease (gene pheP).
+ - Salmonella typhimurium proline-specific permease (gene proY).
+ - Escherichia coli and Klebsiella pneumoniae hypothetical protein yeeF.
+ - Escherichia coli and Salmonella typhimurium hypothetical protein yifK.
+ - Bacillus  subtilis  permeases  rocC  and  rocE  which  probably  transports
+   arginine or ornithine.
+
+These proteins seem to contain up to 12 transmembrane segments. As a signature
+for this family of proteins we selected  the  best  conserved region  which is
+located in the second transmembrane segment.
+
+-Consensus pattern: [STAGC]-G-[PAG]-x(2,3)-[LIVMFYWA](2)-x-[LIVMFYW]-x-
+                    [LIVMFWSTAGC](2)-[STAGC]-x(3)-[LIVMFYWT]-x-[LIVMST]-x(3)-
+                    [LIVMCTA]-[GA]-E-x(5)-[PSAL]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeeF.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Weber E., Chevallier M.R., Jund R.
+     "Evolutionary relationship and secondary structure predictions in four
+     transport proteins of Saccharomyces cerevisiae."
+     J. Mol. Evol. 27:341-350(1988).
+     PubMed=3146645
+[ 2] Vandenbol M., Jauniaux J.-C., Grenson M.
+     "Nucleotide sequence of the Saccharomyces cerevisiae PUT4
+     proline-permease-encoding gene: similarities between CAN1, HIP1 and
+     PUT4 permeases."
+     Gene 83:153-159(1989).
+     PubMed=2687114
+[ 3] Reizer J., Finley K., Kakuda D., McLeod C.L., Reizer A., Saier M.H. Jr.
+     "Mammalian integral membrane receptors are homologous to facilitators
+     and antiporters of yeast, fungi, and eubacteria."
+     Protein Sci. 2:20-30(1993).
+     PubMed=8382989
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,104 @@
+***************************************************************************************************
+* Arterivirus papain-like cysteine protease alpha and beta (PCPalpha and PCPbeta) domain profiles *
+***************************************************************************************************
+
+Arteriviruses are   enveloped,   positive-stranded  RNA  viruses  and  include
+pathogens of   major   economic  concern  to  the  swine-  and  horse-breeding
+industries [E1]:
+
+  - Equine arteritis virus (EAV).
+  - Porcine reproductive and respiratory syndrome virus (PRRSV).
+  - Mice actate dehydrogenase-elevating virus.
+  - Simian hemorrhagic fever virus.
+
+The arterivirus  replicase gene is composed of two open reading frames (ORFs).
+ORF1a is  translated  directly  from  the  genomic  RNA,  whereas ORF1b can be
+expressed only  by ribosomal frameshifting, yelding a 1ab fusion protein. Both
+replicase gene   products   are   multidomain  precursor  proteins  which  are
+proteolytically processed  into  functional nonstructural proteins (nsps) by a
+complex proteolytic  cascade  that  is  directed  by four (PRRSV/LDV) or three
+(EAV) proteinase   domains   encoded   in  ORF1a.  The  arterivirus  replicase
+processing scheme  involves  the rapid autoproteolytic release of two or three
+N-terminal nsps (nsp1 (or nsp1alpha/1beta) and nsp2 (see <PDOC51538>)) and the
+subsequent processing  of  the  remaining  polyproteins by the "main protease"
+residing in  nsp4  (see  <PDOC51493>),  together  resulting  in  a  set  of 13
+or 14  individual  nsps.  The  arterivirus  nsp1  region  contains a tandem of
+papain-like cysteine  autoprotease  domains (PCPalpha and PCPbeta), but in EAV
+PCPalpha has  lost  its  enzymatic  activity,  resulting  in  the  'merge'  of
+nsp1alpha and  nsp1beta  into  a  single  nsp1 subunit. Thus, instead of three
+self-cleaving N-terminal  subunits,  EAV  has two: nsp1 and nsp2. The PCPalpha
+and PCPbeta  domains  mediate  the  nsp1alpha|1beta  and nsp1beta|2 cleavages,
+respectively. The  catalytic  dyad of PCPalpha and PCPbeta domains is composed
+of Cys  and  His  residues.  In  EAV,  a  Lys residue is found in place of the
+catalytic Cys  residue,  which  explains the proteolytic deficiency of the EAV
+PCPalpha domain  [1,2,3,4]. The PCPalpha and PCPbeta domains form respectively
+peptidase families C31 [E2] and C32 [E3].
+
+The PCPalpha and PCPbeta domains have a typical papain fold, which consists of
+a compact  global  region containing sequentially connected left (L) and right
+(R) parts  in  a  so-called  standard orientation. The L subdomain of PCPalpha
+consists of  four  alpha-helices,  while  the  R  subdomain is formed by three
+antiparallel beta strands (see <PDB:3IFU>) [5]. The L subdomain of the PCBbeta
+consists of  three  alpha-helices,  while  the  R  subdomain is formed by four
+antiparallel beta-strands  (see <PDB:3MTV>) [6]. The Cys and His residues face
+each other  at the L-R interface and form the catalytic center of the PCPalpha
+and PCPbeta domains [5,6].
+
+The profiles we developed cover the entire PCPalpha and PCPbeta domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2011 / First entry.
+
+[ 1] den Boon J.A., Faaberg K.S., Meulenberg J.J.M., Wassenaar A.L.M.,
+     Plagemann P.G.W., Gorbalenya A.E., Snijder E.J.
+     "Processing and evolution of the N-terminal region of the arterivirus
+     replicase ORF1a protein: identification of two papainlike cysteine
+     proteases."
+     J. Virol. 69:4500-4505(1995).
+     PubMed=7769711
+[ 2] Ziebuhr J., Snijder E.J., Gorbalenya A.E.
+     "Virus-encoded proteinases and proteolytic processing in the
+     Nidovirales."
+     J. Gen. Virol. 81:853-879(2000).
+     PubMed=10725411
+[ 3] Tijms M.A., van Dinten L.C., Gorbalenya A.E., Snijder E.J.
+     "A zinc finger-containing papain-like protease couples subgenomic mRNA
+     synthesis to genome translation in a positive-stranded RNA virus."
+     Proc. Natl. Acad. Sci. U.S.A. 98:1889-1894(2001).
+     PubMed=11172046; DOI=10.1073/pnas.041390398
+[ 4] Fang Y., Snijder E.J.
+     "The PRRSV replicase: exploring the multifunctionality of an
+     intriguing set of nonstructural proteins."
+     Virus Res. 154:61-76(2010).
+     PubMed=20696193; DOI=10.1016/j.virusres.2010.07.030
+[ 5] Sun Y., Xue F., Guo Y., Ma M., Hao N., Zhang X.C., Lou Z., Li X.,
+     Rao Z.
+     "Crystal structure of porcine reproductive and respiratory syndrome
+     virus leader protease Nsp1alpha."
+     J. Virol. 83:10931-10940(2009).
+     PubMed=19706710; DOI=10.1128/JVI.02579-08
+[ 6] Xue F., Sun Y., Yan L., Zhao C., Chen J., Bartlam M., Li X., Lou Z.,
+     Rao Z.
+     "The crystal structure of porcine reproductive and respiratory
+     syndrome virus nonstructural protein Nsp1beta reveals a novel
+     metal-dependent nuclease."
+     J. Virol. 84:6461-6471(2010).
+     PubMed=20410261; DOI=10.1128/JVI.00301-10
+[E1] http://www.expasy.org/viralzone/all_by_species/284.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=c31
+[E3] http://merops.sanger.ac.uk/cgi-bin/famsum?family=c32
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

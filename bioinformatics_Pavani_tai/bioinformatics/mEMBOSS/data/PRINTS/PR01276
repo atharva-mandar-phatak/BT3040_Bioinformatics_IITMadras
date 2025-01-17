@@ -1,0 +1,25 @@
+TYPE2KERATIN
+Keratins are a well known group of intermediate filament proteins. Like 
+actin filaments, keratins are flexible but provide a firm cell skeleton.
+Unlike actin, however, no known keratins are associated with motor 
+functions [1]. Approximately 10 keratins form the basis of hair or claw,
+with a further 20 found in internal body cavity epithelia. They are also
+found at desmosomes and hemi-desmosomes (cell/cell and cell/matrix contacts 
+respectively) [2].
+
+Type II keratins are the basic or neutral courterparts to the acidic type I
+keratins. Each type II keratin forms a heterodimer with a specific acidic
+keratin, and the heterodimers are organised into tetramers and then into
+chains [3]. Type II keratins consist of head-, rod- and tail-like
+structures, the rod being constructed from three linked coils: 1A, 1B and 2.
+The head and tail structures of the type 2 keratins are highly variable
+low-complexity regions.
+
+TYPE2KERATIN is a 6-element fingerprint that provides a signature for type
+II keratins. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn from conserved regions spanning the rod
+section of the alignment - motifs 1 and 2 span coil 1A, motif 2 extending
+into linker 1; motifs 3 and 4 cover coil 1B; and motifs 5 and 6 reside
+within coil 2. Three iterations on SPTR37.10f were required to reach 
+convergence, at which point a true set comprising 40 sequences was
+identified. 

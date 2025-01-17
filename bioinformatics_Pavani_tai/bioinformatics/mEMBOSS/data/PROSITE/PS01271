@@ -1,0 +1,54 @@
+*********************************************
+* Sodium:sulfate symporter family signature *
+*********************************************
+
+Integral membrane  proteins  that  mediate  the  intake  of  a wide variety of
+molecules with  the  concomitant uptake of sodium ions (sodium symporters) can
+be grouped, on the basis of sequence and functional similarities into a number
+of distinct  families.  One  of  these  families  currently  consists  of  the
+following proteins:
+
+ - Mammalian sodium/sulfate cotransporter [1].
+ - Mammalian  renal  sodium/dicarboxylate  cotransporter [2], which transports
+   succinate and citrate.
+ - Mammalian intestinal sodium/dicarboxylate cotransporter.
+ - Chlamydomonas  reinhardtii  putative  sulfur deprivation response regulator
+   SAC1 [3].
+ - Caenorhabditis  elegans hypothetical proteins B0285.6, F31F6.6, K08E5.2 and
+   R107.1.
+ - Escherichia coli hypothetical protein yfbS.
+ - Haemophilus influenzae hypothetical protein HI0608.
+ - Synechocystis strain PCC 6803 hypothetical protein sll0640.
+ - Methanococcus jannaschii hypothetical protein MJ0672.
+
+These transporters  are  proteins of  from 430 to 620  amino acids  which  are
+highly hydrophobic and which probably contain  about 12 transmembrane regions.
+As a  signature pattern, we selected a conserved region which is located in or
+near the penultimate transmembrane region.
+
+-Consensus pattern: [STACPI]-S-x(2)-[FY]-x(2)-P-[LIVM]-[GSA]-x(3)-N-x-[LIVM]-V
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Markovich D., Forgo J., Stange G., Biber J., Murer H.
+     "Expression cloning of rat renal Na+/SO4(2-) cotransport."
+     Proc. Natl. Acad. Sci. U.S.A. 90:8073-8077(1993).
+     PubMed=7690140
+[ 2] Pajor A.M.
+     Am. J. Physiol. 270:642-648(1996).
+[ 3] Davies J.P., Yildiz F.H., Grossman A.
+     "Sac1, a putative regulator that is critical for survival of
+     Chlamydomonas reinhardtii during sulfur deprivation."
+     EMBO J. 15:2150-2159(1996).
+     PubMed=8641280
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

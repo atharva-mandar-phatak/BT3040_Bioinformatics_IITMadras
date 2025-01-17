@@ -1,0 +1,44 @@
+********************************************************
+* Molybdenum cofactor biosynthesis proteins signatures *
+********************************************************
+
+Eukaroytic and  prokaryotic  molybdoenzymes  require  a molybdopterin cofactor
+(MoCF) for  their  activity.  The  biosynthesis  of  this  cofactor involves a
+complex multistep  enzymatic  pathway. One of the eukaryotic proteins involved
+in this pathway is the Drosophila protein cinnamon [1] which is highly similar
+to gephyrin, a rat microtubule-associated protein  which was thought to anchor
+the glycine  receptor  to  subsynaptic microtubules. Cinnamon and gephyrin are
+evolutionary related,  in their  N-terminal half, to the Escherichia coli MoCF
+biosynthesis proteins  mog/chlG  and moaB/chlA2 and, in their C-terminal half,
+to Escherichia coli moeA/chlE.
+
+As signature  patterns,  we selected two conserved regions: one located in the
+N-terminal half, the other in the C-terminal half.
+
+-Consensus pattern: [LIVMCA]-[LIVM](2)-[LITF]-[LITN]-G-G-T-G-x(4)-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: S-x-[GS]-x(2)-D-x(5)-[LIVW]-x(10,12)-[LIV]-x(2)-[KR]-P-G-
+                    [KRL]-P-x(2)-[LIVMF]-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kamdar K.P., Shelton M.E., Finnerty V.
+     "The Drosophila molybdenum cofactor gene cinnamon is homologous to
+     three Escherichia coli cofactor proteins and to the rat protein
+     gephyrin."
+     Genetics 137:791-801(1994).
+     PubMed=8088525
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

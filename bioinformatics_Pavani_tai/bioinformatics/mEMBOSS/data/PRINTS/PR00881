@@ -1,0 +1,22 @@
+L7ARS6FAMILY
+The genomic structure and sequence of the human ribosomal protein L7a has
+been determined and shown to resemble other mammalian ribosomal protein 
+genes [1]. The sequence of a gene for ribosomal protein L4 of S.cerevisiae
+has also been determined; its single open reading frame is highly similar
+to mammalian ribosomal protein L7a [2,3]. 
+
+Several other ribosomal proteins have been found to share sequence 
+similarity with L7a, including yeast NHP2 [4], B.subtilis hypothetical 
+protein ylxQ, Halobacterium marismortui Hs6, and M.jannaschii MJ1203.
+
+L7ARS6FAMILY is a 4-element fingerprint that provides a signature for the
+L7a/Rs6 family of ribosomal proteins. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs were drawn from short
+conserved sections within the central portion of the alignment, motifs 3 and
+4 spanning the region encoded by PROSITE pattern RIBOSOMAL_L7AE (PS01082).
+Two iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 26 sequences was identified. A single partial match
+was also found, ZETED6330, a Z.elegans HMG-like protein that matches motifs
+3 and 4. 
+
+An update on SPTR37_9f identified a true set of 22 sequences.

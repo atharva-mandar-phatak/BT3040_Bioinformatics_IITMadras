@@ -1,0 +1,71 @@
+************************
+* p53 family signature *
+************************
+
+The  p53  tumor  antigen [1 to 5] is a protein found in increased amounts in a
+wide variety of transformed cells. It is also detectable in many proliferating
+nontransformed  cells,  but  it  is  undetectable  or present at low levels in
+resting  cells.  It  is  frequently  mutated  or  inactivated in many types of
+cancer.  p53 seems to act as a tumor suppressor in some, but probably not all,
+tumor  types.  p53 is probably involved in cell cycle regulation, and may be a
+trans-activator   that  acts  to  negatively  regulate  cellular  division  by
+controlling a set of genes required for this process.
+
+p53 is a phosphoprotein of about 390 amino acids which  can be subdivided into
+four domains: a highly charged acidic region  of  about 75  to  80 residues, a
+hydrophobic proline-rich  domain (position 80 to 150), a  central region (from
+150 to about 300),  and a highly basic C-terminal region.  The sequence of p53
+is well conserved in vertebrate species;  attempts  to  identify  p53 in other
+eukaryotic philum has so far been unsuccessful.
+
+The p53 protein belongs to a family [6] that also includes:
+
+ - p51 (p63 or Ket), a transcriptional activator.
+ - p73,  a  transcriptional  activator  that  participates  in  the  apoptotic
+   response to DNA damage.
+
+As a  signature  pattern for this family we selected a conserved stretch of 13
+residues located in the central region of the protein.   This region, known as
+domain IV in [3], is involved (along  with an adjacent region)  in the binding
+of the large T antigen of SV40.  In man this region is the focus  of a variety
+of point mutations in cancerous tumors.
+
+-Consensus pattern: M-C-N-S-S-C-[MV]-G-G-M-N-R-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Levine A.J., Momand J., Finlay C.A.
+     "The p53 tumour suppressor gene."
+     Nature 351:453-456(1991).
+     PubMed=2046748; DOI=10.1038/351453a0
+[ 2] Levine A.J., Momand J.
+     "Tumor suppressor genes: the p53 and retinoblastoma sensitivity genes
+     and gene products."
+     Biochim. Biophys. Acta 1032:119-136(1990).
+     PubMed=2142001
+[ 3] Soussi T., Caron de Fromentel C., May P.
+     "Structural aspects of the p53 protein in relation to gene
+     evolution."
+     Oncogene 5:945-952(1990).
+     PubMed=2142762
+[ 4] Lane D.P., Benchimol S.
+     "p53: oncogene or anti-oncogene?"
+     Genes Dev. 4:1-8(1990).
+     PubMed=2137806
+[ 5] Ulrich S.J., Anderson C.W., Mercer W.E., Appella E.
+     J. Biol. Chem. 267:15259-15262(1992).
+[ 6] Kaelin W.G. Jr.
+     "The emerging p53 gene family."
+     J. Natl. Cancer Inst. 91:594-598(1999).
+     PubMed=10203277
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,44 @@
+MALPROTEIN
+Myelin is a product of myelinating cells: Schawnn cells in the peripheral
+nervous system (PNS) and oligodendrocytes in the central nervous system
+(CNS). The processes of these myelinating cells wrap around axon segments    
+to form a sheath. This sheath possesses insulating properties, allowing 
+rapid propagation of action potentials (the electrical signal propagated by 
+nerve cells) between the myelinating cell intervening nodes. Without myelin
+insulation, axons would need a 10-30-fold increase in diameter to achieve
+comparable conduction velocities.
+
+At the onset of myelination, during development, large amounts of myelin-
+specific lipids and proteins are synthesised and transported to the
+developing myelin sheath. The major protein component of PNS and CNS
+myelin differs between the 2 nervous systems. However, some of the minor
+protein components, including the 4 transmembrane (TM)-domain-containing
+myelin and lymphocyte protein (MAL), are found in both systems. Outside
+the nervous system, MAL is also found in T-cells and some epithelial cells
+(e.g., kidney, stomach and thyroid) [1].
+
+Glycosphingolipids are enriched in both epithelial cells and myelin, and 
+are believed to decrease the permeability of lipid membranes to small 
+molecules and increase the ability for membrane curvature. MAL co-purifies 
+with glycosphingolipids in detergent-insoluble domains, suggesting a 
+possible interaction. In Madin Darby Canine Kidney (MDCK) cells, MAL is 
+found mainly in transport vesicles, and recent studies suggest that MAL is 
+required for efficient vesicular transport of proteins across apical cell 
+membranes [2]. In myelinating cells, MAL appears to play a similar role, 
+interacting with glycosphingolipids to decrease membrane permeability; 
+however, here this property most likely manifests itself as an improved 
+insulating ability of the myelin [1]. In lymphocytes, however, MAL appears 
+to act as a TM-linker protein in T-cell signal transduction, linking the 
+cell surface glycosyl phosphatidylinositol anchored protein CD59 to the 
+intracellular tyrosine kinase Lck [3].
+
+MALPROTEIN is a 4-element fingerprint that provides a signature for the
+myelin and lymphocyte protein family. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length: motifs 1 and 2 lie in the 1st
+and 2nd TM domains, respectively; motif 3 spans the C-terminal portion of
+the 1st cytoplasmic loop and the N-terminal portion of the 3rd TM domain;
+and motif 4 lies in the 4th TM domain. Two iterations on SPTR40_20f were
+required to reach convergence, at which point a true set comprising 11
+sequences was identified. A single partial match was also found, Q9D2R2,
+which lacks a substantial portion of TM domains 1-3.

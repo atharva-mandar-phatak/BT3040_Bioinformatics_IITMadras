@@ -1,0 +1,22 @@
+SSPAMPROTEIN
+The Salmonella typhimurium surface presentation of antigens M gene (SpaM)
+is one of 12 that form a cluster responsible for invasion properties [1].
+The gene product is required for entry by the bacterium into epithelial
+cells, and is thus considered to be a virulence factor [1]. Other Spa genes 
+in the cluster are related to invasion (Inv) genes in similar Salmonella 
+and Shigella species [2], and to flagella biosynthesis genes in Helicobacter
+pylori [3].
+    
+A homologue of this protein has been found recently in Salmonella enterica
+[4]. The protein, named InvI, is required by the organism to gain access to
+mammalian epithelial cells, and cellular mutants (InvI-) failed to
+successfully infect these cells. It has also been found that the inv-spa 
+loci of this particular species encode for a type III protein secretion
+system, essential in the bacterium's host cell invasion process [5].
+
+SSPAMPROTEIN is an 8-element fingerprint that provides a signature for the
+spa-inv family of proteins in Salmonella. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length (~147 amino acid residues). Two
+iterations on SPTR37_10f were required to reach convergence, at which
+point a true set of 12 sequences was identified.

@@ -1,0 +1,44 @@
+REACTNCENTRE
+Purple bacteria have a diverse metabolism, which enables them to grow
+photosynthetically under anaerobic conditions by virtue of using a
+photosynthetic reaction centre (PRC) [1]. Most reaction centres from these
+bacteria comprise 3 elements (the light (L), medium (M) and heavy (H)
+chains), although some contain a tightly-bound cytochrome molecule [2].
+Several other factors, such as carotenoid, bacteriochlorophyll pigments,
+quinones and other light-harvesting co-factors are also required [1], all
+of which are associated with the L and M chains [3]. The complete complex
+is intimately involved in the transformation of light energy into chemical
+energy [3], with an adjacent oxidoreductase complex using the reduced
+quinones to produce a membrane potential [1]. Many of these processes are
+similar to corresponding processes in the thylakoid membranes of higher
+plant chloroplasts, which contain photosystem II, a complex similar to the
+bacterial PRC [1].
+
+The L and M chains are similar polypeptides, which span the membrane and
+are required for pigment binding [2,3]. They have been shown to be photo-
+chemically active in the absence of the H chain [2]. The PRC is one of the
+few transmembrane (TM) complexes for which there is a known structure: it 
+has been shown that both the L and M chains have 5 TM helices of between
+24-30 amino acids, which are tilted up to 38 degrees to the membrane [2].
+A difference in the number and type of charged residues on either side of
+the membrane sets up an electrical dipole, which may affect the direction
+and speed of the light-driven electron transport effected by the PRC [2].
+Although the sequences of the TM regions are not well conserved, L and M
+chains contain small clusters of conserved amino acids that correspond to
+binding sites for bacteriochlorophyll, iron and quinone [3].
+
+REACTNCENTRE is a 5-element fingerprint that provides a signature for the
+bacterial PRC L and M chains. The fingerprint was derived from an initial
+alignment of 7 sequences: motifs 1-5 encode each of the 5 TM helices -
+motif 4 includes most of the region encoded by PROSITE pattern REACTION_
+CENTER (PS00244), of which the first and second conserved histidines are
+magnesium atom and iron atom ligands respectively. Two iterations on OWL22.0
+were required to reach convergence, at which point a true set comprising 14
+sequences was identified. Numerous partial matches were also found:
+RCEM_CHLAU is a bacterial M chain that fails to make a significant match
+with the first motif; the remaining matches constitute a subfamily
+of related plant chloroplast photosystem II proteins, all of which match
+motifs 2 and 4.   
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 11
+partial matches.

@@ -1,0 +1,104 @@
+********************************************************
+* C-terminal cystine knot domain signature and profile *
+********************************************************
+
+The structures  of  transforming  growth  factor-beta (TGF-beta), nerve growth
+factor (NGF), platelet-derived growth factor (PDGF) and gonadotropin have been
+shown to  be  similar  [1,2 and references therein]: these proteins are folded
+into two  highly  twisted antiparallel pairs of beta-strands and contain three
+disulfide bonds, of which two form a cystine ring through which the third bond
+passes (see  the  schematic  representation  below).  This structure is called
+cystine knot [3].
+
+            +--<======b3======C---c------+
+            |                 :   :      |
+            +--==c====b4===>C-:-C-c-COOH |
+                 :          : : :        |
+            +--==c====b2===>C---C--------+
+            |                 :
+            +--<======b1======C--------------NH(2)
+
+'=>': indicates the direction of the beta-strands 'b1' to 'b4'.
+'C' : conserved cysteine in cystine knot.
+'c' : additional conserved cysteine in C-terminal cystine knot.
+':' : disulfide bridge.
+
+Functional diverse modular proteins share a conserved domain of about 90 amino
+acids in  their  C-terminal cysteine-rich region, that has been proposed [4,5]
+to be  structurally  related  to  the  cystine-knot  family  [3]  and which is
+therefore called  C-terminal  cystine-knot  (CTCK).  Members of the C-terminal
+cystine knot family are listed below:
+
+ - von Willebrand factor (vWF), a multifunctional protein which is involved in
+   maintaining homeostasis.  It consists of 4 vWF type D domains, 3 vWF type A
+   domains, 3  vWF  type  B  domains, 2 vWF type C domains (see <PDOC00928>, a
+   X domain and the C-terminal cystine knot.
+ - Mucins.  Human  mucin  2, a highly polymorphic multidomain molecule with  a
+   modular architecture  similar  to  vWF.  Xenopus mucin B.1 which contains a
+   CCP domain, a vWF type C domain, a X domain and a CTCK. Other  mucins  that
+   contain a  CTCK  are  the  human tracheobronchial mucin (gene MUC5), bovine
+   submaxillary mucin-like protein, pig apomucin and rat intestinal mucin-like
+   protein.
+ - CCN  family  (cef-10/cyr61/CTFG/fisp-12/nov  protein family). These growth-
+   factor inducible   proteins  are  structurally  related to the insulin-like
+   growth factor binding proteins (see <PDOC00194>) and could also function as
+   growth-factor binding proteins.
+ - Drosophila slit protein which is essential for  development of midline glia
+   and commissural axon pathways. It is composed of four leucine-rich repeats,
+   seven EGF-like domains, a laminin G-like repeat and the CTCK.
+ - Norrie disease protein (NDP) which may be involved in neuroectodermal cell-
+   cell interaction   and   in   a   pathway   that   regulates   neural  cell
+   differentiation and proliferation.
+ - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+   mechanism. It  is  composed  of 2 FA58C domains (see <PDOC00988>), a C-type
+   lectin domain  (see  <PDOC00537>),  2  VWFC domains (see <PDOC00928), and a
+   CTCK.
+
+The pattern  we  developed  for  CTCK correspond to the C-terminal half of the
+domain.
+
+-Consensus pattern: C-C-x(13)-C-x(2)-[GN]-x(12)-C-x-C-x(2,4)-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Isaaks N.W.
+     Curr. Opin. Struct. Biol. 5:391-395(1995).
+[ 2] Sun P.D., Davies D.R.
+     "The cystine-knot growth-factor superfamily."
+     Annu. Rev. Biophys. Biomol. Struct. 24:269-291(1995).
+     PubMed=7663117
+[ 3] McDonald N.Q., Hendrickson W.A.
+     "A structural superfamily of growth factors containing a cystine knot
+     motif."
+     Cell 73:421-424(1993).
+     PubMed=8490958
+[ 4] Meitinger T., Meindl A., Bork P., Rost B., Sander C., Haasemann M.,
+     Murken J.
+     "Molecular modelling of the Norrie disease protein predicts a cystine
+     knot growth factor tertiary structure."
+     Nat. Genet. 5:376-380(1993).
+     PubMed=8298646; DOI=10.1038/ng1293-376
+[ 5] Bork P.
+     "The modular architecture of a new family of growth regulators related
+     to connective tissue growth factor."
+     FEBS Lett. 327:125-130(1993).
+     PubMed=7687569
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

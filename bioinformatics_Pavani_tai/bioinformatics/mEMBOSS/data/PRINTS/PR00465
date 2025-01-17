@@ -1,0 +1,49 @@
+EP450IV
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1],
+widely distributed in bacteria, fungi, plants and animals. The enzymes
+are involved in metabolism of a plethora of both exogenous and endogenous
+compounds [2]. Usually, they act as terminal oxidases in multi-component
+electron transfer chains, called P450-containing monooxygenase systems.
+
+Current P450 nomenclature, based on divergent evolution of the P450
+superfamily, was proposed and developed by Nebert et al. [3]. On the basis
+of sequence similarity, all P450s can be categorised into 2 main classes,
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component
+systems and fungal P450nor (CYP55) belong to the B-class; all other known
+P450s from distinct systems are of the E-class [4]. E-class P450 may be
+further divided into 5 subclasses (groups) according to protein sequence
+similarities.
+
+There seems to be no particular functional resemblance between cholesterol
+7-alpha-hydroxylase (family CYP7) and lanosterol 14-alpha-demethylase 
+(CYP51): yet, sequence similarity between these 2 families is significant,
+so CYP7 and CYP51 have been regarded as constituting a single group, namely
+group IV [4]. Taking into account the high sequence similarity of CYP7 
+proteins and prostacyclin synthase (CYP8) [5], we would also include the
+CYP8 family within group IV.
+
+EP450IV is an 8-element fingerprint that provides a signature for group IV
+E-class P450s. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length. Since there is no 3D structure 
+available for a group IV E-class P450 representative, the assignment of
+secondary structure elements given below is adopted from the modelling study
+of Boscott and Grant [6]. Neighbouring motifs 1 and 2 are located towards
+the N-terminus, motif 2 including helix A; motif 3 includes the major part
+of helix I, which is proposed to be central to the catalytic function of
+P450s (cf. motif 1 of signature P450); motif 5 corresponds to the 
+C-terminal half of helix K; motif 6 includes the "aromatic region" typical
+of E-class P450s [4]; motifs 7 and 8 are adjacent, spanning the N-terminal
+part of helix L and including the invariant Cys residue that provides the
+haem iron thiolate ligand (cf. motifs 4 and 5 of signature P450 and
+PROSITE pattern CYTOCHROME_P450). Two iterations on OWL27.1 were required
+to reach convergence, at which point a true set comprising 21 sequences was
+identified. Several partial matches were also found: JC2334 (rat CYP51) is
+a fragment lacking motif 1; two more CYP51 sequences (S75389 from Candida
+glabrata and S75391 from Issatchenkia orientalis) are fragments lacking
+motifs 1 and 8; and, with the exception of two short fragments of yeast
+CYP51 (YSA14DM and YSCP450) that match motifs 7 and 8, sequences matching 
+five or less motifs belong to other P450 groups.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 308
+partial matches.

@@ -1,0 +1,59 @@
+**********************
+* BAH domain profile *
+**********************
+
+The  Bromo-adjacent  homology (BAH) domain is a domain first identified in the
+vertebrate  polybromo  protein, a protein present in the large nuclear complex
+Swi/Snf  [1,2]. It corresponds to a region of about 110 amino-acids, which can
+contain  insertions  of  variable length. This domain has been identified in a
+number of proteins present in large complex involved in chromatin replication,
+epigenetic   mechanisms   (DNA  methylation),  transcriptional  repression  or
+activation [1]. The BAH domain appears to act as a protein-protein interaction
+module  specialized  in gene silencing, as suggested by its interaction within
+yeast  Orc1p  with the silent information regulator Sir1p [1]. It can be found
+in a duplicated form in PB1 as well as in animal DNA MTases, or unique in CMT1
+for example.
+
+The  BAH  domain  is  frequently  found  in  association  with  other  domains
+implicated in epigenetic mechanisms such as bromodomain (see <PDOC00550>), SET
+(see <PDOC50280>), PHD finger (see <PDOC50016>), and/or in DNA binding such as
+HMG  boxes  (see  <PDOC00305>), AT hooks, GATA (see <PDOC00300>), and myb-like
+domains (see <PDOC00037>).
+
+The  crystal  structure of the BAH domain has been solved (see <PDB:1M4Z>)[3],
+It  revealed  that  it consists of an elongated shape that can be divided in a
+large  subdomain  comprised  of  mainly  anti-parallel beta-strands (beta-1 to
+beta-10) and a small helical subdomain.
+
+The profile we developed covers the BAH structure from beta-4 to beta-10.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2004 / First entry.
+
+[ 1] Callebaut I., Courvalin J.C., Mornon J.-P.
+     "The BAH (bromo-adjacent homology) domain: a link between DNA
+     methylation, replication and transcriptional regulation."
+     FEBS Lett. 446:189-193(1999).
+     PubMed=10100640
+[ 2] Goodwin G.H., Nicolas R.H.
+     "The BAH domain, polybromo and the RSC chromatin remodelling
+     complex."
+     Gene 268:1-7(2001).
+     PubMed=11368894
+[ 3] Zhang Z., Hayashi M.K., Merkel O., Stillman B., Xu R.M.
+     "Structure and function of the BAH-containing domain of Orc1p in
+     epigenetic silencing."
+     EMBO J. 21:4600-4611(2002).
+     PubMed=12198162
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,51 @@
+***************************************
+* Inorganic pyrophosphatase signature *
+***************************************
+
+Inorganic pyrophosphatase (EC 3.6.1.1) (PPase) [1,2] is the enzyme responsible
+for the hydrolysis of pyrophosphate (PPi) which  is  formed principally as the
+product of the many biosynthetic reactions that utilize ATP.  All known PPases
+require the presence of divalent metal cations, with magnesium  conferring the
+highest activity.  Among other residues, a  lysine has  been  postulated to be
+part or  close  to  the active site.  PPases have been sequenced from bacteria
+such as Escherichia coli (homohexamer), thermophilic bacteria PS-3 and Thermus
+thermophilus, from  the archaebacteria  Thermoplasma  acidophilum, from  fungi
+(homodimer), from a plant, and from bovine retina.  In  yeast, a mitochondrial
+isoform of PPase  has been characterized which  seems to be involved in energy
+production and whose activity is stimulated by uncouplers of ATP synthesis.
+
+The sequences  of PPases share  some  regions of  similarities.  As  signature
+patterns we have selected a  region  that  contains three conserved aspartates
+that are involved in the binding of cations.
+
+-Consensus pattern: D-[SGDN]-D-[PE]-[LIVMF]-D-[LIVMGAC]
+                    [The 3 D's bind divalent metal cations]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 24.
+
+-Expert(s) to contact by email:
+           Kolakowski L.F. Jr.; kolakowski@uthsca.edu
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Lahti R., Kolakowski L.F. Jr., Heinonen J., Vihinen M., Pohjanoksa K.,
+     Cooperman B.S.
+     "Conservation of functional residues between yeast and E. coli
+     inorganic pyrophosphatases."
+     Biochim. Biophys. Acta 1038:338-345(1990).
+     PubMed=2160278
+[ 2] Cooperman B.S., Baykov A.A., Lahti R.
+     "Evolutionary conservation of the active site of soluble inorganic
+     pyrophosphatase."
+     Trends Biochem. Sci. 17:262-266(1992).
+     PubMed=1323891
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,46 @@
+LEUZIPPRFOS
+Implicit in the growth regulatory functions of all proto-oncogenes is the 
+potential to induce abnormal cell growth [1] and cancer as a result of
+alterations in gene expression. This may be a qualitative or quantitative 
+alteration, the viral oncogenes activating this potential by transducing a 
+truncated or mutated form of the protein product, or by increasing 
+transcription of the proto-oncogene by the integration of a viral promoter 
+and enhancer sequence in its vicinity.
+
+Both the cellular and viral forms of the fos gene encode a phosphoprotein
+that is located in the nucleus of cells, and forms a noncovalent complex
+with several other proteins, a leucine zipper holding the dimer together. 
+The dimer is associated with chromatin and demonstrates specific and non-
+specific DNA-binding properties [2], the DNA being bound by a highly basic 
+area in the protein sequence immediately preceding the zipper domain.
+Expression of the fos gene is stimulated by mitogens, suggesting that the
+gene product is involved in cell growth [3], and may act as a nuclear
+signal in a more general sense.
+
+The 'leucine zipper' is a structure that is believed to mediate the
+function of several eukaryotic gene regulatory proteins. The zipper
+consists of a periodic repetition of leucine residues at every seventh
+position, and regions containing them appear to span 8 turns of alpha-
+helix. The leucine side chains that extend from one helix interact with
+those from a similar helix, hence facilitating dimerisation in the form
+of a coiled-coil. Leucine zippers are present in many gene regulatory
+proteins, including the CREB proteins, Jun/AP1 transcription factors,
+fos oncogene and fos-related proteins, C-myc, L-myc and N-myc oncogenes,
+and so on.
+
+LEUZIPPRFOS is a 5-element fingerprint that provides a signature for the 
+leucine zipper and DNA-binding domains characteristic of the fos oncogenes 
+and fos-related proteins. The fingerprint was derived from an initial 
+alignment of 6 sequences: motifs 2 and 3 span the highly basic DNA-
+binding domain, while motifs 4 and 5 encode the zipper region (cf.
+PROSITE patterns FOS_JUN_BASIC (PS00036) and LEUCINE_ZIPPER (PS00029)).
+Two iterations on OWL19.1 were required to reach convergence, at which
+point a true set comprising 14 sequences was identified. Several partial
+matches were also found: of those matching just 4 motifs, both are CREB 
+protein fragments that are highly similar to the DNA-binding and zipper
+domains of the fos gene products; those matching just 2 or 3 motifs are
+myosin heavy chains, which form coiled coils using a system similar to
+leucine zippers.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 6
+partial matches.

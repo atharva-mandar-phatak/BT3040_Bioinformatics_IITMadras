@@ -1,0 +1,19 @@
+CCBIOGENESIS
+Within mitochondria and bacteria, a family of related proteins is involved
+in the assembly of periplasmic c-type cytochromes: these include CycK [1],
+CcmF [2,3], NrfE [4] and CcbS [5]. These proteins may play a role in 
+guidance of apocytochromes and haem groups for their covalent linkage 
+by the cytochrome-c-haem lyase. Members of the family are probably integral
+membrane proteins, with up to 16 predicted transmembrane (TM) helices. 
+
+CCBIOGENESIS is an 8-element fingerprint that provides a signature for 
+cytochrome c-type biogenesis proteins. The fingerprint was derived from an 
+initial alignment of 12 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 includes
+putative TM domain 3; motif 2 includes part of TM domain 4; motif 3 encodes
+part of TM domain 5; motif 4 spans TM domain 6; motif 5 encodes part of TM
+domain 7; motifs 6 and 8 span TM domains 8 and 9, and motif 7 spans the 
+loop between them. Two iterations on SPTR37_10f were required to reach 
+convergence, at which point a true set comprising 18 sequences was 
+identified. Three partial matches were also found, all of which are 
+related plant proteins that fail to match one or more motifs.

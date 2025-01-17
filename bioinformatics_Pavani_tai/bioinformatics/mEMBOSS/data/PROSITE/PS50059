@@ -1,0 +1,100 @@
+*********************************************************
+* FKBP-type peptidyl-prolyl cis-trans isomerase profile *
+*********************************************************
+
+FKBP [1,2,3]  is  the major high-affinity binding protein, in vertebrates, for
+the immunosuppressive    drug  FK506.  It  exhibits  peptidyl-prolyl cis-trans
+isomerase activity (EC 5.2.1.8) (PPIase or rotamase). PPIase is an enzyme that
+accelerates protein  folding  by  catalyzing  the   cis-trans isomerization of
+proline imidic peptide bonds in oligopeptides [4].
+
+At least three different forms of FKBP are known in mammalian species:
+
+ - FKBP-12, which is cytosolic and inhibited by both FK506 and rapamycin.
+ - FKBP-13,  which  is  membrane  associated  and  inhibited by both FK506 and
+   rapamycin.
+ - FKBP-25, which is preferentially inhibited by rapamycin.
+
+These forms  of  FKBP are evolutionary related and show extensive similarities
+[5,6,7] with the following proteins:
+
+ - Fungal FKBP.
+ - Mammalian  hsp  binding  immunophilin  (HBI)  (also  called  p59). HBI is a
+   protein which  binds  to hsp90 and contains two FKBP-like domains in its N-
+   terminal section - the first of which seems to be functional.
+ - The C-terminal  part  of  the  cell-surface  protein  mip  from Legionella;
+   a protein associated with macrophage infection by an unknown mechanism.
+ - Escherichia coli slyD [8], a protein with a N-terminal FKBP domain followed
+   by an histidine-rich metal-binding domain.
+ - Escherichia coli fkpA.
+ - Escherichia coli fklB (FKBP22).
+ - Escherichia coli slpA.
+ - Bacterial trigger factor (Tig).
+ - Streptomyces hygroscopus and chrysomallus FK506-binding protein.
+ - Chlamydia trachomatis 27 Kd membrane protein.
+ - Neisseria meningitidis strain C114 PPiase.
+ - Probable    PPiases  from  Haemophilus  influenzae  (HI0754), Methanococcus
+   jannaschii (MJ0278  and  MJ0825),  Pseudomonas fluorescens and Pseudomonase
+   aeruginosa.
+
+We developed a profile for FKBP that spans the complete domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Cyclophilin, the  protein  that  binds to  the  immunosuppressive  drug
+ cyclosporin A, is also a PPIase but  its sequence is not  at  all  related to
+ that of FKBP (see <PDOC00154>).
+
+-Expert(s) to contact by email:
+           Callebaut I.; isabelle.callebaut@lmcp.jussieu.fr
+
+-Last update: June 2004 / Text revised and patterns deleted.
+
+[ 1] Tropschug M., Wachter E., Mayer S., Schoenbrunner E.R., Schmid F.X.
+     "Isolation and sequence of an FK506-binding protein from N. crassa
+     which catalyses protein folding."
+     Nature 346:674-677(1990).
+     PubMed=1696687; DOI=10.1038/346674a0
+[ 2] Stein R.L.
+     "Exploring the catalytic activity of immunophilins."
+     Curr. Biol. 1:234-236(1991).
+     PubMed=15336129
+[ 3] Siekierka J.J., Wiederrecht G., Greulich H., Boulton D., Hung S.H.Y.,
+     Cryan J., Hodges P.J., Sigal N.H.
+     "The cytosolic-binding protein for the immunosuppressant FK-506 is
+     both a ubiquitous and highly conserved peptidyl-prolyl cis-trans
+     isomerase."
+     J. Biol. Chem. 265:21011-21015(1990).
+     PubMed=1701173
+[ 4] Fischer G., Schmid F.X.
+     "The mechanism of protein folding. Implications of in vitro refolding
+     models for de novo protein folding and translocation in the cell."
+     Biochemistry 29:2205-2212(1990).
+     PubMed=2186809
+[ 5] Trandinh C.C., Pao G.M., Saier M.H. Jr.
+     "Structural and evolutionary relationships among the immunophilins:
+     two ubiquitous families of peptidyl-prolyl cis-trans isomerases."
+     FASEB J. 6:3410-3420(1992).
+     PubMed=1464374
+[ 6] Galat A.
+     "Peptidylproline cis-trans-isomerases: immunophilins."
+     Eur. J. Biochem. 216:689-707(1993).
+     PubMed=8404888
+[ 7] Hacker J., Fischer G.
+     "Immunophilins: structure-function relationship and possible role in
+     microbial pathogenicity."
+     Mol. Microbiol. 10:445-456(1993).
+     PubMed=7526121
+[ 8] Wuelfing C., Lomardero J., Plueckthun A.
+     J. Biol. Chem. 269:2895-2901(1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

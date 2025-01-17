@@ -1,0 +1,26 @@
+GALCTOKINASE
+Galactokinase catalyses the first reaction in the galactose metabolism
+pathway, the ATP-dependent phosphorylation of galactose, yielding
+galactose-1-phosphate [1,2]. Deficiency in this enzyme results in the
+disease galactosemia, which is responsible for the formation of cataracts
+in newborn babies, and is possibly responsible for presenile cataracts in
+adults [1].
+
+In yeast, the GAL3 gene product is required for the GAL4-mediated induction 
+of other enzymes involved in galactose metabolism [2]. The induction of 
+GAL1 production then reinforces this process, increasing the expression of
+other galactose-inducible genes [2]. GAL3 has been shown to be similar to 
+the GAL1 protein [2].
+
+GALCTOKINASE is a 4-element fingerprint that provides a signature for the
+galactokinase family. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn mainly from the N-terminal portion of
+the alignment, motif 1 including the region encoded by PROSITE pattern 
+GALACTOKINASE (PS00106), and motif 3 encoding a possible ATP-binding site.
+Two iterations on OWL27.0 were required to reach convergence, at which point
+a true set comprising 15 sequences was identified. Two partial matches were 
+also found: KLGAL is a galactokinase fragment; and S78870 is a galactokinase
+from Streptococcus thermophilus F410 that fails to match motif 1. 
+
+An update on SPTR37_10f identified a true set of 20 sequences, and 5
+partial matches.

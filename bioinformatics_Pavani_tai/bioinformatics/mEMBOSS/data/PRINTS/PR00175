@@ -1,0 +1,24 @@
+NAALASMPORT
+Sodium symporters can be divided by sequence and functional similarity
+into various groups. One such group is the sodium/alanine symporter family,
+the members of which transport alanine in association with sodium ions.
+These transporters are believed to possess 8 transmembrane (TM) helices
+[1,2], forming a channel or pore through the cytoplasmic membrane, the
+interior face being hydrophilic to allow the passage of alanine molecules
+and sodium ions [1]. At present, only three members of this family have been
+identified: the alanine carrier protein from the thermophilic bacterium
+PS-3; the D-alanine/glycine permease from Alteromonas haloplanktis; and the
+hypothetical protein yaaJ from E.coli.
+
+NAALASMPORT is a 6-element fingerprint that provides a signature for the 
+sodium/alanine symporters. The fingerprint was derived from an initial
+alignment of 3 sequences: motif 1 spans the first TM region, which includes
+the area encoded by PROSITE pattern NA_ALANINE_SYMP (PS00873); motifs 2-4
+describe TM regions 3-5; motif 5 includes most of TM domain 6; and motif 6
+encodes TM domain 8 (TM regions 2 and 7 were not sufficiently well
+conserved to be included in the fingerprint). A single iteration on
+OWL22.1 was required to reach convergence, no further sequences being
+identified beyond the starting set. 
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 2
+partial matches.

@@ -1,0 +1,54 @@
+VASOPRSNV1AR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Vasopressin and oxytocin are members of the neurohypophyseal hormone family
+found in all mammalian species [6]. They are present in high levels in the
+posterior pituitary. Vasopressin has an essential role in the control of 
+the water content of the body, acting in the kidney to increase water and
+sodium absorption [6]. In higher concentrations, vasopressin stimulates
+contraction of vascular smooth muscle, stimulates glycogen breakdown in the
+liver, induces platelet activation, and evokes release of corticotrophin 
+from the anterior pituitary [6]. Vasopressin and its analogues are used
+clinically to treat diabetes insipidus [6].
+
+In the periphery, the V1A receptor is found in high levels in vascular
+smooth muscle, myometrium and the bladder where it mediates contraction [6]. 
+In the CNS, V1 sites are distributed widely and are found in lateral septal
+nucleus, hippocampus, superior collicular, substantia nigra and central
+grey matter [6]. The receptors activate phosphoinositide metabolism through
+a pertussis-toxin-insensitive G protein, probably of the Gq/G11 class [6].
+
+VASOPRSNV1AR is a 7-element fingerprint that provides a signature for
+vasopressin V1A receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved sections 
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the vasopressin V1A receptors but
+distinguish them from the rest of the rhodopsin-like superfamily - motifs 1
+and 2 lie at the N-terminus; motif 3 spans the first cytoplasmic loop and
+the N-terminus of TM domain 2; motif 4 spans the second cytoplasmic loop
+and the N-terminus of TM domain 4; motif 5 lies in the third cytoplasmic
+loop; and motifs 6 and 7 lie at the C-terminus. A single iteration on
+OWL29.4 was required to reach convergence, no further sequences being
+identified beyond the starting set. Three partial matches were also found:
+I50132 is a vasotocin receptor that matches motifs 3, 4 and 6; V1BR_HUMAN
+and V1BR_RAT are vasopressin V1B receptors that match motifs 3 and 4. 
+
+An update on SPTR37_9f identified a true set of 4 sequences, and 2
+partial matches.

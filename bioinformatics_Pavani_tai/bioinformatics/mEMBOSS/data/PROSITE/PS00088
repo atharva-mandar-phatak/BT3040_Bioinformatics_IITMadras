@@ -1,0 +1,42 @@
+******************************************************
+* Manganese and iron superoxide dismutases signature *
+******************************************************
+
+Manganese  superoxide dismutase (EC 1.15.1.1) (SODM)  [1] is  one of the three
+forms of an enzyme that catalyzes the dismutation  of superoxide radicals. The
+four  ligands of  the manganese atom  are  conserved in  all  the  known  SODM
+sequences.  These metal ligands are also conserved in the related iron form of
+superoxide  dismutases [2,3].  We selected, as  a signature, a short conserved
+region which includes two of the four ligands: an aspartate and a histidine.
+
+-Consensus pattern: D-x-[WF]-E-H-[STA]-[FY](2)
+                    [D and H are manganese/iron ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bannister J.V., Bannister W.H., Rotilio G.
+     "Aspects of the structure, function, and applications of superoxide
+     dismutase."
+     CRC Crit. Rev. Biochem. 22:111-180(1987).
+     PubMed=3315461
+[ 2] Parker M.W., Blake C.C.F.
+     "Iron- and manganese-containing superoxide dismutases can be
+     distinguished by analysis of their primary structures."
+     FEBS Lett. 229:377-382(1988).
+     PubMed=3345848
+[ 3] Smith M.W., Doolittle R.F.
+     "A comparison of evolutionary rates of the two major kinds of
+     superoxide dismutase."
+     J. Mol. Evol. 34:175-184(1992).
+     PubMed=1556751
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

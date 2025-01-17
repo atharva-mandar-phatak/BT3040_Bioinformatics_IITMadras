@@ -1,0 +1,31 @@
+NGF
+During the development of the vertebrate nervous system, many neurons
+become redundant (because they have died, failed to connect to target
+cells, etc.) and are eliminated. At the same time, developing neurons send
+out axon outgrowths that contact their target cells [1]. Such cells control
+their degree of innervation (the number of axon connections) by the
+secretion of various specific neurotrophic factors that are essential for
+neuron survival. One of these is nerve growth factor (NGF), which is
+involved in the survival of some classes of embryonic neuron (e.g., peri-
+pheral sympathetic neurons) [1]. NGF is mostly found outside the central
+nervous system (CNS), but slight traces have been detected in adult CNS
+tissues, although a physiological role for this is unknown [1]; it has also
+been found in several snake venoms [2,3]. Proteins similar to NGF include
+brain-derived neurotrophic factor (BDNF) and neurotrophins 3 to 5, all of
+which demonstrate neuron survival and outgrowth activities.
+
+NGF is a 4-element fingerprint that provides a signature for the nerve
+growth factors. The fingerprint was derived from an initial alignment of 34
+sequences: the motifs were drawn from conserved regions in the C-terminal
+portion of the alignment, each including at least one of 6 Cys residues
+involved in disulphide bond formation - motifs 2 and 3 span the regions
+encoded by PROSITE pattern NGF (PS00248). Two iterations on OWL22.1 were
+required to reach convergence, at which point a true set comprising 28
+sequences was identified.
+
+An update on SPTR55_38f identified a true set of 117 sequences and three
+partial matches: Q6YNR1_HUMAN is human brain-derived neurotrophic factor
+BDNF, which fails to make a significant match with motif 2; and 
+Q19TV5_BRAFL and Q19TV4_STRPU are prepro-neurotrophins from Branchiostoma
+floridae and Strongylocentrotus purpuratus, both of which fail to make
+signficant matches with motifs 1 and 2.

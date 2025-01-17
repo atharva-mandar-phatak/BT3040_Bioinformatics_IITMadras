@@ -1,0 +1,27 @@
+MAN6PRECEPTR
+The cation dependent mannose-6-phosphate (man-6-P) receptor is one of two
+transmembrane proteins involved in the transport of lysosomal enzymes from
+the Golgi complex and the cell surface to lysosomes [1]. Lysosomal enzymes
+bearing phosphomannosyl residues bind specifically to man-6-P receptors in
+the Golgi apparatus and the resulting receptor-ligand complex is transported
+to an acidic prelyosomal compartment, where the low pH mediates dissociation
+of the complex. Binding is optimal in the presence of divalent cations.
+
+The amino acid sequence is a single polypeptide chain that contains a
+putative signal sequence and a transmembrane domain [2]. Studies have
+indicated that the receptor is a transmembrane protein with an
+extracytoplasmic N-terminal domain [2]. This domain contains all the
+information necessary both for ligand binding and for acid-dependent
+ligand dissociation [3].
+
+MAN6PRECEPTR is a 9-element fingerprint that provides a signature for
+mannose-6-phosphate receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 1-7 span the putative lumenal
+domain; motif 8 lies in a putative TM domain; and motif 9 lies in the
+proposed cytoplasmic domain. A single iteration on OWL29.3 was required
+to reach convergence, no further sequences being identified beyond the
+starting set. Three partial matches were found, all of which are
+mannose-6-phosphate receptor fragments.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

@@ -1,0 +1,66 @@
+*************************************************************
+* Arterivirus nsp2 cysteine protease (AV CP) domain profile *
+*************************************************************
+
+Arteriviruses are   enveloped,   positive-stranded  RNA  viruses  and  include
+pathogens of   major   economic  concern  to  the  swine-  and  horse-breeding
+industries [E1]:
+
+  - Equine arteritis virus (EAV).
+  - Porcine reproductive and respiratory syndrome virus (PRRSV).
+  - Mice actate dehydrogenase-elevating virus.
+  - Simian hemorrhagic fever virus.
+
+The arterivirus  cysteine  protease  (AV  CP)  is the most carboxyl-terminally
+located member  of  the  array of three cysteine proteinase domains present in
+the amino-terminal  500  residues  of the replicase polyproteins. The AV CP is
+located in  the  amino-terminal  region  of nsp2 and is highly conserved among
+arteriviruses. The  cleavage  of  the nsp2|3 junction appears to be the single
+processing step mediated by the AV CP. For EAV, it has been shown that cleaved
+nsp2 is  an  essential  co-factor  for cleavage of the nsp4|6 site by the nsp4
+proteinase domain (see <PDOC51493>). The AV CP is an unusual Cys protease with
+amino acid  sequence  similarities  to  both papain-like and chymotrypsin-like
+proteases. The catalytic dyad is composed of Cys and His residues [1,2,3]. The
+AV CP domain forms peptidase family C33 [E2].
+
+Comparative sequence analysis and site-directed mutagenesis have characterized
+the AV CP as a cysteine endopeptidase whose conserved domain encompasses about
+100 residues. The entire AV CP domain is highly conserved among arteriviruses.
+Among the  conserved  residues  are  a  number  of cysteines and one aspartate
+residues [3].
+
+The profile we developed covers the entire AV CP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2011 / First entry.
+
+[ 1] Snijder E.J., Wassenaar A.L.M., Spaan W.J.M., Gorbalenya A.E.
+     "The arterivirus Nsp2 protease. An unusual cysteine protease with
+     primary structure similarities to both papain-like and
+     chymotrypsin-like proteases."
+     J. Biol. Chem. 270:16671-16676(1995).
+     PubMed=7622476
+[ 2] Wassenaar A.L.M., Spaan W.J.M., Gorbalenya A.E., Snijder E.J.
+     "Alternative proteolytic processing of the arterivirus replicase ORF1a
+     polyprotein: evidence that NSP2 acts as a cofactor for the NSP4 serine
+     protease."
+     J. Virol. 71:9313-9322(1997).
+     PubMed=9371590
+[ 3] Ziebuhr J., Snijder E.J., Gorbalenya A.E.
+     "Virus-encoded proteinases and proteolytic processing in the
+     Nidovirales."
+     J. Gen. Virol. 81:853-879(2000).
+     PubMed=10725411
+[E1] http://www.expasy.org/viralzone/all_by_species/284.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=c33
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

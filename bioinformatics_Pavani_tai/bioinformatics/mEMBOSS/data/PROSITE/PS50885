@@ -1,0 +1,70 @@
+***********************
+* HAMP domain profile *
+***********************
+
+The HAMP  linker domain (domain present in Histidine kinases, Adenyl cyclases,
+Methyl-accepting proteins  and Phosphatases) is an approximately 50-amino acid
+alpha-helical region  common  to  chemoreceptors and histidine kinases that is
+present in  several  multidomain sensor proteins that participate in a variety
+of signal transduction processes. One or several copies of the HAMP domain can
+be found in association with other domains such as the histidine kinase domain
+(see <PDOC50109>),  the  bacterial  chemotaxis  sensory transducer domain (see
+<PDOC00465>), the   PAS   repeat   (see  <PDOC50112>),  the  EAL  domain  (see
+<PDOC50883>), the  GGDEF domain (see <PDOC50887>), the protein phosphatase 2C-
+like domain,  the  guanylate cyclase domain (see <PDOC00425>), or the response
+regulatory domain  (see  <PDOC50110>).  It  has  been  suggested that the HAMP
+domain possesses  a  role  of regulating the phosphorylation or methylation of
+homodimeric receptors   by   transmitting   the   conformational   changes  in
+periplasmic ligand-binding   domains  to  cytoplasmic  signalling  kinase  and
+methyl-acceptor domains [1].
+
+Some proteins known to contain a HAMP domain are listed below:
+
+ - Anabaena  cylindrica  adenylate  cyclase.  It  may  function as a membrane-
+   localized receptor protein.
+ - Escherichia  coli  osmolarity  sensor  protein  envZ.  It  functions  as  a
+   membrane-associated protein  kinase that phosphorylates ompR in response to
+   environmental signals.
+ - Escherichia   coli   sensor   protein  barA.  It  could  activate  ompR  by
+   phosphorylation.
+ - Escherichia coli nitrate/nitrite sensor protein narX. It probably activates
+   narL and narP by phosphorylation in the presence of nitrate.
+ - Escherichia coli sensor protein cpxA.
+ - Escherichia coli methyl-accepting chemotaxis protein I.
+ - Escherichia coli hypothetical protein yfiN.
+ - Escherichia coli protein yhjK.
+ - Rhizobium sp. strain NGR234 probable chemoreceptor Y4FA.
+ - Salmonella typhimurium methyl-accepting chemotaxis protein II.
+ - Chlamydia trachomatis sigma regulatory family protein-PP2C phosphatase.
+ - Treponema pallidum hypothetical protein TP0854.
+ - Synechocystis sp. strain PCC 6803 pleD.
+ - Synechocystis sp. strain PCC 6803 hypothetical protein sll1365.
+ - Archaeoglobus fulgidus putative signal-transducing histidine kinase.
+ - Archaeoglobus fulgidus hypothetical protein AF1503.
+ - Halobacterium salinarium halobacterial transducer protein IV.
+
+ - Yeast osmolarity two-component system protein SLN1.
+ - Candida albicans protein NIK1.
+
+The profile we developed covers the entire HAMP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2002 / First entry.
+
+[ 1] Aravind L., Ponting C.P.
+     "The cytoplasmic helical linker domain of receptor histidine kinase
+     and methyl-accepting proteins is common to many prokaryotic signalling
+     proteins."
+     FEMS Microbiol. Lett. 176:111-116(1999).
+     PubMed=10418137
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

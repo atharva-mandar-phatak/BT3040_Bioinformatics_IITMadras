@@ -1,0 +1,58 @@
+********************************************************************
+* Inosine-uridine preferring nucleoside hydrolase family signature *
+********************************************************************
+
+Inosine-uridine preferring  nucleoside  hydrolase  (EC 3.2.2.1) (IU-nucleoside
+hydrolase or  IUNH)  is  an  enzyme  first  identified  in  protozoan [1] that
+catalyzes the hydrolysis of all of the commonly occuring purine and pyrimidine
+nucleosides into  ribose  and  the  associated  base, but has a preference for
+inosine and  uridine  as  substrates.  This  enzyme  is  important  for  these
+parasitic organisms,  which  are  deficient in de novo synthsis of purines, to
+salvage the host purine nucleosides.
+
+IUNH from  Crithidia  fasciculata  has been sequenced and characterized, it is
+an homotetrameric  enzyme of subunits of 34 Kd. An histidine has been shown to
+be important  for  the catalytic mechanism, it acts a proton donor to activate
+the hypoxanthine leaving group.
+
+IUNH is  evolutionary  related  to  a  number of uncharacterized proteins from
+various biological sources, notably:
+
+ - Escherichia coli hypothetical protein yaaF.
+ - Escherichia coli hypothetical protein ybeK.
+ - Escherichia coli hypothetical protein yeiK.
+ - Fission yeast hypothetical protein SpAC17G8.02.
+ - Yeast hypothetical protein YDR400w.
+ - An hypothetical protein from the archaebacteria Desulfurolobus ambivalens.
+
+As a  signature  pattern  for  these  proteins, we selected a highly conserved
+region located   in  the  N-terminal  extremity.  This  region  contains  four
+conserved aspartates that have been shown [2] to be located in the active site
+cavity.
+
+-Consensus pattern: D-x-D-[PT]-[GA]-x-D-D-[TAV]-[VI]-A
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / First entry.
+
+[ 1] Gopaul D.N., Meyer S.L., Degano M., Sacchettini J.C., Schramm V.L.
+     "Inosine-uridine nucleoside hydrolase from Crithidia fasciculata.
+     Genetic characterization, crystallization, and identification of
+     histidine 241 as a catalytic site residue."
+     Biochemistry 35:5963-5970(1996).
+     PubMed=8634237; DOI=10.1021/bi952998u
+[ 2] Degano M., Gopaul D.N., Scapin G., Schramm V.L., Sacchettini J.C.
+     "Three-dimensional structure of the inosine-uridine nucleoside
+     N-ribohydrolase from Crithidia fasciculata."
+     Biochemistry 35:5971-5981(1996).
+     PubMed=8634238; DOI=10.1021/bi952999m
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

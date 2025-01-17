@@ -1,0 +1,123 @@
+***************************************************
+* Alpha-carbonic anhydrases signature and profile *
+***************************************************
+
+Carbonic anhydrases  (EC 4.2.1.1) (CA) [1,2,3,4] are zinc metalloenzymes which
+catalyze the  reversible  hydration  of  carbon dioxide, a reaction underlying
+many diverse  physiological  processes in animals, plants, archaebacteria, and
+eubacteria. Currently  there  are  five  evolutionarily  distinct  CA families
+(alpha, beta,  gamma,  delta  and  epsilon)  that have no significant sequence
+identity and   were   invented   independently.   The   alpha-CAs   are  found
+predominantly in animals but also in bacteria and green algae [5,6,7].
+
+To date 15 alpha-CA or alpha-CA-like proteins have been identified in mammals.
+These can  be  divided  into  five  broad  subgroups: the cytosolic CAs (CA-I,
+CA-II, CA-III,  CA-VII  and  CA  XIII),  mitochondrial  CAs (CA-VA and CA-VB),
+secreted CAs  (CA-VI),  membrane-associated  (CA-IV, CA-IX, CA-XII and CA-XIV)
+and those  without CA activity, the CA-related proteins (CA-RP VIII, X and XI)
+[6].
+
+In the  alga  Chlamydomonas  reinhardtii,  two CA isozymes have been sequenced
+[8]. They are periplasmic glycoproteins evolutionary related to mammalian CAs.
+Some bacteria, such as Neisseria gonorrhoeae [9] also have an alpha-type CA.
+
+The dominating secondary structure is a 10-stranded, twisted beta-sheet, which
+divides the  molecules  into two halves (see <PDB:1RAZ>). Except for two pairs
+of parallel  strands,  the  beta sheet is antiparallel. A few relatively short
+helices are  located  on the surface of the molecule [10]. Alpha-CAs contain a
+single zinc   atom   bound   to   three   conserved  histidine  residues.  The
+catalytically active  group  is  the  zinc-bound  water  which  ionizes  to  a
+hydroxide group.  In the mechanism of catalysis, nucleophilic attack of CO2 by
+a zinc-bound  hydroxide ion is followed by displacement of the resulting zinc-
+bound bicarbonate    ion  by  water;  subsequent deprotonation regenerates the
+nucleophilic zinc-bound hydroxide ion [5,11].
+
+Protein D8 from Vaccinia and  other poxviruses  is related to CAs but has lost
+two of  the  zinc-binding  histidines  as  well  as  many  otherwise conserved
+residues. This  is  also  true  of  the  N-terminal  extracellular  domain  of
+some receptor-type tyrosine-protein phosphatases (see <PDOC00323>).
+
+We derived  a  signature  pattern  for the alpha-CAs which includes one of the
+zinc-binding histidines.  We  also  developed a profile that covers the entire
+alpha-CA catalytic domain.
+
+-Consensus pattern: S-E-[HN]-x-[LIVM]-x(4)-[FYH]-x(2)-E-[LIVMGA]-H-[LIVMFA](2)
+                    [The second H is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL   active
+ CAs.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Most  prokaryotic  CAs  as  well  as  plant  chloroplast  CAs belong to
+ another, evolutionary  distinct  family  of  proteins,  the  beta-family (see
+ <PDOC00586>).
+
+-Last update: August 2005 / Text revised; profile added.
+
+[ 1] Deutsch H.F.
+     "Carbonic anhydrases."
+     Int. J. Biochem. 19:101-113(1987).
+     PubMed=3106115
+[ 2] Fernley R.T.
+     "Non-cytoplasmic carbonic anhydrases."
+     Trends Biochem. Sci. 13:356-359(1988).
+     PubMed=3149805
+[ 3] Tashian R.E.
+     "The carbonic anhydrases: widening perspectives on their evolution,
+     expression and function."
+     BioEssays 10:186-192(1989).
+     PubMed=2500929
+[ 4] Edwards Y.
+     "Structure and expression of mammalian carbonic anhydrases."
+     Biochem. Soc. Trans. 18:171-175(1990).
+     PubMed=2116334
+[ 5] Hewett-Emmett D., Tashian R.E.
+     "Functional diversity, conservation, and convergence in the evolution
+     of the alpha-, beta-, and gamma-carbonic anhydrase gene families."
+     Mol. Phylogenet. Evol. 5:50-77(1996).
+     PubMed=8673298
+[ 6] Leggat W., Dixon R., Saleh S., Yellowlees D.
+     "A novel carbonic anhydrase from the giant clam Tridacna gigas
+     contains two carbonic anhydrase domains."
+     FEBS J. 272:3297-3305(2005).
+     PubMed=15978036; DOI=10.1111/j.1742-4658.2005.04742.x
+[ 7] Premkumar L., Greenblatt H.M., Bageshwar U.K., Savchenko T.,
+     Gokhman I., Sussman J.L., Zamir A.
+     "Three-dimensional structure of a halotolerant algal carbonic
+     anhydrase predicts halotolerance of a mammalian homolog."
+     Proc. Natl. Acad. Sci. U.S.A. 102:7493-7498(2005).
+     PubMed=15894606; DOI=10.1073/pnas.0502829102
+[ 8] Fujiwara S., Fukuzawa H., Tachiki A., Miyachi S.
+     "Structure and differential expression of two genes encoding carbonic
+     anhydrase in Chlamydomonas reinhardtii."
+     Proc. Natl. Acad. Sci. U.S.A. 87:9779-9783(1990).
+     PubMed=2124702
+[ 9] Huang S., Xue Y., Sauer-Eriksson E., Chirica L., Lindskog S.,
+     Jonsson B.H.
+     "Crystal structure of carbonic anhydrase from Neisseria gonorrhoeae
+     and its complex with the inhibitor acetazolamide."
+     J. Mol. Biol. 283:301-310(1998).
+     PubMed=9761692
+[10] Lindskog S.
+     "Structure and mechanism of carbonic anhydrase."
+     Pharmacol. Ther. 74:1-20(1997).
+     PubMed=9336012
+[11] Whittington D.A., Waheed A., Ulmasov B., Shah G.N., Grubb J.H.,
+     Sly W.S., Christianson D.W.
+     "Crystal structure of the dimeric extracellular domain of human
+     carbonic anhydrase XII, a bitopic membrane protein overexpressed in
+     certain cancer tumor cells."
+     Proc. Natl. Acad. Sci. U.S.A. 98:9545-9550(2001).
+     PubMed=11493685; DOI=10.1073/pnas.161301298
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

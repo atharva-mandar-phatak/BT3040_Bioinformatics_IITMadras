@@ -1,0 +1,65 @@
+***********************************************
+* Receptor tyrosine kinase class II signature *
+***********************************************
+
+A number of growth factors  stimulate mitogenesis by interacting with a family
+of   cell  surface receptors which   possess  an  intrinsic, ligand-sensitive,
+protein tyrosine kinase activity [1].   These  receptor tyrosine kinases (RTK)
+all share the same topology: an  extracellular ligand-binding domain, a single
+transmembrane  region and a cytoplasmic  kinase domain.   However  they can be
+classified into at least five groups.  The prototype for class II RTK's is the
+insulin receptor,  a heterotetramer of two alpha and two beta chains linked by
+disulfide bonds.  The  alpha  and  beta  chains  are  cleavage  products  of a
+precursor molecule. The alpha chain contains the ligand binding site, the beta
+chain transverses  the  membrane  and  contains  the  tyrosine  protein kinase
+domain. The receptors currently known to belong to class II are:
+
+ - Insulin receptor from vertebrates.
+ - Insulin growth factor I receptor from mammals.
+ - Insulin  receptor-related receptor (IRR), which is most probably a receptor
+   for a peptide belonging to the insulin family.
+ - Insects insulin-like receptors.
+ - Molluscan insulin-related peptide(s) receptor (MIP-R).
+ - Insulin-like peptide receptor from Branchiostoma lanceolatum.
+ - The  Drosophila  developmental  protein  sevenless, a putative receptor for
+   positional information required for the formation of  the  R7 photoreceptor
+   cells.
+ - The  trk  family  of receptors  (NTRK1,  NTRK2  and  NTRK3), which are high
+   affinity receptors for nerve growth factor and related neurotrophic factors
+   (BDNF and NT-3).
+
+And the following uncharacterized receptors:
+
+ - ROS.
+ - LTK (TYK1).
+ - EDDR1 (cak, TRKE, RTK6).
+ - NTRK3 (Tyro10, TKT).
+ - A sponge putative receptor tyrosine kinase.
+
+While only the insulin and the insulin growth factor I  receptors are known to
+exist in the tetrameric conformation specific to class II RTK's, all the above
+proteins share extensive homologies in their kinase domain,  especially around
+the putative  site  of  autophosphorylation.  Hence,  we developed a signature
+pattern for  this  class of RTK's, which includes the tyrosine residue, itself
+probably autophosphorylated.
+
+-Consensus pattern: [DN]-[LIV]-Y-x(3)-Y-Y-R
+                    [The second Y is the autophosphorylation site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Yarden Y., Ullrich A.
+     "Growth factor receptor tyrosine kinases."
+     Annu. Rev. Biochem. 57:443-478(1988).
+     PubMed=3052279; DOI=10.1146/annurev.bi.57.070188.002303
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

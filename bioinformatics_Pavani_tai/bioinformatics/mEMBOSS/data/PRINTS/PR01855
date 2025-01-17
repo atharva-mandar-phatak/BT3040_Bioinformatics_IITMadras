@@ -1,0 +1,71 @@
+NRPEPTIDEWR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+   
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Two closely related neuropeptide precursors, which share no significant
+sequence similarity with other known neuropeptides, have recently been
+identified and named preproneuropeptide B and preproneuropeptide W [6-8]. In
+humans, each precursor contains a signal sequence and two dibasic cleavage
+sites. Alternative cleavage of these sites results in long (29 or 30 amino
+acids) and short (23 amino acids) forms of the neuropeptides being produced
+[6,7]. The mouse, rat and bovine versions of preproneuropeptide B, however,
+contain only the second cleavage site, resulting in only the long form of
+neuropeptide B [7,8].
+
+Neuropeptide B is expressed in both the central nervous system (CNS) and in
+the periphery. In the CNS, highest levels of the peptide are found in the
+substantia nigra and hypothalamus, suggesting a possible role in locomotor
+control and the release of pituitary hormones [7]. In the periphery, the
+peptide is most abundant in testis, ovary, uterus, placenta, spleen, lymph
+nodes and peripheral blood leukocytes, indicating potential roles in the
+reproductive and immune systems [7]. Unusually, neuropeptide B purified from
+bovine hypothalamus was found to be brominated at its N-terminus [8].
+
+Neuropeptide W has a more limited distribution in the brain than
+neuropeptide B and is found at highest levels in the substantial nigra,
+again suggesting an involvement in locomotor control [7]. In the periphery,
+neuropeptide W is more widespread than neuropeptide B. In addition to the
+reproductive and immune tissues in which neuropeptide B is expressed,
+neuropeptide W has been found at high levels in the liver, stomach and
+trachea [7]. Intracerebroventricular administration of neuropeptide W in
+rats has been reported to produce an acute increase in food intake and to
+stimulate prolactin release [6].
+
+Two orphan G protein-coupled receptors, GPR7 and GPR8 have recently been
+identified as receptors for the neuropeptides [6-8]. GPR7 is expressed at
+highest levels in the hippocampus, amygdala, trachea and in lung carcinoma
+and at moderate levels in fetal brain, pituitary and prostate [7]. GPR8 is
+most highly expressed in the caudate nucleus, hippocampus and amygdala, and
+moderately expressed in the adult brain, thalamus, parietal cortex,
+pituitary, adrenal gland, lymph nodes and in lymphoblastic leukemia [7].
+Upon activation by neuropeptide B or W, GPR7 and GPR8 couple to pertussis
+toxin-sensitive G proteins to inhibit adenylate cyclase [7].
+
+NRPEPTIDEWR is an 8-element fingerprint that provides a signature for the
+neuropeptide W receptor family. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within loop, TM and C-terminal regions, focusing on those areas of the
+alignment that characterise the neuropeptide W receptors but distinguish
+them from the rest of the rhodopsin-like superfamily - motif 1 is located
+in the C-terminal portion of TM domain 2; motif 2 encodes the second 
+cytoplasmic loop; motifs 3 and 4 span TM domain 4; motifs 5 and 6 lie in 
+the second external loop, leading into TM domain 5; motif 7 resides in 
+the third cytoplasmic loop; and motif 8 encompasses the C-terminal portion
+of TM domain 6. A single iteration on SPTR40_22f was required to reach
+convergence, no further sequences being identified beyond the starting set.

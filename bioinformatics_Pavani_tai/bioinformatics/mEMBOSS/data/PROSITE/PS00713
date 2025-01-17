@@ -1,0 +1,110 @@
+****************************************************
+* Sodium:dicarboxylate symporter family signatures *
+****************************************************
+
+It has  been shown [1] that integral membrane proteins that mediate the intake
+of a  wide  variety  of  molecules  with the concomitant uptake of sodium ions
+(sodium symporters)  can  be  grouped, on the basis of sequence and functional
+similarities into  a number of distinct families. One of these families [2] is
+known as   the  sodium:dicarboxylate  symporter  family  (SDF)  and  currently
+consists of the following proteins:
+
+ - Escherichia coli  proton-glutamate  symport   protein  (glutamate-aspartate
+   carrier) (gene gltP).  GltP  is  a sodium-independent carrier for glutamate
+   and aspartate.
+ - Bacillus proton/sodium-glutamate symport protein (gene gltT or gltP).  GltT
+   is a sodium-dependent carrier for glutamate and aspartate.
+ - Rhizobium  and Escherichia coli C4-dicarboxylate carrier (gene dctA), which
+   is responsible  for  the  transport  of  dicarboxylates  such as succinate,
+   fumarate, and malate. In Rhizobium this transport system plays an important
+   role in the energy supply of the legume symbionts.
+ - Three different mammalian  sodium-dependent L-glutamate and aspartate high-
+   affinity transporters  (also  known  as  excitatory amino acid transporters
+   (EAAT)) [3,4,5].  These  brain  proteins  are essential for terminating the
+   postsynaptic action of  glutamate  by rapidly removing  released  glutamate
+   from the synaptic cleft.
+ - EAAT-4,  a  mammalian  chloride-dependent  L-glutamate  and aspartate high-
+   affinity transporter [6].
+ - Mammalian neutral amino acid transporter (SATT), a brain protein that plays
+   a role in the transport of alanine, cysteine, serine and threonine [7].
+ - Mammalian  insulin-activated  amino  acid  transporter  (AAAT),  an adipose
+   tissue protein  that transports serine and, to a lesser extent, alanine and
+   glutamate [8].
+ - Hypothetical   protein   ygjU   from   Escherichia  coli  and  HI1545,  the
+   corresponding Haemophilus influenzae protein.
+
+These transporters  are  proteins of  from 420 to 573  amino acids  which  are
+highly hydrophobic and which probably contain  about 10 transmembrane regions.
+As signature patterns, we selected two conserved regions. The first pattern is
+located  in the  N-terminal section and  seems to include a hydrophilic region
+between two transmembrane regions.  The second  pattern is  located  in the C-
+terminal section.
+
+-Consensus pattern: P-x(0,1)-[GP]-[DES]-x-[LIVMF](2)-x-[LIVMA]-[LIVM]-[KREQS]-
+                    [LIVMG]-[LIVM]-[LIVMF]-x-[PS]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ygjU.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-x-G-x-[STA]-x-[NT]-[LIVMCP]-D-[GA]-[STANQF]-x-[LIVM]-
+                    [FY]-x(2)-[LIVM]-x(2)-[LIVM]-[FY]-[LIV]-[SA]-[QH]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ygjU.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hofmann K.; kay.hofmann@memorec.com
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Reizer J., Reizer A., Saier M.H. Jr.
+     "A functional superfamily of sodium/solute symporters."
+     Biochim. Biophys. Acta 1197:133-166(1994).
+     PubMed=8031825
+[ 2] Storck T., Schulte S., Hofmann K., Stoffel W.
+     "Structure, expression, and functional analysis of a Na(+)-dependent
+     glutamate/aspartate transporter from rat brain."
+     Proc. Natl. Acad. Sci. U.S.A. 89:10955-10959(1992).
+     PubMed=1279699
+[ 3] Kanner B.I.
+     "Glutamate transporters from brain. A novel neurotransmitter
+     transporter family."
+     FEBS Lett. 325:95-99(1993).
+     PubMed=8099882
+[ 4] Kanai Y., Smith C.P., Hediger M.A.
+     "A new family of neurotransmitter transporters: the high-affinity
+     glutamate transporters."
+     FASEB J. 7:1450-1459(1993).
+     PubMed=7903261
+[ 5] Arriza J.L., Fairman W.A., Wadiche J.I., Murdoch G.H., Kavanaugh M.P.,
+     Amara S.G.
+     "Functional comparisons of three glutamate transporter subtypes cloned
+     from human motor cortex."
+     J. Neurosci. 14:5559-5569(1994).
+     PubMed=7521911
+[ 6] Fairman W.A., Vandenberg R.J., Arriza J.L., Kavanaugh M.P., Amara S.G.
+     "An excitatory amino-acid transporter with properties of a
+     ligand-gated chloride channel."
+     Nature 375:599-603(1995).
+     PubMed=7791878; DOI=10.1038/375599a0
+[ 7] Arriza J.L., Kavanaugh M.P., Fairman W.A., Wu Y.N., Murdoch G.H.,
+     North R.A., Amara S.G.
+     "Cloning and expression of a human neutral amino acid transporter with
+     structural similarity to the glutamate transporter gene family."
+     J. Biol. Chem. 268:15329-15332(1993).
+     PubMed=8101838
+[ 8] Liao K., Lane M.D.
+     "Expression of a novel insulin-activated amino acid transporter gene
+     during differentiation of 3T3-L1 preadipocytes into adipocytes."
+     Biochem. Biophys. Res. Commun. 208:1008-1015(1995).
+     PubMed=7702599
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

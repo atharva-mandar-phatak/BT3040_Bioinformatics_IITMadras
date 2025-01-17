@@ -1,0 +1,27 @@
+NATRESASSCMP
+In mice, natural resistance to infection with intracellular parasites is
+controlled by the Bcg locus, which modulates the cytostatic/cytocidal
+activity of phagocytes [1]. A candidate gene has recently been identified,
+Nramp1 [1]: Nramp1 is expressed exclusively in macrophages and poly-
+morphonuclear leukocytes, and encodes a polypeptide (natural resistance-
+associated macrophage protein) with features typical of integral membrane
+proteins. The sequence is characterised by a highly-conserved hydrophobic
+core (thought to comprise 10-12 transmembrane (TM) domains), a glycosylated
+extracytoplasmic loop, and a possible intracytoplasmic consensus transport
+signature. These characteristics have led to speculation that the Nramp
+polypeptides may form part of a group of transporters or channels that
+act on as yet unidentified substrates [1]. 
+
+NATRESASSCMP is a 7-element fingerprint that provides a signature for the
+Nramp family of membrane proteins. The fingerprint was derived from an
+initial alignment of 9 sequences: the motifs were drawn from hydrophobic
+regions spanning virtually the full alignment length - motifs 1-4 encode
+putative TM domains 3-6; motif 5 spans the possible transport signature; 
+and motifs 6 and 7 encode TM domains 9 and 10. Two iterations on OWL26.3
+were required to reach convergence, at which point a true set comprising
+12 sequences was identified. Two partial matches were also found: MLU151847 
+fails to make significant matches with motifs 2, 3, 5 and 6; and OANRAMP
+is a fragment lacking the final 5 motifs.
+
+An update on SPTR37_9f identified a true set of 25 sequences, and 4
+partial matches.

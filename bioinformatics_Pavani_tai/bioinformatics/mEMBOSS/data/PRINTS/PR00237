@@ -1,0 +1,65 @@
+GPCRRHODOPSN
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+GPCRRHODOPSN is a 7-element fingerprint that provides a signature for the 
+rhodopsin-like GPCR superfamily [1,2,5]. The fingerprint was derived from
+an initial alignment of 11 opsins: the motifs encode each of the 7 hydro-
+phobic, membrane-spanning regions. Six iterations on OWL8.1 were required
+to reach convergence, at which point all rhodopsin-like GPCRs in the data-
+base were identified (52 in total). In addition, a single partial match was
+found, namely A1AB_CANFA, a fragment lacking the portion of sequence
+bearing the first 2 motifs.
+
+Updates on subsequent OWL releases have shown a rapid growth in the super-
+family. In OWL28.1, the fingerprint identifies a true set comprising 687
+sequences, but the situation has grown in complexity, 229 partial matches
+also being identified - the total number of true and partial 'hits' is 
+thus 916. The partial matches comprise both fragments, which lack motif-
+bearing sections of sequence, and complete sequences in which one or more
+of the TM motifs are not matched, or at least are matched only poorly.
+
+A large number of partial matches are olfactory receptors, which mostly
+fail to match motifs 6, 4 and 2. But increasingly represented in this
+category are the prostaglandin and thromboxane receptors, most of which
+fail to match motif 5, and the gonadotropin-releasing hormone receptors,
+which tend not to match well with motif 1. The failure of such sequences 
+to match certain motifs arises primarily from the replacement of a number
+of vitally conserved residues, usually in the context of other small
+changes in neighbouring residues, resulting in slight changes in their
+TM signatures.
+
+The diversity of receptors included in the composite database, and the
+scale of the family itself, is rendering the task of identifying all
+sequences unambiguously rather difficult. It is likely that we may
+consider a weighting scheme in future updates to tackle this problem.
+We are also deriving further family-specific fingerprints to be used in 
+conjunction with that of the superfamily.
+
+The fingerprint does not recognise the pheromone, cAMP, secretin-like or
+metabotropic glutamate receptors. It is well-established that these
+constitute discrete GPCR families, which can be characterised by their
+own unique TM fingerprints (see signatures GPCRSECRETIN, GPCRCAMP, GPCRSTE2
+and GPCRMGR, and for example PROSITE patterns PS00649 G_PROTEIN_RECEP_F2_1
+and PS00650 G_PROTEIN_RECEP_F2_2). 
+
+An update on SPTR55_38f identified a true set of 2375 sequences, and
+numerous partial matches, all of which are superfamily members that
+fail to match one or more motifs. A more representative seed alignment
+containing 43 sequences has also been developed.

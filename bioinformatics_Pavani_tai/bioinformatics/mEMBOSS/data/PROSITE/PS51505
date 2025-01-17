@@ -1,0 +1,69 @@
+***********************
+* SCA7 domain profile *
+***********************
+
+SAGA (Spt-Ada-Gcn5  acetyltransferase),  a  coactivator  complex  involved  in
+chromatin remodelling,  harbours both histone acetylation and deubiquitination
+activities. ATXN7/Sgf73 and ATXN7L3, two subunits of the SAGA deubiquitination
+module, contain  an ~50-residue SCA7 domain characterized by an atypical zinc-
+finger (ZnF)   with   a   Cys-X(9,10)-Cys-X(5)-Cys-X(2)-His  motif,  which  is
+characterized by  a  long  sequence  insertion    between  the  first two zinc
+coordinating residues.  The SCA7 domain is found exclusively in members of the
+ATXN7 gene  family,  which  includes  two distinct subunits of SAGA complexes:
+ATXN7 and  ATXN7L3 orthologues. The analysis of multiple alignments highlights
+the consensus  signature  for the SCA7 domain, encompassing the putative zinc-
+coordinating residues,  but  also  reveals  the  distinct  features of the two
+proteins. Marked  differences  are found mostly in the carboxy-terminal of the
+domain, suggesting  that divergent evolution of the SCA7 Znf domain occured in
+order to  achieve  specific  functions  in the SAGA complex. Both SCA7 domains
+contain disordered  regions,  albeit not in the same region. Whereas the first
+and last  10  residues  of  ATXN7-SCA7 (see <PDB:2KKR>) are not folded, the N-
+terminal region  of  ATXN7L3-SCA7  (see <PDB:2KKT>) is well structured and the
+last 30  residues  of  this  domain  are  not  folded.  In both ATXN7-SCA7 and
+ATXN7L3-SCA7, the  large sequence insertion between the first and second zinc-
+coordinating cysteines corresponds to a protruding extended hairpin structure.
+The core  of  the zinc-binding sites shows a conserved structure formed by two
+short adjacent  loops  located at the bottom of the hairpin. Although the SCA7
+domains of  both  ATXN7  and  ATXN7L3 contain two alpha-helices, these are not
+located at  similar  positions in the sequences. In ATXN7-SCA7, the two alpha-
+helices are located downstream from the zinc-binding site and are separated by
+a loop  containing a large number of positively charged  residues. In ATXN7L3-
+SCA7, the  two helices lie to either side of the zinc-binding site, leading to
+a different packing of the two helices. In ATXN7–SCA7, the two helices have an
+almost perpendicular orientation, the alpha2 helix being anchored to the zinc-
+binding site.  In  ATXN7L3–SCA7,  the helices alpha1 and alpha2 adopt an anti-
+parallel orientation  defined  by  hydrophobic  interactions.  The  ATXN7-SCA7
+domain binds  to  the  core  or the C-terminal ends of the histone H2A and H2B
+dimer, a  region  located  on the lateral face of the nucleosome that contains
+the ubiquitinated  Lys  120  of  H2B.  This property is lost in the ATXN7-SCA7
+domain [1,2].
+
+The profile we developed covers the entire SCA7 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2010 / First entry.
+
+[ 1] McMahon S.J., Pray-Grant M.G., Schieltz D., Yates J.R. III,
+     Grant P.A.
+     "Polyglutamine-expanded spinocerebellar ataxia-7 protein disrupts
+     normal SAGA and SLIK histone acetyltransferase activity."
+     Proc. Natl. Acad. Sci. U.S.A. 102:8478-8482(2005).
+     PubMed=15932941; DOI=10.1073/pnas.0503493102
+[ 2] Bonnet J., Wang Y.-H., Spedale G., Atkinson R.A., Romier C.,
+     Hamiche A., Pijnappel W.W.M.P., Timmers H.T.M., Tora L., Devys D.,
+     Kieffer B.
+     "The structural plasticity of SCA7 domains defines their differential
+     nucleosome-binding properties."
+     EMBO Rep. 0:0-0(2010).
+     PubMed=20634802; DOI=10.1038/embor.2010.98
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

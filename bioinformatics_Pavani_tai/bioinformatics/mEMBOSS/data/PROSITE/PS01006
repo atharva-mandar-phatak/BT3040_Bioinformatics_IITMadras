@@ -1,0 +1,56 @@
+***********************************************
+* Formate and nitrite transporters signatures *
+***********************************************
+
+A number  of  bacterial  and archaebacterial proteins involved in transporting
+formate or nitrite have been shown [1] to be related:
+
+ - focA  and  focB,  from  Escherichia  coli,  transporters  involved  in  the
+   bidirectional transport of formate.
+ - fdhC,  from  Methanobacterium  formicicum  and thermoformicicum, a probable
+   formate transporter.
+ - nirC,  from Escherichia coli and Salmonella typhimurium, a probable nitrite
+   transporter.
+ - Bacillus subtilis hypothetical protein yrhG.
+ - Bacillus subtilis hypothetical protein ywcJ (ipa-48R).
+
+These transporters are proteins of about 280 residues and  seem to contain six
+transmembrane regions.  As  signature  patterns,  we  selected  two  conserved
+regions. The  first  one  is  located  in  what seems to be a cytoplasmic loop
+between the second and third transmembrane  domains; the second is part of the
+fourth transmembrane region.
+
+The 70  Kd  yeast  hypothetical  protein  YHL008c  is  highly  similar, in its
+N-terminal section, to the prokaryotic members of this family.
+
+-Consensus pattern: [LIVMA]-[LIVMY]-x-G-[GSTA]-[DES]-L-[FI]-[TN]-[GS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [GA]-x(2)-[CA]-N-[LIVMFYW](2)-V-C-[LV]-A
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belongs  to  family  TC 2.44 in  the classification of
+ transporters [2].
+
+-Last update: July 1999 / Text revised.
+
+[ 1] Suppmann B., Sawers G.
+     "Isolation and characterization of hypophosphite--resistant mutants of
+     Escherichia coli: identification of the FocA protein, encoded by the
+     pfl operon, as a putative formate transporter."
+     Mol. Microbiol. 11:965-982(1994).
+     PubMed=8022272
+[ 2] Saier M.H. Jr.
+     Adv. Microbiol. Physiol. 40:81-136(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

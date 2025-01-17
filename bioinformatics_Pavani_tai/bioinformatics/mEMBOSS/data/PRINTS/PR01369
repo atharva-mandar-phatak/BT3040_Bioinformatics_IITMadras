@@ -1,0 +1,41 @@
+INTIMIN
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1].
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane 
+translocate secreted proteins through a channel-like structure.
+
+Exotoxins secreted by the type III system do not possess a secretion signal,
+and are considered unique for this reason [1]. Enteropathogenic and entero-
+haemorrhagic Escherichia coli secrete the bacterial adhesion mediation
+molecule intimin [2], which targets the translocated intimin receptor, 
+Tir [3]. Tir is secreted by the bacteria and is embedded in the target 
+cell's plasma membrane [2]. This facilitates bacterial cell attachment to 
+the host. 
+
+The crystal structure of an enteropathogenic Escherichia coli intimin
+C-terminal fragment has been determined to 1.9A resolution [3]. The 
+structure has also been resolved in complex with the Tir intimin-binding
+domain, giving insight into the molecular mechanisms of adhesion in
+attaching and effacing pathogens [3].
+
+INTIMIN is an 8-element fingerprint that provides a signature for type III
+secreted intimin bacterial adhesion mediator proteins. The fingerprint was
+derived from an initial alignment of 2 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~900 amino acids) - 
+motif 7 overlaps the N-terminus of the immunoglobulin-like domain 1, and
+motif 8 spans part of the C-type lectin-like domain 3 (motif 7 encodes beta-
+strand 1 of the C-terminal domain and motif 8 spans the C-terminus of alpha-
+helix 2 and helices 3 and 4). Two iterations on  SPTR37_10f were required to
+reach convergence, at which true set comprising 10 sequences was identified.
+Several partial matches were also found, including a number of Yersinia spp.
+invasins, all of which match motifs 3 and 4. 

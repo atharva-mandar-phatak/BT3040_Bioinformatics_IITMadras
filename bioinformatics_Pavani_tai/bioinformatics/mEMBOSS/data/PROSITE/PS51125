@@ -1,0 +1,47 @@
+**********************
+* NHL repeat profile *
+**********************
+
+The NHL repeat was defined by amino acid sequence homologies among Ncl-1, HT2A
+and  Lin-41  proteins  [1].  NHL  is a conserved structural motif present in a
+large family of growth regulator. Many NHL containing proteins have additional
+domains  such  as  a  RING  finger (see <PDOC00449>), a B-box zinc finger (see
+<PDOC50119>)  or  a  coiled-coil motif. According to structural model analysis
+the NHL domain could be involved in protein-protein interaction [2].
+
+The NHL  domain  is  a six-bladed beta-propeller, with the blades arrayed in a
+radial fashion  around  a  central  axis,  and each blade composed of a highly
+twisted four  stranded  antiparallel  beta-sheet  (see  <PDB:1Q7F>)  [2].  The
+innermost strand  of  each blade is labeled 'a' and the outermost strand, 'd'.
+Like in  other beta-propellers the sequence repeats are offset with respect to
+the blades  of  the propeller, such that any given 40-residue NHL repeat spans
+strands 'b-d'  of  one propeller blade and strand 'a' of the subsequent blade.
+This offset  ensures  circularization of the propeller because the last strand
+of the  final  sequence repeat acts as an innermost strand a of the blade that
+harbors strands 'b-d' from the first sequence repeat.
+
+The profile we developed  covers the whole NHL sequence repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2005 / First entry.
+
+[ 1] Slack F.J., Ruvkun G.
+     "A novel repeat domain that is often associated with RING finger and
+     B-box motifs."
+     Trends Biochem. Sci. 23:474-475(1998).
+     PubMed=9868369
+[ 2] Edwards T.A., Wilkinson B.D., Wharton R.P., Aggarwal A.K.
+     "Model of the brain tumor-Pumilio translation repressor complex."
+     Genes Dev. 17:2508-2513(2003).
+     PubMed=14561773; DOI=10.1101/gad.1119403
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

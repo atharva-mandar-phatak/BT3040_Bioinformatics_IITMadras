@@ -1,0 +1,48 @@
+******************************
+* Hemopexin domain signature *
+******************************
+
+Hemopexin is a  serum glycoprotein that  binds  heme and transports it  to the
+liver for breakdown and iron recovery, after  which the free hemopexin returns
+to the circulation.  Structurally hemopexin consists of  two similar halves of
+approximately two hundred  amino acid residues  connected  by a histidine-rich
+hinge region. Each half is itself formed by the repetition of  a basic unit of
+some 35 to 45 residues.  Hemopexin-like domains have  been found [1,2]  in two
+other types of proteins:
+
+ - In vitronectin, a cell  adhesion and spreading  factor  found in plasma and
+   tissues. Vitronectin, like hemopexin, has two hemopexin-like domains.
+ - In  most  members  of the matrix metalloproteinases family (matrixins) (see
+   <PDOC00129>): MMP-1,  MMP-2,  MMP-3,  MMP-8, MMP-9, MMP-10, MMP-11, MMP-12,
+   MMP-13, MMP-14,  MMP-15,  MMP-16,  MMP-17,  MMP-18, MMP-19, MMP-20, MMP-24,
+   and MMP-25. These zinc endoproteases have a single hemopexin-like domain in
+   their C-terminal section.
+
+It is suggested that the  hemopexin domain facilitates binding to a variety of
+molecules and proteins. The signature pattern for this type of domain has been
+derived from the best  conserved region  which is  located at the beginning of
+the second repeat.
+
+-Consensus pattern: [LIFAT]-{IL}-x(2)-W-x(2,3)-[PE]-x-{VF}-[LIVMFY]-[DENQS]-
+                    [STA]-[AV]-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 11.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hunt L.T., Barker W.C., Chen H.R.
+     Protein Seq. Data Anal. 1:21-26(1987).
+[ 2] Stanley K.K.
+     "Homology with hemopexin suggests a possible scavenging function for
+     S-protein/vitronectin."
+     FEBS Lett. 199:249-253(1986).
+     PubMed=2422056
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

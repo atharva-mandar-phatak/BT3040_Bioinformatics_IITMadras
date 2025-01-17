@@ -1,0 +1,51 @@
+****************************************************
+* Eukaryotic RNA polymerase II heptapeptide repeat *
+****************************************************
+
+RNA polymerase II (EC 2.7.7.6) [1,2]  is   one of  the  three   forms  of  RNA
+polymerase that  exist  in eukaryotic nuclei.  The  C-terminal region  of  the
+largest subunit of this oligomeric  enzyme consists of the tandem repeat of  a
+conserved heptapeptide [3].  The number of  repeats  varies  according  to the
+species  (for example: 17 in Plasmodium, 26 in yeast, 44 in Drosophila, and 52
+in mammals). The region containing  these repeats is essential to the function
+of polymerase II. This  repeated heptapeptide  (called CT7n or CTD) is rich in
+hydroxyl groups. It probably projects out of the globular catalytic domain and
+may interact with the acidic  activator  domains of transcriptional regulatory
+proteins. It is also known to bind by intercalation to DNA.  RNA polymerase II
+is activated by phosphorylation. The serine and threonine residues in the CT7n
+repeats are the target of such phosphorylation.
+
+-Consensus pattern: Y-[ST]-P-[ST]-S-P-[STANK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The consensus for the heptapeptide repeat is Y-S-P-T-S-P-S, but we have
+ allowed variants in position 2, 4, and, 7 of the pattern so as to detect some
+ of the imperfect repeats.
+-Note: Protozoan parasites such Trypanosoma and Crithidia  do  not have a CT7n
+ domain.
+
+-Last update: December 1991 / Text revised.
+
+[ 1] Woychik N.A., Young R.A.
+     "RNA polymerase II: subunit structure and function."
+     Trends Biochem. Sci. 15:347-351(1990).
+     PubMed=1700503
+[ 2] Young R.A.
+     "RNA polymerase II."
+     Annu. Rev. Biochem. 60:689-715(1991).
+     PubMed=1883205; DOI=10.1146/annurev.bi.60.070191.003353
+[ 3] Corden J.L.
+     "Tails of RNA polymerase II."
+     Trends Biochem. Sci. 15:383-387(1990).
+     PubMed=2251729
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

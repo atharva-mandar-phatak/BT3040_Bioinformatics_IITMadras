@@ -1,0 +1,42 @@
+RNADNAPOLMS
+DNA	carries the biological information that instructs cells how to exist
+in an ordered fashion: accurate replication is thus one of the most
+important events in the cell life cycle. This function is mediated by
+DNA-directed DNA-polymerases, which add nucleotide triphosphate (dNTP)
+residues to the 5'-end of the growing DNA chain, using a complementary 
+DNA as template. 
+
+The use of an RNA template to produce DNA, for integration into the host 
+genome and exploitation of a host cell, is a strategy employed in the 
+replication of retroid elements, such as the retroviruses and bacterial
+retrons [1]. The enzyme catalysing polymerisation is an RNA-directed DNA-
+polymerase, or reverse trancriptase (RT) (EC 2.7.7.49).  
+
+The RNA-dependent DNA-polymerases belong to a number of different groups,
+based on host specificity [2]. One group of RTs, originally identified in
+myxobacteria, produces a branched RNA-linked multi-copy single stranded DNA
+(mSDNA), the function of which is unknown. The presence of msDNA is
+characteristic of a number of retroid elements. These polymerases are
+also assumed to carry a ribonuclease H activity.
+
+Three motifs, A, B and C, as defined by Delarue et al. [2], are seen to be 
+conserved across all DNA-polymerases, with motifs A and C also seen in RNA- 
+polymerases. They are centered on invariant residues, and their structural 
+significance was implied from the Klenlow (E.coli) structure: motif A 
+contains a strictly-conserved aspartate at the junction of a beta-strand 
+and an alpha-helix; motif B contains an alpha-helix with positive charges; 
+and motif C has a doublet of negative charges, located in a beta-turn-beta 
+secondary structure [2]. 
+
+RNADNAPOLMS is a 9-element fingerprint that provides a signature for the 
+RNA-dependent DNA-polymerase (msDNA) family. The fingerprint was derived 
+from an initial alignment of 4 sequences: the motifs were drawn from 
+conserved regions from the N-terminal portion of the alignment, i.e. within
+the RT domain - motif 4 encodes "motif A"; and motif 8 shows significant 
+similarity to "motif C". Two iterations on OWL30.1 were required to reach
+convergence, at which point a true set comprising 8 sequences was identified.
+Several partial matches were also found, all of which are divergent family 
+members.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 10
+partial matches.

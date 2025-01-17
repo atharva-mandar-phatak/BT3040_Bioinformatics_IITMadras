@@ -1,0 +1,64 @@
+MITP450
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1],
+widely distributed in bacteria, fungi, plants and animals. The enzymes
+are involved in metabolism of a plethora of both exogenous and endogenous
+compounds [2]. Usually, they act as terminal oxidases in multi-component
+electron transfer chains, called P450-containing monooxygenase systems. 
+
+P450-containing monooxygenase systems primarily fall into 2 major classes:
+bacterial/mitochondrial (type I); and microsomal (type II). Alternatively,
+P450-containing systems can be classified according to the number of their
+protein components [3]: mitochondrial and most bacterial P450 systems have
+3 components - an FAD-containing flavoprotein (NADPH or NADH-dependent
+reductase), an iron-sulphur protein, and P450; the eukaryotic microsomal 
+P450 system contains 2 components - NADPH:P450 reductase (a flavoprotein
+containing both FAD and FMN) and P450; and a soluble monooxygenase P450BM-3
+from Bacillus megaterium exists as a single polypeptide chain with 2 
+functional parts (the haem and flavin domains), and represents a unique 
+bacterial one-component system - sequence and functional comparisons show
+that these domains are more similar to P450 and the flavoprotein of the
+microsomal 2-component P450 monooxygenase system than to the relevant
+proteins of the 3-component system [4].
+
+Current P450 nomenclature, based on divergent evolution of the P450 
+superfamily, was proposed and developed by Nebert et al. [5]. On the basis 
+of sequence similarity, all P450s can be categorised into 2 main groups, 
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component 
+systems and fungal P450nor (CYP55) belong to the B-class; all other known 
+P450s from distinct systems are of the E-class. The data suggest that 
+divergence of the P450 superfamily into B- and E-classes, and further 
+divergence into stable P450 groups within the E-class, must be very ancient
+and had occured before the appearance of eukaryotes. 
+
+By contrast with the B-class, containing water-soluble haemoproteins, 
+most E-class P450s are membrane-bound. Membranous P450s can be divided into
+those from the inner mitochondrial membrane (mitochondrial type), and those
+from membranes of the endoplasmic reticulum (ER) (microsomal type). In the
+mitochondrial P450-containing monooxygenase system, P450 can be reduced by
+the 2Fe-2S iron-sulphur protein adrenodoxin, which can accept electrons
+from NADPH-dependent adrenodoxin reductase. Both adrenodoxin and
+adrenodoxin reductase are soluble, and located in the mitochondrial matrix 
+[6]. Microsomal P450s depend on a single NADPH:P450 reductase; the P450s
+and the reductase are located on the cytosolic side of the ER membrane, and
+are anchored to the membrane by hydrophobic amino-terminal segments [7].  
+
+To date, only animal mitochondrial P450s have been sequenced. P450scc
+(CYP11A) is responsible for conversion of cholesterol to pregnenolone [8].
+P450s from the CYP11B subfamily catalyse 11-beta- or 18-hydroxylation of
+steroids [9]. The CYP27 family contain enzymes involved in 25-hydroxylation
+of vitamin D3 and sterol 26- and 27-hydroxylation [10]. P450 from pond
+snail (CYP10) is highly similar to the mitochondrial P450, although its
+cellular location is unknown [11].  
+
+MITP450 is a 4-element fingerprint that provides a signature for 
+mitochondrial P450s. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved regions spanning the 
+N-terminal half of the alignment, focusing on those sections that 
+characterise mitochondrial P450S but distinguish them from the rest of the
+P450 superfamily. Two iterations on SPTR37_10f were required to reach 
+convergence, at which point a true set comprising 32 sequences was 
+identified. Several partial matches were also found, the majority of which
+are mitochondrial P450s. The fingerprint does not distinguish the CC24
+P450s, which show distinct sequence differences from the rest of the
+mitochondrial P450 proteins (see signature MITP450CC24). Most matches
+with two motifs are noise. 

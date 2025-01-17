@@ -1,0 +1,23 @@
+CYTOTOXIN
+Snake toxins constitute a family of proteins that includes short and long
+neurotoxins, cytotoxins and a variety of venom peptides [1-3]. Most 
+of the toxins act by binding to the nicotinic acetylcholine receptors
+in the postsynaptic membrane of skeletal muscles, preventing binding of
+acetylcholine and hence blocking muscle excitation. The toxin primary
+structure comprises 60-75 amino acid residues and is characterised by
+8 conserved cysteines, all of which are involved in disulphide bridge
+formation, and a conserved proline believed to be involved in maintaining
+the protein fold.
+
+CYTOTOXIN is a 5-element fingerprint that provides a signature for the
+snake cytotoxins. The fingerprint was derived from an initial alignment
+of 10 sequences: the motifs span virtually the full alignment length
+and include a conserved proline and 7 cysteine residues, 3 of which are
+encoded by PROSITE pattern SNAKE_TOXIN (PS00272) (cf. motifs 4 and 5).
+Three iterations of OWL23.1 were required to reach convergence, at which 
+point a true set comprising 47 sequences was identified. Several partial
+matches were also found, including a cytotoxin homologue that matches
+3 motifs, and various neurotoxins that match only two.  
+
+An update on SPTR37_9f identified a true set of 66 sequences, and 2
+partial matches.

@@ -1,0 +1,83 @@
+********************************
+* LysR-type HTH domain profile *
+********************************
+
+The  lysR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  60 residues present in lysR-type transcriptional regulators
+(LTTR),  one  of the most common regulator families in prokaryotes. The family
+is  named  after  the  Escherichia  coli regulator lysR [1]. LysR proteins are
+present in diverse bacterial genera, archaea and algal chloroplasts. All LTTRs
+contain  the DNA-binding lysR-type HTH domain, usually in the N-terminal part.
+Most  LTTRs  require  a small compound that acts as co-inducer. The C-terminal
+part  of  lysR  proteins  can  contain a regulatory domain with two subdomains
+involved  in  (1)  co-inducer  recognition/response  and  (2)  DNA binding and
+response. LTTRs activate the transcription of operons and regulons involved in
+very  diverse  functions,  such  as  amino  acid  biosynthesis,  CO2 fixation,
+antibiotic   resistance,  regulation  of  virulence  factors,  nodulation  for
+nitrogen  fixing  bacteria,  oxidative  stress  response or aromatic compounds
+catabolism.
+
+Most  LTTRs act as a transcriptional activator of the target genes and also as
+a repressor of their own expression. Typical LTTRs bind to a sequence of about
+50-60  bp,  which  contains two distinct sites, (1) a recognition-binding site
+(RBS)  centered  near  -65  of the target transcription start site and with an
+inverted   repeat   motif   including   the   T-N(11)-A   motif   and  (2)  an
+activation-binding   site   (ABS)   which  overlaps  the  -35  region  of  the
+transcription  start  site  of  the  regulated  gene. LysR proteins are mainly
+cytoplasmic, but some seem membrane-bound [2].
+
+The crystal structure of the lysR DNA-binding domain of CbnR shows three alpha
+helices  and  two  anti-parallel  beta  strands  (see <PDB:1IXC>),   with  the
+helix-turn-helix motif comprising the second and third helices and the strands
+being called the wing. Most LTTRs are likely tetramers [3].
+
+Some proteins known to contain a lysR domain:
+
+ - Proteus vulgaris blaA, a transcriptional regulator of beta-lactamase.
+ - Pseudomonas  putida  catR,  a regulator of catechol catabolism for benzoate
+   degradation.
+ - Escherichia coli cynR, a regulator for detoxification of cyanate.
+ - Klebsiella aerogenes cysB, a regulator of cysteine biosynthesis.
+ - Vibrio cholerae irgB, an iron-dependent regulator of virulence factors.
+ - Escherichia coli lysR, a transcriptional regulator of lysine biosynthesis.
+ - Escherichia coli nhaR, a regulator of a sodium/proton (Na+/H+) antiporter.
+ - Rhizobium  meliloti  nodD and syrM, regulators of nodulation genes involved
+   in nitrogen fixation symbiosis.
+ - Salmonella typhimurium oxyR, a regulator of intracellular hydrogen peroxide
+   and oxydative stress response.
+ - Ralstonia solanacearum phcA, a regulator of virulence factors.
+
+The profile we developed covers the entire lysR-type HTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Schell M.; schell@uga.cc.uga.edu
+
+-Last update: October 2003 / Pattern removed, profile added and text revised.
+
+[ 1] Henikoff S., Haughn G.W., Calvo J.M., Wallace J.C.
+     "A large family of bacterial activator proteins."
+     Proc. Natl. Acad. Sci. U.S.A. 85:6602-6606(1988).
+     PubMed=3413113
+[ 2] Schell M.A.
+     "Molecular biology of the LysR family of transcriptional regulators."
+     Annu. Rev. Microbiol. 47:597-626(1993).
+     PubMed=8257110; DOI=10.1146/annurev.mi.47.100193.003121
+[ 3] Muraoka S., Okumura R., Ogawa N., Nonaka T., Miyashita K., Senda T.
+     "Crystal structure of a full-length LysR-type transcriptional
+     regulator, CbnR: unusual combination of two subunit forms and
+     molecular bases for causing and changing DNA bend."
+     J. Mol. Biol. 328:555-566(2003).
+     PubMed=12706716
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

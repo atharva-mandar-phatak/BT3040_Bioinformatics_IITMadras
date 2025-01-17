@@ -1,0 +1,75 @@
+****************************************************
+* RFX-type winged-helix DNA-binding domain profile *
+****************************************************
+
+The RFX  family  of  transcription  factors  is characterized by a unique ~75-
+residue DNA-binding  domain.  RFX genes have been isolated in yeasts, nematode
+and vertebrates.  The  characteristic RFX-type HTH DNA binding domain has been
+recruited into  otherwise  very  divergent regulatory factors functioning in a
+diverse spectrum  of  unrelated  systems,  including regulation of the mitotic
+cell cycle  in  fission  yeast, the control of the immune response in mammals,
+and infection by human hepatitis B virus [1,2].
+
+The RFX-type  DNA-binding  domain  is  an  unusual  member of the winged-helix
+subfamily of helix-turn-helix domains because it uses a beta-hairpin (or wing)
+to recognize  DNA  instead of the recognition helix typical of helix-tun-helix
+domains. It  consists  of  three alpha-helices (H), three beta-strands (S) and
+three connecting  loops (L), arranged in the order H1-S1-H2-L1-H3-L2-S2-W1-S3.
+The third  loop,  connecting  beta-strands  S2  and  S3,  forms wing W1 of the
+winged-helix motif  (see  <PDB:1DP7>).  In  contrast  to  previously described
+winged-helix DBDs (typically 110 residues long with two wings, W1 and W2), the
+shorter RFX-type winged-helix DNA-binding domain has only one wing [3].
+
+Some proteins  known to contain a RFX-type winged-helix DNA-binding domain are
+listed below:
+
+ - Human RFX1, a cellular transactivator that is used by the highly pathogenic
+   hepatitis B virus.
+ - Human RFX2.
+ - Human RFX3, a transcription factor required for ciliogenesis and islet cell
+   differentiation during endocrine pancreas development.
+ - Human RFX5, a regulator of MHC class II gene transcription.
+ - Human  ARID2,  a  component  of  the  SWI/SNF-B (PBAF) chromatin remodeling
+   complex [4].
+ - Yeast  Crt1,  an  effector  of  the  DNA damage and replication checkpoint.
+ - Schizosaccharomyces pombe sak1, an essential regulatory protein in the life
+   cycle. It  allows  cells  to  exit  the  mitotic cycle and enter either the
+   stationary phase or the pathway leading to sexual differentiation.
+
+The profile  we  developed covers the entire RFX-type winged-helix DNA-binding
+domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2011 / First entry.
+
+[ 1] Emery P., Durand B., Mach B., Reith W.
+     "RFX proteins, a novel family of DNA binding proteins conserved in the
+     eukaryotic kingdom."
+     Nucleic Acids Res. 24:803-807(1996).
+     PubMed=8600444
+[ 2] Durand B., Vandaele C., Spencer D., Pantalacci S., Couble P.
+     "Cloning and characterization of dRFX, the Drosophila member of the
+     RFX family of transcription factors."
+     Gene 246:285-293(2000).
+     PubMed=10767550
+[ 3] Gajiwala K.S., Chen H., Cornille F., Roques B.P., Reith W., Mach B.,
+     Burley S.K.
+     "Structure of the winged-helix protein hRFX1 reveals a new mode of DNA
+     binding."
+     Nature 403:916-921(2000).
+     PubMed=10706293; DOI=10.1038/35002634
+[ 4] Patsialou A., Wilsker D., Moran E.
+     "DNA-binding properties of ARID family proteins."
+     Nucleic Acids Res. 33:66-80(2005).
+     PubMed=15640446; DOI=10.1093/nar/gki145
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

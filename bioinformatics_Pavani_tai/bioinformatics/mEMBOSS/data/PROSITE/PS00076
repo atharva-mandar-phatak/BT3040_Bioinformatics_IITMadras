@@ -1,0 +1,70 @@
+**********************************************************************
+* Pyridine nucleotide-disulphide oxidoreductases class-I active site *
+**********************************************************************
+
+The pyridine nucleotide-disulphide oxidoreductases are FAD flavoproteins which
+contains a pair of redox-active cysteines involved in the transfer of reducing
+equivalents from the FAD cofactor to the substrate.   On the basis of sequence
+and  structural similarities [1]  these enzymes  can  be  classified  into two
+categories. The first category groups together the following enzymes [2 to 6]:
+
+ - Glutathione reductase (EC 1.8.1.7) (GR).
+ - Higher eukaryotes thioredoxin reductase (EC 1.8.1.9).
+ - Trypanothione reductase (EC 1.8.1.12).
+ - Lipoamide dehydrogenase (EC 1.8.1.4),  the  E3 component  of alpha-ketoacid
+   dehydrogenase complexes.
+ - Mercuric reductase (EC 1.16.1.1).
+
+The sequence around the  two cysteines involved  in the redox-active disulfide
+bond is conserved and can be used as a signature pattern.
+
+-Consensus pattern: G-G-x-C-[LIVA]-x(2)-G-C-[LIVM]-P
+                    [The 2 C's form the active site disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In positions 6 and 7 of the pattern all known  sequences have Asn-(Val/
+ Ile) with the  exception of GR from plant chloroplasts and from cyanobacteria
+ which have Ile-Arg [7].
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Kurlyan J., Krishna T.S.R., Wong L., Guenther B., Pahler A.,
+     Williams C.H. Jr., Model P.
+     Nature 352:172-174(1991).
+[ 2] Rice D.W., Schulz G.E., Guest J.R.
+     "Structural relationship between glutathione reductase and lipoamide
+     dehydrogenase."
+     J. Mol. Biol. 174:483-496(1984).
+     PubMed=6546954
+[ 3] Brown N.L.
+     Trends Biochem. Sci. 10:400-402(1985).
+[ 4] Carothers D.J., Pons G., Patel M.S.
+     "Dihydrolipoamide dehydrogenase: functional similarities and divergent
+     evolution of the pyridine nucleotide-disulfide oxidoreductases."
+     Arch. Biochem. Biophys. 268:409-425(1989).
+     PubMed=2643922
+[ 5] Walsh C.T., Bradley M., Nadeau K.
+     "Molecular studies on trypanothione reductase, a target for
+     antiparasitic drugs."
+     Trends Biochem. Sci. 16:305-309(1991).
+     PubMed=1957352
+[ 6] Gasdaska P.Y., Gasdaska J.R., Cochran S., Powis G.
+     "Cloning and sequencing of a human thioredoxin reductase."
+     FEBS Lett. 373:5-9(1995).
+     PubMed=7589432
+[ 7] Creissen G., Edwards E.A., Enard C., Wellburn A., Mullineaux P.
+     "Molecular characterization of glutathione reductase cDNAs from pea
+     (Pisum sativum L.)."
+     Plant J. 2:129-131(1992).
+     PubMed=1303792
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

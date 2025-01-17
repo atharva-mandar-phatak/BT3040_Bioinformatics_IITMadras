@@ -1,0 +1,76 @@
+************************
+* PLA2c domain profile *
+************************
+
+The  PLA2c domain is the catalytic lipase domain in cytosolic phospholipase A2
+(cPLA2)  (EC  3.1.1.4)  and  lysophospholipase  or  phospholipase  B (PLB) (EC
+3.1.1.5)   of  vertebrates  and  fungi.  It  catalyzes  the  carboxylic  ester
+hydrolysis  of  glycerophospholipids or lysophospholipids. The mammalian cPLA2
+group IVA enzymes cleave intracellular phospholipid membranes to produce lipid
+mediators,  which also play a role in inflammatory diseases such as asthma and
+arthritis.  This  enzyme  contains a N-terminal calcium-binding C2 domain (see
+<PDOC00380>)  that  presents  the catalytic domain to the membrane [1]. Fungal
+secreted   lysophospholipase/PLB   can   possess   three  different  enzymatic
+activities,  the  hydrolase activity of phospholipase, lysophospholipase and a
+lysophospholipase transacylase activity.
+
+The  3D  structure  of  the PLA2c domain forms a central core of a 10-stranded
+mixed  beta sheet surrounded by 9 alpha helices (see <PDB:1CJY>). This central
+alpha/beta  core  resembles  the  alpha/beta hydrolase fold, but an additional
+180-residue patch between strands 9 and 10 forms a catalytic domain 'cap' [2].
+Ser  228  and  Asp 549 of human cPLA2 alpha form the potential catalytic dyad.
+Parts  of  the cap-region are poorly conserved and are distinct among isoforms
+[3,4].
+
+Some proteins known to contain a PLA2c domain:
+
+ - Mammalian   cytosolic  phospholipase  A2  (cPLA2)  alpha/group  IVA,  which
+   releases   arachidonic   acid   from   the   sn-2   position   of  membrane
+   glycerophospholipids  and  initiates  the  biosynthesis  of prostaglandins,
+   leukotrienes and platelet-activating factor.
+ - Mammalian  cytosolic  phospholipase  A2  (cPLA2)  gamma/group IVC, which is
+   implicated in the remodeling of membrane phospholipids.
+ - Fungal  lysophospholipases/PLB,  which  are  considered to be important for
+   virulence of pathogenic fungi.
+ - Yeast sporulation-specific protein 1 (SPO1), which is required for meiosis.
+
+The profile we developed covers the entire PLA2c domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2006 / First entry.
+
+[ 1] Nalefski E.A., Sultzman L.A., Martin D.M., Kriz R.W., Towler P.S.,
+     Knopf J.L., Clark J.D.
+     "Delineation of two functionally distinct domains of cytosolic
+     phospholipase A2, a regulatory Ca(2+)-dependent lipid-binding domain
+     and a Ca(2+)-independent catalytic domain."
+     J. Biol. Chem. 269:18239-18249(1994)
+     PubMed=8027085
+[ 2] Dessen A., Tang J., Schmidt H., Stahl M., Clark J.D., Seehra J.,
+     Somers W.S.
+     "Crystal structure of human cytosolic phospholipase A2 reveals a novel
+     topology and catalytic mechanism."
+     Cell 97:349-360(1999).
+     PubMed=10319815
+[ 3] Song C., Chang X.J., Bean K.M., Proia M.S., Knopf J.L., Kriz R.W.
+     "Molecular characterization of cytosolic phospholipase A2-beta."
+     J. Biol. Chem. 274:17063-17067(1999).
+     PubMed=10358058
+[ 4] Ohto T., Uozumi N., Hirabayashi T., Shimizu T.
+     "Identification of novel cytosolic phospholipase A(2)s, murine
+     cPLA(2)delta, epsilon, and zeta, which form a gene cluster with
+     cPLA(2)beta."
+     J. Biol. Chem. 280:24576-24583(2005).
+     PubMed=15866882; DOI=10.1074/jbc.M413711200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

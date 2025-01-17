@@ -1,0 +1,54 @@
+***********************************************
+* Phytochelatin synthase (PCS) domain profile *
+***********************************************
+
+Phytochelatins (PCs) are well known as the heavy metal-detoxifying peptides in
+higher plants,  eukaryotic  algae,  fungi,  nematode  and cyanobacteria. These
+peptides, of  the  general  structure  (gamma-Glu-Cys)n-Gly (with n=2-11), are
+enzymatically synthesized  from  the  substrate  glutathione  (GSH).  PCs  are
+synthesized posttranslationally  by  the  PC  synthase  (PCS) (EC 2.3.2.15), a
+gamma-glutamylcysteine (gamma-EC)  transpeptidase. PC synthesis is proposed to
+have two  distinct  steps:  (Step1) formation of gamma-EC concomitant with the
+cleavage of  Gly  from  GSH;  and (Step 2) transfer of the gamma-EC unit to an
+acceptor GSH  molecule  or  an  oligomeric  PC  peptide  (PCn). Eukaryotic PCS
+typically has  a conserved N-terminal domain and a variable C-terminal domain,
+both of  which  are cysteine-rich. The N-terminal core domain is sufficient to
+confer a  PCS  activity and therefore can be referred to the catalytic domain.
+Cyanobacterial PCS  contains the conserved N-terminal catalytic domain but not
+the variable  C-terminal  domain found in eukaryotic PCSs. It can act as a GSH
+hydrolase and weakly as a peptide ligase [1,2].
+
+The catalytic  PCS  domain  belongs  to  the petidase family C83 of the papain
+superfamily of  cysteine  proteases  [E1],  with  the  structurally  conserved
+"catalytic triad"  and  oxyanion  hole  in  the active site. It has an overall
+"crescent" shape  with  alpha/beta fold containing eight alpha-helices and six
+beta-strands (see <PDB:2BTW>) [2].
+
+The profile we developed covers the entire PCS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2009 / First entry.
+
+[ 1] Tsuji N., Nishikori S., Iwabe O., Shiraki K., Miyasaka H., Takagi M.,
+     Hirata K., Miyamoto K.
+     "Characterization of phytochelatin synthase-like protein encoded by
+     alr0975 from a prokaryote, Nostoc sp. PCC 7120."
+     Biochem. Biophys. Res. Commun. 315:751-755(2004).
+     PubMed=14975765; DOI=10.1016/j.bbrc.2004.01.122
+[ 2] Vivares D., Arnoux P., Pignol D.
+     "A papain-like enzyme at work: native and acyl-enzyme intermediate
+     structures in phytochelatin synthesis."
+     Proc. Natl. Acad. Sci. U.S.A. 102:18848-18853(2005).
+     PubMed=16339904; DOI=10.1073/pnas.0505833102
+[E1] http://merops.sanger.ac.uk/cgi-bin/make_frame_file?id=C83
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

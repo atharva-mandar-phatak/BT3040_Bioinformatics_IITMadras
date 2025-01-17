@@ -1,0 +1,75 @@
+************************
+* Connexins signatures *
+************************
+
+Gap junctions [1] are specialized regions of the plasma membrane which consist
+of closely  packed  pairs  of  transmembrane  channels, the connexons, through
+which small molecules diffuse from a cell to a neighboring cell. Each connexon
+is composed  of  an  hexamer  of  an  integral membrane protein which is often
+referred to  as  connexin. In a given species there are a number of different,
+yet structurally  related,  tissue specific, forms of connexins.  The types of
+connexins which are currently known are listed below.
+
+ - Connexin 56   (Cx56).
+ - Connexin 50   (Cx50)   (lens fiber protein MP70).
+ - Connexin 46   (Cx46)   (alpha-3).
+ - Connexin 45   (Cx45)   (alpha-6).
+ - Connexin 43   (Cx43)   (alpha-1).
+ - Connexin 40   (Cx40)   (alpha-5).
+ - Connexin 38   (Cx38)   (alpha-2).
+ - Connexin 37   (Cx37)   (alpha-4).
+ - Connexin 33   (Cx33)   (alpha-7).
+ - Connexin 32   (Cx32)   (beta-1).
+ - Connexin 31.1 (Cx31.1) (beta-4).
+ - Connexin 31   (Cx31)   (beta-3).
+ - Connexin 30.3 (Cx30.3) (beta-5).
+ - Connexin 26   (Cx26)   (beta-2).
+
+Structurally the connexins  consist of a  short cytoplasmic N-terminal domain,
+followed by four  transmembrane  segments  that delimit  two extracellular and
+one cytoplasmic loops; the C-terminal domain is cytoplasmic  and its length is
+variable  (from 20 residues in Cx26  to  260 residues in Cx56).  The schematic
+representation of this structure is shown below.
+
+       NH2-***        ***          *************-COOH
+             **     **   **      **
+             **    **     **    **   Cytoplasmic
+          ---**----**-----**----**----------------
+             **    **     **    **   Membrane
+             **    **     **    **
+          ---**----**-----**----**----------------
+             **    **     **    **   Extracellular
+              **  **       **  **
+                **           **
+
+The sequences of the two extracellular loops are well conserved. In both loops
+there are three conserved cysteines which are involved in disulfide bonds.  We
+have built signature patterns from each of these two loop regions.
+
+-Consensus pattern: C-[DNH]-[TL]-x-[QT]-P-G-C-x(2)-[VAIL]-C-[FY]-D
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-x(3,4)-P-C-x(2,3)-[LIVMTA]-[DENT]-C-[FYN]-[LIVMQ]-[SA]-
+                    [KRH]-P
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Goodenough D.A., Goliger J.A., Paul D.L.
+     "Connexins, connexons, and intercellular communication."
+     Annu. Rev. Biochem. 65:475-502(1996).
+     PubMed=8811187; DOI=10.1146/annurev.bi.65.070196.002355
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

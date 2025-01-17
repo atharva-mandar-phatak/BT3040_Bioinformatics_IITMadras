@@ -1,0 +1,44 @@
+SUPERTUBBY
+A mutation in the mouse tub gene causes maturity-onset obesity, insulin 
+resistance and sensory deficits [1,2]. By contrast with the rapid juvenile-
+onset weight gain seen in diabetes (db) and obese (ob) mice, obesity in
+tubby mice develops gradually, and strongly resembles the late-onset obesity
+observed in the human population [2]. Excessive deposition of adipose tissue
+culminates in a two-fold increase of body weight. Tubby mice also suffer
+retinal degeneration and neurosensory hearing loss [2]. The tripartite
+character of the tubby phenotype is highly similar to human obesity
+syndromes, such as Alstrom and Bardet-Biedl [2]. Although these phenotypes
+indicate a vital role for tubby proteins, no biochemical function has yet
+been ascribed to any family member [3], although it has been suggested that
+the phenotypic features of tubby mice may be the result of cellular 
+apoptosis triggered by expression of the mutuated tub gene [2].
+
+Tubby-like proteins (TULPs) are found in a wide range of multicellular
+organisms [2]: for example, human TULP1 [4], which is involved in retinis
+pigmentosa 14 (RP14); human TULP2 [4]; mammalian TULP3 [5]; mouse protein
+p4-6, whose function is unknown; Caenorhabditis elegans hypothetical protein
+F10B5.4; and a variety of other proteins from plants and Drosophila.
+
+Mammalian tub is a hydrophilic protein of ~500 residues. The N-terminal
+portion of the protein is conserved neither in length nor sequence, but the 
+C-terminal 250 residues are highly conserved. The C-terminal extremity
+contains a cysteine residue that might play an important role in the normal
+functioning of these proteins.
+
+The crystal structure of the C-terminal core domain from mouse tubby has
+been determined to 1.9A resolution [3], revealing an alpha-beta protein with
+a barrel architecture. Structural analyses suggest that TULPs constitute a
+unique family of bipartite transcription factors [3]. 
+
+SUPERTUBBY is a 7-element fingerprint that provides a signature for the
+tubby-like protein family. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning the C-terminal half of the alignment - motif 1 spans the C-terminus
+of beta strand 4 and helix 2; motif 2 encompasses strands 5 and 6 and helix
+3; motif 3 spans strands 7 and 8; motif 4 spans the C-terminus of strand 9 
+and strands 10 and 11; motif 5 encompasses strands 12 and 13; motif 6 spans
+strands 14 and 15; and motif 7, which includes the C-terminal cysteine
+residue, encodes helix 6. Five iterations on SPTR39.22_17.3f were required
+to reach convergence, at which point a true set comprising 22 sequences was
+identified. Several partial matches were also found, all of which are tubby-
+like proteins that fail to make significant matches with one or more motifs.

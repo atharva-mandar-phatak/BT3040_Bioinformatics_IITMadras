@@ -1,0 +1,45 @@
+MTG8PROTEIN
+Transcriptional activation and repression is required for control of
+cell proliferation and differentiation during embryonic development and
+homeostasis in the adult organism. Perturbations of these processes can
+lead to the development of cancer [1]. The Eight-Twenty-One (ETO) gene
+product is able to form complexes with corepressors and deacetylases,
+such as nuclear receptor corepressor (N-CoR), which repress transcription
+when recruited by transcription factors [2].
+
+The ETO gene derives its name from its association with many cases of
+acute myelogenous leukaemia (AML), in which a reciprocal translocation,
+t(8;21), brings together a large portion of the ETO gene from chromosome
+eight and part of the AML1 gene from chromosome 21. The human ETO gene
+family currently comprises three major subfamilies: ETO/myeloid
+transforming gene on chromosome 8 (MTG8); myeloid transforming gene related
+protein-1 (MTGR1) and myeloid transforming gene on chromosome 16 (MTG16).
+
+ETO proteins are composed of four evolutionarily conserved domains termed
+nervy homology regions (NHR) 1-4. NHR1 is thought to stabilise the formation
+of high molecular weight complexes, but is not directly responsible for
+repressor activity. NHR2 and its flanking sequence comprise the core
+repressor domain, which mediates 50% of the wild type repressor activity.
+Furthermore, there is evidence that the amphipathic helical structure of
+NHR2 promotes the formation of ETO/AML1 homodimers [1]. NHR3 and NHR4 have
+been shown to act in concert to bind N-CoR. NHR4 contains two zinc finger
+motifs, which are thought to play a role in protein interactions rather
+than DNA binding [2].
+
+MTG8 was the first family member to be characterised after being observed as
+the chromosome 8 component of the t(8;21) fusion transcript. Northern blot 
+analysis revealed high levels of MTG8 expression in the brain, with lower 
+levels present in the lung, heart, testis and ovary. Interestingly, no 
+detectable levels of MTG8 were observed in haematopoetic tissues, such as 
+the spleen and thymus [3].
+
+MTG8PROTEIN is a 6-element fingerprint that provides a signature for the
+myeloid transforming gene on chromosome 8 (MTG8) protein. The fingerprint
+was derived from an initial alignment of 4 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length, focusing on
+those sections that characterise MTG8 proteins but distinguish them from
+closely related ETO family members - motif 1 lies between NHR1 and NHR2; 
+motif 2 is located within NHR4; motif 3 resides between NHR4 and the
+zinc-finger domain; and motifs 4-6 span the C-terminal region. A single
+iteration on SPTR40_22f was required to reach convergence, no further
+sequences being identified beyond the starting set.

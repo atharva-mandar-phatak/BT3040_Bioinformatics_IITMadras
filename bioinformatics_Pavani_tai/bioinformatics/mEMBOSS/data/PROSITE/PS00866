@@ -1,0 +1,73 @@
+*****************************************************
+* Carbamoyl-phosphate synthase subdomain signatures *
+*****************************************************
+
+Carbamoyl-phosphate synthase (CPSase) catalyzes the ATP-dependent synthesis of
+carbamyl-phosphate from  glutamine  (EC  6.3.5.5) or ammonia (EC 6.3.4.16) and
+bicarbonate [1].   This important enzyme initiates both the urea cycle and the
+biosynthesis of arginine and pyrimidines.
+
+Glutamine-dependent CPSase  (CPSase  II)  is  involved  in the biosynthesis of
+pyrimidines and purines. In bacteria such as Escherichia coli, a single enzyme
+is involved  in  both biosynthetic pathways while other bacteria have separate
+enzymes. The bacterial enzymes are formed of two subunits. A small chain (gene
+carA) that provides glutamine amidotransferase activity (GATase) necessary for
+removal of  the  ammonia  group  from glutamine, and a large chain (gene carB)
+that provides  CPSase  activity. Such a structure is also present in fungi for
+arginine biosynthesis  (genes  CPA1  and CPA2). In most  eukaryotes, the first
+three steps   of   pyrimidine   biosynthesis   are   catalyzed   by   a  large
+multifunctional enzyme  -  called URA2 in yeast, rudimentary in Drosophila and
+CAD in  mammals [2]. The CPSase domain is located between an N-terminal GATase
+domain and   the  C-terminal  part  which  encompass  the  dihydroorotase  and
+aspartate transcarbamylase activities.
+
+Ammonia-dependent CPSase (CPSase I) is involved in the urea cycle in ureolytic
+vertebrates; it  is  a  monofunctional  protein  located  in the mitochondrial
+matrix.
+
+The CPSase  domain  is  typically  120  Kd  in  size  and  has arisen from the
+duplication of an ancestral subdomain of about 500 amino acids. Each subdomain
+independently binds to  ATP and it is suggested that the two homologous halves
+act separately, one  to catalyze the phosphorylation of bicarbonate to carboxy
+phosphate and the other that of carbamate to carbamyl phosphate.
+
+The CPSase  subdomain is also present in a single copy in the biotin-dependent
+enzymes acetyl-CoA  carboxylase  (EC 6.4.1.2) (ACC), propionyl-CoA carboxylase
+(EC 6.4.1.3)  (PCCase),  pyruvate  carboxylase  (EC  6.4.1.1)  (PC)  and  urea
+carboxylase (EC 6.3.4.6).
+
+As signatures for  the  subdomain, we selected two conserved regions which are
+probably important for binding ATP and/or catalytic activity.
+
+-Consensus pattern: [FYV]-[PS]-[LIVMC]-[LIVMA]-[LIVM]-[KR]-[PSA]-[STA]-x(3)-
+                    [SG]-G-x-[AG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMF]-[LIMN]-E-[LIVMCA]-N-[PATLIVM]-[KR]-[LIVMSTAC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 35.
+
+-Last update: July 1998 / Patterns and text revised.
+
+[ 1] Simmer J.P., Kelly R.E., Rinker A.G. Jr., Scully J.L., Evans D.R.
+     "Mammalian carbamyl phosphate synthetase (CPS). DNA sequence and
+     evolution of the CPS domain of the Syrian hamster multifunctional
+     protein CAD."
+     J. Biol. Chem. 265:10395-10402(1990).
+     PubMed=1972379
+[ 2] Davidson J.N., Chen K.C., Jamison R.S., Musmanno L.A., Kern C.B.
+     "The evolutionary history of the first three enzymes in pyrimidine
+     biosynthesis."
+     BioEssays 15:157-164(1993).
+     PubMed=8098212
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

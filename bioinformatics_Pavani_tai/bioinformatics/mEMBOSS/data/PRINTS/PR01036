@@ -1,0 +1,34 @@
+TCRTETB
+The streptococcal plasmid pMV158 and its derivative pLS1 are able to 
+confer tetracycline resistance in both Gram-positive and Gram-negative
+bacteria [1]. Determination of the complete DNA sequence of pLS1 revealed 
+four open reading frames (ORFs) [1]; one putative mRNA transcript encoded a 
+very hydrophobic protein required for tetracycline resistance (Tcr). The tet
+gene of pLS1 is similar to tet genes in two other plasmids of Gram-positive
+origin, but different in both sequence and mode of regulation from tet genes
+of Gram-negative origin [1]. 
+
+Similarly, the nucleotide sequence of the Tcr region of Bacillus plasmid
+pTHT15 has been determined, and a single ORF encoding a 458 amino acid 
+50kDa protein (Tet) identified after a GTG initiation codon preceded 
+by a ribosome binding site [2]. Comparison of the Tet protein with the
+staphylococcal Tcr proteins of pT181 revealed considerable similarity. 
+
+The Tet protein confers resistance to tetracycline by active tetracycline
+efflux, by functioning as a metal-tetracycline/H+ antiporter. This is an
+energy-dependent process that decreases the accumulation of the antibiotic
+in whole cells. Tet is an integral membrane protein with 12 potential
+transmembrane domains.
+
+TCRTETB is a 12-element fingerprint that provides a signature for TetB
+tetracycline resistance proteins. The fingerprint was derived from an 
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motifs 1-11 encode putative 
+TM domains 1-11; and motif 12 lies at the C-terminus. A single iteration
+on OWL30.2 was required to reach convergence, no further sequences being 
+identified beyond the starting set. Several partial matches were found, 
+all of which are fragments and related Tcr proteins that fail to match 5 
+or more motifs.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 4
+partial matches.

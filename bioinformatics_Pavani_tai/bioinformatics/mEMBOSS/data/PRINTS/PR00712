@@ -1,0 +1,26 @@
+BNATPEPTIDE
+Atrial natriuretic peptides (ANPs) are vertebrate hormones that play an
+important role in the control of cardiovascular homeostatis, and sodium
+and water balance in general [1-3]. There are different NPs that vary in
+length but share a common core. All are processed from a single precursor.
+A disulphide bond resident in the C-terminal section is required for full
+activity of atriopeptins.
+
+The family of NPs includes structurally-related peptides that elicit 
+similar pharmacological spectra: amongst these are brain natriuretic
+peptide (BNP); C-type natriuretic peptide (CNP); ventricular natriuretic
+peptide (VNP) [4]; and green mamba natriuretic peptide (DNP) [5]. 
+
+BNATPEPTIDE is a 7-element fingerprint that provides a signature for brain
+natriuretic peptides. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length - motifs 4 and 5 span the C-terminal region encoded
+by PROSITE pattern NATRIURETIC_PEPTIDE (PS00263), which includes the two
+functionally important cysteines and two conserved glycines, which may be
+important for the conformation of the peptides. Two iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising
+6 sequences was identified. Several partial matches were also found, all
+of which are fragments and/or related natriuretic peptides.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 13
+partial matches.

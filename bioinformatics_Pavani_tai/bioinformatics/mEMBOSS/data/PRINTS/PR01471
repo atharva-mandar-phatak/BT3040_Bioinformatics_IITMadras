@@ -1,0 +1,46 @@
+HISTAMINEH3R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+paracrine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+   
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+   
+Histamine is distributed within mast cells in all peripheral tissues and 
+is a well-characterised mediator of inflammation and allergy [6]. It also
+regulates release of gastric acid from parietal cells in the gastric mucosa.
+H3 receptors function as presynaptic autoreceptors on histamine-containing
+neurones. They are expressed abundantly in the central nervous system, with
+highest levels found in the thalamus, caudate nucleus and cortex. High
+levels of expression are also found in the hypothalamus, hippocampus and
+olfactory tubercle. In the periphery, low levels of H3 have been detected in
+the human small intestine, testis and prostate but not in a number of other
+tissues tested, including the heart, lung and spleen [7]. Binding of 
+histamine to H3 receptors results in inhibition of forskolin-stimulated cAMP
+accumulation, suggesting coupling to a G protein of the Gi class [7].
+
+HISTAMINEH3R is an 8-element fingerprint that provides a signature for the
+histamine H3 receptors. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved sections
+within the N-terminus and loop regions, focusing on those regions of the 
+alignment that characterise the histamine H3 receptors but distinguish them 
+from the rest of the histamine receptor family - motif 1 is located in the
+N-terminus; motif 2 spans part of the N-terminus leading into TM domain 1;
+motifs 3 and 4 span the second external loop; motifs 5 and 6 span the
+N-terminal region of the third cytoplasmic loop; motif 7 encodes the
+C-terminus of the third cytoplasmic loop; and motif 8 resides at the
+C-terminus of TM domain 6, leading into the third external loop. Two 
+iterations on SPTR39_15f were required to reach convergence, at which point
+a true set comprising 7 sequences was identified.

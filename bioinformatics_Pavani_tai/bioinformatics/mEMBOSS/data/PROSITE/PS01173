@@ -1,0 +1,56 @@
+************************************************************************
+* Lipolytic enzymes "G-D-X-G" family, putative active sites signatures *
+************************************************************************
+
+The following lipolytic enzymes are evolutionary related [1]:
+
+ - Mammalian  hormone sensitive lipase (HSL). In adipose tissue and heart, HSL
+   primarily hydrolyzes  stored  triglycerides  to  free fatty acids, while in
+   steroidogenic tissues,  it  principally converts cholesteryl esters to free
+   cholesterol for steroid hormone production.
+ - Mammalian arylacetamide deacetylase (DAC).
+ - Moraxella  strain  TA144  lipase  2  (gene lip2), an enzyme active at a low
+   temperature.
+ - Acinetobacter  calcoaceticus  esterase  which  seems to be active on simple
+   triglycerides such as triacetin.
+ - Streptomyces  hygroscopicus  acetyl-hydrolase (gene bah), which removes the
+   N-acetyl group from the antibiotic bialaphos.
+ - Escherichia coli acetyl esterase aes.
+
+In Moraxella  lip2,  the  mutagenesis  [2]  of either an histidine or a serine
+results in  the loss of the activity of the enzyme. These putative active site
+residues are  each centered in conserved regions that can be used as signature
+patterns.
+
+-Consensus pattern: [LIVMF](2)-x-[LIVMF]-H-G(2)-[SAG]-[FYW]-x(3)-[STDN]-
+                    x(1,2)-[STYA]-[HAGFT]
+                    [The first H may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for DAC.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-x-[LIVMF]-[SA]-G-D-S-[CAS]-G-[GA]-x-[LI]-[CAVT]
+                    [S may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1995).
+[ 2] Feller G., Thiry M., Gerday C.
+     "Nucleotide sequence of the lipase gene lip2 from the antarctic
+     psychrotroph Moraxella TA144 and site-specific mutagenesis of the
+     conserved serine and histidine residues."
+     DNA Cell Biol. 10:381-388(1991).
+     PubMed=1907455;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,31 @@
+NRIONCHANNEL
+Neurotransmitter-gated ion channels are transmembrane receptor complexes
+that temporarily form channels on binding specific ligands, allowing rapid
+transmission of signals at chemical synapses [1-3]. Five subtypes are known,
+namely gamma-aminobutyric acid (GABA), nicotinic acetylcholine, glycine,
+serotonin 5HT3, and glutamte receptors [1-3].
+
+The receptors are composed of varying numbers and types of subunit. Each
+subunit contains a large extracellular N-terminal ligand-binding region;
+3 hydrophobic transmembrane domains; a large intracellular region; and a
+fourth hydrophobic domain [1-3]. The GABA, acetylcholine, serotonin 5HT3
+and glycine receptors share a degree of sequence similarity, but differ
+from the glutamate receptors - sequences of this family possess 2 Cys
+residues in the N-terminal domain, which, in nicotinic receptors, form a
+disulphide bond essential for correct folding of the structure.
+
+NRIONCHANNEL is a 4-element fingerprint that provides a signature for the
+neurotransmitter-gated ion channel family. The fingerprint was derived from
+an initial alignment of 26 sequences: the motifs were drawn from conserved
+regions in the N-terminal domain, motif 3 including the region encoded by
+PROSITE pattern NEUROTR_ION_CHANNEL (PS00236), which contains the 2
+conserved cysteines. Three iterations on OWL25.1 were required to reach
+convergence, at which point a true set comprising 149 sequences was
+identified. Six partial matches were also found: SYNHUMACRS, ACHA_NAJNA,
+ACHA_NATTE and ACHB_CHICK are nicotinic receptor fragments; ACHA_HUMAN is
+a nicotinic receptor with a 25-residue insertion in motif 1; and CEC09G5
+is a C.elegans GABA receptor that fails to make a significant match with
+motif 4.
+
+An update on SPTR37_9f identified a true set of 221 sequences, and 30
+partial matches.

@@ -1,0 +1,66 @@
+**********************
+* CXC domain profile *
+**********************
+
+Polycomb group  (Pc-G)  proteins  ensure  the stable inheritance of expression
+patterns through cell division and regulate the control of cell proliferation.
+The Enhancer of zeste (E(z))-type of Pc-G proteins includes:
+
+ - Drosophila melanogaster Enhancer of zeste E(z).
+ - Mammalian ENX-1 and ENX-2.
+ - Arabidopsis  thaliana  CURLY  LEAF  (CLF),  a  transcriptional repressor of
+   floral homeotic gene AGAMOUS.
+ - Arabidopsis thaliana CLF-like.
+ - Arabidopsis thaliana MEDEA (MEA), a suppressor of endosperm development.
+ - Arabidopsis thaliana EZA1.
+
+These proteins  contain  a  SET  domain  (see  <PDOC50280>) at the C-terminus.
+Unique to them is the presence of a CXC domain, an ~65-residue cys-rich region
+preceding the  SET  domain.  The  spacing of 17 cyteines is conserved. The CXC
+domain contains three units of C-X(6)-C-X(3)-C-X-C motif, although the most C-
+terminal unit  is  reverse-oriented. Because of its evolutionary conservation,
+the CXC  domain  is  likely  to  be involved in an important function of E(z)-
+related proteins [1,2,3].
+
+The CXC  domain  shows  some similarity to the CRC domain found in the tesmin/
+TSO1 protein family (see <PDOC51634>) [4].
+
+The profile we developed covers the entire CXC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2012 / First entry.
+
+[ 1] Hobert O., Sures I., Ciossek T., Fuchs M., Ullrich A.
+     "Isolation and developmental expression analysis of Enx-1, a novel
+     mouse Polycomb group gene."
+     Mech. Dev. 55:171-184(1996).
+     PubMed=8861097
+[ 2] Hobert O., Jallal B., Ullrich A.
+     "Interaction of Vav with ENX-1, a putative transcriptional regulator
+     of homeobox gene expression."
+     Mol. Cell. Biol. 16:3066-3073(1996).
+     PubMed=8649418
+[ 3] Ogawa M., Hiraoka Y., Taniguchi K., Aiso S.
+     "Cloning and expression of a human/mouse Polycomb group gene,
+     ENX-2/Enx-2."
+     Biochim. Biophys. Acta 1395:151-158(1998).
+     PubMed=9473645
+[ 4] Andersen S.U., Algreen-Petersen R.G., Hoedl M., Jurkiewicz A.,
+     Cvitanich C., Braunschweig U., Schauser L., Oh S.-A., Twell D.,
+     Jensen E.O.
+     "The conserved cysteine-rich domain of a tesmin/TSO1-like protein
+     binds zinc in vitro and TSO1 is required for both male and female
+     fertility in Arabidopsis thaliana."
+     J. Exp. Bot. 58:3657-3670(2007).
+     PubMed=18057042; DOI=10.1093/jxb/erm215
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

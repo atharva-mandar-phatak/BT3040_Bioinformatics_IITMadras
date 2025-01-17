@@ -1,0 +1,54 @@
+*****************************************************************
+* Dihydroxy-acid and 6-phosphogluconate dehydratases signatures *
+*****************************************************************
+
+Two dehydratases have been shown [1] to be evolutionary related:
+
+ - Dihydroxy-acid dehydratase (EC 4.2.1.9) (gene ilvD or ILV3) which catalyzes
+   the fourth   step  in  the  biosynthesis  of  isoleucine  and  valine,  the
+   dehydratation of  2,3-dihydroxy-isovaleic  acid  into  alpha-ketoisovaleric
+   acid.
+ - 6-phosphogluconate dehydratase (EC 4.2.1.12) (gene edd) which catalyzes the
+   first step in the Entner-Doudoroff pathway, the dehydratation of 6-phospho-
+   D-gluconate into 6-phospho-2-dehydro-3-deoxy-D-gluconate.
+ - Escherichia coli hypothetical protein yjhG.
+
+Both enzymes  are  proteins  of about 600 amino acid residues. We selected two
+highly conserved  regions  as signature patterns. The first pattern is located
+in the  N-terminal  part and contains a cysteine that could be involved in the
+binding of  a 2Fe-2S iron-sulfur cluster [2]. The second pattern is located in
+the C-terminal half.
+
+-Consensus pattern: C-D-K-x(2)-P-[GA]-x(3)-[GA]
+                    [The C could be a 2Fe-2S ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [SGALC]-[LIMF]-[LIVMF]-T-D-[GA]-R-[LIVMFY]-S-[GA]-[GAV]-
+                    [ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Egan S.E., Fliege R., Tong S., Shibata A., Wolf R.E. Jr., Conway T.
+     "Molecular characterization of the Entner-Doudoroff pathway in
+     Escherichia coli: sequence analysis and localization of promoters for
+     the edd-eda operon."
+     J. Bacteriol. 174:4638-4646(1992).
+     PubMed=1624451
+[ 2] Velasco J.A., Cansado J., Pena M.C., Kawakami T., Laborda J., Notario V.
+     "Cloning of the dihydroxyacid dehydratase-encoding gene (ILV3) from
+     Saccharomyces cerevisiae."
+     Gene 137:179-185(1993).
+     PubMed=8299945
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

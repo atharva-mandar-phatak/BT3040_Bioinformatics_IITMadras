@@ -1,0 +1,50 @@
+**********************
+* NTR domain profile *
+**********************
+
+The netrin  (NTR)  module  is  an  about  130-residue  domain  found in the C-
+terminal parts  of  netrins,  complement  proteins  C3,  C4,  and C5, secreted
+frizzled-related proteins,   and  type  I  procollagen  C-proteinase  enhancer
+proteins (PCOLCEs), as well as in the N-terminal parts of tissue inhibitors of
+metalloproteinases (TIMPs)  (see  <PDOC00260>). The proteins harboring the NTR
+domain fulfill diverse biological roles ranging from axon guidance, regulation
+of Wnt  signalling,  to the control of the activity of metalloproteinases. The
+NTR domain  can  be  found  associated  to  other  domains  such  as  CUB (see
+<PDOC00908>), WAP  (see  <PDOC00026>),  Kazal  (see  <PDOC00254>), Kunitz (see
+<PDOC00252>), Ig-like  (see <PDOC50835>), laminin N-terminal, laminin-type EGF
+(see <PDOC00961>)  or frizzled (see <PDOC50038>). The NTR domain is implicated
+in inhibition of zinc metalloproteinases of the metzincin family [1,2].
+
+The NTR module is a basic domain containing six conserved cysteines, which are
+likely to  form  internal  disulfide  bonds,  and  several conserved blocks of
+hydrophobic residues  (including an YLLLG-like motif). The NTR module consists
+of a  beta-barrel  with two terminal alpha-helices packed side by side against
+the face of the beta-barrel (see <PDB:1BR9>) [1].
+
+The profile we developed covers the entire NTR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2003 / First entry.
+
+[ 1] Banyai L., Patthy L.
+     "The NTR module: domains of netrins, secreted frizzled related
+     proteins, and type I procollagen C-proteinase enhancer protein are
+     homologous with tissue inhibitors of metalloproteases."
+     Protein Sci. 8:1636-1642(1999).
+     PubMed=10452607
+[ 2] Trexler M., Banyai L., Patthy L.
+     "A human protein containing multiple types of protease-inhibitory
+     modules."
+     Proc. Natl. Acad. Sci. U.S.A. 98:3705-3709(2001).
+     PubMed=11274388; DOI=10.1073/pnas.061028398
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

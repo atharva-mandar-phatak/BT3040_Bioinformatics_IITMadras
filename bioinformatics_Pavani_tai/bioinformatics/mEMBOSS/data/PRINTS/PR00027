@@ -1,0 +1,41 @@
+PAIREDBOX
+Organisms develop according to a precise program that specifies the body
+plan in intricate detail and also determines the timing of developmental
+events [1]. The highly complex nature of these events has suggested that 
+the process may be regulated by proteins capable of controlling the 
+temporal and spatial expression of many structural genes. The genes for 
+this process were first discovered as homeotic mutations in Drosophila [2],
+and many similar genes are now known in a wide variety of organisms.
+
+Proteins that regulate developmental gene expression are nuclear proteins 
+[3] that contain a conserved domain known as the homeobox, the flanking
+sequences of which differ considerably among different proteins. The homeo 
+domain includes the helix-turn-helix (HTH) motif, which binds to DNA in a 
+sequence specific manner to exert a temporal and spatial regulation of 
+developmental gene expression [4]. The second helix of the HTH motif binds
+to DNA via a number of hydrogen bonds and hydrophobic interactions, which
+occur between specific side chains and the exposed bases and thymine methyl
+groups within the major groove. The first helix may help to stablise the 
+structure [5].
+
+Many homeodomain-containing proteins have now been sequenced and, while
+the homeodomain flanking regions vary, characteristic conserved sequences 
+upstream of the domain allow the proteins to be grouped into 3 subfamilies:
+the so-called antennapedia, engrailed and 'paired box' proteins. The paired 
+box is a conserved 124 amino acid N-terminal domain of unknown function. 
+This usually, but not always, precedes a homeobox domain. Paired box genes 
+are expressed in alternate segments of the developing fruit fly, the 
+observed grouping of segments into pairs depending on the position of the 
+segment in the segmental array, and not on the identity of the segment as 
+in the case of homeotic genes. This implies that the genes affect different
+processes from those altered by homeotic genes.
+
+PAIREDBOX is a 4-element fingerprint that provides a signature for the 
+paired box domain. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs span the first 80 residues of the domain,
+2 and 3 including the region encoded by PROSITE pattern PAIRED_BOX 
+(PS00034). Two iterations on OWL20.0 were required to reach convergence,
+at which point a true set comprising 23 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 89 sequences, and 1
+partial match.

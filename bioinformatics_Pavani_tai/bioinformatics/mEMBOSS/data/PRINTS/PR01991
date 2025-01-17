@@ -1,0 +1,32 @@
+GPR153GPR162
+Computational methods, including percent identity plots, hydropathy profiles
+and BLAST, have been used to analyse a gene-rich cluster at human chromosome
+12p13 and to compare it with its syntenic region in mouse chromosome 6 [1-3].
+Of 6 genes identified, one of these, termed Gene A, revealed 3 splice forms:
+form A2 demonstrated a clear 7-transmembrane (TM) hydropathy profile, and
+showed very weak similarity to members of the G protein-coupled receptor 
+(GPCR) superfamily [3].
+
+GPCRs mediate a wide range of physiological functions, are major drug
+targets, and are consequently the subject of considerable research interest.
+In 2003, Vassilatis et al. reported that the repertoire of GPCRs for 
+endogenous ligands consisted of 367 receptors in humans and 392 in mice,
+including 26 from human and 83 from mouse that had not been identified
+previously [4]. 
+
+Amongst these novel receptors were GP153 (also known as PGR1) and GP162 
+(also known as GRCA). While these sequences do show some similarity to 
+rhodopsin-class GPCRs (most notably to certain tyramine and serotonin
+receptors, particularly in the region of TM domain 4), the overall degree
+of similarity is very low, and evidence that these are functional GPCRs has
+not been gathered experimentally.
+
+GPR153GPR162 is a 7-element fingerprint that provides a signature for the 
+GP153/GP162 7TM protein family. The fingerprint was derived from an initial
+alignment of 7 sequences - the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, motifs 1-7 encoding the 7
+most hydrophobic, presumed TM regions. Two iterations on SPTR55_38f were
+required to reach convergence, at which point a true set comprising 8 
+sequences was identified. Two partial matches were also found, Q3KR68_RAT 
+and Q3TY71_MOUSE, both of which are family members, failing to make
+significant matches with motifs 6 and 7 respectively.

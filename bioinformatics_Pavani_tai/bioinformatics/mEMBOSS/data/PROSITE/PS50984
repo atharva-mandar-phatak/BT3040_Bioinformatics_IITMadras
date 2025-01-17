@@ -1,0 +1,54 @@
+***********************
+* TRUD domain profile *
+***********************
+
+The most  abundant  modification seen in structured RNAs (transfer, ribosomal,
+and splicing  RNAs)  is  the isomerization of uridine (U) to pseudouridine (5-
+ribosyluracil). Pseudouridine is made by a set of enzymes called pseudouridine
+synthase, which  select  specific  U  residues  in  a polynucleotide chain for
+isomerization to  pseudouridine.  Pseudouridine  synthases  are  ubiquitous as
+putative synthase genes have been found in all genomes so far sequenced. TruD,
+a pseudouridine  synthase  in Escherichia coli, is responsible for modifying U
+13 in  tRNA-Glu  to  pseudouridine.  Homologs  of truD have been identified in
+eubacteria, archaea,  and  eukarya. Because all of the organisms known to have
+pseudouridine 13  in their tRNAs also have a truD homolog, it is reasonable to
+infer that truD homologs in those organisms with tRNA pseudouridine 13 are the
+responsible synthases [1].
+
+TruD folds  into  a  V-shaped  molecule with two distinct modules: a catalytic
+domain that  differs  in  sequence  but  is  structurally  very similar to the
+catalytic domain  of  other  pseudouridine synthases and a TRUD domain of ~150
+amino acids  with  a alpha/beta fold (see <PDB:1SI7>). The TRUD domain forms a
+compact fold  that  is  titled  away  from the catalytic domain to form a deep
+cleft in  truD  which  is lined with basic residues from each domain. The TRUD
+domain is always associated with a truD-type catalytic domain and is not found
+on its  own  or  attached  to  another  type  of protein as a separate module.
+Furthermore, there are no truD-type catalytic domain that lack the TRUD domain
+insert. The TRUD domain is characterized by two conserved sequence motifs that
+form a  part  of  the  hydrophobic  core. The TRUD domain sequence in the truD
+family is  also  characterized  by  large insertions at several specific sites
+that are  seen  in  many  archaeal and eukaryotic homologs. The TRUD domain is
+likely to be involved in substrate recognition and may represent a RNA binding
+module [1].
+
+The profile we developed covers the entire TRUD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / First entry.
+
+[ 1] Kaya Y., Del Campo M., Ofengand J., Malhotra A.
+     "Crystal structure of TruD, a novel pseudouridine synthase with a new
+     protein fold."
+     J. Biol. Chem. 279:18107-18110(2004).
+     PubMed=14999002; DOI=10.1074/jbc.C400072200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

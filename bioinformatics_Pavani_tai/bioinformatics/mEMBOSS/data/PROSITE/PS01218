@@ -1,0 +1,37 @@
+*************************
+* TatC family signature *
+*************************
+
+The following proteins have been shown [1] to share regions of similarities:
+
+ - Escherichia  coli  hypothetical  protein yigU and HI0188, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein ycbT.
+ - Mycobacterium  tuberculosis hypothetical protein MtCY49.33c and U2126A, the
+   corresponding Mycobacterium leprae protein.
+ - Synechocystis strain PCC 6803 hypothetical protein sll0194.
+ - Odontella  sinensis  and  Porphyra purpurea chlroplast hypothetical protein
+   ycf43.
+
+These proteins  have  from 245 to 317 amino acids and seem to contain at least
+six or  seven  transmembrane  regions.  As  a signature pattern, we selected a
+conserved region located in the central section of these proteins.
+
+-Consensus pattern: Y-x(2)-[FL]-[LIVMAFNT]-[LIVMAFT]-x-[LVSI]-x(4)-[GASF]-
+                    x(2)-F-[EQ]-[LIVMFC]-P-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bairoch A., Rudd K.E.
+     Unpublished observations (1996).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

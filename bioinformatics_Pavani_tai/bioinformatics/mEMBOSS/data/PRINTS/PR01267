@@ -1,0 +1,66 @@
+GSTRNSFRASEM
+Glutathione S-transferases (GSTs) are a range of dimeric proteins that
+catalyse the conjugation of glutathione to a wide range of hydrophobic
+compounds through the formation of a thioether bond with their
+electrophilic centre. Based on amino acid sequence identity, there are at
+least seven major classes of GST (designated alpha, kappa, mu, pi, sigma, 
+theta and zeta). Pi-, mu-, alpha- and theta-class crystal structures have
+been elucidated; all possess a similar GSH-binding site (G subsite), but 
+the hydrophobic substrate-binding site (H subsite) is subject to variation 
+across the classes [1]. Whilst most of the GSTs share common substrates,
+there are distinct differences in substrate preference between subfamilies.
+Sequence similarity between classes is rather low, ranging between 20-30%.
+However, a single point mutation in the H-subsite region is enough to shift
+substrate specificity from class pi to alpha [2].
+
+These enzymes have evolved as a cellular protection system against a range
+of xenobiotics, oxidative metabolism by-products, and in particular are
+known to metabolise a number of environmental carcinogens. The wide range
+of GST isoforms present in the various subfamilies provides cells with an
+efficient way of scavenging the huge number of potentially toxic compounds
+encountered. Genetic differences in GST expression have been implicated in
+individual susceptibility to certain types of cancer. Conversely, over- 
+expression of GSTs is thought to be involved in the phenomenon of multi-drug
+resistance to cancer chemotherapy.
+
+In spite of relatively low sequence identity, the GSTs exhibit a high degree
+of structural similarity. The structure comprises 2 domains: domain I is the
+smaller of the two and is formed from the N-terminal region of the sequence
+- it possesses an alpha/beta-type core structure comprising a central 
+4-stranded beta-pleated sheet, flanked on one side by two alpha-helices and
+on the other by a single helix; domain II is the larger of the domains and
+occurs towards the C-terminal region of the sequence - it contains a
+predominantly all-alpha-type core comprising 5 amphipathic alpha-helices,
+arranged in a right-handed spiral. The active site is situated near the
+subunit interface. G-subsite molecular recognition is attributable mostly 
+to residues in domain I of one subunit and 1 or 2 residues in domain II of
+the other subunit. Residues contributing to H-subsite specificity are found
+within domains I and II of the same subunit [3].
+
+At present, human mu-class GSTs can be subdivided into 5 isoforms based on
+differing substrate specificities [4]. Mu-class GSTs are thought to be
+involved in the detoxification of reactive oxygen species (cyclised
+o-quinones) produced via oxidative metabolism of catecholamines. These
+toxins are thought to be involved in neurological disorders of the
+nigrostriatal and mesolimbic systems (Parkinsons and Schizophrenia,
+respectively). Indeed, mu-class GSTs are expressed in the substantia nigra
+and have preferential substrate specificity for the cyclised o-quinones
+formed by catecholamine metabolism [5]. Mu-class GSTs possess the so-called
+"mu-loop", which occurs between strand beta-2 and helix alpha-3. This is a
+consequence of an insertion in the primary sequence and the loop allows the
+overall domain I topology to remain [3].  
+
+GSTRNSFRASEM is a 4-element fingerprint that provides a signature for mu-
+class glutathione S-transferases. The fingerprint was derived from an
+initial alignment of 12 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motif 1 includes the
+C-terminal region of beta-strand 2 and the loop between strand 2 and 
+alpha-helix 3; motif 2 spans helix 2 and the following loop; motif 3
+includes the N-terminal region of helix 5; and motif 4 includes the 
+C-terminal region of helix 6 and the following loop. Three iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 22 sequences was identified. Three partial matches were also 
+found: GTM1_DERPT and O16058 are mu-class glutathione transferases from 
+Dermatophagoides pteronyssinus (house-dust mite) and Echinococcus 
+granulosus, respectively, which match motifs 1 and 2; and Q27653 is 
+an unclassified GST that again matches motifs 1 and 2.

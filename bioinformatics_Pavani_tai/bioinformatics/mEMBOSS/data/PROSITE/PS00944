@@ -1,0 +1,43 @@
+***********************************************************
+* Cyclin-dependent kinases regulatory subunits signatures *
+***********************************************************
+
+Cyclin-dependent kinases  (CDK)  are  protein  kinases  which  associate  with
+cyclins to  regulate  eukaryotic  cell cycle progression.  The most well known
+CDK is p34-cdc2 (CDC28 in yeast) which is required  for entry into S-phase and
+mitosis. CDK's  bind  to  a  regulatory  subunit  which is essential for their
+biological function.  This regulatory  subunit is a small protein of 79 to 150
+residues. In  yeast  (gene  CKS1)  and  in  fission yeast (gene suc1) a single
+isoform is known, while mammals have two highly related isoforms.
+
+It has  been  shown  [1]  that  these  CDK regulatory subunits  assemble as an
+hexamer which  then acts as a hub for the oligomerization of six CDK catalytic
+subunits.
+
+The sequence  of  CDK regulatory subunits are highly conserved and we used the
+two most conserved regions as signature patterns.
+
+-Consensus pattern: Y-S-x-[KR]-Y-x-[DE](2)-x-[FY]-E-Y-R-H-V-x-[LV]-[PT]-[KRP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: H-x-P-E-x-H-[IV]-L-L-F-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Parge H.E., Arvai A.S., Murtari D.J., Reed S.I., Tainer J.A.
+     "Human CksHs2 atomic structure: a role for its hexameric assembly in
+     cell cycle control."
+     Science 262:387-395(1993).
+     PubMed=8211159
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

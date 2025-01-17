@@ -1,0 +1,79 @@
+****************************
+* ATP-grasp domain profile *
+****************************
+
+The  ATP-grasp superfamily currently includes 17 groups of enzymes, catalyzing
+ATP-dependent  ligation  of  a  carboxylate containing molecule to an amino or
+thiol   group-containing   molecule  [1].  They  contribute  predominantly  to
+macromolecular  synthesis. ATP-hydrolysis is used to activate a substrate. For
+example, DD-ligase transfers phosphate from ATP to D-alanine on the first step
+of  catalysis. On the second step the resulting acylphosphate is attacked by a
+second  D-alanine  to  produce  a DD dipeptide following phosphate elimination
+[2].
+
+The  ATP-grasp  domain  contains  three conserved motifs, corresponding to the
+phosphate  binding  loop  and  the  Mg(2+)  binding  site  [3].  The  fold  is
+characterized by two alpha-beta subdomains that grasp the ATP molecule between
+them  (see  <PDB:1IOW>).  Each subdomain provides a variable loop that forms a
+part  of  the  active site, completed by region of other domains not conserved
+between the various ATP-grasp enzymes[4].
+
+Proteins known to contain an ATP-grasp domain are listed below:
+
+ - Biotin carboxylase (EC 6.3.4.14).
+ - Carbamoyl-phosphate synthase (EC 6.3.5.5).
+ - Cyanophycin synthetase (EC 6.-.-.-).
+ - D-alanine--D-alanine ligase (EC 6.3.2.4).
+ - Urea amidolyase (Urea carboxylase) (EC 6.3.4.6).
+ - Glutathione synthetase  (EC 6.3.2.3).
+ - Lysine biosynthesis protein.
+ - Methylcrotonyl-CoA carboxylase (EC 6.4.1.4).
+ - MurC/ddl bifunctional enzyme (EC 6.3.2.8).
+ - Propionyl-CoA carboxylase (EC 6.4.1.3).
+ - Phosphoribosylamine--glycine ligase (EC 6.3.4.13).
+ - Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21).
+ - Pyruvate carboxylase 1 (EC 6.4.1.1).
+ - CAD protein, includes carbamoyl-phosphate synthase activity.
+ - Ribosomal protein S6 modification protein.
+ - Succinyl-CoA synthetase (EC 6.2.1.5).
+ - Vancomycin/teicoplanin resistance protein (EC 6.3.2.-).
+ - 5-(carboxyamino)imidazole ribonucleotide synthase (EC 6.3.4.18).
+ - Inositol-tetrakisphosphate 1-kinase (EC 2.7.1.134).
+ - Inositol-1,3,4-trisphosphate 5/6-kinase (EC 2.7.1.159).
+
+The profile we developed covers the entire ATP-grasp domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Galperin M.Y., Koonin E.V.
+     "A diverse superfamily of enzymes with ATP-dependent
+     carboxylate-amine/thiol ligase activity."
+     Protein Sci. 6:2639-2643(1997).
+     PubMed=9416615
+[ 2] Fan C., Moews P.C., Walsh C.T., Knox J.R.
+     "Vancomycin resistance: structure of D-alanine:D-alanine ligase at 2.3
+     A resolution."
+     Science 266:439-443(1994).
+     PubMed=7939684
+[ 3] Murzin A.G.
+     "Structural classification of proteins: new superfamilies."
+     Curr. Opin. Struct. Biol. 6:386-394(1996).
+     PubMed=8804825
+[ 4] Fan C., Moews P.C., Shi Y., Walsh C.T., Knox J.R.
+     "A common fold for peptide synthetases cleaving ATP to ADP:
+     glutathione synthetase and D-alanine:d-alanine ligase of Escherichia
+     coli."
+     Proc. Natl. Acad. Sci. U.S.A. 92:1172-1176(1995).
+     PubMed=7862655
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

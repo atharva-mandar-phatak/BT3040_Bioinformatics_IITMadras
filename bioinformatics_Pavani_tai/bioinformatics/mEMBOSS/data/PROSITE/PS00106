@@ -1,0 +1,46 @@
+***************************
+* Galactokinase signature *
+***************************
+
+Galactokinase  (EC 2.7.1.6) [1]  catalyzes  the  first reaction  of  galactose
+metabolism,  the  conversion  of  galactose  to  galactose 1-phosphate.  There
+are three well conserved regions in the sequence of eukaryotic and prokaryotic
+galactokinase.  As a signature pattern we have selected the  best conserved of
+these regions, which is located in the N-terminal section of galactokinase.
+
+In yeast the GAL3 protein [2] is required for rapid induction of the galactose
+system. The exact function of GAL3 is not known, but it may be involved in the
+production of a true inducer or coinducer  molecule.   The sequence of GAL3 is
+closely related to that of galactokinases.
+
+-Consensus pattern: G-R-x-N-[LIV]-I-G-[DE]-H-x-D-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: See also the section describing the pattern  for  the GHMP kinases ATP-
+ binding domain <PDOC00545>.
+
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Debouck C., Riccio A., Schumperli D., McKenney K., Jeffers J.,
+     Hughes C., Rosenberg M., Heusterspreute M., Brunel F., Davison J.
+     "Structure of the galactokinase gene of Escherichia coli, the last (?)
+     gene of the gal operon."
+     Nucleic Acids Res. 13:1841-1853(1985).
+     PubMed=3158881
+[ 2] Bajwa W., Torchia T.E., Hopper J.E.
+     "Yeast regulatory gene GAL3: carbon regulation; UASGal elements in
+     common with GAL1, GAL2, GAL7, GAL10, GAL80, and MEL1; encoded protein
+     strikingly similar to yeast and Escherichia coli galactokinases."
+     Mol. Cell. Biol. 8:3439-3447(1988).
+     PubMed=3062381
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

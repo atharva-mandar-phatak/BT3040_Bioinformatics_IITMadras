@@ -1,0 +1,58 @@
+***********************
+* SAND domain profile *
+***********************
+
+The SAND  domain (named after Sp100, AIRE-1, NucP41/75, DEAF-1) is a conserved
+~80-residue region  found  in  a  number  of  nuclear  proteins, many of which
+function in   chromatin-dependent   transcriptional   control.  These  include
+proteins linked to various human diseases, such as the Sp100 (Speckled protein
+100 kDa),  NUDR  (Nuclear  DEAF-1  related),  GMEB  (Glucocorticoid Modulatory
+Element Binding) proteins and AIRE-1 (Autoimmune regulator 1) proteins.
+
+Proteins containing  the SAND domain have a modular structure; the SAND domain
+can be  associated  with  a number of other modules, including the bromodomain
+(see <PDOC00550>),  the  PHD  finger  (see  <PDOC50016>)  and the MYND finger.
+Because no  SAND  domain  has been found in yeast, it is thought that the SAND
+domain could  be  restricted  to  animal  phyla.  Many  SAND domain-containing
+proteins, including  NUDR, DEAF-1 (Deformed epidermal autoregulatory factor-1)
+and GMEB,  have  been shown to bind DNA sequence-specifically. The SAND domain
+has been proposed to mediate the DNA binding activity of these proteins [1,2].
+
+The resolution of the 3D structure of the SAND domain from Sp100b has revealed
+that it  consists of a novel alpha/beta fold (see <PDB:1H5P>). The SAND domain
+adopts a   compact  fold  consisting  of  a  strongly  twisted,  five-stranded
+antiparallel beta-sheet  with  four  alpha-helices packing against one side of
+the beta-sheet.  The  opposite  side of the beta-sheet is solvent exposed. The
+beta-sheet and alpha-helical parts of the structure form two distinct regions.
+Multiple hydrophobic  residues pack between these regions to form a structural
+core. A  conserved  KDWK  sequence  motif  is  found within the alpha-helical,
+positively charged  surface  patch. The DNA binding surface has been mapped to
+the alpha-helical region encompassing the KDWK motif [2].
+
+The profile we developed covers the entire SAND domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2002 / First entry.
+
+[ 1] Gibson T.J., Ramu C., Gemuend C., Aasland R.
+     "The APECED polyglandular autoimmune syndrome protein, AIRE-1,
+     contains the SAND domain and is probably a transcription factor."
+     Trends Biochem. Sci. 23:242-244(1998).
+     PubMed=9697411
+[ 2] Bottomley M.J., Collard M.W., Huggenvik J.I., Liu Z., Gibson T.J.,
+     Sattler M.
+     "The SAND domain structure defines a novel DNA-binding fold in
+     transcriptional regulation."
+     Nat. Struct. Biol. 8:626-633(2001).
+     PubMed=11427895; DOI=10.1038/89675
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

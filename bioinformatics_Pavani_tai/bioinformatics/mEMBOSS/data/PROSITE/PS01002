@@ -1,0 +1,61 @@
+*******************************************************
+* Translationally controlled tumor protein signatures *
+*******************************************************
+
+Mammalian translationally  controlled  tumor  protein  (TCTP)  (or  P23)  is a
+protein which has been found to be preferentially  synthesized in cells during
+the early  growth  phase  of  some  types  of  tumor  [1,2], but which is also
+expressed in  normal  cells.  The  physiological function of TCTP is still not
+known. It  is  a  hydrophilic protein of 18 to 20 Kd. Close homologs have been
+found in plants [3], earthworm [4], Caenorhabditis elegans (F52H2.11),  Hydra,
+Drosophila (CG4800), yeast (YKL056c) [5] and fission yeast (SpAC1F12.02c).
+
+As signature patterns for TCTP, we selected two of the best conserved regions.
+
+-Consensus pattern: [IFAED]-[GA]-[GASF]-N-[PAK]-S-[GTA]-E-[GDEVCF]-[PAGEQV]-
+                    [DEQGAV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FLIV]-x(4)-[FLVH]-[FY]-[MIVCT]-G-E-x(4,7)-[DENP]-[GAST]-
+                    x-[LIVM]-[GAVI]-x(3)-[FYWQ]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the hydra TCTP.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Boehm H., Beendorf R., Gaestel M., Gross B., Nuernberg P., Kraft R.,
+     Otto A., Bielka H.
+     Biochem. Int. 19:277-286(1989).
+[ 2] Chitpatima S.T., Makrides S., Bandyopadhyay R., Brawerman G.
+     "Nucleotide sequence of a major messenger RNA for a 21 kilodalton
+     polypeptide that is under translational control in mouse tumor
+     cells."
+     Nucleic Acids Res. 16:2350-2350(1988).
+     PubMed=3357792
+[ 3] Pay A., Heberle-Bors E., Hirt H.
+     "An alfalfa cDNA encodes a protein with homology to translationally
+     controlled human tumor protein."
+     Plant Mol. Biol. 19:501-503(1992).
+     PubMed=1623194
+[ 4] Stuerzenbaum S.R., Kille P., Morgan A.J.
+     Biochim. Biophys. Acta 1398:294-304(1998).
+[ 5] Rasmussen S.W.
+     "Sequence of a 28.6 kb region of yeast chromosome XI includes the FBA1
+     and TOA2 genes, an open reading frame (ORF) similar to a
+     translationally controlled tumour protein, one ORF containing motifs
+     also found in plant storage proteins and 13 ORFs with weak or no
+     homology to known proteins."
+     Yeast 10:S63-S68(1994).
+     PubMed=8091862
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

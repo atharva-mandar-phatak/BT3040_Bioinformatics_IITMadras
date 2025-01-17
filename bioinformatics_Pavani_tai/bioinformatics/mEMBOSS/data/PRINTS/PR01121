@@ -1,0 +1,39 @@
+FMOXYGENASE1
+Flavin-containing monooxygenases (FMOs) constitute a family of xenobiotic-
+metabolising enzymes [1]. Using an NADPH cofactor and FAD prosthetic group,
+these microsomal proteins catalyse the oxygenation of nucleophilic nitrogen,
+sulphur, phosphorous and selenium atoms in a range of structurally diverse
+compounds. FMOs have been implicated in the metabolism of a number of
+pharmaceuticals, pesticides and toxicants. In man, lack of hepatic FMO-
+catalysed trimethylamine metabolism results in trimethylaminuria (fish 
+odour syndrome).
+
+Five mammalian forms of FMO are now known and have been designated
+FMO1-FMO5 [2-6]: this is a recent nomenclature based on comparison of
+amino acid sequences, and has been introduced in an attempt to eliminate
+confusion inherent in multiple, laboratory-specific designations and
+tissue-based classifications [1]. Following the determination of the
+complete nucleotide sequence of S.cerevisiae [7], a novel gene was found
+to encode a protein with similarity to mammalian monooygenases.
+
+Human FMO1 mRNA is more abundant in foetal than in adult liver, indicating 
+that the enzyme is subject to developmental regulation in man [2]. Southern
+blot hybridisation of human genomic DNA suggests that the protein is encoded 
+by a single gene that maps to chromosome 1. The deduced amino sequence 
+contains putative FAD- (GxGxxG) and NADP+-binding (GxGxxA) sites, a 'FATGY'
+motif that has also been observed in a range of siderphore biosynthetic
+enzymes [8], and a C-terminal hydrophobic segment that is believed to anchor
+the monooxygenase to the microsomal membrane [9]. The human sequence shares 
+88 and 86% identity, respectively, with pig and rabbit "hepatic" forms of
+FMO, but is only 58% similar to the rabbit "pulmonary" FMO [2].
+
+FMOXYGENASE1 is a 10-element fingerprint that provides a signature for type
+1 flavin-containing monooxygenases. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise type 1 FMOs but distinguish them from the rest
+of the FMO family - motif 10 spans the C-terminal hydrophobic region thought
+to act as a membrane anchor. A single iteration on SPTR37_9f was required to 
+reach convergence, no further sequences being identified beyond the starting
+set. A single partial match was found, murine type 5 FMO (FMO5_MOUSE), which 
+matches motifs 1 and 2.

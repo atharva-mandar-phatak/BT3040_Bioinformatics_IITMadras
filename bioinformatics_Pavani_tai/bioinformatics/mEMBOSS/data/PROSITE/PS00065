@@ -1,0 +1,105 @@
+*************************************************************
+* D-isomer specific 2-hydroxyacid dehydrogenases signatures *
+*************************************************************
+
+A number  of  NAD-dependent 2-hydroxyacid  dehydrogenases  which  seem  to  be
+specific for the D-isomer of their substrate  have  been shown [1,2,3,4] to be
+functionally and structurally related. These enzymes are listed below.
+
+ - D-lactate dehydrogenase (EC 1.1.1.28), a  bacterial  enzyme which catalyzes
+   the reduction of D-lactate to pyruvate.
+ - D-glycerate dehydrogenase  (EC 1.1.1.29)   (NADH-dependent  hydroxypyruvate
+   reductase), a plant leaf peroxisomal enzyme that catalyzes the reduction of
+   hydroxypyruvate  to  glycerate.  This  reaction  is  part  of the glycolate
+   pathway of photorespiration.
+ - D-glycerate dehydrogenase from the bacteria Hyphomicrobium methylovorum and
+   Methylobacterium extorquens.
+ - 3-phosphoglycerate dehydrogenase  (EC 1.1.1.95), a  bacterial  enzyme  that
+   catalyzes the oxidation of D-3-phosphoglycerate to 3-phosphohydroxypyruvate.
+   This reaction  is  the first committed step in the 'phosphorylated' pathway
+   of serine biosynthesis.
+ - Erythronate-4-phosphate dehydrogenase (EC 1.1.1.-) (gene pdxB), a bacterial
+   enzyme involved in the biosynthesis of pyridoxine (vitamin B6).
+ - D-2-hydroxyisocaproate  dehydrogenase (EC 1.1.1.-) (D-hicDH),  a  bacterial
+   enzyme that catalyzes  the  reversible  and stereospecific  interconversion
+   between 2-ketocarboxylic acids and D-2-hydroxy-carboxylic acids.
+ - Formate dehydrogenase (EC 1.2.1.2) (FDH) from  the bacteria Pseudomonas sp.
+   101 and various fungi [5].
+ - Vancomycin  resistance protein vanH from Enterococcus faecium; this protein
+   is a  D-specific alpha-keto acid dehydrogenase involved in the formation of
+   a peptidoglycan  which  does  not  terminate  by  D-alanine thus preventing
+   vancomycin binding.
+
+ - Escherichia coli hypothetical protein ycdW.
+ - Escherichia coli hypothetical protein yiaE.
+ - Haemophilus influenzae hypothetical protein HI1556.
+ - Yeast hypothetical protein YER081w.
+ - Yeast hypothetical protein YIL074w.
+
+All these enzymes  have  similar enzymatic  activities  and  are  structurally
+related.  We  have  selected  three  of  the  most conserved  regions of these
+proteins to develop patterns.  The  first  pattern  is based on a glycine-rich
+region located in the central section of these enzymes,  this  region probably
+corresponds to the NAD-binding domain. The two other patterns contain a number
+of conserved charged residues,  some of which may play a role in the catalytic
+mechanism.
+
+-Consensus pattern: [LIVMA]-[AG]-[IVT]-[LIVMFY]-[AG]-x-G-[NHKRQGSAC]-[LIV]-G-
+                    x(13,14)-[LIVMFT]-{A}-x-[FYWCTH]-[DNSTK]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 sequences.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: [LIVMFYWA]-[LIVFYWC]-x(2)-[SAC]-[DNQHR]-[IVFA]-[LIVF]-x-
+                    [LIVF]-[HNI]-x-P-x(4)-[STN]-x(2)-[LIVMF]-x-[GSDN]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LMFATCYV]-[KPQNHAR]-x-[GSTDNK]-x-[LIVMFYWRC]-
+                    [LIVMFYW](2)-N-x-[STAGC]-R-[GP]-x-[LIVH]-[LIVMCT]-[DNVE]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Escherichia coli D-lactate  dehydrogenase (gene dld) does not belong to
+ this family, it is a membrane-bound FAD flavoenzyme.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Grant G.A.
+     "A new family of 2-hydroxyacid dehydrogenases."
+     Biochem. Biophys. Res. Commun. 165:1371-1374(1989).
+     PubMed=2692566
+[ 2] Kochhar S., Hunziker P.E., Leong-Morgenthaler P., Hottinger H.
+     "Evolutionary relationship of NAD(+)-dependent D-lactate
+     dehydrogenase: comparison of primary structure of 2-hydroxy acid
+     dehydrogenases."
+     Biochem. Biophys. Res. Commun. 184:60-66(1992).
+     PubMed=1567457
+[ 3] Taguchi H., Ohta T.
+     "D-lactate dehydrogenase is a member of the D-isomer-specific
+     2-hydroxyacid dehydrogenase family. Cloning, sequencing, and
+     expression in Escherichia coli of the D-lactate dehydrogenase gene of
+     Lactobacillus plantarum."
+     J. Biol. Chem. 266:12588-12594(1991).
+     PubMed=1840590
+[ 4] Goldberg J.D., Yoshida T., Brick P.
+     "Crystal structure of a NAD-dependent D-glycerate dehydrogenase at 2.4
+     A resolution."
+     J. Mol. Biol. 236:1123-1140(1994).
+     PubMed=8120891
+[ 5] Popov V.O., Lamzin V.S.
+     "NAD(+)-dependent formate dehydrogenase."
+     Biochem. J. 301:625-643(1994).
+     PubMed=8053888
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

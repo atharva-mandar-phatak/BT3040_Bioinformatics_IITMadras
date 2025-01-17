@@ -1,0 +1,34 @@
+ANIONEXCHNGR
+Anion exchange proteins are thought to participate in pH and cell volume
+regulation. They are glycosylated, plasma-membrane transport proteins that
+exchange hydrogen carbonate (HCO3-) for chloride (Cl-) in a reversible,
+electroneutral manner [1,2]. To date, three anion exchanger isoforms have
+been identified (AE1-3), AE1 being the previously-characterised erythrocyte
+band 3 protein. They share a predicted topology of 12-14 transmembrane (TM)
+domains, but have differing distribution patterns and cellular
+localisation. The best characterised isoform, AE1, is known to be the most
+abundant membrane protein in mature erythrocytes. It has a molecular mass
+of ~95kDa and consists of two major domains. The N-terminal 390 residues
+form a water-soluble, highly elongated domain that serves as an attachment
+site for the binding of the membrane skeleton and other cytoplasmic
+proteins. The remainder of the protein is a 55kDa hydrophobic domain that
+is responsible for catalysing anion exchange. The function of the analogous
+domains of AE2 and AE3 remains to be determined [3].
+
+Naturally-occuring mutations have been characterised in the AE1 gene, which
+give rise to forms of several human diseases: included are spherocytosis,
+affecting red blood cells, and familial distal renal tubular acidosis, a
+kidney disease associated with the formation of kidney stones [4].
+
+ANIONEXCHNGR is a 13-element fingerprint that provides a signature for the 
+anion exchanger family. The fingerprint was derived from an initial
+alignment of ten sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 spans the end of
+the putative cytoplasmic N-terminus, and the start of the first TM domain;
+motif 2 lies between TM domains eight and nine; motif 3 encodes the start
+of the ninth TM domain; motif 4 lies between the ninth and tenth TM
+domains; motif 5 encodes the start of the tenth TM domain; motif 6 lies
+between the eleventh and twelfth TM domains; and motifs 7-13 reside at the 
+C-terminus. Two iterations on SPTR37_10f were required to reach 
+convergence, at which point a true set comprising 18 sequences was
+identified.

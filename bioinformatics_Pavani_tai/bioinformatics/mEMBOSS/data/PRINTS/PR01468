@@ -1,0 +1,34 @@
+BICOMPNTOXIN
+Staphylococcus aureus is a Gram-positive coccus that grows in clusters or
+pairs, and is the major cause of nosocomial infections due to its multiple 
+antibiotic resistant nature [1]. Patients who are immunocompromised (e.g., 
+those suffering from third degree burns or chronic illness) are at risk 
+from deep staphylococcal infections, such as osteomyelitis and pneumonia.
+Most skin infections are also caused by this bacterium [1].
+
+Many virulence mechanisms are employed by Staphylococci to induce 
+pathogenesis: these can include polysaccharide capsules and exotoxins [1].
+Examples of the latter are bi-component toxins, which involve the
+synergistic combination of an "S" and an "F" component [2]. These undergo 
+conformational changes in their protein structure and form oligomeric pores
+in the target cell membrane upon recognition of certain host receptors. The
+main cells targeted are polymorphonuclear cells, monocytes, erythrocytes 
+and macrophages. Examples of this protein family include: leucocidin, gamma-
+hemolysin and alpha-hemolysin.
+
+Recently, the crystal structure of the Staphylococcus aureus leucocidin "F" 
+component (LukF) has been determined to 1.9A resolution [3]. This structure,
+which comprises a central 3-strand beta-sheet, with an N-terminal "latch",
+clarified the mechanism of virulence in the bi-component toxin. Further work
+using a different form of the leucocidin (LukF-PV) has suggested that it may
+be a representative fold for water-soluble transmembrane toxins [4].
+
+BICOMPNTOXIN is a 3-element fingerprint that provides a signature for the
+Staphylococcal bi-component toxin family. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length (~250 amino acids) - motif 1
+spans the C-terminus of beta-strand 4 and the N-terminus of strand 5 of the
+LukF structure; motif 2 encodes the C-terminus of strand 7 and the whole of
+strand 8; and motif 3 spans strands 13 and 14. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 24
+sequences was identified. 

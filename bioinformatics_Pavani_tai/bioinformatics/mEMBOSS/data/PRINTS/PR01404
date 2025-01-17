@@ -1,0 +1,23 @@
+NPPPHYDRLASE
+MutT is a small bacterial protein (~12-15kDa) involved in the GO system [1]
+responsible for removing an oxidatively damaged form of guanine (8-hydroxy-
+guanine or 7,8-dihydro-8-oxoguanine) from the nucleotide pool. 8-oxo-dGTP
+is inserted opposite dA and dC residues of template DNA with near equal 
+efficiency, leading to A.T to G.C transversions. MutT degrades 8-oxo-dGTP
+to the monophosphate, with the concomitant release of pyrophosphate. A short
+conserved N-terminal region of mutT (designated the MutT domain) is also
+found in a variety of other prokaryotic, viral, and eukaryotic proteins
+[2-5]. Recently, the generic name 'NUDIX hydrolases' (NUcleoside DIphosphate
+linked to some other moeity X) has been coined for this domain family [6].
+
+DATP pyrophosphohydrolase hydrolyses nucleoside triphosphates with a
+preference for DATP. The protein sequence shares significant similarity
+to proteins with a core MutT domain.
+
+NPPPHYDRLASE is a 5-element fingerprint that provides a signature for 
+DATP pyrophosphohydrolases. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the N- and C-terminal portions of the alignment - motifs 1
+and 2 lie N-terminal to the MutT domain; and motifs 3-5 lie C-terminal to
+it. Two iterations on SPTR37_10f were required to reach convergence, at
+which point a true set comprising 3 sequences was identified.

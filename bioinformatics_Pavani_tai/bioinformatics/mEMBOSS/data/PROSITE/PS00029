@@ -1,0 +1,57 @@
+**************************
+* Leucine zipper pattern *
+**************************
+
+A structure,  referred to as the 'leucine zipper' [1,2], has been proposed  to
+explain  how some eukaryotic gene regulatory proteins work. The leucine zipper
+consist  of a  periodic  repetition  of  leucine  residues  at  every  seventh
+position over a distance covering eight helical turns. The segments containing
+these  periodic  arrays of leucine residues seem to exist in  an alpha-helical
+conformation. The leucine side chains extending from one alpha-helix  interact
+with those  from a similar alpha helix  of  a second polypeptide, facilitating
+dimerization; the structure formed by cooperation of these two regions forms a
+coiled coil [3]. The leucine zipper pattern is present in many gene regulatory
+proteins, such as:
+
+ - The CCATT-box and enhancer binding protein (C/EBP).
+ - The cAMP response element (CRE) binding proteins (CREB, CRE-BP1, ATFs).
+ - The Jun/AP1 family of transcription factors.
+ - The yeast general control protein GCN4.
+ - The fos oncogene, and the fos-related proteins fra-1 and fos B.
+ - The C-myc, L-myc and N-myc oncogenes.
+ - The octamer-binding transcription factor 2 (Oct-2/OTF-2).
+
+-Consensus pattern: L-x(6)-L-x(6)-L-x(6)-L
+-Sequences known to belong to this class detected by the pattern: All    those
+ mentioned in the original paper, with the exception of L-myc which  has a Met
+ instead of the second Leu.
+-Other sequence(s) detected in Swiss-Prot: some 600 other sequences from every
+ category of protein families.
+
+-Note: As this is far from being a specific  pattern you should be cautious in
+ citing the presence of such pattern in a protein  if it has not been shown to
+ be a nuclear DNA-binding protein.
+
+-Last update: December 1992 / Text revised.
+
+[ 1] Landschulz W.H., Johnson P.F., McKnight S.L.
+     "The leucine zipper: a hypothetical structure common to a new class of
+     DNA binding proteins."
+     Science 240:1759-1764(1988).
+     PubMed=3289117
+[ 2] Busch S.J., Sassone-Corsi P.
+     "Dimers, leucine zippers and DNA-binding domains."
+     Trends Genet. 6:36-40(1990).
+     PubMed=2186528
+[ 3] O'Shea E.K., Rutkowski R., Kim P.S.
+     Science 243:538-542(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

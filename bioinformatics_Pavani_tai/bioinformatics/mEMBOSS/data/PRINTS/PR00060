@@ -1,0 +1,25 @@
+RIBOSOMALL16
+Protein synthesis is co-ordinated in all cells by ribosomes, ribonucleo-
+protein particles containing more than 50 different proteins and several
+large RNAs [1]. Low resolution models show the protein arrangement in both
+the large and small ribosomal subunits, but higher resolution structures are
+required to reveal the detailed mechanistic functioning of the complex [2].
+
+L16 is a protein from the large (50S) subunit; in E.coli it is located
+in the A site of the peptidyltransferase centre [3], and it is known to
+bind directly to the 23S rRNA molecule. It belongs to a family of ribosomal
+proteins, including L16 from eubacteria, alga and plant chloroplasts,
+cyanelles and plant mitochondria.
+
+RIBOSOMALL16 is a 4-element fingerprint that provides a signature for L16
+ribosomal proteins. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions encompassing
+virtually the full alignment length, motifs 3 and 4 spanning the central
+regions encoded by PROSITE patterns RIBOSOMAL_L16_1 (PS00586) and
+RIBOSOMAL_L16_2 (PS00701). Two iterations on OWL24.0 were required to
+reach convergence, at which point a true set comprising 24 sequences was
+identified. Two partial matches were also found, RL16_BACSU and S25501,
+both of which are L16 protein fragments.
+
+An update on SPTR37_9f identified a true set of 50 sequences, and 6
+partial matches.

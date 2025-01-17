@@ -1,0 +1,78 @@
+*********************************
+* LytTR-type HTH domain profile *
+*********************************
+
+The   LytTR   ('litter')   HTH  domain  is  a  DNA-binding,  potential  winged
+helix-turn-helix  (wHTH) domain of about 100 amino acids, present in bacterial
+transcriptional  regulators  of  the  algR/agrA/lytR family. It is named after
+Bacillus  subtilis  LytT  and  Staphylococcus aureus lytR response regulators,
+involved in the regulation of cell autolysis [1]. The LytTR domain is found in
+several  bacterial  cytoplasmic  proteins  that  regulate  the  production  of
+important  virulence  factors,  like extracellular polysaccharides, toxins and
+bacteriocins.  These response regulators of the microbial two-component signal
+transduction  systems  contain  N-terminal cheY-like domains (see <PDOC50110>)
+and  the  LytTR  domain in the C-terminal part is expected to bind to specific
+DNA sequences in the upstream regions of target genes [2]. Other domains found
+N-terminally of LytTR are an ATP-binding domain of ABC-type transporter family
+(see   <PDOC00185>)   and  a  PAS  domain  (see  <PDOC50112>).  Besides  these
+cytoplasmic  proteins, LytTR also occurs in membrane-bound bacterial proteins.
+The  N-terminal  parts  of  these  proteins  contain  three to eight predicted
+transmembrane segments or the transmembrane MHYT domain (see <PDOC50924>).
+
+According to secondary structure predictions the LytTR domain consists of four
+beta-strands  and  three  alpha-helices.  The structure is predicted to form a
+novel  type  of  DNA-binding domain, showing similarity to the 'winged HTH' or
+'winged helix' proteins [1,2].
+
+Some cytoplasmic proteins known to contain a LytTR domain:
+
+ - Pseudomonas  aeruginosa  algR,  a transcriptional regulator involved in the
+   pathogenesis of cystic fibrosis, in the regulation of alginate biosynthesis
+   and twitching motility.
+ - Clostridium  perfringens virR, involved in the pathogenesis of gas gangrene
+   as  a regulator of virulence factors such as perfringolysin O, collagenase,
+   hemagglutinin.
+ - Staphylococcus  aureus  agrA  and lytR, regulators of virulence factors and
+   peptidoglycan turnover. AgrA is involved in the pathogenesis of toxic shock
+   syndrome  as a quorum-sensing regulator of expression of toxins, hemolysins
+   and other virulence factors.
+ - Klepsiella pneumoniae mrkE, a regulator of fimbrial expression.
+ - Streptococcus  pneumoniae  comE  and  blpR,  quorum-sensing autocatalytical
+   response   regulators   of   competence  and  of  bacteriocin-like  peptide
+   production essential for survival, respectively.
+ - Escherichia coli mrkE and yehT.
+ - Bacillus subtilis lytT.
+
+Some membrane-bound proteins known to contain a LytTR domain:
+
+ - Oligotropha carboxidovorans coxC and coxH.
+ - Xanthomonas campestris rpfD.
+ - Caulobacter crescentus CC0295, CC0330, CC0551, CC1610 and CC3036.
+
+The profile we developed covers the entire LytTR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2003 / First entry.
+
+[ 1] Nikolskaya A.N., Galperin M.Y.
+     "A novel type of conserved DNA-binding domain in the transcriptional
+     regulators of the AlgR/AgrA/LytR family."
+     Nucleic Acids Res. 30:2453-2459(2002).
+     PubMed=12034833
+[ 2] McGowan S., Lucet I.S., Cheung J.K., Awad M.M., Whisstock J.C.,
+     Rood J.I.
+     "The FxRxHrS motif: a conserved region essential for DNA binding of
+     the VirR response regulator from Clostridium perfringens."
+     J. Mol. Biol. 322:997-1011(2002).
+     PubMed=12367524
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

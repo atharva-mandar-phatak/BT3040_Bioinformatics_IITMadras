@@ -1,0 +1,24 @@
+RIBOKINASE
+Ribokinases participate in the first step of ribose metabolism, and are 
+members of the superfamily of carbohydrate kinases. Ribokinases phosphory-
+late ribose to ribose-5-phosphate in the presence of ATP and magnesium [1]:
+
+	   ATP + D-Ribose = ADP + D-Ribose-5-Phosphate
+
+The phosphorylated sugar may then enter the pentose phosphate pathway [2].
+
+There are indications that the phosphorylated sugar may also be used in the
+synthesis of amino acids (histidine and tryptophan). Further, links to
+mammalian adenosine kinase have been identified, through sequence
+similarity, suggesting possible homology [2,3].
+
+RIBOKINASE is a 5-element fingerprint that provides a signature for
+ribokinases. The fingerprint was derived from an initial alignment of 5 
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length. Two iterations on OWL30.2 were required to reach
+convergence, at which point a true set comprising 8 sequences was identified.
+Two partial matches were also found, both of which are related fructokinases
+that match motifs 2 and 5.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 5
+partial matches.

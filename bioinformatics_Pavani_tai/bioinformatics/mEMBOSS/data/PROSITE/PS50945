@@ -1,0 +1,73 @@
+*************************
+* I/LWEQ domain profile *
+*************************
+
+The I/LWEQ  domain is a ~250-residue actin-binding module that is found in the
+C-termini of  functionally  diverse proteins from yeast to mammals. The I/LWEQ
+domain contains  four  conserved blocks and has been named after the conserved
+initial residues  of blocks 1-4. The I/LWEQ domain is generally found near the
+C-terminus and   in   association  with  other  domains,  such  as  FERM  (see
+<PDOC00566>) or  ENTH  (see  <PDOC50942>). The I/LWEQ domain has been shown to
+bind to F-actin and to bundle actin filaments [1-3].
+
+The I/LWEQ domain contains a proteolysis resistant-core that has an all-alpha-
+helical structure  composed  of  five  long  down-up-down-up-down antiparallel
+helices connected by short loops and one short connecting alpha helix arranged
+in a  progressive topology (see <PDB:1R0D>). The proteolysis-resistant core is
+followed by   a   C-terminal   latch   region  that  adopts  an  alpha-helical
+conformation. The  latch region can mediate oligomerization of I/LWEQ domains,
+possibly as  dimers,  and this seems to enhance the F-actin-binding ability of
+the proteolysis-resistant core [3].
+
+Some proteins known to contain a I/LWEQ domain are listed below:
+
+ - Animal  talin,  an actin-binding protein involved in integrin-mediated cell
+   adhesion and spreading.
+ - Slime mold talin homologs TalA and TalB.
+ - Animal  Huntingtin-interacting  protein-1  (HIP1),  a  binding  partner  of
+   huntingtin, the protein implicated in the etiology of Huntington disease in
+   human.
+ - Animal  HIP1  related  (HIP1R).  It has a crucial protein-trafficking role,
+   mediating associations between actin and chlathrin-coated structures et the
+   plasma membrane and trans-Golgi network.
+ - Yeast  SLA2  protein.  It  is implicated in polarized assembly of the yeast
+   actin cytoskeleton.
+ - Slime  mold filopodin, an actin-binding protein that may be involved in the
+   control of cell motility and chemotaxis.
+
+The profile we developed covers the entire I/LWEQ domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  I/LWEQ  domain has also been called the talin-HIP1/R/Slap2p actin-
+ tethering C-terminal   homology   (THATCH)   domain   (HIP1/R/Slap2p  denotes
+ similarity of Slap2p to HIP1 and HIP1R) [3].
+
+-Last update: February 2006 / Profile and text revised.
+
+[ 1] McCann R.O., Craig S.W.
+     "The I/LWEQ module: a conserved sequence that signifies F-actin
+     binding in functionally diverse proteins from yeast to mammals."
+     Proc. Natl. Acad. Sci. U.S.A. 94:5679-5684(1997).
+     PubMed=9159132
+[ 2] McCann R.O., Craig S.W.
+     "Functional genomic analysis reveals the utility of the I/LWEQ module
+     as a predictor of protein:actin interaction."
+     Biochem. Biophys. Res. Commun. 266:135-140(1999).
+     PubMed=10581178; DOI=10.1006/bbrc.1999.1776
+[ 3] Brett T.J., Legendre-Guillemin V., McPherson P.S., Fremont D.H.
+     "Structural definition of the F-actin-binding THATCH domain from
+     HIP1R."
+     Nat. Struct. Mol. Biol. 13:121-130(2006).
+     PubMed=16415883; DOI=10.1038/nsmb1043
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

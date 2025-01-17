@@ -1,0 +1,42 @@
+**************************************************
+* S-adenosyl-L-homocysteine hydrolase signatures *
+**************************************************
+
+S-adenosyl-L-homocysteine hydrolase  (EC  3.3.1.1) (AdoHcyase) is an enzyme of
+the activated  methyl  cycle, responsible for the reversible hydratation of S-
+adenosyl-L-homocysteine into  adenosine  and  homocysteine.    AdoHcyase is an
+ubiquitous enzyme which binds and requires NAD+ as a cofactor.
+
+AdoHcyase is a highly  conserved protein [1] of  about 430 to 470 amino acids.
+As signature patterns, we selected two highly  conserved  regions.  The  first
+pattern is    located in the  N-terminal section; the second is derived from a
+glycine-rich region  in  the central part of AdoHcyase; a region thought to be
+involved in NAD-binding.
+
+-Consensus pattern: [GSAP]-[CS]-N-x-[FYLM]-S-[ST]-[QALKHD]-[DENG]-x-[AV]-
+                    [AVTS]-[ADERQ]-[ACSG]-[LIVMCG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GA]-[KSR]-x(3)-[LIV]-x-G-[FY]-G-x-[VC]-G-[KRL]-[GA]-
+                    x(1,2)-[ASC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Sganga M.W., Aksamit R.R., Cantoni G.L., Bauer C.E.
+     "Mutational and nucleotide sequence analysis of
+     S-adenosyl-L-homocysteine hydrolase from Rhodobacter capsulatus."
+     Proc. Natl. Acad. Sci. U.S.A. 89:6328-6332(1992).
+     PubMed=1631127
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

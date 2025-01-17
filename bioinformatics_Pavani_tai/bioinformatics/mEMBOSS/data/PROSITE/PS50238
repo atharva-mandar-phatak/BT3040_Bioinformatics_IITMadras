@@ -1,0 +1,90 @@
+*************************************************
+* Rho GTPase-activating proteins domain profile *
+*************************************************
+
+Small  G  proteins  of  the  Rho  family,  which  includes Rho, Rac and Cdc42,
+regulate phosphorylation pathways that control a range of biological functions
+including  cytoskeleton formation and cell proliferation.  Rho proteins act as
+molecular  switches,  with  an active GTP-bound form and an inactive GDP-bound
+form.  The  inactive  GDP bound form is promoted by GTPase-activating proteins
+(GAPs). GAP proteins specific for Rho contain a conserved region of around 200
+amino-acid  residues,  the  Rho-GAP domain. This domain can accelerate the GTP
+hydrolysis activity of Rho by five orders of magnitude [1]. RhoGAP domains are
+usually  associated  with  other signaling modules like SH2 (see <PDOC50001>),
+SH3 (see <PDOC50002>) or PH (see <PDOC50003>).
+
+Like  other  GAP  domains  Rho-GAP is  exclusively helical (nine helices) (see
+<PDB:1RGP>)  [2].  The  core of the domain forms a four-helix bundle. The most
+conserved  residues  across  the  family  are  located on the bundle face that
+interacts  with  the G  protein  [3].  Rho-GAP domain like Ras-GAP supplies an
+arginine  residue in trans into the active site of the G protein which confers
+a self-stimulatory GAP activity through homophilic interaction [4].
+
+Some of the proteins containing a RhoGAP domain are listed below:
+
+ - Mammalian  ARAP  1,2 and 3 proteins, a family of GTPase activating proteins
+   that  contains  both  a RhoGAP and a ARFGAP domains (see <PDOC50115>). They
+   can  regulate  Rho or ARF G proteins according to their localization in the
+   cell.
+ - Vertebrate Beta-chimaerin protein, a GTPase activating protein for the Rho-
+   like GTPase Rac.
+ - Mammalian  Nadrin  protein,  a  neuron-specific  GTPase-activating  protein
+   involved in regulated exocytosis.
+ - Mammalian unconventional myosin-9b.
+ - Mammalian  breakpoint  cluster  region  protein (BCR) and Drosophila Rotund
+   protein, GTPase-activating proteins for Rac and Cdc42.
+ - Mammalian Rho-GAP hematopoietic protein C1.
+ - Mammalian   Rho-GTPase-activating   protein   6.   It  promotes  continuous
+   elongation  of  cytoplasmic processes during cell motility and simultaneous
+   retraction of the cell body changing the cell morphology.
+ - Mammalian   phosphatidylinositol  3-kinase  regulatory  alpha  subunit,  an
+   adapter  subunit  of the phosphatidylinositol  3-kinase  (PI3K).  It  has a
+   critical role in signal transduction pathways originating from a variety of
+   membrane-bound receptors.
+ - Mammalian  Inositol polyphosphate 5-phosphatase OCRL-1 (EC 3.1.3.-). It may
+   function  in lysosomal membrane trafficking by regulating the specific pool
+   of phosphatidylinositol 4,5-bisphosphate that is associated with lysosomes.
+ - Mammalian  type  II  inositol-1,4,5-trisphosphate 5-phosphatase involved in
+   signal-terminating reaction (EC 3.1.3.56.).
+ - Yeast LRG1 and SAC7 proteins, the two major Rho GTPase-activating proteins.
+   The SAC7 protein is involved in assembly of actin.
+ - Yeast  BEM2 protein, a GTPase activating protein involved in the control of
+   cellular morphogenesis.
+
+The profile we developed covers the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2003 / First entry.
+
+[ 1] Gamblin S.J., Smerdon S.J.
+     "GTPase-activating proteins and their complexes."
+     Curr. Opin. Struct. Biol. 8:195-201(1998).
+     PubMed=9631293
+[ 2] Barrett T., Xiao B., Dodson E.J., Dodson G., Ludbrook S.B.,
+     Nurmahomed K., Gamblin S.J., Musacchio A., Smerdon S.J.,
+     Eccleston J.F.
+     "The structure of the GTPase-activating domain from p50rhoGAP."
+     Nature 385:458-461(1997).
+     PubMed=9009196
+[ 3] Rittinger K., Walker P.A., Eccleston J.F., Nurmahomed K., Owen D.,
+     Laue E., Gamblin S.J., Smerdon S.J.
+     "Crystal structure of a small G protein in complex with the
+     GTPase-activating protein rhoGAP."
+     Nature 388:693-697(1997).
+     PubMed=9262406; DOI=10.1038/41805
+[ 4] Rittinger K., Walker P.A., Eccleston J.F., Smerdon S.J., Gamblin S.J.
+     "Structure at 1.65 A of RhoA and its GTPase-activating protein in
+     complex with a transition-state analogue."
+     Nature 389:758-762(1997).
+     PubMed=9338791; DOI=10.1038/39651
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

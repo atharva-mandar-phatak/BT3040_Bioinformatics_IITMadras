@@ -1,0 +1,64 @@
+*********************************************************************
+* Bacterial ring hydroxylating dioxygenases alpha-subunit signature *
+*********************************************************************
+
+Bacterial  ring  hydroxylating  dioxygenases   are   multicomponent  enzymatic
+complexes  composed  of a  hydroxylase  component  and  an  electron  transfer
+component. The hydroxylase component is  itself  composed  of two subunits: an
+alpha-subunit of about 50 Kd, and a beta-subunit of about 20 Kd.  The electron
+transfer component  is  either  composed of two subunits:  a  ferredoxin and a
+ferredoxin reductase or by a single bifunctional ferredoxin/reductase subunit.
+
+The alpha-subunit of hydroxylase components are evolutionary related [1].  The
+currently known members of this family are listed below.
+
+ - Benzene 1,2-dioxygenase (EC 1.14.12.3) (gene bnzA) from Pseudomonas putida.
+ - phthalate 4,5-dioxygenase (EC 1.14.12.7) (gene pht3) from Pseudomonas.
+ - Benzoate 1,2-dioxygenase  (EC 1.14.12.10)  (gene benA)  from  Acinetobacter
+   calcoaceticus.
+ - Naphthalene 1,2-dioxygenase  (EC 1.14.12.12) (gene ndoC) from Pseudomonas.
+ - 3-chlorobenzoate-3,4-dioxygenase   (EC   1.14.12-.-)   (gene   cbaA)   from
+   Alcaligenes.
+ - Biphenyl dioxygenase (EC 1.14.99.-) (gene bphA) from Pseudomonas.
+ - Toluate 1,2-dioxygenase (EC 1.14.12.-) (gene xylX) from Pseudomonas putida.
+ - Toluene 2,3-dioxygenase  (EC 1.14.12.-)   (gene todC1)   from   Pseudomonas
+   putida.
+
+The alpha-subunit of the hydroxylase components bind  both a 2Fe-2S type iron-
+sulfur center and an iron atom.  There is,  in the N-terminal section of these
+proteins, a conserved  region  of 24 residues which contains two cysteines and
+two histidines  which have been shown [2] to be involved in the binding of the
+iron-sulfur center. We have used this region has a signature pattern.
+
+-Consensus pattern: C-x-H-R-[GAR]-x(7,8)-[GEKVI]-[NERAQ]-x(4,5)-C-x-[FY]-H
+                    [The 2 C's and the 2 H's are 2Fe-2S ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Harayama S.; sharayam@ddbj.nig.ac.jp
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Neidle E.L., Hartnett C., Ornston L.N., Bairoch A., Rekik M., Harayama S.
+     "Nucleotide sequences of the Acinetobacter calcoaceticus benABC genes
+     for benzoate 1,2-dioxygenase reveal evolutionary relationships among
+     multicomponent oxygenases."
+     J. Bacteriol. 173:5385-5395(1991).
+     PubMed=1885518
+[ 2] Kauppi B., Lee K., Carredano E., Parales R.E., Gibson D.T., Eklund H.,
+     Ramaswamy S.
+     "Structure of an aromatic-ring-hydroxylating dioxygenase-naphthalene
+     1,2-dioxygenase."
+     Structure 6:571-586(1998).
+     PubMed=9634695
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

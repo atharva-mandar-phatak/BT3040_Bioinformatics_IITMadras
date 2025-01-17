@@ -1,0 +1,33 @@
+GEMCOATMSV
+Geminiviruses are characterised by a genome of circular single-stranded
+DNA encapsidated in twinned (geminate) quasi-isometric particles, from
+which the group derives its name [1]. Most geminiviruses can be divided
+into 2 subgroups on the basis of host range and/or insect vector: i.e.
+those that infect dicotyledenous plants and are transmitted by the same
+whitefly species, and those that infect monocotyledenous plants and are
+transmitted by different leafhopper vectors. The genomes of the whitefly-
+transmitted cassava latent (CLV), tomato golden mosaic (TGMV) and bean
+golden mosaic (BGMV) viruses possess a bipartite genome. By contrast, only
+a single DNA component has been identified for the leafhopper-transmitted 
+maize streak (MSV) and wheat dwarf (WDV) viruses [2,3]. Beet curly top
+(BCTV), bean summer death and tobacco yellow dwarf viruses belong to a 
+third possible subgroup. Like MSV and WDV, BCTV is transmitted by a 
+specific leafhopper species, yet like the whitefly-transmitted gemini- 
+viruses it has a host range confined to dicotyledenous plants.
+
+Comparison of the MSV DNA sequence with those of CLV and TGMV shows no 
+detectable similarity [2]. Amino acid sequence comparison of MSV DNA- 
+encoded proteins with those of other geminiviruses infecting mono- 
+cotyledonous plants, including Panicum streak virus [4] and miscanthus
+streak virus [5], reveal high levels of similarity. 
+
+GEMCOATMSV is a 5-element fingerprint that provides a signature for MSV
+and WDV coat proteins. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length. Two iterations on OWL23.0 were 
+required to reach convergence, at which point a true set comprising 10 
+sequences was identified. A single partial match was also found, COAT_BCTV,
+the closely related beet curly top coat protein, matching motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 29 sequences, and 3
+partial matches.

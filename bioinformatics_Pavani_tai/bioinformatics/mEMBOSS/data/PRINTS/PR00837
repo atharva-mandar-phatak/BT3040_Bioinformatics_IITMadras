@@ -1,0 +1,30 @@
+V5TPXLIKE
+A number of eukaryotic extracellular proteins have been shown to be
+evolutionarily related. The family includes rodent sperm-coating glyco-
+protein (or acidic epididymal glycoprotein), which is thought to be involved
+in sperm maturation [1]; mammalian testis-specific protein (Tpx-1) [2];
+mammalian glioma pathogenesis-related protein; lizard helothermine, a toxin
+that blocks ryanodine receptors; venom allergen 5 from vespid wasps and
+venom allergen 3 from fire ants, which are potent allergens that mediate
+allergic reactions to stings from insects of the hymenoptera family [3];
+plant pathogenesis proteins of the PR-1 family [4], which are synthesised
+during pathogen infection or other stress-related responses; proteins Sc7
+and Sc14 from the basidiomycete fungus Schizophyllum commune, which are
+loosely associated with fruiting body hyphal walls [5]; ancylostoma secreted
+protein from dog hookworm; and yeast hypothetical proteins YJL078c, YJL079c
+and YKR013w. The precise functions of these proteins is still unclear.
+
+V5TPXLIKE is a 4-element fingerprint that provides a signature for the
+allergen V5/Tpx-1 family of extracellular proteins. The fingerprint was
+derived from an initial alignment of 13 sequences: the motifs were drawn
+from short conserved regions spanning the C-terminal half of the alignment -
+motif 3 includes the region encoded by PROSITE pattern SCP_AG5_PR1_SC7_1
+(PS01009); and motif 4 includes the region encoded by PROSITE pattern
+SCP_AG5_PR1_SC7_2 (PS010010), which contains a Cys residue known to be
+involved in disulphide bond formation in Ag5. Three iterations on OWL30.0
+were required to reach convergence, at which point a true set comprising 86
+sequences was identified. Several partial matches were also found, most of
+which are uncharacterised sequences from the C.elegans genome.
+
+An update on SPTR37_9f identified a true set of 95 sequences, and 21
+partial matches.

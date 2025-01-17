@@ -1,0 +1,20 @@
+HTHASNC
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family includes the E.coli asnC and leucine-responsive
+regulatory proteins [1], and the Streptomyces glycerol operon regulatory
+protein [2]. The HTH motif in each of these proteins is situated towards
+the N-terminus.
+
+HTHASNC is a 3-element fingerprint that provides a signature for the HTH
+motif of the asnC bacterial regulatory proteins. The fingerprint was
+derived from an initial alignment of 4 sequences: the motifs completely
+encompass the HTH motif and extend slightly beyond it in both N- and C-
+terminal directions, motifs 2 and 3 spanning the region encoded by PROSITE
+pattern HTH_ASNC_FAMILY (PS00519). A single iteration on OWL21.1 was
+required to reach convergence, no new sequences being identified beyond
+the starting set. 
+
+An update on SPTR37_9f identified a true set of 36 sequences, and 13
+partial matches.

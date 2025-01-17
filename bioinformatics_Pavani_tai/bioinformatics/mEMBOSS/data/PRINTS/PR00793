@@ -1,0 +1,40 @@
+PROAMNOPTASE
+Proteolytic enzymes that use serine in their catalytic machinery are 
+widespread and numerous, being found in viruses, bacteria and eukaryotes
+[1]. They encompass a range of peptidase activity, including exopeptidase,
+endopeptidase, oligopeptidase and omega-peptidase. More than 20 serine
+protease families (denoted S1 - S27) have been identified, which have been
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+and functional similarities [1]. Structures are known for four of the clans
+(SA, SB, SC and SE): these appear to be unrelated, suggesting at least four
+evolutionary origins of serine peptidase, and possibly many more [1].
+
+There are similarities in the reaction mechanisms of several peptidases
+from different evolutionary origins. Chymotrypsin, subtilisin and
+carboxypeptidase C clans exploit a catalytic triad of serine, aspartate
+and histidine, in which serine acts as a nucleophile, aspartate as an
+electrophile and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangement of the catalytic residues
+commonly reflect clan relationships. For example, in the chymotrypsin clan
+(SA), the catalytic triad is ordered HDS, whereas it is ordered DHS in the
+subtilisin clan (SB), and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Prolyl aminopeptidase is an ~350 residue serine peptidase that selectively
+cleaves N-terminal proline residues [1,3]. Sequence analysis has indicated
+similarity to the carboxypeptidase C family (S8), and hence this peptiase
+can be grouped into the SC clan [1].
+
+PROAMNOPTASE is a 3-element fingerprint that provides a signature for the
+proline aminopeptidase family (S33) of serine peptidases. The fingerprint
+was derived from an initial alignment of 7 sequences: the motifs were drawn
+from conserved regions within the N-terminal portion of the alignment -
+motif 2 contains an aspartate that may be involved in catalysis; and motif
+3 includes the region encoded by PROSITE pattern LIPASE_SER (PS00120), which
+contains the active serine. Two iterations on OWL29.3 were required to
+reach convergence, at which point a true set comprising 21 sequences was
+identified. Three partial matches were also found, all of which lack the
+portion of sequence bearing motif 1.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 6
+partial matches.

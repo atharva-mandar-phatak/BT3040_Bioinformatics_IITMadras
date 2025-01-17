@@ -1,0 +1,47 @@
+****************************************
+* Transposases, IS30 family, signature *
+****************************************
+
+Autonomous mobile genetic elements  such as  transposon or insertion sequences
+(IS) encode an enzyme, called transposase, required for excising and inserting
+the mobile element. On the basis of sequence similarities, transposases can be
+grouped into various families.   One of these families has been shown [1,2] to
+consist of transposases from the following elements:
+
+ - Is30 from Escherichia coli.
+ - Is1086 from Alcaligenes eutrophus.
+ - Is1161 from Streptococcus salivarius.
+ - Is4351 (Tn4551) from Bacteroides fragilis.
+
+These transposases  are proteins of 340 to 380 amino acids. The best conserved
+region is  located  in  their  C-terminal  section  and is used as a signature
+pattern.
+
+-Consensus pattern: R-G-x(2)-E-N-x-N-G-[LIVM](2)-R-[QE]-[LIVMFY](2)-P-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / First entry.
+
+[ 1] Dong Q., Sadouk A., van der Lelie D., Taghavi S., Ferhat A.,
+     Nuyten J.M., Borremans B., Mergeay M., Toussaint A.
+     "Cloning and sequencing of IS1086, an Alcaligenes eutrophus insertion
+     element related to IS30 and IS4351."
+     J. Bacteriol. 174:8133-8138(1992).
+     PubMed=1334071;
+[ 2] Giffard P.M., Rathsam C., Kwan E., Kwan D.W.L., Bunny K.L., Koo S.-P.,
+     Jacques N.A.
+     "The ftf gene encoding the cell-bound fructosyltransferase of
+     Streptococcus salivarius ATCC 25975 is preceded by an insertion
+     sequence and followed by FUR1 and clpP homologues."
+     J. Gen. Microbiol. 139:913-920(1993).
+     PubMed=8393068;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

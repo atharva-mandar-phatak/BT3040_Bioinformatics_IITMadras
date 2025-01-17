@@ -1,0 +1,53 @@
+BETAHAEM
+Globins are haem-containing proteins involved in dioxygen binding and/or 
+transport [1]. Hundreds of globin sequences are known [2]. It has been 
+proposed that all globins have evolved from a family of ancestral, ~17kDa 
+haemoproteins that displayed the globin fold and functioned as redox 
+proteins [3]. The globin superfamily includes vertebrate haemoglobins (Hb); 
+vertebrate myoglobins (Mb); invertebrate globins; plant leghaemoglobins; and 
+bacterial flavohaemoglobins. 
+
+The function of vertebrate haemoglobins (Hb) is transport of dioxygen in
+blood plasma. Hb binds O(2) in the reduced [Fe(II)] state. The Hb molecule 
+exists as a tetramer, typically of two alpha- and two beta-globin chains, 
+which form a well-defined quaternary structure. Each monomer binds iron 
+protoporphyrin IX (haem). 
+
+The 3D structures of a great number of haemoglobins in various states
+are known. The protein is largely alpha-helical, eight conserved helices 
+(A to H) providing the scaffold for a well-defined haem-binding pocket
+(Hb alpha subunits lack helix D [4]). The imidazole ring of the "proximal"
+His residue provides the fifth haem iron ligand; the other axial haem iron 
+position remains essentially free for O(2) coordination. Conserved "distal"
+His and Val residues block an unhindered access to the sixth coordination 
+site so that a controlled binding of small molecules may result only as a 
+consequence of side-chain dynamics of the protein [1]. O(2) binding results
+in a transition from high-spin to low-spin iron, with accompanying changes 
+in the Fe-N bond lengths and coordination geometry. In Hb, these subtle 
+changes lead to the well-known cooperative effect. On the quaternary 
+structure level, O(2) binding induces relative reorientation of the 
+[alpha-1, beta-1] and [alpha-2, beta-2] dimers. 
+
+Alpha- and beta-haemoglobins are highly similar; the sequence of beta-
+differs in length from that of alpha-haemoglobin on average by 5 residues
+(actual lengths 146 and 141 residues respectively). The major structural
+difference between alpha- and beta-forms is that beta-haemoglobins contain
+an alpha-helix (the D helix) that is missing in alpha-forms.
+
+BETAHAEM is a 5-element fingerprint that provides a signature for beta-
+haemoglobins. The fingerprint was derived from an initial alignment of 
+10 sequences: the motifs were drawn from short conserved sections spanning
+the full alignment length, focusing on those regions that characterise the 
+beta-haemoglobins but distinguish them from the rest of the globin family - 
+motif 1 spans the C-terminal half of helix 2 and helices 3 and 4; motif 2
+encompasses helix 5 and the N-terminus of helix 6, the region that marks a
+significant structural difference between the alpha- and beta-Hbs; motif 3
+spans the C-terminus of helix 6 and the N-terminus of helix 7; motif 4 lies
+in the loop between helices 7 and 8; and motif 5 encodes most of helix 10.
+Five iterations on OWL30.1 were required to reach convergence, at which 
+point a true set comprising 311 sequences was identified. Numerous partial
+matches were also found, some of which are fragments, but many are alpha-Hbs
+that match 2 or 3 motifs. 
+
+An update on SPTR37_9f identified a true set of 294 sequences, and 105
+partial matches.

@@ -1,0 +1,94 @@
+************************************************************
+* Gram-positive cocci surface proteins LPxTG motif profile *
+************************************************************
+
+Surface proteins  from  Gram-positive  cocci  are  covalently  linked  to  the
+bacterial cell  wall  by  sortase,  a  membrane-anchored  transpeptidase  that
+cleaves proteins  between  the  threonine and the glycine of a conserved LPxTG
+motif, with  the  formation  of  a thioester between the conserved cysteine of
+sortase and  the  threonine  carboxyl group. The newly liberated C-terminus of
+the threonine is transferred via an amide bond exchange to the amino group  of
+the pentaglycine wall  crossbridge,  thereby  tethering  the C-terminus end of
+the surface protein to the bacterial peptidoglycan [1,2,3].
+
+Surface proteins from Gram-positive cocci contain an N-terminal signal peptide
+and a  C-terminal sorting signal. The 35-residue sorting signal is composed of
+a conserved  LPxTG  motif,  a  hydrophobic  domain,  and  a tail of positively
+charged residues.  This  structure  is  represented in the following schematic
+representation:
+
+                                           +-- sorting signal ---+
+                                           |                     |
+  +------+---------------------------------+-----+-------------+-+
+  |Signal|                                 |LPxTG| Hydrophobic |+|
+  +------+---------------------------------+-----+-------------+-+
+
+  'Signal': signal peptide;
+  'Hydrophobic': hydrophobic domain;
+  '+': positive charged tail.
+
+In the  case  of  immunoglobulin  A1 proteases, the typical gram-positive cell
+wall anchor  motif  LPxTG  is located in their N-terminal regions, in contrast
+with other known streptococcal and staphylococcal proteins [4].
+
+Some proteins  known  to  contain  LPxTG  motif  containing sorting signal are
+listed below:
+
+ - Aggregation substance from streptococcus faecalis (asa1).
+ - C5a peptidase from Streptococcus pyogenes (scpA).
+ - C protein alpha-antigen from Streptococcus agalactiae (bca).
+ - Cell surface antigen I/II (PAC) from Streptococcus mutans.
+ - Dextranase from Streptococcus downei (dex).
+ - Fibronectin-binding protein from Staphylococcus aureus (fnbA).
+ - Fimbrial subunits from Actinomyces naeslundii and viscosus.
+ - IgA binding protein from Streptococcus pyogenes (arp4).
+ - IgA binding protein (B antigen) from Streptococcus agalactiae (bag).
+ - IgG binding proteins from Streptococci and Staphylococcus aureus.
+ - Internalin A from Listeria monocytogenes (inlA).
+ - M proteins from streptococci.
+ - Muramidase-released protein from Streptococcus suis (mrp).
+ - Nisin leader peptide processing protease from Lactococcus lactis (nisP).
+ - Protein A from Staphylococcus aureus.
+ - Trypsin-resistant surface T protein from streptococci.
+ - Wall-associated protein from Streptococcus mutans (wapA).
+ - Wall-associated serine proteinases from Lactococcus lactis.
+
+The profile  we  developed covers the LPxTG motif, the hydrophobic stretch and
+the positively charged region.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This profile replaces a pattern which specificity was inadequate.
+
+-Last update: May 2002 / Pattern removed and profile added.
+
+[ 1] Mazmanian S.K., Liu G., Ton-That H., Schneewind O.
+     "Staphylococcus aureus sortase, an enzyme that anchors surface
+     proteins to the cell wall."
+     Science 285:760-763(1999).
+     PubMed=10427003
+[ 2] Ton-That H., Liu G., Mazmanian S.K., Faull K.F., Schneewind O.
+     Proc. Natl. Acad. Sci. U.S.A. 96:12424-12429(1999).
+[ 3] Perry A.M., Ton-That H., Mazmanian S.K., Schneewind O.
+     "Anchoring of surface proteins to the cell wall of Staphylococcus
+     aureus. III. Lipid II is an in vivo peptidoglycan substrate for
+     sortase-catalyzed surface protein anchoring."
+     J. Biol. Chem. 277:16241-16248(2002).
+     PubMed=11856734; DOI=10.1074/jbc.M109194200
+[ 4] Poulsen K., Reinholdt J., Jespersgaard C., Boye K., Brown T.A.,
+     Hauge M., Kilian M.
+     "A comprehensive genetic study of streptococcal immunoglobulin A1
+     proteases: evidence for recombination within and between species."
+     Infect. Immun. 66:181-190(1998).
+     PubMed=9423856
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

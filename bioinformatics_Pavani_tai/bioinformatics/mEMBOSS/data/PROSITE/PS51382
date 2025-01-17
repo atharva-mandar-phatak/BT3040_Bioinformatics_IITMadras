@@ -1,0 +1,75 @@
+**********************
+* SPX domain profile *
+**********************
+
+Hydrophilic and poorly conserved SPX (SYG1, Pho81 and XPR11) domains, of about
+180 residues,  are  found  at  the N-termini of various proteins, particularly
+signal transduction  proteins.  There are proteins harboring the SPX domain in
+all major  eukaryotic  kingdoms. SPX domains are composed of three subdomains,
+which are  separated  by  two  areas  of  low  similarity.  They are often (1)
+variable in  sequence,  (2)  split due to insertions, or (3) fragmented due to
+deletions. The  tripartite SPX domain could function as a sensor for inorganic
+phosphate (Pi)  level  and  is  most  likely a domain for protein interaction.
+Possibly all  SPX  domains  bind  G-protein  beta-subunits  for the purpose of
+signal transduction [1-3].
+
+Some proteins known to contain a SPX domain are listed below:
+
+ - Yeast  SYG1, a protein involved in the mating pheromone signal transduction
+   pathway.
+ - Yeast  PHO81,  the  putative  sensor of Pi levels. It is a cyclin-dependent
+   kinase (CDK)  inhibitor  that is induced by Pi starvation, interacting with
+   cyclin PHO80    to  repress  the  activity of CDK PHO85, thus promoting the
+   expression of PHO2/PHO4 and enhancing yeast tolerance to Pi starvation.
+ - Vertebrate xenotropic and polytropic retrovirus receptor 1 receptor (XPR1),
+   initially identified as a retrovirus receptor but for which the function in
+   uninfected cells remains unknown.
+ - Arabidopsis  thaliana  PHO1, a protein involved in the loading of inorganic
+   phosphate into  the  xylem  of  roots.  It  harbors  both aSPX and EXS (see
+   <PDOC51380>) domains.
+ - Arabidopsis   thaliana   PHO1-like   proteins  (identified  as  PHO1;H1  to
+   PHO1;H10).
+ - Arabidopsis    thaliana  SHORT HYPOCOTYL UNDER BLUE 1 (SHB1), homologous to
+   yeast SYG1.  It  acts  in  cryptochrome signaling and possible phytochrome-
+   mediated light responses.
+ - Arabidopsis  thaliana  AtSPX1-AtSPX4,  which  are  part  of  the phosphate-
+   signaling network that involves SIZ1/PHR1.
+ - Barley IDS4 (iron-deficiency specific clone 4). It contains part of the SPX
+   domain and is preferentially expressed in Fe-deficient roots.
+ - Tomato  IDS4-like protein. It interacts with the leucine zipper domain (see
+   <PDOC00029>) of a hypoxia-induced transcription factor involved in the low-
+   oxygen response.
+
+The profile we developed covers the entire SPX domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2008 / First entry.
+
+[ 1] Barabote R.D., Tamang D.G., Abeywardena S.N., Fallah N.S., Fu J.Y.C.,
+     Lio J.K., Mirhosseini P., Pezeshk R., Podell S., Salampessy M.L.,
+     Thever M.D., Saier M.H. Jr.
+     "Extra domains in secondary transport carriers and channel proteins."
+     Biochim. Biophys. Acta 1758:1557-1579(2006).
+     PubMed=16905115; DOI=10.1016/j.bbamem.2006.06.018
+[ 2] Duan K., Yi K., Dang L., Huang H., Wu W., Wu P.
+     "Characterization of a sub-family of Arabidopsis genes with the SPX
+     domain reveals their diverse functions in plant tolerance to
+     phosphorus starvation."
+     Plant. J. 0:0-0(2008).
+     PubMed=18315545; DOI=10.1111/j.1365-313X.2008.03460.x
+[ 3] Wang Y., Secco D., Poirier Y.
+     "Characterization of the PHO1 gene family and the responses to
+     phosphate deficiency of Physcomitrella patens."
+     Plant. Physiol. 146:646-656(2008).
+     PubMed=18055586; DOI=10.1104/pp.107.108548
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

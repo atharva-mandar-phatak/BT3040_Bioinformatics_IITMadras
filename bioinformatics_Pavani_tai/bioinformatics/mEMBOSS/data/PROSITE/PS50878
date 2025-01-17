@@ -1,0 +1,67 @@
+*******************************************************
+* Reverse transcriptase (RT) catalytic domain profile *
+*******************************************************
+
+Retroviral  reverse  transcriptases (EC 2.7.7.49)   (prototypical RTs) exhibit
+three  enzymatic  activities: an RNA-dependent DNA polymerase, Ribonuclease H,
+and  a  DNA-dependent  DNA  polymerase. These are employed in copying the plus
+strand  RNA  genome  to  produce  a  minus  strand  of DNA, removal of the RNA
+template,  and  synthesis of the plus strand of DNA using the minus-strand DNA
+as  a  template, respectively [1]. Both polymerase activities are performed by
+the  RT  domain  whereas  the ribonuclease activity is achieved by the RNase H
+domain (see <PDOC50879>).
+
+Several  crystal  structures  of  the  RT domain have been determined (see for
+example  <PDB:3HVT>)  [2].  Structurally, the RT domain can be divided in four
+subdomains.  Its  anatomical resemblance to a right hand has led to naming the
+subdomains  as fingers, palm, and thumb. The fourth subdomain lies between the
+rest  of  the RT and the RNase H domain leading it to be called the connection
+subdomain.   The  palm  domain  contains  the  catalytic  triad  critical  for
+polymerase   activity,   and  its  folded  structure  resembles  that  of  the
+corresponding  catalytic domain in other DNA and RNA polymerases. The position
+of  fingers and thumb defined a deep cleft, with polymerase active residues at
+its base.
+
+Proteins known to contain an RT domain are listed below:
+
+ - Retroviral reverse transcriptase.
+ - Catalytic subunit of the telomerase.
+ - Eukaryotic retrotransposons.
+ - Escherichia   coli  retroelement  retron,  which  is  responsible  for  the
+   synthesis of multicopy single-stranded DNA (msDNA).
+ - Bacterial  mobile  group II intron, that can reverse splice into DNA target
+   substrate.
+
+The  finger,  thumb  and connection subdomains are less conserved among all RT
+domain  subfamilies [3] and could not be identified by the profile method. The
+profile  we  developed  is  thus  directed  against the catalytic region (palm
+subdomain).
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2004 / First entry.
+
+[ 1] Katz R.A., Skalka A.M.
+     "The retroviral enzymes."
+     Annu. Rev. Biochem. 63:133-173(1994).
+     PubMed=7526778; DOI=10.1146/annurev.bi.63.070194.001025
+[ 2] Kohlstaedt L.A., Wang J., Friedman J.M., Rice P.A., Steitz T.A.
+     "Crystal structure at 3.5 A resolution of HIV-1 reverse transcriptase
+     complexed with an inhibitor."
+     Science 256:1783-1790(1992).
+     PubMed=1377403
+[ 3] Nakamura S.
+     "The roles of structural imperfections in InGaN-based blue
+     light-emitting diodes and laser diodes ."
+     Science 281:955-961(1998).
+     PubMed=9703504
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

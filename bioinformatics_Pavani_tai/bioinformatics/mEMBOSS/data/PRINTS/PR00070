@@ -1,0 +1,31 @@
+DHFR
+Dihydrofolate reductase (DHFR) catalyses the NADPH-dependent reduction of
+dihydrofolate to tetrahydrofolate, an essential step in de novo synthesis
+both of glycine and of purines and deoxythymidine phosphate (the precursors
+of DNA synthesis) [1], and important also in the conversion of deoxyuridine
+monophosphate to deoxythymidine monophosphate. Although DHFR is found
+ubiquitously in prokaryotes and eukaryotes, and is found in all dividing
+cells, maintaining levels of fully reduced folate coenzymes, the catabolic
+steps are still not well understood [2].
+
+Bacterial species possesses distinct DHFR enzymes (based on their pattern
+of binding diaminoheterocyclic molecules), but mammalian DHFRs are highly
+similar [3]. The active site is situated in the N-terminal half of the
+sequence, which is the area of least variability. Its central role in DNA
+precursor synthesis, coupled with its inhibition by antagonists such as
+trimethoprim and methotrexate, which are used as anti-bacterial or anti-
+cancer agents, has made DHFR a target of anticancer chemotherapy. However,
+resistance has developed against some drugs, as a result of changes in DHFR
+itself [4].
+
+DHFR is a 4-element fingerprint that provides a signature for DHFRs. The
+fingerprint was derived from an initial alignment of 11 sequences: the
+motifs line the active site, motif 1 including the region encoded by
+PROSITE pattern DHFR (PS00075), in which the conserved Trp is implicated
+in substrate binding. Two iterations on OWL21.1 were required to reach
+convergence, at which point a true set comprising 55 sequences was
+identified. Nine partial matches were also found, all of which are
+fragments.
+
+An update on SPTR37_9f identified a true set of 77 sequences, and 9
+partial matches.

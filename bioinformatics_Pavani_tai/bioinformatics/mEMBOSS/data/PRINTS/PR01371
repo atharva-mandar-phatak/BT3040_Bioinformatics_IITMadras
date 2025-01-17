@@ -1,0 +1,44 @@
+BACYPHPHTASE
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1].
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+Exotoxins secreted by the type III system do not possess a secretion signal,
+and are considered unique for this reason [1]. Salmonella/Yersinia spp.  
+secrete a protein, SptP, with tyrosine phosphatase activity [2,3]. SptP 
+exerts its function by acting as a GTPase-activating protein [4], and 
+counteracts the effects of SopE [4]. This is similar to the Yersinia 
+exotoxin YopH, which degrades host cell signal transduction [3].
+
+X-ray crystal structures of the Yersinia tyrosine phosphatase (PTPase) in 
+complex with tungstate and nitrate have been solved to 2.4A resolution [5].
+The fold belongs to the alpha-beta class. The crystal structure reveals
+that the nucleophilic cysteine (Cys 403) is positioned at the centre of a
+distinctive phosphate-binding loop [5]. This loop is at the hub of
+several hydrogen-bond arrays that not only stabilise a bound oxyanion, but
+may activate Cys 403 as a reactive thiolate [5]. Binding of tungstate
+triggers a conformational change that traps the oxyanion and swings Asp 356,
+an important catalytic residue that resides in a flexible loop, by ~6A into
+the active site [5]. 
+
+BACYPHPHTASE is a 5-element fingerprint that provides a signature for
+Salmonella/Yersinia type III secreted modular tyrosine phosphatases. The
+fingerprint was derived from an initial alignment of 2 sequences: the motifs
+were drawn from conserved regions spanning the full alignment length - 
+motif 2 spans beta-strand 2 and part of alpha-helix 3; motif 3 spans strand
+4 and the N-terminus of strand 5; motif 4 spans strand 7 and part of the
+flexible loop that contains the putative general acid; and motif 5 spans
+strand 8 and the phosphate-binding loop. Two iterations on SPTR37_10f were
+required to reach convergence, at which point a true set comprising 5 
+sequences was identified.

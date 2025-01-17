@@ -1,0 +1,41 @@
+PHFRCTKINASE
+The enzyme-catalysed transfer of a phosphoryl group from ATP is an
+important reaction in a wide variety of biological processes [1]. One
+enzyme that utilises this reaction is phosphofructokinase (PFK), which
+catalyses the phosphorylation of fructose-6-phosphate to fructose-1,6-
+bisphosphate, a key regulatory step in the glycolytic pathway [1,2]. 
+
+PFK exists as a homotetramer in bacteria and mammals (where each monomer
+possesses 2 similar domains), and as an octomer in yeast (where there are
+4 alpha- (PFK1) and 4 beta-chains (PFK2), the latter, like the mammalian
+monomers, possessing 2 similar domains [1,2]). Structural studies of the
+bacterial enzyme have shown the identical tetramer subunits to adopt 2 
+different conformations: in a 'closed' state, the bound magnesium ion
+bridges the phosphoryl groups of the enzyme products (ADP and fructose-1,6-
+bisphosphate); and in an 'open' state, the magnesium ion binds only the ADP
+[3], as the 2 products are now further apart. These conformations are
+thought to be successive stages of a reaction pathway that requires subunit
+closure to bring the 2 molecules sufficiently close to react [3].
+
+Deficiency in PFK leads to glycogenosis type VII (Tauri's disease), an
+autosomal recessive disorder characterised by severe nausea, vomiting,
+muscle cramps and myoglobinuria in response to bursts of intense or
+vigorous exercise [2]. Sufferers are usually able to lead a reasonably
+ordinary life by learning to adjust activity levels [2].
+
+PHFRCTKINASE is a 9-element fingerprint that provides a signature for the
+ATP-dependent phosphofructokinase family. The fingerprint was derived from 
+an initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 4 contains an
+aspartate residue important in phosphoryl transfer [1]; and motif 9 includes
+the region encoded by PROSITE pattern PHOSPHOFRUCTOKINASE (PS00433), the
+first and tenth residues of which have been shown to be important in
+fructose-6-phosphate binding. Two iterations on OWL27.0 were required to
+reach convergence, at which point a true set comprising 28 sequences was 
+identified. Ten partial matches were also found: the sequences matching 
+with 5 and 2 motifs are PFK fragments; those matching 3 motifs are members 
+of the pyrophosphate-dependent phosphofructokinase family, which share some 
+similarity with the PFK family.
+
+An update on SPTR37_9f identified a true set of 39 sequences, and 16
+partial matches.

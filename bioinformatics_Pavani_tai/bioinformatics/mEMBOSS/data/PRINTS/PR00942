@@ -1,0 +1,69 @@
+CUATPASEI
+Proteins that transport heavy metals in micro-organisms and mammals share
+similarities in their sequences and structures. These proteins provide an
+important focus for research, some being involved in bacterial resistance
+to toxic metals, such as lead and cadmium, while others are involved in
+inherited human syndromes, such as Wilson and Menkes diseases [1].
+
+A conserved 30-residue domain has been found in a number of these heavy
+metal transport or detoxification proteins [1]. The domain, which has been
+termed Heavy-Metal-Associated (HMA), contains two conserved cysteines that
+are probably involved in metal binding. 
+
+The HMA domain has been identified in the N-terminal regions of a variety
+of cation-transporting ATPases (E1-E2 ATPases): the human copper ATPases 
+involved in Wilson and Menkes diseases (ATP7A and ATP7B) each contain 6 
+tandem copies; a chromosomal Staphylococcus aureus cadA contains two copies;
+and the copper ATPases CCC2 from budding yeast, copA from Enterococcus 
+faecalis, synA from Synechococcus, and cadmium ATPases cadA from Bacillus 
+firmus and plasmid pI258 from Staphylococcus aureus contain a single copy.
+Other ATPases that contain the HMA domain include: fixI from Rhizobium 
+meliloti; pacS from Synechococcus strain PCC 7942; Mycobacterium leprae 
+ctpA and ctpB; and Escherichia coli hypothetical protein yhhO. In addition,
+the domain has been found in bacterial mercuric reductase; the copP copper-
+binding protein of Helicobacter pylori; and in bacterial mercuric transport
+proteins.
+
+The structure of the mercuric ion-binding protein MerP from Shigella
+flexneri has been determined. The fold has been classed as a ferredoxin-like
+alpha-beta sandwich, having a beta-alpha beta-beta alpha-beta architecture,
+with the two alpha-helices overlaying a four-stranded anti-parallel beta-
+sheet [2]. Structural differences between the reduced and mercury-bound 
+forms of merP are localised to the metal-binding loop containing the 
+consensus sequence GMTCXXC, the two cysteines of which are involved in
+bi-coordination of Hg(2+) [2].
+
+Copper-transporting ATPase 1 (ATP7A and ATP7B) is thought to function in 
+the export of copper, and possibly other metals, from the cytoplasm to an 
+intracellular organelle. The protein functions as a monomer and is an 
+integral membrane protein, with 8 predicted transmembrane (TM) domains,
+possibly inserted into the membrane of a subcellular compartment. ATP7A is
+found in most tissues, except liver. Defects in the protein, resulting in
+defective absorption and transport of copper, are associated with Menkes
+syndrome (also known as kinky hair disease), an X-linked recessive disease
+characterised by progressive neurodegeneration and connective-tissue 
+disturbances, focal cerebral and cerebellar degeneration, early retardation
+in growth, peculiar hair, hipopigmentation, vascular complications and death
+in early childhood. 
+
+Defects in ATP7B are associated with Wilson disease, an autosomal recessive
+disorder of copper metabolism in which copper cannot be incorporated into
+ceruloplasmin in liver, and cannot be excreted from the liver into the bile.
+Copper thus accumulates in the liver, and ultimately in the brain and kidney,
+leading to neurological manifestations and signs of cirrhosis.
+
+CUATPASEI is a 9-element fingerprint that provides a signature for type I
+copper transporting ATPases (ATP7A and ATP7B). The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from short
+conserved regions within the N-terminal and central portions of the
+alignment - motifs 1 and 2 reside at the N-terminus, motif 1 spanning the
+first alpha-helix and the N-terminal residues of strand 2, and motif 2 
+spanning strands 2 and 3; motif 7 spans putative TM domain 1; motif 8 
+encodes putative TM domain 2; and motif 9 includes the N-terminal residues 
+of TM domain 3. Two iterations on OWL30.2 were required to reach convergence, 
+at which point a true set comprising 15 sequences was identified. Several
+partial matches were also found, all of which are fragments or homologues
+that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 13
+partial matches.

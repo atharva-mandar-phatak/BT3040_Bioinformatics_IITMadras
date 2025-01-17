@@ -1,0 +1,35 @@
+LANTIREGPROT
+Pathogenic bacteria produce a number of virulence factors to facilitate
+host infection, and to combat competing species [1]. Antibiotics are 
+secreted by some pathogenic prokaryotes to lyse cells, some of which have 
+been adapted by humans for use against virulent microbes. Amongst these are 
+the lantibiotics, produced exclusively by Gram-positive bacteria. 
+Lantibiotics are small, heavily post-translationally modified peptides that 
+inhibit rival cell growth and are strongly cationic [1]. 
+
+Lantibiotic genes reside on the bacterial chromosome, where they cluster 
+with genes that adapt and secrete them to the extracellular space [2]. Many 
+of these so-called 'pathogenicity islands' have been characterised, 
+including the epidermin (epi) cluster in Staphylococcus epidermis [2], and 
+the nisin (nis) cluster in Lactococcus lactis [3]. The gene encoding the 
+lantibiotic is flanked by 3 regulatory genes: 2 that are usually involved in
+a 2-component regulatory system, and another that cleaves the signal peptide
+from the precursor to produce the mature lantibiotic.
+
+The archetypal example of lantibiotic synthesis is witnessed in the L.lactis
+nis operon [4]. In this cluster, the 2-component regulatory system is 
+controlled by the nisK/nisR genes. NisK is believed to function as a 
+membrane-associated protein kinase that phosphorylates NisR in response to 
+external stimuli [4]. It shows some similarity to other bacterial kinases, 
+and contains a single histidine kinase domain [4]. 
+
+LANTIREGPROT is an 11-element fingerprint that provides a signature for the 
+lantibiotic regulatory proteins. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length - motif 1 includes the
+N-terminal portion of the first putative TM domain; and motifs 7-11 span the
+histidine kinase domain (motif 7 includes a putative phosphorylation site). 
+A single iteration on SPTR40_20f was required to reach convergence, no
+further sequences being identified beyond the starting set. Two partial
+matches were found, Q97KT5 and Q9CNJ9, both bacterial regulatory protein 
+kinases that match motifs 7 and 11.

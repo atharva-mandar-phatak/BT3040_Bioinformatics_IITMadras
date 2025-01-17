@@ -1,0 +1,62 @@
+*********************************************************
+* Glutaredoxin active site signature and domain profile *
+*********************************************************
+
+Glutaredoxin [1,2,3],  also known as thioltransferase,  is  a small protein of
+approximately one  hundred  amino-acid  residues.  It functions as an electron
+carrier in  the glutathione-dependent synthesis of deoxyribonucleotides by the
+enzyme  ribonucleotide  reductase.  Like  thioredoxin,  which  functions  in a
+similar way, glutaredoxin possesses an active center disulfide bond. It exists
+in either  a  reduced  or an oxidized form where the two cysteine residues are
+linked in an intramolecular disulfide bond.
+
+Glutaredoxin has  been  sequenced  in  a  variety  of species. On the basis of
+extensive sequence similarity, it has  been proposed [4] that vaccinia protein
+O2L is  most  probably a glutaredoxin. Finally, it must be noted that phage T4
+thioredoxin seems also to be evolutionary related.
+
+The  pattern is directed against the 2 cysteines of the redox active bonds. We
+also developed a profile that covers the whole glutaredoxin domain.
+
+-Consensus pattern: [LIVMD]-[FYSA]-x(4)-C-[PV]-[FYWH]-C-x(2)-[TAV]-x(2,3)-
+                    [LIV]
+                    [The 2 C's form the redox-active bond]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In position 5 of the pattern, all glutaredoxin sequences have Pro while
+ T4 thioredoxin has Val.
+
+-Last update: December 2007 / Text revised and profile added.
+
+[ 1] Gleason F.K., Holmgren A.
+     "Thioredoxin and related proteins in procaryotes."
+     FEMS Microbiol. Rev. 4:271-297(1988).
+     PubMed=3152490
+[ 2] Holmgren A.
+     "Thioredoxin and glutaredoxin: small multi-functional redox proteins
+     with active-site disulphide bonds."
+     Biochem. Soc. Trans. 16:95-96(1988).
+     PubMed=3286320
+[ 3] Holmgren A.
+     "Thioredoxin and glutaredoxin systems."
+     J. Biol. Chem. 264:13963-13966(1989).
+     PubMed=2668278
+[ 4] Johnson G.P., Goebel S.J., Perkus M.E., Davis S.W., Winslow J.P.,
+     Paoletti E.
+     "Vaccinia virus encodes a protein with similarity to glutaredoxins."
+     Virology 181:378-381(1991).
+     PubMed=1994586
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

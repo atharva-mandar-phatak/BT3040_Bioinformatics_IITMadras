@@ -1,0 +1,78 @@
+***************************************************************
+* Flavin-dependent thymidylate synthase (thyX) domain profile *
+***************************************************************
+
+All cellular  organisms  need  thymidylate (dTMP) for the replication of their
+chromosomes, as  dTMP  is  required  for  the biosynthesis of dTTP, a building
+block of  DNA.  Cells  can  produce  thymidylate  either  de novo from dUMP or
+incorporate thymidine  using  thymidine  kinase.  The  de novo pathway of dTMP
+synthesis requires  a  specific  enzyme, thymidylate synthase, that methylates
+dUMP at   position   5   of   the   pyrimidine   ring.  Two  structurally  and
+mechanistically distinct  classes  of  thymidylate  synthases  exist. The well
+studied thyA   proteins  (EC  2.1.1.45)  catalyze  the  reductive  methylation
+reaction of  dUMP, with methylenetetrahydrofolate (CH(2)H(4)folate) serving as
+one-carbon donor  and  as  source of reductive power (see <PDOC00086>). On the
+other hand  the  thyX  (EC 2.1.1.148) family of thymidylate synthases contains
+FAD that  is tightly bound by a novel fold. FAD mediates hydride transfer from
+NADPH during  catalysis.  Consequently,  in  the  reaction  catalyzed by thyX,
+CH(2)H(4)folate serves  only  as  a carbon donor and tetrahydrofolate (and not
+dihydrofolate as in the case of thyA) is produced [1,2].
+
+The thyX  domain consists of a central alpha/beta domain and two alpha helices
+located away  from  the central domain (see <PDB:1KQ4>). The central domain is
+made up of a five-stranded antiparallel beta-sheet, flanked by 6 alpha-helices
+on one  side  of  the  sheet  [2-4].  Sequence  alignments revealed a specific
+sequence motif  R-H-R-X(7)-S  (thyX  motif)  common to this family of proteins
+[1].
+
+The profile we developed covers the entire thyX domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: ThyX   proteins  are  also  known  as  thy1  or  thymidilate  synthase-
+ complementing proteins [1,4].
+
+-Last update: September 2007 / First entry.
+
+[ 1] Myllykallio H., Lipowski G., Leduc D., Filee J., Forterre P.,
+     Liebl U.
+     "An alternative flavin-dependent mechanism for thymidylate
+     synthesis."
+     Science 297:105-107(2002).
+     PubMed=12029065; DOI=10.1126/science.1072113
+[ 2] Graziani S., Bernauer J., Skouloubris S., Graille M., Zhou C.-Z.,
+     Marchand C., Decottignies P., van Tilbeurgh H., Myllykallio H.,
+     Liebl U.
+     "Catalytic mechanism and structure of viral flavin-dependent
+     thymidylate synthase ThyX."
+     J. Biol. Chem. 281:24048-24057(2006).
+     PubMed=16707489; DOI=10.1074/jbc.M600745200
+[ 3] Kuhn P., Lesley S.A., Mathews I.I., Canaves J.M., Brinen L.S., Dai X.,
+     Deacon A.M., Elsliger M.A., Eshaghi S., Floyd R., Godzik A.,
+     Grittini C., Grzechnik S.K., Guda C., Hodgson K.O., Jaroszewski L.,
+     Karlak C., Klock H.E., Koesema E., Kovarik J.M., Kreusch A.T.,
+     McMullan D., McPhillips T.M., Miller M.A., Miller M., Morse A.,
+     Moy K., Ouyang J., Robb A., Rodrigues K., Selby T.L., Spraggon G.,
+     Stevens R.C., Taylor S.S., van den Bedem H., Velasquez J., Vincent J.,
+     Wang X., West B., Wolf G., Wooley J., Wilson I.A.
+     "Crystal structure of thy1, a thymidylate synthase complementing
+     protein from Thermotoga maritima at 2.25 A resolution."
+     Proteins 49:142-145(2002).
+     PubMed=12211025; DOI=10.1002/prot.10202
+[ 4] Mathews I.I., Deacon A.M., Canaves J.M., McMullan D., Lesley S.A.,
+     Agarwalla S., Kuhn P.
+     "Functional analysis of substrate and cofactor complex structures of a
+     thymidylate synthase-complementing protein."
+     Structure 11:677-690(2003).
+     PubMed=12791256
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

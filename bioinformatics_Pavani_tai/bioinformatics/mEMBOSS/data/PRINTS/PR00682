@@ -1,0 +1,36 @@
+IPNSYNTHASE
+Isopenicillin N synthase (IPNS) is a nonheme-Fe2+-dependent enzyme that
+belongs to a class of nonheme Fe2+-containing enzymes, which includes
+2-oxoglutarate-dependent dioxygenases, 2-oxoglutarate-dependent hydroxy-
+lases, and enzymes involved in ethylene formation and anthocyaninidin
+biosynthesis. IPNS catalyses the stereospecific formation of the beta-lactam 
+and thiazolidine rings of IPN via a 4-electron oxidation of the tripeptide
+ACV. The enzyme uses, as the sole electron acceptor, one molecule of
+dioxygen, which is completely reduced to two molecules of water. The oxygen 
+stoichiometry shown by IPNS is the same as that for cytochrome C oxidase,
+but is unusual for nonheme-iron-containing enzymes, which typically catalyse
+the transfer of one or both atoms of dioxygen into their substrates. IPNS
+thus provides an interesting contrast to dioxygenase enzymes.
+
+All IPNS proteins reported to date have a molecular mass of 30-40kDa and
+are highly conserved. The degree of identity in the predicted amino acid
+sequence ranges from 54-75%. Two cysteines are invariant in all known IPNS
+sequences; these residues are believed to be functionally important for
+iron binding. Histidine and aspartic acid residues in the sequence
+constitute the endogenous ligands of the ferrous active site.
+
+IPNSYNTHASE is a 9-element fingerprint that provides a signature for isopenicillin
+N synthases. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn from conserved sections spanning virtually
+the full alignment length - motifs 1,2,4 and 7 encompass conserved
+histidines; motifs 4 and 6 include conserved aspartic acid residues; and
+motifs 3 and 7, which include conserved cysteines, lie in the regions
+encoded by PROSITE patterns IPNS_1 (PS00185) and IPNS_2 (PS00186) res..  
+Two iterations on OWL29.2 were required to reach convergence, at which point
+a true set comprising 10 sequences was identified. Several partial matches
+were also found, representing a subfamily of iron/ascorbate-dependent 
+oxidoreductases - these match motifs 1 and 7, which contain the functionally 
+important His residues.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 6
+partial matches.

@@ -1,0 +1,51 @@
+**************************************
+* Hypothetical cof family signatures *
+**************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Escherichia coli protein cof.
+ - Escherichia coli hypothetical protein ybhA.
+ - Escherichia coli hypothetical protein yidA.
+ - Escherichia  coli  hypothetical  protein yigL and HI0597, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein ycsE.
+ - Bacillus subtilis hypothetical protein yxeH.
+ - Haemophilus influenzae HI0003.
+ - Mycoplasma genitalium hypothetical protein MG125.
+ - Mycoplasma genitalium hypothetical protein MG263.
+ - Mycoplasma genitalium hypothetical protein MG265.
+ - Mycoplasma pneumoniae hypothetical protein A05_orf290.
+ - Partial   hypothetical   proteins   from  Bacillus  stearothermophilus  and
+   Mycoplasma capricolum.
+
+There are  hydrophilic  proteins  of  about 250 to 280 amino acid residues. We
+have developed two signature patterns for these proteins.
+
+-Consensus pattern: [LIVFYAN]-[LIVMFA]-x(2)-D-[LIVMF]-[ND]-G-T-[LIV]-[LVY]-
+                    [STANLM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for A05_orf290.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [LIVMFC]-G-D-[GSANQ]-x-N-D-x(3)-[LIMFY]-x(2)-[AV]-x(2)-
+                    [GSCP]-x(2)-[LMP]-x(2)-[GAS]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for A05_orf290.
+-Other sequence(s) detected in Swiss-Prot: A number of cation E-type ATPases.
+
+-Last update: November 1997 / First entry.
+
+[ 1] Bairoch A., Rudd K.E.
+     Unpublished observations (1996).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

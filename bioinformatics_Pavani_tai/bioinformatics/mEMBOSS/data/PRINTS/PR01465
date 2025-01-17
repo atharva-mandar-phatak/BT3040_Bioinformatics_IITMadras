@@ -1,0 +1,52 @@
+ELKCHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Structurally, EAG channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-gated
+K+ channels, the KCNQ channels, the EAG-like K+ channels and 3 kinds of
+Ca2+-activated K+ channel (BK, IK and SK) [2]. All K+ channels share a
+characteristic sequence feature: a TMxTVGYG motif that resides between the
+2 C-terminal membrane-spanning helices, and forms the K+-selective pore 
+domain [1]. However, unlike other families within this structural class,
+EAG channels possess a cyclic nucleotide binding domain within their 
+putative intracellular C-termini.
+
+The first EAG K+ channel was identified in Drosophila, following a screen 
+for mutations giving rise to behavioural abnormalities. Disruption of the
+Eag gene caused an ether-induced, leg-shaking behaviour. Subsequent studies
+have revealed a conserved multi-gene family of EAG-like K+ channels, which
+are present in Homo sapiens and many other species. Based on the varying
+functional properties of the channels, the family has been divided into
+3 subfamilies: EAG, ELK and ERG. Interestingly, C.elegans appears to lack
+the ELK type [3].
+
+Little is known about the properties of channels of the ELK subfamily. 
+However, when expressed in frog oocytes, they show properties between those
+of the EAG and ERG subtypes. Included in this family are Bec1 and Bec2,
+brain-specific genes found in the human telencephalon regions. It is thought
+that they are involved in cellular excitability of restricted neurons in the
+human central nervous system. Phylogenetic analysis reveals that these genes
+constitute a subfamily with Elk within the Eag family [4]. Recently, a
+further Elk subfamily member has been identified in mouse (Melk). On the
+basis of sequence similarity, this indicates a distinct subclass within 
+this family [5].
+
+ELKCHANNEL is a 6-element fingerprint that provides a signature for the ELK
+potassium channel family. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length, focusing on those sections that 
+characterise the ELK channels but distinguish them from other members of
+the K+ channel superfamily - motifs 1 and 2 reside within the N-terminal
+domain; motif 3 spans the loop between putative TM domains 2 and 3; motif 4 
+encodes the loop between TM domains 4 and 5; motif 5 spans TM domain 6; and 
+motif 6 spans the C-terminal nucleotide binding domain. Three iterations on
+SPTR39_14f were required to reach convergence, at which point a true set 
+comprising 9 sequences was identified. 

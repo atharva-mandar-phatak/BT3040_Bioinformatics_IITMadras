@@ -1,0 +1,46 @@
+KV6CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+ 
+Structurally, Kv channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-
+gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ channels and
+3 kinds of Ca2+-activated K+ channels (BK, IK and SK) [2]. All K+
+channels share a characteristic sequence feature: a TMxTVGYG motif
+that resides between the 2 C-terminal membrane spanning helices, and
+forms the K+-selective pore domain [1-2].
+
+The Kv family can be divided into 4 subfamilies on the basis of sequence
+similarity and function: Shaker (Kv1), Shab (Kv2), Shaw (Kv3) and Shal 
+(Kv4). All consist of pore-forming alpha subunits that associate with 
+different types of beta subunit. To form a functional K+ channel pore,
+4 alpha subunits and 4 beta subunits are required. The alpha subunits
+have 6 well-conserved TM domains, a pore loop region and variable length
+N- and C-termini. TM domains 5 and 6, and the loop region, form the K+ 
+channel pore through which the K+ ions pass [3]. 
+
+More recently, 4 new electrically-silent alpha subunits have been cloned:
+Kv5 (KCNF), Kv6 (KCNG), Kv8 and Kv9 (KCNS). These subunits do not themselves
+possess any functional activity, but appear to form heteromeric channels
+with Kv2 subunits, and thus modulate Shab channel activity [4]. When highly
+expressed, they inhibit channel activity, but at lower levels show more
+specific modulatory actions. Coexpression of Kv6 subunits with Shab subunits
+has a slowing effect on Shab channel inactivation at strong depolarising
+potentials, but has little effect on channel inactivation at intermediate
+potentials [5].
+
+KV6CHANNEL is a 5-element fingerprint that provides a signature for the Kv6
+potassium channel alpha subunits. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motifs 1-4 reside
+within the N-terminal cytoplasmic domain; and motif 5 spans the C-terminus
+of TM domain 6 leading into the C-terminal cytoplasmic domain. Two
+iterations on SPTR39_15f were required to reach convergence, at which
+point a true set comprising 5 sequences was identified.

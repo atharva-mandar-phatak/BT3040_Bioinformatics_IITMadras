@@ -1,0 +1,46 @@
+**************************************
+* Peptidyl-tRNA hydrolase signatures *
+**************************************
+
+Peptidyl-tRNA hydrolase (EC 3.1.1.29) (PTH) is a bacterial enzyme that cleaves
+peptidyl-tRNA or N-acyl-aminoacyl-tRNA to yield free peptides  or N-acyl-amino
+acids and  tRNA.  The  natural  substrate for this enzyme may be peptidyl-tRNA
+which drop off the ribosome during protein synthesis [1,2].  Bacterial PTH has
+been found [2,3] to  be  evolutionary  related  to  yeast hypothetical protein
+YHR189w.
+
+PTH and  YHR189w  are  proteins of about 200 amino acid residues. As signature
+patterns, we  selected  two  conserved regions that each contain an histidine.
+The first  of these regions is located in the N-terminal section, the other in
+the central part.
+
+-Consensus pattern: [FYH]-x(2)-[TN]-[RK]-H-N-x-G-x(2)-[LIVMFAYCT]-[LIVMFA]-
+                    [DEN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GS]-x(3)-H-N-G-[LIVM]-[KR]-[DNS]-[LIVMTC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Garcia-Villegas M.R., De La Vega F.M., Galindo J.M., Segura M.,
+     Buckingham R.H., Guarneros G.
+     EMBO J. 10:3549-3555(1991).
+[ 2] De La Vega F.M., Galindo J.M., Old I.G., Guarneros G.
+     Gene 169:97-100(1996).
+[ 3] Ouzounis C., Bork P., Casari G., Sander C.
+     "New protein functions in yeast chromosome VIII."
+     Protein Sci. 4:2424-2428(1995).
+     PubMed=8563640
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

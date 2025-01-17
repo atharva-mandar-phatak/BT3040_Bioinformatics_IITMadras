@@ -1,0 +1,35 @@
+4FE4SFRDOXIN
+Ferredoxins [1,2] are iron-sulphur proteins that mediate electron transfer
+in a range of metabolic reactions; they fall into several subgroups
+according to the nature of their iron-sulphur cluster(s). One group,
+originally found in bacteria, has been termed "bacterial-type", in which
+the active centre is a 4Fe-4S cluster. Bacterial-type ferredoxins may in
+turn be subdivided into further groups, based on their sequence properties
+[2]. Most contain at least one conserved domain, including 4 Cys residues
+that bind to a 4Fe-4S centre. 
+
+During the evolution of bacterial-type ferredoxins, intrasequence gene
+duplication, transposition and fusion events occured [2], resulting in the
+appearance of proteins with multiple iron-sulphur centres: e.g., dicluster-
+type (2[4Fe-4S]) and polyferredoxins, iron-sulphur subunits of bacterial
+succinate dehydrogenase/fumarate reductase, formate hydrogenlyase and
+formate dehydrogenase complexes, pyruvate-flavodoxin oxidoreductase,
+NADH:ubiquinone reductase and others. In some bacterial ferredoxins, one
+of the duplicated domains has lost one or more of the 4 conserved Cys
+residues. These domains have either lost their iron-sulphur binding
+property, or bind to a 3Fe-3S or 3Fe-4S centre instead of a 4Fe-4S centre. 
+
+3D structures are now known both for a number of monocluster-type [3] and
+dicluster-type [4] 4Fe-4S ferredoxins. The fold belongs to the alpha + beta
+class, with 3 helices and 4 strands forming a barrel-like structure, and
+an extruded loop containing 3 of the 4 cysteinyl residues of the iron-
+sulphur cluster.
+
+4FE4SFRDOXIN is a 2-element fingerprint that provides a signature for 
+4Fe-4S ferredoxins. The fingerprint was derived from an initial alignment
+of 15 sequences: each motif includes 2 of the 4 cluster-binding cysteines
+(in a number of sequences, the third conserved Cys is replaced by other
+residues). Five iterations on OWL25_2 were required to reach convergence,
+at which point a true set comprising 161 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 171 sequences.

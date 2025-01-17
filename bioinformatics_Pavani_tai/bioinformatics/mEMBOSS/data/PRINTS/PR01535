@@ -1,0 +1,61 @@
+VOMERONASL2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The metabotropic glutamate receptors are functionally and pharmacologically
+distinct from the ionotropic glutamate receptors. They are coupled to
+G proteins and stimulate the inositol phosphate/Ca2+ intracellular
+signalling pathway [2-5]. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+and receptors of the rhodopsin-type family: the metabotropic glutamate
+receptors thus bear their own distinctive '7TM' signature.
+
+Pheromones have evolved in all animal phyla, to signal sex and dominance
+status, and are responsible for stereotypical social and sexual behaviour
+among members of the same species. In mammals, these chemical signals are
+believed to be detected primarily by the vomeronasal organ (VNO), a
+chemosensory organ located at the base of the nasal septum [8]. The VNO is
+present in most amphibia, reptiles and non-primate mammals but is absent in
+birds, adult catarrhine monkeys and apes [7]. An active role for the human
+VNO in the detection of pheromones is disputed; the VNO is present in the
+foetus but appears to be atrophied or absent in adults [7]. Three distinct 
+families of putative pheromone receptors have been identified in the 
+vomeronasal organ (V1Rs, V2Rs and V3Rs). All are G protein-coupled receptors 
+but are only distantly related to the receptors of the main olfactory 
+system, highlighting their different role [8].
+
+The V2 receptors are members of the metabotropic glutamate receptor-like 
+family of GPCRs and have close similarity to the extracellular Ca2+-sensing 
+receptors [9]. Rodents appear to have around 100 functional V2 receptors and 
+many pseudogenes [8]. These receptors are expressed in the basal regions of 
+the VNO, where they couple to Go proteins to mediate inositol trisphosphate
+responses [7]. Homologues have also been identified in fish [10], and the
+ligand specificity of one such receptor has been determined: a receptor from
+goldfish olfactory epithelium has been reported to bind basic amino acids,
+which are odorants for fish [11].
+
+VOMERONASL2R is a 9-element fingerprint that provides a signature for the
+vomeronasal type 2 receptor family. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs were drawn from conserved
+sections within N-terminal and external loop regions, focusing on those
+areas of the alignment that characterise the vomeronasal type 2 receptors
+but distinguish them from the rest of the metabotropic glutamate receptor
+superfamily - motifs 1-6 lie within the large N-terminal domain; motif 7
+spans part of TM domain 2, leading into the first external loop; and motifs
+8 and 9 span the second external loop. Two iterations on SPTR39_15f were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified. Several partial matches were also found, all of
+which are vomeronasal type 2 receptors or members of the closely related 
+extracellular Ca2+-sensing receptor family. Many of the vomeronasal 
+receptors that fail to match a number of motifs are pseudogenes.

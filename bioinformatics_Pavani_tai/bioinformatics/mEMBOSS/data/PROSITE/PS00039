@@ -1,0 +1,134 @@
+*****************************************************************
+* DEAD and DEAH box families ATP-dependent helicases signatures *
+*****************************************************************
+
+A number of eukaryotic and  prokaryotic proteins have been characterized [1,2,
+3] on  the  basis of their structural similarity. They all seem to be involved
+in ATP-dependent,  nucleic-acid  unwinding. Proteins currently known to belong
+to this family are:
+
+ - Initiation factor eIF-4A. Found in eukaryotes, this protein is a subunit of
+   a high  molecular  weight  complex  involved  in  5'cap recognition and the
+   binding of mRNA to ribosomes. It is an ATP-dependent RNA-helicase.
+ - PRP5  and PRP28. These yeast proteins are involved in various ATP-requiring
+   steps of the pre-mRNA splicing process.
+ - Pl10, a mouse protein expressed specifically during spermatogenesis.
+ - An3, a Xenopus putative RNA helicase, closely related to Pl10.
+ - SPP81/DED1 and DBP1, two  yeast  proteins  probably  involved  in  pre-mRNA
+   splicing and related to Pl10.
+ - Caenorhabditis elegans helicase glh-1.
+ - MSS116, a yeast protein required for mitochondrial splicing.
+ - SPB4, a yeast protein involved in the maturation of 25S ribosomal RNA.
+ - p68, a human nuclear antigen. p68 has ATPase and DNA-helicase activities in
+   vitro. It is involved in cell growth and division.
+ - Rm62 (p62), a Drosophila putative RNA helicase related to p68.
+ - DBP2, a yeast protein related to p68.
+ - DHH1, a yeast protein.
+ - DRS1, a yeast protein involved in ribosome assembly.
+ - MAK5, a yeast protein involved in maintenance of dsRNA killer plasmid.
+ - ROK1, a yeast protein.
+ - ste13, a fission yeast protein.
+ - Vasa, a Drosophila protein important for oocyte formation and specification
+   of of embryonic posterior structures.
+ - Me31B, a Drosophila maternally expressed protein of unknown function.
+ - dbpA, an Escherichia coli putative RNA helicase.
+ - deaD, an Escherichia coli  putative  RNA  helicase  which  can  suppress  a
+   mutation in the rpsB gene for ribosomal protein S2.
+ - rhlB, an Escherichia coli putative RNA helicase.
+ - rhlE, an Escherichia coli putative RNA helicase.
+ - srmB, an Escherichia coli protein that shows RNA-dependent ATPase activity.
+   It probably interacts with 23S ribosomal RNA.
+
+ - Caenorhabditis elegans hypothetical proteins T26G10.1, ZK512.2 and ZK686.2.
+ - Yeast hypothetical protein YHR065c.
+ - Yeast hypothetical protein YHR169w.
+ - Fission yeast hypothetical protein SpAC31A2.07c.
+ - Bacillus subtilis hypothetical protein yxiN.
+
+All these proteins  share a number of conserved sequence motifs.  Some of them
+are specific  to  this  family  while  others  are shared by other ATP-binding
+proteins or  by  proteins belonging to the helicases `superfamily' [4,E1]. One
+of these motifs, called the 'D-E-A-D-box', represents a special version of the
+B motif of ATP-binding proteins.
+
+Some other proteins belong to a subfamily which have His instead of the second
+Asp and  are  thus  said  to  be  'D-E-A-H-box'  proteins [3,5,6,E1]. Proteins
+currently known to belong to this subfamily are:
+
+ - PRP2,  PRP16,  PRP22  and  PRP43.  These yeast proteins are all involved in
+   various ATP-requiring steps of the pre-mRNA splicing process.
+ - Fission yeast prh1, which my be involved in pre-mRNA splicing.
+ - Male-less (mle),  a   Drosophila  protein  required in  males,  for  dosage
+   compensation of X chromosome linked genes.
+ - RAD3 from yeast. RAD3 is a DNA  helicase involved in excision repair of DNA
+   damaged by   UV light,  bulky adducts  or  cross-linking  agents.   Fission
+   yeast rad15 (rhp3)  and mammalian  DNA excision repair protein XPD (ERCC-2)
+   are the homologs of RAD3.
+ - Yeast CHL1 (or CTF1), which  is important  for  chromosome transmission and
+   normal cell cycle progression in G(2)/M.
+ - Yeast TPS1.
+ - Yeast hypothetical protein YKL078w.
+ - Caenorhabditis elegans hypothetical proteins C06E1.10 and K03H1.2.
+ - Poxviruses' early transcription  factor 70 Kd subunit  which  acts with RNA
+   polymerase to initiate transcription from early gene promoters.
+ - I8, a putative vaccinia virus helicase.
+ - hrpA, an Escherichia coli putative RNA helicase.
+
+We have developed signature patterns for both subfamilies.
+
+-Consensus pattern: [LIVMF](2)-D-E-A-D-[RKEN]-x-[LIVMFYGSTN]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for YHR169w.
+-Other sequence(s) detected in Swiss-Prot: 14.
+
+-Consensus pattern: [GSAH]-x-[LIVMF](3)-D-E-[ALIV]-H-[NECR]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for hrpA.
+-Other sequence(s) detected in Swiss-Prot: 6.
+
+-Note: Proteins belonging to this family  also contain a copy  of the ATP/GTP-
+ binding motif 'A' (P-loop) (see the relevant entry <PDOC00017>).
+
+-Expert(s) to contact by email:
+           Linder P.; linder@medecine.unige.ch
+
+-Last update: July 1999 / Text revised.
+
+[ 1] Schmid S.R., Linder P.
+     "D-E-A-D protein family of putative RNA helicases."
+     Mol. Microbiol. 6:283-291(1992).
+     PubMed=1552844
+[ 2] Linder P., Lasko P.F., Ashburner M., Leroy P., Nielsen P.J., Nishi K.,
+     Schnier J., Slonimski P.P.
+     "Birth of the D-E-A-D box."
+     Nature 337:121-122(1989).
+     PubMed=2563148; DOI=10.1038/337121a0
+[ 3] Wassarman D.A., Steitz J.A.
+     "RNA splicing. Alive with DEAD proteins."
+     Nature 349:463-464(1991).
+     PubMed=1825133; DOI=10.1038/349463a0
+[ 4] Hodgman T.C.
+     "A new superfamily of replicative proteins."
+     Nature 333:22-23(1988) and Nature 333:578-578(1988) (Errata).
+     PubMed=3362205; DOI=10.1038/333022b0
+[ 5] Harosh I., Deschavanne P.
+     "The RAD3 gene is a member of the DEAH family RNA helicase-like
+     protein."
+     Nucleic Acids Res. 19:6331-6331(1991).
+     PubMed=1956796
+[ 6] Koonin E.V., Senkevich T.G.
+     "Vaccinia virus encodes four putative DNA and/or RNA helicases
+     distantly related to each other."
+     J. Gen. Virol. 73:989-993(1992).
+     PubMed=1321883
+[E1] http://medweb2.unige.ch/~linder/RNA_helicases.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

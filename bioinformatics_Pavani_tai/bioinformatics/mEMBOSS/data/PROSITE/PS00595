@@ -1,0 +1,65 @@
+*****************************************************************
+* Aminotransferases class-V pyridoxal-phosphate attachment site *
+*****************************************************************
+
+Aminotransferases  share certain mechanistic features with   other  pyridoxal-
+phosphate dependent enzymes, such as  the  covalent  binding of the pyridoxal-
+phosphate group  to  a  lysine  residue.  On the basis of sequence similarity,
+these various  enzymes  can  be  grouped [1,2] into subfamilies. One of these,
+called class-V, currently consists of the following enzymes:
+
+ - Phosphoserine aminotransferase (EC 2.6.1.52), an enzyme which catalyzes the
+   reversible interconversion   of   phosphoserine   and   2-oxoglutarate   to
+   3-phosphonooxypyruvate and  glutamate.  It  is  required  both in the major
+   phosphorylated pathway   of   serine   biosynthesis   and   in   pyridoxine
+   biosynthesis. The  bacterial  enzyme  (gene  serC)  is  highly similar to a
+   rabbit endometrial progesterone-induced protein (EPIP), which is probably a
+   phosphoserine aminotransferase [3].
+ - Serine--glyoxylate  aminotransferase  (EC 2.6.1.45) (SGAT) (gene sgaA) from
+   Methylobacterium extorquens.
+ - Serine--pyruvate  aminotransferase  (EC 2.6.1.51). This enzyme also acts as
+   an alanine--glyoxylate  aminotransferase  (EC 2.6.1.44). In vertebrates, it
+   is located in the peroxisomes and/or mitochondria.
+ - Isopenicillin  N  epimerase  (gene  cefD).  This  enzyme is involved in the
+   biosynthesis of  cephalosporin  antibiotics  and  catalyzes  the reversible
+   isomerization of isopenicillin N and penicillin N.
+ - NifS, a protein  of  the  nitrogen  fixation  operon  of  some bacteria and
+   cyanobacteria. The  exact  function  of  nifS  is  not  yet known. A highly
+   similar protein has been found in fungi (gene NFS1 or SPL1).
+ - The small subunit of cyanobacterial soluble hydrogenase (EC 1.12.-.-).
+ - Hypothetical protein ycbU from Bacillus subtilis.
+ - Hypothetical protein YFL030w from yeast.
+
+The sequence around the pyridoxal-phosphate  attachment site  of this class of
+enzyme is sufficiently conserved to allow the creation of a specific pattern.
+
+-Consensus pattern: [LIVFYCHT]-[DGH]-[LIVMFYAC]-[LIVMFYA]-x(2)-[GSTAC]-[GSTA]-
+                    [HQR]-K-x(4,6)-G-x-[GSAT]-x-[LIVMFYSAC]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: Almost all.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Expert(s) to contact by email:
+           Ouzounis C.; ouzounis@ebi.ac.uk
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Ouzounis C., Sander C.
+     "Homology of the NifS family of proteins to a new class of pyridoxal
+     phosphate-dependent enzymes."
+     FEBS Lett. 322:159-164(1993).
+     PubMed=8482384
+[ 2] Bairoch A.
+     Unpublished observations (1992).
+[ 3] van der Zel A., Lam H.-M., Winkler M.E.
+     Nucleic Acids Res. 17:8379-8379(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

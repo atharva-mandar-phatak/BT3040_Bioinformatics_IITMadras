@@ -1,0 +1,40 @@
+PRION
+Prion protein (PrP) is a small glycoprotein found in high quantity in the 
+brain of animals infected with certain degenerative neurological diseases,
+such as sheep scrapie and bovine spongiform encephalopathy (BSE), and the
+human dementias Creutzfeldt-Jacob disease (CJD) and Gerstmann-Straussler 
+syndrome (GSS). PrP is encoded in the host genome and is expressed both in 
+normal and infected cells. During infection, however, the PrP molecules 
+become altered and polymerise, yielding fibrils of modified PrP protein.
+
+PrP molecules have been found on the outer surface of plasma membranes of
+nerve cells, to which they are anchored through a covalent-linked
+glycolipid, suggesting a role as a membrane receptor. PrP is also expressed
+in other tissues, indicating that it may have different functions depending
+on its location. 
+
+The primary sequences of PrP's from different sources are highly similar: 
+all bear an N-terminal domain containing multiple tandem repeats of a 
+Pro/Gly rich octapeptide; sites of Asn-linked glycosylation; an essential 
+disulphide bond; and 3 hydrophobic segments. These sequences show some 
+similarity to a chicken glycoprotein, thought to be an acetylcholine 
+receptor-inducing activity (ARIA) molecule. It has been suggested that 
+changes in the octapeptide repeat region may indicate a predisposition to 
+disease, but it is not known for certain whether the repeat can 
+meaningfully be used as a fingerprint to indicate susceptibility.
+
+PRION is an 8-element fingerprint that provides a signature for the prion
+proteins. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, including the 3 hydrophobic domains and the
+octapeptide repeats (WGQPHGGG). Two iterations on OWL18.0 were required
+to reach convergence, at which point a true set comprising 9 sequences was
+identified. Several partial matches were also found: these include a
+fragment (PRIO_RAT) lacking part of the sequence bearing the first motif,
+and the PrP homologue found in chicken - this matches well with only 2 of
+the 3 hydrophobic motifs (1 and 5) and one of the other conserved regions
+(6), but has an N-terminal signature based on a sextapeptide repeat
+(YPHNPG) rather than the characteristic PrP octapeptide.
+
+An update on SPTR37_9f identified a true set of 37 sequences, and 1
+partial match.

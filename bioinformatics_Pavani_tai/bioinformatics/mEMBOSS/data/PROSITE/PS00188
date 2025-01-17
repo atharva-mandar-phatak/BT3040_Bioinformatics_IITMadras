@@ -1,0 +1,62 @@
+********************************************
+* Biotin-requiring enzymes attachment site *
+********************************************
+
+Biotin, which plays a  catalytic role in  some carboxyl transfer reactions, is
+covalently attached,  via  an  amide  bond,  to  a  lysine  residue in enzymes
+requiring this coenzyme [1,2,3,4]. Such enzymes are:
+
+ - Pyruvate carboxylase (EC 6.4.1.1).
+ - Acetyl-CoA carboxylase (EC 6.4.1.2).
+ - Propionyl-CoA carboxylase (EC 6.4.1.3).
+ - Methylcrotonyl-CoA carboxylase (EC 6.4.1.4).
+ - Geranoyl-CoA carboxylase (EC 6.4.1.5).
+ - Urea carboxylase (EC 6.3.4.6).
+ - Oxaloacetate decarboxylase (EC 4.1.1.3).
+ - Methylmalonyl-CoA decarboxylase (EC 4.1.1.41).
+ - Glutaconyl-CoA decarboxylase (EC 4.1.1.70).
+ - Methylmalonyl-CoA carboxyl-transferase (EC 2.1.3.1) (transcarboxylase).
+
+Sequence data  reveal  that  the  region  around  the biocytin (biotin-lysine)
+residue is well conserved and can be used as a signature pattern.
+
+-Consensus pattern: [GDN]-[DEQTR]-x-[LIVMFY]-x(2)-[LIVM]-x-[AIV]-M-K-[LVMAT]-
+                    x(3)-[LIVM]-x-[SAV]
+                    [K is the biotin attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The domain  around  the  biotin-binding  lysine residue is evolutionary
+ related to  that  around  the  lipoyl-binding  lysine  residue  of 2-oxo acid
+ dehydrogenase acyltransferases (see <PDOC00168>).
+
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Knowles J.R.
+     "The mechanism of biotin-dependent enzymes."
+     Annu. Rev. Biochem. 58:195-221(1989).
+     PubMed=2673009; DOI=10.1146/annurev.bi.58.070189.001211
+[ 2] Samols D., Thornton C.G., Murtif V.L., Kumar G.K., Haase F.C., Wood H.G.
+     "Evolutionary conservation among biotin enzymes."
+     J. Biol. Chem. 263:6461-6464(1988).
+     PubMed=2896195
+[ 3] Goss N.H., Wood H.G.
+     "Formation of N epsilon-(biotinyl)lysine in biotin enzymes."
+     Methods Enzymol. 107:261-278(1984).
+     PubMed=6438443
+[ 4] Shenoy B.C., Xie Y., Park V.L., Kumar G.K., Beegen H., Wood H.G.,
+     Samols D.
+     "The importance of methionine residues for the catalysis of the biotin
+     enzyme, transcarboxylase. Analysis by site-directed mutagenesis."
+     J. Biol. Chem. 267:18407-18412(1992).
+     PubMed=1526981
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

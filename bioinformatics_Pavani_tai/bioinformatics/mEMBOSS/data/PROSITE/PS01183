@@ -1,0 +1,48 @@
+*************************************************
+* ubiE/COQ5 methyltransferase family signatures *
+*************************************************
+
+The following  methyltransferases  have  been  shown  [1]  to share regions of
+similarities:
+
+ - Escherichia coli ubiE, which is involved in both ubiquinone and menaquinone
+   biosynthesis and   which   catalyzes   the  S-adenosylmethionine  dependent
+   methylation of  2-polyprenyl-6-methoxy-1,4-benzoquinol into 2-polyprenyl-3-
+   methyl-6-methoxy-1,4-benzoquinol and of demethylmenaquinol into menaquinol.
+ - Yeast COQ5, a ubiquinone biosynthesis methlytransferase.
+ - Bacillus  subtilis  spore  germination protein C2 (gene: gercB or gerC2), a
+   probable menaquinone biosynthesis methlytransferase.
+ - Lactococcus lactis gerC2 homolog.
+ - Caenorhabditis elegans hypothetical protein ZK652.9.
+ - Leishmania donovani amastigote-specific protein A41.
+
+These are hydrophilic proteins of about 30 Kd (except for ZK652.9 which  is 65
+Kd). They can be picked up in the database by the following patterns.
+
+-Consensus pattern: Y-[DN]-x-[MLAFTI]-N-x(2)-[LIVMN]-S-x(3)-[HQD]-x(2)-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-V-[LIVMCT]-[KRQ]-[PVRK]-[GMKD]-[GAS]-x-[LIVMFAT]-x(2)-
+                    [LIVMCA]-[ED]-x-[SGT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Lee P.T., Hsu A.Y., Ha H.T., Clarke C.F.
+     "A C-methyltransferase involved in both ubiquinone and menaquinone
+     biosynthesis: isolation and identification of the Escherichia coli
+     ubiE gene."
+     J. Bacteriol. 179:1748-1754(1997).
+     PubMed=9045837
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

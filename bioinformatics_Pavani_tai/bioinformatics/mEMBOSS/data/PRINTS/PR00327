@@ -1,0 +1,22 @@
+ICENUCLEATN
+Certain Gram-negative bacteria express proteins that enable them to promote
+nucleation of ice at relatively high temperatures (above -5C) [1-3]. These
+proteins are localised at the outer membrane surface and can cause frost
+damage to many plants. 
+
+The primary structure of the proteins contains a highly repetitive domain
+that dominates the sequence. The domain comprises a number of 48-residue
+repeats, which themselves contain 3 blocks of 16 residues, the first 8 of
+which are identical. It is thought that the repetitive domain may be
+responsible for aligning water molecules in the seed crystal.
+
+ICENUCLEATN is a 6-element fingerprint that provides a signature for
+bacterial ice nucleation proteins. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length, motif 3 including the region
+encoded by PROSITE pattern ICE_NUCLEATION (PS00314), which contains the
+conserved octamer. Two iterations on OWL25.2 were required to reach
+convergence, at which point a true set comprising 6 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

@@ -1,0 +1,94 @@
+*******************************************************
+* Acyl-CoA-binding (ACB) domain signature and profile *
+*******************************************************
+
+Acyl-CoA-binding protein  (ACBP) is a small (10 Kd) protein that binds medium-
+and long-chain  acyl-CoA esters with very high affinity and may function as an
+intracellular carrier  of  acyl-CoA esters [1]. ACBP is also known as diazepam
+binding inhibitor  (DBI) or endozepine (EP) because of its ability to displace
+diazepam from  the  benzodiazepine  (BZD) recognition site located on the GABA
+type A  receptor.  It  is  therefore possible that this protein also acts as a
+neuropeptide to modulate the action of the GABA receptor [2].
+
+ACBP is  a  highly conserved protein of about 90 residues that is found in all
+four eukaryotic  kingdoms,  Animalia, Plantae, Fungi and Protista, and in some
+eubacterial species [3].
+
+Although ACBP  occurs  as a completely independent protein, intact ACB domains
+have been  identified  in  a  number  of  large, multifunctional proteins in a
+variety of   eukaryotic   species.  These  include  large  membrane-associated
+proteins with  N-terminal  ACB  domains, multifunctional enzymes with both ACB
+and peroxisomal  enoyl-CoA Delta(3), Delta(2)-enoyl-CoA isomerase domains, and
+proteins with both an ACB domain and ankyrin repeats (see <PDOC50088>) [3].
+
+The ACB  domain consists of four alpha-helices arranged in a bowl shape with a
+highly exposed  acyl-CoA-binding  site  (see  <PDB:1HBK>). The ligand is bound
+through specific  interactions  with  residues  on  the  protein, most notably
+several conserved  positive  charges that interact with the phosphate group on
+the adenosine-3'phosphate moiety, and the acyl chain is sandwiched between the
+hydrophobic surfaces of CoA and the protein [4].
+
+ACBP belongs to a family that also includes:
+
+ - Endozepine-like peptide (ELP) (gene DBIL5) from mouse [5]. ELP is a testis-
+   specific  ACBP homolog that may be involved in the energy metabolism of the
+   mature sperm.
+ - MA-DBI, a transmembrane protein of unknown function which has been found in
+   mammals. MA-DBI contains a N-terminal ACB domain.
+ - DRS-1  [6],  a human protein of unknown function that contains a N-terminal
+   ACB domain and a C-terminal enoyl-CoA isomerase/hydratase domain.
+
+As a signature pattern we selected  the region  that corresponds to residue 19
+to 37  in  mammalian ACBP. We also developed a profile which covers the entire
+ACB domain.
+
+-Consensus pattern: [PTLV]-[GSTA]-x-[DENQA]-x-[LMFK]-x(2)-[LIVMFY]-[YV]-[GSA]-
+                    x-[FYH]-K-Q-[GSAV]-[STL]-x-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: July 2006 / Text revised; profile added.
+
+[ 1] Rose T.M., Schultz E.R., Todaro G.J.
+     "Molecular cloning of the gene for the yeast homolog (ACB) of diazepam
+     binding inhibitor/endozepine/acyl-CoA-binding protein."
+     Proc. Natl. Acad. Sci. U.S.A. 89:11287-11291(1992).
+     PubMed=1454809
+[ 2] Costa E., Guidotti A.
+     "Diazepam binding inhibitor (DBI): a peptide with multiple biological
+     actions."
+     Life Sci. 49:325-344(1991).
+     PubMed=1649940
+[ 3] Burton M., Rose T.M., Faergeman N.J., Knudsen J.
+     "Evolution of the acyl-CoA binding protein (ACBP)."
+     Biochem. J. 392:299-307(2005).
+     PubMed=16018771; DOI=10.1042/BJ20050664
+[ 4] van Aalten D.M.F., Milne K.G., Zou J.Y., Kleywegt G.J., Bergfors T.,
+     Ferguson M.A.J., Knudsen J., Jones T.A.
+     "Binding site differences revealed by crystal structures of Plasmodium
+     falciparum and bovine acyl-CoA binding protein."
+     J. Mol. Biol. 309:181-192(2001).
+     PubMed=11491287; DOI=10.1006/jmbi.2001.4749
+[ 5] Pusch W., Balvers M., Hunt N., Ivell R.
+     "A novel endozepine-like peptide (ELP) is exclusively expressed in
+     male germ cells."
+     Mol. Cell. Endocrinol. 122:69-80(1996).
+     PubMed=8898349
+[ 6] Suk K., Kim Y.-H., Hwang D.-Y., Ihm S.H., Yoo H.J., Lee M.S.
+     "Molecular cloning and expression of a novel human cDNA related to the
+     diazepam binding inhibitor."
+     Biochim. Biophys. Acta 1454:126-131(1999).
+     PubMed=10354522
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

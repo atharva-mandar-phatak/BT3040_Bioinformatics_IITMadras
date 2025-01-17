@@ -1,0 +1,78 @@
+***********************
+* GLUE domain profile *
+***********************
+
+The multivesicular  body  (MVB)  protein-sorting pathway targets transmembrane
+proteins either  for degradation or for function in the vacuole/lysosomes. The
+signal for  entry  into  this  pathway is monoubiquitination of protein cargo,
+which results  in  incorporation  of  cargo  into  luminal  vesicles  at  late
+endosomes. Another   crucial   player   is   phosphatidylinositol  3-phosphate
+(PtdINS(3)P), which is enriched on early endosomes and on the luminal vesicles
+of MVBs.  The  ESCRT  complexes  are  critical  for MVB budding and sorting of
+monoubiquitinated cargo  into the luminal vesicles. Various Ub-binding domains
+(UBDs), such  as  UIM  (see  <PDOC50330>),  UEV  and  NZF  are  found  in such
+machineries. The Vps 36 subunit of the ESCRT-II trafficking complex binds both
+phosphoinositides and  ubiquitin.  All  members  of the Vps36 family contain a
+divergent GRAM/PH-like  domain  and yeast and some other fungi have one or two
+NZF domains  inserted  in  the  GRAM/PH-like domain. This N-terminal region of
+Vps36 (EAP45)  has  been named the GLUE (GRAM-like ubiquitin-binding in EAP45)
+domain. The  GLUE  domain  acts  as  a central cog driving the endosomal ESCRT
+machinery, through    simultaneous   interactions   with   PtdIns3P-containing
+membranes, ubiquitin, and ESCRT-I. Like other known ubiquitin-binding domains,
+the GLUE domain interacts with the hydrophobic surface patch of ubiquitin. The
+GLUE domain   is   the   first   ubiquitin-binding   domain   shown   to  bind
+phosphoinositides, and  the  ability of the same domain to bind both ubiquitin
+and a  phosphoinositide  opens  interesting  possibilities for coordination of
+membrane interactions and cargo recognition [1,2,3,4,5].
+
+The GLUE  domain  has  a split PH-domain fold  with two curved beta sheets and
+one long  alpha helix (see <PDB:2CAY>). The two sheets (beta1-beta4 and beta5-
+beta7) form  a beta barrel-like structure,The C-terminal alpha helix is wedged
+between the  two  beta  sheets,  covering  a  hydrophobic core. The Vps36 GLUE
+domain binds   PtdIns3P   via  a  positively  charged  lipid  binding  pocket,
+delineated by the variable loops beta1/beta2, beta5/beta6 and beta7/alpha1, in
+contrast to  the  vast  majority  of  characterized  PH  domains,  which use a
+different lipid binding pocket [2,3].
+
+The profile we developed covers the entire GLUE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2011 / First entry.
+
+[ 1] Slagsvold T., Aasland R., Hirano S., Bache K.G., Raiborg C.,
+     Trambaiolo D., Wakatsuki S., Stenmark H.
+     "Eap45 in mammalian ESCRT-II binds ubiquitin via a
+     phosphoinositide-interacting GLUE domain."
+     J. Biol. Chem. 280:19600-19606(2005).
+     PubMed=15755741; DOI=10.1074/jbc.M501510200
+[ 2] Teo H., Gill D.J., Sun J., Perisic O., Veprintsev D.B., Vallis Y.,
+     Emr S.D., Williams R.L.
+     "ESCRT-I core and ESCRT-II GLUE domain structures reveal role for GLUE
+     in linking to ESCRT-I and membranes."
+     Cell 125:99-111(2006).
+     PubMed=16615893; DOI=10.1016/j.cell.2006.01.047
+[ 3] Hirano S., Suzuki N., Slagsvold T., Kawasaki M., Trambaiolo D.,
+     Kato R., Stenmark H., Wakatsuki S.
+     "Structural basis of ubiquitin recognition by mammalian Eap45 GLUE
+     domain."
+     Nat. Struct. Mol. Biol. 13:1031-1032(2006).
+     PubMed=17057714; DOI=10.1038/nsmb1163
+[ 4] Eathiraj S., Lambright D.G.
+     "ESCRT complexes assembled and GLUEd."
+     Structure 14:631-632(2006).
+     PubMed=16615903; DOI=10.1016/j.str.2006.03.005
+[ 5] Hurley J.H., Lee S., Prag G.
+     "Ubiquitin-binding domains."
+     Biochem. J. 399:361-372(2006).
+     PubMed=17034365; DOI=10.1042/BJ20061138
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

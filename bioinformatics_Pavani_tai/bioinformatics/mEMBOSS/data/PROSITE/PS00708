@@ -1,0 +1,78 @@
+***************************************************
+* Prolyl oligopeptidase family serine active site *
+***************************************************
+
+The prolyl oligopeptidase family [1,2,3] consist  of  a number of evolutionary
+related peptidases whose catalytic  activity seems  to be provided by a charge
+relay system similar to  that of the trypsin family of  serine  proteases, but
+which evolved by independent convergent evolution.   The known members of this
+family are listed below.
+
+ - Prolyl endopeptidase (EC 3.4.21.26) (PE) (also called post-proline cleaving
+   enzyme). PE is an enzyme that cleaves peptide bonds on  the C-terminal side
+   of prolyl residues. The sequence of PE has been obtained  from  a mammalian
+   species (pig)   and   from  bacteria  (Flavobacterium  meningosepticum  and
+   Aeromonas hydrophila);  there  is  a  high  degree of sequence conservation
+   between these sequences.
+ - Escherichia  coli protease II (EC 3.4.21.83) (oligopeptidase B) (gene prtB)
+   which cleaves  peptide  bonds on the C-terminal side of lysyl and argininyl
+   residues.
+ - Dipeptidyl peptidase IV (EC 3.4.14.5) (DPP IV).   DPP IV is  an enzyme that
+   removes  N-terminal   dipeptides  sequentially   from  polypeptides  having
+   unsubstituted N-termini provided that the penultimate residue is proline.
+ - Yeast vacuolar dipeptidyl aminopeptidase A (DPAP A) (gene: STE13)  which is
+   responsible for the proteolytic maturation of the alpha-factor precursor.
+ - Yeast vacuolar dipeptidyl aminopeptidase B (DPAP B) (gene: DAP2).
+ - Acylamino-acid-releasing  enzyme  (EC 3.4.19.1)  (acyl-peptide  hydrolase).
+   This enzyme catalyzes the hydrolysis of  the amino-terminal peptide bond of
+   an N-acetylated protein to generate a N-acetylated amino acid and a protein
+   with a free amino-terminus.
+
+A conserved serine residue has experimentally  been  shown (in E.coli protease
+II as well  as  in  pig  and bacterial PE)  to  be necessary for the catalytic
+mechanism. This serine, which is part of the catalytic  triad (Ser, His, Asp),
+is generally located  about 150 residues away from the C-terminal extremity of
+these enzymes  (which  are  all proteins  that contains about 700 to 800 amino
+acids).
+
+-Consensus pattern: D-x(3)-A-x(3)-[LIVMFYW]-x(14)-G-x-S-x-G-G-[LIVMFYW](2)
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast DPAP A.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins belong to families S9A/S9B/S9C in the classification of
+ peptidases [4,E1].
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Rawlings N.D., Polgar L., Barrett A.J.
+     "A new family of serine-type peptidases related to prolyl
+     oligopeptidase."
+     Biochem. J. 279:907-908(1991).
+     PubMed=1953688
+[ 2] Barrett A.J., Rawlings N.D.
+     "Oligopeptidases, and the emergence of the prolyl oligopeptidase
+     family."
+     Biol. Chem. Hoppe-Seyler 373:353-360(1992).
+     PubMed=1515061
+[ 3] Polgar L., Szabo E.
+     "Prolyl endopeptidase and dipeptidyl peptidase IV are distantly
+     related members of the same family of serine proteases."
+     Biol. Chem. Hoppe-Seyler 373:361-366(1992).
+     PubMed=1355343
+[ 4] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

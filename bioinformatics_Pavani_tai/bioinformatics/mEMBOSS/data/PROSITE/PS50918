@@ -1,0 +1,58 @@
+**********************
+* WWE domain profile *
+**********************
+
+The WWE  domain  is  a  ~80-residue globular domain occuring in two functional
+classes of  proteins,  namely  those  associated with ubiquitination and those
+associated with   poly-ADP   ribosylation.   The  former  class  includes  its
+combinations with the HECT-type E3 ligases (see <PDOC50237>), the classic RING
+or the RING-H2 domains (see <PDOC00449>), and the ubiquitin-binding UBA domain
+(see <PDOC50030>).  Analogous  to  the  ubiquitin ligases, eukaryotic poly-ADP
+ribose polymerases  (EC  2.4.2.30)  (PARPs) covalently modify proteins through
+the addition of multiple ADP-ribose moieties and participate in functions such
+as DNA  repair  and  chromatin  dynamics.  The WWE domain is present in either
+single or  duplicate copies in a novel sub-family of PARPs. The WWE domain was
+named after  its  most  conserved  residues, two tryptophan (W) residues and a
+glutamate (E)  residue. It has been suggested that the WWE domain functions in
+specific interactions  with  other  proteins  and  could help in targeting the
+different kinds   of  E3-like  and  ADP-ribosylation  activities  to  proteins
+participating in various signaling cascades [1].
+
+Secondary structure  prediction suggests the presence of multiple beta strands
+that correspond  to  the conserved N- and C- terminal motifs of the WWE domain
+that are  enriched  in  hydrophobic  or  aromatic  residues. There is a single
+prominent helix that corresponds to the central motif containing the conserved
+glutamate. The secondary structure pattern with a two-strand hairpin at the N-
+terminus followed  by a helix is reminiscent of the beta-grasp fold adopted by
+ubiquitin and several other eukaryotic specific alpha/beta domains [1].
+
+Some proteins known to contain a WWE domain are listed below:
+
+ - Animal  members  of  the  Deltex (DTX) family, which act as Notch signaling
+   modifiers and  may  also  regulate  transcription through interactions with
+   specific transcription factors.
+ - Vertebrate  thyroid  receptor  interacting  protein  12  (TRIP12), an HECT-
+   domain-containing E3 ubiquitin ligase.
+ - An eukaryotic family of poly-ADP ribose polymerases (EC 2.4.2.30) (PARPs).
+
+The profile we developed covers the entire WWE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2003 / First entry.
+
+[ 1] Aravind L.
+     "The WWE domain: a common interaction module in protein ubiquitination
+     and ADP ribosylation."
+     Trends Biochem. Sci. 26:273-275(2001).
+     PubMed=11343911
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,54 @@
+TRNASYNTHGLU
+Appropriate attachment of an amino acid to its cognate tRNA is the key to
+faithful translation of the genetic code. The family of enzymes responsible
+for this is the aminoacyl-tRNA synthetases (AATRSs) (EC 6.1.1.-).
+
+AATRSs catalyse a two-step reaction:
+
+(1) Enzyme + amino acid + ATP ---> Enzyme(aminoacyl-AMP) + PPi
+
+(2) tRNA + Enzyme(aminoacyl-AMP) ---> aminoacyl-tRNA + AMP + Enzyme
+
+In the first step, they form an aminoacyl-adenylate, in which the carboxyl
+of the amino acid is linked to the alpha-phosphate of ATP, by displacing
+the pyrophosphate. When the correct tRNA is bound, the aminoacyl group is
+transferred to the 2'- or 3'-terminal OH of the tRNA at the expense of AMP
+[1].
+
+Based on structural and sequence comparisons, this group of at least 20
+proteins (in prokaryotes there are approximately 20, but in eukaryotes
+there are usually 2 forms for each amino acid; namely, the cytosolic and
+mitochondrial forms) can be divided into two classes.
+
+Class I AATRSs contain a characteristic Rossman fold and are mostly
+monomeric. At the primary structure level, two highly-conserved motifs
+are observed, 'HIGH' and 'KMSKS' [2,3]; these are associated with the ATP-
+binding site.
+
+Class II AATRSs share an anti-parallel beta-sheet formation, flanked by
+alpha-helices [3], and are mostly dimeric or multimeric.
+
+Further distinction between the two classes is evident when the reaction
+mechanisms are investigated. In reactions catalysed by the class I AATRSs,
+the aminoacyl group is coupled to the 2'-hydroxyl of the tRNA, while, in
+class II reactions, the 3'-hydroxyl site is preferred.
+
+Glutamyl-tRNA synthetase (EC 6.1.1.11) is specific to glutamate and belongs
+to class I.
+
+TRNASYNTHGLU is a 5-element fingerprint that provides a signature for 
+glutamyl-tRNA synthetases. The fingerprint was derived from an initial
+alignment of 18 sequences: the motifs were drawn from conserved regions
+within the C-terminal portion of the alignment - motif 1 spans the loop
+between beta-strand 1 and alpha-helix 1, and is characterised by the 'HIGH'
+motif encoded by PROSITE pattern AA_TRNA_LIGASE_I (PS00178); motif 2 
+includes helix 1; motif 3 spans strand 2; motif 4 includes helix 8, whose 
+N-terminus denotes the boundary between domains 1 and 2; and motif 5 spans 
+strand 8 and the N-terminus of helix 9. Two iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 36 
+sequences was identified. Several partial matches were also found: most of
+those matching three motifs are fragments, but some are glutaminyl-tRNA
+synthetases and one is an arginyl-tRNA synthetase.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 7
+partial matches.

@@ -1,0 +1,50 @@
+NORTRANSPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane helices and includes 
+carriers for gamma-aminobutyric acid (GABA), noradrenaline/adrenaline, 
+dopamine, serotonin, proline, glycine, choline, betaine and taurine. They
+are structurally distinct from the second more-restricted family of plasma
+membrane transporters, which are responsible for excitatory amino acid
+tranport. The latter couple glutamate and aspartate uptake to the co-
+transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5].
+
+The human noradrenaline transporter is the primary target for widely-
+used tricyclic antidepressant drugs, such as desipramine. Cloning studies
+have revealed a single noradrenaline transporter isoform. The cDNA sequence
+predicts a protein of ~617 amino acids, with 12-13 highly hydrophobic
+regions, as would be expected for a member of the Na+ and Cl- -coupled
+neurotransmitter superfamily [6]. Related noradrenaline transporter species
+have been identified in both Drosophila and bullfrog. In mammalian species,
+mRNA for the transporter is localised to the brainstem and the adrenal
+glands. Chromosome mapping has placed the encoding gene to chromosome 
+16q12.2 in humans [7]. Recently, a bovine noradrenaline transporter variant
+has been identified that shows altered targeting to the plasma membrane.
+This has implicated the cytoplasmic facing C-terminus in the intracellular
+trafficking of this protein [8].
+
+NORTRANSPORT is a 3-element fingerprint that provides a signature for
+noradrenaline neurotransmitter transporters. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing
+on those sections that characterise the noradrenaline transporter but
+distinguish it from others - motifs 1-2 reside within the large putative
+extracellular loop located between putative TM domains 3 and 4; and motif 3
+lies at the start of the extracellular loop between TM domains 11 and 12.
+Two iterations on SPTR37_9f were required to reach convergence, at which
+point a true set comprising 5 sequences was identified.

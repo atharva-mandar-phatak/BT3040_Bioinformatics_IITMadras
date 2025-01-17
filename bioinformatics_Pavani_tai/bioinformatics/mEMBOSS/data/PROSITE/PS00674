@@ -1,0 +1,124 @@
+********************************
+* AAA-protein family signature *
+********************************
+
+A large family of ATPases has been described [1 to 5,E1] whose  key feature is
+that they share  a  conserved region of about 220 amino acids that contains an
+ATP-binding site.  This  family  is now called AAA, for 'A'TPases 'A'ssociated
+with diverse  cellular   'A'ctivities. The proteins that belong to this family
+either contain one or two AAA domains.
+
+Proteins containing two AAA domains:
+
+ - Mammalian  and  drosophila  NSF (N-ethylmaleimide-sensitive fusion protein)
+   and the fungal homolog, SEC18. These proteins are involved in intracellular
+   transport between the  endoplasmic reticulum  and Golgi, as well as between
+   different Golgi cisternae.
+ - Mammalian  transitional  endoplasmic  reticulum ATPase (previously known as
+   p97 or  VCP)  which  is  involved  in  the  transfer  of membranes from the
+   endoplasmic reticulum  to  the  golgi apparatus. This protein forms a ring-
+   shaped homooligomer  composed  of  six subunits. The yeast homolog is CDC48
+   and it may play a role in spindle pole proliferation.
+ - Yeast  protein  PAS1,  essential  for  peroxisome  assembly and the related
+   protein PAS1 from Pichia pastoris.
+ - Yeast protein AFG2.
+ - Sulfolobus  acidocaldarius  protein  SAV  and Halobacterium salinarium cdcH
+   which may  be  part  of  a  transduction  pathway  connecting light to cell
+   division.
+
+Proteins containing a single AAA domain:
+
+ - Escherichia    coli  and  other bacteria ftsH (or hflB) protein. FtsH is an
+   ATP-dependent zinc metallopeptidase that seems  to  degrade  the heat-shock
+   sigma-32 factor.   It   is  an  integral  membrane  protein  with  a  large
+   cytoplasmic C-terminal  domain  that  contain both the AAA and the protease
+   domains.
+ - Yeast protein YME1, a protein  important  for  maintaining the integrity of
+   the mitochondrial compartment. YME1 is also a zinc-dependent protease.
+ - Yeast  protein  AFG3  (or  YTA10). This protein also seems to contain a AAA
+   domain followed by a zinc-dependent protease domain.
+ - Subunits  from  the  regulatory  complex of the 26S proteasome [6] which is
+   involved in the ATP-dependent degradation of ubiquitinated proteins:
+   a) Mammalian  subunit  4  and homologs in other higher eukaryotes, in yeast
+      (gene YTA5) and fission yeast (gene mts2).
+   b) Mammalian  subunit  6 (TBP7) and homologs in other higher eukaryotes and
+      in yeast (gene YTA2).
+   c) Mammalian subunit 7 (MSS1)  and  homologs in other higher eukaryotes and
+      in yeast (gene CIM5 or YTA3).
+   d) Mammalian subunit 8 (P45)  and  homologs in  other higher eukaryotes and
+      in yeast (SUG1 or CIM3 or TBY1) and fission yeast (gene let1).
+   d) Other probable subunits such as human TBP1 which seems to influences HIV
+      gene expression by interacting with the virus tat transactivator protein
+      and yeast YTA1 and YTA6.
+ - Yeast protein BCS1, a mitochondrial protein essential for the expression of
+   the Rieske iron-sulfur protein.
+ - Yeast protein MSP1, a protein  involved  in  intramitochondrial  sorting of
+   proteins.
+ - Yeast  protein  PAS8,  and  the  corresponding  proteins  PAS5  from Pichia
+   pastoris and PAY4 from Yarrowia lipolytica.
+ - Mouse protein SKD1 and its fission yeast homolog (SpAC2G11.06).
+ - Caenorhabditis elegans meiotic spindle formation protein mei-1.
+ - Yeast protein SAP1.
+ - Yeast protein YTA7.
+ - Mycobacterium leprae hypothetical protein A2126A.
+
+It is proposed that, in general, the AAA domains in these proteins act as ATP-
+dependent protein clamps [5].
+
+In addition  to  the  ATP-binding 'A' and 'B'  motifs  (see the relevant entry
+<PDOC00017>), which  are  located in the N-terminal half of this domain, there
+is a highly conserved region located in the central part of the  domain  which
+we have used to develop a signature pattern.
+
+-Consensus pattern: [LIVMTR]-x-[LIVMT]-[LIVMF]-x-[GATMC]-[ST]-[NS]-x(4)-
+                    [LIVM]-D-x-[AS]-[LIFAV]-x(1,2)-R
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 3 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern will  only  detect  the  first domain of SEC18/NSF and the
+ second domain  of  PAS1.  The  other  domain  in  these proteins is much less
+ conserved outside of the ATP-binding region.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Froehlich K.-U., Fries H.W., Ruediger M., Erdmann R., Botstein D.,
+     Mecke D.
+     J. Cell Biol. 114:443-453(1991).
+[ 2] Erdmann R., Wiebel F.F., Flessau A., Rytka J., Beyer A., Froehlich K.-U.,
+     Kunau W.-H.
+     "PAS1, a yeast gene required for peroxisome biogenesis, encodes a
+     member of a novel family of putative ATPases."
+     Cell 64:499-510(1991).
+     PubMed=1825027
+[ 3] Peters J.-M., Walsh M.J., Franke W.W.
+     "An abundant and ubiquitous homo-oligomeric ring-shaped ATPase
+     particle related to the putative vesicle fusion proteins Sec18p and
+     NSF."
+     EMBO J. 9:1757-1767(1990).
+     PubMed=2140770
+[ 4] Kunau W.-H., Beyer A., Franken T., Gotte K., Marzioch M., Saidowsky J.,
+     Skaletz-Rorowski A., Wiebel F.F.
+     "Two complementary approaches to study peroxisome biogenesis in
+     Saccharomyces cerevisiae: forward and reversed genetics."
+     Biochimie 75:209-224(1993).
+     PubMed=8507683
+[ 5] Confalonieri F., Duguet M.
+     "A 200-amino acid ATPase module in search of a basic function."
+     BioEssays 17:639-650(1995).
+     PubMed=7646486
+[ 6] Hilt W., Wolf D.H.
+     "Proteasomes: destruction as a programme."
+     Trends Biochem. Sci. 21:96-102(1996).
+     PubMed=8882582
+[E1] http://aaa-proteins.uni-graz.at/Default.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

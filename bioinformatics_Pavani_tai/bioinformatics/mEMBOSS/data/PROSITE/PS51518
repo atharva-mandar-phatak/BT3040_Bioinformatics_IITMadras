@@ -1,0 +1,54 @@
+***********************************
+* SGF29 C-terminal domain profile *
+***********************************
+
+Eukaryotic SGF29  is  a component of histone acetyltransferase (HAT) complexes
+TATA-binding protein-free    TAF-containing    (TFTC)    and   SPT3-TAF9-GCN5-
+acetyltransferase (STAGA)  or  SPT-ADA-GCN5-acetyltransferase  (SAGA) [1]. The
+SGF29 C-terminal  domain  contains  a double Tudor-like motif that selectively
+binds the  H3K4me2/3  lysine  methylation site on the N terminus of histone H3
+[2,3].
+
+Each Tudor  domain consists of five twisted anti-parallel beta strands forming
+a typical  barrel-like fold (see <PDB:3MEA>). The tandem Tudor domains tightly
+pack against  each  other  face-to-face  with  each  Tudor  domain harboring a
+negatively charged   pocket   accommodating  the  first  residue  alanine  and
+methylated K4 residue of histone H3, respectively [3].
+
+The profile we developed covers the entire SGF29 C-terminal domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2011 / Profile and text revised.
+
+[ 1] Kurabe N., Katagiri K., Komiya Y., Ito R., Sugiyama A., Kawasaki Y.,
+     Tashiro F.
+     "Deregulated expression of a novel component of TFTC/STAGA histone
+     acetyltransferase complexes, rat SGF29, in hepatocellular carcinoma:
+     possible implication for the oncogenic potential of c-Myc."
+     Oncogene 26:5626-5634(2007).
+     PubMed=17334388; DOI=10.1038/sj.onc.1210349
+[ 2] Vermeulen M., Eberl H.C., Matarese F., Marks H., Denissov S.,
+     Butter F., Lee K.K., Olsen J.V., Hyman A.A., Stunnenberg H.G.,
+     Mann M.
+     "Quantitative interaction proteomics and genome-wide profiling of
+     epigenetic histone marks and their readers."
+     Cell 142:967-980(2010).
+     PubMed=20850016; DOI=10.1016/j.cell.2010.08.020
+[ 3] Bian C., Xu C., Ruan J., Lee K.K., Burke T.L., Tempel W., Barsyte D.,
+     Li J., Wu M., Zhou B.O., Fleharty B.E., Paulson A., Allali-Hassani A.,
+     Zhou J.-Q., Mer G., Grant P.A., Workman J.L., Zang J., Min J.
+     "Sgf29 binds histone H3K4me2/3 and is required for SAGA complex
+     recruitment and histone H3 acetylation."
+     EMBO J. 30:2829-2842(2011).
+     PubMed=21685874; DOI=10.1038/emboj.2011.193
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

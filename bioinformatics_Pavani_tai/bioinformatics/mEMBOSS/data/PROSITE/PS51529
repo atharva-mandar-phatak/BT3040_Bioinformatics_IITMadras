@@ -1,0 +1,135 @@
+*************************************************************************************
+* Fetuin family signatures and fetuin-A- and fetuin-B-type cystatin domain profiles *
+*************************************************************************************
+
+The cystatin  superfamily  consists  of  a  large  group  of  cystatin domain-
+containing proteins, most of which are reversible and tight-binding inhibitors
+of the  papain (C1) and legumain (C13) families of cysteine proteases. Fetuins
+have been  identified  as  main  members  of  the cystatin superfamily and are
+composed of  fetuin-A  and fetuin-B. Fetuins are characterized by the presence
+of 2 N-terminally located cystatin-like repeats (see <PDOC00259>) and a unique
+C-terminal domain  which  is  not  present  in  other proteins of the cystatin
+family [1,2,3].
+
+Fetuin-A [2,3,4,5,6]  also  called  alpha-2-HS-glycoprotein, bone sialic acid-
+containing protein (BSP), countertrypin or PP63, is expressed in a tissue- and
+development-specific pattern which seems to be significantly different between
+species. A  wide  functional  diversity  of fetuin-A has been observed. It has
+been shown  to  function  in  many  physiological  aspects, such as fatty acid
+transport, regulation   of   insulin   activity  and  hepatocyte-growth-factor
+activity, response  to  systemic  inflammation,  and  inhibition  of  unwanted
+mineralization. It  has  been demonstrated that fetuin-A plays important roles
+during developmental processes, including osteogenesis, myotubule, fetal brain
+and nervous  system  development. Human fetuin is a heterodimer of chain A and
+B, which  are  derived  by  cleavage  of  a  connecting  peptide from a common
+precursor. Snake  fetuin  family proteins (antihemorrhagic proteins HSF, BJ46a
+and MSF and HLP-A and HLP-B) show a significant degree of sequence homology to
+fetuin-A [7].
+
+Fetuin-B has  been  suggested  to  be  involved in systemic inflammation, as a
+tumor suppressor,  and  as  a  basic calcium phosphate precipitation inhibitor
+[8,9].
+
+The cystatin  fold  is  formed  by  a  five  stranded anti-parallel beta-sheet
+wrapped around a five-turn alpha-helix [1].
+
+As shown  in  the  schematic  representation  fetuin contains twelve conserved
+cysteines involved in six disulfide bonds.
+
+   Chain A                                                   Chain B
+
+              +--+  +---+  +-+         +--+  +---+
+    **********|**|**|***|**|*|         |  |  |   |
+   xCxxxxxxxxxCxxCxxCxxxCxxCxCxxxxxxxxxCxxCxxCxxxCxxxxxxxxx  xxxxxxxxCxx
+    |        ***                                                     |
+    +----------------------------------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of pattern 1 (upper line) and 2 (lower line).
+
+Eleven of  the twelve invariant cysteines are located within the cystatin-like
+repeats. This domain has been choosen to assign a signature pattern.  The 12th
+cysteine is  located near the C-terminus of the protein, separated by a region
+of variable  length. A second signature pattern has been developed from a well
+conserved region  around  the  2nd  invariant cysteine. We also developped two
+profiles, which  cover  respectively  the fetuin-A- and fetuin-B-type cystatin
+domains.
+
+-Consensus pattern: C-[DN]-[DE]-x(54)-C-H-x(9)-C-x(12,14)-C-x(17,19)-C-x(13)-
+                    C-x(2)-C
+                    [The 7 C's are involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [ND]-x-L-E-T-x-C-H-x-L
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2011 / Text revised; profiles added.
+
+[ 1] Kordis D., Turk V.
+     "Phylogenomic analysis of the cystatin superfamily in eukaryotes and
+     prokaryotes."
+     BMC Evol. Biol. 9:266-266(2009).
+     PubMed=19919722; DOI=10.1186/1471-2148-9-266
+[ 2] Brown W.M., Dziegielewska K.M., Saunders N.R., Christie D.L.,
+     Nawratil P., Mueller-Esterl W.
+     "The nucleotide and deduced amino acid structures of sheep and pig
+     fetuin. Common structural features of the mammalian fetuin family."
+     Eur. J. Biochem. 205:321-331(1992).
+     PubMed=1372866
+[ 3] Yang F., Chen Z.-L., Bergeron J.M., Cupples R.L., Friedrichs W.E.
+     "Human alpha 2-HS-glycoprotein/bovine fetuin homologue in mice:
+     identification and developmental regulation of the gene."
+     Biochim. Biophys. Acta 1130:149-156(1992).
+     PubMed=1373325
+[ 4] Haasemann M., Nawratil P., Mueller-Esterl W.
+     "Rat tyrosine kinase inhibitor shows sequence similarity to human
+     alpha 2-HS glycoprotein and bovine fetuin."
+     Biochem. J. 274:899-902(1991).
+     PubMed=1707273
+[ 5] Goto K., Yoshida K., Suzuki Y., Yamamoto K., Sinohara H.
+     "Molecular cloning and sequencing of cDNA encoding plasma
+     countertrypin, a member of mammalian fetuin family, from the Mongolian
+     gerbil, Meriones unguiculatus."
+     J. Biochem. 121:619-625(1997).
+     PubMed=9133634
+[ 6] Heiss A., DuChesne A., Denecke B., Groetzinger J., Yamamoto K.,
+     Renne T., Jahnen-Dechent W.
+     "Structural basis of calcification inhibition by alpha 2-HS
+     glycoprotein/fetuin-A. Formation of colloidal calciprotein
+     particles."
+     J. Biol. Chem. 278:13333-13341(2003).
+     PubMed=12556469; DOI=10.1074/jbc.M210868200
+[ 7] Aoki N., Deshimaru M., Kihara K., Terada S.
+     "Snake fetuin: isolation and structural analysis of new fetuin family
+     proteins from the sera of venomous snakes."
+     Toxicon 54:481-490(2009).
+     PubMed=19481564; DOI=10.1016/j.toxicon.2009.05.018
+[ 8] Olivier E., Soury E., Ruminy P., Husson A., Parmentier F., Daveau M.,
+     Salier J.-P.
+     "Fetuin-B, a second member of the fetuin family in mammals."
+     Biochem. J. 350:589-597(2000).
+     PubMed=10947975
+[ 9] Liu J.-X., Zhai Y.-H., Geng F.-S., Xia J.-H., Gui J.-F.
+     "Molecular characterization and expression pattern of fetuin-B in
+     gibel carp (Carassius auratus gibelio)."
+     Biochem. Genet. 46:620-633(2008).
+     PubMed=18751887; DOI=10.1007/s10528-008-9176-4
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

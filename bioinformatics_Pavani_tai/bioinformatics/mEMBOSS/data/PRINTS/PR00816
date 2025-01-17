@@ -1,0 +1,50 @@
+ZETAHAEM
+Globins are haem-containing proteins involved in dioxygen binding and/or 
+transport [1]. Hundreds of globin sequences are known [2]. It has been 
+proposed that all globins have evolved from a family of ancestral, ~17kDa 
+haemoproteins that displayed the globin fold and functioned as redox 
+proteins [3]. The globin superfamily includes vertebrate haemoglobins (Hb); 
+vertebrate myoglobins (Mb); invertebrate globins; plant leghaemoglobins; and 
+bacterial flavohaemoglobins. 
+
+The function of haemoglobins (Hb) is transport of dioxygen in blood plasma.
+Hb binds O(2) in the reduced [Fe(II)] state. The Hb molecule exists as a
+tetramer, typically of two alpha- and two beta-globin chains, which form 
+a well-defined quaternary structure. Each monomer binds iron protoporphyrin
+IX (haem). 
+
+The 3D structures of a great number of vertebrate Hbs in various states
+are known. The protein is largely alpha-helical, eight conserved helices 
+(A to H) providing the scaffold for a well-defined haem-binding pocket
+(Hb alpha subunits lack helix D [4]). The imidazole ring of the "proximal"
+His residue provides the fifth haem iron ligand; the other axial haem iron 
+position remains essentially free for O(2) coordination. Conserved "distal"
+His and Val residues block an unhindered access to the sixth coordination 
+site so that a controlled binding of small molecules may result only as a 
+consequence of side-chain dynamics of the protein [1]. O(2) binding results
+in a transition from high-spin to low-spin iron, with accompanying changes 
+in the Fe-N bond lengths and coordination geometry. In Hb, these subtle 
+changes lead to the well-known cooperative effect. At the quaternary 
+structure level, O(2) binding induces relative reorientation of the 
+[alpha-1, beta-1] and [alpha-2, beta-2] dimers. 
+
+It has been hypothesised that the embryonic alpha-haemoglobin family
+diverged considerably earlier than the beta-haemoglobin line [5]. This
+is reflected in a greater variability amongst alpha sequences, such that
+two distinct sub-groups may be distinguished; these have been designated
+pi and zeta.
+
+ZETAHAEM is a 4-element fingerprint that provides a signature for the 
+zeta family of haemoglobins. The fingerprint was derived from an initial 
+alignment of 7 sequences: the motifs were drawn from conserved sections
+spanning the full alignment length, focusing on those regions that 
+characterise the zeta-haemoglobins but distinguish them from the rest of
+the globin family - motif 1 includes the N-terminus of helix 1; motif 2 
+spans the C-terminal half of the loop between helices 4 and 5, leading 
+into helix 5; motif 3 encompasses helices 6 and 7; and motif 4 spans the 
+C-terminal portion of helix 10. A single iteration on OWL30.0 was required
+to reach convergence, no further sequence being identified beyond the
+starting set. A single partial match was found, HBAD_BRACA, a Canada goose
+alpha-D haemoglobin that fails to match motifs 1 and 4.
+
+An update on SPTR37_9f identified a true set of 6 sequences.

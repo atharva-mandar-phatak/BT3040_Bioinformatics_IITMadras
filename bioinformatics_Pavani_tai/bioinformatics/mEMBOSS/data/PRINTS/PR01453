@@ -1,0 +1,35 @@
+EPMEMFAMILY
+The epithelial membrane proteins (EMP-1, -2 and -3), peripheral myelin 
+protein 22 (PMP22), and lens fiber membrane intrinsic protein (LMIP)
+comprise a protein family on the basis of sequence and structural 
+similarities [1]. Each family member is a small hydrophobic membrane
+glycoprotein, ~160-170 amino acids in length, and shares a common predicted
+transmembrane (TM) topology of 4 TM domains, with intracellular N- and 
+C-termini [2]. 
+
+Roles for the EMP/PMP22/LMIP family members in cell structure and growth
+and have been proposed [1]. PMP22 is a structural component of compact
+myelin in the peripheral nervous system. It has also been implicated in the
+control of cell proliferation. PMP22 expression levels are up-regulated in
+cultured cells undergoing growth arrest [1], and modulation of PMP22 levels
+in cultured Schwann cells exerts a profound effect on the length of the G1
+phase of the cell cycle [3]. In contrast, EMP-1, which is co-expressed with
+PMP22 in a range of tissues, displays an inverse pattern of regulation.
+EMP-1 expression levels are high in proliferating cells and can be
+down-regulated by inducing growth arrest [4]. It has therefore been
+proposed that these proteins may perform reciprocal roles in the control of
+cell quiescence and proliferation. Although the function of LMIP has not
+been elucidated, its extremely high expression level in the mammalian eye
+lens suggests it may perform a tissue specific role [5].
+
+EPMEMFAMILY is a 4-element fingerprint that provides a signature for the 
+epithelial membrane protein (EMP/PMP22/LMIP) family. The fingerprint was
+derived from an initial alignment of 15 sequences: the motifs were drawn
+from conserved loop and TM regions, focusing on those sections that
+characterise the EMP/PMP22/LMIP family - motif 1 lies in TM domain 2; motif 
+2 spans part of the intracellular loop and part of TM domain 3; motif 3 
+resides within TM domain 3; and motif 4 lies in TM domain 4. Two iterations
+on SPTR39_14f were required to reach convergence, at which point a true set
+comprising 16 sequences was identified. A single partial match was also 
+found, Q9TQZ3, a preliminary partial bovine sequence that is highly similar
+to PMP22.

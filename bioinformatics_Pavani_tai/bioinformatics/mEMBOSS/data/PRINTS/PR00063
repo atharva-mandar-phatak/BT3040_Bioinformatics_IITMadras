@@ -1,0 +1,21 @@
+RIBOSOMALL27
+Protein synthesis is co-ordinated in all cells by ribosomes, ribonucleo-
+protein particles containing more than 50 different proteins and several
+large RNAs [1]. Low resolution models show the protein arrangement in both
+the large and small ribosomal subunits, but higher resolution structures are
+required to reveal the detailed mechanistic functioning of the complex [2]. 
+
+L27 is a protein from the large (50S) subunit; it is essential for ribosome
+function, but its exact role is unclear. It belongs to a family of ribosomal
+proteins, including L27 from eubacteria and plant and red alga chloroplasts,
+and YmL2 protein from yeast mitochondria.
+
+RIBOSOMALL27 is a 3-element fingerprint that provides a signature for L27
+ribosomal proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions encompassing
+the full alignment length, motifs 2 and 3 spanning the central region
+encoded by PROSITE pattern RIBOSOMAL_L27 (PS00831). Two iterations on
+OWL24.0 were required to reach convergence, at which point a true set
+comprising 6 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 26 sequences.

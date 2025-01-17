@@ -1,0 +1,27 @@
+BCTERIALGSPF
+The general (type II) secretion pathway (GSP) within Gram-negative bacteria
+is a signal sequence-dependent process repsonsible for protein export [1-3].
+The process has two stages: exoproteins are first translocated across the
+inner membrane by the general signal-dependent export pathway (GEP), and 
+then across the outer membrane by a species-specific accessory mechanism. 
+
+The GSP is a composite of several proteins, one of which is termed general
+secretion pathway protein F (GSPF), which is thought to be located within
+the inner membrane [4]. This suggests that protein F is part of the GEP
+apparatus, which aids translocation of exoproteins from the cytoplasm to the
+periplasm, prior to transport across the outer membrane. GSPF is a highly
+hyrdophobic protein containing ~400 amino acids.
+
+BCTERIALGSPF is a 4-element fingerprint that provides a signature for 
+general secretion pathway protein F. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motif 2 includes the
+region encoded by PROSITE pattern T2SP_F (PS00874), which contains 2
+conserved proline residues. Two iterations on OWL30.0 were required to
+reach convergence, at which point a true set comprising 12 sequences was
+identified. Several partial matches were also found: PILC_PSEPU is a related
+fimbrial assembly protein that matches motifs 1-3; those matching 2 motifs
+are fimbrial assembly proteins that match motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 4
+partial matches.

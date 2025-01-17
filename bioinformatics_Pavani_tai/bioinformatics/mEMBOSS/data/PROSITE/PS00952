@@ -1,0 +1,57 @@
+**************************************************
+* ER lumen protein retaining receptor signatures *
+**************************************************
+
+Proteins that reside in the lumen of the endoplasmic  reticulum (ER) contain a
+C-terminal tetrapeptide (generally K-D-E-L or H-D-E-L) that serves as a signal
+for their retrieval (retrograde transport) from subsequent compartments of the
+secretory pathway.  The  signal  is  recognized by a receptor molecule that is
+believed to cycle between the cis side  of the Golgi apparatus and the ER [1].
+This protein  is known  as the  ER lumen protein retaining receptor or also as
+the 'KDEL  receptor'.  It  has  been  characterized  in  a variety of species,
+including  fungi (gene  ERD2), plants, Plasmodium,  Drosophila and mammals. In
+mammals two highly related forms of the receptor are known.
+
+Structurally, the   receptor is a protein of about 220 residues that seems  to
+contain seven transmembrane regions [2].  The  N-terminal part (3 residues) is
+oriented toward the  lumen  while  the C-terminal  tail (about 12 residues) is
+cytoplasmic. There are three lumenal and three cytoplasmic loops.
+
+We developed  two  signature  patterns  for these receptors. The first pattern
+corresponds to  the  C-terminal  half of the first cytoplasmic loop as well as
+most of  the  second  transmembrane  domain. The second pattern is a perfectly
+conserved decapeptide  that  corresponds  to  the  central  part  of the fifth
+transmembrane domain.
+
+-Consensus pattern: G-[LIV]-S-x-[KR]-x-[QH]-x-L-[FY]-x-[LIV](2)-[FYW]-x(2)-R-
+                    Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: L-E-[SA]-V-A-I-[LM]-P-Q-[LI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Pelham H.R.B.
+     "Recycling of proteins between the endoplasmic reticulum and Golgi
+     complex."
+     Curr. Opin. Cell Biol. 3:585-591(1991).
+     PubMed=1663369
+[ 2] Townsley F.M., Wilson D.W., Pelham H.R.B.
+     "Mutational analysis of the human KDEL receptor: distinct structural
+     requirements for Golgi retention, ligand binding and retrograde
+     transport."
+     EMBO J. 12:2821-2829(1993).
+     PubMed=8392934
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

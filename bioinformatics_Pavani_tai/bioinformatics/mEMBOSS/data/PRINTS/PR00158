@@ -1,0 +1,27 @@
+RUSTICYANIN
+Type I blue copper proteins are found in methylothropic bacteria, where
+they appear to function as the electron acceptor to methylamine dehydro-
+genase [1]. They bind a single copper atom and are characterised by an
+intense electronic absorption band near 600nm [2]. Several subclasses of
+the blue copper proteins, such as the amicyanins, azurins, plastocyanins
+and rusticyanins, have been identified. Although there is an appreciable
+amount of divergence in the sequences of these proteins, the copper 
+ligand sites are conserved. 
+
+Rusticyanin from Thiobacillus ferrooxidans is an electron carrier from
+cytochrome c-552 to the a-type oxidase. The NMR structure indicates the
+fold to be a compact beta-barrel or beta-sandwich, which contains a
+hydrophobic core rich in aromatic residues [3]. Its sequence is highly
+diverged from related copper-blue proteins, but it has a similar active
+site, containing conserved His and Cys residues responsible for binding
+copper.
+
+RUSTICYANIN is a 6-element fingerprint that provides a signature for
+rusticyanins. The fingerprint was derived from an initial alignment of
+3 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length, motif 6 including the region encoded by PROSITE
+pattern COPPER_BLUE (PS00196), which contains the conserved Cys and His
+copper ligands. A single iteration on OWL25.2 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

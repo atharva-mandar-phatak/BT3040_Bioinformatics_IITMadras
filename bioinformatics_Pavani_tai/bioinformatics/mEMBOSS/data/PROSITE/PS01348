@@ -1,0 +1,49 @@
+**************************
+* MraY family signatures *
+**************************
+
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC  2.7.8.13) (mraY) [1] is
+a bacterial  enzyme  responsible    for    the    formation of the first lipid
+intermediate of  the  cell  wall  peptidoglycan  synthesis.  It  catalyzes the
+formation of   undecaprenyl-pyrophosphoryl-N-acetylmuramoyl-pentapeptide  from
+UDP-MurNAc-pentapeptide and undecaprenyl-phosphate.
+
+It is an integral membrane protein with probably ten transmembrane domains. It
+belongs to family 4 of glycosyl transferases. Homologs of mraY have been found
+in  the archaebacteria Methanobacterium thermoautotrophicum and in Arabidopsis
+thaliana.
+
+We developed two patterns for this family of enzyme.  The first one is located
+at the  end  of  the  first  cytoplasmic  loop and the beginning of the second
+transmembrane domain.  The  second pattern is located in the third cytoplasmic
+loop.
+
+-Consensus pattern: [KRA]-x(2)-[TIVK]-P-[ST]-[MGA]-[GA]-G-[LIVSA]-x-[LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [NHS]-x(2)-[NK]-x-[TINAS]-[DN]-G-[ILVM]-D-G-[LM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: Haemophilus influenzae  rfe,  which
+ also belongs to glycosyl transferase family 4.
+
+-Expert(s) to contact by email:
+           Bouhss A.; abouhss@pasteur.fr
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bouhss A., Mengin-Lecreulx D., Le Beller D., Van Heijenoort J.
+     "Topological analysis of the MraY protein catalysing the first
+     membrane step of peptidoglycan synthesis."
+     Mol. Microbiol. 34:576-585(1999).
+     PubMed=10564498
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

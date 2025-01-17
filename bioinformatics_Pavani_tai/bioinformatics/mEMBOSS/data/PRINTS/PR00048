@@ -1,0 +1,36 @@
+ZINCFINGER
+The zinc finger motif was first discovered in the Xenopus laevis 
+transcription factor IIIA, and has since been found to be ubiquitous in 
+transcription factors and other DNA-binding proteins. Putative fingers are 
+present in the structure of many regulatory proteins, acting as specific 
+nucleic acid binding domains. The motif contains a repeated 28 amino acid
+sequence, including 2 conserved Cys and 2 conserved His residues in a
+C-2-C-12-H-3-H type motif. The 12 residues separating the second Cys and 
+the first His are, in the main, polar and basic, implicating this region in
+particular in nucleic acid binding. By contrast, the hormone-regulated 
+proteins contain a C4 motif rather than a C2H2 motif, and contain only 2 
+repeats, rather than the multiple tandem repeats found within the former.
+
+The zinc finger motif is an unusually small, self-folding domain in which 
+Zn is a crucial component of its tertiary structure: all bind 1 atom of Zn 
+in a tetrahedral array to yield a finger-like projection, which interacts 
+with nucleotides in the major groove of the nucleic acid - the Zn binds to 
+the conserved Cys and His residues. Fingers have been found to bind to 
+about 5 base pairs of nucleic acid containing short runs of guanine 
+residues. They are found in all transcription factors, and also proteins 
+such as RNA and DNA polymerases. This ability to bind to both RNA and DNA 
+suggests versatility not demonstrated by the helix-turn-helix motif: the
+zinc finger may thus represent the original nucleic acid binding protein. It
+has also been suggested that a Zn-centred domain could be used in a protein 
+interaction, e.g. in protein kinase C.
+
+ZINCFINGER is a 2-element fingerprint that provides a signature for the 
+C2H2 zinc fingers. The fingerprint was derived from an initial alignment 
+of 5 sequences: the motifs span the full length of the finger domain (cf.
+PROSITE pattern ZINC_FINGER_C2H2 (PS00028)). Four iterations on OWL11.0
+were required to reach convergence, at which point a true set comprising 155
+sequences was identified (several false-positive matches were also picked
+up because the fingerprint contains only 2 motifs and sequence identity is
+low). 
+
+An update on SPTR37_9f identified a true set of 576 sequences.

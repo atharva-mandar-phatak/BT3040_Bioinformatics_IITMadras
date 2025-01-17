@@ -1,0 +1,41 @@
+INTRLEUKN1AB
+Interleukin-1 (IL-1) is a cytokine with a wide range of biological and
+physiological effects, including fever, prostaglandin synthesis (in e.g.,
+fibroblasts, muscle and endothelial cells), T-lymphocyte activation, and 
+interleukin-2 production [1]. This family is a member of a superfamily that
+also contains the heparin binding growth factors (HBGF), the Kunitz-type 
+soybean trypsin inhibitors (STI) and histactophilin. All have very similar
+structures, but although the interleukin-1 and HBGF families share some
+sequence similarity (about 25%), they show none at all to the STIs.
+
+Over a hundred cytokines have now been identified, including several
+putative new members of the IL-1 family [2]. The IL-1 family consists of 2
+main classes, designated alpha (IL1A) and beta (IL1B), as well as the more
+recently discovered IL-1 receptor antagonist (IL1RA). Sequence similarity 
+is high within the IL1A and IL1B subfamilies (about 60-70%) but low between
+them (less than 30%). IL1As and IL1Bs are synthesised as larger precursors, 
+which are processed to give mature carboxy fragments. IL1B requires this 
+cleavage to become biologically active, but IL1A precursor is already 
+active. Both IL1A and IL1B bind to the same IL1-specific receptor on the 
+target cell, which is then internalised to initiate the relevant effects
+(which appear to be similar or identical).
+
+The crystal structures of IL1A and IL1B [3] have been solved, showing them 
+to share the same 12-stranded beta-sheet structure as both the heparin
+binding growth factors and the Kunitz-type soybean trypsin inhibitors [4].
+The beta-sheets are arranged in 3 similar lobes around a central axis, 6
+strands forming an anti-parallel beta-barrel. Several regions, especially 
+the loop between strands 4 and 5, have been implicated in receptor binding.
+
+INTRLEUKN1AB is a 6-element fingerprint that provides a signature for the
+interleukin-1 alpha/beta precursor family. The fingerprint was derived from
+an initial alignment of 24 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise the IL-1AB family but distinguish them from the
+rest of the IL-1 superfamily - motif 1 lies in the propeptide; motif 2 spans
+beta-strands 1 and 2; motif 3 spans the C-terminal half of alpha-helix 1 and
+strand 4; motif 4 encodes strands 5 and 6; motif 5 spans helix 2 and strand
+8; and motif 6 encompasses strands 9 and 10. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 31
+sequences was identified. Four partial matches were also found, all of which
+are family members that fail to match one or more motifs.

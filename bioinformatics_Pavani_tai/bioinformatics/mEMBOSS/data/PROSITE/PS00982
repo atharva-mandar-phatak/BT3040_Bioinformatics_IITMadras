@@ -1,0 +1,39 @@
+***************************************************
+* Bacterial-type phytoene dehydrogenase signature *
+***************************************************
+
+Phytoene dehydrogenase  (phytoene  desaturase)  is  an  enzyme  of  carotenoid
+biosynthesis that  converts  phytoene  into  zeta-carotene via the symmetrical
+introduction of  two double bonds at the C-11 and C-11' positions of phytoene.
+The sequence  of  phytoene dehydrogenase from bacteria (gene crtI or carC) and
+fungi (gene AL-1) are not related to that from cyanobacteria and plants but is
+evolutionary related [1] to that of another enzyme of carotenoid biosynthesis,
+methoxyneurosporene dehydrogenase (gene crtD).
+
+There are  two  glycine-rich  conserved regions, both of which probably play a
+role in the binding of either FAD or NAD. The first conserved region is in the
+N-terminal section  while the second one is in the C-terminal section. We have
+used the second region as a signature pattern.
+
+-Consensus pattern: [NG]-x-[FYWV]-[LIVMF]-x-G-[AGC]-[GS]-[TA]-[HQT]-P-G-
+                    [STAV]-G-[LIVM]-x(5)-[GS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Bartley G.E., Schmidhauser T.J., Yanofsky C., Scolnik P.A.
+     "Carotenoid desaturases from Rhodobacter capsulatus and Neurospora
+     crassa are structurally and functionally conserved and contain domains
+     homologous to flavoprotein disulfide oxidoreductases."
+     J. Biol. Chem. 265:16020-16024(1990).
+     PubMed=2144293
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

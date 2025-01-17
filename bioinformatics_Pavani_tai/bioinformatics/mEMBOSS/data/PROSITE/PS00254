@@ -1,0 +1,87 @@
+************************************************
+* Interleukin-6 / G-CSF / MGF family signature *
+************************************************
+
+The following cytokines  can  be grouped  into a single family on the basis of
+sequence similarities.
+
+ - Interleukin-6 (IL-6) [1] (also known as B-cell stimulatory factor 2 (BSF-2)
+   or interferon beta-2) is a cytokine that has a wide variety  of  biological
+   functions.  It  plays  an essential role in the final differentiation of B-
+   cells into  IG-secreting    cells, as well as inducing myeloma/plasmacytoma
+   growth, nerve    cell  differentiation  and,  in   hepatocytes, acute phase
+   reactants.
+ - Granulocyte  colony-stimulating  factor (G-CSF) [2] belongs to the cytokine
+   family whose  members  regulate   hematopoietic   cell   proliferation  and
+   differentiation. G-CSF  exclusively  stimulates  the  colony  formation  of
+   granulocytes.
+ - Myelomonocytic growth factor (MGF) [3]  is  an  avian  hematopoeitic growth
+   factor that stimulates the proliferation and colony formation of normal and
+   transformed avian cells of the myeloid lineage.
+
+These cytokines are glycoproteins of about 170 to 180 amino acid residues that
+contains four conserved cysteine residues involved in two disulfide bonds [4],
+as shown in the following schematic representation.
+
+                       +--+     +---+
+                       |  |     |   |
+            xxxxxxxxxxxCxxCxxxxxCxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                **********
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+The pattern  developed  for  this  family  of  proteins  includes the last two
+cysteines as well as other conserved residues.
+
+-Consensus pattern: C-x(9)-C-x(6)-G-L-x(2)-[FY]-x(3)-L
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It has been said [5] that this family can be extended by the adjunction
+ of LIF  and  OSM  (see  the relevant entry <PDOC00509>) but,  while all these
+ cytokines seem to be structurally related,  the  sequence  similarity  is not
+ high enough to allow the use of only one single consensus pattern.
+
+-Expert(s) to contact by email:
+           Rose-John S.; rose@mzdmza.zdv.uni-mainz.de
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Kishimoto T., Hirano T.
+     "A new interleukin with pleiotropic activities."
+     BioEssays 9:11-15(1988).
+     PubMed=3063260
+[ 2] Metcalf D.
+     "The granulocyte-macrophage colony-stimulating factors."
+     Science 229:16-22(1985).
+     PubMed=2990035
+[ 3] Leutz A., Damm K., Sterneck E., Kowenz E., Ness S., Frank R.,
+     Gausepohl H., Pan Y.-C.E., Smart J., Hayman M., Graf T.
+     "Molecular cloning of the chicken myelomonocytic growth factor (cMGF)
+     reveals relationship to interleukin 6 and granulocyte colony
+     stimulating factor."
+     EMBO J. 8:175-181(1989).
+     PubMed=2785450
+[ 4] Clogston C.L., Boone T.C., Crandall B.C., Mendiaz E.A., Lu H.S.
+     "Disulfide structures of human interleukin-6 are similar to those of
+     human granulocyte colony stimulating factor."
+     Arch. Biochem. Biophys. 272:144-151(1989).
+     PubMed=2472117
+[ 5] Rose T.M., Bruce A.G.
+     "Oncostatin M is a member of a cytokine family that includes
+     leukemia-inhibitory factor, granulocyte colony-stimulating factor, and
+     interleukin 6."
+     Proc. Natl. Acad. Sci. U.S.A. 88:8641-8645(1991).
+     PubMed=1717982
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

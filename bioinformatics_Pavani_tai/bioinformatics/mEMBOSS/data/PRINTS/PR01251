@@ -1,0 +1,29 @@
+AMPHIPHYSIN
+Amphiphysins are proteins that are thought to be involved in clathrin-
+mediated endocytosis, actin function, and signalling pathways. They are
+highly concentrated in nerve terminals, where they may act as linkers
+between the clathrin coat and dynamin in the endocytosis of synaptic
+vesicles. Such recycling of synaptic vesicles is necessary for
+neurotransmission to continue, following neurotransmitter release.
+Amphiphysin family members share a similar three-domain organisation: the
+N-terminal domain contains six heptad repeats, which are predicted to form
+a coiled-coiled structure, thought to be involved in the dimerisation of
+amphiphysin molecules; the central region binds the heavy chain of clathrin
+and the clathrin adaptor protein AP-2, through distinct sites; and the
+C-terminal domain contains a Src-homology-3 (SH3) domain that binds the 
+GTPase dynamin and the inositol-5'-phosphatase synaptojanin-1. The 
+interactions mediated by both the central and C-terminal domains are
+believed to be modulated by proten phosphorylation [1,2].
+
+AMPHIPHYSIN is a 9-element fingerprint that provides a signature for the
+amphiphysin family. The fingerprint was derived from an initial alignment
+of 13 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motifs 1-4 lie near the N-terminus
+before the putative coiled-coil domain; motifs 5-7 encode portions of the
+coiled-coil domain; motif 8 lies just prior to the C-terminal SH3 domain;
+and motif 9 encodes ~1/5 of the SH3 domain. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 21
+sequences was identified. A single partial match was also found, Q21004,
+a sequence arising from the C.elegans Genome Project - this shows strong
+similarity to motifs 1, 3 and 5, and appears to possess a C-terminal SH3 
+domain, suggesting it may be a distant amphiphysin homologue.

@@ -1,0 +1,46 @@
+AFETOPROTEIN
+A number of serum transport proteins are known to be evolutionarily related, 
+including albumin, alpha-fetoprotein, vitamin D-binding protein and afamin
+[1-3]. Albumin is the main protein of plasma; it binds water, cations (such
+as Ca++, Na+ and  K+), fatty acids, hormones, bilirubin and drugs - its 
+main function is to regulate the colloidal osmotic pressure of blood. 
+Vitamin D-binding protein binds to vitamin D and its metabolites, as well 
+as to fatty acids. The biological role of afamin (alpha-albumin) has not 
+yet been characterised.
+
+Alpha-fetoprotein (AFP) (alpha-fetoglobulin) is a foetal plasma protein
+that binds various cations, fatty acids and bilirubin [4,5]. The protein
+appears in the plasma of 4-week old fetuses, reaches its highest levels in
+the 12th-16th week of gestation, dropping to trace amounts after birth. It
+is also found at high levels in the plasma and ascitic fluid of adults with
+hepatoma [6]. 
+
+The amino acid sequence contains a 19-amino acid signal peptide [7], and a 
+591-residue mature protein [8]. Fifteen regularly-spaced disulphide bridges
+generate a 3-domain folding structure, each domain containing ~190 amino
+acids, with 5 or 6 internal disulphide bonds, as shown schematically below.
+Sequence comparisons indicate that the greatest level of conservation 
+resides in domain 3 and the lowest in domain 1 [4]. 
+
+                   +---+          +----+                        +-----+
+                   |   |          |    |                        |     |
+xxCxxxxxxxxxxxxxxxxCCxxCxxxxCxxxxxCCxxxCxxxxxxxxxCxxxxxxxxxxxxxxCCxxxxCxxxx
+  |                 |       |     |              |               |
+  +-----------------+       +-----+              +---------------+
+
+
+In addition to the monomeric form of AFP, dimeric and trimeric forms occur,
+which dissociate only on exposure to disulphide-reducing reagents,
+suggesting that polymer formation is mediated by inter-molecular disulphide
+bond formation [6]. 
+
+AFETOPROTEIN is an 7-element fingerprint that provides a signature for
+alpha-fetoglobulins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved sections spanning 
+the full length of the mature protein, focusing on those regions that
+characterise the AFPs but distinguish them from related serum albumins -
+motifs 1-3 lie in the first internal domain; motifs 4 and 5 lie in the
+second domain; motif 6 lies in the third domain; and motif 7 resides at
+the C-terminus. Two iterations on SPTR55_38f were required to reach 
+convergence, at which point a true set comprising 13 sequences was 
+identified.

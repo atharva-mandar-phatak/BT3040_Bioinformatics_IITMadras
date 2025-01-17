@@ -1,0 +1,98 @@
+**********************
+* CBS domain profile *
+**********************
+
+CBS  domains contain about 60 amino acid residues and occur as tandem pairs in
+a  variety  of  proteins  in bacteria, archaea, and eukaryotes [1,2]. They are
+mainly found in proteins that are regulated by adenosyl metabolites. Depending
+on  the  protein in which they occur, CBS domains have been proposed to affect
+multimerization  and  sorting of proteins, channel gating, and ligand binding.
+However,   recent   experiments   revealing   that   CBS   domains   can  bind
+adenosine-containing  ligands  such ATP, AMP, or S-adenosylmethionine have led
+to  the  hypothesis  that  CBS  domains  function  as sensors of intracellular
+metabolites [3,4].
+
+Crystallographic studies of CBS domains have shown that pairs of CBS sequences
+form a globular domain where each CBS unit adopts a beta-alpha-beta-beta-alpha
+pattern  (see  <PDB:1ZFJ>)  [5].  Crystal  structure of the CBS domains of the
+AMP-activated  protein  kinase  in  complexes  with AMP and ATP shows that the
+phosphate  groups  of  AMP/ATP lie in a surface pocket at the interface of two
+CBS  domains, which is lined with basic residues, many of which are associated
+with disease-causing mutations [6].
+
+Some proteins known to contain a CBS domain:
+
+ - Cystathione beta-synthase (CBS) protein. CBS performs a crucial step in the
+   biosynthetic  pathway  of  cysteine by providing a regulatory control point
+   for S-adenosylmethionine.
+ - Mammalian  AMP-activated  protein  kinase  (AMPK)  gamma-subunit. AMPK is a
+   heterotrimer  of  three  different  subunits  (alpha, beta, and gamma) with
+   alpha  being  the  catalytic  subunit  and beta and gamma having regulatory
+   roles. AMPK is a serine/threonine protein kinase that has a central role in
+   controlling  whole-body  metabolism  in  response to nutrients and hormonal
+   signals.
+ - Inosine-5'-monophosphate   dehydrogenase   (IMPDH)   protein.  This  enzyme
+   catalyzes  the  first  committed  step  in  the purine nucleoside-synthesis
+   pathway for the generation of GMP.
+ - CLC  Chloride  Channel  family.  These  channels are voltage gated chloride
+   channels  that  sustain  a  wide  variety  of cellular functions, including
+   membrane  excitability,  synaptic communication, transepithelial transport,
+   cell  volume regulation, cell proliferation, and acidification of endosomes
+   and lysosomes.
+ - Glycine  betaine/carnitine/choline  transport  ATP-binding  protein. an ABC
+   transporter     involved     in     a    high    affinity    multicomponent
+   binding-protein-dependent  transport  system for glycine betaine, carnitine
+   and  choline;  probably  responsible  for  energy coupling to the transport
+   system.
+
+The profile we developed covers the entire CBS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Each pair of CBS motifs is also known as a Bateman domain [4].
+
+-Last update: February 2008 / First entry.
+
+[ 1] Bateman A.
+     "The structure of a domain common to archaebacteria and the
+     homocystinuria disease protein."
+     Trends Biochem. Sci. 22:12-13(1997).
+     PubMed=9020585
+[ 2] Ignoul S., Eggermont J.
+     "CBS domains: structure, function, and pathology in human proteins."
+     Am. J. Physiol. 289:C1369-C1378(2005).
+     PubMed=16275737; DOI=10.1152/ajpcell.00282.2005
+[ 3] Scott J.W., Hawley S.A., Green K.A., Anis M., Stewart G.,
+     Scullion G.A., Norman D.G., Hardie D.G.
+     "CBS domains form energy-sensing modules whose binding of adenosine
+     ligands is disrupted by disease mutations."
+     J. Clin. Invest. 113:274-284(2004).
+     PubMed=14722619; DOI=10.1172/JCI200419874
+[ 4] Kemp B.E.
+     "Bateman domains and adenosine derivatives form a binding contract."
+     J. Clin. Invest. 113:182-184(2004).
+     PubMed=14722609; DOI=10.1172/JCI200420846
+[ 5] Zhang R., Evans G., Rotella F.J., Westbrook E.M., Beno D.,
+     Huberman E., Joachimiak A., Collart F.R.
+     "Characteristics and crystal structure of bacterial
+     inosine-5'-monophosphate dehydrogenase."
+     Biochemistry 38:4691-4700(1999).
+     PubMed=10200156; DOI=10.1021/bi982858v
+[ 6] Xiao B., Heath R., Saiu P., Leiper F.C., Leone P., Jing C.,
+     Walker P.A., Haire L., Eccleston J.F., Davis C.T., Martin S.R.,
+     Carling D., Gamblin S.J.
+     "Structural basis for AMP binding to mammalian AMP-activated protein
+     kinase."
+     Nature 449:496-500(2007).
+     PubMed=17851531; DOI=10.1038/nature06161
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

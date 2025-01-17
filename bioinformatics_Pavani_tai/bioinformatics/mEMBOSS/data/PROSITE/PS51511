@@ -1,0 +1,69 @@
+**************************
+* FIP-RBD domain profile *
+**************************
+
+The Rab11 GTPase regulates recycling of internalized plasma membrane receptors
+and is  essential for completion of cytokinesis. A family of Rab11 interacting
+proteins (FIPs)   that   conserve   a   C-terminal  Rab-binding  domain  (RBD)
+selectively recognize  the  active form of Rab11. FIPs are diverse in sequence
+length and  composition  toward  their  N-termini,  presumably  a feature that
+underpins their  specific  roles  in  Rab11-mediated vesicle trafficking. They
+have been  divided  into three subfamilies (classe I, II, and III)on the basis
+of domain  architecture.  Class I FIPs comprises a subfamily of three proteins
+(Rip11/pp75/FIP5, Rab-coupling  protein  (RCP),  and  FIP2) that possess an N-
+terminal C2  domain  (see  <PDOC00380>),  localize to recycling endosomes, and
+regulate plasma  membrane  recycling.  The  class II subfamily consists of two
+proteins (FIP3/eferin/arfophilin   and   FIP4)   with  tandem  EF  hands  (see
+<PDOC00018>) and  a  proline-rich  region. Class II FIPs localize to recycling
+endosomes, the trans-Golgi network, and have been implicated in the regulation
+of membrane  trafficking  during cytokinesis. The class III subfamily consists
+of a  single protein, FIP1, which does not contain obvious homology domains or
+motifs other than the FIP-RBD [1,2,3,4].
+
+The FIB-RBD  domain  consists of an N-terminal long alpha-helix, followed by a
+90° bend  at a conserved proline residue, a 3(10) helix and a C-terminal short
+beta-strand, adopting  an  "L"  shape  (see  <PDB:2D7C>). The long alpha-helix
+forms a  parallel  coiled-coil homodimer that symmetrically interacts with two
+Rab11 molecules   on  both  sides,  forming  a  quaternary  Rab11-(FIP)2-Rab11
+complex. The Rab11-interacting region of FIP-RBD is confined to the C-terminal
+24 amino  acids,  which  cover the C-terminal half of the long alpha-helix and
+the short beta-strand [1,2,3,4].
+
+The profile we developed covers the entire FIP-RBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2010 / First entry.
+
+[ 1] Jagoe W.N., Lindsay A.J., Read R.J., McCoy A.J., McCaffrey M.W.,
+     Khan A.R.
+     "Crystal structure of rab11 in complex with rab11 family interacting
+     protein 2."
+     Structure 14:1273-1283(2006).
+     PubMed=16905101; DOI=10.1016/j.str.2006.06.010
+[ 2] Eathiraj S., Mishra A., Prekeris R., Lambright D.G.
+     "Structural basis for Rab11-mediated recruitment of FIP3 to recycling
+     endosomes."
+     J. Mol. Biol. 364:121-135(2006).
+     PubMed=17007872; DOI=10.1016/j.jmb.2006.08.064
+[ 3] Shiba T., Koga H., Shin H.-W., Kawasaki M., Kato R., Nakayama K.,
+     Wakatsuki S.
+     "Structural basis for Rab11-dependent membrane recruitment of a family
+     of Rab11-interacting protein 3 (FIP3)/Arfophilin-1."
+     Proc. Natl. Acad. Sci. U.S.A. 103:15416-15421(2006).
+     PubMed=17030804; DOI=10.1073/pnas.0605357103
+[ 4] Wei J., Liu Y., Bose K., Henry G.D., Baleja J.D.
+     "Disorder and structure in the Rab11 binding domain of Rab11 family
+     interacting protein 2."
+     Biochemistry 48:549-557(2009).
+     PubMed=19119858; DOI=10.1021/bi8020197
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

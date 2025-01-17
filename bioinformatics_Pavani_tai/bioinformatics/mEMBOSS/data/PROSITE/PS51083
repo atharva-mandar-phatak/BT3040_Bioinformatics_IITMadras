@@ -1,0 +1,56 @@
+********************************
+* Zinc finger HIT-type profile *
+********************************
+
+The HIT-type zinc finger contains 7 conserved cysteines and one histidine that
+can  potentially  coordinate two zinc atoms. It has been named after the first
+protein  that  originally  defined the domain: the yeast HIT1 protein [1]. The
+HIT-type zinc finger displays some sequence similarities to the MYND-type zinc
+finger  (see  <PDOC50865>).  The  function of this domain is unknown but it is
+mainly  found  in  nuclear  proteins involved in gene regulation and chromatin
+remodeling.
+
+Some proteins known to contain a HIT-type zinc finger are listed below:
+
+ - Mammalian  thyroid hormone receptors interacting protein 3 (Trip3). It also
+   interacts  with  the  retinoid X receptor and activates the transcriptional
+   factor HNF-4alpha [2].
+ - Mammalian FON protein.
+ - Yeast HIT1 protein. It is required for high temperature growth.
+ - Yeast VPS71 protein. It is a component  of the chromatin remodeling complex
+   Swr1,  which catalyzes the exchange of histone H2A to histone variant H2AZ.
+   This step has an important influence on gene expression [3].
+
+The profile we developed covers the whole HIT-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2005 / First entry.
+
+[ 1] Kawakami K., Shafer B.K., Garfinkel D.J., Strathern J.N., Nakamura Y.
+     "Ty element-induced temperature-sensitive mutations of Saccharomyces
+     cerevisiae."
+     Genetics 131:821-832(1992).
+     PubMed=1325386
+[ 2] Iwahashi H., Yamagata K., Yoshiuchi I., Terasaki J., Yang Q.,
+     Fukui K., Ihara A., Zhu Q., Asakura T., Cao Y., Imagawa A., Namba M.,
+     Hanafusa T., Miyagawa J., Matsuzawa Y.
+     "Thyroid hormone receptor interacting protein 3 (trip3) is a novel
+     coactivator of hepatocyte nuclear factor-4alpha."
+     Diabetes 51:910-914(2002).
+     PubMed=11916906
+[ 3] Mizuguchi G., Shen X., Landry J., Wu W.H., Sen S., Wu C.
+     "ATP-driven exchange of histone H2AZ variant catalyzed by SWR1
+     chromatin remodeling complex."
+     Science 303:343-348(2004).
+     PubMed=14645854; DOI=10.1126/science.1090701
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

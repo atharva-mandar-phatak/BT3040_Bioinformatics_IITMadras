@@ -1,0 +1,27 @@
+INTERLEUKIN4
+Cytokines are protein messengers that carry information from cell to cell
+[1]. Interleukin is one such molecule, and participates in several B-cell 
+activation processes: e.g., it enhances production and secretion of IgG1
+and IgE [2]; it induces expression of class II major histocompatability 
+complex (MHC) molecules on resting B-cells; and it regulates expression of
+the low affinity Fc receptor for IgE on lymphocytes and monocytes.
+
+Interleukin-4 (IL4) has a compact, globular fold (similar to other
+cytokines), stabilised by 3 disulphide bonds [3]. One half of the structure
+is dominated by a 4 alpha-helix bundle with a left-handed twist [4]: the
+helices are anti-parallel, with 2 overhand connections, which fall into a
+2-stranded anti-parallel beta-sheet [4]. 
+
+INTERLEUKIN4 is a 5-element fingerprint that provides a signature for the
+interleukin-4 cytokines. The fingerprint was derived from an initial 
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motifs 1, 3 and 5 encode
+the first, second and fourth helices respectively; and motifs 2 and 4 span
+the 2 beta strands (motifs 1 and 2 include part of the region encoded by
+PROSITE pattern INTERLEUKIN_4_13 (PS00838), the conserved Cys of which
+is involved in disulphide bond formation). Two iterations on OWL26.3 were
+required to reach convergence, at which point a true set comprising 14 
+sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 1
+partial match.

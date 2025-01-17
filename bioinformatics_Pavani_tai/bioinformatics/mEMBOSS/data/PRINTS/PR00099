@@ -1,0 +1,27 @@
+CPSGATASE
+The conversion of glutamine to glutamate is the initial step in the
+pyrimidine biosynthetic pathway. In the reaction, glutamine amidotransferase
+transfers the amide nitrogen of glutamine to a second enzyme, carbamoyl-
+phosphate synthase (CPSase), which then synthesises carbamoyl phosphate.
+This function has been detected in some other enzymes, including p-amino- 
+benzoate and anthranilate synthase component II, all of which show sequence
+similarity in the area thought to contain the glutamine amidotransferase 
+(GATase) activity. The active site contains a conserved Cys residue, which 
+is necessary for catalytic activity, and several conserved residues in the 
+areas surrounding this Cys have also been found to be important.
+
+CPSGATASE is a 5-element fingerprint that provides a signature for the 
+carbamoyl-phosphate synthase GATase domain. The fingerprint was derived 
+from an initial alignment of 5 sequences: motif 2 is highly conserved in
+all proteins with glutamine amidotransferase activity, and motif 3 contains
+the catalytically essential Cys residue (cf. PROSITE pattern GATASE_TYPE_I
+(PS00442)). Two iterations on OWL15.1 were required to reach convergence,
+at which point a true set comprising 12 sequences was identified. Twenty
+partial matches were also found, including a subfamily of anthranilate
+synthase component II proteins and glutamine amidotransferase fragments.
+Motifs 2 and 3 appear to discriminate for glutamine amidotransferase
+activity in general, while motifs 1, 4 and 5 discriminate for enzymes
+involved in arginine- and pyrimidine-specific carbamoyl-phosphate
+biosynthetic pathways.
+
+An update on SPTR37_9f identified a true set of 46 sequences.

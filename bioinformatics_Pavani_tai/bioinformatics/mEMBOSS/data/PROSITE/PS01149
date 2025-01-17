@@ -1,0 +1,49 @@
+**************************************************
+* Rsu family of pseudouridine synthase signature *
+**************************************************
+
+The following  bacterial  proteins,  which  seems  to  belong  to  a family of
+pseudouridine synthases  (EC 5.4.99.-) [1] have been shown to share regions of
+similarities:
+
+ - Escherichia   coli  and  Haemophilus  influenzae  16S  pseudouridylate  516
+   synthase (EC  5.4.99.-)  (gene:  rsuA).  This enzyme is responsible for the
+   formation of pseudouridine from uracil-516 in 16S ribosomal RNA.
+ - Escherichia coli and Haemophilus influenzae ribosomal large subunit
+   pseudouridine synthase B (rluB).
+ - Bacillus subtilis ribosomal large subunit pseudouridine synthase B (rluB).
+ - Escherichia coli ribosomal large subunit pseudouridine synthase F (rluF).
+ - Escherichia coli and Haemophilus influenzae ribosomal large subunit
+   pseudouridine synthase E (rluE).
+ - Aquifex aeolicus hypothetical protein AQ_554.
+ - Aquifex aeolicus hypothetical protein AQ_1464.
+ - Bacillus subtilis hypothetical protein ytzF.
+ - Borrelia burgdorferi hypothetical protein BB0129.
+ - Helicobacter pylori hypothetical protein HP1459.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0361.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0612.
+
+These are    proteins  of from 25 to 40 Kd which contain a number of conserved
+regions in their central section. They can be picked up in the database by the
+following highly conserved pattern.
+
+-Consensus pattern: G-R-L-D-x(2)-[STA]-x-G-[LIVFA]-[LIVMF](3)-[ST]-[DNST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2005 / Text revised.
+
+[ 1] Wrzesinski J., Bakin A., Nurse K., Lane B.G., Ofengand J.
+     "Purification, cloning, and properties of the 16S RNA pseudouridine
+     516 synthase from Escherichia coli."
+     Biochemistry 34:8904-8913(1995).
+     PubMed=7612632
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

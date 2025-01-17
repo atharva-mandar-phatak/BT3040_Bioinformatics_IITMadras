@@ -1,0 +1,26 @@
+PERIPHERNRDS
+The outer segments of vertebrate rod photoreceptor cells are specialised 
+organelles that function in the transduction of light into electrical
+signals as part of the visual excitation process [1]. These organelles
+contain thousands of closely-stacked disk membranes, which have distinctly
+different protein compositions in their lamellar and rim regions [1]: the
+lamellae are host to the visual receptors, while peripherin and a similar
+protein, Rom1, which span the membrane 4 times, are localised in the rims
+[1]. Although the function of these proteins is unknown, they may play a
+part in disk biogenesis, possibly anchoring the disk to the cytoskeleton
+of the rod cell [1,2]. Deletion mutations cause serious visual disorders,
+including autosomal dominant retinitis pigmentosa, autosomal dominant
+punctata albescens and butterfly macular degeneration [1].
+
+PERIPHERNRDS is a 6-element fingerprint that provides a signature for the
+RDS/ROM1 peripherin family. The fingerprint was derived from an initial 
+alignment of 4 sequences: motifs 1-3 and 6 span the 4 transmembrane (TM)
+regions; and motifs 4 and 5 correspond to highly-conserved regions in
+the hydrophilic loop between TM domains 3 and 4 - motif 5 includes the
+region encoded by PROSITE pattern RDS_ROM1 (PS00930), which contains 3
+of 7 totally conserved cysteines. Two iterations on OWL23.2 were
+required to reach convergence, at which point a true set comprising 7
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 3
+partial matches.

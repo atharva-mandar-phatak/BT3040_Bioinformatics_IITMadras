@@ -1,0 +1,33 @@
+FIMBRIALPAPF
+The Gram-negative pathogen Escherichia coli causes several common bacterial 
+illnesses in humans, including diarrhoea, neonatal meningitidis and urinary 
+tract infections. Attachment to host tissues is essential for successful 
+invasion, and requires interaction between a bacterial adhesive protein and 
+its target receptor. This protein is usually supported on a larger structure 
+made up of heteropolymeric fibres [1]. Pyelonephritogenic E.coli
+specifically invade the uroepithelium by expressing 100-300 pili on their
+cell surface. Pili are macromolecular structures that allow binding to a
+digalactoside receptor in the urinary tract. 
+
+P pili, or fimbriae, are ~68A in diameter and 1 micron in length, the
+bulk of which is a fibre composed of the main structural protein PapA [1].
+At its tip, the pilus is terminated by a fibrillum consisting of repeating
+units of the PapE protein. This, in turn, is topped by the adhesins, PapF
+and PapG, both of which are needed for receptor binding. The tip fibrillum
+is anchored to the main PapA fibre by the PapK pilus-adaptor protein. PapH,
+an outer membrane protein, then anchors the entire rod in the bacterial
+envelope [2]. A cytoplasmic chaperone (PapD) assists in assembling the 
+monomers of the macromolecule in the membrane [3]. 
+
+PapF, in addition to aiding in the virulence and binding of uropathogenic 
+E.coli, also functions as an adapter protein that joins the distal end of 
+the tip fibrillum to the main PapG adherence factor. By providing a 
+complementary binding surface for PapE and PapG, pilus assembly is rapidly
+completed [4]. 
+
+FIMBRIALPAPF is an 8-element fingerprint that provides a signature for the
+Escherichia coli P pili tip fibrillum PapF protein family. The fingerprint 
+was derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length. A single
+iteration on SPTR40_18f was required to reach convergence, no further 
+sequences being identified beyond the starting set. 

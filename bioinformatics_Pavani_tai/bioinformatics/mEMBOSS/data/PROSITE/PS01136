@@ -1,0 +1,50 @@
+****************************************************
+* Uncharacterized protein family UPF0034 signature *
+****************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Escherichia  coli  hypothetical  protein yhdG and HI0979, the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia  coli  hypothetical  protein yjbN and HI0634, the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia  coli  hypothetical  protein yohI and HI0270, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein yacF.
+ - Rhodobacter  capsulatus  protein nifR3 and related proteins in Azospirillum
+   brasilense and Rhizobium leguminosarum.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0644.
+ - Synechocystis strain PCC 6803 hypothetical protein sll0926.
+ - Caenorhabditis elegans hypothetical protein C45G9.2.
+ - Yeast protein SMM1.
+ - Yeast hypothetical protein YLR401c.
+ - Yeast hypothetical protein YLR405w.
+ - Yeast hypothetical protein YML080w.
+
+Although it  has  been  proposed  [2]  that  Rhodobacter capsulatus nifR3 is a
+transcriptional regulatory  protein, we believe that these proteins constitute
+a family of enzymes whose active site could include a conserved cysteine which
+we have used as the central part of a signature pattern.
+
+-Consensus pattern: [LIVM]-[DNG]-[LIVMF]-N-x-G-C-[PS]-x(3,4)-[LIVMASQ]-x(5,6)-
+                    G-[SACY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for a Azotobacter vinelandii yohI ortholog.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bairoch A., Rudd K.E.
+     Unpublished observations (1995).
+[ 2] Foster-Hartnett D., Cullen P.J., Gabbert K.K., Kranz R.G.
+     Mol. Microbiol. 8:903-914(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

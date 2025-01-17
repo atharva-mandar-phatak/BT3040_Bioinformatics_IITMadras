@@ -1,0 +1,32 @@
+LYSISCOLICIN
+The DNA sequence of the entire colicin E2 operon has been determined [1].
+The operon comprises the colicin activity gene (ceaB), the colicin immunity
+gene (ceiB) and the lysis gene (celB), which is essential for colicin
+release from producing cells [1]. A putative LexA binding site is located
+upstream from ceaB, and a rho-independent terminator structure is located
+downstream from celB [1]. Comparison of the amino acid sequences of colicin
+E2 and cloacin DF13 reveal extensive similarity. These colicins have
+different modes of action and recognise different cell surface receptors;
+the two major regions of heterology at the C-terminus, and in the C-terminal
+end of the central region are thought to correspond to the catalytic and 
+receptor-recognition domains, respectively [1]. 
+
+Sequence similarities between colicins E2, A and E1 [2] are less striking.
+The colicin E2 (pyocin) immunity protein does not share similarity with
+either the colicin E3 or cloacin DF13 [3] immunity proteins. By contrast,
+the lysis proteins of the ColE2, ColE1 and CloDF13 plasmids are almost
+identical except in the N-terminal regions, which themselves are similar to
+lipoprotein signal peptides [1]. Processing of the ColE2 prolysis protein
+to the mature form is prevented by globomycin, a specific inhibitor of the
+lipoprotein signal peptidase [1]. The mature ColE2 lysis protein is located
+in the cell envelope [1].
+
+LYSISCOLICIN is a 3-element fingerprint that provides a signature for 
+colcin lysis proteins. The fingerprint was derived from an initial alignment
+of 12 sequences: the motifs were drawn from conserved regions spanning the
+full alignment length - motif lies within the putative signal sequence; and
+motifs 2 and 3 span the rest of the polypeptide chain. Two iterations on
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 17 sequences was identified. A single partial match was also
+found, O24683, a colicin U lytic protein from Shigella boydii that fails
+to match motif 1.

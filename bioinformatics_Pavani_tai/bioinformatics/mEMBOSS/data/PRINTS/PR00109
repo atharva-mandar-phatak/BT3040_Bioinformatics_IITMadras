@@ -1,0 +1,48 @@
+TYRKINASE
+Protein kinases comprise a large family of enzymes that mediate the 
+response of eukaryotic cells to external stimuli by phosphorylation of 
+hydroxyamino acids. The enzymes fall into 2 broad classes, characterised 
+with respect to substrate specificity: serine/threonine (S/T) specific and 
+tyrosine specific. Tyrosine phosphorylating activity was originally 
+detected in 2 viral transforming proteins [2], but many retroviral 
+transforming proteins and their cellular counterparts have since been 
+shown to possess such activity. The growth factor receptors, which are
+activated by ligand binding, are also family members. 
+
+The size of the catalytic domain of these enzymes varies from 250 to 300 
+amino acid residues. Its location is not fixed within the protein: in most 
+enzymes it lies towards the C-terminus, the N-terminus being devoted to a 
+regulatory role. The catalytic domains are not conserved uniformly, but
+consist of alternating regions of high and low conservation. Eleven
+major conserved subdomains are evident [1]: these must be important for 
+catalytic function, either directly as components of the active site, or 
+indirectly by contributing to the formation of the active site through 
+constraints imposed on secondary structure. The non-conserved regions are 
+likely to occur in loop structures, where folding allows the essential 
+conserved regions to come together. The central core of the catalytic 
+domain, the region with the greatest frequency of highly conserved 
+residues, is found in subdomains VI to IX. The invariant or nearly 
+invariant residues in subdomain VI (Asp 166 and Asn 171) and subdomain VII 
+(Asp 184, Phe 185 and Gly 186) have all been implicated in ATP binding.
+
+Subdomains VI and VIII are of interest in that they contain residues that 
+are specifically conserved in either the S/T or the tyrosine kinases, and 
+may play a role in recognition of the correct hydroxyamino acid. The most 
+striking indicator of amino acid specificity is found in subdomain VI. The 
+consensus DLRAAN or DLAARN found in this region is a strong indicator of 
+tyrosine specificity, whereas the consensus DLKPEN is a strong indicator of
+S/T specificity. Similarly, in subdomain VIII is found the well conserved
+tyrosine-specific consensus PI/VK/RWT/MAPE, or the more poorly conserved 
+S/T-specific consensus GT/SXXY/FXAPE.
+
+TYRKINASE is a 5-element fingerprint that provides a signature for the 
+catalytic domain of tyrosine kinases, distinguishing it from that of S/T 
+kinases. The fingerprint was derived from an initial alignment of 7 
+sequences (after Hanks et al. [1]): the motifs correspond to subdomains V,
+VI, VIII, IX (cf. PROSITE pattern PROTEIN_KINASE_TYR (PS00109)) and XI
+respectively [1]. Three iterations on OWL11.1 were required to reach
+convergence, at which point a true set comprising 146 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 291 sequences, and 220
+partial matches.

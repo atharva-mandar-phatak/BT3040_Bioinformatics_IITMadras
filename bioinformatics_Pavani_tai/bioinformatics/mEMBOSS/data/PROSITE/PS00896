@@ -1,0 +1,50 @@
+**************************************************
+* LacY family proton/sugar symporters signatures *
+**************************************************
+
+In bacteria there are a number of families  of transport proteins that mediate
+the intake  of a variety of  sugars  with the  concomitant  uptake of hydrogen
+ions (proton  symporters) [1].  One of these families  is  composed [2] of the
+following proteins:
+
+ - Escherichia  coli  and  Klebsiella  pneumoniae lactose permease (gene lacY)
+   which are responsible for the transport of beta-galactosides into the cell.
+ - Escherichia coli plasmid pRsd2 raffinose permease (gene rafB).
+ - Escherichia coli sucrose permease (gene cscB).
+
+These integral membrane proteins  are  predicted  to  comprise twelve membrane
+spanning domains.  As  signature  patterns  we selected  two conserved regions
+that both    correspond  to cytoplasmic loops:  between  the  second and third
+transmembrane regions  for  the  first pattern and between the eight and ninth
+for the second pattern.
+
+-Consensus pattern: G-[LIVM](2)-x-D-[RK]-L-G-L-[RK](2)-x-[LIVM](2)-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-x-[LIVMF](2)-N-R-[LIVM]-G-x-K-N-[STA]-[LIVM](3)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 1993 / First entry.
+
+[ 1] Marger M.D., Saier M.H. Jr.
+     "A major superfamily of transmembrane facilitators that catalyse
+     uniport, symport and antiport."
+     Trends Biochem. Sci. 18:13-20(1993).
+     PubMed=8438231
+[ 2] Bockmann J., Heuel H., Lengeler J.W.
+     "Characterization of a chromosomally encoded, non-PTS metabolic
+     pathway for sucrose utilization in Escherichia coli EC3132."
+     Mol. Gen. Genet. 235:22-32(1992).
+     PubMed=1435727
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

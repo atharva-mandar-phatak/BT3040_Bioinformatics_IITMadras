@@ -1,0 +1,43 @@
+NUCDPKINASE
+Nucleoside diphosphate kinase (NDK) is a required enzyme for synthesis of
+nucleoside triphosphates (NTP) other than ATP. The enzyme acts via a
+ping-pong mechanism in which a histidine residue is phosphorylated, by
+transfer of the terminal phosphate group from ATP. In the presence of
+magnesium, the phosphoenzyme can transfer its phosphate group to any NDP,
+to produce an NTP. The enzyme thus furnishes NTPs for nucleic acid synthesis,
+CTP for lipid synthesis, UTP for polysaccharide synthesis and GTP for
+protein elongation, signal transduction and microtubule polymerisation.
+
+In eukaryotes, NDK belongs to a family of isozymes, each of which acts in 
+a different subcellular compartment and/or has a distinct biological
+function. The isozymes form hexamers of related chains, designated A and B
+[1]. Different associations of these chains (e.g., A6, A5B...AB5, B6)
+result in isoenzymes with different isoelectric points.
+
+NDK isozymes have been sequenced from both prokaryotic and eukaryotic 
+sources. Drosophila abnormal wing disc protein has been shown to be a  
+microtubule-associated NDK [2]. Mammalian NDK is also known as metastasis 
+inhibition factor nm23. NDKs are highly conserved 17kDa proteins. Each
+contains a single conserved histidine residue that participates in the
+catalytic mechanism [2].
+
+The X-ray structure of NDK from Dictyostelium discoideum has been determined
+to 2.2A resolution [3]. The enzyme is a hexamer of identical subunits, with
+a novel mononucleotide binding fold [3]. Each subunit contains an alpha/beta
+domain with a four-stranded, anti-parallel beta-sheet. The topology differs
+from that of adenylate kinase, but is identical to the allosteric domain of
+Escherichia coli ATCase regulatory subunits, which bind mononucleotides at
+an equivalent position [3]. Dimer contacts between NDK subunits within the 
+hexamer are similar to those in ATCase. 
+
+NUCDPKINASE is a 5-element fingerprint that provides a signature for 
+nucleoside diphosphate kinases. The fingerprint was derived from an 
+initial alignment of 11 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 spans the first beta-
+strand and the first two alpha-helices; motif 2 spans helices 4 and 5; motif
+3 encodes strand 3 and the N-terminal portion of helix 6; motif 4 spans
+helices 7 and 8; and motif 5 spans strand 4 and helix 9. Two iterations on
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 62 sequences was identified. Several partial matches were also
+found, all of which are related nucleoside diphosphate kinases that fail
+to match one or more motifs.

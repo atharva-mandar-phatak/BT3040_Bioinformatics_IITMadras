@@ -1,0 +1,70 @@
+***************************************
+* T-box domain signatures and profile *
+***************************************
+
+A number  of  eukaryotic DNA-binding proteins contain a domain of about 170 to
+190 amino acids known as the T-box domain [1,2,3] and which probably binds DNA.
+The T-box  has  first  been  found  in the mice T locus (Brachyury) protein, a
+transcription factor involved in mesoderm differentiation. It  has  since been
+found in the following proteins:
+
+ - Vertebrate and invertebrate homologs of the T protein.
+ - Mammalian proteins TBX1 to TBX20.
+ - Mammalian protein TBR1 which is expressed specifically in brain.
+ - Mammalian and Xenopus laevis eomesodermin (eomes or TBR2).
+ - Xenopus laevis Vegt (or Antipodean), a transcription factor that activates
+   the expression of wnt-8, eomes and Brachyury.
+ - Chicken TbxT.
+ - Drosophila protein optomotor-blind (omb).
+ - Drosophila  protein  brachyenteron  (byn)  (also  known  as  Trg), which is
+   required for the specification of the hindgut and anal pads.
+ - Drosophila protein H15.
+ - Caenorhabditis elegans proteins tbx-1 to tbx-40.
+
+As signature patterns for the T-domain, we selected two conserved regions. The
+first region corresponds to the N-terminal of the domain and the second one to
+the central part. A profile that spans the complete domain was also developed.
+
+-Consensus pattern: [LQI]-W-x(2)-[FCL]-x(3,4)-[NT]-E-[MQ]-[LIVNM]-[LIV]-[TLF]-
+                    x(2)-[GR]-[RG]-[KRQM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for C.elegans tbx-35.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFYWE]-H-[PADHL]-[DENQRS]-[GSE]-x(3)-G-x(2)-[WL]-[ML]-
+                    x(3)-[IVA]-x-F
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for C.elegans tbx-12, ZK177.10 and Drosophila H15.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Bollag R.J., Siegfried Z., Cebra-Thomas J.A., Garvey N., Davison E.M.,
+     Silver L.M.
+     "An ancient family of embryonically expressed mouse genes sharing a
+     conserved protein motif with the T locus."
+     Nat. Genet. 7:383-389(1994).
+     PubMed=7920656; DOI=10.1038/ng0794-383
+[ 2] Agulnik S.I., Garvey N., Hancock S., Ruvinsky I., Chapman D.L.,
+     Agulnik I., Bollag R., Papaioannou V., Silver L.M.
+     "Evolution of mouse T-box genes by tandem duplication and cluster
+     dispersion."
+     Genetics 144:249-254(1996).
+     PubMed=8878690
+[ 3] Papaioannou V.E.
+     "T-box family reunion."
+     Trends Genet. 13:212-213(1997).
+     PubMed=9196325
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,52 @@
+************************
+* ROK family signature *
+************************
+
+A family   of   bacterial   proteins  has  been  described  [1]  which  groups
+transcriptional repressors, sugar kinases and yet uncharacterized open reading
+frames. This  family,  known as ROK (Repressor, ORF, Kinase) currently consist
+of:
+
+ - Xylose  operon  repressor  (gene  xylR) in Bacillus subtilis, Lactobacillus
+   pentosus and Staphylococcus xylosus.
+ - N-acetylglucosamine repressor (gene nagC) from Escherichia coli.
+ - Glucokinase (EC 2.7.1.2) (gene glk) from Streptomyces coelicolor.
+ - Fructokinase (EC 2.7.1.4) (gene scrK or frk)  from Pediococcus pentosaceus,
+   Streptococcus mutans and Zymomonas mobilis.
+ - Escherichia coli allokinase (EC 2.7.1.55) (gene alsK).
+ - Escherichia protein mlc.
+ - Hypothetical Escherichia coli protein yajF  and HI0182,  the  corresponding
+   Haemophilus influenzae protein.
+ - Hypothetical Escherichia coli protein yhcI  and HI0144,  the  corresponding
+   Haemophilus influenzae protein.
+ - A hypothetical protein in nagH 5'region from Clostridium perfringens.
+
+The repressor proteins (xylR and nagC) from  this  family possess a N-terminal
+region not present in the sugar kinases and which contains an helix-turn-helix
+DNA-binding motif. The domain common to all  these  proteins consists of about
+300 residues.  It  is  not  highly  conserved,  but  we could define a pattern
+centered on a glycine-rich region in the central part of the domain.
+
+-Consensus pattern: [LIVM]-x(2)-G-[LIVMFCT]-G-x-[GA]-[LIVMFA]-x(3)-{V}-x(4)-G-
+                    x(3,5)-[GATP]-{G}-x-G-[RKH]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for mlc.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Titgemeyer F., Reizer J., Reizer A., Saier M.H. Jr.
+     "Evolutionary relationships between sugar kinases and transcriptional
+     repressors in bacteria."
+     Microbiology 140:2349-2354(1994).
+     PubMed=7952186
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

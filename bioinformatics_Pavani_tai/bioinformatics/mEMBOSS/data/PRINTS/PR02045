@@ -1,0 +1,20 @@
+F138DOMAIN
+A number of genes are expressed exclusively in the retina, where they appear
+to control the specialised functions of various different cell types [1].
+One of these retinal genes (termed FAM138A/B/C/F) is found within a 
+region of subtelomeric DNA and exhibits polymorphic distribution among
+multiple chromosomes [1]. This gene encodes a putative 85-amino acid 
+polypeptide (F379) that shares a high level of similarity with the retinal
+protein FAM138D; both also include a well-conserved N-terminal domain
+that is shared by a wide range of proteins, including podocalyxin-like
+protein 1, proto-oncogene c-Rel, suppressor of G2 allele of SKP1 homologue,
+and ubiquitin carboxyl-terminal hydrolase 19.
+
+F138DOMAIN is a 3-element fingerprint that provides a signature for the
+FAM138 N-terminal domain. The fingerprint was derived from an initial
+alignment of 17 sequences: the motifs were drawn from conserved regions
+spanning the complete domain. Five iterations on SPTR57.15_40.15f were
+required to reach convergence, at which point a true set comprising 117
+sequences was identified. Numerous partial matches were also found, all
+of which appear to be homologues that fail to make significant matches with
+one of the motifs. 

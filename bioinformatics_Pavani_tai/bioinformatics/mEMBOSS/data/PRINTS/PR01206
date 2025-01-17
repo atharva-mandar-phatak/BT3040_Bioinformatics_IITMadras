@@ -1,0 +1,44 @@
+ORPHTRNSPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane (TM) helices and 
+includes carriers for gamma-aminobutyric acid (GABA), noradrenaline/
+adrenaline, dopamine, serotonin, proline, glycine, choline, betaine and 
+taurine. They are structurally distinct from the second more-restricted
+family of plasma membrane transporters, which are responsible for excitatory
+amino acid tranport. The latter couple glutamate and aspartate uptake to the
+co-transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5]. The latter is an expanding group of putative
+transporters that have been cloned, but as yet have uncharacterised
+substrate(s) for transport. They include NTT4 and NTT73, which were cloned
+from rat brain tissues [6], and a family of alternatively-spliced variants
+from kidney [7]. Sequence analysis strongly suggests that these indeed are
+Na+ and Cl- -coupled cell membrane transporters, since they show significant
+identity, and similar predicted topology, to the functionally-characterised
+members of this superfamily.
+
+ORPHTRNSPORT is a 3-element fingerprint that provides a signature for
+orphan neurotransmitter transporters. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions from the central portion of the alignment, focusing on those
+sections that characterise orphan neurotransmitter transporters but
+distinguish them from others - motifs 1-2 lie within the large putative
+extracellular loop located between TM domains 3 and 4; and motif 3 resides
+within the putative extracellular loop between TM domains 7 and 8. Two
+iterations on SPTR37_9f were required to reach convergence, at which point
+a true set comprising 10 sequences was identifed. Amonst these matches is
+a renal organic solute transporter from rat.

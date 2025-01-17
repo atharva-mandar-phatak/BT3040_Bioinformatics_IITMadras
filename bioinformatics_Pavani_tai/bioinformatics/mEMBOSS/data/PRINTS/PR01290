@@ -1,0 +1,58 @@
+PROXISOMPABR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+Peroxisome proliferator-activated receptors (PPAR) are ligand-activated
+transcription factors that belong to the nuclear hormone receptor 
+superfamily. Three cDNAs encoding PPARs have been isolated from Xenopus
+laevis: xPPAR alpha, beta and gamma [4]. All three xPPARs appear to be
+activated by both synthetic peroxisome proliferators and naturally occurring
+fatty acids, suggesting a common mode of action for all members of this 
+subfamily of receptors [4]. Furthermore, the multiplicity of the receptors
+suggests the existence of hitherto unknown cellular signalling pathways for
+xenobiotics and putative endogenous ligands [5]. 
+
+A PPAR alpha-related cDNA from mouse (designated PPAR delta, and
+subsequently renamed beta) has been cloned and characterised. The alpha, 
+beta and gamma PPAR isoforms display widely divergent patterns of expression
+during embryogenesis and in the adult [6]. PPAR gamma and beta are not 
+activated by pirinixic acid, a potent peroxisome proliferator and activator
+of PPAR alpha [6]; they are, however, activated by the structurally distinct
+peroxisome proliferator LY-171883 and linoleic acid, respectively, 
+indicating that each isoform can act as a regulated activator of
+transcription [6]. Thus tissue-specific responsiveness to peroxisome
+proliferators, including certain fatty acids, may be partly a consequence
+of differential expression of multiple, pharmacologically distinct PPAR
+isoforms [6]. 
+
+PROXISOMPABR is a 4-element fingerprint that provides a signature for 
+peroxisome proliferator-activated beta receptors. The fingerprint was 
+derived from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise the beta receptors but distinguish them
+from the rest of the PPAR family - motif 1 lies N-terminal to the zinc 
+finger domain; motifs 2 and 3 reside between the zinc fingers and the
+putative ligand-binding domain; and motif 4 lies within this latter domain.
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 4 sequences was identified. 

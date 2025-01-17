@@ -1,0 +1,112 @@
+********************************
+* Rrf2-type HTH domain profile *
+********************************
+
+The  rrf2-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about 130 residues present in transcription regulators of the rrf2
+family.  This  family  of  bacterial  regulators  is named after Desulfovibrio
+vulgaris    rrf2,    a   regulator   of   the   hmc   operon   which   encodes
+iron-sulfur-containing proteins as well as other proteins involved in electron
+transport [1,2]. Other rrf2-type HTH proteins are regulators of genes involved
+in nitrite or iron metabolism, or nitric oxide detoxification.
+
+The  N-terminal  part  of  the  domain  shows similarity to the iclR-type (see
+<PDOC00807>),   the   gntR-type  (see  <PDOC00042>)  and  marR-type  HTH  (see
+<PDOC00861>),  wherein the DNA-binding HTH motif is followed by a beta-hairpin
+which  is  called the wing. The C-terminal part of the rrf2-type HTH domain in
+most  cases  contains  3 conserved cysteine residues that may bind an [2Fe-2S]
+cluster,  like  in  iscR and nsrR [3-8]. The nsrR regulator, which contains an
+nitrogen-oxides-sensing  Fe-S  cluster  that  is  required for DNA binding, is
+implicated  in  denitrification and/or NO detoxification in diverse pathogenic
+and environmental bacteria.
+
+Some proteins known to contain a rrf2-type HTH domain:
+
+ - Desulfovibrio vulgaris protein rrf2, a repressor of the hmc operon encoding
+   a cytochrome redox complex for electron transport from hydrogen to sulfate.
+ - Escherichia  coli iscR (for iron-sulfur cluster regulator), a transcription
+   repressor   of  the  isc  operon  encoding  Fe-S  assembly  proteins.  IscR
+   reversibly  binds  a  [2Fe-2S]  cluster  and functions as an autoregulator.
+   Demetallated  iscR  (apo-iscR)  acts  as  an  activator under oxidative and
+   Fe-limited conditions.
+ - Nitrosomonas  europaea nsrR, a nitrite sensitive transcription repressor of
+   nitrite reductase, involved in detoxification of nitrite.
+ - Escherichia coli nsrR, a nitric oxide sensitive transcription regulator  of
+   genes  that  may protect the cell against NO-stress (NO is a damaging agent
+   of Fe-S clusters).
+ - Bacillus subtilis protein nsrR, a NO-responsive transcription regulator.
+ - Streptomyces  coelicolor  nsrR,  a  transcription  regulator  containing an
+   NO-sensitive [2Fe-2S] cluster that is required for DNA-binding.
+ - Rhizobium leguminosarum rirA (rhizobial iron regulator), an iron-responsive
+   regulator involved in Fe uptake.
+ - Bacillus subtilis protein yrzC.
+ - Mycobacterium tuberculosis protein Rv1287/MT1325.
+ - Synechocystis strain PCC 6803 protein slr0846.
+
+The  pattern we use to detect these proteins is located in the central part of
+these proteins and covers the stronger conserved region [2], 'the wing', which
+starts  directly C-terminal to the 'helix-turn-helix' motif of these proteins.
+We  also  developed a profile that covers the entire rrf2-type wHTH, including
+the C-terminal region which may bind an iron-sulfur cluster.
+
+-Consensus pattern: L-x(3)-[GRS]-[LIVY]-x(2)-[STA]-x(2)-G-x(2)-G-G-[FYIV]-x-
+                    [LIF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2009 / Text revised.
+
+[ 1] Keon R.G., Fu R., Voordouw G.
+     "Deletion of two downstream genes alters expression of the hmc operon
+     of Desulfovibrio vulgaris subsp. vulgaris Hildenborough."
+     Arch. Microbiol. 167:376-383(1997).
+     PubMed=9148780
+[ 2] Bairoch A.
+     Unpublished observations (1999).
+[ 3] Schwartz C.J., Giel J.L., Patschkowski T., Luther C., Ruzicka F.J.,
+     Beinert H., Kiley P.J.
+     "IscR, an Fe-S cluster-containing transcription factor, represses
+     expression of Escherichia coli genes encoding Fe-S cluster assembly
+     proteins."
+     Proc. Natl. Acad. Sci. U.S.A. 98:14895-14900(2001).
+     PubMed=11742080; DOI=10.1073/pnas.251550898
+[ 4] Beaumont H.J., Lens S.I., Reijnders W.N., Westerhoff H.V.,
+     van Spanning R.J.
+     "Expression of nitrite reductase in Nitrosomonas europaea involves
+     NsrR, a novel nitrite-sensitive transcription repressor."
+     Mol. Microbiol. 54:148-158(2004).
+     PubMed=15458412; DOI=10.1111/j.1365-2958.2004.04248.x
+[ 5] Rodionov D.A., Dubchak I.L., Arkin A.P., Alm E.J., Gelfand M.S.
+     "Dissimilatory metabolism of nitrogen oxides in bacteria: comparative
+     reconstruction of transcriptional networks."
+     PLoS Comput. Biol. 1:E55-E55(2005).
+     PubMed=16261196; DOI=10.1371/journal.pcbi.0010055
+[ 6] Bodenmiller D.M., Spiro S.
+     "The yjeB (nsrR) gene of Escherichia coli encodes a nitric
+     oxide-sensitive transcriptional regulator."
+     J. Bacteriol. 188:874-881(2006).
+     PubMed=16428390; DOI=10.1128/JB.188.3.874-881.2006
+[ 7] Tucker N.P., Hicks M.G., Clarke T.A., Crack J.C., Chandra G.,
+     Le Brun N.E., Dixon R., Hutchings M.I.
+     "The transcriptional repressor protein NsrR senses nitric oxide
+     directly via a [2Fe-2S] cluster."
+     PLoS ONE 3:E3623-E3623(2008).
+     PubMed=18989365; DOI=10.1371/journal.pone.0003623
+[ 8] Isabella V.M., Lapek J.D. Jr., Kennedy E.M., Clark V.L.
+     "Functional analysis of NsrR, a nitric oxide-sensing Rrf2 repressor in
+     Neisseria gonorrhoeae."
+     Mol. Microbiol. 71:227-239(2009).
+     PubMed=19007408; DOI=10.1111/j.1365-2958.2008.06522.x
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

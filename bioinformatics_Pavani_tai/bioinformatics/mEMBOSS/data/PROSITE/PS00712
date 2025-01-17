@@ -1,0 +1,47 @@
+************************************
+* Ribosomal protein S17e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Vertebrates S17 [1].
+ - Drosophila S17 [2].
+ - Neurospora crassa S17 (crp-3).
+ - Yeast S17a (RP51A) and S17b (RP51B) [3].
+ - Archaebacterial S17e.
+
+These proteins  have from 63 (in archebacteria) to 130 to 146 amino acids  and
+are highly conserved. As a signature, we selected a region in the central part
+of these proteins.
+
+-Consensus pattern: [IVDYPKS]-x-[ST]-K-x-[LIVMTF]-[RIKM]-N-x-[IV]-[SA]-G-[FY]-
+                    x-[TV]-[HKRA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Chen I.-T., Roufa D.J.
+     "The transcriptionally active human ribosomal protein S17 gene."
+     Gene 70:107-116(1988).
+     PubMed=3240863
+[ 2] Maki C., Rhoads D.D., Stewart M.J., Van Slyke B., Roufa D.J.
+     "The Drosophila melanogaster RPS17 gene encoding ribosomal protein
+     S17."
+     Gene 79:289-298(1989).
+     PubMed=2507396
+[ 3] Abovich N., Rosbash M.
+     "Two genes for ribosomal protein 51 of Saccharomyces cerevisiae
+     complement and contribute to the ribosomes."
+     Mol. Cell. Biol. 4:1871-1879(1984).
+     PubMed=6092944
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

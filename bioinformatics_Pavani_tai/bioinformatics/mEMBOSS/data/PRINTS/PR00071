@@ -1,0 +1,29 @@
+HMGCOARDTASE
+The reduction of hydroxymethylglutaryl-coenzyme A (HMG-CoA) to mevalonate 
+is the rate-limiting step of the cholesterol biosynthetic pathway, the steps
+of which are highly conserved [1] - the mevalonate produced is subsequently 
+used for production of cholesterol and other isoprenoid products [2]. The 
+reaction is regulated by feedback inhibition by sterols and non-sterol 
+metabolites derived from mevalonate [3], including cholesterol. HMG-CoA 
+reductase, which catalyses the reaction, is a glycoprotein that remains in 
+the endoplasmic reticulum after synthesis and glycosylation [1], held in 
+the membrane by an N-terminal region containing variable numbers of trans-
+membrane regions (2 in plants and 7 in mammals, insects and fungi) [4].
+
+Although little sequence similarity is found between the transmembrane
+domains of HMG-CoA reductases from different species, the C-terminal cata-
+lytic domain is well conserved. The structure of this region is predicted
+to consist of amphipathic helices flanking an extended beta-pleated sheet.
+
+HMGCOARDTASE is a 6-element fingerprint that provides a signature for the
+HMG-CoA reductases. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs surround the C-terminal active site, 3 and 6 
+including regions encoded by PROSITE patterns HMG_COA_REDUCTASE_1 (PS00066)
+and HMG_COA_REDUCTASE_2 (PS00318), the former located in the centre of the
+domain and the latter including the Gly-rich flanking region. Two
+iterations on OWL21.1 were required to reach convergence, at which point
+a true set comprising 22 sequences was identified. Three partial matches
+were also found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 4
+partial matches.

@@ -1,0 +1,80 @@
+********************************************
+* Glycosyl hydrolases family 31 signatures *
+********************************************
+
+It has been shown [1,2,3,E1] that the following glycosyl hydrolases can be, on
+the basis of sequence similarities, classified into a single family:
+
+ - Lysosomal alpha-glucosidase  (EC 3.2.1.20) (acid maltase)  is  a vertebrate
+   glycosidase active at low pH, which  hydrolyzes alpha(1->4) and alpha(1->6)
+   linkages in glycogen, maltose, and isomaltose.
+ - Alpha-glucosidase (EC 3.2.1.20) from the yeast Candida tsukunbaensis.
+ - Alpha-glucosidase   (EC   3.2.1.20)  (gene  malA)  from  the  archebacteria
+   Sulfolobus solfataricus.
+ - Intestinal sucrase-isomaltase  (EC 3.2.1.48 / EC 3.2.1.10) is  a vertebrate
+   membrane-bound, multifunctional  enzyme  complex  which hydrolyzes sucrose,
+   maltose and isomaltose.  The  sucrase  and isomaltase domains of the enzyme
+   are homologous (41% of amino acid identity)  and have most probably evolved
+   by duplication.
+ - Glucoamylase  1  (EC 3.2.1.3)  (glucan 1,4-alpha-glucosidase) from  various
+   fungal species.
+ - Yeast hypothetical protein YBR229c.
+ - Fission yeast hypothetical protein SpAC30D11.01c.
+
+An aspartic acid has been implicated [4] in the catalytic activity of sucrase,
+isomaltase,  and lysosomal alpha-glucosidase.  The  region around  this active
+residue is  highly  conserved and can be used as a signature pattern.  We have
+used a second region, which contains two conserved cysteines, as an additional
+signature pattern.
+
+-Consensus pattern: [GFY]-[LIVMF]-W-x-D-M-[NSA]-E
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for SpAC30D11.01c.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-[AVP]-[DT]-[LIVMTAS]-[CG]-G-[FY]-x(3)-[STP]-x(3)-L-[CL]-
+                    x-R-W-x(2)-[LVMI]-[GSA]-[SA]-[FY]-x-P-[FY]-x-R-[DNA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for YBR229c which lacks the two cysteines, rat sucrase-isomaltase and malA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 2] Kinsella B.T., Hogan S., Larkin A., Cantwell B.A.
+     "Primary structure and processing of the Candida tsukubaensis
+     alpha-glucosidase. Homology with the rabbit intestinal
+     sucrase-isomaltase complex and human lysosomal alpha-glucosidase."
+     Eur. J. Biochem. 202:657-664(1991).
+     PubMed=1761061
+[ 3] Naim H.Y., Niermann T., Kleinhans U., Hollenberg C.P., Strasser A.W.M.
+     "Striking structural and functional similarities suggest that
+     intestinal sucrase-isomaltase, human lysosomal alpha-glucosidase and
+     Schwanniomyces occidentalis glucoamylase are derived from a common
+     ancestral gene."
+     FEBS Lett. 294:109-112(1991).
+     PubMed=1743281
+[ 4] Hermans M.M.P., Kroos M.A., van Beeumen J., Oostra B.A., Reuser A.J.
+     "Human lysosomal alpha-glucosidase. Characterization of the catalytic
+     site."
+     J. Biol. Chem. 266:13507-13512(1991).
+     PubMed=1856189
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,27 @@
+P38MAPKINASE
+MAP (Mitogen Activated Protein) kinases participate in kinase cascades,  
+whereby at least 3 protein kinases act in series, culminating in activation 
+of MAP kinase [1-2]. MAP kinases are activated by dual phosphorylation 
+on both tyrosine and threonine residues of a conserved TXY motif.
+
+P38 proteins belong to the MAP kinase family and were discovered in 3
+different contexts independently: first, as tyrosine phosphoproteins found
+in extracts of cells treated with inflammatory cytokines [3]; second, as 
+targets of a pyrinidyl imidazole drug that blocks production of TNFalpha 
+[4]; and third, as reactivating kinases for MAP kinase-activated protein 
+(MAPKAP) [5]. The proteins are activated by cytokines, hormones, GPCRs, 
+osmotic shock, heat shock and other stresses.
+
+P38MAPKINASE is a 5-element fingerprint that provides a signature for the 
+p38 MAP kinases. The fingerprint was derived from an initial alignment of 12
+sequences: the motifs were drawn from regions spanning virtually the full 
+alignment length, focusing on those sections that characterise the p38 
+proteins but distinguish them from the rest of the MAP kinase family - 
+motif 1 includes beta-strand 2; motif 2 includes the C-terminus of helix 6;
+motif 3 spans helix 11 and the N-terminus of helix 12; motif 4 encodes the
+C-terminus of helix 12; and motif 5 includes helix 14. Two iterations on
+SPTR40_20f were required to reach convergence, at which point a true set
+comprising 23 sequences was identified. Several partial matches were also
+found: MK13_PANTR and Q9D0M4 are p38 proteins from chimp and mouse that 
+fail to match motif 1; the rest are hypothetical proteins or closely
+related MAP kinases that match 2 or 3 motifs.

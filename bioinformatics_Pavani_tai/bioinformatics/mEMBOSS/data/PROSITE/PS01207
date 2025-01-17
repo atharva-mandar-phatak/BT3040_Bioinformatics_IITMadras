@@ -1,0 +1,57 @@
+***********************
+* Glypicans signature *
+***********************
+
+Glypicans [1,2]  are  a  family  of  heparan  sulfate  proteoglycans which are
+anchored to  cell  membranes  by a glycosylphosphatidylinositol (GPI) linkage.
+Structurally, these proteins consist of three separate domains:
+
+ a) A signal sequence;
+ b) An  extracellular  domain of about 500 residues that contains 12 conserved
+    cysteines probably involved in disulfide bonds and which also contains the
+    sites of attachment of the heparan sulfate glycosaminoglycan side chains;
+ c) A  C-terminal  hydrophobic  region  which  is post-translationally removed
+    after formation of the GPI-anchor.
+
+The proteins known to belong to this family are:
+
+ - Glypican 1 (GPC1).
+ - Glypican 2 (GPC2) or cerebroglycan.
+ - Glypican 3 (GPC3) or OCI-5.  In man,  defects in GPC3 are the cause of a X-
+   linked genetic disease, Simpson-Galabi-Behmel syndrome (SGBS).
+ - Glypican 4 (GPC4) or K-glypican.
+ - Glypican 5 (GPC5).
+ - Glypican 6 (GPC6).
+ - Drosophila protein dally.
+
+The signature  pattern  that  we  developed  for  glypicans  is located in the
+central section of the extracellular domain and contains five of the conserved
+cysteines.
+
+-Consensus pattern: C-x(2)-C-x-[GS]-[LIVM]-x(4)-P-C-x(2)-[FY]-C-x(2)-[LIVM]-
+                    x(2)-G-C
+                    [The C's are probably involved in a disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for dally.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Weksberg R., Squire J.A., Templeton D.M.
+     "Glypicans: a growing trend."
+     Nat. Genet. 12:225-227(1996).
+     PubMed=8589707; DOI=10.1038/ng0396-225
+[ 2] Watanabe K., Yamada H., Yamaguchi Y.
+     "K-glypican: a novel GPI-anchored heparan sulfate proteoglycan that is
+     highly expressed in developing brain and kidney."
+     J. Cell Biol. 130:1207-1218(1995).
+     PubMed=7657705
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

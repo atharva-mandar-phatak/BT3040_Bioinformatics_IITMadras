@@ -1,0 +1,38 @@
+V5ALLERGEN
+A number of eukaryotic extracellular proteins have been shown to be
+evolutionarily related. The family includes rodent sperm-coating glyco-
+protein (or acidic epididymal glycoprotein), which is thought to be involved
+in sperm maturation [1]; mammalian testis-specific protein (Tpx-1) [2];
+mammalian glioma pathogenesis-related protein; lizard helothermine, a toxin
+that blocks ryanodine receptors; venom allergen 5 from vespid wasps and
+venom allergen 3 from fire ants, which are potent allergens that mediate
+allergic reactions to stings from insects of the hymenoptera family [3];
+plant pathogenesis proteins of the PR-1 family [4], which are synthesised
+during pathogen infection or other stress-related responses; proteins Sc7
+and Sc14 from the basidiomycete fungus Schizophyllum commune, which are
+loosely associated with fruiting body hyphal walls [5]; ancylostoma secreted
+protein from dog hookworm; and yeast hypothetical proteins YJL078c, YJL079c
+and YKR013w. The precise functions of these proteins is still unclear.
+
+Ag 5 is a major allergen of vespid venom [3]. The complete amino acid
+sequences of Ag 5 from various species of hornet, wasp and yellow jacket
+have been determined. Regions of conservation have been identified that are
+shared both by a family of proteins from human, mouse and rat testis, and
+by a class of pathogenesis-related proteins from tobacco and tomato leaves
+[3]. The sequences also share similarity with the Solenopsis invicta 3
+allergen from imported fire ant venom [6].
+
+V5ALLERGEN is a 7-element fingerprint that provides a signature for
+venom allergen 5 proteins. The fingerprint was derived from an initial
+alignment of 11 sequences: the motifs were drawn from short conserved
+sections spanning virtually the full alignment length, focusing on those
+regions that characterise the vespid and fire ant venom allergens but
+distinguish them from the rest of the family - motif 7 includes the region
+encoded by PROSITE pattern SCP_AG5_PR1_SC7_1 (PS01009), which lies towards
+the C-terminus. Two iterations on OWL29.6 were required to reach convergence,
+at which point a true set comprising 17 sequences was identified. Several
+partial matches were also found, all of which are related extracellular
+proteins that match motifs 3, 4 and 7.
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 14
+partial matches.

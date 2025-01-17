@@ -1,0 +1,66 @@
+**************************************
+* Anion exchangers family signatures *
+**************************************
+
+Anion exchange is  a cellular  transport function  which  contributes  to  the
+regulation  of  cell  pH  and  volume.   Anion  exchangers  are  a  family  of
+functionally  related  proteins   that  contributes  to  these  properties  by
+maintaining the intracellular level of  the two principal anions: chloride and
+HCO3-.
+
+The best characterized anion exchanger is the band 3 protein [1],  which is an
+erythrocyte anion exchange membrane glycoprotein. Band 3 is a protein of about
+900 amino acids which consists of a cytoplasmic N-terminal domain of about 400
+residues and an  hydrophobic  C-terminal  section  of  about 500 residues that
+contains at least ten transmembrane regions.   The cytoplasmic domain provides
+binding sites for  cytoskeletal  proteins, while  the integral membrane domain
+is responsible for anion transport.
+
+Band 3 protein is specific to erythroid cells, at least two other proteins [2]
+structurally  and  functionally  related  to band 3, are found in nonerythroid
+tissues:
+
+ - AE2 (or B3 related protein; B3RP), a protein of 1200  residues, which seems
+   to be present  in a  variety  of cell types including lymphoid, kidney, and
+   choroid plexus.
+ - AE3, a protein of 1200 residues, which is specific to neurons.
+
+Structurally AE2 and AE3 are very similar to band 3, the main difference being
+an extension of some 300 residues of the N-terminal domain in AE2 and AE3.
+
+We developed two signature  patterns for these proteins.  The first pattern is
+based on a conserved stretch of sequence that contains four clustered positive
+charged residues and which  is  located  at  the C-terminal extremity  of  the
+cytoplasmic  domain,  just  before  the  first  transmembrane segment from the
+integral  domain.  The  second  pattern  is  based  on the perfectly conserved
+sequence of the  fifth transmembrane segment;  this segment contains a lysine,
+which is the  covalent  binding  site for the isothiocyanate group of DIDS, an
+inhibitor of anion exchange.
+
+-Consensus pattern: F-G-G-[LIVM](2)-[KR]-D-[LIVM]-[RK]-R-R-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FI]-L-I-S-L-I-F-I-Y-E-T-F-x-K-L
+                    [K is important for anion exchange]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Jay D., Cantley L.
+     "Structural aspects of the red cell anion exchange protein."
+     Annu. Rev. Biochem. 55:511-538(1986).
+     PubMed=3527050; DOI=10.1146/annurev.bi.55.070186.002455
+[ 2] Reithmeier R.A.F.
+     Curr. Opin. Struct. Biol. 3:515-523(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

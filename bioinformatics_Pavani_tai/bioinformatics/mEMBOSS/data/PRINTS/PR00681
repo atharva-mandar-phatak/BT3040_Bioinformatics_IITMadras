@@ -1,0 +1,23 @@
+RIBOSOMALS1
+The S1 protein binds mRNA, facilitating recognition of the initiation point.
+It is required to translate mRNA with short Shine-Dalgarno purine-rich
+sequences, and is a member of the S1P family of ribosomal proteins.
+
+Protein S1 is the largest component of the E.coli ribosome [1]. It has a
+domain structure in which the ribosome-binding region is located towards
+the N-terminus; the nucleic acid-binding domain, which is characterised
+by several internal repeats (the so-called S1 motifs), lies in the central
+portion of the sequence [1].
+
+RIBOSOMALS1 is a 9-element fingerprint that provides a signature for 30S
+ribosomal protein S1. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs were drawn from conserved regions spanning the
+N-terminal two-thirds of the alignment - motifs 1-6 span the ribosome-
+binding domain; motif 7 lies in the first S1 motif of the nucleic acid-
+binding domain; and motifs 8 and 9 lie in the second S1 motif. Two
+iterations on OWL29.2 were required to reach convergence, at which point
+a true set comprising 7 sequences was identified. Several partial matches
+were also found, all of which are either fragments or S1 protein homologues.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 22
+partial matches.

@@ -1,0 +1,37 @@
+TCELLCD5
+The egg peptide speract receptor is a transmembrane glycoprotein of about
+500 amino acids [1]. Topologically, it comprises a large extracellular
+domain of about 450 residues, followed by a transmembrane domain and a
+short cytoplasmic region of about 12 amino acids. The extracellular
+domain contains 4 repeats of a well-conserved region, which spans 115
+amino acids and contains 6 conserved cysteines. A similar domain is also
+found towards the C-terminus of macrophage scavenger receptor type I [2],
+a membrane glycoprotein implicated in the pathologic deposition of
+cholesterol in arterial walls during artherogenesis, and in the CD5
+glycoprotein, which acts as a receptor in regulating T-cell proliferation.
+
+The T1/Leu-1/CD5 glycoprotein is expressed at the surface membrane of all
+mature T cells [3,4]. It has been implicated both in the proliferative 
+response of activated T cells and in T-cell helper function [3]. The
+complete amino-acid sequence of the T1 precursor has been deduced from cDNA
+clones. The protein contains a classical signal peptide; a 347-residue 
+extracellular segment; a transmembrane region; and a 93-residue intra-
+cellular segment [3]. The extracellular region contains several cysteine
+residues and comprises 2 speract receptor domains separated by a proline/
+threonine-rich region [3]. CD5 has been shown to function as a receptor,
+delivering co-stimulatory signals to T-cells, interacting specifically with
+the cell-surface protein CD72 (Lyb-2 in mice) exclusive to B-cells [4].   
+
+TCELLCD5 is a 10-element fingerprint that provides a signature for the
+T-cell surface glycoprotein CD5 precursor. The fingerprint was derived from 
+an initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the CD5 proteins but distuinguish them from the
+speract receptor family - motifs 1-4 span the region between the 2 speract
+receptor domains (motif 4 includes the N-terminal portion of the second 
+domain); motif 5 resides within the second speract domain; motif 6 encodes
+the transmembrane domain; and motifs 7-10 span the cytoplasmic domain. A
+single iteration on SPTR37_10f was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match
+was found, O73906, a chicken CD5 mRNA precursor that matches motifs 1, 4 
+and 6-10.

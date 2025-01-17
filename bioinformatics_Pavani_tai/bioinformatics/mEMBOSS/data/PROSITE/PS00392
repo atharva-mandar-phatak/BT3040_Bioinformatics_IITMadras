@@ -1,0 +1,67 @@
+***************************************************************
+* DDC / GAD / HDC / TyrDC pyridoxal-phosphate attachment site *
+***************************************************************
+
+Three different  enzymes  -  all pyridoxal-dependent decarboxylases -  seem to
+share regions of sequence similarity [1,2,3,4], especially in the vicinity  of
+the lysine  residue  which  serves  as  the attachment site for the pyridoxal-
+phosphate (PLP) group. These enzymes are:
+
+ - Glutamate decarboxylase (EC 4.1.1.15) (GAD).  Catalyzes the decarboxylation
+   of glutamate into the neurotransmitter GABA (4-aminobutanoate).
+ - Histidine decarboxylase (EC 4.1.1.22) (HDC).  Catalyzes the decarboxylation
+   of histidine to histamine. There are two completely unrelated types of HDC:
+   those that  use  PLP    as  a cofactor (found in Gram-negative bacteria and
+   mammals), and those that contain a covalently bound pyruvoyl residue (found
+   in Gram-positive bacteria).
+ - Aromatic-L-amino-acid decarboxylase  (EC 4.1.1.28)  (DDC),  also  known  as
+   L-dopa  decarboxylase  or   tryptophan  decarboxylase.   DDC  catalyzes the
+   decarboxylation of  tryptophan to tryptamine.  It  also  acts on 5-hydroxy-
+   tryptophan and dihydroxyphenylalanine (L-dopa).
+ - Tyrosine  decarboxylase  (EC 4.1.1.25) (TyrDC) which converts tyrosine into
+   tyramine, a precursor of isoquinoline alkaloids and various amides.
+ - Cysteine sulfinic acid decarboxylase (EC 4.1.1.29).
+ - L-2,4-diaminobutyrate decarboxylase (EC 4.1.1.-) (DABA decarboxylase).
+
+These enzymes are collectively known as group II decarboxylases [3,4].
+
+-Consensus pattern: S-[LIVMFYW]-x-{KG}-x(3)-K-[LIVMFYWGH]-[LIVMFYWG]-x-{R}-x-
+                    [LIVMFYW]-{V}-[CA]-x(2)-[LIVMFYWQ]-{K}-x-[RK]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for a probable Caenorhabditis elegans DDC and for Petunia GAD.
+-Other sequence(s) detected in Swiss-Prot: 5.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Jackson F.R.
+     "Prokaryotic and eukaryotic pyridoxal-dependent decarboxylases are
+     homologous."
+     J. Mol. Evol. 31:325-329(1990).
+     PubMed=2124279
+[ 2] Joseph D.R., Sullivan P.M., Wang Y.-M., Kozak C., Fenstermacher D.A.,
+     Behrendsen M.E., Zahnow C.A.
+     "Characterization and expression of the complementary DNA encoding rat
+     histidine decarboxylase."
+     Proc. Natl. Acad. Sci. U.S.A. 87:733-737(1990).
+     PubMed=2300558
+[ 3] Sandmeier E., Hale T.I., Christen P.
+     "Multiple evolutionary origin of pyridoxal-5'-phosphate-dependent
+     amino acid decarboxylases."
+     Eur. J. Biochem. 221:997-1002(1994).
+     PubMed=8181483
+[ 4] Ishii S., Mizuguchi H., Nishino J., Hayashi H., Kagamiyama H.
+     "Functionally important residues of aromatic L-amino acid
+     decarboxylase probed by sequence alignment and site-directed
+     mutagenesis."
+     J. Biochem. 120:369-376(1996).
+     PubMed=8889823
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

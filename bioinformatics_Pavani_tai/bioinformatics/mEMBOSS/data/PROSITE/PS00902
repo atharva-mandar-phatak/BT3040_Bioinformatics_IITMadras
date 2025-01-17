@@ -1,0 +1,44 @@
+********************************
+* Glutamate 5-kinase signature *
+********************************
+
+Glutamate 5-kinase  (EC 2.7.2.11) (gamma-glutamyl kinase) (GK)  is  the enzyme
+that catalyzes  the  first step in the biosynthesis of proline from glutamate,
+the ATP-dependent phosphorylation of L-glutamate into L-glutamate 5-phosphate.
+
+In eubacteria  (gene  proB)  and yeast [1] (gene PRO1), GK is a monofunctional
+protein, while  in plants  and mammals, it is a bifunctional enzyme (P5CS) [2]
+that consists  of  two domains: a N-terminal GK domain and a C-terminal gamma-
+glutamyl phosphate reductase domain (EC 1.2.1.41) (see <PDOC00940>).
+
+As a  signature  pattern,  we selected a highly conserved glycine-and alanine-
+rich region located in the central section of these enzymes.
+
+Yeast hypothetical protein YHR033w is highly similar to GK.
+
+-Consensus pattern: [GSTNAD]-x(2)-[GAS]-x-G-[GC]-[IM]-x-[STAG]-K-[LIVMCT]-x-
+                    [SAI]-[TCAGFS]-x(2)-[GALVCMI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Li W., Brandriss M.C.
+     "Proline biosynthesis in Saccharomyces cerevisiae: molecular analysis
+     of the PRO1 gene, which encodes gamma-glutamyl kinase."
+     J. Bacteriol. 174:4148-4156(1992).
+     PubMed=1350780
+[ 2] Hu C.-A.A., Delauney A.J., Verma D.P.S.
+     "A bifunctional enzyme (delta 1-pyrroline-5-carboxylate synthetase)
+     catalyzes the first two steps in proline biosynthesis in plants."
+     Proc. Natl. Acad. Sci. U.S.A. 89:9354-9358(1992).
+     PubMed=1384052
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

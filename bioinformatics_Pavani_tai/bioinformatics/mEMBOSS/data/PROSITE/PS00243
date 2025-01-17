@@ -1,0 +1,77 @@
+*******************************************************
+* Integrins beta chain cysteine-rich domain signature *
+*******************************************************
+
+Integrins [1,2] are a large family of cell surface receptors that mediate cell
+to cell as well as cell to matrix adhesion. Some integrins recognize the R-G-D
+sequence in their extracellular matrix protein ligand. Structurally, integrins
+consist of a dimer of an alpha and a beta chain.  Each  subunit  has  a  large
+N-terminal extracellular domain followed by a transmembrane domain and a short
+C-terminal cytoplasmic  region. Some receptors share a common beta chain while
+having different  alpha chains.  The  sequence  of  a number of different beta
+chains has been determined and are listed below:
+
+ - Integrin beta-1, which  associates with alpha-1 to form a laminin receptor,
+   with alpha-2 to form a  collagen receptor, with  alpha-4  to  interact with
+   VCAM-1, with alpha-5 to form a fibronectin receptor, and with alpha-8.
+ - Integrin beta-2, which  associates with alpha-L (LFA-1)  to  interact  with
+   ICAM-1, and with alpha-M (MAC-1) or alpha-X  (p150,95) to form the receptor
+   for the iC3b fragment of the third complement component.
+ - Integrin beta-3, which associates with alpha-IIB  to  form  a  receptor for
+   fibrinogen,  fibronectin,  vitronectin and VWF, and with alpha-V  to form a
+   vitronectin receptor.
+ - Integrin beta-4, which associates with alpha-6.
+ - Integrin beta-5, which associates with alpha-V.
+ - Integrin beta-6 [3].
+ - Integrin beta-7 [4].
+ - Integrin beta-8, which associates with alpha-V [5].
+ - The Drosophila myospheroid protein, a probable integrin beta chain.
+
+All the integrin beta chains contain four repeats of a forty amino acid region
+in the C-terminal extremity of their extracellular domain. Each of the repeats
+contains eight  cysteines.   We have developed a pattern from a section of the
+repeated region that includes five of these conserved cysteines.
+
+-Consensus pattern: C-x-[GNQ]-x(1,3)-G-x-C-x-C-x(2)-C-x-C
+                    [The 5 C's may be involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The pattern will not pick up the first of the four repeats, the spacing
+ of the cysteine residues being different in that repeat.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Hynes R.O.
+     "Integrins: a family of cell surface receptors."
+     Cell 48:549-554(1987).
+     PubMed=3028640
+[ 2] Albelda S.M., Buck C.A.
+     "Integrins and other cell adhesion molecules."
+     FASEB J. 4:2868-2880(1990).
+     PubMed=2199285
+[ 3] Sheppard D., Rozzo C., Starr L., Quaranta V., Erle D.J., Pytela R.
+     "Complete amino acid sequence of a novel integrin beta subunit (beta
+     6) identified in epithelial cells using the polymerase chain
+     reaction."
+     J. Biol. Chem. 265:11502-11507(1990).
+     PubMed=2365683
+[ 4] Erle D.J., Rueegg C., Sheppard D., Pytela R.
+     "Complete amino acid sequence of an integrin beta subunit (beta 7)
+     identified in leukocytes."
+     J. Biol. Chem. 266:11009-11016(1991).
+     PubMed=2040616
+[ 5] Moyle M., Napier M.A., McLean J.W.
+     "Cloning and expression of a divergent integrin subunit beta 8."
+     J. Biol. Chem. 266:19650-19658(1991).
+     PubMed=1918072
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

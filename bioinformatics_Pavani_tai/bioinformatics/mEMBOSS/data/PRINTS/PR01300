@@ -1,0 +1,26 @@
+PYOCINKILLER
+Pyocins S1 and S2 are S-type bacteriocins of Pseudomonas aeruginosa with
+different receptor recognition specificities [1]. The genetic determinants
+of these pyocins have been cloned from the NIH-H and PAO chromosomes of 
+P.aeruginosa [1]. The determinants each constitute an operon that encodes
+two proteins of molecular weight 65,600 and 10,000 (pyocin S1) or 74,000 and
+10,000 (pyocin S2) with a characteristic sequence (P box), a possible 
+regulatory element involved in the induction of pyocin production, in the 
+5' upstream region [1]. These pyocins have almost identical sequences,
+except in the N-terminal portions of the large proteins, which are
+substantially different. This similarity suggests that S1 and S2 pyocins, 
+like pyocin AP41, originated from a common ancestor of the E2 group colicins
+[1]. Purified pyocins S1 and S2 constitute a complex of the two proteins.
+Both pyocins cause breakdown of chromosomal DNA and complete inhibition of
+lipid synthesis in sensitive cells [1]. The large protein (not the complex),
+shows in vitro DNase activity [1]. This activity is inhibited by the small
+protein of either pyocin [1].
+
+PYOCINKILLER is a 10-element fingerprint that provides a signature for the
+large component of pyocin S killer proteins. The fingerprint was derived 
+from an initial alignment of 2 sequences: the motifs were drawn from 
+conserved regions spanning the C-terminal half of the alignment. A single
+iteration on SPTR37_10f was required to reach convergence, no further 
+sequences being identified beyond the starting set. Four partial matches
+were found, including the large component of pyocin AP41 and related
+colicins, all of which match the C-terminal motifs.

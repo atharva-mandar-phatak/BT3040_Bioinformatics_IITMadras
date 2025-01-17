@@ -1,0 +1,26 @@
+VEGFRECEPTOR
+Vascular endothelial growth factor (VEGF) is a potent and specific
+endothelial cell mitogen [1]. Through binding with its receptor, VEGFR, VEGF
+has critical roles in the growth and maintenance of vascular endothelial
+cells and in the development of new blood- and lymphatic-vessels in
+physiological and pathological states [2]. The vessel systems are important 
+for the supply of oxygen and nutrients to all tissues of the body, as well
+as for the drainage of excess fluids with waste metabolites from peripheral
+tissues. VEGF receptors have a characteristic structure, with 7 Ig-like
+domains in the extracellular domain and a cytoplasmic tyrosine kinase domain
+with a long kinase insert region.
+
+The VEGF receptor family consists of three members, VEGFR-1 (Flt-1), VEGFR-2
+(KDR/Flk-1) and VEGFR-3 (Flt-4), all of which belong to the receptor type
+tyrosine kinase superfamily [3]. Among these receptors, VEGFR-1 binds
+strongest to VEGF, VEGF-2 binds more weakly, and VEGFR-3 shows essentially
+no binding, although it does bind to other members of the VEGF family.
+
+VEGFRECEPTOR is a 6-element fingerprint that provides a signature for the 
+vascular endothelial growth factor receptors. The fingerprint was derived
+from an initial alignment of 12 sequences: the motifs were drawn from
+conserved regions within the extracellular domain, motifs 1, 3, 4, 5 and 6 
+residing within the 1st, 2nd, 3rd, 4th and 5th Ig-like domains, respectively
+- motif 3 spans beta-strands 5 and 6. Two iterations on SPTR40_20f were
+required to reach convergence, at which point a true set comprising 18 
+sequences was identified.

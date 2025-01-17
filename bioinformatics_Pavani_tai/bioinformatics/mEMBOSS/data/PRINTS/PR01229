@@ -1,0 +1,30 @@
+GFLUORESCENT
+Green-fluorescent proteins (GFP) are involved in bioluminescence of many
+jelly fish (cnidaria) [1]. GFPs serve as energy-transfer acceptors, receiving
+energy from either a luciferase-oxyluciferin complex or a Ca(2+)-activated
+photoprotein depending on the organism [1]. Following mechanical stimulation
+of the organism, GFP emits green light spectrally identical to its 
+fluorescence emission. The unique properties of these highly fluorescent
+proteins arise from the chemical nature of the covalently attached 
+chromophore, which contains modified amino acid residues within the 
+polypeptide [1]. 
+
+The crystal structure of recombinant wild-type GFP has been solved to 1.9A
+resolution [2]. The protein fold forms a cylinder, comprising an 11-stranded
+beta-barrel, with a co-axial helix within the cylinder and short helical
+segments at the cylinder ends [2] - this represents a new protein fold, 
+which has been termed the 'beta-can' [2]. In the crystal, two protomers
+pack together to form a dimer. The fluorophores, resulting from spontaneous
+cyclisation and oxidation of the sequence -Ser65/Thr65-Tyr66-Gly67-, require
+the native protein fold for both formation and fluorescence emission [3].
+
+GFLUORESCENT is an 11-element fingerprint that provides a signature for
+green fluorescent proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 spans alpha-helix 1 and beta-
+strand 1; motif 2 spans strands 2 and 3; motif 3 includes helices 2 and 3; 
+motif 4 encompasses helices 4-6; motif 5 includes strand 4; motif 6 spans
+the C-terminal portion of strand 5 and strand 6; motif 8 spans strands 7 and
+8 and helix 7 between them; and motifs 9-11 encode strands 9-11 respectively.
+A single iteration on SPTR37_10f was required to reach convergence, no
+further sequences being identified beyond the starting set.

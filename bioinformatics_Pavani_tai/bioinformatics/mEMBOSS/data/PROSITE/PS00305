@@ -1,0 +1,54 @@
+**********************************************
+* 11-S plant seed storage proteins signature *
+**********************************************
+
+Plant seed storage proteins, whose  principal function appears to be the major
+nitrogen  source for the developing plant,  can be classified, on the basis of
+their structure, into different families.  11-S are non-glycosylated  proteins
+which form hexameric structures [1,2].  Each of the subunits in the hexamer is
+itself composed of an acidic and a basic chain derived from a single precursor
+and linked  by a  disulfide bond.   This  structure is  shown in the following
+representation.
+
+                   +-------------------------+
+                   |                         |
+        xxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxNGxCxxxxxxxxxxxxxxxxxxxxxxx
+                                          *********
+        <------Acidic-subunit-------------><-----Basic-subunit------>
+        <-----------------About-480-to-500-residues----------------->
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+Proteins that belong to the 11-S family are: pea and broad bean legumins, rape
+cruciferin, rice glutelins,  cotton beta-globulins, soybean glycinins, pumpkin
+11-S globulin, oat globulin, sunflower helianthinin G3, etc.
+
+As a signature  pattern  for  this  family of proteins we used the region that
+includes the  conserved  cleavage  site between  the acidic and basic subunits
+(Asn-Gly) and a  proximal cysteine residue which is involved in the interchain
+disulfide bond.
+
+-Consensus pattern: N-G-x-[DE](2)-x-[LIVMF]-C-[ST]-x(11,12)-[PAG]-D
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 1994 / Pattern and text revised.
+
+[ 1] Hayashi M., Mori H., Nishimura M., Akazawa T., Hara-Nishimura I.
+     "Nucleotide sequence of cloned cDNA coding for pumpkin 11-S globulin
+     beta subunit."
+     Eur. J. Biochem. 172:627-632(1988).
+     PubMed=2450746
+[ 2] Shotwell M.A., Afonso C., Davies E., Chesnut R.S., Larkins B.A.
+     Plant Physiol. 87:698-704(1988).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

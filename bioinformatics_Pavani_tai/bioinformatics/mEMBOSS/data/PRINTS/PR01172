@@ -1,0 +1,51 @@
+BLCTOGLOBULN
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Beta-lactoglobulin (Blg) is the major protein component of milk from a wide  
+range of species but not human [5]. Glycodelin or PP14 protein is the human 
+equivalent of Blg and is secreted into the endometrium. Blg binds a wide 
+variety of hydrophobic ligands but its function remains unknown. The crystal
+structure of Blg has been solved [6], confirming membership of the lipocalin
+protein family.
+
+BLCTOGLOBULN is a 6-element fingerprint that provides a signature for  
+beta-lactoglobulins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motif 1, which includes the region
+encoded by PROSITE pattern LIPOCALIN (PS00213) and corresponds to the first
+motif of the lipocalin fingerprint, spans the first alpha-helix and the 
+first beta-strand; motif 2 spans the C-terminus of strand 2 and the second
+helix; motif 3 encodes the C-terminal half of strand 3 and the N-terminal
+portion of strand 4; motif 4 encodes the C-terminus of strand 5 and strand 6;
+motif 5, which spans the C-terminus of strand 7 and strand 8, corresponds to
+the second motif of the lipocalin fingerprint; and motif 6, which spans
+strand 9 and the N-terminus of helix 4, is similar to the third lipocalin
+motif. Two iterations on SPRT37_10f were required to reach convergence,
+at which point a true set of 17 sequences was identified. Three partial
+matches were also found, all of which are strongly divergent marsupial
+lactoglobulins that match only motif 5 and either motif 4 or 3.

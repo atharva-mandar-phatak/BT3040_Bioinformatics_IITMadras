@@ -1,0 +1,26 @@
+SALSPVBPROT
+Salmonella typhimurium contains a 90kb plasmid that is associated with
+virulence [1]. This plasmid encodes at least 6 genes needed by the 
+bacterium for invading host macrophages during infection. These include the
+70kDa mkaA protein [2], a recognised virulence factor, and more recently 
+described, four spv genes under the control of a regulator [3].
+
+The spv genes are induced under carbon-poor conditions at a stationary phase 
+of growth, and their expression is under the control of both the spvR 
+regulator, and the katF locus in Salmonella [3]. It has been proposed that 
+individual spv proteins may be required at different time points during 
+infection [4].
+
+SpvB is a 65kDa protein that has been localised to the bacterial cytoplasm 
+[4]. Its expression peaks during early stationary phase, but declines as the 
+latent phase of the infection is reached, suggesting a role in initiating 
+virulence [4].
+
+SALSPVBPROT is a 7-element fingerprint that provides a signature for the
+Salmonella virulence plasmid 65kDa B protein family. The fingerprint
+was derived from an initial alignment of 3 sequences: the motifs were
+drawn from conserved regions spanning the full alignment length (~100 amino 
+acids). Two iterations on SPTR37_10f were required to reach convergence, at
+which point a true set comprising 7 sequences was identified. Amongst these
+is a bacterial insecticidal protein, indicating that this virulence plasmid
+may have been involved in conjugation with other microbes.

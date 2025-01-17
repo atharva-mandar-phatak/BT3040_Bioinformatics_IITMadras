@@ -1,0 +1,59 @@
+*********************************
+* SLC26A transporters signature *
+*********************************
+
+A number  of  proteins, the majority of which are involved in the transport of
+anions across  a  membrane  as  well as some yet uncharacterized proteins have
+been shown [1,2] to be evolutionary related. These proteins are:
+
+ - Mammalian sulfate anion transporter 1 (SAT-1) (gene SLC26A1).
+ - Mammalian  DTDST  (gene SLC26A2), a sulfate transporter which, in Human, is
+   involved in the genetic disease, diastrophic dysplasia (DTD).
+ - Mammalian chloride anion exchanger (DRA) (gene SLC26A3).
+ - Mammalian pendrin (PDS) (gene SLC26A4), a chloride/iodide transporter which
+   in Human is involved in a number of hearing loss genetic diseases.
+ - Mammalian  prestin  (gene  SLC26A5), a motor protein that converts auditory
+   stimuli to   length   changes  in  outer  hair  cells  and  mediates  sound
+   amplification in  the mammalian hearing organ. Prestin is, so far, the only
+   member of  this family whose direct function is not to transport ion across
+   a membrane.
+ - Mammalian SLC26A6, whose function is not yet known.
+
+ - Neurospora crassa sulfate permease II (gene cys-14).
+ - Yeast sulfate permeases (genes SUL1 and SUL2).
+ - Sulfate transporters 1, 2 and 3 from the legume Stylosanthes hamata.
+ - Soybean early nodulin 70.
+ - Escherichia coli hypothetical protein ychM.
+ - Caenorhabditis elegans hypothetical protein F41D9.5.
+
+As expected by their transport function, these proteins are highly hydrophobic
+and seem to contain about 12 transmembrane domains.  The best conserved region
+seems to  be  located  in  the  second  transmembrane  region and is used as a
+signature pattern.
+
+-Consensus pattern: [PAV]-x-[FYLCVI]-[GS]-L-Y-[STAG]-[STAGL]-x(4)-[LIVFYA]-
+                    [LIVMST]-[YI]-x(3)-[GA]-[GST]-[SRV]-[KRNP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sandal N.N., Marcker K.A.
+     "Similarities between a soybean nodulin, Neurospora crassa sulphate
+     permease II and a putative human tumour suppressor."
+     Trends Biochem. Sci. 19:19-19(1994).
+     PubMed=8140616
+[ 2] Smith F.W., Hawkesford M.J., Prosser I.M., Clarkson D.T.
+     "Isolation of a cDNA from Saccharomyces cerevisiae that encodes a high
+     affinity sulphate transporter at the plasma membrane."
+     Mol. Gen. Genet. 247:709-715(1995).
+     PubMed=7616962
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

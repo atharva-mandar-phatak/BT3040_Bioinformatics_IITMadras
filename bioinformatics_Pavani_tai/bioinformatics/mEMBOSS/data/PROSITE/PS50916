@@ -1,0 +1,69 @@
+******************************
+* Rab-binding domain profile *
+******************************
+
+Rab  are small GTPases implicated in vesicle trafficking. Like the other small
+GTPases, Rab proteins act as molecular switches, with an active GTP-bound form
+that  interacts  with its target or effector protein and an inactive GDP-bound
+form. A subgroup of Rab effectors contain in their N-terminal part a conserved
+region  of  around 70 amino acid residues, the Rab-binding domain (RabBD) . In
+some Rab effector domains an atypical FYVE-type zinc finger is inserted in the
+central part [1].
+
+The  crystal  structure  of the Rab effector domain of Rabphilin-3A in complex
+with Rab3A has been solved [2] (see <PDB:1ZBD>). The structure consists of two
+long  helices  separated  by  an atypical FYVE-type zinc finger which adopts a
+conformation  similar  to  classical  ones (see <PDOC50178>). The central zinc
+finger  does  not  directly interact with Rab3A. The amino acids important for
+this  interaction  are located around a short C-terminal motif (SGAWFF) and an
+acidic cluster in the N-terminal area.
+
+Proteins known to contain a Rab-binding domain are listed below:
+
+ - Mammalian  Synaptotagmin-like  1  (SYTL1)  (exophilin  7).  Its Rab-binding
+   domain does not contain an inclusive FYVE-type like zinc finger.
+ - Mammalian  Synaptotagmin-like  2  (SYTL2)  (exophilin  4).  Its Rab-binding
+   domain does not contain an inclusive FYVE-type like zinc finger.
+ - Mammalian Synaptotagmin-like 3 (SYTL3) (exophilin 6).
+ - Mammalian Synaptotagmin-like 4 (SYTL4) (exophilin 2 or granuphilin).
+ - Mammalian Synaptotagmin-like 5 (SYTL5).
+ - Animal Rabphilin-3A (exophilin 1).
+ - Mammalian Noc2 protein, a rabphilin 3A-like protein without C2 domains.
+ - Mammalian  Slp  homolog  lacking  C2  domains-a  (Slac2-a or exophilin 3 or
+   melanophilin).
+ - Mammalian  Slp  homolog  lacking C2 domains-b (Slac2-b or exophilin 5). Its
+   Rab-binding domain does not contain an inclusive FYVE-type like zinc
+   finger.
+ - Mammalian  Slp  homolog lacking C2 domains-c (Slac2-c or MyRIP or Exophilin
+   8).
+ - Mammalian Rim1.
+ - Animal Rim2, a family of neuronal Rab effectors.
+
+The profile we developed covers the entire Rab-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2003 / First entry.
+
+[ 1] Fukuda M.
+     "Distinct Rab binding specificity of Rim1, Rim2, rabphilin, and Noc2.
+     Identification of a critical determinant of Rab3A/Rab27A recognition
+     by Rim2."
+     J. Biol. Chem. 278:15373-15380(2003).
+     PubMed=12578829; DOI=10.1074/jbc.M212341200
+[ 2] Ostermeier C., Brunger A.T.
+     "Structural basis of Rab effector specificity: crystal structure of
+     the small G protein Rab3A complexed with the effector domain of
+     rabphilin-3A."
+     Cell 96:363-374(1999).
+     PubMed=10025402
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

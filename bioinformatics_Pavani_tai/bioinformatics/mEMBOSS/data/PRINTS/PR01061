@@ -1,0 +1,60 @@
+MELNOCORTN3R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Adrenocorticotrophin (ACTH), melanocyte-stimulating hormones (MSH) and
+beta-endorphin are peptide products of pituitary pro-opiomelanocortin.
+ACTH regulates synthesis and release of glucocorticoids and aldosterone
+in the adrenal cortex; it also has a trophic action on these cells [6]. 
+ACTH and beta-endorphin are synthesised and released in response to 
+corticotrophin-releasing factor at times of stress (heat, cold, infections,
+etc.) - their release leads to increased metabolism and analgesia res..
+MSH has a trophic action on melanocytes, and regulates pigment production
+in fish and amphibia [6]. The ACTH receptor is found in high levels in
+the adrenal cortex - binding sites are present in lower levels in the
+CNS. The MSH receptor is expressed in high levels in melanocytes, 
+melanomas and their derived cell lines [6]. Receptors are found in low
+levels in the CNS. MSH regulates temperature control in the septal region
+of the brain and releases prolactin from the pituitary.
+
+A further gene, which encodes a melanocortin receptor that is functionally
+distinct from the ACTH and MSH receptors, has also been characterised [7-9].
+The protein contains ~323 amino acids, with calculated molecular mass of 
+35,800 Da, and potential N-linked glycosylation and phosphorylation sites
+[8]. The melanocortin 3 receptor (MC3-R) is found in neurons of the arcuate 
+nucleus known to express proopiomelanocortin and in a subset of the nuclei
+to which these neurons send projections [9]. The MC3-R is 43% identical to 
+the MSH receptor present in melanocytes and is strongly coupled to adenylyl
+cyclase [9].
+
+MELNOCORTN3R is a 5-element fingerprint that provides a signature for the
+melanocortin 3 receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that 
+characterise the melanocortin 3 receptors but distinguish them from the
+rest of the melanocortin receptor family - motifs 1 and 2 lie at the
+N-terminus; motif 3 lies in the first external loop; motif 4 spans the third
+cytoplasmic loop; and motif 5 lies at the C-terminus. Two iterations on 
+OWL27.1 were required to reach convergence, at which point a true set 
+comprising 4 sequences was identified. A single partial match was also 
+found, AB017137, a chicken melanocortin 3 receptor that fails to make
+significant matches with motifs 1, 4 and 5.
+
+An update on SPTR37_9f identified a true set of 3 sequences, and 1
+partial match.

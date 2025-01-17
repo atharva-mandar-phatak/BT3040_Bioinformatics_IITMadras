@@ -1,0 +1,58 @@
+*********************************************************
+* 2'-5'-oligoadenylate synthases signatures and profile *
+*********************************************************
+
+2'-5'-oligoadenylate synthases  [1]  constitute a family of interferon-induced
+enzymes that bind double-stranded  RNA (dsRNA) and  polymerizes ATP into 2'-5'
+linked oligomers of adenosine (pppA(2'p5'A)n) (2-5A) of various lengths.   The
+2-5A molecules activate a  latent  ribonuclease (Rnase L)  that  then  cleaves
+single-stranded  RNAs; as  a result  protein  synthesis  and  virus growth are
+inhibited. Thus  2-5A synthases play an important role in the antiviral action
+of interferons.
+
+Three distinct  classes  of 2-5A synthases have been described that correspond
+to proteins  of  40-46  Kd,  69-71  Kd, and 100 Kd. The 40 and 46 Kd forms are
+produced by alternative splicing of the same gene. The 69  and 71 Kd forms are
+also produced by alternative  splicing of a gene and  consist  of two adjacent
+homologous domains whose sequences are  highly similar to that of the 40/46 Kd
+forms. The sequence of the 100 Kd form is not yet known.
+
+We  developed  two  signature patterns for these enzymes.   The  first spans a
+region rich in glycine  residues which has been proposed [2] to be part of the
+ATP-binding site.  The  second  signature  corresponds  to  a highly conserved
+region located in the C-terminal part of 2-5A synthases proteins or domains.
+
+-Consensus pattern: G-S-x-[AG]-[KRN]-x-T-x-L-[KRN]-x(3)-[DE]-x-[DET]-[LM]-
+                    [VI]-x-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-P-[VI]-I-L-D-P-x-[DE]-P-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Hovanessian A.G.
+     "Interferon-induced and double-stranded RNA-activated enzymes: a
+     specific protein kinase and 2',5'-oligoadenylate synthetases."
+     J. Interferon Res. 11:199-205(1991).
+     PubMed=1717615
+[ 2] Marie I., Hovanessian A.G.
+     "The 69-kDa 2-5A synthetase is composed of two homologous and adjacent
+     functional domains."
+     J. Biol. Chem. 267:9933-9939(1992).
+     PubMed=1577824
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

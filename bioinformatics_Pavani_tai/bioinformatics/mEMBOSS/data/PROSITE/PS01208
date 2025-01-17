@@ -1,0 +1,94 @@
+*************************************
+* VWFC domain signature and profile *
+*************************************
+
+The VWFC  domain  is named after the von Willebrand factor (VWF) type C repeat
+which is  found  twice  in  this multidomain protein [1,2]. It has a length of
+about 70  amino acids covering 10 well conserved cysteines. Proteins with such
+a domain [1-4] are listed below.
+
+ - Human  von Willebrand factor  (VWF),  a multifunctional protein involved in
+   maintaining homeostasis.  It consists of 4 VWFD domains,  3 VWFA domains, 3
+   VWFB domains, 3 VWFC domains, an X domain and a C-terminal cystine knot [2].
+ - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+   mechanism. It  is  composed  of 2 FA58C domains (see <PDOC00988>), a C-type
+   lectin domain   (see   <PDOC00537>),  2  VWFC  domains,  and  a  CTCK  (see
+   <PDOC00912>).
+ - Several  vertebrate heavily glycosylated  mucins. Human mucin 2 is secreted
+   by the  epithelia  of  different  mucus membrane-containing organs. It is a
+   highly polymorphic  multidomain molecule. Rat intestinal mucin-like peptide
+   coats the  epithelia  of  the  intestines.  Both  proteins  share a modular
+   architecture similar  to  VWF. Xenopus mucin B.1 contains a Sushi domain, a
+   VWFC domain,  a  X  domain and a C-terminal cystine knot. Other mucins that
+   contain the  VWFC  domain  are  human tracheobronchial mucin (MUC5), bovine
+   submaxillary mucin-like protein, human and pig apomucin.
+ - Cef-10/cyr61/CTGF/fisp-12/nov  protein  family.  The members of this family
+   are structurally  related  to   insulin-like growth factor binding proteins
+   (see <PDOC00194>) and could  function  as  growth  factor-binding proteins.
+   They contain an insulin-like growth factor-binding domain, a VWFC repeat, a
+   thrombospondin type 1 repeat (Tsp1) and a C-terminal cystine knot.
+ - Vertebrate  thrombospondins  1  and 2. These adhesive glycoproteins mediate
+   cell-to-cell and cell-to-matrix interactions. They are composed of a common
+   thrombospondin N-terminal  domain  (TspN),  a VWFC domain, three Tsp type 1
+   repeats (Tsp1), 3 to 4 EGF-like domains and 7 calcium-binding Tsp3 repeats.
+ - Vertebrate propeptides of fibrillar collagens alpha 1(I, II & III) and 2(V)
+   chains that  contain  an  N-terminal  VWFC  domain, a collagenous region of
+   about 1000  amino  acids  and  a  C-terminus  common to fibrillar collagens
+   (COLFI domain).
+ - Vertebrate  integral  membrane  protein  DGCR2/IDD,  a  potential  adhesion
+   receptor with  1  LDL-receptor  class  A domain (see <PDOC00929>), a C-type
+   lectin and a VWFC domain.
+ - Chordin, a Xenopus developmental protein that contains four VWFC domains.
+
+Of these proteins, the best characterized one is the von Willebrand factor for
+which the duplicated VWFC domain is thought to participate in oligomerization,
+but not in  the initial dimerization step [4].  The presence of this region in
+other  complex-forming  proteins leads to the assumption  that the VWFC domain
+might be involved in forming larger protein complexes [1,2].
+
+The profile we developed covers the entire VWFC domain.
+
+-Consensus pattern: C-x(2,3)-C-{CG}-C-x(6,14)-C-x(3,4)-C-x(2,10)-C-x(9,16)-
+                    C-C-x(2,4)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Hunt L.T., Barker W.C.
+     "von Willebrand factor shares a distinctive cysteine-rich domain with
+     thrombospondin and procollagen."
+     Biochem. Biophys. Res. Commun. 144:876-882(1987).
+     PubMed=3495268
+[ 2] Bork P.
+     "The modular architecture of a new family of growth regulators related
+     to connective tissue growth factor."
+     FEBS Lett. 327:125-130(1993).
+     PubMed=7687569
+[ 3] Bork P.
+     "Shuffled domains in extracellular proteins."
+     FEBS Lett. 286:47-54(1991).
+     PubMed=1864378
+[ 4] Voorberg J., Fontijn R., Calafat J., Janssen H., van Mourik J.A.,
+     Pannekoek H.
+     "Assembly and routing of von Willebrand factor variants: the
+     requirements for disulfide-linked dimerization reside within the
+     carboxy-terminal 151 amino acids."
+     J. Cell Biol. 113:195-205(1991).
+     PubMed=2007623
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,97 @@
+A1MCGLOBULIN
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Alpha-1-microglobulin (A1M), also known as protein HC (for Heterogeneous 
+Charge), is a low molecular weight protein component of plasma that has 
+been studied extensively since its initial discovery in pathological human
+urine. Although much is now known of its structure and properties, the
+function and physiological role of A1M remains unclear, although the weight
+of evidence suggests that it functions in the regulation of the immune
+system [5]. 
+
+A1M is known to exist in both a free form and complexed to other macro-
+molecules: immunoglobulin A (IgA) in humans and alpha-1-inhibitor-3 in the
+rat. Free A1M is a monomeric protein composed of one 188 residue polypeptide
+and contains three cysteines, two of which (residues 75 and 173) form a 
+conserved intra-molecuklar disulphide link [5]. A1M is glycosylated by 
+three separate carbohydrate chains: two complex carbohydrates are N-linked 
+to asparagines at residues 17 and 96, and the other simple carbohydrate is
+O-linked to threonine at position 5. These three saccharide chains represent
+3%, 12% and 7% respectively of the total molecular mass of A1M; thus 22% of 
+the total molecular mass of the protein is derived from carbohydrate. Free
+A1M is extremely heterogeneous in charge (appearing as a smear rather than
+a sharp band in electrophoresis) and cannot be easily separated from a 
+tightly-associated chromophore, which is responsible for the characteristic 
+yellow-brown fluorescence of the free protein in aqueous solution [5]. 
+Moreover, this chromophoric group, which is also responsible for the 
+observed charge heterogeneity of A1M, is covalently bound to the free
+cysteine residue at position 34. Hexane extraction of purified A1M 
+indicates that the protein also binds retinol as a major (but not its only)
+ligand, but that this is probably distinct from the its covalent chromophore.
+
+The glycosylation is different between species. The principal sites of A1M 
+synthesis are the liver and kidney. Half of all human plasma A1M (about 
+0.03mg/ml) forms a 1:1 complex with about 5% of plasma immunoglobulin A: 
+the resulting macromolecular complex has a molecular weight of 200000, and
+a plasma concentration of 0.3mg/ml. It can exhibit both antibody activity 
+and affect many of the biological actions of free A1M [5]. It has also been
+shown that the components of this complex are linked, by a covalent
+association of unknown type, between part of the C-terminal nine residues
+of IgA and some part of A1M prior to Cys 75. The A1M-IgA complex does not
+exhibit the charge heterogeneity and yellow-brown fluorescence of free A1M.
+This would seem to imply that the chromophoric group joined to cysteine 34
+is involved in this covalent link. More recently, a corresponding high 
+molecular weight complex involving A1M has been isolated from rat serum: 
+rather than IgA, this complex contains alpha-1-inhibitor 3 (A1I3), a variant
+of rat plasma alpha-macroglobulin. This 1:1 A1M:A1I3 complex, molecular 
+weight ~266,000, represents 1-3% of total plasma A1I3 and around 60% of 
+plasma A1M. The lack of charge heterogeneity and fluorescence would suggest
+that the complex is also covalently associated.
+
+A1M has many affects on the immune system [5]: it inhibits stimulation of
+cultured lymphocytes by protein antigens; it can induce cell division of
+lymphocytes, a mitogenic effect that can either be enhanced or inhibited by
+the action of other plasma components; it inhibits neutrophil granulocyte
+migration in vitro; and it inhibits chemotaxis (cell migration against a
+gradient of attractive agent). The recent identification of cell surface
+receptors for A1M [5] may indicate the mechanism by which the protein
+exerts its physiological effects.
+
+A1MCGLOBULIN is a 6-element fingerprint that provides a motif for alpha-1-
+microglobulin. The fingerprint was derived from an initial alignment of 3 
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motif 1 includes a GxW triplet, which forms 
+part of the first beta-strand (cf. the first motif of signature LIPOCALIN 
+and PROSITE pattern LIPOCALIN (PS00213)); motif 5 lies in a conserved region
+of the barrel involving beta-strands 6 and 7 and the loop between them, and
+corresponds closely to the second motif of the lipocalin fingerprint; and
+motif 6 encodes a similar region to the third lipocalin motif, which lies
+in a structurally conserved region involving the final strand and part of 
+the loop linking it to the C-terminal alpha-helix. Two iterations on 
+SPRT37_10f were required to reach convergence, at which point a true set
+comprising 8 sequences was identified.

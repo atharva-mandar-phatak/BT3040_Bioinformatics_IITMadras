@@ -1,0 +1,49 @@
+KIR32CHANNEL
+Potassium channels are found in virtually all cell types. Their pore-
+forming subunits fall into three structural families, i.e. those possessing
+six, four and two transmembrane (TM) domains. The six-TM domain K+ channels
+can be further subdivided into six families: the voltage-gated K+ channels
+(Kv), the KCNQ channels, the eag-like K+ channels, and three Ca2+-activated
+K+ channels. Inwardly-rectifying K+ channels (Kir) are the principal class
+of two-TM domain K+ channels, and the recently-discovered two-pore domain
+K+ channels, make up a family of four-TM domain K+ channels.
+
+Inwardly rectifying potassium channels (Kir) are responsible for regulating
+diverse processes including: cellular excitability, vascular tone, heart
+rate, renal salt flow, and insulin release [1]. To date, around twenty
+members of this superfamily have been cloned, which can be grouped into six
+families by sequence similarity - these are designated Kir1.x-7.x [2,3].
+
+Cloned Kir channel cDNAs encode proteins of between ~370-500 residues,
+containing two predicted TM domains, with the characteristic K+ channel
+pore-forming domain located between them. Both N- and C-termini are thought
+to be cytoplasmic, and the N-terminus lacks a signal sequence. It is thought
+that four Kir subunits assemble to form a tetrameric channel complex, which
+may be hetero- or homomeric [1].
+
+The Kir3.x channel family are gated by G proteins following G protein
+coupled receptor (GPCR) activation. They are widely distributed in
+neuronal, atrial, and endocrine tissues and play key roles in generating
+late inhibitory postsynaptic potentials, slowing the heart rate and
+modulating hormone release. They are directly activated by G protein
+beta-gamma subunits released from G protein heterotrimers of the G(i/o)
+family upon appropriate receptor stimulation.
+
+Kir3.2 is thought to associate with Kir3.1 to form Kir channel heteromers
+in heart tissue. In central neurones, Kir3.2 homomers may exist, although
+these may contain combinations of the three splice variants of Kir3.2 that
+have been identified [4]. Weaver mice, which suffer neurological and
+reproductive deficits, have a point mutation in the gene encoding Kir3.2.
+This lies in the pore-forming domain of the channel, and as a result they
+lose their selectivity for K+, allowing Na+ to pass through the channel 
+pore [5].
+
+KIR32CHANNEL is a 6-element fingerprint that provides a signature for the
+Kir3.2 inward rectifier K+ channel. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise Kir3.2 but distinguish it from other subtypes -
+motifs 1-2 lie within the putative cytoplasmic N-terminus; and motifs 3-6
+encode portions of the cytoplasmic C-terminus. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 5
+sequences was identified.

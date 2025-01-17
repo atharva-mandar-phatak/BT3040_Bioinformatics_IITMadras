@@ -1,0 +1,45 @@
+LSHMANOLYSIN
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, around
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+relatively common, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure 
+adopted by this motif in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of their metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. In the first group, a glutamic acid completes the active site -
+these are termed HEXXH+E: all families in this group show some sequence
+relationship and have been assigned to clan MA [1]. The second group, which
+have a third histidine as the extra metal-binding residue, are termed
+HEXXH+H and are grouped into clan MB on the basis of their inter-relation-
+ship [1]. In the third group, the additional metal-binding residues are
+unidentified. The fourth group is diverse - the metal-binding residues are
+known but do not form the HEXXH motif. And the fifth group comprises the
+remaining families where the metal-binding residues are as yet unknown [1].
+
+Leishmanolysin is an enzyme found in Leishmania and related parasitic
+protozoa [1]. The endopeptidase is the most abundant protein on the cell
+surface during the promastigote stage of the parasite, and is attached to
+the membrane by a glycosylphosphatidylinositol anchor [1]. In the amastigote
+form, the parasite lives in lysosomes of host macrophages, producing a
+form of the protease that has an acidic pH optimum [1]. This differs from
+most other metalloproteases and may be an adaptation to the environment in
+which the organism survives [1]. The protein contains a catalytic HEXXH
+motif, in which the additional zinc-binding residue is unknown.
+
+LSHMANOLYSIN is a 7-element fingerprint that provides a fingerprint for
+the leishmanolysin (M8) metalloproteases. The fingerprint was derived from 
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the central portion of the alignment - motif 3 includes the
+region encoded by PROSITE pattern ZINC_PROTEASE (PS00142), which contains 
+the catalytic HEXXH motif; and motif 4 contains a conserved glutamate, which
+may provide the additional zinc ligand. Two iterations on OWL29.3 were
+required to reach convergence, at which point a true set comprising 16
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 21 sequences.

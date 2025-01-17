@@ -1,0 +1,28 @@
+ERK3ERK4MAPK
+MAP (Mitogen Activated Protein) kinases participate in kinase cascades,  
+whereby at least 3 protein kinases act in series, culminating in activation 
+of MAP kinase [1-2]. MAP kinases are activated by dual phosphorylation 
+on both tyrosine and threonine residues of a conserved TXY motif.
+
+ERKs (Extracellularly Regulated Kinases) belong to the family of MAP 
+kinases. ERK3 was first identified in a cDNA library using a probe for 
+ERK1 [6]. ERK 3 and 4, however, have no more similarity to ERK 1 and 2 than 
+do the other major classes of MAP kinase, JNK and p38. ERK3 is 
+constitutively located in the nucleus, despite the lack of a traditional 
+nuclear localisation signal [3]. It is unique among MAP kinases in 
+containing in its activation loop only a single phosphorylation site (serine 
+189) - other MAP kinases have the sequence TXY in this loop, but ERK3 
+contains SEG, with glycine in place of tyrosine.  
+
+ERK3 has no homologues in nematode or yeast genomes, indicating that it may 
+have arisen from a relatively late gene duplication [4-5]. Its structure, 
+based on similarity to ERK2, contains segregated alpha and beta regions.
+
+ERK3ERK4MAPK is a 9-element fingerprint that provides a signature for the 
+ERK3/4 MAP kinases. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs were drawn from conserved regions spanning virtually 
+the full alignment length, focusing on those sections that characterise the 
+ERK 3 and ERK 4 enzymes but distinguish them from the rest of the 
+MAP kinase family - motif 1 includes the ATP binding site. A single 
+iteration on SPTR40_20f was required to reach convergence, no further
+sequences being identified beyond the starting set.

@@ -1,0 +1,69 @@
+BCTLIPOCALIN
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration, and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Relatively recently, bacterial lipocalins have been described for the 
+first time [5-7]. These are lipoproteins anchored to the outer membrane 
+of Gram-negative bacteria such as E.coli. Their promoters are activated at 
+the transition between exponential and stationary growth phases. Bacterial
+lipocalin sequences are quite closely related to apolipoprotein D and may
+serve a starvation response function in bacteria. Overexpression, membrane
+fractionation, and metabolic labelling with tritiated palmitate showed 
+bacterial lipocalins to be globomycin-sensitive outer membrane proteins.
+
+The bacterial lipocalins have been found in a small number of species, 
+raising the possibility that they originated by horizontal transfer. 
+Estimates of the G+C content in the first and third codon positions of 
+these genes have been calculated. A biased %G+C in the 1st and 3rd codon
+positions would suggest horizontal transfer. None of the computed G+C 
+contents of the bacterial lipocalin genes were outside of the expected 
+limits (between the first and third quartiles). These data provide no 
+support for a hypothesis in which bacterial lipocalins were recently 
+acquired through horizontal transfer. Further evidence against horizontal 
+transfer will come from finding more lipocalins in different species, 
+thus making the gene transfer hypothesis more unlikely. 
+
+BCTLIPOCALIN is a 7-element fingerprint that provides a signature for 
+bacterial lipocalins. The fingerprint was derived from an initial alignment 
+of 2 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, focusing on those sections that 
+characterise the bacterial lipocalins but distinguish them from the rest of
+lipocalin superfamily - motif I includes the GxW triplet that forms part of
+the first beta-strand (cf. LIPOCALIN signature motif 1 and  PROSITE pattern
+LIPOCALIN (PS00213)); motif 5 corresponds closely with the second motif of
+the LIPOCALIN signature, which encodes a TDY triplet that lies in a 
+conserved region of the barrel involving the 6th and 7th beta-strands and
+the loop between them; and motif 6 spans a similar region to the third
+LIPOCALIN motif, which encodes an Arg (sometimes a Lys) residue, which lies
+in a structurally conserved region involving the final strand and part of 
+the loop linking it to the C-terminal alpha-helix. Two iterations on
+SPRT37_10f were required to reach convergence, at which point a true set 
+comprising 4 sequences was identified. 
+
+An update on SPTR57.15_40.15f identified a true set of 182 sequences and
+numerous partial matches, all of which are family members that fail to 
+match one or more motifs.

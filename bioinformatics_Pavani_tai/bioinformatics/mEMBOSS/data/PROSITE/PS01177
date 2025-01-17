@@ -1,0 +1,68 @@
+**********************************************
+* Anaphylatoxin domain signature and profile *
+**********************************************
+
+Anaphylatoxins [1]  are  mediators  of  local inflammatory process that act by
+inducing smooth muscle contraction. There are three  different anaphylatoxins:
+C3a, C4a  and  C5a. They are peptides of about 75 amino-acid residues that are
+derived from the proteolytic degradation of complement C3, C4 and C5 and which
+contains six  disulfide-bonded cysteines [2] (see the schematic representation
+below).
+
+                          +--------------------+
+            +-------------|------------+       |
+            |             |            |       |
+         xxxCCxxxxxxxxxxxxCxxxxxxxxxxxxCxxxxxxCCxxx
+             |                                |
+             +--------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+This cysteine-rich region shares similarity with a three times repeated domain
+found in  the  mammalian extracellular matrix proteins fibulins 1 and 2 [3,4].
+The three disulfide bonds are conserved in the first and last repeats, but the
+first disulfide bond is missing in the second repeat.
+
+Our consensus pattern spans the entire cysteine-rich domain.
+
+-Consensus pattern: [CSH]-C-x(2)-[GAP]-x(7,8)-[GASTDEQR]-C-[GASTDEQL]-x(3,9)-
+                    [GASTDEQN]-x(2)-[CE]-x(6,7)-C-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Hugli T.E.
+     "Biochemistry and biology of anaphylatoxins."
+     Complement 3:111-127(1986).
+     PubMed=3542363
+[ 2] Huber R., Scholze H., Paques E.P., Deisenhofer J.
+     "Crystal structure analysis and molecular model of human C3a
+     anaphylatoxin."
+     Hoppe-Seyler's Z. Physiol. Chem. 361:1389-1399(1980).
+     PubMed=7439885
+[ 3] Argraves W.S., Tran H., Burgess W.H., Dickerson K.
+     "Fibulin is an extracellular matrix and plasma glycoprotein with
+     repeated domain structure."
+     J. Cell Biol. 111:3155-3164(1990).
+     PubMed=2269669
+[ 4] Pan T.-C., Sasaki T., Zhang R.-Z., Faessler R., Timpl R., Chu M.L.
+     "Structure and expression of fibulin-2, a novel extracellular matrix
+     protein with multiple EGF-like repeats and consensus motifs for
+     calcium binding."
+     J. Cell Biol. 123:1269-1277(1993).
+     PubMed=8245130
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

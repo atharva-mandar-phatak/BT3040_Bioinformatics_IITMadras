@@ -1,0 +1,99 @@
+**************************************
+* Phosphopantetheine attachment site *
+**************************************
+
+Phosphopantetheine (or pantetheine 4' phosphate) is  the  prosthetic  group of
+acyl carrier proteins (ACP) in some  multienzyme complexes  where it serves as
+a 'swinging  arm'  for  the  attachment of activated fatty acid and amino-acid
+groups [1].  Phosphopantetheine  is  attached  to  a  serine  residue in these
+proteins [2].  ACP  proteins  or   domains  have  been found in various enzyme
+systems which  are  listed  below  (references  are only provided for recently
+determined sequences).
+
+ - Fatty  acid  synthase  (FAS),  which  catalyzes the formation of long-chain
+   fatty acids  from  acetyl-CoA,  malonyl-CoA  and NADPH. Bacterial and plant
+   chloroplast FAS are composed of eight separate subunits which correspond to
+   the  different  enzymatic  activities;  ACP  is  one of these polypeptides.
+   Fungal FAS consists of two multifunctional proteins, FAS1 and FAS2; the ACP
+   domain is  located  in  the  N-terminal  section  of  FAS2.  Vertebrate FAS
+   consists of a single  multifunctional  enzyme;  the ACP  domain  is located
+   between the beta-ketoacyl reductase  domain and the C-terminal thioesterase
+   domain [3].
+ - Polyketide antibiotics  synthase enzyme systems.  Polyketides are secondary
+   metabolites produced from simple fatty acids, by microorganisms and plants.
+   ACP is one of the polypeptidic  components  involved in the biosynthesis of
+   Streptomyces polyketide  antibiotics  actinorhodin,  curamycin, granatacin,
+   monensin, oxytetracycline and tetracenomycin C.
+ - Bacillus  subtilis  putative polyketide synthases pksK, pksL and pksM which
+   respectively contain three, five and one ACP domains.
+ - The multifunctional 6-methysalicylic acid synthase (MSAS) from  Penicillium
+   patulum. This is a multifunctional enzyme involved in the biosynthesis of a
+   polyketide antibiotic  and  which  contains an ACP domain in the C-terminal
+   extremity.
+ - Multifunctional  mycocerosic  acid  synthase  (gene mas) from Mycobacterium
+   bovis.
+ - Gramicidin  S  synthase  I  (gene  grsA)  from Bacillus brevis. This enzyme
+   catalyzes the  first  step  in  the  biosynthesis  of the cyclic antibiotic
+   gramicidin S.
+ - Tyrocidine  synthase  I  (gene  tycA)  from  Bacillus  brevis. The reaction
+   carried out by tycA is identical to that catalyzed by grsA.
+ - Gramicidin S synthase II (gene grsB) from Bacillus brevis. This enzyme is a
+   multifunctional protein  that  activates  and  polymerizes proline, valine,
+   ornithine and leucine. GrsB contains four ACP domains.
+ - Erythronolide synthase proteins 1, 2 and 3 from Saccharopolyspora erythraea
+   which is   involved  in  the  biosynthesis  of  the  polyketide  antibiotic
+   erythromicin. Each of these proteins contain two ACP domains.
+ - Conidial green pigment synthase from Aspergillus nidulans.
+ - ACV  synthase  from  various fungi. This enzyme catalyzes the first step in
+   the biosynthesis  of  penicillin  and  cephalosporin. It contains three ACP
+   domains.
+ - Enterobactin  synthase  component F (gene entF) from Escherichia coli. This
+   enzyme is  involved  in  the  ATP-dependent  activation  of  serine  during
+   enterobactin (enterochelin) biosynthesis.
+ - Cyclic  peptide  antibiotic  surfactin  synthase  subunits  1, 2 and 3 from
+   Bacillus subtilis.  Subunits  1  and 2 contains three related domains while
+   subunit 3 only contains a single domain.
+ - HC-toxin  synthase  (gene  HTS1)  from  Cochliobolus  carbonum. This enzyme
+   synthesizes HC-toxin,   a  cyclic  tetrapeptide.  HTS1  contains  four  ACP
+   domains.
+ - Fungal  mitochondrial  ACP,  which  is  part  of the respiratory chain NADH
+   dehydrogenase (complex I).
+ - Rhizobium nodulation protein nodF,  which  probably  acts  as an ACP in the
+   synthesis of the nodulation Nod factor fatty acyl chain.
+
+The sequence around the phosphopantetheine attachment site is conserved in all
+these proteins  and  can  be  used  as a signature pattern. A profile was also
+developed that spans the complete ACP-like domain.
+
+-Consensus pattern: [DEQGSTALMKRH]-[LIVMFYSTAC]-[GNQ]-[LIVMFYAG]-[DNEKHS]-S-
+                    [LIVMST]-{PCFY}-[STAGCPQLIVMF]-[LIVMATN]-[DENQGTAKRHLM]-
+                    [LIVMWSTA]-[LIVGSTACR]-{LPIY}-{VY}-[LIVMFA]
+                    [S is the pantetheine attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ C.paradoxa ACP.
+-Other sequence(s) detected in Swiss-Prot: 115.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Concise Encyclopedia Biochemistry, Second Edition, Walter de Gruyter,
+     Berlin New-York (1988).
+[ 2] Pugh E.L., Wakil S.J.
+     J. Biol. Chem. 240:4727-4733(1965).
+[ 3] Witkowski A., Rangan V.S., Randhawa Z.I., Amy C.M., Smith S.
+     "Structural organization of the multifunctional animal fatty-acid
+     synthase."
+     Eur. J. Biochem. 198:571-579(1991).
+     PubMed=2050137
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

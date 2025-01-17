@@ -1,0 +1,59 @@
+***********************
+* HRDC domain profile *
+***********************
+
+The helicase  and  RNaseD  C-terminal (HRDC) domain is an 80-amino acid domain
+usually found  at  the  C-terminus of RecQ helicases and RNase D homologs from
+various organisms, including human, yeast and bacteria [1]. The HRDC domain is
+involved in  the  binding  of DNA to specific DNA structures (e.g. long-forked
+duplexes and   Holliday   junctions)   that  are  formed  during  replication,
+recombination or transcription [2].
+
+The 3D structure of the HRDC domain consists of five helices (see <PDB:1D8B>).
+Conserved residues  in  all  five helices are important for the packing of the
+HRDC fold [3].
+
+Some proteins known to contain a HRDC domain are listed below:
+
+ - Animal  Werner  syndrome  helicase  (WRN). In human, defects in WRN are the
+   cause of  Werner  syndrome  (WS),  a  rare  autosomal  recessive  progeroid
+   syndrome characterized  by  the  premature  onset  of  multiple age-related
+   disorders.
+ - Animal  Bloom's  syndrome  protein (EC 3.6.1.-) (BLM). In human, defects in
+   BLM are  the  cause of Bloom syndrome (BS), an autosomal recessive disorder
+   characterized by  proportionate  pre- and postnatal growth deficiency, sun-
+   sensitive telangiectatic  hypo-  and hyperpigmented skin, predisposition to
+   malignancy, and chromosomal instability.
+ - Human PM-Scl autoantigen.
+ - Yeast  SGS1, the ortholog of BLM. It is required for chromosome segregation
+   and interacts with topoisomerases I and II.
+
+The profile we developed covers the entire HRDC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2004 / First entry.
+
+[ 1] Morozov V., Mushegian A.R., Koonin E.V., Bork P.
+     "A putative nucleic acid-binding domain in Bloom's and Werner's
+     syndrome helicases."
+     Trends Biochem. Sci. 22:417-418(1997).
+     PubMed=9397680
+[ 2] von Kobbe C., Thomae N.H., Czyzewski B.K., Pavletich N.P., Bohr V.A.
+     J. Biol. Chem. 278:52997-53006(2003).
+[ 3] Liu Z., Macias M.J., Bottomley M.J., Stier G., Linge J.P., Nilges M.,
+     Bork P., Sattler M.
+     "The three-dimensional structure of the HRDC domain and implications
+     for the Werner and Bloom syndrome proteins."
+     Structure 7:1557-1566(1999).
+     PubMed=10647186
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,114 @@
+*****************************************
+* TGF-beta family signature and profile *
+*****************************************
+
+Transforming growth  factor-beta (TGF-beta) [1] is  a  multifunctional peptide
+that controls proliferation,  differentiation and other functions in many cell
+types.  TGF-beta-1 is  a  peptide  of  112  amino  acid  residues  derived  by
+proteolytic cleavage from the C-terminal of a precursor protein.   A number of
+proteins are known to be related to TGF-beta-1 [1,2,3]. They are listed below.
+
+ - Two other forms of TGF-beta have been found, they are  known as  TGF-beta-2
+   and TGF-beta-3.
+ - Mullerian inhibitory  substance  (MIS), produced  by  the  testis, which is
+   responsible for the regression of the Mullerian ducts in the male embryo.
+ - Inhibins, which inhibit the  secretion  of  follitropin  by  the  pituitary
+   gland, and activins which have the reverse action. Inhibins are heterodimer
+   of an  alpha  chain    and  a beta-A or a beta-B chain; activins are either
+   homodimers of beta-A chains or heterodimers of a beta-A and a beta-B chain.
+   All three chains are related to TGF-beta.
+ - Bone morphogenetic proteins [4] BMP-2, BMP-3 (osteogenin), BMP-3B (GDF-10),
+   BMP-4 (BMP-2B),  BMP-5, BMP-6  (VGR-1), BMP-7 (OP-1) and BMP-8 (OP-2) which
+   induce cartilage  and bone formation and which are probably involved in the
+   control of the production of skeletal structures during development.
+ - Embryonic  growth  factor  GDF-1,  which  may  mediate cell differentiation
+   events during embryonic development.
+ - Growth/development  factor GDF-5 [5], a protein whose gene, when mutated in
+   mice, is  the  cause of brachypodism, a defects which alters the length and
+   numbers of bones in the limbs.
+ - Growth/development factor GDF-3, GDF-6, GDF-7, GDF-8 (myostatin) and GDF-9.
+ - Mouse protein nodal, which seems essential for mesoderm formation.
+ - Chicken  dorsalin-1  (dsl-1) which may regulate cell differentiation within
+   the neural tube.
+ - Xenopus vegetal hemisphere protein Vg1, which seems to induce the overlying
+   animal pole cells to form mesodermal tissue.
+ - Drosophila  decapentaplegic  protein (DPP-C),  which  participates  in  the
+   establishment of dorsal-ventral specification.
+ - Drosophila protein screw (scw) which also participates in the establishment
+   of dorsal-ventral specification.
+ - Drosophila protein 60A.
+ - Caenorhabditis elegans larval development regulatory growth factor daf-7.
+ - Mammalian endometrial bleeding-associated factor (EBAF) (Lefty).
+ - Mammalian  glial  cell line-derived neurotrophic factor (GDNF), a distantly
+   related member  of  this  family  which  acts  as  neurotrophic  factor for
+   dopaminergic neurons of the substantia nigra.
+
+Proteins from  the TGF-beta  family  are  only active as homo- or heterodimer;
+the two chains being linked by a single disulfide bond. From X-ray studies  of
+TGF-beta-2 [6],  it  is  known that all the other cysteines  are  involved  in
+intrachain  disulfide bonds.      As   shown   in   the   following  schematic
+representation, there are four disulfide bonds in the TGF-betas and in inhibin
+beta chains, while the other members of this family lack the first bond.
+
+                                                     interchain
+                                                     |
+          +------------------------------------------|+
+          |                *******                   ||
+ xxxcxxxxxCcxxxxxxxxxxxxxxxxxxCxxCxxxxxxxxxxxxxxxxxxxCCxxxxxxxxxxxxxxxxxxxCxCx
+    |      |                  |  |                                        | |
+    +------+                  +--|----------------------------------------+ |
+                                 +------------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As  a  pattern to detect these proteins, we use a region which includes two of
+the  conserved  cysteines.  We  also  developed  a profile that covers all the
+conserved cysteines.
+
+-Consensus pattern: [LIVM]-x(2)-P-x(2)-[FY]-x(4)-C-x-G-x-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the profile: ALL.
+ for GDNF and neurturin.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2008 / Text revised; profile added.
+
+[ 1] Roberts A.B., Sporn M.B.
+     (In) Peptide growth factors and their receptors, Handbook of Experimental
+     Pharmacology, Vol. 95, pp419-475, Springer Verlag, Heidelberg, (1990).
+[ 2] Burt D.W.
+     Biochem. Biophys. Res. Commun. 184:590-595(1992).
+[ 3] Burt D.W., Law A.S.
+     "Evolution of the transforming growth factor-beta superfamily."
+     Prog. Growth Factor Res. 5:99-118(1994).
+     PubMed=8199356
+[ 4] Kingsley D.M.
+     "What do BMPs do in mammals? Clues from the mouse short-ear
+     mutation."
+     Trends Genet. 10:16-21(1994).
+     PubMed=8146910
+[ 5] Storm E.E., Huynh T.V., Copeland N.G., Jenkins N.A., Kingsley D.M.,
+     Lee S.-J.
+     "Limb alterations in brachypodism mice due to mutations in a new
+     member of the TGF beta-superfamily."
+     Nature 368:639-643(1994).
+     PubMed=8145850; DOI=10.1038/368639a0
+[ 6] Daopin S., Piez K.A., Ogawa Y., Davies D.R.
+     "Crystal structure of transforming growth factor-beta 2: an unusual
+     fold for the superfamily."
+     Science 257:369-373(1992).
+     PubMed=1631557
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

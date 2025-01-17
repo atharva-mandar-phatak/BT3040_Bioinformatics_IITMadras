@@ -1,0 +1,128 @@
+*****************************************************************
+* Kazal serine protease inhibitors family signature and profile *
+*****************************************************************
+
+Canonical  serine  proteinase  inhibitors  are  distributed in a wide range of
+organisms  from  all  kingdoms  of  life  and  play  crucial  role  in various
+physiological    mechanisms    [1].   They   interact   from   the   canonical
+proteinase-inhibitor  binding  loop,  where  P1 residue has a predominant role
+(the  residue  at  the  P1  position  contributing the carbonyl portion to the
+reactive-site  peptide  bond).  These  so-called  canonical inhibitors bind to
+their  cognate enzymes in the same manner as a good substrate, but are cleaved
+extremely  slowly.  Kazal-type inhibitors represent the most studied canonical
+proteinase  inhibitors.  Kazal  inhibitors  are  extremely  variable  at their
+reactive  sites.  However,  some  regularity  prevails such as the presence of
+lysine at position P1 indicating strong inhibition of trypsin [2].
+
+The  Kazal  inhibitor  has  six  cysteine residues engaged in disulfide bonds
+arranged as shown in the following schematic representation:
+
+
+
+                       +------------------+
+                       |                  |
+                       *******************|***
+        xxxxxxxxCxxxxxxCx#xxxxxCxxxxxxxxxxCxxCxxxxxxxxxxxxxxxxxC
+                |              |             |                 |
+                |              +-------------|-----------------+
+                +----------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the pattern.
+
+The  structure  of  classical Kazal domains consists of a central alpha helix,
+which  is  inserted  between  two  beta-strands and a third that is toward the
+C-terminus  (see  for  example  <PDB:1OVO>)[3].  The  reactive site P1 and the
+conformation  of  the  reactive  site  loop  is structurally highly conserved,
+similar to the canonical conformation of small serine proteinase inhibitors.
+
+The proteins known to belong to this family are:
+
+ - Pancreatic secretory trypsin inhibitor (PSTI), whose physiological function
+   is to prevent the trypsin-catalyzed premature activation of zymogens within
+   the pancreas.
+ - Mammalian seminal acrosin inhibitors.
+ - Canidae and felidae submandibular gland double-headed protease  inhibitors,
+   which contain  two  Kazal-type  domains, the first one inhibits trypsin and
+   the second one elastase.
+ - A mouse prostatic  secretory glycoprotein, induced by androgens, and  which
+   exhibits anti-trypsin activity.
+ - Avian ovomucoids, which consist of three Kazal-type domains.
+ - Chicken ovoinhibitor, which consists of seven Kazal-type domains.
+ - Bdellin B-3, a leech trypsin inhibitor.
+ - LDTI [4], a leech tryptase inhibitor.
+ - An eel peptide, which is probably a pancreatic serine proteinase inhibitor.
+ - An elastase inhibitor from a sea anemone.
+ - Rhodniin,  a thrombin inhibitor from the insect Rhodnius prolixus [5]. This
+   protein consists of two Kazal-type domains.
+ - Pig  intestinal  peptide  PEC-60 [6]. This protein, while highly similar to
+   other members  of  the  Kazal  family,  does  not seem to act as a protease
+   inhibitor. Its  exact biological function is not yet established, but it is
+   known to  inhibit  the  glucose-induced  insulin  secretion  from  perfused
+   pancreas and to play a role in the immune system.
+
+The  pattern  we  developed  to  pick  up Kazal-type inhibitors spans a region
+beginning  with  the  second  cysteine  and ending with the fifth one. We also
+developed a profile that covers the entire Kazal domain.
+
+-Consensus pattern: C-x(4)-{C}-x(2)-C-x-{A}-x(4)-Y-x(3)-C-x(2,3)-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the sea anemone inhibitor which has six residues between the last two Cys
+ of the pattern.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern  will fail  to detect the first of the three Kazal domains
+ in some of the ovomucoids and the second domain of rhodniin.
+
+-Last update: September 2009 / Text revised; profile added.
+
+[ 1] Laskowski M. Jr., Kato I.
+     "Protein inhibitors of proteinases."
+     Annu. Rev. Biochem. 49:593-626(1980).
+     PubMed=6996568; DOI=10.1146/annurev.bi.49.070180.003113
+[ 2] Laskowski M., Qasim M.A.
+     "What can the structures of enzyme-inhibitor complexes tell us about
+     the structures of enzyme substrate complexes?"
+     Biochim. Biophys. Acta 1477:324-337(2000).
+     PubMed=10708867
+[ 3] Papamokos E., Weber E., Bode W., Huber R., Empie M.W., Kato I.,
+     Laskowski M. Jr.
+     "Crystallographic refinement of Japanese quail ovomucoid, a Kazal-type
+     inhibitor, and model building studies of complexes with serine
+     proteases."
+     J. Mol. Biol. 158:515-537(1982).
+     PubMed=6752426
+[ 4] Sommerhoff C.P., Sollner C., Mentele R., Piechottka G.P.,
+     Auerswald E.A., Fritz H.
+     "A Kazal-type inhibitor of human mast cell tryptase: isolation from
+     the medical leech Hirudo medicinalis, characterization, and sequence
+     analysis."
+     Biol. Chem. Hoppe-Seyler 375:685-694(1994).
+     PubMed=7888081
+[ 5] Friedrich T., Kroger B., Bialojan S., Lemaire H.G., Hoffken H.W.,
+     Reuschenbach P., Otte M., Dodt J.
+     "A Kazal-type inhibitor with thrombin specificity from Rhodnius
+     prolixus."
+     J. Biol. Chem. 268:16216-16222(1993).
+     PubMed=8344906
+[ 6] Liepinsh E., Berndt K.D., Sillard R., Mutt V., Otting G.
+     "Solution structure and dynamics of PEC-60, a protein of the Kazal
+     type inhibitor family, determined by nuclear magnetic resonance
+     spectroscopy."
+     J. Mol. Biol. 239:137-153(1994).
+     PubMed=8196042
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

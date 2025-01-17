@@ -1,0 +1,24 @@
+GLHYDRLASE26
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 26 encompasses mainly mannan endo-1,4-beta-mannosidases.
+
+Mannan endo-1,4-beta-mannosidase hydrolyses mannan and galactomannan, but
+displays little activity towards other plant cell wall polysaccharides [5].
+The enzyme randomly hydrolyses 1,4-beta-D-linkages in mannans, galacto-
+mannans, glucomannans and galactoglucomannans.
+
+GLHYDRLASE26 is a 4-element fingerprint that provides a signature for
+family 26 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions 
+spanning the central portion of the alignment. Two iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising
+7 sequences was identified. Two partial matches were found, MANA_RHOMR and
+GUNH_CLOTM, both of which are family members that fail to make significant
+matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 2
+partial matches.

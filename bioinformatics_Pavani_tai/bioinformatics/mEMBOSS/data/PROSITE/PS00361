@@ -1,0 +1,40 @@
+***********************************
+* Ribosomal protein S10 signature *
+***********************************
+
+Ribosomal protein S10 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli,  S10  is  known  to  be  involved in binding tRNA to the
+ribosomes. It    belongs to a family of ribosomal proteins which, on the basis
+of sequence similarities [1], groups:
+
+ - Eubacterial S10.
+ - Algal chloroplast S10.
+ - Cyanelle S10.
+ - Archaebacterial S10.
+ - Marchantia polymorpha and Prototheca wickerhamii mitochondrial S10.
+ - Arabidopsis thaliana mitochondrial S10 (nuclear encoded).
+ - Vertebrate S20.
+ - Plant S20.
+ - Yeast URP2.
+
+S10 is a protein of about 100 amino-acid residues.  As a signature pattern, we
+selected a conserved region located in the center of these proteins.
+
+-Consensus pattern: [AV]-x(3)-[GDNSR]-[LIVMSTAG]-x(3)-G-P-[LIVM]-x-[LIVM]-P-T
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for plant mitochondrial and Rickettsia prowazekii S10.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

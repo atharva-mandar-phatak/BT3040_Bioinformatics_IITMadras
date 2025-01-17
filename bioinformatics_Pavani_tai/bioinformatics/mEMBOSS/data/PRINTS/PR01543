@@ -1,0 +1,25 @@
+ANATRNSFRASE
+N-acetylation by hepatic arylamine N-acetyltransferase (NAT) is a major 
+route in the metabolism and detoxification of various drugs and foreign 
+chemicals [1]. NAT catalyses the reaction:
+
+           Acetyl-coA + arylamine = coA + N-acetylarylamine
+
+NAT is the target of a common genetic polymorphism of clinical relevance in
+humans [1]. The N-acetylation polymorphism is determined by low or high NAT
+activity in liver [2]. NAT has been implicated in the action and toxicity 
+of amine-containing drugs, and in the susceptibility to cancer [3] and
+systematic lupus erythematosus. Two highly similar human genes for NAT, 
+termed NAT1 and NAT2, encode genetically invariant and variant NAT proteins,
+respectively [2].
+
+ANATRNSFRASE is a 10-element fingerprint that provides a signature for 
+arylamine N-acetyltransferases. The fingerprint was derived from an initial
+alignment of 14 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 3 includes the active
+site cysteine residue. A single iteration on SPTR39_15f was required to
+reach convergence, no further sequences being identified beyond the starting
+set. Two true partial matches were found: NAT_MYCSM is an arylamine
+N-acetyltransferase from Mycobacterium smegmatis that matches motifs 1-4
+and 7; and NAT_MYCTU is an arylamine N-acetyltransferase from Mycobacterium
+tuberculosis that matches motifs 1 and 2.

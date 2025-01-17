@@ -1,0 +1,80 @@
+**********************
+* Amidases signature *
+**********************
+
+It has been shown [1,2,3] that  several  enzymes  from various prokaryotic and
+eukaryotic organisms which are involved in the hydrolysis of amides (amidases)
+are evolutionary related. These enzymes are listed below.
+
+ - Indoleacetamide hydrolase (EC 3.5.1.-), a  bacterial plasmid-encoded enzyme
+   that catalyzes the  hydrolysis  of  indole-3-acetamide (IAM) into indole-3-
+   acetate (IAA), the  second  step  in  the   biosynthesis  of   auxins  from
+   tryptophan.
+ - Acetamidase  from  Emericella nidulans (gene amdS), an  enzyme which allows
+   acetamide to be used as a sole carbon or nitrogen source.
+ - Amidase (EC 3.5.1.4) from Rhodococcus sp. N-774 and Brevibacterium sp. R312
+   (gene amdA). This enzyme hydrolyzes propionamides efficiently,  and also at
+   a lower efficiency, acetamide, acrylamide and indoleacetamide.
+ - Amidase (EC 3.5.1.4) from Pseudomonas chlororaphis.
+ - 6-aminohexanoate-cyclic-dimer  hydrolase  (EC 3.5.2.12)   (nylon  oligomers
+   degrading enzyme E1) (gene nylA), a bacterial plasmid  encoded enzyme which
+   catalyzes the first  step in the degradation of 6-aminohexanoic acid cyclic
+   dimer, a by-product of nylon manufacture [4].
+ - Glutamyl-tRNA(Gln) amidotransferase subunit A [5].
+ - Mammalian fatty acid amide hydrolase (gene FAAH) [6].
+ - A putative amidase from yeast (gene AMD2).
+ - Mycobacterium tuberculosis putative amidases amiA2, amiB2, amiC and amiD.
+
+All these enzymes contains in their central  section a highly conserved region
+rich in glycine, serine, and alanine residues.  We  have used this region as a
+signature pattern.
+
+-Consensus pattern: G-[GAV]-S-[GS](2)-G-x-[GSAE]-[GSAVYCT]-x-[LIVMT]-[GSA]-
+                    x(6)-[GSAT]-x-[GA]-x-[DE]-x-[GA]-x-S-[LIVM]-R-x-P-[GSACTL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Mayaux J.-F., Cerebelaud E., Soubrier F., Faucher D., Petre D.
+     "Purification, cloning, and primary structure of an
+     enantiomer-selective amidase from Brevibacterium sp. strain R312:
+     structural evidence for genetic coupling with nitrile hydratase."
+     J. Bacteriol. 172:6764-6773(1990).
+     PubMed=2254253
+[ 2] Hashimoto Y., Nishiyama M., Ikehata O., Horinouchi S., Beppu T.
+     "Cloning and characterization of an amidase gene from Rhodococcus
+     species N-774 and its expression in Escherichia coli."
+     Biochim. Biophys. Acta 1088:225-233(1991).
+     PubMed=2001397
+[ 3] Chang T.-H., Abelson J.
+     "Identification of a putative amidase gene in yeast Saccharomyces
+     cerevisiae."
+     Nucleic Acids Res. 18:7180-7180(1990).
+     PubMed=2263500
+[ 4] Tsuchiya K., Fukuyama S., Kanzaki N., Kanagawa K., Negoro S., Okada H.
+     "High homology between 6-aminohexanoate-cyclic-dimer hydrolases of
+     Flavobacterium and Pseudomonas strains."
+     J. Bacteriol. 171:3187-3191(1989).
+     PubMed=2722746
+[ 5] Curnow A.W., Hong K., Yuan R., Kim S., Martins O., Winkler W.,
+     Henkin T.M., Soll D.
+     "Glu-tRNAGln amidotransferase: a novel heterotrimeric enzyme required
+     for correct decoding of glutamine codons during translation."
+     Proc. Natl. Acad. Sci. U.S.A. 94:11819-11826(1997).
+     PubMed=9342321
+[ 6] Cravatt B.F., Giang D.K., Mayfield S.P., Boger D.L., Lerner R.A.,
+     Gilula N.B.
+     "Molecular characterization of an enzyme that degrades neuromodulatory
+     fatty-acid amides."
+     Nature 384:83-87(1996).
+     PubMed=8900284
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

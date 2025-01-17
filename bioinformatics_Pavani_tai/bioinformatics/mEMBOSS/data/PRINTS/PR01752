@@ -1,0 +1,38 @@
+UREASE
+Urea amidohydrolases (ureases) are multi-subunit enzymes that catalyse the 
+hydrolysis of urea to carbamate and ammonia [1]. They contain nickel 
+atoms and are found in a wide range of ecological and pathogenic microbes,
+as well as some plant species, and are utilised in several different ways 
+depending on the needs of the organism [1]. The synthesis of the mature 
+protein can be nitrogen regulated, urea inducible or constitutive, and 
+urease itself has been implicated in the virulence of several important 
+pathogens [2].
+
+Uropathogenic Escherichia coli is often quoted as having the archetypal 
+urease gene, and together with other virulence factors allows colonisation 
+of the urinary tract [3]. Proteus mirabilis also expresses urease for this
+use. Helicobacter pylori, a Gram-negative bacterium implicated in a 
+variety of gastroduodenal diseases, uses urease to neutralise stomach acid
+and produce ammonia for the bacterium's survival [4]. Symbiotic microbes in
+the environment, like Rhizobium meliloti, express the enzyme to take 
+advantage of extra nitrogenous sources, and some plants utilise urease 
+for the same purpose [4]. 
+
+Recently, the structure of Helicobacter pylori urease was resolved to 3.00A 
+using X-ray crystallography [5]. The whole molecule is a 1.1MDa spherical
+assembly of 12 catalytic subunits, with an outer diameter of ~160A. Activity
+assays of the mature protein have shown that the enzyme remains active down
+to pH3, while the purified recombinant protein becomes inactive at pH5 [5].
+Thus, the wild type molecular assembly has been adapted for acid resistance,
+allowing H.pylori to exploit the stomach as an ecological niche. 
+
+UREASE is a 4-element fingerprint that provides a signature for the urea
+amidohydrolase (urease) family. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal portion of the alignment (~130 amino acids) - motif
+1 spans the C-terminus of beta-strand 14 and alpha-helix 11; motif 2 encodes
+helix 14; motif 3 spans the C-terminus of helix 16 and helix 17; and motif 4 
+spans strand 16 and helix 18. Two iterations on SPTR40_20f were required to
+reach convergence, at which point a true set comprising 61 sequences was
+identified. A single partial match was also found, Q9RFF2, a Rhodobacter
+sphaeroides urease that fails to match motif 1.

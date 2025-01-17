@@ -1,0 +1,44 @@
+************************************************
+* S-adenosylmethionine decarboxylase signature *
+************************************************
+
+S-adenosylmethionine decarboxylase  (EC 4.1.1.50) (AdoMetDC) [1] catalyzes the
+removal of  the  carboxylate group of S-adenosylmethionine to form S-adenosyl-
+5'-3-methylpropylamine which then acts as the n-propylamine group donor in the
+synthesis of the polyamines spermidine and spermine from putrescine.
+
+The catalytic  mechanism  of  AdoMetDC  involves  a  covalently-bound pyruvoyl
+group.  This  group is  post-translationally  generated  by  a  self-catalyzed
+intramolecular proteolytic cleavage reaction between a glutamate and a serine.
+This cleavage  generates two chains, beta (N-terminal) and alpha (C-terminal).
+The N-terminal  serine  residue  of  the  alpha  chain  is  then  converted by
+nonhydrolytic serinolysis into a pyruvyol group.
+
+As a  signature  pattern for AdoMetDC we selected the region that contains the
+proteolytic celavage site.
+
+-Consensus pattern: [SA]-[FY]-[LIV]-L-[STN]-E-S-S-[LIVMF]-F-[LIV]
+                    [The first S is the pyruvoyl forming residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  AdoMetDC  enzyme  from  Escherichia  coli  does not belong to this
+ family.
+
+-Last update: July 1999 / First entry.
+
+[ 1] Ekstrom J.L., Mathews I.I., Stanley B.A., Pegg A.E., Ealick S.E.
+     "The crystal structure of human S-adenosylmethionine decarboxylase at
+     2.25 A resolution reveals a novel fold."
+     Structure 7:583-595(1999).
+     PubMed=10378277
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

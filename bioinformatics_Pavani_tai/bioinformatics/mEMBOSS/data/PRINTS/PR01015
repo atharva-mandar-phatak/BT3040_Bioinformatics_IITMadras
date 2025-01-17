@@ -1,0 +1,49 @@
+NRPEPTIDEY4R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide Y (NPY) is one of the most abundant peptides in mammalian
+brain, inducing a variety of behavioural effects (e.g., stimulation of food
+intake, anxiety, facilitation of learning and memory, and regulation of the
+cardiovascular and neuroendocrine systems) [6]. In the periphery, NPY 
+stimulates vascular smooth muscle contraction and modulates hormone
+secretion. NPY has been implicated in the pathophysiology of hypertension, 
+congestive heart failure, affective disorders and appetite regulation [6].
+
+Several pharmacologically distinct neuropeptide Y receptors have been 
+characterised, designated NPY Y1-Y6. Y4 receptors show highest similarity
+to Y1 receptors from human, rat and mouse [7]. It is believed that they
+may have potential roles in central nervous system, cardiovascular and
+gastrointestinal function [7]. 
+
+NRPEPTIDEY4R is a 10-element fingerprint that provides a signature for
+neuropeptide Y4 receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved sections
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the Y4 receptors but distinguish them from the rest of
+the neuropeptide Y family - motifs 1-3 span the N-terminus, leading into 
+TM domain 1; motifs 4 and 5 span the C-terminus of TM domain 4, leading
+into second external loop; motif 6 lies in the third cytoplasmic loop; motif
+7 lies in the third external loop; and motifs 8-10 span the C-terminus. A
+single iteration on OWL30.2 was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match 
+was found, AF030245, a zebrafish neuropeptide Y receptor that matches motifs
+7 and 9.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

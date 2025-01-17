@@ -1,0 +1,35 @@
+******************************************
+* Synaptophysin / synaptoporin signature *
+******************************************
+
+Synaptophysin and synaptoporin [1] are structurally related proteins, found in
+the membrane of  synaptic vesicles,  which  may function  as ionic  or  solute
+channels.  These two glycoproteins  seem to span the membrane four times. Both
+their N- and C-termini sequences seem to be cytoplasmically located.
+
+As a signature pattern for  this  family  of  proteins  we  selected  a highly
+conserved region located  in the beginning of  the  first  intravesicular loop
+just after  the  first transmembrane domain.  This  region contains a cysteine
+residue that may be involved in a disulfide bond.
+
+-Consensus pattern: L-S-V-[DE]-C-x-N-K-T
+                    [C may be involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 1991 / First entry.
+
+[ 1] Knaus P., Marqueze-Pouey B., Scherer H., Betz H.
+     "Synaptoporin, a novel putative channel protein of synaptic
+     vesicles."
+     Neuron 5:453-462(1990).
+     PubMed=2206533
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

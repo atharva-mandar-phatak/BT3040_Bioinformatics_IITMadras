@@ -1,0 +1,146 @@
+********************************************************************
+* Bacterial regulatory proteins, araC family signature and profile *
+********************************************************************
+
+The many bacterial transcription regulation proteins which bind DNA  through a
+'helix-turn-helix' motif can  be  classified into subfamilies  on the basis of
+sequence similarities. One  of these subfamilies groups together the following
+proteins [1,2,3]:
+
+ - aarP,  a  transcriptional  activator  of the 2'-N-acetyltransferase gene in
+   Providencia stuartii.
+ - ada,  an  Escherichia  coli and Salmonella typhimurium bifunctional protein
+   that repairs  alkylated  guanine  in DNA by transferring the alkyl group at
+   the O(6)  position  to  a  cysteine  residue  in the enzyme. The methylated
+   protein acts  a  positive  regulator  of its own synthesis and of the alkA,
+   alkB and aidB genes.
+ - adaA, a Bacillus subtilis  bifunctional   protein  that   acts  both  as  a
+   transcriptional activator of the ada operon and as a methylphosphotriester-
+   DNA alkyltransferase.
+ - adiY, an Escherichia coli protein of unknown function.
+ - aggR,  the  transcriptional  activator  of  aggregative adherence fimbria I
+   expression in enteroaggregative Escherichia coli.
+ - appY, a protein  which  acts  as  a  transcriptional   activator  of   acid
+   phosphatase and other proteins during  the deceleration phase of growth and
+   acts as a repressor for other proteins that  are synthesized in exponential
+   growth or in the stationary phase.
+ - araC, the   arabinose operon   regulatory  protein,   which  activates  the
+   transcription of the araBAD genes.
+ - cafR, the Yersinia pestis F1 operon positive regulatory protein.
+ - celD, the Escherichia coli cel operon repressor.
+ - cfaD, a protein which is required for  the  expression of the CFA/I adhesin
+   of enterotoxigenic Escherichia coli.
+ - csvR,  a  transcriptional  activator  of  fimbrial genes in enterotoxigenic
+   Escherichia coli.
+ - envY, the porin thermoregulatory  protein, which is involved in the control
+   of  the  temperature-dependent  expression  of  several   Escherichia  coli
+   envelope proteins such as ompF, ompC, and lamB.
+ - exsA, an activator of exoenzyme S synthesis in Pseudomonas aeruginosa.
+ - fapR, the positive activator for the expression of  the  987P operon coding
+   for the fimbrial protein in enterotoxigenic Escherichia coli.
+ - hrpB, a   positive  regulator   of  pathogenicity   genes  in  Burkholderia
+   solanacearum.
+ - invF, the Salmonella typhimurium invasion operon regulator.
+ - marA,  which  may  be  a transcriptional activator of genes involved in the
+   multiple antibiotic resistance (mar) phenotype.
+ - melR, the  melibiose  operon  regulatory   protein,   which  activates  the
+   transcription of the melAB genes.
+ - mixE, a Shigella flexneri protein necessary for secretion of ipa invasins.
+ - mmsR, the transcriptional  activator  for  the mmsAB operon  in Pseudomonas
+   aeruginosa.
+ - msmR, the multiple  sugar  metabolism  operon  transcriptional activator in
+   Streptococcus mutans.
+ - pchR, a Pseudomonas aeruginosa  activator for  pyochelin and ferripyochelin
+   receptor.
+ - perA,  a  transcriptional  activator  of  the  eaeA  gene  for  intimin  in
+   enteropathogenic Escherichia coli.
+ - pocR, a  Salmonella  typhimurium  regulator  of the  cobalamin biosynthesis
+   operon.
+ - pqrA, from Proteus vulgaris.
+ - rafR, the regulator of the raffinose operon in Pediococcus pentosaceus.
+ - ramA, from Klebsiella pneumoniae.
+ - rhaR,  the  Escherichia  coli and  Salmonella typhimurium L-rhamnose operon
+   transcriptional activator.
+ - rhaS, an Escherichia coli and Salmonella typhimurium positive activator of
+   genes required for rhamnose utilization.
+ - rns, a protein which is required for  the  expression  of  the  cs1 and cs2
+   adhesins of enterotoxigenic Escherichia coli.
+ - rob,  a protein which binds to the right arm of the replication origin oriC
+   of the Escherichia coli chromosome.
+ - soxS, a protein that, with the soxR protein, controls a superoxide response
+   regulon in Escherichia coli.
+ - tetD, a protein from transposon TN10.
+ - tcpN or toxT, the Vibrio cholerae  transcriptional  activator  of  the  tcp
+   operon involved in pilus biosynthesis and transport.
+ - thcR,  a  probable  regulator  of the thc operon for the degradation of the
+   thiocarbamate herbicide EPTC in Rhodococcus sp. strain NI86/21.
+ - ureR, the transcriptional activator of the plasmid-encoded urease operon in
+   Enterobacteriaceae.
+ - virF and lcrF, the Yersinia virulence regulon transcriptional activator.
+ - virF, the  Shigella  transcriptional  factor  of  invasion related antigens
+   ipaBCD.
+ - xylR, the Escherichia coli xylose operon regulator.
+ - xylS,  the  transcriptional activator of the Pseudomonas putida TOL plasmid
+   (pWWO, pWW53 and pDK1) meta operon (xylDLEGF genes).
+ - yfeG, an Escherichia coli hypothetical protein.
+ - yhiW, an Escherichia coli hypothetical protein.
+ - yhiX, an Escherichia coli hypothetical protein.
+ - yidL, an Escherichia coli hypothetical protein.
+ - yijO, an Escherichia coli hypothetical protein.
+ - yuxC, a Bacillus subtilis hypothetical protein.
+ - yzbC, a Bacillus subtilis hypothetical protein.
+
+Except for celD, all of these  proteins seem  to  be  positive transcriptional
+factors. Their size range from 107 (soxS) to 529 (yzbC) residues.
+
+The helix-turn-helix  motif  is  located  in  the third quarter of most of the
+sequences; the  N-terminal and  central regions of these proteins are presumed
+to interact  with  effector molecules and may be involved in dimerization. The
+minimal DNA binding domain, which spans roughly 100 residues and comprises the
+HTH motif  contains  another  region  with similarity to classical HTH domain.
+However, it contains an insertion of one residue in the turn-region.
+
+A signature  pattern  was  derived  from the region that follows the first HTH
+domain and  that  includes  the totality of the putative second HTH domain.  A
+more sensitive  detection  of  members of the araC family is available through
+the use  of  a  profile  which  spans  the  minimal  DNA-binding region of 100
+residues.
+
+-Consensus pattern: [KRQ]-[LIVMA]-x(2)-[GSTALIV]-{FYWPGDN}-x(2)-[LIVMSA]-
+                    x(4,9)-[LIVMF]-x-{PLH}-[LIVMSTA]-[GSTACIL]-{GPK}-{F}-x-
+                    [GANQRF]-[LIVMFY]-x(4,5)-[LFY]-x(3)-[FYIVA]-{FYWHCM}-
+                    {PGVI}-x(2)-[GSADENQKR]-x-[NSTAPKL]-[PARL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 50.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramos J.L.; jlramos@samba.cnb.uam.es
+           Gallegos M.-T.; mtrini@samba.cnb.uam.es
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gallegos M.-T., Michan C., Ramos J.L.
+     "The XylS/AraC family of regulators."
+     Nucleic Acids Res. 21:807-810(1993).
+     PubMed=8451183
+[ 2] Henikoff S., Wallace J.C., Brown J.P.
+     "Finding protein similarities with nucleotide sequence databases."
+     Methods Enzymol. 183:111-132(1990).
+     PubMed=2314271
+[ 3] Gallegos M.T., Schleif R., Bairoch A., Hofmann K., Ramos J.L.
+     "Arac/XylS family of transcriptional regulators."
+     Microbiol. Mol. Biol. Rev. 61:393-410(1997).
+     PubMed=9409145
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

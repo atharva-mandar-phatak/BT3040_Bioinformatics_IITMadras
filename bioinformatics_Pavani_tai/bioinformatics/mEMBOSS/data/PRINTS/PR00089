@@ -1,0 +1,22 @@
+LUCIFERASE
+The enzyme responsible for bioluminescence in motile Gram-negative luminous
+bacteria is bacterial luciferase [1,2], which catalyses the oxidation of
+reduced riboflavin phosphate and a long-chain fatty aldehyde, with the
+emission of blue-green light (490nm). Luciferase is a heterodimeric enzyme
+comprising alpha and beta subunits (genes luxA and luxB), which appear to 
+have arisen through gene duplication.
+
+Some species of Photobacterium contain a bioluminescence operon that 
+encodes a non-fluorescent flavoprotein (NFP) (gene luxF). The function of 
+NFP is not known, but it is clearly related to the luxA and luxB subunits.
+
+LUCIFERASE is a 5-element fingerprint that provides a signature for the
+bacterial luciferases. The fingerprint was derived from an initial
+alignment of 7 sequences: motifs 2 and 3 span the region encoded by PROSITE
+pattern BACTERIAL_LUCIFERASE (PS00494). Four iterations on OWL17.1 were
+required to reach convergence, at which point a true set comprising 18
+sequences was identified. A single partial match was also found, the non-
+fluorescent flavoprotein LUXF_PHOLE, which fails to make significant
+matches with motifs 1 and 3. 
+
+An update on SPTR37_9f identified a true set of 22 sequences.

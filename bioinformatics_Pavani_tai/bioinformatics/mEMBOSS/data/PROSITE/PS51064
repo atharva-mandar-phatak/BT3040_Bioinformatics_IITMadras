@@ -1,0 +1,74 @@
+*********************************************************
+* IRS-type phosphotyrosine binding domain (PTB) profile *
+*********************************************************
+
+Proteins  encoding  phosphotyrosine binding (PTB) domains function as adaptors
+or  scaffolds  to  organize  the  signaling complexes involved in wide-ranging
+physiological   processes   including  neural  development,  immunity,  tissue
+homeostasis  and  cell  growth. Due to structural differences, PTB domains are
+divided  into  three groups represented by phosphotyrosine-dependent IRS-like,
+phosphotyrosine-dependent  Shc-like  (see  <PDOC00907>),  and phosphotyrosine-
+independent Dab-like PTBs (see <PDOC00907>).
+
+IRS-type  PTB  domain has an average length of about 100 amino acids. It binds
+to  the  insulin  receptor  through the Asn-Pro-Xaa-Tyr(P) motif found in many
+tyrosine-phosphorylated proteins. This domain is found in IRS/Dok/SNT proteins
+that  are the major adapters for RTK and cytokine signaling. This domain binds
+both peptides and headgroups of phosphatidylinositides, utilizing two distinct
+binding  motifs to mediate spatial organization and localization within cells.
+The  IRS-type  PTB  domain is found alone or in association with the PH domain
+(see <PDOC50003>) [1,2].
+
+The  3D structure of IRS-type PTB domain has been solved (see <PDB:1P5T>) [3].
+It shares a folding pattern commonly referred to as the PH-domain "superfold".
+The  core  "superfold" consists of seven antiparallel beta strands forming two
+orthogonal  beta  sheets. This beta sandwich is capped at the C terminus by an
+alpha helix. It contains a peptide binding pocket (formed by the beta strand 5
+and  the  C-terminal  alpha  helix)  and  a  highly basic phospholipid binding
+"crown"  (largely  composed of residues from loop regions near the N terminus)
+[3].
+
+IRS-type PTB domain has also been found in the proteins listed below.
+
+ - Mammalian insulin receptor substrate (IRS-1 and IRS-2) proteins.
+ - Mammalian  docking  proteins (DOK1,  DOK2  and  DOK5)  which  interact with
+   receptor tyrosine kinases.
+ - Mammalian FGFR signalling adaptor (SNT-1 and SNT-2).
+
+The profile we developed covers the entire IRS-type PTB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Talin  proteins  may contain  an  IRS-type  PTB domain.  This family is
+ however too divergent to be detected by this profile.
+
+-Last update: January 2005 / First entry.
+
+[ 1] Uhlik M.T., Temple B., Bencharit S., Kimple A.J., Siderovski D.P.,
+     Johnson G.L.
+     "Structural and evolutionary division of phosphotyrosine binding (PTB)
+     domains."
+     J. Mol. Biol. 345:1-20(2005).
+     PubMed=15567406; DOI=10.1016/j.jmb.2004.10.038
+[ 2] Eck M.J., Dhe-Paganon S., Trub T., Nolte R.T., Shoelson S.E.
+     "Structure of the IRS-1 PTB domain bound to the juxtamembrane region
+     of the insulin receptor."
+     Cell 85:695-705(1996).
+     PubMed=8646778
+[ 3] Shi N., Ye S., Bartlam M., Yang M., Wu J., Liu Y., Sun F., Han X.,
+     Peng X., Qiang B., Yuan J., Rao Z.
+     "Structural basis for the specific recognition of RET by the Dok1
+     phosphotyrosine binding domain."
+     J. Biol. Chem. 279:4962-4969(2004).
+     PubMed=14607833; DOI=10.1074/jbc.M311030200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

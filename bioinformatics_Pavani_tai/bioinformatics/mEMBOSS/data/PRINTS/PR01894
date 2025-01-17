@@ -1,0 +1,39 @@
+WNT14PROTEIN
+Wnt proteins constitute a large family of secreted molecules that are
+involved in intercellular signalling during development. The name derives
+from the first 2 members of the family to be discovered: int-1 (mouse) and
+wingless (Drosophila) [1]. It is now recognised that Wnt signalling controls
+many cell fate decisions in a variety of different organisms, including
+mammals [2]. Wnt signalling has been implicated in tumorigenesis, early
+mesodermal patterning of the embryo, morphogenesis of the brain and kidney,
+regulation of mammary gland proliferation, and Alzheimer's disease [3,4].
+
+Wnt-mediated signalling is believed to proceed initially through binding to
+cell surface receptors of the frizzled family; the signal is subsequently
+transduced through several cytoplasmic components to B-catenin, which enters
+the nucleus and activates the transcription of several genes important in
+development [5]. More recently, however, several non-canonical Wnt
+signalling pathways have been elucidated that act independently of
+B-catenin [6]. Members of the Wnt gene family are defined by their sequence
+similarity to mouse Wnt-1 and Wingless in Drosophila. They encode proteins
+of ~350-400 residues in length, with orthologues identified in several,
+mostly vertebrate, species. Very little is known about the structure of 
+Wnts as they are notoriously insoluble; in terms of primary structure, the
+family is characterised by a signal sequence and an almost invariant pattern
+of 23-24 conserved cysteines [1]. Fifteen major Wnt gene families have been 
+identified in vertebrates, with multiple subtypes within some classes.
+
+Human Wnt-14 maps to chromosome 1 and originates, together with Wnt-15, from
+an ancestral branch of the Wnt gene family, which includes the Wnt-9
+sequences found in jawless and cartilaginous fishes [7]. Wnt-14 mRNA is 
+preferentially expressed in various types of human cancer, e.g. gastric and 
+pancreatic cancer [8].
+
+WNT14PROTEIN is a 4-element fingerprint that provides a signature for the 
+Wnt-14 proteins. The fingerprint was derived from an initial alignment of 2 
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length, focusing on those sections that characterise Wnt-14 
+proteins but distinguish them from other Wnt subtypes - motifs 1-3 reside in 
+short regions between conserved cysteines; and motif 4 includes conserved 
+Cys15. Two iterations on SPTR40_22f were required to reach convergence, at 
+which point a true set comprising 3 sequences was identified.

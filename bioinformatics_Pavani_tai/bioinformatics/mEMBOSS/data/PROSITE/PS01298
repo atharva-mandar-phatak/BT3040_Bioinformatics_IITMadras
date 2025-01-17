@@ -1,0 +1,34 @@
+*******************************************
+* Dihydrodipicolinate reductase signature *
+*******************************************
+
+Dihydrodipicolinate reductase  (EC  1.3.1.26) catalyzes the second step in the
+biosynthesis of  diaminopimelic  acid  and  lysine,  the NAD or NADP-dependent
+reduction of 2,3-dihydrodipicolinate into 2,3,4,5-tetrahydrodipicolinate. This
+enzyme is present in bacteria (gene dapB) and higher plants.
+
+As a  signature  pattern we selected the best conserved region in this enzyme.
+It is  located  in  the  central  section and is part of the substrate-binding
+region [1].
+
+-Consensus pattern: [ERND]-[IVL]-x-[ED]-x-H-x(3)-K-x-[DE]-x(2)-S-[GA]-[TAS]-
+                    [ALCGS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Scapin G., Blanchard J.S., Sacchettini J.C.
+     "Three-dimensional structure of Escherichia coli dihydrodipicolinate
+     reductase."
+     Biochemistry 34:3502-3512(1995).
+     PubMed=7893645
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

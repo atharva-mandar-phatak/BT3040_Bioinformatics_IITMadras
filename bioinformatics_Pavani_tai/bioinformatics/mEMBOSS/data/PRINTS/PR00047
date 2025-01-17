@@ -1,0 +1,24 @@
+STROIDFINGER
+Steroid hormone receptors act as transcription factors that regulate gene 
+expression, either positively or negatively, by interacting with cellular 
+DNA sequences called ligand responsive elements [1]. This process involves
+binding of the steroid hormone ligand to its receptor, which results in
+receptor dimerisation prior to DNA binding via 4 zinc finger loops [2].
+Recognition of specific ligand responsive elements is determined by a small
+number of amino acids in the 'knuckle' of the finger [1]. Unlike other
+transcription factors, which contain multiple tandem repeats of a zinc
+finger that binds zinc via 2 conserved Cys and 2 conserved His residues,
+each steroid hormone receptor contains only 2 repeats of a finger that
+binds zinc via 4 conserved cysteines.
+
+STROIDFINGER is a 4-element fingerprint that provides a signature for the 
+C4-type DNA-binding zinc fingers. The fingerprint was derived from an 
+initial alignment of 14 sequences: the motifs encompass both fingers,
+motifs 1 and 2 spanning the 27 residues encoded by PROSITE pattern 
+STEROID_FINGER (PS00031), which lie in the first finger motif. Two 
+iterations on OWL20.0 were required to reach convergence, at which point 
+a true set comprising 140 sequences was identified. Several partial matches
+were also found, 2 of which are fragments.
+
+An update on SPTR37_9f identified a true set of 466 sequences, and 75
+partial matches.

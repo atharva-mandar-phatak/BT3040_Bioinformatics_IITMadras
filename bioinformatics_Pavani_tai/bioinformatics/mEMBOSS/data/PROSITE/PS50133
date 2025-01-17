@@ -1,0 +1,69 @@
+**********************
+* FCH domain profile *
+**********************
+
+The  FCH  domain  is  a  short conserved region of around 60 amino acids first
+described  as  a  region  of  homology between FER and CIP4 proteins [1]. Many
+proteins   containing  an  FCH  domain  are  involved  in  the  regulation  of
+cytoskeletal  rearrangements, vesicular transport and endocytosis. In the CIP4
+protein  the  FCH  domain  binds to microtubules [2]. The FCH domain is always
+found N-terminally and is followed by a coiled-coil region.
+
+Proteins containing an FCH domain can be divided in 3 classes [3]:
+
+A subfamily of protein kinases usually associated with an SH2 domain:
+
+ - Fps/fes (Fujimani poultry sarcoma/feline sarcoma) proto-oncogenes. They are
+   non-receptor  protein-tyrosine  kinases preferentially expressed in myeloid
+   lineage.  The  viral  oncogene  has  an  unregulated kinase activity  which
+   abrogates   the   need   for  cytokines  and  influences differentiation of
+   haematopoietic progenitor cells.
+ - Fes related protein (fer). It is an ubiquitously expressed homolog of Fes.
+
+Adaptor proteins usually associated with a C-terminal SH3 domain:
+
+ - Schizosaccharomyces   pombe   CDC15   protein.  It   mediates  cytoskeletal
+   rearrangements required for cytokinesis. It is essential for viability.
+ - CD2 cytoplasmic domain binding protein.
+ - Mammalian  Cdc42-interacting protein 4 (CIP4). It may act as a link between
+   Cdc42 signaling and regulation of the actin cytoskeleton.
+ - Mammalian  PACSIN proteins. A family of cytoplasmic phosphoproteins playing
+   a role in vesicle formation and transport.
+
+A subfamily of Rho-GAP proteins:
+
+ - Mammalian  RhoGAP4   proteins. They  may down-regulate Rho-like  GTPases in
+   hematopoietic cells.
+ - Yeast hypothetical protein YBR260C.
+ - Caenorhabditis elegans hypothetical protein ZK669.1.
+
+The profile we developed covers the entire FCH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2002 / First entry.
+
+[ 1] Aspenstrom P.
+     "A Cdc42 target protein with homology to the non-kinase domain of FER
+     has a potential role in regulating the actin cytoskeleton."
+     Curr. Biol. 7:479-487(1997).
+     PubMed=9210375
+[ 2] Tian L., Nelson D.L., Stewart D.M.
+     "Cdc42-interacting protein 4 mediates binding of the Wiskott-Aldrich
+     syndrome protein to microtubules."
+     J. Biol. Chem. 275:7854-7861(2000).
+     PubMed=10713100
+[ 3] Greer P.
+     "Closing in on the biological functions of Fps/Fes and Fer."
+     Nat. Rev. Mol. Cell Biol. 3:278-289(2002).
+     PubMed=11994747; DOI=10.1038/nrm783
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

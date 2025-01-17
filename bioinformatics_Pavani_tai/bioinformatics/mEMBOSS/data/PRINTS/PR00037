@@ -1,0 +1,19 @@
+HTHLACR
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+lacR, deor, fucR and gutR [1-3]. Within this family, the HTH motif is
+situated towards the N-terminus.
+
+HTHLACR is a 2-element fingerprint that provides a signature for the HTH
+motif of the lacR bacterial regulatory proteins. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs completely
+encompass the HTH motif (cf. PROSITE pattern HTH_DEOR_FAMILY (PS00894)).
+Two iterations on OWL21.1 were required to reach convergence, at which
+point a true set comprising 8 sequences was identified. Note: there was a
+strong tendency for cross-reaction with yidp and hutC, both of which belong
+to the gntR family of bacterial regulatory proteins, whose HTH signature is
+very similar.
+
+An update on SPTR37_9f identified a true set of 12 sequences.

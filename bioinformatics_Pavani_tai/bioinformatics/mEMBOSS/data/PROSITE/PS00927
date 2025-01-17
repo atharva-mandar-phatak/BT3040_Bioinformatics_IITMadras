@@ -1,0 +1,47 @@
+************************
+* Trehalase signatures *
+************************
+
+Trehalase (EC 3.2.1.28)  is  the enzyme responsible for the degradation of the
+disaccharide alpha,alpha-trehalose  yielding  two  glucose subunits [1]. It is
+an enzyme  found  in  a  wide variety of organisms and whose sequence has been
+highly conserved throughout evolution.
+
+As signature  patterns  we  selected two of the most highly conserved regions.
+The first pattern is located in the central section,  the second one is in the
+C-terminal region.
+
+-Consensus pattern: P-G-G-R-F-x-E-x-Y-x-W-D-x-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: Q-W-D-x-P-x-[GAV]-W-[PAS]-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family 37  in  the  classification of glycosyl
+ hydrolases [2,E1].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kopp M., Mueller H., Holzer H.
+     "Molecular analysis of the neutral trehalase gene from Saccharomyces
+     cerevisiae."
+     J. Biol. Chem. 268:4766-4774(1993).
+     PubMed=8444853
+[ 2] Henrissat B., Bairoch A.
+     "New families in the classification of glycosyl hydrolases based on
+     amino acid sequence similarities."
+     Biochem. J. 293:781-788(1993).
+     PubMed=8352747
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

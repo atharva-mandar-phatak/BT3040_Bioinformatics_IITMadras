@@ -1,0 +1,102 @@
+****************************************************
+* Phosphotyrosine interaction domain (PID) profile *
+****************************************************
+
+Proteins  encoding  phosphotyrosine binding (PTB) domains function as adaptors
+or  scaffolds  to  organize  the  signaling complexes involved in wide-ranging
+physiological   processes   including  neural  development,  immunity,  tissue
+homeostasis  and  cell  growth. Due to structural differences, PTB domains are
+divided  into  three  groups represented by phosphotyrosine-dependent IRS-like
+(see  <PDOC51064>),  phosphotyrosine-dependent  Shc-like, and phosphotyrosine-
+independent   Dab-like   PTBs.   The   last   two  PTBs  have  been  named  as
+phosphotyrosine  interaction  domain  (PID  or  PI  domain). PID domain has an
+average length of about 160 amino acids [1].
+
+The  Shc-like  PID specifically binds to the Asn-Pro-Xaa-Tyr(P) motif found in
+many  tyrosine-phosphorylated  proteins  including growth factor receptors. On
+the  other  hand  the Dab-like PID domain binds to non-phosphorylated tyrosine
+residue  or even a phenylalanine at the same position [2]. Most of the ligands
+for  Shc-like  PID  domains  are  RTK  or  cytokine,  whereas  phosphotyrosine
+independent  Dab-like  PID  domains  seems to mediate other types of signaling
+pathways,  like  endocytosis/processing  or exocytosis. This domain binds both
+peptides  and  headgroups  of  phosphatidylinositides,  utilizing two distinct
+binding  motifs  to mediate spatial organization and localization within cells
+[1,2,3,4].
+
+The 3D structure of PID domain has been solved (see <PDB:1NTV>) [5]. It shares
+a folding pattern, commonly referred to as the PH-domain "superfold". The core
+"superfold" consists of seven antiparallel beta strands forming two orthogonal
+beta sheets. This beta sandwich is capped at the C terminus by an alpha helix.
+It  contains  a  peptide  binding  pocket  (formed  by  the  beta strand 5 and
+C-terminal  alpha  helix)  and  a  highly  basic  phospholipid binding "crown"
+(largely composed of residues from loop regions near the N terminus). Both Shc
+and  Dab1  have two additional alpha helices, one of which is located at the N
+terminus and the other between beta 1 and beta 2 strands.
+
+PID has also been found in the proteins listed below.
+
+ - Mammalian  Shc transforming protein which contains one N-terminal PID and a
+   C-terminal SH2 domain  (see <PDOC50001>).
+ - Human Shc-related protein Sck that shares the same modular architecture.
+ - Mammalian protein X11 which is expressed prominently in the nervous system.
+   It contains 2 disc homologous regions (DHR) downstream of the PID.
+ - Rat    FE65,  a  transcription-factor activator expressed preferentially in
+   liver. The  presence  of  a  WW  domain (see <PDOC50020>) as well as 2 PIDs
+   indicate a possible role in signal transduction.
+ - Drosophila nuclear Numb protein, which is required in determination of cell
+   fate during sensory organ formation in Drosophila embryos. It has one PID.
+ - Drosophila  protein  disabled  (gene  dab),  which is involved in embryonic
+   neural development.  This  cytoplasmic,  tyrosine phosphorylated protein is
+   found in CNS axons and body wall muscles. It contains one N-terminal PID.
+ - Mouse  mitogen-responsive  phosphoprotein P96 and the human homolog, DOC-2.
+   They possess one N-terminal PID.
+ - Mammalian regulator of G-protein signalling 12 (RGS12).
+ - Caenorhabditis  elegans  hypothetical  protein  F56D2.1  which  contains an
+   N-terminal insulinase-type domain (see <PDOC00130>) followed by a PID.
+
+The profile we developed covers the entire PID domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+           Margolis B.; margolisb@mcphm0.med.nyu.edu
+
+-Last update: January 2005 / Text revised.
+
+[ 1] Uhlik M.T., Temple B., Bencharit S., Kimple A.J., Siderovski D.P.,
+     Johnson G.L.
+     "Structural and evolutionary division of phosphotyrosine binding (PTB)
+     domains."
+     J. Mol. Biol. 345:1-20(2005).
+     PubMed=15567406; DOI=10.1016/j.jmb.2004.10.038
+[ 2] Bork P., Margolis B.
+     "A phosphotyrosine interaction domain."
+     Cell 80:693-694(1995).
+     PubMed=7534213
+[ 3] Kavanaugh W.M., Williams L.T.
+     "An alternative to SH2 domains for binding tyrosine-phosphorylated
+     proteins."
+     Science 266:1862-1865(1994).
+     PubMed=7527937
+[ 4] Blaikie P., Immanuel D., Wu J., Li N., Yajnik V., Margolis B.
+     "A region in Shc distinct from the SH2 domain can bind
+     tyrosine-phosphorylated growth factor receptors."
+     J. Biol. Chem. 269:32031-32034(1994).
+     PubMed=7798194
+[ 5] Stolt P.C., Jeon H., Song H.K., Herz J., Eck M.J., Blacklow S.C.
+     "Origins of peptide selectivity and phosphoinositide binding revealed
+     by structures of disabled-1 PTB domain complexes."
+     Structure 11:569-579(2003).
+     PubMed=12737822
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

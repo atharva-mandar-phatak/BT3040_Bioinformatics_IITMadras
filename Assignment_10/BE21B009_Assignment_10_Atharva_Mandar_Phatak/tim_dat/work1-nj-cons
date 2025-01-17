@@ -1,0 +1,103 @@
+
+Consensus tree program, version 3.698
+
+Species in order: 
+
+  1. tr|E7QQB9|
+  2. tr|E7QVD7|
+  3. tr|D2S0D9|
+  4. tr|D2S1F8|
+  5. tr|D2S1E6|
+  6. tr|E7QZB7|
+  7. tr|E7QZC9|
+  8. tr|E1K541|
+  9. tr|F2L4F0|
+  10. tr|F4B9Y8|
+
+  11. tr|E7QXB8|
+  12. tr|E1K6G0|
+  13. tr|E1K572|
+  14. tr|E1K4V0|
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of   10.00
+
+.......*** ....             10.00
+.**....... ....             10.00
+........** ....             10.00
+...**..... ....             10.00
+.......... .**.              9.00
+.......... .***              8.00
+.......*** .***              8.00
+.......*** ****              6.00
+.**..*.... ....              5.00
+.**..**... ....              3.00
+.******... ....              3.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of   10.00
+
+...****... ....              2.00
+...***.... ....              2.00
+...**..*** ****              2.00
+.......*** *...              2.00
+...******* ****              2.00
+...**.*... ....              2.00
+.**..*.*** ****              2.00
+.**..***** ****              2.00
+.......*** .**.              2.00
+...***.*** ****              1.00
+.**....*** ****              1.00
+.**..*.... *...              1.00
+.......... .*.*              1.00
+.....*.... *...              1.00
+.....*.*** ****              1.00
+.....**... ....              1.00
+.******... *...              1.00
+.**....*** .***              1.00
+.********* *...              1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of  10.00 trees
+
+                                          +-------tr|F2L4F0|
+                                  +--10.0-|
+                          +--10.0-|       +-------tr|F4B9Y8|
+                          |       |
+                          |       +---------------tr|E1K541|
+                  +--8.00-|
+                  |       |               +-------tr|E1K572|
+                  |       |       +--9.00-|
+          +--6.00-|       +--8.00-|       +-------tr|E1K6G0|
+          |       |               |
+          |       |               +---------------tr|E1K4V0|
+          |       |
+          |       +-------------------------------tr|E7QXB8|
+          |
+  +-------|                               +-------tr|D2S0D9|
+  |       |                       +--10.0-|
+  |       |               +--5.00-|       +-------tr|E7QVD7|
+  |       |               |       |
+  |       |       +--3.00-|       +---------------tr|E7QZB7|
+  |       |       |       |
+  |       +--3.00-|       +-----------------------tr|E7QZC9|
+  |               |
+  |               |                       +-------tr|D2S1E6|
+  |               +------------------10.0-|
+  |                                       +-------tr|D2S1F8|
+  |
+  +-----------------------------------------------tr|E7QQB9|
+
+
+  remember: this is an unrooted tree!
+

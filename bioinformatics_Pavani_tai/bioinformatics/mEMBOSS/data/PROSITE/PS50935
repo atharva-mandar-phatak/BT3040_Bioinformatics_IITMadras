@@ -1,0 +1,61 @@
+**********************************************
+* Single-strand binding (SSB) domain profile *
+**********************************************
+
+The Escherichia coli single-strand  binding protein [1] (gene ssb), also known
+as the  helix-destabilizing protein, is a protein of 177 amino acids. It binds
+tightly, as  a  homotetramer,  to  single-stranded  DNA  (ss-DNA) and plays an
+important role in DNA replication, recombination and repair.
+
+Closely related  variants of SSB  are  encoded  in  the genome of a variety of
+large self-transmissible plasmids. SSB has also been characterized in bacteria
+such as Proteus mirabilis or Serratia marcescens.
+
+Eukaryotic mitochondrial  proteins  that bind ss-DNA and are probably involved
+in mitochondrial  DNA replication are structurally and evolutionary related to
+prokaryotic SSB.  Proteins  currently  known  to  belong to this subfamily are
+listed below [2]:
+
+ - Mammalian protein Mt-SSB (P16).
+ - Xenopus Mt-SSBs and Mt-SSBr.
+ - Drosophila MtSSB.
+ - Yeast protein RIM1.
+
+The SSB  domain  is  a module of about 100 amino acids that is found in the N-
+terminal part  of bacterial SSB proteins. It possesses conserved residues that
+are responsible for binding to ssDNA, tetramerization and stabilization of the
+monomer fold [3].
+
+The profile we developed covers the entire SSB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2003 / Patterns removed, profile added and text revised.
+
+[ 1] Meyer R.R., Laine P.S.
+     "The single-stranded DNA-binding protein of Escherichia coli."
+     Microbiol. Rev. 54:342-380(1990).
+     PubMed=2087220
+[ 2] Stroumbakis N.D., Li Z., Tolias P.P.
+     "RNA- and single-stranded DNA-binding (SSB) proteins expressed during
+     Drosophila melanogaster oogenesis: a homolog of bacterial and
+     eukaryotic mitochondrial SSBs."
+     Gene 143:171-177(1994).
+     PubMed=8206370
+[ 3] Dabrowski S., Olszewski M., Piatek R., Brillowska-Dabrowska A.,
+     Konopa G., Kur J.
+     "Identification and characterization of single-stranded-DNA-binding
+     proteins from Thermus thermophilus and Thermus aquaticus - new
+     arrangement of binding domains."
+     Microbiology 148:3307-3315(2002).
+     PubMed=12368464
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

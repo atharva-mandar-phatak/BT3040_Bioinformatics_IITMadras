@@ -1,0 +1,32 @@
+URIDINKINASE
+Uridine kinase (pyrimidine ribonucleoside kinase) is the rate-limiting 
+enzyme in the pyrimidine salvage pathway [1]. It catalyses the reaction:
+
+		   ATP + Uridine = ADP + UMP
+
+A cDNA for uridine kinase from mouse brain has been characterised [1]. The
+translated sequence encodes a protein of 277 amino acids. A truncated form 
+of the cDNA has been expressed in Escherichia coli and shown to display
+uridine kinase activity and to readily form a tetramer, the most active
+form of the wild-type enzyme [1]. Sequence analysis has identified three 
+ATP-binding site consensus motifs. The predicted secondary structure, and 
+sequence comparison with kinases of known structure, is consistent with
+uridine kinase having the alpha/beta core nucleotide-binding fold common 
+to many kinases [1].
+
+A previously undescribed pyrimidine ribonucleoside kinase that preferentially 
+phosphorylates cytidine to yield its 5'-monophosphate form has been isolated
+from Escherichia coli [2].
+
+URIDINKINASE is a 6-element fingerprint that provides a signature for the
+uridine kinase family. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length. Two iterations on OWL30.2 were required 
+to reach convergence, at which point a true set comprising 9 sequences was
+identified. Several partial matches were also found: D78335 is a human gene 
+product that matches motifs 4-6; CEB00012 is a Caenorhabditis elegans
+cosmid sequence that matches motifs 1, 3 and 6; and KPPR_MESCR and OSPRK
+are closely related phosphoribulokinases that match motifs 3 and 6.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 10
+partial matches.

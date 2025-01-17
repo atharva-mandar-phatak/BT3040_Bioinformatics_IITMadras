@@ -1,0 +1,50 @@
+5HTRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+5-Hydroxytryptamine (or serotonin) is ubiquitous in plants and animals.
+It is an important neurotransmitter and local hormone in the CNS and
+instestine, and is implicated in a vast array of physiological and patho-
+physiological pathways [6]. In the periphery, 5HT contracts a number of
+smooth muscles, and induces endothelium-dependent vasodilation through
+the formation of NO [6]. It is a mediator of peristalsis, and may be
+involved in platelet aggregation and homeostasis. In the CNS, 5HT is
+believed to be involved in a wide range of functions, including the
+control of appetite, mood, anxiety, hallucinations, sleep, vomiting and
+pain perception [6]. 5HT receptor ligands are of clinical use in the
+treatment of depression, migraine and post-operative vomiting.
+
+Numerous receptor subtypes have been classified according to their
+antagonist susceptibilities and their affinities for 5HT. Five 5HT1
+subtypes and at least three 5HT2 subtypes have now been identified, in
+addition to subtypes 5HT3-7 [6]. All share a high degree of sequence
+similarity, and have overlapping pharmacological specificities.
+
+5HTRECEPTOR is a 4-element fingerprint that provides a signature for the
+5HT receptors. The fingerprint was derived from an initial alignment of
+31 sequences: the motifs were drawn from conserved sections within either
+TM or C-terminal regions, focusing on those areas of the alignment that
+characterise the 5HT receptors but distinguish them from the rest of the
+rhodopsin-like superfamily - motif 1 lies in the C-terminal portion of TM
+domain 1; motif 2 spans the N-terminal portion of TM domain 5; motif 3 lies
+in the C-terminal portion of TM domain 6; and motif 4 resides at the
+C-terminus. Three iterations on SPTR37_9f were required to reach convergence,
+at which point a true set comprising 48 sequences was identified. Numerous
+partial matches were also found, all of which are 5HT receptors and closely-
+related members of the superfamily that fail to match one or more motifs. 

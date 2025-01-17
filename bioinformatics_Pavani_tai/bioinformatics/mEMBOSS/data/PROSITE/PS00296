@@ -1,0 +1,59 @@
+*******************************
+* Chaperonins cpn60 signature *
+*******************************
+
+Chaperonins [1,2] are  proteins  involved in  the  folding  of proteins or the
+assembly of oligomeric protein complexes.  Their  role seems to be  to  assist
+other  polypeptides to  maintain  or assume  conformations  which permit their
+correct assembly into oligomeric structures.  They  are found in abundance  in
+prokaryotes,  chloroplasts  and  mitochondria.   Chaperonins  form  oligomeric
+complexes and  are  composed  of  two  different  types  of  subunits: a 60 Kd
+protein, known  as  cpn60  (groEL  in  bacteria) and a 10 Kd protein, known as
+cpn10 (groES in bacteria).
+
+The cpn60 protein shows weak ATPase activity and is a highly conserved protein
+of about 550 to 580 amino acid  residues which has been described by different
+names in different species:
+
+ - Escherichia coli groEL protein,  which  is essential for the  growth of the
+   bacteria and the assembly of several bacteriophages.
+ - Cyanobacterial groEL analogues.
+ - Mycobacterium tuberculosis and leprae 65 Kd antigen, Coxiella burnetti heat
+   shock protein B (gene htpB), Rickettsia tsutsugamushi major antigen 58, and
+   Chlamydial 57 Kd hypersensitivity antigen  (gene hypB).
+ - Chloroplast RuBisCO subunit  binding-protein  alpha  and beta chains, which
+   bind ribulose  bisphosphate  carboxylase  small and large subunits  and are
+   implicated in the assembly of the enzyme oligomer.
+ - Mammalian mitochondrial matrix protein P1 (mitonin or P60).
+ - Yeast HSP60 protein, a mitochondrial assembly factor.
+
+As a  signature    pattern   for these proteins, we have chosen a  rather well
+conserved region  of  twelve  residues, located in the last third of the cpn60
+sequence.
+
+-Consensus pattern: A-[AS]-{L}-[DEQ]-E-{A}-{Q}-{R}-x-G(2)-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 sequences.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Expert(s) to contact by email:
+           Georgopoulos C.; georgopo@medecine.unige.ch
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Ellis R.J., van der Vies S.M.
+     "Molecular chaperones."
+     Annu. Rev. Biochem. 60:321-347(1991).
+     PubMed=1679318; DOI=10.1146/annurev.bi.60.070191.001541
+[ 2] Zeilsta-Ryalls J., Fayet O., Georgopoulos C.
+     Annu. Rev. Microbiol. 45:301-325(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

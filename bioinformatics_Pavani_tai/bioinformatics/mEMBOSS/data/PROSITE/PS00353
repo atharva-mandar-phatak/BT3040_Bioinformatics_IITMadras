@@ -1,0 +1,100 @@
+***************************************************************
+* HMG boxes A and B DNA-binding domains signature and profile *
+***************************************************************
+
+High  mobility group (HMG) chromosomal proteins are a family of relatively low
+molecular  weight  non-histone  components  that  bind  DNA  without  sequence
+specificity.  HMG1  (also  called HMG-T in fish) and HMG2 are related proteins
+that  have  two  distinguishing  features: two HMG boxes (A and B), homologous
+folded  domains  of  around  80  amino  acid  residues, and a long acidic tail
+containing 20 to 30 aspartic or glutamic acid residues [1,2]. The HMG box A is
+only  found  in  HMG 1 and 2 proteins whereas the HMG box B is also present in
+various  transcription  factors.  HMG boxes have unusual DNA binding activity.
+They bind preferentially to distorted DNAs, such as four-way junctions, kinked
+cisplatin-modified  DNA,  DNA  bulges,  and have the property to bend DNA [2].
+They can bind DNA without sequence specificity like in HMG1 and 2 or recognize
+a specific site.
+
+Several  structures of HMG-boxes have been solved (see <PDB:1AAB>) [3,4]. They
+have a common fold consisting of three alpha helices arranged in an "L-shape".
+The  HMG  box binds DNA through its concave face to the minor groove of B-form
+DNA and causes bending by partial intercalation of a hydrophobic residue close
+to the N-terminus of helix I [4,5].
+
+Some proteins known to contain a HMG box are listed below:
+
+ - Eukaryotic HMG1, HMG2 and related proteins.
+ - Animal   sex   determining   region   Y   (SRY)  and  related  proteins,  a
+   transcriptional   activator   which  regulates  a  genetic  switch  in male
+   development.
+ - Animal  SOX family of transcription factors, a conserved family of proteins
+   related to the testis-determining factor SRY.
+ - Mammalian  lymphoid  enhancer  binding  factor  1 (LEF1), a transcriptional
+   activator which regulates a genetic switch in male development.
+ - Eukaryotic   structure-specific  recognition  protein  1  (SSRP). It  binds
+   specifically  to double-stranded and, at low levels, to single-stranded DNA
+   which has been modified by the anticancer drug cisplatin.
+ - Mitochondrial  transcription factor 1 (MTF1). It confers selective promoter
+   recognition on the core subunit of the yeast mitochondrial RNA polymerase.
+ - Vertebrate  nucleolar  transcription  factors  (UBF1/2). They recognize the
+   ribosomal  RNA  gene  promoter  and  activate transcription mediated by RNA
+   polymerase I.
+ - Yeast  ARS-binding factor (ABF2). It binds specifically to the autonomously
+   replicating sequence 1 (ARS1).
+ - Yeast transcription factors  IXR1, ROX1, NHP6A/B, SPP41.
+ - Drosophila  capicua  protein. A transcription cofactor involved in negative
+   regulation of transcription.
+ - Fission yeast mismatch binding protein 1 (cmb1). It binds to cytosines
+   in base mismatches and opposite chemically altered guanines.
+ - Tetrahymena thermophila micronuclear linker histone polyprotein (MIC LH).
+ - Mammalian nuclear autoantigen Speckled 100 kDa protein (Sp-100).
+
+The  pattern  we  developed  covers  the  second  helix  of  the HMG box A and
+therefore  is  specific  for HMG1/2 proteins. We also developed a profile that
+covers the whole domain and recognizes both types of HMG boxes.
+
+-Consensus pattern: [FI]-S-[KR]-K-C-x-[EK]-R-W-K-T-[MV]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bustin M., Lehn D.A., Landsman D.
+     "Structural features of the HMG chromosomal proteins and their
+     genes."
+     Biochim. Biophys. Acta 1049:231-243(1990).
+     PubMed=2200521
+[ 2] Thomas J.O.
+     "HMG1 and 2: architectural DNA-binding proteins."
+     Biochem. Soc. Trans. 29:395-401(2001).
+     PubMed=11497996
+[ 3] Hardman C.H., Broadhurst R.W., Raine A.R., Grasser K.D., Thomas J.O.,
+     Laue E.D.
+     "Structure of the A-domain of HMG1 and its interaction with DNA as
+     studied by heteronuclear three- and four-dimensional NMR
+     spectroscopy."
+     Biochemistry 34:16596-16607(1995).
+     PubMed=8527432
+[ 4] Werner M.H., Huth J.R., Gronenborn A.M., Clore G.M.
+     "Molecular basis of human 46X,Y sex reversal revealed from the
+     three-dimensional solution structure of the human SRY-DNA complex."
+     Cell 81:705-714(1995).
+     PubMed=7774012
+[ 5] Love J.J., Li X., Case D.A., Giese K., Grosschedl R., Wright P.E.
+     "Structural basis for DNA bending by the architectural transcription
+     factor LEF-1."
+     Nature 376:791-795(1995).
+     PubMed=7651541; DOI=10.1038/376791a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

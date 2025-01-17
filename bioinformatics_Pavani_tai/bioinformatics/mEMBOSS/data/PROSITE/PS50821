@@ -1,0 +1,95 @@
+**********************
+* PAZ domain profile *
+**********************
+
+The PAZ domain is a domain of about 110 amino-acids which has been named after
+three  of  the proteins containing it: Piwi, Argonaute and Zwille/Pinhead [1].
+It is found in the Argonaute and the Dicer protein families, whose members are
+implicated in  stem-cell  fate  determination  and  post-transcriptional  gene
+silencing (PTGS)  through  RNA  interference  (RNAi)  [2,3].  PTGS RNAi is the
+mechanism through  which  double-stranded RNAs (dsRNAs) silence cognate genes.
+It is characterized by the presence of RNAs of about 22 nucleotides  in length
+that are  homologous to the gene to be suppressed. These nucleotide  sequences
+serve as  guide  sequences  that  instruct the RNA-induced  silencing  complex
+(RISC) nuclease to destroy specific mRNAs [4]. Proteins belonging to the Dicer
+family are  enzymes that are involved in the generation of putative guide RNAs
+by specifically cleaving dsRNAs [3]. The function of proteins of the Argonaute
+family is   not  known,  but  they  could  be  implicated  in  transcriptional
+initiation [2].
+
+Although the sequence of the PAZ domain does not reveal its possible role, its
+presence in  both the Argonaute and Dicer protein families indicates  that  it
+might  be important  for  the  function  of  these  proteins  in RNAi and cell
+differentiation [1].
+
+Some proteins known to contain a PAZ domain are listed below:
+
+Proteins of the Argonaute family:
+
+ - Eukaryotic  translation initiation factor 2C (eIF2C). It plays an important
+   role in the eukaryotic peptide chain initiation process.
+ - Drosophila  Piwi  proteins.  It  is essential for germ-line stem cell self-
+   renewal.
+ - Caenorhabditis elegans RNA Interference Deficient 1 (rde-1). It is required
+   for RNAi and transposon silencing.
+ - Arabidopsis  thaliana  Argonaute  (Ago)  protein. It is involved in RNAi as
+   well as  in  leaves  and  floral  organs development and axillary meristems
+   formation.
+ - Arabidopsis  thaliana  Zwille (Zll) or Pinhead (Pnh). It is a developmental
+   protein required  for  reliable  formation  of  primary  and axillary shoot
+   apical meristems.
+
+These proteins also contain a Piwi domain (see <PDOC50822>) in addition to the
+PAZ domain [1].
+
+Proteins of the Dicer family:
+
+ - Drosophila Dicer (Dcr) protein.
+ - Arabidopsis  thaliana Carpel Factory (CAF) protein. It is homologous to Dcr
+   and plays a role in floral meristem determinacy [5].
+
+In  addition  to the PAZ domain, these proteins contain DEAD/DEAH box helicase
+(see <PDOC00039>), RNase III (see <PDOC00448>) and double stranded RNA-binding
+domains (dsRBD) (see <PDOC50137>).
+
+The profile we have developed covers the entire PAZ domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Cerutti L., Mian N., Bateman A.
+     "Domains in gene silencing and cell differentiation proteins: the
+     novel PAZ domain and redefinition of the Piwi domain."
+     Trends Biochem. Sci. 25:481-482(2000).
+     PubMed=11050429
+[ 2] Fagard M., Boutet S., Morel J.-B., Bellini C., Vaucheret H.
+     "AGO1, QDE-2, and RDE-1 are related proteins required for
+     post-transcriptional gene silencing in plants, quelling in fungi, and
+     RNA interference in animals."
+     Proc. Natl. Acad. Sci. U.S.A. 97:11650-11654(2000).
+     PubMed=11016954; DOI=10.1073/pnas.200217597
+[ 3] Bernstein E., Caudy A.A., Hammond S.M., Hannon G.J.
+     "Role for a bidentate ribonuclease in the initiation step of RNA
+     interference."
+     Nature 409:363-366(2001).
+     PubMed=11201747; DOI=10.1038/35053110
+[ 4] Hammond S.M., Caudy A.A., Hannon G.J.
+     "Post-transcriptional gene silencing by double-stranded RNA."
+     Nat. Rev. Genet. 2:110-119(2001).
+     PubMed=11253050; DOI=10.1038/35052556
+[ 5] Jacobsen S.E., Running M.P., Meyerowitz E.M.
+     "Disruption of an RNA helicase/RNAse III gene in Arabidopsis causes
+     unregulated cell division in floral meristems."
+     Development 126:5231-5243(1999).
+     PubMed=10556049
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

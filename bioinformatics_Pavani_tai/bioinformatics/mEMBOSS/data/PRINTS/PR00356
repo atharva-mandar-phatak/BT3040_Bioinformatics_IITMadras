@@ -1,0 +1,31 @@
+ANTIFREEZEII
+Marine teleosts from polar oceans can be protected from freezing in icy
+sea-water by serum antifreeze proteins (AFPs) or glycoproteins (AFGPs) [1]:
+these function by binding to, and preventing the growth of, ice crystals
+within the fish. Despite functional similarity, the proteins are
+structurally diverse and include glycosylated and at least 3 non-
+glycosylated forms: the AFGP of nototheniids and cods are polymers of a
+tripeptide repeat, Ala-Ala-Thr, with a disaccharide attached to the
+threonine residue; type I AFPs are Ala-rich, alpha-helical peptides
+found in flounder and sculpin; type II AFPs of sea-raven, smelt and
+herring are Cys-rich proteins; and type III AFPs, found in eel pouts,
+are rich in beta-structure.
+
+Although no direct structural information is available for type II AFPs,
+their sequences are similar to the carbohydrate recognition domain (CRD)
+of Ca2+-dependent lectins. This domain is present in a superfamily of
+proteins that bind sugars specifically through contact with a calcium
+ion. The extent of similarity within the superfamily is confined to 
+short motifs and single amino acids at intervals throughout the protein. 
+
+ANTIFREEZEII is a 7-element fingerprint that provides a signature for
+type II antifreeze proteins. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 6 and 7 span the region
+encoded by PROSITE pattern C_TYPE_LECTIN (PS00615), which includes 3
+conserved cysteine residues in the C-terminal portion of the CRD. Two
+iterations on OWL26.0 were required to reach convergence, at which point
+a true set comprising 4 sequences was identified. Numerous partial matches
+were also found, all of which belong to the C-type lectin superfamily.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

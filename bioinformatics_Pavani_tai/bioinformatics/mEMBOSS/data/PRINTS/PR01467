@@ -1,0 +1,28 @@
+ARGREPRESSOR
+The arginine dihydrolase (AD) pathway is found in many prokaryotes and some
+primitive eukaryotes, an example of the latter being Giardia [1}. The three- 
+enzyme anaerobic pathway breaks down L-arginine to form 1 mol of ATP, carbon 
+dioxide and ammonia. In simpler bacteria, the first enzyme, arginine 
+deiminase, can account for up to 10% of total cell protein [1].
+
+Most prokaryotic arginine deiminase pathways are under the control of a
+repressor gene, termed ArgR [2]. This is a negative regulator, and will 
+only release the arginine deiminase operon for expression in the presence
+of arginine [3]. 
+
+The crystal structure of apo-ArgR from Bacillus stearothermophilus has been
+determined to 2.5A by means of X-ray crystallography [4]. The protein exists
+as a hexamer of identical sub-units, and is shown to have six DNA-binding
+domains, clustered around a central oligomeric core when bound to arginine.
+
+ARGREPRESSOR is a 4-element fingerprint that provides a signature for the
+bacterial arginine repressor protein family. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~130 amino acids) -
+motif 1 encodes alpha-helix 2 of the ArgR structure; motif 2 spans helix 3
+and the N-terminus of beta-strand 1; motif 3 spans the N-terminus of strand
+3 and strand 4; and motif 4 encodes strands 5 and 6. Two iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 11 sequences was identified. A single partial match was also
+found, ARGR_STRPN, a probable arginine repressor from Streptococcus
+pneumoniae that matches motifs 2 and 4.  

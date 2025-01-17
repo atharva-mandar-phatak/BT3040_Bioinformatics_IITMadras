@@ -1,0 +1,28 @@
+POUDOMAIN
+Many proteins that regulate gene expression contain a 60 amino acid region 
+known as the homeodomain. Some of these (e.g., Oct-1, Oct-2 and Pit-1) have
+a bipartite DNA-binding region known as the POU domain, which contains the 
+homeodomain and a POU-specific (Pit, Oct, Unc) domain [2] - this latter is 
+a region of 70-75 amino acids found upstream of the homeobox. Such proteins
+bind to specific DNA sequences to cause temporal and spatial regulation of 
+the expression of genes, many of which are involved in the regulation of 
+neuronal development in the central nervous system of mammals [2]. Some 
+other genes are also regulated, including those for immunoglobulin light 
+and heavy chains (Oct-2) [3], and trophic hormone genes, such as those for 
+prolactin and growth hormone (Pit-1). Both elements of the POU-domain are 
+required for high affinity sequence-specific DNA-binding. The domain may 
+also be involved in protein-protein interactions [1]. The 3-D structure 
+of the POU-domain has been determined by multidimensional NMR [4] and X-ray
+crystallography to 3.0A resolution [5].
+
+POUDOMAIN is a 5-element fingerprint that provides a signature for the 
+POU-specific DNA-binding domain. The fingerprint was derived from an 
+initial alignment of 10 sequences: motif 1 encodes residues 16-33 of the
+domain and motif 2 encodes residues 42-55 (cf. PROSITE patterns POU_1
+(PS00035) and POU_2 (PS00465)). Two iterations on OWL20.0 were required to
+reach convergence, at which point a true set comprising 66 sequences was
+identified. Four fragments were also found, all of which lack the portions
+of sequence bearing the first and last motifs.
+
+An update on SPTR37_9f identified a true set of 96 sequences, and 2
+partial matches.

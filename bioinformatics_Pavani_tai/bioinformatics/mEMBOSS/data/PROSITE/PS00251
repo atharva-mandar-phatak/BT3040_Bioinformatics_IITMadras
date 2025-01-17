@@ -1,0 +1,108 @@
+************************************
+* TNF family signature and profile *
+************************************
+
+The following  cytokines  can  be  grouped  into  a  family  on  the  basis of
+sequence, functional, and structural similarities [1,2,3]:
+
+ - Tumor Necrosis  Factor (TNF)  (also  known as cachectin or TNF-alpha) [4,5]
+   is a cytokine which has a wide variety of functions. It can cause cytolysis
+   of certain  tumor  cell lines; it is involved in the induction of cachexia;
+   it is a potent pyrogen, causing fever by direct action or by stimulation of
+   interleukin-1 secretion;    finally, it  can  stimulate  cell proliferation
+   and induce  cell  differentiation  under  certain conditions.
+ - Lymphotoxin-alpha  (LT-alpha)  and  lymphotoxin-beta (LT-beta), two related
+   cytokines produced by lymphocytes and which are cytotoxic for a wide  range
+   of tumor cells in vitro and in vivo [6].
+ - T cell antigen gp39 (CD40L), a cytokine which  seems to be important in  B-
+   cell development and activation.
+ - CD27L,  a  cytokine which plays a role in T-cell activation. It induces the
+   proliferation of  costimulated  T cells  and  enhances  the  generation  of
+   cytolytic T cells.
+ - CD30L, a cytokine which induces proliferation of T cells.
+ - FASL, a cytokine involved in cell death [7].
+ - 4-1BBL,  a  inducible  T  cell  surface molecule that contributes to T-cell
+   stimulation.
+ - OX40L,  a  cytokine  that  co-stimulates  T cell proliferation and cytokine
+   production [8].
+ - TNF-related apoptosis inducing ligand (TRAIL) [9], a  cytokine that induces
+   apoptosis [9].
+
+TNF-alpha is  synthesized  as  a type II membrane protein which then undergoes
+post-translational cleavage liberating the extracellular domain. CD27L, CD30L,
+CD40L, FASL,  LT-beta,  4-1BBL  and  TRAIL  also appear to be type II membrane
+proteins. LT-alpha  is  a  secreted protein. All these cytokines  seem to form
+homotrimeric (or heterotrimeric in the case of LT-alpha/beta) complexes that
+are recognized by their specific receptors.
+
+As a    signature   for  this  family  of  proteins, we have selected the most
+conserved region.    This  region  is  located in a beta-strand in the central
+section of these proteins.
+
+-Consensus pattern: [LV]-x-[LIVM]-{V}-x-{L}-G-[LIVMF]-Y-[LIVMFY](2)-x(2)-
+                    [QEKHL]-[LIVMGT]-x-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ for OX40L.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Peitsch M.C., Jongeneel C.V.
+     "A 3-D model for the CD40 ligand predicts that it is a compact trimer
+     similar to the tumor necrosis factors."
+     Int. Immunol. 5:233-238(1993).
+     PubMed=8095800
+[ 2] Farrah T., Smith C.A.
+     "Emerging cytokine family."
+     Nature 358:26-26(1992).
+     PubMed=1377364; DOI=10.1038/358026b0
+[ 3] Bazan J.F.
+     "Emerging families of cytokines and receptors."
+     Curr. Biol. 3:603-606(1993).
+     PubMed=15335677
+[ 4] Beutler B., Cerami A.
+     "The history, properties, and biological effects of cachectin."
+     Biochemistry 27:7575-7582(1988).
+     PubMed=3061461
+[ 5] Vilcek J., Lee T.H.
+     "Tumor necrosis factor. New insights into the molecular mechanisms of
+     its multiple actions."
+     J. Biol. Chem. 266:7313-7316(1991).
+     PubMed=1850405
+[ 6] Browning J.L., Ngam-ek A., Lawton P., DeMarinis J., Tizard R.,
+     Chow E.P., Hession C., O'Brine-Greco B., Foley S.F., Ware C.F.
+     "Lymphotoxin beta, a novel member of the TNF family that forms a
+     heteromeric complex with lymphotoxin on the cell surface."
+     Cell 72:847-856(1993).
+     PubMed=7916655
+[ 7] Suda T., Takahashi T., Golstein P., Nagata S.
+     "Molecular cloning and expression of the Fas ligand, a novel member of
+     the tumor necrosis factor family."
+     Cell 75:1169-1178(1993).
+     PubMed=7505205
+[ 8] Baum P.R., Gayle R.B. III, Ramsdell F., Srinivasan S., Sorensen R.A.,
+     Watson M.L., Seldin M.F., Baker E., Sutherland G.R., Clifford K.N.
+     "Molecular characterization of murine and human OX40/OX40 ligand
+     systems: identification of a human OX40 ligand as the HTLV-1-regulated
+     protein gp34."
+     EMBO J. 13:3992-4001(1994).
+     PubMed=8076595
+[ 9] Wiley S.R., Schooley K., Smolak P.J., Din W.S., Huang C.-P.,
+     Nicholl J.K., Sutherland G.R., Smith T.D., Rauch C., Smith C.A.
+     "Identification and characterization of a new member of the TNF family
+     that induces apoptosis."
+     Immunity 3:673-682(1995).
+     PubMed=8777713
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

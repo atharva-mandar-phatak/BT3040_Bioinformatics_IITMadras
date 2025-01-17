@@ -1,0 +1,63 @@
+*************************************************************
+* DNA mismatch repair proteins mutL / hexB / PMS1 signature *
+*************************************************************
+
+Mismatch repair contributes to the overall fidelity of DNA replication [1]. It
+involves the correction of mismatched base pairs that  have been missed by the
+proofreading  element  of the DNA polymerase complex.     The sequence of some
+proteins involved in mismatch repair in different organisms have been found to
+be evolutionary related. These proteins are:
+
+ - Escherichia coli and  Salmonella typhimurium  mutL  protein [2].   MutL  is
+   required for dam-dependent methyl-directed DNA repair.
+ - Streptococcus pneumoniae hexB protein [3]. The Hex system is nick directed.
+ - Yeast proteins PMS1 and MLH1 [4].
+ - Human protein MLH1 [5] which is  involved  in a form of familial hereditary
+   nonpolyposis colon cancer (HNPCC).
+
+As a signature pattern for  this class of mismatch repair proteins we selected
+a  perfectly conserved heptapeptide which is located in the N-terminal section
+of these proteins.
+
+-Consensus pattern: G-F-R-G-E-[AG]-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Modrich P.
+     "DNA mismatch correction."
+     Annu. Rev. Biochem. 56:435-466(1987).
+     PubMed=3304141; DOI=10.1146/annurev.bi.56.070187.002251
+[ 2] Mankovich J.A., McIntyre C.A., Walker G.C.
+     "Nucleotide sequence of the Salmonella typhimurium mutL gene required
+     for mismatch repair: homology of MutL to HexB of Streptococcus
+     pneumoniae and to PMS1 of the yeast Saccharomyces cerevisiae."
+     J. Bacteriol. 171:5325-5331(1989).
+     PubMed=2676972
+[ 3] Prudhomme M., Martin B., Mejean V., Claverys J.-P.
+     "Nucleotide sequence of the Streptococcus pneumoniae hexB mismatch
+     repair gene: homology of HexB to MutL of Salmonella typhimurium and to
+     PMS1 of Saccharomyces cerevisiae."
+     J. Bacteriol. 171:5332-5338(1989).
+     PubMed=2676973
+[ 4] Prolla T.A., Christie D.M., Liskay R.M.
+     "Dual requirement in yeast DNA mismatch repair for MLH1 and PMS1, two
+     homologs of the bacterial mutL gene."
+     Mol. Cell. Biol. 14:407-415(1994).
+     PubMed=8264608
+[ 5] Bronner C.E., Baker S.M., Morrison P.T., Warren G., Smith L.G.,
+     Lescoe M.K., Kane M., Earabino C., Lipford J., Lindblom A.
+     "Mutation in the DNA mismatch repair gene homologue hMLH1 is
+     associated with hereditary non-polyposis colon cancer."
+     Nature 368:258-261(1994).
+     PubMed=8145827; DOI=10.1038/368258a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

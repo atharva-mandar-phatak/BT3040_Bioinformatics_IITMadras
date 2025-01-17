@@ -1,0 +1,67 @@
+****************************************
+* Chitin-binding type-2 domain profile *
+****************************************
+
+The  species distribution of the chitin-binding type-2 domain is complementary
+to  the  chitin-binding  type-1 domain (see <PDOC00025>). The type-2 is mainly
+found  in  animal  and baculovirus proteins while the type-1 is found in plant
+and   fungi.   Type-2   is   characterized   by  having  a  6-cysteine  motif:
+C-x(13,20)-C-x(5,6)-C-x(9,19)-C-x(10,14)-C-x(4,14)-C   and   several  aromatic
+residues [1].
+
+The  structure  of the  chitin-binding  domain of  tachycitin  has been solved
+(see  <PDB:1DQC>)  [2].  It  revealed  that  tachycitin  shares  a  remarkable
+structural  similarity  with  the  chitin-binding type-1 domain of hevein. The
+overall   structure   forms   a   distorted   beta-sandwich   constructed   by
+three-stranded  and  two-stranded beta-sheets connected through a bending loop
+(Cys-40-Leu-44).  The  precise  chitin  binding  site  (Cys-40  to  Gly-60) is
+perfectly  superposable  with the chitin binding site of hevein. Furthermore a
+disulfide  bridge  connecting  Cys-40  and  Cys-53 is also present at the same
+location in the hevein structure [2].
+
+Some protein known to contain a chitin-binding type-2 domain are listed below:
+
+ - Animal  class-II  chitinase. It degrades chitin and chitotriose. In mammals
+   it  may  participate  in  the defense against nematodes and other pathogens
+   [3].
+ - Tachycitin, an antimicrobial protein of horseshoe crab hemocytes.
+ - Peritrophin-A,  a  component  of peritrophic matrices (acellular linings in
+   the  gut  of  most  insects  that  comprise  proteins  and  sugar polymers,
+   including chitin).
+ - Drosophila Tequila protein, a serine protease involved in immune response.
+ - Drosophila   Hemolectin,  a  sugar  binding  protein  involved  in  defense
+   response.
+
+The profile we developed covers the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2003 / First entry.
+
+[ 1] Gaines P.J., Walmsley S.J., Wisnewski N.
+     "Cloning and characterization of five cDNAs encoding peritrophin-A
+     domains from the cat flea, Ctenocephalides felis."
+     Insect Biochem. Mol. Biol. 33:1061-1073(2003).
+     PubMed=14563358
+[ 2] Suetake T., Tsuda S., Kawabata S., Miura K., Iwanaga S., Hikichi K.,
+     Nitta K., Kawano K.
+     "Chitin-binding proteins in invertebrates and plants comprise a common
+     chitin-binding structural motif."
+     J. Biol. Chem. 275:17929-17932(2000).
+     PubMed=10770921; DOI=10.1074/jbc.C000184200;
+[ 3] Tjoelker L.W., Gosting L., Frey S., Hunter C.L., Trong H.L.,
+     Steiner B., Brammer H., Gray P.W.
+     "Structural and functional definition of the human chitinase
+     chitin-binding domain."
+     J. Biol. Chem. 275:514-520(2000).
+     PubMed=10617646
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

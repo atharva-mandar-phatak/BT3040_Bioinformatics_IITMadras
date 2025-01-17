@@ -1,0 +1,29 @@
+EMAJORBASICP
+Eosinophil granule major basic protein (MBP) is a low molecular weight 
+cationic protein present in the crystalloid core of the eosinophil granule
+[1]. It is a potent toxin for helminths and mammalian cells, and may have
+important roles in allergic and inflammatory reactions - it can release
+histamine from mast cells and damage epithelial cells of bronchial tubes.
+MBP is also involved in antiparasitic defense mechanisms and immune hyper-
+sensitivity reactions. The protein is a single arginine-rich polypeptide
+[2], its pro-portion being rich in glutamic and aspartic acids. It has been
+suggested that the protein is translated as a nontoxic precursor that
+protects the eosinophil from damage while it is processed through the endo-
+plasmic reticulum to its sequestered site in the granule core toxic MBP [3].
+
+The sequence of MBP has been shown to contain a C-type lectin (CTL) domain 
+[4]. CTL domains are 110-130 residue motifs that appear to function as 
+calcium-dependent carbohydrate-recognition domains [1-3]. 
+
+EMAJORBASICP is a 7-element fingerprint that provides a signature for
+eosinophil granule major basic proteins. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from short
+conserved regions spanning the full alignment length - motif 1 spans the
+signal peptide; motif 2 lies in the acidic pro-peptide region; and motifs
+4-7 span the C-type lectin domain. Two iterations on OWL29.4 were required
+to reach convergence, at which point a true set comprising 6 sequences was
+identified. Two partial matches were also found, both of which match motifs
+3 and 4. 
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 4
+partial matches.

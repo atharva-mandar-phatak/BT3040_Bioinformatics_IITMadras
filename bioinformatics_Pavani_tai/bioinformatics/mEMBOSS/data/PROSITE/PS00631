@@ -1,0 +1,56 @@
+************************************
+* Cytosol aminopeptidase signature *
+************************************
+
+Cytosol  aminopeptidase is a eukaryotic cytosolic  zinc-dependent exopeptidase
+that catalyzes  the removal  of unsubstituted  amino-acid  residues  from  the
+N-terminus of proteins. This enzyme is  often  known as leucine aminopeptidase
+(EC 3.4.11.1) (LAP)  but  has  been shown [1]  to  be  identical  with  prolyl
+aminopeptidase (EC 3.4.11.5). Cytosol aminopeptidase is a hexamer of identical
+chains, each of which binds two zinc ions.
+
+Cytosol aminopeptidase is highly similar to Escherichia coli pepA, a manganese
+dependent aminopeptidase.  Residues  involved  in  zinc ion-binding [2] in the
+mammalian enzyme are  absolutely  conserved in pepA where they presumably bind
+manganese. Most bacterial species contain a pepA-type enzyme.
+
+As a signature pattern  for these  enzymes, we  selected a perfectly conserved
+octapeptide which  contains  two  residues  involved in binding metal ions: an
+aspartate and a glutamate.
+
+-Consensus pattern: [NS]-[TS]-D-A-E-G-R-[LVMI]
+                    [The D and the E are zinc/manganese ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family M17 in the classification of peptidases
+ [3,E1].
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Matsushima M., Takahashi T., Ichinose M., Miki K., Kurokawa K.,
+     Takahashi K.
+     "Structural and immunological evidence for the identity of prolyl
+     aminopeptidase with leucyl aminopeptidase."
+     Biochem. Biophys. Res. Commun. 178:1459-1464(1991).
+     PubMed=1908238
+[ 2] Burley S.K., David P.R., Sweet R.M., Taylor A., Lipscomb W.N.
+     "Structure determination and refinement of bovine lens leucine
+     aminopeptidase and its complex with bestatin."
+     J. Mol. Biol. 224:113-140(1992).
+     PubMed=1548695
+[ 3] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

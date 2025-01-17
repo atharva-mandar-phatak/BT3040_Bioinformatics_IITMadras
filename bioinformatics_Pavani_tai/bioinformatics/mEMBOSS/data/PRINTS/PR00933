@@ -1,0 +1,49 @@
+BLYTICPTASE
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, around
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+relatively common, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure 
+adopted by this motif in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of their metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. In the first group, a glutamic acid completes the active site -
+these are termed HEXXH+E: all families in this group show some sequence
+relationship and have been assigned to clan MA [1]. The second group, which
+have a third histidine as the extra metal-binding residue, are termed
+HEXXH+H and are grouped into clan MB on the basis of their inter-relation-
+ship[1]. In the third group, the additional metal-binding residues are
+unidentified. The fourth group is diverse - the metal-binding residues are
+known but do not form the HEXXH motif. And the fifth group comprises the
+remaining families where the metal-binding residues are as yet unknown [1,2].
+
+B-lytic endopeptidases are bacterial metallopeptidases that belong to the 
+M23 protease family [1,3]. Cleavage is specific for glycine bonds,
+especially in -Gly-Gly+Xaa sequences (Xaa is any aliphatic hydrophobic
+residue). They lyse the cell walls of Gram-positive bacteria in which the
+peptidoglycan cross-links contain glycine residues. The enzymes contain
+zinc, but the exact position of the metal-binding ligands is uncertain. On
+the basis of similarity with D-Ala-D-Ala-carboxypeptidase, it has been
+suggested that a conserved His-X-His motif (where X is any amino acid)
+forms part of the binding site [1].
+
+The protein sequence deduced from the nucleotide sequence reveals a mature
+enzyme of 179 residues [4]. In the gene product from Achromobacter lyticus,
+an additional 195 amino acids at the N-terminal end of the protein include
+the signal peptide, indicating that the enzyme is synthesised as a 
+precursor [4]. 
+
+BLYTICPTASE is a 5-element fingerprint that provides a signature for B-lytic
+metalloendopeptidases (M23). The fingerprint was derived from an initial 
+alignment of 3 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full length of the protease domain - motif 4 encodes
+the putative di-histidine zinc binding site. Two iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 5 
+sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 4 sequences.

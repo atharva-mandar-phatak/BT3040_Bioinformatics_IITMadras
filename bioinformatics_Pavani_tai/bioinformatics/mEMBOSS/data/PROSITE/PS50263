@@ -1,0 +1,65 @@
+********************************************
+* Carbon-nitrogen hydrolase domain profile *
+********************************************
+
+The carbon-nitrogen  hydrolase domain is an around 265-residue domain found in
+numerous enzymes  involved  in the reduction of organic nitrogen compounds and
+ammonia production.  Based  on  their sequence similarity and on the reactions
+they catalyze,  these  enzymes  can  be  classified into functionally distinct
+groups including [1,2]:
+
+ - Nitrilases   (EC   3.5.5.1),   which   cleave  various  nitriles  into  the
+   corresponding acids and ammonia (see <PDOC00712>).
+ - Cyanide  hydratase  (EC 4.2.1.66) of pathogenic fungi, which detoxifies HCN
+   that is  released  by  their  hosts,  cyanogenic  plants, after injury (see
+   <PDOC00712>).
+ - Aliphatic amidases (EC 3.5.1.4), which enable prokaryotes to use acetamides
+   as both carbon and nitrogen source.
+ - Beta-alanine    synthase    (N-carbamoyl-beta-alanine    amino   hydrolase)
+   (EC 3.5.1.6), which catalyses the last step of pyrimidine catabolism.
+ - AdgA  (for ammonia-dependent growth) from Rhodobacter species (EC 6.3.5.1).
+   It appears  to  be  essential  for  using  various  amino acids as nitrogen
+   sources.
+ - Biotinidase  (EC  3.5.1.12),  which catalyzes the hydrolysis of biocytin to
+   biotin and lysine.
+ - Pantetheinase   (EC 3.5.1.92)   (Pantetheine   hydrolase)  (Vanin),   which
+   hydrolyzes specifically  one  of  the carboamide linkages in D-pantetheine,
+   thus recycling pantothenic acid (vitamin B5) and releasing cysteamine.
+ - Apolipoprotein  N-acyltransferase   (EC  2.3.1.-)  (gene  lnt), a bacterial
+   enzyme that transfers the fatty acyl group on membrane lipoproteins.
+
+The carbon-nitrogen  hydrolase  domain  can  be found alone or associated with
+other domains,  such  as the NAD synthase domain, the HIT histidine triad (see
+<PDOC00694>), the acetyltransferase domain or the glycosyltransferase domain.
+
+The carbon-nitrogen  hydrolase  domain  is  characterized by several conserved
+motifs, one  of  which contains a cysteines that is part of the catalytic site
+in nitrilases.  Another  highly  conserved motif includes a glutamic acid that
+might also be involved in catalysis [1].
+
+The profile we developed covers the entire carbon-nitrogen hydrolase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2002 / First entry.
+
+[ 1] Bork P., Koonin E.V.
+     "A new family of carbon-nitrogen hydrolases."
+     Protein Sci. 3:1344-1346(1994).
+     PubMed=7987228
+[ 2] Fujii T., Ahn J.-Y., Kuse M., Mori H., Matsuda T., Isobe M.
+     "A novel photoprotein from oceanic squid (Symplectoteuthis
+     oualaniensis) with sequence similarity to mammalian carbon-nitrogen
+     hydrolase domains."
+     Biochem. Biophys. Res. Commun. 293:874-879(2002).
+     PubMed=12054553; DOI=10.1016/S0006-291X(02)00296-6
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

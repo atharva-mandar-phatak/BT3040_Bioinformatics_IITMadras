@@ -1,0 +1,109 @@
+********************************
+* GntR-type HTH domain profile *
+********************************
+
+The  gntR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  60-70 residues present in transcriptional regulators of the
+gntR  family.  This  family  of  bacterial  regulators is named after Bacillus
+subtilis gntR, a repressor of the gluconate operon [1,2]. Six subfamilies have
+been  described  for  the gntR family: fadR, hutC, plmA, mocR, ytrA, and araR,
+which  regulate various biological processes and important bacterial metabolic
+pathways.   The  DNA-binding  gntR-type  HTH  domain  occurs  usually  in  the
+N-terminal   part.  The  C-terminal  part  can  contain  a  subfamily-specific
+effector-binding  domain  and/or  an  oligomerization  domain.  The  fadR-like
+regulators, representing the largest subfamily, are involved in the regulation
+of  oxidized  substrates  related to metabolic pathways or metabolism of amino
+acids.  HutC-like  proteins  are  involved  in conjugative plasmid transfer in
+several  Streptomyces  species.  PlmA is a cyanobacterial regulator of plasmid
+maintenance.  The  mocR  subfamily  encompasses proteins homologous to class I
+aminotransferase  proteins, which bind pyridoxal phosphate as a cofactor. Most
+of  the  ytrA-like  proteins  take  part  in  operons  involved in ATP-binding
+cassette  (ABC)  transport  systems.  AraR is an autoregulatory protein with a
+C-terminal  domain that binds a carbohydrate effector, similar to that present
+in regulators of the lacI/galR family (see <PDOC00366>) [3,4].
+
+The  crystal  structures  of fadR show that the N-terminal, DNA binding domain
+contains  a  small  beta-sheet  (B)  core  and  three alpha-helices (H) with a
+topology  H1-B1-H2-H3-B2-B3 (see <PDB:1H9T>). Helices 2 and 3, connected via a
+tight   turn,   comprise   the   helix-turn-helix   motif.  The  anti-parallel
+beta-strands 2 and 3 together with B1 form a small beta-sheet, which is called
+the  wing.  Helix  3 is termed the recognition helix as in most wHTHs it binds
+the  DNA  major groove. Here, only the N-terminal tip of the recognition helix
+makes  specific  DNA-contacts  and  the  wing  makes unusual sequence-specific
+contacts  to  the  minor  groove.  Like  other  HTH  proteins,  most gntR-type
+regulators  bind as homodimers to 2-fold symmetric DNA sequences in which each
+monomer recognizes half of the site [5,6].
+
+Some proteins known to contain a gntR-type HTH domain:
+
+ - Bacillus subtilis gntR, a repressor of the gnt operon, which is responsible
+   for  gluconate  metabolism.  In the absence of gluconate, gntR binds to the
+   promoter  of  the  operon.  The  expression of the operon is induced in the
+   presence of gluconate.
+ - Escherichia   coli   fadR,   a  transcriptional  regulator  of  fatty  acid
+   metabolism.  In  the  absence of the acyl-CoA effector, fadR binds specific
+   operator  sites,  represses  the expression of genes involved in fatty acid
+   degradation  and  import,  and  activates  biosynthetic  genes.  Binding of
+   acyl-CoA   gives  conformational  changes  abolishing  DNA  binding,  which
+   derepresses the catabolic genes and deactivates the anabolic genes.
+ - Escherichia   coli  phdR,  a  transcriptional  repressor  of  the  pyruvate
+   dehydrogenase complex.
+ - Klebsiella   aerogenes  and  Pseudomonas  putida  hutC,  a  transcriptional
+   repressor of the histidine utilization (hut) operon.
+ - Streptomyces  lividans korA, a  regulator that controls plasmid transfer.
+ - Rhizobium meliloti mocR, a probable regulator of rhizopine catabolism.
+ - Bacillus  subtilis  ytrA,  a  repressor  of  the  acetoine utilization gene
+   cluster.
+ - Anabaena  sp.  strain  PCC  7120  plmA,  a  regulator  involved  in plasmid
+   maintenance [4].
+ - Bacillus  subtilis  araR,  a  transcriptional  repressor  of  the arabinose
+   operon.
+
+The  profile  we  developed  covers  the entire gntR-type HTH domain, from the
+well-conserved part of helix 1 to the end of the wing.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Rigali S.; srigali@ulg.ac.be
+
+-Last update: February 2004 / Text revised.
+
+[ 1] Buck D., Guest J.R.
+     "Overexpression and site-directed mutagenesis of the succinyl-CoA
+     synthetase of Escherichia coli and nucleotide sequence of a gene (g30)
+     that is adjacent to the suc operon."
+     Biochem. J. 260:737-747(1989).
+     PubMed=2548486
+[ 2] Haydon D.J., Guest J.R.
+     "A new family of bacterial regulatory proteins."
+     FEMS Microbiol. Lett. 63:291-295(1991).
+     PubMed=2060763
+[ 3] Rigali S., Derouaux A., Giannotta F., Dusart J.
+     "Subdivision of the helix-turn-helix GntR family of bacterial
+     regulators in the FadR, HutC, MocR, and YtrA subfamilies."
+     J. Biol. Chem. 277:12507-12515(2002).
+     PubMed=11756427; DOI=10.1074/jbc.M110968200
+[ 4] Lee M.H., Scherer M., Rigali S., Golden J.W.
+     "PlmA, a new member of the GntR family, has plasmid maintenance
+     functions in Anabaena sp. strain PCC 7120."
+     J. Bacteriol. 185:4315-4325(2003).
+     PubMed=12867439
+[ 5] Van Aalten D.M.F., DiRusso C.C., Knudsen J.
+     EMBO J. 20:2041-2050(2001).
+[ 6] Xu Y., Heath R.J., Li Z., Rock C.O., White S.W.
+     "The FadR.DNA complex. Transcriptional control of fatty acid
+     metabolism in Escherichia coli."
+     J. Biol. Chem. 276:17373-17379(2001).
+     PubMed=11279025; DOI=10.1074/jbc.M100195200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

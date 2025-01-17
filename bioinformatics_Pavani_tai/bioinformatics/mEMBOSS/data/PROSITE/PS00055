@@ -1,0 +1,40 @@
+***********************************
+* Ribosomal protein S12 signature *
+***********************************
+
+Ribosomal protein S12 is one of the proteins from the small ribosomal subunit.
+In Escherichia coli, S12 is known to be involved in the translation initiation
+step. It  is  a  very  basic  protein  of  120 to 150 amino-acid residues. S12
+belongs to  a  family  of  ribosomal  proteins which, on the basis of sequence
+similarities [1], groups:
+
+ - Eubacterial S12.
+ - Archaebacterial S12.
+ - Algal and plant chloroplast S12.
+ - Cyanelle S12.
+ - Protozoa and plant mitochondrial S12.
+ - Yeast S28.
+ - Drosophila mitochondrial protein tko (Technical KnockOut).
+ - Mammalian S23.
+
+As a  signature  pattern,  we  selected  the  best  conserved regions in these
+proteins, located in the center of each sequence.
+
+-Consensus pattern: [RK]-x-P-N-S-[AR]-x-R
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for some mitochondrial S12 and Micrococcus luteus S12.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / Text revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

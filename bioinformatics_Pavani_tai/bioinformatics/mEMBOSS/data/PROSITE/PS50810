@@ -1,0 +1,68 @@
+*****************************************
+* Frataxin family signature and profile *
+*****************************************
+
+Frataxin (gene  FRDA)  [1]  is  a  mitochondrial protein, which is involved in
+Friedreich's ataxia  (FA),  an  autosomal  recessive, progressive degenerative
+disease characterized   by   neurodegeneration,  cardiomyopathy  and  diabetes
+mellitus. Frataxin  defect causes mitochondrial iron accumulation, which could
+lead to   specific   deficiency   in  the  activities  of  aconitases  and  of
+mitochondrial iron-sulfur  dependent enzymes, as suggested by biochemical data
+[2].
+
+From the  X-ray  structure  of  human  frataxin [3], it seems that some of the
+conserved residues are involved in binding one iron atom.
+
+Frataxin is evolutionary related to the following proteins:
+
+ - Yeast  YFH1  [4],  a protein that seems to be involved in the regulation of
+   mitochondrial iron efflux.
+ - Bacterial cyaY proteins of unknown function. Inactivation of the protein in
+   E.coli has no visible phenotype [5].
+
+As  a signature pattern, we selected a conserved region in the central section
+of these proteins. We also developed a profile that covers the whole conserved
+region.
+
+-Consensus pattern: [IV]-[LIVF]-[NS]-[KRTAVSL]-[QH]-x-[PAVS]-x(2)-[EQ]-[LIVM]-
+                    W-x-[STA]-[STAD]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Klockgether T., Evert B.
+     "Genes involved in hereditary ataxias."
+     Trends Neurosci. 21:413-418(1998).
+     PubMed=9735950
+[ 2] Rotig A., de Lonlay P., Chretien D., Foury F., Koenig M., Sidi D.,
+     Munnich A., Rustin P.
+     "Aconitase and mitochondrial iron-sulphur protein deficiency in
+     Friedreich ataxia."
+     Nat. Genet. 17:215-217(1997).
+     PubMed=9326946; DOI=10.1038/ng1097-215
+[ 3] Dhe-Paganon S., Shigeta R., Chi Y.-I., Ristow M., Shoelson S.E.
+     J. Biol. Chem. 275:30753-30756(2000).
+[ 4] Radisky D.C., Babcock M.C., Kaplan J.
+     "The yeast frataxin homologue mediates mitochondrial iron efflux.
+     Evidence for a mitochondrial iron cycle."
+     J. Biol. Chem. 274:4497-4499(1999).
+     PubMed=9988680
+[ 5] Li D.S., Ohshima K., Jiralerspong S., Bojanowski M.W., Pandolfo M.
+     "Knock-out of the cyaY gene in Escherichia coli does not affect
+     cellular iron content and sensitivity to oxidants."
+     FEBS Lett. 456:13-16(1999).
+     PubMed=10452520
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

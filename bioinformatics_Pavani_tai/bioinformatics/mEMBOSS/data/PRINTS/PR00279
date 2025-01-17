@@ -1,0 +1,17 @@
+BACTRLTOXIN
+Staphylococcal enterotoxins and streptococcal pyrogenic exotoxins belong
+to a family of related toxins [1,2] that share the ability to bind to
+the major histocompatibility complex proteins of their hosts. A more
+distant relative of the family is the Staphylococcus aureus toxic shock
+syndrome toxin, which shares only a low level of sequence similarity
+with this group. 
+
+BACTRLTOXIN is a 2-element fingerprint that provides a signature for 
+staphylococcal enterotoxins and streptococcal pyrogenic exotoxins. The
+fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from the short conserved regions encoded by PROSITE
+patterns STAPH_STREP_TOXIN_1 (PS00277) and STAPH_STREP_TOXIN_2 (PS00278).
+Two iterations on OWL23.2 were required to reach convergence, at which
+point a true set comprising 17 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 13 sequences.

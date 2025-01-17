@@ -1,0 +1,38 @@
+DNAPOLXTDT
+DNA	carries the biological information that instructs cells how to exist
+in an ordered fashion: accurate replication is thus one of the most
+important events in the cell life cycle. This function is mediated by
+DNA-directed DNA-polymerases, which add nucleotide triphosphate (dNTP)
+residues to the 5'-end of the growing DNA chain, using a complementary 
+DNA as template. Small RNA molecules are generally used as primers for
+chain elongation, although terminal proteins may also be used.
+
+DNA-dependent DNA-polymerases have been grouped into families, denoted A, B
+and X, on the basis of sequence similarities [1,2].	Members of family X
+encompass two distinct polymerase enzymes that have similar functionality:
+vertebrate polymerase beta (yeast pol 4), and terminal deoxynucleotidyl-
+transferase (TdT) (EC 2.7.7.31). The former functions in DNA repair, while
+the latter terminally adds single nucleotides to polydeoxynucleotide chains.
+Both enzymes catalyse addition of nucleotides in a distributive manner, 
+i.e. they dissociate after the addition of a single nucleotide.
+
+Three motifs, A, B and C, as defined by Delarue et al. [2], are seen to be 
+conserved across all DNA-polymerases, with motifs A and C also seen in RNA- 
+polymerases. They are centered on invariant residues, and their structural 
+significance was implied from the Klenlow (E.coli) structure: motif A 
+contains a strictly-conserved aspartate at the junction of a beta-strand 
+and an alpha-helix; motif B contains an alpha-helix with positive charges; 
+and motif C has a doublet of negative charges, located in a beta-turn-beta 
+secondary structure [2]. 
+
+DNAPOLXTDT is a 10-element fingerprint that provides a signature for the DNA
+nucleotidylexotransferase (TDT) family. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs were drawn from conserved
+sections spanning the full alignment length, focusing on those regions that
+characterise the TDT proteins but distinguish them from the polymerase X
+and beta-like families - motif 8, which corresponds to "motif C", encodes
+strand 7, which contains an active site Asp. Two iterations on OWL30.1 were 
+required to reach convergence, at which point a true set comprising 9 
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

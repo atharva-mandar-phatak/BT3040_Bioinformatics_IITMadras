@@ -1,0 +1,31 @@
+LINKMODULE
+The link module (also known as HABM (HA binding module) or PTR (proteoglycan
+tandem repeat) is an approximately 100 amino acid long hyaluronic acid-
+binding domain found in vertebrate proteins involved in assembling the
+extracellular matrix and in cell adhesion and migration [1-3]. The structure
+consists of two alpha-helices and two short anti-parallel beta-strands built 
+around a hydrophobic core [2]. The module contains four conserved cysteines 
+involved in two disulphide bridges, as illustrated schematically below:
+
+                            +----------+
+                            |          |
+            xxxxCxxxxxxxxxxxCxxxxxxxxxxCxxxxxxxxxxxxxxxCxxxxx
+                |                                      |
+                +--------------------------------------+
+
+Proteins containing link modules include the proteoglycans aggrecan, 
+brevican, neurocan and versican, and the cartilage link protein, each of
+which contain two modules; tumor necrosis factor-inducible protein TSG-6 
+and CD44 cell surface antigen, which each contain a single module (that in 
+CD44 being at the N-terminus).
+
+LINKMODULE is a 4-element fingerprint that provides a signature for the 
+link module. The fingerprint was derived from an initial alignment of 5 
+sequences: the motifs were drawn from strategically selected conserved
+regions spanning the full alignment length - motif 1 encodes the N-terminal
+helical region and first conserved cysteine residue; motif 2 spans the 
+region flanking the second conserved Cys; motif 3 includes the region
+preceding the third conserved Cys; and motif 4 is centred on the short
+C-terminal beta-strand and fourth conserved Cys. Two iterations on
+SPTR37_10f were required to reach convergence, at which point a true
+set comprising 41 sequences was identified.

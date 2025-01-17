@@ -1,0 +1,47 @@
+******************************
+* Bacterioferritin signature *
+******************************
+
+Bacterioferritin (BFR) [1,2] is  a prokaryotic iron-storing protein  that  may
+perform analogous functions in  iron detoxification and  storage  as  that  of
+eukaryotic ferritins. BFR is also known as cytochrome b-1, b-557, b-557.5,  or
+b-559 in various bacterial species.
+
+BFR is an oligomer composed of 24 identical  subunits  that contains protoheme
+IX in addition to the non-heme iron core.  The  two axial ligands for the heme
+group iron have been shown [3] to be methionine residues.
+
+As a signature pattern we selected the conserved N-terminal extremity of BFR.
+
+-Consensus pattern: <M-x-G-x(3)-[IV]-[LIV]-x(2)-[LM]-x(3)-L-x(3)-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Andrews S.C., Smith J.M.A., Guest J.R., Harrison P.M.
+     "Genetic and structural characterization of the bacterioferritin of
+     Escherichia coli."
+     Biochem. Soc. Trans. 18:658-659(1990).
+     PubMed=2276500
+[ 2] Andrews S.C., Findlay J.B.C., Guest J.R., Harrison P.M., Keen J.N.,
+     Smith J.M.A.
+     "Physical, chemical and immunological properties of the
+     bacterioferritins of Escherichia coli, Pseudomonas aeruginosa and
+     Azotobacter vinelandii."
+     Biochim. Biophys. Acta 1078:111-116(1991).
+     PubMed=1904771
+[ 3] Cheesman M.R., Thomson A.J., Greenwood C., Moore G.R., Kadir F.
+     "Bis-methionine axial ligation of haem in bacterioferritin from
+     Pseudomonas aeruginosa."
+     Nature 346:771-773(1990).
+     PubMed=2167456; DOI=10.1038/346771a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

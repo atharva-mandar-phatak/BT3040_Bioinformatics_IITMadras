@@ -1,0 +1,21 @@
+MAPEPTIDASE
+Methionine aminopeptidase (MAP) removes the initiator, N-terminal,
+methionine from nascent eukaryotic cytosolic and cytoplasmic prokaryotic
+proteins where the penultimate amino acid is small and uncharged. MAP
+enzymes are monomeric proteins that require cobalt ions for activity. Two
+related families of MAPs have been described [1,2], which share sequence
+similarity in the region of the cobalt-binding site [3]. The first of these
+includes enzymes from prokaryotes as well as eukaryotic MAP-1. 
+
+MAPEPTIDASE is a 4-element fingerprint that provides a signature for
+methionine aminopeptidase 1. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 3 including part of the
+region encoded by PROSITE pattern MAP_1 (PS00680), which contains residues
+known to be involved in colbalt-binding. Two iterations on OWL28.1 were
+required to reach convergence, at which point a true set comprising 15
+sequences was identified. Several partial matches were also found,
+including a number of fragments and X-PRO aminopeptidases.
+
+An update on SPTR37_9f identified a true set of 33 sequences, and 19
+partial matches.

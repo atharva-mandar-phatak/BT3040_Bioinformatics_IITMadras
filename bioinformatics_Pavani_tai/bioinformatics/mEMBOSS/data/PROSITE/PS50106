@@ -1,0 +1,122 @@
+**********************
+* PDZ domain profile *
+**********************
+
+PDZ domains  (also  called  Discs-large  homologous regions (DHR) or GLGF) are
+conserved structural  elements  of  80 to 100 amino acids that were originally
+identified in  the  post-synaptic density protein PSD-95, the Drosophila tumor
+suppressor discs-large,  and  the  tight-junction  protein  ZO-1.  PDZ domains
+occur as  single  or, more frequently, as multiple tandemly repeated copies in
+a large  and  diverse  set of proteins from all eukaryotes [1,2]. The presence
+of one  or  two  copies  of  PDZ  domains in some bacteria may be explained by
+horizontal gene transfer [3].
+
+Eukaryotic PDZ domains are multifunctional protein-protein interaction modules
+that are  involved in the clustering of signaling molecules and play important
+role in organizing  protein  networks on membranes. In many cases, PDZ domains
+bind to a signature motif ([FYST]-X-[FVA]) occurring at the very C-terminus of
+target proteins.  PDZ  domains  are  also  able  to  form heterodimers, and to
+interact with  internal  peptide  fragments of target proteins [1,2,4]. It has
+been proposed  that  bacterial PDZ domains also possess C-terminal polypeptide
+binding functions [3].
+
+PDZ domains  are  compact globular domains that were originally called GLGF as
+Gly-Leu-Gly-Phe is  a  relatively  conserved  element  of their sequences [1].
+Resolution of  crystal and solution structures of PDZ domains with and without
+ligands has  revealed  that  the  PDZ domain contains six beta-strands and two
+alpha-helices [5,6,7,8].  The  C-terminal  motif  of  target proteins has been
+shown to  bind in an anti-parallel fashion to a groove formed by the principal
+alpha-helix and  the  second beta-strand of the PDZ domains [5,8]. The binding
+site involved  in  the  heterodimerization  of  some  PDZ  domains is situated
+opposite this  canonical  peptide binding groove. It is an about 30 residue C-
+terminal extension  of  the PDZ domain, which forms a beta-hairpin finger. The
+first strand  of the beta-hairpin finger mimics a canonical C-terminal peptide
+ligand, inserting  into  the peptide binding groove of the PDZ domain from the
+partner protein  [7,8].  It  has  been proposed that PDZ domains may bind in a
+general fashion  to  non-terminal  sequences, possibly those with beta-finger-
+type structures,  regardless  of  whether  or not they are found downstream of
+other PDZ domains [9].
+
+Some proteins known to contain a PDZ domain are listed below:
+
+ - Eukaryotic membrane associated guanylate kinases (MAGUKs).
+ - Mammalian  amyloid  beta  A4  precursor  protein-binding family A proteins,
+   putative function in synaptic vesicle exocytosis by binding to Munc18-1, an
+   essential component of the synaptic vesicle exocytotic machinery.
+ - Mammalian neuronal nitric oxide synthase (nNOS).
+ - Interleukin-16, the only known secreted member of the PDZ protein family.
+ - Vertebrate  LIM-kinases  (LIMK),  which  display  serine/threonine-specific
+   phosphorylation of myelin basic protein and histone in vitro.
+ - Drosophila  and  vertebrate dishevelled (Dsh and Dvl), proteins that play a
+   key role  in the transduction of the Wg/Wnt signal from the cell surface to
+   the nucleus.
+ - Drosophila  InaD,    a  photoreceptor  scaffolding  protein  that assembles
+   multiple signal transducing proteins at the membrane via its 5 PDZ domains.
+ - Bacillus subtilis stage IV sporulation B protein (spOIVB).
+ - Bacterial  gspC  proteins, involved in protein export via type II secretion
+   systems.
+ - Bacterial  periplasmic  serine  proteases  high-temperature  requirement  A
+   (htrA) and tail-specific protease (tsp).
+ - Escherichia  coli  and  Haemophilus  influenzae  hypothetical protein YaeL,
+   probably associated with the cytoplasmic membrane.
+
+A profile  was  developed  that  covers  the minimal PDZ domain and thus lacks
+about 30  C-terminal  residues (which form the beta finger involved in PDZ-PDZ
+interactions).
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / First entry.
+
+[ 1] Ponting C.P., Phillips C., Davies K.E., Blake D.J.
+     "PDZ domains: targeting signalling molecules to sub-membranous
+     sites."
+     BioEssays 19:469-479(1997).
+     PubMed=9204764
+[ 2] Ranganathan R., Ross E.M.
+     "PDZ domain proteins: scaffolds for signaling complexes."
+     Curr. Biol. 7:R770-R773(1997).
+     PubMed=9382826
+[ 3] Ponting C.P.
+     "Evidence for PDZ domains in bacteria, yeast, and plants."
+     Protein Sci. 6:464-468(1997).
+     PubMed=9041651
+[ 4] Fuh G., Pisabarro M.T., Li Y., Quan C., Lasky L.A., Sidhu S.S.
+     "Analysis of PDZ domain-ligand interactions using carboxyl-terminal
+     phage display."
+     J. Biol. Chem. 275:21486-21491(2000).
+     PubMed=10887205; DOI=275/28/21486
+[ 5] Doyle D.A., Lee A., Lewis J., Kim E., Sheng M., MacKinnon R.
+     "Crystal structures of a complexed and peptide-free membrane
+     protein-binding domain: molecular basis of peptide recognition by
+     PDZ."
+     Cell 85:1067-1076(1996).
+     PubMed=8674113
+[ 6] Morais Cabral J.H., Petosa C., Sutcliffe M.J., Raza S., Byron O.,
+     Poy F., Marfatia S.M., Chishti A.H., Liddington R.C.
+     Nature 382:649-652(1996).
+[ 7] Hillier B.J., Christopherson K.S., Prehoda K.E., Bredt D.S., Lim W.A.
+     "Unexpected modes of PDZ domain scaffolding revealed by structure of
+     nNOS-syntrophin complex."
+     Science 284:812-815(1999).
+     PubMed=10221915
+[ 8] Tochio H., Zhang Q., Mandal P., Li M., Zhang M.
+     "Solution structure of the extended neuronal nitric oxide synthase PDZ
+     domain complexed with an associated peptide."
+     Nat. Struct. Biol. 6:417-421(1999).
+     PubMed=10331866; DOI=10.1038/8216
+[ 9] Oschkinat H.
+     "A new type of PDZ domain recognition."
+     Nat. Struct. Biol. 6:408-410(1999).
+     PubMed=10331862; DOI=10.1038/8203
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,68 @@
+*****************************************************************
+* Respiratory-chain NADH dehydrogenase 51 Kd subunit signatures *
+*****************************************************************
+
+Respiratory-chain NADH dehydrogenase (EC 1.6.5.3) [1,2] (also known as complex
+I  or  NADH-ubiquinone  oxidoreductase) is  an  oligomeric  enzymatic  complex
+located in  the  inner mitochondrial membrane  which  also  seems  to exist in
+the chloroplast and in cyanobacteria (as a NADH-plastoquinone oxidoreductase).
+Among the 25 to 30 polypeptide  subunits  of  this bioenergetic enzyme complex
+there is  one  with a  molecular  weight  of 51 Kd (in mammals), which is  the
+second largest subunit of complex I and is a component of the iron-sulfur (IP)
+fragment of the enzyme. It seems to bind to NAD, FMN, and a 4Fe-4S cluster.
+
+The 51 Kd subunit is highly similar to [3,4]:
+
+ - Subunit alpha of Alcaligenes eutrophus NAD-reducing hydrogenase (gene hoxF)
+   which also binds to NAD, FMN, and a 4Fe-4S cluster.
+ - Subunit NQO1 of Paracoccus denitrificans NADH-ubiquinone oxidoreductase.
+ - Subunit F of Escherichia coli NADH-ubiquinone oxidoreductase (gene nuoF).
+
+The 51 Kd subunit and  the bacterial  hydrogenase alpha subunit contains three
+regions of sequence similarities.  The  first one most probably corresponds to
+the NAD-binding site, the  second to  the FMN-binding site, and the third one,
+which contains three cysteines,  to  the  iron-sulfur binding region.  We have
+developed signature  patterns for  the  FMN-binding and for the 4Fe-4S binding
+regions.
+
+-Consensus pattern: G-[AM]-G-[AR]-Y-[LIVM]-C-G-[DE](2)-[STA](2)-[LIM](2)-[EN]-
+                    S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: E-[ST]-C-G-x-C-x-P-C-R-x-G
+                    [The 3 C's may be 4Fe-4S ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Ragan C.I.
+     Curr. Top. Bioenerg. 15:1-36(1987).
+[ 2] Weiss H., Friedrich T., Hofhaus G., Preis D.
+     "The respiratory-chain NADH dehydrogenase (complex I) of
+     mitochondria."
+     Eur. J. Biochem. 197:563-576(1991).
+     PubMed=2029890
+[ 3] Fearnley I.M., Walker J.E.
+     "Conservation of sequences of subunits of mitochondrial complex I and
+     their relationships with other proteins."
+     Biochim. Biophys. Acta 1140:105-134(1992).
+     PubMed=1445936
+[ 4] Weidner U., Geier S., Ptock A., Friedrich T., Leif H., Weiss H.
+     "The gene locus of the proton-translocating NADH: ubiquinone
+     oxidoreductase in Escherichia coli. Organization of the 14 genes and
+     relationship between the derived proteins and subunits of
+     mitochondrial complex I."
+     J. Mol. Biol. 233:109-122(1993).
+     PubMed=7690854
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,95 @@
+************************************
+* Transmembrane 4 family signature *
+************************************
+
+Recently a number of eukaryotic  cell  surface  antigens have been found to be
+evolutionary related [1,2,3]. The proteins known  to belong to this family are
+listed below:
+
+ - Mammalian antigen CD9 (MIC3); a protein involved in platelet activation and
+   aggregation.
+ - Mammalian leukocyte antigen CD37, expressed on B lymphocytes.
+ - Mammalian leukocyte antigen CD53 (OX-44),  which may be involved in  growth
+   regulation in hematopoietic cells.
+ - Mammalian lysosomal  membrane  protein  CD63  (Melanoma-associated  antigen
+   ME491; antigen AD1).
+ - Mammalian antigen CD81  (Cell surface protein TAPA-1),  which  may  play an
+   important role in the regulation of lymphoma cell growth.
+ - Mammalian  antigen  CD82  (Protein R2; Antigen C33; Kangai 1 (KAI1)), which
+   associates with  CD4  or  CD8  and  delivers  costimulatory signals for the
+   TCR/CD3 pathway.
+ - Mammalian  antigen  CD151 (SFA-1;  Platelet-endothelial tetraspan antigen 3
+   (PETA-3)).
+ - Mammalian TM4SF2 (Cell surface glycoprotein A15; TALLA-1; MXS1).
+ - Mammalian TM4SF3 (Tumor-associated antigen CO-029).
+ - Mammalian TM4SF6 (Tspan-6; TM4-D).
+ - Mammalian TM4SF7 (Novel antigen 2 (NAG-2); Tspan-4).
+ - Mammalian Tspan-2.
+ - Mammalian Tspan-3 (TM4-A).
+ - Mammalian Tetraspan NET-5.
+ - Schistosoma mansoni and japonicum 23 Kd surface antigen (SM23 / SJ23).
+
+These proteins  share  the following characteristics: they all seem to be type
+III membrane  proteins  (type III proteins are integral membrane proteins that
+contain a  N-terminal  membrane-anchoring  domain  which is not cleaved during
+biosynthesis and  which  functions  both  as  a  translocation signal and as a
+membrane anchor); they  also  contain  three additional transmembrane regions,
+at least  seven  conserved  cysteines residues, and are  of  approximately the
+same size  (218 to 284 residues). These proteins are collectively  know as the
+'transmembrane 4  superfamily'  (TM4)  because they span the  plasma  membrane
+four times.  A  schematic diagram of the domain structure of these proteins is
+shown below.
+
+ +-+-----+-------+----+-----+-----+-----------------------------+-----+----+
+ | | TMa | Extra | TM2| Cyt | TM3 | Extracellular               | TM4 | Cyt|
+ +-+-----+-------+----C-----C-----+--------CC---------C-----C---+-----C----+
+                     *********
+
+Cyt       : cytoplasmic domain.
+TMa       : transmembrane anchor.
+TM2 to TM4: transmembrane regions 2 to 4.
+'C'       : conserved cysteine.
+'*'       : position of the pattern.
+
+As a  signature  for  these  proteins,  we  selected  a  conserved region that
+includes two  cysteines  and  seems  to be located in a short cytoplasmic loop
+between two transmembrane domains.
+
+-Consensus pattern: [GC]-x(3)-[LIVMFS]-x(2)-[GSA]-[LIVMFTC]-[LIVMFA]-G-[CLYI]-
+                    x-[GA]-[STAPL]-x(2)-[EGAR]-x(2)-[CWNLF]-[LIVMGA]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Mammalian uroplakin IA/IB, TM4SF1 (L6), TM4SF4 (il-TMP), TM4SF5, Tspan-
+ 1, Tspan-5  are  proteins  that are distantly related to this family and that
+ are not found by the above pattern.
+
+-Expert(s) to contact by email:
+           Levy S.; levy@cellbio.stanford.edu
+           Wright M.D.; wright_m@wehi.edu.au
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Levy S., Nguyen V.Q., Andria M.L., Takahashi S.
+     "Structure and membrane topology of TAPA-1."
+     J. Biol. Chem. 266:14597-14602(1991).
+     PubMed=1860863
+[ 2] Tomlinson M.G., Williams A.F., Wright M.D.
+     "Epitope mapping of anti-rat CD53 monoclonal antibodies. Implications
+     for the membrane orientation of the Transmembrane 4 Superfamily."
+     Eur. J. Immunol. 23:136-140(1993).
+     PubMed=7678222
+[ 3] Barclay A.N., Birkeland M.L., Brown M.H., Beyers A.D., Davis S.J.,
+     Somoza C., Williams A.F.
+     (In) The leucocyte antigen factsbook, Academic Press,
+     London / San Diego, (1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,69 @@
+**********************
+* GAT domain profile *
+**********************
+
+The GAT  domain  is  a  region of homology of ~130 residues, which is found in
+eukaryotic GGAs  (for  Golgi-localized,  gamma ear-containing ADP ribosylation
+factor (ARF)-binding  proteins)  and  vertebrate TOMs (for target of myb). The
+GAT domain  is found in its entirety only in GGAs, although, at the C-terminus
+it shares  partial  sequence  similarity  with a short region of TOMs. The GAT
+domain is   found  in  association  with  other  domains,  such  as  VHS  (see
+<PDOC50179>) and  GAE  (see  <PDOC50180>).  The GAT domain of GGAs serves as a
+molecular anchor  of  GGA  to  trans-Golgi  network  (TGN)  membranes  via its
+interaction with  the  GTP-bound  form  of a member of the ARF family of small
+GTPases and  can bind specifically to the Rab GTPase effector rabaptin5 and to
+ubiquitin [1,2,3,4,5].
+
+The GGA-GAT  domain possesses an all alpha-helical structure, composed of four
+helices arranged  in  a  somewhat  unusual topology, which has been called the
+helical paper  clip (see <PDB:1NAF>). The overall structure shows that the GAT
+domain has  an elongated shape, in which the longest helix participates in two
+small independent  subdomains:  an  N-terminal  helix-loop-helix hook and a C-
+terminal three-helix  bundle.  The  hook  subdomain  has been shown to be both
+necessary and  sufficient for ARF-GTP binding and Golgi targeting of GGAs. The
+N-terminal hook  subdomain  contains  a  hydrophobic  patch, which is found to
+interact directly  with  ARF  [3].  It has been proposed that this interaction
+might stabilize  the  hook subdomain [4]. The C-terminal three-helix bundle is
+involved in the binding with Rabaptin5 and ubiquitin [5].
+
+The profile we developed covers the entire GAT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2004 / First entry.
+
+[ 1] Dell'Angelica E.C., Puertollano R., Mullins C., Aguilar R.C.,
+     Vargas J.D., Hartnell L.M., Bonifacino J.S.
+     J. Cell Biol. 149:81-94(2000).
+[ 2] Puertollano R., Randazzo P.A., Presley J.F., Hartnell L.M.,
+     Bonifacino J.S.
+     "The GGAs promote ARF-dependent recruitment of clathrin to the TGN."
+     Cell 105:93-102(2001).
+     PubMed=11301005
+[ 3] Collins B.M., Watson P.J., Owen D.J.
+     "The structure of the GGA1-GAT domain reveals the molecular basis for
+     ARF binding and membrane association of GGAs."
+     Dev. Cell 4:321-332(2003).
+     PubMed=12636914
+[ 4] Shiba T., Kawasaki M., Takatsu H., Nogi T., Matsugaki N., Igarashi N.,
+     Suzuki M., Kato R., Nakayama K., Wakatsuki S.
+     "Molecular mechanism of membrane recruitment of GGA by ARF in
+     lysosomal protein transport."
+     Nat. Struct. Biol. 10:386-393(2003).
+     PubMed=12679809; DOI=10.1038/nsb920
+[ 5] Zhu G., Zhai P., He X., Wakeham N., Rodgers K., Li G., Tang J.,
+     Zhang X.C.
+     "Crystal structure of human GGA1 GAT domain complexed with the
+     GAT-binding domain of Rabaptin5."
+     EMBO J. 23:3909-3917(2004).
+     PubMed=15457209; DOI=10.1038/sj.emboj.7600411
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

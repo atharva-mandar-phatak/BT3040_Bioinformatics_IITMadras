@@ -1,0 +1,88 @@
+*****************************************************************
+* Iron siderophore/cobalamin periplasmic-binding domain profile *
+*****************************************************************
+
+ATP binding  cassette  (ABC)  transporters are a ubiquitous family of importer
+and exporter  proteins  that  consist  of two alpha-helical transmembrane (TM)
+domains, which  form a translocation pathway, and two cytoplasmic ABC domains,
+which power  the transport reaction through binding and hydrolysis of ATP (see
+<PDOC00364>).  In addition  most  bacterial  importers  employs  a periplasmic
+substrate-binding protein  (PBP) that delivers the ligand to the extracellular
+gate of  the  TM domains. These proteins bind their substrates selectively and
+with high  affinity,  which  is  thought  to  ensure  the  specificity  of the
+transport reaction.  Binding  proteins  in  Gram-negative bacteria are present
+within the  periplasm, whereas those in Gram-positive bacteria are tethered to
+the cell  membrane via the acylation of a cysteine residue that is an integral
+component of  a  lipoprotein  signal sequence. The cobalamin (vitamin B12) and
+the iron  transport  systems share many common attributes and probably evolved
+from the same origin [1,2,3,4].
+
+The structure of the periplasmic-binding domain is composed of two subdomains,
+each consisting  of a central beta-sheet and surrounding alpha-helices, linked
+by a rigid alpha-helix (see <PDB:1N4A>). The substrate binding site is located
+in a cleft between the two alpha/beta subdomains [5].
+
+Some protein  known  to  contain  an  iron  siderophore/cobalamin periplasmic-
+binding domain are listed below:
+
+ - Escherichia  coli vitamin B12 transport protein btuF. It is the periplasmic
+   binding protein for the vitamin B12 transporter btuCD.
+ - Escherichia  coli  ferrichrome-binding periplasmic protein (fhuD). It binds
+   iron(III)-hydroxamates.
+ - Staphylococcus aureus ferric hydroxamate receptor 2 (fhuD2).
+ - Escherichia  coli  ferrienterobactin-binding  periplasmic  protein fepB. It
+   binds ferrienterobactin;  part  of  the binding-protein-dependent transport
+   system for uptake of ferrienterobactin.
+ - Vibrio cholerae periplasmic binding protein (viuP).
+ - Escherichia coli iron(III) dicitrate-binding periplasmic protein (fecB). It
+   binds citrate-dependent  iron(III);  part  of the binding-protein-dependent
+   transport system for uptake of citrate-dependent iron(III).
+ - Erwinia  chrysanthemi  achromobactin-binding periplasmic protein (cbrA). It
+   binds citrate-or chloride-dependent iron(III); part of the binding-protein-
+   dependent transport   system   cbrABCD   for   uptake  of  the  siderophore
+   achromobactin.
+ - Yersinia pestis hemin-binding periplasmic protein (hmuT).
+
+The profile   we   developed  covers  the  entire  iron  siderophore/cobalamin
+periplasmic-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Borths E.L., Locher K.P., Lee A.T., Rees D.C.
+     "The structure of Escherichia coli BtuF and binding to its cognate ATP
+     binding cassette transporter."
+     Proc. Natl. Acad. Sci. U.S.A. 99:16642-16647(2002).
+     PubMed=12475936; DOI=10.1073/pnas.262659699
+[ 2] Sebulsky M.T., Shilton B.H., Speziali C.D., Heinrichs D.E.
+     "The role of FhuD2 in iron(III)-hydroxamate transport in
+     Staphylococcus aureus. Demonstration that FhuD2 binds
+     iron(III)-hydroxamates but with minimal conformational change and
+     implication of mutations on transport."
+     J. Biol. Chem. 278:49890-49900(2003).
+     PubMed=14514690; DOI=10.1074/jbc.M305073200
+[ 3] Staudenmaier H., Van Hove B., Yaraghi Z., Braun V.
+     "Nucleotide sequences of the fecBCDE genes and locations of the
+     proteins suggest a periplasmic-binding-protein-dependent transport
+     mechanism for iron(III) dicitrate in Escherichia coli."
+     J. Bacteriol. 171:2626-2633(1989).
+     PubMed=2651410
+[ 4] Koester W.L., Actis L.A., Waldbeser L.S., Tolmasky M.E., Crosa J.H.
+     J. Biol. Chem. 266:23829-23833(1991).
+[ 5] Karpowich N.K., Huang H.H., Smith P.C., Hunt J.F.
+     "Crystal structures of the BtuF periplasmic-binding protein for
+     vitamin B12 suggest a functionally important reduction in protein
+     mobility upon ligand binding."
+     J. Biol. Chem. 278:8429-8434(2003).
+     PubMed=12468528; DOI=10.1074/jbc.M212239200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

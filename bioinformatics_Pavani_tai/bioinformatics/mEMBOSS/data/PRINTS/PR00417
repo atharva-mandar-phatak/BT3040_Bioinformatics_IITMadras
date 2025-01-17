@@ -1,0 +1,37 @@
+PRTPISMRASEI
+Prokaryotic topoisomerase I, otherwise known as relaxing enzyme, untwisting 
+enzyme or swivelase, catalyses the ATP-independent breakage of single-
+stranded DNA, followed by passage and rejoining of another single-stranded 
+DNA region [1]. This reaction brings about the conversion of one topological
+isomer of DNA into another: e.g., relaxation of superhelical turns; 
+interconversion of simple and knotted rings of single-stranded DNA; and
+intertwisting of single-stranded rings of complementary sequences [1,2].
+
+Prokaryotic topoisomerase I folds in an unusual way to give 4 distinct
+domains, enclosing a hole large enough to accommodate a double-stranded DNA
+segment [1]. A tyrosine at the active site, which lies at the interface of
+2 domains, is involved in transient breakage of a DNA strand, and formation
+of a covalent protein-DNA intermediate [1]. The structure reveals a
+plausible mechanism by which this and related enzymes could catalyse the 
+passage of one DNA strand through a transient break in another strand [1].
+
+E.coli contains 2 type I topoisomerases: topoisomerases I and III [2].
+Topoisomerase III can be purified as a potent concatenase, but its role in
+DNA metabolism is still unclear [2]. Yeast, a eukaryote, also contains a
+topoisomerase, which is similar in sequence and function to the prokaryotic
+type I topoisomerases [3].
+
+PRTPISMRASEI is a 5-element fingerprint that provides a signature for type
+I prokaryotic DNA topoisomerases. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning the N-terminal half of the alignment - motif 3 includes
+part of the region encoded by PROSITE pattern TOPOISOMERASE_I_PROK
+(PS00396), the tyrosine of which covalently binds the cleaved DNA strand.
+Two iterations on OWL26.3 were required to reach convergence, at which
+point a true set comprising 14 sequences was identified. One partial match
+(PQ0259) was also found, a fragment lacking the portion of sequence bearing
+the fifth motif.
+
+An update on SPTR57.15_40.15f identified a true set of 3,205 sequences.
+Numerous partial matches were also found, all of which are type I
+prokaryotic DNA topoisomerases that fail to match one or more motifs.

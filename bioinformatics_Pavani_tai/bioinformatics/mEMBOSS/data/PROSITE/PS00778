@@ -1,0 +1,61 @@
+******************************************
+* Histidine acid phosphatases signatures *
+******************************************
+
+Acid phosphatases (EC 3.1.3.2)  are  a  heterogeneous group  of  proteins that
+hydrolyze phosphate esters, optimally at low pH.  It has been shown [1] that a
+number of acid phosphatases, from both  prokaryotes and eukaryotes,  share two
+regions of  sequence  similarity,  each  centered around a conserved histidine
+residue. These  two  histidines  seem to be involved in the enzymes' catalytic
+mechanism [2,3].  The first histidine is located in the N-terminal section and
+forms a  phosphohistidine  intermediate  while the second is located in the C-
+terminal section  and possibly acts as proton donor. Enzymes belonging to this
+family are called 'histidine acid phosphatases' and are listed below:
+
+ - Escherichia coli pH 2.5 acid phosphatase (gene appA).
+ - Escherichia coli glucose-1-phosphatase (EC 3.1.3.10) (gene agp).
+ - Yeast constitutive and repressible acid phosphatases (genes PHO3 and PHO5).
+ - Fission yeast acid phosphatase (gene pho1).
+ - Aspergillus phytases A and B (EC 3.1.3.8) (gene phyA and phyB).
+ - Mammalian lysosomal acid phosphatase.
+ - Mammalian prostatic acid phosphatase.
+ - Caenorhabditis  elegans  hypothetical  proteins B0361.7, C05C10.1, C05C10.4
+   and F26C11.1.
+
+-Consensus pattern: [LIVM]-x(2)-[LIVMA]-x(2)-[LIVM]-x-R-H-[GN]-x-R-x-[PAS]
+                    [H is the phosphohistidine residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [LIVMF]-x-[LIVMFAG]-{T}-x-[STAGI]-H-D-[STANQ]-{V}-[LIVM]-
+                    x(2)-[LIVMFY]-x(2)-[STA]
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for rat prostatic acid  phosphatase  which  seems to  have Tyr instead of the
+ active site His
+-Other sequence(s) detected in Swiss-Prot: 14.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] van Etten R.L., Davidson R., Stevis P.E., MacArthur H., Moore D.L.
+     J. Biol. Chem. 266:2313-2319(1991).
+[ 2] Ostanin K., Harms E.H., Stevis P.E., Kuciel R., Zhou M.-M.,
+     Van Etten R.L.
+     "Overexpression, site-directed mutagenesis, and mechanism of
+     Escherichia coli acid phosphatase."
+     J. Biol. Chem. 267:22830-22836(1992).
+     PubMed=1429631
+[ 3] Schneider G., Lindqvist Y., Vihko P.
+     "Three-dimensional structure of rat acid phosphatase."
+     EMBO J. 12:2609-2615(1993).
+     PubMed=8334986
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

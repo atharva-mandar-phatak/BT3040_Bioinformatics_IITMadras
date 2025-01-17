@@ -1,0 +1,94 @@
+***********************
+* TPR repeat profiles *
+***********************
+
+The  tetratrico  peptide  repeat  (TPRs)  [1]  is  a  degenerate 34-amino acid
+repeated  motif  that  is  widespread  among  all  organisms. In the cell, TPR
+containing  proteins  are  localized  in a variety of subcellular compartment,
+including the nucleus, the cytoplasm and mitochondria [2]. Processes involving
+TPR  proteins  include  cell-cycle  control,  transcription repression, stress
+response,  protein  kinase  inhibition,  mitochondrial and peroxisomal protein
+transport  and  neurogenesis. TPR repeats mediate protein–protein interactions
+and  the assembly of multiprotein complexes. The smallest functional unit that
+is widely used appears to be three tandem-TPR motifs [3].
+
+Many  3D  structures  of  TPR  domains  have  been  solved  (see  for  example
+<PDB:1A17>)  [4].  A  single TPR contains two antiparallel alpha helices which
+pack into an open structure [4] such that tandem arrays of TPR motifs generate
+a  right-handed  helical  structure  with  an  amphipathic  channel that might
+accommodate  the  complementary  region  of  a  target  protein. An additional
+capping helix at the C-terminus is present in almost all TPR structures solved
+to  date.  This  helix  could  be essential for the solubility or stability of
+these  isolated  domains.  The  consensus  sequence  of  a TPR is defined by a
+pattern  of  small  and  large  hydrophobic  amino acids. Turn-positions, both
+between  the  two  helices  of a single TPR and between the two adjacent TPRs,
+show conservation of helix-breaking residues [5].
+
+Some of the proteins containing TPR repeats are listed below:
+
+ - Eukaryotic   Cdc16,   Cdc23   and   Cdc27   proteins,   components  of  the
+   anaphase-promoting complex (APC).
+ - Fission  yeast  Nuc2  protein,  an  homologue of Cdc27. Nuc2 interacts with
+   spindle  apparatus,  chromosomes,  or  nuclear  envelope,  and interconnect
+   nuclear and cytoskeletal functions in mitosis.
+ - Human  Bardet-Biedl  syndrome  4  protein. Bardet-Biedl syndrome (BBS) is a
+   genetically  heterogeneous,  autosomal  recessive disorder characterized by
+   usually  severe  pigmentary  retinopathy, early onset obesity, polydactyly,
+   hypogenitalism, renal malformation and mental retardation.
+ - Mammalian  DnaJ  homolog subfamily C member 7 protein (DnaJC7). TPR repeats
+   of DnaJC7 interacts with the GAP domain of NF1.
+ - Eukaryotic Pex5p/Pas10p, the receptor for peroxisomal targeting signals.
+ - Eukaryotic  translocase  of outer membrane TOM70 protein, a co-receptor for
+   mitochondrial targeting signals.
+ - Mammalian Ser/Thr phosphatase 5C. It interacts with CDC16 and CDC27.
+ - Animal  O-GlcNAc  transferase,  p110  subunit. It adds nucleotide-activated
+   sugars  directly onto the polypeptide through O-glycosidic linkage with the
+   hydroxyl of serine or threonine.
+ - Bacterial cellulose synthase protein C.
+ - Clostridium acetobutylicum Sol locus transcriptional repressor.
+ - Bacillus subtilis response regulator aspartate phosphatase F.
+
+Two profiles were developed for this module, the first one picks up TPR repeat
+units while  the  second  profile is 'circular' and will thus detects a region
+containing adjacent TPR repeats.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the circular profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 9.
+
+-Last update: January 2004 / First entry.
+
+[ 1] Sikorski R.S., Boguski M.S., Goebl M., Hieter P.
+     "A repeating amino acid motif in CDC23 defines a family of proteins
+     and a new relationship among genes required for mitosis and RNA
+     synthesis."
+     Cell 60:307-317(1990).
+     PubMed=2404612
+[ 2] Goebl M., Yanagida M.
+     "The TPR snap helix: a novel protein repeat motif from mitosis to
+     transcription."
+     Trends Biochem. Sci. 16:173-177(1991).
+     PubMed=1882418
+[ 3] Lamb J.R., Tugendreich S., Hieter P.
+     "Tetratrico peptide repeat interactions: to TPR or not to TPR?"
+     Trends Biochem. Sci. 20:257-259(1995).
+     PubMed=7667876
+[ 4] Das A.K., Cohen P.W., Barford D.
+     "The structure of the tetratricopeptide repeats of protein phosphatase
+     5: implications for TPR-mediated protein-protein interactions."
+     EMBO J. 17:1192-1199(1998).
+     PubMed=9482716; DOI=10.1093/emboj/17.5.1192
+[ 5] D'Andrea L.D., Regan L.
+     Trends Biochem. Sci. 28:655-662(2003).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

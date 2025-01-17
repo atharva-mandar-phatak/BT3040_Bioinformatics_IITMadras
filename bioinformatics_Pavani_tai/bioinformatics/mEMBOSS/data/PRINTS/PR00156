@@ -1,0 +1,26 @@
+COPPERBLUE
+Type I blue copper proteins are found in methylothropic bacteria, where
+they appear to function as the electron acceptor to methylamine dehydro-
+genase [1]. They bind a single copper atom and are characterised by an
+intense electronic absorption band near 600nm [2]. Several classes of blue
+copper protein have been identified, including amicyanins, azurins,
+pseudoazurins, plastocyanins and rusticyanins. Based on their primary
+sequences, amicyanins appear to be most closely related to the plant
+plastocyanins, and are also highly similar to the pseudoazurins. By
+contrast, the rusticyanins fall into a distinct subclass.
+
+The fold of type I blue copper proteins is a beta-sandwich, built from
+9 beta-strands. The copper atom is located between 3 loops on one end of
+the molecule. Two of these loops contribute the copper ligands. The other
+3 ligands are located on the loop between strands 8 and 9.
+
+COPPERBLUE is a 3-element fingerprint that provides a signature for the
+type I copper blue protein family. The fingerprint was derived from an 
+initial alignment of 11 sequences: the motifs were drawn from conserved 
+regions spanning the full alignment length, motif 3 including the Cys and
+His residues involved in copper binding (cf. PROSITE pattern COPPER_BLUE
+(PS00196)). Three iterations on OWL25.1 were required to reach convergence,
+at which point a true set comprising 59 sequences was identified. 
+
+An update on SPTR57.15_40.15f identified a true set of 179 sequences and
+85 partial matches.

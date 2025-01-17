@@ -1,0 +1,48 @@
+**********************
+* PWI domain profile *
+**********************
+
+The PWI  domain, named after a highly conserved PWI tri-peptide located within
+its N-terminal  region,  is  a ~80 amino acid module, which is found either at
+the N-terminus  or  at  the C-terminus of eukaryotic proteins involved in pre-
+mRNA processing [1]. It is found in association with other domains such as RRM
+(see <PDOC00030>)  and RS. The PWI domain is a RNA/DNA-binding domain that has
+an equal  preference  for  single-  and  double-stranded  nucleic acids and is
+likely to have multiple important functions in pre-mRNA processing [2].
+
+The PWI  domain  is  a soluble, globular and independently folded domain which
+consists of  a  four-helix  bundle, with structured N- and C-terminal elements
+(see <PDB:1MP1>) [2].
+
+Some proteins known to contain a PWI domain are listed below:
+
+ - Metazoan proteins homologous to SR-related nuclear matrix protein of 160 kD
+   (SRm160).
+ - Mammalian splicing factor PRP3.
+
+The profile we developed covers the entire PWI domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2007 / First entry.
+
+[ 1] Blencowe B.J., Ouzounis C.A.
+     "The PWI motif: a new protein domain in splicing factors."
+     Trends Biochem. Sci. 24:179-180(1999).
+     PubMed=10322432
+[ 2] Szymczyna B.R., Bowman J., McCracken S., Pineda-Lucena A., Lu Y.,
+     Cox B., Lambermon M., Graveley B.R., Arrowsmith C.H., Blencowe B.J.
+     "Structure and function of the PWI motif: a novel nucleic acid-binding
+     domain that facilitates pre-mRNA processing."
+     Genes Dev. 17:461-475(2003).
+     PubMed=12600940; DOI=10.1101/gad.1060403
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

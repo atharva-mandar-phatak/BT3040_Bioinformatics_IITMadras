@@ -1,0 +1,61 @@
+P2Y13PRNCPTR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+In addition to their roles in energy metabolism, extracellular nucleotides 
+(such as ATP) can act as signalling molecules to induce a wide variety of 
+biological effects. They are released into the extracellular fluid as a 
+result of cell lysis, exocytosis of nucleotide-containing granules or by 
+efflux through membrane transport proteins, and can function as autocrine 
+and paracrine mediators [6,7]. Nucleotides play a role in synaptic 
+transmission and in platelet-vessel wall interactions. In neurons of the 
+central and peripheral nervous system, ATP is colocalised and cosecreted 
+with more traditional neurotransmitters, such as catecholamines and 
+acetylcholine, and has excitatory effects [6,7]. ATP is also found in high 
+concentrations in the dense granules of platelets, together with ADP. These 
+granules also contain lower levels of other nucleotides, such as adenine 
+dinucleotides, GTP and UTP [7]. In addition, ADP is released from the 
+vascular endothelium following injury and causes activation of platelets [6].
+
+Receptors for adenine nucleotides are collectively termed P2 purinoceptors. 
+They can be further subdivided into two structural classes: P2X receptors 
+are ligand-gated ion channels, while P2Y receptors are G protein-coupled 
+receptors. P2Y receptors have also been identified that are selective for 
+uridine (rather than adenine) nucleotides [7]. 
+
+P2Y13 is a high affinity receptor for ADP. It is expressed at highest levels
+in the brain and a number of immune tissues, particularly the spleen [8,9].
+Upon activation by ADP, the receptor couples to Gi proteins to inhibit
+adenylyl cyclase activity and activate MAP kinases [8,9].
+
+P2Y13PRNCPTR is a 7-element fingerprint that provides a signature for the
+P2Y13 purinoceptors. The fingerprint was derived from an initial alignment 
+of 2 sequences: the motifs were drawn from conserved sections within N- and
+C-terminal and loop regions, focusing on those areas of the alignment that
+characterise the P2Y13 purinoceptors but distinguish them from the rest of
+the P2Y receptor family - motif 1 lies in the N-terminus; motif 2 spans the
+C-terminal portion of TM domain 3; motif 3 encodes the N-terminal portion of
+TM domain 4; motifs 4 resides within the second external loop; motif 5 is
+located at the C-terminus of TM domain 5, leading into the third cytoplasmic
+loop; motif 6 encodes part of TM domain 7, leading into the C-terminus; and
+motif 7 spans the C-terminus. A single iteration on SPTR40_20f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set. Two partial matches were found, Q9BE53 and Q9BY61, P2Y13
+receptor fragments from macaque and human that fail to match motifs 1 and
+1-3 respectively.

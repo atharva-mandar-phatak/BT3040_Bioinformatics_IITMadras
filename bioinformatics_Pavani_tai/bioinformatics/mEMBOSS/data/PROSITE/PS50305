@@ -1,0 +1,79 @@
+************************************
+* Sirtuin catalytic domain profile *
+************************************
+
+The sirtuin  family  is  broadly conserved from bacteria to human. Yeast SIR2,
+the founding  member,  was  first isolated as part of the SIR complex required
+for maintaining    a modified chromatin structure at telomeres. SIR2 functions
+in transcriptional silencing, cell cycle progression, and chromosome stability
+[1]. Although  most  sirtuins  in eukaryotic cells are located in the nucleus,
+others are cytoplasmic or mitochondrial.
+
+Sirtuins are  responsible  for  a  newly  classified  chemical  reaction, NAD-
+dependent protein  deacetylation.  The  final products of the reaction are the
+deacetylated peptide  and  an  acetyl  ADP-ribose  [2].  In  nuclear  sirtuins
+this  deacetylation  reaction  is  mainly directed against histones acetylated
+lysines [3].
+
+Sirtuins typically  consist  of  two  optional  and  highly variable N- and C-
+terminal domain  (50-300  aa) and a conserved catalytic core domain (~250 aa).
+Mutagenesis  experiments suggest  that  the  N-  and  C-terminal  regions help
+direct catalytic core domain to different targets [3,4].
+
+The 3D-structure  of an archaeal sirtuin in complex with NAD (see <PDB:1ICI >)
+reveals that the protein consists of a large domain having a Rossmann fold and
+a  small domain containing a three-stranded zinc ribbon motif. NAD is bound in
+a pocket between the two domains [5].
+
+Proteins currently known to belong to this family are listed below.
+
+ - Yeast SIR2.
+ - Yeast HST1 to HST4.
+ - Mammalian Sirtuins 1 to 5.
+ - Drosophila Sir2 protein.
+ - Bacterial cobB.
+
+The profile we developed covers the complete catalytic core domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2002 / First entry.
+
+-Expert(s) to contact by email:
+           Cockell K.; moira.cockell@isrec.unil.ch
+
+[ 1] Brachmann C.B., Sherman J.M., Devine S.E., Cameron E.E., Pillus L.,
+     Boeke J.D.
+     "The SIR2 gene family, conserved from bacteria to humans, functions in
+     silencing, cell cycle progression, and chromosome stability."
+     Genes Dev. 9:2888-2902(1995).
+     PubMed=7498786
+[ 2] Sauve A.A., Celic I., Avalos J., Deng H., Boeke J.D., Schramm V.L.
+     "Chemistry of gene silencing: the mechanism of NAD+-dependent
+     deacetylation reactions."
+     Biochemistry 40:15456-15463(2001).
+     PubMed=11747420; DOI=10.1021/bi011858j
+[ 3] Gasser S.M., Cockell M.M.
+     "The molecular biology of the SIR proteins."
+     Gene 279:1-16(2001).
+     PubMed=11722841
+[ 4] Frye R.A.
+     "Characterization of five human cDNAs with homology to the yeast SIR2
+     gene: Sir2-like proteins (sirtuins) metabolize NAD and may have
+     protein ADP-ribosyltransferase activity."
+     Biochem. Biophys. Res. Commun. 260:273-279(1999).
+     PubMed=10381378; DOI=10.1006/bbrc.1999.0897
+[ 5] Min J., Landry J., Sternglanz R., Xu R.M.
+     "Crystal structure of a SIR2 homolog-NAD complex."
+     Cell 105:269-279(2001).
+     PubMed=11336676
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

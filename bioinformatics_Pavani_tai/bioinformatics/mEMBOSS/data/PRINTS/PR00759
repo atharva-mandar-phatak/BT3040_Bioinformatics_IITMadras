@@ -1,0 +1,38 @@
+BASICPTASE
+The Kunitz family of serine protease inhibitors are short (~50 residue)
+alpha/beta proteins with few secondary structures. The fold is constrained
+by 3 disulphide bonds, which can be depticted schematically as follows:
+
+           +-----------------------+
+           |  +--------+           |
+           |  |      **|*******    |
+         xxCxxC#xxxCxxxCxxxxxxCxxxxCxx
+                   |          |
+                   +----------+
+
+           <------50 residues------>
+
+C denotes cysteine residues involved in disulphide bond formation;
+# marks the active site residue.
+
+The prototype for this family is bovine pancreatic trypsin inhibitor [1] (or 
+basic protease inhibitor), but the family includes numerous other members
+[2-5], such as snake venom basic protease; mammalian inter-alpha-trypsin
+inhibitors; trypstatin, a rat mast cell inhibitor of trypsin; a domain
+found in an alternatively-spliced form of Alzheimer's amyloid beta-protein;
+domains at the C-termini of the alpha(1) and alpha(3) chains of type VII
+and type VI collagens; and tissue factor pathway inhibitor precursor.
+
+BASICPTASE is a 3-element fingerprint that provides a signature for
+Kunitz-type serine protease inhibitors. The fingerprint was derived from
+an initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 includes helix 1; and
+motifs 2 and 3, which include strand 2 and helix 2 res., span the region 
+encoded by PROSITE pattern BPTI_KUNITZ (PS00280), which lies between the 
+third and the fifth cysteine residues. Three iterations on OWL29.4 were
+required to reach convergence, at which point a true set comprising 133
+sequences was identified. Several partial matches were also found, all of
+which are fragments and family members that fail to match motif 1.
+
+An update on SPTR37_9f identified a true set of 90 sequences, and 20
+partial matches.

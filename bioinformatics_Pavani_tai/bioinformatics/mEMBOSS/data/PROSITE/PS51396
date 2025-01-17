@@ -1,0 +1,48 @@
+**********************
+* PUL domain profile *
+**********************
+
+The PUL  (after PLAP, UFD3 and lub1) domain is a predicted predominantly alpha
+helical globular  domain  found in eukaryotes. It is found in association with
+either WD  repeats  (see  <PDOC00574>) and the PFU domain (see <PDOC51394>) or
+PPPDE and  thioredoxin (see <PDOC00172>) domains. The PUL domain is a protein-
+protein interaction domain [1,2].
+
+Some proteins known to contain a PUL domain are listed below:
+
+ - Saccharomyces   cerevisiae   DOA1   (UFD3,  ZZZ4),  involved  in  ubiquitin
+   conjugation pathway.  DOA1  participates in the regulation of the ubiquitin
+   conjugation pathway  involving  CDC48  by  hindering multiubiquitination of
+   substrates at the CDC48 chaperone.
+ - Schizosaccharomyces  pombe  ubiquitin  homeostasis  protein lub1, acts as a
+   negative regulator of vacuole-dependent ubiquitin degradation.
+ - Mammalian phospholipase A-2-activating protein (PLA2P, PLAA), the homologue
+   of DOA1.  PLA2P  plays  an  important  role  in  the regulation of specific
+   inflammatory disease processes.
+
+The profile we developed covers the entire PUL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2008 / First entry.
+
+[ 1] Iyer L.M., Koonin E.V., Aravind L.
+     "Novel predicted peptidases with a potential role in the ubiquitin
+     signaling pathway."
+     Cell Cycle 3:1440-1450(2004).
+     PubMed=15483401
+[ 2] Mullally J.E., Chernova T., Wilkinson K.D.
+     "Doa1 is a Cdc48 adapter that possesses a novel ubiquitin binding
+     domain."
+     Mol. Cell. Biol. 26:822-830(2006).
+     PubMed=16428438; DOI=10.1128/MCB.26.3.822-830.2006
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

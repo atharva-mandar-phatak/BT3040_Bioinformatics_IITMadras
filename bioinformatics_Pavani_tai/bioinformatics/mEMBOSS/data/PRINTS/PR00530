@@ -1,0 +1,46 @@
+HISTAMINEH1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Histamine is distributed within mast cells in all peripheral tissues and
+is a well-characterised mediator of inflammation and allergy [6]. It also
+regulates release of gastric acid from parietal cells in the gastric
+mucosa. H1 receptors mediate increase in vascular permeability induced
+by histamine at sites of inflammation. H1 antagonists are used clinically
+in the treatment of allergic and anaphylactic reactions, various
+inflammatory conditions, and motion sickness. The receptor is distributed
+widely in the periphery, notably smooth muscle, where it stimulates
+contraction, and also in the adrenal medulla, vascular endothelium and
+heart. It is found throughout the CNS, including the cerebral cortex, 
+spinal cord and cerebellum.
+
+HISTAMINEH1R is a 9-element fingerprint that provides a signature for the
+histamine H1 receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within either loop or C-terminal regions, focusing on those areas of the
+alignment that characterise the H1 receptors but distinguish them from the
+H2 receptors - motif 1 spans the C-terminus of TM domain 4 and part of the
+second external loop; motif 2 spans part of the second external loop and
+the N-terminus of TM domain 5; motifs 3-7 lie in the third cytoplasmic loop
+motif 8 spans the C-terminus of TM domain 6 and part of the third external
+loop; and motif 9 lies in the C-terminal region following TM domain 7. A
+single iteration on OWL27.1 was required to reach convergence, no further
+sequences being identified beyond the starting set. 
+
+An update on SPTR37_9f identified a true set of 5 sequences.

@@ -1,0 +1,53 @@
+*************************
+* Fibrillarin signature *
+*************************
+
+Fibrillarin [1] is a  component of a nucleolar small nuclear ribonucleoprotein
+(SnRNP) particle thought  to  participate in  the first step of the processing
+of pre-rRNA.  In  mammals, fibrillarin  is associated with the U3, U8  and U13
+small nuclear RNAs [2].
+
+Fibrillarin is  an  extremely well  conserved  protein of about 320 amino acid
+residues. Structurally it consists of three different domains:
+
+ - An N-terminal domain of  about 80 amino acids which is very rich in glycine
+   and contains a number of dimethylated arginine residues (DMA).
+ - A central domain of about 90 residues  which  resembles that of RNA-binding
+   proteins and contains an octameric  sequence similar to the RNP-2 consensus
+   found in such proteins.
+ - A C-terminal alpha-helical domain.
+
+A protein   evolutionary   related   to  fibrillarin has  been  found  [3]  in
+archaebacteria. This  protein  (gene flpA) is involved in pre-rRNA processing.
+It lacks the Gly/Arg-rich N-terminal domain.
+
+As a signature pattern, we selected a region that start with and encompass the
+RNP-2 like octapeptide sequence.
+
+-Consensus pattern: [GST]-[LIVMAPKR]-[IVEAT]-[FY]-[GSAC]-[IVL]-E-[FYV]-[SA]-
+                    x(0,1)-[REA]-x(2)-[RQSFT]-[DEK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Aris J.P., Blobel G.
+     "cDNA cloning and sequencing of human fibrillarin, a conserved
+     nucleolar protein recognized by autoimmune antisera."
+     Proc. Natl. Acad. Sci. U.S.A. 88:931-935(1991).
+     PubMed=1846968
+[ 2] Bandziulis R.J., Swanson M.S., Dreyfuss G.
+     "RNA-binding proteins as developmental regulators."
+     Genes Dev. 3:431-437(1989).
+     PubMed=2470643
+[ 3] Agha-Amiri K.
+     J. Bacteriol. 176:2124-2127(1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,20 @@
+CD4TCANTIGEN
+The CD4 glycoprotein on the surface of T cells participates in the immune
+response and is the receptor for HIV infection. The structure of a soluble
+fragment of CD4 has been determined to 2.3A and reveals that the molecule
+has two intimately-associated immunoglobulin-like domains connected by a 
+continuous beta strand [1,2]. Residues implicated in HIV recognition reside
+in domain D1. Domain D2 is distinguished by a variation in the beta-strand
+topologies of antibody domains that results in a truncated beta-barrel
+with a non-standard intra-sheet disulphide bond [1,2].  The binding sites
+for monoclonal antibodies, class II major histocompatibility complex
+molecules, and HIV gp120 can be mapped on the molecular surface. 
+
+CD4TCANTIGEN is a 6-element fingerprint that provides a signature for 
+T-cell surface glycoprotein CD4. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length. Two iterations on OWL29.2
+were required to reach convergence, at which point a true set comprising
+20 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

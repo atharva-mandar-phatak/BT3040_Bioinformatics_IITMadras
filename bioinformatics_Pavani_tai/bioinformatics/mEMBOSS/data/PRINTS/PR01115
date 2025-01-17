@@ -1,0 +1,50 @@
+CLCHANNEL4
+Chloride channels (CLCs) constitute an evolutionarily well-conserved family
+of voltage-gated channels that are structurally unrelated to the other known
+voltage-gated channels. They are found in organisms ranging from bacteria to
+yeasts and plants, and also to animals. Their functions in higher animals
+likely include the regulation of cell volume, control of electrical 
+excitability and trans-epithelial transport [1].
+
+The first member of the family (CLC-0) was expression-cloned from the
+electric organ of Torpedo marmorata [2], and subsequently nine CLC-like
+proteins have been cloned from mammals. They are thought to function as
+multimers of two or more identical or homologous subunits, and they have
+varying tissue distributions and functional properties. To date, CLC-0, 
+CLC-1, CLC-2, CLC-4 and CLC-5 have been demonstrated to form functional Cl-
+channels; whether the remaining isoforms do so is either contested or 
+unproven. One possible explanation for the difficulty in expressing 
+activatable Cl- channels is that some of the isoforms may function as Cl- 
+channels of intracellular compartments, rather than of the plasma membrane.
+However, they are all thought to have a similar transmembrane (TM) topology,
+initial hydropathy analysis suggesting 13 hydrophobic stretches long enough
+to form putative TM domains [2]. Recently, the postulated TM topology has
+been revised, and it now seems likely that the CLCs have 10 (or possibly 12)
+TM domains, with both N- and C-termini residing in the cytoplasm [3].
+
+A number of human disease-causing mutations have been identified in the
+genes encoding CLCs. Mutations in CLCN1, the gene encoding CLC-1, the major
+skeletal muscle Cl- channel, lead to both recessively and dominantly-
+inherited forms of muscle stiffness or myotonia [4]. Similarly, mutations
+in CLCN5, which encodes CLC-5, a renal Cl- channel, lead to several forms 
+of inherited kidney stone disease [5]. These mutations have been
+demonstrated to reduce or abolish CLC function.
+
+CLC-4 was initially identified as a putative member of the CLC family 
+following mapping of the human Xp22.3 chromosome region [6]. Together with
+CLC-5 and CLC-3, it forms a distinct branch of the CLC gene family. Initial
+expression studies of CLC-4 did not yield measurable Cl- currents; however,
+recent studies of human CLC-4 have revealed that it gives rise to Cl- 
+currents that rapidly activate at positive voltages, and are sensitive to
+extracellular pH, with currents decreasing when pH falls below 6.5 [7].
+
+CLCHANNEL4 is a 5-element fingerprint that provides a signature for the
+CLC-4 voltage-gated Cl- channel. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+within the C-terminal two thirds of the alignment, focusing on those
+sections that characterise the CLC-4 isoform but distinguish it from others
+- motif 1 resides within the fourth hydrophilic domain; motifs 2 and 3 lie 
+within the seventh and ninth hydrophilic domains, respectively; and motifs
+4-5 reside within the putative cytoplasmic C-terminus. A single iteration 
+on SPTR37_9f was required to reach convergence, no further sequences being
+identified beyond the starting set. 

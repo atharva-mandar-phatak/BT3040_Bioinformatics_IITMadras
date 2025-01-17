@@ -1,0 +1,51 @@
+NRPEPTIDEY5R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide Y (NPY) is one of the most abundant peptides in mammalian
+brain, inducing a variety of behavioural effects (e.g., stimulation of food
+intake, anxiety, facilitation of learning and memory, and regulation of the
+cardiovascular and neuroendocrine systems) [6]. In the periphery, NPY 
+stimulates vascular smooth muscle contraction and modulates hormone
+secretion. NPY has been implicated in the pathophysiology of hypertension, 
+congestive heart failure, affective disorders and appetite regulation [6].
+
+Several pharmacologically distinct neuropeptide Y receptors have been 
+characterised, designated NPY Y1-Y6. The Y5 receptor is a 456-residue
+protein with less than 35% overall identity to known Y-type receptors [7].
+The messenger RNA is found primarily in the central nervous system,
+including the paraventricular nucleus of the hypothalamus [7]. Y5 receptors
+have been postulated to be the 'feeding' receptors, and may provide new 
+approaches for the study and treatment of obesity and eating disorders [7]. 
+
+NRPEPTIDEY5R is a 12-element fingerprint that provides a signature for
+neuropeptide Y5 receptors. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved sections
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the Y5 receptors but distinguish them from the rest of
+the neuropeptide Y family - motifs 1 and 2 reside at the N-terminus,
+leading into TM domain 1; motifs 3 and 4 span the C-terminus of TM domain
+3, the second cytoplasmic loop and the N-terminal portion of TM domain 4;
+motifs 5 and 6 span the C-terminal portion of TM domain 4 and the second
+external loop; motifs 7-10 span the third cytoplasmic loop; motif 11 spans
+the third external loop; and motif 12 resides at the C-terminus. Two 
+iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 3 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 5 sequences.

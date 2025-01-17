@@ -1,0 +1,49 @@
+****************************************
+* Adenylate cyclase class-I signatures *
+****************************************
+
+Adenylate cyclase  (EC 4.6.1.1) is the enzyme responsible for the synthesis of
+cAMP from  ATP. From sequence  data, it has been proposed [1,2] that there are
+three different  classes  of adenylate cyclases. Class I cyclases are found in
+enterobacteria and related Gram-negative bacteria.  They are proteins of about
+850 residues  that  consist  of two functional domains: a N-terminal catalytic
+domain and a C-terminal regulatory domain.
+
+As signature  patterns we selected two highly conserved regions, the first one
+is located  in  the  catalytic  domain  and  the  second one in the regulatory
+domain. The  second  signature  includes  a conserved histidine which could be
+phosphorylated  by a PTS system IIA  enzyme, thus leading to the activation of
+the cyclase.
+
+-Consensus pattern: E-Y-F-G-[SA](2)-L-W-x-L-Y-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: Y-R-N-x-W-[NS]-E-[LIVM]-R-T-L-H-F-x-G
+                    [H could be phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Danchin A.; adanchin@pasteur.fr
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Danchin A.
+     "Phylogeny of adenylyl cyclases."
+     Adv. Second Messenger Phosphoprotein Res. 27:109-162(1993).
+     PubMed=8418825
+[ 2] Barzu O., Danchin A.
+     "Adenylyl cyclases: a heterogeneous class of ATP-utilizing enzymes."
+     Prog. Nucleic Acid Res. Mol. Biol. 49:241-283(1994).
+     PubMed=7863008
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

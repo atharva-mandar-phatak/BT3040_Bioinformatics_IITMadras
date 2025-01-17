@@ -1,0 +1,60 @@
+***********************************
+* Interleukin-10 family signature *
+***********************************
+
+Interleukin-10 (IL-10)  [1]  is  a  protein  that  inhibits the synthesis of a
+number of  cytokines, including IFN-gamma, IL-2, IL-3, TNF and GM-CSF produced
+by activated macrophages and by helper T cells.
+
+Structurally, IL-10  is  a  protein of about 160 amino acids that contain four
+conserved cysteines involved in disulfide bonds [2].
+
+                +-------------------------------------+
+                |                  *****              |
+     xxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxCxxxxxxxxxxxxxxxxxCxCxxxxxxxxxxxx
+                                    |                   |
+                                    +-------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+IL-10 belongs to a family that includes:
+
+ - Epstein-Barr  virus  BCRF1  protein, which inhibits the synthesis of gamma-
+   interferon.
+ - Equine herpesvirus type 2 protein E7.
+ - Interleukin-19.
+ - Interleukin-20.
+ - Interleukin-22.
+ - Interleukin-24 (mda-7).
+ - Human protein AK155.
+
+As a pattern, we selected a region around the second cysteine of IL-10.
+
+-Consensus pattern: [KQS]-x(4)-C-[QYCS]-x(4)-[LIVM](2)-x-[FLR]-[FYT]-[LMVR]-x-
+                    [DERTI]-[IV]-[LMF]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Moore K.W., O'Garra A., de Waal Malefyt R., Vieira P., Mosmann T.R.
+     "Interleukin-10."
+     Annu. Rev. Immunol. 11:165-190(1993).
+     PubMed=8386517; DOI=10.1146/annurev.iy.11.040193.001121
+[ 2] Zdanov A., Schalk-Hihi C., Gustchina A., Tsang M., Weatherbee J.,
+     Wlodawer A.
+     "Crystal structure of interleukin-10 reveals the functional dimer with
+     an unexpected topological similarity to interferon gamma."
+     Structure 3:591-601(1995).
+     PubMed=8590020
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

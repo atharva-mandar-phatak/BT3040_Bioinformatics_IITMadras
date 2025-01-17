@@ -1,0 +1,29 @@
+LAMNOPPTDASE
+Aminopeptidases are exopeptidases involved in the processing and regular
+turnover of intracellular proteins, although their precise role in cellular
+metabolism is unclear [1,2]. Leucine aminopeptidases cleave leucine residues
+from the N-terminal of polypeptide chains, but substantial rates are evident
+for all amino acids [2]. 
+
+The enzymes exist as homo-hexamers, comprising 2 trimers stacked on top of
+one another [2]. Each monomer binds 2 zinc ions and folds into 2 alpha/beta-
+type quasi-spherical globular domains, producing a comma-like shape [2]. The
+N-terminal 150 residues form a 5-stranded beta-sheet with 4 parallel and 1
+anti-parallel strand sandwiched between 4 alpha-helices [2]. An alpha-helix
+extends into the C-terminal domain, which comprises a central 8-stranded 
+saddle-shaped beta-sheet sandwiched between groups of helices, forming the
+monomer hydrophobic core [2]. A 3-stranded beta-sheet resides on the surface
+of the monomer, where it interacts with other members of the hexamer [2].
+The 2 zinc ions and the active site are entirely located in the C-terminal
+catalytic domain [2].
+
+LAMNOPPTDASE is a 5-element fingerprint that provides a signature for
+leucine aminopeptidases. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from the vicinity of the
+active site in the C-terminal catalytic domain, motif 4 including the
+region encoded by PROSITE pattern CYTOSOL_AP (PS00631), the aspartate and
+glutamate of which are involved in zinc ion-binding. Two iterations on
+OWL27.0 were required to reach convergence, at which point a true set
+comprising 16 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 27 sequences.

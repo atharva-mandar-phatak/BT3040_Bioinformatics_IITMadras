@@ -1,0 +1,26 @@
+ROPREGULATRY
+The Rop protein regulates plasmid DNA replication by modulating the
+initiation of transcription of the primer RNA precursor. Processing of the
+precursor, RNAII, is inhibited by hydrogen bonding of RNAII to its
+complementary sequence in RNAI. Rop increases the affinity of RNAI for RNAII
+and thus decreases the rate of replication initiation events.
+
+The 3D structure of Rop has been determined by X-ray crystallography and 
+refined to 1.7A resolution [1]. The 63 amino acid protein is a homodimer,
+each monomer consisting almost entirely of two alpha-helices, the whole
+molecule forming a highly regular four-alpha-helix bundle [1]. This can be
+approximated by a four-stranded rope, with radius 7.0 A, a left-handed 
+helical twist, and pitch 172.5A. A very compact packing of side chains in 
+the helix interfaces of the Rop coiled-coil structure is presumed to account
+for its high stability [2]. The overall details of the structure have been
+confirmed by proton NMR [2,3].
+
+ROPREGULATRY is a 4-element fingerprint that provides a signature for the
+Rop family of regulatory proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from short conserved
+regions spanning the full alignment length - motifs 1 and 2 span the first
+alpha-helix; and motifs 3 and 4 encompass the small second helix and the
+main third helix. A single iteration on OWL30.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

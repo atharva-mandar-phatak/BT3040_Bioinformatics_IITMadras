@@ -1,0 +1,27 @@
+STPHPHTASE
+Protein phosphorylation plays a central role in the regulation of cell 
+functions [1], causing the activation or inhibition of many enzymes involved
+in various biochemical pathways [2]. Kinases and phosphatases are the
+enzymes responsible for this, and may themselves be subject to control
+through the action of hormones and growth factors [1]. Serine/threonine
+(S/T) phosphatases catalyse the dephosphorylation of phosphoserine and
+phosphothreonine residues. There are 4 main classes of S/T phosphatase,
+which have different sensitivities to various inhibitors and show different
+substrate specificities [1,3]. The catalytic regions of the proteins are
+well conserved and have a slow mutation rate, suggesting that major changes
+in these regions are highly detrimental, as might be expected for proteins
+involved in the regulation of fundamental cell processes [1].
+
+STPHPHTASE is a 7-element fingerprint that provides a signature for the 
+serine/threonine phosphatases. The fingerprint was derived from an initial
+alignment of 7 sequences: motifs were drawn from conserved regions spanning
+virtually the full alignment length, motif 3 including the conserved
+pentapeptide encoded by PROSITE pattern SER_THR_PHOSPHATASE (PS00125). Two
+iterations on OWL22.1 were required to reach convergence, at which point a
+true set comprising 73 sequences was identified. Eight partial matches were
+also found, one of which, S27811, is a Ser/Thr phosphatase that fails to
+make significant matches with motifs 5 and 6, the rest being Ser/Thr
+phosphatase fragments.
+
+An update on SPTR37_9f identified a true set of 160 sequences, and 16
+partial matches.

@@ -1,0 +1,47 @@
+*************************************
+* Glutamyl-tRNA reductase signature *
+*************************************
+
+Delta-aminolevulinic acid (ALA) is  the obligatory precursor for the synthesis
+of  all tetrapyrroles  including porphyrin derivatives such as chlorophyll and
+heme.  ALA can be synthesized  via  two different pathways: the Shemin (or C4)
+pathway which involves  the  single  step  condensation  of  succinyl-CoA  and
+glycine and which  is  catalyzed by ALA  synthase (EC 2.3.1.37) and via the C5
+pathway from the five-carbon skeleton of glutamate.  The C5  pathway  operates
+in the chloroplast of  plants and algae,  in cyanobacteria, in some eubacteria
+and in archaebacteria.
+
+The initial step in the C5 pathway is carried out  by  glutamyl-tRNA reductase
+(GluTR) [1]  which  catalyzes  the  NADP-dependent  conversion  of  glutamate-
+tRNA(Glu)  to  glutamate-1-semialdehyde (GSA) with  the concomitant release of
+tRNA(Glu)  which  can  then  be  recharged  with  glutamate  by  glutamyl-tRNA
+synthetase.
+
+GluTR is a protein of about 50 Kd (467 to 550 residues)  which  contains a few
+conserved region.  The best conserved region is located in positions 99 to 122
+in the sequence of  known GluTR.  This region seems important for the activity
+of the enzyme.  We have  developed a  signature  pattern  from  that conserved
+region.
+
+-Consensus pattern: [HY]-[LIVMAF]-x(2)-[LIVM]-[GSTACIV]-[GSTAC]-[GSA]-
+                    [LIVMFA]-[DEQHY]-S-x-[LIVMAS]-[LIVMFKS]-[GFA]-[DE]-x-
+                    [EQRD]-[IV]-[LIVTQAM]-[TAGRKS]-Q-[LIVMF]-[KRE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Jahn D., Verkamp E., Soell D.
+     "Glutamyl-transfer RNA: a precursor of heme and chlorophyll
+     biosynthesis."
+     Trends Biochem. Sci. 17:215-218(1992).
+     PubMed=1502723
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,44 @@
+***********************
+* AMOP domain profile *
+***********************
+
+The AMOP domain (for adhesion-associated domain in MUC4 and other proteins) is
+an ~100-residue  long  extracellular  domain  that  occurs  in  putative  cell
+adhesion molecules  and  in  some  splice  variants of MUC4. It contains eight
+invariant cysteines  residues  that  are predicted to be involved in disulfide
+bonds. The AMOP domain is found associated with extracellular domains involved
+in cell  adhesion,  such  as NIDO, sushi (see <PDOC50923>), somatomedin B (see
+<PDOC00453>), VWFD, EGF (see <PDOC00021>), IPT, or TSP1 (see <PDOC50092>). The
+presence of  the AMOP domain in cell adhesion molecules could be indicative of
+a role for this domain in adhesion [1].
+
+Secondary structure prediction indicates an initial region rich in alpha helix
+followed by four beta strands, suggesting a beta-sheet organization for the C-
+terminus of the AMOP domain [1].
+
+The profile we developed covers the entire AMOP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This  profile  contains an additional cut-off value, which only detects
+ true full  length  AMOP  domains.  The traditional default cut-off value also
+ allows the  detection  of  truncated  AMOP  domains found in some MUC4 splice
+ variants.
+
+-Last update: May 2004 / First entry.
+
+[ 1] Ciccarelli F.D., Doerks T., Bork P.
+     "AMOP, a protein module alternatively spliced in cancer cells."
+     Trends Biochem. Sci. 27:113-115(2002).
+     PubMed=11893501
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

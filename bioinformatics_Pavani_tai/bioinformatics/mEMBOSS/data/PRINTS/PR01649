@@ -1,0 +1,49 @@
+PSYCHOSINER
+G-protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Psychosine is a glycosphingolipid implicated in the pathology of globoid
+cell leukodystrophy (GLD), a hereditary metabolic disorder that results from
+the absence of the enzyme galactosyl ceramide. This deficiency results in
+the accumulation of psychosine in the brain, leading to apoptosis of
+oligodendrocytes, progressive demyelination and the existence of large,
+multinuclear cells (globoid cells) derived from microglia [6]. 
+
+The molecular mechanism by which these toxic effects might be mediated has
+recently been elucidated by the identification of TDAG8, an orphan G
+protein-coupled receptor, as a receptor for psychosine [6]. TDAG8 is
+expressed at high levels in the spleen, peripheral blood leukocytes, lymph
+nodes and lung. Activation of the receptor in RH7777 hepatoma cells by
+psychosine and related lysoglycolipids results in a pertussis toxin-
+insensitive inhibition of forskolin-induced cAMP accummulation, possibly 
+through coupling to Gz proteins [6].
+
+PSYCHOSINER is a 10-element fingerprint that provides a signature for the
+psychosine receptor. The fingerprint was derived from an initial alignment
+of 2 sequences: the motifs were drawn from conserved sections within N- and
+C-terminal and loop regions, focusing on those areas of the alignment that
+characterise the psychosine receptors but distinguish them from the rest of
+the rhodopsin-like superfamily - motif 1 resides at the N-terminus; motif 2
+spans the first cytoplasmic loop; motif 3 encodes the first external loop;
+motif 4 spans the second cytoplasmic loop; motifs 5 and 6 reside in the
+second external loop; motif 7 lies in the third cytoplasmic loop; motif 8 
+resides in the C-terminal portion of the third external loop; and motifs 9
+and 10 lie at the C-terminus. A single iteration on SPTR40_18f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set.

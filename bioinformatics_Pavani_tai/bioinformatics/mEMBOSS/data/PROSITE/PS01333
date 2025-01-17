@@ -1,0 +1,55 @@
+**************************************************
+* Pyrrolidone-carboxylate peptidase active sites *
+**************************************************
+
+Pyrrolidone-carboxylate peptidase   (EC 3.4.19.3)  (PYRase)   (also  known  as
+pyroglutamyl peptidase)  is  the enzyme that selectively removes pyroglutamate
+(pGlu) from the N-terminus of proteins and peptides.
+
+In bacteria  and archebacteria PYRase (gene pcp) is a  protein of 22-25 kD. It
+is a cysteine protease with a Cys-His-Glu catalytic triad [1,2].  We developed
+two signature patterns  that respectively include the  glutamate  and cysteine
+active site residues.
+
+-Consensus pattern: G-x(2)-[GAP]-x(4)-[LIV]-[ST]-x-E-[KR]-[LIVC]-[AG]-x-[NG]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVF]-x-[GSAVC]-x-[LIVM]-S-x-[STAD]-A-G-x-[FY]-[LIVN]-C-
+                    [DNS]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C15 in the classification of peptidases
+ [3,E1].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Singleton M.R., Isupov M., Littlechild J.
+     "X-ray structure of pyrrolidone carboxyl peptidase from the
+     hyperthermophilic archaeon Thermococcus litoralis."
+     Structure 7:237-244(1999).
+     PubMed=10368293
+[ 2] Odagaki Y., Hayashi A., Okada K., Hirotsu K., Kabashima T., Ito K.,
+     Yoshimoto T., Tsuru D., Sato M., Clardy J.
+     "The crystal structure of pyroglutamyl peptidase I from Bacillus
+     amyloliquefaciens reveals a new structure for a cysteine protease."
+     Structure 7:399-411(1999).
+     PubMed=10196127
+[ 3] Rawlings N.D., Barrett A.J.
+     "Families of cysteine peptidases."
+     Methods Enzymol. 244:461-486(1994).
+     PubMed=7845226
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

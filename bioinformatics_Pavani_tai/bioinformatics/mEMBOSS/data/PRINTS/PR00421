@@ -1,0 +1,61 @@
+THIOREDOXIN
+Thioredoxins [1-4] are small disulphide-containing redox proteins that
+have been found in all the kingdoms of living organisms. Thioredoxin
+serves as a general protein disulphide oxidoreductase. It interacts with
+a broad range of proteins by a redox mechanism based on reversible 
+oxidation of 2 cysteine thiol groups to a disulphide, accompanied by
+the transfer of 2 electrons and 2 protons. The net result is the covalent
+interconversion of a disulphide and a dithiol.
+
+   TR-S(2)  +  NADPH + H(+) --> TR-(SH)2   +  NADP(+)              (1)
+   trx-S(2)   +   TR-(SH)2  --> trx-(SH)2  +  TR-S(2)              (2)
+   Protein-S(2) + trx-(SH)2 --> Protein-(SH)2 + trx-S(2)           (3)
+
+In the NADPH-dependent protein disulphide reduction, thioredoxin reductase
+(TR) catalyses reduction of oxidised thioredoxin (trx) by NADPH using FAD
+and its redox-active disulphide (steps 1 and 2). Reduced thioredoxin
+then directly reduces the disulphide in the substrate protein (step 3) [1].
+
+Protein disulphide isomerase (PDI), a resident foldase of the endoplasmic 
+recticulum, is a multi-functional protein that catalyses the formation and 
+isomerisation of disulphide bonds during protein folding [5,6]. PDI contains
+2 redox active domains, near the N- and C-termini, that are similar to
+thioredoxin: both contribute to disulphide isomerase activity, but are 
+functionally non-equivalent [6]. Interestingly, a mutant PDI, with all 4 of
+the active cysteines replaced by serine, displays a low but detectable level
+of disulphide isomerase activity [6]. Moreover, PDI exhibits chaperone-like
+activity towards proteins that contain no disulphide bonds, i.e. behaving
+independently of its disulphide isomerase activity [7]. A number of
+endoplasmic reticulum proteins that differ from the PDI major isozyme
+contain 2 (ERp60, ERp5) or 3 (ERp72 [8]) thioredoxin domains; all of them
+seem to be PDIs.
+
+3D-structures have been determined for a number of thioredoxins [9]. The
+molecule has a doubly-wound alternating alpha/beta fold, consisting of a
+5-stranded parallel beta-sheet core, enclosed by 4 alpha-helices. The
+active site disulphide is located at the N-terminus of helix 2 in a short
+segment that is separated from the rest of the helix by a kink caused by
+a conserved proline. The 4-membered disulphide ring is located on the
+surface of the protein. A flat hydrophobic surface lies adjacent to the
+disulphide, which presumably facilitates interaction with other proteins.
+One invariant feature of all thioredoxins is a cis-proline located in a
+loop preceding beta-strand 4. This residue is positioned in van der Waals
+contact with the active site cysteines and is important both for stability
+and function [9]. Thioredoxin belongs to a structural family that includes
+glutaredoxin, glutathione peroxidase, bacterial protein disulphide isomerase
+DsbA, and the N-terminal domain of glutathione transferase [4]. Thioredoxins
+have a beta-alpha unit preceding the motif common to all these proteins.
+
+THIOREDOXIN is a 3-element fingerprint that provides a signature for
+thioredoxins, PDIs and related proteins. The fingerprint was derived from
+an initial alignment of 35 sequences - motifs 1 and 2 are adjacent, spanning
+an invariant Trp residue and corresponding to PROSITE pattern THIOREDOXIN
+(PS00194); motif 2 encodes the N-terminus of helix 2, including the 2
+invariant Cys residues that form the redox-active disulphide, and the
+conserved Pro; and motif 3 spans the fourth beta-strand containing the
+invariant cis-proline. Five iterations on OWL26.3 were required to reach
+convergence, at which point a true set comprising 119 sequences was
+identified. Several partial matches were also found.
+
+An update on SPTR37_9f identified a true set of 180 sequences, and 44
+partial matches.

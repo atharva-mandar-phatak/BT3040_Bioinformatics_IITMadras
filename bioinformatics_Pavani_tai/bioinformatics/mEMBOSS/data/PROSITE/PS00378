@@ -1,0 +1,58 @@
+*************************
+* Hexokinases signature *
+*************************
+
+Hexokinase (EC 2.7.1.1) [1,2] is an important glycolytic enzyme that catalyzes
+the phosphorylation  of keto-  and  aldohexoses  (e.g.  glucose,  mannose  and
+fructose) using MgATP as the phosphoryl donor.
+
+In vertebrates there  are four major isoenzymes, commonly referred as types I,
+II, III and IV.  Type IV hexokinase,  which  is  often  incorrectly designated
+glucokinase [3], is  only  expressed  in  liver and  pancreatic beta-cells and
+plays an important role in modulating insulin secretion;  it is a protein of a
+molecular mass of about 50 Kd.   Hexokinases of types I to III, which have low
+Km values for glucose,  have a  molecular mass of about 100 Kd.   Structurally
+they consist of a very small N-terminal  hydrophobic  membrane-binding  domain
+followed by two highly similar domains of 450 residues.   The first domain has
+lost its catalytic activity and has evolved into a regulatory domain.
+
+In yeast there  are  three  different isozymes: hexokinase PI (gene HXK1), PII
+(gene HXKB), and glucokinase (gene GLK1). All three proteins  have a molecular
+mass of about 50 Kd.
+
+All these enzymes contain one  (or two in the case of types I to III isozymes)
+strongly conserved region which has been shown [4] to be involved in substrate
+binding. We have derived a pattern from that region.
+
+-Consensus pattern: [LIVM]-G-F-[TN]-F-S-[FY]-P-x(5)-[LIVM]-[DNST]-x(3)-[LIVM]-
+                    x(2)-W-T-K-x-[LF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Middleton R.J.
+     "Hexokinases and glucokinases."
+     Biochem. Soc. Trans. 18:180-183(1990).
+     PubMed=2199258
+[ 2] Griffin L.D., Gelb B.D., Wheeler D.A., Davison D., Adams V., McCabe E.R.
+     "Mammalian hexokinase 1: evolutionary conservation and structure to
+     function analysis."
+     Genomics 11:1014-1024(1991).
+     PubMed=1783373
+[ 3] Cornish-Bowden A., Luz Cardenas M.
+     Trends Biochem. Sci. 16:281-282(1991).
+[ 4] Schirch D.M., Wilson J.E.
+     "Rat brain hexokinase: location of the substrate hexose binding site
+     in a structural domain at the C-terminus of the enzyme."
+     Arch. Biochem. Biophys. 254:385-396(1987).
+     PubMed=3579310
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

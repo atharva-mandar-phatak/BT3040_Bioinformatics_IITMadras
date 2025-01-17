@@ -1,0 +1,80 @@
+*************************
+* Ependymins signatures *
+*************************
+
+Ependymins  were originally identified in the ependymal zone of goldfish brain
+and  are  the  major  glycoprotein  component  of cerebrospinal fluid (CSF) in
+various  orders of teleost fish [1,2,3,4]. Several N-glycosylation variants of
+ependymin have been identified and an important role appears to be the binding
+of  calcium  via  N-linked  sialic  acid residues [5]. The precise function of
+ependymins  is still being elucidated. Beside the piscine ependymin this group
+is  formed by Ependymin Related Proteins (ERP) in Xenopus and in mammals (MERP
+or UCC1).
+
+A  predominant  feature  of MERPs, Xenopus ERP and fish ependymins is the four
+conserved  cysteine  residues.  Potentially,  these  cysteine  residues may be
+important in maintaining protein conformation through disulfide bonding. Human
+and  mouse  MERPs  are  of similar length to fish ependymins (224 amino acids)
+and,  like  fish  ependymins,  are  predominantly  hydrophilic  and  contain a
+cleavable  hydrophobic  signal  sequence that is typical of secretory proteins
+[6].
+
+We developed two signature patterns for ependymins.  The first one corresponds
+to a well conserved region located between two conserved N-glycosylation sites
+and which  include a conserved cysteine residue. The second pattern is located
+in the C-terminal section and also includes one of the conserved cysteines.
+
+-Consensus pattern: [DE]-[SQLM]-[KAH]-[NT]-[QEK]-[SQ]-C-[SRKH]-x-[EQKM]-[STM]-
+                    L
+                    [C may be involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: F-x-[PL]-P-[STA]-[FYT]-C-[DEQ]-[GAMI]-[LVMA]-x-[TLF]-[DE]-
+                    [DEK]
+                    [C may be involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hoffmann W.; werner.hoffmann@medizin.uni-magdeburg.de
+           Apostolopoulos J.; japostolopoulos@arcbs.redcross.org.au
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Hoffmann W.
+     "Ependymins and their potential role in neuroplasticity and
+     regeneration: calcium-binding meningeal glycoproteins of the
+     cerebrospinal fluid and extracellular matrix."
+     Int. J. Biochem. 26:607-619(1994).
+     PubMed=8005346
+[ 2] Shashoua V.E.
+     "Ependymin, a brain extracellular glycoprotein, and CNS plasticity."
+     Ann. N.Y. Acad. Sci. 627:94-114(1991).
+     PubMed=1831964
+[ 3] Mueller-Schmid A., Ganss B., Gorr T., Hoffmann W.
+     J. Mol. Evol. 36:578-585(1993).
+[ 4] Hoffmann W., Schwarz H.
+     "Ependymins: meningeal-derived extracellular matrix proteins at the
+     blood-brain barrier."
+     Int. Rev. Cytol. 165:121-158(1996).
+     PubMed=8900958
+[ 5] Gans B., Hoffmann W.
+     Eur. J. Biochem. 217:275-280(1993).
+[ 6] Apostolopoulos J., Sparrow R.L., McLeod J.L., Collier F.M.,
+     Darcy P.K., Slater H.R., Ngu C., Gregorio-King C.C., Kirkland M.A.
+     "Identification and characterization of a novel family of mammalian
+     ependymin-related proteins (MERPs) in hematopoietic, nonhematopoietic,
+     and malignant tissues."
+     DNA Cell Biol. 20:625-635(2001).
+     PubMed=11749721; DOI=10.1089/104454901753340613
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

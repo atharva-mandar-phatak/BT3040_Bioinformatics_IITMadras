@@ -1,0 +1,58 @@
+***********************************************************
+* Bowman-Birk serine protease inhibitors family signature *
+***********************************************************
+
+The Bowman-Birk inhibitor family [1] is one of the numerous families of serine
+proteinase inhibitors. As it can be seen in the schematic representation, they
+have a  duplicated  structure  and  generally  possess two distinct inhibitory
+sites:
+
+            +------------------------------------------------+
+            |      +-----+       +-------+    +-----+        |
+            |      |     |       |       |    |     |        |
+          xxCCxxCxxCxx#xxCxxCxxxxCxxxCxxxCxxxxCxx#xxCxxCxxCxxCxx
+             |  |           |********|****             |  |
+             |  |           |        |                 |  |
+             +--|-----------+        +-----------------+  |
+                +-----------------------------------------+
+
+            <-----------------70 residues-------------------->
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the pattern.
+
+These inhibitors are found in the seeds of all leguminous plants as well as in
+cereal  grains.  In cereals  they   exist in  two   forms,  one of which  is a
+duplication of the basic structure shown above [2].   The pattern we developed
+to pick up sequences belonging to this family  of inhibitors is in the central
+part of the domain and includes four cysteines.
+
+-Consensus pattern: C-x(5,6)-[DENQKRHSTA]-C-[PASTDH]-[PASTDK]-[ASTDV]-C-
+                    [NDEKS]-[DEKRHSTA]-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern can be found twice in some duplicated cereal inhibitors.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Laskowski M. Jr., Kato I.
+     "Protein inhibitors of proteinases."
+     Annu. Rev. Biochem. 49:593-626(1980).
+     PubMed=6996568; DOI=10.1146/annurev.bi.49.070180.003113
+[ 2] Tashiro M., Hashino K., Shiozaki M., Ibuki F., Maki Z.
+     "The complete amino acid sequence of rice bran trypsin inhibitor."
+     J. Biochem. 102:297-306(1987).
+     PubMed=3667571
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

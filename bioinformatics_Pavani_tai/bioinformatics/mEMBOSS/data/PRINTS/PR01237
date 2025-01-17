@@ -1,0 +1,27 @@
+TNFC
+Tumor necrosis factor (TNF) (or cachectin) is a monocyte-derived cytotoxin
+that has been implicated in tumour regression, septic shock and cachexia
+[1,2]. The protein is synthesised as a prohormone with an unusually long 
+and atypical signal sequence, which is absent from the mature secreted
+cytokine [3]. A short hydrophobic stretch of amino acids serves to anchor 
+the prohormone in lipid bilayers [4]. Both the mature protein and a 
+partially-processed form of the hormone are secreted after cleavage of the
+propeptide [4]. 
+
+Lymphotoxin-alpha (LT-alpha or TNF-beta) and lymphotoxin-beta (LT-beta) are
+related cytokines produced by lymphocytes. The proteins are cytotoxic for a
+wide range of tumour cells in vitro and in vivo. The gene for LT-beta is
+found next to the TNF-LT locus in the major histocompatibility complex (MHC),
+a region of the MHC with possible linkage to autoimmune disease [5]. It is
+possible that a surface LT-alpha/LT-beta complex may have a specific role
+in immune regulation distinct from the functions ascribed to TNF [5]. 
+
+TNFC is an 8-element fingerprint that provides a signature for tumour 
+necrosis factor C (LT-beta). The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections
+that characterise TNF-C but distinguish it from the rest of the TNF family -
+motif 2 spans the putative signal-anchor. A single iteration on SPTR37_10f
+was required to reach convergence, no further sequences being identified 
+beyond the starting set. A single partial match was found, P78370, a human
+lymphotoxin-beta isoform variant that matches motifs 1 and 2.

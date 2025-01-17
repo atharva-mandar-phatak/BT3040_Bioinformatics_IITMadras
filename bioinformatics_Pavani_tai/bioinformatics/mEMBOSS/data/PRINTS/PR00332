@@ -1,0 +1,19 @@
+HISTRIAD
+The bovine protein kinase C inhibitor, PKCI-1, is an inhibitor protein that
+binds zinc without the use of zinc-finger motifs [1]. Each protein molecule
+binds one zinc ion via a novel binding site containing 3 closely-spaced
+histidine residues [2]. This region, refered to as the histidine triad
+(HIT) [2], has been identified in various prokaryotic and eukaryotic
+proteins of uncertain function [3].
+
+HISTRIAD is a 3-element fingerprint that provides a signature for the HIT
+protein family. The fingerprint was derived from an initial alignment
+of 5 sequences: motifs 1 and 2 were drawn from conserved regions towards
+the N-terminus, and motif 3 includes part of the region encoded by PROSITE
+pattern HIT (PS00892), the 3 conserved His residues of which are thought
+to bind the zinc ion. Two iterations on OWL24.0 were required to reach
+convergence, at which point a true set comprising 8 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 25 sequences, and 6
+partial matches.

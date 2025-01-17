@@ -1,0 +1,77 @@
+*********************************************
+* ERV/ALR sulfhydryl oxidase domain profile *
+*********************************************
+
+The ~100-residue  ERV/ALR  sulfhydryl  oxidase  domain  is  a versatile module
+adapted for  catalysis  of  disulfide bond formation in various organelles and
+biological settings.  The  ERV/ALR sulfhydryl oxidase domain has a Cys-X-X-Cys
+dithiol/disulfide motif adjacent to a bound FAD cofactor, enabling transfer of
+electrons  from thiol  substrates  to  non-thiol  electron  acceptors. ERV/ALR
+family members  differ  in  their N- or C-terminal extensions, which typically
+contain at  least  one  additional  disulfide bond, the hypothesized 'shuttle'
+disulfide. In  yeast ERV1, a mitochondrial enzyme, the shuttle disulfide is N-
+terminal to  the  catalytic  core;  in  yeast ERV2, present in the endoplasmic
+reticulum, it  is  C-terminal.  The N- and C-terminal extensions can be entire
+domains, such  as  the  thioredoxin-like  domains  (see  <PDOC00172>) or short
+segments that  do  not  seem  to  be distinct domains. Proteins of the ERV/ALR
+family are  encoded by all eukaryotes and cytoplasmic DNA viruses (poxviruses,
+African swine  fever  virus,  iridoviruses,  and Paramecium bursaria Chlorella
+virus 1) [1-5].
+
+The ERV/ALR  sulfhydryl  oxidase  domain contains a four-helix bundle (helices
+alpha1-alpha4) and   an  additional  single  turn  of  helix  (alpha5)  packed
+perpendicular to  the  bundle (see <PDB:1JRA>) [3,4]. The FAD prosthetic group
+is housed at the mouth of the 4-helix bundle and communicates with the pair of
+juxtaposed cysteine residues that form the proximal redox active site [5].
+
+Some proteins known to contain an ERV/ALR sulfhydryl oxidase domain are listed
+below:
+
+ - Yeast  essential  for  respiration and viability proteins 1 and 2 (ERV1 and
+   ERV2). ERV1 is required for mitochondrial biogenesis.
+ - Mammalian Augmenter of Liver Regeneration (ALR), the homolog of ERV1.
+ - Animal and plant quiescin-sulfhydryl oxidase (QSOX).
+ - Poxviruses  E10R  protein,  that  promotes disulfide-bond formation in coat
+   proteins assembling in the reducing environment of the cell cytosol.
+
+The profile we developed covers the entire ERV/ALR sulfhydryl oxidase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2007 / First entry.
+
+[ 1] Hoober K.L., Glynn N.M., Burnside J., Coppock D.L., Thorpe C.
+     "Homology between egg white sulfhydryl oxidase and quiescin Q6 defines
+     a new class of flavin-linked sulfhydryl oxidases."
+     J. Biol. Chem. 274:31759-31762(1999).
+     PubMed=10542195
+[ 2] Senkevich T.G., White C.L., Koonin E.V., Moss B.
+     "A viral member of the ERV1/ALR protein family participates in a
+     cytoplasmic pathway of disulfide bond formation."
+     Proc. Natl. Acad. Sci. U.S.A. 97:12068-12073(2000).
+     PubMed=11035794; DOI=10.1073/pnas.210397997
+[ 3] Gross E., Sevier C.S., Vala A., Kaiser C.A., Fass D.
+     "A new FAD-binding fold and intersubunit disulfide shuttle in the
+     thiol oxidase Erv2p."
+     Nat. Struct. Biol. 9:61-67(2002).
+     PubMed=11740506; DOI=10.1038/nsb740
+[ 4] Vitu E., Bentzur M., Lisowsky T., Kaiser C.A., Fass D.
+     "Gain of function in an ERV/ALR sulfhydryl oxidase by molecular
+     engineering of the shuttle disulfide."
+     J. Mol. Biol. 362:89-101(2006).
+     PubMed=16893552; DOI=10.1016/j.jmb.2006.06.070
+[ 5] Wang W., Winther J.R., Thorpe C.
+     "Erv2p: characterization of the redox behavior of a yeast sulfhydryl
+     oxidase."
+     Biochemistry 46:3246-3254(2007).
+     PubMed=17298084; DOI=10.1021/bi602499t
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

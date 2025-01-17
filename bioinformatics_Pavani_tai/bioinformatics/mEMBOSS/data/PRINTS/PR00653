@@ -1,0 +1,21 @@
+ACTIVIN2R
+Activin type II receptors are proteins of around 500 residues that share
+a high degree of similarity (human and mouse sequences are 99% identical).
+The receptor, which is involved in transmembrane signalling, consists of
+an extracellular domain that specifically binds activin A, a single
+membrane-spanning domain, and an intracellular kinase domain with
+predicted serine/threonine specificity [1]. 
+
+ACTIVIN2R is a 6-element fingerprint that provides a signature for type II
+activin receptors. The fingerprint was derived from an initial alignment of
+9 sequences: motifs 1-3 were drawn from the N-terminal portion of the
+alignment (the putative extracellular domain), and motifs 4-6 from the
+C-terminal portion (the cytoplasmic protein kinase domain). Two iterations
+on OWL29.1 were required to reach convergence, at which point a true set
+comprising 19 sequences was identified. Several partial matches were
+also found: S27268 and I38935 are N- and C-terminal fragments; the
+remaining matches are either activin fragments or serine/threonine protein 
+kinases that match motifs 4 and 5.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 16
+partial matches.

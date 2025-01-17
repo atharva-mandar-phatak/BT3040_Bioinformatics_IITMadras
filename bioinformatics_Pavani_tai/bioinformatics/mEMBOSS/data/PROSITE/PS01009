@@ -1,0 +1,88 @@
+**************************
+* CRISP family signature *
+**************************
+
+A variety  of  extracellular  proteins  from  eukaryotes have been found to be
+evolutionary related.  They  have been termed cysteine-rich secretory proteins
+(CRISP). Some relevant members of this family are:
+
+ - Rodent  sperm-coating  glycoprotein (SCP), also  known as acidic epididymal
+   glycoprotein (AEG) .  This  protein  is  thought  to  be  involved in sperm
+   maturation [1]. It is a protein of about 220 residues and probably contains
+   eight disulfide bonds.
+ - Mammalian  testis-specific  protein  Tpx-1  [2]. Tpx-1 is highly related to
+   SCP's.
+ - Mammalian glioma pathogenesis-related protein (GliPR).
+ - Lizard helothermine, a toxin that blocks ryanodine receptors.
+ - Venom  allergen 5  (Ag5)  from vespid wasps and venom allergen 3 (Ag3) from
+   fire ants.  These  proteins  are potent allergens and are the main cause of
+   allergic reactions  to  stings  from insects of the hymenoptera family [3].
+   Ag5/3 are proteins of about 200 residues and  contain four disulfide bonds.
+ - Plant  pathogenesis  proteins  of  the  PR-1 family [4]. These proteins are
+   synthesized during  pathogen  infection  or other stress-related responses.
+   They are proteins of about 130 to 140 residues  and  probably contain three
+   disulfide bonds.
+ - Proteins  Sc7  and Sc14 from the basidomycete fungus Schizophyllum commune.
+   These extracellular  proteins are loosely associated with fruit body hyphal
+   walls [5].  Sc7/14  are proteins of about 180 residues and probably contain
+   two disulfide bonds.
+ - Ancylostoma secreted protein from dog hookworm.
+ - Yeast hypothetical proteins YJL078c, YJL079c and YKR013w.
+
+The exact function of these proteins is not yet known.  As signature patterns,
+we selected two conserved regions located in their C-terminal half. The second
+signature contains a  cysteine  which is known  to be involved  in a disulfide
+bond in Ag5.
+
+-Consensus pattern: [GDER]-[HR]-[FYWH]-[TVS]-[QA]-[LIVM]-[LIVMA]-W-x(2)-[STN]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ 3 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFYH]-[LIVMFY]-x-C-[NQRHS]-Y-x-[PARH]-x-[GL]-N-
+                    [LIVMFYWDN]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ 4 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Mizuki N., Kasahara M.
+     "Mouse submandibular glands express an androgen-regulated transcript
+     encoding an acidic epididymal glycoprotein-like molecule."
+     Mol. Cell. Endocrinol. 89:25-32(1992).
+     PubMed=1301383
+[ 2] Kasahara M., Gutknecht J., Brew K., Spurr N., Goodfellow P.N.
+     "Cloning and mapping of a testis-specific gene with sequence
+     similarity to a sperm-coating glycoprotein gene."
+     Genomics 5:527-534(1989).
+     PubMed=2613236
+[ 3] Lu G., Villalba M., Coscia M.R., Hoffman D.R., King T.P.
+     "Sequence analysis and antigenic cross-reactivity of a venom allergen,
+     antigen 5, from hornets, wasps, and yellow jackets."
+     J. Immunol. 150:2823-2830(1993).
+     PubMed=8454859
+[ 4] Dixon D.C., Cutt J.R., Klessig D.F.
+     "Differential targeting of the tobacco PR-1 pathogenesis-related
+     proteins to the extracellular space and vacuoles of crystal
+     idioblasts."
+     EMBO J. 10:1317-1324(1991).
+     PubMed=2026137
+[ 5] Schuren F.H.J., Asgeirsdottir S.A., Kothe E.M., Scheer J.M.J.,
+     Wessels J.G.
+     "The Sc7/Sc14 gene family of Schizophyllum commune codes for
+     extracellular proteins specifically expressed during fruit-body
+     formation."
+     J. Gen. Microbiol. 139:2083-2090(1993).
+     PubMed=8245835
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

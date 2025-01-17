@@ -1,0 +1,80 @@
+*******************************************
+* Methyl-CpG-binding domain (MBD) profile *
+*******************************************
+
+Methylation at   CpG   dinucleotide,  the  most  common  DNA  modification  in
+eukaryotes, has  been  correlated  with gene silencing associated with various
+phenomena such   as   genomic   imprinting,   transposon   and   chromosome  X
+inactivation, differenciation,  and  cancer.  Effects  of  DNA methylation are
+mediated through  proteins  which  bind to symmetrically methylated CpGs. Such
+proteins contain  a  specific  domain  of ~70 residues, the methyl-CpG-binding
+domain (MBD), which is linked to additional domains associated with chromatin,
+such as  the  bromodomain  (see <PDOC00550>), the AT hook motif,the SET domain
+(see <PDOC50280>),   or  the  PHD  finger  (see  <PDOC50016>).  MBD-containing
+proteins appear  to  act  as  structural  proteins, which recruit a variety of
+histone deacetylase (HDAC) complexes and chromatin remodeling factors, leading
+to chromatin  compaction and, consequently, to transcriptional repression. The
+MBD of  MeCP2,  MBD1,  MBD2, MBD4 and BAZ2 mediates binding to DNA, in case of
+MeCP2, MBD1  and  MBD2 preferentially to methylated CpG. In case of human MBD3
+and SETDB1  the  MBD  has  been  shown to mediate protein-protein interactions
+[1,2].
+
+The MBD  folds  into  an  alpha/beta  sandwich structure comprising a layer of
+twisted beta  sheet,  backed by another layer formed by the alpha1 helix and a
+hairpin loop  at  the  C  terminus  (see  <PDB:1IG4>).  These  layers are both
+amphipathic, with  the  alpha1 helix and the beta sheet lying parallel and the
+hydrophobic faces tighly packed against each other. The beta sheet is composed
+of two  long  inner  strands (beta2 and beta3) sandwiched by two shorter outer
+strands (beta1 and beta4) [3].
+
+Some protein known to contain a MBD domain are listed below:
+
+ - Vertebrate methyl-CpG binding proteins MBD1, a transcriptional regulator.
+ - Vertebrate methyl-CpG binding proteins MBD2.
+ - Vertebrate  methyl-CpG-binding protein 2 (MeCP-2 protein). It is implicated
+   in a  human  neurological  disorder  called Rett syndrome. Symptoms of this
+   syndrome are  mental  retardation,  loss of speech and purposeful hand use,
+   autism, ataxia, and stereotypic hand movements.
+ - Vertebrate  bromodomain  adjacent to zinc finger domain 2A (BAZ2A/TIP5). It
+   is part  of  the  NoRC,  nucleolar remodeling complex, which represses rDNA
+   transcription by  recruiting  histone  methyltransferases,  HDACs  and  DNA
+   methyltransferases.
+ - Vertebrate bromodomain adjacent to zinc finger domain 2B (BAZ2B).
+ - Vertebrate  histone-lysine  N-methyltransferase,  H3  lysine-9  specific  4
+   (EC 2.1.1.43) (SETDB1).
+ - Vertebrate   probable   histone-lysine   N-methyltransferase,  H3  lysine-9
+   specific (EC 2.1.1.43) (SETDB2 or CLLD8).
+ - Arabidopsis  thaliana  AtMBD  1-12.  No  sequence homology is found between
+   AtMBDs and mammalian MBDs outside the MBD motif.
+
+The profile we developed covers the entire MBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Roloff T.C., Ropers H.H., Nuber U.A.
+     "Comparative study of methyl-CpG-binding domain proteins."
+     BMC Genomics 4:1-1(2003).
+     PubMed=12529184
+[ 2] Zemach A., Grafi G.
+     "Characterization of Arabidopsis thaliana methyl-CpG-binding domain
+     (MBD) proteins."
+     Plant J. 34:565-572(2003).
+     PubMed=12787239
+[ 3] Ohki I., Shimotake N., Fujita N., Jee J.-G., Ikegami T., Nakao M.,
+     Shirakawa M.
+     "Solution structure of the methyl-CpG binding domain of human MBD1 in
+     complex with methylated DNA."
+     Cell 105:487-497(2001).
+     PubMed=11371345
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

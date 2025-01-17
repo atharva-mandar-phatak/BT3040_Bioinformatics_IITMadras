@@ -1,0 +1,70 @@
+GLUCTRSPORT1
+The ability to transport glucose across the plasma membrane is a feature
+common to nearly all cells, from simple bacteria through to highly
+specialised mammalian neurones. Facilitative glucose (and fructose)
+transport is mediated by members of the GLUT transporter family. These
+are glycosylated transmembrane (TM) proteins that transport glucose in a
+passive (i.e., energy-independent) manner. In consequence, they can only
+transport glucose down its concentration gradient. Currently, five such
+mammalian transporters have been cloned and functionally characterised
+[1-3]. Four of these transport glucose (GLUT1-4), whereas GLUT5 prefer-
+entially transports fructose. A sixth cDNA, encoding an apparent glucose
+transporter, was cloned but was found to be a pseudo-gene (GLUT6) [4].
+Similarly, another cDNA thought to encode a glucose transporter that was
+targeted to the endoplasmic reticulum was eventually realised to be an
+experimental cloning artefact (GLUT7) [5].
+
+The five confirmed isoforms are expressed in a tissue and cell-specific
+manner, and have been found to exhibit distinct kinetic and regulatory
+properties, presumably reflecting their specific functional roles in these
+locations. Hydropathy analysis reveals they have 12 presumed TM domains, 
+and that they belong to a much larger 'major facilitator superfamily' of 12
+TM transporters that are involved in the transport of a variety of hexoses
+and other carbon compounds, including: bacterial sugar-proton symporters 
+(H+/xylose and H+/arabinose); bacterial transporters of carboxylic acids
+and antibiotics; and sugar transporters in various yeast, protozoa and
+higher plants. Nevertheless, amino acid identity within the superfamily may
+be as low as ~25% [6,7]. Besides the 12 presumed TM domains, the most
+characteristic structural feature of the superfamily is the presence of a
+five residue motif (RXGRR, where X is any amino acid). In the GLUT 
+transporters, this motif is present in the presumed cytoplasmic loops
+connecting TM domains 2 with 3, and also 8 with 9. The 12 TM transporter
+superfamily appears to be structurally unrelated to the Na+-coupled,
+Na+/glucose co-transporters (SGLT1-3) found in the intestine and kidney,
+which are able to transport glucose against its concentration gradient [8].
+
+Comparison of the hydropathy profiles for GLUT1-5 reveals that they are
+virtually superimposable, despite the fact that their primary structures
+may differ by up to 60%. Of the presumed TM domains, the fourth, fifth
+and sixth are the most highly conserved, and conserved residues are also
+found in the short exofacial loops joining the putative TM regions. The
+presumed cytoplasmic N- and C-termini, and the extracellular loop between
+the first and second TM domains, show the greatest divergence, both in
+terms of primary structure and size.
+
+GLUT1 (also called HepG2) is the most ubiquitously distributed of the
+glucose transporter isoforms. It is expressed in many foetal and adult
+mammalian tissues, and cell lines, although frequently at low levels,
+and in conjunction with other glucose transporter isoforms that show a
+more limited expression pattern. The highest levels are found in foetal
+tissues, and in adult tissues, brain microvessels containing the highest
+levels. To date, it is the most extensively-studied glucose transporter,
+and was initially biochemically characterised as the facilitated trans-
+porter of human erythrocytes, prior to its cloning. It consists of 492
+amino acid residues (human isoform), which are highly conserved between
+species (98% amino acid identity, human vs. rat). It is thought to provide
+glucose transport in various cells that form barriers between body tissues
+and the blood supply. Thus it is found in epithelial and endothelial barrier
+cells, such as those that constitute the blood-brain barrier, and also in 
+the placenta.
+
+GLUCTRSPORT1 is a 3-element fingerprint that provides a signature for the
+mammalian glucose transporter type 1 isoform. The fingerprint was derived
+from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise the glucose co-transporter type 1 isoform
+but distinguish it from others - motif 1 encodes ~1/2 of the putative 
+extracellular loop located between the first two presumed TM domains; and
+motifs 2 and 3 encode the final 2/3 of the presumed cytoplasmic C-terminal
+domain. Two iterations on SPTR37_9f were required to reach convergence, at
+which point a true set comprising 6 sequences was identified.

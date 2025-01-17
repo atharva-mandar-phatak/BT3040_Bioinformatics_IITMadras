@@ -1,0 +1,52 @@
+***********************************************
+* 'Homeobox' engrailed-type protein signature *
+***********************************************
+
+Most proteins  which contain a 'homeobox' domain  can  be classified [1,2], on
+the basis of their sequence characteristics, in three  subfamilies: engrailed,
+antennapedia and paired.   Proteins currently known to belong to the engrailed
+subfamily are:
+
+ - Drosophila segmentation polarity protein engrailed (en) which specifies the
+   body segmentation  pattern  and  is  required  for  the  development of the
+   central nervous system.
+ - Drosophila invected protein (inv).
+ - Silk moth proteins engrailed and invected,  which  may  be  involved in the
+   compartmentalization of the silk gland.
+ - Honeybee E30 and E60.
+ - Grasshopper (Schistocerca americana) G-En.
+ - Mammalian and birds En-1 and En-2.
+ - Zebrafish  Eng-1, -2 and -3.
+ - Sea urchin (Tripneusteas gratilla) SU-HB-en.
+ - Leech (Helobdella triserialis) Ht-En.
+ - Caenorhabditis elegans ceh-16.
+
+Engrailed homeobox proteins are characterized  by  the presence of a conserved
+region of  some  20  amino-acid  residues  located  at  the  C-terminal of the
+'homeobox' domain.  As  a signature pattern for this subfamily of proteins, we
+have used a stretch of eight perfectly conserved residues in this region.
+
+-Consensus pattern: L-M-A-[EQ]-G-L-Y-N
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ceh-16.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Scott M.P., Tamkun J.W., Hartzell G.W. III
+     "The structure and function of the homeodomain."
+     Biochim. Biophys. Acta 989:25-48(1989).
+     PubMed=2568852
+[ 2] Gehring W.J.
+     "Homeo boxes in the study of development."
+     Science 236:1245-1252(1987).
+     PubMed=2884726
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

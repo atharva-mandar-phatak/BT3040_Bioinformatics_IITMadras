@@ -1,0 +1,30 @@
+LUTEOGP1COAT
+Barley yellow dwarf virus (BYDV) can be separated into two groups based 
+on serological relationships, presumably governed by the viral capsid 
+structure [1]. Coding regions of coat proteins have been identified for the
+MAV-PS1, P-PAV (group 1) and NY-RPV (group 2) isolates of BYDV. Group 1 
+proteins show 71% sequence similarity to each other, 51% similarity to those
+of group 2, and a high degree of similarity to those from other luteoviruses
+(including coat proteins from beet western yellow virus (BWYV) [2] and 
+potato leafroll virus (PLRV) [3,4]). 
+
+Among luteovirus coat protein sequences in general, several highly conserved
+domains can be identified, while other domains differentiate group 1 isolates
+from group 2 and other luteoviruses. Sequence comparisons between the genomes
+of PLRV, BWYV and BYDV have revealed ~65% protein sequence similarity 
+between the capsid proteins of BWYV and PLRV and ~45% similarity between 
+BYDV and PLRV [1]. The N-terminal regions of these sequences, like those of 
+many plant virus capsid proteins, is highly basic. These regions may be 
+involved in protein-RNA interaction.
+
+LUTEOGP1COAT is an 8-element fingerprint that provides a signature for
+luteovirus group 1 coat proteins. The fingerprint was derived from an 
+initial alignment of 22 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length. Three iterations on 
+OWL30.1 were required to reach convergence, at which point a true set 
+comprising 48 sequences was identified. Several partial matches were also
+found, all of which are fragments or family members that fail to match one 
+or more motifs.
+
+An update on SPTR37_9f identified a true set of 53 sequences, and 8
+partial matches.

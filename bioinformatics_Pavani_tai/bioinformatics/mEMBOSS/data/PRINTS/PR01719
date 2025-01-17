@@ -1,0 +1,82 @@
+MHCIIACTVATR
+Class II transactivator (CIITA) determines the level, cell type specificity,
+inducibility and extinction of MHC-II expression. CIITA is also the 
+obligatory mediator of INF-gamma inducible MHC-II expression. Thus control
+of MHC-II expression is ultimately dependent on the control of expression
+of the CIITA gene itself. Defective CIITA has been shown to be responsible
+for one class of base lymphocyte syndrome (BLS). BLS is an often fatal 
+genetic defect, characterised by severe immunodeficiency as a result of 
+failure to express MHC class II genes. Expression of CIITA is controlled by
+four independent CIITA promoters, leading to CIITA transcripts with four 
+distinct first exons. The individual promoters are used in an alternative
+and tissue-specific manner. CIITA promoter (CIITA-P)I is the promoter used
+in dentritic cells; CIITA-PII is expressed at insignificant levels and is 
+as yet functionally poorly understood; CIITA-PIII is constitutively
+expressed in B lymphocytes and can drive CIITA expression after INF-gamma
+stimulation in a number of different cell types, including endothelial cells
+and fibroblasts; and CIITA-PIV is the principal INF-gamma-inducible promoter.
+The cellular and temporal diversity in MHC class II expression is thus 
+regulated via the different usage of the CIITA promoters [1-3,6-8].
+
+Transcription of the MHC class II and related genes is regulated by a common
+set of transcription factors. These include REX, X2BP/CREB, NF-Y and CIITA,
+which all bind a short-150bp regulatory module conserved in the promoter 
+proximal regions of all MHC-II genes. This regulatory module consists of 
+four cis-acting sequences and is known as the W-X-X2-Y region. Binding of
+REX, X2BP and NF-Y to the promoter DNA is highly cooperative and results in
+the formation of a remarkably stable higher-order nucleoprotein complex that
+can be regarded as the MHC-II enhanceosome. However, the above three factors
+are expressed ubiquitously and in an apparently unregulated manner, implying
+that they do not provide the regulatory function necessary for cell-specific
+and inducible MHCII expression. It follows that enhanceosome assembly is
+essential but not sufficient for MHC-II expression, which ultimately depends
+on CIITA, a highly regulated master control factor that is recruited to the
+enhanceosome by multiple weak interactions between its C-terminal moiety and
+several different components of the MHC-II enhanceosome [1-3]. 
+
+CIITA contains four domains: acidic (A), proline-serine-threonine-rich (PST), 
+GTP-binding (GBD), and leucine-rich repeat (LRR). All of these are required
+to activate the MHC class II promoter. The acidic transcriptional activation
+domain interacts with TAFII32. Recruitment of the coactivator protein CBP by
+the acidic domain has also been shown to lead to synergistic activation of
+MHC class II promoters and the repression of the interleukin-4 promoter. The
+PST domain is essential for CIITA function, but its exact role remains 
+unknown. The central region containing the GTP-binding and LXXLL motifs 
+plays an important role in CIITA self-association. This region interacts 
+with itself, the N-terminal domain of CIITA (A/PST) and C-terminal LRR. In 
+addition to their role in CIITA self-association, which is generally 
+necessary for the association of the protein with the import machinery, both
+GBD (where GTP binding is believed to cause a conformational change  
+compatible with nuclear translocation) and LRR domains have been shown to
+play important roles in the nuclear localisation of CIITA. Generally, 
+translocation of a protein from the cytoplasm into the nucleus is dependent
+on the presence of nuclear localisation signals (NLSs) within the protein. 
+NLSs tend to be rich in basic residues that mediate binding to members of 
+the importin alpha family of proteins. In human CIITA, the 110-residue 
+region from 336-444 appears to contain a NLS. Export of a protein depends 
+on the presence of a specific export signal (NES). NESs are short leucine-
+rich motifs - in CIITA, they have the consensus LXXXLXXLXL, and are
+localised in the N- and C-terminal regions [4,5,7].
+
+Numerous in vitro and functional studies have implicated CIITA in multiple
+steps of the transcriptional activation process: e.g., (i) it may facilitate
+chromatin remodelling, as it interacts with histone acetyltransferases;
+moreover, it has intrinsic acetyltransferase activity; (ii) it interacts
+with the general transcription factors TFIIB, HTAFII32 and HTAFI70, implying
+that it may recruit the transcriptional apparatus directly; (iii) it
+interacts with TFIIH and P-TEFb, and may therefore enhance promoter
+clearance and transcription elongation. An implicit picture emerging from
+these studies is that CIITA activates transcription single-handedly, while
+the role of the MHCII enhanceosome is relegated to specific DNA sequence
+recognition and CIITA recruitment [9].
+
+MHCIIACTVATR is an 11-element fingerprint that provides a signature for the
+CIITA transcriptional coactivators. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motifs 1-4 and 5-7
+span the two nuclear export regions, motifs 1,6 and 9 containing the NES 
+consensus, LXXXLXXLXL. Two iterations on SPTR39_17f were required to
+reach convergence, at which point a true set comprising 8 sequences was 
+identified. A single partial match was also found, Q29704, the human RJ2.2.5 
+mutant, a non-functional CIITA that matches motifs 1-4, the first of the 
+two nuclear export regions.

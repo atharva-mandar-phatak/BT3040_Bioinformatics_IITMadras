@@ -1,0 +1,42 @@
+*********************************************************************
+* Large-conductance mechanosensitive channels mscL family signature *
+*********************************************************************
+
+Mechanosensitive ion  channels  play  a  critical role in transducing physical
+stresses at  the  cell  membrane into an electrochemical response. Prokaryotes
+harbor a  large-conductance  mechanosensitive channel (gene mscL) [1] which is
+opened by  membrane  stretch  force  and  may participate in the regulation of
+osmotic pressure changes within the cell.
+
+MscL is  a  protein  of  about  15  kD.  It  forms  a  channel  organized as a
+homopentamer [2], with each subunit containing two transmembrane regions.
+
+As a  signature  pattern, we selected the best conserved region. It is located
+in the N-terminal region. It starts three residues before the beginning of the
+first transmembrane domain and ends in the middle of that domain.
+
+-Consensus pattern: [KR]-G-N-[LIVM](2)-D-[LIVM]-A-[LIVM]-[GA]-[LIVM](3)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Moe P.C., Blount P., Kung C.
+     "Functional and structural conservation in the mechanosensitive
+     channel MscL implicates elements crucial for mechanosensation."
+     Mol. Microbiol. 28:583-592(1998).
+     PubMed=9632260
+[ 2] Chang G., Spencer R.H., Lee A.T., Barclay M.T., Rees D.C.
+     "Structure of the MscL homolog from Mycobacterium tuberculosis: a
+     gated mechanosensitive ion channel."
+     Science 282:2220-2226(1998).
+     PubMed=9856938
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

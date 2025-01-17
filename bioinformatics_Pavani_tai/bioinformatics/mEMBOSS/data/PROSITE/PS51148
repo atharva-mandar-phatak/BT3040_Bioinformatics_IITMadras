@@ -1,0 +1,72 @@
+**********************
+* AXH domain profile *
+**********************
+
+The AXH  (ataxin-1  and  HMG-box  protein  1) domain is a module of ~130 amino
+acids, which  has  been  identified  in  ATX1  and in the apparently unrelated
+transcription factor HBP1 [1]. It is found in many vertebrate and invertebrate
+proteins. It  has  been  suggested that the AXH domain is a molecular scaffold
+domain engaged in multiple protein-protein interactions and in RNA binding.
+
+The AXH  domain consists of a noncanonical oligonucleotide and oligosaccharide
+binding (OB)  fold.  Although  sharing a similar OB fold, the structure of the
+AXH domains  from  ATX1  (see  <PDB:1OA8>)  and  HBP1  (see  <PDB:1V06>)  have
+genuinely distinct  folds.  The  differences  are  not,  as in other chameleon
+sequences, determined  by  a  different  tendency  to adopt distinct secondary
+structures: the  two  folds  share  the same secondary structure elements, but
+these are  differently  arranged  in  space.  The  AXH  domain has a chameleon
+structure in  which  the  N  and  C  termini  can  adopt  distinctly different
+conformation. Neither  of  the  differences  are induced by binding to another
+molecule. While clearly correlated (sharing a sequence identity of ca. 30% and
+a homology  of  ca.  50% depending on the species), AXH has slightly different
+domain boundaries and distinct properties in ATX1 and HBP1. There is a cluster
+of charged residues that could constitute a ligand-binding site [2,3].
+
+Some proteins known to contain a AXH domain are listed below:
+
+ - Animal   ataxin-1   (ATX1),  a  neurodegenerative  disorder  protein  whose
+   glutamine-repeat expanded  form causes spinocerebellar ataxia type 1 (SCA1)
+   in humans and exerts cytotoxicity in Drosophila and mouse.
+ - Animal Brother of ataxin-1 (Boat) [4].
+ - Vetebrate HMG box containing protein 1 (HBP1). It is thought to be involved
+   in an   architectural   regulation   of  chromatin  and  in  specific  gene
+   expression.
+
+The profile we developed covers the entire AXH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2005 / First entry.
+
+[ 1] de Chiara C., Giannini C., Adinolfi S., de Boer J., Guida S.,
+     Ramos A., Jodice C., Kioussis D., Pastore A.
+     "The AXH module: an independently folded domain common to ataxin-1 and
+     HBP1."
+     FEBS Lett. 551:107-112(2003).
+     PubMed=12965213
+[ 2] Chen Y.W., Allen M.D., Veprintsev D.B., Loewe J., Bycroft M.
+     "The structure of the AXH domain of spinocerebellar ataxin-1."
+     J. Biol. Chem. 279:3758-3765(2004).
+     PubMed=14583607; DOI=10.1074/jbc.M309817200
+[ 3] de Chiara C., Menon R.P., Adinolfi S., de Boer J., Ktistaki E.,
+     Kelly G., Calder L., Kioussis D., Pastore A.
+     "The AXH domain adopts alternative folds the solution structure of
+     HBP1 AXH."
+     Structure 13:743-753(2005).
+     PubMed=15893665; DOI=10.1016/j.str.2005.02.016
+[ 4] Mizutani A., Wang L., Rajan H., Vig P.J.S., Alaynick W.A., Thaler J.P.,
+     Tsai C.-C.
+     "Boat, an AXH domain protein, suppresses the cytotoxicity of mutant
+     ataxin-1."
+     EMBO J. 24:3339-3351(2005).
+     PubMed=16121196; DOI=10.1038/sj.emboj.7600785
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

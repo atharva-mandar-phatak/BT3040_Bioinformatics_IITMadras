@@ -1,0 +1,90 @@
+*************************************************
+* Neurotransmitter-gated ion-channels signature *
+*************************************************
+
+Neurotransmitter-gated ion-channels [1,2,3,4] provide the molecular  basis for
+rapid  signal  transmission  at  chemical  synapses.  They  are  post-synaptic
+oligomeric transmembrane complexes that transiently form a ionic  channel upon
+the binding  of  a  specific  neurotransmitter.  Presently,  the  sequence  of
+subunits from five types of neurotransmitter-gated receptors are known:
+
+ - The nicotinic acetylcholine receptor (AchR),  an excitatory cation channel.
+   In  the motor  endplates  of vertebrates, it is  composed of four different
+   subunits  (alpha,  beta,  gamma  and   delta  or  epsilon)   with  a  molar
+   stoichiometry of 2:1:1:1. In neurones, the AchR receptor is composed of two
+   different  types  of  subunits:  alpha  and  non-alpha  (also called beta).
+   Nicotinic AchRs are also found in invertebrates.
+ - The glycine  receptor, an inhibitory  chloride  ion  channel.  The  glycine
+   receptor is a pentamer composed of two different subunits (alpha and beta).
+ - The gamma-aminobutyric-acid (GABA)  receptor, which  is  also an inhibitory
+   chloride ion channel.  The quaternary  structure  of the  GABA receptor  is
+   complex; at least four classes of subunits are known to exist (alpha, beta,
+   gamma, and delta)  and  there are many variants in each class (for example:
+   six variants of the alpha class have already been sequenced).
+ - The serotonin 5HT3 receptor. Serotonin is a biogenic hormone that functions
+   as a  neurotransmitter, a hormone  and a mitogen.    There are seven  major
+   groups of serotonin receptors; six of these groups (5HT1, 5HT2, and 5HT4 to
+   5HT7) transduce extracellular signal  by  activating G proteins, while 5HT3
+   is a ligand-gated cation-specific ion channel  which, when activated causes
+   fast, depolarizing responses in neurons.
+ - The glutamate receptor, an excitatory cation channel. Glutamate is the main
+   excitatory neurotransmitter in the brain.   At  least three different types
+   of glutamate receptors have been described and are named according to their
+   selective agonists (kainate, N-methyl-D-aspartate (NMDA) and quisqualate).
+
+All  known sequences of subunits  from neurotransmitter-gated ion-channels are
+structurally related.  They are composed of a large extracellular glycosylated
+N-terminal ligand-binding domain,  followed by three hydrophobic transmembrane
+regions which form the ionic channel, followed  by an intracellular  region of
+variable length. A fourth hydrophobic region is found at the C-terminal of the
+sequence.
+
+The sequence of subunits  from  the  AchR, GABA,  5HT3, and  Gly receptors are
+clearly evolutionary related and  share many regions of sequence similarities.
+These sequence  similarities  are  either  absent  or  very  weak  in  the Glu
+receptors.
+
+In the N-terminal  extracellular domain of AchR/GABA/5HT3/Gly receptors, there
+are two conserved cysteine residues, which, in AchR, have been shown to form a
+disulfide bond  essential to the tertiary structure of the receptor.  A number
+of amino acids between the two disulfide-bonded  cysteines are also conserved.
+We have therefore used this region as a signature pattern for this subclass of
+proteins.
+
+-Consensus pattern: C-x-[LIVMFQ]-x-[LIVMF]-x(2)-[FY]-P-x-D-x(3)-C
+                    [The 2 C's are linked by a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL the ion-
+ gated receptors except for glutamate receptors.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In most AchR subunits and in GABA beta subunits, the residue N-terminal
+ to the second cysteine is a N-glycosylated asparagine.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Stroud R.M., McCarthy M.P., Shuster M.
+     "Nicotinic acetylcholine receptor superfamily of ligand-gated ion
+     channels."
+     Biochemistry 29:11009-11023(1990).
+     PubMed=1703009
+[ 2] Betz H.
+     "Ligand-gated ion channels in the brain: the amino acid receptor
+     superfamily."
+     Neuron 5:383-392(1990).
+     PubMed=1698394
+[ 3] Dingledine R., Myers S.J., Nicholas R.A.
+     FASEB J. 4:2632-2645(1990).
+[ 4] Barnard E.A.
+     "Receptor classes and the transmitter-gated ion channels."
+     Trends Biochem. Sci. 17:368-374(1992).
+     PubMed=1360717
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

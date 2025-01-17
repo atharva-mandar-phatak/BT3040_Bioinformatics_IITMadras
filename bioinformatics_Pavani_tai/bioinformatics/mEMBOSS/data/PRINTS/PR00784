@@ -1,0 +1,26 @@
+MTUNCOUPLING
+The brown fat uncoupling protein (UCP) dissipates oxidative energy into heat
+by transporting protons from the cytosol into the mitochondrial matrix [1].
+UCP functions as a dimer, forming a proton channel that leads to uncoupling
+of oxidative phosphorylation by dissipation of the electrochemical potential
+across the inner membrane.
+
+The protein has a tripartite structure, with 3 similar ~100 residue domains.
+The domains exhibit striking conservation of several residues, especially
+of glycine and proline, which may constitute structurally strategic
+positions [2]. The protein is thought to contain 6 transmembrane helices
+[3]. These characteristics are shared by the ADP/ATP carrier protein, which
+is a member of the mitochondrial carrier family. 
+
+MTUNCOUPLING is a 6-element fingerprint that provides a signature for
+mitochondrial brown fat uncoupling proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length - motif 1 lies in
+the first putative TM region; motif 2 spans part of the fifth putative
+TM region; and motif 6 lies at the C-terminal extremity, in the purine
+nucleotide binding domain. Two iterations on OWL29.4 were required to
+reach convergence, at which point a true set comprising 11 sequences was
+identified.  
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 4
+partial matches.

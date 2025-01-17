@@ -1,0 +1,44 @@
+SYCDCHAPRONE
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane 
+translocate secreted proteins through a channel-like structure.
+
+Effector proteins secreted by the type III system do not possess a secretion 
+signal, and are considered unique because of this [1]. Yersinia spp. secrete 
+effector proteins called YopB and YopD through the type III needle [2]. Both 
+are believed to act as pore translocases, forming apertures in the host cell 
+membrane and allowing the bacterium easy access to its cytoplasm [2,3]. YopD
+also acts as a negative regulator of the Yersinia low-calcium response, and 
+in turn is controlled by a chaperone, SycD [3]. This protein also regulates
+YopB secretion. SycD is located on the Yop pathogenicity island of Yersinia 
+spp., and is speculated to prevent a premature interaction between YopB, 
+YopD and the calcium-response LcrV protein [4]. 
+
+It has been speculated that a type III secretion mechanism also exists in
+Chlamydial species. With the sequencing of the Chlamydia trachomatis genome,
+several proteins similar to characterised type III proteins have emerged, 
+including a SycD homologue [5]. The Pseudomonas aeruginosa gene PcrH is also 
+similar to the Yersinia chaperone, suggesting a comparable function.
+
+SYCDCHAPRONE is a 4-element fingerprint that provides a signature for the
+Gram-negative bacterial type III secretion SycD chaperone protein family.
+The fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from conserved regions spanning virtually the full
+alignment length. Two iterations on SPTR39_17f were required to reach
+convergence, at which point a true set comprising 8 sequences was identified.
+Several partial matches were also found: those matching 3 motifs include a
+Chlamydial type III secretion chaperone and a low calcium response protein,
+which fail to make signficant matches with motif 2; those that match 2
+motifs include invasion and pathogenicity proteins from Shigella
+dysenteriae, Thermoplasma acidophilum and Escherichia coli.

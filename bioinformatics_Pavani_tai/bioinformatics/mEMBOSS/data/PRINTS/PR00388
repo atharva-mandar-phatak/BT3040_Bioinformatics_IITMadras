@@ -1,0 +1,17 @@
+PDIESTERASE2
+Cyclic-AMP phosphodiesterase (PDE) catalyses the hydrolysis of cAMP to the
+corresponding nucleoside 5' monophosphate. On the basis of sequence
+similarity, most PDEs can be grouped together [1], but 2 enzymes lie apart
+from the main family and represent a second distinct class [2]: this
+includes PDEs from Dictyostelium and yeast. 
+
+PDIESTERASE2 is a 5-element fingerprint that provides a signature for the
+class II 3',5'-cyclic nucleotide phosphodiesterases. The fingerprint was
+derived from an initial alignment of 4 sequences: the motifs were drawn
+from short conserved regions spanning virtually the full alignment length,
+motif 1 including the region encoded by PROSITE pattern PDEASE_II (PS00607),
+which contains 3 conserved His residues. Two iterations on OWL26.0 were
+required to reach convergence, at which point a true set comprising 6
+sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 5 sequences.

@@ -1,0 +1,54 @@
+******************************************
+* Gamma-glutamyltranspeptidase signature *
+******************************************
+
+Gamma-glutamyltranspeptidase (EC 2.3.2.2) (GGT) [1]  catalyzes the transfer of
+the gamma-glutamyl moiety  of glutathione to an  acceptor that may be an amino
+acid, a peptide  or water (forming glutamate).   GGT  plays a  key role in the
+gamma-glutamyl  cycle,  a  pathway  for  the  synthesis   and  degradation  of
+glutathione.  In prokaryotes  and eukaryotes, it is an enzyme that consists of
+two polypeptide  chains,  a heavy and a light subunit, processed from a single
+chain precursor.  The  active  site of GGT is known to be located in the light
+subunit.
+
+The sequences  of  mammalian  and  bacterial  GGT  show a number of regions of
+high similarity  [2].  Pseudomonas  cephalosporin  acylases  (EC 3.5.1.-) that
+convert 7-beta-(4-carboxybutanamido)-cephalosporanic   acid   (GL-7ACA)   into
+7-aminocephalosporanic acid (7ACA) and  glutaric acid are evolutionary related
+to GGT and also show some GGT activity [3].  Like GGT, these GL-7ACA acylases,
+are also composed of two subunits.
+
+One of  the  conserved  regions  correspond to the N-terminal extremity of the
+mature light chains of these enzymes. We have used this region  as a signature
+pattern.
+
+-Consensus pattern: T-[STA]-H-x-[ST]-[LIVMA]-x(4)-G-[SN]-x-V-[STA]-x-T-x-T-
+                    [LIVM]-[NE]-x(1,2)-[FY]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Tate S.S., Meister A.
+     "Gamma-glutamyl transpeptidase from kidney."
+     Methods Enzymol. 113:400-419(1985).
+     PubMed=2868390
+[ 2] Suzuki H., Kumagai H., Echigo T., Tochikura T.
+     "DNA sequence of the Escherichia coli K-12
+     gamma-glutamyltranspeptidase gene, ggt."
+     J. Bacteriol. 171:5169-5172(1989).
+     PubMed=2570061
+[ 3] Ishiye M., Niwa M.
+     "Nucleotide sequence and expression in Escherichia coli of the
+     cephalosporin acylase gene of a Pseudomonas strain."
+     Biochim. Biophys. Acta 1132:233-239(1992).
+     PubMed=1358202
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

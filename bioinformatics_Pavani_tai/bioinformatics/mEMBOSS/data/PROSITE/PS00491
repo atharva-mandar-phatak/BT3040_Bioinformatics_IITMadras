@@ -1,0 +1,58 @@
+******************************************************
+* Aminopeptidase P and proline dipeptidase signature *
+******************************************************
+
+Aminopeptidase P (EC 3.4.11.9) is  the  enzyme  responsible for the release of
+any N-terminal amino  acid adjacent to a proline residue.  Proline dipeptidase
+(EC 3.4.13.9) (prolidase)  splits  dipeptides  with  a  prolyl  residue in the
+carboxyl terminal position.
+
+Bacterial aminopeptidase P II (gene pepP) [1], proline dipeptidase (gene pepQ)
+[2], and  human  proline dipeptidase (gene PEPD) [3] are evolutionary related.
+These proteins are manganese metalloenzymes.
+
+Yeast hypothetical proteins YER078c and YFR006w and Mycobacterium tuberculosis.
+hypothetical protein MtCY49.29c also belong to this family.
+
+As a signature pattern for  these enzymes we  selected a conserved region that
+contains three histidine residues.
+
+-Consensus pattern: [HA]-[GSYR]-[LIVMT]-[SG]-H-x-[LIV]-G-[LIVMNKS]-x-[IVEL]-
+                    [HNC]-[DEV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These   proteins  belong  to  family  M24B  in  the  classification  of
+ peptidases [4,E1].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Yoshimoto T., Tone H., Honda T., Osatomi K., Kobayashi R., Tsuru D.
+     "Sequencing and high expression of aminopeptidase P gene from
+     Escherichia coli HB101."
+     J. Biochem. 105:412-416(1989).
+     PubMed=2659585
+[ 2] Nakahigashi K., Inokuchi H.
+     "Nucleotide sequence between the fadB gene and the rrnA operon from
+     Escherichia coli."
+     Nucleic Acids Res. 18:6439-6439(1990).
+     PubMed=2243799
+[ 3] Endo F., Tanoue A., Nakai H., Hata A., Indo Y., Titani K., Matsuda I.
+     "Primary structure and gene localization of human prolidase."
+     J. Biol. Chem. 264:4476-4481(1989).
+     PubMed=2925654
+[ 4] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

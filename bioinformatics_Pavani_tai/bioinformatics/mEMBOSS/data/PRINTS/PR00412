@@ -1,0 +1,49 @@
+EPOXHYDRLASE
+The alpha/beta hydrolase fold is common to a number of hydrolytic enzymes
+of widely differing phylogenetic origin and catalytic function. The core
+of each enzyme is an alpha/beta-sheet (rather than a barrel), containing 8
+strands connected by helices [1]. The enzymes are believed to have diverged
+from a common ancestor, preserving the arrangement of the catalytic
+residues. All have a catalytic triad, the elements of which are borne on
+loops, which are the best conserved structural features of the fold. 
+
+The epoxide hydrolases (EH) add water to epoxides, forming the corresponding
+diol. On the basis of sequence similarity, it has been proposed that the
+mammalian soluble EHs contain 2 evolutionarily distinct domains [2]: the 
+N-terminal domain is similar to bacterial haloacid dehalogenase; while the
+C-terminal domain is similar to soluble plant EH, microsomal EH, and
+bacterial haloalkane dehalogenase (HLD). 
+
+The crystal structure of HLD has been resolved to 1.9A [3]. The enzyme 
+contains 2 domains: domain I, has an alpha/beta type structure with a
+central 8-stranded beta-sheet, and contains the nucleophile-acid-His
+catalytic triad; in the linear sequence, domain I is interrupted by domain 
+II (residues 156-229), which consists of alpha-helices connected by loops,
+and is responsible for substrate binding and specificity. The similarity of 
+EH to HLD is important for deducing a catalytic mechanism for EH. The
+mechanism of HLD, established by X-ray crystallographic analysis of an
+HDL-substrate intermediate [4], involves nucleophilic attack of Asp-124 on
+the halogen-substituted terminal carbon of the substrate, forming a
+covalently-bound ester intermediate. The Asp-260/His-289 pair activate a
+water molecule that hydrolyses the ester intermediate to release the
+product. Mutagenesis experiments on murine soluble EH confirmed the crucial
+role of nucleophile Asp-333 and His-523 in the catalytic mechanism and 
+the importance of conserved His-263 and His-332 [5].
+
+EPOXHYDRLASE is a 6-element fingerprint that provides a signature for the
+epoxide hydrolase family. The fingerprint was derived from an initial 
+alignment of 9 sequences: the motifs were drawn from conserved regions
+within domain I - motif 1 contains highly conserved residues that are 
+putatively involved in forming an oxyanion hole, which stabilises an 
+enzyme-substrate tetrahedral intermediate [1,4]; motif 3 includes an
+invariant Asn (Asp-124 in HDL); motifs 5 and 6 contain a conserved
+acidic residue and an invariant His, respectively, corresponding to the
+Asp-260/His-289 pair of HDL (motifs 2-5 correspond to ABHYDROLASE motifs
+1-4). Two iterations on OWL26.0 were required to reach convergence, at
+which point a true set comprising 16 sequences was identified. Several
+partial matches were also found, most of which are hydrolases. The epoxide
+hydrolase from Stigmatella aurantiaca (HYEP_STIAU), which shows only
+marginal similarity to the EH family, matches only motifs 5 and 6.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 133
+partial matches.

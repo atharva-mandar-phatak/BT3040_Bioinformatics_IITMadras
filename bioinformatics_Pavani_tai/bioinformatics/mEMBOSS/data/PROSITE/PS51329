@@ -1,0 +1,71 @@
+****************************************
+* C-CAP/cofactor C-like domain profile *
+****************************************
+
+The C-CAP/cofactor  C-like  domain  is present in several cytoskeleton-related
+proteins, which also contain a number of additional domains [1-4]:
+
+ - Eukaryotic   cyclase-associated  protein (CAP or SRV2) (see <PDOC00835>), a
+   modular actin monomer binding that directly regulates filament dynamics and
+   has been  implicated in a number of complex developmental and morphological
+   processes, including  mRNA  localization  and  the  establishment  of  cell
+   polarity.
+ - Vertebrate retinitis pigmentosa 2 (XRP2). In human, the protein responsible
+   for X-linked  forms  of  retinitis  pigmentosa,  a disease characterized by
+   severe retinal degeneration.
+ - Eukaryotic   tubulin-specific   chaperone  cofactor  C  (TBCC),  a  GTPase-
+   activating component of the tubulin-folding supercomplex, which directs the
+   assembly of the alpha- and beta-tubulin heterodimer.
+
+The cyclase-associated  protein C-CAP/cofactor C-like domain binds G-actin and
+is responsible for oligomerization of the entire CAP molecule [1], whereas the
+XRP2 C-CAP/cofactor  C-like domain is required for binding of ADP ribosylation
+factor-like protein 3 (Arl3) [2].
+
+The central  core of the C-CAP/cofactor C-like domain is composed of six coils
+of right-handed   parallel   beta-helix,  termed  coils  1-6,  which  form  an
+elliptical barrel  with  a  tightly packed interior. Each beta-helical coil is
+composed of  three relatively short beta-strands, designated a-c, separated by
+sharp turns.  Flanking  the  central  beta-helical core is an N-terminal beta-
+strand, beta0,  that  packs  antiparallel  to the core, and strand beta7 packs
+antiparallel to  the  core  near the C-terminal end of the parallel beta-helix
+(see <PDB:1K4Z>) [1,2].
+
+The profile we developed covers the C-CAP/cofactor C-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2007 / First entry.
+
+[ 1] Dodatko T., Fedorov A.A., Grynberg M., Patskovsky Y., Rozwarski D.A.,
+     Jaroszewski L., Aronoff-Spencer E., Kondraskina E., Irving T.,
+     Godzik A., Almo S.C.
+     "Crystal structure of the actin binding domain of the
+     cyclase-associated protein."
+     Biochemistry 43:10628-10641(2004).
+     PubMed=15311924; DOI=10.1021/bi049071r
+[ 2] Kuehnel K., Veltel S., Schlichting I., Wittinghofer A.
+     "Crystal structure of the human retinitis pigmentosa 2 protein and its
+     interaction with Arl3."
+     Structure 14:367-378(2006).
+     PubMed=16472755; DOI=10.1016/j.str.2005.11.008
+[ 3] Stephan A., Vaughan S., Shaw M.K., Gull K., McKean P.G.
+     "An Essential Quality Control Mechanism at the Eukaryotic Basal Body
+     Prior to Intraflagellar Transport."
+     Traffic 0:0-0(2007).
+     PubMed=17645436; DOI=10.1111/j.1600-0854.2007.00611.x
+[ 4] Grynberg M., Jaroszewski L., Godzik A.
+     "Domain analysis of the tubulin cofactor system: a model for tubulin
+     folding and dimerization."
+     BMC Bioinformatics 4:46-46(2003).
+     PubMed=14536023; DOI=10.1186/1471-2105-4-46
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,82 @@
+***********************
+* MABP domain profile *
+***********************
+
+A key  aspect  of eukaryotic intracellular trafficking is the sorting of cell-
+surface proteins  into  multi-vesicular  endosomes  or  bodies  (MVBs),  which
+eventually fuse  with  the  lysosome,  where  they are degraded by lipases and
+peptidases. This is the primary mechanism for down-regulation of signaling via
+transmembrane receptors   and  removal  of  misfolded  or  defective  membrane
+proteins. This  process  is  also  utilized by several viruses (e.g. HIV-1) to
+facilitate budding of their virions from the cell-membrane. Studies in animals
+and fungi  have  shown that it depends on an intricate series of interactions,
+which is   initiated   via   ubiquitination   (typically  one  or  more  mono-
+ubiquitinations) of  the cytoplasmic tails of membrane proteins by specific E3
+ligases. Ubiquitinated  membrane  proteins are then captured into endosomes by
+the ESCRT system and prevented from being recycled back to the plasma membrane
+via the  retrograde  trafficking  system.  The  ESCRT  system  also  folds the
+endosomal membranes   into   invaginations  that  are  concentrated  in  these
+ubiquitinated targets  and  catalyzes  their  abscission  into  intra-luminal-
+vesicles inside  the  endosome.  This largely seals the fate of these membrane
+proteins as  targets  for lysosomal degradation. The ESCRT system is comprised
+of 4  major  protein  complexes,  ESCRT-0 to ESCRT-III, which are successively
+involved in the above-described steps [1].
+
+ESCRT-I contains  three subunits that are conserved between yeast and animals,
+namely the   inactive   E2-ligase   protein  TSG101/VPS23,  VPS28  and  VPS37.
+Additionally, both  yeast and metazoan ESCRT-I contain a fourth subunit termed
+MVB12 (“multivesicular  body  sorting  factor  of  12 kD”); however, the MVB12
+subunits from  the  two  lineages do not show significant sequence similarity.
+The metazoan  MVB12 proteins contain two distinct conserved domains that occur
+independently in  various  proteins.  The N-terminal region of MVB12 forms the
+MVB12-associated beta-prism  (MABP),  which  is also found in DENND4A/B/C from
+vertebrates, the   membrane   trafficking   regulator  Crag  from  Drosophila,
+bacterial proteins  typified  by the MAC/perforin (MACPF)-like protein plu1415
+from Photorhabdus    luminescens    and    uncharacterized    proteins    from
+choanoflagellates and stamenopiles. It has been suggested that the MABP domain
+has a  membrane-associated  function,  perhaps even specific interactions with
+membrane components.  It  is  plausible  that  the eukaryotic MABP domains are
+adaptators that  help  linking  other  associated  domains  found  in the same
+polypeptide to vesicular membranes [1].
+
+The MABP domain has an internal repeat structure of three homologous segments.
+Consitent with    this,    the   structurally   characterized   representative
+Photorhabdus plu1415,  showed  that  this  region  precisely  corresponds to a
+type-I beta-prism domain with an internal three fold symetry (see <PDB:2QP2>).
+Each of  the  three  sub-domains  of the beta-prism structure is a distinctive
+three-stranded beta-sheet.  The  MABP  domain shares a triradial symmetry with
+beta-sheets parallel to the prism axis. The beta-prism fold is associated with
+membrane interaction.  The  majority  of  the  eukaryotic MABP domain versions
+contain a  conserved  cysteine  in  the first and third subdomain of the beta-
+prism [1,2].
+
+The profile we developed covers the entire MABP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2010 / First entry.
+
+[ 1] de Souza R.F., Aravind L.
+     "UMA and MABP domains throw light on receptor endocytosis and
+     selection of endosomal cargoes."
+     Bioinformatics 0:0-0(2010).
+     PubMed=20448139; DOI=10.1093/bioinformatics/btq235
+[ 2] Rosado C.J., Buckle A.M., Law R.H.P., Butcher R.E., Kan W.-T., Bird C.H.,
+     Ung K., Browne K.A., Baran K., Bashtannyk-Puhalovich T.A., Faux N.G.,
+     Wong W., Porter C.J., Pike R.N., Ellisdon A.M., Pearce M.C.,
+     Bottomley S.P., Emsley J., Smith A.I., Rossjohn J., Hartland E.L.,
+     Voskoboinik I., Trapani J.A., Bird P.I., Dunstone M.A.,
+     Whisstock J.C.
+     "A common fold mediates vertebrate defense and bacterial attack."
+     Science 317:1548-1551(2007).
+     PubMed=17717151; DOI=10.1126/science.1144706
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

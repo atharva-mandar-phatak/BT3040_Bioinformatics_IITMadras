@@ -1,0 +1,74 @@
+************************************
+* Ribonuclease II family signature *
+************************************
+
+On the basis of sequence similarities, the following bacterial  and eukaryotic
+proteins seem to form a family:
+
+ - Escherichia coli and  related bacteria ribonuclease II (EC 3.1.13.1) (RNase
+   II) (gene  rnb)  [1]. RNase II is an exonuclease involved in mRNA decay. It
+   degrades mRNA    by    hydrolyzing    single-stranded   polyribonucleotides
+   processively in the 3' to 5' direction.
+ - Bacterial ribnuclease R [2], a 3'-5'exoribonuclease that participates in an
+   essential cell function.
+ - Yeast protein SSD1 (or SRK1) which is implicated in the control of the cell
+   cycle G1 phase.
+ - Yeast  protein  DIS3  [3],  which  binds  to ran (GSP1) and ehances the the
+   nucleotide-releasing activity of RCC1 on ran.
+ - Fission yeast protein dis3, which is implicated in mitotic control.
+ - Neurospora crassa cyt-4, a mitochondrial protein required for RNA 5' and 3'
+   end processing and splicing.
+ - Yeast protein MSU1, which is involved in mitochondrial biogenesis.
+ - Synechocystis  strain PCC 6803 protein zam [4], which control resistance to
+   the carbonic anhydrase inhibitor acetazolamide.
+ - Caenorhabditis elegans hypothetical protein F48E8.6.
+
+The size of these proteins range from 644 residues (rnb) to 1250 (SSD1). While
+their sequence is highly divergent they share a  conserved  domain in their C-
+terminal section  [5].  It  is  possible  that  this  domain plays a role in a
+putative exonuclease  function  that would be common to all these proteins. We
+have developed a signature pattern based on the core of this conserved domain.
+
+-Consensus pattern: [HI]-[FYE]-[GSTAM]-[LIVM]-x(4,5)-Y-[STALV]-x-[FWVAC]-[TV]-
+                    [SA]-P-[LIVMA]-[RQ]-[KR]-[FY]-x-D-x(3)-[HQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Zilhao R., Camelo L., Arraiano C.M.
+     "DNA sequencing and expression of the gene rnb encoding Escherichia
+     coli ribonuclease II."
+     Mol. Microbiol. 8:43-51(1993).
+     PubMed=8497196
+[ 2] Cheng Z.-F., Zuo Y., Li Z., Rudd K.E., Deutscher M.P.
+     "The vacB gene required for virulence in Shigella flexneri and
+     Escherichia coli encodes the exoribonuclease RNase R."
+     J. Biol. Chem. 273:14077-14080(1998).
+     PubMed=9603904
+[ 3] Noguchi E., Hayashi N., Azuma Y., Seki T., Nakamura M., Nakashima N.,
+     Yanagida M., He X., Mueller U., Sazer S., Nishimoto T.
+     "Dis3, implicated in mitotic control, binds directly to Ran and
+     enhances the GEF activity of RCC1."
+     EMBO J. 15:5595-5605(1996).
+     PubMed=8896453
+[ 4] Beuf L., Bedu S., Cami B., Joset F.
+     "A protein is involved in accessibility of the inhibitor acetazolamide
+     to the carbonic anhydrase(s) in the cyanobacterium Synechocystis PCC
+     6803."
+     Plant Mol. Biol. 27:779-788(1995).
+     PubMed=7727754
+[ 5] Mian I.S.
+     "Comparative sequence analysis of ribonucleases HII, III, II PH and
+     D."
+     Nucleic Acids Res. 25:3187-3195(1997).
+     PubMed=9241229
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

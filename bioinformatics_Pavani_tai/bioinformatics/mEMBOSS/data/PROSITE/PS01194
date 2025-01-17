@@ -1,0 +1,37 @@
+************************************
+* Ribosomal protein L15e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities [1]. One of these families consists of:
+
+ - Mammalian L15.
+ - Insect L15.
+ - Plant L15.
+ - Yeast YL10 (L13) (Rp15r).
+ - Archaebacterial L15e.
+
+These proteins  have about 200 amino acid residues. As a signature pattern, we
+selected a conserved region located in the central section.
+
+-Consensus pattern: [DENT]-[KR]-[AL]-R-x-[LIQ]-G-[FY]-x-[SAP]-x(2)-G-[LIVMFY]-
+                    [LIVMFYKS]-[LIVMFY]-[LIVMFYA]-R-x-[RNAS]-[IVL]-x-[KRC]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Zwickl P., Lupas A., Baumeister W.
+     "The Thermoplasma acidophilum rpl15 gene encodes a homologue of
+     eukaryotic ribosomal proteins L15/YL10."
+     Biochem. Biophys. Res. Commun. 209:684-688(1995).
+     PubMed=7733938
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,36 @@
+BETALLERGEN
+The principal types of allergen are pollen, insects, foodstuffs, animal
+epithelia and moulds, the most common of which are the pollens of grasses,
+weeds and early-flowering trees. Trees within the order Fagales possess
+particularly potent allergens, e.g. Bet v1, the major Birch (Betula
+verrucosa) pollen antigen. 
+
+Bet v1 is the main cause of type I allergies observed in early spring.
+Type I, or immunoglobulin E-mediated (IgE-mediated) allergies affect 1 in
+5 people in Europe and North America: commonly-observed symptoms are hay
+fever, dermatitis, asthma and, in severe cases, anaphylactic shock. First
+contact with these allergens results in sensitisation; subsequent contact
+produces a cross-linking reaction of IgE on mast cells and concomitant
+release of histamine. The inevitable symptoms of an allergic reaction ensue.
+
+Recent NMR analysis [1] has confirmed earlier predictions of the protein
+structure and site of the major T-cell epitope [2]. The Bet v1 protein
+comprises 6 anti-parallel beta-strands and 3 alpha-helices. Four of the
+strands dominate the global fold, and 2 of the helices form a C-terminal
+amphipathic helical motif. This motif is believed to be the T-cell epitope.
+
+BETALLERGEN is a 7-element fingerprint that provides a signature for the
+beta allergens. The fingerprint was derived from and initial alignment of
+45 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motif 1 encodes a putative B-cell epitope,
+which lies at the junction of the N-terminal strand and helix 1; motif 2
+spans the helix C-terminus and the adjacent loop region; motif 3 encodes
+the second strand; motif 4 spans strands 3 and 4; motif 5 lies in the loop
+between strands 4 and 5; motif 6 encodes strand 6; and motif 7 encompasses
+the T-cell epitope, which lies on the C-terminal helix. Two iterations on
+OWL28.3 were required to reach convergence, at which point a true set
+comprising 81 sequences was identified. Several partial matches were also
+found, including various fragments. 
+
+An update on SPTR37_9f identified a true set of 94 sequences, and 6
+partial matches.

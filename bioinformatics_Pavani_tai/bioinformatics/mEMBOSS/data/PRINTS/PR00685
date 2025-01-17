@@ -1,0 +1,26 @@
+TIFACTORIIB
+In eukaryotes, transcription initiation by polymerase II is modulated by
+both general and specific transcription factors. The general factors (which
+include TFIIA, TFIIB, TFIID, TFIIE, TFIIF, TFIIG and TFIIH) operate through
+common promoter elements, such as the TATA box. 
+
+Transcription factor IIB (TFIIB) is of central importance in transcription
+of class II genes: it associates with TFIID-TFIIA bound to DNA (the DA 
+complex) to form a ternary TFIID-IIA-IBB (DAB) complex, which is recognized
+by RNA polymerase II [1,2]. TFIIB comprises ~315-340 residues and contains
+an imperfect C-terminal repeat of a 75-residue domain that may contribute
+to the symmetry of the folded protein.
+
+TIFACTORIIB is an 8-element fingerprint that provides a signature for
+transcription initiation factor IIB. The fingerprint was derived from an
+initial alignment of 9 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length, motif 4 including
+part of the region encoded by PROSITE pattern TFIIB (PS00782), which lies
+in the central section of the repeated domain. Two iterations on OWL29.1
+were required to reach convergence, at which point a true set comprising 11
+sequences was identified. Several partial matches were also found, all of
+which are TFIIB transcription factor homologues or TFIIIB transcription
+factors that fail to make a significant match with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 10
+partial matches.

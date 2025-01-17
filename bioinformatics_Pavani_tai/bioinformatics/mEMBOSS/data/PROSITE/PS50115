@@ -1,0 +1,68 @@
+*************************************************
+* ARF GTPase-activating proteins domain profile *
+*************************************************
+
+The  ARFGAP  domain  was  first  identified  in  the cell cycle control GTPase
+activating  protein  (GAP) GCS1 [1]. GCS1 is important for the inactivation of
+the ADP ribosylation factor ARF a member of the Ras superfamily of GTP-binding
+proteins.  GTP-bound  form  of  ARF is essential for the maintenance of normal
+Golgi  morphology,  it  participates in recruitment of coat proteins which are
+required  for  budding  and  fission  of  membranes. Before the fusion with an
+acceptor  compartment  the  membrane  must be uncoated. This step required the
+hydrolysis  of GTP associated to ARF, a process dependent on the ARFGAP domain
+of GCS1 [1].
+
+The    ARFGAP   domain   contains   a   characteristic   zinc   finger   motif
+(Cys-x2-Cys-x(16,17)-Cys-x2-Cys) which displays some similarity to the C4-type
+GATA zinc finger. The ARFGAP domain display no obvious similarity to other GAP
+proteins.  However  a C4-type zinc finger is also found in the ARD1 GAP domain
+[2].
+
+The  3D structure of the ARFGAP domain of the PYK2-associated protein beta has
+been  solved  [3].  It consists of a three-stranded beta-sheet surrounded by 5
+alpha  helices.  The  domain  is organized around a central zinc atom which is
+coordinated  by  4  cysteines  (see  <PDB:1DCQ>). The ARFGAP domain is clearly
+unrelated  to the other GAP proteins structures which are exclusively helical.
+Classical  GAP  proteins  accelerate  GTPase  activity by supplying an arginin
+finger  to  the  active  site.  Crystal  structure  of ARFGAP bound to ARF [4]
+revealed that the ARFGAP domain does not supply an arginine to the active site
+which  suggest  a  more  indirect  role  of  the  ARFGAP  domain in the GTPase
+hydrolysis.
+
+We have developed a profile that covers the entire ARFGAP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Ireland L.S., Johnston G.C., Drebot M.A., Dhillon N., DeMaggio A.J.,
+     Hoekstra M.F., Singer R.A.
+     "A member of a novel family of yeast 'zn-finger' proteins mediates the
+     transition from stationary phase to cell proliferation."
+     EMBO J. 13:3812-3821(1994).
+     PubMed=8070409
+[ 2] Vitale N., Moss J., Vaughan M.
+     "Molecular characterization of the GTPase-activating domain of
+     ADP-ribosylation factor domain protein 1 (ARD1)."
+     J. Biol. Chem. 273:2553-2560(1998).
+     PubMed=9446556
+[ 3] Mandiyan V., Andreev J., Schlessinger J., Hubbard S.R.
+     "Crystal structure of the ARF-GAP domain and ankyrin repeats of
+     PYK2-associated protein beta."
+     EMBO J. 18:6890-6898(1999).
+     PubMed=10601011; DOI=10.1093/emboj/18.24.6890
+[ 4] Goldberg J.
+     "Structural and functional analysis of the ARF1-ARFGAP complex reveals
+     a role for coatomer in GTP hydrolysis."
+     Cell 96:893-902(1999).
+     PubMed=10102276
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

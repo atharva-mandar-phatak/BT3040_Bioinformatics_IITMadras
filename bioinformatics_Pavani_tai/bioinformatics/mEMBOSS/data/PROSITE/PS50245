@@ -1,0 +1,59 @@
+****************************************
+* CAP-Gly domain signature and profile *
+****************************************
+
+It has been shown [1]  that  some cytoskeleton-associated proteins (CAP) share
+the presence  of a conserved, glycine-rich domain of about 42 residues, called
+here CAP-Gly. Proteins known to contain this domain are listed below.
+
+ - Restin (also known as cytoplasmic linker protein-170 or CLIP-170), a 160 Kd
+   protein associated  with  intermediate  filaments  and that links endocytic
+   vesicles to microtubules. Restin contains two copies of the CAP-Gly domain.
+ - Vertebrate   dynactin  (150  Kd  dynein-associated  polypeptide;  DAP)  and
+   Drosophila glued,  a  major  component  of  activator  I, a 20S polypeptide
+   complex that stimulates dynein-mediated vesicle transport.
+ - Yeast protein  BIK1  which seems  to  be  required  for  the  formation  or
+   stabilization of  microtubules  during  mitosis  and  for spindle pole body
+   fusion during conjugation.
+ - Yeast protein NIP100 (NIP80).
+ - Human  protein  CKAP1/TFCB,  Schizosaccharomyces  pombe  protein  alp11 and
+   Caenorhabditis elegans hypothetical protein F53F4.3. These proteins contain
+   a N-terminal ubiquitin domain (see <PDOC00271>) and a C-terminal CAP-Gly
+   domain.
+ - Caenorhabditis elegans hypothetical protein M01A8.2.
+ - Yeast hypothetical protein YNL148c.
+
+Structurally, these  proteins  are made of three distinct parts: an N-terminal
+section that  is  most  probably  globular  and contains the CAP-Gly domain, a
+large central   region   predicted  to  be  in  an  alpha-helical  coiled-coil
+conformation and, finally, a short C-terminal globular domain.
+
+The signature for the CAP-Gly domain  corresponds  to the first 32 residues of
+the domain and includes five of the six conserved glycines. A profile was also
+developed that spans the complete CAP-Gly domain.
+
+-Consensus pattern: [GD]-x(0,10)-[FYWA]-x(0,1)-G-[LIVM]-x(0,2)-[LIVMFYD]-
+                    x(0,7)-G-[KN]-[NHW]-x(0,1)-G-[STARCV]-x(0,2)-[GD]-x(0,2)-
+                    [LY]-[FC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Riehemann K., Sorg C.
+     "Sequence homologies between four cytoskeleton-associated proteins."
+     Trends Biochem. Sci. 18:82-83(1993).
+     PubMed=8480366
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

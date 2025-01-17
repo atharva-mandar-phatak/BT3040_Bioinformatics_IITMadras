@@ -1,0 +1,50 @@
+KV22CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+    
+Structurally, Kv channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-
+gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ channels and
+3 kinds of Ca2+-activated K+ channels (BK, IK and SK) [2]. All K+
+channels share a characteristic sequence feature: a TMxTVGYG motif
+that resides between the 2 C-terminal membrane spanning helices, and
+forms the K+-selective pore domain [1-2].
+   
+The Kv family can be divided into 4 subfamilies on the basis of sequence
+similarity and function: Shaker (Kv1), Shab (Kv2), Shaw (Kv3) and Shal 
+(Kv4). All consist of pore-forming alpha subunits that associate with 
+different types of beta subunit. To form a functional K+ channel pore,
+4 alpha subunits and 4 beta subunits are required. The alpha subunits
+have 6 well-conserved TM domains, a pore loop region and variable length
+N- and C-termini. TM domains 5 and 6, and the loop region, form the K+ 
+channel pore through which the K+ ions pass [3].
+  
+The Shab voltage-gated delayed rectifier K+ channels (also known as Kv2 
+channels) are responsible for much of the delayed rectifier current in 
+Drosophila nervous system and muscle. However, in vertebrates, Kv2 channels
+have largely undetermined roles in the delayed rectifier currents of the 
+heart and skeletal muscle. Kv2 channels can be further divided into 2
+subtypes, designated Kv2.1 and Kv2.2 [4].
+
+The first Kv2.2 channel was cloned from rat and was originally referred to
+as the circumvillate papilla delayed rectifying K+ channel or cDRK. Several 
+mammalian channels have subsequently been found and, together with the rat 
+Kv2.2 channel, form a small subfamily. They are predominantly expressed in 
+the interneurones; however, their roles are largely undetermined [4]. 
+
+KV22CHANNEL is a 7-element fingerprint that provides a signature for the
+Kv2.2 voltage-gated K+ channel. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning the C-terminal third of the alignment, focusing on those sections
+that characterise the Kv2.2 channel but distinguish it from other members of
+the Shab channel family. A single iteration on SPTR39_15f was required to
+reach convergence, no further sequences being identified beyond the starting
+set. Several partial matches were found, all of which are closely related
+members of the Shab family that match 2 or 3 motifs.

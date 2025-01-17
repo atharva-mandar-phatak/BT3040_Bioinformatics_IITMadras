@@ -1,0 +1,96 @@
+****************************************************
+* Somatomedin B (SMB) domain signature and profile *
+****************************************************
+
+Somatomedin B, a serum  factor of  unknown  function, is  a  cysteine-rich  44
+residues  peptide  which  is  proteolytically   derived  from  the  N-terminal
+extremity of  the cell-substrate adhesion protein vitronectin [1]. Somatomedin
+B-like (SMB) domains are also found [2,3] in the following proteins:
+
+ - Ubiquitous  nucleotide  pyrophosphatase/phosphodiesterases  NPP1-3.  NPP1-3
+   release 5'monophosphorylated  nucleotides from a variety of nucleotides and
+   nucleotide derivatives.  In  addition,  NPP1-3  contain  intrinsic alkaline
+   phosphatase activity.  They  consist  of  a  short  cytoplasmic  N-terminal
+   domain, a  single  transmembrane  domain  and  a  large extracellular part,
+   comprising two  somatomedin-B-like domains, a catalytic domain and a poorly
+   defined C-terminal domain.
+ - Placental protein 11 (PP11) (EC 3.4.21.-). PP11 is a placental protein that
+   seems to possess an amidolytic activity. A copy of the somatomedin B domain
+   is present at the N-terminal extremity.
+ - Secreted proteoglycan known as superficial zone protein.
+ - Some amphibian DNases.
+ - Drosophila macrophage-specific Scavenger receptor.
+
+The SMB  domain of vitronectin has been demonstrated to interact with both the
+urokinase receptor  and  the plasminogen activator inhibitor-1 (PAI-1) and the
+conserved cysteines  of  the NPP1 somatomedin B-like domain have been shown to
+mediate homodimerization [3].
+
+As shown  in  the  following  schematic  representation  below  the SMB domain
+contains eight  Cys  residues, arranged into four disulfide bonds. It has been
+suggested that  the  active SMB domain may be permitted considerable disulfide
+bond heterogeneity  or  variability,  provided  that the Cys25-Cys31 disulfide
+bond is  preserved.  The  three  dimensional  structure  of  the SMB domain is
+extremely compact  and  the  disulfide  bonds  are packed in the center of the
+domain forming  a  covalently bonded core [4]. The structure of the SMB domain
+presents a new protein fold, with the only ordered secondary structure being a
+single-turn alpha-helix and a single-turn 3(10)-helix (see <PDB:1OC0>) [5].
+
+         xxCxxxxxxCxxxxxxxxxCxCxxxCxxxxxCCxxxxxCxxxxx
+                            ********************
+
+'C': conserved cysteine probably involved in a disulfide bond.
+'*': position of the pattern.
+
+The profile we developed covers the entire SMB domain.
+
+-Consensus pattern: C-x-C-x(3)-C-x(5,6)-C-C-x-[DN]-[FY]-x(3)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Jenne D.; djenne@ulys.unil.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Jenne D., Stanley K.K.
+     "Nucleotide sequence and organization of the human S-protein gene:
+     repeating peptide motifs in the 'pexin' family and a model for their
+     evolution."
+     Biochemistry 26:6735-6742(1987).
+     PubMed=2447940
+[ 2] Jenne D.
+     "Homology of placental protein 11 and pea seed albumin 2 with
+     vitronectin."
+     Biochem. Biophys. Res. Commun. 176:1000-1006(1991).
+     PubMed=1710108
+[ 3] Gijsbers R., Ceulemans H., Bollen M.
+     "Functional characterization of the non-catalytic ectodomains of the
+     nucleotide pyrophosphatase/phosphodiesterase NPP1."
+     Biochem. J. 371:321-330(2003).
+     PubMed=12533192; DOI=10.1042/BJ20021943
+[ 4] Kamikubo Y., De Guzman R., Kroon G., Curriden S., Neels J.G.,
+     Churchill M.J., Dawson P., Oldziej S., Jagielska A., Scheraga H.A.,
+     Loskutoff D.J., Dyson H.J.
+     "Disulfide bonding arrangements in active forms of the somatomedin B
+     domain of human vitronectin."
+     Biochemistry 43:6519-6534(2004).
+     PubMed=15157085; DOI=10.1021/bi049647c
+[ 5] Zhou A., Huntington J.A., Pannu N.S., Carrell R.W., Read R.J.
+     "How vitronectin binds PAI-1 to modulate fibrinolysis and cell
+     migration."
+     Nat. Struct. Biol. 10:541-544(2003).
+     PubMed=12808446; DOI=10.1038/nsb943
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

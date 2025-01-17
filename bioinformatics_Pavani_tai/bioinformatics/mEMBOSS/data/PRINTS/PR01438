@@ -1,0 +1,24 @@
+UNVRSLSTRESS
+Transcriptional induction of the uspA gene of Escherichia coli occurs
+when conditions cause growth arrest; cells deficient in UspA survive
+poorly in stationary phase [1]. The product of uspA has been shown to be
+a cytoplasmic serine and threonine phosphoprotein [1]. Members of the Usp
+family are predicted to be related to the MADS-box proteins and bind to DNA
+[1]. Some members of the family contain 2 copies of the domain. 
+
+The structure of a UspA homologue from Methanococcus jannaschii from has 
+been determined to 1.8Å resolution by using its selenomethionyl derivative
+and multiwavelength anomalous diffraction [2]. The protein homodimerises in 
+the crystal; each monomer adopts an open-twisted 5-stranded parallel beta-
+sheet with 2 helices on each side of the sheet [2]. Although the structure
+co-crystallised with ATP, the function of the protein is unknown.
+
+UNVRSLSTRESS is a 3-element fingerprint that provides a signature for the
+UspA proteins. The fingerprint was derived from an initial alignment of 9
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length and include residues known to interact with ATP -
+motif 1 spans strand 1 and helix 1; motif 2 includes strand 4; and motif 3
+spans helix 5 and strand 5. Four iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 25 sequences was 
+identified. Several partial matches were found, all of which are
+hypothetical proteins that fail to make significant matches with motif 2.

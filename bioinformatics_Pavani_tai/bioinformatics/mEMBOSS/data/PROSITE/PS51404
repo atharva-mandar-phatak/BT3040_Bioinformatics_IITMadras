@@ -1,0 +1,82 @@
+******************************
+* DyP-type peroxidase family *
+******************************
+
+Heme  peroxidases  were originally divided into two superfamilies, namely, the
+animal  peroxidases  and  the  plant  peroxidases (class I, II and III), which
+include   fungal   (class   II)   and  bacterial  peroxidases.  The  DyP  (for
+dye-decolorizing   peroxidase)  family  constitutes  a  novel  class  of  heme
+peroxidase.  Because  these  enzymes were derived from fungal sources, the DyP
+family was thought to be structurally related to the class II secretory fungal
+peroxidases.  However, the DyP family exhibits only low sequence similarity to
+classical  fungal  peroxidases,  such as LiP and MnP, and does not contain the
+conserved  proximal  and  distal histidines and an essential arginine found in
+other plant peroxidase superfamily members.
+
+DyP proteins have several characteristics that distinguish them from all other
+peroxidases,  including  a  particularly wide substrate specificity, a lack of
+homology  to  most  other  peroxidases, and the ability to function well under
+much  lower  pH  conditions  compared with the other plant peroxidases [1]. In
+terms   of   substrate   specificity,  DyP  degrades  the  typical  peroxidase
+substrates,  but  also  degrades  hydroxyl-free  anthraquinone  (many dyes are
+derived from anthraquinone compounds).
+
+Crystal structures of DyP family members reveal two domains, each one adopting
+a  ferredoxin-like  fold  (see  <PDB:  2GVK>)  [2]. The proteins consist of an
+N-terminal  domain  and  a  C-terminal  domain  likely  to  be  related  by  a
+duplication  of  an ancestral gene, as inferred from the conserved topology of
+the domains. The heme iron is penta-coordinated, with the protein contributing
+a  conserved  histidine ligand to the iron center. A conserved Asp most likely
+acts as a proton donor/acceptor and takes the place of the catalytic histidine
+used  by  plant  peroxidases.  This Asp substitution helps explain why the DyP
+family is active at low pH [3].
+
+The  profile  we  developed  covers  the  whole  conserved  region of DyP-type
+peroxidases.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2008 / First entry.
+
+[ 1] Zubieta C., Krishna S.S., Kapoor M., Kozbial P., McMullan D.,
+     Axelrod H.L., Miller M.D., Abdubek P., Ambing E., Astakhova T.,
+     Carlton D., Chiu H.J., Clayton T., Deller M.C., Duan L.,
+     Elsliger M.A., Feuerhelm J., Grzechnik S.K., Hale J., Hampton E.,
+     Han G.W., Jaroszewski L., Jin K.K., Klock H.E., Knuth M.W., Kumar A.,
+     Marciano D., Morse A.T., Nigoghossian E., Okach L., Oommachen S.,
+     Reyes R., Rife C.L., Schimmel P., van den Bedem H., Weekes D.,
+     White A., Xu Q., Hodgson K.O., Wooley J., Deacon A.M., Godzik A.,
+     Lesley S.A., Wilson I.A.
+     "Crystal structures of two novel dye-decolorizing peroxidases reveal a
+     beta-barrel fold with a conserved heme-binding motif."
+     Proteins 69:223-233(2007).
+     PubMed=17654545; DOI=10.1002/prot.21550
+[ 2] Zubieta C., Joseph R., Krishna S.S., McMullan D., Kapoor M.,
+     Axelrod H.L., Miller M.D., Abdubek P., Acosta C., Astakhova T.,
+     Carlton D., Chiu H.J., Clayton T., Deller M.C., Duan L., Elias Y.,
+     Elsliger M.A., Feuerhelm J., Grzechnik S.K., Hale J., Han G.W.,
+     Jaroszewski L., Jin K.K., Klock H.E., Knuth M.W., Kozbial P.,
+     Kumar A., Marciano D., Morse A.T., Murphy K.D., Nigoghossian E.,
+     Okach L., Oommachen S., Reyes R., Rife C.L., Schimmel P., Trout C.V.,
+     van den Bedem H., Weekes D., White A., Xu Q., Hodgson K.O., Wooley J.,
+     Deacon A.M., Godzik A., Lesley S.A., Wilson I.A.
+     "Identification and structural characterization of heme binding in a
+     novel dye-decolorizing peroxidase, TyrA."
+     Proteins 69:234-243(2007).
+     PubMed=17654547; DOI=10.1002/prot.21673
+[ 3] Sugano Y., Muramatsu R., Ichiyanagi A., Sato T., Shoda M.
+     "DyP, a unique dye-decolorizing peroxidase, represents a novel heme
+     peroxidase family: ASP171 replaces the distal histidine of classical
+     peroxidases."
+     J. Biol. Chem. 282:36652-36658(2007).
+     PubMed=17928290; DOI=10.1074/jbc.M706996200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

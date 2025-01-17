@@ -1,0 +1,55 @@
+************************************
+* Neuromodulin (GAP-43) signatures *
+************************************
+
+Neuromodulin (also known as GAP-43, pp46, B-50, F1, and P-57) [1] is an axonal
+membrane protein associated with nerve growth.  It is a major component of the
+motile growth cones that form the tips of elongating axons. Neuromodulin is an
+hydrophilic protein of 210 to 240 amino acid residues,  which binds calmodulin
+and  inhibits  phosphatidylinositol  phosphate  kinase  (PIP kinase).    It is
+phosphorylated by protein  kinase C,  and regulates the binding of GTP to G(0)
+[2]. Neuromodulin contains an IQ motif (see <PDOC50096>).
+
+Two functionally important  regions  of GAP-43 have been characterized: the N-
+terminal  extremity of  the protein  contains two cysteine residues  which are
+palmitoylated  and  are  responsible  for the attachment of the protein to the
+membrane; about forty residues downstream  is  a serine  residue  which can be
+phosphorylated  by  protein  kinase C [3]  and   which  is  adjacent  to   the
+calmodulin-binding domain.  We have  selected  those two regions as  signature
+patterns.
+
+-Consensus pattern: <M-L-C-C-[LIVM]-R-R
+                    [The 2 C's are palmitoylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: S-F-R-G-H-I-x-R-K-K-[LIVM]
+                    [S is phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Skene J.H.P.
+     "Axonal growth-associated proteins."
+     Annu. Rev. Neurosci. 12:127-156(1989).
+     PubMed=2648946; DOI=10.1146/annurev.ne.12.030189.001015
+[ 2] Strittmatter S.M., Valenzuela D., Kennedy T.E., Neer E.J., Fishman M.C.
+     "G0 is a major growth cone protein subject to regulation by GAP-43."
+     Nature 344:836-841(1990).
+     PubMed=2158629
+[ 3] Apel E.D., Byford M.F., Au D., Walsh K.A., Storm D.R.
+     "Identification of the protein kinase C phosphorylation site in
+     neuromodulin."
+     Biochemistry 29:2330-2335(1990).
+     PubMed=2140056
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

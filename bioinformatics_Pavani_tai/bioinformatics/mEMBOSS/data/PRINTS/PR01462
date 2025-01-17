@@ -1,0 +1,54 @@
+KCNQ3CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Structurally, KCNQ channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-gated
+K+ channels, the KCNQ channels, the EAG-like K+ channels and 3 kinds of 
+Ca2+-activated K+ channel (BK, IK and SK) [2]. All K+ channels share a
+characteristic sequence feature: a TMxTVGYG motif that resides between
+the 2 C-terminal membrane-spanning helices, and forms the K+-selective 
+pore domain [1].
+
+KCNQ channels differ from other voltage-gated 6 TM helix channels, chiefly 
+in that they possess no tetramerisation domain. Consequently, they rely on
+interaction with accessory subunits, or form heterotetramers with other
+members of the family [3]. Currently, 5 members of the KCNQ family are 
+known. These have been found to be widely distributed within the body,
+having been shown to be expressed in the heart, brain, pancreas, lung,
+placenta and ear. They were initially cloned as a result of a search for 
+proteins involved in cardiac arhythmia. Subsequently, mutations in other 
+KCNQ family members have been shown to be responsible for some forms of
+hereditary deafness [4] and benign familial neotnatal epilepsy [5].
+
+The KCNQ3 channel subunit is thought to form active channels by hetero-
+tetramerisation with KCNQ2, although some K+ channel activity does result
+from the expression of KCNQ3 alone [6]. Channel function is modulated by
+phosphorylation; experiments have demonstrated that an increase in
+intracellular cAMP concentration can enhance channel activity [2].
+Frameshift mutations in both KCNQ2 and KCNQ3 are associated with benign
+familial neonatal epilepsy [6], a disorder in which infants suffer
+convulsions within the first 3 days of life. These symptoms usually
+disappear after about 3 months, but affected individuals have a higher
+than average chance of subsequently developing epilepsy (10-15%) in later
+life [5].
+
+KCNQ3CHANNEL is a 9-element fingerprint that provides a signature for the
+KCNQ3 voltage-gated potassium channel subtype. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length, focusing
+on those sections that characterise the KCNQ3 channel but distinguish it
+from other members of the K+ channel superfamily - motif 1 lies within the
+N-terminal intracellular region; motif 2 encodes the putative extracellular
+loop between TM domains 1 and 2; motif 3 spans the C-terminal half of 
+putative TM domain 3; motif 4 encodes the putative cytoplasmic loop between
+TM domains 4 and 5; and motifs 5-9 reside within the C-terminal intra-
+cellular region. A single iteration on SPTR39_14f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

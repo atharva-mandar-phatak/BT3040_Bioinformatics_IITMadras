@@ -1,0 +1,39 @@
+HEXOKINASE
+Hexokinase is an important enzyme that catalyses the ATP-dependent
+conversion of aldo- and keto-hexose sugars to the hexose-6-phosphate [1,2].
+The enzyme can catalyse this reaction on glucose, fructose, sorbitol and 
+glucosamine, and as such is the first step in a number of metabolic
+pathways [1]. 
+
+There are 3 isozymes of hexokinase in yeast (PI, PII and glucokinase):
+isozymes PI and PII phosphorylate both aldo- and keto-sugars; glucokinase
+is specific for aldo-hexoses [1]. All 3 isozymes contain a single copy of
+the hexokinase domain [1,2]. Vertebrates contain 4 hexokinase isozymes 
+(designated I to IV [2]): types I to III contain 2 repeats of the hexokinase
+domain, and are thought to be derived by gene duplication of a yeast
+hexokinase that is insensitve to product inhibition [3]. The N-terminal
+unit of types I to III is the regulatory- and the C-terminal unit the
+catalytic-region [2]. It is believed that a mutation in the N-terminal
+ATP-binding domain has caused the loss of the ability to dephosphorylate
+ATP, resulting in loss of catalytic activity and the subsequent change to
+a regulatory role [2]. However, some studies have suggested the C-terminal
+catalytic region may also contain a regulatory site [3]. Type IV hexokinase
+contains only one hexokinase domain, and is sometimes incorrectly referred
+to as glucokinase.
+
+Structural studies of yeast hexokinase reveal a well-defined catalytic
+pocket that binds ATP and hexose, allowing easy transfer of the phosphate
+from ATP to the sugar.
+
+HEXOKINASE is a 7-element fingerprint that provides a signature for the 
+hexokinase family. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motif 1 encoding the putative ATP-
+binding domain, and motif 2 including the sugar-binding region encoded by
+PROSITE pattern HEXOKINASES (PS00378). All motifs, except motif 6, contain
+amino acids that project into or near the ATP/sugar-binding pocket. Two 
+iterations on OWL27.0 were required to reach convergence, at which point
+a true set comprising 36 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 43 sequences, and 1
+partial match.

@@ -1,0 +1,41 @@
+*******************************************************
+* Delta 1-pyrroline-5-carboxylate reductase signature *
+*******************************************************
+
+Delta 1-pyrroline-5-carboxylate reductase  (P5CR)  (EC 1.5.1.2) [1,2]  is  the
+enzyme that    catalyzes the terminal step in the biosynthesis of proline from
+glutamate, the NAD(P)  dependent oxidation  of  1-pyrroline-5-carboxylate into
+proline.
+
+The sequences  of  P5CR   from  eubacteria  (gene  proC),  archaebacteria  and
+eukaryotes show  only  a  moderate level of overall similarity. As a signature
+pattern, we  selected  the  best  conserved  region  located in the C-terminal
+section of P5CR.
+
+-Consensus pattern: [PALF]-x(2,3)-[LIV]-x(3)-[LIVM]-[STAC]-[STV]-x-[GANK]-G-x-
+                    T-x(2)-[AG]-[LIV]-x(2)-[LMF]-[DENQK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Delauney A.J., Verma D.P.
+     "A soybean gene encoding delta 1-pyrroline-5-carboxylate reductase was
+     isolated by functional complementation in Escherichia coli and is
+     found to be osmoregulated."
+     Mol. Gen. Genet. 221:299-305(1990).
+     PubMed=2199815
+[ 2] Savioz A., Jeenes D.J., Kocher H.P., Haas D.
+     "Comparison of proC and other housekeeping genes of Pseudomonas
+     aeruginosa with their counterparts in Escherichia coli."
+     Gene 86:107-111(1990).
+     PubMed=2107123
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

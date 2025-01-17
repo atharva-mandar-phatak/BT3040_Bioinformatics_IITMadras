@@ -1,0 +1,77 @@
+***********************************
+* Integrins alpha chain signature *
+***********************************
+
+Integrins [1,2] are a large family of cell surface receptors that mediate cell
+to cell as well as cell to matrix adhesion. Some integrins recognize the R-G-D
+sequence in their extracellular matrix protein ligand. Structurally, integrins
+consist of a dimer of an alpha and a beta chain.  Each  subunit  has  a  large
+N-terminal extracellular domain followed by a transmembrane domain and a short
+C-terminal cytoplasmic  region.    Some    alpha  subunits   are cleaved post-
+translationally to produce  a  heavy  and a  light chain linked by a disulfide
+bond. The  sequence  of  a  number  of  alpha chains has been obtained and are
+listed below:
+
+ - The alpha-1 chain (VLA-1) (CD49a)  which,  with the beta-1 chain, acts as a
+   receptor for laminin and collagen.
+ - The alpha-2 chain (VLA-2) (CD49b)  which,  with the beta-1 chain, acts as a
+   receptor that binds collagen.
+ - The alpha-3 chain (VLA-3) (Galactoprotein B3).
+ - The alpha-4 chain (VLA-4) (CD49d)  which,  with the beta-1 chain, interacts
+   with vascular cell adhesion protein 1 (VCAM-1).
+ - The alpha-5 chain (VLA-5) (CD49e) which,  with  the beta-1 chain,  forms  a
+   receptor specific to fibronectin.
+ - The alpha-6 chain (VLA-6) which,  with  the beta-1  chain, forms a platelet
+   laminin receptor.
+ - The  alpha-7  chain which, with the beta-1 chain, forms a skeletal myoblast
+   laminin receptor.
+ - The alpha-8 chain which, with the  beta-1 chain  plays  a  possible role in
+   cell-cell interactions during axon-growth and fasciculation.
+ - The alpha-L chain (LFA-1) (CD11a)  which, with the beta-2 chain,  interacts
+   with intercellular adhesion molecule 1 (ICAM-1).
+ - The alpha-M chain (MAC-1) (CD11b)  which, with  the beta-2 chain, forms the
+   receptor for the iC3b fragment of the third complement component.
+ - The alpha-X chain (p150,95) (CD11c) which, with  the beta-2 chain, probably
+   forms a receptor for the iC3b fragment of the third complement component.
+ - The alpha-V chain (CD51) which,  with  the  beta-3 chain,  forms a receptor
+   that binds vitronectin.
+ - The alpha-IIB chain (CD41) (also known as platelet glycoprotein IIb) which,
+   with  the beta-3 chain, forms  a  receptor  which  binds  VWF,  fibrinogen,
+   fibronectin, and vitronectin.
+ - The Drosophila position-specific antigen 2 alpha chain (PS2).
+ - Caenorhabditis elegans hypothetical proteins F54F2.1 and F54G8.3.
+
+All these  integrin  alpha chains share a conserved sequence which is found at
+the beginning   of   the  cytoplasmic  domain,  just  after  the  end  of  the
+transmembrane region.   This   motif   is  probably  involved  in  heterodimer
+association and  may  lock the heterodimer into a low affinity conformation in
+the abscence  of  activating  signals. We have used this conserved region as a
+signature pattern.
+
+-Consensus pattern: [FYWS]-[RK]-x-G-F-F-x-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Note: In position 7 of  the  pattern all vertebrate integrins have Lys, while
+ Drosophila PS2 has Asn.
+
+-Last update: December 2001 / Text revised.
+
+[ 1] Hynes R.O.
+     "Integrins: a family of cell surface receptors."
+     Cell 48:549-554(1987).
+     PubMed=3028640
+[ 2] Albelda S.M., Buck C.A.
+     "Integrins and other cell adhesion molecules."
+     FASEB J. 4:2868-2880(1990).
+     PubMed=2199285
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

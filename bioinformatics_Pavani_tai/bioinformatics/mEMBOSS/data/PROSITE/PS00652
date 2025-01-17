@@ -1,0 +1,83 @@
+***************************************************************
+* TNFR/NGFR family cysteine-rich region signature and profile *
+***************************************************************
+
+A number  of  proteins,  some  of  which  are known to be receptors for growth
+factors, have  been  found  to contain a cysteine-rich  domain of about 110 to
+160 amino acids in their N-terminal part, that can be subdivided into four (or
+in some  cases,  three)  modules  of  about 40 residues containing 6 conserved
+cysteines. Proteins known to belong to this family [1,2,3,4] are listed below:
+
+ - Tumor Necrosis Factor type I and type II receptors (TNFR).  Both  receptors
+   bind TNF-alpha  and  TNF-beta, but  are  only  similar in the cysteine-rich
+   region.
+ - Shope fibroma virus soluble TNF receptor (protein T2).
+ - Lymphotoxin alpha/beta receptor.
+ - Low-affinity nerve growth factor receptor (LA-NGFR) (p75).
+ - CD40 (Bp50), the receptor for the CD40L (or TRAP) cytokine.
+ - CD27, the receptor for the CD27L cytokine.
+ - CD30, the receptor for the CD30L cytokine.
+ - T-cell protein 4-1BB, the receptor for the 4-1BBL putative cytokine.
+ - FAS  antigen  (or  APO-1),  the  receptor  for  FASL, a protein involved in
+   apoptosis (programmed cell death).
+ - T-cell antigen OX40, the receptor for the OX40L cytokine.
+ - Wsl-1, a receptor (for a yet undefined ligand) that mediates apoptosis.
+ - Vaccinia virus protein A53 (SalF19R).
+
+It has  been  shown  [5]  that the six  cysteines  all  involved in intrachain
+disulfide bonds. A schematic representation of the structure of the 40 residue
+module of these receptors is shown below:
+
+                  +-------------+    +--------------+
+                  |             |    |              |
+                 xCxxxxxxxxxxxxxCxCxxCxxxxxxxxxCxxxxCxx
+                                  |            |
+                                  +------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+We have  developed  a  signature  pattern  for the cysteine-rich region. It is
+based mainly  on  the  position  of the six conserved cysteines in each of the
+repeats. The profile spans the complete domain.
+
+-Consensus pattern: C-x(4,6)-[FYH]-x(5,10)-C-x(0,2)-C-x(2,3)-C-x(7,11)-C-
+                    x(4,6)-[DNEQSKP]-{PD}-{CP}-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 10.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Mallet S., Barclay A.N.
+     Immunol. Today 12:220-223(1991).
+[ 2] Sprang S.R.
+     "The divergent receptors for TNF."
+     Trends Biochem. Sci. 15:366-368(1990).
+     PubMed=2174582
+[ 3] Krammer P.H., Debatin K.-M.
+     "When apoptosis fails."
+     Curr. Biol. 2:383-385(1992).
+     PubMed=15335933
+[ 4] Bazan J.F.
+     "Emerging families of cytokines and receptors."
+     Curr. Biol. 3:603-606(1993).
+     PubMed=15335677
+[ 5] Banner D.W., D'Arcy A., Janes W., Gentz R., Schoenfeld H.-J., Broger C.,
+     Loetscher H., Lesslauer W.
+     "Crystal structure of the soluble human 55 kd TNF receptor-human TNF
+     beta complex: implications for TNF receptor activation."
+     Cell 73:431-445(1993).
+     PubMed=8387891
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,104 @@
+**********************************************
+* MarR-type HTH domain signature and profile *
+**********************************************
+
+The  marR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  135  amino acids present in transcription regulators of the
+marR/slyA  family,  involved in the development of antibiotic resistance. This
+family  of  transcription  regulators  is named after Escherichia coli marR, a
+repressor  of  genes  which  activate  the  multiple antibiotic resistance and
+oxidative  stress  regulons, and after slyA from Salmonella typhimurium and E.
+coli, a transcription regulator that is required for virulence and survival in
+the  macrophage  environment.  Regulators  with  the  marR-type HTH domain are
+present in bacteria and archaea and control a variety of biological functions,
+including resistance to multiple antibiotics, household disinfectants, organic
+solvents,  oxidative  stress  agents  and  regulation  of the virulence factor
+synthesis  in pathogens of humans and plants. Many of the marR-like regulators
+respond to aromatic compounds [1,2,3].
+
+The  crystal structures of marR, mexR and slyA have been determined and show a
+winged  HTH  DNA-binding core flanked by helices involved in dimerization (see
+<PDB:1LJ9>). The DNA-binding domains are ascribed to the superfamily of winged
+helix   proteins,   containing   a   three   (four)-helix  (H)  bundle  and  a
+three-stranded     antiparallel    beta-sheet    (B)    in    the    topology:
+H1-(H1')-H2-B1-H3-H4-B2-B3-H5-H6.    Helices    3    and    4   comprise   the
+helix-turn-helix  motif  and  the  beta-sheet  is  called the wing. Helix 4 is
+termed  the recognition helix, like in other HTHs where it binds the DNA major
+groove. The helices 1, 5 and 6 are involved in dimerization, as most marR-like
+transcription regulators form dimers [3,4,5].
+
+Some proteins known to contain a marR-type HTH domain:
+
+ - Escherichia  coli  marR,  a transcription repressor of chromosomal multiple
+   antibiotic resistance (mar) in diverse bacteria [1,4].
+ - Salmonella  typhimurium  and  E.  coli  slyA, a transcription activator for
+   molecular chaperones, proteins involved in acid resistance and in virulence
+   and a repressor for the expression of several biosynthetic enzymes.
+ - Pseudomonas  aeruginosa  mexR,  a transcription repressor of the mexAB-oprM
+   multidrug  efflux  operon,  a  major  determinant for broad resistance. The
+   allosteric mechanism for the regulation of DNA binding seems to differ from
+   that of marR [5].
+ - Rhodopseudomonas   palustris   badR,  a  transcription  activator  for  the
+   anaerobic degradation of benzoate [2].
+ - Escherichia  coli mprA (emrR), a repressor of the multidrug resistance pump
+   emrAB operon.
+ - Erwinia  chrysanthemi  pecS,  a  transcription  regulator  for synthesis of
+   pectinase, cellulase and other key factors for plant infection.
+ - Bacillus subtilis hpr, a repressor of protease production and sporulation.
+ - Butyrivibrio  fibrisolvens  cinR,  a  transcription  repressor of cinnamoyl
+   ester hydrolase for ruminal degradation of plant material.
+
+As  a  signature  pattern,  we have selected a 34 residue segment showing high
+conservation  within this family. This conserved region from helix 3 to strand
+3  is  located  in  the  DNA  binding domain. We also developed a profile that
+covers  the  entire wHTH, including helix 1 and the conserved part of helix 6,
+and which allows a more sensitive detection.
+
+-Consensus pattern: [STNAQ]-[LIAMV]-x(0,1)-[RNGSYKE]-x(4,5)-[LM]-[EIVLA]-x(2)-
+                    [GESD]-[LFYWHA]-[LIVC]-x(7)-[DNS]-[RKQG]-[RK]-x(6)-[TS]-
+                    x(2)-[GAS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Alekshun M.N., Levy S.B.
+     "The mar regulon: multiple resistance to antibiotics and other toxic
+     chemicals."
+     Trends Microbiol. 7:410-413(1999).
+     PubMed=10498949
+[ 2] Egland P.G., Harwood C.S.
+     "BadR, a new MarR family member, regulates anaerobic benzoate
+     degradation by Rhodopseudomonas palustris in concert with AadR, an Fnr
+     family member."
+     J. Bacteriol. 181:2102-2109(1999).
+     PubMed=10094687
+[ 3] Wu R.Y., Zhang R.G., Zagnitko O., Dementieva I., Maltzev N.,
+     Watson J.D., Laskowski R., Gornicki P., Joachimiak A.
+     "Crystal structure of Enterococcus faecalis SlyA-like transcriptional
+     factor."
+     J. Biol. Chem. 278:20240-20244(2003).
+     PubMed=12649270; DOI=10.1074/jbc.M300292200
+[ 4] Alekshun M.N., Levy S.B., Mealy T.R., Seaton B.A., Head J.F.
+     "The crystal structure of MarR, a regulator of multiple antibiotic
+     resistance, at 2.3 A resolution."
+     Nat. Struct. Biol. 8:710-714(2001).
+     PubMed=11473263; DOI=10.1038/90429
+[ 5] Lim D., Poole K., Strynadka N.C.J.
+     "Crystal structure of the MexR repressor of the mexRAB-oprM multidrug
+     efflux operon of Pseudomonas aeruginosa."
+     J. Biol. Chem. 277:29253-29259(2002).
+     PubMed=12034710; DOI=10.1074/jbc.M111381200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

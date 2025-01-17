@@ -1,0 +1,44 @@
+AUTOINDCRSYN
+Bacterial species have many methods of controlling gene expression and cell
+growth. Regulation of gene expression in response to changes in cell density
+is termed quorum sensing [1,2]. Quorum-sensing bacteria produce, release and
+respond to hormone-like molecules (autoinducers) that accumulate in the 
+external environment as the cell population grows. Once a threshold of these
+molecules is reached, a signal transduction cascade is triggered that 
+ultimately leads to behavioural changes in the bacterium [2]. Autoinducers
+are thus clearly important mediators of molecular communication. 
+
+Conjugal transfer of Agrobacterium octopine-type Ti plasmids is activated 
+by octopine, a metabolite released from plant tumours [3]. Octopine causes 
+conjugal donors to secrete a pheromone, Agrobacterium autoinducer (AAI),
+and exogenous AAI further stimulates conjugation [3]. The putative AAI 
+synthase and an AAI-responsive transcriptional regulator have been found 
+to be encoded by the Ti plasmid traI and traR genes, respectively [3]. TraR
+and TraI are similar to the LuxR and LuxI regulatory proteins of Vibrio
+fischeri, and AAI is similar in structure to the diffusable V.fischeri
+autoinducer, the inducing ligand of LuxR [3]. TraR activates target genes
+in the presence of AAI and also activates traR and traI themselves, creating
+two positive-feedback loops [3]. TraR-AAI-mediated activation in wild-type
+Agrobacterium strains is enhanced by culturing on solid media, suggesting a
+possible role in cell density sensing [3]. 
+
+Production of light by the marine bacterium Vibrio fischeri and by
+recombinant hosts containing cloned lux genes is controlled by the density
+of the culture [4]. Density-dependent regulation of lux gene expression has
+been shown to require a locus consisting of the luxR and luxI genes [4].
+
+In these and other Gram-negative bacteria, N-(3-oxohexanoyl)-L-homoserine 
+lactone (OHHL) acts as the autoinducer by binding to transcriptional
+regulatory proteins and activating them [5,6]. OHHL and related molecules,
+such as N-butanoyl- (BHL), N-hexanoyl- (HHL) and N-oxododecanoyl- (PAI) 
+homoserine lactones, are produced by a family of proteins that share a high
+level of sequence similarity.
+
+AUTOINDCRSYN is a 7-element fingerprint that provides a signature for 
+autoinducer synthesis proteins. The fingerprint was derived from an initial
+alignment of 18 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length. Two iterations on SPTR39_15f
+were required to reach convergence, at which point a true set comprising 30
+sequences was identified. Several partial matches were also found, all of
+which are autoinducer synthesis proteins that fail to make significant
+matches with one or more motifs.

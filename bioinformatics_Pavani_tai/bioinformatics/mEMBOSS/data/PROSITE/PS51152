@@ -1,0 +1,71 @@
+********************************************
+* NF-Y/HAP subunits signatures and profile *
+********************************************
+
+Diverse DNA binding  proteins are  known  to bind the CCAAT box, a common cis-
+acting element found in the promoter and enhancer regions of a large number of
+genes in  eukaryotes. Amongst these proteins is one known as the CCAAT-binding
+factor (CBF)  or  NF-Y [1].  CBF  is  a heteromeric transcription  factor that
+consists of two different components both needed for DNA-binding.
+
+The HAP  protein  complex  of  yeast  binds to the upstream activation site of
+cytochrome C   iso-1   gene   (CYC1)  as  well  as  other  genes  involved  in
+mitochondrial electron  transport  and  activates  their  expression.  It also
+recognizes the  sequence CCAAT and is structurally and evolutionary related to
+CBF.
+
+The  first  subunit of CBF, known as CBF-A or NF-YB in vertebrates and HAP3 in
+budding  yeast, is a protein of 116 to 210 amino- acid residues which contains
+a  highly  conserved central domain of about 90 residues. This domain displays
+some  sequence  similarity  to  histones H2B (see <PDOC00308>) and seems to be
+involved  in  DNA-binding;  we  have  developed  a  signature pattern from its
+central part.
+
+The  second subunit of CBF, known as CBF-B or NF-YA in vertebrates and HAP2 in
+budding yeast, is a protein of 265 to 350 amino-acid residues which contains a
+highly  conserved  region  of  about  60  residues.  This  region,  called the
+'essential  core'  [2],  seems  to  consist  of  two subdomains: an N-terminal
+subunit-association  domain  and  a C-terminal DNA recognition domain. We have
+developed  a  signature  pattern  from  a  section  of the subunit-association
+domain (SAD) and a profile that covers both subdomains.
+
+-Consensus pattern: [FY]-V-N-[AS]-K-Q-[FY]-x(2)-I-[ILM]-[KR]-R-R-x(2)-R-A-K-
+                    [LA]-E
+-Sequences known to belong to this class detected by the pattern: ALL NF-YA
+ subunits.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL NF-YA
+ subunits.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-[VA]-[ST]-E-x-I-S-F-[LIVM]-T-[SGC]-E-A-[SCN]-[DE]-[KRQ]-
+                    C
+-Sequences known to belong to this class detected by the pattern: ALL NF-YB
+ subunits.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Li X.-Y., Mantovani R., Hooft van Huijsduijnen R., Andre I., Benoist C.,
+     Mathis D.
+     "Evolutionary variation of the CCAAT-binding transcription factor
+     NF-Y."
+     Nucleic Acids Res. 20:1087-1091(1992).
+     PubMed=1549471
+[ 2] Olesen J.T., Fikes J.D., Guarente L.
+     "The Schizosaccharomyces pombe homolog of Saccharomyces cerevisiae
+     HAP2 reveals selective and stringent conservation of the small
+     essential core protein domain."
+     Mol. Cell. Biol. 11:611-619(1991).
+     PubMed=1899284
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

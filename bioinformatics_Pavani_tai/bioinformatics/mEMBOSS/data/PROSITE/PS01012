@@ -1,0 +1,40 @@
+******************************************
+* Folylpolyglutamate synthase signatures *
+******************************************
+
+Folylpolyglutamate synthase (EC 6.3.2.17)  (FPGS) [1] is  the enzyme of folate
+metabolism that  catalyzes  ATP-dependent  addition  of  glutamate moieties to
+tetrahydrofolate.
+
+Its sequence  is  moderately  conserved  between  prokaryotes  (gene folC) and
+eukaryotes. We developed two signature patterns based on the conserved regions
+which are  rich  in  glycine residues and could play a role in the catalytical
+activity and/or in substrate binding.
+
+-Consensus pattern: [LIVMFY]-x-[LIVM]-[STAG]-G-T-[NK]-G-K-x-[STG]-x(4)-{A}-x-
+                    {EAD}-[LIVM](2)-x(3,4)-[GSKQT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 8.
+
+-Consensus pattern: [LIVMFY](2)-[EK]-x-G-[LIVM]-[GA]-G-x(2)-D-x-[GST]-x-
+                    [LIVM](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Shane B., Garrow T., Brenner A., Chen L., Choi Y.J., Hsu J.C.,
+     Stover P.
+     "Folylpoly-gamma-glutamate synthetase."
+     Adv. Exp. Med. Biol. 338:629-634(1993).
+     PubMed=8304196;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

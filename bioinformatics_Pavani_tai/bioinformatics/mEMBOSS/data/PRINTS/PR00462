@@ -1,0 +1,68 @@
+LIGNINASE
+Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+the electron acceptor to catalyse a number of oxidative reactions.
+Most haem peroxidases follow the reaction scheme:
+
+Fe(3+) + H2O2            --> [Fe(4+)=O]R' (Compound I) + H2O
+[Fe(4+)=O]R' + substrate --> [Fe(4+)=O]R (Compound II) + oxidised substrate
+[Fe(4+)=O]R  + substrate -->  Fe(3+) + H2O + oxidised substrate
+
+In this mechanism, the enzyme reacts with one equivalent of H2O2 to give 
+[Fe(4+)=O]R' (compound I). This is a two-electron oxidation/reduction 
+reaction where H2O2 is reduced to water and the enzyme is oxidised. One 
+oxidising equivalent resides on iron, giving the oxyferryl [Fe(4+)=O] 
+intermediate, while in many peroxidases the porphyrin (R) is oxidised to 
+the porphyrin pi-cation radical (R'). Compound I then oxidises an organic 
+substrate to give a substrate radical [1].
+
+Peroxidases are found in bacteria, fungi, plants and animals. Fungal
+ligninases, or lignin peroxidases (LiPs), and manganese-dependent
+peroxidases (MnPs), are extracellular haem enzymes involved in the
+degradation of lignin. In MnP, Mn(2+) serves as the reducing substrate [2].
+
+It is commonly thought that the plant polymer lignin is the second most
+abundant organic compound on Earth, exceeded only by cellulose [3]. Higher
+plants synthesise vast quantities of insoluble macromolecules, including
+lignins. Lignin is an amorphous three-dimensional aromatic biopolymer
+composed of oxyphenylpropane units. Biodegradation of lignins is slow - it
+is probable that their decomposition is the rate-limiting step in the
+biospheric carbon-oxygen cycle, which is mediated almost entirely by the
+catabolic activities of microorganisms. The white-rot fungi are able
+extensively to decompose all the important structural components of wood,
+including both cellulose and lignin. Under the proper environmental
+conditions, white-rot fungi completely degrade all structural components of
+lignin, with ultimate formation of CO2 and H2O [3]. The first step in lignin
+degradation is depolymerisation, catalysed by the LiPs (ligninases). LiPs
+are secreted, along with hydrogen peroxide (H2O2), by white-rot fungi under
+conditions of nutrient limitation. The enzymes are not only important in
+lignin biodegradation, but are also potentially valuable in chemical waste
+disposal because of their ability to degrade environmental pollutants [2,3]. 
+
+To date, 3D structures have been determined for LiP [4] and MnP [8] from
+Phanerochaete chrysosporium, and for the fungal peroxidase from Arthromyces
+ramosus [9]. All these proteins share the same architecture and consist 
+of 2 all-alpha domains, between which is embedded the haem group. The
+helical topography of LiPs is nearly identical to that of yeast cytochrome c
+peroxidase (CCP) [1], despite the former having 4 disulphide bonds, which
+are absent in CCP (MnP has an additional disulphide bond at the C-terminus).
+
+LIGNINASE is a 14-element fingerprint that provides a signature for the 
+fungal lignin peroxidase family. The fingerprint was derived from an 
+initial alignment of 8 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length. The invariant Cys
+residues in motifs 1 and 2, 3 and 6, and 12 and 14 form 3 disulphide bonds;
+the conserved Cys in motif 2 and invariant Cys in motif 13 form a fourth
+disulphide bond in most LiPs. Motif 3 contains invariant active site 
+residues (Arg, Phe and the "distal" His) that form a ligand pocket for 
+hydrogen peroxide (cf. motif 1 of signature PEROXIDASE and PROSITE pattern
+PEROXIDASE_2 (PS00436)); motifs 5 and 6 span helices C and D, respectively;
+motifs 6 and 7 correspond to motifs 2 and 3 of signature PEROXIDASE; and
+motif 9 contains the invariant "proximal" His, which serves the axial ligand 
+of the haem iron, and spans the region encoded by PROSITE pattern
+PEROXIDASE_1 (PS00435) (cf. motif 4 of signature PEROXIDASE). Two iterations
+on OWL27.1 were required to reach convergence, at which point a true set 
+comprising 30 sequences was identified. Several partial matches were also 
+found, all of which are LiP fragments.
+
+An update on SPTR37_9f identified a true set of 32 sequences, and 2
+partial matches.

@@ -1,0 +1,83 @@
+******************************************
+* Thaumatin family signature and profile *
+******************************************
+
+Thaumatin  [1]  is  an  intensely sweet-tasting protein (100 000 times sweeter
+than sucrose on a molar basis) found in berries from Thaumatococcus daniellii,
+an  African  bush.  The  protein consists of about 200 residues and contains 8
+disulfide  bonds. Several stress-induced proteins of plants have been found to
+be related to thaumatins. Some of these proteins are listed below.
+
+ - A maize alpha-amylase/trypsin inhibitor.
+ - Two  tobacco  pathogenesis-related  proteins:  PR-R  major and minor forms,
+   which are induced after infection with viruses.
+ - Salt-induced protein NP24 from tomato.
+ - Osmotin, a salt-induced protein from tobacco.
+ - Osmotin-like proteins OSML13, OSML15 and OSML81 from potato [2].
+ - P21, a leaf protein from soybean.
+ - PWIR2, a leaf protein from wheat.
+ - Zeamatin, a maize antifunal protein [3].
+
+This family is also referred to as pathogenesis-related group 5 (PR5), as many
+thaumatin-like  proteins  accumulate  in  plants in response to infection by a
+pathogen  and possess antifungal activity. As a signature pattern, we selected
+a  conserved region that includes three cysteine residues known to be involved
+in disulfide bonds.
+
+
+   +----------------------------------------------------------------------+
+   |                                          +-----------------+         |
+   |                  *******                 |                 |         |
+ xxCxxxxxxxxxxxxxxxxCxxCxxCxCxxxxxxxxxxxxxxCxxCxCxxxCxCxxCCxCxxxCxxxxxCxxxCx
+                    |  |  | |              |    |   | |  || |         |
+                    +--+  +-+              |    +---+ +--++-+         |
+                                           +--------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+We   also  developed  a  profile  that  covers  the  whole  structure  [4]  of
+thaumatin/osmotin/PR5a.
+
+-Consensus pattern: G-x-[GF]-x-C-x-T-[GA]-D-C-x(1,2)-[GQ]-x(2,3)-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2008 / Text revised; profile added.
+
+[ 1] Edens L., Heslinga L., Klok R., Ledeboer A.M., Maat J., Toonen M.Y.,
+     Visser C., Verrips C.T.
+     "Cloning of cDNA encoding the sweet-tasting plant protein thaumatin
+     and its expression in Escherichia coli."
+     Gene 18:1-12(1982).
+     PubMed=7049841
+[ 2] Zhu B., Chen T.H.H., Li P.H.
+     "Activation of two osmotin-like protein genes by abiotic stimuli and
+     fungal pathogen in transgenic potato plants."
+     Plant Physiol. 108:929-937(1995).
+     PubMed=7630973
+[ 3] Malehorn D.E., Borgmeyer J.R., Smith C.E., Shah D.M.
+     "Characterization and expression of an antifungal zeamatin-like
+     protein (Zlp) gene from Zea mays."
+     Plant Physiol. 106:1471-1481(1994).
+     PubMed=7846159
+[ 4] Koiwa H., Kato H., Nakatsu T., Oda J., Yamada Y., Sato F.
+     "Crystal structure of tobacco PR-5d protein at 1.8 A resolution
+     reveals a conserved acidic cleft structure in antifungal
+     thaumatin-like proteins."
+     J. Mol. Biol. 286:1137-1145(1999).
+     PubMed=10047487; DOI=10.1006/jmbi.1998.2540
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

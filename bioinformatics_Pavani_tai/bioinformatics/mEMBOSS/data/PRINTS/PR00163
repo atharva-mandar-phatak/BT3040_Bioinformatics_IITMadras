@@ -1,0 +1,21 @@
+RUBREDOXIN
+Rubredoxin is a low molecular weight non-haem iron-containing bacterial
+protein involved in electron transfer [1,2], sometimes replacing ferredoxin
+as an electron carrier [3]. Its active site contains an iron atom co-
+ordinated by the sulphurs of 4 conserved Cys residues residing on 2 loops
+[2,3], which are the most well-conserved regions of the protein [3]. In
+some species, the rubredoxin gene is closely linked to the dehydrogenase
+gene, and its transcription is required for dehydrogenase activity [4]. The
+reason for this is as yet unknown, but rubredoxin may act as a source of
+electrons for the molecular hydrogen-splitting activity of the
+dehydrogenase [4].
+
+RUBREDOXIN is a 2-element fingerprint that provides a signature for the 
+rubredoxins. The fingerprint was derived from an initial alignment of 7
+sequences: motifs 1 and 2 span the 2 loops involved in binding the
+iron atom - motif 2 includes the region encoded by PROSITE pattern
+RUBREDOXIN (PS00202), which contains 2 of the iron-binding Cys residues.
+Two iterations on OWL22.1 were required to reach convergence, at which
+point a true set comprising 23 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 38 sequences.

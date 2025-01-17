@@ -1,0 +1,27 @@
+HIVTATDOMAIN
+Like other lentiviruses, human immunodeficiency virus type 1 (HIV-1)
+encodes a trans-activating regulatory protein (Tat), which is needed
+for efficient transcription of the viral genome [1,2]. Tat acts by
+binding to an RNA stem-loop structure, the trans-activating response
+element (TAR), found at the 5' ends of nascent HIV-1 transcripts. In
+binding to TAR, Tat alters the properties of the transcription complex,
+enhancing transcriptional initiation and hence increasing the production
+of full-length viral RNA [2]. Tat is essential for HIV-1 replication,
+making it an attractive target for antiviral drug development.
+
+The minimum Tat sequence that can mediate specific TAR binding in vitro
+has been mapped to a basic domain of 10 amino acids, comprising mostly
+Arg and Lys residues. Regulatory activity, however, also requires the 47
+N-terminal residues, which interact with components of the transcription
+complex and function as a transcriptional activation domain [2-4]. 
+
+HIVTATDOMAIN is a 3-element fingerprint that provides a signature for Tat
+transactivating regulatory proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: motifs 1 and 2 span the Tat activation
+domain, and motif 3 the adjacent (less well-conserved) basic domain. Three
+iterations on OWL24.0 were required to reach convergence, at which point
+a true set comprising 106 sequences was identified. Nine partial matches
+were also found: all fail to make a significant match with motif 3. 
+
+An update on SPTR37_9f identified a true set of 168 sequences, and 18
+partial matches.

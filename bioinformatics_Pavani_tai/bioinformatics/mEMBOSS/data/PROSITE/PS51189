@@ -1,0 +1,76 @@
+*********************************
+* FAT and FATC domains profiles *
+*********************************
+
+Phosphatidylinositol kinase  (PIK)-related  kinases participate in meiotic and
+V(D)J recombination,   chromosome   maintenance   and   repair,   cell   cycle
+progression, and cell cycle checkpoints, and their dysfunction can result in a
+range of  diseases,  including  immunodeficiency,  neurological  disorder  and
+cancer. The   catalytic  kinase  domain  is  highly  homologuous  to  that  of
+phosphatidylinositol 3- and 4-kinases (see <PDOC00710>). Nevertheless, members
+of the  PIK-related  family  appear functionally distinct, as none of them has
+been shown  to  phosphorylate  lipids,  such as phosphatidylinositol; instead,
+many have  Ser/Thr protein kinase activity. The PI-kinase domain of members of
+the PIK-related  family  is wedged between the ~550-amino acid-long FAT (FRAP,
+ATM, TRRAP) domain [1] and the ~35 residue C-terminal FATC domain [2].
+
+It has  been  proposed  that  the  FAT  domain  could  be  of  importance as a
+structural scaffold or as a protein-binding domain, or both [1].
+
+The TOR1  FATC  domain, in its oxidized form, consists of an alpha-helix and a
+well structured   COOH-terminal   disulfide-bonded   loop   (see  <PDB:1W1N>).
+Reduction of  the disulfide bond dramatically increases the flexibility within
+the COOH-terminal loop region. The reduction may alter the binding behavior of
+FATC to its partners [3].
+
+Some proteins known to contain FAT and FATC domains are listed below:
+
+ - Yeast protein kinase MEC1/ESR1 (mitosis entry checkpoint mutant).
+ - Animal serine/threonine-protein kinase ATR.
+ - Yeast target of rapamycin (TOR) 1 and 2.
+ - Mammalian  FKBP12-rapamycin  complex-associated protein (FRAP) or mammalian
+   target of rapamycin (MTOR).
+ - Yeast telomer length regulation protein TEL1.
+ - Eukaryotic  ataxia  telangiectasia  mutant  (ATM)  serine/threonine-protein
+   kinase, a key component of the signal-transduction pathway activated by DNA
+   damage.
+ - Eukaryotic ATM and Rad3-related (ATR) serine/threonine-protein kinase.
+ - Yeast transcription-associated protein 1 (TRA1).
+ - Mammalian transformation/Transcription Domain Associated Proteins (TRRAPs).
+   Their PI-kinase domain lacks the catalytic residues.
+
+The profiles we developed cover the entire FAT and FATC domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2006 / First entry.
+
+[ 1] Keith C.T., Schreiber S.L.
+     "PIK-related kinases: DNA repair, recombination, and cell cycle
+     checkpoints."
+     Science 270:50-51(1995).
+     PubMed=7569949
+[ 2] Bosotti R., Isacchi A., Sonnhammer E.L.L.
+     "FAT: a novel domain in PIK-related kinases."
+     Trends Biochem. Sci. 25:225-227(2000).
+     PubMed=10782091
+[ 3] Dames S.A., Mulet J.M., Rathgeb-Szabo K., Hall M.N., Grzesiek S.
+     "The solution structure of the FATC domain of the protein kinase
+     target of rapamycin suggests a role for redox-dependent structural and
+     cellular stability."
+     J. Biol. Chem. 280:20558-20564(2005).
+     PubMed=15772072; DOI=10.1074/jbc.M501116200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

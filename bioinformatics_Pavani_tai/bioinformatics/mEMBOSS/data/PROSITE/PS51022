@@ -1,0 +1,59 @@
+**********************
+* L27 domain profile *
+**********************
+
+The L27  domain  is a ~50-amino acid module, initially identified in the Lin-2
+and Lin-7  proteins, that exists in a large family of animal scaffold proteins
+[1]. The  L27  domain is a specific protein-protein interaction module capable
+of forming heteromeric complexes that can integrate multiple scaffold proteins
+into supramolecular  assemblies  required for establishment and maintenance of
+cell polarity.  The  L27  domain  can  be found as a single occurrence or as a
+duplication in  association  with other domains such as PDZ (see <PDOC50106>),
+SH3 (see  <PDOC50002>),  the  guanylate kinase domain (see <PDOC00670>) or the
+serine/threonine protein kinase domain (see <PDOC00100>).
+
+The main  features of the L27 domain are conserved negatively charged residues
+and a  conserved  aromatic  amino  acid  [1].  Study of individual L27 domains
+revealed largely  unfolded  domains  that  require  the  formation of obligate
+heterodimers to achieve well-folded structures. Each L27 domain is composed of
+three helices.  The  two  L27  domains  heterodimerize  by  building a compact
+structure consisting of a four-helix bundle formed by the first two helices of
+each L27  domain  and one coiled-coil formed by the third helix of each domain
+(see <PDB:1RSO>) [2,3].
+
+Some proteins known to contain a L27 domain are listed below:
+
+ - Members of a subset of membrane-associated guanylate kinases (MAGUKs).
+ - Lin-7-like proteins.
+
+The profile we developed covers the entire L27 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2004 / First entry.
+
+[ 1] Doerks T., Bork P., Kamberov E., Makarova O., Muecke S., Margolis B.
+     "L27, a novel heterodimerization domain in receptor targeting proteins
+     Lin-2 and Lin-7."
+     Trends Biochem. Sci. 25:317-318(2000).
+     PubMed=10871881
+[ 2] Feng W., Long J.-F., Fan J.-S., Suetake T., Zhang M.
+     "The tetrameric L27 domain complex as an organization platform for
+     supramolecular assemblies."
+     Nat. Struct. Mol. Biol. 11:475-480(2004).
+     PubMed=15048107
+[ 3] Li Y., Karnak D., Demeler B., Margolis B., Lavie A.
+     "Structural basis for L27 domain-mediated assembly of signaling and
+     cell polarity complexes."
+     EMBO J. 23:2723-2733(2004).
+     PubMed=15241471; DOI=10.1038/sj.emboj.7600294
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

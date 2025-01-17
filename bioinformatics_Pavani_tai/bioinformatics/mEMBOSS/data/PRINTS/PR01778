@@ -1,0 +1,41 @@
+KIMPTPASE
+Tyrosine-specific protein phosphatases (PTPases) catalyse the removal of
+phosphate groups attached to tyrosine residues [1-5]. The enzymes play an
+important role in the control of cell growth, proliferation, differentiation
+and transformation. Multiple forms of PTPase have been characterised and can
+be classified into 2 groups: soluble PTPases and transmembrane (TM) receptor
+proteins that contain PTPase domains.
+
+The structures of receptor PTPases comprise a variable length extracellular
+domain, followed by a TM region and a cytoplasmic C-terminal catalytic 
+domain. The extracellular regions of some receptor PTPases house fibronectin
+type III repeats, immunoglobulin-like domains, MAM domains or carbonic 
+anhydrase-like domains. The cytoplasmic region generally contains 2 copies 
+of the PTPase domain: the first of these is enzymatically active; the second
+is inactive, but appears to affect substrate specificity in the first. 
+PTPase domains contain ~300 residues, including 2 conserved cysteines, the 
+second of which is required for activity. Other conserved residues in its 
+immediate vicinity are also catalytically important [1-5].
+
+The family of Kinase Interaction Motif (KIM)-containing phosphatases 
+consists of PTP-STEP, PTP-SL and LC-PTP. Each contains a KIM in the N-
+terminal portion of the molecule. The KIM sequence mediates interaction with
+MAP kinases, predominantly ERK1 and ERK2. It has been experimentally shown 
+that over-expression of PTP-SL down-regulates the activation of ERK2 and its 
+nuclear translocation [6-7].
+
+KIMPTPASE is an 8-element fingerprint that provides a signature for the KIM- 
+containing protein tyrosine phosphatases. The fingerprint was derived from 
+an initial alignment of 6 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise the KIM-containing PTPases but distinguish them 
+from other members of the PTP family - motif 3 includes the C-terminus of
+alpha-helix 1; motif 4 includes helix 5; motif 5 spans the C-terminus of
+beta-strand 2 and helix 7; motif 6 encodes the N-terminal portion of helix
+10; motif 7 encodes the central portion of helix 11; and motif 8 includes
+the C-terminal portion of helix 13. Two iterations on SPTR40_20f were 
+required to reach convergence, at which point a true set comprising 12 
+sequences was identified. Several partial matches were also found: Q9BE09
+is a hypothetical sequence from the crab-eating macaque, which fails to 
+match the C-terminal 3 motifs; the rest are PTPases that fail to match 
+motifs 2 and 5-8.

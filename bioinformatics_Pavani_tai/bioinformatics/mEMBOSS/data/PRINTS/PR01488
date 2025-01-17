@@ -1,0 +1,41 @@
+RTXTOXINA
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. Four principal exotoxin secretion systems have been described
+[1]. In the type II and IV secretion systems, toxins are first exported to
+the periplasm by way of a cleaved N-terminal signal sequence; a second set
+of proteins is used for extracellular transport (type II), or the C-terminus
+of the exotoxin itself is used (type IV). Type III secretion involves at 
+least 20 molecules that assemble into a needle; effector proteins are then 
+translocated through this without need of a signal sequence. In the Type I 
+system, a complete channel is formed through both membranes, and the 
+secretion signal is carried on the C-terminus of the exotoxin. 
+
+The RTX (repeats in toxin) family of cytolytic toxins belong to the Type I 
+secretion system, and are important virulence factors in Gram-negative 
+bacteria. As well as the C-terminal signal sequence, several glycine-rich
+repeats are also found. These are essential for binding calcium, and are 
+critical for the biological activity of the secreted toxins [2,3]. All RTX
+toxin operons exist in the order rtxCABD, RtxA protein being the structural
+component of the exotoxin, both RtxB and D being required for its export
+from the bacterial cell; RtxC is an acyl-carrier-protein-dependent acyl-
+modification enzyme, required to convert RtxA to its active form [4].
+
+Escherichia coli hemolysin (HlyA) is often quoted as the model for RTX 
+toxins. Recent work on its relative rtxC gene product HlyC [5] has revealed 
+that it provides the acylation aspect for post-translational modification
+of two internal lysine residues in the HlyA protein. To cause pathogenicity,
+the HlyA toxin must first bind Ca2+ ions to the set of glycine-rich repeats
+and then be activated by HlyC [6]. This has been demonstrated both in 
+vitro and in vivo [6].
+
+RTXTOXINA is a 7-element fingerprint that provides a signature for the Gram-
+negative bacterial RTX toxin determinant A family. The fingerprint was 
+derived from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the central portion of the alignment - motif 1 
+lies within the first putative transmembrane (TM) region; motif 2 lies
+between putative TM domains 2 and 3; motif 3 encodes the C-terminus of the
+third TM region; motif 6 contains the palmitate attachment site; and motif 7
+spans 3 calcium-binding repeats. Two iterations on SPTR37_10f were required
+to reach convergence, at which point a true set comprising 23 sequences was
+identified. 

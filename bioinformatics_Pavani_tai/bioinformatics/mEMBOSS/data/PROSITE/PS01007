@@ -1,0 +1,62 @@
+*******************************************
+* Transposases, Mutator family, signature *
+*******************************************
+
+Autonomous mobile genetic elements  such as  transposon or insertion sequences
+(IS) encode an enzyme, called transposase, required for excising and inserting
+the mobile element. On the basis of sequence similarities, transposases can be
+grouped into various families. One of these families has been shown [1,2,3,E1]
+to consist of transposases from the following elements:
+
+ - Mutator from Maize.
+ - Is1201 from Lactobacillus helveticus.
+ - Is905 from Lactococcus lactis.
+ - Is1081 from Mycobacterium bovis.
+ - Is6120 from Mycobacterium smegmatis.
+ - Is406 from Pseudomonas cepacia.
+ - IsRm3 from Rhizobium meliloti.
+ - IsRm5 from Rhizobium meliloti.
+ - Is256 from Staphylococcus aureus.
+ - IsT2 from Thiobacillus ferrooxidans.
+
+The maize  Mutator  transposase  (MudrA)  is  a  protein  of  823 amino acids;
+the bacterial  transposases  listed  above  are  proteins  of 300 to 420 amino
+acids. These  proteins  contain  a  conserved  domain of about 130 residues; a
+signature pattern was derived from the most conserved part of this domain.
+
+-Consensus pattern: D-x(3)-G-[LIVMF]-x(6)-[STAV]-[LIVMFYW]-[PT]-x-[STAV]-x(2)-
+                    [QR]-x-C-x(2)-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Eisen J.A.; jeisen@tigr.org
+
+-Last update: July 1999 / Text revised.
+
+[ 1] Eisen J.A., Benito M.-I., Walbot V.
+     "Sequence similarity of putative transposases links the maize Mutator
+     autonomous element and a group of bacterial insertion sequences."
+     Nucleic Acids Res. 22:2634-2636(1994).
+     PubMed=8041625
+[ 2] Guilhot C., Gicquel B., Davies J., Martin C.
+     "Isolation and analysis of IS6120, a new insertion sequence from
+     Mycobacterium smegmatis."
+     Mol. Microbiol. 6:107-113(1992).
+     PubMed=1310791
+[ 3] Wood M.S., Byrne A., Lessie T.G.
+     "IS406 and IS407, two gene-activating insertion sequences for
+     Pseudomonas cepacia."
+     Gene 105:101-105(1991).
+     PubMed=1718819
+[E1] http://www.tigr.org/~jeisen/Mutator/Mutator.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

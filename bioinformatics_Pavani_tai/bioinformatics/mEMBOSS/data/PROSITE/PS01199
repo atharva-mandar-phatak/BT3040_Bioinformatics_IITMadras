@@ -1,0 +1,47 @@
+**********************************
+* Ribosomal protein L1 signature *
+**********************************
+
+Ribosomal protein L1  is the largest protein from the large ribosomal subunit.
+In Escherichia  coli,  L1  is known to bind to the 23S rRNA. It  belongs  to a
+family of  ribosomal proteins which, on the basis of sequence similarities [1,
+2], groups:
+
+ - Eubacterial L1.
+ - Algal and plant chloroplast L1.
+ - Cyanelle L1.
+ - Archaebacterial L1.
+ - Vertebrate L10A.
+ - Yeast SSM1.
+
+As a  signature  pattern, we selected the best conserved region located in the
+central section  of these proteins. It is located at the end of an alpha helix
+thought to be involved in RNA-binding.
+
+-Consensus pattern: [IMGV]-x(2)-[LIVA]-x(2,3)-[LIVMY]-[GAS]-x(2)-[LMSF]-
+                    [GSNH]-[PTKR]-[KRAVG]-[GN]-x-[LIMF]-P-[DENSTKQPRAGVI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Nikonov S., Nevskaya N., Eliseikina I., Fomenkova N., Nikulin A.,
+     Ossina N., Garber M., Jonsson B.-H., Briand C., Al-Karadaghi S.,
+     Svensson A., Aevarsson A., Liljas A.
+     "Crystal structure of the RNA binding ribosomal protein L1 from
+     Thermus thermophilus."
+     EMBO J. 15:1350-1359(1996).
+     PubMed=8635468
+[ 2] Olvera J., Wool I.G.
+     "The primary structure of rat ribosomal protein L10a."
+     Biochem. Biophys. Res. Commun. 220:954-957(1996).
+     PubMed=8607874
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

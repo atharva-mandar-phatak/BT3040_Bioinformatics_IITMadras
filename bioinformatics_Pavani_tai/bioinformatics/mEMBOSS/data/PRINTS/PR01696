@@ -1,0 +1,41 @@
+LCACHANNELB3
+Calcium channels are generally discriminated by their biophysical and/or
+pharmacological sensitivity. L-type calcium channels are distinguished by
+their modulation by compounds such as dihydropyridines. These channels
+tend to be localised mainly around the neuronal cell body, where they
+influence calcium-dependent modulation and excitation-transcription coupling,
+but are also found in skeletal and cardiac muscle, where they play a role in
+excitation-contraction coupling and action potential shaping, respectively.
+                
+L-type calcium channnels are formed from different alpha-1 subunit isoforms
+that determine the pharmacological properties of the channel, since they
+form the drug binding domain. Other properties, such as gating voltage-
+dependence, G protein modulation and kinase susceptibility, are influenced 
+by alpha-2, delta and beta subunits [1].
+                
+Co-expression of beta subunit mRNA with alpha-1 subunit mRNA in Xenopus
+oocytes produces increased calcium currents, which are accompanied by a
+shift in the voltage-dependence of activation to more negative membrane
+potentials. Conversely, microinjection of antisense oligonucleotides to 
+beta subunit mRNA produces decreased calcium currents and shifts voltage-
+dependent activation to more positive membrane potentials. There are
+four distinct beta subunits: beta-1, beta-2, beta-3 and beta-4; and the
+magnitude of these effects varies with the particular subtype [2].
+
+Beta-3 subunits are most abundant in the brain, but are also present in
+aorta, trachea, lung, heart, skeletal muscle and pancreatic islets, where
+they play a role in the regulation of insulin secretion [4]. The beta-3
+subunits regulate the activation (opening) and inactivation (closing)
+kinetics through phosphorylation and dephosphorylation. However, it is noted
+that no single channel is dependent on the beta-3 subunit [5].
+
+LCACHANNELB3 is a 4-element fingerprint that provides a signature for the
+L-type calcium channel beta-3 subunit. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the beta-3 subunits but distinguish them from the
+rest of the L-type calcium channel beta subunits - motifs 1 and 2 reside at
+the N-terminus; and motifs 3 and 4 at the C-terminus. Two iterations on
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 8 sequences was identified. A single partial match was also
+found, O57653, a beta-3 subunit from Fugu rubripes that matches motifs 2-4.

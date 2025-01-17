@@ -1,0 +1,27 @@
+C2DOMAIN
+C2 domains are Ca2+-regulatory domains found widely in nature. To date,
+more than 40 distinct C2 domains have been identified, for example in
+proteins such as synaptotagmin, phospholipase A2, GTPase-activating
+proteins, rabphilin and phospholipase C isoforms [1]. The domains show
+no sequence similarity to other Ca2+-binding proteins; they thus
+constitute a novel family of Ca2+-regulatory motifs, which also
+includes members that have lost their calcium regulation.
+
+The structure of C2 domains in synaptotagmin I has been deduced: the C2
+polypeptide forms an 8-stranded beta-sandwich constructed around a 
+conserved 4-stranded motif, designated a C2 key [1]. Calcium binds in
+a cup-shaped depression formed by the N- and C-terminal loops of the
+C2-key motif.
+
+C2DOMAIN is a 3-element fingerprint that provides a signature for C2
+domains. The fingerprint was derived from an initial alignment of 12
+sequences: the motifs were drawn from short conserved regions within
+the C2-key core, corresponding to strands 3, 5 and 6 res., and including
+3 of the 4 acidic residues involved in Ca2+ ligation. Three iterations on
+OWL26.0 were required to reach convergence, at which point a true set
+comprising 74 sequences was identified. Several partial matches were
+also found, which was to be expected since the degree of sequence
+divergence was high and the motifs therefore relatively short.
+
+An update on SPTR37_9f identified a true set of 86 sequences, and 38
+partial matches.

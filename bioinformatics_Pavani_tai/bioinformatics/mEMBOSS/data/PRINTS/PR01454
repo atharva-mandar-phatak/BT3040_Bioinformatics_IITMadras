@@ -1,0 +1,30 @@
+EPMEMPROT1
+The epithelial membrane proteins (EMP-1, -2 and -3), peripheral myelin 
+protein 22 (PMP22), and lens fiber membrane intrinsic protein (LMIP)
+comprise a protein family on the basis of sequence and structural 
+similarities [1]. Each family member is a small hydrophobic membrane
+glycoprotein, ~160-170 amino acids in length, and shares a common predicted
+transmembrane (TM) topology of 4 TM domains, with intracellular N- and 
+C-termini [2]. 
+
+EMP-1, previously termed tumour-associated membrane protein (TMP), was 
+originally isolated from a mouse brain tumour [3]. Human, rat and rabbit
+isoforms have also been identified. EMP-1 is expressed in a wide range of
+tissues, including heart, placenta, lung, skeletal muscle, kidney and small
+intestine [4]. A role for the protein in the control of cell growth has
+been suggested [1]. EMP-1 is expressed at high levels in proliferating
+cells, and at reduced levels in cells undergoing growth arrest [3]. In
+contrast, PMP22, which is co-expressed with EMP-1 in a range of tissues,
+displays an inverse pattern of regulation, with high levels of expression
+in cultured cells undergoing growth arrest [3]. It has therefore been 
+proposed that these proteins may have reciprocal functions in the control
+of cell quiescence and proliferation.
+
+EPMEMPROT1 is a 3-element fingerprint that provides a signature for
+epithelial membrane protein EMP-1. The fingerprint was derived from an 
+initial alignment of 4 sequences: the motifs were drawn from conserved loop
+and TM regions, focusing on those sections that characterise epithelial 
+membrane protein EMP-1 but distinguish it from other family members - motifs
+1 and 2 lie in the first extracellular loop; and motif 3 resides within 
+TM domain 3. A single iteration on SPTR39_14f was required to reach
+convergence, no further sequences being identified beyond the starting set.

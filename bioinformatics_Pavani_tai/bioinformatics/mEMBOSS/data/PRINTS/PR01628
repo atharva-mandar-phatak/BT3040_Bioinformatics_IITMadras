@@ -1,0 +1,39 @@
+LCACHANNELB2
+Calcium channels are generally discriminated by their biophysical and/or
+pharmacological sensitivity. L-type calcium channels are distinguished by
+their modulation by compounds such as dihydropyridines. These channels
+tend to be localised mainly around the neuronal cell body, where they
+influence calcium-dependent modulation and excitation-transcription coupling,
+but are also found in skeletal and cardiac muscle, where they play a role in
+excitation-contraction coupling and action potential shaping, respectively.
+
+L-type calcium channnels are formed from different alpha-1 subunit isoforms
+that determine the pharmacological properties of the channel, since they
+form the drug binding domain. Other properties, such as gating voltage-
+dependence, G protein modulation and kinase susceptibility, are influenced 
+by alpha-2, delta and beta subunits [1].
+
+Co-expression of beta subunit mRNA with alpha-1 subunit mRNA in xenopus
+oocytes produces increased calcium currents, which are accompanied by a
+shift in the voltage-dependence of activation to more negative membrane
+potentials. Conversely, microinjection of antisense oligonucleotides to 
+beta subunit mRNA produces decreased calcium currents and shifts voltage-
+dependent activation to more positive membrane potentials. There are
+four distinct beta subunits: beta-1, beta-2, beta-3 and beta-4; and the
+magnitude of these effects varies with the particular subtype [2].
+
+There are 4 splice variants of the beta-2 subunit: beta-2a, beta-2b, beta-2c
+and beta-2d. Beta-2a and beta-2b are expressed in animal heart, aorta and 
+brain, and are 606- and 632-residue proteins, respectively. Beta-2c and
+beta-2d (655 and 604 residues, respectively) are expressed in brain, recent
+studies showing beta-2c to be expressed also in heart. All splice variants
+differ in their N-terminal regions [3].
+
+LCACHANNELB2 is a 5-element fingerprint that provides a signature for the
+L-type calcium channel beta-2 subunits. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the beta-2 subunits but distinguish them from 
+the rest of the L-type calcium channel beta subunits. Two iterations on
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 9 sequences was identified.

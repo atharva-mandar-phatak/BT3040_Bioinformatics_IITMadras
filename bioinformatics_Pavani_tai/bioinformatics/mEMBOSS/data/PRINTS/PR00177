@@ -1,0 +1,32 @@
+NMDARECEPTOR
+N-Methyl-D-aspartate (NMDA) receptors are members of the glutamate receptor
+channel superfamily, which mediate most of the fast excitory synaptic
+transmissions in the central nervous system. The superfamily consists of 3
+subtypes: kainate receptors, AMPA receptors and NMDA receptors. The NMDA
+receptor is highly permeable to calcium ions and plays a key role in the
+plasticity of synapses, which is believed to underlie memory and learning,
+as well as the development of the nervous system. Abnormal activation has
+been suggested to lead to neuronal cell death observed in many acute and
+chronic disorders such as ischemia, stroke, Alzheimer's disease, and 
+Huntington's disease [1].
+
+NMDA receptors possess 4 transmembrane (TM) helical domains in the C-
+terminal half of the sequence and require both glycine and glutamate for
+activation, resulting in influx of calcium ions into the cell [1]. The
+receptors can also be activated by polyamine, they can be blocked by
+magnesium ions, inhibited by zinc ions, and modulated by arachidonic acid.
+Other non-NMDA glutamate receptors (e.g., kainate) are structurally similar
+to NMDA receptors, but are functionally distinct, possibly as a result of
+amino acid substitutions at important positions in the sequence.
+
+NMDARECEPTOR is a 5-element fingerprint that provides a signature for the
+NMDA receptors. The fingerprint was derived from an initial alignment of 3
+sequences: motif 1 encodes a conserved hydrophilic region, and motifs 2-5
+encode the 4 TM helices. Two iterations on OWL20.1 were required to reach
+convergence, at which point a true set comprising 5 sequences was 
+identified. Several partial matches were also found, including an NMDA
+receptor fragment and 11 kainate receptors, which belong to the glutamate
+receptor superfamily.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 19
+partial matches.

@@ -1,0 +1,35 @@
+NAHCO3TRSPRT
+Na+/HCO3- co-transport proteins are involved in cellular HCO3- absorption
+and secretion, and also with intracellular pH regulation. They mediate the
+coupled movement of Na+ and HCO3- across plasma membranes in most of the
+cell types so far investigated. A single HCO3- is transported together with
+one to three Na+; this transport mode is therefore often electrogenic. In
+the kidney, an electrogenic Na+/HCO3- co-transporter is the principal HCO3-
+transporter of the renal proximal tubule, and is responsible for
+reabsorption of more than 85% of the filtered load of HCO3- [1]. Until
+recently, the molecular nature of these Na+/HCO3- co-transporters had
+remained undiscovered, as initial attempts to clone them based on presumed
+homology to Cl-/HCO3- (anion) exchangers had proved unsuccessful. Instead,
+an expression cloning strategy was successfully utilised to identify the
+Na+/HCO3- co-transporter from salamander kidney, an organ previously found
+to possess electrogenic Na+/HCO3- co-transport activity [2]. The cloned co-
+transporter consists of 1035 amino acids, and shows ~25-30% sequence
+identity to anion exchanger proteins, which is distributed along the entire
+sequence length. They also share very similar hydropathy plots, suggesting
+they have ~10 transmembrane (TM) domains.
+
+At least 3 mammalian Na+/HCO3- co-transporters have since been cloned, with
+similar primary sequence lengths and putative membrance topologies. One of
+these has been found to be a kidney-specific isoform [3], which is near-
+identical (except for a varying N-terminal region) to a more widely-
+distributed co-transporter cloned from pancreatic tissue [4].
+
+NAHCO3TRSPRT is a 7-element fingerprint that provides a signature for
+Na+/HCO3- co-transporters. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions 
+spanning the N-terminal half of the alignment; motifs 1-5 lie in the
+putative cytoplasmic N-terminus; motif 6 spans the end of the second
+putative TM domain, through the start of the third TM domain; and motif
+7 lies at the end of the fourth TM domain. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising
+10 sequences was identified.

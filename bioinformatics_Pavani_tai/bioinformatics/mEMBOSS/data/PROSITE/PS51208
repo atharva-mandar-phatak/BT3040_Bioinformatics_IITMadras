@@ -1,0 +1,141 @@
+***************************************
+* Autotransporter beta-domain profile *
+***************************************
+
+Among  the  pathways  that  Gram-negative  bacteria  have  evolved  to secrete
+proteins  to  the surface or the extracellular milieu, autotransporter protein
+secretion  pathway  (type  Va,  AT-1  or  TC  1.B.12),  is one of the simplest
+secretion  mechanisms,  and  is  widely  distributed, especially in pathogenic
+bacteria  [1,2,3,E1].  As implied by their name, autotransporter (AT) proteins
+contain  all  the  necessary  determinants  for translocation across the outer
+membrane   within  their  own  polypeptide.  They  have  a  modular  structure
+consisting  of an N-terminal signal peptide, followed by a "passenger" domain,
+and  by a C-terminal module called the "translocation unit", which consists of
+a  short  linker  region  with  an  alpha-helical  secondary  structure  and a
+beta-domain of 250 to 300 amino acid residues [2,3].
+
+Such a structure is shown in the following schematic representation:
+
+                                                +-- translocation unit --+
+                                                |                        |
+  +--+------------------------------------------+-------+----------------+
+  |SP|            passenger domain              |linker |  beta-domain   |
+  +--+------------------------------------------+-------+----------------+
+
+  'SP': signal peptide;
+
+While  the  translocation  units  of  ATs are highly homologous, the passenger
+domains  are  very  diverse. To date, all characterized passenger domains have
+been  implicated  in  virulence  by  displaying  enzymatic activity (protease,
+peptidase,  lipase and esterase); mediating actin-promoted bacterial motility;
+acting   as   adhesins,   immunomodulatory  proteins,  toxins  or  cytotoxins,
+permitting the maturation of other virulence proteins. ATs are present only in
+the  eubacteria  and  are  most prevalent in Proteobacteria, including alpha-,
+beta-, gamma-, and epsilon-Proteobacteria classes [2].
+
+At  the  cell  surface,  the  precursors  of  many  AT  proteins may undergo a
+proteolytic  cleavage  in  the  course  of  secretion,  which results in their
+separation  into  two  polypeptides, the beta-domain in the outer membrane and
+the  passenger protein exposed at the surface or released into the milieu. The
+cleavage  is  mediated by the integral serine protease active sites of the AT,
+present  in  the  passenger  domain  or  by  a  variety  of proteases. But the
+passenger  domain  is  not necessarily cleaved and may also remain intact as a
+large protein with a membrane-bound C-terminal domain and an N-terminal domain
+extending into the external milieu [2,3].
+
+One  model  for  AT secretion suggests that following the Sec-dependent export
+across  the inner membrane, the beta-domain inserts into the outer membrane in
+an  anti-parallel  beta-barrel  structure  that  forms  a  pore,  in the outer
+membrane,  through which the passenger domain is translocated to the bacterial
+surface  in  an unfolded form [2,3].
+
+The  3D  structure  of  translocation unit of NalP from Neisseria meningitides
+reveals  a 12-stranded anti-parallel beta-barrel with a hydrophilic pore of 10
+X  12.5  angstroms  (see <PDB:1UYN>) [4], which is consistent with this model.
+However,  it  has  been  reported  that  the  purified C-terminal part of IgA1
+protease  from  Neisseria  gonorroheae  forms  an oligomeric ring-like complex
+containing  a  central  hydrophilic  channel  from  which the folded passenger
+domains  with  a  diameter  of ~2 nm are secreted [5]. Recently an alternative
+model  was  proposed  in which the passenger domain is secreted through a pore
+formed  by  the  omp85  complex,  a component of the general machinery for the
+assembly  of  outer  membrane  proteins,  rather  than  through  a pore by the
+translocation unit [4].
+
+Some other proteins known to belong to this family are listed below:
+
+ - Serratia marcescens serine protease ssp.
+ - Pasteurella haemolytica serotype 1-specific antigen ssa1.
+ - Helicobacter pylori vacuolating cytotoxin vacA.
+ - Escherichia coli adhesin aidA.
+ - Shigella flexneri outer membrane protein icsA.
+ - Escherichia coli antigen ag43.
+ - Escherichia coli adhesin/invasin tibA.
+ - Salmonella typhimurium adhesin shdA.
+ - Haemophilus influenzae adhesion and penetration protein hap.
+ - Neisseria meningitidis adhesion and penetration protein app.
+ - Escherichia coli temperature-sensitive hemagglutinin tsh.
+ - Shigella flexneri serine protease sepA.
+ - Escherichia coli serine protease espC.
+ - Escherichia coli serine protease espP.
+ - Escherichia coli serine protease pet.
+ - Escherichia coli serine protease pic.
+ - Shigella flexneri serine protease sigA.
+ - Escherichia coli O6 serine protease sat.
+ - Escherichia coli vacuolating autotransporter toxin vat.
+ - Bordetella pertussis brkA.
+ - Bordetella pertussis pertactin.
+ - Bordetella pertussis tracheal colonization factor tcfA.
+ - Chlamydia trachomatis polymorphic membrane protein pmpD.
+ - Rickettsia rickettsii outer membrane protein rompA.
+ - Rickettsia rickettsii outer membrane protein rompB.
+ - Pseudomonas aeruginosa esterase estA.
+ - Salmonella typhimurium outer membrane esterase apeE.
+ - Photorhabdus luminescens lipase lip-1.
+ - Moraxella catarrhalis esterase mcaP.
+ - Helicobacter pylori adhesin babA.
+ - Helicobacter pylori adhesin sabA.
+ - Actinobacillus actinomycetemcomitans adhesin aae.
+ - Pasteurella multocida sialidase NanB.
+
+The profile we developed covers the entire beta-domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2006 / First entry.
+
+[ 1] Loveless B.J., Saier M.H. Jr.
+     "A novel family of channel-forming, autotransporting, bacterial
+     virulence factors."
+     Mol. Membr. Biol. 14:113-123(1997).
+     PubMed=9394291
+[ 2] Henderson I.R., Navarro-Garcia F., Desvaux M., Fernandez R.C.,
+     Ala'Aldeen D.
+     "Type V protein secretion pathway: the autotransporter story."
+     Microbiol. Mol. Biol. Rev. 68:692-744(2004).
+     PubMed=15590781; DOI=10.1128/MMBR.68.4.692-744.2004
+[ 3] Jacob-Dubuisson F., Fernandez R., Coutte L.
+     "Protein secretion through autotransporter and two-partner pathways."
+     Biochim. Biophys. Acta 1694:235-257(2004).
+     PubMed=15546669; DOI=10.1016/j.bbamcr.2004.03.008
+[ 4] Oomen C.J., van Ulsen P., van Gelder P., Feijen M., Tommassen J.,
+     Gros P.
+     "Structure of the translocator domain of a bacterial
+     autotransporter."
+     EMBO J. 23:1257-1266(2004).
+     PubMed=15014442; DOI=10.1038/sj.emboj.7600148
+[ 5] Veiga E., de Lorenzo V., Fernandez L.A.
+     "Structural tolerance of bacterial autotransporters for folded
+     passenger protein domains."
+     Mol. Microbiol. 52:1069-1080(2004).
+     PubMed=15130125; DOI=10.1111/j.1365-2958.2004.04014.x;
+[E1] http://www.tcdb.org/tcdb/index.php?tc=1.B.12
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

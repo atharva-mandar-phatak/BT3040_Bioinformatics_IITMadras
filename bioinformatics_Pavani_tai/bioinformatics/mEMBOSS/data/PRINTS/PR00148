@@ -1,0 +1,25 @@
+ENOLASE
+Enolase (2-phospho-D-glycerate hydrolase) is an essential glycolytic enzyme
+that catalyses the interconversion of 2-phosphoglycerate and phosphoenol-
+pyruvate [1,2]. In vertebrates, there are 3 different, tissue-specific
+isoenzymes, designated alpha, beta and gamma: alpha is present in most
+tissues; beta is localised in muscle tissue; and gamma is found only in
+nervous tissue. The functional enzyme exists as a dimer of any 2 isoforms
+[3]: in immature organs and in adult liver, it is usually an alpha homo-
+dimer; in adult skeletal muscle, a beta homodimer; and in adult neurons, a
+gamma homodimer; in developing muscle, it is usually an alpha/beta hetero-
+dimer; and in the developing nervous system, an alpha/gamma heterodimer
+[3]. The tissue specific forms display minor kinetic differences.
+
+ENOLASE is a 6-element fingerprint that provides a signature for enolases.
+The fingerprint was derived from an initial alignment of 7 sequences: the
+motifs line the active site, motif 4 including the region encoded by
+PROSITE pattern (PS00164), the first Asp of which is implicated in
+magnesium ion binding. Two iterations on OWL21.1 were required to reach
+convergence, at which point a true set comprising 31 sequences was 
+identified. Four partial matches were also found, 3 of which are fragments,
+the fourth (MBP1_HUMAN) being a c-myc promoter-binding protein known to
+share regions of strong similarity with enolases.
+
+An update on SPTR37_9f identified a true set of 66 sequences, and 3
+partial matches.

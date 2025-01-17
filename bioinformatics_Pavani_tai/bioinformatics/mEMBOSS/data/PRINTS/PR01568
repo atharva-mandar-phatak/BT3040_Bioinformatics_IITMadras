@@ -1,0 +1,61 @@
+LYMPHOTACTNR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family).
+
+Two additional chemokine families have also been identified, each containing
+only one member. C chemokines have only one of the first two Cys residues,
+while C-x3-C chemokines contain both cysteines, separated by three
+intervening residues [8]. Lymphotactin is the only known member of the C
+chemokine family. It has closest similarity to the C-C chemokines but
+contains only the second and fourth of the conserved cysteine residues. The
+chemokine is produced by certain subsets of T cells and natural killer cells
+and is also chemotactic for these cell types [7,8].
+
+An orphan receptor (GPR5) has been identified as a receptor for lymphotactin
+and has been renamed XCR1 [8]. XCR1 is strongly expressed in placenta and at
+lower levels in the spleen and thymus. It is detected only at very low
+levels in peripheral blood leukocytes [8]. Within these tissues, expression
+of XCR1 appears to be restricted to CD8+ T cells and natural killer cells
+[9]. Binding of lymphotactin to XCR1 stimulates calcium mobilisation and
+migration in a pertussis toxin-sensitive manner, indicating coupling of the
+receptor to Gi type proteins [8]. The matching expression patterns of both
+lymphotactin and its receptor suggest a role for the chemokine in self- 
+recruitment of leukocytes [9].
+
+LYMPHOTACTNR is an 8-element fingerprint that provides a signature for the
+lymphotactin receptors. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections
+that characterise the lymphotactin receptors but distinguish them from the
+rest of the chemokine receptor family - motif 1 lies at the N-terminus, 
+leading into TM domain 1; motif 2 encodes the first cytoplasmic loop, 
+leading into TM domain 2; motif 3 spans the N-terminal portion of TM domain
+3; motif 4 spans the second cytoplasmic loop; motif 5 lies at the C-terminus
+of TM domain 4, leading into the second external loop; motif 6 resides in 
+the second external loop, leading into TM domain 5; motif 7 encodes the 
+third cytoplasmic loop; and motif 8 is located at the C-terminus. A single
+iteration on SPTR39.22_17.3f was required to reach convergence, no further
+sequences being identified beyond the starting set.

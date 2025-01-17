@@ -1,0 +1,60 @@
+GSTRNSFRASEO
+Glutathione S-transferases (GSTs) are a range of dimeric proteins that
+catalyse the conjugation of glutathione to a wide range of hydrophobic
+compounds through the formation of a thioether bond with their
+electrophilic centre. Based on amino acid sequence identity, there are at
+least seven major classes of GST (designated alpha, kappa, mu, pi, sigma, 
+theta and zeta). Pi-, mu-, alpha- and theta-class crystal structures have
+been elucidated; all possess a similar GSH-binding site (G subsite), but 
+the hydrophobic substrate-binding site (H subsite) is subject to variation 
+across the classes [1]. Whilst most of the GSTs share common substrates,
+there are distinct differences in substrate preference between subfamilies.
+Sequence similarity between classes is rather low, ranging between 20-30%.
+However, a single point mutation in the H-subsite region is enough to shift
+substrate specificity from class pi to alpha [2].
+
+These enzymes have evolved as a cellular protection system against a range
+of xenobiotics, oxidative metabolism by-products, and in particular are
+known to metabolise a number of environmental carcinogens. The wide range
+of GST isoforms present in the various subfamilies provides cells with an
+efficient way of scavenging the huge number of potentially toxic compounds
+encountered. Genetic differences in GST expression have been implicated in
+individual susceptibility to certain types of cancer. Conversely, over- 
+expression of GSTs is thought to be involved in the phenomenon of multi-drug
+resistance to cancer chemotherapy.
+
+In spite of relatively low sequence identity, the GSTs exhibit a high degree
+of structural similarity. The structure comprises 2 domains: domain I is the
+smaller of the two and is formed from the N-terminal region of the sequence
+- it possesses an alpha/beta-type core structure comprising a central 
+4-stranded beta-pleated sheet, flanked on one side by two alpha-helices and
+on the other by a single helix; domain II is the larger of the domains and
+occurs towards the C-terminal region of the sequence - it contains a
+predominantly all-alpha-type core comprising 5 amphipathic alpha-helices,
+arranged in a right-handed spiral. The active site is situated near the
+subunit interface. G-subsite molecular recognition is attributable mostly 
+to residues in domain I of one subunit and 1 or 2 residues in domain II of
+the other subunit. Residues contributing to H-subsite specificity are found
+within domains I and II of the same subunit [3].
+
+Recently, a new class of GST has been discovered by analysis of expressed
+sequence tag databases, termed the omega-class. Recombinant human omega-
+class GST shows glutathione-dependent thiol transferase and dehydroascorbate
+reduction activity. This sort of activity has not been observed in any other
+class of GSTs, but is associated with the glutaredoxins (thioltransferases).
+Members of this class of GST have a novel unique N-terminal extension, and a
+cysteine residue in the active site, which is different from the tyrosine
+and serine residues found at the active sites of other eukaryotic GSTs [4].
+
+GSTRNSFRASEO is a 3-element fingerprint that provides a signature for
+omega-class glutathione S-transferases. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 includes
+strand 1; motif 2 encompasses the loop between helices 3 and 4, and the
+N-terminal portion of helix 4; and motif 3 encodes the loop between helices
+6 and 7, and the N-terminal half of helix 7. Two iterations on SPTR40_18f
+were required to reach convergence, at which point a true set comprising 15
+sequences was identified. A single partial match was also found, YKJ3_CAEEL,
+a C.elegans chromosome III hypothetical protein that exhibits a high degree
+of similarity to omega-class GSTs, but fails to make a significant match 
+with motif 1.

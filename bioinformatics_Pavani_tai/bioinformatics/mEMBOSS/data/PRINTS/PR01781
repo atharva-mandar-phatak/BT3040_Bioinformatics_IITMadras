@@ -1,0 +1,61 @@
+LATPROTEIN
+A key event in the regulation of the adaptive immune response is the binding
+of major histocompatibility complex (MHC)-peptide complexes to T cell 
+antigen receptors (TCRs). The formation of such ternary complexes induces 
+significant biochemical changes within T cells of the host animal. The first 
+detectable response of the T cell is the rapid accumulation of numerous 
+tyrosine-phosphorylated proteins within the cell. Increased phosphotyrosine 
+occurs as a consequence of the activation of several different TCR-
+associated, hematopoietic-specific protein kinases (PTKs), thereby perturbing
+the balance between those enzymes that add, and those that remove,  
+phosphates from key tyrosine residues. These initial phosphorylation events 
+are required for the subsequent activation of the small guanosine 
+triphosphatase (GTPase) proteins Ras and Rac, the lipid kinase P13K and PLC-
+gamma1. Activation of these cytoplasmic signalling proteins ultimately leads
+to activation of various transcription factors (NF-AT, NF-kB, and AP-1) and
+increased transcription from genes that have an important role in initiating
+T cell proliferation, such as interleukin-2 (IL-2) [1,2].
+
+An unresolved question in the field has been which molecules and what 
+sequence of events tie together the early tyrosine phosphorylation events 
+with the activation of these downstream signalling molecules. A likely 
+candidate for linking the proximal and distal portions of the TCR signalling
+pathway is a 36kDa transmembrane (TM) protein termed LAT. LAT becomes 
+phosphorylated after TCR engagement, thereby creating binding sites for the 
+Src homology 2 (SH2) domains of other proteins, including PLC-gamma1, Grb2,
+Gads, Grap, 3BP2 and Shb. It also indirectly binds SOS, c-Cbl, Vav, SLP-76
+and Itk [1].
+
+LAT is expressed in peripheral blood lymphocytes, thymus and spleen, as
+well as in other blood cells, including megakaryocytes, platelets, natural 
+killer cells and mast cells. It is excluded from the cytosol, and is found 
+at the plasma membrane and in the perinuclear compartment. The cellular 
+localisation of LAT seems to be extremely sensitive to alternations in the 
+intracellular redox balance. Reduced intracellular levels of antioxidants 
+result in the membrane displacement of LAT (a consequence of a 
+conformational change interfering with its insertion into the membrane), 
+abrogation of TCR-mediated signalling and, consequently, hyporesponsiveness 
+of T lymphocytes [1,3].
+
+The amino acid sequence of LAT contains no recognised functional domains, 
+but, consistent with its strong tyrosine phosphorylation upon TCR 
+stimulation, its predicted cytoplasmic tail contains 10 tyrosines, 9 of 
+which are conserved between mouse, rat and human proteins. In addition, 
+LAT also has 2 cysteine residues (Cys26 and Cys29 in human) that are 
+conserved among human, rat, mouse and bovine proteins. These residues lie 
+proximal to the inner face of the plasma membrane: Cys26 within the TM 
+region and Cys29 located juxtamembrane. These membrane-proximal residues 
+are thought to play a vital role in LAT function. In fact, LAT is subject to
+post-translational palmitoylation of these residues, which appears to be 
+necessary to target LAT to lipid rafts in the membrane, where it can 
+recruit key cytosolic signalling proteins to the aggregated rafts upon TCR 
+stimulation. Raft membrane domains are envisaged as lateral assemblies of 
+sphingolipids and cholesterol that form ordered membrane phases [1,2].
+
+LATPROTEIN is a 6-element fingerprint that provides a signature for LAT 
+proteins. The fingerprint was derived from an initial alignment of 3 
+sequences: the motifs were drawn from conserved regions spanning virtually 
+the full alignment length - all reside in the putative cytoplasmic domain,
+motifs 4 and 5 each including GRB2-binding motifs. A single iteration on 
+SPTR39_17f was required to reach convergence, no further sequences being 
+identified beyond the starting set.

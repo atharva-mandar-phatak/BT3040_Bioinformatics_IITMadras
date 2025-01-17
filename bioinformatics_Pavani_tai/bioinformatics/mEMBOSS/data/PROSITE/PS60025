@@ -1,0 +1,81 @@
+*******************************
+* Conantokin family signature *
+*******************************
+
+The conantokins  are  a  family of neuroactive peptides found in the venoms of
+fish-hunting cone snails. They possess a high content of gamma-carboxyglutamic
+acid (Gla)  (4-5  residues),  a  non-standard  amino-acid  made  by  the post-
+translational modification  of  glutamate  (Glu)  residue. Conantokins are the
+only natural   biochemical-characterized  peptides  known  to  be  N-methyl-D-
+aspartate (NMDA)  receptor antagonists. They are one class of agents that show
+therapeutic promise  in  treating  conditions  associated  with  NMDA receptor
+dysfunction. In  animal  models  they  have exhibited anticonvulsant and anti-
+Parkinsonian properties    and    have    provided    neuroprotection   within
+therapeutically acceptable  times  following  transient  focal  brain ischemia
+[1 to 5].
+
+Upon binding  of Ca2+ to Gla, conantokin undergoes a conformational transition
+from a  distorted  curvilinear  3(10)  helix  to  a  linear  alpha-helix  (see
+<PDV:1AD7> and <PDB:1AWY>).  The  binding  of  Ca2+ to conantokin leads to the
+exposure of a hydrophobic region on the opposite face of the helix [1]. Shared
+sequence elements  of  conantokins  are  relatively  few  and include sequence
+identity at the first four residues, homologous positioning of the two most C-
+terminal Gla residues, and an Arg preceding the most C-terminal Gla [3].
+
+The conantokin family is currently known to include:
+
+ - Conotoxin G from Conus geographus (Geography cone) (Nubecula geographus).
+ - Conantokin-L from Conus lynceus (Lynceus cone).
+ - Conantokin-R from Conus radiatus (Rayed cone).
+ - Conantokin-T from Conus tulipa (Fish-hunting cone snail) (Tulip cone).
+
+The pattern we developed for the conantokin family covers the Gla residues.
+
+-Conserved pattern: G-E-E-E-x(2)-[KE]-{E}(2)-x(0,1)-E-x-[ILA]-R-E
+                    [The 4-5 last E's are gamma-carboxylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: January 2006 / First entry.
+
+[ 1] Rigby A.C., Baleja J.D., Li L., Pedersen L.G., Furie B.C., Furie B.
+     "Role of gamma-carboxyglutamic acid in the calcium-induced structural
+     transition of conantokin G, a conotoxin from the marine snail Conus
+     geographus."
+     Biochemistry 36:15677-15684(1997).
+     PubMed=9398296; DOI=10.1021/bi9718550
+[ 2] Bandyopadhyay P.K., Colledge C.J., Walker C.S., Zhou L.-M.,
+     Hillyard D.R., Olivera B.M.
+     "Conantokin-G precursor and its role in gamma-carboxylation by a
+     vitamin K-dependent carboxylase from a Conus snail."
+     J. Biol. Chem. 273:5447-5450(1998).
+     PubMed=9488665
+[ 3] Prorok M., Castellino F.J.
+     "Structure-function relationships of the NMDA receptor antagonist
+     conantokin peptides."
+     Curr. Drug. Targets. 2:313-322(2001).
+     PubMed=11554555
+[ 4] Blandl T., Zajicek J., Prorok M., Castellino F.J.
+     "Sequence requirements for the N-methyl-D-aspartate receptor
+     antagonist activity of conantokin-R."
+     J. Biol. Chem. 276:7391-7396(2001).
+     PubMed=11096077; DOI=10.1074/jbc.M006648200
+[ 5] Jimenez E.C., Donevan S., Walker C., Zhou L.-M., Nielsen J., Cruz L.J.,
+     Armstrong H., White H.S., Olivera B.M.
+     "Conantokin-L, a new NMDA receptor antagonist: determinants for
+     anticonvulsant potency."
+     Epilepsy. Res. 51:73-80(2002).
+     PubMed=12350383
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

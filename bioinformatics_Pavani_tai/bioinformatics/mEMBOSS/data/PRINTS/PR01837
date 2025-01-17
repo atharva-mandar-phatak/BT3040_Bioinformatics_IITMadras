@@ -1,0 +1,18 @@
+MGTCSAPBPROT
+The MgtC protein is encoded by the mgtCB operon, which also encodes the
+P-type Mg2+-transporter, MgtB [1]. MgtC is a small hydrophobic protein
+with 5-6 putative transmembrane segments based on hydropathy analysis [2].
+The function of MgtC is unknown; however, it is essential for virulence of
+Salmonella typhimurium and does not appear to be a Mg2+ transporter [1].
+It has been speculated that it may be involved in membrane recognition or
+that it might be exported from the bacterium to the eukaryotic cell
+membrane, possibly acting as some kind of channel [2]. The MgtC domain-
+containing Bacillus subtilis SapB protein is also included in this family.
+
+MGTCSAPBPROT is a 4-element fingerprint that provides a signature for the
+MgtC/SapB proteins. The fingerprint was derived from an initial alignment of
+8 sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length. Two iterations on SPTR40_20f were required to
+reach convergence, at which point a true set comprising 30 sequences was
+identified. Two partial matches were also found, Q8YRP8 and Q9HPQ3, members
+of the MgtC/SapB family that failed to match one or more motifs.

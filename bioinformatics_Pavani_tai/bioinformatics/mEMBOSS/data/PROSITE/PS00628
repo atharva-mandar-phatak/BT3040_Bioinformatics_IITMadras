@@ -1,0 +1,49 @@
+************************************
+* Ribosomal protein S19e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the  basis  of  sequence similarities [1,2]. One of these families consists
+of:
+
+ - Mammalian S19.
+ - Drosophila S19.
+ - Ascaris lumbricoides S19g (ALEP-1) and S19s.
+ - Plants S19.
+ - Yeast RPS19A/RPS19B (RP55A/RP55B).
+ - Aspergillus S16.
+ - Archebacterial S19e.
+
+These proteins  have  143  to  155  amino  acids.  As  a signature pattern, we
+selected a  well  conserved  stretch  of 20 residues in the C-terminal part of
+these proteins.
+
+-Consensus pattern: P-x(6)-[SANG]-x(2)-[LIVMAC]-x-R-x-[ALIV]-[LV]-[QH]-x-L-
+                    [EQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bernard V.; vincent.bernard@unifr.ch
+
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Etter A., Aboutanos M., Tobler H., Mueller F.
+     "Eliminated chromatin of Ascaris contains a gene that encodes a
+     putative ribosomal protein."
+     Proc. Natl. Acad. Sci. U.S.A. 88:1593-1596(1991).
+     PubMed=2000367
+[ 2] Suzuki K., Olvera J., Wool I.G.
+     "The primary structure of rat ribosomal protein S19."
+     Biochimie 72:299-302(1990).
+     PubMed=2116918
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

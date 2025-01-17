@@ -1,0 +1,93 @@
+****************************************************
+* AP endonucleases family 1 signatures and profile *
+****************************************************
+
+Cellular  DNA  is  spontaneously and continuously damaged by environmental and
+internal  factors  such  as  X-rays, UV light and agents such as the antitumor
+drugs  bleomycin  and neocarzinostatin or those that generate oxygen radicals.
+Apurinic/apyrimidinic  (AP)  sites  form  both  spontaneously  and  as  highly
+cytotoxic  intermediates  in  the  removal  of  the  damaged  base by the base
+excision  repair  (BER)  pathway.  DNA  repair at the AP sites is initiated by
+specific   endonuclease   cleavage   of   the  phosphodiester  backbone.  Such
+endonucleases  are also generally capable of removing blocking groups from the
+3'terminus of DNA strand breaks.
+
+AP  endonucleases can be classified into two families on the basis of sequence
+similarity  and  structure  (cf.  family 2 <PDOC00599>). What we call family 1
+groups the enzymes listed below [1].
+
+ - Escherichia coli exonuclease III (gene xthA) (EC 3.1.11.2).
+ - Streptococcus  pneumoniae  and  Bacillus subtilis exonuclease A (gene exoA)
+   (EC=3.1.11.2).
+ - Mammalian AP endonuclease 1 (AP1) (EC 4.2.99.18).
+ - Drosophila recombination repair protein 1 (gene Rrp1) (EC=4.2.99.18).
+ - Arabidopsis   thaliana   apurinic  endonuclease-redox  protein  (gene  arp)
+   (EC=4.2.99.18).
+ - Dictyostelium   DNA-(apurinic  or  apyrimidinic  site)  lyase  (gene  apeA)
+   (EC=4.2.99.18).
+
+Except for  Rrp1  and  arp, these enzymes are proteins of about 300 amino-acid
+residues.  Rrp1 and arp both  contain  additional  and  unrelated sequences in
+their N-terminal section (about 400 residues for Rrp1 and 270 for arp).
+
+The  structures  of  bacterial exonuclease III and mammalian AP endonuclease 1
+show  an alpha/beta-sandwich structure (see <PDB:1HD7; A>) with a fold similar
+to  that  of DNase I (see <PDOC00711>). One or two divalent metal ions such as
+magnesium or manganese can bind in the active site [2].
+
+We  developed  three  signature  patterns  and  a  profile  for this family of
+enzymes.  The  first pattern contains a glutamate which has been shown [3], in
+the  Escherichia coli enzyme to bind a divalent metal ion such as magnesium or
+manganese.  The  patterns are based on the most conserved regions [4]. We also
+developed a profile that spans the entire AP endonucleases family 1 structure.
+
+-Consensus pattern: [APF]-D-[LIVMF](2)-{T}-[LIVM]-Q-E-{G}-K
+                    [E binds a divalent metal ion]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Consensus pattern: D-[ST]-[FY]-[RP]-[KHQ]-x(7,8)-[FYWD]-[ST]-[FYW](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: N-x-G-x-R-[LIVM]-D-[LIVMFYH]-x-[LV]-x-S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2009 / Text revised; profile added.
+
+[ 1] Barzilay G., Hickson I.D.
+     "Structure and function of apurinic/apyrimidinic endonucleases."
+     BioEssays 17:713-719(1995).
+     PubMed=7661852
+[ 2] Beernink P.T., Segelke B.W., Hadi M.Z., Erzberger J.P.,
+     Wilson D.M. III, Rupp B.
+     "Two divalent metal ions in the active site of a new crystal form of
+     human apurinic/apyrimidinic endonuclease, Ape1: implications for the
+     catalytic mechanism."
+     J. Mol. Biol. 307:1023-1034(2001).
+     PubMed=11286553; DOI=10.1006/jmbi.2001.4529
+[ 3] Mol C.D., Kuo C.-F., Thayer M.M., Cunningham R.P., Tainer J.A.
+     "Structure and function of the multifunctional DNA-repair enzyme
+     exonuclease III."
+     Nature 374:381-386(1995).
+     PubMed=7885481; DOI=10.1038/374381a0
+[ 4] Kaneda K., Sekiguchi J., Shida T.
+     "Role of the tryptophan residue in the vicinity of the catalytic
+     center of exonuclease III family AP endonucleases: AP site recognition
+     mechanism."
+     Nucleic Acids Res. 34:1552-1563(2006).
+     PubMed=16540594; DOI=10.1093/nar/gkl059
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

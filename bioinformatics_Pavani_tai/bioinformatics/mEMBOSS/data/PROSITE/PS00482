@@ -1,0 +1,84 @@
+*****************************
+* Dihydroorotase signatures *
+*****************************
+
+Dihydroorotase (EC 3.5.2.3) (DHOase)  catalyzes  the third step in the de novo
+biosynthesis  of  pyrimidine,  the   conversion  of  ureidosuccinic  acid  (N-
+carbamoyl-L-aspartate) into dihydroorotate.  Dihydroorotase  binds  a zinc ion
+which is required for its catalytic activity [1].
+
+In bacteria, DHOase is  a dimer  of  identical  chains of about 400 amino-acid
+residues (gene pyrC).  In higher  eukaryotes, DHOase is part of a large multi-
+functional protein known as 'rudimentary' in Drosophila and CAD in mammals and
+which catalyzes  the  first  three  steps  of pyrimidine biosynthesis [2]. The
+DHOase domain  is  located in the central part of this polyprotein. In yeasts,
+DHOase is    encoded  by    a   monofunctional protein (gene URA4). However, a
+defective DHOase domain [3] is found in a multifunctional protein  (gene URA2)
+that catalyzes the first two steps of pyrimidine biosynthesis.
+
+The comparison  of  DHOase sequences from various sources shows [4] that there
+are two  highly  conserved  regions.  The  first  located  in  the  N-terminal
+extremity contains  two  histidine  residues  suggested  [3] to be involved in
+binding the zinc ion. The second is found in the C-terminal part. We developed
+signature patterns for both regions.
+
+Allantoinase (EC  3.5.2.5)  is  the  enzyme  that  hydrolyzes  allantoin  into
+allantoate.  In yeast (gene DAL1) [5], it is the first enzyme in the allantoin
+degradation pathway;  in amphibians [6] and fishs it catalyzes the second step
+in the  degradation of uric acid. The sequence of allantoinase is evolutionary
+related to that of DHOases.
+
+-Consensus pattern: D-[LIVMFYWSAP]-H-[LIVA]-H-[LIVF]-[RN]-x-[PGANF]
+                    [The 2 H's may be zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ Drosophila rud and two bacterial pyrC.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Consensus pattern: [GAVS]-[ST]-D-x-A-P-H-x(4)-K
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for allantoinases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Brown D.C., Collins K.D.
+     "Dihydroorotase from Escherichia coli. Substitution of Co(II) for the
+     active site Zn(II)."
+     J. Biol. Chem. 266:1597-1604(1991).
+     PubMed=1671037
+[ 2] Davidson J.N., Chen K.C., Jamison R.S., Musmanno L.A., Kern C.B.
+     "The evolutionary history of the first three enzymes in pyrimidine
+     biosynthesis."
+     BioEssays 15:157-164(1993).
+     PubMed=8098212
+[ 3] Souciet J.-L., Nagy M., Le Gouar M., Lacroute F., Potier S.
+     "Organization of the yeast URA2 gene: identification of a defective
+     dihydroorotase-like domain in the multifunctional carbamoylphosphate
+     synthetase-aspartate transcarbamylase complex."
+     Gene 79:59-70(1989).
+     PubMed=2570735
+[ 4] Guyonvarch A., Nguyen-Juilleret M., Hubert J.-C., Lacroute F.
+     "Structure of the Saccharomyces cerevisiae URA4 gene encoding
+     dihydroorotase."
+     Mol. Gen. Genet. 212:134-141(1988).
+     PubMed=2897615
+[ 5] Buckholz R.G., Cooper T.G.
+     "The allantoinase (DAL1) gene of Saccharomyces cerevisiae."
+     Yeast 7:913-923(1991).
+     PubMed=1803816
+[ 6] Hayashi S., Jain S., Chu R., Alvares K., Xu B., Erfurth F., Usuda N.,
+     Rao M.S., Reddy S.K., Noguchi T.
+     "Amphibian allantoinase. Molecular cloning, tissue distribution, and
+     functional expression."
+     J. Biol. Chem. 269:12269-12276(1994).
+     PubMed=8163532
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

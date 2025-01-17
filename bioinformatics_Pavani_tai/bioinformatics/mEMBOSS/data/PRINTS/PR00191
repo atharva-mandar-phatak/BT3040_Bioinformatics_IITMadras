@@ -1,0 +1,21 @@
+FACTINCAPA
+The actin filament system, a prominent part of the cytoskeleton in 
+eukaryotic cells, is both a static structure and a dynamic network that
+can undergo rearrangements: it is thought to be involved in processes
+such as cell movement and phagocytosis [1], as well as muscle contraction.
+Capping proteins bind to the ends of actin filaments, blocking the addition
+of actin monomers at this end. The capping protein is a heterodimer of alpha
+and beta subunits [2]: it binds to the barbed end of actin filaments, but
+unlike gelsolin and severin does not sever the filament [1]. Neither of the
+subunits shows sequence similarity to other filament-capping proteins [1].
+
+FACTINCAPA is a 3-element fingerprint that provides a signature for the 
+F-actin capping protein alpha subunit. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs span conserved regions
+located in the C-terminal half of the alignment, motifs 2 and 3 including
+the regions encoded by PROSITE patterns F_ACTIN_CAPPING_A_1 (PS00748) and
+F_ACTIN_CAPPING_A_2 (PS00749). Two iterations on OWL23.2 were required to
+reach convergence, at which point a true set comprising 7 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 10 sequences.

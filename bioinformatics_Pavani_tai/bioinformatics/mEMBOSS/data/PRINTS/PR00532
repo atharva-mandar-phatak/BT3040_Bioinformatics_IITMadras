@@ -1,0 +1,42 @@
+KAPPAOPIOIDR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The term opioid refers to a class of substance that produces its effects
+via the major classes of opioid receptor, termed mu, delta and kappa [6].
+In the CNS, the kappa opioid receptor is found in the cerebral cortex,
+substantia nigra, interpeduncular nucleus, striatum and hippocampus. In
+the periphery, it is found in the myenteric plexus of the guinea pig ileum,
+and it is also in certain smooth muscles, e.g. rabbit vas deferens [6].
+K-opioid receptors are believed to mediate analgesia, sedation, miosis and
+diuresis. Dynorphin is the most potent endogenous ligand.     
+
+KAPPAOPIOIDR is a 7-element fingerprint that provides a signature for the 
+kappa opioid receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the K-opioid receptors but distinguish
+them from the rest of the opioid receptor family - motifs 1-3 were drawn
+from the N-terminal region preceding TM domain 1; motifs 4 and 5 span the
+second external loop; motif 6 spans the third external loop leading into
+TM domain 7; and motif 7 was drawn from the C-terminus. A single iteration
+on OWL27.1 was required to reach convergence, no further sequences being
+identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

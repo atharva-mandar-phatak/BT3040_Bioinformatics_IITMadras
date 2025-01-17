@@ -1,0 +1,52 @@
+************************************
+* Ribosomal protein L21e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Mammalian L21 [1].
+ - Entamoeba histolytica L21 [2].
+ - Caenorhabditis elegans L21 (C14B9.7).
+ - Yeast L21E (URP1) [3].
+ - Halobacterium marismortui HL31 [4].
+
+These proteins   have   160  (eukaryotes)  or  95  (archebacteria)  amino-acid
+residues. As  a  signature  pattern,  we  selected  a  conserved region in the
+central part of these proteins.
+
+-Consensus pattern: [GN]-[DEQ]-x-V-x(10,11)-[GVT]-x(2)-[FYHDN]-x(2)-[FY]-x-G-
+                    x-[TV]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Devi K.R.G., Chan Y.-L., Wool I.G.
+     "The primary structure of rat ribosomal protein L21."
+     Biochem. Biophys. Res. Commun. 162:364-370(1989).
+     PubMed=2751657
+[ 2] Petter R., Rozenblatt S., Nuchamowitz Y., Mirelman D.
+     "Linkage between actin and ribosomal protein L21 genes in Entamoeba
+     histolytica."
+     Mol. Biochem. Parasitol. 56:329-333(1992).
+     PubMed=1484554
+[ 3] Jank B., Waldherr M., Schweyen R.J.
+     "Yeast single copy gene URP1 is a homolog of rat ribosomal protein
+     gene L21."
+     Curr. Genet. 23:15-18(1993).
+     PubMed=8428379
+[ 4] Hatakeyama T., Kimura M.
+     "Complete amino acid sequences of the ribosomal proteins L25, L29 and
+     L31 from the archaebacterium Halobacterium marismortui."
+     Eur. J. Biochem. 172:703-711(1988).
+     PubMed=3350019
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

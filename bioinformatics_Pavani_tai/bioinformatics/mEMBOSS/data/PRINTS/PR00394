@@ -1,0 +1,16 @@
+RHSPROTEIN
+RHS elements are proteins of non-essential function believed to play an
+important role in the natural ecology of the cell. The protein sequences
+comprise highly conserved N-terminal domains containing multiple tandem
+22-residue repeats, followed by divergent C-terminal domains [1,2]. 
+
+RHSPROTEIN is a 5-element fingerprint that provides a signature for RHS
+precursor proteins. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs span the highly-conserved region towards the
+C-terminal portion of the alignment following the tandem repeats. Two
+iterations on OWL OWL26.0 were required to reach convergence, at which
+point a true set comprising 8 sequences was identified. A single partial
+match was also found, an RHS protein fragment lacking the first 3 motifs.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 1
+partial match.

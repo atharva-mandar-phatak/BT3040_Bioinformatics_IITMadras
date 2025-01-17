@@ -1,0 +1,71 @@
+*****************************************
+* WHEP-TRS domain signature and profile *
+*****************************************
+
+A conserved domain of 46 amino  acids has been shown [1]  to exist in a number
+of higher eukaryote aminoacyl-transfer RNA synthetases. This domain is present
+one to six times in the following enzymes:
+
+ - Mammalian multifunctional aminoacyl-tRNA synthetase. The domain is  present
+   three  times in  a  region  that  separates  the  N-terminal  glutamyl-tRNA
+   synthetase domain from the C-terminal prolyl-tRNA synthetase domain.
+ - Drosophila multifunctional aminoacyl-tRNA synthetase. The domain is present
+   six times in the intercatalytic region.
+ - Mammalian tryptophanyl-tRNA synthetase.  The  domain  is  found  at  the N-
+   terminal extremity.
+ - Mammalian, insect, nematode and plant glycyl-tRNA synthetase. The domain is
+   found at the N-terminal extremity [2].
+ - Mammalian histidyl-tRNA synthetase.  The domain is found  at the N-terminal
+   extremity.
+
+The  structure  of  a  human  WHEP-TRS  domain  has  been  solved  by NMR (see
+<PDB:1FYJ>)  [3].  It  consists of two helices arranged in a helix-turn-helix.
+This  domain  may  play  a  role  in  the association of tRNA-synthetases into
+multienzyme complexes [4].
+
+We  developed a signature pattern based on the first 29 positions of the WHEP-
+domain. We also developed a profile that covers the whole WHEP-TRS domain.
+
+-Consensus pattern: [QYR]-[GH]-[DNEAR]-x-[LIV]-[KR]-x(2)-K-x(2)-[KRNG]-[AS]-
+                    x(4)-[LIV]-[DENKA]-x(2)-[IV]-x(2)-L-x(3)-K
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for hamster histidyl-tRNA synthetase whose sequence  may be incorrect in that
+ region.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Cerini C., Kerjan P., Astier M., Gratecos D., Mirande M., Semeriva M.
+     "A component of the multisynthetase complex is a multifunctional
+     aminoacyl-tRNA synthetase."
+     EMBO J. 10:4267-4277(1991).
+     PubMed=1756734
+[ 2] Nada S., Chang P.K., Dignam J.D.
+     "Primary structure of the gene for glycyl-tRNA synthetase from Bombyx
+     mori."
+     J. Biol. Chem. 268:7660-7667(1993).
+     PubMed=8463296
+[ 3] Jeong E.J., Hwang G.S., Kim K.H., Kim M.J., Kim S., Kim K.S.
+     "Structural analysis of multifunctional peptide motifs in human
+     bifunctional tRNA synthetase: identification of RNA-binding residues
+     and functional implications for tandem repeats."
+     Biochemistry 39:15775-15782(2000).
+     PubMed=11123902; DOI=10.1021/bi001393h
+[ 4] Rho S.B., Lee J.S., Jeong E.J., Kim K.S., Kim Y.G., Kim S.
+     "A multifunctional repeated motif is present in human bifunctional
+     tRNA synthetase."
+     J. Biol. Chem. 273:11267-11273(1998).
+     PubMed=9556618
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

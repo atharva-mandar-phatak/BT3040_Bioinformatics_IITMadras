@@ -1,0 +1,54 @@
+TREKCHANNEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered
+to be an essential element of the aqueous K+-selective pore. Shaker-type
+and Kir K+ channel subunits both contain a single P-domain, and four such 
+subunits are thought to associate to form a multimer, together with 
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunit was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one but two P-domains in each
+subunit, and evidence suggests a complete channel may be formed by the
+dimerisation of two such subunits.
+   
+The first member of this family (TOK1), cloned from S.cerevisiae [1], is
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show
+inward or outward rectification, their activity may be modulated in 
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these disparate
+properties, they are all thought to share the same topology of four TM 
+segments, including two P-domains. That TWIK-related K+ channels all produce
+instantaneous and non-inactivating K+ currents, which do not display a 
+voltage-dependent activation threshold, suggests that they are background
+(leak) K+ channels involved in the generation and modulation of the resting
+membrane potential in various cell types. Further studies have revealed that
+they may be found in many species, including: plants, invertebrates and
+mammals.
+
+TREK is a member of the TWIK-related (2-pore domain) K+ channel family
+identifed in human tissues. It has two members, designate TREK-1 and TREK-2. 
+TREK-1 is distributed in neuronal, cardiac and smooth muscle cells, whereas
+TREK-2 has been shown to be expressed in the cerebellum [7,8]. Both members
+are known as mechano-sensitive and unsaturated fatty acid-activated K+
+channels as they are opened by membrane stretch, cell swelling, shear
+stress and polyunsaturated fatty acids, such as arachidonic acid [8].
+
+TREKCHANNEL is a 12-element fingerprint that provides a signature for the
+Trek K+ channel. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length: motif 1 resides in the N-terminus; motif 2 spans part of
+the first putative TM domain; motifs 3, 4 and 5 span the loop between TM 
+domains 1 and 2; motif 6 spans TM domain 2; motif 7 resides in the loop
+between TM domains 2 and 3; motif 8 lies in TM domain 3; motifs 9 and 10
+span TM domain 4; and motifs 11 and 12 reside within the C-terminus. Two
+iterations on SPTR39_15f were required to reach convergence, at which point
+a true set comprising 4 sequences was identified. Two partial matches
+were also found, Q9NYG8 and O88454, which are human and mouse TWIK-related 
+arachidonic acid-stimulated potassium channel TRAAK proteins that match
+motifs 4, 6 and 10. 

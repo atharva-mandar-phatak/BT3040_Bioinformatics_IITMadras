@@ -1,0 +1,40 @@
+********************************
+* SAICAR synthetase signatures *
+********************************
+
+Phosphoribosylaminoimidazole-succinocarboxamide synthase  (EC 6.3.2.6) (SAICAR
+synthetase) catalyzes  the  seventh  step  in  the de novo purine biosynthetic
+pathway; the ATP-dependent conversion of 5'-phosphoribosyl-5-aminoimidazole-4-
+carboxylic acid  and  aspartic  acid  to  SAICAR [1]. In bacteria (gene purC),
+fungi (gene  ADE1)  and plants, SAICAR synthetase is a monofunctional protein;
+in higher  vertebrates  it  is the N-terminal domain  of a bifunctional enzyme
+that also catalyze phosphoribosylaminoimidazole carboxylase (AIRC) activity.
+
+As signature patterns for SAICAR synthetase, we selected two conserved regions
+in the central section of this enzyme.
+
+-Consensus pattern: [LIVMRPA]-[LIVFY]-[PLNRKG]-[LIVMF]-E-x-[IV]-[LVCATI]-R-
+                    x(3)-[TAEYSI]-G-[ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LI]-[IVCAP]-D-x-K-[LIFY]-E-[FI]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Zalkin H., Dixon J.E.
+     "De novo purine nucleotide biosynthesis."
+     Prog. Nucleic Acid Res. Mol. Biol. 42:259-287(1992).
+     PubMed=1574589
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

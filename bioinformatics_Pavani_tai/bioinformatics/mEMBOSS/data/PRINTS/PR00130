@@ -1,0 +1,24 @@
+DNASEI
+Deoxyribonuclease I (DNase I) is a glycoprotein that causes the cleavage
+of the 3'-phosphorous-oxygen bond of the sugar-phosphate DNA backbone, 
+releasing 5'-phosphoryl nucleotides [1]. The protein is usually secreted
+by cells (but can be located in the nucleus), causing cell death by
+apoptosis. DNase I forms a 1:1 complex with G-actin, resulting in the
+inhibition of DNase activity and loss of the ability of G-actin to
+polymerise into fibres [2]. DNase I has been used in the treatment of lung
+problems in patients with cystic fibrosis: here it acts by degrading DNA
+found in purulent lung secretions, reducing their viscosity and making it
+easier for the patient to breathe [3].
+
+DNASEI is an 8-element fingerprint that provides a signature for DNASE I
+proteins. The fingerprint was derived from an initial alignment of 3
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, motifs 3 and 4 including the regions encoded by
+PROSITE patterns DNASE_I_1 (PS00918) and DNASE_I_2 (PS00919), the latter
+containing the catalytically active histidine. Two iterations on OWL22.1
+were required to reach convergence, at which point a true set comprising 5
+sequences was identified. Two partial matches were also found, NRL_1ATND1
+and NRL_1ATND2, both of which are DNase I fragments. 
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 6
+partial matches.

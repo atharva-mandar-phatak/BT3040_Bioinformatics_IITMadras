@@ -1,0 +1,71 @@
+****************************************************
+* Clathrin adaptor complexes small chain signature *
+****************************************************
+
+Clathrin coated  vesicles (CCV) mediate intracellular membrane traffic such as
+receptor mediated  endocytosis.  In addition to clathrin, the CCV are composed
+of a number of other components including oligomeric complexes which are known
+as adaptor  or  clathrin  assembly  proteins  (AP)  complexes [1]. The adaptor
+complexes are  believed  to  interact  with  the cytoplasmic tails of membrane
+proteins, leading to their selection and concentration. In mammals two type of
+adaptor complexes  are  known: AP-1 which is associated with the Golgi complex
+and AP-2  which is associated with the plasma membrane. Both AP-1 and AP-2 are
+heterotetramers that  consist  of two large chains - the adaptins - (gamma and
+beta' in  AP-1; alpha and beta in AP-2); a medium chain (AP47 in AP-1; AP50 in
+AP-2) and a small chain (AP19 in AP-1; AP17 in AP-2).
+
+The small  chains  of AP-1 and AP-2 are evolutionary related proteins of about
+18 Kd.   Homologs  of AP17 and AP19 have also been found in yeast (genes APS1/
+YAP19 and  APS2/YAP17)  [2,3,4].   AP17 and AP19 are also related to the zeta-
+chain [5] of coatomer (zeta-cop),  a cytosolic protein complex that reversibly
+associates with Golgi  membranes  to  form vesicles that  mediate biosynthetic
+protein transport  from    the  endoplasmic reticulum, via the Golgi up to the
+trans Golgi network.
+
+As a  signature pattern, we selected a conserved region in the central section
+of these proteins.
+
+-Consensus pattern: [LIVMC]-[LIVM]-Y-[KR]-x(4)-L-Y-F
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ fungal zeta-cop.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Pearse B.M., Robinson M.S.
+     "Clathrin, adaptors, and sorting."
+     Annu. Rev. Cell Biol. 6:151-171(1990).
+     PubMed=2177341; DOI=10.1146/annurev.cb.06.110190.001055
+[ 2] Kirchhausen T., Davis A.C., Frucht S., O'Brine Greco B., Payne G.S.,
+     Tubb B.
+     "AP17 and AP19, the mammalian small chains of the clathrin-associated
+     protein complexes show homology to Yap17p, their putative homolog in
+     yeast."
+     J. Biol. Chem. 266:11153-11157(1991).
+     PubMed=2040623
+[ 3] Nakai M., Takada T., Endo T.
+     "Cloning of the YAP19 gene encoding a putative yeast homolog of AP19,
+     the mammalian small chain of the clathrin-assembly proteins."
+     Biochim. Biophys. Acta 1174:282-284(1993).
+     PubMed=8373805
+[ 4] Phan H.L., Finlay J.A., Chu D.S., Tan P.K., Kirchhausen T., Payne G.S.
+     "The Saccharomyces cerevisiae APS1 gene encodes a homolog of the small
+     subunit of the mammalian clathrin AP-1 complex: evidence for
+     functional interaction with clathrin at the Golgi complex."
+     EMBO J. 13:1706-1717(1994).
+     PubMed=8157009
+[ 5] Kuge O., Hara-Kuge S., Orci L., Ravazzola M., Amherdt M., Tanigawa G.,
+     Wieland F.T., Rothman J.E.
+     "zeta-COP, a subunit of coatomer, is required for COP-coated vesicle
+     assembly."
+     J. Cell Biol. 123:1727-1734(1993).
+     PubMed=8276893
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

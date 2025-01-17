@@ -1,0 +1,56 @@
+KV31CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+ 
+Structurally, Kv channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-
+gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ channels and
+3 kinds of Ca2+-activated K+ channels (BK, IK and SK) [2]. All K+
+channels share a characteristic sequence feature: a TMxTVGYG motif
+that resides between the 2 C-terminal membrane spanning helices, and
+forms the K+-selective pore domain [1-2].
+
+The Kv family can be divided into 4 subfamilies on the basis of sequence
+similarity and function: Shaker (Kv1), Shab (Kv2), Shaw (Kv3) and Shal 
+(Kv4). All consist of pore-forming alpha subunits that associate with 
+different types of beta subunit. To form a functional K+ channel pore,
+4 alpha subunits and 4 beta subunits are required. The alpha subunits
+have 6 well-conserved TM domains, a pore loop region and variable length
+N- and C-termini. TM domains 5 and 6, and the loop region, form the K+ 
+channel pore through which the K+ ions pass [3]. 
+
+The shaw gene was first isolated from Drosophila. Several vertebrate K+
+channels with similar amino acid sequences were subsequently found and,
+together with the Drosophila Shaw channel, now constitute the Shaw (Kv3)
+family. These channels are thought to play a role in shortening of action
+potential durations and modulating pre-synaptic neurotransmitter release.
+In mammals, the family consists of 4 genes (Kv3.1, Kv3.2, Kv3.3 and Kv3.4).
+Each gene product has its own subcellular location and function [4].
+
+Kv3.1 channels have slow-rising delayed rectifier-type outward currents that
+inactivate slowly. They have a tentative role in the fast action potential
+repolarisation abundant in rapidly firing neurons, such as the auditory
+brainstem, and hippocampal and cortical interneurons [4]. There are two 
+forms, -a and -b, which differ in expression during development. Kv3.1a
+appears to be found in the neurons of the adult brain, whereas Kv3.1b is
+expressed in embryonic and perinatal neurons. In addition, Kv3.1 channels
+can also be found in T-lymphocytes [4].  
+
+KV31CHANNEL is a 4-element fingerprint that provides a signature for the
+Kv3.1 voltage-gated K+ channel. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 is situated in the N-terminus;
+motifs 2 and 3 lie in the loop between the first and second putative TM 
+domains; and motif 4 is located in the C-terminus. A single iteration on
+SPTR39.22_17.3f was required to reach convergence, no further sequences
+being identified beyond the starting set. Several partial matches were
+found, all of which are members of the Kv3.1 channel family or are
+closely related K+ channels that fail to make significant matches with
+one or more motifs.

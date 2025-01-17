@@ -1,0 +1,60 @@
+******************************
+* Cornichon family signature *
+******************************
+
+The Drosophila  cornichon  protein (gene: cni) [1] is required in the germline
+for dorsal-ventral  signaling. The dorsal-ventral pattern formation involves a
+reorganization of  the microtubule network correlated with the movement of the
+oocyte nucleus,  and  depending  on  the  initial correct establishment of the
+anterior-posterior axis  via  a  signal  from the oocyte produced by cornichon
+and gurken  and  received  by  torpedo  protein  in  the  follicle  cells. The
+biochemical function of the cornichon protein is currently not known.
+
+It is  a  protein  of  144  residues that seems to contain three transmembrane
+regions. It is evolutionary related to the following eukaryotic proteins:
+
+ - Yeast  ERV14  [2],  probably  involved  in  regulation of secretory protein
+   export.
+ - Human and mouse [3] cornichon proteins (gene cnih).
+ - Mouse cornichon-like protein (gene cnil).
+ - Caenorhabditis elegans hypothetical protein T09E8.3.
+ - Yeast hypothetical protein YBR210W.
+ - Schizosaccharomyces pombe hypothetical protein SpAC2C4.05.
+
+The high   conservation of this family throughout evolution suggests a role in
+basic cellular functions.
+
+As a  signature  for  these proteins we selected a conserved region located in
+the loop  between  the  first and second transmembrane regions. This conserved
+region contains three acidic residues.
+
+-Consensus pattern: [VI]-x(3)-[DE]-L-x(2)-D-[FY]-x-[NS]-[PS]-I-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Roth S., Neuman-Silberberg F.S., Barcelo G., Schuepbach T.
+     "cornichon and the EGF receptor signaling process are necessary for
+     both anterior-posterior and dorsal-ventral pattern formation in
+     Drosophila."
+     Cell 81:967-978(1995).
+     PubMed=7540118
+[ 2] Powers J., Barlowe C.
+     "Transport of axl2p depends on erv14p, an ER-vesicle protein related
+     to the Drosophila cornichon gene product."
+     J. Cell Biol. 142:1209-1222(1998).
+     PubMed=9732282
+[ 3] Hwang S.-Y., Oh B., Zhang Z., Miller W., Solter D., Knowles B.B.
+     "The mouse cornichon gene family."
+     Dev. Genes Evol. 209:120-125(1999).
+     PubMed=10022955
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

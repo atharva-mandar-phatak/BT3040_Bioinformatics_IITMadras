@@ -1,0 +1,37 @@
+DBMONOXGNASE
+Peptidylglycine alpha-amidating monooxygenase (PAM) is a multifunctional
+protein found in secretory granules. The protein contains two enzymes that
+act sequentially to catalyse the alpha-amidation of neuroendocrine peptides 
+[1,2]: peptidylglycine + ascorbate + O(2) = peptidyl(2-hydroxyglycine) + 
+dehydroascorbate + H(2)O. The product is unstable and dismutates to
+glyoxylate and the corresponding desglycine peptide amide. The first step
+of the reaction is catalysed by peptidylglycine alpha-hydroxylating mono-
+oxygenase (PHM), and is dependent on copper, ascorbate and molecular oxygen;
+peptidyl-alpha-hydroxyglycine alpha-amidating lyase (PAL) catalyses the
+second step of the reaction [1]. 
+
+Sequence analysis shows the protein to be similar to dopamine-beta-mono-
+oxygenases (DBH), a class of ascorbate-dependent enzymes from the 
+catecholamine biosynthetic pathway that requires copper as a cofactor and
+uses ascorbate as an electron donor. DBH catalyses the conversion of 
+dopamine to the neurotransmitter norepinephrine: 3,4-dihydroxyphenethylamine
++ ascorbate + O(2) = noradrenaline + dehydroascorbate + H(2)O.
+
+DBH exists in both soluble (in chromaffin granules) and membane bound
+forms. The protein functions as a homotetramer. DBH and PAM share a few
+regions of sequence similarity, some of which contain clusters of conserved
+histidine residues that may be involved in copper binding [3].
+
+DBMONOXGNASE is a 9-element fingerprint that provides a signature for
+dopamine beta-monooxygenases. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from virtually the full
+alignment length - motif 4 includes a putative active site tyrosine; and
+motif 5 includes the region encoded by PROSITE pattern CU2_MONOOXYGENASE_1
+(PS00084), which contains conserved histidine residues that may be involved
+in copper binding. A single iteration on OWL29.4 was required to reach
+convergence, no further sequences being identified beyond the starting
+set. A single partial match was found, DMTBHMR, a Drosophila tyramine-beta-
+hydroxylase that fails to make significant matches with motifs 1,2,4 and 6.
+
+An update on SPTR37_9f identified a true set of 4 sequences, and 1
+partial match.

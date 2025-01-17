@@ -1,0 +1,30 @@
+GLFDHDRGNASE
+Glutamate, leucine and phenylalanine dehydrogenases are structurally
+and functionally related. They contain a Gly-rich region containing a
+conserved Lys residue, which has been implicated in the catalytic activity,
+in each case a reversible oxidative deamination reaction. Glutamate 
+dehydrogenase catalyses the reversible oxidative deamination of L-glutamate
+to alpha-ketoglutarate, using NAD and/or NADP as cofactors [1]. Two separate
+enzymes are present in yeasts: the NADP-dependent enzyme, which catalyses
+the amination of alpha-ketoglutarate to L-glutamate; and the NAD-dependent
+enzyme, which catalyses the reverse reaction [2] - this form links the
+L-amino acids with the Krebs cycle, which provides a major pathway for
+metabolic interconversion of alpha-amino acids and alpha-keto acids [1].
+
+Leucine dehydrogenase is an NAD-dependent enzyme that catalyses the 
+reversible deamination of leucine and several other aliphatic amino acids to
+their keto analogues. Phenylalanine dehydrogenase is also NAD-dependent and
+catalyses the reversible oxidative deamination of L-phenylalanine to form
+phenyl-pyruvate [3].
+
+GLFDHDRGNASE is a 4-element fingerprint that provides a signature for
+glutamate, leucine and phenylalanine dehydrogenases. The fingerprint was
+derived from an initial alignment of 6 sequences: motif 1 includes part of
+the region encoded by PROSITE pattern GLF_DEHYDROGENASE (PS00074), which
+contains the conserved Gly-rich region presumed important in the catalytic
+mechanism. Two iterations on OWL21.1 were required to reach convergence,
+at which point a true set comprising 29 sequences was identified. Two
+partial matches were also found, both of which are fragments.
+
+An update on SPTR37_9f identified a true set of 70 sequences, and 2
+partial matches.

@@ -1,0 +1,26 @@
+CERVTRCPTASE
+Reverse transcriptases occur in a variety of mobile elements, including
+retrotransposons, retroviruses, group II introns, bacterial msDNAs, 
+hepadnaviruses and caulimoviruses [1]. The enzyme catalyses RNA-template-
+directed extension of the 3'-end of DNA strands one deoxynucleotide at a 
+time; it cannot initiate a chain de novo, but requires an RNA or DNA primer,
+or DNA template.
+
+The structure of the unliganded reverse transcriptase (RT) from the human
+immunodeficiency virus type 1 has been solved to 3.2A resolution [2]. The
+enzyme is a heterodimer, with domains termed "fingers," "thumb," "palm," 
+and "connection" in both subunits, and a ribonuclease H domain in the
+larger subunit only [2]. Ligand binding has been shown to induce changes
+in the orientation of the thumb. A C-terminal domain common to a group
+of sequences from the C.elegans sequencing project is revealed by sequence
+analysis to share a high level of similarity with the RT small subunit.
+
+CERVTRCPTASE is a 10-element fingerprint that provides a signature for the
+C.elegans reverse-transcriptase-like proteins. The fingerprint was derived 
+from an initial alignment of 7 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal half of the alignment. Three 
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 16 sequences was identified. Numerous partial matches
+were also found, almost all of which are related C.elegans reverse-
+transcriptase-like proteins that fail to match one or more motifs; the
+exception, Q9YGS2, is a reverse transcriptase-like protein from Fugu rubripes.

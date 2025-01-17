@@ -1,0 +1,27 @@
+ATPASEDELTA
+ATP synthase (proton-translocating ATPase) is a component of the cyto-
+plasmic membrane of eubacteria, the inner membrane of mitochondria, and
+the thylakoid membrane of chloroplasts [1,2]. The ATPase complex contains
+an oligomeric transmembrane portion (CF0), which acts as a proton channel,
+and a catalytic core (coupling factor CF1), which contains 5 subunits
+(designated alpha to epsilon).
+
+The catalytic core delta subunit (referred to as oligomycin sensitivity
+conferral protein, OSCP, in mitochondria) appears to be part of the stalk 
+that links CF0 and CF1, in which context it either transmits conformational
+changes from CF0 into CF1, or is implicated in proton conduction [3]. Delta
+subunits contain around 200 amino acids, the proteins from different
+sources exhibiting only moderate sequence similarity.
+
+ATPASEDELTA is a 5-element fingerprint that provides a signature for the
+ATP synthase catalytic core delta subunits. The fingerprint was derived
+from an initial alignment of 12 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, motifs 
+4 and 5 including the region encoded by PROSITE pattern ATPASE_DELTA
+(PS00389), which lies at the C-terminus. Two iterations on OWL24.0 were
+required to reach convergence, at which point a true set comprising 26
+sequences was identified. Two partial matches were also found, which
+lack significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 22
+partial matches.

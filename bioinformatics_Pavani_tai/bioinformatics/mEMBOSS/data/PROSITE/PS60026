@@ -1,0 +1,86 @@
+*************************************
+* Ergtoxin (ErgTx) family signature *
+*************************************
+
+The Ergtoxin  (ErgTx)  family  is a class of peptides from scorpion venom that
+specifically block  ERG (ether-a-go-go-related gene) K+ channels of the nerve,
+heart and endocrine cells [1 to 3].
+
+Peptides of  the  ErgTx  family  have from 42 to 47 amino acid residues cross-
+linked by  four  disulfide  bridges.  The  four  disulfide  bridges  have been
+assigned as  C1-C4,  C2-C6,  C3-C7 and C5-C8 (see the schematic representation
+below) [1].  ErgTxs consist of a triple-stranded beta-sheet and an alpha-helix
+(see <PDB:1NE5>),  as  is  typical  of  K+ channel scorpion toxins. There is a
+large hydrophobic  patch  on  the  surface of the toxin, surrounding a central
+lysine residue located near the beta-hairpin loop between the second and third
+strands of  the beta-sheet. It has been postulated that this hydrophobic patch
+is likely to form part of the binding surface of the toxin [2]. Peptides of
+the ErgTx family possess a Knottin scaffold (see <PDOC60004>) [E1].
+
+                                        +------------+
+                                        #            #
+                        CxxxxCxxxxxCxxxCCxxxCxxxCxxxxC
+                        |    |     |   |    |   |
+                        |    |     +---|----|---+
+                        |    +---------|----+
+                        +--------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': positions of the cysteine, which are not involved in knottin scaffold.
+
+Some proteins known to belong to the ErgTx family are listed below:
+
+ - ErgTx1, ErgTx2 and ErgTx3 from Centruroides elegans (Bark scorpion).
+ - ErgTx1,  ErgTx2,  ErgTx3  and  ErgTx4  from  Centruroides  exilicauda (Bark
+   scorpion).
+ - ErgTx1,   ErgTx2   and  ErgTx3  from  Centruroides  gracilis  (Slenderbrown
+   scorpion) (Florida bark scorpion).
+ - ErgTx1,  ErgTx2,  ErgTx3  and  ErgTx4  from  Centruroides limpidus limpidus
+   (Mexican scorpion).
+ - ErgTx1, ErgTx2, ErgTx3, ErgTx4, ErgTx5 and Gamma-KTx 4.12 from Centruroides
+   sculpturatus (Bark scorpion).
+ - ErgTx,  ErgTx2, ErgTx3, ErgTx4 and ErgTx5 from Centruroides noxius (Mexican
+   scorpion).
+
+We have developed a pattern that contains the eight conserved cysteines.
+
+-Conserved pattern: C-x(5)-C-x-K-X(6)-C-x(2)-C-C-x(9)-C-x(4)-C-x-C
+                    [The 8 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: January 2006 / First entry.
+
+[ 1] Scaloni A., Bottiglieri C., Ferrara L., Corona M., Gurrola G.B.,
+     Batista C., Wanke E., Possani L.D.
+     "Disulfide bridges of ergtoxin, a member of a new sub-family of
+     peptide blockers of the ether-a-go-go-related K+ channel."
+     FEBS. Lett. 479:156-157(2000).
+     PubMed=11023354
+[ 2] Torres A.M., Bansal P., Alewood P.F., Bursill J.A., Kuchel P.W.,
+     Vandenberg J.I.
+     "Solution structure of CnErg1 (Ergtoxin), a HERG specific scorpion
+     toxin."
+     FEBS. Lett. 539:138-142(2003).
+     PubMed=12650941
+[ 3] Corona M., Gurrola G.B., Merino E., Cassulini R.R., Valdez-Cruz N.A.,
+     Garcia B., Ramirez-Dominguez M.E., Coronas F.I.V., Zamudio F.Z.,
+     Wanke E., Possani L.D.
+     "A large number of novel Ergtoxin-like genes and ERG K+-channels
+     blocking peptides from scorpions of the genus Centruroides."
+     FEBS. Lett. 532:121-126(2002).
+     PubMed=12459475
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

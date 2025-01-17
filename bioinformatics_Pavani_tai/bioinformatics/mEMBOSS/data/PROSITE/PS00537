@@ -1,0 +1,35 @@
+********************************************************
+* Cytochrome b559 subunits heme-binding site signature *
+********************************************************
+
+Cytochrome b559  [1]  is an essential component of photosystem II complex from
+oxygenic photosynthetic  organisms.  It  is  an  integral  thylakoid  membrane
+protein composed of two subunits, alpha (gene psbE) and beta (gene psbF), each
+of which  contains  a histidine residue located in a transmembrane region. The
+two histidines coordinate the heme iron of cytochrome b559.
+
+The region around the heme-binding residue  of  both  subunits is very similar
+and can be used as a signature pattern.
+
+-Consensus pattern: [LIV]-x-[ST]-[LIVF]-R-[FYW]-x(2)-[IVL]-H-[STGAV]-[LIV]-
+                    [STGA]-[IV]-P
+                    [H is the heme iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Pakrasi H.B., De Ciechi P., Whitmarsh J.
+     "Site directed mutagenesis of the heme axial ligands of cytochrome
+     b559 affects the stability of the photosystem II complex."
+     EMBO J. 10:1619-1627(1991).
+     PubMed=1904816
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

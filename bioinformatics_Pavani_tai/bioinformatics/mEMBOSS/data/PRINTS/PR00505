@@ -1,0 +1,45 @@
+D12N6MTFRASE
+In prokaryotes, the major role of DNA methylation is to protect host
+DNA against degradation by restriction enzymes. There are 2 major classes
+of DNA methyltransferase that differ in the nature of the modifications
+they effect [1]. The members of one class (C-MTases) methylate a ring
+carbon and form C5-methylcytosine (see PRINTS signature C5METTRFRASE).
+Members of the second class (N-MTases) methylate exocyclic nitrogens and
+form either N4-methylcytosine (N4-MTases) or N6-methyladenine (N6-MTases).
+Both classes of MTase utilise the cofactor S-adenosyl-L-methionine (SAM)
+as the methyl donor and are active as monomeric enzymes [1].
+
+The structure of N6-MTase TaqI (M.TaqI) has been resolved to 2.4A [2]. 
+The molecule folds into 2 domains: an N-terminal catalytic domain, which
+contains the catalytic and cofactor binding sites, and comprises a central 
+9-stranded beta-sheet, surrounded by 5 helices; and a C-terminal DNA 
+recognition domain, which is formed by 4 small beta-sheets and 8 alpha-
+helices. The N- and C-terminal domains form a cleft that accommodates the
+DNA substrate. 
+
+A classification of N-MTases has been proposed, based on conserved motif
+(CM) arrangements [3]. According to this classification, N6-MTases that
+have a DPPY motif (CM II) occuring after the FxGxG motif (CM I) are
+designated D12 class N6-adenine MTases. 
+
+D12N6MTFRASE is a 4-element fingerprint that provides a signature for the
+D12 class N6-adenine MTases. The fingerprint was derived from an initial 
+alignment of 14 sequences (note that sequences MTF1_FLAOK, MTL1_LACLA and 
+MTS1_STRSA contain internal duplications and both sets of motifs were used).
+The motifs were drawn from some of the conserved regions used by Timinskas
+et al. [3] in their DNA MTase classification: motifs 1, 2 and 4 correspond
+to CM Is, I and II, respectively - motif 2, which contains the FxGxG
+pattern, forms part of the cofactor (SAM) binding site; and motif 4, which
+contains the N-MTase-specific tetrapeptide DPPY (cf. PROSITE pattern
+N6_MTASE), is important for methylation [4]. Two iterations on OWL27.1 were
+required to reach convergence, at which point a true set comprising 20
+sequences was identified. A few partial matches were also found: NGOCPSPS2
+is a hypothetical protein in Neisseria meningitidis capsule gene complex
+(cps), which fails to match motif 4; MTEC_ENTCL (M.EcaI), which matches
+motifs 2 and 3, is a D21 class N6-adenine MTase, with CM II occuring before
+CM I; and YHHF_HAEIN, YF23_HAEIN and MTU000243 are hypothetical proteins
+matching motifs 2 and 4, which may be regarded as potential D12 class
+N6-adenine MTases.
+
+An update on SPTR37_9f identified a true set of 35 sequences, and 6
+partial matches.

@@ -1,0 +1,70 @@
+**************************************************************
+* Prokaryotic dksA C4-type zinc finger signature and profile *
+**************************************************************
+
+Guanosine tetraphosphate (ppGpp) or alarmone is a key nucleotide that triggers
+various  regulatory  events  in bacterial cells starved for amino acids. ppGpp
+specifically   inhibits  the  initiation  of  transcription  from  stable  RNA
+promoters.  It  directly  binds  near the catalytic site of RNA polymerase and
+modulates  its activity. Dksa augments ppGpp regulatory signal through binding
+to  RNA  polymerase  [1].  ppGpp  and  dksa  also have an activation effect on
+promoters of enzymes involved in amino acid biosynthesis [2].
+
+The  crystal  structure  of  E.  coli  dksA  protein  has been determined (see
+<PDB:1TJL>)  [3].  It is structurally similar to the transcription factor greA
+(see  <PDOC00651>).  Both are comprised of a coiled-coil region and a globular
+domain.  The  dksa zinc finger (C4-type) starts in the coiled-coil and ends in
+the  globular domain. The coiled-coil region binds the RNA polymerase near the
+ppGpp  binding  site  and  could  contribute  to  the  stability  of  the  RNA
+polymerase-ppGpp complex.
+
+Some proteins known to contain a dksa zinc finger:
+
+ - Escherichia coli and Haemophilus influenzae protein dksA.
+ - Escherichia coli plasmid F protein traR.
+ - Bacteriophage p2 orf82.
+ - Bacteriophage 186 cp80.
+ - Escherichia coli hypothetical protein ybiI.
+ - Haemophilus influenzae hypothetical protein HI1497.
+
+The  pattern  we  developed  covers  the  whole  C4-type  zinc finger. We also
+developed  a  profile that starts at the N-terminus of the second helice of the
+coiled-coil and ends at the C-terminal extremity of the globular domain.
+
+-Consensus pattern: C-[DESN]-x-[CTS]-x(3)-I-x(3)-[RK]-x(4)-P-x(4)-[CSLAT]-
+                    x(2)-[CAYF]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] de Lange F.J., Moorman A.F., Anderson R.H., Manner J., Soufan A.T.,
+     de Gier-de Vries C., Schneider M.D., Webb S., van den Hoff M.J.,
+     Christoffels V.M.
+     "Lineage and morphogenetic analysis of the cardiac valves."
+     Circ. Res. 95:645-654(2004).
+     PubMed=15297379; DOI=10.1161/01.RES.0000141429.13560.cb
+[ 2] Paul B.J., Berkmen M.B., Gourse R.L.
+     "From the Cover: DksA potentiates direct activation of amino acid
+     promoters by ppGpp."
+     Proc. Natl. Acad. Sci. U.S.A. 102:7823-7828(2005).
+     PubMed=15899978; DOI=10.1073/pnas.0501170102
+[ 3] Perederina A., Svetlov V., Vassylyeva M.N., Tahirov T.H., Yokoyama S.,
+     Artsimovitch I., Vassylyev D.G.
+     "Regulation through the secondary channel-structural framework for
+     ppGpp-DksA synergism during transcription."
+     Cell 118:297-309(2004).
+     PubMed=15294156; DOI=10.1016/j.cell.2004.06.030
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

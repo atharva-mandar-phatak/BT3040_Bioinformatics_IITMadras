@@ -1,0 +1,30 @@
+FFH4HYDRLASE
+An Escherichia coli gene designated purU has been identified and 
+characterised [1]. The gene codes for a 280-amino-acid protein, PurU, whose
+C-terminal segment (residues 84-280) exhibits 27% identity with 5'-
+phosphoribosylglycinamide (GAR) transformylase, the product of purN [1]. 
+
+PurU is an enzyme that catalyses the hydrolysis of 10-formyltetrahydrofolate
+(formyl-FH4) to FH4 and formate [2]:
+
+	10-FORMYLTETRAHYDROFOLATE + H(2)O = FORMATE + TETRAHYDROFOLATE
+
+Formyl-FH4 hydrolase generates the formate that is used by purT-encoded 
+5'-phosphoribosylglycinamide transformylase for step three of de novo purine
+nucleotide synthesis [2]. Formyl-FH4 hydrolase, a hexamer of 32kDa subunits,
+is activated by methionine and inhibited by glycine [2]. Heterotropic 
+cooperativity is observed for activation by methionine in the presence of 
+glycine and for inhibition by glycine in the presence of methionine [2]. 
+These results suggest that formyl-FH4 hydrolase is a regulatory enzyme whose
+main function is to balance the pools of FH4 and C1-FH4 in response to 
+changing growth conditions [2]. The enzyme uses methionine and glycine to
+sense the pools of C1-FH4 and FH4, respectively [2]. 
+
+FFH4HYDRLASE is a 6-element fingerprint that provides a signature for
+formyltetrahydrofolate deformylase. The fingerprint was derived from an 
+initial alignment of 6 sequences: the motifs were drawn from conserved 
+regions spanning the full alignment length. Six iterations on 
+SPTR39.22_17.3f were required to reach convergence, at which point a true
+set comprising 18 sequences was identified. Several partial matches were
+also found, all of which are formyltetrahydrofolate deformylases and puru-
+like proteins that fail to make significant matches with one or more motifs.

@@ -1,0 +1,24 @@
+6PGDHDRGNASE
+6-Phosphogluconate dehydrogenase (6PGD) is an oxidative carboxylase that
+catalyses the conversion of 6-phosphogluconate to ribulose 5-phosphate in 
+the presence of NADP. This reaction is a component of the hexose mono- 
+phosphate shunt and pentose phosphate pathways (PPP) [1,2]. The protein is
+a homodimer in which the monomers act independently [2]: each contains a
+large, mainly alpha-helical domain and a smaller beta-alpha-beta domain,
+containing a mixed parallel and anti-parallel 6-stranded beta sheet [2].
+NADP is bound in a cleft in the small domain, the substrate binding in an
+adjacent pocket [2].
+
+6PGDHDRGNASE is a 6-element fingerprint that provides a signature for
+6-phosphogluconates. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions around the
+NADP- and substrate-binding pockets, motif 5 including the region encoded
+by PROSITE pattern 6PGD (PS00461), which is involved in substrate binding.
+Two iterations on OWL25.1 were required to reach convergence, at which
+point a true set containing 30 sequences was identified. A single partial
+match was also found, STMDNAGYR: this is a 6-phosphogluconate homologue,
+located in the dnaA-gyrA region of the Streptomyces coelicolor chromosome,
+which lacks a large portion of the C-terminal region (including motif 6).
+
+An update on SPTR37_9f identified a true set of 46 sequences, and 10
+partial matches.

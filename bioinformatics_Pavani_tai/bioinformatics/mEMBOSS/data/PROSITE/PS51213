@@ -1,0 +1,64 @@
+**********************
+* ELK domain profile *
+**********************
+
+Homeobox genes,  which encode homeodomain (HD) (see <PDOC00027>) transcription
+factors, are  known to be key regulators of both plant and animal development.
+In plants  homeobox genes are divided into several groups by sequences, one of
+which is the KNOX (for knotted1-type homeobox) family. Proteins of this family
+share other  conserved  domains,  the  KNOX  domain  and  ELK domain, which is
+immediately upstream  of  the HD. The ELK domain spans ~21 amino acids and was
+dubbed for  a  highly  conserved  series  of Glu, Leu, and Lys amino acids. It
+could function  as  a  nuclear  localization  signal.  The  ELK domain also is
+considered to  act  as  a  protein-protein interaction domain, but the precise
+role of this domain has not been determined [1-4].
+
+The ELK  domain contains repeating hydrophobic residues and has been predicted
+to form an amphipathic helix [1].
+
+Some proteins known to contain an ELK domain are listed below:
+
+ - Maize homeotic protein knotted-1 (KN-1).
+ - Maize homeobox protein rough sheath 1 (RS1).
+ - Apple homeobox protein knotted-1-like 1 and 2 (KNAP1 and KNAP2).
+ - Arabidopsis thaliana homeobox protein SHOOT MERISTEMLESS (STM).
+ - Tobacco KNOTTED1-type homeodomain proteins NTH1, NTH15 and NTH23.
+ - Rice KNOX family class 2 homeodomain proteins HOS58, HOS59 and HOS66.
+
+The profile we developed covers the entire ELK domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2006 / First entry.
+
+[ 1] Kerstetter R., Vollbrecht E., Lowe B., Veit B., Yamaguchi J., Hake S.
+     "Sequence analysis and expression patterns divide the maize
+     knotted1-like homeobox genes into two classes."
+     Plant Cell 6:1877-1887(1994).
+     PubMed=7866030; DOI=10.1105/tpc.6.12.1877
+[ 2] Sakamoto T., Nishimura A., Tamaoki M., Kuba M., Tanaka H., Iwahori S.,
+     Matsuoka M.
+     "The conserved KNOX domain mediates specificity of tobacco
+     KNOTTED1-type homeodomain proteins."
+     Plant Cell 11:1419-1432(1999).
+     PubMed=10449577
+[ 3] Nagasaki H., Sakamoto T., Sato Y., Matsuoka M.
+     "Functional analysis of the conserved domains of a rice KNOX
+     homeodomain protein, OSH15."
+     Plant Cell 13:2085-2098(2001).
+     PubMed=11549765
+[ 4] Ito Y., Hirochika H., Kurata N.
+     "Organ-specific alternative transcripts of KNOX family class 2
+     homeobox genes of rice."
+     Gene 288:41-47(2002).
+     PubMed=12034492
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

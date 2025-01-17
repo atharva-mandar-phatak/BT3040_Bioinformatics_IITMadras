@@ -1,0 +1,34 @@
+EDTRNSPORT
+Synaptic transmission in vertebrates is thought to be terminated by 
+rapid transport of the neurotransmitter from the synaptic cleft into 
+presynaptic nerve terminals, or neuroglia, before it can reach neurotoxic
+levels [1,2]. L-Glutamate, the main excitory transmitter in the brain,
+is removed by a stereo-specific transporter that imports both sodium
+ions and L-glutamate, and exports potassium ions [1]: it is inhibited by
+D-glutamate and high extracellular potassium ion concentration [2].
+
+The structure of the transporter protein has been variously reported to
+contain from 8 to 10 transmembrane (TM) regions, although 10 now seems to
+be the accepted value. Abnormal neurotransmitter transport occurs in some
+neurodegenerative diseases (anoxia and ischaemia), and this may reflect
+problems with the transporter protein itself [2]. Bacteria have several
+different L-glutamate transport systems, one of which uses a protein
+similar to the vertebrate brain L-glutamate transporter, greatest
+conservation occurring in the TM regions [3]. Both vertebrate brain and
+bacterial L-glutamate transporters can also transport L-aspartate.
+
+EDTRNSPORT is a 9-element fingerprint that provides a signature for the
+glutamate-aspartate transporters. The fingerprint was derived from an
+initial alignment of 3 sequences: motifs 1-6 encode the first six TM
+regions, and motifs 7-9 encode the final three (TM domain 7 was not
+sufficiently well-conserved to be included in the fingerprint) - motifs 3
+and 7 include regions encoded by PROSITE patterns NA_DICARBOXYL_SYMP_1
+(PS00713) and NA_DICARBOXYL_SYMP_2 (PS00714). Three iterations on OWL22.1
+were required to reach convergence, at which point a true set comprising
+10 sequences was identified. Three partial matches were also found,
+DCTA_RHILE, DCTA_RHIME and DCTA_RHISN, which are members of the sodium
+dicarboxylate symporter superfamily of which the glutamate-aspartate
+transporters are members.
+
+An update on SPTR37_9f identified a true set of 37 sequences, and 18
+partial matches.

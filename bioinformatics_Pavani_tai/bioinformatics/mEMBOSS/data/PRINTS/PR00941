@@ -1,0 +1,56 @@
+CDATPASE
+Proteins that transport heavy metals in micro-organisms and mammals share
+similarities in their sequences and structures. These proteins provide an
+important focus for research, some being involved in bacterial resistance
+to toxic metals, such as lead and cadmium, while others are involved in
+inherited human syndromes, such as Wilson and Menkes diseases [1].
+
+A conserved 30-residue domain has been found in a number of these heavy
+metal transport or detoxification proteins [1]. The domain, which has been
+termed Heavy-Metal-Associated (HMA), contains two conserved cysteines that
+are probably involved in metal binding. 
+
+The HMA domain has been identified in the N-terminal regions of a variety
+of cation-transporting ATPases (E1-E2 ATPases): the human copper ATPases 
+involved in Menkes and Wilson diseases (ATP7A and ATP7B) each contain 6 
+tandem copies; a chromosomal Staphylococcus aureus cadA contains two copies;
+and the copper ATPases CCC2 from budding yeast, copA from Enterococcus 
+faecalis, synA from Synechococcus, and cadmium ATPases cadA from Bacillus 
+firmus and plasmid pI258 from Staphylococcus aureus contain a single copy.
+Other ATPases that contain the HMA domain include: fixI from Rhizobium 
+meliloti; pacS from Synechococcus strain PCC 7942; Mycobacterium leprae 
+ctpA and ctpB; and Escherichia coli hypothetical protein yhhO. In addition,
+the domain has been found in bacterial mercuric reductase; the copP copper-
+binding protein of Helicobacter pylori; and in bacterial mercuric transport
+proteins.
+
+The structure of the mercuric ion-binding protein MerP from Shigella
+flexneri has been determined. The fold has been classed as a ferredoxin-like
+alpha-beta sandwich, having a beta-alpha beta-beta alpha-beta architecture,
+with the two alpha-helices overlaying a four-stranded anti-parallel beta-
+sheet [2]. Structural differences between the reduced and mercury-bound 
+forms of merP are localised to the metal-binding loop containing the 
+consensus sequence GMTCXXC, the two cysteines of which are involved in
+bi-coordination of Hg(2+) [2].
+
+Cadmium-transporting ATPase is an integral membrane protein that contains 
+a single copy of the HMA domain and is predicted to contain 4 transmembrane
+(TM) domains. The protein, which functions as an electroneutral antiporter,
+ejecting one Cd(2+) and accumulating two protons via an energy-dependent
+efflux mechanism, catalyses the reaction:
+
+		ATP + H(2)O = ADP + orthophosphate
+
+CDATPASE is a 9-element fingerprint that provides a signature for cadmium-
+transporting ATPases. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning the
+N-terminal portion of the alignment, motifs 1 and 2 encoding the HMA domain
+- motif 1 includes the C-terminal residues of strand 1 and the first metal-
+binding cysteine; motif 2 spans helix 1 and strand 2; and motif 3 spans 
+strand 3 and helix 2. A single iteration on OWL30.2 was required to reach 
+convergence, no further sequences being identified beyond the starting set. 
+Three partial matches were found (E70041, LPU494983, F69869), all of which 
+are heavy-metal transporting ATPase homologues that match 2 motifs.
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 6
+partial matches.

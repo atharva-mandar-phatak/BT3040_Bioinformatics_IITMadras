@@ -1,0 +1,49 @@
+****************************************************
+* Bacterial ice-nucleation proteins octamer repeat *
+****************************************************
+
+Some Gram-negative bacteria  express proteins that  enable them to promote the
+nucleation of ice at relatively high temperature (above -5 degree Celsius) [1,
+2,3]. These proteins are localized at the surface of the outer membrane of the
+bacteria and  can  cause  frost  injury  to  many  plant  species. The primary
+structure of  these   ice-nucleation proteins is highly repetitive.  A central
+repetitive domain  represents about 80% of the total sequence.  This domain is
+mainly formed  by the repetition of a conserved region of forty eight residues
+(48-mer).  The 48-mers are themselves composed of three blocks  of 16 residues
+(16-mer). The  first eight residues of each of these 16-mers are identical. It
+has been proposed that the repetitive domain  may be  directly responsible for
+aligning water molecules in the seed crystal.
+
+Schematic structure of a 48-mer region:
+
+              [.........48.residues.repeated.domain..........]
+             /              / |              | \              \
+            AGYGSTxTagxxssli  AGYGSTxTagxxsxlt  AGYGSTxTaqxxsxlt
+            [16.residues...]  [16.residues...]  [16.residues...]
+
+-Consensus pattern: A-G-Y-G-S-T-x-T
+-Sequences known to belong to this class detected by the pattern: ALL.    This
+ octamer sequence  is found more  than forty  times  in each of the known ice-
+ nucleation proteins.
+-Other sequence(s) detected in Swiss-Prot: Paramecium primaurelia 168G surface
+ protein (contains only one copy of the repeat).
+-Last update: June 1994 / Text revised.
+
+[ 1] Wolber P., Warren G.
+     "Bacterial ice-nucleation proteins."
+     Trends Biochem. Sci. 14:179-182(1989).
+     PubMed=2672438
+[ 2] Wolber P.K.
+     Adv. Microb. Physiol. 34:205-237(1992).
+[ 3] Gurian-Sherman D., Lindow S.E.
+     FASEB J. 7:1338-1343(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

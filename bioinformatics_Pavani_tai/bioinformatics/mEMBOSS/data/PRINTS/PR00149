@@ -1,0 +1,24 @@
+FUMRATELYASE
+A number of lyases, for which fumarate is the substrate, have been shown
+to share a short conserved region centred around a methionine, which is
+probably involved in the catalytic activity [1,2]. These enzymes include
+class II fumarases, aspartases, adenylosuccinases, argininosuccinate
+lyases and 3-carboxy-cis, cis-muconate cycloisomerases. Delta-crystallin 
+shares around 90% sequence identity with argininosuccinate lyase, showing 
+that it is an example of a 'hijacked' enzyme [3]. 
+
+FUMRATELYASE is a 4-element fingerprint that provides a signature for
+members of the fumarate lyase superfamily. The fingerprint was derived
+from an initial alignment of 12 sequences: the motifs were drawn from
+conserved regions within the central part of the alignment, motif 4
+including the region ecoded by PROSITE pattern FUMARATE_LYASES (PS00163),
+which contains the conserved methionine in the putative catalytic centre.
+Two iterations on OWL25.1 were required to reach convergence, at which
+point a true set comprising 38 sequences was identified. Two partial
+matches were also found, PUR8_ECOLI and ECOADENLY, both of which are
+adenylosuccinate lyases that fail to make significant matches with
+motifs 1 and 3. 
+
+An update on SPTR55_38f  identified a true set of 2838 sequences, and 
+numerous partial matches, all of which are superfamily members that
+fail to match one or two of the motifs.

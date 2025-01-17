@@ -1,0 +1,65 @@
+**********************************
+* Rad50 zinc-hook domain profile *
+**********************************
+
+The  MRN  complex  (Mre11-Rad50-Nbs1)  plays  an  important  role  in many DNA
+metabolic  events  that  involve DNA double-stranded breaks. MRN is one of the
+first  factors to be localized to DNA lesions where it might have a structural
+role by tethering and stabilizing broken chromosomes [1,2].
+
+Rad50  is  a  split  ABC-type ATPase; its center contains a long heptad repeat
+that  folds  into an antiparallel coiled coil, bringing the N-terminal (Walker
+A)  and  the C-terminal (Walker B) domains in close proximity (see <PDB:1L8D>)
+[3].  The  apex  of  the  coiled  coil  contains  a  dimerization interface, a
+conserved  Cys-x-x-Cys  motif  in  a  hook-shaped domain that dimerizes with a
+second  hook  domain  via  cysteine-mediated  zinc  ion  coordination (see the
+schematic representation below). This zinc dependent dimerization event allows
+the  formation  of  a  complex that has appropriate lenghts and conformational
+proporties  to link sister chromatids in homologous recombination and DNA ends
+in non-homologous end-joining.
+
+  x           x  x           x x x          x x x           x  x           x
+    x       x      x       x       C      C       x       x      x       x
+      x   x          x   x       x   \  /   x       x   x          x   x
+        x              x        x     Zn     x        x              x
+      x   x          x   x       x   /  \   x       x   x          x   x
+    x       x      x       x       C      C       x       x      x       x
+  x           x  x           x x x          x x x           x  x           x
+
+            coiled coil                                   coiled coil
+
+'C': conserved cysteine involved in zinc binding.
+
+The profile we developed covers the two cysteines and the coiled coil region.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2005 / First entry.
+
+[ 1] van den Bosch M., Bree R.T., Lowndes N.F.
+     "The MRN complex: coordinating and mediating the response to broken
+     chromosomes."
+     EMBO Rep. 4:844-849(2003).
+     PubMed=12949583; DOI=10.1038/sj.embor.embor925
+[ 2] de Jager M., van Noort J., van Gent D.C., Dekker C., Kanaar R.,
+     Wyman C.
+     "Human Rad50/Mre11 is a flexible complex that can tether DNA ends."
+     Mol. Cell 8:1129-1135(2001).
+     PubMed=11741547
+[ 3] Hopfner K.P., Craig L., Moncalian G., Zinkel R.A., Usui T., Owen B.A.,
+     Karcher A., Henderson B., Bodmer J.L., McMurray C.T., Carney J.P.,
+     Petrini J.H., Tainer J.A.
+     "The Rad50 zinc-hook is a structure joining Mre11 complexes in DNA
+     recombination and repair."
+     Nature 418:562-566(2002).
+     PubMed=12152085; DOI=10.1038/nature00922
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

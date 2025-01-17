@@ -1,0 +1,82 @@
+**********************************
+* GMC oxidoreductases signatures *
+**********************************
+
+The following  FAD  flavoproteins oxidoreductases have  been found [1,2] to be
+evolutionary related. These  enzymes, which  are called 'GMC oxidoreductases',
+are listed below.
+
+ - Glucose oxidase (EC 1.1.3.4) (GOX) from Aspergillus niger.
+   Reaction catalyzed: glucose  +  oxygen ->  delta-gluconolactone +  hydrogen
+   peroxide.
+ - Methanol oxidase (EC 1.1.3.13) (MOX) from fungi.
+   Reaction catalyzed: methanol + oxygen -> acetaldehyde + hydrogen peroxide.
+ - Choline dehydrogenase (EC 1.1.99.1) (CHD) from bacteria.
+   Reaction catalyzed: choline  + acceptor -> betaine  acetaldehyde  + reduced
+   acceptor.
+ - Glucose dehydrogenase (GLD) (EC 1.1.99.10) from Drosophila.
+   Reaction catalyzed:  glucose  +  acceptor -> delta-gluconolactone + reduced
+   acceptor.
+ - L-sorbose 1-dehydrogenase (EC 1.1.99.32) (SDH) from Gluconobacter oxydans.
+   Reaction catylzed:  L-sorbose  +  acceptor  = 1-dehydro-L-sorbose + reduced
+   acceptor.
+ - Cholesterol oxidase (CHOD) (EC 1.1.3.6)  from Brevibacterium sterolicum and
+   Streptomyces strain SA-COO.
+   Reaction catalyzed: cholesterol + oxygen ->  cholest-4-en-3-one  + hydrogen
+   peroxide.
+ - AlkJ [3],  an  alcohol  dehydrogenase   from  Pseudomonas oleovorans, which
+   converts aliphatic medium-chain-length alcohols into aldehydes.
+ - Cellobiose    dehydrogenase   (CDH)   (EC  1.1.98.18)  from   Phanerochaete
+   chrysosporium.
+
+This family also includes a lyase:
+
+ - (R)-mandelonitrile lyase (EC 4.1.2.10) (hydroxynitrile lyase)  from  plants
+   [4], an enzyme involved in cyanogenis, the release of hydrogen cyanide from
+   injured tissues.
+
+These enzymes are  proteins  of size ranging from 556 (CHD) to 664 (MOX) amino
+acid residues which share a number of regions of sequence similarities. One of
+these regions, located in the N-terminal section,  corresponds to the FAD ADP-
+binding domain.  The function of the other conserved domains is not yet known;
+we have selected two of these domains as signature patterns.  The first one is
+located in  the N-terminal  section of these  enzymes, about 50 residues after
+the ADP-binding  domain,  while  the  second  one  is  located  in the central
+section.
+
+-Consensus pattern: [GA]-[RKNC]-x-[LIVW]-G(2)-[GST](2)-x-[LIVM]-[NH]-x(3)-
+                    [FYWA]-x(2)-[PAG]-x(5)-[DNESHQA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GS]-[PSTA]-x(2)-[ST]-[PS]-x-[LIVM](2)-x(2)-S-G-[LIVM]-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for cholesterol oxidases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2008 / Text revised.
+
+[ 1] Cavener D.R.
+     "GMC oxidoreductases. A newly defined family of homologous proteins
+     with diverse catalytic activities."
+     J. Mol. Biol. 223:811-814(1992).
+     PubMed=1542121
+[ 2] Henikoff S., Henikoff J.G.
+     "Protein family classification based on searching a database of
+     blocks."
+     Genomics 19:97-107(1994).
+     PubMed=8188249
+[ 3] van Beilen J.B., Eggink G., Enequist H., Bos R., Witholt B.
+     Mol. Microbiol. 6:3121-3136(1992).
+[ 4] Cheng I.P., Poulton J.E.
+     Plant Cell Physiol. 34:1139-1143(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

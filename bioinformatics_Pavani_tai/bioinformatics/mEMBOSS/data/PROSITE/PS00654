@@ -1,0 +1,109 @@
+************************************
+* PRD domain profile and signature *
+************************************
+
+Transcriptional antiterminators and activators containing phosphoenolpyruvate:
+sugar phosphotransferase  system  (PTS) regulation domains (PRDs) form a class
+of bacterial    regulatory   proteins   whose   activity   is   modulated   by
+phosphorylation. These  regulators  stimulate  the  expression  of  genes  and
+operons involved  in  carbohydrate  metabolism. They are  characterized by the
+presence of  a  duplicated  regulatory  module  of  ~100  residues that can be
+reversibly phosphorylated   on   histidyl   residues   by  the  PTS.  PRDs  in
+transcriptional antiterminators and activators are PTS regulatory targets that
+are (de)phosphorylated  in  response  to  the  availability  of carbon sources
+[1-5].
+
+The PRD  domain  comprises  one  and often two highly conserved histidines. It
+forms a   compact   bundle   comprising   five  helices  (alpha1-alpha5)  (see
+<PDB:1H99>). The  core of the PRD module consists of two pairs of antiparallel
+helices making  an  angle  of  ~60°. The first pairs contains the antiparallel
+helices alpha1  and  alpha4, while the second pair contains alpha2 and alpha5.
+The third  helix  (alpha3)  is  oriented  perpendicularly  to  alpha5  at  the
+periphery of  the bundle. The helices are connected by loops of varying length
+[3-5].
+
+Some proteins known to contain a PRD domain are listed below:
+
+ - Escherichia  coli bglG, which mediates the positive regulation of the beta-
+   glucoside (bgl) operon by functioning as a transcriptional antiterminator.
+ - Bacillus  subtilis licT, which regulates the expression of operons involved
+   in beta-glucoside metabolism.
+ - Bacillus subtilis licR, the probable licABCH operon regulator.
+ - Bacillus  subtilis  levR,  which  regulates  the expression of the levanase
+   operon (levDEFG and sacC). LevR is  composed  of  two domains: a N-terminal
+   section that contains a  sigma-54 factor interaction ATP-binding domain and
+   a C-terminal  bglG-like  domain.  LevR  could  be phosphorylated by levD or
+   levE.
+ - Bacillus  subtilis  sacT,  which  regulates  the  expression of the sucrose
+   operon (sacPA). SacT is probably phosphorylated by sacP (EII-scr).
+ - Bacillus  subtilis sacY, which regulates the expression of the levansucrase
+   operon (sacBX). SacY is probably phosphorylated by the sacX protein.
+ - Bacillus stearothermophilus mtlR activator.
+ - Erwinia  chrysanthemi  arbG  [6],  which is involved in the regulation of a
+   beta-glucoside operon. ArbG is probably phosphorylated by arbF (EII-bgl).
+ - Lactobacillus casei lacT [7], involved in the regulation of the lac operon.
+
+As a signature pattern for the PRD domain, we selected a conserved region that
+includes a  conserved  histidine that could be the site of phosphorylation. We
+have also developed a profile, which covers the entire PRD domain.
+
+-Consensus pattern: [ST]-[DM]-H-[LIC]-x(2)-[FA]-[LIY]-[EQK]-R-x(2)-[QNKA]
+                    [H could be phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2008 / Text revised; profile added.
+
+[ 1] Tortosa P., Aymerich S., Lindner C., Saier M.H. Jr., Reizer J.,
+     Le Coq D.
+     "Multiple phosphorylation of SacY, a Bacillus subtilis transcriptional
+     antiterminator negatively controlled by the phosphotransferase
+     system."
+     J. Biol. Chem. 272:17230-17237(1997).
+     PubMed=9202047
+[ 2] Stuelke J., Arnaud M., Rapoport G., Martin-Verstraete I.
+     "PRD--a protein domain involved in PTS-dependent induction and carbon
+     catabolite repression of catabolic operons in bacteria."
+     Mol. Microbiol. 28:865-874(1998).
+     PubMed=9663674
+[ 3] van Tilbeurgh H., Declerck N.
+     "Structural insights into the regulation of bacterial signalling
+     proteins containing PRDs."
+     Curr. Opin. Struct. Biol. 11:685-693(2001).
+     PubMed=11751049
+[ 4] van Tilbeurgh H., Le Coq D., Declerck N.
+     "Crystal structure of an activated form of the PTS regulation domain
+     from the LicT transcriptional antiterminator."
+     EMBO J. 20:3789-3799(2001).
+     PubMed=11447120; DOI=10.1093/emboj/20.14.3789
+[ 5] Graille M., Zhou C.-Z., Receveur-Brechot V., Collinet B., Declerck N.,
+     van Tilbeurgh H.
+     "Activation of the LicT transcriptional antiterminator involves a
+     domain swing/lock mechanism provoking massive structural changes."
+     J. Biol. Chem. 280:14780-14789(2005).
+     PubMed=15699035; DOI=10.1074/jbc.M414642200
+[ 6] El Hassouni M., Henrissat B., Chippaux M., Barras F.
+     "Nucleotide sequences of the arb genes, which control beta-glucoside
+     utilization in Erwinia chrysanthemi: comparison with the Escherichia
+     coli bgl operon and evidence for a new beta-glycohydrolase family
+     including enzymes from eubacteria, archeabacteria, and humans."
+     J. Bacteriol. 174:765-777(1992).
+     PubMed=1732212
+[ 7] Alpert C.-A., Siebers U.
+     "The lac operon of Lactobacillus casei contains lacT, a gene coding
+     for a protein of the Bg1G family of transcriptional antiterminators."
+     J. Bacteriol. 179:1555-1562(1997).
+     PubMed=9045813
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,58 @@
+EP450I
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1],
+widely distributed in bacteria, fungi, plants and animals. The enzymes
+are involved in metabolism of a plethora of both exogenous and endogenous
+compounds [2]. Usually, they act as terminal oxidases in multi-component
+electron transfer chains, called P450-containing monooxygenase systems.
+
+Current P450 nomenclature, based on divergent evolution of the P450
+superfamily, was proposed and developed by Nebert et al. [3]. On the basis
+of sequence similarity, all P450s can be categorised into 2 main classes,
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component
+systems and fungal P450nor (CYP55) belong to the B-class; all other known
+P450s from distinct systems are of the E-class [4]. E-class P450s may be
+further divided into 5 subclasses (groups) according to protein sequence
+similarities. The data suggest that divergence of the P450 superfamily 
+into B- and E-classes, and further divergence into stable P450 groups 
+within the E-class, must be very ancient and had occured before the 
+appearance of eukaryotes. 
+
+Group I is richest in members, consisting of P450 families CYP1, CYP2,
+CYP17, CYP21 and CYP71 [4]. The members of the first 4 families are of
+vertebrate origin, while those from CYP71 derive from plants. CYP1 and CYP2
+enzymes mainly metabolise exogenous substrates, whereas CYP17 and CYP21 are
+involved in metabolism of endogenous physiologically-active compounds.
+
+EP450I is a 9-element fingerprint that provides a signature for group I
+E-class P450s. The fingerprint was derived from an initial alignment of 19
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length. Since no 3D structure is available for a group I
+E-class P450 representative, the assignment of secondary structure elements
+given below has been adopted from the modelling study of Szklarz et al. [5].
+Motifs 1 and 2 span the first beta-strand and helix B; motif 3 includes
+helix E; motif 4 corresponds to the N-terminus of helix I, which is thought
+to be central to the catalytic function of P450s; motif 5 spans the helix I
+C-terminus and the neighbouring J helix (cf. motifs 1 and 2 of signature
+P450); motif 6 corresponds to helix K (cf. motif 3 of signature P450);
+motif 7 spans the K' helix N-terminus and the "aromatic region" typical of
+E-class P450s [4]; and motifs 8 and 9 are adjacent, spanning the L helix and
+including the invariant Cys residue that provides the haem iron thiolate
+ligand (cf. PROSITE pattern CYTOCHROME_P450 (PS00086) and motifs 4 and 5 of
+signature P450). Three iterations on OWL27.0 were required to reach
+convergence, at which point a true set comprising 194 sequences was
+identified. In addition to the aforementioned families, several C.elegans 
+sequences comprising subfamilies CYP14A (CEK09A111, CEK09A112, CEK09A113),
+CYP22A (CELT13C53) and CYP23A (CELB0304) were found to match all 9 motifs.
+Numerous partial matches were also found. Those matching 8 motifs should
+also be classified as group I E-class P450s: CYP2E1 (CPE1_MACFA), CYP71A
+(C712_SOLME, S45039) and CYP71B (THLCYP450A) fail to make a significant
+match with motif 2; CYP71A (C771_SOLME, C772_SOLME), CYP71C4 (ZMCYP71C4),
+CYP75 (CP75_SOLME, S33515, S33521), CYP76A1 (C761_SOLME) and CYP13A
+(CEZK13203) lack motif 3; CYP73A (TCMO_MEDSA, TCMO_HELTU, S44169, ZEU19922,
+PSU29243, PUMC4H) lack motif 4; and CYP1A2 (S16875) and CYP71A4 (C714_SOLME)
+lack motif 5. The sequences matching 7 motifs include both group I E-class 
+P450s and other E-class P450s. Most of the sequences matching only 2 motifs
+are noise.
+
+An update on SPTR37_9f identified a true set of 242 sequences, and 486
+partial matches.

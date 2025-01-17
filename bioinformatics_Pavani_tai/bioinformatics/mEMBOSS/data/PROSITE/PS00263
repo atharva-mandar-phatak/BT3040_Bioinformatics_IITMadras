@@ -1,0 +1,58 @@
+**********************************
+* Natriuretic peptides signature *
+**********************************
+
+Atrial natriuretic peptides (ANP) [1,2,3] are vertebrate hormones important in
+the overall control of cardiovascular homeostasis and sodium and water balance
+in general.  There  are  various ANP  peptides which  vary in length but which
+have a common central  core;  they  are all processed from a single precursor.
+There is  a    disulfide  bond    which is important for the expression of the
+biological activity.
+
+The ANP protein family includes three additional structurally related peptides
+which elicit a pharmacological spectrum similar to ANP:
+
+ - Brain natriuretic peptide (BNP).
+ - C-type natriuretic peptide (CNP).
+ - Ventricular natriuretic peptide (VNP) [4].
+ - Green mamba natriuretic peptide (DNP) [5].
+
+The signature developed for the ANP family includes the two cysteines involved
+in the disulfide  bond and two conserved  glycines  which may be important for
+the conformation of the peptides.
+
+-Consensus pattern: C-F-G-x(3)-[DEA]-[RH]-I-x(3)-S-x(2)-G-C
+                    [The 2 C's are linked by a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Inagami T.
+     "Atrial natriuretic factor."
+     J. Biol. Chem. 264:3043-3046(1989).
+     PubMed=2536732
+[ 2] Sagnella G.A., McGregor G.A.
+     Trends Biochem. Sci. 11:299-302(1986).
+[ 3] Rosenzweig A., Seidman C.E.
+     "Atrial natriuretic factor and related peptide hormones."
+     Annu. Rev. Biochem. 60:229-255(1991).
+     PubMed=1652921; DOI=10.1146/annurev.bi.60.070191.001305
+[ 4] Takei Y., Takahashi A., Watanabe T.X., Nakajima K., Sakakibara S.
+     "A novel natriuretic peptide isolated from eel cardiac ventricles."
+     FEBS Lett. 282:317-320(1991).
+     PubMed=1828035
+[ 5] Schweitz H., Vigne P., Moinier D., Frelin C., Lazdunski M.
+     "A new member of the natriuretic peptide family is present in the
+     venom of the green mamba (Dendroaspis angusticeps)."
+     J. Biol. Chem. 267:13928-13932(1992).
+     PubMed=1352773
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

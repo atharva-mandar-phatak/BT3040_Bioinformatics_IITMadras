@@ -1,0 +1,21 @@
+INHIBINBA
+Inhibins and activins are dimeric peptide hormones that regulate circulating
+levels of follicle-stimulating hormone (FSH) [1,2]. In turn, FSH stimulates
+inhibin gene expression in the ovarian follicle [2]; this effect is
+probably mediated by cAMP [3]. Inhibin is a heterodimer, linked by one or
+more disulphide bonds: inhibin A is a dimer of alpha and beta-A chains;
+inhibin B is a dimer of alpha and beta-B; activin A is a dimer of beta-A;
+and activin AB is a dimer of beta-A and beta-B. Inhibins belong to a gene
+family that also includes transforming growth factor-beta (TGF-beta) [3].
+
+INHIBINBA is a 6-element fingerprint that provides a signature for 
+inhibin beta-A chains. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning the N-terminal two-thirds of the alignment. A single iteration
+on OWL29.1 was required to reach convergence, no further sequences being
+identified beyond the starting set. Two partial matches were found, both
+of which are fragments: S31682 is an inhibin beta-A chain and JC2429 is
+an activin-A protein.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 1
+partial match.

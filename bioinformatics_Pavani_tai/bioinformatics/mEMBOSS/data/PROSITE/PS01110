@@ -1,0 +1,47 @@
+************************************************
+* RNA polymerases H / 23 Kd subunits signature *
+************************************************
+
+In eukaryotes,   there   are   three  different  forms  of  DNA-dependent  RNA
+polymerases (EC 2.7.7.6)  transcribing different sets of genes.  Each class of
+RNA polymerase  is  an assemblage of ten to twelve different polypeptides.  In
+archaebacteria, there  is generally a single form of RNA polymerase which also
+consist of an oligomeric assemblage of 10 to 13 polypeptides.
+
+Archaebacterial subunit H (gene rpoH) [1,2] is a small protein of about 8.5 to
+10 Kd,  it is evolutionary related to the C-terminal part of a 23 Kd component
+shared by  all  three  forms of eukaryotic RNA polymerases (gene RPB5 in yeast
+and POLR2E in mammals).
+
+As a signature pattern we selected a conserved  region which is located at the
+N-terminal extremity  of  subunit  H; this region contains two histidines that
+could play a role in the binding of a metal ion.
+
+-Consensus pattern: H-[NQEIVMYD]-[LIVMYAS]-V-P-[EKT]-H-x(2)-[LIVM]-x(2)-
+                    [DESAG]-[ET]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Klenk H.-P., Palm P., Lottspeich F., Zillig W.
+     "Component H of the DNA-dependent RNA polymerases of Archaea is
+     homologous to a subunit shared by the three eucaryal nuclear RNA
+     polymerases."
+     Proc. Natl. Acad. Sci. U.S.A. 89:407-410(1992).
+     PubMed=1729711
+[ 2] Thiru A., Hodach M., Eloranta J.J., Kostourou V., Weinzierl R.O.,
+     Matthews S.
+     "RNA polymerase subunit H features a beta-ribbon motif within a novel
+     fold that is present in archaea and eukaryotes."
+     J. Mol. Biol. 287:753-760(1999).
+     PubMed=10191143
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

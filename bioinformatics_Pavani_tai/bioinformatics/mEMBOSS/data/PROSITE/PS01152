@@ -1,0 +1,48 @@
+************************************************
+* Hypothetical hesB/yadR/yfhF family signature *
+************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Anabaena and related cyanobacteria protein hesB which  may  be required for
+   nitrogen fixation.
+ - Escherichia  coli  hypothetical  protein yadR and HI1723, the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia coli hypothetical protein ydiC.
+ - Escherichia  coli  hypothetical  protein yfhF and HI0376, the corresponding
+   Haemophilus influenzae protein.
+ - Mycobacterium tuberculosis hypothetical protein Rv2204c.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1417.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1565.
+ - A  hypothetical  protein  in  the  nifU  5'region  of  many nitrogen fixing
+   bacteria.
+ - Porphyra  purpurea chloroplast hypothetical protein in apcF-rps4 intergenic
+   region.
+ - Yeast hypothetical protein YLL027W.
+ - Yeast hypothetical protein YPR067W.
+
+These are  small  proteins  (106 to 135 amino-acid residues in bacteria, about
+200 residues  in  fungi)  that contain a number of conserved regions. The most
+noteworthy of  these  regions  is  located  in  the  C-terminal  extremity, it
+contains two  conserved  cysteines.  We  have  used this region as a signature
+pattern.
+
+-Consensus pattern: [FQ]-x-[LIVMFY]-x-[NH]-[PGT]-[NSKQR]-x(4)-C-x-C-[GSN]-x-S-
+                    F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bairoch A., Rudd K.E.
+     Unpublished observations (1995).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

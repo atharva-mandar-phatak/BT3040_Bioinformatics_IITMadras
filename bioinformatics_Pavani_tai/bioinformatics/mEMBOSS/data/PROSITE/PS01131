@@ -1,0 +1,50 @@
+************************************************
+* Ribosomal RNA adenine dimethylases signature *
+************************************************
+
+A number  of  enzymes  responsible  for  the  dimethylation  of  adenosines in
+ribosomal RNAs (EC 2.1.1.48) have been found [1,2] to be evolutionary related.
+These enzymes are:
+
+ - Bacterial  16S  rRNA  dimethylase (gene ksgA), which acts in the biogenesis
+   of ribosomes  by catalyzing the dimethylation of two adjacent adenosines in
+   the loop  of  a conserved hairpin near the 3'-end of 16S rRNA. Inactivation
+   of ksgA leads to resistance to the aminoglycoside antibiotic kasugamycin.
+ - Yeast  18S  rRNA  dimethylase (gene DIM1), which is functionally similar to
+   ksgA and that dimethylates twin adenosines in the 3'-end of 18S rRNA.
+ - Bacterial 'erm' methylases. These enzymes confer  resistance  to macrolide-
+   lincosamide-streptogramin B (MLS) antibiotics - such  as erythromycin -  by
+   dimethylating the  adenine  residue  at  position  2058  of  23S  rRNA thus
+   resulting in a reduced affinity between ribosomes and the MLS antibiotics.
+ - Caenorhabditis elegans hypothetical protein EO2H1.1.
+
+The best  conserved  region  in  these  enzymes  is  located in the N-terminal
+section and  corresponds  to  a region that is probably involved in S-adenosyl
+methionine (SAM) binding.
+
+-Consensus pattern: [LIVMAC]-[LIVMFYWT]-[DE]-x-G-[STAPVLCG]-G-x-[GAS]-x-
+                    [LIVMF]-[ST]-x(2,3)-[LIVMA]-x(5,8)-[LIVMYF]-x-[STAGVLC]-
+                    [LIVMFYHCS]-E-x-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] van Gemen B., van Knippenberg P.H.
+     (In) Nucleic acid methylation, Clawson G.A., Willis D.B., Weissbach A.,
+     Jones P.A., Eds., pp.19-36, Alan R. Liss Inc, New-York, (1990).
+[ 2] Lafontaine D., Delcour J., Glasser A.L., Desgres J., Vandenhaute J.
+     "The DIM1 gene responsible for the conserved m6(2)Am6(2)A
+     dimethylation in the 3'-terminal loop of 18 S rRNA is essential in
+     yeast."
+     J. Mol. Biol. 241:492-497(1994).
+     PubMed=8064863;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,39 @@
+NODAVIRPTASE
+Aspartic proteases have a catalytic aspartate residue at their active site.
+More than 8 families (denoted A1-A9) have been identified, three of which 
+(pepsin, retropepsin and cauliflower mosaic virus peptidase) have been 
+grouped into a single clan (AA), as they are all thought to have a common 
+ancestry. The remaining five families have not yet been assigned to clans 
+[1-3].
+
+Nodavirus coat precusor endopeptidases belong to the A6 family of aspartic
+proteases [4]. At the moment, it is not clear whether they share a common 
+ancestry with other aspartic proteases. Nodaviruses are small, icosahedral
+viruses, pathogenic to insects and mammals. A virus particle consists of a 
+single virion, within which is packaged two RNA stands, RNA1 and RNA2. 
+Nodavirus coat precursor endopeptidase (also known as protein alpha) is the 
+only protein encoded by RNA2. During the process of virion assembly, this 
+precursor is cleaved into coat proteins beta and gamma. RNA1 encodes two
+proteins, at least one of which is involved in RNA replication. The 
+relatively uncomplicated nature of their structural protein and RNA 
+constituents make the nodaviruses a good virus model [4].
+
+The 3D structure of the capsid protein has been determined by X-ray
+crystallography to 2.8A resolution [4]. The structure contains a beta-barrel
+domain, with a prominent protrusion composed largely of beta-sheet. This 
+protrusion, together with similar protrusions from neighbouring subunits,
+forms a prominent trigonal pyramid with quasi-3-fold symmetry [4]. Two
+alpha-helices extend toward the interior of the particle [4].
+
+NODAVIRPTASE is a 7-element fingerprint that provides a signature for
+nodavirus coat proteins. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 spans the first two
+alpha-helices; motif 2 spans the C-terminus of the second beta-strand,
+leading into the third strand; motif 3 includes helix 3; motif 4 spans
+strands 5-7; motif 5 encompasses strands 10 and 11, and helix 5, which
+lies between them; motif 6 includes strand 16; and motif 7 lies at the
+C-terminus. A single iteration on OWL30.0 was required to reach convergence,
+no further sequences being identified beyond the starting set of 4.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

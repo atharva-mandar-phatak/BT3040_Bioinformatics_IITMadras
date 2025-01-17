@@ -1,0 +1,34 @@
+HCO3TRNSPORT
+Bicarbonate (HCO3-) transport mechanisms are the principal regulators of pH
+in animal cells. Such transport also plays a vital role in acid-base
+movements in the stomach, pancreas, intestine, kidney, reproductive organs
+and the central nervous system. Functional studies have suggested four
+different HCO3- transport modes. Anion exchanger proteins exchange HCO3-
+for Cl- in a reversible, electroneutral manner [1]. Na+/HCO3- co-transport
+proteins mediate the coupled movement of Na+ and HCO3- across plasma
+membranes, often in an electrogenic manner [2]. Na- driven Cl-/HCO3-
+exchange and K+/HCO3- exchange activities have also been detected in 
+certain cell types, although the molecular identities of the proteins
+responsible remain to be determined.
+
+Sequence analysis of the two families of HCO3- transporters that have been
+cloned to date (the anion exchangers and Na+/HCO3- co-transporters) reveals
+that they are homologous. This is not entirely unexpected, given that they
+both transport HCO3- and are inhibited by a class of pharmacological agents
+called disulphonic stilbenes [3]. They share around ~25-30% sequence
+identity, which is distributed along their entire sequence length, and have
+similar predicted membrane topologies, suggesting they have ~10
+transmembrane (TM) domains.
+
+HCO3TRNSPORT is an 8-element fingerprint that provides a signature for the
+HCO3- transporter superfamily. The fingerprint was derived from an initial
+alignment of 18 sequences: the motifs were drawn from conserved regions
+from the central portion of the alignment - motif 1 lies near the end of
+the long presumed-cytoplasmic N-terminus; motifs 2-3 encode most of the
+first TM domain; motif 4 spans the end of fourth TM domain and the start 
+of the following cytoplasmic loop; motif 5 encodes ~2/3 of the fifth TM 
+domain; motif 6 lies on the sixth TM domain; motif 7 encodes a portion of
+the seventh TM domain; and motif 8 lies on the putative extracellular loop,
+between TM domains 7 and 8. Two iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 28 sequences was
+identified.

@@ -1,0 +1,64 @@
+***********************
+* Syndecans signature *
+***********************
+
+Syndecans [1,2]  (from  the  greek  syndein; to bind together) are a family of
+transmembrane heparan  sulfate  proteoglycans  which  are  implicated  in  the
+binding of extracellular matrix components and growth factors. Syndecans bind
+a variety  of  molecules  via  their  heparan  sulfate  chains  and can act as
+receptors or as co-receptors.
+
+Structurally, these proteins consist of four separate domains:
+
+ a) A signal sequence;
+ b) An extracellular domain (ectodomain) of variable length and whose sequence
+    is not  evolutionary  conserved  in  the  various  forms of syndecans. The
+    ectodomain contains  the  sites  of  attachment  of  the  heparan  sulfate
+    glycosaminoglycan side chains;
+ c) A transmembrane region;
+ d) A  highly  conserved  cytoplasmic  domain of about 30 to 35 residues which
+    could interact with cytoskeletal proteins.
+
+The proteins known to belong to this family are:
+
+ - Syndecan 1.
+ - Syndecan 2 or fibroglycan.
+ - Syndecan 3 or neuroglycan or N-syndecan.
+ - Syndecan 4 or amphiglycan or ryudocan.
+ - Drosophila syndecan.
+ - Caenorhabditis elegans probable syndecan (F57C7.3).
+
+The signature  pattern  that  we  developed for syndecans starts with the last
+residue of  the transmembrane region and includes the first 10 residues of the
+cytoplasmic domain. This region, which contains four basic residues, could act
+as a stop transfer site.
+
+-Consensus pattern: [FY]-R-[IM]-[KR]-K(2)-D-E-G-S-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Spring J.; spring@ubaclu.unibas.ch
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Bernfield M., Kokenyesi R., Kato M., Hinkes M.T., Spring J.,
+     Gallo R.L., Lose E.J.
+     "Biology of the syndecans: a family of transmembrane heparan sulfate
+     proteoglycans."
+     Annu. Rev. Cell Biol. 8:365-393(1992).
+     PubMed=1335744; DOI=10.1146/annurev.cb.08.110192.002053
+[ 2] David G.
+     "Integral membrane heparan sulfate proteoglycans."
+     FASEB J. 7:1023-1030(1993).
+     PubMed=8370471
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

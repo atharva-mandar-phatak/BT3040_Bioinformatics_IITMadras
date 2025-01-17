@@ -1,0 +1,61 @@
+FRACTALKINER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family). 
+
+Two additional chemokine families have also been identified, each containing
+only one member. C chemokines have only one of the first two Cys residues,
+while C-x3-C chemokines contain both cysteines, separated by three
+intervening residues [7]. The only C-x3-C chemokine identified to date is
+fractalkine, a TM molecule containing a chemokine domain on an extended
+mucin-like stalk [7,8]. The membrane-bound form of fractalkine can be 
+induced on endothelial cells in response to inflammation, and promotes
+adhesion of monocytes and T lymphocytes. The chemokine can also be released
+in a soluble form, which causes chemotaxis of monocytes and T cells [7,8].
+
+Both the adhesive and chemotactic effects of fractalkine are mediated 
+through a G protein-coupled receptor - CX3CR1. CX3CR1 is expressed 
+specifically on T cells, natural killer cells and monocytes and has closest 
+similarity to the C-C chemokine receptors. Coupling of the receptor to 
+pertussis toxin-sensitive Gi proteins leads to calcium mobilisation and 
+chemotaxis. In contrast, adhesion mediated by the receptor is insensitive to
+pertussis toxin and does not appear to involve calcium mobilisation [7]. 
+CX3CR1 has also been found to act as a weak fusion cofactor for some HIV-1 
+strains, an interaction that can be potently and specifically blocked by 
+fractalkine [8].
+
+FRACTALKINER is a 9-element fingerprint that provides a signature for the
+fractalkine receptors. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, focusing on those sections that
+characterise the fractalkine receptors but distinguish them from the rest of
+the chemokine receptor family - motif 1 resides at the N-terminus; motif 2
+spans part of the N-terminus, leading into TM domain 1; motif 3 spans the
+second cytoplasmic loop; motif 4 encodes the C-terminal portion of TM domain
+4, leading into the second external loop; motif 5 lies in the second
+external loop, leading into TM domain 5; motif 6 spans the third external
+loop; and motifs 7-9 reside at the C-terminus. A single iteration on
+SPTR39.22_17.3f was required to reach convergence, no further sequences 
+being identified beyond the starting set.

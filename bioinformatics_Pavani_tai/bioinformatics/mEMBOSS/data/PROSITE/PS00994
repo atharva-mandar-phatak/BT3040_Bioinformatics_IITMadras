@@ -1,0 +1,67 @@
+********************************************
+* Bacterial export FHIPEP family signature *
+********************************************
+
+A number  of  bacterial proteins seem to be involved in translocating specific
+proteins across  the bacterial cell membrane by a distinct secretory mechanism
+that does  not require the cleavage of a signal peptide. They are evolutionary
+related and belong to a family [1,2,3] that currently consists of:
+
+ - flhA  from  various  bacterial species, involved in the export of flagellar
+   proteins.
+ - hrpI   from   Erwinia   amylovora,   necessary   for  secreting  harpin,  a
+   proteinaceous elecitor  of  the hypersensitive response (HR) in the host of
+   this plant-pathogen.
+ - hrpC2 from Xanthomonas campestris pv. vesicatoria, also involved in HR.
+ - hrpI  from  Pseudomonas  syringae,  also involved in HR and probably in the
+   secretion of harpin-Pss.
+ - hrpO from Burkholderia solanacearum, also involved in HR.
+ - invA from Salmonella typhimurium, which could be involved in  translocating
+   the invE protein necessary for invading cells of the intestinal epithelium.
+ - lcrD  from  Yersinia  enterocolitica and pestis, which could be involved in
+   secreting the Yop virulence proteins.
+ - mxiA  from Shigella flexneri, involved in secreting the Ipa invasins  which
+   are necessary for penetration of intestinal epithelial cells.
+
+These proteins have all about 700 amino-acid residues.  The N-terminal half is
+highly conserved  and  seems  to  contain 6 to 8 transmembrane domains. The C-
+terminal half  is  less  conserved  and  seemingly     devoid of transmembrane
+domains. It  is  possible that these proteins serve as pores for the export of
+specific proteins.  We call  this family FHIPEP, which stands for Flagella/Hr/
+Invasion Proteins Export Pore.
+
+As a  signature  pattern, we  selected  the  best  conserved  region: a highly
+conserved hydrophilic domain between two transmembranes regions.
+
+-Consensus pattern: R-[LIVM]-[GSAT]-E-V-[GSAR]-A-R-F-[STAIV]-L-D-[GSA]-[LM]-P-
+                    G-K-Q-M-[GSA]-I-D-[GSA]-[DAE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Wei Z.-M., Beer S.V.
+     "HrpI of Erwinia amylovora functions in secretion of harpin and is a
+     member of a new protein family."
+     J. Bacteriol. 175:7958-7967(1993).
+     PubMed=8253684
+[ 2] Gough C.L., Genin S., Lopes V., Boucher C.A.
+     "Homology between the HrpO protein of Pseudomonas solanacearum and
+     bacterial proteins implicated in a signal peptide-independent
+     secretion mechanism."
+     Mol. Gen. Genet. 239:378-392(1993).
+     PubMed=8316211
+[ 3] Carpenter P.B., Ordal G.W.
+     "Bacillus subtilis FlhA: a flagellar protein related to a new family
+     of signal-transducing receptors."
+     Mol. Microbiol. 7:735-743(1993).
+     PubMed=8097015
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

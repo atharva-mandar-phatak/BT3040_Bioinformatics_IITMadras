@@ -1,0 +1,52 @@
+***********************************
+* SpoIVB peptidase domain profile *
+***********************************
+
+The protein  SpoIVB  is  a  serine  peptidase  that  plays a central role in a
+regulatory checkpoint   (the   sigma-K   checkpoint)  which  coordinates  gene
+expression during  the  later  stages of spore formation in Bacillus subtilis.
+SpoIVB signal  by transiting a membrane, undergoing self cleavage, and then by
+an unknown mechanism activating a zinc metalloprotease, SpoIVFB, which cleaves
+pro-sigma-K to  its  active form, sigma-K, in the outer mother cell chamber of
+the developing  cell  [E1]. Homologues of SpoIVB proteins have been identified
+in a  number  of  spore-forming  organisms. SpoIVB carries a single PDZ domain
+(see <PDOC50106>)  and  a  160-amino-acid  residue  catalytic serine peptidase
+domain at the carboxyl terminus of the protein. His, Asp and Ser residues form
+the catalytic  triad  of  the SpoIVB serine peptidase domain [1,2]. The SpoIVB
+peptidase domain forms peptidase family S55 of clan PA(S) [2] [E1].
+
+For SpoIVB  to  cleave  another  SpoIVB  molecule  in  trans  it must target a
+specific region  at  the  COOH  terminus  of the SpoIVB peptidase domain. This
+region carries  a Thr-His-Val motif identical to the classical PDZ recognition
+motif ([ST]-X-V) normally found at the extreme COOH terminus of PDZ-recognized
+proteins [2].
+
+The profile we developed covers the entire SpoIVB peptidase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2011 / Text revised.
+
+[ 1] Hoa N.T., Brannigan J.A., Cutting S.M.
+     "The Bacillus subtilis signaling protein SpoIVB defines a new family
+     of serine peptidases."
+     J. Bacteriol. 184:191-199(2002).
+     PubMed=11741860
+[ 2] Dong T.C., Cutting S.M.
+     "The PDZ domain of the SpoIVB transmembrane signaling protein enables
+     cis-trans interactions involving multiple partners leading to the
+     activation of the pro-sigmaK processing complex in Bacillus
+     subtilis."
+     J. Biol. Chem. 279:43468-43478(2004).
+     PubMed=15292188; DOI=10.1074/jbc.M407048200
+[E1] http://merops.sanger.ac.uk/cgi-bin/famsum?family=s55
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

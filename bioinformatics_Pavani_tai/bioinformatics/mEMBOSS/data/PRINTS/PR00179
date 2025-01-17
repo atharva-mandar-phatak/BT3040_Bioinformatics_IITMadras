@@ -1,0 +1,43 @@
+LIPOCALIN
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration, and the enzymatic synthesis
+of prostaglandins.
+
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2,3]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins, which function similarly by
+binding small hydrophobic molecules. Similarity at the sequence level,
+however, is less obvious, being confined to a single short N-terminal motif.
+
+LIPOCALIN is a 3-element fingerprint that provides a signature for the
+lipocalins. The fingerprint was derived from an initial alignment of 6
+sequences: motif 1 includes a GxW triplet, which forms part of the first
+beta-strand (cf. PROSITE pattern LIPOCALIN (PS00213)); motif 2 encodes a 
+TDY triplet, which lies in a conserved region of the barrel involving the
+6th and 7th beta-strands and the loop between them; and motif 3 encodes an
+Arg (sometimes a Lys) residue, which lies in a structurally conserved
+region involving the final strand and part of the loop linking it to the
+C-terminal alpha-helix. Five iterations on OWL11.1 were required to reach 
+convergence, at which point a true set comprising 51 sequences was 
+identified: these included most of the previously known family members, and
+one new one -  mouse 24p3 protein [2,3]. Several members, however, were not
+diagnosed, including alpha-1-acid glycoprotein, aphrodisin, probasin, 
+several odour binding proteins and kangaroo beta-lactoglobulin-like protein.
+Four partial matches were also found, including a now-corrected error in 
+sequencing, a fragment lacking the portion of sequence bearing motif 3, and
+2 putative family members that lack one of the 3 motifs. The results suggest
+that a core, structurally well-conserved and self-consistent family can be
+defined, together with a group of outliers, which show some similarity to 
+the family but fail to match all motifs well [3].
+
+An update on SPTR37_9f identified a true set of 74 sequences, and 19
+partial matches.

@@ -1,0 +1,51 @@
+*****************************
+* Legume lectins signatures *
+*****************************
+
+Leguminous plants synthesize  sugar-binding proteins  which  are called legume
+lectins [1,2].   These lectins are  generally found  in the  seeds.  The exact
+function of legume lectins  is  not  known   but  they  may be involved in the
+attachment of  nitrogen-fixing  bacteria  to  legumes  and  in  the protection
+against pathogens.   Legume  lectins  bind  calcium  and  manganese (or  other
+transition metals).
+
+Legume lectins are synthesized as precursor proteins of about 230 to 260 amino
+acid residues.  Some  legume  lectins are proteolytically processed to produce
+two chains: beta (which corresponds to the N-terminal) and alpha (C-terminal).
+The lectin concanavalin A (conA) from jack bean is exceptional in that the two
+chains are transposed  and ligated (by formation of a new peptide  bond).  The
+N-terminus of mature conA thus corresponds to that of the  alpha chain and the
+C-terminus to the beta chain.
+
+We have developed two signature patterns specific to legume lectins: the first
+is  located  in  the  C-terminal  section  of  the  beta  chain and contains a
+conserved aspartic acid   residue  important  for  the  binding of calcium and
+manganese; the second one is located in the N-terminal of the alpha chain.
+
+-Consensus pattern: [LIV]-[STAG]-V-[DEQV]-[FLI]-D-[ST]
+                    [D binds manganese and calcium]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 46.
+
+-Consensus pattern: [LIV]-{LA}-[EDQ]-[FYWKR]-V-{VF}-[LIVF]-G-[LF]-[ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 8.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sharon N., Lis H.
+     "Legume lectins--a large family of homologous proteins."
+     FASEB J. 4:3198-3208(1990).
+     PubMed=2227211
+[ 2] Lis H., Sharon N.
+     Annu. Rev. Biochem. 55:33-37(1986).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

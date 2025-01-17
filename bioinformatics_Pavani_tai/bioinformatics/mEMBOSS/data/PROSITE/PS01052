@@ -1,0 +1,83 @@
+**********************************************
+* Calponin-like repeat signature and profile *
+**********************************************
+
+Calponin [1,2] is a thin filament-associated protein that is implicated in the
+regulation and  modulation  of  smooth  muscle  contraction.  It is capable of
+binding to  actin,  calmodulin, troponin C and tropomyosin. The interaction of
+calponin with  actin  inhibits the actomyosin MgATPase activity. Calponin is a
+basic protein  of  approximately 34 Kd.  Multiple isoforms are found in smooth
+muscles.
+
+Calponin contains  three  repeats  of a well conserved motif of about 26 amino
+acids. Such  a  domain  is  also  found  in  a  number of other proteins whose
+physiological role is not yet established:
+
+ - Vertebrate  transgelin  (also known as smooth muscle protein SM22-alpha) (1
+   copy).
+ - Mammalian transgelin 2.
+ - Drosophila synchronous flight muscle protein SM20 (1 copy).
+ - Rat neuronal protein NP25 [3] (1 copy).
+ - Caenorhabditis elegans protein unc-87 [4] (5 copies).
+ - An Onchocerca volvulus antigen [5] (5 copies).
+
+Most of  these proteins also contain a N-terminal CH domain (see <PDOC50021>).
+The calponin-like  repeat is a short actin-binding module. Actin-binding sites
+formed by  either  CH  domains  or  calponin-like repeats occupy non-competing
+binding sites along the actin filament [6].
+
+We developed  both  a  pattern and a profile for the calponin-like repeat. The
+signature pattern  corresponds  to  the first 20 residues, whereas the profile
+covers the entire calponin-like repeat.
+
+-Consensus pattern: [LIVM]-x-[LS]-Q-[MASY]-G-[STY]-[NT]-[KRQ]-x(2)-[STN]-Q-x-
+                    G-x(3,4)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2005 / Profile added and text revised.
+
+[ 1] Winder S.J., Walsh M.P.
+     "Calponin: thin filament-linked regulation of smooth muscle
+     contraction."
+     Cell. Signal. 5:677-686(1993).
+     PubMed=8130072
+[ 2] Applegate D.E., Feng W., Green R.S., Taubman M.B.
+     "Cloning and expression of a novel acidic calponin isoform from rat
+     aortic vascular smooth muscle."
+     J. Biol. Chem. 269:10683-10690(1994).
+     PubMed=8144658
+[ 3] Ren W.-Z., Ng G.Y.K., Wang R.-X., Wu P.H., O'Dowd B.F., Osmond D.H.,
+     George S.R., Liew C.-C.
+     "The identification of NP25: a novel protein that is differentially
+     expressed by neuronal subpopulations."
+     Brain Res. Mol. Brain Res. 22:173-185(1994).
+     PubMed=8015377
+[ 4] Goetinck S.D., Waterston R.H.
+     "The Caenorhabditis elegans muscle-affecting gene unc-87 encodes a
+     novel thin filament-associated protein."
+     J. Cell Biol. 127:79-93(1994).
+     PubMed=7929573
+[ 5] Irvine M., Huima T., Prince A.M., Lustigman S.
+     "Identification and characterization of an Onchocerca volvulus cDNA
+     clone encoding a highly immunogenic calponin-like protein."
+     Mol. Biochem. Parasitol. 65:135-146(1994).
+     PubMed=7935620
+[ 6] Lener T., Burgstaller G., Gimona M.
+     "The role of calponin in the gene profile of metastatic cells:
+     inhibition of metastatic cell motility by multiple calponin repeats."
+     FEBS Lett. 556:221-226(2004).
+     PubMed=14706854
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

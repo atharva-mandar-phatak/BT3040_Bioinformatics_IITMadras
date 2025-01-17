@@ -1,0 +1,85 @@
+***********************************************
+* DAG-kinase catalytic (DAGKc) domain profile *
+***********************************************
+
+The  DAG-kinase catalytic domain or DAGKc domain is present in mammalian lipid
+kinases,  such  as  diacylglycerol (DAG), ceramide and sphingosine kinases, as
+well  as  in  related  bacterial  proteins  [1,2].  Eukaryotic  DAG-kinase (EC
+2.7.1.107)  catalyzes  the  phosphorylation  of DAG to phosphatidic acid, thus
+modulating  the  balance  between  the  two  signaling  lipids.  At  least ten
+different  isoforms  have  been  identified  in  mammals,  which form 5 groups
+characterized  by different functional domains, such as the calcium-binding EF
+hand   (see   <PDOC00018>),  PH  (see  <PDOC50003>),  SAM  (see  <PDOC50105>),
+DAG/PE-binding   C1   domain   (see  <PDOC00379>)  and  ankyrin  repeats  (see
+<PDOC50088>) [3].
+
+In bacteria, an integral membrane DAG kinase forms a homotrimeric protein that
+lacks  the  DAGKc  domain  (see  <PDOC00820>). In contrast, the bacterial yegS
+protein  is  a soluble cytosolic protein that contains the DAGKc domain in the
+N-terminal  part.  YegS is a lipid kinase with two structural domains, wherein
+the  active  site is located in the interdomain cleft, C-terminal to the DAGKc
+domain  which  forms an alpha/beta fold (see <PDB: 2BON; A>) [2]. The tertiary
+structure  resembles  that of NAD kinases and contains a metal-binding site in
+the C-terminal region [2,4].
+
+Some proteins known to contain a DAGKc domain are listed below:
+
+ - Mammalian  diacylglycerol  kinase (DGK/DAGK, EC 2.7.1.107), which upon cell
+   stimulation   converts   the   second  messenger  DAG  into  phosphatidate,
+   initiating the resynthesis of phosphatidylinositols and attenuating protein
+   kinase C activity.
+ - Mammalian   sphingosine   kinase   (EC   2.7.1.91),   which  catalyzes  the
+   phosphorylation  of  sphingosine  to  form sphingosine 1-phosphate (SPP), a
+   lipid mediator with both intra- and extracellular functions.
+ - Mammalian  mitochondrial  acylglycerol  kinase (mulK, EC 2.7.1.94), a lipid
+   kinase  that  can phosphorylate both monoacylglycerol and diacylglycerol to
+   form lysophosphatidic acid and phosphatidic acid, respectively.
+ - Mammalian  ceramide kinase (EC 2.7.1.138), which catalyzes specifically the
+   phosphorylation of ceramide to form ceramide 1-phosphate.
+ - Bacterial  lipid  kinase  yegS  (EC 2.7.1.-), which in vitro phosphorylates
+   phosphatidylglycerol   but   not  diacylglycerol;  probably  phosphorylates
+   lipids.
+ - Fruit fly diacylglycerol kinases (EC 2.7.1.107).
+ - Caenorhabditis  elegans  putative diacylglycerol kinase K06A1.6 and protein
+   F52C9.3
+ - Plant sphingoid long-chain bases kinase.
+ - Yeast sphingoid long-chain bases kinase.
+
+The profile we developed covers the entire DAGKc domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2009 / First entry.
+
+[ 1] Sakane F., Imai S., Kai M., Wada I., Kanoh H.
+     "Molecular cloning of a novel diacylglycerol kinase isozyme with a
+     pleckstrin homology domain and a C-terminal tail similar to those of
+     the EPH family of protein-tyrosine kinases."
+     J. Biol. Chem. 271:8394-8401(1996).
+     PubMed=8626538
+[ 2] Bakali H.M., Herman M.D., Johnson K.A., Kelly A.A., Wieslander A.,
+     Hallberg B.M., Nordlund P.
+     "Crystal structure of YegS, a homologue to the mammalian
+     diacylglycerol kinases, reveals a novel regulatory metal binding
+     site."
+     J. Biol. Chem. 282:19644-19652(2007).
+     PubMed=17351295; DOI=10.1074/jbc.M604852200
+[ 3] Sakane F., Imai S., Kai M., Yasuda S., Kanoh H.
+     "Diacylglycerol kinases: why so many of them?"
+     Biochim. Biophys. Acta 1771:793-806(2007).
+     PubMed=17512245; DOI=10.1016/j.bbalip.2007.04.006
+[ 4] Jerga A., Miller D.J., White S.W., Rock C.O.
+     "Molecular determinants for interfacial binding and conformational
+     change in a soluble diacylglycerol kinase."
+     J. Biol. Chem. 284:7246-7254(2009).
+     PubMed=19112175; DOI=10.1074/jbc.M805962200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

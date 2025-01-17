@@ -1,0 +1,53 @@
+***********************
+* NERD domain profile *
+***********************
+
+The nuclease-related  domain (NERD) is an about 117-amino acid module found in
+a broad range of bacterial, as well as single archaeal and plant proteins. The
+majority of  NERD-containing proteins are single-domain, in several cases with
+additional (predicted)   transmembrane  helices.  In  only  a  few  instances,
+proteins containing  NERD  domains have additional domains (mostly involved in
+DNA processing),  such  as the HRDC, the UvrD/REP helicase, the DNA-binding C4
+zinc finger   or   the  serine/threonine  and  tyrosine  protein  kinase  (see
+<PDOC00100>). In  all  cases  in which a NERD domain is present in multidomain
+proteins, it  is  found  at the N terminus. The NERD domain is predicted to be
+connected to  DNA processing and genomic context and distant homology analysis
+suggest a nuclease function [1].
+
+The NERD  sequence  is  characterized  by three conserved regions among weakly
+conserved or  very  diverse  regions.  Conserved hydrophobic, mainly aliphatic
+motifs (consisting  of  Leu,  Ile and Val) and polar, mainly charged positions
+(e.g. Asp, His, Glu and Lys) alternate. An interesting feature of NERD domains
+is the  existence  of  subgroups  that have no conservation in motifs that are
+conserved in  all  other members of the family or with a charge difference. It
+has been  hypothesized that these differences account for functional diversity
+within the  NERD  family.  The NERD domain is predicted to have an alpha-beta-
+beta-beta-(weak beta/long loop)-alpha-beta-beta secondary structure [1].
+
+Some proteins known to contain a NERD domain are listed below:
+
+ - Bacillus anthracis pXO1-01 protein. It  is encoded by the virulence-related
+   pXO1 plasmid.
+ - Bacteroides spp. orf8 protein.
+
+The profile we developed covers the entire NERD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2004 / First entry.
+
+[ 1] Grynberg M., Godzik A.
+     "NERD: a DNA processing-related domain present in the anthrax
+     virulence plasmid, pXO1."
+     Trends Biochem. Sci. 29:106-110(2004).
+     PubMed=15055202
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

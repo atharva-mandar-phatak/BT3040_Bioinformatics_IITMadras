@@ -1,0 +1,101 @@
+****************************************************
+* Intein N- and C-terminal splicing motif profiles *
+****************************************************
+
+Inteins  (for  INternal  proTEINs)  are  protein  insertion sequences that are
+embedded in host protein sequences. They are post-translationally excised from
+the  host  protein  by a self-catalytic protein splicing process, in which the
+intein  sequence is precisely excised, and the flanking host protein sequences
+(N-  and  C-exteins)  are religated to create a functional protein. Intein and
+protein  splicing  may  be  viewed as the protein equivalent of intron and RNA
+splicing,  respectively.  Inteins  were  initially  discovered  as  translated
+intervening  sequences  that  were  present  in  the  host  gene but absent in
+homologous  genes.  Inteins  occur in organisms spanning all three kingdoms of
+life  (eubacteria,  archaea  and eukaryote). Although many inteins are in host
+proteins  involved  in nucleic acid metabolism, several inteins are located in
+metabolic   enzymes,   such   as   phosphoenolpyruvate   synthase,   anaerobic
+ribonucleoside   triphosphate   reductase,   UDP-glucose  dehydrogenase,  ClpP
+protease/chaperone,  vacuolar  ATPase proton pump (VMA) and glutamine-fructose
+6-phosphate  transaminase.  It  should be noted that protein splicing can also
+occur  in  trans  as  in Synechocystis sp. PCC 6803, where the replicative DNA
+polymerase  catalytic  subunit (DnaE) is generated from two separate precursor
+fragments [1,2,3,4,E1].
+
+Most inteins are bifunctional proteins mediating both protein splicing and DNA
+cleavage. The  domain  involved  in  splicing  is  formed  by the two terminal
+splicing  regions,  which are separated by a small linker in mini-inteins or a
+homing endonuclease of 200-250 amino acids in larger inteins (see <PDOC50819>)
+[1,4].  The  N-terminal  splicing  region spans the about 100 N-terminal amino
+acids  and  contains  the conserved intein blocks A and B which are similar to
+the motifs  found  in  the  C-terminal  autoprocessing  domain of the hedgehog
+protein.  The  C-terminal  splicing  region  is  composed of the two conserved
+blocks  F  and  G located in the about 50 C-terminal amino acids. Although, no
+single  residue  is invariant, the Ser and Cys in block A, the His in block B,
+the His, Asn and Ser/Cys/Thr in block G are the most conserved residues in the
+splicing  motifs.  Protein  splicing  requires neither cofactors nor auxiliary
+enzymes  and  involves  a  series  of  four  intramolecular reactions in which
+several of these most conserved residues are implicated [1,3,E1].
+
+Resolution of   the  crystal  structure  of  the  Mxe  GyrA  mini-intein  (see
+<PDB:1AM2>) revealed a flattened 'horseshoe shaped' protein composed primarily
+of beta-strands forming two homologous subdomains that are related by a pseudo
+twofold axis  of  symmetry.  Despite a low level of sequence conservation, the
+two subdomains  are  nearly  superimposable,  suggesting  that they could have
+arisen by  tandem  duplication  of  a primordial gene. However, the duplicated
+sequences do  not  correspond  directly  to  the  two  subdomains  as  the two
+subdomains have exchanged homologous loop regions [1,2,5,6].
+
+The  first  profile  we  have  developed  is  directed  against the N-terminal
+splicing region and covers the intein blocks A and B. It starts with the first
+N-terminal amino acid of the intein.
+
+The  second  profile  we  have  developed  is  directed against the C-terminal
+splicing  region and covers the intein blocks F and G. It extends to the first
+extein residue following the intein.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2002 / Text revised, patterns removed and profiles added.
+
+[ 1] Liu X.-Q.
+     "Protein-splicing intein: Genetic mobility, origin, and evolution."
+     Annu. Rev. Genet. 34:61-76(2000).
+     PubMed=11092822; DOI=10.1146/annurev.genet.34.1.61
+[ 2] Paulus H.
+     "Protein splicing and related forms of protein autoprocessing."
+     Annu. Rev. Biochem. 69:447-496(2000).
+     PubMed=10966466; DOI=10.1146/annurev.biochem.69.1.447
+[ 3] Perler F.B., Olsen G.J., Adam E.
+     "Compilation and analysis of intein sequences."
+     Nucleic Acids Res. 25:1087-1093(1997).
+     PubMed=9092614
+[ 4] Perler F.B.
+     "InBase, the Intein Database."
+     Nucleic Acids Res. 28:344-345(2000).
+     PubMed=10592269
+[ 5] Klabunde T., Sharma S., Telenti A., Jacobs W.R. Jr., Sacchettini J.C.
+     "Crystal structure of GyrA intein from Mycobacterium xenopi reveals
+     structural basis of protein splicing."
+     Nat. Struct. Biol. 5:31-36(1998).
+     PubMed=9437427
+[ 6] Hall T.M.T., Porter J.A., Young K.E., Koonin E.V., Beachy P.A.,
+     Leahy D.J.
+     "Crystal structure of a Hedgehog autoprocessing domain: homology
+     between Hedgehog and self-splicing proteins."
+     Cell 91:85-97(1997).
+     PubMed=9335337
+[E1] http://www.neb.com/neb/inteins.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

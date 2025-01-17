@@ -1,0 +1,42 @@
+**********************************************
+* Oxysterol-binding protein family signature *
+**********************************************
+
+A number of eukaryotic proteins that seem to be involved with sterol synthesis
+and/or its regulation have been found [1] to be evolutionary related:
+
+ - Mammalian  oxysterol-binding  protein (OSBP). A protein of about 800 amino-
+   acid residues that binds a variety of oxysterols: oxygenated derivatives of
+   cholesterol. OSBP seems to play a complex role in the  regulation of sterol
+   metabolism.
+ - Mammalian OSBP-related proteins 1 to 11.
+ - Yeast proteins HES1 and KES1; highly related proteins of  434 residues that
+   seem to play a role in ergosterol synthesis.
+ - Yeast OSH1 to OSH7.
+
+All these proteins contain a moderately conserved domain of about 250 residues
+located in  the  C-terminal  half of OBSP, OSH1 and YHR073w and in the central
+section of  the  other  proteins. As a signature pattern, we selected the best
+conserved part   of   this   domain,   a  region  that  contains  a  conserved
+pentapeptide.
+
+-Consensus pattern: E-[KQ]-x-[SC]-H-[HR]-[PG]-[PL]-x(1,2)-[STACFI]-[ACGY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Jiang B., Brown J.L., Sheraton J., Fortin N., Bussey H.
+     "A new family of yeast genes implicated in ergosterol synthesis is
+     related to the human oxysterol binding protein."
+     Yeast 10:341-353(1994).
+     PubMed=8017104
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

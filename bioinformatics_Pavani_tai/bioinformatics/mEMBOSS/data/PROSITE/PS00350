@@ -1,0 +1,90 @@
+*****************************************
+* MADS-box domain signature and profile *
+*****************************************
+
+A number of transcription factors  contain a conserved domain of 56 amino-acid
+residues, sometimes known as the MADS-box domain. They are listed below:
+
+ - Serum  response  factor  (SRF)  [1],  a mammalian transcription factor that
+   binds to the Serum Response Element (SRE). This is a short sequence of dyad
+   symmetry located 300 bp  to the 5' end of the transcription initiation site
+   of genes such as c-fos.
+ - Mammalian  myocyte-specific  enhancer  factors  2A  to 2D (MEF2A to MEF2D).
+   These proteins  are  transcription  factor  which binds specifically to the
+   MEF2 element  present  in  the  regulatory  regions of many muscle-specific
+   genes.
+ - Drosophila myocyte-specific enhancer factor 2 (MEF2).
+ - Yeast  GRM/PRTF  protein  (gene  MCM1) [2], a  transcriptional regulator of
+   mating-type-specific genes.
+ - Yeast arginine metabolism regulation protein I (gene ARGR1 or ARG80).
+ - Yeast transcription factor RLM1.
+ - Yeast transcription factor SMP1.
+ - Arabidopsis thaliana  agamous  protein (AG) [3],  a  probable transcription
+   factor  involved  in  regulating  genes  that  determines stamen and carpel
+   development in wild-type flowers.   Mutations in  the AG gene result in the
+   replacement of the stamens by petals and the carpels by a new flower.
+ - Arabidopsis  thaliana  homeotic proteins Apetala1 (AP1), Apetala3 (AP3) and
+   Pistillata (PI)  which  act  locally  to specify the identity of the floral
+   meristem and to determine sepal and petal development [4].
+ - Antirrhinum majus and tobacco homeotic protein deficiens (DEFA) and globosa
+   (GLO) [5].  Both proteins are transcription factors involved in the genetic
+   control of  flower  development.    Mutations  in  DEFA  or  GLO  cause the
+   transformation of petals into sepals and of stamina into carpels.
+ - Arabidopsis thaliana putative transcription factors AGL1 to AGL6 [6].
+ - Antirrhinum majus morphogenetic protein DEF H33 (squamosa).
+
+In SRF, the conserved domain has been shown [1] to  be involved in DNA-binding
+and dimerization.  We have derived a pattern that spans the complete length of
+the domain. The profile also spans the length of the MADS-box.
+
+-Consensus pattern: [RGS]-x-[RKS]-x(5)-[IL]-x-[DNGSK]-x(3)-[KR]-x(2)-T-[FY]-x-
+                    [RK](3)-x(2)-[LIVM]-x-[KE]-K-[AT]-x-[EQ]-[LIVM]-[STA]-x-L-
+                    x(4)-[LIVM]-x-[LIVM]-[LIVMT]-[LIVM]-x(6)-[LIVMFC]-x(2)-
+                    [FYLS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Norman C., Runswick M., Pollock R., Treisman R.
+     "Isolation and properties of cDNA clones encoding SRF, a transcription
+     factor that binds to the c-fos serum response element."
+     Cell 55:989-1003(1988).
+     PubMed=3203386
+[ 2] Passmore S., Maine G.T., Elble R., Christ C., Tye B.-K.
+     "Saccharomyces cerevisiae protein involved in plasmid maintenance is
+     necessary for mating of MAT alpha cells."
+     J. Mol. Biol. 204:593-606(1988).
+     PubMed=3066908
+[ 3] Yanofsky M.F., Ma H., Bowman J.L., Drews G.N., Feldmann K.A.,
+     Meyerowitz E.M.
+     "The protein encoded by the Arabidopsis homeotic gene agamous
+     resembles transcription factors."
+     Nature 346:35-39(1990).
+     PubMed=1973265; DOI=10.1038/346035a0
+[ 4] Goto K., Meyerowitz E.M.
+     "Function and regulation of the Arabidopsis floral homeotic gene
+     PISTILLATA."
+     Genes Dev. 8:1548-1560(1994).
+     PubMed=7958839
+[ 5] Troebner W., Ramirez L., Motte P., Hue I., Huijser P., Loennig W.-E.,
+     Saedler H., Sommer H., Schwartz-Sommer Z.
+     EMBO J. 11:4693-4704(1992).
+[ 6] Ma H., Yanofsky M.F., Meyerowitz E.M.
+     "AGL1-AGL6, an Arabidopsis gene family with similarity to floral
+     homeotic and transcription factor genes."
+     Genes Dev. 5:484-495(1991).
+     PubMed=1672119
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,70 @@
+PROXISOMPAGR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+Peroxisome proliferator-activated receptors (PPAR) are ligand-activated
+transcription factors that belong to the nuclear hormone receptor 
+superfamily. Three cDNAs encoding PPARs have been isolated from Xenopus
+laevis: xPPAR alpha, beta and gamma [4]. All three xPPARs appear to be
+activated by both synthetic peroxisome proliferators and naturally occurring
+fatty acids, suggesting a common mode of action for all members of this 
+subfamily of receptors [4]. Furthermore, the multiplicity of the receptors
+suggests the existence of hitherto unknown cellular signalling pathways for
+xenobiotics and putative endogenous ligands [5]. 
+
+A cDNA corresponding to the hamster PPAR (haPPAR) gamma has been isolated 
+[6]. haPPAR gamma mRNA is highly expressed in adipose tissue, and to a
+lesser extent in lung, heart, kidney, liver and spleen, and may thus 
+function in activating the transcription of target genes in a variety of
+tissues, including those not particularly subjected to peroxisomal beta-
+oxidation [6]. haPPAR gamma binds efficiently in the presence of retinoid X
+receptor alpha (RXR alpha) to a peroxisome proliferator response element
+(PPRE) first identified in the acyl-CoA oxidase (ACO) promoter, the rate-
+limiting enzyme of peroxisomal beta-oxidation [6]. 
+
+A human cognate of the mouse PPAR-gamma (hPPAR gamma) has been cloned from
+a placental cDNA library [7]. Sequence analysis reveals a high degree of
+similarity to the mouse receptor (mPPAR) and, like other PPARs, hPPAR gamma
+forms heterodimers with RXR alpha. hPPAR gamma is expressed strongly in 
+adipose tissue, but significant levels are also detectable in placenta, lung
+and ovary [7]. In vitro trans-activation data suggest hPPAR gamma is only
+poorly activated by xenobiotic peroxisome proliferators, although certain
+fatty acids and eicosanoids are potent activators of this receptor [7]. Both
+mPARR and hPPAR gamma may be activated by thiazolidinedione drugs, although
+the receptors appear to differ in their sensitivity to these compounds [7].
+These data suggest a high degree of structural and functional similarity
+between mPARR and hPPAR gamma, and provide evidence for variation in human
+receptor structure that may result in differential sensitivity to 
+activators [7]. 
+
+PROXISOMPAGR is a 6-element fingerprint that provides a signature for 
+peroxisome proliferator-activated gamma receptors. The fingerprint was 
+derived from an initial alignment of 4 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise the gamma receptors but distinguish them
+from the rest of the PPAR family - motifs 1-4 lie N-terminal to the zinc
+finger domain; motif 5 lies between the zinc fingers and the putative
+ligand-binding domain; and motif 6 resides within this latter domain.
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 11 sequences was identified.

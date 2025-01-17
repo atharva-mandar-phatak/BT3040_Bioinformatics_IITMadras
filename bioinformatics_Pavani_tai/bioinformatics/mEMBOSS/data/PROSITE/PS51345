@@ -1,0 +1,59 @@
+******************************************
+* Myotoxins family signature and profile *
+******************************************
+
+Myotoxins [1,2] are small basic peptides (42 to 45 residues) from the venom of
+rattlesnakes  that  cause severe muscle necrosis by a non-enzymatic mechanism.
+Myotoxins  act  extremely  rapidly and serve two primary biological functions:
+limiting  the  flight  of  prey by causing instantaneous paralysis of the hind
+limbs and promoting rapid death by paralysis of the diaphragm.
+
+Myotoxins contain six cysteines involved in three disulfide bonds  as shown in
+the following schematic representation:
+
+                    +------------------+
+                    |                  |
+          x+xC+x+xx+Cxx+xxxCxxxxxxxx+xxCxx+x+CC++xxxxxx
+             |             |                 ||
+             +-------------|-----------------+|
+                           +------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'+': conserved basic residue (Arg, Lys, or His).
+
+The structure  of all known myotoxins is very conserved. We chose  to  build a
+pattern based  solely  on  the  position  of  conserved  cysteines  and  basic
+residues. We also developed a profile that covers the whole myotoxin.
+
+-Consensus pattern: K-x-C-H-x-K-x(2)-H-C-x(2)-K-x(3)-C-x(8)-K-x(2)-C-x(2)-
+                    [RK]-x-K-C-C-K-K
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2007 / Text revised; profile added.
+
+[ 1] Griffin P.R., Aird S.D.
+     "A new small myotoxin from the venom of the prairie rattlesnake
+     (Crotalus viridis viridis)."
+     FEBS Lett. 274:43-47(1990).
+     PubMed=2253781
+[ 2] Nicastro G., Franzoni L., de Chiara C., Mancin A.C., Giglio J.R.,
+     Spisni A.
+     "Solution structure of crotamine, a Na+ channel affecting toxin from
+     Crotalus durissus terrificus venom."
+     Eur. J. Biochem. 270:1969-1979(2003).
+     PubMed=12709056
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

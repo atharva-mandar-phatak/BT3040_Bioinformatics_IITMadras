@@ -1,0 +1,25 @@
+CHAPERONPILI
+Pili are supramolecular structures present on the surface of most Gram-
+negative bacteria that are involved in the recognition of host receptors.
+Many interactive subunits are required to assemble pili, but their assembly
+only takes place after translocation across the cytoplasmic membrane. 
+
+Periplasmic chaperones assist pili assembly by binding to the subunits, 
+thereby preventing premature aggregation [1,2]. This family of chaperones
+are structurally, and possibly evolutionarily, related to the immunoglobulin
+superfamily [3]: they contain two globular domains, with a topology 
+identical to an immunoglobulin fold. 
+
+CHAPERONPILI is a 5-element fingerprint that provides a signature for the
+pili chaperone protein family. The fingerprint was derived from an initial
+alignment of 13 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length - motif 3 includes the region encoded by
+PROSITE pattern PILI_CHAPERONE (PS00635), a highly-conserved section located
+in the C-terminus of the first globular domain. Four iterations on OWL30.2 
+were required to reach convergence, at which point a true set comprising 47
+sequences was identified. Two partial matches were also found, ECU505471 
+and YHCA_ECOLI, both of which are related proteins that fail to match two 
+or more motifs.
+
+An update on SPTR37_9f identified a true set of 45 sequences, and 1
+partial match.

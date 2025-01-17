@@ -1,0 +1,31 @@
+SSBTLNINHBTR
+The Streptomyces family of bacteria produce a number of protease inhibitors,
+which are characterised by their strong activity towards subtilisin - they
+are collectively known as Streptomyces subtilisin inhibitors (SSI) [1]. Some
+SSI also inhibit trypsin and chymotrypsin. Mutation of the active site
+residue can influence inhibition specificity [1]. 
+
+SSI is a homodimer, each monomer containing 2 anti-parallel beta-sheets
+and 2 short alpha-helices [2]. Protease binding induces the widening of a
+channel-like structure, in which hydrophobic side-chains are sandwiched
+between 2 lobes [2]. Loss of the C-terminal tetrapeptide VFAF drastically
+reduces the inhibitory effect of the proteins when there is less than one
+molecule of inhibitor present per molecule of enzyme: this implies that 
+the tetrapeptide is neccessary to maintain the correct 3D fold [3]. 
+
+Structural similarities between the primary and secondary contact loops of
+SSI, and the ovomucoid and pancreatic secretory trypsin inhibitor family
+suggest evolution of the 2 families from a common ancestor [2]. 
+
+SSBTLNINHBTR is a 4-element fingerprint that provides a signature for 
+Streptomyces subtilisin inhibitors. The fingerprint was derived from 
+an initial alignment of 6 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motifs 1 and 2 
+encompass the region encoded by PROSITE pattern SSI (PS00999), the 2 Cys
+residues of which are involved in disulphide bond formation; motif 3 spans
+the active site region; and motif 4 describes a beta strand. Two iterations
+on OWL25.1 were required to reach convergence, at which point a true set
+comprising 15 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 1
+partial match.

@@ -1,0 +1,19 @@
+HTHARAC
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+aadA, appY, aracC, celD, envY, exsA, fapR, melR, mmsR, rhaR, rhaS, rns,
+soxS, tetD, virF and xylS [1-4]. Although the sequences belonging to this
+family differ somewhat in length, in each case the HTH motif is situated 
+towards the C-terminus.
+
+HTHARAC is a 2-element fingerprint that provides a signature for the araC 
+bacterial regulatory proteins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs completely encompass the region
+encoded by PROSITE pattern HTH_ARAC_FAMILY (PS00041), which includes a
+conserved region 30 residues after the DNA-binding domain. Four iterations
+on OWL21.1 were required to reach convergence, at which point a true set
+comprising 42 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 119 sequences.

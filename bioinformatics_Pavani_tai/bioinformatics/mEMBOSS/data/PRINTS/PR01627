@@ -1,0 +1,44 @@
+LCACHANNELB1
+Calcium channels are generally discriminated by their biophysical and/or
+pharmacological sensitivity. L-type calcium channels are distinguished by
+their modulation by compounds such as dihydropyridines. These channels
+tend to be localised mainly around the neuronal cell body, where they
+influence calcium-dependent modulation and excitation-transcription coupling,
+but are also found in skeletal and cardiac muscle, where they play a role in
+excitation-contraction coupling and action potential shaping, respectively.
+
+L-type calcium channnels are formed from different alpha-1 subunit isoforms
+that determine the pharmacological properties of the channel, since they
+form the drug binding domain. Other properties, such as gating voltage-
+dependence, G protein modulation and kinase susceptibility, are influenced 
+by alpha-2, delta and beta subunits [1].
+
+Co-expression of beta subunit mRNA with alpha-1 subunit mRNA in xenopus
+oocytes produces increased calcium currents, which are accompanied by a
+shift in the voltage-dependence of activation to more negative membrane
+potentials. Conversely, microinjection of antisense oligonucleotides to 
+beta subunit mRNA produces decreased calcium currents and shifts voltage-
+dependent activation to more positive membrane potentials. There are
+four distinct beta subunits: beta-1, beta-2, beta-3 and beta-4; and the
+magnitude of these effects varies with the particular subtype [2].
+
+There are 3 splice variants of the beta-1 subunit: beta-1a, beta-1b and beta
+1c. Beta-1a is the most extensively studied of these and is known to be 
+expressed in skeletal muscle and brain, but not in smooth muscle or heart.
+Beta-1a appears to be important for the functional expression of the alpha-1
+subunit in skeletal muscle. It is a 524-residue peripheral membrane protein 
+that associates with a conserved 9-residue motif between repeats I and II 
+of the alpha-1 subunit [3]. Beta-1b was identified by cloning in rat brain, 
+heart and hippocampus, and differs from beta-1a by having a deletion of ~50
+amino acids at residue 209, and having a 120-residue C-terminal elongation.
+Beta-1c was cloned from human heart and hippocampus and has the same
+deletion as beta-1b, but lacks the C-terminal extension.
+
+LCACHANNELB1 is a 4-element fingerprint that provides a signature for the
+L-type calcium channel beta-1 subunits. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal half of the alignment, focusing on those
+sections that characterise the beta-1 subunits but distinguish them from 
+the rest of the L-type calcium channel beta subunits. Two iterations on
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 10 sequences was identified.

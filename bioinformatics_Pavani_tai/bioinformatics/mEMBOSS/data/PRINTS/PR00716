@@ -1,0 +1,18 @@
+MPIPHPHTASE
+M-phase inducer phosphatases function as dosage-dependent inducers in
+mitotic control [1-4]. They are tyrosine protein phosphatases required for
+progression of the cell cycle. They may directly dephosphorylate p34(cdc2)
+and activate p34(cdc2) kinase activity. They catalyse the reaction:
+protein tyrosine phosphate + H(2)O = protein tyrosine + orthophosphate.
+
+MPIPHPHTASE is a 7-element fingerprint that provides a signature for M-phase
+inducer phosphatases. The fingerprint was derived from an initial alignment
+of 13 sequences: the motifs were drawn from short conserved regions
+spanning the C-terminal half of the alignment - motif 4 includes the active
+site cysteine. Two iterations on OWL29.3 were required to reach convergence,
+at which point a true set comprising 18 sequences was identified. Several
+partial matches were also found, all of which are family members that fail
+to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 17 sequences, and 9
+partial matches.

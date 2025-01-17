@@ -1,0 +1,56 @@
+***************************************************
+* Prokaryotic-type carbonic anhydrases signatures *
+***************************************************
+
+Carbonic anhydrases (EC 4.2.1.1) (CA) are zinc  metalloenzymes  which catalyze
+the reversible hydration of carbon dioxide.
+
+In Escherichia  coli,  CA  (gene cynT) is involved in recycling carbon dioxide
+formed in the bicarbonate-dependent decomposition  of cyanate by cyanase (gene
+cynS). By this action, it  prevents the depletion of cellular bicarbonate [1].
+In photosynthetic bacteria and plant chloroplast, CA is essential to inorganic
+carbon fixation [2].
+
+Prokaryotic and plant chloroplast CA are structurally and evolutionary related
+and form  a family distinct from the one which groups the many different forms
+of eukaryotic CA's (see <PDOC00146>).
+
+Hypothetical proteins  yadF  from Escherichia coli and HI1301 from Haemophilus
+influenzae also belong to this family.
+
+We developed two signature patterns for this family of enzymes.  Both patterns
+contain conserved  residues  that  could be involved in binding zinc (cysteine
+and histidine).
+
+-Consensus pattern: C-[SA]-D-S-R-[LIVM]-x-[AP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [EQ]-[YF]-A-[LIVM]-x(2)-[LIVM]-x(4)-[LIVMF](3)-x-G-H-x(2)-
+                    C-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Guilloton M.B., Korte J.J., Lamblin A.F., Fuchs J.A., Anderson P.M.
+     "Carbonic anhydrase in Escherichia coli. A product of the cyn
+     operon."
+     J. Biol. Chem. 267:3731-3734(1992).
+     PubMed=1740425
+[ 2] Fukuzawa H., Suzuki E., Komukai Y., Miyachi S.
+     "A gene homologous to chloroplast carbonic anhydrase (icfA) is
+     essential to photosynthetic carbon dioxide fixation by Synechococcus
+     PCC7942."
+     Proc. Natl. Acad. Sci. U.S.A. 89:4437-4441(1992).
+     PubMed=1584776
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

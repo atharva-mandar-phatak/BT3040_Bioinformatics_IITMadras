@@ -1,0 +1,46 @@
+5HT3RECEPTOR
+Serotonin (5-hydroxytryptamine, 5-HT) is widely distributed in both the
+central and peripheral nervous system, where it acts as a neurotransmitter
+and neuromodulator [1]. It has been implicated in several aspects of brain
+function, including regulation of affective states, ingestive behavior and
+addiction. 5-HT can activate a number of different receptor subtypes that
+produce diverse neuronal responses, principally through activation of
+G-protein-mediated signalling pathways. Signalling through the 5-HT3
+receptor (5-HT3R) differs, since this subtype belongs to the ligand-gated
+ion channel (LGIC) superfamily, which also includes the inhibitory
+gamma-aminobutyric acid type A and glycine receptors, and excitatory
+nicotinic acetylcholine receptors (nAChR) [2]. 5-HT3 receptor function has
+been implicated in a variety of neural processes, including pain perception,
+emesis, anxiety and drug abuse.
+
+Like the other members of the LGIC superfamily, the 5HT3R exhibits a high
+degree of sequence similarity, and therefore putative structural similarity,
+with nAChRs [3]. Thus, funtional 5HT3Rs comprise a pentamer: the ion channel
+is formed at the centre of a rosette formed between five homologous
+subunits. Two classes of 5-HT3R subunit are currently known, termed 5-HT3A
+and 5-HT3B. Whilst homomeric pentamers of 5-HT3A form functional receptors,
+heteromeric assemblies display channel conductances, cation permeabilities
+and current-voltage relationships typical of characterised neuronal 5-HT3 
+channels [4].
+
+The proposed topology of 5-HT3R subunits comprises four putative
+transmembrane (TM) domains (designated M1-4); a large extracellular 
+N-terminal region (~200 amino acids); and a variable cytoplasmic loop 
+between M3 and M4. The M2 domains from each subunit are thought to form the 
+channel pore [5]. The agonist binding site is formed by the N-terminus,
+which, on binding, induces a conformational change in the channel pore, a
+process often referred to as "gating" [5]. Opening of the pore allows cation
+flux through the neuronal membrane and depolarises the membrane potential.
+Thus, 5-HT3Rs may be thought of as excitatory receptors [6].
+
+5HT3RECEPTOR is a 3-element fingerprint that provides a signature for
+5-hydroxytryptamine type 3 receptor subunits. The fingerprint was derived
+from an initial alignment of 13 sequences: the motifs were drawn from 
+conserved regions spanning the central portion of the alignment, focusing on
+those sections that characterise the 5HT3Rs but distinguish them from other
+members of the ligand-gated ion channel superfamily - motif 1 lies in the 
+N-terminal domain; and motifs 3 and 4 reside within the variable cytoplasmic
+loop between TM domains M3 and M4. A single iteration on SPTR40_20f was
+required to reach convergence, no further sequences being identified beyond
+the starting set. A single partial match was found, Q9UEP2, a putative 
+truncated human 5-HT3A subunit lacking the N-terminus and TM domain M1.      

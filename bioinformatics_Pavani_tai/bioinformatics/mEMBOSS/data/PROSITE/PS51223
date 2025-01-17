@@ -1,0 +1,63 @@
+**********************
+* MAP repeat profile *
+**********************
+
+Map  (MHC  class  II  analogous  protein),  also  known  as eap (extracellular
+adherence  protein) and p70, is exclusively found in Staphylococcus aureus. It
+is  a cell-wall associated protein, which is capable of binding to a number of
+different  extracellular  matrix glycoploteins and plasma proteins, and to the
+cell  surface of Staphylococcus aureus. Besides the broad binding specificity,
+map  has been shown to be important in the adherence to and internalization of
+Staphylococcus  aureus  by  eukaryotic  cells  as  well  as  being  capable of
+modulating   inflammatory   response  through  its  interactions  with  ICAM-1
+(intercellular  adhesion  molecule-1),  although  its  biological role in vivo
+remains to date unclear [1].
+
+The  protein  consists  of  a  signal peptide followed by a unique sequence of
+about  20  amino  acids and four to six repeated MAP domains of 110-amino acid
+residues.  Within  each  repeat there is a subdomain consisting of 31 residues
+that  was  found  to be highly homologous to the N-terminal beta-chain of many
+MHC class II molecules [2].
+
+The  crystal  structure of the MAP domain has been solved (see <PDB:1YN3>) and
+shows  a core fold that is comprised of an alpha-helix lying diagonally across
+a   five-stranded,  mixed  beta-sheet.  This  structure  is  very  similar  to
+the C-terminal domain of  bacterial superantigens [3].
+
+The  profile we developed covers the entire MAP repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  MAP  repeats have been found in all but 5 of 140 Staphylococcus aureus
+ strains examined, but they were not detected in reference strains or clinical
+ isolates of Staphylococcus epidermidis [1].
+
+-Last update: June 2006 / First entry.
+
+[ 1] Harraghy N., Hussain M., Haggar A., Chavakis T., Sinha B.,
+     Herrmann M., Flock J.I.
+     "The adhesive and immunomodulating properties of the multifunctional
+     Staphylococcus aureus protein Eap."
+     Microbiology 149:2701-2707(2003).
+     PubMed=14523103
+[ 2] Jonsson K., McDevitt D., McGavin M.H., Patti J.M., Hook M.
+     "Staphylococcus aureus expresses a major histocompatibility complex
+     class II analog."
+     J. Biol. Chem. 270:21457-21460(1995).
+     PubMed=7545162
+[ 3] Geisbrecht B.V., Hamaoka B.Y., Perman B., Zemla A., Leahy D.J.
+     "The crystal structures of EAP domains from Staphylococcus aureus
+     reveal an unexpected homology to bacterial superantigens."
+     J. Biol. Chem. 280:17243-17250(2005).
+     PubMed=15691839; DOI=10.1074/jbc.M412311200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,35 @@
+YIDCPROTEIN
+Secretion across the inner membrane in some Gram-negative bacteria occurs 
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component [1]. From there, the mature proteins are either
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome. 
+
+The translocase itself comprises 7 proteins, including a chaperone (SecB), 
+ATPase (SecA), an integral membrane complex (SecY, SecE and SecG), and two 
+additional membrane proteins that promote the release of the mature peptide 
+into the periplasm (SecD and SecF) [1]. Other cytoplasmic/periplasmic 
+proteins play a part in preprotein translocase activity, namely YidC and 
+YajC [2]. The former is involved in the insertion of hydrophobic sequences 
+into the lipid bilayer after recognition by the SecYEG membrane complex [2].
+YidC itself is a homologue of the Saccharomyces cerevisiae Oxa1p, a 
+mitochondrial inner membrane protein that facilitates export from the 
+organelle [2]. Other similarities have been found between YidC, sporulation 
+proteins from Bacillus spp., and Gram-negative bacterial 60kDa inner 
+membrane moieties, suggesting a common ancestor for these translocation 
+pathway proteins [3]. 
+
+Recently, the precise interactions between the E.coli SecYEG complex, 
+SecD, SecF, and the two essential membrane proteins YajC and YidC, have 
+been researched [4]. Rather than acting individually, the four proteins form 
+a heterotetrameric complex and associate with the SecYEG heterotrimeric 
+complex [4]. 
+
+YIDCPROTEIN is a 3-element fingerprint that provides a signature for the
+YidC translocation/secretion protein family. The fingerprint was derived
+from an initial alignment of 10 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal portion of the alignment. Two
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprimising 33 sequences was identified. Two partial matches
+were also found, both of which are related Bacillus sporulation proteins. 

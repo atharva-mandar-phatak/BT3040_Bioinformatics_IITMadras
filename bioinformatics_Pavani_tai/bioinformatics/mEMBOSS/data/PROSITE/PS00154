@@ -1,0 +1,59 @@
+***************************************
+* P-type ATPases phosphorylation site *
+***************************************
+
+P-type ATPases (also  known as E1-E2)  are cation transport ATPases which form
+an aspartyl  phosphate  intermediate  in the course of ATP hydrolysis. ATPases
+which belong to this family are listed below [1,2,3].
+
+ - Fungal and plant plasma membrane (H+) ATPases (EC 3.6.3.6).
+ - Vertebrate (Na+, K+) ATPases (sodium pump) (EC 3.6.3.9).
+ - Gastric (K+, H+) ATPases (proton pump) (EC 3.6.3.10).
+ - Calcium  (Ca++)  ATPases  (calcium pump) (EC 3.6.3.8) from the sarcoplasmic
+   reticulum (SR), the endoplasmic reticulum (ER) and the plasma membrane.
+ - Copper  (Cu++) ATPases (copper pump) (EC 3.6.3.4) which are involved in two
+   human genetic disorders: Menkes syndrome and Wilson disease.
+ - Bacterial cadmium efflux (Cd++) ATPases (EC 3.6.3.3).
+ - Bacterial magnesium (Mg++) ATPases (EC 3.6.3.2).
+ - Bacterial potassium (K+) ATPases (EC 3.6.3.12).
+ - Bacterial zinc (Zn+) ATPases (EC 3.6.3.5).
+ - Fungal ENA sodium ATPases (EC 3.6.3.7).
+ - fixI,  a  probable  cation  ATPase  from  Rhizobacea,  involved in nitrogen
+   fixation.
+
+The region  around the phosphorylated aspartate residue is perfectly conserved
+in all these ATPases and can be used as a signature pattern.
+
+-Consensus pattern: D-K-T-G-T-[LIVM]-[TI]
+                    [D is phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 2002 / Text revised.
+
+-Expert(s) to contact by email:
+           Axelsen K.B.; kristian.axelsen@isb-sib.ch
+
+[ 1] Fagan M.J., Saier M.H. Jr.
+     "P-type ATPases of eukaryotes and bacteria: sequence analyses and
+     construction of phylogenetic trees."
+     J. Mol. Evol. 38:57-99(1994).
+     PubMed=8151716
+[ 2] Palmgren M.G., Axelsen K.B.
+     "Evolution of P-type ATPases."
+     Biochim. Biophys. Acta 1365:37-45(1998).
+     PubMed=9693719
+[ 3] Axelsen K.B., Palmgren M.G.
+     "Evolution of substrate specificities in the P-type ATPase
+     superfamily."
+     J. Mol. Evol. 46:84-101(1998).
+     PubMed=9419228
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

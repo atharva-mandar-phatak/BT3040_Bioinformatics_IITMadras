@@ -1,0 +1,51 @@
+**********************************************
+* Xanthine/uracil permeases family signature *
+**********************************************
+
+The following transport proteins  which are involved in the uptake of xanthine
+or uracil are evolutionary related [1]:
+
+ - Uric uric acid-xanthine permease (gene uapA) from Aspergillus nidulans.
+ - Purine permease (gene uapC) from Aspergillus nidulans.
+ - Xanthine permease from Bacillus subtilis (gene pbuX).
+ - Uracil  permease  from  Escherichia coli (gene uraA) [2] and Bacillus (gene
+   pyrP).
+ - Hypothetical protein ycdG from Escherichia coli.
+ - Hypothetical protein ygfO from Escherichia coli.
+ - Hypothetical protein ygfU from Escherichia coli.
+ - Hypothetical protein yicE from Escherichia coli.
+ - Hypothetical protein yunJ from Bacillus subtilis.
+ - Hypothetical protein yunK from Bacillus subtilis.
+
+They are  proteins  of  from  430  to  595  residues  that  seem to contain 12
+transmembrane domains. As a signature pattern, we  selected the best conserved
+region which  corresponds  with  what  seems  to  be  the  tenth transmembrane
+domain.
+
+-Consensus pattern: [LIVM]-P-x-[PASIF]-V-[LIVMG]-[GF]-[GA]-x(4)-[LIVM]-[FY]-
+                    [GSA]-x-[LIVM]-x(3)-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Diallinas G., Gorfinkiel L., Arst H.N. Jr., Cecchetto G., Scazzocchio C.
+     "Genetic and molecular characterization of a gene encoding a wide
+     specificity purine permease of Aspergillus nidulans reveals a novel
+     family of transporters conserved in prokaryotes and eukaryotes."
+     J. Biol. Chem. 270:8610-8622(1995).
+     PubMed=7721763
+[ 2] Andersen P.S., Frees D., Fast R., Mygind B.
+     "Uracil uptake in Escherichia coli K-12: isolation of uraA mutants and
+     cloning of the gene."
+     J. Bacteriol. 177:2008-2013(1995).
+     PubMed=7721693
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,56 @@
+********************************
+* RpiR-type HTH domain profile *
+********************************
+
+The  rpiR-type  HTH  domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  75-80  amino  acids present in prokaryotic regulators of transcription.
+The  domain  is  named  after  Escherichia  coli  rpiR,  also known as alsR, a
+repressor  of the rpiB gene and the als operon, which encode proteins involved
+in  sugar  metabolism.  The DNA-binding rpiR-type HTH domain occurs usually in
+the  N-terminal  part;  the C-terminal part can contain a phosphosugar-binding
+SIS  domain. Most rpiR-type HTH regulators are involved in sugar metabolism as
+transcription repressors, but some are activators [1,2,3].
+
+Some proteins known to contain a rpiR-type HTH domain:
+
+ - Escherichia   coli   rpiR,   a   transcription   repressor   of   ripB,   a
+   ribose-phosphate  isomerase,  and  of the als operon, involved in transport
+   and metabolism of allose.
+ - Pseudomonas  aeruginosa hexR, a transcription repressor of the hex regulon,
+   involved in sugar metabolism.
+ - Bacillus  subtilis  glvR,  a  transcription  activator  of  the glv operon,
+   involved in transport and metabolism of maltose [3].
+
+The profile we developed spans the entire rpiR-type HTH DNA-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2005 / First entry.
+
+[ 1] Sorensen K.I., Hove-Jensen B.
+     "Ribose catabolism of Escherichia coli: characterization of the rpiB
+     gene encoding ribose phosphate isomerase B and of the rpiR gene, which
+     is involved in regulation of rpiB expression."
+     J. Bacteriol. 178:1003-1011(1996).
+     PubMed=8576032
+[ 2] Kim C., Song S., Park C.
+     "The D-allose operon of Escherichia coli K-12."
+     J. Bacteriol. 179:7631-7637(1997).
+     PubMed=9401019
+[ 3] Yamamoto H., Serizawa M., Thompson J., Sekiguchi J.
+     "Regulation of the glv operon in Bacillus subtilis: YfiA (GlvR) is a
+     positive regulator of the operon that is repressed through CcpA and
+     cre."
+     J. Bacteriol. 183:5110-5121(2001).
+     PubMed=11489864
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

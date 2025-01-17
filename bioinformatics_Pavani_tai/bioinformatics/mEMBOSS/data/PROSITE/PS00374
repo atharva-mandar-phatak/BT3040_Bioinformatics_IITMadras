@@ -1,0 +1,60 @@
+******************************************************************
+* Methylated-DNA--protein-cysteine methyltransferase active site *
+******************************************************************
+
+The major mutagenic and  carcinogenic effect of methylating agents in  DNA  is
+the formation of O6-alkylguanine.  The repair  of  DNA containing O6-alkylated
+guanine is carried out by the  enzyme 6-O-methylguanine-DNA  methyltransferase
+(EC 2.1.1.63) (methylated-DNA--protein-cysteine methyltransferase) (MGMT). The
+alkyl  group at the O-6 position is  transferred to a  cysteine residue in the
+enzyme [1]. This is a suicide reaction: the enzyme is irreversibly inactivated
+and  the  methylated protein  accumulates as a dead-end product. Most, but not
+all MGMT are also  able to repair O-4-methylthymine.  MGMT sequences have been
+obtained from various prokaryotic [2] and eukaryotic sources:
+
+ - Escherichia coli and  Salmonella typhimurium inducible bifunctional protein
+   ada.  The N-terminal part of the ada protein functions as a transcriptional
+   activator of its own gene and of other alkylation repair genes,  while  the
+   C-terminal part functions as a MGMT.
+ - Bacillus subtilis adaB. In this bacteria the function of the ada complex is
+   carried out by two proteins: adaA, a transcriptional activator, and adaB, a
+   MGMT.
+ - Escherichia coli constitutive (non-inducible) Ogt enzyme.
+ - Bacillus subtilis constitutive (non-inducible) Dat1 enzyme.
+ - Yeast DNA repair enzyme MGT1.
+ - Mammalian MGMT protein [3].
+
+In  all  these  enzymes  the region around the active site cysteine residue is
+conserved and can be used as a signature pattern.
+
+-Consensus pattern: [LIVMF]-P-C-H-R-[LIVMF](2)
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: December 1992 / Text revised.
+
+[ 1] Lindahl T., Sedgwick B., Sekiguchi M., Nakabeppu Y.
+     "Regulation and expression of the adaptive response to alkylating
+     agents."
+     Annu. Rev. Biochem. 57:133-157(1988).
+     PubMed=3052269; DOI=10.1146/annurev.bi.57.070188.001025
+[ 2] Samson L.
+     "The suicidal DNA repair methyltransferases of microbes."
+     Mol. Microbiol. 6:825-831(1992).
+     PubMed=1602962
+[ 3] Rafferty J.A., Elder R.H., Watson A.J., Cawkwell L., Potter P.M.,
+     Margison G.P.
+     "Isolation and partial characterisation of a Chinese hamster
+     O6-alkylguanine-DNA alkyltransferase cDNA."
+     Nucleic Acids Res. 20:1891-1895(1992).
+     PubMed=1579490
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

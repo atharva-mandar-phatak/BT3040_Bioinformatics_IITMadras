@@ -1,0 +1,47 @@
+************************************
+* Cutinase active sites signatures *
+************************************
+
+Cutinase [1] is an extracellular  fungal  enzyme that catalyzes the hydrolysis
+of cutin,  an  insoluble  lipid-polyester  that  forms  the structure of plant
+cuticle. Cutinase allows pathogenic fungi to penetrate  through the host plant
+cuticular barrier  during the initial stage of fungal infection. Cutinase is a
+serine esterase  which  contains  the classical catalytic triad (Asp, Ser, and
+His) found in the serine hydrolases [2].
+
+Two cutinase-like  proteins (MtCY39.35 and MtCY339.08c) have been found in the
+genome of the bacteria Mycobacterium tuberculosis.
+
+The sequence  around  the catalytic residues is well conserved in the sequence
+of the known fungal cutinases and can be used as signature patterns.
+
+-Consensus pattern: P-x-[STA]-x-[LIV]-[IVT]-x-[GS]-G-Y-S-[QL]-G
+                    [S is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-x(3)-D-x-[IV]-C-x-G-[GST]-x(2)-[LIVM]-x(2,3)-H
+                    [D and H are active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for MtCY339.08c.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Ettinger W.F., Thukral S.K., Kolattukudy P.E.
+     Biochemistry 26:7883-7892(1987).
+[ 2] Martinez C., De Geus P., Lauwereys M., Matthyssens G., Cambillau C.
+     "Fusarium solani cutinase is a lipolytic enzyme with a catalytic
+     serine accessible to solvent."
+     Nature 356:615-618(1992).
+     PubMed=1560844; DOI=10.1038/356615a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,25 @@
+EUTPISMRASEI
+Eukaryotic topoisomerase I, otherwise known as relaxing enzyme, untwisting 
+enzyme or swivelase, catalyses the ATP-independent breakage of single-
+stranded DNA, followed by passage and rejoining of another single-stranded 
+DNA region [1]. This reaction brings about the conversion of one topological
+DNA isomer into another: e.g., relaxation of positive and negative super-
+coils; interconversion of simple and knotted rings of single-stranded DNA;
+and intertwisting of single-stranded rings of complementary sequences [1,2].
+
+A tyrosine residue at the active site is involved in the transient breakage
+of a DNA strand and formation of a covalent protein-DNA intermediate [1].
+Human topoisomerase I has been shown to be inhibited by camptothecin (CPT),
+a plant alkaloid with antitumour activity [2].
+
+EUTPISMRASEI is a 6-element fingerprint that provides a signature for 
+eukaryotic topoisomerase I. The fingerprint was derived from an initial 
+alignment of 7 sequences: the motifs were drawn from conserved regions 
+throughout the alignment length - motif 6 contains part of the region
+encoded by PROSITE pattern TOPOISOMERASE_I_EUK (PS00176), the tyrosine
+residue of which is involved in creating the covalent protein-DNA
+intermediate. Two iterations on OWL26.3 were required to reach convergence,
+at which point a true set comprising 16 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 28 sequences, and 6
+partial matches.

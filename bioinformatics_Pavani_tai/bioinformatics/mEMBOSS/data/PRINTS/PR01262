@@ -1,0 +1,34 @@
+INNEXIN
+Innexins are an invertebrate-specific family of gap junction-forming
+proteins. They bear no sequence similarity to the well-characterised
+vertebrate gap junction channel-forming molecules (connexins), but share a
+similar predicted membrane topology of four transmembrane (TM) domains, with
+intercellular N- and C-termini [1].
+
+The innexins were initially identified by genetic screens in both C.elegans
+and Drosophila species. When their genes were disrupted by mutation, a 
+number of abnormal phenotypes were noted. Mutation of C.elegans unc-7 leads
+to an uncoordinated phenotype, while eat-5 mutations disrupt pharyngeal 
+pumping (a process involved in feeding). Drosophila passover (pas) mutation 
+leads to individuals that are unable to fly properly, and have impaired 
+escape responses [2]. Further experiments have demonstrated that pas
+mutation inactivates electrical synapses between neurones that are involved 
+in the neural circuits responsible for these behaviours.
+
+To date, 5 fly innexins have been identified, together with more than 25
+from worm species, most of the latter arising from the C.elegans
+sequencing project.
+
+INNEXIN is a 6-element fingerprint that provides a signature for innexins.
+The fingerprint was derived from an initial alignment of 14 sequences: the
+motifs were drawn from conserved regions spanning the first 2/3 of the
+alignment - motif 1 encodes the C-terminal half of the first putative TM
+domain; motif 2 lies on the first extracellular loop; motifs 3 and 4 encode
+most of the second and third TM domains, respectively; motif 5 lies on the 
+second extracellular loop; and motif 6 spans the end of the second 
+extracellular loop and the start of the fourth TM domain. Two iterations on
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 25 sequences was identified. Two partial matches were also
+found, O61788 and P91827, both of which have arisen from the C.elegans
+sequencing project and have been noted to be similar to functionally-
+characterised innexins.

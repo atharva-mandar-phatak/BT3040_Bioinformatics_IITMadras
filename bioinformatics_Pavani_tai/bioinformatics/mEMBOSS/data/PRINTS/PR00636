@@ -1,0 +1,48 @@
+ANGIOTENSN2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Angiotensin II is the principal mediator of the renin-angiotensin system;
+it circulates in the bloodstream, stimulating vasoconstriction and
+retention of salt and water [6]. It also stimulates increased fluid intake
+and regulates the neuroendocrine system. Many of its actions are mediated
+by release of hormones from endocrine glands, e.g. vasopressin, catechol-
+amines, aldosterone, growth-hormone, etc.. Molecular cloning studies have
+identifed 2 major receptor subtypes, designated AT1 and AT2. 
+
+The AT2 receptor is abundant in the adrenal medulla, uterus and brain [6].
+Activation of AT2 receptors has been reported to decrease basal cGMP levels
+and to inhibit atrial natriuretic peptide-stimulated formation of cGMP,
+possibly by activation of a protein tyrosine phosphatase [6]. 
+
+ANGIOTENSN2R is a 9-element fingerprint that provides a signature for AT2
+angiotensin II receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+largely within loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the AT2 receptors but distinguish them
+from the rest of the angiotensin family - motifs 1 and 2 span the N-terminus;
+motif 3 spans the first cytoplasmic loop; motif 4 spans the second
+cytoplasmic loop, leading into TM domain 4; motifs 5 and 6 span the second
+external loop; motif 7 lies in the third cytoplasmic loop; and motifs 8 and
+9 span the C-terminus. A single iteration on OWL29.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+A single partial match was also found, S81979, an ovine angtiotensin II
+receptor fragment.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

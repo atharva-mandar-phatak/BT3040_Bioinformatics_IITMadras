@@ -1,0 +1,26 @@
+ADHESNFAMILY
+The Streptococcus pneumoniae psaA gene encodes a protein with significant
+similarity to previously-reported Streptococcal proteins, SsaB (80%
+similarity) and FimA (92.3% similarity), from S.sanguis and S.parasanguis
+[1]. These homologues are associated with bacterial adhesion, and PsaA 
+may play a similar role [1].
+
+The SsaB protein has a putative hydrophobic 19-amino-acid signal sequence
+yielding a 32,620-Mr secreted protein [2]. SsaB is hydrophilic and appears
+not to have a hydrophobic membrane anchor in its C-terminal region. A high
+degree of similarity exists between S.sanguis ssaB and type 1 fimbrial
+genes [2]. Comparison of the gene products reveals close similarity of the
+two proteins. It is thought that ssaB adhesion may play a role in oral
+colonisation by binding either to a receptor on saliva or to a receptor
+on Actinomyces. 
+
+ADHESNFAMILY is a 6-element fingerprint that provides a signature for
+the adhesins and related periplasmic binding proteins. The fingerprint was
+derived from an initial alignment of 15 sequences: the motifs were drawn
+from short conserved regions spanning the full alignment length. A single
+iteration on OWL29.2 was required to reach convergence, no further sequences
+being identified beyond the starting set. Two partial matches were found,
+YEBL_ECOLI and D908289, both of which match motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 6
+partial matches.

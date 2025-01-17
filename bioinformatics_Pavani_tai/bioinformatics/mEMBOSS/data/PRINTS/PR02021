@@ -1,0 +1,29 @@
+AQUAPORIN9
+Aquaporins form water-specific channels that provide the plasma membranes 
+of red cells and kidney proximal tubules with high permeability to water,
+thereby permitting water to move in the direction of an osmotic gradient.
+Aquaporin amino acid sequences contain two tandem repeats, each containing
+three transmembrane (TM) domains and a pore-forming loop, with the signature
+motif Asn-Pro-Ala (NPA).
+
+Aquaporin-9 forms a channel with a broad specificity [1]. It mediates
+passage of a wide variety of non-charged solutes (including carbamides, 
+polyols, purines and pyrimidines) in a phloretin- and mercury-sensitive
+manner, while excluding amino acids, cyclic sugars, Na+, K+, Cl- and
+deprotonated monocarboxylates. It is also permeable to urea but not to
+glycerol. Aquaporin-9 is found in the liver [2], where it takes part in
+glycerol transport, and in the placenta, where its permeability to small
+molecules is implicated in the metabolic balance of pregnancy pathology [3].
+
+AQUAPORIN9 is a 5-element fingerprint that provides a signature for
+aquaporin-9. The fingerprint was derived from an initial alignment of 3 
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 1 lies in the cytoplasmic N-terminal domain; motif
+2 lies in the second TM domain; motif 3 resides in the extracellular
+region between TM domains 3 and 4; motif 4 spans the end of the sixth TM 
+domain and the beginning of the cytoplasmic C-terminal region; and motif 5
+spans the rest of the cytoplasmic C-terminal region. Two iterations on
+SPTR57_40f were required to reach convergence, at which point a true set
+comprising 6 sequences was identified. Four partial matches were also
+found, all of which are fragments or family members that fail to make
+significant matches with one or more motifs.

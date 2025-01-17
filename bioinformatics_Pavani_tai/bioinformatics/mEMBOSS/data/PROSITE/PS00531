@@ -1,0 +1,91 @@
+*************************************************
+* Ribonuclease T2 family histidine active sites *
+*************************************************
+
+The fungal ribonucleases T2 from Aspergillus oryzae, M from Aspergillus saitoi
+and Rh from Rhizopeus niveus  are structurally  and functionally related 30 Kd
+glycoproteins [1] that cleave the 3'-5' internucleotide  linkage  of RNA via a
+nucleotide 2',3'-cyclic phosphate intermediates (EC 3.1.27.1).
+
+A number of other RNAses  have  been found to be evolutionary related to these
+fungal enzymes:
+
+ - Self-incompatibility [2]  in  flowering  plants  is  often  controlled by a
+   single gene   (S-gene)   that  has  several  alleles.  This  gene  prevents
+   fertilization by  self-pollen  or  by  pollen  bearing either of the two S-
+   alleles expressed  in the style. The self-incompatibility glycoprotein from
+   several higher  plants of the solanaceae family has  been shown [2,3] to be
+   a ribonuclease.
+ - Phosphate-starvation  induced  RNAses  LE and LX from tomato [4]. These two
+   enzymes are probably involved in a phosphate-starvation rescue system.
+ - Escherichia coli periplasmic RNAse I (EC 3.1.27.6) (gene rna) [5].
+ - Aeromonas hydrophila periplasmic RNAse.
+ - Haemophilus influenzae hypothetical protein HI0526.
+
+Two histidines residues have been shown [6,7]  to be involved in the catalytic
+mechanism of RNase T2 and Rh.  These  residues  and the region around them are
+highly conserved in all  the sequence described above.  We  have developed two
+signature patterns, one  for  each  of  the two  active-site  histidines.  The
+second pattern  also  contains  a cysteine which is  known to be involved in a
+disulfide bond.
+
+-Consensus pattern: [FYWL]-x-[LIVM]-H-G-L-[WY]-P
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMF]-x(2)-[HDGTY]-[EQ]-[FYW]-x-[KRT]-H-[GA]-x-C
+                    [H is an active site residue]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: genome   polyproteins  from  Bovine
+ viral diarrhea virus and Hog cholera virus.  It seems that these pestiviruses
+ polyproteins include a RNAse T2-like domain [8].
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Watanabe H., Naitoh A., Suyama Y., Inokuchi N., Shimada H., Koyama T.,
+     Ohgi K., Irie M.
+     "Primary structure of a base non-specific and adenylic acid
+     preferential ribonuclease from Aspergillus saitoi."
+     J. Biochem. 108:303-310(1990).
+     PubMed=2229029
+[ 2] Haring V., Gray J.E., McClure B.A., Anderson M.A., Clarke A.E.
+     "Self-incompatibility: a self-recognition system in plants."
+     Science 250:937-941(1990).
+     PubMed=2237440
+[ 3] McClure B.A., Haring V., Ebert P.R., Anderson M.A., Simpson R.J.,
+     Sakiyama F., Clarke A.E.
+     "Style self-incompatibility gene products of Nicotiana alata are
+     ribonucleases."
+     Nature 342:955-957(1989).
+     PubMed=2594090; DOI=10.1038/342955a02296281
+[ 4] Loeffler A., Glund K., Irie M.
+     Eur. J. Biochem. 214:627-633(1993).
+[ 5] Meador J. III, Kennell D.
+     "Cloning and sequencing the gene encoding Escherichia coli
+     ribonuclease I: exact physical mapping using the genome library."
+     Gene 95:1-7(1990).
+     PubMed=2253883
+[ 6] Kawata Y., Sakiyama F., Hayashi F., Kyogoku Y.
+     "Identification of two essential histidine residues of ribonuclease T2
+     from Aspergillus oryzae."
+     Eur. J. Biochem. 187:255-262(1990).
+     PubMed=2298207
+[ 7] Kurihara H., Mitsui Y., Ohgi K., Irie M., Mizuno H., Nakamura K.T.
+     "Crystal and molecular structure of RNase Rh, a new class of microbial
+     ribonuclease from Rhizopus niveus."
+     FEBS Lett. 306:189-192(1992).
+     PubMed=1633875
+[ 8] Bairoch A.
+     Unpublished observations (1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

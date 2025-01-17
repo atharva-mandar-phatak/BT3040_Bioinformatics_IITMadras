@@ -1,0 +1,32 @@
+SYNAPTOBREVN
+Synaptic vesicles are specialised secretory organelles of neurons that
+actively accumulate neurotransmitters and participate in their calcium-
+dependent release by exocytosis [1]. Vesicle function is mediated by 
+proteins in their membranes, although the precise nature of the protein-
+protein interactions underlying this are still uncertain [1]. Synapto-
+brevins, synaptic vesicle-associated membrane proteins (VAMPs), are small
+integral membrane proteins specific to neuron synaptic vesicles.
+
+Synaptobrevin and related proteins, VAMP-1 and SNC1, consist of a short
+non-conserved N-terminal region rich in proline, glycine and asparagine;
+a well-conserved central hydrophilic cytoplasmic core of about 80 residues
+[2]; a single C-terminal membrane anchor; and a short, variable C-terminal
+intravesicular region [1]. The high degree of sequence similarity in
+synaptobrevin, and its abundance in synaptic vesicle membranes, suggests a
+basic role in the molecular events underlying neurotransmitter release and
+vesicle recycling [1]. The protein may also play a role in regulating
+membrane flow in the nerve terminal, a process mediated by interaction
+with low molecular weight GTP-binding proteins [2].
+
+SYNAPTOBREVN is a 3-element fingerprint that provides a signature for the 
+synaptobrevins. The fingerprint was derived from an initial alignment of
+5 sequences: motifs 1 and 2 were drawn from the charged central core, and
+span the region encoded by PROSITE pattern SYNAPTOBREVIN (PS00417); and
+motif 3 spans the C-terminal transmembrane anchor. Two iterations on
+OWL23.2 were required to reach convergence, at which point a true set
+comprising 13 sequences was identified. A single partial match was also
+found, SMIMP25, an integral membrane protein from Schistosoma mansoni
+lacking a match with motif 1.
+
+An update on SPTR37_9f identified a true set of 37 sequences, and 4
+partial matches.

@@ -1,0 +1,58 @@
+**********************
+* R3H domain profile *
+**********************
+
+The R3H  domain is a conserved sequence motif found in proteins from a diverse
+range of  organisms  including  eubacteria,  green  plants,  fungi and various
+groups of  metazoans,  but not in archaea and Escherichia coli. The R3H domain
+contains  an  invariant  arginine  and  a highly conserved histidine, that are
+separated  by  three  residues.  It  also  displays  a  conserved  pattern  of
+hydrophobic  residues,  prolines  and  glycines.  It  can  be  found alone, in
+association  with AAA domain (see <PDOC00572>) or with various DNA/RNA binding
+domains  like DSRM, KH, G-patch (see <PDOC50174>), PHD (see <PDOC50016>), DEAD
+box (see  <PDOC00039>),  or  RRM  (see  <PDOC00030>).  The  functions of these
+domains indicate  that  the  R3H  domain  might be involved in polynucleotide-
+binding, including DNA, RNA and single-stranded DNA [1].
+
+The  3D structure of the R3H domain has been solved (see <PDB:1MSZ>). The fold
+presents a  small  motif,  consisting  of  a three-stranded antiparallel beta-
+sheet, against  which  two  alpha-helices  pack  from  one  side. This fold is
+related to the structures of the YhhP protein and the C-terminal domain of the
+translational initiation factor IF3. Three conserved basic residues cluster on
+the  same  face  of  the  R3H  domain  and  could  play a role in nucleic acid
+recognition. An extended hydrophobic area at a different site of the molecular
+surface could act as a protein-binding site [2].
+
+Proteins currently known to contain an R3H domain are:
+
+ - Mammalian SMB2-related proteins, which are involved in DNA-binding, and are
+   specific  to  a  5'-phosphorylated  single-stranded  guanine-rich  sequence
+   related to the immunoglobulin mu chain switch region.
+ - Bacterial JAG proteins.
+ - Mammalian R3H domain protein 1.
+
+The profile developed covers the entire R3H structure.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2005 / First entry.
+
+[ 1] Grishin N.V.
+     "The R3H motif: a domain that binds single-stranded nucleic acids."
+     Trends Biochem. Sci. 23:329-330(1998).
+     PubMed=9787637
+[ 2] Liepinsh E., Leonchiks A., Sharipo A., Guignard L., Otting G.
+     "Solution structure of the R3H domain from human Smubp-2."
+     J. Mol. Biol. 326:217-223(2003).
+     PubMed=12547203
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

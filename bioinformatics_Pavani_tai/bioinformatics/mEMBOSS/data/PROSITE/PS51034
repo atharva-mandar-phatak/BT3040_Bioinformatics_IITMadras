@@ -1,0 +1,92 @@
+***********************************
+* ZP domain signature and profile *
+***********************************
+
+The zona  pellucida  (ZP)  domain  is  a protein polymerization module of ~260
+amino acid  module,  which  is  found  at  the  C-terminus  of  many  secreted
+eukaryotic glycoproteins  that play fundamental roles in development, hearing,
+immunity, and cancer [1,2,3,4]:
+
+ - Sperm receptor proteins ZP2 and ZP3.  Along  with protein ZP1, proteins ZP2
+   and ZP3 are responsible for sperm-adhesion to the zona pellucida. ZP3 first
+   binds to specific sperm proteins, thus  mediating  sperm  contacts with the
+   oocyte. ZP2  acts  as a second sperm receptor reinforcing the interactions.
+   ZP1 cross-links the polymers formed by ZP2 and ZP3.
+ - Zona pellucida sperm-binding protein B (ZP-B) (also known as ZP-X in rabbit
+   and ZP-3 alpha in pig).
+ - Glycoprotein GP2,  the  major  component  of  pancreatic  secretory granule
+   membranes.
+ - TGF-beta receptor type III (also  known  as betaglycan).  This protein is a
+   proteoglycan that binds  to TGF-beta and could be involved in capturing and
+   retaining TGF-beta for presentation to the signalling receptors.
+ - Uromodulin (also known as Tamm-Horsfall urinary glycoprotein). The function
+   of this  protein,  which  is  the  most abundant in human urine, is not yet
+   clear.
+ - Chicken beta-tectorin, a major glycoprotein of avian tectorial membrane.
+
+Most ZP  domain  proteins  are synthesized as precursors with carboxy-terminal
+transmembrane domains or glycosyl phosphatidylinositol (GPI) anchors [2].
+
+The ZP   domain  contains  eight  strictly  conserved  cysteines,  which  form
+disulfide bridges.  The disulfide bonds within the ZP domains are divided into
+two groups,  suggesting  that  the  ZP  domain  consists of two subdomains. In
+addition to  the conserved cysteines, only a few aromatic or hydrophobic amino
+acids are absolutely invariant, probably as a result of structural rather than
+functional constraints [1,3,4].
+
+The profile we developed covers the entire ZP domain.
+
+-Consensus pattern: [LIVMFYW]-x(7)-[STAPDNLR]-x(3)-[LIVMFYW]-x-[LIVMFYW]-x-
+                    [LIVMFYW]-x(2)-C-[LIVMFYW]-x-[STA]-[PSLT]-x(2,4)-[DENSG]-
+                    x-[STADNQLFM]-x(6)-[LIVM](2)-x(3,4)-C
+                    [The 2 C's may be involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Endoglins  are  reported  to  contain  a region of homology with the N-
+ terminal third  of the ZP domain [5]. This truncated version of the ZP domain
+ is not recognized by the profile.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bork P., Sander C.
+     "A large domain common to sperm receptors (Zp2 and Zp3) and TGF-beta
+     type III receptor."
+     FEBS Lett. 300:237-240(1992).
+     PubMed=1313375
+[ 2] Jovine L., Qi H., Williams Z., Litscher E., Wassarman P.M.
+     "The ZP domain is a conserved module for polymerization of
+     extracellular proteins."
+     Nat. Cell Biol. 4:457-461(2002).
+     PubMed=12021773; DOI=10.1038/ncb802
+[ 3] Yonezawa N., Nakano M.
+     "Identification of the carboxyl termini of porcine zona pellucida
+     glycoproteins ZPB and ZPC."
+     Biochem. Biophys. Res. Commun. 307:877-882(2003).
+     PubMed=12878193
+[ 4] Jovine L., Qi H., Williams Z., Litscher E.S., Wassarman P.M.
+     "A duplicated motif controls assembly of zona pellucida domain
+     proteins."
+     Proc. Natl. Acad. Sci. U.S.A. 101:5922-5927(2004).
+     PubMed=15079052; DOI=10.1073/pnas.0401600101
+[ 5] Ge A.Z., Butcher E.C.
+     "Cloning and expression of a cDNA encoding mouse endoglin, an
+     endothelial cell TGF-beta ligand."
+     Gene 138:201-206(1994).
+     PubMed=8125301
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

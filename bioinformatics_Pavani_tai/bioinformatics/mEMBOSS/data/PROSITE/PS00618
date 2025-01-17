@@ -1,0 +1,48 @@
+***************************
+* recF protein signatures *
+***************************
+
+The prokaryotic protein recF [1,2]  is a  single-stranded DNA-binding  protein
+which also probably binds  ATP.  RecF  is  involved in DNA  metabolism;  it is
+required for recombinational DNA repair and for induction of the SOS response.
+
+RecF is a protein of  about  350  to  370  amino  acid  residues;  there  is a
+conserved ATP-binding site motif 'A' (P-loop) in the N-terminal section of the
+protein as well as two  other  conserved regions,  one  located in the central
+section, and the other in the C-terminal section.  We  have  derived signature
+patterns from these two regions.
+
+-Consensus pattern: [LIFV]-x(6)-[LIF]-[LIVF]-x-[GSDE]-[GSTADNPE]-[PASG]-x(2)-
+                    R-R-x-[FYW]-[LIVMF]-[DN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIV]-[LIFYMV]-x-[LIVM]-D-[DEA]-[LIVF]-x(2)-[EHCGK]-L-D-
+                    x(2)-[KRH]-x(3)-[LIVF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Sandler S.J., Chackerian B., Li J.T., Clark A.J.
+     "Sequence and complementation analysis of recF genes from Escherichia
+     coli, Salmonella typhimurium, Pseudomonas putida and Bacillus
+     subtilis: evidence for an essential phosphate binding loop."
+     Nucleic Acids Res. 20:839-845(1992).
+     PubMed=1542576
+[ 2] Alonso J.C., Fisher L.M.
+     "Nucleotide sequence of the recF gene cluster from Staphylococcus
+     aureus and complementation analysis in Bacillus subtilis recF
+     mutants."
+     Mol. Gen. Genet. 246:680-686(1995).
+     PubMed=7898435
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

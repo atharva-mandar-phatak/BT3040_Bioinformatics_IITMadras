@@ -1,0 +1,137 @@
+***********************************************
+* Zinc finger RING-type signature and profile *
+***********************************************
+
+A  number  of  eukaryotic and viral proteins contain a conserved cysteine-rich
+domain  of  40  to 60 residues (called C3HC4 zinc-finger or 'RING' finger) [1]
+that binds two atoms of zinc. There are two different variants, the C3HC4-type
+and   the   C3H2C3-type,  which  is  clearly  related  despite  the  different
+cysteine/histidine  pattern.  The  latter  type  is  sometimes  referred to as
+"RING-H2 finger".
+
+The 3D structure [2] of the zinc ligation system is referred to as the "cross-
+brace"  motif.  This  atypical  conformation  is  also shared by the FYVE (see
+<PDOC50178>) and  PHD  (see  <PDOC50016>)  domains.  The way the "cross-brace"
+motif is  binding  two atoms of zinc is illustrated in the following schematic
+representation:
+
+                               x x x     x x x
+                              x      x x      x
+                             x        x        x
+                            x        x x        x
+                           C        C   C        C
+                          x  \    / x   x \    /  x
+                          x    Zn   x   x   Zn    x
+                           C /    \ C   H /    \ C
+                           x         x x         x
+                  x x x x x x         x         x x x x x x
+
+'C': conserved cysteine involved zinc binding.
+'H': conserved histidine involved in zinc binding.
+'Zn': zinc atom.
+
+Many  proteins  containing a RING finger play a key role in the ubiquitination
+pathway.  The ubiquitination pathway generally involves three types of enzyme,
+know as   E1,  E2 and E3. E1 and E2 are ubiquitin conjugating enzymes. E1 acts
+first   and  passes  ubiquitin  to  E2.  E3  are  ubiquitin  protein  ligases,
+responsible  for  substrate  recognition. It has been shown [3,4] that several
+RING fingers act as E3 enzymes in the ubiquitination process.
+
+Some proteins known to include a RING finger are listed below:
+
+ - Mammalian   V(D)J   recombination  activating  protein  (gene  RAG1).  RAG1
+   activates the rearrangement of immunoglobulin and T-cell receptor genes.
+ - Mouse rpt-1. Rpt-1 is a trans-acting factor that regulates  gene expression
+   directed by the promoter region  of the interleukin-2 receptor  alpha chain
+   or the LTR promoter region of HIV-1.
+ - Human rfp. Rfp is  a developmentally regulated protein that may function in
+   male germ cell development. Recombination of the N-terminal section  of rfp
+   with a protein tyrosine kinase produces the ret transforming protein.
+ - Human 52 Kd Ro/SS-A protein. A protein of unknown function from the Ro/SS-A
+   ribonucleoprotein  complex.     Sera  from  patients  with  systemic  lupus
+   erythematosus or primary Sjogren's  syndrome  often contain antibodies that
+   react with the Ro proteins.
+ - Human histocompatibility locus protein RING1.
+ - Human PML, a probable transcription factor.  Chromosomal  translocation  of
+   PML with  retinoic receptor alpha  creates  a  fusion  protein which is the
+   cause of acute promyelocytic leukemia (APL).
+ - Mammalian breast cancer type 1 susceptibility protein (BRCA1).
+ - Mammalian cbl proto-oncogene.
+ - Mammalian bmi-1 proto-oncogene.
+ - Vertebrate CDK-activating kinase (CAK) assembly factor MAT1, a protein that
+   stabilizes the  complex  between  the CDK7 kinase and cyclin H (MAT1 stands
+   for 'Menage A Trois').
+ - Mammalian  mel-18  protein. Mel-18 which is expressed in a variety of tumor
+   cells is  a  transcriptional  repressor that recognizes and bind a specific
+   DNA sequence.
+ - Mammalian peroxisome  assembly factor-1 (PAF-1) (PMP35), which  is somewhat
+   involved in the biogenesis of peroxisomes. In humans, defects in PAF-1  are
+   responsible for  a  form  of  Zellweger  syndrome,  an  autosomal recessive
+   disorder associated with peroxisomal deficiencies.
+ - Xenopus XNF7 protein, a probable transcription factor.
+ - Trypanosoma  protein  ESAG-8  (T-LR),   which   may   be  involved  in  the
+   postranscriptional regulation  of  genes  in  VSG  expression  sites or may
+   interact with adenylate cyclase to regulate its activity.
+ - Drosophila proteins  Posterior Sex  Combs (Psc) and Suppressor two of zeste
+   (Su(z)2). The  two proteins belong to the Polycomb group of genes needed to
+   maintain the segment-specific repression of homeotic selector genes.
+ - Drosophila  protein  male-specific  msl-2,  a  DNA-binding protein which is
+   involved in   X   chromosome   dosage   compensation   (the   elevation  of
+   transcription of the male single X chromosome).
+ - Arabidopsis  thaliana  protein  COP1 which is involved in the regulation of
+   photomorphogenesis.
+ - Fungal DNA repair proteins RAD5, RAD16, RAD18 and rad8.
+ - Herpesviruses trans-acting transcriptional protein ICP0/IE110. This protein
+   which has  been  characterized  in many different herpesviruses is a trans-
+   activator and/or  -repressor  of  the expression of many viral and cellular
+   promoters.
+ - Baculoviruses protein CG30.
+ - Baculoviruses major immediate early protein (PE-38).
+ - Baculoviruses immediate-early regulatory protein IE-N/IE-2.
+ - Caenorhabditis elegans hypothetical proteins F54G8.4, R05D3.4 and T02C1.1.
+ - Yeast hypothetical proteins YER116c and YKR017c.
+
+We  developed  a  pattern that specifically recognized the C3HC4-type. We also
+developed a profile for C3HC4-type and RING-H2 type.
+
+-Consensus pattern: C-x-H-x-[LIVMFY]-C-x(2)-C-[LIVMYA]
+-Sequences known to belong to this class detected by the profile: A majority.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Text revised; profile added.
+
+[ 1] Borden K.L.B., Freemont P.S.
+     "The RING finger domain: a recent example of a sequence-structure
+     family."
+     Curr. Opin. Struct. Biol. 6:395-401(1996).
+     PubMed=8804826
+[ 2] Borden K.L., Boddy M.N., Lally J., O'Reilly N.J., Martin S., Howe K.,
+     Solomon E., Freemont P.S.
+     "The solution structure of the RING finger domain from the acute
+     promyelocytic leukaemia proto-oncoprotein PML."
+     EMBO J. 14:1532-1541(1995).
+     PubMed=7729428
+[ 3] Lorick K.L., Jensen J.P., Fang S., Ong A.M., Hatakeyama S., Weissman A.M.
+     "RING fingers mediate ubiquitin-conjugating enzyme (E2)-dependent
+     ubiquitination."
+     Proc. Natl. Acad. Sci. U.S.A. 96:11364-11369(1999).
+     PubMed=10500182
+[ 4] Yokouchi M., Kondo T., Houghton A., Bartkiewicz M., Horne W.C.,
+     Zhang H., Yoshimura A., Baron R.
+     "Ligand-induced ubiquitination of the epidermal growth factor receptor
+     involves the interaction of the c-Cbl RING finger and UbcH7."
+     J. Biol. Chem. 274:31707-31712(1999).
+     PubMed=10531381
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

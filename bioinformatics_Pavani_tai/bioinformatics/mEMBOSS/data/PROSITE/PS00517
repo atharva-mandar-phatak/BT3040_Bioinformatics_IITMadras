@@ -1,0 +1,53 @@
+*************************************************
+* Ribonuclease III family signature and profile *
+*************************************************
+
+Prokaryotic ribonuclease  III  (EC  3.1.26.3) (gene rnc) [1] is an enzyme that
+digests double-stranded RNA. It is involved in the processing of ribosomal RNA
+precursors and  of  some  mRNAs.  RNase III is evolutionary related [2] to the
+following proteins:
+
+ - Fission  yeast  pac1,  a  ribonuclease  that  probably  inhibits mating and
+   meiosis by degrading a specific mRNA required for sexual development.
+ - Yeast ribonuclease III  (gene RNT1), a dsRNA-specific nuclease that cleaves
+   eukaryotic preribosomal RNA at various sites.
+ - Caenorhabditis elegans hypothetical protein F26E4.13.
+ - Paramecium bursaria chlorella virus 1 protein A464R.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0346.
+ - Fission yeast hypothetical protein SpAC8A4.08c, a protein with a N-terminal
+   helicase domain and a C-terminal RNase III domain.
+ - Caenorhabditis  elegans  hypothetical  protein  K12H4.8, a protein with the
+   same structure as SpAC8A4.08c.
+
+These proteins share regions of sequence similarity; one  of which is a highly
+conserved stretch of 9 residues which we use as a signature pattern.
+
+-Consensus pattern: [DEQ]-[KRQT]-[LMF]-E-[FYW]-[LV]-G-D-[SARHG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Nashimoto H., Uchida H.
+     "DNA sequencing of the Escherichia coli ribonuclease III gene and its
+     mutations."
+     Mol. Gen. Genet. 201:25-29(1985).
+     PubMed=3903434
+[ 2] Mian I.S.
+     "Comparative sequence analysis of ribonucleases HII, III, II PH and
+     D."
+     Nucleic Acids Res. 25:3187-3195(1997).
+     PubMed=9241229
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

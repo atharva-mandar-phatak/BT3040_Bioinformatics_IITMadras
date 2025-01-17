@@ -1,0 +1,114 @@
+*******************************************************************
+* CBM2 (carbohydrate-binding type-2) domain signature and profile *
+*******************************************************************
+
+The  microbial  degradation  of cellulose and xylans requires several types of
+enzyme  such  as endoglucanases (EC 3.2.1.4), cellobiohydrolases (EC 3.2.1.91)
+(exoglucanases),  or  xylanases (EC 3.2.1.8) [1]. Structurally, cellulases and
+xylanases  generally  consist  of a catalytic domain and a conserved region of
+~100  amino acid residues, the carbohydrate-binding module 2 (CBM2) [2,E1]. It
+is  found  either  at  the  N-terminal or at the C-terminal extremity of these
+enzymes.
+
+CBM2  can be classified in 2 subfamilies according to substrate specificities:
+CBM2a which binds cellulose and CBM2b which interacts specifically with xylan.
+CBM2a  and  CBM2b also display significant differences at the residue level as
+shown in the following schematic representation:
+
+           +-------------------------------------------------+
+           |                                                 |
+ CBM2a    xCxxxxWxxGxxNxxxxxxxxxxxWxxxxxxxxWNxxxxxGxxxxxxxxxxCx
+                                           ********
+
+           +-------------------------------------------------+
+           |                                                 |
+ CBM2b    xCxxxxWxxRxxNxxxxxxxxxxxWxxxxxxx--------GxxxxxxxxxxCx
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+'W': surface-exposed tryptophan
+
+Like  other  CBM  domains CBM2 is a beta-sheet domain containing a planar face
+which  interacts  with its ligand via a hydrophobic strip of aromatic residues
+(see  <PDB:1EXG>) [3]. In family 2a this hydrophobic surface consists of three
+tryptophan  residues, which are all required for binding soluble and insoluble
+forms  of  cellulose  [4]. In family 2b only 2 surface-exposed tryptophans are
+conserved  and the first one is oriented differently. It is therefore not well
+oriented to interact with cellulose but is ideal for binding xylan [5].
+
+Enzymes known to contain such a domain are:
+
+ - Endoglucanase (gene end1) from Butyrivibrio fibrisolvens.
+ - Endoglucanases A (gene cenA) and B (cenB) from Cellulomonas fimi.
+ - Exoglucanases A (gene cbhA) and B (cbhB) from Cellulomonas fimi.
+ - Endoglucanase E-2 (gene celB) from Thermomonospora fusca.
+ - Endoglucanase A (gene celA) from Microbispora bispora.
+ - Endoglucanases A  (gene celA),  B (celB)  and  C  (celC)  from  Pseudomonas
+   fluorescens.
+ - Endoglucanase A (gene celA) from Streptomyces lividans.
+ - Exocellobiohydrolase (gene cex) from Cellulomonas fimi.
+ - Xylanases A (gene xynA) and B (xynB) from Pseudomonas fluorescens.
+ - Arabinofuranosidase C   (EC 3.2.1.55)    (xylanase C)    (gene xynC)   from
+   Pseudomonas fluorescens.
+ - Chitinase 63 (EC 3.2.1.14) from Streptomyces plicatus.
+ - Chitinase C from Streptomyces lividans.
+
+To  recognize  the  CBM2a  domain we developed a pattern which is located in a
+conserved  region  specific to CBM2a. We also developed a profile which covers
+the whole CBM2 domain and recognizes both CBM2 subfamilies.
+
+-Consensus pattern: W-N-[STAGR]-[STDN]-[LIVM]-x(2)-[GST]-x-[GST]-x(2)-
+                    [LIVMFT]-[GA]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / Text revised; profile added.
+
+[ 1] Gilkes N.R., Henrissat B., Kilburn D.G., Miller R.C. Jr., Warren R.A.J.
+     "Domains in microbial beta-1, 4-glycanases: sequence conservation,
+     function, and enzyme families."
+     Microbiol. Rev. 55:303-315(1991).
+     PubMed=1886523
+[ 2] Meinke A., Gilkes N.R., Kilburn D.G., Miller R.C. Jr., Warren R.A.J.
+     "Bacterial cellulose-binding domain-like sequences in eucaryotic
+     polypeptides."
+     Protein Seq. Data Anal. 4:349-353(1991).
+     PubMed=1812490
+[ 3] Xu G.Y., Ong E., Gilkes N.R., Kilburn D.G., Muhandiram D.R.,
+     Harris-Brandts M., Carver J.P., Kay L.E., Harvey T.S.
+     "Solution structure of a cellulose-binding domain from Cellulomonas
+     fimi by nuclear magnetic resonance spectroscopy."
+     Biochemistry 34:6993-7009(1995).
+     PubMed=7766609
+[ 4] Nagy T., Simpson P., Williamson M.P., Hazlewood G.P., Gilbert H.J.,
+     Orosz L.
+     "All three surface tryptophans in Type IIa cellulose binding domains
+     play a pivotal role in binding both soluble and insoluble ligands."
+     FEBS. Lett. 429:312-316(1998).
+     PubMed=9662439
+[ 5] Simpson P.J., Bolam D.N., Cooper A., Ciruela A., Hazlewood G.P.,
+     Gilbert H.J., Williamson M.P.
+     "A family IIb xylan-binding domain has a similar secondary structure
+     to a homologous family IIa cellulose-binding domain but different
+     ligand specificity."
+     Structure. Fold. Des. 7:853-864(1999).
+     PubMed=10425686
+[ 6] Simpson P.J., Xie H., Bolam D.N., Gilbert H.J., Williamson M.P.
+     "The structural basis for the ligand specificity of family 2
+     carbohydrate-binding modules."
+     J. Biol. Chem. 275:41137-41142(2000).
+     PubMed=10973978; DOI=10.1074/jbc.M006948200
+[E1] http://www.cazy.org/fam/CBM2.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

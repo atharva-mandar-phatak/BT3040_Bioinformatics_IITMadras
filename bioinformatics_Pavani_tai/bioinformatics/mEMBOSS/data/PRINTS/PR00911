@@ -1,0 +1,32 @@
+GLHYDRLASE11
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the
+definition of around 60 different families [1-4] (http://expasy.hcuge.ch/
+cgi-bin/lists?glycosid.txt). 
+
+The xylanases are shared between families 10 and 11 [5-7]: family 10
+generally encompasses the larger, more complex xylanases that produce
+smaller oligosaccharides; family 11 (endo-1,4-beta-xylanases (EC 3.2.1.8))
+encompasses xylanases more specific for xylan [5,6]. The pH spectrum in
+which these enzymes operate is quite diverse. It is thought that there are
+at least five phylogenetically consistent groups within this family [7].
+
+GLHYDRLASE11 is a 6-element fingerprint that provides a signature for 
+glycosyl hydrolase family 11. The fingerprint was derived from an initial
+alignment of 25 sequences: the motifs were drawn from conserved regions
+spanning the N-terminal portion of the alignment - motif 1 encodes most of
+strand 6 and part of the adjacent loop; motif 2 spans some of the 
+aforementioned loop and most of strand 7, and includes an active site Glu;
+motif 3 encodes the N-terminus of strand 9; motifs 4 and 5 span strand 10,
+leading into the adjacent loop; and motif 6 spans the C-terminus of helix 1
+and most of the appended loop. Three iterations on OWL30.2 were required to
+reach convergence, at which point a true set comprising 75 sequences was 
+identified. Two partial matches were also found: S48865 is an endo-1,4-beta-
+xylanase that fails to make a significant match with motif 4; and MGNENDOXYL
+is a fragment that lacks the portion of sequence bearing the last 2 motifs.
+(nb. MGNENDOBX is a fragment that matches only a single motif).
+
+An update on SPTR37_9f identified a true set of 65 sequences, and 4
+partial matches.

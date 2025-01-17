@@ -1,0 +1,90 @@
+*************************
+* Sulfatases signatures *
+*************************
+
+Sulfatases (EC 3.1.6.-) are enzymes that hydrolyze various sulfate esters. The
+sequence of different types of sulfatases are available. These enzymes are:
+
+ - Arylsulfatase A (EC 3.1.6.8)  (ASA), a lysosomal  enzyme  which  hydrolyzes
+   cerebroside sulfate.
+ - Arylsulfatase B (EC 3.1.6.12) (ASB),  a  lysosomal enzyme  which hydrolyzes
+   the sulfate ester group from  N-acetylgalactosamine 4-sulfate  residues  of
+   dermatan sulfate.
+ - Arylsulfatase C (ASD).
+ - Arylsulfatase E (ASE).
+ - Steryl-sulfatase  (EC 3.1.6.2) (STS)  (arylsulfatase C),  a  membrane bound
+   microsomal enzyme which hydrolyzes 3-beta-hydroxy steroid sulfates.
+ - Iduronate 2-sulfatase precursor (EC 3.1.6.13)  (IDS),  a  lysosomal  enzyme
+   that hydrolyzes the 2-sulfate  groups  from  non-reducing-terminal iduronic
+   acid residues in dermatan sulfate and heparan sulfate.
+ - N-acetylgalactosamine-6-sulfatase  (EC 3.1.6.4),  an enzyme that hydrolyzes
+   the 6-sulfate  groups  of  the  N-acetyl-D-galactosamine 6-sulfate units of
+   chondroitin sulfate and the D-galactose 6-sulfate units of keratan sulfate.
+ - Choline  sulfatase  (EC  3.1.6.6)  (gene  betC),  a  bacterial  enzyme that
+   converts choline-O-sulfate to choline.
+ - Glucosamine-6-sulfatase   (EC 3.1.6.14)  (G6S),  a  lysosomal  enzyme  that
+   hydrolyzes the N-acetyl-D-glucosamine  6-sulfate  units  of heparan sulfate
+   and keratan sulfate.
+ - N-sulphoglucosamine   sulphohydrolase  (EC  3.10.1.1)  (sulphamidase),  the
+   lysosomal enzyme that catalyzes the hydrolysis of N-sulfo-d-glucosamine into
+   glucosamine and sulfate.
+
+ - Sea urchin embryo arylsulfatase (EC 3.1.6.1).
+ - Green  alga  arylsulfatase (EC 3.1.6.1), an enzyme which plays an important
+   role in the mineralization of sulfates.
+ - Arylsulfatase  (EC  3.1.6.1)  from Escherichia coli (gene aslA), Klebsiella
+   aerogenes (gene atsA) and Pseudomonas aeruginosa (gene atsA).
+ - Escherichia coli hypothetical protein yidJ.
+
+It has been shown that all these sulfatases are structurally related [1,2,3].
+
+As signature patterns for that family of enzymes we have selected the two best
+conserved regions. Both regions are located in the N-terminal section of these
+enzymes.   The  first  region  contains  a conserved arginine which  could  be
+implicated in  the  catalytic  mechanism;  it is located four residues after a
+position that,  in  eukaryotic  sulfatases,  is a conserved cysteine which has
+been shown  [4] to be modified to 2-amino-3-oxopropionic acid. In prokaryotes,
+this cysteine is replaced by a serine.
+
+-Consensus pattern: [SAPG]-[LIVMST]-[CS]-[STACG]-P-[STA]-R-x(2)-[LIVMFW](2)-
+                    [TAR]-G
+                    [R is a putative active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-[YV]-x-[ST]-x(2)-[IVAS]-G-K-x(0,1)-[FYWMK]-[HL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Peters C., Schmidt B., Rommerskirch W., Rupp K., Zuhlsdorf M.,
+     Vingron M., Meyer H.E., Pohlmann R., von Figura K.
+     "Phylogenetic conservation of arylsulfatases. cDNA cloning and
+     expression of human arylsulfatase B."
+     J. Biol. Chem. 265:3374-3381(1990).
+     PubMed=2303452
+[ 2] Wilson P.J., Morris C.P., Anson D.S., Occhiodoro T., Bielicki J.,
+     Clements P.R., Hopwood J.J.
+     "Hunter syndrome: isolation of an iduronate-2-sulfatase cDNA clone and
+     analysis of patient DNA."
+     Proc. Natl. Acad. Sci. U.S.A. 87:8531-8535(1990).
+     PubMed=2122463
+[ 3] de Hostos E.L., Schilling J., Grossman A.R.
+     Mol. Gen. Genet. 218:229-239(1989).
+[ 4] Selmer T., Hallmann A., Schmidt B., Sumper M., von Figura K.
+     "The evolutionary conservation of a novel protein modification, the
+     conversion of cysteine to serinesemialdehyde in arylsulfatase from
+     Volvox carteri."
+     Eur. J. Biochem. 238:341-345(1996).
+     PubMed=8681943
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

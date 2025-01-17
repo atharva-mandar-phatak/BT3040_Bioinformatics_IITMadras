@@ -1,0 +1,41 @@
+DNAGYRASEB
+Topoisomerases catalyse the interconversion of topological isomers of DNA
+and play a key role in DNA metabolism [1]. Topoisomerase I catalyses an ATP-
+independent reaction, while topoisomerase II catalyses an ATP-dependent
+reaction, resulting in the formation of DNA supercoils [1-3]. The supercoil
+is formed by transient cleavage in both strands of double-stranded DNA,
+followed by the passage of a segment of DNA through the break, and break
+ligation [3]. Eukaryotic enzymes can form both positive and negative
+supercoils, while prokaryotic enzymes form only negative supercoils.
+
+Eukaryotic topoisomerase II exists as a homodimer; in bacteriophage T4 it 
+consists of 3 heterologous subunits; in prokaryotes it exists as a tetramer
+of 2 subunits (2 each of gyrA and gyrB); and in E.coli, a second type II
+topoisomerase, involved in chromosome segregation (topoisomerase IV),
+consists of 2 subunits (parC and parE). GyrB, parE, and the product of 
+bacteriophage T4 gene 39, are all similar to the eukaryotic proteins [1-3].
+
+DNA gyrase is the target of two classes of inhibitor: coumarins and
+quinolones. Coumarins bind to gyrB and are competitive inhibitors with
+respect to ATP. Quinolones bind DNA gyrase when the enzyme is complexed
+with DNA, and trap the enzyme in an abortive ternary complex.
+
+The crystal structure of an N-terminal fragment of the Escherichia coli DNA
+gyrase B in complex with a non-hydrolysable ATP analogue, has been
+determined to 2.5A resolution [3]. The fold comprises two domains, both of
+which exhibit novel topologies. The fragment forms a dimer, whose N-terminal
+domains are responsible for ATP binding and hydrolysis [3]. The C-terminal
+domains form the sides of a 20A hole through the protein dimer, which may
+play a role in DNA strand passage during the supercoiling reaction [3].
+
+DNAGYRASEB is an 11-element fingerprint that provides a signature for DNA
+gyrase B. The fingerprint was derived from an initial alignment of 3 
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise DNA
+gyrase B but distinguish it from the rest of the topoisomerase II family -
+motif 2 encodes helix 6; and motif 3 encodes beta strand 8. Four iterations
+on SPTR37_9f were required to reach convergence, at which point a true set
+comprising 30 sequences was identified. Several partial matches were also
+found, all of which are related members of the topoisomerase II family,
+including topoisomerase IV B, the sequence of which is virtually 
+indistinguishable from DNA gyrase B.

@@ -1,0 +1,23 @@
+ICOSAHEDRAL
+The capsid proteins of plant icosahedral positive strand RNA viruses
+form 4 different domains: a positively charged, N-terminal 'R' domain,
+which interacts with RNA (66 residues); a connecting arm, 'a' (35
+residues); a central, surface 'S' domain, which forms the virion shell
+(170 residues); and a projecting, C-terminal 'P' domain [1].
+
+The S domain comprises 8 anti-parallel beta-strands, which form a 
+twisted sheet or jelly-roll fold. This structure is shared by a number
+of plant viral capsid proteins, including carmoviruses, dianthoviruses,
+sobemoviruses, tombusviruses and tobacco necrosis virus [2].
+
+ICOSAHEDRAL is a 3-element fingerprint that provides a signature for
+icosahedral virus capsid proteins. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs were drawn from conserved
+regions within the S domain, motifs 2 and 3 spanning the region encoded
+by PROSITE pattern ICOSAH_VIR_COAT_S (PS000555), which encompasses the
+third and fourth beta strands of the jelly-roll. Two iterations on OWL25.2
+were required to reach convergence, at which point a true set comprising
+24 sequences was identified. Three partial matches were also found, all
+family members lacking significant matches with wither motif 1 or 3.
+
+An update on SPTR37_9f identified a true set of 36 sequences.

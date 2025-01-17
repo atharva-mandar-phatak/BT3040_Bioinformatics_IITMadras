@@ -1,0 +1,43 @@
+N12N6MTFRASE
+In prokaryotes, the major role of DNA methylation is to protect host
+DNA against degradation by restriction enzymes. There are 2 major classes
+of DNA methyltransferase that differ in the nature of the modifications
+they effect [1]. The members of one class (C-MTases) methylate a ring
+carbon and form C5-methylcytosine (see PRINTS signature C5METTRFRASE).
+Members of the second class (N-MTases) methylate exocyclic nitrogens and
+form either N4-methylcytosine (N4-MTases) or N6-methyladenine (N6-MTases).
+Both classes of MTase utilise the cofactor S-adenosyl-L-methionine (SAM)
+as the methyl donor and are active as monomeric enzymes [1].
+
+The structure of N6-MTase TaqI (M.TaqI) has been resolved to 2.4A [2].
+The molecule folds into 2 domains: an N-terminal catalytic domain, which
+contains the catalytic and cofactor binding sites, and comprises a central
+9-stranded beta-sheet, surrounded by 5 helices; and a C-terminal DNA
+recognition domain, which is formed by 4 small beta-sheets and 8 alpha-
+helices. The N- and C-terminal domains form a cleft that accommodates the
+DNA substrate.
+
+A classification of N-MTases has been proposed, based on conserved motif
+(CM) arrangements [3]. According to this classification, N6-MTases that
+have an NPPY motif (CM II) occuring after the FxGxG motif (CM I) are
+designated N12 class N6-adenine MTases.
+
+N12N6MTFRASE is a 4-element fingerprint that provides a signature for the
+N12 class N6-adenine MTases. The fingerprint was derived from an initial
+alignment of 15 sequences. The motifs were drawn from some of the conserved
+regions used by Timinskas et al. [3] in their DNA MTase classification:
+the motifs correspond to CM Is, I, II and III, respectively - motif 2,
+which contains the pattern Pxx(AG)xG, forms part of the cofactor (SAM)
+binding site (loop beta 1 - helix A in the M.TaqI structure); motif 3, 
+which contains the N-MTase-specific tetrapeptide NPP(FWY) (cf. PROSITE
+pattern N6_MTASE), is important for methylation [4] (loop beta 4 - helix D);
+and motif 4 corresponds to helix D and strand 5. Four iterations on OWL28.0
+were required to reach convergence, at which point a true set comprising 31
+sequences was identified. Three partial matches were also found: G64114 is
+a Haemophilus influenzae MTase M.EcoR124/3 (named by homology with the
+E.coli enzyme) that lacks motif 3; and S49395 (Mycoplasma pulmonis M.HsdM1)
+and MAMAMIRM (Microbacterium ammoniaphilum M.MamI) are N12 class N6-adenine
+MTases that lack motif 4.
+
+An update on SPTR37_9f identified a true set of 64 sequences, and 25
+partial matches.

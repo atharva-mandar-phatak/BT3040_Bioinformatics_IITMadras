@@ -1,0 +1,91 @@
+********************************************
+* Alpha-type protein kinase domain profile *
+********************************************
+
+The  alpha-kinases  were  initially  identified  because of the experimentally
+observed  ability  of EF-2 kinase to phosphorylate elongation factor-2 [1]. It
+was  shown  that  the EF-2 kinase and the myosin heavy chain kinase A (MHCK A)
+share  a  conserved  region  of about 250 amino acids, the alpha-kinase domain
+[2].  The name alpha-kinase was suggested for the family according to existing
+evidence that eIF-2 and MHCK A phosphorylate amino acids located within alpha-
+helices  whereas  classical  kinase  proteins phosphorylate amino acids within
+loops  [3].  Alpha-kinases  are  multi-domain  proteins with a wide variety of
+domains  present in the family. These include: ion-channels, VWFA domains (see
+<PDOC50234>),  WD-repeats  (see  <PDOC00574>),  TPR-repeats (see <PDOC50005>),
+immunoglobulin-like  domains (see <PDOC50835>) and calmodulin binding domains.
+Members  of  the  alpha-kinase  family share no detectable sequence similarity
+with   the  large  family  of  "classical"  eukaryotic  protein  kinases  (see
+<PDOC00100>) [4].
+
+The  crystal  structure  of  the alpha-kinase domain of a TPR channel has been
+solved  [5].  The  structure bears a striking resemblance to that of classical
+protein kinases in the catalytic core as well as to metabolic enzymes with the
+ATP-grasp domain. As in classical kinase the domain consists of two lobes that
+bind  nucleotide  at  the  interface between them. The N-terminal lobe is very
+similar  in  structure  to  that  of  classical  protein  kinases, whereas its
+C-terminal lobe resembles that of ATP-grasp proteins more closely. A conserved
+C-terminal  glycine rich motif which locates in the region that corresponds to
+the  activation  loop  of  classical  kinases  is  essential for the enzymatic
+activity [6]. The C-terminal lobe contains a metal ion which is coordinated by
+two histidines and two cysteines.
+
+Proteins known to contain an alpha-kinase domain are listed below:
+
+ - Eukaryotic  elongation  factor  2  kinase (EC 2.7.11.20) (eEF-2 kinase). It
+   phosphorylates eukaryotic elongation factor 2.
+ - Dictyostelium  myosin  heavy  chain  kinase  A  (EC  2.7.11.7) (MHCK A). It
+   phosphorylates a threonine in the C-terminal tail region of myosin II heavy
+   chain. This  phosphorylation    is  critical in regulating the assembly and
+   disassembly of myosin II filament.
+ - A   mammalian  subclass  of  long  transient  receptor  potential  channels
+   (TRPM7/ChaK1).   An  essential  ion  channel  and  serine/threonine-protein
+   kinase.
+ - Mammalian muscle alpha-kinase.
+ - Neurospora alpha-kinase with a VWFA domain.
+
+The profile we developed covers the entire alpha-kinase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2005 / First entry.
+
+[ 1] Ryazanov A.G., Shestakova E.A., Natapov P.G.
+     "Phosphorylation of elongation factor 2 by EF-2 kinase affects rate of
+     translation."
+     Nature 334:170-173(1988).
+     PubMed=3386756; DOI=10.1038/334170a0
+[ 2] Cote G.P., Luo X., Murphy M.B., Egelhoff T.T.
+     "Mapping of the novel protein kinase catalytic domain of Dictyostelium
+     myosin II heavy chain kinase A."
+     J. Biol. Chem. 272:6846-6849(1997).
+     PubMed=9054368
+[ 3] Ryazanov A.G., Pavur K.S., Dorovkov M.V.
+     "Alpha-kinases: a new class of protein kinases with a novel catalytic
+     domain."
+     Curr. Biol. 9:R43-R45(1999).
+     PubMed=10021370
+[ 4] Drennan D., Ryazanov A.G.
+     "Alpha-kinases: analysis of the family and comparison with
+     conventional protein kinases."
+     Prog. Biophys. Mol. Biol. 85:1-32(2004).
+     PubMed=15050379; DOI=10.1016/S0079-6107(03)00060-9
+[ 5] Yamaguchi H., Matsushita M., Nairn A.C., Kuriyan J.
+     "Crystal structure of the atypical protein kinase domain of a TRP
+     channel with phosphotransferase activity."
+     Mol. Cell 7:1047-1057(2001).
+     PubMed=11389851
+[ 6] Runnels L.W., Yue L., Clapham D.E.
+     "TRP-PLIK, a bifunctional protein with kinase and ion channel
+     activities."
+     Science 291:1043-1047(2001).
+     PubMed=11161216; DOI=10.1126/science.1058519
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

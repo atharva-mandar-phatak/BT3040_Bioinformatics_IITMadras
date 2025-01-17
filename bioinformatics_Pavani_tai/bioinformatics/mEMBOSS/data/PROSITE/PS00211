@@ -1,0 +1,200 @@
+*********************************************************************
+* ATP-binding cassette, ABC transporter-type, signature and profile *
+*********************************************************************
+
+ABC  transporters  belong  to the ATP-Binding Cassette (ABC) superfamily which
+uses  the  hydrolysis  of  ATP  to  energize  diverse  biological systems. ABC
+transporters  are  minimally  constituted  of  two conserved regions: a highly
+conserved ATP binding cassette (ABC) and a less conserved transmembrane domain
+(TMD).  These  regions  can  be  found on the same protein or on two different
+ones.  Most ABC transporters function as a dimer and therefore are constituted
+of four domains, two ABC modules and two TMDs [1].
+
+ABC  transporters  are  involved  in the export or import of a wide variety of
+substrates  ranging  from  small ions to macromolecules. The major function of
+ABC  import  systems  is  to provide essential nutrients to bacteria. They are
+found  only  in  prokaryotes  and  their four constitutive domains are usually
+encoded  by  independent polypeptides (two ABC proteins and two TMD proteins).
+Prokaryotic importers  require  additional  extracytoplasmic  binding proteins
+(one or  more  per  systems)  for  function.  In  contrast, export systems are
+involved in  the  extrusion of noxious substances, the export of extracellular
+toxins and  the targeting of membrane components. They are found in all living
+organisms and  in  general  the TMD is fused to the ABC module in a variety of
+combinations. Some   eukaryotic   exporters   encode   the   four  domains  on
+the same polypeptide chain [2,3].
+
+The  ABC  module  (approximately  two hundred amino acid residues) is known to
+bind  and  hydrolyze  ATP,  thereby  coupling transport to ATP hydrolysis in a
+large  number  of  biological processes. The cassette is duplicated in several
+subfamilies.  Its  primary  sequence is highly conserved, displaying a typical
+phosphate-binding loop:  Walker A  (see  <PDOC00017>), and a magnesium binding
+site:  Walker  B.  Besides these two regions, three other conserved motifs are
+present  in  the  ABC  cassette:  the switch region which contains a histidine
+loop,  postulated to polarize the attaching water molecule for hydrolysis, the
+signature  conserved  motif  (LSGGQ)  specific to the ABC transporter, and the
+Q-motif  (between  Walker A and the signature), which interacts with the gamma
+phosphate  through  a  water  bond.  The Walker A, Walker B, Q-loop and switch
+region form the nucleotide binding site [4,5,6].
+
+The  3D  structure  of a monomeric ABC module adopts a stubby L-shape with two
+distinct  arms  (see  <PDB:1B0U>). ArmI (mainly beta-strand) contains Walker A
+and  Walker  B.  The  important residues for ATP hydrolysis and/or binding are
+located  in  the P-loop. The ATP-binding pocket is located at the extremity of
+armI. The perpendicular armII contains mostly the alpha helical subdomain with
+the  signature motif. It only seems to be required for structural integrity of
+the  ABC  module.  ArmII  is in direct contact with the TMD. The hinge between
+armI and armII contains both the histidine loop and the Q-loop, making contact
+with  the  gamma  phosphate  of  the  ATP  molecule. ATP hydrolysis leads to a
+conformational  change that could facilitate ADP release. In the dimer the two
+ABC  cassettes  contact  each  other  through  hydrophobic interactions at the
+antiparallel beta-sheet of armI by a two-fold axis [7,8,9,10,11,12].
+
+Proteins  known  to belong to this family are classified in several functional
+subfamilies depending on the substrate used [E1].
+
+All  different  types of transporters with a functional attribution are listed
+below (references are only provided for recently characterized proteins).
+
+In prokaryotes:
+
+Active import transport system components:
+
+ - Carbohydrate uptake transporter.
+ - Cobalt uptake transporter (cbiO).
+ - Ferric iron uptake transporter.
+ - Hydrophobic amino acid uptake transporter.
+ - Iron Chelate uptake transporter.
+ - Manganese/Zinc/Iron chelate uptake transporter.
+ - Molybdate uptake transporter.
+ - Nitrate/Nitrite/Cyanate uptake transporter.
+ - Peptide/Opine/Nickel uptake transporter.
+ - Phosphate uptake transporter.
+ - Phosphonate uptake transporter.
+ - Polyamine/Opine/Phosphonate uptake transporter.
+ - Quaternary amine uptake transporter.
+ - Sulfate uptake transporter.
+ - Taurine uptake tranporter (tauB).
+ - Thiamin uptake transporter (thiamin/thiamin pyrophosphate) (thiQ/yabJ).
+ - Vitamine B12 uptake tranporter (btuD).
+
+Active export transport system components:
+
+ - Capsular polysaccharide exporter (kpsT).
+ - Drug exporter-1: daunorubicin/doxorubicin (drrA); oleandomycin (oleC4).
+ - Drug resistance ATPase-1.
+ - Drug/siderophore exporter-3.
+ - Glucan exporter: Beta-(1,2)-glucan export (chvA/ndvA).
+ - Lipid A exporter (msbA).
+ - Lantibiotic exporter: hemolysin/bacteriocin (cylB).
+ - Lipooligosaccharide exporter (nodulation protein nodI from Rhizobium).
+ - Lipopolysaccharide exporter (rbfA).
+ - Micrococin B17 exporter (mcbF).
+ - Micrococin J25 exporter (mcjD).
+ - Peptide-2 exporter: competence factor (comA/comB).
+ - Peptide-3 exporter: modified cyclic peptide (syrD.
+ - Protein-1 exporter: hemolysin (hlyB).
+ - Protein-2 exporter: colicin V(cvaB).
+ - S-layer protein exporter (rsaD/sapD).
+ - Techoic Acid Exporter (tagH).
+
+In eukaryotes:
+
+ - ALDP, a peroxisomal protein involved in X-linked adrenoleukodystrophy.
+ - Antigen  peptide  transporters  1  (TAP1,  PSF1,  RING4, HAM-1, mtp1) and 2
+   (TAP2, PSF2,  RING11, HAM-2, mtp2), which  are involved in the transport of
+   antigens from      the   cytoplasm  to  a  membrane-bound  compartment  for
+   association with MHC class I molecules.
+ - Cystic fibrosis transmembrane conductance regulator (CFTR),  which  is most
+   probably involved in the transport of chloride ions.
+ - Drosophila  proteins  white  (w)  and brown (bw), which are involved in the
+   import of ommatidium screening pigments.
+ - Fungal elongation factor 3 (EF-3).
+ - Multidrug   transporters  (Mdr1)  (P-glycoprotein),  a  family  of  closely
+   related proteins which extrude a wide variety of drugs out of the cell.
+ - 70 Kd peroxisomal membrane protein (PMP70).
+ - Sulfonylurea  receptor,  a  putative  subunit  of the B-cell  ATP-sensitive
+   potassium channel.
+
+As a signature pattern for this class of proteins, we use a  conserved  region
+which is  located  between the 'A' and the 'B' motifs of the ATP-binding site.
+The  profile  we  developed  is  directed  against the conserved ABC module by
+covering  the  region  between  beta strand 1 and alpha helix 9, including not
+only  the conserved motifs but also structural elements found N and C terminal
+to  them.  Our profile also recognizes the UvrA family which is evolutionarily
+related to the ABC transporter family.
+
+-Consensus pattern: [LIVMFYC]-[SA]-[SAPGLVFYKQH]-G-[DENQMW]-[KRQASPCLIMFW]-
+                    [KRNQSTAVM]-[KRACLVM]-[LIVMFYPAN]-{PHY}-[LIVMFW]-
+                    [SAGCLIVP]-{FYWHP}-{KRHP}-[LIVMFYWSTA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 25 sequences.
+-Other sequence(s) detected in Swiss-Prot: 53.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The ATP-binding region is  duplicated in araG, mdl, msrA,  rbsA,  tlrC,
+ uvrA, yejF, Mdr's, CFTR, pmd1 and in EF-3.  In  some  of  those proteins, the
+ above pattern only detect one of the two copies of the domain.
+
+-Last update: November 2003 / Text revised.
+
+[ 1] Holland I.B., Cole S.P.C., Kuchler K., Higgins C.F.
+     (In) ABC proteins from bacteria to man, Academic Press, San Diego,
+     (2003).
+[ 2] Holland I.B., Blight M.A.
+     J. Mol. Biol. 293:381-399(1999).
+[ 3] Saurin W., Hofnung M., Dassa E.
+     "Getting in or out: early segregation between importers and exporters
+     in the evolution of ATP-binding cassette (ABC) transporters."
+     J. Mol. Evol. 48:22-41(1999).
+     PubMed=9873074
+[ 4] Higgins C.F.
+     "ABC transporters: physiology, structure and mechanism--an overview."
+     Res. Microbiol. 152:205-210(2001).
+     PubMed=11421269
+[ 5] Higgins C.F.
+     "ABC transporters: from microorganisms to man."
+     Annu. Rev. Cell Biol. 8:67-113(1992).
+     PubMed=1282354; DOI=10.1146/annurev.cb.08.110192.000435
+[ 6] Schneider E., Hunke S.
+     "ATP-binding-cassette (ABC) transport systems: functional and
+     structural aspects of the ATP-hydrolyzing subunits/domains."
+     FEMS Microbiol. Rev. 22:1-20(1998).
+     PubMed=9640644
+[ 7] Kerr I.D.
+     "Structure and association of ATP-binding cassette transporter
+     nucleotide-binding domains."
+     Biochim. Biophys. Acta 1561:47-64(2002).
+     PubMed=11988180
+[ 8] Karpowich N., Martsinkevich O., Millen L., Yuan Y.R., Dai P.L.,
+     MacVey K., Thomas P.J., Hunt J.F.
+     "Crystal structures of the MJ1267 ATP binding cassette reveal an
+     induced-fit effect at the ATPase active site of an ABC transporter."
+     Structure 9:571-586(2001).
+     PubMed=11470432
+[ 9] Yuan Y.R., Blecker S., Martsinkevich O., Millen L., Thomas P.J.,
+     Hunt J.F.
+     "The crystal structure of the MJ0796 ATP-binding cassette.
+     Implications for the structural consequences of ATP hydrolysis in the
+     active site of an ABC transporter."
+     J. Biol. Chem. 276:32313-32321(2001).
+     PubMed=11402022; DOI=10.1074/jbc.M100758200
+[10] Hung L.W., Wang I.X., Nikaido K., Liu P.Q., Ames G.F., Kim S.H.
+     Nature 396:703-707(1998).
+[11] Diederichs K., Diez J., Greller G., Muller C., Breed J., Schnell C.,
+     Vonrhein C., Boos W., Welte W.
+     EMBO J. 19:5951-5961(2000).
+[12] Gaudet R., Wiley D.C.
+     EMBO J. 20:4964-4972(2001).
+[E1] http://www.tcdb.org/tcdb/index.php?tc=3.A.1
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

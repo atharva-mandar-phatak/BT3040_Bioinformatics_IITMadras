@@ -1,0 +1,23 @@
+RHESUSRHD
+The RH (rhesus) blood group system is important in clinical medicine by
+virtue of being involved in haemolytic disease of the newborn, transfusion
+reactions, autoimmune haemolytic anaemias, and haemolytic reactions of 
+nonimmune origin [1]. The RH locus from RhD-positive donors contains 2
+homologous structural genes, one of which encodes the D protein that
+carries the major antigen of the RH system. Hydropathy analysis of the 
+RhD gene product reveals 13 hydrophobic domains, all of which have been 
+assumed to be transmembrane (TM) [1]. 
+
+RHESUSRHD is a 12-element fingerprint that provides a signature for the
+RhD proteins. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn largely from the hydrophobic segments
+suggested by le van Kim et al. to be membrane-spanning - they do not 
+correspond precisely with those identified in [1], because the alignment
+seemed to render 13 TM domains implausible (hydropathy analysis alone is
+unlikely to be a reliable predictor of membrane-spanning motifs). A single
+iteration on OWL22.1 was required to reach convergence, no further
+sequences being identified beyond the starting set. Three partial matches
+were also found, one lacking the last 2 motifs and two lacking the last 7.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 5
+partial matches.

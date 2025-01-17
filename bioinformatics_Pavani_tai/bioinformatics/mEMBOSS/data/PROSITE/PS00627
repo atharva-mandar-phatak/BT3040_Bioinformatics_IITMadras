@@ -1,0 +1,38 @@
+********************************************
+* GHMP kinases putative ATP-binding domain *
+********************************************
+
+The following kinases contains, in  their N-terminal section, a conserved Gly/
+Ser-rich region which is probably involved in  the binding of ATP [1].   These
+kinases are listed below.
+
+ - Galactokinase (EC 2.7.1.6).
+ - Homoserine kinase (EC 2.7.1.39).
+ - Mevalonate kinase (EC 2.7.1.36).
+ - Phosphomevalonate kinase (EC 2.7.4.2).
+
+We have called this group of kinases 'GHMP' (from  the  first  letter of their
+substrate).
+
+-Consensus pattern: [LIVM]-[PK]-x-[GSTA]-x(0,1)-G-[LM]-[GS]-S-S-[GSA]-[GSTAC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for P.aeruginosa homoserine kinase which does not  seem to be homologous with
+ the other GHMP kinases.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Tsay Y.H., Robinson G.W.
+     "Cloning and characterization of ERG8, an essential gene of
+     Saccharomyces cerevisiae that encodes phosphomevalonate kinase."
+     Mol. Cell. Biol. 11:620-631(1991).
+     PubMed=1846667
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,33 @@
+LIPOLIPASE
+Lipoprotein lipase (LPL) is a key enzyme of lipid metabolism that hydrolyses
+triglycerides, providing free fatty acids for cells and affecting the 
+maturation of circulating lipoproteins [1]. The enzyme is thought to play
+a role in the development of obesity and atherosclerosis [1]. Human LPL
+contains 448 amino acids; sequence comparison indicates that human LPL,
+hepatic lipase, and pancreatic lipase are members of a gene family [1]. 
+
+Defects in LPL are a cause of familial chylomicronemia syndrome (or type I
+hyperlipoproteinemia) and also of a form of deficiency characterised by
+hypertriglyceridemia. Familial chylomicronemia is a recessive disorder
+usually manifesting in childhood. On a normal diet, patients often present
+with abdominal pain, hepatosplenomegaly, lipemia retinalis, eruptive
+xanthomata, and massive hypertriglyceridemia, sometimes complicated with
+acute pancreatitis.
+
+LPL and pancreatic lipase share ~30% sequence identity, suggesting a similar
+tertiary fold [3]. Molecular models of LPL have been constructed, based on 
+X-ray crystal structures of pancreatic lipase [2]. These models allowed the
+authors to propose hypotheses on the structural determinants of LPL that are
+responsible for heparin binding, dimer formation, and phospholipase activity. 
+
+LIPOLIPASE is an 8-element fingerprint that provides a signature for
+lipoprotein lipases. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from conserved sections spanning the
+full alignment length, focusing on those regions that characterise the LPLs
+but distinguish them from the rest of the lipase family. Two iterations on
+OWL30.0 were required to reach convergence, at which point a true set
+comprising 10 sequences was identified. A single partial match was also
+found, a partial lipase sequence from the zebrafish that matches motifs 4,
+5, 6 and 8. 
+
+An update on SPTR37_9f identified a true set of 10 sequences.

@@ -1,0 +1,49 @@
+******************************
+* EngC GTPase domain profile *
+******************************
+
+GTPases function   as  crucial  molecular  switches  in  a  broad  variety  of
+biochemical processes.   The   majority  of  GTPases  form  a  vast  class  of
+evolutionarily related  proteins  within  the  superclass of P-loop-containing
+ATPases (see  <PDOC00017>).  The  P-loop  GTPases share a conserved amino acid
+sequence G1-G3-G4  motif  pattern  (G2 is a less conserved motif found only in
+some GTPases)  present in the GTPase domain. The Escherichia coli protein engC
+represents a  protein  family  whose members are broadly conserved in bacteria
+and have  been shown to be indispensable to the growth of E. coli and Bacillus
+subtilis. The  engC  protein  is  an  unusual, circularly permuted GTPase that
+catalyzes rapid  hydrolysis of GTP with comparatively slow catalytic turnover.
+The GTPase domain of engC is highly similar to several P-loop GTPases, but has
+an altered  connectivity  of  the structural elements and associated conserved
+motifs relative  to the typical P-loop-containing GTPase domain. Specifically,
+engC and  its  orthologs  have  a circular permutation of the GTPase structure
+described by   a  G4-G1-G3  pattern  [1].  The  engC  type  GTPase  domain  is
+predominantly bacterial, with probable acquisition by plants from chloroplasts
+[2].
+
+The profile we developed covers the entire engC type GTPase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2003 / First entry.
+
+[ 1] Daigle D.M., Rossi L., Berghuis A.M., Aravind L., Koonin E.V.,
+     Brown E.D.
+     "YjeQ, an essential, conserved, uncharacterized protein from
+     Escherichia coli, is an unusual GTPase with circularly permuted
+     G-motifs and marked burst kinetics."
+     Biochemistry 41:11109-11117(2002).
+     PubMed=12220175; DOI=10.1021/bi020355q
+[ 2] Leipe D.D., Wolf Y.I., Koonin E.V., Aravind L.
+     "Classification and evolution of P-loop GTPases and related ATPases."
+     J. Mol. Biol. 317:41-72(2002).
+     PubMed=11916378; DOI=10.1006/jmbi.2001.5378
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

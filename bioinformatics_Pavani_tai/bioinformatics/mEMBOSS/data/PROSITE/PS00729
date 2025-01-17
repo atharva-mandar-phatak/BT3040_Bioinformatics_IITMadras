@@ -1,0 +1,102 @@
+****************************************************
+* AP endonucleases family 2 signatures and profile *
+****************************************************
+
+Cellular  DNA  is  spontaneously and continuously damaged by environmental and
+internal  factors  such  as  X-rays, UV light and agents such as the antitumor
+drugs  bleomycin  and neocarzinostatin or those that generate oxygen radicals.
+Apurinic/apyrimidinic  (AP)  sites  form  both  spontaneously  and  as  highly
+cytotoxic  intermediates  in  the  removal  of  the  damaged  base by the base
+excision  repair  (BER)  pathway.  DNA  repair at the AP sites is initiated by
+specific   endonuclease   cleavage   of   the  phosphodiester  backbone.  Such
+endonucleases  are also generally capable of removing blocking groups from the
+3'terminus of DNA strand breaks.
+
+AP  endonucleases can be classified into two families on the basis of sequence
+similarity  and  structure  (cf.  family 1 <PDOC00598>). What we call family 2
+groups the enzymes listed below [1,2].
+
+ - Bacterial endonuclease IV (gene nfo) (EC 3.1.21.2).
+ - Fungal and Caenorhabditis elegans apurinic endonuclase APN1 (EC 4.2.99.18).
+ - Dictyostelium endonuclease 4 homolog (EC 3.1.21.2).
+ - Archaeal probable endonuclease 4 homologs (EC 3.1.21.2).
+ - Mimivirus putative endonuclease 4 (EC 3.1.21.2).
+
+APN1  and nfo have been shown to be transition metalloproteins that bind three
+zinc  ions  [3,4].  The  metal-binding sites have been determined from the 3D-
+structure  of  Escherichia  coli nfo [4,6,7], which shows an alpha/beta-barrel
+fold (see <PDB:1QTW; A>) similar to that of other divalent metal-dependent TIM
+barrel enzymes (see <PDOC00155>), such as xylose isomerase (see <PDOC00156>).
+
+We developed three signature patterns for this family of enzymes. The patterns
+are based on regions that contain conserved residues involved in zinc-binding.
+We  also  developed  a profile that covers the entire AP endonuclease family 2
+structure.
+
+-Consensus pattern: H-[GSAD]-x-Y-[LIF]-[LIMN]-N-[LIVMFCAP]-[AGC]
+                    [The H is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSARY]-[LIVMF]-[CT]-[LIVMFY]-D-T-C-H
+                    [The D and the H are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFW]-H-x-N-[DEG]-[SA]-x(4)-[GNAQ]-x(3)-D-x-H
+                    [The 2 H's and the D are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2009 / Text revised; profile added.
+
+[ 1] Popoff S.C., Spira A.I., Johnson A.W., Demple B.
+     "Yeast structural gene (APN1) for the major apurinic endonuclease:
+     homology to Escherichia coli endonuclease IV."
+     Proc. Natl. Acad. Sci. U.S.A. 87:4193-4197(1990).
+     PubMed=1693433
+[ 2] Barzilay G., Hickson I.D.
+     "Structure and function of apurinic/apyrimidinic endonucleases."
+     BioEssays 17:713-719(1995).
+     PubMed=7661852
+[ 3] Levin J.D., Shapiro R., Demple B.
+     "Metalloenzymes in DNA repair. Escherichia coli endonuclease IV and
+     Saccharomyces cerevisiae Apn1."
+     J. Biol. Chem. 266:22893-22898(1991).
+     PubMed=1720775
+[ 4] Hosfield D.J., Guan Y., Haas B.J., Cunningham R.P., Tainer J.A.
+     "Structure of the DNA repair enzyme endonuclease IV and its DNA
+     complex: double-nucleotide flipping at abasic sites and
+     three-metal-ion catalysis."
+     Cell 98:397-408(1999).
+     PubMed=10458614
+[ 5] Ishchenko A.A., Sanz G., Privezentzev C.V., Maksimenko A.V.,
+     Saparbaev M.
+     "Characterisation of new substrate specificities of Escherichia coli
+     and Saccharomyces cerevisiae AP endonucleases."
+     Nucleic Acids Res. 31:6344-6353(2003).
+     PubMed=14576322
+[ 6] Ivanov I., Tainer J.A., McCammon J.A.
+     "Unraveling the three-metal-ion catalytic mechanism of the DNA repair
+     enzyme endonuclease IV."
+     Proc. Natl. Acad. Sci. U.S.A. 104:1465-1470(2007).
+     PubMed=17242363; DOI=10.1073/pnas.0603468104
+[ 7] Garcin E.D., Hosfield D.J., Desai S.A., Haas B.J., Bjoras M.,
+     Cunningham R.P., Tainer J.A.
+     "DNA apurinic-apyrimidinic site binding and excision by endonuclease
+     IV."
+     Nat. Struct. Mol. Biol. 15:515-522(2008).
+     PubMed=18408731; DOI=10.1038/nsmb.1414
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

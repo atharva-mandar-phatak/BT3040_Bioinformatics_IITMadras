@@ -1,0 +1,73 @@
+**************************************************
+* Sigma-54 factors family signatures and profile *
+**************************************************
+
+Sigma factors [1] are bacterial transcription initiation factors  that promote
+the attachment of the core RNA polymerase to specific initiation sites and are
+then released.  They  alter  the  specificity  of  promoter  recognition. Most
+bacteria express a multiplicity of sigma factors. Two of these factors, sigma-
+70 (gene  rpoD),  generally  known  as the major or primary sigma factor,  and
+sigma-54 (gene  rpoN  or  ntrA)  direct the transcription of a wide variety of
+genes. The    other  sigma  factors,  known  as alternative sigma factors, are
+required for the transcription of specific subsets of genes.
+
+With regard  to  sequence  similarity,  sigma  factors can be grouped into two
+classes: the  sigma-54  and  sigma-70  families.  The sigma-70 family has many
+different sigma  factors  (see the relevant entry <PDOC00592>).   The sigma-54
+family consists   exclusively  of  sigma-54  factor  [2,3]  required  for  the
+transcription of  promoters  that  have a characteristic -24 and -12 consensus
+recognition element  but  which  are  devoid  of the typical -10,-35 sequences
+recognized by   the  major    sigma  factors.  The  sigma-54  factor  is  also
+characterized by  its  interaction  with    ATP-dependent  positive regulatory
+proteins that bind to upstream activating sequences.
+
+Structurally sigma-54 factors consist of three distinct regions:
+
+ - A relatively well  conserved N-terminal glutamine-rich region  of about  50
+   residues that contains a potential leucine zipper motif.
+ - A region of variable length which is not well conserved.
+ - A well conserved C-terminal region  of about  350  residues that contains a
+   second potential leucine zipper, a potential DNA-binding 'helix-turn-helix'
+   motif and a perfectly conserved octapeptide whose function is not known.
+
+We  developed  two signature patterns  for  this family  of sigma factors. The
+first starts  two  residues before the N-terminal extremity of the helix-turn-
+helix region and ends two residues before its C-terminal extremity. The second
+is the conserved octapeptide. A profile has also been designed that covers the
+whole C-terminal region.
+
+-Consensus pattern: P-[LIVM]-x-[LIVM]-x(2)-[LIVM]-A-x(2)-[LIVMFT]-x(2)-[HS]-x-
+                    S-T-[LIVM]-S-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-R-T-[IV]-[ATN]-K-Y-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: July 1999 / Patterns and text revised.
+
+[ 1] Helmann J.D., Chamberlin M.J.
+     "Structure and function of bacterial sigma factors."
+     Annu. Rev. Biochem. 57:839-872(1988).
+     PubMed=3052291; DOI=10.1146/annurev.bi.57.070188.004203
+[ 2] Thoeny B., Hennecke H.
+     FEMS Microbiol. Rev. 5:341-358(1989).
+[ 3] Merrick M.J.
+     "In a class of its own--the RNA polymerase sigma factor sigma 54
+     (sigma N)."
+     Mol. Microbiol. 10:903-909(1993).
+     PubMed=7934866
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

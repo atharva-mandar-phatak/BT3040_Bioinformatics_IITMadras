@@ -1,0 +1,67 @@
+**********************************************************************
+* Mandelate racemase / muconate lactonizing enzyme family signatures *
+**********************************************************************
+
+Mandelate racemase   (EC 5.1.2.2)   (MR)  and   muconate  lactonizing   enzyme
+(EC 5.5.1.1)  (MLE)  are  two  bacterial  enzymes  involved  in  aromatic acid
+catabolism. They  catalyze  mechanistically  distinct  reactions  yet they are
+related at  the  level of their primary, quaternary (homooctamer) and tertiary
+structures [1,2].
+
+A number  of  other proteins also seem to be evolutionary related to these two
+enzymes. These are:
+
+ - The various plasmid-encoded chloromuconate cycloisomerases (EC 5.5.1.7).
+ - Escherichia  coli  protein  rspA  [3],  rspA  seems  to  be involved in the
+   degradation of homoserine lactone (HSL) or of one of its metabolite.
+ - Escherichia coli hypothetical protein ycjG.
+ - Escherichia coli hypothetical protein ydaW.
+ - Escherichia coli hypothetical protein yidU.
+ - A hypothetical protein from Streptomyces ambofaciens [4].
+
+We developed two signature patterns for these enzymes;  both contain conserved
+acidic residues.  The  second  pattern  contains  an aspartate and a glutamate
+which are  ligands  for  either a magnesium ion (in MR) or a manganese ion (in
+MLE).
+
+-Consensus pattern: [AT]-x-[SAGCN]-[SAGC]-[LIVM]-[DEQ]-x-A-[LA]-x-[DE]-[LIA]-
+                    x-[GA]-[KRQ]-x(4)-[PSA]-[LIV]-x(2)-L-[LIVMF]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVF]-x(2)-D-x-[NH]-x(7)-[ACL]-x(6)-[LIVMF]-x(7)-[LIVM]-
+                    E-[DENQ]-P
+                    [D and E bind a divalent metal ion]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Neidhart D.J., Kenyon G.L., Gerlt J.A., Petsko G.A.
+     "Mandelate racemase and muconate lactonizing enzyme are
+     mechanistically distinct and structurally homologous."
+     Nature 347:692-694(1990).
+     PubMed=2215699; DOI=10.1038/347692a0
+[ 2] Petsko G.A., Kenyon G.L., Gerlt J.A., Ringe D., Kozarich J.W.
+     "On the origin of enzymatic species."
+     Trends Biochem. Sci. 18:372-376(1993).
+     PubMed=8256284
+[ 3] Huisman G.W., Kolter R.
+     "Sensing starvation: a homoserine lactone--dependent signaling pathway
+     in Escherichia coli."
+     Science 265:537-539(1994).
+     PubMed=7545940
+[ 4] Schneider D., Aigle B., Leblond P., Simonet J.M., Decaris B.
+     "Analysis of genome instability in Streptomyces ambofaciens."
+     J. Gen. Microbiol. 139:2559-2567(1993).
+     PubMed=8277241
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

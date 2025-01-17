@@ -1,0 +1,37 @@
+ARGSUCLYASE
+The vertebrate lens is a transparent tissue containing high levels of
+soluble protein, packed with short-range order in precisely aligned,
+elongated cells [1]. In birds, the main lens proteins are the alpha-, 
+beta- and delta-crystallins. Mammalian lenses have a lower water
+content than their avian counterparts, and contain gamma- instead
+of delta-crystallins.
+
+Delta-crystallin evolved in a common ancestor of reptiles and birds, by
+the overexpression in the lens of argininosuccinate lyase, an enzyme 
+involved in arginine biosynthesis [2]. At this time, a gene duplication 
+took place, since when the lens gene has accumulated mutations in the 
+coding sequence, leading to changes in its enzymatic activity. The protein
+belongs to a superfamily of distantly-related metabolic enzymes, all of
+which are active as homotetramers: they include fumarase, aspartase, 
+adenylosuccinase and 3-carboxy-cis,cis-muconate lactonising enzyme. 
+
+The structure of delta-crystallin comprises mainly alpha-helical domains
+[1,3-5]. One domain is a bundle of 5 long helices, which forms a 20-helix
+bundle at the core of the tetramer. The structure reveals a putative
+active-site cleft, located on the boundary between 3 subunits of the
+tetramer.
+
+ARGSUCLYASE (formerly DCRYSTALLIN) is a 6-element fingerprint that provides
+a signature for the arginosuccinate lyases. The fingerprint was derived from
+an initial alignment of 29 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, motif 5 including the
+region encoded by PROSITE pattern FUMARATE_LYASES (PS00163). Two iterations
+on OWL25.1 were required to reach convergence, at which point a true set 
+comprising 18 sequences was identified. Fourteen partial matches were also
+found, all of which are members of the fumarate lyase superfamily that match 
+motifs 2, 4 and 5: these include class II fumarases, aspartases, 
+adenylosuccinases and 3-carboxy-cis,cis-muconate lactonising enzyme. 
+
+An update on SPTR55_38f identified a true set of 780 sequences, and
+numerous partial matches, all of which are members of the argininosuccinate
+lyase family that fail to make significant matches with 1 or more motifs.

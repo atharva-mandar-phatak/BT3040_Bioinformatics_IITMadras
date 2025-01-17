@@ -1,0 +1,64 @@
+***********************
+* PLAT domain profile *
+***********************
+
+The PLAT  domain  (after  polycystin-1,  lipoxygenase  and  alpha toxin) is an
+intracellular domain of ~150 residues. The PLAT domain can be found associated
+with other  domains  such  as  LRR,  PKD (see <PDOC50093>), C-type lectin (see
+<PDOC00537>), GPS  (see  <PDOC50221>),  lipase, lipoxygenase (see <PDOC00077>)
+prokaryotic zinc-dependent   phospholipase  C  (see  <PDOC00357>),  LCCL  (see
+<PDOC50820>) or  SRCR  (see  <PDOC00348>),  It has been proposed that the PLAT
+domain may be involved in protein-protein and protein-lipid interaction [1,2].
+
+The three-dimensional  structure  of  the  PLAT  domain  is  known for several
+proteins. The domain is a beta-sandwich composed of two sheets of four strands
+each (see  <PDB:1LOX>).  The  most highly conserved regions of the PLAT domain
+coincide with  the  beta-strands.  Most  of  the highly conserved residues are
+buried residues.  An  exception  to  this is a surface lysine or arginine that
+occurs on the surface of the fifth beta-strand of all eukaryotic PLAT domains.
+In pancreatic lipase, the lysine in this position forms a salt bridge with the
+procolipase protein.  The  conservation  of  a  charged  surface  residue  may
+indicate the  location  of  a  conserved  ligand-binding  site within the PLAT
+domain [1].
+
+Some proteins known to contain a PLAT domain are listed below:
+
+ - Animal  polycystin-1 (PKD1). It may be an ion-channel. In human, defects in
+   PKD1 are  the  cause of autosomal dominant polycystic kidney disease type I
+   (ADPKD) that  is  characterized by progressive formation and enlargement of
+   cysts in  both  kidneys,  typically  leading  to end-stage renal disease in
+   adult life. Cysts also occur in the liver and other organs.
+ - Eukaryotic lipoxygenase.
+ - Vertebrate lipoprotein lipase.
+ - Mammalian triacylglycerol lipase.
+ - Plasmodium falciparum PSLAP protein, a protein with multiple adhesive
+   motifs that is expressed in gametocytes [2].
+ - Plasmodium berghei multidomain scavenger receptor protein PbSR.
+ - Bacterial alpha toxin.
+
+The profile we developed covers the entire PLAT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2003 / First entry.
+
+[ 1] Bateman A., Sandford R.
+     "The PLAT domain: a new piece in the PKD1 puzzle."
+     Curr. Biol. 9:R588-R590(1999).
+     PubMed=10469604
+[ 2] Delrieu I., Waller C.C., Mota M.M., Grainger M., Langhorne J.,
+     Holder A.A.
+     "PSLAP, a protein with multiple adhesive motifs, is expressed in
+     Plasmodium falciparum gametocytes."
+     Mol. Biochem. Parasitol. 121:11-20(2002).
+     PubMed=11985859
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

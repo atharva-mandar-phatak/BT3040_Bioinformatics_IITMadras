@@ -1,0 +1,90 @@
+ANPEROXIDASE
+Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+the electron acceptor to catalyse a number of oxidative reactions.
+Most haem peroxidases follow the reaction scheme:
+
+Fe(3+) + H2O2            --> [Fe(4+)=O]R' (Compound I) + H2O
+[Fe(4+)=O]R' + substrate --> [Fe(4+)=O]R (Compound II) + oxidised substrate
+[Fe(4+)=O]R  + substrate -->  Fe(3+) + H2O + oxidised substrate
+
+In this mechanism, the enzyme reacts with one equivalent of H2O2 to give 
+[Fe(4+)=O]R' (compound I). This is a two-electron oxidation/reduction 
+reaction where H2O2 is reduced to water and the enzyme is oxidised. One 
+oxidising equivalent resides on iron, giving the oxyferryl [Fe(4+)=O] 
+intermediate, while in many peroxidases the porphyrin (R) is oxidised to 
+the porphyrin pi-cation radical (R'). Compound I then oxidises an organic 
+substrate to give a substrate radical [1].
+
+Peroxidases are found in bacteria, fungi, plants and animals. On the basis
+of sequence similarity, a number of animal haem peroxidases can be
+categorised as members of a superfamily: myeloperoxidase (MPO); eosinophil
+peroxidase (EPO); lactoperoxidase (LPO); thyroid peroxidase (TPO);
+prostaglandin H synthase (PGHS); and peroxidasin [2-4]. MPO plays a major
+role in the oxygen-dependent microbicidal system of neutrophils. It has
+also been found that certain drugs can be oxidised to reactive metabolites
+by the MPO of monocytes, which may play a role in the development of 
+idiosyncratic drug reactions [5]. EPO from eosinophilic granulocytes 
+participates in immunological reactions, and potentiates tumor necrosis 
+factor (TNF) production and hydrogen peroxide release by human monocyte-
+derived macrophages [6]. In the main, MPO (and possibly EPO) utilises Cl-
+ions and H2O2 to form hypochlorous acid (HOCl), which can effectively kill
+bacteria or parasites. In secreted fluids, LPO catalyses the oxidation of 
+thiocyanate ions (SCN-) by H2O2, producing the weak oxidising agent 
+hypothiocyanite (OSCN-), which has bacteriostatic activity [7]. TPO uses 
+I- ions and H2O2 to generate iodine, and plays a central role in the 
+biosynthesis of thyroid hormones T(3) and T(4). TPO contains 3 additional 
+C-terminal domains, which are similar to C4b-beta 2 glycoprotein, the 
+EGF-LDL receptor, and a transmembrane domain, respectively [8]. Peroxidasin
+is a fusion protein combining a peroxidase domain with 6 leucine-rich 
+regions, four Ig loops, a thrombospondin/procollagen homology and an 
+amphipathic alpha-helix [4]. PGHS is a membrane-bound enzyme catalysing 
+the first two steps in prostaglandin (PG), thromboxane and prostacyclin 
+biosynthesis: the first step involves oxygenation of polyunsaturated fatty 
+acids to hydroperoxy endoperoxides (cyclooxygenase activity); the second 
+step involves reduction of the hydroperoxy endoperoxides to hydroxy 
+endoperoxides (peroxidase activity). The peroxidase activity of PGHS also 
+oxidises xenobiotics to reactive derivatives [3].
+
+To date, the 3D structures of MPO and PGHS have been reported. MPO is a 
+homodimer: each monomer consists of a light (A or B) and a heavy (C or D) 
+chain resulting from post-translational excision of 6 residues from the 
+common precursor. Monomers are linked by a single inter-chain disulphide. 
+Each monomer includes a bound calcium ion [9]. PGHS exists as a symmetric 
+dimer, each monomer of which consists of 3 domains: an N-terminal epidermal
+growth factor (EGF) like module; a membrane-binding domain; and a large
+C-terminal catalytic domain containing the cyclooxygenase and the peroxidase 
+active sites. The catalytic domain shows striking structural similarity to 
+MPO. The cyclooxygenase active site, which catalyses the formation of 
+prostaglandin G2 (PGG2) from arachidonic acid, resides at the apex of a 
+long hydrophobic channel, extending from the membrane-binding domain to the
+centre of the molecule. The peroxidase active site, which catalyses the
+reduction of PGG2 to PGH2, is located on the other side of the molecule, at
+the haem binding site [10]. Both MPO and the catalytic domain of PGHS are 
+mainly alpha-helical, 19 helices being identified as topologically and
+spatially equivalent; PGHS contains 5 additional N-terminal helices that
+have no equivalent in MPO. In both proteins, three Asn residues in each
+monomer are glycosylated.
+
+ANPEROXIDASE is an 8-element fingerprint that provides a signature for
+animal haem peroxidases. The fingerprint was derived from an initial
+alignment of 8 sequences: motif 2 contains the invariant active site 
+("distal") His and a conserved Asp residue, which participates in Ca(2+)
+binding in MPO [9] (cf. PROSITE pattern PEROXIDASE_2 (PS00436)); motif 4 
+contains the invariant "distal" Arg (on the distal side of the haem, His 
+and Arg residues are likely to participate directly in the catalytic 
+mechanism, in a manner analogous to the distal His and Arg of the 
+non-homologous enzyme cytochrome c peroxidase); motif 6 contains the 
+invariant "proximal" His residue at position 9, which serves the axial 
+ligand of the haem iron (cf. PROSITE pattern PEROXIDASE_1 (PS00435)). Three
+iterations on OWL27.1 were required to reach convergence, at which point a 
+true set comprising 42 sequences was identified. Several partial matches 
+were also found: squid peroxidase-like proteins PN0667 and JN0867 failed to
+match motif 6; C.elegans sequence CEF49E125 lacks motifs 6 and 8; C.elegans
+sequence CET05B9 lacks motifs 2, 6 and 7; HUMTPOC is a TPO fragment lacking
+the portion of sequence bearing motif 1 and the three C-terminal motifs;
+PERL_HUMAN is an LPO fragment lacking the four N-terminal motifs; and S53511
+is a cuttlefish peroxidase fragment missing the two N-terminal and three
+C-terminal motifs.
+
+An update on SPTR37_9f identified a true set of 33 sequences, and 12
+partial matches.

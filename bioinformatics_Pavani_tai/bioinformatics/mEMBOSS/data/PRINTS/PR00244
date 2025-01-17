@@ -1,0 +1,49 @@
+NEUROKININR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide receptors are present in very small quantities in the cell
+and are embedded tightly in the plasma membrane. The neuropeptides exhibit
+a high degree of functional diversity through both regulation of peptide
+production and through peptide-receptor interaction [6]. The mammalian
+tachykinin system consists of 3 distinct peptides: substance P, substance
+K and neuromedin K. All possess a common spectrum of biological activities,
+including sensory transmission in the nervous system and contraction/
+relaxation of peripheral smooth muscles, and each interacts with a 
+specific receptor type.
+
+NEUROKININR is an 8-element fingerprint that provides a signature for the
+neurokinin receptors. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved sections within either
+loop or TM regions, focusing on those areas of the alignment that
+characterise the neurokinin receptors but distinguish them from the
+rest of the rhodopsin-like superfamily - motif 1 lies at the N-terminus
+leading into TM domain 1; motif 2 spans the C-terminus of TM domain 1 and
+part of the first cytoplasmic loop; motif 3 spans part of the first
+external loop leading into TM domain 3; motif 4 lies in the second
+cytoplasmic loop; motif 5 lies at the N-terminus of TM domain 5; motif 6
+spans the C-terminus of TM domain 5 leading into the third cytoplasmic
+loop; motif 7 spans part of the third external loop leading into TM domain
+7; and motif 8 lies at the C-terminus. Two iterations on OWL23.2 were
+required to reach convergence, at which point a true set comprising 16
+sequences was identified. Several partial matches were also found, all
+of which are neurokinin receptor fragments or close superfamily relatives.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 5
+partial matches.

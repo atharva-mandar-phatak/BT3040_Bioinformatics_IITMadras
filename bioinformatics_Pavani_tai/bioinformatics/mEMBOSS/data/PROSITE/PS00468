@@ -1,0 +1,52 @@
+***************************************************
+* Eukaryotic cobalamin-binding proteins signature *
+***************************************************
+
+In eukaryotes, a number of proteins  are involved in the binding and transport
+of cobalamin (vitamin B12) [1]. Some of them have been sequenced and have been
+shown [2,3] to be evolutionary related and are listed below:
+
+ - Intrinsic factor (IF).  The function of IF  is to promote the absorption of
+   cobalamin in the ileum by specific receptor-mediated endocytosis.
+ - Transcobalamin I (TC1)   (also called  R-binder  protein).  TC1  transports
+   cobalamin from blood to cells.
+ - Transcobalamin II (TC2). TC2 transports cobalamin from blood to cells.
+ - Haptocorrin (cobalophilin). Haptocorrin binds to cobalamin and to cobalamin
+   derivatives such as cobinamide.  It  may  play  a  role  in  preventing the
+   absorption of cobalamin analogues produced by bacteria.
+
+These glycoproteins are polypeptides of about 400  amino acids that share many
+regions of  similarity. As a signature pattern, we selected a highly conserved
+region in their central part.
+
+-Consensus pattern: [SN]-[VT]-D-T-[GAME]-A-[LIVM]-[AV]-x-[LM]-A-[LIVMF]-[ST]-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Seetharam B., Alpers D.H.
+     "Absorption and transport of cobalamin (vitamin B12)."
+     Annu. Rev. Nutr. 2:343-369(1982).
+     PubMed=6313022; DOI=10.1146/annurev.nu.02.070182.002015
+[ 2] Platica O., Janeczko R., Quadros E.V., Regec A., Romain R.,
+     Rothenberg S.P.
+     "The cDNA sequence and the deduced amino acid sequence of human
+     transcobalamin II show homology with rat intrinsic factor and human
+     transcobalamin I."
+     J. Biol. Chem. 266:7860-7863(1991).
+     PubMed=1708393
+[ 3] Li N., Seetharam S., Lindemans J., Alpers D.H., Arwert F., Seetharam B.
+     "Isolation and sequence analysis of variant forms of human
+     transcobalamin II."
+     Biochim. Biophys. Acta 1172:21-30(1993).
+     PubMed=8439564
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

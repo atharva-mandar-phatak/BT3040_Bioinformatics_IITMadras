@@ -1,0 +1,23 @@
+HOKGEFTOXIC
+The hok/gef family of Gram-negative bacterial proteins are toxic to cells
+when over-expressed, killing the cells from within by interfering with a
+vital function in the cell membrane [1]. Some family members (flm) increase
+the stability of unstable RNA [1], some (pnd) induce the degradation of
+stable RNA at higher than optimium growth temperatures [2], and others
+affect the release of cellular magnesium by membrane alterations [2]. The
+proteins are short (50-70 residues), consisting of an N-terminal hydro-
+phobic (possibly membrane spanning) domain, and a C-terminal periplasmic
+region, which contains the toxic domain. The C-terminal region contains a
+conserved cysteine residue that mediates homo-dimerisation in the gef
+protein, although dimerisation is not neccessary for the toxic effect [3].
+
+HOKGEFTOXIC is a 2-element fingerprint that provides a signature for the
+hok/gef family. The fingerprint was derived from an initial alignment of 6
+sequences: motif 1 includes the hydrophobic, putative transmembrane region;
+and motif 2 contains the periplasmic toxic region - together they span the
+region encoded by PROSITE pattern HOK_GEF (PS00556), which contains the
+conserved Cys residue involved in homo-dimerisation in the gef protein. Two
+iterations on OWL23.2 were required to reach convergence, at which point a
+true set comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 11 sequences.

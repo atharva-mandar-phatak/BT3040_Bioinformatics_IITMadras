@@ -1,0 +1,51 @@
+************************
+* SERTA domain profile *
+************************
+
+The SERTA  (for  SEI-1,  RBT-1,  and  TARA)  domain is a motif of ~47 residues
+corresponding to  the  largest conserved region among TRIP-Br (transcriptional
+regulator interacting  with  the  PHD-bromodomain) proteins, an evolutionarily
+conserved family  restricted  to higher eukaryotes. In proteins of the TRIP-Br
+family, the  SERTA  domain  is  found  in  association with a cyclin A-binding
+domain and  a PHD-bromo binding domain. The SERTA domain is also found in some
+other proteins with no conservation with TRIP-Br proteins outside of the SERTA
+motif. The   cyclin-dependent  kinase  CDK4-interacting  segment  of  TRIP-Br1
+includes most of the SERTA domain [1,2].
+
+Some proteins known to contain a SERTA domain are listed below:
+
+ - Mammalian cell division cycle associated protein 4 (CDCA4) or hematopoietic
+   progenitor protein   (HEPP),   a   protein   expressed   preferentially  in
+   hematopoietic progenitors and mature blood cells.
+ - Human  TRIP-Br1/p34SEI-1,  a  cyclin-dependent kinase regulator interacting
+   with PHD  (see <PDOC50016>) and bromodomains (see <PDOC00550>), two modules
+   widely found in chromosomal proteins.
+ - Mammalian  RBT1,  a  potent transcriptional coactivator that interacts with
+   the second subunit of replication protein A.
+ - Human Y127, an hypothetical 34-kD protein.
+ - Drosophila TARANIS, a trithorax group (trxG) protein that might participate
+   in a  cell  memory  process  coupling  chromatin  structure  to  cell cycle
+   progression.
+ - Drosophila CG2865.
+
+The profile we developed covers the entire SERTA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2005 / First entry.
+
+[ 1] Calgaro S., Boube M., Cribbs D.L., Bourbon H.-M.
+     "The Drosophila gene taranis encodes a novel trithorax group member
+     potentially linked to the cell cycle regulatory apparatus."
+     Genetics 160:547-560(2002).
+     PubMed=11861561
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

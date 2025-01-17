@@ -1,0 +1,58 @@
+CTRFAMILY
+G protein-coupled receptors (GPCRs) constitute a vast protein family that   
+encompasses a wide range of functions (including various autocrine, para-   
+crine and endocrine processes). They show considerable diversity at the   
+sequence level, on the basis of which they can be separated into distinct   
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,   
+but between which there is no statistically significant similarity in   
+sequence [1]. The currently known clan members include the rhodopsin-like   
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating   
+pheromone receptors, and the metabotropic glutamate receptor family.       
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid   
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-   
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+families: the secretin-like receptors thus bear their own unique '7TM'
+signature.      
+
+The major physiological role of calcitonin is to inhibit bone resorption
+thereby leading to a reduction in plasma Ca++ [6]. Further, it enhances 
+excretion of ions in the kidney, prevents absorption of ions in the 
+intestine, and inhibits secretion in endocrine cells (e.g. pancreas and
+pituitary). In the CNS, calcitonin has been reported to be analgesic
+and to suppress feeding and gastric acid secretion. It is used to treat
+Paget's disease of the bone. Calcitonin receptors are found predominantly
+on osteoclasts or on immortal cell lines derived from these cells. It is
+found in lower amounts in the brain (e.g. in hypothalamus and pituitary
+tissues) and in peripheral tissues (e.g. testes, kidney, liver and
+lymphocytes). It has also been described in lung and breast cancer cell
+lines. The predominant signalling pathway is activation of adenylyl cyclase
+through Gs, but calcitonin has also been described to have both stimulatory
+and inhibitory actions on the phosphoinositide pathway.
+
+Calcitonin gene-related peptide (CGRP) is a neuropeptide with diverse
+biological effects including potent vasodilator activity [8]. Messenger RNA
+for this receptor is predominantly expressed in the lung and heart, with
+specific localisation to lung alveolar cells and cardiac myocytes [8]. In 
+the rat lung, it is associated with blood vessels; the gene may therefore
+play an important role in the maintenance of vascular tone [9]. mRNA is also
+found in the cerebellum [10]. The ligand for this receptor-like protein 
+remains to be discovered. 
+
+CTRFAMILY is a 9-element fingerprint that provides a signature for the
+calcitonin receptor family. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that 
+characterise the calcitonin receptor family but distinguish it from the
+rest of the secretin-like GPCR superfamily - motifs 1-5 span the N-terminal
+putative extracellular domain, motif 5 leading into the first TM domain; 
+motif 6 spans the C-terminus of putative TM domain 4; motif 7 includes the
+N-terminus of TM domain 7; and motifs 8 and 9 reside at the C-terminus. Two
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 8 sequences was identified.

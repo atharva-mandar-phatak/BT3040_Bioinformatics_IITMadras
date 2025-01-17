@@ -1,0 +1,56 @@
+PHEHYDRXLASE
+Flavoprotein pyridine nucleotide cytochrome reductases [1] (FPNCR) catalyse
+the interchange of reducing equivalents between one-electron carriers and
+the two-electron-carrying nicotinamide dinucleotides. The enzymes include
+ferredoxin:NADP+ reductases (FNR); plant and fungal NAD(P)H:nitrate
+reductases; NADH:cytochrome b5 reductases; NADPH:P450 reductases;
+NADPH:sulfite reductases; nitric oxide synthases; phthalate dioxygenase 
+reductase; and various other flavoproteins.
+
+Dioxygen can be incorporated directly into organic compounds in reactions
+catalysed by enzymes termed oxygenases or hydroxylases: oxygenases that
+catalyse the incorporation of both atoms of dioxygen into substrates are
+known as dioxygenases; those that catalyse the incorporation of only one
+atom of dioxygen are termed monooxygenases, or mixed-function oxygenases.
+The second atom of dioxygen is reduced to H2O either by the substrates
+themselves or by a co-substrate reductant [2].
+
+Electron transfer components of a number of bacterial multi-component 
+aromatic-ring and alkyl-group oxygenases (including phenol hydroxylase [3],
+benzoate 1,2-dioxygenase [4], toluate 1,2-dioxygenase [5], xylene 
+monooxygenase [6] and methane monooxygenase [7]), belong to family of 
+[2Fe-2S] ferredoxin/FPNCR fusion proteins. Other members of the family are 
+Yersinia pseudotuberculosis CDP-6-deoxy-3,4-glucoseen reductase [8] and 
+S.typhimurium rfbI protein [9]. All contain a [2Fe-2S] ferredoxin domain
+fused to the N-terminus of an FPNCR domain. The direction of electron flow
+is from flavin to the [2Fe-2S] center. 
+
+PHEHYDRXLASE is a 6-element fingerprint that provides a signature for the
+phenol hydroxylase family. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn solely from the FPNCR
+domain - motifs 1-3 span the flavin-binding domain, and motifs 4-6 encode
+the NAD(H)-binding domain. Motifs 1, 2, 4, 5 and 6 correspond to FPNCR
+motifs 1, 2, 4, 5 and 8, respectively. Motif 2 appears to be involved in
+binding the isoalloxazine ring of FAD; motif 4 includes residues involved
+in binding the diphosphate group of the pyridine nucleotide; and motif 6
+contains a conserved Cys residue that may interact with NAD(H) and is
+necessary for efficient electron transfer [10]. Two iterations on OWL26.2
+were required to reach convergence, at which point a true set comprising 11
+sequences was identified. Several partial matches were also found:
+reductase components of Pseudomonas putida naphthalene dioxygenase (JN0640,
+JN0642) and polycyclic aromatic hydrocarbon dioxygenase (A55217) lack motif
+2; and Pseudomonas pickettii toluene-3-monooxygenase reductase (PPU04052)
+and Vibrio alginolyticus Na+-translocating NADH-quinone reductase 
+(VIBNQR363) lack motif 5. Surprisingly, the mmoC component of Methylosinus 
+trichosporium methane monooxygenase (C48360), which is functionally 
+identical to the mmoC protein of Methylococcus capsulatus (MEMC_METCA), 
+lacks motifs 5 and 6 (motif 6 is well conserved among most FPNCRs).
+Pseudomonas cepacia 2-halobenzoate 1,2-dioxygenase reductase (PCCBDABC3)
+lacks motifs 2 and 5; Pseudomonas mendocina toluene-4-monooxygenase
+component tmoF (A47016) and Pseudomonas pseudoalcaligenes phenoxybenzoate
+dioxygenase pobB (S44172) lack motifs 3 and 5. All these proteins are
+[2Fe-2S] ferredoxin/FPNCR fusion enzymes, except S44172, which has a
+[2Fe-2S] ferredoxin domain at its C-terminus. 
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 146
+partial matches.

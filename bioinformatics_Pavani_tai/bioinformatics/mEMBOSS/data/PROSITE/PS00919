@@ -1,0 +1,91 @@
+**********************************
+* Deoxyribonuclease I signatures *
+**********************************
+
+Deoxyribonuclease I (DNase I) (EC 3.1.21.1) [1] is  a  vertebrate enzyme which
+catalyzes the   endonucleolytic    cleavage  of  double-stranded  DNA  to  5'-
+phosphodinucleotide  and 5'-phosphooligonucleotide end-products. DNase I is an
+enzyme involved  in  DNA  degradation; it is normally secreted outside  of the
+cell but  seems to be able to gain access to the nucleus  where it is involved
+in cell death by apoptosis [2].
+
+As shown  in the following schematic representation, DNase I is a glycoprotein
+of about 260 residues with two conserved disulfide bonds.
+
+                              +-+               +--------+
+                              | |               |        |
+      xxxxxxxxxxxxxxxxx#xxxxxxCxCxxxxx#xxxxxxxxxCxxxxxxxxCxxxxxxxxxxxxx
+                                    ****     ****
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the patterns.
+
+DNase I has a pH-optimum  around  7.5  and requires  calcium and magnesium for
+full activity. It causes single strand nicks in duplex DNA. A proton acceptor-
+donor chain   composed   of  an  histidine  and  a  glutamic  acid  produce  a
+nucleophilic hydroxyl  ion  from  water,  which  cleaves  the 3'-P-O bond [3].
+DNase I  is  inhibited  by  actin  with  which  it  forms a stoechiometric 1:1
+complex [4].
+
+The sequence of DNase I is evolutionary related to that of:
+
+ - Human muscle-specific DNase-like protein (gene DNASE1L1 or DNL1L) [5].
+ - Human protein DHP1 (gene DNASE1L2) [6].
+ - Human protein DHP2 (gene DNASE1L3) [6].
+
+The first disulfide bond of DNase I is not conserved in the above proteins.
+
+-Consensus pattern: [LIVM](2)-[AP]-[LQ]-H-[STA]-[STAE]-P-x(5)-E-[LIVM]-[DN]-x-
+                    L-x-[DE]-V
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-D-F-N-A-x-C-[SAK]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Suck D., Oefner C.
+     "Structure of DNase I at 2.0 A resolution suggests a mechanism for
+     binding to and cutting DNA."
+     Nature 321:620-625(1986).
+     PubMed=3713845
+[ 2] Peitsch M.C., Polzar B., Stephan H., Crompton T., MacDonald H.R.,
+     Mannherz H.G., Tschopp J.
+     "Characterization of the endogenous deoxyribonuclease involved in
+     nuclear DNA degradation during apoptosis (programmed cell death)."
+     EMBO J. 12:371-377(1993).
+     PubMed=8428592
+[ 3] Suck D., Lahm A., Oefner C.
+     "Structure refined to 2A of a nicked DNA octanucleotide complex with
+     DNase I."
+     Nature 332:464-468(1988).
+     PubMed=3352748; DOI=10.1038/332464a0
+[ 4] Kabsch W., Mannherz H.G., Suck D., Pai E.F., Holmes K.C.
+     "Atomic structure of the actin:DNase I complex."
+     Nature 347:37-44(1990).
+     PubMed=2395459; DOI=10.1038/347037a0
+[ 5] Parrish J.E., Ciccodicola A., Wehhert M., Cox G.F., Chen E.,
+     Nelson D.L.
+     "A muscle-specific DNase I-like gene in human Xq28."
+     Hum. Mol. Genet. 4:1557-1564(1995).
+     PubMed=8541839
+[ 6] Rodriguez A.M., Rodin D., Nomura H., Morton C.C., Weremowicz S.,
+     Schneider M.C.
+     "Identification, localization, and expression of two novel human genes
+     similar to deoxyribonuclease I."
+     Genomics 42:507-513(1997).
+     PubMed=9205125
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

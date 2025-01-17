@@ -1,0 +1,41 @@
+*************************************
+* Dehydroquinase class II signature *
+*************************************
+
+3-dehydroquinate dehydratase  (EC  4.2.1.10), or dehydroquinase, catalyzes the
+conversion of  3-dehydroquinate  into 3-dehydroshikimate. It is the third step
+in the  shikimate  pathway  for  the biosynthesis of aromatic amino acids from
+chorismate. Two  classes  of dehydroquinases  exist,  known as types I and II.
+Class-II enzymes are homododecameric enzymes of about 17 Kd. They are found in
+some bacteria such as actinomycetales [1,2] and some fungi where they act in a
+catabolic pathway  that allows the use of quinic acid as a carbon source. As a
+signature pattern, we selected a conserved region in the N-terminal section.
+
+-Consensus pattern: [LIVM]-[NQHS]-G-P-N-[LVI]-x(2)-[LT]-G-x-R-[QED]-x(3)-[FY]-
+                    G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Garbe T., Servos S., Hawkins A., Dimitriadis G., Young D., Dougan G.,
+     Charles I.
+     "The Mycobacterium tuberculosis shikimate pathway genes: evolutionary
+     relationship between biosynthetic and catabolic 3-dehydroquinases."
+     Mol. Gen. Genet. 228:385-392(1991).
+     PubMed=1910148
+[ 2] Lalonde G., O'Hanley P.D., Stocker B.A.D., Denich K.T.
+     "Characterization of a 3-dehydroquinase gene from Actinobacillus
+     pleuropneumoniae with homology to the eukaryotic genes qa-2 and
+     QUTE."
+     Mol. Microbiol. 11:273-280(1994).
+     PubMed=8170389
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

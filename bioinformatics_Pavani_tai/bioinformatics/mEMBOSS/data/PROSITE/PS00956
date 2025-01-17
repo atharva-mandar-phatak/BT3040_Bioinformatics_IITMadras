@@ -1,0 +1,47 @@
+*********************************
+* Fungal hydrophobins signature *
+*********************************
+
+The surface  of  many  fungal  spores  is covered by a hydrophobic sheath, the
+rodlet layer whose main component is a protein known as the rodlet protein [1,
+2]. The  rodlet   proteins  of  Neurospora  crassa (gene  eas)  and Emericella
+nidulans (gene  rodA)  are  evolutionary related to proteins found in the cell
+wall of   fruiting   bodies   of   the  mushroom  Schizophyllum  commune  [3].
+Collectively, these    low-molecular-weight,    cysteine-rich   (8   conserved
+cysteines), hydrophobic proteins, are known as hydrophobins.
+
+As a  signature  pattern  we  selected  a conserved region that contains three
+cysteines and which is located in the C-terminal section.
+
+-Consensus pattern: [GN]-[DNQPSA]-x-C-[GSTANK]-[GSTADNQ]-[STNQI]-[PTIV]-x-C-C-
+                    [DENQKPST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Stringer M.A., Dean R.A., Sewall T.C., Timberlake W.E.
+     "Rodletless, a new Aspergillus developmental mutant induced by
+     directed gene inactivation."
+     Genes Dev. 5:1161-1171(1991).
+     PubMed=2065971
+[ 2] Lauter F.-R., Russo V.E.A., Yanofsky C.
+     "Developmental and light regulation of eas, the structural gene for
+     the rodlet protein of Neurospora."
+     Genes Dev. 6:2373-2381(1992).
+     PubMed=1459459
+[ 3] Schuren F.H.J., Wessels J.G.
+     "Two genes specifically expressed in fruiting dikaryons of
+     Schizophyllum commune: homologies with a gene not regulated by
+     mating-type genes."
+     Gene 90:199-205(1990).
+     PubMed=2401401
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,115 @@
+
+***********************************************
+* mRNA cap 0 methyltransferase domain profile *
+***********************************************
+
+Most  mRNAs  undergo a chemical modification called capping resulting in a cap
+at  the  5' end of the newly transcribed mRNA. The 5' cap 0 structure consists
+of  a  guanine  nucleotide  methylated  at  position 7 connected to the mRNA's
+initiating  nucleoside  via  an  inverted  5'-5'  triphosphate  linkage. After
+formation  of  the  5'  cap  0,  the  mRNA's first base usually goes through a
+methylation  on  the  2'-O  position  of  its ribose resulting in the 5' cap 1
+structure.  Further methylations can occur on the first and second nucleotides
+leading to the 5' cap 2 structure [1,2,3].
+
+The  5'  cap  structure  is  essential  as  it  protects  mRNA  by  preventing
+degradation by 5' exoribonucleases and it also promotes translation [1,2,3].
+
+Before capping, the precursor (pre-) mRNA has three phosphate groups linked to
+the 5'carbon of its first nucleoside. Capping (here: formation of the 5' cap 0
+structure only) calls for three consecutive reactions on the nascent pre-mRNA:
+1.  Removal  by  hydrolysis  of  the  pre-mRNA's  gamma-phosphate  by  RNA  5'
+triphosphatase (EC 3.1.3.33) [E1].
+2.   Addition   of   GMP   from   GTP   to  the  5'  diphosphate  RNA  by  RNA
+guanylyltransferase (EC 2.7.7.50) [E2].
+3.   Methylation   of   the  5'  GpppN  by  a  cap-specific  RNA  (guanine-N7)
+methyltransferase  (EC  2.1.1.56)  [E3].  The enzyme uses S-adenosylmethionine
+(AdoMet  or  SAM)  as  the  methyl  donor  and  leads  to the formation of the
+m7GpppRNA structure (the 5' cap) and S-adenosylhomocysteine (AdoHcy) [1,2,3].
+
+As  the  capping  apparatus,  formed  by the protein(s) carrying out the three
+capping  reactions, is specifically targeted to RNA polymerase II transcripts,
+capping concerns most eukaryotic cellular and viral eukaryotic mRNAs. Although
+the  capping  apparatus  is  functionally  conserved in eukaryotes, it differs
+between  organisms  regarding  subunit  organization.  In  yeast, there is one
+enzyme  per  each  catalytic  activity  while  in  metazoans  and  plants  the
+triphosphatase  and  the  guanylyltransferase are encoded by a single gene. In
+all eukaryotic organisms, the methyltransferase is encoded by a gene that only
+encodes this activity [1,2,3].
+
+The  3D  structure  of  the cap methyltransferase Ecm1 from the microsporidian
+parasite  Encephalitozoon cuniculi has been determined bound to AdoMet, AdoHcy
+and  the  cap  guanilate  methyl  acceptor  (see  <PDB:1RI1>).  It  is a small
+monomeric  enzyme  that  contains  virtually  nothing  more than the catalytic
+domain.  The  protein  contains  9  alpha  helices  and  11  beta  strands and
+altogether  displays a rossmanoidal fold characteristic of Class I SAM-binding
+methyltransferases (see <PDOC51555>).
+It   also   exhibits   structural   features   that   appear  unique  to  mRNA
+(guanine-N(7)-)-methyltransferases   (mRNA-Cap0-MTs   hereafter)   such  as  a
+N-terminal  region  comprising about 40 amino acids that are disordered in the
+crystals,  among  which  amino  acids  30  to  40,  not visible in the crystal
+structure, happen to be essential for Ecm1 activity [1].
+The  structure  of Ecm1 can be divided up into two segments in-between which a
+large  cleft  with  two  ligand  binding  pockets results. This cleft contains
+solvent  exposed amino acids that are conserved among other mRNA-Cap0-MTs. The
+second  segment  contains the elements associated with AdoMet binding in other
+Class  I  MTs  and  when AdoMet is bound to Ecm1, this segments forms a pocket
+that  AdoMet  expectedly  occupies.  When  co-crystallized  with Ecm1, the cap
+analog  m7GpppG  is  bound  in  a  pocket  adjacent to the one binding AdoMet.
+Catalysis  seems  not  to  be  operated through direct involvement of specific
+amino  acid  side chains, since no residue is observed to be in direct contact
+with  the  guanosine-N7  nucleophile, nor the the AdoMet methyl carbon nor the
+AdoHcy  sulfur leaving group. Instead, Ecm1 manifestly ease methyl transfer to
+the  cap  guanine-N7  by  coordinating the different players in an environment
+that optimizes substrate proximity and orientation [1].
+
+Several  eukaryotic  DNA  and  RNA  viruses  encode  some  or  all the capping
+enzymatic  activities,  often  on  a single polypeptide. As such, the vaccinia
+virus,  a  poxvirus  used  in  vaccination  against  smallpox, encodes for two
+polypeptides  responsible  for  mRNA  capping:  D1  and  D12.  D1  contains an
+N-terminal    domain    responsible    for    the   triphosphatase   and   the
+guanylyltransferase   activities   and  a  C-terminal  region  containing  the
+mRNA-Cap0-MT  domain.  In  order for the mRNA-Cap0-MT domain of D1 to be fully
+active, D1 needs to associate with D12, a stimulatory subunit [2].
+
+The  crystal  structure  of  the  mRNA-Cap0-MT domain of the vaccinia virus D1
+bound  to  AdoHcy  in  complex  with its stimulatory D12 subunit has also been
+described (see <PDB:2VDW>). All in all, the vaccinia mRNA-Cap0-MT domain shows
+a  conformation  that  is  quite  similar  to  the one of Ecm1, except for one
+difference:  the  N-terminal  extension of the vaccinia domain folds back over
+the  AdoHcy  binding  site,  burying  the  ligand;  this N-terminal section is
+involved catalytically as several amino acids in it bind AdoHcy [1,2].
+
+The profile we developed covers the entire mRNA-Cap0-MT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: Mars 2012 / First entry.
+
+[ 1] Fabrega C., Hausmann S., Shen V., Shuman S., Lima C.D.
+     "Structure and mechanism of mRNA cap (guanine-N7) methyltransferase."
+     Mol. Cell 13:77-89(2004).
+     PubMed=14731396
+[ 2] De la Pena M., Kyrieleis O.J., Cusack S.
+     "Structural insights into the mechanism and evolution of the vaccinia
+     virus mRNA cap N7 methyl-transferase."
+     EMBO J. 26:4913-4925(2007).
+     PubMed=17989694; DOI=10.1038/sj.emboj.7601912
+[ 3] Benarroch D., Smith P., Shuman S.
+     "Characterization of a trifunctional mimivirus mRNA capping enzyme and
+     crystal structure of the RNA triphosphatase domain."
+     Structure 16:501-512(2008).
+     PubMed=18400173; DOI=10.1016/j.str.2008.01.009
+[E1] http://enzyme.expasy.org/EC/2.1.3.33
+[E2] http://enzyme.expasy.org/EC/2.7.7.50
+[E3] http://enzyme.expasy.org/EC/2.1.1.56
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

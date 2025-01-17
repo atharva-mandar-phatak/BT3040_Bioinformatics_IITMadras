@@ -1,0 +1,105 @@
+********************************************************
+* Ras GTPase-activating proteins signature and profile *
+********************************************************
+
+Ras proteins are membrane-associated molecular switches that  bind GTP and GDP
+and slowly hydrolyze GTP to GDP [1].  This intrinsic GTPase activity of ras is
+stimulated by a family of proteins  collectively  known  as  'GAP'  or GTPase-
+activating proteins [2,3]. As it is the GTP bound form of ras which is active,
+these proteins    are  said  to  be  down-regulators of ras. Proteins known to
+possess such activity are listed below:
+
+ - Mammalian GAP (p120GAP). GAP can down-regulate wild-type ras, but  fails to
+   do so with oncogenic, mutated ras.
+ - IRA1 and IRA2, the functional equivalents of  GAP in yeast.  They  regulate
+   the RAS-cyclic AMP pathway, controlling cell growth.
+ - sar1, the fission yeast protein that regulates ras1 in that organism.
+ - BUD2/CLA2,  a yeast protein that activates BUD1/RSR1 and which participates
+   in the regulation of bud-site selection [4].
+ - Neurofibromin  (gene  NF1)  [5].  In  Man,  NF1  is  associated with type 1
+   neurofibromatosis, one  of the  most  frequently inherited genetic diseases
+   characterized, in  part,  by multiple neural tumors.  NF1  has  been  shown
+   genetically and biochemically  to  interact with  and  stimulate the GTPase
+   activity of h-ras.
+ - Drosophila  Gap1  [6],  which acts as a negative regulator of signalling by
+   the Sevenless receptor tyrosine kinase involved in eye development.
+ - Mammalian Gap1m [7], which is related to the drosophila Gap1 protein.
+ - Human  IQGAP1  [8],  a  sar1-related  protein  that  also contains putative
+   calmodulin binding sites.
+
+All the above proteins are quite large  (from  765  residues  for sar1 to 3079
+residues for IRA2)  but  share  only  a limited (about 250 residues) region of
+sequence similarity,  referred  to as the 'catalytic domain' or rasGAP domain.
+The most conserved region within this domain contains a 15 residue motif which
+seems to  be  characteristic  of this family of proteins [2]. A more sensitive
+detection of the rasGAP domain is available through the use of a profile which
+spans the whole conserved region.
+
+-Consensus pattern: [GSNA]-x-[LIVMF]-[FYCI]-[LIVMFY]-R-[LIVMFY](2)-[GACNS]-
+                    [PAV]-[AV]-[LIV]-[LIVM]-[SGANT]-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 22.
+
+-Note: There are distinctly different GAPs for the rap and rho/rac subfamilies
+ of ras-like proteins (reviewed in reference [9]) that  do  not share sequence
+ similarity with ras GAPs.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bourne H.R., Sanders D.A., McCormick F.
+     "The GTPase superfamily: conserved structure and molecular
+     mechanism."
+     Nature 349:117-127(1991).
+     PubMed=1898771; DOI=10.1038/349117a0
+[ 2] Wang Y., Boguski M.S., Riggs M., Rodgers L., Wigler M.
+     "sar1, a gene from Schizosaccharomyces pombe encoding a protein that
+     regulates ras1."
+     Cell Regul. 2:453-465(1991).
+     PubMed=1883874
+[ 3] Maruta H., Burgess A.W.
+     "Regulation of the Ras signalling network."
+     BioEssays 16:489-496(1994).
+     PubMed=7945277
+[ 4] Park H.O., Chant J., Herskowitz I.
+     "BUD2 encodes a GTPase-activating protein for Bud1/Rsr1 necessary for
+     proper bud-site selection in yeast."
+     Nature 365:269-274(1993).
+     PubMed=8371782; DOI=10.1038/365269a0
+[ 5] Downward J.
+     "Plugging the GAPs."
+     Curr. Biol. 1:353-355(1991).
+     PubMed=15336077
+[ 6] Gaul U., Mardon G., Rubin G.M.
+     "A putative Ras GTPase activating protein acts as a negative regulator
+     of signaling by the Sevenless receptor tyrosine kinase."
+     Cell 68:1007-1019(1992).
+     PubMed=1547500
+[ 7] Maekawa M., Li S., Iwamatsu A., Morishita T., Yokota K., Imai Y.,
+     Kohsaka S., Nakamura S., Hattori S.
+     "A novel mammalian Ras GTPase-activating protein which has
+     phospholipid-binding and Btk homology regions."
+     Mol. Cell. Biol. 14:6879-6885(1994).
+     PubMed=7935405
+[ 8] Weissbach L., Settleman J., Kalady M.F., Snijders A.J., Murthy A.E.,
+     Yan Y.X., Bernards A.
+     "Identification of a human rasGAP-related protein containing
+     calmodulin-binding motifs."
+     J. Biol. Chem. 269:20517-20521(1994).
+     PubMed=8051149
+[ 9] Boguski M.S., McCormick F.
+     "Proteins regulating Ras and its relatives."
+     Nature 366:643-654(1993).
+     PubMed=8259209
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

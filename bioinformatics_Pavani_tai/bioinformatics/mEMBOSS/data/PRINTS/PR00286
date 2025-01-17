@@ -1,0 +1,24 @@
+CHARYBDTOXIN
+Charybdotoxin is a protein present in scorpion venom [1]. The protein
+consists of a single polypeptide chain and is a potent, selective
+inhibitor of calcium-activated potassium channels in pituitary and
+aortic smooth muscle cells - the toxin reversibly blocks channel
+activity by interacting at the external pore of the channel protein.
+
+The primary structure of the toxin is similar to a number of neurotoxins
+of diverse origin, including kaliotoxin [2], noxiustoxin [3] and 
+iberiotoxin [4,5]: this suggests that the toxin belongs to a superfamily
+of proteins that modify ion-channel activities. The tertiary structure
+of the toxins comprises a 3-stranded beta-sheet and a short helix, and
+is stabilised by a number of disulphide bridges [5].
+
+CHARYBDTOXIN is a 2-element fingerprint that provides a signature for the
+charybdotoxins and related peptides. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs each encode 3 conserved Cys
+residues from the N- and C-terminal portions of the alignment, which are
+involved in disulphide bond formation in the folded structure. Two
+iterations on OWL23.1 were required to reach convergence, at which point
+a true set comprising 8 sequences was identified (no match was made with
+the fragment SCK2_TITSE, which lacks most of motif 2).  
+
+An update on SPTR37_9f identified a true set of 18 sequences.

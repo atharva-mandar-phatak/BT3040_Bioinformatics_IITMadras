@@ -1,0 +1,48 @@
+*********************************************************
+* Squash family of serine protease inhibitors signature *
+*********************************************************
+
+The squash family of serine  protease  inhibitor  [1]  is  one of the numerous
+families of serine   proteinase inhibitors.   The proteins   belonging to this
+family  are found in  the  seeds of  cucurbitaceae  plants  (cucumber, squash,
+bitter gourd, etc.).    The basic  structure of  such  a type of inhibitor  is
+shown in the following schematic representation:
+
+                          +----------------+
+                          |                |
+                          *****************|**
+                        xxCx#xxxxCxxxxxCxxxCxCxxxxxCx
+                                 |     |     |     |
+                                 |     +-----|-----+
+                                 +-----------+
+
+                        <--------30 residues-------->
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the pattern.
+
+The pattern  we have used  to detect  this  family of proteins spans the major
+part  of  the  sequence  and  includes five  of  the six cysteines involved in
+disulfide bonds.
+
+-Consensus pattern: C-P-x(5)-C-x(2)-[DN]-x-D-C-x(3)-C-x-C
+                    [The 5 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Otlewski J.
+     "The squash inhibitor family of serine proteinases."
+     Biol. Chem. Hoppe-Seyler 371:23-28(1990).
+     PubMed=2205236
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

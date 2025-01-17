@@ -1,0 +1,97 @@
+********************************
+* Chaperonins TCP-1 signatures *
+********************************
+
+The TCP-1 protein [1,2] (Tailless Complex Polypeptide 1)  was first identified
+in mice  where  it  is especially  abundant  in testis but present in all cell
+types. It has  since  been  found  and  characterized  in many other mammalian
+species, in Drosophila and in yeast.  TCP-1  is  a highly conserved protein of
+about 60  Kd  (556  to 560 residues) which participates in a hetero-oligomeric
+900 Kd  double-torus shaped particle [3] with 6 to 8 other different subunits.
+These subunits,  the  chaperonin  containing  TCP-1 (CCT) subunit beta, gamma,
+delta, epsilon,  zeta  and eta are evolutionary related to TCP-1 itself [4,5].
+The CCT  is  known  to  act  as  a  molecular chaperone for tubulin, actin and
+probably some other proteins.
+
+The CCT subunits are highly related to archebacterial counterparts:
+
+ - TF55 and TF56 [6], a molecular chaperone from Sulfolobus shibatae. TF55 has
+   ATPase activity,  is  known  to  bind  unfolded  polypeptides  and  forms a
+   oligomeric complex of two stacked nine-membered rings.
+ - Thermosome  [7],  from Thermoplasma acidophilum. The thermosome is composed
+   of two  subunits  (alpha  and  beta)  and also seems to be a chaperone with
+   ATPase activity. It forms an oligomeric complex of eight-membered rings.
+
+The TCP-1 family of proteins are weakly, but significantly [8], related to the
+cpn60/groEL chaperonin family (see <PDOC00268>).
+
+As signature patterns of this family of chaperonins,  we chose three conserved
+regions located in the N-terminal domain.
+
+-Consensus pattern: [RKEL]-[ST]-x-[LMFY]-G-P-x-[GSA]-x-x-K-[LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 3 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-[TS]-[NK]-[DN]-[GA]-[AVNHK]-[TAVC]-[LIVM](2)-x(2)-
+                    [LIVMA]-x-[LIVM]-x-[SNH]-[PQHA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: Q-[DEK]-x-x-[LIVMGTA]-[GA]-D-G-T
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Expert(s) to contact by email:
+           Willison K.R.; willison@icr.ac.uk
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ellis J.
+     "Protein folding. Cytosolic chaperonin confirmed."
+     Nature 358:191-191(1992).
+     PubMed=1352857; DOI=10.1038/358191a0
+[ 2] Nelson R.J., Craig E.A.
+     "TCP1 - molecular chaperonin of the cytoplasm?"
+     Curr. Biol. 2:487-489(1992).
+     PubMed=15335898
+[ 3] Lewis V.A., Hynes G.M., Zheng D., Saibil H., Willison K.R.
+     "T-complex polypeptide-1 is a subunit of a heteromeric particle in the
+     eukaryotic cytosol."
+     Nature 358:249-252(1992).
+     PubMed=1630492; DOI=10.1038/358249a0
+[ 4] Kubota H., Hynes G., Carne A., Ashworth A., Willison K.R.
+     "Identification of six Tcp-1-related genes encoding divergent subunits
+     of the TCP-1-containing chaperonin."
+     Curr. Biol. 4:89-99(1994).
+     PubMed=7953530
+[ 5] Kim S., Willison K.R., Horwich A.L.
+     "Cystosolic chaperonin subunits have a conserved ATPase domain but
+     diverged polypeptide-binding domains."
+     Trends Biochem. Sci. 19:543-548(1994).
+     PubMed=7846767
+[ 6] Trent J.D., Nimmesgern E., Wall J.S., Hartl F.U., Horwich A.L.
+     "A molecular chaperone from a thermophilic archaebacterium is related
+     to the eukaryotic protein t-complex polypeptide-1."
+     Nature 354:490-493(1991).
+     PubMed=1836250; DOI=10.1038/354490a0
+[ 7] Waldmann T., Lupas A., Kellermann J., Peters J., Baumeister W.
+     "Primary structure of the thermosome from Thermoplasma acidophilum."
+     Biol. Chem. Hoppe-Seyler 376:119-126(1995).
+     PubMed=7794526
+[ 8] Hemmingsen S.M.
+     "What is a chaperonin?"
+     Nature 357:650-650(1992).
+     PubMed=1352040; DOI=10.1038/357650b0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

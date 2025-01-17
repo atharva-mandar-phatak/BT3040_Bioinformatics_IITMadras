@@ -1,0 +1,39 @@
+***********************************
+* Ribosomal protein L15 signature *
+***********************************
+
+Ribosomal protein L15 is one of the proteins from the large ribosomal subunit.
+In Escherichia coli, L15 is known to bind the 23S rRNA. It belongs to a family
+of ribosomal  proteins  which,  on  the  basis  of  sequence similarities [1],
+groups:
+
+ - Eubacterial L15.
+ - Plant chloroplast L15 (nuclear-encoded).
+ - Archaebacterial L15.
+ - Vertebrate L27a.
+ - Tetrahymena thermophila L29.
+ - Fungi L27a (L29, CRP-1, CYH2).
+
+L15 is a protein of 144 to 154 amino-acid residues. As a signature pattern, we
+selected a conserved region in the C-terminal section of these proteins.
+
+-Consensus pattern: [KR]-[LIVM](2)-[GASL]-x-[GT]-x-[LIVMA]-x(2,5)-[LIVMF]-x-
+                    [LIVMF]-x(3,4)-[LIVMFCA]-[ST]-x(2)-A-x(3)-[LIVM]-x(3)-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Chlamydia trachomatis, H.pylori and Mycoplasma genitalium L15.
+-Other sequence(s) detected in Swiss-Prot: archebacterial  ribosomal  proteins
+ from the L18e family.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

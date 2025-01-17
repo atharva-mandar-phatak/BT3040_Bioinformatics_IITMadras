@@ -1,0 +1,31 @@
+HIGHMOBLTY12
+High mobility group (HMG, or HMG-T in fish) proteins constitute a family of 
+relatively low molecular weight non-histone components in chromatin. HMG1
+and HMG2 are highly similar, and preferentially bind single-stranded DNA 
+and unwind double-stranded DNA [1]. They are generally basic proteins of
+~200 residues, but contain a highly acidic C-terminal tail of 20-30 aspartic
+and glutamic acid residues.
+
+The 3D structure of part of the sequence (57-136), termed box 2, has been
+determined using 3D NMR [2]. The protein exhibits an unusual all-alpha fold,
+which forms a V-shaped arrow-head, with helices along two edges and one
+rather flat face [2]. Such an architecture is not shown by any of the 
+currently known DNA-binding motifs. The majority of conserved residues 
+in the HMG box family are those involved in maintaining the 3D fold. 
+
+HIGHMOBLTY12 is a 5-element fingerprint that provides a signature for
+high-mobility group proteins. The fingerprint was derived from an initial
+alignment of 11 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, but avoiding the acidic 
+C-terminal tail, motifs 1 and 2 lying in the C-terminal portion of HMG 
+box 1, and motifs 3-5 spanning box 2 - motif 1 includes the region encoded
+by PROSITE pattern HMG1_2 (PS00353); motif 3 spans the C-terminus of helix 1,
+leading into the N-terminus of helix 2; motif 4 spans the C-terminus of 
+helix 2 and the N-terminus of helix 3; and motif 5 encodes the rest of helix
+3. Two iterations on OWL30.2 were required to reach convergence, at which
+point a true set comprising 30 sequences was identified. Several partial
+matches were also found, all of which are fragments and/or related proteins
+that fail to match one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 27 sequences, and 1
+partial match.

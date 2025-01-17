@@ -1,0 +1,31 @@
+RSOLVASERUVC
+The Escherichia coli ruvC gene is involved in DNA repair and in the late
+step of RecE and RecF pathway recombination [1]. RuvC protein cleaves
+cruciform junctions, which are formed by the extrusion of inverted repeat
+sequences from a super-coiled plasmid and which are structurally analogous
+to Holliday junctions, by introducing nicks into strands with the same
+polarity. The nicked ends are ligated by E.coli or T4 DNA ligases. Analysis
+of the cleavage sites suggests that DNA topology rather than a particular
+sequence determines the cleavage site. RuvC protein also cleaves Holliday
+junctions that are formed between gapped circular and linear duplex DNA by
+the function of RecA protein. The active form of RuvC protein is a dimer. 
+This is mechanistically suited for an endonuclease involved in swapping DNA
+strands at the crossover junctions. It is inferred that RuvC protein is an
+endonuclease that resolves Holliday structures in vivo [1]. 
+
+The structure of E.coli ruvC is a 3-layer alpha-beta sandwich containing
+a 5-stranded beta-sheet sandwiched between 5 alpha-helices [2].
+
+RSOLVASERUVC is a 5-element fingerprint that provides a signature for 
+crossover junction endodeoxyribonuclease ruvC. The fingerprint was derived
+from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length - motif 1 spans the
+first 2 strands; motif 2 encompasses strand 4 and the following loop; 
+motif 3 includes part of helix 2; motif 4 spans helices 3 and 4; and 
+motif 5 encompasses helix 5. A single iteration on OWL29.2 was required
+to reach convergence, no further sequences being identified beyond the
+starting set. A single partial match was found, SYCSLLLH82, a Synechocystis
+homologue that matches motifs 1 and 4.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 3
+partial matches.

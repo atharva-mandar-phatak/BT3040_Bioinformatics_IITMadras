@@ -1,0 +1,23 @@
+HYDRGNUPTAKE
+The hydrogenase-specific gene (hup and hyp) products of R.capsulatus show
+[1] a high degree of similarity to hydrogenase gene products from E.coli 
+(hyaD) [2], R.leguminosarum (hupD) [3], A.vinlandii (hoxM) [4] and
+A.eutrophus (hoxM) [5], which together are designated the hupD/hyaD family.
+The hup and hox gene products are absolutely required for hydrogenase
+activity, hoxM mediating the attachment of hydrogenase to the bacterial
+membrane, which is essential for enzymatic activity. The function of hyaD
+is unknown, but with hyaE could form a complex involved in processing of
+the hydrogenase 1 structural operon. 
+
+HYDRGNUPTAKE is a 5-element fingerprint that provides a signature for the
+hupD/hyaD family. The fingerprint was derived from an initial alignment of
+6 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length. Two iterations on OWL26.3 were required to reach
+convergence, at which point a true set comprising 14 sequences was
+identified. Two partial matches were also found, both of which are
+hypothetical proteins: S24796 fails to make a significant match with 
+motif 3, and PQ0128 is a fragment lacking the portion of sequence bearing
+the final 3 motifs.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 2
+partial matches.

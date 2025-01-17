@@ -1,0 +1,38 @@
+PHPHTRNFRASE
+The phosphoenolpyruvate phosphotransferase (PEP-PTS) system of bacteria 
+facilitates the utilisation of a number of small molecules via a complex 
+two-component sensing and regulatory phosphate transfer system [1]. The 
+system transports these moieties through the cell membrane and tightly 
+couples transport with phosphoryl transfer from the PEP to the molecule
+via several phosphoprotein intermediates [1]. Sugars are usually the 
+molecules transferred, although translocation of proteins and nitrogen has
+also been implicated [1]. 
+
+The first step in the process is catalysed by PTS Enzyme 1, a protein with 
+two functional domains [2]. Enzyme 1 dimerisation is required in order for  
+autophosphorylation by PEP in the presence of MgCl2. While the N-terminal 
+domain of Enzyme 1 matches the nitrogen-sensitive domain of some plant 
+pathogens, the C-terminal domain is similar to other Enzyme 1 and phosphate
+dikinase genes from some Archaea microbes [2]. Research suggests that the
+protein serves a sensory function, joining carbon and nitrogen metabolism 
+together in prokaryotic cells [2].
+
+More recently, an in vitro/vivo study has demonstrated that the Legionella 
+pneumophila Enzyme 1 ortholog (termed PtsP) is essential for its virulence 
+[3]. Mutational studies conferred an avirulent state on pathogenic strains,
+and comparison of the full PtsP ORF to P.aeruginosa Enzyme 1 confirmed that 
+the protein was required for successful host infection [3]. The structure of
+the N-terminal domain of Escherichia coli PEP-PTS Enzyme 1 has been resolved
+to 2.5A using X-ray crystallography [4]. It contains two distinct subdomains,
+one of which contains four alpha-helices, the other consisting of a beta-
+sandwich. This domain is topologically similar to the pyruvate phosphate
+dikinase enzyme of several other pathogenic bacteria [4].
+
+PHPHTRNFRASE is a 4-element fingerprint that provides a signature for the
+phosphoenolpyruvate-protein phosphotransferase family. The fingerprint was
+derived from an initial alignment of 9 sequences: the motifs were drawn 
+from conserved regions spanning the C-terminal portion of the alignment.
+Three iterations on SPTR40_20f were required to reach convergence, at which
+point a true set comprising 72 sequences was identified. Numerous partial 
+matches were also found, all of which are bacterial PTS system proteins that
+fail to match one or more motifs.

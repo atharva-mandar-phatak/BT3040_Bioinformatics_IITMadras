@@ -1,0 +1,112 @@
+***********************
+* CRIB domain profile *
+***********************
+
+Many putative  downstream effectors of the small GTPases Cdc42 and Rac contain
+a GTPase binding domain (GBD), also called p21 binding domain (PBD), which has
+been shown  to  specifically  bind  the GTP bound form of Cdc42 or Rac, with a
+preference for  Cdc42  [1,2].  The most conserved region of GBD/PBD domains is
+the N-terminal  Cdc42/Rac  interactive binding motif (CRIB), which consists of
+about 16  amino acids with the consensus sequence I-S-x-P-x(2,4)-F-x-H-x(2)-H-
+V-G [3].  Although  the  CRIB  motif is necessary for the binding to Cdc42 and
+Rac, it  is  not  sufficient  to give high-affinity binding [4,5]. A less well
+conserved inhibitory  switch  (IS)  domain  responsible  for  maintaining  the
+proteins in  a basal (autoinhibited) state is located C-terminaly of the CRIB-
+motif [6,7,8].
+
+GBD domains  can  adopt  related  but  distinct  folds  depending  on context.
+Although GBD  domains  are  largely  unstructured  in  the  free state, the IS
+domain forms   an   N-terminal  beta  hairpin  that  immediately  follows  the
+conserved CRIB  motif  and  a  central  bundle  of  three alpha helices in the
+autoinhibited state.  The interaction between GBD domains and their respective
+G proteins  leads  to  the  formation  of  a  high-affinity  complex  in which
+unstructured regions  of  both  the  effector  and the G protein become rigid.
+CRIB motifs  from various GBD domains interact with Cdc42 in a similar manner,
+forming an  intermolecular beta-sheet with strand beta-2 of Cdc42. Outside the
+CRIB motif,  the  C-termini  of the various GBD domains are very divergent and
+show variation  in  their  mode  of  binding to Cdc42, perhaps determining the
+specificity of  the  interaction.  Binding  of  Cdc42 or Rac to the GBD domain
+causes a  dramatic  conformational change, refolding part of the IS domain and
+unfolding the rest [4,6,7,8,9,10].
+
+Some proteins known to contain a CRIB domain are listed below:
+
+ - Mammalian  activated  Cdc42-associated kinases (ACKs), nonreceptor tyrosine
+   kinases implicated in integrin-coupled pathways.
+ - Mammalian  p21-activated  kinases  (PAK1 to PAK4), serine/threonine kinases
+   that modulate cytoskeletal assembly and activate MAP-kinase pathways.
+ - Mammalian  Wiskott-Aldrich  Symdrom  Proteins  (WASPs), non-kinase proteins
+   involved in the organization of the actin cytoskeleton.
+ - Yeast  STE20  and CLA4, the homologues of mammalian PAKs. STE20 is involved
+   in the mating/pheromone MAP kinase cascade.
+
+The profile we developed covers the entire CRIB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2002 / Profile changed.
+
+[ 1] Manser E., Leung T., Salihuddin H., Zhao Z.-S., Lim L.
+     "A brain serine/threonine protein kinase activated by Cdc42 and
+     Rac1."
+     Nature 367:40-46(1994).
+     PubMed=8107774; DOI=10.1038/367040a0
+[ 2] Symons M., Derry J.M.J., Karlak B., Jiang S., Lemahieu V., Mccormick F.,
+     Francke U., Abo A.
+     "Wiskott-Aldrich syndrome protein, a novel effector for the GTPase
+     CDC42Hs, is implicated in actin polymerization."
+     Cell 84:723-734(1996).
+     PubMed=8625410
+[ 3] Burbelo P.D., Drechsel D., Hall A.
+     "A conserved binding motif defines numerous candidate target proteins
+     for both Cdc42 and Rac GTPases."
+     J. Biol. Chem. 270:29071-29074(1995).
+     PubMed=7493928
+[ 4] Rudolph M.G., Bayer P., Abo A., Kuhlmann J., Vetter I.R.,
+     Wittinghofer A.
+     "The Cdc42/Rac interactive binding region motif of the Wiskott Aldrich
+     syndrome protein (WASP) is necessary but not sufficient for tight
+     binding to Cdc42 and structure formation."
+     J. Biol. Chem. 273:18067-18076(1998).
+     PubMed=9660763
+[ 5] Thompson G., Owen D., Chalk P.A., Lowe P.N.
+     "Delineation of the Cdc42/Rac-binding domain of p21-activated
+     kinase."
+     Biochemistry 37:7885-7891(1998).
+     PubMed=9601050; DOI=10.1021/bi980140+
+[ 6] Kim A.S., Kakalis L.T., Abdul-Manan N., Liu G.A., Rosen M.K.
+     "Autoinhibition and activation mechanisms of the Wiskott-Aldrich
+     syndrome protein."
+     Nature 404:151-158(2000).
+     PubMed=10724160; DOI=10.1038/35004513
+[ 7] Lei M., Lu W., Meng W., Parrini M.-C., Eck M.J., Mayer B.J.,
+     Harrison S.C.
+     "Structure of PAK1 in an autoinhibited conformation reveals a
+     multistage activation switch."
+     Cell 102:387-397(2000).
+     PubMed=10975528
+[ 8] Hoffman G.R., Cerione R.A.
+     "Flipping the switch: the structural basis for signaling through the
+     CRIB motif."
+     Cell 102:403-406(2000).
+     PubMed=10966102
+[ 9] Mott H.R., Owen D., Nietlispach D., Lowe P.N., Manser E., Lim L.,
+     Laue E.D.
+     "Structure of the small G protein Cdc42 bound to the GTPase-binding
+     domain of ACK."
+     Nature 399:384-388(1999).
+     PubMed=10360579; DOI=10.1038/20732
+[10] Morreale A., Venkatesan M., Mott H.R., Owen D., Nietlispach D.,
+     Lowe P.N., Laue E.D.
+     Nat. Struct. Biol. 7:384-388(2000).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

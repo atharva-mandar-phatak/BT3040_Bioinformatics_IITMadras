@@ -1,0 +1,50 @@
+****************************************************
+* Yeast PIR proteins repeats signature and profile *
+****************************************************
+
+A number of yeast cell wall glycoproteins are characterized by the presence of
+tandem repeats of a region of 18 to 19 residues [1,2,3]. These proteins are:
+
+ - CCW7 (9 repeats).
+ - CCW11 (1 repeat).
+ - CWP2 or LPR1.
+ - PIR1 or CCW6 (8 repeats).
+ - PIR2 or HSP150 (11 repeats).
+ - PIR3 or CCW8 (10 repeats).
+ - TIR1 or SRP1 (1 repeat) (see <PDOC00596>).
+ - TIR2 or SRP2 (1 repeat) (see <PDOC00596>).
+ - Hypothetical protein YHR126c (1 repeat).
+ - Hypothetical protein YJL160c (4 repeats).
+
+The core  region  of  the  repeat  is  highly  conserved and is used here as a
+signature pattern. We also developed a profile that spans the complete repeat.
+
+-Consensus pattern: S-Q-[IV]-[STGNH]-D-G-Q-[LIV]-Q-[AIV]-[STA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Text revised; profile added.
+
+[ 1] Toh-E A., Yasunaga S., Nisogi H., Tanaka K., Oguchi T., Matsui Y.
+     Yeast 9:481-494(1993).
+[ 2] Bairoch A.
+     Unpublished observations (1994).
+[ 3] Mrsa V., Seidl T., Gentzsch M., Tanner W.
+     "Specific labelling of cell wall proteins by biotinylation.
+     Identification of four covalently linked O-mannosylated proteins of
+     Saccharomyces cerevisiae."
+     Yeast 13:1145-1154(1997).
+     PubMed=9301021; DOI=10.1002/(SICI)1097-0061(19970930)13:12<1145::AID-YEA163>3.0.CO;2-Y
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

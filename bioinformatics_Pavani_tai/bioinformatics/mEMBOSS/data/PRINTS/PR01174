@@ -1,0 +1,72 @@
+RETINOLBNDNG
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration, and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Serum Retinol Binding Protein (RBP) [5] is virtually the sole retinol
+transporter in plasma, binding a single all-trans-retinol molecule as its
+physiological ligand. RBP is synthesised in hepatic parenchymal cells, where
+the apoprotein is loaded with retinol, triggering its release into general
+circulation. 85-90% of plasma RBP carries bound retinol, while about 96% is
+complexed to transthyretin. Transthyretin has a higher affinity for halo-RBP 
+than apo RBP, and its interaction with RBP is also sensitive to both ionic
+strength and pH; the complex dissociates at low ionic strength and is only 
+stable between pH 5.0 and 9.0. The RBP-transthyretin complex is larger than 
+RBP, preventing its loss by filtration through the kidney glomeruli. RBP-
+mediated retinol transport facilitates the transfer of insoluble retinol 
+from storage sites to peripheral tissues. RBP also protects bound retinol
+from oxidation. The synthesis of RBP regulates retinol release from the 
+liver and controls the specificity of its uptake by target cells. RBP-
+target-cell interaction is crucial to its biological function: RBP is 
+recognised by a cell-surface receptor, releasing retinol, and losing its 
+affinity for transthyretin. The resulting apo-RBP is filtered by the kidney,
+reabsorbed and catabolised. RBP carries only one retinol molecule before
+being degraded.
+
+It seems that retinol is taken up by target cells through a specific cell-
+surface receptor that recognises RBP. Using mutagenesis, Sivaprasadarao has
+shown that specific amino acids within the open-end loop scaffold are
+responsible for binding to the RBP receptor [6], and proposes that RBP 
+remains external to the cell, with only retinol being internalised by the 
+RBP receptor in a manner not involving receptor-mediated endocytosis. By 
+contrast, Noy and co-workers have suggested that retinol dissociates
+spontaneously from RBP outside the cell and undergoes passive transfer
+through the plasma membrane to be bound by high-affinity sites in the 
+cytoplasm [7]. 
+
+RETINOLBNDNG is a 7-element fingerprint that provides a signature for 
+plasma retinol binding proteins. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the retinol binding proteins but distinguish
+them from the rest of lipocalin superfamily - motif 2 includes the GxW 
+triplet that forms part of the first beta-strand (cf. LIPOCALIN signature
+motif 1 and PROSITE pattern LIPOCALIN (PS00213)); motif 3 includes the
+N-terminus of strand 2; motif 4 encodes strand 3; motif 5 includes strand
+5; motif 6 spans the C-terminus of strand 6 and strand 7; and motif 7 spans
+the C-terminus of strand 8 and the N-terminus of helix 2. Two iterations on 
+SPRT37_10f were required to reach convergence, at which point a true set
+comprising 12 sequences was identified. 

@@ -1,0 +1,20 @@
+PTNMIDKINE
+Pleiotrophin is a heparin-binding protein that has neurotrophic activity
+[1] and has mitogenic activity towards fibroblasts [2]. It is highly 
+expressed in brain and uterus tissues, but is also found in gut, muscle and
+skin: it is thought to possess an important brain-specific function [1].
+Midkine is a regulator of differentiation whose expression is regulated by
+retinoic acid, and, like pleiotrophin, is a heparin-binding growth/
+differentiation factor that acts on fibroblasts and nerve cells [3].
+Pleiotrophin and midkine have similar amino acid sequences, with 8 
+conserved cysteine residues, and are likely to have similar 3D folds [1].
+
+PTNMIDKINE is a 3-element fingerprint that provides a signature for the 
+pleiotrophin/midkine protein family. The fingerprint was derived from
+an initial alignment of 4 sequences: motifs 1 and 2 include regions
+encoded by PROSITE patterns PTNMK_1 (PS00619) and PTNMK_2 (PS00620), and
+motif 3 spans a region containing a conserved Cys residue. Two iterations
+on OWL22.1 were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 12 sequences.

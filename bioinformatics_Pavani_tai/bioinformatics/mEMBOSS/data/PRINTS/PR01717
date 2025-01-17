@@ -1,0 +1,69 @@
+CD28ANTIGEN
+Antigen (Ag) recognition by the T cell receptor (TCR) induces activation of
+T lymphocytes. However, TCR-mediated signals alone are insufficient for
+efficient T cell activation, and additional co-stimulatory signals are 
+required. One of the most important surface molecules that delivers 
+co-stimulatory signals for T cells is CD28. The human T lymphocyte Ag CD28 
+(Tp44) is a homodimeric 90kDa glycoprotein expressed on the surface of the
+majority of human peripheral T cells and lymphocytes. Stimulation of CD4+ T
+cells in the absence of CD28 co-signalling causes impaired proliferation, 
+reduced cytokine production and altered generation of helper T cell subsets.
+Co-stimulation via CD28 promotes T cell viability, clonal expansion,
+cytokine production and effector functions, while also regulating apoptosis
+of activated T cells, suggesting its importance in regulating long-term T 
+cell survival [1-4]. 
+
+Ligands for CD28 and the structurally related CTLA-4 (CD152) are the
+molecules B7.1 (CD80) and B7.2 (CD86). B7.1 and B7.2 are expressed on
+professional antigen presenting cells (APCs) and their expression is up-
+regulated during an immune response. Ligation of CD28 by its natural ligands
+results in tyrosine phosphorylation at a YMNM motif within its cytoplasmic
+tail. The phosphorylated motif subsequently interacts with the Src homology
+2 domain in the p85 regulatory subunit of P13K, activating the p110 
+catalytic subunit. One of the P13K-dependent downstream targets, resulting 
+from the antibody cross-linking of CD28, is the phoshporylation and 
+activation of Akt (or PKB). Constitutively active Akt is able to substitute
+for CD28 signals, and stimulates IL-2 production when introduced into mature
+CD28-deficient cells. Another molecule affected by CD28 stimulation is the
+proto-oncogene Vav, which acts as a guanine-nucleotide exchange factor for
+Rac and CDC42, allowing these molecules to switch from the inactive GDP-
+bound state to the active GTP-bound state [5,6].
+
+Another interesting feature of CD28, is its ability to induce expression of
+PDE7, a cAMP phosphodiesterase, thus reducing cellular cAMP levels. cAMP has
+been reported to affect nearly every pathway important for lymphocyte
+activation, leading to inhibition of T cell proliferation. Specifically,
+increased intracellular cAMP has been implicated in the induction of T cell
+anergy, a non-responsive state that occurs after T cells are stimulated
+through TCR/CD3 in the absence of co-stimulation. This can have therapeutic 
+implications, in that blockage of CD28 co-stimulation can be profoundly
+immunosuppressive, preventing induction of pathogenic T cell responses in
+autoimmune disease models, and allowing for prolonged acceptance of 
+allografts in models of organ transplantation [6]. 
+
+Finally, CD28 co-stimulation directly controls T cell cycle progression by 
+down-regulating the cdk inhibitor p27kip1, which actually integrates
+mitogenic MEK and P13K-dependent signals from both TCR and CD28 [5].
+
+B7 ligands bind to both activating CD28 and inhibitory CTLA-4 (CD152)
+receptors. Expression of both receptors and ligands is tightly regulated, 
+allowing discrimination between signals that result in activation or 
+inhibition of an immune response. CTLA-4 shares about 30% amino acid 
+identity with CD28, and both bind to B7-1 and B7-2 ligands. However, the 
+interaction of CD28 with its ligand is weaker than the interaction of 
+CTLA-4. Crystal structures of CTLA-4-B7 complexes are characterised by
+homodimers of CTLA-4 that contain B-7 binding sites located distantly to 
+the CTLA-4 dimer interface, suggesting that CTLA-4 homodimers can bind to
+noncovalent homodimers of B7-1 or B7-2 to form a lattice of CTLA-4-B7 
+interactions. CD28 also forms homodimers, with a conserved cysteine located
+proximal to the transmembrane domain linking the monomers in CD28 and 
+CTLA-4. By similarity, CD28 may also form lattice structures with B7-1 and
+B7-2, which could serve to potentiate the co-stimulatory signals delivered 
+through CD28 [7].
+
+CD28ANTIGEN is a 4-element fingerprint that provides a signature for the
+CD28 antigen family of proteins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+largely spanning the C-terminal portion of the alignment. Two iterations on
+SPTR39_17f were required to reach convergence, at which point a true set
+comprising 18 sequences was identified. 

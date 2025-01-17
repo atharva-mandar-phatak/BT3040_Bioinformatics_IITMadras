@@ -1,0 +1,87 @@
+***********************
+* ITAM motif profiles *
+***********************
+
+Signal transduction  by  T  and B cell antigen receptors and certain receptors
+for Ig   Fc   regions   involves   a   conserved  sequence  motif,  termed  an
+immunoreceptor tyrosine-based activation motif (ITAM). It is also found in the
+cytoplasmic  domain  of  apoptosis  receptor.  Phosphorylation of the two ITAM
+tyrosines  is  a critical event in signal transduction. All (p)2ITAMs, but not
+their  nonphosphorylated  counterparts,  induced  extensive  protein  tyrosine
+phosphorylation  in  permeabilized cells. After binding of the ligand, via SH2
+domain  (see  <PDOC50001>),  phosphorylation of the two conserved tyrosines of
+ITAM creates binding sites for downstream signaling molecules and thus enables
+the initiation of signalling events. This phosphorylation was found to reflect
+activation of  the  src  family  kinase  Lyn  and  Syk.  Different  ITAMs  may
+preferentially activate  distinct  signaling  pathways  as  a  consequence  of
+distinct SH2 effector binding preference [1,2]. Furthermore, in viruses, ITAMs
+may play key roles in viral pathogenesis by regulating viral clearance, immune
+cell activation,  immune  cell recruitment through binding of cellular kinases
+and thereby down regulate their function [3].
+
+This motif can be found in one to three copies and in association with the Ig-
+like domain (see <PDOC50835>).
+
+Proteins currently known to contain an ITAM motif are:
+
+ - Mammalian  alpha and beta immunoglobulin proteins, TCR gamma receptors, FCR
+   gamma receptors   subunits,   CD3  chains  receptors  and  NFAT  activation
+   molecule.
+ - Hantavirus cytoplasmic elements [3].
+
+Two profiles  were  developed for this motif. The first one picks up mammalian
+ITAM while the second one is specific to hantavirus ITAM motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The ITAM motif is also found in some strains of simian immunodeficiency
+ virus, the  GP30  of  bovine  leukemia  virus,  the LMP2A of the Epstein-Barr
+ virus, and the K1 protein of Kaposi's sarcoma-associated herpes virus but the
+ low conservation of the motif in this viral species do not permit us to match
+ them [3,4].
+-Note: This  motif  has  been  variably referred in the literature as the TAM,
+ ARH1, ARAM, YXXL and Reth motif, leading to great confusion [5].
+
+-Last update: January 2005 / First entry.
+
+[ 1] Johnson S.A., Pleiman C.M., Pao L., Schneringer J., Hippen K.,
+     Cambier J.C.
+     "Phosphorylated immunoreceptor signaling motifs (ITAMs) exhibit unique
+     abilities to bind and activate Lyn and Syk tyrosine kinases."
+     J. Immunol. 155:4596-4603(1995).
+     PubMed=7594458
+[ 2] Pitcher L.A., van Oers N.S.
+     "T-cell receptor signal transmission: who gives an ITAM?"
+     Trends Immunol. 24:554-560(2003).
+     PubMed=14552840
+[ 3] Geimonen E., LaMonica R., Springer K., Farooqui Y.,
+     Gavrilovskaya I.N., Mackow E.R.
+     "Hantavirus pulmonary syndrome-associated hantaviruses contain
+     conserved and functional ITAM signaling elements."
+     J. Virol. 77:1638-1643(2003).
+     PubMed=12502882
+[ 4] Willems L., Gatot J.S., Mammerickx M., Portetelle D., Burny A.,
+     Kerkhofs P., Kettmann R.
+     "The YXXL signalling motifs of the bovine leukemia virus transmembrane
+     protein are required for in vivo infection and maintenance of high
+     viral loads."
+     J. Virol. 69:4137-4141(1995).
+     PubMed=7769672
+[ 5] Cambier J.C.
+     "New nomenclature for the Reth motif (or ARH1/TAM/ARAM/YXXL)."
+     Immunol. Today. 16:110-110(1995).
+     PubMed=7888063
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

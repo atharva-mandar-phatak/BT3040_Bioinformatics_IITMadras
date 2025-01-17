@@ -1,0 +1,85 @@
+**************************************
+* recA family signature and profiles *
+**************************************
+
+The bacterial   recA   protein   [1,2,3,E1]   is   essential   for  homologous
+recombination and   recombinational  repair  of  DNA  damage.  RecA  has  many
+activities: it  filaments,  it  binds  to  single- and double-stranded DNA, it
+binds and hydrolyzes ATP,  it is also a recombinase and, finally, it interacts
+with lexA causing its activation and leading to its autocatalytic cleavage.
+
+RecA is  a protein of about 350 amino-acid residues. Its sequence is very well
+conserved [3,4,5,E1]    among  eubacterial  species.  It  is also found in the
+chloroplast of plants [6].
+
+The recA protein is closely related to:
+
+ - Eukaryotic  RAD51  protein. Promotes homologous pairing and strand exchange
+   on chromatin.
+ - Eukaryotic DMC1 protein. Participates in meiotic recombination.
+ - Prokaryotic  radA  protein.  Involved  in  DNA  repair  and  in  homologous
+   recombination.
+ - Bacteriophage  uvsX  gene product. Important  in genetic recombination, DNA
+   repair, and replication.
+
+As a  signature  pattern  specific  for  the  bacterial and chloroplastic recA
+protein, we  selected  the best conserved region, a nonapeptide located in the
+middle of the sequence and which is part of the monomer-monomer interface in a
+recA filament.
+
+We also  developed   two profiles. The first one covers the ATP binding domain
+in the N-terminal part of  the  recA  protein. The  second  one span the whole
+monomer-monomer  interface.  These  two profiles  also  pick up  the recA-like
+proteins.
+
+-Consensus pattern: A-L-[KR]-[IF]-[FY]-[STA]-[STAD]-[LIVMQ]-R
+-Sequences known to belong to this class detected by the pattern: ALL recA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL recA and
+ recA-like eukaryotic proteins.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Roca A.I.; roca@macc.wisc.edu
+           Eisen J.A.; jeisen@tigr.org
+
+-Last update: December 2001 / Text revised; profile added.
+
+[ 1] Smith K.C., Wang T.-C.
+     "recA-dependent DNA repair processes."
+     BioEssays 10:12-16(1989).
+     PubMed=2653307
+[ 2] Lloyd A.T., Sharp P.M.
+     "Evolution of the recA gene and the molecular phylogeny of bacteria."
+     J. Mol. Evol. 37:399-407(1993).
+     PubMed=8308907
+[ 3] Roca A.I., Cox M.M.
+     Prog. Nucleic Acids Res. Mol. Biol. 56:129-223(1997).
+[ 4] Karlin S., Weinstock G.M., Brendel V.
+     "Bacterial classifications derived from recA protein sequence
+     comparisons."
+     J. Bacteriol. 177:6881-6893(1995).
+     PubMed=7592482
+[ 5] Eisen J.A.
+     "The RecA protein as a model molecule for molecular systematic studies
+     of bacteria: comparison of trees of RecAs and 16S rRNAs from the same
+     species."
+     J. Mol. Evol. 41:1105-1123(1995).
+     PubMed=8587109
+[ 6] Cerutti H.D., Osman M., Grandoni P., Jagendorf A.T.
+     "A homolog of Escherichia coli RecA protein in plastids of higher
+     plants."
+     Proc. Natl. Acad. Sci. U.S.A. 89:8068-8072(1992).
+     PubMed=1518831
+[E1] http://www.tigr.org/~jeisen/RecA/RecA.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

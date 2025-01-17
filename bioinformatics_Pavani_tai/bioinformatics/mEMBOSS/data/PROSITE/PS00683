@@ -1,0 +1,135 @@
+************************************
+* Rhodanese signatures and profile *
+************************************
+
+Rhodanese (thiosulfate  sulfurtransferase)  (EC  2.8.1.1)  [1,2]  is an enzyme
+which catalyzes the transfer of the sulfane atom of thiosulfate to cyanide, to
+form sulfite  and thiocyanate. Rhodanese (from the german word for thioyanate,
+'rhodanid') is a widespread enzyme, rhodanese activity having been detected in
+all major  phyla,  including eubacteria and mammals. In vertebrates, rhodanese
+is a mitochondrial enzyme of about 300 amino-acid residues involved in forming
+iron-sulfur complexes  and cyanide detoxification. In the course of catalysis,
+rhodanese cycles  between a sulfur-free form and a persulfurated intermediate,
+hosting the persulfide sulfur atom on the catalytic cysteine residue.
+
+Some bacterial  proteins  closely  related  to  rhodanese  are also thought to
+express a sulfotransferase activity. These are:
+
+ - 3-mercaptopyruvate sulfurtransferases (MST) (EC 2.8.1.1). They catalyze the
+   same sulfane   sulfur   transfer   reaction   as   rhodanese,  but  use  3-
+   mercaptopyruvate as a sulfur donor.
+ - Azotobacter vinelandii rhdA.
+ - Escherichia coli sseA [3].
+ - Escherichia  coli,  Salmonella  typhimurium and Haemophilus influenzae thiI
+   [4]. ThiI  is an enzyme common to the biosynthetic pathways leading to both
+   thiamin and 4-thiouridine in bacterial tRNA.
+ - Escherichia coli glpE [5].
+ - Saccharopolyspora erythraea cysA [6].
+ - Synechococcus  strain  PCC  7942  rhdA  [7].  RhdA is a periplasmic protein
+   probably involved in the transport of sulfur compounds.
+ - Wolinella  succinogenes  periplasmic  sulfide  dehydrogenase (sud). Sud has
+   been characterized as a polysulfide:cyanide sulfurtransferase.
+
+The tertiary  structure  of  rhodanese  (see  <PDB:1E0C>)  is  composed of two
+domains which,  in  spite of a negligible sequence homology, are characterized
+by very  similar  three  dimensional  folds.  Each  domain displays alpha/beta
+topology, with  a  central  parallel  five-stranded  beta-sheet  surrounded by
+alpha-helices on  both  sides  [8].  Rhodanese homology domains are structural
+modules of  about 120 amino acids, which occur in the three major evolutionary
+phyla [9].  Rhodanese-like  proteins  are either composed of a single catlytic
+rhodanese domain, as found in glpE, or composed of two rhodanese domains, with
+the C-terminal  domain  displaying  the  putative catalytic Cys as observed in
+Rhobov and  rhdA.  Rhodanese domains, either catalytic or inactive (i.e. where
+the active-site Cys is replaced by another residue), are also found associated
+with other  protein  domains such as MAPK-phosphatases or thiL, an Escherichia
+coli enzyme  involved  in  thiamin and thiouridine biosynthesis. Catalytically
+active rhodanese  domains  are  supposed  to be versatile sulfur carriers that
+have adapted their function to fulfill the need for reactive sulfane sulfur in
+distinct metabolic  and  regulatory pathways, whereas the frequent association
+of catalytically   inactive  rhodanese  domains  with  other  protein  domains
+suggests a  distinct  regulatory  role for these inactive domains, possibly in
+connection with signaling [5,10].
+
+Some proteins  known  to  contain a rhodanese homology domain are listed below
+[5,9,E1]:
+
+ - The Cdc25 family of protein dual specificity phosphatases (EC 3.1.3.48).
+ - The   MKP1/PAC1   family   of   MAP-kinase   phosphatases  (EC  3.1.3.48  /
+   EC 3.1.3.16).
+ - The Pyp1/Pyp2 family of MAP-kinase phosphatases (EC 3.1.3.48).
+ - Several ubiquitin hydrolases (yeast UBP4,5,7; human UBPY) (EC 3.1.2.15).
+ - Various stress response proteins (heat shock, phage shock, cold shock) from
+   all phyla.
+ - Archaeoglobus fulgidus NADH oxidase (NoxA-3).
+
+We developed  two  patterns for the rhodanese family. They are based on highly
+conserved regions, one which is located in the N-terminal region, the other at
+the C-terminal  extremity  of  the  enzyme.  We also developed a profile which
+covers the entire rhodanese homology domain.
+
+-Consensus pattern: [FY]-x(3)-H-[LIV]-P-G-A-x(2)-[LIVF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [AV]-x(2)-[FY]-[DEAP]-G-[GSA]-[WF]-x-E-[FYW]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2002 / Profile added and text revised.
+
+[ 1] Westley J.
+     "Thiosulfate: cyanide sulfurtransferase (rhodanese)."
+     Methods Enzymol. 77:285-291(1981).
+     PubMed=6948991
+[ 2] Weiland K.L., Dooley T.P.
+     "Molecular cloning, sequencing and characterization of cDNA to rat
+     liver rhodanese, a thiosulphate sulphurtransferase."
+     Biochem. J. 275:227-231(1991).
+     PubMed=2018478
+[ 3] Rudd K.E.
+     Unpublished observations (1993).
+[ 4] Palenchar P.M., Buck C.J., Cheng H., Larson T.J., Mueller E.G.
+     J. Biol. Chem. 275:8283-8286(2000).
+[ 5] Spallarossa A., Donahue J.L., Larson T.J., Bolognesi M., Bordo D.
+     "Escherichia coli GlpE is a prototype sulfurtransferase for the
+     single-domain rhodanese homology superfamily."
+     Structure 9:1117-1125(2001).
+     PubMed=11709175
+[ 6] Donadio S., Shafiee A., Hutchinson C.R.
+     "Disruption of a rhodaneselike gene results in cysteine auxotrophy in
+     Saccharopolyspora erythraea."
+     J. Bacteriol. 172:350-360(1990).
+     PubMed=2294090
+[ 7] Laudenbach D.E., Ehrhardt D., Green L., Grossman A.R.
+     "Isolation and characterization of a sulfur-regulated gene encoding a
+     periplasmically localized protein with sequence similarity to
+     rhodanese."
+     J. Bacteriol. 173:2751-2760(1991).
+     PubMed=1708376
+[ 8] Bordo D., Deriu D., Colnaghi R., Carpen A., Pagani S., Bolognesi M.
+     "The crystal structure of a sulfurtransferase from Azotobacter
+     vinelandii highlights the evolutionary relationship between the
+     rhodanese and phosphatase enzyme families."
+     J. Mol. Biol. 298:691-704(2000).
+     PubMed=10788330; DOI=10.1006/jmbi.2000.3651
+[ 9] Hofmann K., Bucher P., Kajava A.V.
+     "A model of Cdc25 phosphatase catalytic domain and Cdk-interaction
+     surface based on the presence of a rhodanese homology domain."
+     J. Mol. Biol. 282:195-208(1998).
+     PubMed=9733650
+[10] Bordo D., Bork P.
+     EMBO Rep. 3:741-746(2002).
+[E1] http://www.isrec.isb-sib.ch/domains/rhodanese/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

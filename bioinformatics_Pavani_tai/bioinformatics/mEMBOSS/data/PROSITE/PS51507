@@ -1,0 +1,102 @@
+*************************************************************************
+* IRF tryptophan pentad repeat DNA-binding domain signature and profile *
+*************************************************************************
+
+Viral infections induce  the  expression  of type I interferons (IFN-alpha and
+IFN-beta) genes. The induction is due to the transcriptional activation of the
+IFN genes.  Interferon regulatory factor I (IRF-1) is one of the transcription
+factors responsible for that activation. IRF-1 binds to an upstream regulatory
+cis element, known as the interferon consensus sequence (ICS),  which is found
+in the promoters of type I IFN and IFN-inducible MHC class I genes. Interferon
+regulatory factor 2 (IRF-2) is a protein that also interacts with the ICS, but
+that does not function as an activator;  rather, it suppresses the function of
+IRF-1 under certain circumstances [1].
+
+These proteins  share  a highly conserved N-terminal domain of about 100 amino
+acid residues  which  is  involved  in  DNA-binding  and  which  contain  five
+conserved tryptophan. This domain is known as a 'tryptophan pentad repeat' or
+a 'tryptophan cluster' and is also present in:
+
+ - Interferon consensus sequence binding protein (ICSBP) [2],  a transcription
+   factor expressed predominantly in lymphoid tissues and induced by IFN-gamma
+   that also binds to the ICS.
+ - Transcriptional regulator ISGF3 gamma subunit [3]. ISGF3 is responsible for
+   the initial stimulation of interferon-alpha-responsive genes. It recognizes
+   and binds to  the interferon-stimulated  response element (ISRE) within the
+   regulatory sequences of target genes.
+ - Interferon regulatory factor 3 (IRF-3).
+ - Interferon  regulatory  factor  4  (IRF-4)  which  binds to the interferon-
+   stimulated response element (ISRE) of the MHC class I promoter.
+ - Interferon regulatory factor 5 (IRF-5).
+ - Interferon regulatory factor 6 (IRF-6).
+ - Interferon regulatory factor 7 (IRF-7).
+ - Gamma  Herpesviruses  vIRF-1,  -2  and  -3,  proteins  with homology to the
+   cellular transcription  factors  of  the IRF family [4]. Neither vIRF-1 nor
+   vIRF-2 bind  to  DNA with the same specificity as cellular IRFs, indicating
+   that if  vIRFs  are  DNA-binding  proteins,  their  binding  has  a pattern
+   distinct from  that  of the cellular IRFs. Whether vIRF-3 can bind DNA with
+   the same specificity as cellular IRFs is not known.
+
+The IRF   tryptophan  pentad  repeat  DNA-binding  domain  has  an  alpha/beta
+architecture comprising  a  cluster  of  three  alpha-helices  (alpha1-alpha3)
+flanked on  one  side  by  a mixed four-stranded beta-sheet (beta1-beta4) (see
+<PDB:1IF1>). It  forms  a  helix-turn-helix motif that binds to ISRE consensus
+sequences found  in target promoters. Three of the tryptophan residues contact
+DNA by recognizing a GAAA sequence [5].
+
+As a  signature  for  this  domain, we selected the region that spans from the
+second to  the  fourth  of the five conserved tryptophans. We also developed a
+profile which  covers  the  entire  IRF  tryptophan  pentad repeat DNA-binding
+domain.
+
+-Consensus pattern: W-x-[DNH]-x(5)-[LIVF]-x-[IV]-P-W-x-H-x(9,10)-[DE]-x(2)-
+                    [LIVF]-F-[KRQ]-x-[WR]-A
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ bovine IRF-3.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: August 2010 / Text revised; profile added.
+
+[ 1] Taniguchi T.
+     "Regulation of interferon-beta gene: structure and function of
+     cis-elements and trans-acting factors."
+     J. Interferon Res. 9:633-640(1989).
+     PubMed=2691585
+[ 2] Driggers P.H., Ennist D.L., Gleason S.L., Mak W.-H., Marks M.S.,
+     Levi B.-Z., Flanagan J.R., Appella E., Ozato K.
+     "An interferon gamma-regulated protein that binds the
+     interferon-inducible enhancer element of major histocompatibility
+     complex class I genes."
+     Proc. Natl. Acad. Sci. U.S.A. 87:3743-3747(1990).
+     PubMed=2111015
+[ 3] Veals S.A., Schindler C., Leonard D., Fu X.-Y., Aebersold R.,
+     Darnell J.E. Jr., Levy D.E.
+     "Subunit of an alpha-interferon-responsive transcription factor is
+     related to interferon regulatory factor and Myb families of
+     DNA-binding proteins."
+     Mol. Cell. Biol. 12:3315-3324(1992).
+     PubMed=1630447
+[ 4] Lubyova B., Pitha P.M.
+     "Characterization of a novel human herpesvirus 8-encoded protein,
+     vIRF-3, that shows homology to viral and cellular interferon
+     regulatory factors."
+     J. Virol. 74:8194-8201(2000).
+     PubMed=10933732
+[ 5] Escalante C.R., Yie J., Thanos D., Aggarwal A.K.
+     "Structure of IRF-1 with bound DNA reveals determinants of interferon
+     regulation."
+     Nature 391:103-106(1998).
+     PubMed=9422515; DOI=10.1038/34224
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

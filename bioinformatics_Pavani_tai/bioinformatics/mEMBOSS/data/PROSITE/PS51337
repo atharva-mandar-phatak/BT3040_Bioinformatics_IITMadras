@@ -1,0 +1,85 @@
+**********************************************************
+* B12-binding and B12-binding N-terminal domain profiles *
+**********************************************************
+
+The  B12-binding  domain is mainly found in two families of enzymes present in
+animals  and  prokaryotes,  which use vitamin B12 (cobalamin) as cofactor. The
+B12-binding  domain  can  bind  two different forms of the cobalamin cofactor,
+with  cobalt  bonded either to a methyl group or to 5'-deoxyadenosine. Methyl-
+and  adenosylcobalamin  enzymes  perform  distinct  kinds  of reactions at the
+cobalt-carbon  bond.  The  enzymes  that bind methylcobalamin carry out methyl
+transfer  reactions. Enzymes that require adenosylcobalamin catalyze reactions
+in  which  the  first  step  is  the  cleavage  of  adenosylcobalamin  to form
+cob(II)alamin  and  the  5'-deoxyadenosyl  radical  and  thus  act  as radical
+generators.  In both types of enzymes the B12-binding domain uses an histidine
+to  bind the cobalt atom of cobalamin cofactors. This histidine is embedded in
+a  DXHXXG  sequence,  the  most conserved primary sequence motif of the domain
+[1,2,3].
+
+The  structure  of  the B12-binding domain is characterised by a five-stranded
+alpha/beta  (Rossmann) fold (see <PDB:1BMT>) [4]. In cobalamin the cobalt atom
+can  be  either  free  (dmb-off)  or  bound  to dimethylbenzimidazole (dmb-on)
+according    to    the    pH.   When   bound   to   the   B12-binding   domain
+dimethylbenzimidazole  ligand  is replaced by the active histidine (His-on) of
+the DXHXXG motif. The replacement of dimethylbenzimidazole by histidine allows
+switching  between  the  catalytic  and  activation  cycles [5]. In methionine
+synthase  the  cobalamin cofactor is sandwiched between the B12-binding domain
+and  an ~90 residues N-terminal domain forming a helical bundle comprising two
+pairs of antiparallel helices [4].
+
+The B12-binding domain is found in the following enzymes:
+
+ - Animal  and prokaryotic methionine synthase (EC 2.1.1.13). It catalyzes the
+   transfer  of a methyl group from methyl-cobalamin to homocysteine, yielding
+   enzyme-bound cob(I)alamin and methionine.
+ - Animal  and  prokaryotic  methylmalonyl-CoA  mutase  (EC  5.4.99.2).  It is
+   involved  in  the degradation of several amino acids, odd-chain fatty acids
+   and cholesterol via propionyl-CoA to the tricarboxylic acid cycle.
+ - Prokaryotic lysine 5,6-aminomutase (EC 5.4.3.4).
+ - Prokaryotic glutamate mutase (EC 5.4.99.1).
+ - Prokaryotic methyleneglutarate mutase (EC 5.4.99.4).
+ - Prokaryotic isobutyryl-CoA mutase (EC 5.4.99.13).
+
+The  first  profile recognizes the whole B12-binding domain. The second one is
+directed against the helical bundle found N-terminal to the B12-binding domain
+of methionine synthase.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2007 / First entry.
+
+[ 1] Krautler B.
+     "Vitamin B12: chemistry and biochemistry."
+     Biochem. Soc. Trans. 33:806-810(2005).
+     PubMed=16042603; DOI=10.1042/BST0330806
+[ 2] Ludwig M.L., Matthews R.G.
+     "Structure-based perspectives on B12-dependent enzymes."
+     Annu. Rev. Biochem. 66:269-313(1997).
+     PubMed=9242908; DOI=10.1146/annurev.biochem.66.1.269
+[ 3] Banerjee R., Ragsdale S.W.
+     "The many faces of vitamin B12: catalysis by cobalamin-dependent
+     enzymes."
+     Annu. Rev. Biochem. 72:209-247(2003).
+     PubMed=14527323; DOI=10.1146/annurev.biochem.72.121801.161828
+[ 4] Mancia F., Keep N.H., Nakagawa A., Leadlay P.F., McSweeney S.,
+     Rasmussen B., Bosecke P., Diat O., Evans P.R.
+     "How coenzyme B12 radicals are generated: the crystal structure of
+     methylmalonyl-coenzyme A mutase at 2 A resolution."
+     Structure 4:339-350(1996).
+     PubMed=8805541
+[ 5] Mancia F., Keep N.H., Nakagawa A., Leadlay P.F., McSweeney S.,
+     Rasmussen B., Bosecke P., Diat O., Evans P.R.
+     "How coenzyme B12 radicals are generated: the crystal structure of
+     methylmalonyl-coenzyme A mutase at 2 A resolution."
+     Structure 4:339-350(1996).
+     PubMed=8805541
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

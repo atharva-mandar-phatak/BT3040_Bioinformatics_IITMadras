@@ -1,0 +1,55 @@
+************************************************************
+* Cereal trypsin/alpha-amylase inhibitors family signature *
+************************************************************
+
+The seeds  of cereals contain  numerous  serine  proteases  and  alpha-amylase
+inhibitors. These inhibitors can be grouped into families  based on structural
+similarities. The cereal trypsin/alpha-amylase inhibitor family [1,2] consists
+of proteins of about 120 amino acids  which  contain 10 cysteine residues, all
+of which  are  involved  in  disulfide  bonds.  Some of  these  inhibitors are
+specific to trypsin, others to alpha-amylase, and a few are bifunctional.  The
+schematic representation of the structure of these inhibitors is shown below:
+
+                       +----------------------------+
+           +----------+|   +-+                      |
+    *******|****      ||   | |                      |
+  xxCxxxxxxCxxxCxxxxxxCCxxxCxCxxxxxxxxxxxxxCxxxxxxxxCxxxxxxxCxxxx
+    |          |                           |                |
+    |          +---------------------------+                |
+    +-------------------------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+This family of proteins also includes a number of seed allergenic protein from
+rice [3].
+
+-Consensus pattern: C-x(4)-[SAGDV]-x(4)-[SPAL]-[LF]-x(2)-C-[RH]-x-
+                    [LIVMFYA](2)-x(3,4)-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Gautier M.-F., Alary R., Joudrier P.
+     "Cloning and characterization of a cDNA encoding the wheat (Triticum
+     durum Desf.) CM16 protein."
+     Plant Mol. Biol. 14:313-322(1990).
+     PubMed=2102817
+[ 2] Garcia-Olmedo F., Salcedo G., Sanchez-Monge R., Gomez L., Royo J.,
+     Carbonero P.
+     (In) Oxford Surveys of Plant Molecular and Cell Biology, Miflin B., Ed.,
+     vol. 4, pp. 275-334, Oxford University Press, Oxford, (1987).
+[ 3] Adachi T., Izumi H., Yamada T., Tanaka K., Takeuchi S., Nakamura R.,
+     Matsuda T.
+     Plant Mol. Biol. 21:239-248(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

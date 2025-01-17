@@ -1,0 +1,22 @@
+VD09PROTEIN
+The complete DNA sequence of the genome of vaccinia virus has been 
+determined [1]. 198 "major" protein-coding regions and 65 overlapping
+"minor" regions have been identified, with a total of 263 potential genes
+[1]. The genes are compactly organised along the genome, with few noncoding
+regions [1]. The function of the majority of proteins encoded by these open
+reading frames is so far undetermined. 
+
+The D9 protein contains an evolutionarily conserved MutT domain core,
+which is also found in a variety of other viral, prokaryotic and eukaryotic
+proteins.
+
+VD09PROTEIN is an 8-element fingerprint that provides a signature for viral
+D9 proteins. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the N- and
+C-terminal portions of the alignment - motifs 1-4 lie immediately N-terminal
+to the MutT domain, motif 4 encoding its N-terminus; and motifs 5-8 
+immediately C-terminal to it. Two iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 5 sequences was
+identified. A single partial match was also found, Q98265, a Molluscum 
+contagiosum virus subtype 1 protein that fails to make significant matches
+with motifs 1 and 7.

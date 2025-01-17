@@ -1,0 +1,37 @@
+CHITINBINDNG
+A number of plant and fungal proteins that bind N-acetylglucosamine (e.g.,
+non-leguminous plant lectins; plant endochitinases; wound-induced proteins,
+hevein and win1/win2; and K.lactis killer toxin alpha subunit) contain a
+conserved domain of around 43 amino acids [1]. The domain, which may occur
+singly or multiply, is thought to be involved in recognition or binding of
+chitin subunits: wheat-germ agglutinin (WGA) contains a 4-fold repetition
+of the domain; most chitinases contain a single copy, but that from the
+nettle Urtica has 2 copies [2]. In chitinases and potato wound-induced
+proteins, the chitin-binding domain is located N-terminally, while in the
+killer toxin alpha subunit it lies centrally [3].
+
+The sequence of the domain contains 8 conserved cysteine residues, all
+of which are involved in disulphide bond formation in WGA. The topology
+of the disulphides is summarised schematically below:
+
+                                +-------------+ 
+                           +----|------+      | 
+                           |    |      |      |
+                xxCgxxxxxxxCxxxxCCsxxgxCgxxxxxCxxxCxxxxC 
+                  |        ******|*************   |    | 
+                  |              |                +----+ 
+                  +--------------+
+
+CHITINBINDNG is a 3-element fingerprint that provides a signature for the
+chitin-binding domain of plant and fungal proteins. The fingerprint was
+derived from an initial alignment of 13 sequences: the motifs span the well-
+conserved central portion of the domain, as shown above, which contains 5
+of the 8 conserved cysteines, and includes the region encoded by PROSITE
+pattern CHITIN_BINDING (PS00026). Three iterations on OWL26.3 were required
+to reach convergence, at which point a true set comprising 71 sequences was
+identified. Two partial matches were also found: MZECHITC contains an
+insertion, so fails to make a signficant match with motif 3; and CHIT_DIOJA
+is a fragment that fails to match the first motif.
+
+An update on SPTR37_9f identified a true set of 75 sequences, and 5
+partial matches.

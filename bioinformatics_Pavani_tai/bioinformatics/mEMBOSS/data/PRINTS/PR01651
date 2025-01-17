@@ -1,0 +1,33 @@
+SECGEXPORT
+Secretion across the inner membrane in some Gram-negative bacteria occurs
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component. [1]. From there, the mature proteins are either 
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome.
+
+The translocase itself comprises 7 proteins, including a chaperone (SecB),
+an ATPase (SecA), an integral membrane complex (SecY, SecE and SecG), and
+two additional membrane proteins that promote the release of the mature 
+peptide into the periplasm (SecD and SecF) [1]. SecG, a subunit of the major
+translocase complex, is thought to stimulate translocation activity and 
+enhance the insertion-deinsertion SecA cycle [2]. Deletion studies have
+revealed that in the absence of SecG, and with an imbalance of membrane
+phospholipids, translocation through the SecYEG complex cannot take place.
+Thus, SecG is essential for the stabilisation/function of the SecYEG complex
+in the bacterial membrane under stressful cell conditions [2].  
+
+Using SecG mutants, it has been shown that SecG has two transmembrane (TM)
+domains. Both of these contribute to the recognition of preprotein signal
+sequences by the translocation complex [3]. The protein also undergoes
+membrane topology inversion when coupled to the SecA cycle [4]. 
+
+SECGEXPORT is a 4-element fingerprint that provides a signature for the 
+protein-export SecG membrane proteins. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs were drawn from conserved 
+regions spanning the N-terminal portion of the alignment - motifs 1 and 4 
+encode the TM domains, and motif 2 and 3 reside in the loop between them.
+Two iterations on SPTR40_18f were required to reach convergence, at which
+point a true set comprising 8 sequences was identified. A single partial
+match was also found, Q98ME8, a protein-export membrane protein from
+Rhizobium loti that fails to make a signficant match with motifs 2 and 3.

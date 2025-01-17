@@ -1,0 +1,85 @@
+***************************************************************************
+* LIS1 homology (LisH) motif and C-terminal to LisH (CTLH) motif profiles *
+***************************************************************************
+
+The 33-residue LIS1 homology (LisH) motif is found in eukaryotic intracellular
+proteins involved  in  microtubule dynamics, cell migration, nucleokinesis and
+chromosome segregation.  The  LisH  motif  is  likely  to  possess a conserved
+protein-binding function  and it has been proposed that LisH motifs contribute
+to the  regulation  of microtubule dynamics, either by mediating dimerization,
+or else  by  binding  cytoplasmic dynein heavy chain or microtubules directly.
+The LisH  motif  is  found  associated  to  other  domains, such as WD-40 (see
+<PDOC00574>), SPRY,  Kelch,  AAA  ATPase,  RasGEF,  or  HEAT (see <PDOC50077>)
+[1,2,3].
+
+The secondary  structure  of  the  LisH  domain  is predicted to be two alpha-
+helices [1].
+
+Some proteins known to contain a LisH motif are listed below:
+
+ - Animal  LIS1.  It regulates cytoplasmic dynein function. In human, children
+   with defects  in  LIS1  suffer  from  Miller-Dieker  lissencephaly, a brain
+   malformation that  results  in  severe  retardation,  epilepsy and an early
+   death.
+ - Emericella nidulans nuclear migration protein nudF, the orthologue of LIS1.
+ - Eukaryotic   RanBPM,   a   Ran  binding  protein  involved  in  microtubule
+   nucleation.
+ - Eukaryotic Nopp140, a nucleolar phosphoprotein.
+ - Mammalian  treacle,  a  nucleolar protein. In human, defects in treacle are
+   the cause  of  Treacher  Collins  syndrome  (TCS),  an  autosomal  dominant
+   disorder of craniofacial development.
+ - Animal  muskelin.  It acts as a mediator of cell spreading and cytoskeletal
+   responses to the extracellular matrix component thrombospondin 1.
+ - Animal transducin beta-like 1 protein (TBL1).
+ - Plant tonneau.
+ - Arabidopsis  thaliana  LEUNIG,  a putative transcriptional corepressor that
+   regulates AGAMOUS expression during flower development.
+ - Fungal aimless RasGEF.
+ - Leishmania major katanin-like protein.
+
+The C-terminal  to  LisH (CTLH) motif is a predicted alpha-helical sequence of
+unknown function that is found adjacent to the LisH motif in a number of these
+proteins but  is absent in other (e.g. LIS1) [1,2,3]. The CTLH domain can also
+be found in the absence of the LisH motif, like in:
+
+ - Arabidopsis thaliana hypothetical protein MUD21.5.
+ - Yeast protein RMD5.
+
+The profiles we developed cover respectively the entire LisH and CTLH motifs.
+
+-Sequences known to belong to this class detected by the profile: ALL LisH
+ motifs.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL CTLH
+ motifs.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2003 / First entry.
+
+[ 1] Emes R.D., Ponting C.P.
+     "A new sequence motif linking lissencephaly, Treacher Collins and
+     oral-facial-digital type 1 syndromes, microtubule dynamics and cell
+     migration."
+     Hum. Mol. Genet. 10:2813-2820(2001).
+     PubMed=11734546
+[ 2] Adams J.C.
+     "Characterization of a Drosophila melanogaster orthologue of
+     muskelin."
+     Gene 297:69-78(2002).
+     PubMed=12384287
+[ 3] Umeda M., Nishitani H., Nishimoto T.
+     "A novel nuclear protein, Twa1, and Muskelin comprise a complex with
+     RanBPM."
+     Gene 303:47-54(2003).
+     PubMed=12559565
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

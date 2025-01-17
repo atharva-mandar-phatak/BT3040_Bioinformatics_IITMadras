@@ -1,0 +1,21 @@
+RIBOSOMALS2
+Ribosomal S2 proteins have been shown to belong to a family that includes
+40S ribosomal subunit 40kDa proteins, putative laminin-binding proteins,
+NAB-1 protein and 29.3kDa protein from Haloarcula marismortui. The laminin-
+receptor proteins are thus predicted to be the eukaryotic homologue of the
+eubacterial S2 risosomal proteins [1].
+
+RIBOSOMALS2 is a 6-element fingerprint that provides a signature for
+ribosomal S2 and related proteins. The fingerprint was derived from an
+initial alignment of 9 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length: motif 1 includes the
+region encoded by PROSITE pattern RIBOSOMAL_S2_1 (PS00962), which lies 
+towards the N-terminus; and motif 4 includes the region encoded by PROSITE
+pattern RIBOSOMAL_S2_2 (PS00963), which lies in the central section. Two
+iterations on OWL26.0 were required to reach convergence, at which point a
+true set comprising 30 sequences was identified. Seven partial matches
+were also found, all of which are ribosomal S2 fragments and/or related 
+proteins that fail to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 65 sequences, and 10
+partial matches.

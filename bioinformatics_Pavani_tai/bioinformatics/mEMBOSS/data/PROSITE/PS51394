@@ -1,0 +1,56 @@
+**********************
+* PFU domain profile *
+**********************
+
+The PFU  (for  PLAA  family  ubiquitin binding domain) is an ubiquitin binding
+domain with no homology to several known ubiquitin binding domains (e.g., UIM,
+NZF, UBA,  UEV,  UBP,  or CUE domains). The PFU domain appears to be unique to
+the PLAA family of proteins. A single member of this family of proteins exists
+in every  eukaryotic  species  examined.  Each  of  these homologues possesses
+identical domain structure: an N-terminal domain containing seven WD40 repeats
+(see <PDOC00574>),  a  central  PFU domain, and a C-terminal PUL domain, which
+directly binds  to  Cdc48,  a  member  of  the  AAA-ATPase family of molecular
+chaperone [1]. In addition to ubiquitin, the PFU domain of DOA1 has been shown
+to bind to the SH3 domain (see <PDOC50002>) [2].
+
+Secondary structure  predictions  of the PFU domain suggest the presence of an
+extensive length of beta-sheet, N-terminal to an alpha-helical region [1].
+
+Some proteins known to contain a PFU domain are listed below:
+
+ - Saccharomyces   cerevisiae   DOA1   (UFD3,  ZZZ4),  involved  in  ubiquitin
+   conjugation pathway.  DOA1  participates  in  the regulation of the ubiquin
+   conjugation pathway  involving  CDC48  by  hindering multiubiquitination of
+   substrates at the CDC48 chaperone.
+ - Schizosaccharomyces  pombe  ubiquitin  homeostasis  protein lub1, acts as a
+   negative regulator of vacuole-dependent ubiquitin degradation.
+ - Mammalian phospholipase A-2-activating protein (PLA2P, PLAA), the homologue
+   of DOA1.  PLA2P  plays  an  important  role  in  the regulation of specific
+   inflammatory disease processes.
+
+The profile we developed covers the entire PFU domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2008 / First entry.
+
+[ 1] Mullally J.E., Chernova T., Wilkinson K.D.
+     "Doa1 is a Cdc48 adapter that possesses a novel ubiquitin binding
+     domain."
+     Mol. Cell. Biol. 26:822-830(2006).
+     PubMed=16428438; DOI=10.1128/MCB.26.3.822-830.2006
+[ 2] Ren J., Pashkova N., Winistorfer S., Piper R.C.
+     "DOA1/UFD3 plays a role in sorting ubiquitinated membrane proteins
+     into multivesicular bodies."
+     J. Biol. Chem. 0:0-0(2008).
+     PubMed=18508771; DOI=10.1074/jbc.M802982200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,36 @@
+MITOCARRIER
+A variety of substrate carrier proteins that are involved in energy transfer
+are found in the inner mitochondrial membrane [1-4]. Such proteins include:
+ADP,ATP carrier protein (ADP/ATP translocase); 2-oxoglutarate/malate carrier
+protein; phosphate carrier protein; tricarboxylate transport protein (or 
+citrate transport protein); Graves disease carrier protein; yeast mito-
+chondrial proteins MRS3 and MRS4; yeast mitochondrial FAD carrier protein;
+and many others.
+
+Sequence analysis of selected members of the carrier protein family has
+suggested the presence of six transmembrane (TM) domains, with varying 
+degrees of sequence conservation and hydrophilicity [2]. The TM regions,
+and adjacent hydrophilic loops, are more highly conserved than other
+regions of the proteins [2]. All members of the family appear to consist
+of a tripartite structure, each of the repeated segments being ~100 residues
+in length [2]. Each repeat contains two TM domains, the first being more
+hydrophobic, with conserved glycyl and prolyl residues. Five of the six TM
+domains are followed by the conserved sequence (D/E)-Hy(K/R){where - denotes
+any residue, and Hy is a hydrophobic position} [2].
+
+MITOCARRIER is a 6-element fingerprint that provides a signature for
+ADP/ATP mitochondrial carrier proteins. The fingerprint was derived from
+an initial alignment of 9 sequences: the motifs were drawn from short
+conserved regions spanning virtually the full alignment length - motif 1
+lies in the first putative TM domain; motif 2 includes the C-terminal
+residues of TM domain 1, and spans the region encoded by PROSITE pattern
+MITOCH_CARRIER (PS00215); motif 3 lies in the second TM domain; motif 4
+includes the C-terminal residues of putative TM domain 3; motif 5 spans
+TM domain 4; and motif 6 spans putative TM domain 5. Three iterations on
+OWL30.2 were required to reach convergence, at which point a true set
+comprising 71 sequences was identified. Numerous partial matches were also
+found, all of which are fragments or closely related mitochondrial carrier
+proteins that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 61 sequences, and 9
+partial matches.

@@ -1,0 +1,37 @@
+PYRUVTKNASE
+Pyruvate kinase (EC 2.7.1.40) (PK) catalyses the final step in glycolysis
+[1], the conversion of phosphoenolpyruvate to pyruvate with concomitant
+phosphorylation of ADP to ATP: 
+
+	    ADP + phosphoenolpyruvate = ATP + pyruvate
+
+The enzyme, which is found in all living organisms, requires both magnesium
+and potassium ions for its activity [2]. In vertebrates, there are four
+tissue-specific isozymes: L (liver), R (red cells), M1 (muscle, heart and 
+brain), and M2 (early foetal tissue). In Escherichia coli, there are two 
+isozymes: PK-I and PK-II. All isozymes appear to be tetramers of identical
+subunits of ~500 residues.
+
+The structure of cat muscle pyruvate kinase has been determined [2]. The 
+protein comprises three domains each belonging to the alpha-beta class; one
+of these adopts a 3-layer(aba) sandwich architecture; the other two form
+beta-barrels.
+
+PYRUVTKNASE is a 7-element fingerprint that provides a signature for the
+pyruvate kinase family. The fingerprint was derived from an initial
+alignment of 31 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 spans strands 3 and
+4; motif 2 includes strand 12 and the N-terminal end of helix 7; motif 3
+spans strand 13, helices 8 and 9, and strand 14, and includes the region
+encoded by PROSITE pattern PYRUVATE_KINASE (PS00110), which contains a 
+lysine thought to be the acid/base catalyst responsible for the inter-
+conversion of pyruvate and enolpyruvate, and a glutamate implicated in
+magnesium binding; motif 4 spans helix 10 and most of helix 11; motif 5 
+encompasses strand 15, helix 12 and the N-terminal residue of helix 13;
+motif 6 includes helix 13 and strand 16; and motif 7 spans helix 14 and
+and most of helix 15. Two iterations on OWL31.1 were required to reach 
+convergence, at which point a true set comprising 78 sequences was
+identified. Several partial matches were also found, all of which are
+fragments.
+
+An update on SPTR37_9f identified a true set of 65 sequences.

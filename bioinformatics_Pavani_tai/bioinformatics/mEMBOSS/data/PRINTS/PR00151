@@ -1,0 +1,29 @@
+PORPHBDMNASE
+Porphobilinogen deaminase (PBGD), or hydroxymethylbilane synthase, is the
+third enzyme in the biosynthetic pathway of tetrapyrroles, which include
+the vitally important macrocyles haem, chlorophyll and corrin [1]. PBGD
+catalyses the head-to-tail polymerisation of 4 molecules of porpho-
+bilinogen to assemble the open chain tetrapyrole, hydroxymethylbilane.
+
+PBGD is a ubiquitously occurring, monomeric protein, showing high sequence
+conservation among proteins from bacteria, fungi, plants and mammals. The
+protein contains a dipyrromethane cofactor, which is covalently attached
+to a cysteine side chain. The structure of PBGD shows the same chain fold
+as proteins from 2 classes of binding protein: the transferrins and the
+group-II periplasmic receptors (the sulphate-, phosphate-, maltodextrin-
+and lysine/arginine/ornithine-binding proteins). Despite structural
+similarities, there is no significant identity between their sequences.
+
+PORPHBDMNASE is a 5-element fingerprint that provides a signature for
+porphobilinogen deaminases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, motif 5 including the region encoded
+by PROSITE pattern PORPHOBILINOGEN_DEAM (PS00533), which contains the
+conserved Cys residue responsible for cofactor binding. Two iterations
+on OWL25.2 were required to reach convergence, at which point a true
+set comprising 16 sequences was identified. Two partial matches were
+also found, NRL_1PDA2 and HEM3_YERIN, both PBGD fragments, lacking the
+first and final motifs respectively. 
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 4
+partial matches.

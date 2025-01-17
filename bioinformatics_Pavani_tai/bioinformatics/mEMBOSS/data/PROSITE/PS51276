@@ -1,0 +1,68 @@
+*************************************
+* PfpI endopeptidase domain profile *
+*************************************
+
+Pyrococcus  furiosus  protease  I  (PfpI)  (EC  3.2.-.-)  is  an intracellular
+cysteine  peptidase,  characterized by its stability and proposed to represent
+the  predominant  proteolytic  activity  of this thermophilic archaebacterium.
+Pfpi-like proteins have been found in bacteria, archaea, in some plants and in
+amoebae.
+
+The  structure  of P. horikoshii PfpI shows an alpha/beta sandwich fold, which
+consists of a central beta sheet flanked by two helices and two strands on one
+side,  and  by six helices and two strands on the other side (see <PDB:1G2I>).
+The  fold  resembles  that of glutamine amidotransferases (GATase) of class I,
+which   are   characterized  by  a  conserved  Cys-His-Glu  active  site  (see
+<PDOC00405>). The catalytically essential cysteine is located at a nucleophile
+elbow. PfpI forms a hexameric structure and the active sites are formed at the
+interfaces  between  three  pairs of monomers. Cys and His form a triad with a
+glutamate  residue from an adjacent monomer [1]. Pfpi endopeptidases belong to
+the  peptidase  C56  family,  which  is  classified  with  the  peptidase  C26
+gamma-glutamyl  hydrolases (see <PDOC51275>) in the clan PC(C) [E1, E2]. Other
+peptidase C56 family proteins are structurally and functionally different [2],
+e.g. human DJ-1 creates a hydrophobic patch at the molecular interface instead
+of  completing  the  catalytic  triad,  while  E. coli chaperone HSP31 forms a
+Cys-His-Asp triad.
+
+Some proteins known to contain a PfpI endopeptidase domain:
+
+ - Pyrococcus  furiosus  intracellular  protease 1 (PfpI), an ATP-independent,
+   highly thermically and chemically stable endopeptidase.
+ - Pyrococcus horikoshii intracellular   protease   1   (PfpI/PH1704).
+ - Bacillus subtilis general stress protein 18 (GSP18).
+ - Escherichia coli protein yhbO.
+
+The profile we developed covers the entire PfpI endopeptidase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C56 in the classification of peptidases
+ [E1,E2].
+-Note:  The PfpI endopeptidase domain profile is in competition with a profile
+ of a related domain, i.e. GATase type 1 (see <PDOC00405>).
+
+-Last update: December 2006 / First entry.
+
+[ 1] Du X., Choi I.-G., Kim R., Wang W., Jancarik J., Yokota H., Kim S.-H.
+     "Crystal structure of an intracellular protease from Pyrococcus
+     horikoshii at 2-A resolution."
+     Proc. Natl. Acad. Sci. U.S.A. 97:14079-14084(2000).
+     PubMed=11114201; DOI=10.1073/pnas.260503597
+[ 2] Bandyopadhyay S., Cookson M.R.
+     "Evolutionary and functional relationships within the DJ1
+     superfamily."
+     BMC Evol. Biol. 4:6-6(2004).
+     PubMed=15070401; DOI=10.1186/1471-2148-4-6
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+[E2] http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C56
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,49 @@
+****************************************
+* Thiol-activated cytolysins signature *
+****************************************
+
+Thiol-activated cytolysins  [1,2]  are  toxins  produced by a variety of Gram-
+positive bacteria and are  characterized by their ability to lyse cholesterol-
+containing membranes,  their reversible inactivation  by  oxidation  and their
+capacity to  bind  to  cholesterol.  The  sequences of some of these toxins is
+currently known:
+
+ - Alveolysin (gene alv) from Bacillus alvei.
+ - Ivanolysin (gene ilo) from Listeria ivanovii.
+ - Listeriolysin O (gene hlyA) from Listeria monocytogenes.
+ - Perfringolysin O (theta-toxin) (gene pfo) from Clostridium perfringens.
+ - Pneumolysin (gene ply) from Streptococcus pneumoniae.
+ - Seeligeriolysin (gene lso) from Listeria seeligeri.
+ - Streptolysin O (gene slo) from Streptococcus pyogenes.
+
+All these  proteins contain  a  single  cysteine  residue, located in their C-
+terminal section,  which  has  been  shown [3] to be essential for the binding
+to cholesterol. This cysteine is located in a highly conserved region that can
+be used as a signature pattern.
+
+-Consensus pattern: [RK]-E-C-T-G-L-x-W-E-W-W-[RK]
+                    [C is involved in the binding to cholesterol]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 1993 / Pattern and text revised.
+
+[ 1] Alouf J.E., Geoffroy C.
+     (In) Bacterial proteins toxins, pp 165-171, Alouf J.E., Ferenbach F.J.,
+     Free J.H., Jeljaszewicz J., Ed., Academic Press, London, (1984).
+[ 2] Geoffroy C., Mengaud J., Alouf J.E., Cossart P.
+     J. Bacteriol. 172:7301-7305(1990).
+[ 3] Iwamoto M., Ohno-Iwashita Y., Ando S.
+     "Role of the essential thiol group in the thiol-activated cytolysin
+     from Clostridium perfringens."
+     Eur. J. Biochem. 167:425-430(1987).
+     PubMed=2888650
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

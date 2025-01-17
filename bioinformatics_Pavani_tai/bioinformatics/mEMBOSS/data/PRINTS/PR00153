@@ -1,0 +1,23 @@
+CSAPPISMRASE
+In vertebrates, cyclophilin is the major high-affinity binding protein 
+for the immunosuppressive drug cyclosporin A (CSA) [1]. The protein
+exhibits peptidyl-prolyl cis-trans isomerase (PPIase or rotamase) activity
+- PPIase accelerates protein folding by catalysing the cis-trans
+isomerisation of proline imide bonds in oligopeptides [2]. It is thought
+that CSA may mediate some of its effects by inhibition of PPIase.
+Cyclophilin is a cytosolic protein that belongs to a family of isozymes,
+including cyclophilins B and C, PPIase, and natural killer cell
+cyclophilin-related protein [3-5].
+
+CSAPPISMRASE is a 5-element fingerprint that provides a signature for
+cyclophilin and related proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length, motif 2 including the region
+encoded by PROSITE pattern CSA_PPIASE (PS00154). Two iterations on 
+OWL24.0 were required to reach convergence, at which point a true set
+comprising 43 sequences was identified. Several partial matches were
+also found, which are either fragments or sequences that fail to make
+significant matches with one or more of the motifs.
+
+An update on SPTR37_9f identified a true set of 129 sequences, and 20
+partial matches.

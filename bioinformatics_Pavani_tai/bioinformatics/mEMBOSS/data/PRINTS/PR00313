@@ -1,0 +1,21 @@
+CABNDNGRPT
+The nodO gene encodes an exported protein that contains a multiple tandem
+repeat of a nonapeptide [1]. This nonapeptide has been shown to be 
+similar to repeated sequences in a group of bacterial exported proteins 
+that includes haemolysin, cyclolysin, leukotoxin and 2 proteases. It has
+been suggested that the internally repeated domain of haemolysin may be
+involved in Ca-mediated binding to erythrocytes.
+
+CABNDNGRPT is a 4-element fingerprint that provides a signature for these
+putative Ca-binding repeats. The fingerprint was derived from an initial
+alignment of 7 sequences: each of the 4 motifs encodes 1 nonapeptide.
+Three iterations on OWL10.1 were required to reach convergence, at which
+point a true set comprising 10 sequences was identified.
+
+Three sequences, presumed to be noise, matched just 2 motifs (NGOPOR, 
+PK3G37, and SUSARSRNA): matches with individual elements of the fingerprint
+were all relatively strong, but each sequence contained only a single copy
+of the nonapeptide, while the true set is characterised by multiple copies.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 26
+partial matches.

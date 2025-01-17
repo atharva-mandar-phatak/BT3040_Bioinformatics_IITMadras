@@ -1,0 +1,66 @@
+*****************************************
+* HSF-type DNA-binding domain signature *
+*****************************************
+
+Heat shock factor (HSF) is a DNA-binding protein  that specifically binds heat
+shock  promoter  elements (HSE).  HSE  is  a  palindromic  element  rich  with
+repetitive purine and  pyrimidine motifs:  5'-nGAAnnTTCnnGAAnnTTCn-3'.  HSF is
+expressed at normal  temperatures but is  activated  by heat shock or chemical
+stressors [1,2]. The sequences  of  HSF  from  various  species show extensive
+similarity in  a  region  of about 90 amino acids, which has been shown [3] to
+bind DNA.
+
+Some other proteins also contain a HSF domain, these are:
+
+ - Yeast  SFL1,  a protein involved in cell surface assembly and regulation of
+   the gene related to flocculation (asexual cell aggregation) [4].
+ - Yeast  transcription  factor  SKN7  (or  BRY1  or POS9), which binds to the
+   promoter elements  SCB  and  MCB  essential  for the controal of G1 cyclins
+   expression [5].
+ - Yeast MGA1.
+ - Yeast hypothetical protein YJR147w.
+
+We have  derived a pattern from the most conserved part of the HSF DNA-binding
+domain, its central region.
+
+-Consensus pattern: L-x(3)-[FY]-K-H-x-N-x-[STAN]-S-F-[LIVM]-R-Q-L-[NH]-x-Y-x-
+                    [FYW]-[RKH]-K-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for YJR147w whose sequence in the HSF domain is quite divergent.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Sorger P.K.
+     "Heat shock factor and the heat shock response."
+     Cell 65:363-366(1991).
+     PubMed=2018972
+[ 2] Mager W.H., Moradas Ferreira P.M.
+     "Stress response of yeast."
+     Biochem. J. 290:1-13(1993).
+     PubMed=8439279
+[ 3] Vuister G.W., Kim S.-J., Orosz A., Marquardt J., Wu C., Bax A.
+     "Solution structure of the DNA-binding domain of Drosophila heat shock
+     transcription factor."
+     Nat. Struct. Biol. 1:605-614(1994).
+     PubMed=7634100
+[ 4] Fujita A., Kikuchi Y., Kuhara S., Misumi Y., Matsumoto S., Kobayashi H.
+     "Domains of the SFL1 protein of yeasts are homologous to Myc
+     oncoproteins or yeast heat-shock transcription factor."
+     Gene 85:321-328(1989).
+     PubMed=2697640
+[ 5] Morgan B.A., Bouquin N., Merrill G.F., Johnston L.H.
+     "A yeast transcription factor bypassing the requirement for SBF and
+     DSC1/MBF in budding yeast has homology to bacterial signal
+     transduction proteins."
+     EMBO J. 14:5679-5689(1995).
+     PubMed=8521825
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

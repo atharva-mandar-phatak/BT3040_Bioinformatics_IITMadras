@@ -1,0 +1,26 @@
+TSP1REPEAT
+The TSP1 (thrombospondin 1) repeat was first identified in the
+thrombospondin protein, where it is repeated 3 times [1]. The domain is 
+~60 amino acid residues in length and is characterised by a highly 
+conserved W-S-X-W motif and six cysteine residues [2]. TSP1 repeats have  
+been identified in a number of proteins including: the complement pathway
+proteins properdin, C6, C7, C8A, C8B and C9; extracellular matrix proteins,
+including mindin, ADAMTS and F-spondin; Plasmodium TRAP proteins; and G 
+protein-coupled receptors, such as the brain-specific angiogenesis 
+inhibitors [2]. The domains have a number of functions, including effects 
+on cell attachment, motility, proliferation, the activities of extracellular
+proteases, and inhibition of angiogenesis, contributing to vascular 
+homeostasis [2]. A study of the structure of properdin indicates that the 
+TSP1 repeat contains two amphipathic turn regions and a hydrophilic 
+beta-strand [3].
+
+TSP1REPEAT is a 3-element fingerprint that provides a signature for the
+thrombospondin type 1 repeat. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full length of the domain - motif 1 encodes the well-conserved
+N-terminal portion, including the W-S-X-W motif; and motifs 2 and 3 span the
+less conserved central and C-terminal portions of the repeat, respectively.
+Four iterations on SPTR40_18f were required to reach convergence, at which
+point a true set comprising 87 sequences was identified. Numerous partial
+matches were also found: all are thrombospondin repeat-containing proteins
+that fail to match one of the motifs.

@@ -1,0 +1,137 @@
+****************************************
+* Aldehyde dehydrogenases active sites *
+****************************************
+
+Aldehyde dehydrogenases (EC 1.2.1.3 and EC 1.2.1.5)  are enzymes which oxidize
+a wide variety of aliphatic and aromatic aldehydes.  In mammals at least  four
+different forms  of  the enzyme are known [1]: class-1 (or Ald C) a tetrameric
+cytosolic enzyme, class-2 (or Ald M) a tetrameric mitochondrial enzyme, class-
+3 (or Ald D) a dimeric  cytosolic  enzyme,  and  class IV a microsomal enzyme.
+Aldehyde  dehydrogenases  have  also  been sequenced from fungal and bacterial
+species.  A number of enzymes are known to be evolutionary related to aldehyde
+dehydrogenases; these enzymes are listed below.
+
+ - Plants and bacterial  betaine-aldehyde  dehydrogenase  (EC 1.2.1.8) [2], an
+   enzyme that catalyzes the last step in the biosynthesis of betaine.
+ - Plants     and    bacterial    NADP-dependent    glyceraldehyde-3-phosphate
+   dehydrogenase (EC 1.2.1.9).
+ - Escherichia coli succinate-semialdehyde dehydrogenase (NADP+) (EC 1.2.1.16)
+   (gene gabD) [3], which reduces succinate semialdehyde into succinate.
+ - Escherichia coli lactaldehyde dehydrogenase (EC 1.2.1.22) (gene ald) [4].
+ - Mammalian succinate semialdehyde dehydrogenase (NAD+) (EC 1.2.1.24).
+ - Escherichia coli phenylacetaldehyde dehydrogenase (EC 1.2.1.39).
+ - Escherichia     coli     5-carboxymethyl-2-hydroxymuconate     semialdehyde
+   dehydrogenase (gene hpcC).
+ - Pseudomonas putida 2-hydroxymuconic  semialdehyde  dehydrogenase [5] (genes
+   dmpC and xylG), an enzyme in the meta-cleavage pathway for  the degradation
+   of phenols, cresols and catechol.
+ - Bacterial and  mammalian  methylmalonate-semialdehyde dehydrogenase (MMSDH)
+   (EC 1.2.1.27) [6],  an  enzyme  involved  in  the  distal pathway of valine
+   catabolism.
+ - Yeast delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12) [7] (gene
+   PUT2), which converts proline to glutamate.
+ - Bacterial multifunctional putA protein, which contains a delta-1-pyrroline-
+   5-carboxylate dehydrogenase domain.
+ - 26G,  a  garden  pea  protein  of  unknown  function  which  is  induced by
+   dehydration of shoots [8].
+ - Mammalian formyltetrahydrofolate  dehydrogenase (EC 1.5.1.6) [9]. This is a
+   cytosolic enzyme   responsible  for   the  NADP-dependent   decarboxylative
+   reduction of  10-formyltetrahydrofolate  into  tetrahydrofolate.  It  is an
+   protein of about 900 amino  acids  which consist of three  domains;  the C-
+   terminal domain (480 residues) is structurally and  functionally related to
+   aldehyde dehydrogenases.
+ - Yeast hypothetical protein YBR006w.
+ - Yeast hypothetical protein YER073w.
+ - Yeast hypothetical protein YHR039c.
+ - Caenorhabditis elegans hypothetical protein F01F1.6.
+
+A glutamic acid and a cysteine residue  have  been implicated in the catalytic
+activity of mammalian aldehyde dehydrogenase.  These residues are conserved in
+all the enzymes of this family.  We have derived two patterns for this family,
+one for each of the active site residues.
+
+-Consensus pattern: [LIVMFGA]-E-[LIMSTAC]-[GS]-G-[KNLM]-[SADN]-[TAPFV]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 13 sequences.
+-Other sequence(s) detected in Swiss-Prot: 44.
+
+-Consensus pattern: [FYLVA]-x-{GVEP}-{DILV}-G-[QE]-{LPYG}-C-[LIVMGSTANC]-
+                    [AGCN]-{HE}-[GSTADNEKR]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 13 sequences.
+-Other sequence(s) detected in Swiss-Prot: 90.
+
+-Note: Omega-crystallins are  minor structural components of squids and octopi
+ eye lens. They are  evolutionary  related to aldehyde dehydrogenases but have
+ lost their catalytic activity. These patterns will not detect them.
+
+-Expert(s) to contact by email:
+           Joernvall H.; hans.jornvall@k1m.ki.se
+           Persson B.; bengt.persson@mbb.ki.se
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hempel J., Harper K., Lindahl R.
+     "Inducible (class 3) aldehyde dehydrogenase from rat hepatocellular
+     carcinoma and 2,3,7,8-tetrachlorodibenzo-p-dioxin-treated liver:
+     distant relationship to the class 1 and 2 enzymes from mammalian liver
+     cytosol/mitochondria."
+     Biochemistry 28:1160-1167(1989).
+     PubMed=2713359
+[ 2] Weretilnyk E.A., Hanson A.D.
+     "Molecular cloning of a plant betaine-aldehyde dehydrogenase, an
+     enzyme implicated in adaptation to salinity and drought."
+     Proc. Natl. Acad. Sci. U.S.A. 87:2745-2749(1990).
+     PubMed=2320587
+[ 3] Niegemann E., Schulz A., Bartsch K.
+     "Molecular organization of the Escherichia coli gab cluster:
+     nucleotide sequence of the structural genes gabD and gabP and
+     expression of the GABA permease gene."
+     Arch. Microbiol. 160:454-460(1993).
+     PubMed=8297211
+[ 4] Hidalgo E., Chen Y.-M., Lin E.C.C., Aguilar J.
+     "Molecular cloning and DNA sequencing of the Escherichia coli K-12 ald
+     gene encoding aldehyde dehydrogenase."
+     J. Bacteriol. 173:6118-6123(1991).
+     PubMed=1917845
+[ 5] Nordlund I., Shingler V.
+     "Nucleotide sequences of the meta-cleavage pathway enzymes
+     2-hydroxymuconic semialdehyde dehydrogenase and 2-hydroxymuconic
+     semialdehyde hydrolase from Pseudomonas CF600."
+     Biochim. Biophys. Acta 1049:227-230(1990).
+     PubMed=2194577
+[ 6] Steele M.I., Lorenz D., Hatter K., Park A., Sokatch J.R.
+     "Characterization of the mmsAB operon of Pseudomonas aeruginosa PAO
+     encoding methylmalonate-semialdehyde dehydrogenase and
+     3-hydroxyisobutyrate dehydrogenase."
+     J. Biol. Chem. 267:13585-13592(1992).
+     PubMed=1339433
+[ 7] Krzywicki K.A., Brandriss M.C.
+     "Primary structure of the nuclear PUT2 gene involved in the
+     mitochondrial pathway for proline utilization in Saccharomyces
+     cerevisiae."
+     Mol. Cell. Biol. 4:2837-2842(1984).
+     PubMed=6098824
+[ 8] Guerrero F.D., Jones J.T., Mullet J.E.
+     "Turgor-responsive gene transcription and RNA levels increase rapidly
+     when pea shoots are wilted. Sequence and expression of three inducible
+     genes."
+     Plant Mol. Biol. 15:11-26(1990).
+     PubMed=1715781
+[ 9] Cook R.J., Lloyd R.S., Wagner C.
+     "Isolation and characterization of cDNA clones for rat liver
+     10-formyltetrahydrofolate dehydrogenase."
+     J. Biol. Chem. 266:4965-4973(1991).
+     PubMed=1848231
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,54 @@
+**************************************************
+* Intradiol ring-cleavage dioxygenases signature *
+**************************************************
+
+Dioxygenases catalyze the incorporation of both atoms of molecular oxygen into
+substrates.  Cleavage of  aromatic rings is one of the most important function
+of  dioxygenases.   The  substrates  of  ring-cleavage   dioxygenases  can  be
+classified into two groups  according to the mode  of scission of the aromatic
+ring. Intradiol enzymes  cleave the aromatic ring between two hydroxyl groups,
+whereas extradiol  enzymes cleave  the aromatic  ring between  a  hydroxylated
+carbon and another adjacent nonhydroxylated carbon [1]. Intradiol dioxygenases
+require a nonheme  ferric ion as a cofactor.  The enzymes that  belong to this
+family are:
+
+ - Protocatechuate 3,4-dioxygenase  (EC 1.13.11.3) (3,4-PCD),  an   oligomeric
+   enzyme complex  which consists of  12 copies  each  of an alpha  and a beta
+   subunits. Both subunits are evolutionary related.
+ - Catechol 1,2-dioxygenase (EC 1.13.11.1) (gene catA or clcA).
+ - Chlorocatechol 1,2-dioxygenase (EC 1.13.11.1) (gene tfdC).
+
+As a signature pattern for  these enzymes  we  selected a region that includes
+a tyrosine residue which, in 3,4-PCD,  has been shown [2], to be implicated in
+the binding of the ferric iron atom.
+
+-Consensus pattern: [LIVMF]-x-G-x-[LIVM]-x(4)-[GS]-x(2)-[LIVMA]-x(4)-[LIVM]-
+                    [DE]-[LIVMFYC]-x(6)-G-x-[FY]
+                    [Y is an iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Harayama S.; sharayam@ddbj.nig.ac.jp
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Harayama S., Rekik M.
+     "Bacterial aromatic ring-cleavage enzymes are classified into two
+     different gene families."
+     J. Biol. Chem. 264:15328-15333(1989).
+     PubMed=2670937
+[ 2] Ohlendorf D.H., Lipscomb J.D., Weber P.C.
+     "Structure and assembly of protocatechuate 3,4-dioxygenase."
+     Nature 336:403-405(1988).
+     PubMed=3194022; DOI=10.1038/336403a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

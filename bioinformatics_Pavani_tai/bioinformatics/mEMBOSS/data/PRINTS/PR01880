@@ -1,0 +1,38 @@
+FIBRITIN
+Fibritin is a chaperone that mediates a specific phage-assembly 
+process, namely assembly of the long tail fibres and their subsequent
+attachment to the tail baseplate; it is also a sensor that controls
+the retraction of the long tail fibres in adverse environments,
+thereby preventing infection [1-3]. The protein forms fibrous
+structures on the neck of the virion, termed whiskers [1]. During
+phage assembly, 6 fibritin molecules attach to each virion neck
+via their N-terminal domains, forming a collar with 6 whiskers.
+
+Sequence analysis of fibritin has indicated 10 alpha-helical domains
+(19-40 residues in length) with coiled-coil structural patterns. These
+domains comprise ~70% of the entire sequence [1], giving rise to a
+structure that was predicted to be mainly a triple-helical coiled
+coil [2].
+
+The 3D structure of fibritin E, a wild-type deletion mutant, has been
+determined to 2.2A resolution by means of X-ray crystallography [3].
+Three identical 119-residue subunits form a trimeric parallel coiled-
+coil domain and a small globular C-terminal domain: the coiled-coil
+domain comprises three segments separated by loops; the C-terminal
+domain, comprising 30 residues from each subunit, contains a beta-
+propeller-like structure with a hydrophobic interior [3]. 
+
+The C-terminal domain is important for correct fibritin assembly. It
+is thought that the interplay between the stabilising effect of the
+C-terminal domain and the labile coiled-coil domain may be essential
+for the fibritin function, and indeed for the correct functioning of
+many other alpha-fibrous proteins [3].
+
+FIBRITIN is a 5-element fingerprint that provides a signature for
+fibritin. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs were drawn from conserved regions spanning
+the C-terminal quarter of the alignment - motif 1 includes helix 1;
+motif 2 spans the N-terminus of helix 2; motifs 3 and 4 encompass
+helix 4; and motif 5 includes strand 1. A single iteration on
+SPTR41_24f was required to reach convergence, no further sequences
+being identified beyond the starting set.

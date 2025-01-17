@@ -1,0 +1,60 @@
+*********************************
+* NUP C-terminal domain profile *
+*********************************
+
+Communication between  the  nucleus  and  cytoplams  of  an eukaryotic cell is
+mediated by  the  nuclear  pore  complexes  (NPCs),  which  act  as  selective
+molecular gateways.  Through  these  gateways,  RNAs and proteins are exported
+into the   nucleus.   Each  NPC  consists  of  ~30  distinct  proteins  termed
+nucleoporins, each  present in at least eight copies, reflecting the octagonal
+symmetry of  the  complex. The following nucleoporins share an ~150-residue C-
+terminal domain responsible for NPC targeting [1,2]:
+
+ - Vertebrate  Nup98,  a  component of the nuclear pore that plays its primary
+   role in the export of RNAs.
+ - Yeast  Nup100, plays an important role in several nuclear export and import
+   pathways including poly(A)+ RNA and protein transport.
+ - Yeast Nup116, which is involved in mRNA export and protein transport.
+ - Yeast Nup145, involved in nuclear poly(A)+ RNA and tRNA export.
+
+The NUP   C-terminal  domains  of  Nup98  and  Nup145  possess  peptidase  S59
+autoproteolytic activity  [E1].  The autoproteolytic sites of Nup98 and Nup145
+each occur immediately C-terminal to the NUP C-terminal domain. Thus, although
+this domain occurs in the middle of each precursor polypeptide, it winds up at
+the C-terminal end of the N-terminal cleavage product. Cleavage of the peptide
+chains are necessary for the proper targeting to the nuclear pore [1,2].
+
+The NUP  C-terminal  domain  adopts a predominantly beta-strand structure (see
+<PDB:2AIV>). The  molecule  consists  of  a six-stranded beta-sheet sandwiched
+against a two-stranded beta-sheet and flanked by alpha-helical regions. The N-
+terminal helical  region consists of two short helices, whereas the stretch on
+the opposite side of molecule consists of a single, longer helix [1,2].
+
+The profile we developed covers the entire NUP C-terminal domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2009 / First entry.
+
+[ 1] Hodel A.E., Hodel M.R., Griffis E.R., Hennig K.A., Ratner G.A., Xu S.,
+     Powers M.A.
+     "The three-dimensional structure of the autoproteolytic, nuclear
+     pore-targeting domain of the human nucleoporin Nup98."
+     Mol. Cell 10:347-358(2002).
+     PubMed=12191480
+[ 2] Robinson M.A., Park S., Sun Z.-Y.J., Silver P.A., Wagner G., Hogle J.M.
+     "Multiple conformations in the ligand-binding site of the yeast
+     nuclear pore-targeting domain of Nup116p."
+     J. Biol. Chem. 280:35723-35732(2005).
+     PubMed=16105837; DOI=10.1074/jbc.M505068200
+[E1] http://merops.sanger.ac.uk/cgi-bin/make_frame_file?id=S59
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

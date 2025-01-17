@@ -1,0 +1,65 @@
+************************
+* F-box domain profile *
+************************
+
+First identified in cyclin-F as a protein-protein interaction motif, the F-box
+is a  conserved  domain  that  is present in numerous protein with a bipartite
+structure [1].  Through  the  F-box,  these  proteins  are  linked to the Skp1
+protein and  the  core  of  SCFs (Skp1-cullin-F-box protein ligase) complexes.
+SCFs complexes  constitute  a  new  class  of E3 ligases [2]. They function in
+combination with   the  E2  enzyme  Cdc34  to  ubiquitinate  G1  cyclins,  Cdk
+inhibitors and  many other proteins, to mark them for degradation. The binding
+of the specific substrates by SCFs complexes is mediated by divergent protein-
+protein interaction  motifs  present in F-box proteins, like WD40 repeats (see
+<PDOC00574>), leucine rich repeats [3,4] or ANK repeats (see <PDOC50088>).
+
+Some proteins known to contain a F-box are listed below:
+
+ - Mammalian G2/mitotic-specific cyclin-F.
+ - Yeast CDC4. It contains WD repeats.
+ - Yeast GRR1. It contains a leucine-rich segment.
+ - Yeast MET30. It contains WD repeats.
+ - Neurospora crassa Scon2. It contains WD repeats.
+ - Emericella nidulans SconB. It contains WD repeats.
+ - Caenorhabditis elegans sel-10. It contains WD repeats.
+ - Xenopus laevis beta-TrCP. It contains WD repeats.
+ - Poxviruses protein B18. They contain ANK repeats.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Hofmann K.; Kay.Hofmann@memorec.com
+
+-Last update: December 2001 / First entry.
+
+[ 1] Bai C., Sen P., Hofmann K., Ma L., Goebl M., Harper J.W.,
+     Elledge S.J.
+     "SKP1 connects cell cycle regulators to the ubiquitin proteolysis
+     machinery through a novel motif, the F-box."
+     Cell 86:263-274(1996).
+     PubMed=8706131
+[ 2] Skowyra D., Craig K.L., Tyers M., Elledge S.J., Harper J.W.
+     "F-box proteins are receptors that recruit phosphorylated substrates
+     to the SCF ubiquitin-ligase complex."
+     Cell 91:209-219(1997).
+     PubMed=9346238
+[ 3] Krek W.
+     "Proteolysis and the G1-S transition: the SCF connection."
+     Curr. Opin. Genet. Dev. 8:36-42(1998).
+     PubMed=9529603
+[ 4] Craig K.L., Tyers M.
+     "The F-box: a new motif for ubiquitin dependent proteolysis in cell
+     cycle regulation and signal transduction."
+     Prog. Biophys. Mol. Biol. 72:299-328(1999).
+     PubMed=10581972
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

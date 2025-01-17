@@ -1,0 +1,83 @@
+****************************************************
+* Glucagon / GIP / secretin / VIP family signature *
+****************************************************
+
+A number of polypeptidic hormones,  mainly  expressed  in the intestine or the
+pancreas, belong to a group of structurally related peptides [1,2]. Members of
+this family are:
+
+ - Glucagon, which promotes hydrolysis of glycogen  and lipids, and raises the
+   blood sugar level.
+ - Glucagon-like peptide 1 (GLP-1), a  peptide of  unknown  function processed
+   from the same precursor protein as that of glucagon.
+ - Glucagon-like  peptide  2  (GLP-2),   a  peptide of  unknown  function also
+   processed from  the  glucagon  precursor  protein but which, in contrast to
+   GLP-1, is only found in mammals.
+ - Gastric inhibitory  polypeptide (GIP),  which  is a  potent  stimulator  of
+   insulin  secretion  and   a   relatively  poor  inhibitor  of  gastric acid
+   secretion.
+ - Secretin, which stimulates formation of NaHCO(3)-rich pancreatic juice  and
+   secretion of NaHCO(3)-rich bile as well as inhibiting HCl production by the
+   stomach.
+ - Vasoactive  intestinal  peptide (VIP), which  causes vasodilatation, lowers
+   arterial blood  pressure,  stimulates  myocardial contractility,  increases
+   glycogenolysis and relaxes some smooth muscles.
+ - Peptide PHI-27, a vasodilator peptide which is coded by the  same precursor
+   protein as that of VIP.
+ - Growth  hormone-releasing factor (GRF) (also known as somatoliberin), which
+   is released by the hypothalamus and acts on the adenohypophyse to stimulate
+   the secretion of growth hormone.
+ - Pituitary adenylate cyclase activating polypeptide (PACAP) [3].
+ - Helospectin (exendin-1),  helodermin (exendin-2),  exendin-3, and exendin-4
+   from the venom of gila monsters.  The  exendins  are  peptides  with a VIP/
+   secretin biological activity [4].
+ - A peptide produced by the X-cells of the islets of ratfish pancreas [5].
+
+As a pattern for this  family of peptides  (which are from 30 to 45 amino acid
+residues long), we used the  more or less conserved first ten positions of the
+N-terminal as well as a conserved hydrophobic residue in position 23.
+
+-Consensus pattern: [YH]-[STAIVGD]-[DEQ]-[AGF]-[LIVMSTE]-[FYLR]-x-[DENSTAK]-
+                    [DENSTA]-[LIVMFYG]-x(8)-{K}-[KREQL]-[KRDENQL]-[LVFYWG]-
+                    [LIVQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Mutt V.
+     "Vasoactive intestinal polypeptide and related peptides. Isolation and
+     chemistry."
+     Ann. N.Y. Acad. Sci. 527:1-19(1988).
+     PubMed=3133967
+[ 2] Bataille D., Blache P., Mercier F., Jarrousse C., Kervran A., Dufour M.,
+     Mangeat P., Dubrasquet M., Mallat A., Lotersztajn S., Pavoine C.,
+     Pecker F.
+     Ann. N.Y. Acad. Sci. 527:169-185(1988).
+[ 3] Miyata A., Arimura A., Dahl R.R., Minamino N., Uehara A., Jiang L.,
+     Culler M.D., Coy D.H.
+     "Isolation of a novel 38 residue-hypothalamic polypeptide which
+     stimulates adenylate cyclase in pituitary cells."
+     Biochem. Biophys. Res. Commun. 164:567-574(1989).
+     PubMed=2803320
+[ 4] Eng J., Kleinman W.A., Singh L., Singh G., Raufman J.-P.
+     "Isolation and characterization of exendin-4, an exendin-3 analogue,
+     from Heloderma suspectum venom. Further evidence for an exendin
+     receptor on dispersed acini from guinea pig pancreas."
+     J. Biol. Chem. 267:7402-7405(1992).
+     PubMed=1313797
+[ 5] Conlon J.M., Dafgard E., Falkmer S., Thim L.
+     "A glucagon-like peptide, structurally related to mammalian
+     oxyntomodulin, from the pancreas of a holocephalan fish, Hydrolagus
+     colliei."
+     Biochem. J. 245:851-855(1987).
+     PubMed=3311036
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

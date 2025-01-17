@@ -1,0 +1,41 @@
+FNTYPEII
+Fibronectins are multi-domain glycoproteins, found in a soluble form in
+plasma, and in an insoluble form in loose connective tissue and basement
+membranes [1]. They contain multiple copies of 3 repeat regions (types 
+I, II and III), which bind to a variety of substances, including heparin,
+collagen, DNA, actin, fibrin and fibronectin receptors on cell surfaces.
+The wide variety of these substances means that fibronectins are involved 
+in a number of important functions: e.g., wound healing; cell adhesion;
+blood coagulation; cell differentiation and migration; maintenance of the
+cellular cytoskeleton; and tumour metastasis [2]. The role of fibronectin 
+in cell differentiation is demonstrated by the marked reduction in the 
+expression of its gene when neoplastic transformation occurs. Cell 
+attachment has been found to be mediated by the binding of the tetrapeptide
+RGDS to integrins on the cell surface [3], although related sequences can 
+also display cell adhesion activity.
+
+Plasma fibronectin occurs as a dimer of 2 different subunits, linked 
+together by 2 disulphide bonds near the C-terminus. The difference in the 
+2 chains occurs in the type III repeat region and is caused by alternative 
+splicing of the mRNA from one gene [1]. The observation that, in a given 
+protein, an individual repeat of one of the 3 types (e.g., the first FnII 
+repeat) shows much less similarity to its subsequent tandem repeats within
+that protein than to its equivalent repeat between fibronectins from other 
+species, has suggested that the repeating structure of fibronectin arose at
+an early stage of evolution. It also seems to suggest that the structure is
+subject to high selective pressure [4].
+
+The FnII repeat lies in the collagen-binding fragment of fibronectin [1].
+The precise location of the collagen binding site, however, has yet to be
+ascertained: it is thus unclear whether it is contained within the type II 
+repeat itself.
+
+FNTYPEII is a 3-element fingerprint that provides a signature for type II
+fibronectin repeats. The fingerprint was derived from an initial align-
+ment of 7 sequences: the motifs span the full length of the FnII domain
+(cf. PROSITE pattern FIBRONECTIN_2 (PS00023)). Two iterations on OWL19.0
+were required to reach convergence, at which point a true set comprising
+16 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 4
+partial matches.

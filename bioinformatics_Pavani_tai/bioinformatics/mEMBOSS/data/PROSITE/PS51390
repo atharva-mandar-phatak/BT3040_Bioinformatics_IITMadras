@@ -1,0 +1,116 @@
+*************************************************
+* WAP-type 'four-disulfide core' domain profile *
+*************************************************
+
+The 'four-disulfide core' or WAP domain comprises 8 cysteine residues involved
+in  disulfide  bonds  in  a  conserved  arrangement  [1]. One or more of these
+domains   occur   in   whey   acidic   protein   (WAP),   antileukoproteinase,
+elastase-inhibitor  proteins and other structurally related proteins which are
+listed below.
+
+ - Whey  acidic  protein  (WAP).  WAP  is a major component of milk whey whose
+   function  might  be  that  of  a  protease  inhibitor.  WAP consists of two
+   'four-disulfide core' domains in most mammals.
+ - Antileukoproteinase 1 (HUSI),  a mucous  fluid serine proteinase inhibitor.
+   HUSI consists of two 'four-disulfide core' domains.
+ - Elafin,  an  elastase-specific  inhibitor  from  human  skin [2,3].
+ - Sodium/potassium ATPase inhibitors SPAI-1, -2, and -3 from pig [4].
+ - Chelonianin, a protease inhibitor from  the eggs  of  red sea turtle.  This
+   inhibitor  consists of  two  domains:  an N-terminal domain which  inhibits
+   trypsin and  belongs  to  the  BPTI/Kunitz  family  of  inhibitors,  and  a
+   C-terminal domain  which  inhibits subtilisin and is a 'four-disulfide core
+   domain'.
+ - Extracellular   peptidase   inhibitor  (WDNM1  protein),  involved  in  the
+   metastatic potential of adenocarcinomas in rats.
+ - Caltrin-like  protein  2  from guinea pig, which inhibits calcium transport
+   into spermatozoa.
+ - Kallmann  syndrome  protein  (Anosmin-1  or  KALIG-1)  [5,6]. This secreted
+   protein  may  be  a  adhesion-like molecule with anti-protease activity. It
+   contains a 'four-disulfide core domain' in its N-terminal part.
+ - Whey  acidic protein (WAP) from the tammar wallaby, which consists of three
+   'four-disulfide core' domains [7].
+ - Waprins  from  snake  venom, such as omwaprin from Oxyuranus microlepidotus
+   [8] which has antibacterial activity against Gram-positive bacteria.
+
+The  following  schematic  representation  shows the position of the conserved
+cysteines that form the 'four-disulfide core' WAP domain (see <PDB:2REL>).
+
+                           +---------------------+
+                           |    +-----------+    |
+                           |    |           |    |
+         xxxxxxxCPxxxxxxxxxCxxxxCxxxxxCxxxxxCCxxxCxxxCxxxx
+                |                     |      |       |
+                |                     +--------------+
+                |                            |
+                +----------------------------+
+
+         <------------------50-residues------------------>
+
+'C': conserved cysteine involved in a disulfide bond.
+
+We  developed  a  profile  that  covers  the  whole  structure of the WAP-type
+'four-disulfide core' domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Claverie J.-M.; jmc@ir1cbm.cnrs-mrs.fr
+
+-Last update: July 2008 / Pattern removed, profile added and text revised.
+
+[ 1] Hennighausen L.G., Sippel A.E.
+     "Mouse whey acidic protein is a novel member of the family of
+     'four-disulfide core' proteins."
+     Nucleic Acids Res. 10:2677-2684(1982).
+     PubMed=6896234
+[ 2] Wiedow O., Schroeder J.-M., Gregory H., Young J.A., Christophers E.
+     "Elafin: an elastase-specific inhibitor of human skin. Purification,
+     characterization, and complete amino acid sequence."
+     J. Biol. Chem. 265:14791-14795(1990).
+     PubMed=2394696
+[ 3] Francart C., Dauchez M., Alix A.J., Lippens G.
+     "Solution structure of R-elafin, a specific inhibitor of elastase."
+     J. Mol. Biol. 268:666-677(1997).
+     PubMed=9171290; DOI=10.1006/jmbi.1997.0983
+[ 4] Araki K., Kuwada M., Ito O., Kuroki J., Tachibana S.
+     "Four disulfide bonds' allocation of Na+, K(+)-ATPase inhibitor
+     (SPAI)."
+     Biochem. Biophys. Res. Commun. 172:42-46(1990).
+     PubMed=2171523
+[ 5] Legouis R., Hardelin J.-P., Levilliers J., Claverie J.-M., Compain S.,
+     Wunderle V., Millasseau P., Le Paslier D., Cohen D., Caterina D.
+     Bougueleret L., Delemarre-Van de Waal H., Lutfalla G., Weissenbach J.,
+     Petit C.
+     "The candidate gene for the X-linked Kallmann syndrome encodes a
+     protein related to adhesion molecules."
+     Cell 67:423-435(1991).
+     PubMed=1913827
+[ 6] Hu Y., Sun Z., Eaton J.T., Bouloux P.M., Perkins S.J.
+     "Extended and flexible domain solution structure of the extracellular
+     matrix protein anosmin-1 by X-ray scattering, analytical
+     ultracentrifugation and constrained modelling."
+     J. Mol. Biol. 350:553-570(2005).
+     PubMed=15949815; DOI=10.1016/j.jmb.2005.04.031
+[ 7] Simpson K.J., Ranganathan S., Fisher J.A., Janssens P.A., Shaw D.C.,
+     Nicholas K.R.
+     "The gene for a novel member of the whey acidic protein family encodes
+     three four-disulfide core domains and is asynchronously expressed
+     during lactation."
+     J. Biol. Chem. 275:23074-23081(2000).
+     PubMed=10801834; DOI=10.1074/jbc.M002161200
+[ 8] Nair D.G., Fry B.G., Alewood P., Kumar P.P., Kini R.M.
+     "Antimicrobial activity of omwaprin, a new member of the waprin family
+     of snake venom proteins."
+     Biochem. J. 402:93-104(2007).
+     PubMed=17044815; DOI=10.1042/BJ20060318
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

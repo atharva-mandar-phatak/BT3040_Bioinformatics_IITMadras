@@ -1,0 +1,63 @@
+***********************************************************
+* Protein prenyltransferases alpha subunit repeat profile *
+***********************************************************
+
+Protein  prenyltransferases  catalyze the transfer of an isoprenyl moiety to a
+cysteine  at  or  near the C-terminus of several eukaryotic proteins. They are
+heterodimeric enzymes consisting of alpha and beta subunits. The alpha subunit
+is  thought  to  participate in a stable complex with the isoprenyl substrate;
+the beta subunit binds the peptide substrate. There are three types of protein
+prenyltransferases.  The alpha subunits of two types, i.e. farnesyltransferase
+and  geranylgeranyltransferase  I  are  encoded  by the same gene, FNTA. These
+proteins  bind  the  same  motif  (the  CaaX box) around the cysteine in their
+substrates.  The  third  type,  geranylgeranyl  transferase  type  II  (Rab GG
+transferase) recognizes a different, non-CaaX motif [1].
+
+Both  the  alpha  and  beta subunit show repetitive sequence motifs [2]. These
+repeats have distinct structural and functional implications and are unrelated
+to  each other. The conserved domain of the alpha subunit consists of about 35
+amino  acids  and  is  repeated  five  times.  The domain folds into a pair of
+antiparallel  alpha  helices,  which are packed in a parallel arrangement with
+adjacent  domains  in  a  superhelical  pattern  (see <PDB:1TN6>). A conserved
+tryptophan  in the fourth position of the second helix interacts with both the
+first helix and the neighboring helix of the next repeat [3].
+
+Two types of protein prenyltransferase alpha subunits are known:
+
+ - Farnesyltransferase/geranylgeranyltransferase    type-1    subunit    alpha
+   (EC 2.5.1.58) (EC 2.5.1.59).
+ - Geranylgeranyl transferase type-2 subunit alpha (EC 2.5.1.60).
+
+The  profile  we  developed covers the entire protein prenyltransferases alpha
+subunit repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2005 / Pattern removed, profile added and text revised.
+
+[ 1] Maurer-Stroh S., Washietl S., Eisenhaber F.
+     "Protein prenyltransferases."
+     Genome Biol. 4:212-212(2003).
+     PubMed=12702202
+[ 2] Boguski M.S., Murray A.W., Powers S.
+     "Novel repetitive sequence motifs in the alpha and beta subunits of
+     prenyl-protein transferases and homology of the alpha subunit to the
+     MAD2 gene product of yeast."
+     New Biol. 4:408-411(1992).
+     PubMed=1622936
+[ 3] Zhang H., Grishin N.V.
+     "The alpha-subunit of protein prenyltransferases is a member of the
+     tetratricopeptide repeat family."
+     Protein Sci. 8:1658-1667(1999).
+     PubMed=10452610
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

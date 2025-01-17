@@ -1,0 +1,38 @@
+CLATHRINADPT
+Clathrin-coated pits and vesicles originate from the plasma membrane and 
+the trans-Golgi, and mediate the trafficking of proteins to and from the
+membranes [1]. The different vesicle types transport different proteins:
+plasma membrane vesicles are involved in the endocytosis of membrane
+proteins, such as LDL and EGF receptors; and trans-Golgi vesicles are
+involved in protein sorting and regulated secretion. The main components
+of the pits are clathrin, and the clathrin-associated protein complex, AP,
+(also known as assembly or adaptor proteins) [1,2]. Both trans-Golgi
+adaptor proteins, AP-1, and plasma membrane adaptor proteins, AP-2, are
+heterotetramers that consist of 2 large chains (beta' and gamma in AP-1,
+and alpha and beta in AP-2); a medium chain (AP47 in AP-1, and AP50 in
+AP-2); and a small chain (AP19 in AP-1, and AP17 in AP-2).
+
+The adaptor complexes are believed to couple clathrin lattices with 
+particular membrane proteins by interacting with their cytoplasmic tails,
+leading to their selection and concentration: the medium chains regulate
+this process by self-phosphorylation via a mechanism that is still unclear
+[2]. The medium chains possess a highly conserved N-terminal domain of
+around 230 amino acids, which may be the region of interaction with other
+AP proteins; a linker region of between 10 and 42 amino acids; and a less
+well-conserved C-terminal domain of around 190 amino acids, which may be
+the site of specific interaction with the protein being transported
+in the vesicle [2].
+
+CLATHRINADPT is a 6-element fingerprint that provides a signature for the 
+medium chain of the clathrin-associated protein complex. The fingerprint
+was derived from an initial alignment of 5 sequences: motifs 1-3 were drawn
+from conserved regions in the N-terminal half of the protein, and motifs
+4-6 from the C-terminal portion - motifs 2 and 4 include the regions
+encoded by PROSITE patterns CLAT_ADAPTOR_M_1 (PS00990) and CLAT_ADAPTOR_M_2
+(PS00991). Two iterations on OWL24.0 were required to reach convergence, at
+which point a true set comprising 6 sequences was identified. Four partial
+matches were also found, all of which fail to make significant matches with
+motifs 1, 5 and 6.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 12
+partial matches.

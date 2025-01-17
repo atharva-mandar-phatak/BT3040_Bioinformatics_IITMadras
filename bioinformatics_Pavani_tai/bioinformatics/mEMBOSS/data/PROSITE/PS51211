@@ -1,0 +1,87 @@
+*******************************
+* Vitellogenin domain profile *
+*******************************
+
+The vitellogenin (VTG) protein, a major lipoprotein in many oviparous animals,
+is  a precursor of a lipid-binding product named as lipovitellin. Lipovitellin
+is  the  major  lipid–protein complex found in the yolk of egg-laying animals,
+and  is  involved in lipid and metal storage. At the N-terminal, it contains a
+sequence  of  about  670  amino acids (LV1n chain), which is also conserved in
+other  large  lipoproteins,  such  as microsomal triglyceride transfer protein
+(MTP) and apolipoprotein B-100 (apoB) [1,2,3].
+
+The crystal structure of lipovitellin has been solved (see <PDB:1LSH>) [4]. It
+shows  that  the  N-terminal domain (LV1n chain) contains two subdomains the N
+sheet,  and  the  helical  subdomain.  It  also  includes portions of two more
+subdomains,  which are part of the LV1c chain, one beta-strand of the A-sheet,
+and   five  beta-strands  of  the  C-sheet.  The  N-sheet  subdomain  forms  a
+barrel-like  conformation.  It  contains  two  disulfide  bridges  (cys1-cys2,
+cys3-cys4). The first disulfide bridge appears to be conserved in both MTP and
+apoB  [1,4].  The  helical subdomain has a crescent shape. This subdomain also
+contains  one  disulfide bridge (cys1-cys2) [1,3]. The lipid-binding cavity is
+formed  primarily  by  the  A  and C sheets and a small section of the helical
+domain.  It  is  roughly  funnel-  or cup-shaped. The phosphatidylcholine, L1,
+binds  in  a  large  loop  at  the narrow end of the lipid ‘funnel’. This loop
+region  is  stabilized  on  both  ends by the N-sheet disulfide bridges. L2 is
+located  in  a nonpolar region of the protein and has hydrophobic interactions
+with  residues  from  the  N sheet. The other part of the binding site derives
+from the A sheet and includes side chains from the LV1c.
+
+Some proteins known to contain a vitellogenin domain are listed below:
+
+ - Insect  apolipophorin II/I precursor (apoLp-II/I), which mediates transport
+   for  various  types  of lipids in hemolymph. It acts by forming lipoprotein
+   particles that bind lipoproteins and lipids.
+ - Human  apolipoprotein  B  (apoB),  which  is a major protein constituent of
+   chylomicrons  (apo  B-48),  LDL (apo B-100) and VLDL (apo B-100). Apo B-100
+   functions   as   a   recognition   signal  for  the  cellular  binding  and
+   internalization of LDL particles by the apoB/E receptor
+ - Invertebrate  and vertebrate vitellogenins (VTG), which is precursor of the
+   egg-yolk  proteins  that  are  sources  of  nutrients  during  during early
+   development of oviparous organisms.
+ - The  large  subunit  of  mammalian microsomal triglyceride transfer protein
+   (MTP),  which  catalyzes  the transport of triglyceride, cholesteryl ester,
+   and  phospholipid  between  phospholipid  surfaces.  It is required for the
+   secretion of plasma lipoproteins that contain apolipoprotein B.
+
+We  developed a profile for this domain, that spans the whole LV1n domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2006 / First entry.
+
+[ 1] Anderson T.A., Levitt D.G., Banaszak L.J.
+     "The structural basis of lipid interactions in lipovitellin, a soluble
+     lipoprotein."
+     Structure 6:895-909(1998).
+     PubMed=9687371
+[ 2] Mann C.J., Anderson T.A., Read J., Chester S.A., Harrison G.B.,
+     Kochl S., Ritchie P.J., Bradbury P., Hussain F.S., Amey J., Vanloo B.,
+     Rosseneu M., Infante R., Hancock J.M., Levitt D.G., Banaszak L.J.,
+     Scott J., Shoulders C.C.
+     "The structure of vitellogenin provides a molecular model for the
+     assembly and secretion of atherogenic lipoproteins."
+     J. Mol. Biol. 285:391-408(1999).
+     PubMed=9878414; DOI=10.1006/jmbi.1998.2298
+[ 3] Babin P.J., Bogerd J., Kooiman F.P., Van Marrewijk W.J.A.,
+     Van der Horst D.J.
+     "Apolipophorin II/I, apolipoprotein B, vitellogenin, and microsomal
+     triglyceride transfer protein genes are derived from a common
+     ancestor."
+     J. Mol. Evol. 49:150-160(1999).
+     PubMed=10368443
+[ 4] Thompson J.R., Banaszak L.J.
+     "Lipid-protein interactions in lipovitellin."
+     Biochemistry 41:9398-9409(2002).
+     PubMed=12135361; DOI=10.1021/bi025674w
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

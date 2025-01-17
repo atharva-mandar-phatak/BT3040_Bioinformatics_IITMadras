@@ -1,0 +1,61 @@
+CRFRECEPTOR2
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+Corticotropin-releasing factor (CRF) is the principal neuroregulator of the
+hypothalamic-pituitary-adrenocortical axis, playing an important role in
+coordinating the endocrine, autonomic and behavioral responses to stress
+and immune challenge [6]. The CRF receptor has been found in human cortex
+tissue, pituitary, brainstem and testis [7]. The protein comprises 415 
+amino acid residues with the characterstic 7TM architecture of the
+secretin-like GPCR superfamily. Three isoforms (designated CRF-R1, CRF-R2
+and CRF-R3) are produced as a result of alternative splicing of the same
+gene: CRF-R1 appears to be the predominant form; CRF-R3 does not bind to
+CRF with a high affinity [6]. For the CRF-R2 receptor, at least 2 splice 
+forms with different 5'-coding sequences (CRF2 alpha and CRF2 beta) have 
+been identified in rat [8].
+
+The sequence of the CRF-R is highly conserved between species, the majority 
+of the sequence divergence occuring in the putative signal peptide and 
+extracellular N-terminal domain. The relative abundance of CRF-R2 messenger
+RNA appears to be lower in humans than in rats for the heart and skeletal
+tissues studied to date [8]. CRF-R2 stimulates cAMP production in response
+to CRF and known CRF-like agonists [9]. CRF and the non-mammalian 
+CRF-related peptides sauvagine and urotensin I stimulate adenylate cyclase
+activity in a dose-dependent manner, with a rank order of potency that
+differs from that of the CRF1 receptor (sauvagine>urotensin>=rat/human 
+CRF>ovine CRF) [9]. The differences in the pharmacological profiles and 
+tissue distributions of CRF-R1 and CRF-R2 suggests important functional
+differences between the two receptors [9].   
+
+CRFRECEPTOR is a 5-element fingerprint that provides a signature for type 2 
+corticotropin releasing factor receptors. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the type 2 CRF receptors but distinguish them
+from the rest of the CRF receptor family - motifs 1-3 span the putative
+N-terminal extracellular domain; motif 4 spans the first extracellular 
+loop; and motif 5 resides within the second extracellular loop. A single
+iteration on SPTR37_10f was required to reach convergence, no further
+sequences being identified beyond the starting set. Two partial matches
+were found, O43461 and Q99431, both of which are type 2 CRF receptors that
+fail to match the first motif. 

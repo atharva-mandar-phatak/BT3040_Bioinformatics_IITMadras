@@ -1,0 +1,97 @@
+**********************************************************************************************
+* Tetrahydrobiopterin-dependent aromatic amino acid hydroxylase family signature and profile *
+**********************************************************************************************
+
+Hydroxylation   of  the  aromatic  amino  acids  phenylalanine,  tyrosine  and
+tryptophan is carried out by a family of non-heme iron and tetrahydrobiopterin
+(BH4)  dependent  enzymes:  the  aromatic  amino  acid  hydroxylase [1]. These
+enzymes  are  structurally  and  functionally  similar.  The  eukaryotic forms
+include  a  regulatory  N-terminal domain, a catalytic domain and a C-terminal
+oligomerization motif. The eukaryotic enzymes are all homotetramers [2,3].
+
+Three-dimensional  structures  have  been  determined  for  the three types of
+enzymes  (see  for  example <PDB:1J8U>). The iron atom is bound to three amino
+acid  residues,  two  close  histidine and a more distant acidic residue. This
+arrangement  of  ligands has been observed in a number of metalloproteins with
+divergent function [4].
+
+Enzymes  that belong to the aromatic amino acid hydroxylase family are listed
+below:
+
+ - Phenylalanine-4-hydroxylase (EC 1.14.16.1) (PAH).  Catalyzes the conversion
+   of phenylalanine to tyrosine. In humans, deficiencies [5,E1] of PAH are the
+   cause of  phenylketonuria,  the  most  common  inborn  error  of amino acid
+   metabolism. In  the  bacteria Chromobacterium violaceum [6], PAH is copper-
+   dependent; it is iron-dependent in Pseudomonas aeruginosa [7].
+ - Tyrosine 3-hydroxylase (EC 1.14.16.2) (TYH). Catalyzes  the  rate  limiting
+   step in  catecholamine  biosynthesis:  the  conversion of  tyrosine to 3,4-
+   dihydroxy-L-phenylalanine.
+ - Tryptophan 5-hydroxylase (EC 1.14.16.4) (TRH). Catalyzes  the rate-limiting
+   step in serotonin biosynthesis: the conversion  of tryptophan to 3-hydroxy-
+   anthranilate.
+
+As  a signature pattern for this family, we selected a conserved region in the
+central  part  of  these enzymes, which contains two conserved histidines that
+are  involved  in  the  binding to iron. The profile we developed contains the
+catalytic domain and the coiled-coil C-terminal oligomerization motif.
+
+-Consensus pattern: P-D-x(2)-H-[DE]-[LIVF]-[LIVMFY]-G-H-[LIVMC]-[PA]
+                    [The 2 H's are iron or copper ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2010 / Text revised; profile added.
+
+[ 1] Grenett H.E., Ledley F.D., Reed L.L., Woo S.L.C.
+     "Full-length cDNA for rabbit tryptophan hydroxylase: functional
+     domains and evolution of aromatic amino acid hydroxylases."
+     Proc. Natl. Acad. Sci. U.S.A. 84:5530-5534(1987).
+     PubMed=3475690
+[ 2] Fitzpatrick P.F.
+     "Mechanism of aromatic amino acid hydroxylation."
+     Biochemistry 42:14083-14091(2003).
+     PubMed=14640675; DOI=10.1021/bi035656u
+[ 3] Teigen K., Dao K.K., McKinney J.A., Gorren A.C., Mayer B.,
+     Froystein N.A., Haavik J., Martinez A.
+     "Tetrahydrobiopterin binding to aromatic amino acid hydroxylases.
+     Ligand recognition and specificity."
+     J. Med. Chem. 47:5962-5971(2004).
+     PubMed=15537351; DOI=10.1021/jm0497646
+[ 4] Andersen O.A., Flatmark T., Hough E.
+     "High resolution crystal structures of the catalytic domain of human
+     phenylalanine hydroxylase in its catalytically active Fe(II) form and
+     binary complex with tetrahydrobiopterin."
+     J. Mol. Biol. 314:279-291(2001).
+     PubMed=11718561; DOI=10.1006/jmbi.2001.5061
+[ 5] Hoang L., Byck S., Prevost L., Scriver C.R.
+     "PAH Mutation Analysis Consortium Database: a database for
+     disease-producing and other allelic variation at the human PAH
+     locus."
+     Nucleic Acids Res. 24:127-131(1996).
+     PubMed=8594560
+[ 6] Onishi A., Liotta L.J., Benkovic S.J.
+     "Cloning and expression of Chromobacterium violaceum phenylalanine
+     hydroxylase in Escherichia coli and comparison of amino acid sequence
+     with mammalian aromatic amino acid hydroxylases."
+     J. Biol. Chem. 266:18454-18459(1991).
+     PubMed=1655752
+[ 7] Zhao G.S., Xia T., Song J., Jensen R.A.
+     "Pseudomonas aeruginosa possesses homologues of mammalian
+     phenylalanine hydroxylase and 4 alpha-carbinolamine dehydratase/DCoH
+     as part of a three-component gene cluster."
+     Proc. Natl. Acad. Sci. U.S.A. 91:1366-1370(1994).
+     PubMed=8108417
+[E1] http://www.pahdb.mcgill.ca/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,95 @@
+**********************************************************************
+* Gamma-carboxyglutamic acid-rich (Gla) domain signature and profile *
+**********************************************************************
+
+The  vitamin  K-dependent  blood  coagulation  factor  IX  as  well as several
+extracellular  regulatory proteins require vitamin K for the posttranslational
+synthesis  of  gamma-carboxyglutamic  acid,  an  amino  acid  clustered in the
+N-terminal  Gla  domain  of these proteins [1,2]. The Gla domain is a membrane
+binding  motif  which,  in  the  presence  of  calcium  ions,  interacts  with
+phospholipid membranes that include phosphatidylserine.
+
+The  3D  structure  of  the  Gla  domain  has  been  solved  (see  for example
+<PDB:1CFH>)  [3,4].  Calcium  ions  induce  conformational  changes in the Gla
+domain  and  are  necessary  for  the  Gla  domain  to fold properly. A common
+structural  feature  of functional Gla domains is the clustering of N-terminal
+hydrophobic  residues  into a hydrophobic patch that mediates interaction with
+the cell surface membrane [4].
+
+Proteins known to contain a Gla domain are listed below:
+
+ - A number of plasma proteins involved in blood coagulation.   These proteins
+   are prothrombin, coagulation factors VII, IX and X, proteins C, S, and Z.
+ - Two proteins that  occur  in calcified tissues:  osteocalcin (also known as
+   bone-Gla protein, BGP), and matrix Gla-protein (MGP).
+ - Proline-rich Gla proteins 1 and 2 [5].
+ - Cone snail venom peptides: conantokin-G and -T, and conotoxin GS [6].
+
+The  pattern  we  developed  start with the conserved Gla-x(3)-Gla-x-Cys motif
+found  in  the  middle of the domain which seems to be important for substrate
+recognition by the carboxylase [7] and end with the last conserved position of
+the  domain (an aromatic residue). We also developed a profile that covers the
+whole Gla domain.
+
+-Consensus pattern: E-x(2)-[ERK]-E-x-C-x(6)-[EDR]-x(10,11)-[FYA]-[YW]
+                    [The 2 E's are the carboxylation site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: All glutamic residues present in the domain are potential carboxylation
+ sites; in coagulation proteins, all are modified to Gla, while in BGP and MGP
+ some are not.
+
+-Expert(s) to contact by email:
+           Price P.A.; pprice@ucsd.edu
+
+-Last update: June 2004 / Pattern and text revised; profile added.
+
+[ 1] Friedman P.A., Przysiecki C.T.
+     "Vitamin K-dependent carboxylation."
+     Int. J. Biochem. 19:1-7(1987).
+     PubMed=3106112
+[ 2] Vermeer C.
+     "Gamma-carboxyglutamate-containing proteins and the vitamin
+     K-dependent carboxylase."
+     Biochem. J. 266:625-636(1990).
+     PubMed=2183788
+[ 3] Freedman S.J., Furie B.C., Furie B., Baleja J.D.
+     "Structure of the metal-free gamma-carboxyglutamic acid-rich membrane
+     binding region of factor IX by two-dimensional NMR spectroscopy."
+     J. Biol. Chem. 270:7980-7987(1995).
+     PubMed=7713897
+[ 4] Freedman S.J., Blostein M.D., Baleja J.D., Jacobs M., Furie B.C.,
+     Furie B.
+     "Identification of the phospholipid binding site in the vitamin
+     K-dependent blood coagulation protein factor IX."
+     J. Biol. Chem. 271:16227-16236(1996).
+     PubMed=8663165
+[ 5] Kulman J.D., Harris J.E., Haldeman B.A., Davie E.W.
+     "Primary structure and tissue distribution of two novel proline-rich
+     gamma-carboxyglutamic acid proteins."
+     Proc. Natl. Acad. Sci. U.S.A. 94:9058-9062(1997).
+     PubMed=9256434
+[ 6] Haack J.A., Rivier J.E., Parks T.N., Mena E.E., Cruz L.J., Olivera B.M.
+     "Conantokin-T. A gamma-carboxyglutamate containing peptide with
+     N-methyl-d-aspartate antagonist activity."
+     J. Biol. Chem. 265:6025-6029(1990).
+     PubMed=2180939
+[ 7] Price P.A., Fraser J.D., Metz-Virca G.
+     "Molecular cloning of matrix Gla protein: implications for substrate
+     recognition by the vitamin K-dependent gamma-carboxylase."
+     Proc. Natl. Acad. Sci. U.S.A. 84:8335-8339(1987).
+     PubMed=3317405
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

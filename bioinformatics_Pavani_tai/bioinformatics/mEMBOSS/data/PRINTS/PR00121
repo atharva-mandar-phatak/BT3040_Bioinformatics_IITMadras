@@ -1,0 +1,28 @@
+NAKATPASE
+The alpha chains of sodium/potassium-transporting ATPases (Na+/K+-ATPase) 
+catalyse the hydrolysis of ATP, coupled with the exchange of sodium and 
+potassium ions across the plasma membrane. The proteins are located in the 
+cell membrane [1], the ion transport they mediate creating the electro-
+chemical gradient that provides the energy for the active transport of
+various nutrients. K+-transporting ATPases are also responsible for
+production of acid in the stomach as protons, and K+ ions are exchanged [2].
+
+Na+/K+-ATPases are members of the P-type (or E1-E2-type) cation-transporting
+ATPase superfamily, which has evolved from a common ancestral gene [3]. The
+sequences are believed to contain 8-10 transmembrane (TM) helices, some of
+which are well conserved throughout the superfamily. They may thus all 
+operate via a similar mechanism, with an aspartylphosphoryl enzyme
+intermediate [4] being formed during the catalytic cycle.
+
+NAKATPASE is a 9-element fingerprint that provides a signature for the 
+Na+/K+-ATPases. The fingerprint was derived from an initial alignment of 
+8 sequences: motif 4 includes the phosphorylation site [5] (cf. PROSITE 
+pattern ATPASE_E1_E2 (PS00154)); motif 5 encodes the ATP-binding site 
+[5,6]; and the remaining motifs were drawn from the putative TM domains. 
+Two iterations on OWL11.0 were required to reach convergence, at which 
+point all known Na+/K+-ATPases in the database were identified. A single 
+partial match was also found, B27180, which lacks the seventh TM domain 
+adjacent to the C-terminus.
+
+An update on SPTR37_9f identified a true set of 43 sequences, and 2
+partial matches.

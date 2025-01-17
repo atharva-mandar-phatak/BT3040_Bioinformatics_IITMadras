@@ -1,0 +1,74 @@
+*********************************************
+* APSES-type HTH DNA-binding domain profile *
+*********************************************
+
+The APSES  (ASM-1,  Phd1,  StuA,  EFG1,  and  Sok2)  domain is an ~110-residue
+sequence-specific DNA-binding domain found in a family of fungal transcription
+factors that  regulate development or cell cycle progression. The APSES domain
+is found   associated   with   ankyrin   repeats   (see   <PDOC50088>)  and  a
+heterodimerization domain [1,2].
+
+The APSES  domain consists of a six-stranded beta-sheet segment folded against
+two pairs  of  alpha-helices  in  the  topology of the winged helix-turn-helix
+(HTH) family  of  proteins  (see  <PDB:1L3G>).  The alphaA/alphaB helical pair
+corresponds to the HTH motif [3-5].
+
+Some proteins known to contain an APSES domain are listed below:
+
+ - Saccharomyces  cerevisiae  Mlu-1  box  binding protein (MBP1), a cell cycle
+   transcription factor.
+ - Schizosaccharomyces  pombe  cell  division cycle-related proteins res1/sct1
+   and res2/pct1, which are homologous to MBP1.
+ - Schizosaccharomyces pombe start control protein cdc10.
+ - Emericella   nidulans   (Aspergillus   nidulans)  cell  pattern  formation-
+   associated protein    stuA.    It    regulates    the   transformation   of
+   undifferentiated hyphal elements into a complex multicellular structure.
+ - Saccharomyces cerevisiae transcription factor PHD1.
+ - Saccharomyces  cerevisiae  protein  SOK2.  It represses the transition from
+   unicellular growth to pseudohyphae.
+ - Candida albicans enhanced filamentous growth protein (EFG1).
+ - Neurospora  crassa ascospore maturation 1 protein (Asm-1). It has a role in
+   spore maturation.
+
+The profile we developed covers the entire APSES domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2007 / First entry.
+
+[ 1] Aramayo R., Peleg Y., Addison R., Metzenberg R.
+     "Asm-1+, a Neurospora crassa gene related to transcriptional
+     regulators of fungal development."
+     Genetics 144:991-1003(1996).
+     PubMed=8913744
+[ 2] Dutton J.R., Johns S., Miller B.L.
+     "StuAp is a sequence-specific transcription factor that regulates
+     developmental complexity in Aspergillus nidulans."
+     EMBO J. 16:5710-5721(1997).
+     PubMed=9312029; DOI=10.1093/emboj/16.18.5710
+[ 3] Xu R.-M., Koch C., Liu Y., Horton J.R., Knapp D., Nasmyth K., Cheng X.
+     "Crystal structure of the DNA-binding domain of Mbp1, a transcription
+     factor important in cell-cycle control of DNA synthesis."
+     Structure 5:349-358(1997).
+     PubMed=9083114
+[ 4] Taylor I.A., Treiber M.K., Olivi L., Smerdon S.J.
+     "The X-ray structure of the DNA-binding domain from the Saccharomyces
+     cerevisiae cell-cycle transcription factor Mbp1 at 2.1 A resolution."
+     J. Mol. Biol. 272:1-8(1997).
+     PubMed=9299332; DOI=10.1006/jmbi.1997.1229
+[ 5] Nair M., McIntosh P.B., Frenkiel T.A., Kelly G., Taylor I.A.,
+     Smerdon S.J., Lane A.N.
+     "NMR structure of the DNA-binding domain of the cell cycle protein
+     Mbp1 from Saccharomyces cerevisiae."
+     Biochemistry 42:1266-1273(2003).
+     PubMed=12564929; DOI=10.1021/bi0205247
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

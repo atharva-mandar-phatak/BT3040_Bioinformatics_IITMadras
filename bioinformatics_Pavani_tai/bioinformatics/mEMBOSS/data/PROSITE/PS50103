@@ -1,0 +1,97 @@
+*********************************
+* Zinc finger C3H1-type profile *
+*********************************
+
+The  well conserved cysteine-histidine arrangement, C-x(8)-C-x(5)-C-x(3)-H, of
+the C3H1-type zinc finger is present in many eukaryotic proteins from yeast to
+mammals.  In  various  proteins  the  C3H1-type  zinc finger has been shown to
+interact  with  the  3'-untranslated  region of  mRNAs (see below). It is very
+often present in two copies [1,2].
+
+The structure of the two C3H1-type zinc fingers of the protein TIS11d bound to
+its  target  mRNA  has  been solved (see <PDB:1RGO>) [3]. The two zinc fingers
+fold  independently  to  form  small,  compact domains connected by the linker
+sequence.  The polypeptide backbone adopts little regular secondary structure.
+In  each zinc finger, there is a short álpha-helix immediately after the first
+cysteine ligand and a turn of 3/10 helix between the second and third cysteine
+ligands. All amino acid residues that exhibit intermolecular contacts with the
+RNA are positioned on a single surface of each zinc finger.
+
+Some proteins known to contain a C3H1-type zinc finger are listed below:
+
+ - Mammalian tristetraprolin (TTP) proteins, prototype of the C3H1 zinc finger
+   proteins,  inhibit  TNF  alpha production from macrophages by destabilizing
+   its  messenger  RNA  [2]. TTP is a specific RNA-binding protein; the region
+   encompassing  the two C3H1-type zinc fingers recognizes nonameric UUAUUUAUU
+   sequences present in the 3'-untranslated region (UTR) of TNF alpha [4,5].
+ - Eukaryotic  TIS/CTH  family.  Regulatory protein involved in regulating the
+   response to growth factors similar to TTP. The tandem zinc finger domain of
+   the  protein  TIS11d  binds to the class II AU-rich element (ARE) in the 3'
+   untranslated   region   (3'   UTR)  of  target  mRNAs  and  promotes  their
+   deadenylation and degradation [6].
+ - Eukaryotic  U2AG,  U2R1,  U2R2  proteins,  small nuclear ribonucleoproteins
+   (1 or 2 copies).
+ - Caenorhabditis  Elegans  PIE1  protein. It is required for specification of
+   embryonic  germ  cells  lineage  and  for the lack of mRNA transcription in
+   these cells (2 copies).
+ - Caenorhabditis  Elegans  POS-1  protein.  A  cytoplasmic protein similar to
+   TIS11, essential for germ line specification in C. elegans (2 copies).
+ - Eukaryotic  cleavage  and  polyadenylation  specificity  factor  subunit  4
+   (Cpsf4)  protein.  It  plays  a  key  role  in  pre-mRNA  3'-end formation,
+   recognizing  the  AAUAAA  signal  sequence  and  interacting  with  poly(A)
+   polymerase  and other factors to bring about cleavage and poly(A) addition.
+   Cpsf4 binds RNA polymers with a preference for poly(U) (5 copies).
+ - Schizosaccharomyces  pombe ZFS1 protein. It was isolated as a suppressor of
+   the  sterility  caused  by  overexpression  of  a  double-stranded RNase (2
+   copies).
+ - Human Z183 protein, contains one ring finger and one C3H1-type zinc finger.
+ - Mammalian  Nucleoporin-like  2, required for the export of mRNAs containing
+   poly(A) tails from the nucleus into the cytoplasm (1 copy).
+
+The profile we developed covers the entire C3H1-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2008 / First entry.
+
+[ 1] Hall T.M.
+     "Multiple modes of RNA recognition by zinc finger proteins."
+     Curr. Opin. Struct. Biol. 15:367-373(2005).
+     PubMed=15963892; DOI=10.1016/j.sbi.2005.04.004
+[ 2] Brown R.S.
+     "Zinc finger proteins: getting a grip on RNA."
+     Curr. Opin. Struct. Biol. 15:94-98(2005).
+     PubMed=15718139; DOI=10.1016/j.sbi.2005.01.006
+[ 3] Hudson B.P., Martinez-Yamout M.A., Dyson H.J., Wright P.E.
+     "Recognition of the mRNA AU-rich element by the zinc finger domain of
+     TIS11d."
+     Nat. Struct. Mol. Biol. 11:257-264(2004).
+     PubMed=14981510; DOI=10.1038/nsmb738
+[ 4] Lai W.S., Carballo E., Strum J.R., Kennington E.A., Phillips R.S.,
+     Blackshear P.J.
+     "Evidence that tristetraprolin binds to AU-rich elements and promotes
+     the deadenylation and destabilization of tumor necrosis factor alpha
+     mRNA."
+     Mol. Cell. Biol. 19:4311-4323(1999).
+     PubMed=10330172
+[ 5] Lai W.S., Parker J.S., Grissom S.F., Stumpo D.J., Blackshear P.J.
+     "Novel mRNA targets for tristetraprolin (TTP) identified by global
+     analysis of stabilized transcripts in TTP-deficient fibroblasts."
+     Mol. Cell. Biol. 26:9196-9208(2006).
+     PubMed=17030620; DOI=10.1128/MCB.00945-06
+[ 6] Hudson B.P., Martinez-Yamout M.A., Dyson H.J., Wright P.E.
+     "Recognition of the mRNA AU-rich element by the zinc finger domain of
+     TIS11d."
+     Nat. Struct. Mol. Biol. 11:257-264(2004).
+     PubMed=14981510; DOI=10.1038/nsmb738
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,64 @@
+ASPEROXIDASE
+Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+the electron acceptor to catalyse a number of oxidative reactions.
+Most haem peroxidases follow the reaction scheme:
+
+Fe(3+) + H2O2            --> [Fe(4+)=O]R' (Compound I) + H2O
+[Fe(4+)=O]R' + substrate --> [Fe(4+)=O]R (Compound II) + oxidised substrate
+[Fe(4+)=O]R  + substrate -->  Fe(3+) + H2O + oxidised substrate
+
+In this mechanism, the enzyme reacts with one equivalent of H2O2 to give 
+[Fe(4+)=O]R' (compound I). This is a two-electron oxidation/reduction 
+reaction where H2O2 is reduced to water and the enzyme is oxidised. One 
+oxidising equivalent resides on iron, giving the oxyferryl [Fe(4+)=O] 
+intermediate, while in many peroxidases the porphyrin (R) is oxidised to 
+the porphyrin pi-cation radical (R'). Compound I then oxidises an organic 
+substrate to give a substrate radical [1].
+
+Peroxidases are found in bacteria, fungi, plants and animals. On the basis
+of sequence similarity, fungal, plant and bacterial peroxidases can be
+viewed as members of a superfamily consisting of 3 major classes [2]. Class
+I, the intracellular peroxidases, includes yeast cytochrome c peroxidase
+(CCP), ascorbate peroxidase (AP) and bacterial catalase-peroxidases.
+
+In chloroplasts of higher plants, oxygen consumption in the absence of
+electron acceptors is accompanied by production of H2O2 and activated
+forms of oxygen. Chloroplasts contain several protective systems (such as
+superoxide dismutase (SOD), alpha-tocopherol and carotenoids), which are
+effective against various forms of activated oxygen. However, they lack
+catalase, and the disposal of H2O2 is accomplished by other means [3].
+
+Ascorbic acid is a strong antioxidant that is effective in scavenging 
+superoxide (O2-'), hydroxyl (OH') radicals and singlet oxygen. It can
+also remove H2O2 in the following reaction:
+       Ascorbate + H2O2  --> dehydroascorbate + 2 H2O
+Ascorbate peroxidase (AP) is the main enzyme responsible for hydrogen
+peroxide removal in the chloroplasts and cytosol of higher plants [3].
+
+The 3D structure of pea cytosolic ascorbate peroxidase has an overall fold
+virtually identical to that of CCP [4]. The protein consists of 2 all-alpha
+domains, between which is embedded the haem group. The most pronounced
+difference between the AP and CCP structures is the absence of an anti-
+parallel beta-hairpin between the G and H helices in the AP molecule.
+
+ASPEROXIDASE is an 11-element fingerprint that provides a signature for 
+ascorbate peroxidases. The fingerprint was derived from an initial 
+alignment of 8 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length - motif 2 encodes the B helix
+and contains invariant active site residues (Arg, Phe and the "distal" His)
+that form a ligand pocket for hydrogen peroxide (cf. motif 1 of signature
+PEROXIDASE and PROSITE pattern PEROXIDASE_2 (PS00436)); motifs 4 and 5 
+encode the C and D helices, respectively; motifs 5 and 6 correspond to
+motifs 2 and 3 of PRINTS signature PEROXIDASE; motif 8 contains the
+invariant "proximal" His, which serves the axial ligand of the haem iron
+(cf. PROSITE pattern PEROXIDASE_1 (PS00435) and motif 4 of signature
+PEROXIDASE); motif 9 corresponds to motif 5 of signature PEROXIDASE; and 
+motifs 10 and 11 span the H, I and J helices. Two iterations on OWL27.1
+were required to reach convergence, at which point a true set comprising 13
+sequences was identified. Several partial matches were also found: the most
+similar sequence is yeast CCP, which lacks motifs 1 and 3; the remaining
+sequences, i.e. those matching 3 or 4 motifs and most of those matching 
+just 2, belong to the fungal, plant and bacterial peroxidase superfamily.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 16
+partial matches.

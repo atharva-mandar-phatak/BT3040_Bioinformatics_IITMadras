@@ -1,0 +1,64 @@
+***********************************
+* Ribosomal protein L6 signatures *
+***********************************
+
+Ribosomal protein L6 is one of  the proteins from the large ribosomal subunit.
+In  Escherichia coli,  L6    is  known to bind directly to the 23S rRNA and is
+located  at the aminoacyl-tRNA binding site of the peptidyltransferase center.
+It belongs to a family  of ribosomal  proteins which, on the basis of sequence
+similarities [1,2,3,4], groups:
+
+ - Eubacterial L6.
+ - Algal chloroplast L6.
+ - Cyanelle L6.
+ - Archaebacterial L6.
+ - Marchantia polymorpha mitochondrial L6.
+ - Yeast mitochondrial YmL6 (gene MRPL6).
+ - Mammalian L9.
+ - Drosophila L9.
+ - Plants L9.
+ - Yeast L9 (YL11).
+
+While all the above proteins are evolutionary related  it is very difficult to
+derive a pattern that will find them all.   We therefore decided to create two
+patterns, the first to detect eubacterial, cyanelle and  mitochondrial L6, the
+second to detect archaebacterial L6 as well as eukaryotic L9.
+
+-Consensus pattern: [PS]-[DENS]-x-Y-K-[GA]-K-G-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [QLS]-x(3)-[LIVM]-x(2)-[KRWYF]-x(2)-R-x-F-x-D-G-[LIVM]-
+                    [YF]-[LIVM]-x(2)-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Suzuki K., Olvera J., Wool I.G.
+     "The primary structure of rat ribosomal protein L9."
+     Gene 93:297-300(1990).
+     PubMed=2227441
+[ 2] Harrer R., Schwank S., Schueller H.-J., Schweizer E.
+     "Molecular cloning and analysis of the nuclear gene MRP-L6 coding for
+     a putative mitochondrial ribosomal protein from Saccharomyces
+     cerevisiae."
+     Curr. Genet. 24:136-140(1993).
+     PubMed=8358820
+[ 3] Golden B.L., Ramakrishnan V., White S.W.
+     "Ribosomal protein L6: structural evidence of gene duplication from a
+     primitive RNA binding protein."
+     EMBO J. 12:4901-4908(1993).
+     PubMed=8262035
+[ 4] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

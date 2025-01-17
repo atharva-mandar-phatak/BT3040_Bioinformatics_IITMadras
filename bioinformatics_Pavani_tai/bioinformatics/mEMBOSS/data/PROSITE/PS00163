@@ -1,0 +1,64 @@
+*****************************
+* Fumarate lyases signature *
+*****************************
+
+A number of enzymes, belonging  to  the lyase class,  for  which fumarate is a
+substrate have been shown [1,2]  to  share a short conserved sequence around a
+methionine which is  probably involved  in the catalytic activity of this type
+of enzymes. These enzymes are:
+
+ - Fumarase (EC 4.2.1.2) (fumarate hydratase), which catalyzes  the reversible
+   hydration of fumarate to L-malate. There seem to be 2 classes of fumarases:
+   class I are thermolabile dimeric enzymes  (as for example: Escherichia coli
+   fumC); class II enzymes  are  thermostable  and tetrameric and are found in
+   prokaryotes (as for example: Escherichia coli fumA and fumB) as well as  in
+   eukaryotes.  The  sequence  of the two classes of fumarases are not closely
+   related.
+ - Aspartate  ammonia-lyase  (EC 4.3.1.1)  (aspartase),  which  catalyzes  the
+   reversible conversion of  aspartate to fumarate and ammonia.  This reaction
+   is analogous to that catalyzed by fumarase, except that ammonia rather than
+   water is involved in the trans-elimination reaction.
+ - Arginosuccinase (EC 4.3.2.1) (argininosuccinate lyase), which catalyzes the
+   formation of arginine and fumarate from argininosuccinate, the last step in
+   the biosynthesis of arginine.
+ - Adenylosuccinase (EC 4.3.2.2) (adenylosuccinate lyase) [3], which catalyzes
+   the eight step  in  the de novo  biosynthesis  of purines, the formation of
+   5'-phosphoribosyl-5-amino-4-imidazolecarboxamide  and  fumarate  from 1-(5-
+   phosphoribosyl)-4-(N-succino-carboxamide).  That enzyme  can also catalyzes
+   the formation of fumarate and AMP from adenylosuccinate.
+ - Pseudomonas  putida  3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+   (3-carboxymuconate lactonizing  enzyme) (gene pcaB) [4], an enzyme involved
+   in aromatic acids catabolism.
+
+-Consensus pattern: G-S-x(2)-M-x-{RS}-K-x-N
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 8.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Woods S.A., Schwartzbach S.D., Guest J.R.
+     "Two biochemically distinct classes of fumarase in Escherichia coli."
+     Biochim. Biophys. Acta 954:14-26(1988).
+     PubMed=3282546
+[ 2] Woods S.A., Miles J.S., Guest J.R.
+     FEMS Microbiol. Lett. 51:181-186(1988).
+[ 3] Zalkin H., Dixon J.E.
+     "De novo purine nucleotide biosynthesis."
+     Prog. Nucleic Acid Res. Mol. Biol. 42:259-287(1992).
+     PubMed=1574589
+[ 4] Williams S.E., Woolridge E.M., Ransom S.C., Landro J.A., Babbitt P.C.,
+     Kozarich J.W.
+     "3-Carboxy-cis,cis-muconate lactonizing enzyme from Pseudomonas putida
+     is homologous to the class II fumarase family: a new reaction in the
+     evolution of a mechanistic motif."
+     Biochemistry 31:9768-9776(1992).
+     PubMed=1390752
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

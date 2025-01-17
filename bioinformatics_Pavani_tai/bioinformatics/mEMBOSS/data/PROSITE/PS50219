@@ -1,0 +1,54 @@
+****************************************
+* Citron homology (CNH) domain profile *
+****************************************
+
+Based on  sequence  similarities a domain of homology has been identified near
+the N- or C-terminal end of the following proteins [1,2,3]:
+
+ - Citron Rho-interacting kinase (CRIK). It interacts with the GTP-bound forms
+   of the small GTPases Rho and Rac, but not with Cdc42.
+ - Myotonic  dystrophy  kinase-related  Cdc42-binding kinase (MRCKalpha). This
+   serine/threonine kinase  interacts  with  the  GTP-bound  form of the small
+   GTPase Cdc42 and to a lesser extent with that of Rac.
+ - NCK Interacting Kinase (NIK), a serine/threonine protein kinase.
+ - Yeast  ROM-1 and ROM-2. These proteins are GDP/GTP exchange proteins (GEPs)
+   for the small GTP binding protein Rho1.
+ - Eukaryotic  Vam6/Vps39  protein.  It  may  function  as a tethering/docking
+   factor specifically involved in lysosome fusion.
+
+Little is  known  about  the  function of the CNH domain, although it has been
+proposed to  regulate  kinase activity and to mediate binding to the GTP-bound
+forms of  Rac  and  Rho.  The  CNH  domain  is  required  for association with
+lysosomes and  overexpression-induced lysosome clustering and fusion. It could
+interact with a docking protein or with lipids on the lysosomal membrane [3].
+
+The profile we developed covers the entire CNH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2009 / First entry.
+
+[ 1] Su Y.-C., Han J., Xu S., Cobb M., Skolnik E.Y.
+     "NIK is a new Ste20-related kinase that binds NCK and MEKK1 and
+     activates the SAPK/JNK cascade via a conserved regulatory domain."
+     EMBO J. 16:1279-1290(1997).
+     PubMed=9135144; DOI=10.1093/emboj/16.6.1279
+[ 2] Chen X.-Q., Tan I., Leung T., Lim L.
+     "The myotonic dystrophy kinase-related Cdc42-binding kinase is
+     involved in the regulation of neurite outgrowth in PC12 cells."
+     J. Biol. Chem. 274:19901-19905(1999).
+     PubMed=10391936
+[ 3] Caplan S., Hartnell L.M., Aguilar R.C., Naslavsky N., Bonifacino J.S.
+     "Human Vam6p promotes lysosome clustering and fusion in vivo."
+     J. Cell Biol. 154:109-122(2001).
+     PubMed=11448994
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

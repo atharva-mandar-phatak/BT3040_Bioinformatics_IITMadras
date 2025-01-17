@@ -1,0 +1,29 @@
+DNAA
+Bacterial chromosome replication begins at the origin of replication (oriC),
+a target region for many regulatory proteins [1]. The dnaA gene product is
+responsible for duplex melting, allowing access to the primosome, which
+initiates DNA replication [1]. DnaA binds to conserved 9 base pair repeated
+sequences, so-called dnaA boxes, 5 of which are present at oriC [1,2]. DnaA
+binding mediates strand opening at three A/T-rich 13 base pair sites,
+making them easier to melt [2]. It inhibits its own gene transcription by
+feedback inhibition, binding to dnaA boxes in the promoter [1]. The protein
+also binds to dnaA boxes in other gene promoters, most of which are
+involved in chromosome replication.
+
+The dnaA protein consists of 2 conserved regions: an N-terminal ATP-binding
+domain, and a putative DNA-binding region towards the C-terminus [3]. The
+protein may also bind the RNA polymerase beta subunit, the dnaB and dnaZ
+proteins, and the groE gene products (chaperonins) [3].
+
+DNAA is a 5-element fingerprint that provides a signature for dnaA proteins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from conserved regions spanning virtually the full
+alignment length - motif 1 includes the ATP-binding site, and motif 5 
+includes the C-terminal DNA-binding region encoded by PROSITE pattern DNAA
+(PS01008). Two iterations on OWL24.0 were required to reach convergence, at
+which point a true set comprising 14 sequences was identified. Two partial
+matches were also found, DNAA_MYCMY and DNAA_SPIAP, both of which are dnaA
+fragments.
+
+An update on SPTR37_9f identified a true set of 33 sequences, and 2
+partial matches.

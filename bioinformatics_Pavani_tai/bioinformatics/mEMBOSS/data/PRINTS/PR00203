@@ -1,0 +1,24 @@
+AMYLOIDA4
+Amyloid A4 protein precursor (APP) is an integral, glycosylated membrane
+brain protein. APP contains a 40-residue peptide, known as beta-amyloid
+protein (beta-APP), which forms the major constituent of the amyloid
+deposits that characterise Alzheimer's disease and aged Down's Syndrome. The
+exact function of APP is unknown, but it may mediate cell-cell inter-
+actions. The protein comprises a large extracellular N-terminal domain,
+and a short hydrophobic membrane-spanning domain, followed by a short
+C-terminal region - the beta amyloid protein both precedes and forms 
+part of the transmembrane domain [1-3].
+
+AMYLOIDA4 is a 4-element fingerprint that provides a signature for the
+amyloid A4 protein precursor. The fingerprint was derived from an initial
+alignment of 3 sequences: motif 1 includes the extracellular region encoded
+by PROSITE pattern A4_EXTRA (PS00319); motif 3 corresponds to the trans-
+membrane domain; and motif 4 includes the cytoplasmic region encoded by
+PROSITE pattern A4_INTRA (PS00320). Two iterations on OWL21.1 were required
+to reach convergence, at which point a true set comprising 10 sequences was
+identified. Six partial matches were also found, most of which are
+fragments: YWK2_RAT is a sperm membrane protein known to share a high
+degree of similarity with the A4 amyloid protein towards its C-terminus.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 3
+partial matches.

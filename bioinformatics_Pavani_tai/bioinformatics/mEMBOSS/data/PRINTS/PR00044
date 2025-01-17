@@ -1,0 +1,45 @@
+LEUZIPPRMYC
+The myc oncogene gene was first discovered in small-cell lung cancer cell 
+lines where it is found to be deregulated [1]. Although the biochemical 
+function of the gene product is unknown, as a nuclear protein with a 
+short half-life it may play a direct or indirect role in controlling gene 
+expression [2]. Three types of gene product have been identified, C-myc, 
+L-myc and N-myc, C-myc being widely distributed and L-myc being expressed 
+selectively in foetal lung, brain and kidney, and in adult lung. Temporal
+and cell-specific expression of L-myc and N-myc is important in mammalian
+development [2]. The myc gene product is found in high concentrations in
+mammalian embryos, suggesting a role in embryogenesis. Sequence analysis
+of N-myc has revealed 9 conserved regions with divergent intervening
+sequences [3], 2 of the conserved motifs being specific to N-myc.
+
+The myc oncogenes belong to a family of eukaryotic sequence-specific DNA-
+binding proteins that share a conserved domain of around 50-60 amino acids.
+This domain is thought to form a 'helix-loop-helix' motif, in which 2
+amphipathic helices are joined by a variable length linker. This putative
+DNA-binding domain is immediately preceded by a short leucine zipper.
+
+The 'leucine zipper' is a structure that is believed to mediate the
+function of several eukaryotic gene regulatory proteins. The zipper
+consists of a periodic repetition of leucine residues at every seventh
+position, and regions containing them appear to span 8 turns of alpha-
+helix. The leucine side chains that extend from one helix interact with
+those from a similar helix, hence facilitating dimerisation in the form
+of a coiled-coil. Leucine zippers are present in many gene regulatory
+proteins, including the CREB proteins, Jun/AP1 transcription factors,
+fos oncogene and fos-related proteins, C-myc, L-myc and N-myc oncogenes,
+and so on.
+
+LEUZIPPRMYC is a 6-element fingerprint that provides a signature for the 
+leucine zipper and putative helix-loop-helix DNA-binding domains of myc 
+transforming proteins. The fingerprint was derived from an initial
+alignment of 6 sequences: motif 5 encodes the leucine zipper region, while
+motif 6 spans the helix-loop-helix domain (cf. PROSITE patterns LEUCINE_
+ZIPPER (PS00029) and HELIX_LOOP_HELIX (PS00038)). Two iterations on OWL19.1
+were required to reach convergence, at which point a true set comprising
+40 sequences was identified. Six partial matches were also found: 4 of
+these are myc proto-oncogene protein fragments; the other 2 are much
+shorter, related sequences (MAX_HUMAN and MYN_MOUSE) that match motifs
+5 and 6.
+
+An update on SPTR37_9f identified a true set of 45 sequences, and 12
+partial matches.

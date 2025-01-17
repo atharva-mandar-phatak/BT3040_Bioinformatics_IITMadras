@@ -1,0 +1,18 @@
+POSTSYNAPTIC
+The 43kDa postsynaptic protein is a peripheral membrane protein thought
+to be involved in the anchoring or stabilisation of the nicotinic
+acetylcholine receptor at synaptic sites [1,2]: it is possible that it
+links the receptor to the postsynaptic cytoskeleton through direct
+association with actin or spectrin. The protein is highly-conserved
+across species, regions in the N- and C-termini possibly being important
+for interaction with components of the postsynaptic membrane. 
+
+POSTSYNAPTIC is a 4-element fingerprint that provides a signature for
+43kDa postsynaptic proteins. The fingerprint was derived from an initial
+alignment of 4 sequences: motifs 1 and 2 were drawn from conserved
+N-terminal regions, and motifs 3 and 4 from the C-terminus - motif 1
+includes the region encoded by PROSITE pattern 43_KD_POSTSYNAPTIC
+(PS00405). A single iteration on OWL24.0 was required to reach convergence,
+no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

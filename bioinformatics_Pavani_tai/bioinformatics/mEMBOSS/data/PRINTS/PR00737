@@ -1,0 +1,37 @@
+GLHYDRLASE16
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt).
+
+Family 16 mainly encompasses bacterial beta-glucanases. These enzymes
+hydrolyse 1,4-beta-D-glycosidic linkages in beta-D-glucans containing
+1,3- and 1,4-bonds.
+
+The 3D structure of a hybrid endo-1,3-1,4-beta-D-glucan 4-glucanohydrolase
+from Bacillus has been refined to 1.6A [5]. The protein belongs to the
+mainly-beta class, with 16 strands and 3 helices; the fold reveals a
+compact jellyroll-type beta-sheet structure that comprises two major
+anti-parallel beta-sheets and a 3-stranded minor mixed sheet. Amino acid
+residues involved in catalysis (two closely-clustered conserved glutamates
+[6]) and substrate binding are located inside a deep channel spanning the
+surface of the protein [5]. 
+
+GLHYDRLASE16 is an 8-element fingerprint that provides a signature for
+family 16 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from short conserved regions 
+spanning the N-terminal half of the alignment - motif 1 spans beta-strands
+6 and 7; motif 2 includes strand 8; motif 3 spans strand 9 and includes the
+region encoded by PROSITE pattern GLYCOSYL_HYDROL_F16 (PS01034), which
+contains the catalytic cluster of acidic residues; motif 4 includes strand
+10; motif 5 spans helix 2 and strand 12; motif 6 spans strands 13 and 14;
+motif 7 spans strand 15 and helix 3; and motif 7 includes strand 16. Two
+iterations on OWL29.3 were required to reach convergence, at which point
+a true set comprising 25 sequences was identified. Several partial matches
+were also found, all of which are related sequences that fail to make
+significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 12 sequences, and 11
+partial matches.

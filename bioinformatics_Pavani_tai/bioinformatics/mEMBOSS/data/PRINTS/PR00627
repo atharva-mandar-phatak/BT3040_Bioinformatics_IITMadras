@@ -1,0 +1,24 @@
+GTPRANTC4
+The small nuclear protein Ran (or TC4) binds and hydrolyses GTP, and has
+been implicated in a large number of processes: e.g., nucleocytoplasmic
+transport; RNA synthesis, processing and export; and cell cycle check-
+point control [1,2].
+
+Ran is a distant relative of the Ras superfamily of small GTP-binding
+proteins [3]. It principally differs from the Ras family in bearing an
+acidic C-terminus, rather than having C-terminal cysteine residues, which
+in Ras are subject to prenylation. Nevertheless, in common with Ras
+proteins, it requires a specific guanine nucleotide exchange factor and a
+specific GTPase activating protein to stimulate overall GTPase activity.
+
+GTPRANTC4 is a 5-element fingerprint that provides a signature for the
+GTP-binding nuclear protein Ran/Tc4 family. The fingerprint was derived
+from an initial alignment of 18 sequences: the motifs were drawn from
+short conserved regions spanning virtually the full alignment length, motif
+2 encompassing part of the GTP-binding B motif (cf. PROSITE pattern RAN
+(PS01115)). Two iterations on OWL29.0 were required to reach convergence,
+at which point a true set comprising 25 sequences was identified. Two
+partial matches were also found, both of which are fragments: CEU66216
+lacks the first motif, and ATTS1902 lacks motifs 4 and 5.
+
+An update on SPTR37_9f identified a true set of 26 sequences.

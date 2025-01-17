@@ -1,0 +1,31 @@
+TAUPROTEIN
+Tau proteins are microtubule-associated proteins that are involved in
+microtubule assembly and stabilisation. Tau mRNA is expressed predominantly
+in neurones, and particularly in their axons. Quite a number of isoforms
+have been detected, which in human brain have been shown to arise from
+alternative splicing of an mRNA from a single gene located on chromosome 17.
+The isoforms contain 352-441 amino acid residues. A larger tau isoform has
+also been detected, which is expressed principally in the peripheral nervous
+system [1]. Each isoform contains a variable number of C-terminal repeat
+regions that are thought to be responsible for tubulin-binding, and a 
+variable N-terminal region, whose function remains uncertain.
+
+Tau does not appear to be an essential protein, since transgenic mice
+lacking tau appear to develop a normal nervous system with only mild
+alterations in the structure of certain small-calibre axons [2]. However,
+it has received much recent attention due to its possible role in the
+aetiogenesis of a number of human neurodegenerative diseases, filamentous
+inclusions containing tau having been found in the brains of patients
+diagnosed with Alzheimer's disease, Pick's disease and progressive
+supranuclear palsy. Furthermore, tau gene mutations have been found in
+patients suffering familial frontotemporal dementia, which result in
+abnormal tau protein aggregates forming in the brain tissue [3].
+
+TAUPROTEIN is a 6-element fingerprint that provides a signature for tau
+proteins. The fingerprint was derived from an initial alignment of 11 
+sequences: the motifs were drawn from conserved regions within the
+N-terminal half of the alignment - motifs 1-5 lie within the N-terminal
+region proximal to the tubulin-binding repeats; and motif 6 spans the end
+of the N-terminal region and the start of the first tubulin-binding repeat.
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 18 sequences was identified.

@@ -1,0 +1,87 @@
+***************************************************
+* Uroporphyrin-III C-methyltransferase signatures *
+***************************************************
+
+Uroporphyrin-III C-methyltransferase (EC 2.1.1.107) (SUMT) [1,2] catalyzes the
+transfer of two methyl groups from S-adenosyl-L-methionine  to the C-2 and C-7
+atoms of  uroporphyrinogen  III  to  yield  precorrin-2  via  the intermediate
+formation of precorrin-1. SUMT is the first enzyme specific to  the  cobalamin
+pathway  and  precorrin-2 is a common  intermediate  in  the  biosynthesis  of
+corrinoids such as vitamin B12, siroheme and coenzyme F430.
+
+The sequences  of  SUMT  from  a  variety  of  eubacterial and archaebacterial
+species are currently available. In species  such as Bacillus megaterium (gene
+cobA), Pseudomonas  denitrificans  (cobA)  or  Methanobacterium ivanovii (gene
+corA) SUMT is a protein of  about 25 to 30 Kd. In Escherichia coli and related
+bacteria, the cysG protein, which is involved in the biosynthesis of siroheme,
+is a  multifunctional  protein  composed  of  a  N-terminal  domain,  probably
+involved in  transforming  precorrin-2  into siroheme, and a C-terminal domain
+which has SUMT activity.
+
+The sequence of SUMT is  related  to  that  of  a  number  of P. denitrificans
+and Salmonella  typhimurium  enzymes involved in the biosynthesis of cobalamin
+which also  seem  to be SAM-dependent methyltransferases [3,4]. The similarity
+is especially  strong  with two of these enzymes: cobI/cbiL which  encodes  S-
+adenosyl-L-methionine--precorrin-2 methyltransferase and cobM/cbiF whose exact
+function is not known.
+
+We developed  two  signature patterns for these enzymes. The first corresponds
+to a well conserved region in the N-terminal extremity (called region 1 in [1,
+3]) and  the  second to a less conserved region located in the central part of
+these proteins (this pattern spans what are called regions 2 and 3 in [1,3]).
+
+-Consensus pattern: [LIVM]-[GS]-[STAL]-G-P-G-x(3)-[LIVMFY]-[LIVM]-T-[LIVM]-
+                    [KRHQG]-[AG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [VW]-x(2)-[LI]-x(2)-[GA]-[DT]-x(3)-[FYW]-[GS]-x(8)-
+                    [LIVFA]-x(5,6)-[LIVMFYWPAC]-x-[LIVMY]-x-[PN]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Yeast  diphthine  synthase  (EC  2.1.1.98)  (gene DPH5) seems to be [5]
+ evolutionary related to SUMT, but is not detected by the above patterns.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Blanche F., Robin C., Couder M., Faucher D., Cauchois L., Cameron B.,
+     Crouzet J.
+     "Purification, characterization, and molecular cloning of
+     S-adenosyl-L-methionine: uroporphyrinogen III methyltransferase from
+     Methanobacterium ivanovii."
+     J. Bacteriol. 173:4637-4645(1991).
+     PubMed=1856165
+[ 2] Robin C., Blanche F., Cauchois L., Cameron B., Couder M., Crouzet J.
+     "Primary structure, expression in Escherichia coli, and properties of
+     S-adenosyl-L-methionine:uroporphyrinogen III methyltransferase from
+     Bacillus megaterium."
+     J. Bacteriol. 173:4893-4896(1991).
+     PubMed=1906874
+[ 3] Crouzet J., Cameron B., Cauchois L., Rigault S., Rouyez M.-C.,
+     Blanche F., Thibaut D., Debussche L.
+     "Genetic and sequence analysis of an 8.7-kilobase Pseudomonas
+     denitrificans fragment carrying eight genes involved in transformation
+     of precorrin-2 to cobyrinic acid."
+     J. Bacteriol. 172:5980-5990(1990).
+     PubMed=2211521
+[ 4] Roth J.R., Lawrence J.G., Rubenfield M., Kieffer-Higgins S., Church G.M.
+     "Characterization of the cobalamin (vitamin B12) biosynthetic genes of
+     Salmonella typhimurium."
+     J. Bacteriol. 175:3303-3316(1993).
+     PubMed=8501034
+[ 5] Mattheakis L.C., Shen W.H., Collier R.J.
+     "DPH5, a methyltransferase gene required for diphthamide biosynthesis
+     in Saccharomyces cerevisiae."
+     Mol. Cell. Biol. 12:4026-4037(1992).
+     PubMed=1508200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

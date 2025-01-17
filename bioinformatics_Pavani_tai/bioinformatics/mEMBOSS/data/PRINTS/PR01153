@@ -1,0 +1,44 @@
+PAFRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Platelet-activating factor (PAF), a unique phospholipid mediator, possesses
+potent proinflammatory, smooth-muscle contractile and hypotensive activities,
+and appears to be crucial in the pathogenesis of bronchial asthma and in the
+lethality of endotoxin and anaphylactic shock [6,7]. However, little is 
+known of the molecular properties of the PAF receptor and related signal
+transduction systems [6]. The gene for the human PAF receptor (PAFR) has
+been isolated, and encodes a protein that is highly similar to the guinea
+pig PAF receptor. Analysis of somatic cell hybrids suggests that PAFR is
+encoded by a single gene on human chromosome 1 [6].
+
+PAFRECEPTOR is an 11-element fingerprint that provides a signature for the
+platelet activating factor receptors. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length, focusing on those sections 
+that characterise the PAF receptors but distinguish them from the rest of
+the rhodopsin-like superfamily - motif 1 resides at the N-terminus; motifs 2
+and 3 span the first cytoplasmic and external loops respectively; motif 4
+spans the C-terminus of TM domain 3 and the second cytoplasmic loop; motif
+5 spans the C-terminus of TM domain 4, leading into the second external 
+loop; motif 6 lies in the second external loop; motif 7 encodes the third
+cytoplasmic loop; motif 8 lies at the C-terminus of TM domain 6; motif 9
+lies at the N-terminus of TM domain 7; and motifs 10 and 11 reside at the
+C-terminus. A single iteration on SPTR37_9f was required to reach convergence,
+no further sequences being identified beyond the starting set.

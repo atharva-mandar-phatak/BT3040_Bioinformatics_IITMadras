@@ -1,0 +1,24 @@
+GLHYDRLASE37
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). 
+
+Family 37 encompasses trehalases. These enzymes are responsible for
+degradation of the disaccharide alpha,alpha-trehalose, yielding two glucose
+units [5]:
+   		alpha,alpha-trehalose + H(2)O = 2 D-glucose
+
+GLHYDRLASE37 is a 7-element fingerprint that provides a signature for
+family 37 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal half of the alignment - motif 6 includes the
+region encoded by PROSITE pattern TREHALASE_2(PS00928). Two iterations
+on OWL29.3 were required to reach convergence, at which point a true set
+comprising 14 sequences was identified. Three partial matches were also
+found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 1
+partial match.

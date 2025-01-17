@@ -1,0 +1,31 @@
+FLAVODOXIN
+Flavodoxins act in various electron-transport systems as functional
+analogues of ferredoxins [1]. Although flavodoxins are found only in 
+certain bacteria and algae [2], the proteins share similarity with a 
+number of protein domains of both prokaryotic and eukaryotic origin, 
+in particular to the FMN-binding domain in NADPH:P450 reductases [3]. 
+The flavoprotein component of bacterial NADPH-sulfite reductase [4] and 
+the C-terminal domain of mammalian nitric oxide synthases (NOS) [5]
+show pronounced sequence similarity to NADPH:P450 reductases.
+
+The 3D-structures of several flavodoxins from bacteria and algae have been 
+solved. All of them have a doubly-wound alternating alpha/beta fold 
+consisting of a five-stranded parallel beta-sheet core with a pair of 
+flanking alpha-helices [6]. FMN binds at one end of the sheet, with its
+dimethyl benzene edge exposed to solvent.  
+
+FLAVODOXIN is a 4-element fingerprint that provides a signature for
+flavodoxins. The fingerprint was derived from an initial alignment of 24
+sequences: motif 1 spans the N-terminal region encoded by PROSITE pattern
+FLAVODOXIN (PS00201), which is involved in binding the FMN phosphate group
+- within the 3D-structure of bacterial flavodoxin (2FX2), this motif
+corresponds to the loop between beta-strand 2 and helix 1; motif 2 spans
+part of beta-strand 3 and the adjacent beta-turn; motif 3 coincides with
+beta-strand 4; and motif 4 includes helix 3. Five iterations on OWL25.1 
+were required to reach convergence, at which point a true set comprising
+66 sequences was identified. Several partial matches were also found,
+including various flavodoxins, a bacterial P450 reductase, E.coli MIOC
+protein, and a number of hypothetical proteins.
+
+An update on SPTR37_9f identified a true set of 64 sequences, and 36
+partial matches.

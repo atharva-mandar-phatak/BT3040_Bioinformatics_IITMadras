@@ -1,0 +1,47 @@
+IGHEPTARCPTR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+A novel member of the secretin-like family of GPCRs has been cloned and
+named Ig-hepta, due to the presence of two immunoglobulin-like repeats
+in its large extracellular domain [6]. The receptor is expressed
+predominantly in the lung, this expression being strongly induce
+postnatally. Biochemical analysis indicates that Ig-hepta is heavily
+glycosylated and exists as a disulphide-linked dimer. The receptor appears
+to be localised in alveolar walls of the lungs and intercalated cells of the
+kidney collecting ducts, suggesting a role in regulation of acid-base
+balance [6].
+
+IGHEPTARCPTR is a 13-element fingerprint that provides a signature for the
+Ig-hepta receptor family. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections
+that characterise the Ig-hepta receptors but distinguish them from the rest of
+the secretin-like superfamily - motifs 1 and 2 lie at the N-terminus of 
+the extracellular domain; motifs 3-5 span the central portion of the 
+extracellular domain, between the two Ig-like domains; motifs 6 and 7 lie
+between the second Ig-like domain and TM domain 1; motifs 8 and 9 span the
+first and second cytoplasmic loops, respectively; motif 10 encodes the
+second external loop; motif 11 spans the third cytoplasmic loop; and motifs
+12 and 13 reside at the C-terminus. A single iteration on SPTR40_18f was
+required to reach convergence, no further sequences being identified beyond
+the starting set.

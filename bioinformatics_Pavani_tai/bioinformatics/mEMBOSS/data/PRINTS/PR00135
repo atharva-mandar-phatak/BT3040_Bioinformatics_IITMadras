@@ -1,0 +1,29 @@
+LYZLACT
+Lysozyme C and alpha-lactalbumin and are similar both in terms of primary 
+sequence and structure, and probably evolved from a common ancestral 
+protein. There is, however, no similarity in function as lactalbumin 
+promotes the conversion of galactosyltransferase to lactose synthase and is
+essential for milk production [1], while lysozyme catalyses the hydrolysis 
+of bacterial cell wall polysaccharides; it has also been recruited for a 
+digestive role in certain ruminants and colobine monkeys [2]. Another 
+significant difference between the 2 enzymes is that all lactalbumins have 
+the ability to bind calcium [3], while this property is restricted to only 
+a few lysozymes [4]. The binding site was deduced using high resolution 
+X-ray structure analysis and was shown to consist of 3 aspartic acid 
+residues. It was first suggested that calcium bound to lactalbumin 
+stabilised the structure, but recently it has been claimed that calcium 
+controls the release of lactalbumin from the golgi membrane and that the 
+pattern of ion binding may also affect the catalytic properties of the 
+lactose synthetase complex.
+
+LYZLACT is a 6-element fingerprint that provides a signature for the 
+lysozyme/alpha-lactalbumin superfamily. The fingerprint was derived from 
+an initial alignment of 12 sequences: motif 5 encodes the calcium binding 
+region, and together with motif 4 contains 3 of the 8 cysteine residues 
+conserved in both lysozymes and lactalbumins (cf. PROSITE pattern 
+LACTALBUMIN_LYSOZYME (PS00128)). Two iterations on OWL10.1 were required to
+reach convergence, at which point a true set comprising 81 sequences was 
+identified.
+
+An update on SPTR37_9f identified a true set of 75 sequences, and 17
+partial matches.

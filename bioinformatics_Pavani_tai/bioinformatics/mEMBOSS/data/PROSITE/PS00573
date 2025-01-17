@@ -1,0 +1,63 @@
+***********************************************************************
+* Pyridine nucleotide-disulphide oxidoreductases class-II active site *
+***********************************************************************
+
+The pyridine nucleotide-disulphide oxidoreductases are FAD flavoproteins which
+contains a pair of redox-active cysteines involved in the transfer of reducing
+equivalents from the FAD cofactor to the substrate.   On the basis of sequence
+and  structural similarities [1]  these enzymes  can  be  classified  into two
+categories. The second category groups together the following enzymes:
+
+ - Bacterial and fungal thioredoxin reductase (EC 1.8.1.9) (gene trxB) [2].
+ - Salmonella typhimurium  alkyl  hydroperoxide  reductase  protein F52a (gene
+   aphF) [3], an enzyme that serves to protect  the cell against damage to DNA
+   by alkyl hydroperoxides.
+ - NADH dehydrogenase (EC 1.6.99.3) from Bacillus strain YN-1 (gene ndh) [4].
+ - A probable oxidoreductase which is encoded  in the Clostridium pasteurianum
+   rubredoxin operon [5].
+ - Yeast hypothetical protein YHR106w.
+
+The sequence around the  two cysteines involved  in the redox-active disulfide
+bond is conserved and can be used as a signature pattern.
+
+-Consensus pattern: C-x(2)-C-D-[GAS]-x(2,4)-[FYA]-x(4)-[LIVMAT]-x(0,1)-
+                    [LIVM](2)-[GI]-[GDS]-[GRD]-[DN]
+                    [The two C's form the active site disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kurlyan J., Krishna T.S.R., Wong L., Guenther B., Pahler A.,
+     Williams C.H. Jr., Model P.
+     Nature 352:172-174(1991).
+[ 2] Russel M., Model P.
+     "Sequence of thioredoxin reductase from Escherichia coli. Relationship
+     to other flavoprotein disulfide oxidoreductases."
+     J. Biol. Chem. 263:9015-9019(1988).
+     PubMed=3288628
+[ 3] Tartaglia L.A., Storz G., Brodsky M.H., Lai A., Ames B.N.
+     "Alkyl hydroperoxide reductase from Salmonella typhimurium. Sequence
+     and homology to thioredoxin reductase and other flavoprotein disulfide
+     oxidoreductases."
+     J. Biol. Chem. 265:10535-10540(1990).
+     PubMed=2191951
+[ 4] Xu X.M., Koyama N., Cui M., Yamagishi A., Nosoh Y., Oshima T.
+     "Nucleotide sequence of the gene encoding NADH dehydrogenase from an
+     alkalophile, Bacillus sp. strain YN-1."
+     J. Biochem. 109:678-683(1991).
+     PubMed=1917890
+[ 5] Mathieu I., Meyer J., Moulis J.M.
+     "Cloning, sequencing and expression in Escherichia coli of the
+     rubredoxin gene from Clostridium pasteurianum."
+     Biochem. J. 285:255-262(1992).
+     PubMed=1637309
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,29 @@
+FRACTALKINE
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [1]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family). 
+
+Two additional chemokine families have also been identified, each containing
+only one member. C chemokines have only one of the first two Cys residues,
+while C-x3-C chemokines contain both cysteines, separated by three
+intervening residues [2]. The only C-x3-C chemokine identified to date is
+fractalkine, a transmembrane (TM) molecule containing a chemokine domain on
+an extended mucin-like stalk [2]. The membrane-bound form of fractalkine can
+be induced on endothelial cells in response to inflammation, and promotes
+adhesion of monocytes and T lymphocytes. The chemokine can also be released
+in a soluble form, which causes chemotaxis of monocytes and T cells [2].
+
+FRACTALKINE is an 11-element fingerprint that provides a signature for the
+fractalkine/neurotactin precursors. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+sections spanning virtually the full alignment length, focusing on those
+areas that best characterise the fractalkine precursors - motifs 1-4 span
+the N-terminal chemokine domain; motif 5 is located in the central portion
+of the mucin stalk; motifs 6-8 span the C-terminal portion of the mucin
+stalk; motifs 9 and 10 span the TM domain, leading into the cytoplasmic
+domain; and motif 11 resides in the cytoplasmic domain. A single iteration
+on SPTR40_20f was required to reach convergence, no further sequences being
+identified beyond the starting set.

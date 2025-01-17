@@ -1,0 +1,27 @@
+UTEROGLOBIN
+Uteroglobin (or blastokinin) is a steroid-induced rabbit secretory protein
+with phospholipase A2-inhibitory activity [1]. The protein binds progesterone
+specifically and with high affinity, and may regulate progesterone
+concentrations reaching the blastocyst. The sequence of uteroglobin 
+contains 70 amino acids that form anti-parallel disulphide-linked dimers.
+The progesterone binding site is formed by a cavity between associating
+monomers. Two sequence families are known to be related to uteroglobin:
+clara cell phospholipid-binding protein (or CC10) [2]; and domestic cat
+major allergen I chain 1 [3]. 
+
+UTEROGLOBIN is a 6-element fingerprint that provides a signature for the
+uteroglobin family. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motif 1 lies in the signal peptide; motif 2
+spans the region encoded by PROSITE pattern UTEROGLOBIN_1 (PS00403), which
+includes a Cys residue involved in interchain disulphide bond formation;
+and motif 6 includes the C-terminal region encoded by PROSITE pattern
+UTEROGLOBIN_2 (PS00404), which contains the second disulphide-forming Cys
+residue. Two iterations on OWL27.0 were required to reach convergence, at
+which point a true set comprising 8 sequences was identified. Two partial
+matches were also found: FELB_FELCA is a major allergen polypeptide that
+fails to make a significant match with motif 1 (i.e., it has a different
+signal sequence); RABUTER is a uteroglobin fragment matching motifs 4 and 5.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 3
+partial matches.

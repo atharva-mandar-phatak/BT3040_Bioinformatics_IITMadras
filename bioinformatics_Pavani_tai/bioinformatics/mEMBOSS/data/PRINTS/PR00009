@@ -1,0 +1,24 @@
+EGFTGF
+Epidermal growth factors and transforming growth factors belong to a
+general class of proteins that share a repeat pattern involving a number 
+of conserved Cys residues. Growth factors are involved in cell recognition 
+and division [1]: the repeating pattern, especially of cysteines (the 
+so-called EGF repeat), is thought to be important to the 3D structure of 
+the proteins, and hence its recognition by receptors and other molecules.
+
+The EGF motif is found frequently in nature, particularly in extracellular 
+proteins. The spacing of conserved cysteines, however, is variable, and for
+this reason 2 further EGF, or EGF-like, motifs, have been classified - see 
+signatures EGFBLOOD and EGFLAMININ. 
+
+EGFTGF is a 4-element fingerprint that provides a signature for type I 
+EGF repeats. The fingerprint was derived from an initial alignment of 9 
+sequences (after Campbell et al., [1]): the motifs include 6 conserved
+cysteines believed to be involved in disulphide bond formation, motifs 3
+and 4 spanning the region encoded by PROSITE pattern EGF (PS00022). Four
+iterations on OWL12.0 were required to reach convergence, at which point a 
+true set comprising 12 sequences was identified: these included epidermal,
+transforming and viral growth factors. 
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 21
+partial matches.

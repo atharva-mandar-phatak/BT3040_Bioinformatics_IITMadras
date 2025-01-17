@@ -1,0 +1,89 @@
+**********************
+* KH domain profiles *
+**********************
+
+The  K  homology  (KH)  domain was first identified in the human heterogeneous
+nuclear  ribonucleoprotein  (hnRNP) K. It is a domain of around 70 amino acids
+that  is  present  in  a  wide  variety  of quite diverse nucleic acid-binding
+proteins [1]. It has been shown to bind RNA [2,3]. Like many other RNA-binding
+motifs,  KH  motifs  are found in one or multiple copies (14 copies in chicken
+vigilin) and, at least for hnRNP K (three copies) and FMR-1 (two copies), each
+motif is necessary for in vitro RNA binding activity, suggesting that they may
+function cooperatively  or,  in  the  case  of  single  KH motif proteins (for
+example, Mer1p), independently [1].
+
+According to structural [2,3,4] analysis the KH domain can be separated in two
+groups.  The  first group or type-1 contain a beta-alpha-alpha-beta-beta-alpha
+structure,  whereas in the type-2 the two last beta-sheet are located in the N
+terminal  part  of  the  domain  (alpha-beta-beta-alpha-alpha-beta).  Sequence
+similarity  between  these two folds are limited to a short region (VIGXXGXXI)
+in  the  RNA  binding  motif.  This motif is located between helice 1 and 2 in
+type-1 and between helice 2 and 3 in type-2.
+
+Some proteins known to contain a type-1 KH domain are listed below:
+
+ - Bacterial polyribonucleotide nucleotidyltransferases (EC 2.7.7.8).
+ - Vertebrate  fragile  X  mental  retardation protein 1 (FMR1). Associated to
+   polysomes and  might be involved in the transport of  mRNA from the nucleus
+   to the cytoplasm.
+ - Eukaryotic  heterogeneous  nuclear ribonucleoprotein K (hnRNP K), one of at
+   least 20  major  proteins  that  are  part  of hnRNP particles in mammalian
+   cells. It  is  presumed  to  be  involved in transport and/or processing of
+   heterogeneous nuclear  and  mature RNA.
+ - Mammalian poly(rC) binding proteins.
+ - Artemia salina glycine-rich protein GRP33.
+ - Yeast PAB1-binding protein 2 (PBP2).
+ - Vertebrate  vigilin.  An  oestrogen-inducible  protein in polysome extracts
+   which binds specifically to a segment of the 3'untranslated region (UTR) of
+   estrogen-stabilized vitellogenin mRNA.
+ - Human high-density lipoprotein binding protein (HDL-binding protein).
+ - Human  onconeural  ventral antigen-1 (NOVA-1). May regulate RNA splicing or
+   metabolism in a specific subset of developing neurons.
+
+Proteins known to contain a type-2 KH domain are listed below:
+
+ - Eukaryotic and prokaryotic S3 family of ribosomal proteins.
+ - Prokaryotic GTP-binding protein era.
+
+To identify  KH domains we developed two profiles, one specific for type-1 and
+the other type-2. Both profiles cover the whole domain.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: also detects six KH type-2 domains.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / First entry.
+
+[ 1] Burd C.G., Dreyfuss G.
+     "Conserved structures and diversity of functions of RNA-binding
+     proteins."
+     Science 265:615-621(1994).
+     PubMed=8036511
+[ 2] Musco G., Kharrat A., Stier G., Fraternali F., Gibson T.J., Nilges M.,
+     Pastore A.
+     "The solution structure of the first KH domain of FMR1, the protein
+     responsible for the fragile X syndrome."
+     Nat. Struct. Biol. 4:712-716(1997).
+     PubMed=9302998
+[ 3] Baber J.L., Libutti D., Levens D., Tjandra N.
+     "High precision solution structure of the C-terminal KH domain of
+     heterogeneous nuclear ribonucleoprotein K, a c-myc transcription
+     factor."
+     J. Mol. Biol. 289:949-962(1999).
+     PubMed=10369774; DOI=10.1006/jmbi.1999.2818
+[ 4] Grishin N.V.
+     "KH domain: one motif, two folds."
+     Nucleic Acids Res. 29:638-643(2001).
+     PubMed=11160884
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

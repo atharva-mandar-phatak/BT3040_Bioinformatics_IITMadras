@@ -1,0 +1,30 @@
+TONBPROTEIN
+Iron is essential for growth in both bacteria and mammals. Controlling the
+amount of free iron in solution is often used as a tactic by hosts to limit
+invasion of pathogenic microbes; binding iron tightly within protein
+molecules can accomplish this. Such iron-protein complexes include haem in
+blood, lactoferrin in tears/saliva and transferrin in blood plasma. Some
+bacteria express surface receptors to capture eukaryotic iron-binding
+compounds, while others have evolved siderophores to scavenge iron from
+iron-binding host proteins [1].
+
+The absence of free iron molecules in the surrounding environment triggers 
+transcription of gene clusters that encode both siderophore-synthesis 
+enzymes, and receptors that recognise iron-bound siderophores [2]. An 
+example of the latter is Escherichia coli fepA, which resides in the outer 
+envelope and captures iron-bound enterobactin [3]. 
+
+To complete transport of bound iron across the inner membrane, a second 
+receptor complex is needed. The major component of this is tonB, a 27kDa
+protein that facilitates energy transfer from the proton motive force to
+outer receptors [4]. B-12 and colicin receptors also make use of the tonB
+system to drive active transport at the outer membrane. 
+
+TONBBPROTEIN is a 4-element fingerprint that provides a signature for 
+Gram-negative bacterial tonB proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 includes the
+characteristic KP repeat region. Two iterations on SPTR37_10f were required
+to reach convergence, at which point a true set comprising 9 sequences was
+identified. Several partial matches were also found, all of which are tonB
+proteins that fail to match one or more motifs. 

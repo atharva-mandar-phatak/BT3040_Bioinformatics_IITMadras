@@ -1,0 +1,82 @@
+***************************************************************
+* Alpha-lactalbumin / lysozyme C family signature and profile *
+***************************************************************
+
+Alpha-lactalbumin [1], a milk protein, is  the  regulatory  subunit of lactose
+synthase. In  the  mammary  gland,  alpha-lactalbumin  changes  the  substrate
+specificity of galactosyltransferase from N-acetylglucosamine to glucose.
+
+Lysozymes (EC 3.2.1.17) [2]  act  as bacteriolytic  enzymes by hydrolyzing the
+beta(1->4) bonds  between N-acetylglucosamine  and N-acetylmuramic acid in the
+peptidoglycan of  prokaryotic  cell walls.   There are at least five different
+classes of lysozymes [3,4]: C (chicken type), G (goose type), phage-type (T4),
+fungi  (Chalaropsis), and  bacterial  (Bacillus subtilis)  but there  are  few
+similarities in the sequences of the different types of lysozymes.
+
+Alpha-lactalbumin and lysozyme C are  evolutionary related [5].  Around  35 to
+40% of the residues are conserved in both proteins as well as the positions of
+the four disulfide bonds (see the schematic representation).   The pattern for
+this family of proteins includes  three  cysteines  involved  in  two of these
+disulfide bonds (the first cysteine is linked to the third one).
+
+                                  +-------+
+                                  |     **|*******
+     xxCxxxxxxxxxxCxxxxxxxxxxxxxxxCxxxxxCxCxxxxxxCxxxxxxxxxCxxxCxx
+       |          |                     +--------+         |    |
+       |          +----------------------------------------+    |
+       +--------------------------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+We  also  developed  a  profile  that  covers  the  entire alpha-lactalbumin /
+lysozyme C.
+
+-Consensus pattern: C-x(3)-C-x(2)-[LMF]-x(3)-[DEN]-[LI]-x(5)-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family 22  in  the  classification of glycosyl
+ hydrolases [6,E1].
+
+-Last update: December 2007 / Text revised; profile added.
+
+[ 1] Hall L., Campbell P.N.
+     "Alpha-lactalbumin and related proteins: a versatile gene family with
+     an interesting parentage."
+     Essays Biochem. 22:1-26(1986).
+     PubMed=3104032
+[ 2] Concise Encyclopedia Biochemistry, Second Edition, Walter de Gruyter,
+     Berlin New-York (1988).
+[ 3] Weaver L.H., Grutter M.G., Remington S.J., Gray T.M., Isaacs N.W.,
+     Matthews B.W.
+     J. Mol. Evol. 21:97-111(1985).
+[ 4] Kamei K., Hara S., Ikenaka T., Murao S.
+     "Amino acid sequence of a lysozyme (B-enzyme) from Bacillus subtilis
+     YT-25."
+     J. Biochem. 104:832-836(1988).
+     PubMed=3148618
+[ 5] Nitta K., Sugai S.
+     "The evolution of lysozyme and alpha-lactalbumin."
+     Eur. J. Biochem. 182:111-118(1989).
+     PubMed=2731545
+[ 6] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

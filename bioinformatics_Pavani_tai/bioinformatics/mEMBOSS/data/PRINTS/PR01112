@@ -1,0 +1,54 @@
+CLCHANNEL1
+Chloride channels (CLCs) constitute an evolutionarily well-conserved family
+of voltage-gated channels that are structurally unrelated to the other known
+voltage-gated channels. They are found in organisms ranging from bacteria to
+yeasts and plants, and also to animals. Their functions in higher animals
+likely include the regulation of cell volume, control of electrical 
+excitability and trans-epithelial transport [1].
+
+The first member of the family (CLC-0) was expression-cloned from the
+electric organ of Torpedo marmorata [2], and subsequently nine CLC-like
+proteins have been cloned from mammals. They are thought to function as
+multimers of two or more identical or homologous subunits, and they have
+varying tissue distributions and functional properties. To date, CLC-0, 
+CLC-1, CLC-2, CLC-4 and CLC-5 have been demonstrated to form functional Cl-
+channels; whether the remaining isoforms do so is either contested or 
+unproven. One possible explanation for the difficulty in expressing 
+activatable Cl- channels is that some of the isoforms may function as Cl- 
+channels of intracellular compartments, rather than of the plasma membrane.
+However, they are all thought to have a similar transmembrane (TM) topology,
+initial hydropathy analysis suggesting 13 hydrophobic stretches long enough
+to form putative TM domains [2]. Recently, the postulated TM topology has
+been revised, and it now seems likely that the CLCs have 10 (or possibly 12)
+TM domains, with both N- and C-termini residing in the cytoplasm [3].
+
+A number of human disease-causing mutations have been identified in the
+genes encoding CLCs. Mutations in CLCN1, the gene encoding CLC-1, the major
+skeletal muscle Cl- channel, lead to both recessively and dominantly-
+inherited forms of muscle stiffness or myotonia [4]. Similarly, mutations
+in CLCN5, which encodes CLC-5, a renal Cl- channel, lead to several forms 
+of inherited kidney stone disease [5]. These mutations have been
+demonstrated to reduce or abolish CLC function.
+
+CLC-1 was the first member of the CLC family cloned from mammalian species
+[6], and has 998 amino acid residues (human isoform). It is principally
+expressed in skeletal muscle, but low transcript levels can be detected in
+kidney, heart and smooth muscle. In skeletal muscle, it gives rise to the
+majority of the muscle membrane Cl- conductance (which accounts for ~70-80%
+of the total resting conductance). These channels are partially open under
+resting conditions, and it is likely that following a prolonged series of
+muscle action potentials, they act to reduce excitability, limiting tetanic
+activation. As mentioned above, mutations in CLC-1 can cause recessive
+(Becker) as well as dominant (Thomsen) myotonia. Such mutations reduce
+channel function, rendering skeletal muscle hyperexcitable. This leads to
+defective muscle relaxation after voluntary contraction.
+
+CLCHANNEL1 is a 7-element fingerprint that provides a signature for the
+CLC-1 voltage-gated Cl- channel. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the CLC-1 isoform but distinguish it from others -
+motifs 1-4 reside within the putative cytoplasmic N-terminus; and motifs
+5-7 lie within the cytoplasmic C-terminus. A single iteration on SPTR37_9f
+was required to reach convergence, no further sequences being identified
+beyond the starting set.

@@ -1,0 +1,33 @@
+GSYNUCLEIN
+Human synuclein has been shown to belong to a gene family [1]. To date, 
+three different proteins, termed alpha, beta and gamma, have been 
+characterised. The amino acid sequences of synucleins share a similar
+overall structure: hydropathy analysis reveals a central hydrophobic domain
+of ~30 amino acids, flanked by highly hydrophilic stretches; the N-terminal
+flanking region contains four repeating motifs (EKTKEGV); and the C-terminal
+domain is rich in glutamic acid and proline [2]
+
+Synelfin, a homologue of synuclein, is a soluble presynaptic protein that 
+is predicted to form an amphipathic alpha-helical structure typical of the
+lipid-binding domain in apolipoproteins [3]. This protein is believed to
+serve a novel function critical to the regulation of vertebrate neural
+plasticity [3]. 
+
+As with other synucleins, gamma-synuclein, or persyn, is believed to be
+involved in the pathogenesis of human neurodegenerative diseases [4]. By
+contrast with other synucleins, however, high levels of gamma-synuclein
+mRNA expression have also been found in advanced breast carcinomas,
+suggesting an involvement of the protein in breast tumour progression [4]. 
+The protein may also be over-expressed in ovarian cancer [1].
+
+GSYNUCLEIN is a 4-element fingerprint that provides a signature for
+gamma-synucleins. The fingerprint was derived from an initial alignment of
+3 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length, focusing on those sections that
+characterise the gamma-synucleins but distinguish them from the rest of the
+synuclein family - motif 1 spans the region between the third and final EKT
+repeats; motif 2 lies in the hydrophobic domain; and motifs 3 and 4 span
+the Glu-Pro-rich C-terminal domain. A single iteration on SPTR37_10f was 
+required to reach convergence, no further sequences being identified beyond
+the starting set. Three partial matches were also found, all of which are 
+alpha-synucleins that match motifs 1 and 2.

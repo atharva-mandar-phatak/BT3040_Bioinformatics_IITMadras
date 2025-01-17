@@ -1,0 +1,48 @@
+***********************************
+* Aerolysin type toxins signature *
+***********************************
+
+Aerolysin [1]  is a cytolytic  toxin  exported  by the Gram-negative Aeromonas
+bacteria.    The mature toxin binds to eukaryotic cells and aggregates to form
+holes  (approximately 3 nm in  diameter)  leading  to the  destruction  of the
+membrane permeability barrier  and osmotic lysis.   Staphylococcus aureus also
+exports a cytotoxin, alpha-toxin [2], whose biological activity  is similar to
+that of aerolysin.  The sequences of  both toxins are not similar except for a
+stretch of ten residues rather well conserved.
+
+-Consensus pattern: [KT]-x(2)-N-W-x(2)-T-[DN]-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Pseudomonas aeruginosa cytotoxin [3] has been said to contain a  region
+ whose sequence is similar to that of the conserved domain of areolysin/alpha-
+ toxin, but the similarity is very weak and this toxin is not picked up by the
+ above pattern.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Howard S.P., Garland W.J., Green M.J., Buckley J.T.
+     "Nucleotide sequence of the gene for the hole-forming toxin aerolysin
+     of Aeromonas hydrophila."
+     J. Bacteriol. 169:2869-2871(1987).
+     PubMed=3584074
+[ 2] Gray G.S., Kehoe M.
+     "Primary sequence of the alpha-toxin gene from Staphylococcus aureus
+     wood 46."
+     Infect. Immun. 46:615-618(1984).
+     PubMed=6500704
+[ 3] Hayashi T., Kamio Y., Hishinuma F., Usami Y., Titani K., Terawaki Y.
+     "Pseudomonas aeruginosa cytotoxin: the nucleotide sequence of the gene
+     and the mechanism of activation of the protoxin."
+     Mol. Microbiol. 3:861-868(1989).
+     PubMed=2507866
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

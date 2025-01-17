@@ -1,0 +1,29 @@
+GLHYDRLASE58
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 58 includes the endo-N-acetyl-neuraminidases (EC 
+3.2.1.129).
+
+Bacteriophage E specifically recognises and infects strains of E.coli
+that display the alpha-2,8-linked polysialic acid K1 capsule [5,6]. 
+Bacteriophage E endosialidase is thought to be responsible for initial
+absorption of the phage to the host bacterium [5]. The native enzyme is
+probably a trimer of identical 74kDa subunits. Within the K1E endosialidase
+sequence, a central region of 500 amino acids shows 84% identity to K1F 
+endosialidase [5]. Both enzymes contain two copies of a sialidase sequence
+motif common to many bacterial and viral sialidases. These motifs flank
+the region of greatest identity between the two endosialidases, suggesting
+that this domain is involved in binding and hydrolysis of the polysialic
+acid substrate [5].
+
+GLHYDRLASE58 is an 8-element fingerprint that provides a signature for
+family 58 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the C-terminal half of the alignment. Two iterations on OWL30.0
+were required to reach convergence, at which point a true set comprising 
+3 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

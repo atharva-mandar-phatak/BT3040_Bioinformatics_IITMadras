@@ -1,0 +1,85 @@
+*******************************
+* Leucine rich repeat profile *
+*******************************
+
+The  leucine-rich  repeat  (LRR)  domain is formed from tandem arrays (2 to 52
+repeats)  containing a leucine-rich consensus sequence. LRR proteins have been
+identified  in  viruses,  bacteria, archae and eukaryotes. LRR domains mediate
+macromolecular  interactions  in processes as diverse as bacterial invasion of
+host  cells, the plant immune response, and inhibition of RNA binding. All LRR
+repeats can be divided into a highly conserved segment and a variable segment.
+The  highly  conserved  segment  consists  either  of  an  11-residue stretch,
+LxxLxLxxNxL,   or  a  12-residue  stretch,  LxxLxLxxCxxL.  Variable  sequences
+connecting the consensus provide functional diversity for binding [1,2].
+
+Various  crystallographic  studies  of leucine-rich repeats revealed that each
+LRR  contains  a  beta-strand  and  an alpha-helix connected by loops (see for
+example  <PDB:2BNH>)  [3].  Multiple  LRRs  are  arranged  so that they form a
+nonglobular, horseshoe-shaped structure, wherein parallel beta-sheets line the
+inner  circumference  of  the  horseshoe  (the concave side) and alpha-helices
+decorate the outer circumference (the convex side). Although the sequences and
+numbers  of  LRRs can differ, diverse LRRs share this overall horseshoe shape.
+Mutagenesis  studies  and  structural  analyses  of  LRR-ligand complexes have
+revealed that the concave surface of LRRs is involved mainly in ligand binding
+[2].
+
+In  various  types  of  repeats  it  has been shown that they fold in a highly
+cooperative   manner.   In   general   folding  of  an  individual  repeat  is
+energetically  unfavorable,  whereas  formation  of  interrepeat interfaces is
+highly  favorable.  Thus,  folding is initiated only when two adjacent repeats
+fold  forming  a  favorable  interface. Once this activation energy barrier is
+surpassed,  folding  proceeds rapidly, via a nucleation-propagation mechanism.
+In  some  LRR  repeats  it  has  been  show  that  nucleation  initiate in the
+N-terminal  capping  domain [4,5].
+
+The  profile we developed covers the 22 amino acids of the LRR repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: sea  lampreys  have  evolved a primitive immune system based on the LRR
+ domain  scaffold.  The  LRR  is   used  instead  of the Ig domain to generate
+ diversity [6].
+
+-Last update: December 2009 / First entry.
+
+[ 1] Matsushima N., Tachi N., Kuroki Y., Enkhbayar P., Osaki M., Kamiya M.,
+     Kretsinger R.H.
+     "Structural analysis of leucine-rich-repeat variants in proteins
+     associated with human diseases."
+     Cell. Mol. Life Sci. 62:2771-2791(2005).
+     PubMed=16231091; DOI=10.1007/s00018-005-5187-z
+[ 2] Kobe B., Kajava A.V.
+     "The leucine-rich repeat as a protein recognition motif."
+     Curr. Opin. Struct. Biol. 11:725-732(2001).
+     PubMed=11751054
+[ 3] Kobe B., Deisenhofer J.
+     "Crystal structure of porcine ribonuclease inhibitor, a protein with
+     leucine-rich repeats."
+     Nature 366:751-756(1993).
+     PubMed=8264799; DOI=10.1038/366751a0
+[ 4] Truhlar S.M., Komives E.A.
+     "LRR domain folding: just put a cap on it!"
+     Structure 16:655-657(2008).
+     PubMed=18462667; DOI=10.1016/j.str.2008.04.002
+[ 5] Courtemanche N., Barrick D.
+     "The leucine-rich repeat domain of Internalin B folds along a
+     polarized N-terminal pathway."
+     Structure 16:705-714(2008).
+     PubMed=18462675; DOI=10.1016/j.str.2008.02.015
+[ 6] Pancer Z., Amemiya C.T., Ehrhardt G.R., Ceitlin J., Gartland G.L.,
+     Cooper M.D.
+     "Somatic diversification of variable lymphocyte receptors in the
+     agnathan sea lamprey."
+     Nature 430:174-180(2004).
+     PubMed=15241406; DOI=10.1038/nature02740
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

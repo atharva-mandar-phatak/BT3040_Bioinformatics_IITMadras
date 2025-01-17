@@ -1,0 +1,41 @@
+PHDIOXRDTASE
+Flavoprotein pyridine nucleotide cytochrome reductases [1] (FPNCR) catalyse
+the interchange of reducing equivalents between one-electron carriers and
+the two-electron-carrying nicotinamide dinucleotides. The enzymes include
+ferredoxin:NADP+ reductases (FNR) [2]; plant and fungal NAD(P)H:nitrate
+reductases [1]; NADH:cytochrome b5 reductases; NADPH:P450 reductases;
+NADPH:sulfite reductases; nitric oxide synthases; phthalate dioxygenase
+reductase [3]; and various other flavoproteins.
+
+Phthalate dioxygenase reductase (PDR) is a member of family of
+FPNCR/[2Fe-2S] ferredoxin fusion proteins, found in flavobacteria, that
+participate in oxidative metabolism of a variety of substrates. Other
+family members are vanillate demethylase reductase [4]; phenoxybenzoate
+dioxygenase; and pentachlorophenol 4-monooxygenase. All of contain a
+[2Fe-2S] ferredoxin domain fused to the C-terminus of an FPNCR domain. The
+direction of electron flow is from flavin to the [2Fe-2S] center. By
+contrast with most FPNCRs, PDR binds FMN instead of FAD.
+
+The 3D-structure of PDR has been solved [3]. The overall fold of the FPNCR
+module is similar to that of ferredoxin:NADP+ reductase [2]; the FMN-binding
+domain (N-terminal) has the topology of an anti-parallel beta-barrel; and
+the NAD(P)-binding domain (C-terminal) has the topology of a classical
+pyridine dinucleotide-binding fold (i.e., a central parallel beta-sheet
+flanked by 2 helices on each side).
+
+PHDIOXRDTASE is an 8-element fingerprint that provides a signature for the
+phthalate dioxygenase reductase family. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn solely from the
+FPNCR domain - motifs 1-5 encode the beta-barrel, and motifs 6-8 span the
+NAD(H)-binding domain. Motif 1 corresponds to the first motif of the FPNCR
+signature; motifs 3 and 4 are involved in binding the isoalloxazine ring
+and the phosphate group of FMN, respectively (cf. FPNCR motifs 2 and 3);
+motif 6 includes residues involved in binding the diphosphate group of the
+pyridine nucleotide (cf. FPNCR motif 4); and motif 8 contains a conserved
+Cys residue that may interact with NAD(H) and is necessary for efficient
+electron transfer (cf. FPNCR motif 8) [5]. Two iterations on OWL26.2 were
+required to reach convergence, at which point a true set comprising 6
+sequences was identified. Several partial matches were also found.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 9
+partial matches.

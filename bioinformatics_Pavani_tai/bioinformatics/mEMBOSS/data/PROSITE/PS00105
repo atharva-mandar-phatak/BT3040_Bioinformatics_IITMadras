@@ -1,0 +1,56 @@
+*****************************************************************
+* Aminotransferases class-I pyridoxal-phosphate attachment site *
+*****************************************************************
+
+Aminotransferases  share certain mechanistic features with   other  pyridoxal-
+phosphate dependent enzymes, such as  the  covalent  binding of the pyridoxal-
+phosphate group  to  a  lysine  residue.  On the basis of sequence similarity,
+these various  enzymes  can  be  grouped [1,2] into subfamilies. One of these,
+called class-I, currently consists of the following enzymes:
+
+ - Aspartate aminotransferase (AAT) (EC 2.6.1.1). AAT catalyzes the reversible
+   transfer of  the  amino  group  from  L-aspartate to 2-oxoglutarate to form
+   oxaloacetate and  L-glutamate.  In  eukaryotes, there are two AAT isozymes:
+   one is  located  in the mitochondrial matrix, the second is cytoplasmic. In
+   prokaryotes, only one form of AAT is found (gene aspC).
+ - Tyrosine  aminotransferase  (EC  2.6.1.5) which catalyzes the first step in
+   tyrosine catabolism  by  reversibly  transferring  its  amino  group  to 2-
+   oxoglutarate to form 4-hydroxyphenylpyruvate and L-glutamate.
+ - Aromatic  aminotransferase  (EC 2.6.1.57) involved in the synthesis of Phe,
+   Tyr, Asp and Leu (gene tyrB).
+ - 1-aminocyclopropane-1-carboxylate  synthase   (EC 4.4.1.14)  (ACC synthase)
+   from plants.   ACC   synthase   catalyzes   the   first  step  in  ethylene
+   biosynthesis.
+ - Pseudomonas   denitrificans   cobC,   which   is   involved   in  cobalamin
+   biosynthesis.
+ - Yeast hypothetical protein YJL060w.
+
+The sequence around the pyridoxal-phosphate  attachment site  of this class of
+enzyme is sufficiently conserved to allow the creation of a specific pattern.
+
+-Consensus pattern: [GS]-[LIVMFYTAC]-[GSTA]-K-x(2)-[GSALVN]-[LIVMFA]-x-[GNAR]-
+                    {V}-R-[LIVMA]-[GA]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1992).
+[ 2] Sung M.H., Tanizawa K., Tanaka H., Kuramitsu S., Kagamiyama H.,
+     Hirotsu K., Okamoto A., Higuchi T., Soda K.
+     "Thermostable aspartate aminotransferase from a thermophilic Bacillus
+     species. Gene cloning, sequence determination, and preliminary x-ray
+     characterization."
+     J. Biol. Chem. 266:2567-2572(1991).
+     PubMed=1990006;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

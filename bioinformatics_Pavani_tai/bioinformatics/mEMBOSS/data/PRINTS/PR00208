@@ -1,0 +1,31 @@
+GLIADGLUTEN
+Gluten is the protein component of wheat flour. It consists of numerous
+proteins, which are of 2 different types responsible for different physical
+properties of dough: the glutenins, which are primarily responsible for the
+elasticity, and the gliadins, which contribute to the extensibility. The 
+glutenins themselves are of 2 different types, termed low and high [3] 
+molecular weight subunits. The latter have unusual structures: a central 
+region contains multiple tandem repeats of blocks of amino acids, forming a
+loose helix based on beta reverse turns, and is flanked by globular 
+regions, which can be cross-linked by disulphide bonds. The result is an 
+elastic network in which the elasticity may derive from the cross-linking, 
+the helical structure, or a combination of these [4].
+
+The gliadins are also of different types (e.g., alpha/beta or gamma) and, 
+like the glutenins, contain repetitive sequences [1] that form loose 
+helical structures, but are usually associated with more extensive non-
+repetitive regions, which are compact and globular [2]. 
+
+GLIADGLUTEN is a 3-element fingerprint that provides a signature for the
+gliadins and low molecular weight glutenins. The fingerprint was derived 
+from an initial alignment of 7 sequences: motifs 1 and 2 encode 2 Gln/Cys-
+rich regions, and motif 3 a hydrophobic region. Three iterations on OWL18.0
+were required to reach convergence, at which point a true set comprising
+45 sequences was identified, including seed storage proteins such as
+hordeins, avenins and secalins. A subfamily of sequences matching 2 motifs
+(all matching motif 1) was also identified, this comprising further seed
+storage proteins - these are the prolamins from rice, whose structures are
+different from the storage proteins from the wheat/barley/oat cereal crops.
+
+An update on SPTR37_9f identified a true set of 51 sequences, and 4
+partial matches.

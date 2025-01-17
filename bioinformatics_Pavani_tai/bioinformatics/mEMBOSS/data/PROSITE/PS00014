@@ -1,0 +1,81 @@
+********************************************
+* Endoplasmic reticulum targeting sequence *
+********************************************
+
+Proteins  that permanently reside in the  lumen  of  the endoplasmic reticulum
+(ER) seem to be distinguished from newly synthesized secretory proteins by the
+presence of  the C-terminal  sequence Lys-Asp-Glu-Leu (KDEL) [1,2]. While KDEL
+is the preferred signal in many species, variants  of  that signal are used by
+different species. This situation is described in the following table.
+
+   Signal   Species
+   ----------------------------------------------------------------
+   KDEL     Vertebrates, Drosophila, Caenorhabditis elegans, plants
+   HDEL     Saccharomyces cerevisiae, Kluyveromyces lactis, plants
+   DDEL     Kluyveromyces lactis
+   ADEL     Schizosaccharomyces pombe (fission yeast)
+   SDEL     Plasmodium falciparum
+
+The signal is usually very  strictly  conserved in  major ER proteins but some
+minor ER  proteins  have   divergent  sequences  (probably  because  efficient
+retention of these proteins is not crucial to the cell).
+
+Proteins bearing the KDEL-type signal are  not simply held in the ER,  but are
+selectively retrieved from a post-ER compartment by a receptor and returned to
+their normal location.
+
+The currently known ER luminal proteins are listed below.
+
+ - Protein  disulfide-isomerase  (PDI)   (also  known  as  the beta-subunit of
+   prolyl 4-hydroxylase, as  a  component  of  oligosaccharyl  transferase, as
+   glutathione-insulin  transhydrogenase  and  as  a  thyroid  hormone binding
+   protein).
+ - ERp60, ERp72, and P5, three minor isoforms of PDI.
+ - Trypanosoma brucei bloodstream-specific protein 2, a probable PDI.
+ - hsp70  related  protein GRP78 (also known as the immunoglobulin heavy chain
+   binding protein (BiP), and as KAR2, in fungi).
+ - hsp90 related protein 'endoplasmin' (also known as GRP94, Erp99 or Hsp108).
+ - Calreticulin, a  calcium-binding protein (also  known as calregulin, CRP55,
+   or HACBP).
+ - ERC-55, a calcium-binding protein.
+ - Reticulocalbin, a calcium-binding protein.
+ - Hsp47, a heat-shock protein that  binds  strongly to collagen and could act
+   as a chaperone in the collagen biosynthetic pathway.
+ - A receptor for a plant hormone, auxin.
+ - Thiol proteases from rice bean (SH-EP) and kidney bean (EP-C1).
+ - Esterases from mammalian liver and from nematodes.
+ - Alpha-2-macroglobulin receptor-associated protein (RAP).
+ - Yeast peptidyl-prolyl cis-trans isomerase D (CYPD).
+ - Yeast protein KRE5, a protein required for (1->6)-beta-D-glucan synthesis.
+ - Yeast  protein  SEC20,  required    for  the transport of proteins from the
+   endoplasmic reticulum to the Golgi apparatus.
+ - Yeast protein SCJ1, involved in protein sorting.
+
+-Consensus pattern: [KRHQSA]-[DENQ]-E-L>
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for liver esterases which have H-[TVI]-E-L.
+-Other sequence(s) detected in Swiss-Prot: 24 proteins which  are  clearly not
+ located in  the  ER  (because  they  are  of  bacterial  or viral origin, for
+ example) and a protein which can be considered as valid candidate: human 80K-
+ H protein.
+-Last update: November 1997 / Text revised.
+
+[ 1] Munro S., Pelham H.R.B.
+     "A C-terminal signal prevents secretion of luminal ER proteins."
+     Cell 48:899-907(1987).
+     PubMed=3545499
+[ 2] Pelham H.R.B.
+     "The retention signal for soluble proteins of the endoplasmic
+     reticulum."
+     Trends Biochem. Sci. 15:483-486(1990).
+     PubMed=2077689
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

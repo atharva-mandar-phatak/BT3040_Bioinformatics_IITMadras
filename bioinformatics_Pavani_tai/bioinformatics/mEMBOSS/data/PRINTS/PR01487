@@ -1,0 +1,29 @@
+LUXSPROTEIN
+Bacterial species have many methods of controlling gene expression and cell
+growth. Regulation of gene expression in response to changes in cell density
+is termed quorum sensing [1,2]. Quorum-sensing bacteria produce, release and
+respond to hormone-like molecules (autoinducers) that accumulate in the 
+external environment as the cell population grows. Once a threshold of these
+molecules is reached, a signal transduction cascade is triggered that 
+ultimately leads to behavioural changes in the bacterium [2]. In the marine
+bacterium Vibrio harveyi, two parallel quorum-sensing systems are found
+(designated AI-1 and AI-2), each comprising a sensor-autoinducer pair [2].
+
+It has been suggested that quorum-sensing might play a part in the virulence
+of some pathogens. Regulation of these genes differs between virulent and
+benign strains [2]. In the former, production of autoinducers ceases when
+the organism reaches stationary growth phase [3], and may allow pathogenesis
+to take place [4]. The AI-2 system appears to be the most important in these
+processes. A two-component regulon controls the system, the gene LuxS being
+responsible for synthesis of the autoinducers. Organisms as diverse as 
+Helicobacter pylori, Vibrio harveyi, Clostridium perfringens and Shigella 
+flexneri [4] contain this gene.
+
+LUXSPROTEIN is a 5-element fingerprint that provides a signature for the
+bacterial autoinducer-2 (AI-2) production protein LuxS. The fingerprint was 
+derived from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~120 amino acids). Two
+iterations on SPTR37_10f were required to reach convergence, at which point 
+a true set comprising 9 sequences was identified. A single partial match was
+also found, LUXS_BORBU, a Borrelia burgdoferi LuxS protein that matches
+motifs 4 and 5.

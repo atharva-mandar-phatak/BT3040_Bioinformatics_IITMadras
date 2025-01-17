@@ -1,0 +1,52 @@
+**********************************
+* Ribosomal protein S7 signature *
+**********************************
+
+Ribosomal protein  S7 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli, S7 is known to bind directly to part of the 3'end of 16S
+ribosomal RNA.  It  belongs  to  a family of ribosomal  proteins which, on the
+basis of sequence similarities [1,2,3], groups:
+
+ - Eubacterial S7.
+ - Algal and plant chloroplast S7.
+ - Cyanelle S7.
+ - Archaebacterial S7.
+ - Plant mitochondrial S7.
+ - Mammalian S5.
+ - Plant S5.
+ - Caenorhabditis elegans S5 (T05E11.1).
+
+As a  signature  pattern, we selected the best conserved region located in the
+N-terminal section of these proteins.
+
+-Consensus pattern: [DENSK]-x-[LIVMDET]-x(3)-[LIVMFTA](2)-x(6)-G-K-[KR]-x(5)-
+                    [LIVMF]-[LIVMFC]-x(2)-[STAC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Thermococcus celer S7 and Acanthamoeba castellanii mitochondrial S7.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Klussmann S., Franke P., Bergmann U., Kostka S., Wittmann-Liebold B.
+     "N-terminal modification and amino-acid sequence of the ribosomal
+     protein HmaS7 from Haloarcula marismortui and homology studies to
+     other ribosomal proteins."
+     Biol. Chem. Hoppe-Seyler 374:305-312(1993).
+     PubMed=8338632
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+[ 3] Ignatovich O., Cooper M., Kulesza H.M., Beggs J.D.
+     "Cloning and characterisation of the gene encoding the ribosomal
+     protein S5 (also known as rp14, S2, YS8) of Saccharomyces
+     cerevisiae."
+     Nucleic Acids Res. 23:4616-4619(1995).
+     PubMed=8524651
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

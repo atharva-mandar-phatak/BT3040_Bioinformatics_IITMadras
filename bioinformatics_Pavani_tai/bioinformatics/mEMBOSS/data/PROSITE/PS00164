@@ -1,0 +1,43 @@
+*********************
+* Enolase signature *
+*********************
+
+Enolase (EC 4.2.1.11) is a glycolytic enzyme that catalyzes the dehydration of
+2-phospho-D-glycerate to  phosphoenolpyruvate [1]. It is a dimeric enzyme that
+requires magnesium both for catalysis  and   stabilizing the dimer. Enolase is
+probably found in all  organisms that metabolize sugars. In vertebrates, there
+are three  different  tissue-specific isozymes: alpha present in most tissues,
+beta in muscles and gamma found only in nervous tissues.
+
+Tau-crystallin,  one of  the major lens  proteins  in  some fish, reptiles and
+birds, has been shown [2] to be evolutionary related to enolase.
+
+As a  signature pattern for enolase, we selected the best conserved region, it
+is located in the C-terminal third of the sequence.
+
+-Consensus pattern: [LIVTMS]-[LIVP]-[LIV]-[KQ]-x-[ND]-Q-[INV]-[GA]-[ST]-
+                    [LIVM]-[STL]-[DERKAQG]-[STA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Lebioda L., Stec B., Brewer J.M.
+     "The structure of yeast enolase at 2.25-A resolution. An 8-fold beta +
+     alpha-barrel with a novel beta beta alpha alpha (beta alpha)6
+     topology."
+     J. Biol. Chem. 264:3685-3693(1989).
+     PubMed=2645275
+[ 2] Wistow G., Piatigorsky J.
+     "Recruitment of enzymes as lens structural proteins."
+     Science 236:1554-1556(1987).
+     PubMed=3589669
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

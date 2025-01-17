@@ -1,0 +1,46 @@
+************************************************
+* Aspartate and glutamate racemases signatures *
+************************************************
+
+Aspartate racemase (EC 5.1.1.13)  and  glutamate racemase (EC 5.1.1.3) are two
+evolutionary related bacterial enzymes  that do not seem to require a cofactor
+for their activity [1].  Glutamate  racemase,  which interconverts L-glutamate
+into D-glutamate,  is  required for the biosynthesis of peptidoglycan and some
+peptide-based antibiotics such as gramicidin S.
+
+In addition  to  characterized  aspartate and glutamate racemases, this family
+also includes  a  hypothetical  protein  from  Erwinia carotovora and one from
+Escherichia coli (ygeA).
+
+Two conserved cysteines are present in the sequence of these enzymes. They are
+expected to  play  a  role  in catalytic activity by acting as bases in proton
+abstraction from  the  substrate.  We  developed  signature  patterns for both
+cysteines.
+
+-Consensus pattern: [IVA]-[LIVM]-x-C-x(0,1)-N-[ST]-[MSA]-[STH]-[LIVFYSTANK]
+                    [The C is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: [LIVM](2)-x-[AG]-C-T-[DEH]-[LIVMFY]-[PNGRS]-x-[LIVM]
+                    [The C is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Gallo K.A., Knowles J.R.
+     "Purification, cloning, and cofactor independence of glutamate
+     racemase from Lactobacillus."
+     Biochemistry 32:3981-3990(1993).
+     PubMed=8385993
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,62 @@
+**********************
+* TTL domain profile *
+**********************
+
+Tubulin  tyrosine  ligase  (TTL)  (EC  6.3.2.25)  is an enzyme involved in the
+posttranslational   modification   of   tubulin.  Assembled  microtubules  are
+detyrosinated over time at the C-terminus of alpha-tubulin. After microtubular
+disassembly  TTL  restores tyrosine residues back to the detyrosinated tubulin
+leading  to  a  cycle  of  detyrosination/tyrosination. TTL may play a role in
+tumor cell regulation.
+
+The  TTL  domain is a ~350 amino acid module present in a family of eukaryotic
+proteins  that  could catalyze ligations of diverse amino acids to tubulins or
+other  substrates.  The  domain is named after mammalian TTL. Tubulin tyrosine
+ligase-like  (TTLL)  proteins include tubulin polyglutamylases, which catalyze
+the  posttranslational  addition  of  multiple  glutamic  acids to a glutamate
+residue  of  target  proteins, such as tubulin or nucleosome assembly proteins
+NAP1  and  NAP2. Tubulin polyglutamylation may be involved in the organization
+of  the neuronal microtubule network, in centriole stability, axoneme motility
+and   mitosis   [1].  The  TTL  domain  contains  ATP-grasp-like  motifs  (see
+<PDOC50975>) that correspond to the ATP/Mg(2+) binding site typical of enzymes
+with ATP-dependent carboxylate-amine/thiol ligase activity [2].
+
+Some proteins known to contain a TTL domain:
+
+ - Mammalian tubulin--tyrosine ligase (TTL) (EC 6.3.2.25), which catalyzes the
+   posttranslational   addition  of  a  tyrosine  residue  to  the  C-terminal
+   glutamate of detyrosinated alpha-tubulin subunits in microtubules.
+ - Mammalian  tubulin--tyrosine  ligase-like  protein  1  (TTLL1),  a  tubulin
+   polyglutamylase with preference for the alpha-tubulin subunit.
+ - Tetrahymena  TTLL6A,  a  tubulin  polyglutamylase  with  preference for the
+   beta-tubulin subunit [1].
+
+The profile we developed covers the entire TTL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2006 / First entry.
+
+[ 1] Janke C., Rogowski K., Wloga D., Regnard C., Kajava A.V., Strub J.M.,
+     Temurak N., van Dijk J., Boucher D., van Dorsselaer A.,
+     Suryavanshi S., Gaertig J., Edde B.
+     "Tubulin polyglutamylase enzymes are members of the TTL domain protein
+     family."
+     Science 308:1758-1762(2005).
+     PubMed=15890843; DOI=10.1126/science.1113010
+[ 2] Galperin M.Y., Koonin E.V.
+     "A diverse superfamily of enzymes with ATP-dependent carboxylate-
+     amine/thiol ligase activity."
+     Protein Sci. 6:2639-2643(1997).
+     PubMed=9416615
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

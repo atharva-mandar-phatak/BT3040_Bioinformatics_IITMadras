@@ -1,0 +1,76 @@
+****************************
+* Cathelicidins signatures *
+****************************
+
+The precursor  sequences  of  a  number  of antimicrobial peptides secreted by
+neutrophils (polymorphonuclear  leukocytes) upon activation have been found to
+be evolutionarily  related  and  are  collectively known as cathelicidins [1].
+This family includes:
+
+ - Pig cathelin, which may be the precursor of an antibacterial peptide.
+ - Bovine  and  sheep  bactenecin 5 (Bac5) and 7 (Bac7), proline and arginine-
+   rich antibiotics.
+ - Bovine and sheep cyclic dodecapeptide, a potent antibiotic.
+ - Bovine indolicidin, a tryptophan-rich potent antibiotic.
+ - Rabbit  CAP18, a  protein  that  binds to the bacterial lipopolysaccharides
+   (LPS) and which also has antibiotic activity.
+ - Human FALL-39 (or LL-37), an antibacterial LPS-binding peptide.
+ - Rabbit p15,  which  also  binds  to  LPS  and  modulates the  antibacterial
+   activity of BPI.
+ - Pig antibacterial peptide PR-39.
+ - Bovine myeloid antibacterial peptides BMAP-27 and BMAP-28.
+ - Pig myeloid antibacterial peptides PMAP-23, PMAP-36 and PMAP-37.
+ - Pig protegrin-1 to -5.
+ - Sheep myeloid antibacterial peptide SMAP-29 (SC-5).
+ - Mouse CRAMP (CLP).
+
+Structurally, these  proteins  consist  of three domains: a signal sequence, a
+conserved region  of  about 100 residues that contains four cysteines involved
+in two disulfide bonds, and a  highly divergent C-terminal section of variable
+size. It  is  in  this  C-terminal section that the antibacterial peptides are
+found; they are proteolytically processed from their precursor by enzymes such
+as elastase.   This   structure   is   shown   in   the   following  schematic
+representation:
+
+   +---+-*******------*******-----------+--------------------+
+   |Sig| Propeptide     C  C  C  C      | Antibacterial pep. |
+   +---+----------------|--|--|--|------+--------------------+
+                        |  |  |  |
+                        +--+  +--+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+We derived   two   signature  patterns  for  these  proteins;  the  first  one
+corresponds to  the  beginning  of  the  conserved  region and the second to a
+central part that contains two of the conserved cysteines.
+
+-Consensus pattern: Y-x-[ED]-x-V-x-[RQ]-A-[LIVMA]-[DQG]-x-[LIVMFY]-N-[EQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: F-x-[LIVM]-K-E-T-x-C-x(10)-C-x-F-[KR]-[KE]
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Tossi A.; tossi@univ.trieste.it
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Zanetti M., Gennaro R., Romeo D.
+     "Cathelicidins: a novel protein family with a common proregion and a
+     variable C-terminal antimicrobial domain."
+     FEBS Lett. 374:1-5(1995).
+     PubMed=7589491
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

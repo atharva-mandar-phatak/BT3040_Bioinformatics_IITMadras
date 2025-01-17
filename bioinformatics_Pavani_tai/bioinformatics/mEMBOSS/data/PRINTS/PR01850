@@ -1,0 +1,35 @@
+GROUCHOFAMLY
+The Groucho (Gro)/transducin-like enhancers (TLE) are a family of
+evolutionarily conserved corepressor proteins that play a critical role in
+diverse developmental and cellular pathways, including lateral inhibition,
+segmentation, sex determination, dorsal/ventral pattern formation, terminal
+pattern formation, and eye development [1]. 
+
+The Gro/TLE family contain two highly conserved domains, a C-terminal
+WD-repeat domain and an N-terminal glutamine rich (Q) domain, in addition
+to a variable central region. The highly conserved Q domains are unique to
+the Gro/TLE family and are not found in other WD-repeat proteins. The
+variable region contains a loosely conserved CcN motif, consisiting of 
+putative cdc2 kinase (cdc2) and casein kinase II (CKII) phosphorylation 
+sites, as well as a nuclear localisation signal [2]. The CcN motif is 
+flanked by two poorly conserved regions, which are characteristically rich 
+in either glycine and proline or serine and proline residues, GP and SP 
+domains respectively.
+
+Gro/TLE family proteins do not bind to DNA directly as they lack any
+DNA-binding domain. However, they are recruited to the template by DNA-bound
+repressor proteins. Gro/TLE corepressors assemble into high order oligomeric
+structures [3] through their conserved Q domain - the Q domains are able to
+mediate both homo- and hetero-oligomerisation. The GP domain is able to
+recruit histone deacetylase to the template; this, together with other
+findings, shows that Gro/TLE proteins specifically associate with histones,
+and suggests that Gro/TLE corepressors negatively regulate transcription by
+inducing a silenced chromatin structure.
+
+GROUCHOFAMLY is a 5-element fingerprint that provides a signature for the
+Groucho/transducin-like enhancer proteins. The fingerprint was derived
+from an initial alignment of 15 sequences: the motifs were drawn from the
+C-terminal portion of the alignment - motif 1 lies between WD-repeats 4 and 
+5; motifs 2 and 3 span WD-repeat 5; and motifs 4 and 5 span WD-repeat 6.
+Two iterations on SPTR40_20f were required to reach convergence, at which
+point a true set comprising 20 sequences was identified.

@@ -1,0 +1,73 @@
+**********************************************
+* Rieske [2Fe-2S] iron-sulfur domain profile *
+**********************************************
+
+There  are multiple types of iron-sulfur clusters which are grouped into three
+main  categories  based  on their atomic content: [2Fe-2S], [3Fe-4S], [4Fe-4S]
+(see <PDOC00176>), and other hybrid or mixed metal types. Two general types of
+[2Fe-2S]  clusters  are  known and they differ in their coordinating residues.
+The  ferredoxin-type  [2Fe-2S] clusters are coordinated to the protein by four
+cysteine  residues  (see  <PDOC00175>).  The  Rieske-type  [2Fe-2S] cluster is
+coordinated to its protein by two cysteine residues and two histidine residues
+[1,2].
+
+The  structure  of  several  Rieske  domains  has been solved (see for example
+<PDB:1RIE>)  [3]. It contains three layers of antiparallel beta sheets forming
+two  beta  sandwiches.  Both  beta  sandwiches  share the central sheet 2. The
+metal-binding  site  is at the top of the beta sandwich formed by the sheets 2
+and  3.  The  Fe1  iron  of the Rieske cluster is coordinated by two cysteines
+while  the  other  iron  Fe2  is  coordinated by two histidines. Two inorganic
+sulfide ions bridge the two iron ions forming a flat, rhombic cluster.
+
+Rieske-type  iron-sulfur  clusters  are  common to electron transfer chains of
+mitochondria and chloroplast and to non-heme iron oxygenase systems:
+
+ - The  Rieske  protein  of the Ubiquinol-cytochrome c reductase (EC 1.10.2.2)
+   (also  known  as the bc1 complex or complex III), a complex of the electron
+   transport  chains  of  mitochondria  and  of  some  aerobic prokaryotes; it
+   catalyzes the oxidoreduction of ubiquinol and cytochrome c.
+ - The  Rieske  protein  of chloroplastic plastoquinone-plastocyanin reductase
+   (EC  1.10.99.1) (also known as the b6f complex). It is functionally similar
+   to  the  bc1  complex  and catalyzes the oxidoreduction of plastoquinol and
+   cytochrome f.
+ - Bacterial  naphthalene  1,2-dioxygenase  subunit alpha, a component of the
+   naphthalene dioxygenase (NDO) multicomponent enzyme system which catalyzes
+   the  incorporation  of both atoms of molecular oxygen into  naphthalene to
+   form cis-naphthalene dihydrodiol.
+ - Bacterial 3-phenylpropionate dioxygenase ferredoxin subunit.
+ - Bacterial toluene monoxygenase.
+ - Bacterial biphenyl dioxygenase.
+
+The profile we developed covers the whole Rieske domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2007 / Text revised; profiles added; patterns deleted.
+
+-Note:  The  Rieske  profile  is  in  competition  with a profile of a related
+ domain, i.e. nirD Rieske-like domain (see <PDOC51300>).
+
+[ 1] Ferraro D.J., Gakhar L., Ramaswamy S.
+     "Rieske business: structure-function of Rieske non-heme oxygenases."
+     Biochem. Biophys. Res. Commun. 338:175-190(2005).
+     PubMed=16168954; DOI=10.1016/j.bbrc.2005.08.222
+[ 2] Schneider D., Schmidt C.L.
+     "Multiple Rieske proteins in prokaryotes: where and why?"
+     Biochim. Biophys. Acta 1710:1-12(2005).
+     PubMed=16271700; DOI=10.1016/j.bbabio.2005.09.003
+[ 3] Iwata S., Saynovits M., Link T.A., Michel H.
+     "Structure of a water soluble fragment of the 'Rieske' iron-sulfur
+     protein of the bovine heart mitochondrial cytochrome bc1 complex
+     determined by MAD phasing at 1.5 A resolution."
+     Structure 4:567-579(1996).
+     PubMed=8736555
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

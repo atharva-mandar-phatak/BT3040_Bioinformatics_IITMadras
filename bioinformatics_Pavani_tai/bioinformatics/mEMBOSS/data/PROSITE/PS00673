@@ -1,0 +1,74 @@
+*********************************************
+* Serine proteases, V8 family, active sites *
+*********************************************
+
+A number of prokaryotic proteases  have  been  shown [1,2] to  be evolutionary
+related; their catalytic activity is provided by a charge relay system similar
+to that of the trypsin family  of  serine proteases but which probably evolved
+by independent convergent evolution. The sequence around the residues involved
+in  the catalytic  triad (aspartic acid, serine and histidine) are  completely
+different from that of the analogous residues  in the trypsin serine proteases
+and can be  used as signatures  specific  to  that category of proteases.  The
+proteases which are known to belong to this family are listed below.
+
+ - Staphylococcus aureus V8 proteinase, which preferentially  cleaves  peptide
+   bonds on the carboxyl-terminal side of aspartate and glutamate and which is
+   widely used in protein sequencing studies.
+ - Bacillus licheniformis glutamate  specific  endopeptidase (GSE) [3],  which
+   like V8 cleaves on the carboxyl-terminal  side of acidic residues, but with
+   a strong preference for glutamate.
+ - Bacillus subtilis extracellular "metalloprotease" (gene mpr) [4].
+ - Staphylococcus aureus exfoliative  (or epidermolytic)  toxins  A (gene eta)
+   and B (gene etb).  These toxins cause impetigous diseases commonly referred
+   to as staphylococcal scalded  skin syndrome (SSSS) and  have been shown [1]
+   to possess proteolytic activity.
+
+-Consensus pattern: [ST]-G-[LIVMFYW](3)-[GN]-x(2)-T-[LIVM]-x-T-x(2)-H
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: T-x(2)-[GC]-[NQ]-S-G-S-x-[LIVM]-[FY]
+                    [The first S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family S2B in the classification of peptidases
+ [5,E1].
+
+-Last update: November 1995 / Patterns and text revised.
+
+[ 1] Dancer S.J., Garratt R., Saldanha J., Jhoti H., Evans R.
+     "The epidermolytic toxins are serine proteases."
+     FEBS Lett. 268:129-132(1990).
+     PubMed=2384148
+[ 2] Bailey C.J., Smith T.P.
+     "The reactive serine residue of epidermolytic toxin A."
+     Biochem. J. 269:535-537(1990).
+     PubMed=9065774
+[ 3] Svendsen I., Breddam K.
+     "Isolation and amino acid sequence of a glutamic acid specific
+     endopeptidase from Bacillus licheniformis."
+     Eur. J. Biochem. 204:165-171(1992).
+     PubMed=1346764
+[ 4] Sloma A., Rudolph C.F., Rufo G.A. Jr., Sullivan B.J., Theriault K.A.,
+     Ally D., Pero J.
+     "Gene encoding a novel extracellular metalloprotease in Bacillus
+     subtilis."
+     J. Bacteriol. 172:1024-1029(1990).
+     PubMed=2105291
+[ 5] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

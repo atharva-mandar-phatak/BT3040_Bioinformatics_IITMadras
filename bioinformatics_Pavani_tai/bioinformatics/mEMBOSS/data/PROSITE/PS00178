@@ -1,0 +1,74 @@
+********************************************************
+* Aminoacyl-transfer RNA synthetases class-I signature *
+********************************************************
+
+Aminoacyl-tRNA  synthetases (EC 6.1.1.-) [1] are  a  group  of  enzymes  which
+activate amino acids and transfer them to specific tRNA molecules as the first
+step in protein biosynthesis. In  prokaryotic organisms  there  are  at  least
+twenty different types  of aminoacyl-tRNA synthetases,  one for each different
+amino acid. In eukaryotes  there are  generally two aminoacyl-tRNA synthetases
+for  each  different amino  acid: one cytosolic form and a mitochondrial form.
+While all these  enzymes have  a  common  function, they are widely diverse in
+terms of subunit size and of quaternary structure.
+
+A few years ago it was found [2] that several aminoacyl-tRNA synthetases share
+a  region  of  similarity in  their   N-terminal  section,  in  particular the
+consensus tetrapeptide His-Ile-Gly-His ('HIGH') is  very  well  conserved. The
+'HIGH' region has been shown [3] to be part of the adenylate binding site. The
+'HIGH' signature has been found in the aminoacyl-tRNA synthetases specific for
+arginine, cysteine, glutamic acid, glutamine, isoleucine, leucine, methionine,
+tyrosine,  tryptophan,  and   valine.  These  aminoacyl-tRNA  synthetases  are
+referred to as class-I synthetases [4,5,6] and seem to share the same tertiary
+structure based on a Rossmann fold.
+
+-Consensus pattern: P-x(0,2)-[GSTAN]-[DENQGAPK]-x-[LIVMFP]-[HT]-[LIVMYAC]-G-
+                    [HNTG]-[LIVMFYSTAGPC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Cys-tRNA ligases and some other sequences.
+-Other sequence(s) detected in Swiss-Prot: 57.
+
+-Note: In position 8 of the  pattern His is present in all tRNA-synthetases of
+ class-I  except in some bacterial tryptophanyl-tRNA synthetases  which have a
+ Thr in that position.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Schimmel P.
+     "Aminoacyl tRNA synthetases: general scheme of structure-function
+     relationships in the polypeptides and recognition of transfer RNAs."
+     Annu. Rev. Biochem. 56:125-158(1987).
+     PubMed=3304131; DOI=10.1146/annurev.bi.56.070187.001013
+[ 2] Webster T., Tsai H., Kula M., Mackie G.A., Schimmel P.
+     "Specific sequence homology and three-dimensional structure of an
+     aminoacyl transfer RNA synthetase."
+     Science 226:1315-1317(1984).
+     PubMed=6390679
+[ 3] Brick P., Bhat T.N., Blow D.M.
+     "Structure of tyrosyl-tRNA synthetase refined at 2.3 A resolution.
+     Interaction of the enzyme with the tyrosyl adenylate intermediate."
+     J. Mol. Biol. 208:83-98(1989).
+     PubMed=2504923
+[ 4] Delarue M., Moras D.
+     "The aminoacyl-tRNA synthetase family: modules at work."
+     BioEssays 15:675-687(1993).
+     PubMed=8274143
+[ 5] Schimmel P.
+     "Classes of aminoacyl-tRNA synthetases and the establishment of the
+     genetic code."
+     Trends Biochem. Sci. 16:1-3(1991).
+     PubMed=2053131
+[ 6] Nagel G.M., Doolittle R.F.
+     "Evolution and relatedness in two aminoacyl-tRNA synthetase
+     families."
+     Proc. Natl. Acad. Sci. U.S.A. 88:8121-8125(1991).
+     PubMed=1896459
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

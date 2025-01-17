@@ -1,0 +1,37 @@
+TAP1PROTEIN
+The ATP-binding cassette (ABC) transporter superfamily contains membrane
+proteins that are responsible for the translocation of a variety of
+substrates across membranes, using energy derived from ATP hydrolysis [1].
+The ABC transporter genes are typically organised to encode either full
+transporters that contain two hydrophobic transmembrane (TM) domains and
+two nucleotide-binding domains (NBDs), or half transporters that comprise
+one TM and one NBD, with half transporters needing to form homo- or
+heterodimers to produce functional transporters [1,2]. The ABCB2 gene
+product is a half transporter that plays an essential role during antigen
+processing, and contains both an N-terminal TM domain and a C-terminal NBD
+[1,3-5].
+
+During antigen processing, products of proteosomal degradation are 
+translocated from the cytosol to the lumen of the endoplasmic reticulum
+(ER) by the transporter associated with antigen processing (TAP), to
+awaiting major histocompatibility complex class I molecules [3-6]. The
+current model of a TAP transporter is of a heterodimer of ABCB2 and ABCB3
+polypeptides, in which the TM segments of TAP form a pore in the membrane,
+with the peptide-binding site located at the cytosolic mouth of this pore
+[6]. The binding of peptide to TAP has been demonstrated to produce
+conformational changes in TAP, with ABCB2 and ABCB3 each playing different
+roles in peptide binding and translocation [6,7].
+
+TAP1PROTEIN is a 12-element fingerprint that provides a signature for the B2
+subfamily of ABC transporters. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those areas that 
+characterise B2-subfamily half transporters but distinguish them from other 
+members of the ABC transporter superfamily - motifs 1-6 reside in the the N-
+terminal putative cytosolic domain; motif 7 lies in a putative TM helix; 
+motif 8 lies in a putative ER lumenal loop; motif 9 lies in a putative TM 
+helix; motif 10 resides in the putative cytosolic domain; and motifs 11 and 
+12 lie in the cytosolic C-terminal NBD. Two iterations on SPTR40_20f were 
+required to reach convergence, at which point a true set comprising 14 
+sequences was identified. A single partial match was also found, O94774, 
+which appears to be a C-terminally truncated human TAP1.

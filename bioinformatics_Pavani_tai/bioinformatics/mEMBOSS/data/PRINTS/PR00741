@@ -1,0 +1,23 @@
+GLHYDRLASE29
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 29 encompasses alpha-L-fucosidases [5].  
+
+Alpha-L-fucosidase hydrolyses alpha-1,6-linked fucose attached to the
+reducing-end N-acetyl-glucosamine of carbohydrate moieties of glycoproteins
+[5]. The enzyme catalyses the reaction:
+		alpha-L-fucoside + H(2)O = alcohol + L-fucose.
+Deficiency of alpha-L-fucosidase results in the lysosomal storage disease
+fucosidosis. The protein is a homotetramer.
+
+GLHYDRLASE29 is an 8-element fingerprint that provides a signature for
+family 29 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions 
+spanning the central portion of the alignment. Two iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising
+7 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 5 sequences.

@@ -1,0 +1,83 @@
+***********************
+* ARID domain profile *
+***********************
+
+The AT-rich interaction domain (ARID) is an ~100-amino acid DNA-binding module
+found in a large number of eukaryotic transcription factors that regulate cell
+proliferation, differentiation  and development [1,2]. The ARID domain appears
+as a  single-copy  motif  and  can be found in association with other domains,
+such as  JmjC,  JmjN,  Tudor  (see  <PDOC50304>) and PHD-type zinc finger (see
+<PDOC50016>) [3].
+
+The basic  structure  of  the ARID domain domain appears to be a series of six
+alpha-helices separated  by  beta-strands, loops, or turns, but the structured
+region may  extend  to an additional helix at either or both ends of the basic
+six. Based  on  primary  sequence homology, they can be partitioned into three
+structural classes:
+
+ - Minimal  ARID  proteins  that consist of a core domain formed by six alpha-
+   helices;
+ - ARID  proteins  that  supplement  the core domain with an N-terminal alpha-
+   helix;
+ - Extended-ARID proteins, which contain the core domain and additional alpha-
+   helices at their N- and C-termini.
+
+Minimal ARIDs  are  distributed  in  all  eukaryotes, while extended ARIDs are
+restricted to  metazoans.  The ARID domain binds DNA as a monomer, recognizing
+the duplex  through  insertion  of  a  loop  and an alpha-helix into the major
+groove, and  by  extensive  non-specific  anchoring  contacts  to the adjacent
+sugar-phosphate backbone [1,2,4].
+
+Some proteins known to contain a ARID domain are listed below:
+
+ - Eukaryotic transcription factors of the jumonji family.
+ - Mammalian Bright, a B-cell-specific trans-activator of IgH transcription.
+ - Mammalian PLU-1, a protein that is upregulated in breast cancer cells.
+ - Mammalian RBP1 and RBP2, retinoblastoma binding factors.
+ - Mammalian    Mrf-1   and   Mrf-2,   transcriptional   modulators   of   the
+   cytomegalovirus major intermediate-early promoter.
+ - Drosophila  melanogaster  Dead ringer protein, a transcriptional regulatory
+   protein required for early embryonic development.
+ - Yeast  SWI1  protein,  from  the  SWI/SNF  complex  involved  in  chromatin
+   remodeling and broad aspects of transcription regulation.
+ - Drosophila  melanogaster  Osa.  It  is  structurally  related  to  SWI1 and
+   associates with  the  brahma complex, which is the Drosophila equivalent of
+   the SWI/SNF complex.
+
+The profile we developed covers the ARID core domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2004 / First entry.
+
+[ 1] Iwahara J., Clubb R.T.
+     "Solution structure of the DNA binding domain from Dead ringer, a
+     sequence-specific AT-rich interaction domain (ARID)."
+     EMBO J. 18:6084-6094(1999).
+     PubMed=10545119; DOI=10.1093/emboj/18.21.6084
+[ 2] Iwahara J., Iwahara M., Daughdrill G.W., Ford J., Clubb R.T.
+     "The structure of the Dead ringer-DNA complex reveals how AT-rich
+     interaction domains (ARIDs) recognize DNA."
+     EMBO J. 21:1197-1209(2002).
+     PubMed=11867548; DOI=10.1093/emboj/21.5.1197
+[ 3] Wilsker D., Patsialou A., Dallas P.B., Moran E.
+     "ARID proteins: a diverse family of DNA binding proteins implicated in
+     the control of cell growth, differentiation, and development."
+     Cell Growth Differ. 13:95-106(2002).
+     PubMed=11959810
+[ 4] Kim S., Zhang Z., Upchurch S., Isern N., Chen Y.
+     "Structure and DNA-binding sites of the SWI1 AT-rich interaction
+     domain (ARID) suggest determinants for sequence-specific DNA
+     recognition."
+     J. Biol. Chem. 279:16670-16676(2004).
+     PubMed=14722072; DOI=10.1074/jbc.M312115200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

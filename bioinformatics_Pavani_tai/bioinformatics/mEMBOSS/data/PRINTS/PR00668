@@ -1,0 +1,25 @@
+GLYCPROTEINC
+Equine herpesvirus glycoprotein 13 (EHV-1 gp13) has the characteristic
+features of a membrane-spanning protein: an N-terminal signal sequence;
+a hydrophobic membrane anchor region; a charged C-terminal cytoplasmic tail;
+and an exterior domain with 9 potential N-glycosylation sites [1]. Sequence
+comparisons reveal regions of significant similarity between the C-terminal
+domains of EHV-1 gp13 and gC-like glycoproteins of Herpes simplex virus
+(gC-1 and gC-2), pseudorabies Herpesvirus (gIII) and Varicella-zoster virus
+(gp66). By contrast, the N-termini are much less conserved. Such studies
+indicate that EHV-1 gp13 is the structural homologue of Herpes simplex virus
+glycoprotein C, and shows that the epitope-containing N-terminal amino acid
+sequences of the Herpesvirus gC-like glycoproteins have undergone more
+extensive evolutionary divergence than the C-terminal sequences [1].
+
+GLYCPROTEINC is a 7-element fingerprint that provides a signature for
+glycoprotein C and gC-like proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the C-terminal half of the alignment. Two iterations on
+OWL29.2 were required to reach convergence, at which point a true set
+comprising 16 sequences was identified. Several partial matches were also
+found, all of which are glycoprotein C homologues that fail to make
+significant matches with one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 17 sequences, and 11
+partial matches.

@@ -1,0 +1,44 @@
+******************************************************
+* Eukaryotic initiation factor 5A hypusine signature *
+******************************************************
+
+Eukaryotic initiation factor 5A (eIF-5A) (formerly known as eIF-4D) [1,2] is a
+small protein whose precise role in the initiation of protein synthesis is not
+known. It appears to promote the formation of the first peptide bond.   eIF-5A
+seems to be the  only  eukaryotic  protein  to  contain  an  hypusine residue.
+Hypusine is  derived  from  lysine  by  the  post-translational  addition of a
+butylamino group (from spermidine) to the epsilon-amino group of lysine.   The
+hypusine group is essential to the function of eIF-5A.
+
+A hypusine-containing  protein  has  been  found  in  archaebacteria  such  as
+Sulfolobus acidocaldarius or Methanococcus jannaschii; this protein is  highly
+similar to eIF-5A and could play a similar role in protein biosynthesis.
+
+The signature we developed for eIF-5A is centered around the hypusine residue.
+
+-Consensus pattern: [PT]-G-K-H-G-x-A-K
+                    [The first K is modified to hypusine]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Park M.H., Wolff E.C., Folk J.E.
+     "Hypusine: its post-translational formation in eukaryotic initiation
+     factor 5A and its potential role in cellular regulation."
+     Biofactors 4:95-104(1993).
+     PubMed=8347280
+[ 2] Schnier J., Schwelberger H.G., Smit-McBride Z., Kang H.A., Hershey J.W.
+     "Translation initiation factor 5A and its hypusine modification are
+     essential for cell viability in the yeast Saccharomyces cerevisiae."
+     Mol. Cell. Biol. 11:3105-3114(1991).
+     PubMed=1903841
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

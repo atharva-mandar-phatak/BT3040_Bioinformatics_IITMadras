@@ -1,0 +1,93 @@
+***************************************************************************
+* Lysosome-associated membrane glycoprotein family signatures and profile *
+***************************************************************************
+
+Lysosome-associated membrane  glycoproteins (lamp) [1] are  integral  membrane
+proteins, specific to lysosomes,  and whose exact biological  function  is not
+yet clear.   Structurally,  the  lamp proteins   consist  of   two  internally
+homologous  lysosome-luminal domains separated by a proline-rich hinge region;
+at the C-terminal extremity there is a transmembrane region followed by a very
+short cytoplasmic tail.   In each  of  the  duplicated domains, there  are two
+conserved disulfide bonds. This structure is schematically  represented in the
+figure below.
+
+   +-----+            +-----+         +-----+            +-----+
+   |     |            |     |         |     |            |     |
+  xCxxxxxCxxxxxxxxxxxxCxxxxxCxxxxxxxxxCxxxxxCxxxxxxxxxxxxCxxxxxCxxxxxxxx
+  <--------------------------><Hinge><--------------------------><TM><C>
+
+In  mammals,  there  are two closely related types of lamp: lamp-1 and lamp-2,
+which  form  major  components  of the lysosome membrane. In chicken lamp-1 is
+known as LEP100.
+
+The macrophage protein  CD68 (or macrosialin) [2] is  a  heavily  glycosylated
+integral membrane  protein whose structure  consists  of  a  mucin-like domain
+followed by a proline-rich hinge; a  single lamp-like domain;  a transmembrane
+region and a short cytoplasmic tail.
+
+Similar  to  CD68,  mammalian  lamp-3,  which is expressed in lymphoid organs,
+dendritic cells and in lung, contains all the C-terminal regions but lacks the
+N-terminal  lamp-like  region [3]. In a lamp-family protein from nematodes [4]
+only the part C-terminal to the hinge is conserved.
+
+We developed two signature patterns for this family of proteins. The first one
+is  centered  on  the  first conserved cysteine of the duplicated domains. The
+second  corresponds  to  a  region  that  includes the extremity of the second
+domain,  the totality of the transmembrane region and the cytoplasmic tail. We
+also developed a profile that covers lamp entirely.
+
+-Consensus pattern: [STA]-C-[LIVM]-[LIVMFYW]-A-x-[LIVMFYW]-x(3)-[LIVMFYW]-
+                    x(3)-Y
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for CD68s.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-x(2)-D-x(3,4)-[LIVM](2)-P-[LIVM]-x-[LIVM]-G-x(2)-[LIVM]-
+                    x-G-[LIVM](2)-x-[LIVM](4)-A-[FY]-x-[LIVM]-x(2)-[KR]-[RH]-
+                    x(1,2)-[STAG](2)-Y-[EQ]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  The first pattern will fail to detect the second copy of the domain in
+ lamp-2 and the first copy of chicken LEP100.
+
+-Last update: November 2008 / Text revised; profile added.
+
+[ 1] Fukuda M.
+     "Lysosomal membrane glycoproteins. Structure, biosynthesis, and
+     intracellular trafficking."
+     J. Biol. Chem. 266:21327-21330(1991).
+     PubMed=1939168
+[ 2] Holness C.L., da Silva R.P., Fawcett J., Gordon S., Simmons D.L.
+     "Macrosialin, a mouse macrophage-restricted glycoprotein, is a member
+     of the lamp/lgp family."
+     J. Biol. Chem. 268:9661-9666(1993).
+     PubMed=8486654
+[ 3] de Saint-Vis B., Vincent J., Vandenabeele S., Vanbervliet B.,
+     Pin J.J., Ait-Yahia S., Patel S., Mattei M.G., Banchereau J.,
+     Zurawski S., Davoust J., Caux C., Lebecque S.
+     "A novel lysosome-associated membrane glycoprotein, DC-LAMP, induced
+     upon DC maturation, is transiently expressed in MHC class II
+     compartment."
+     Immunity 9:325-336(1998).
+     PubMed=9768752
+[ 4] Kostich M., Fire A., Fambrough D.M.
+     "Identification and molecular-genetic characterization of a
+     LAMP/CD68-like protein from Caenorhabditis elegans."
+     J. Cell Sci. 113:2595-2606(2000).
+     PubMed=10862717
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

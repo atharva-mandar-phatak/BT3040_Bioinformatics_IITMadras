@@ -1,0 +1,86 @@
+*****************************
+* B30.2/SPRY domain profile *
+*****************************
+
+The B30.2  domain  was first identified as a protein domain encoded by an exon
+(named B30-2)  in  the  human  class I major histocompatibility complex region
+[1], whereas   the  SPRY  domain  was  first  identified  in  a  Dictyostelium
+discoideum kinase  splA   and   mammalian calcium-release  channels  ryanodine
+receptors [2].  The  SPRY domains are shorter at the N-terminus than the B30.2
+domains and  appear  as a subdomain of the latter. The ~200-residue B30.2/SPRY
+(for B30.2  and/or  SPRY) domain is present in a large number of proteins with
+diverse individual functions in different biological processes. The B30.2/SPRY
+domain in  these  proteins  is  likely  to  function  through  protein-protein
+interaction [3].
+
+The N-terminal ~60 residues of B30.2/SPRY domains are poorly conserved and, as
+a consequence,  a  new  domain  name  PRY  was  coined  for a group of similar
+sequence segments  N-terminal  to  the SPRY domains [3]. The B30.2/SPRY domain
+contains three   highly  conserved  motifs  (LDP,  WEVE  and  LDYE)  [4].  The
+B30.2/SPRY domain  adopts  a highly distorted, compact beta-sandwich fold with
+two additional  short  alpha-helices  at  the N-terminus (see <PDB:2FNJ>). The
+beta-sandwich of  the B30.2/SPRY domain consists of two layers of beta-sheets:
+sheet A  composed  of eight strands and sheet B composed of seven strands. All
+the beta-strands  are  in  antiparallel  arrangement  [3]. The 5th beta-strand
+corresponding to  WEVE  motif  [5].  Both  the  N-  and C-terminal ends of the
+B30.2/SPRY domains in general are close to each other [3].
+
+Some proteins known to contain a B30.2/SPRY domain are listed below:
+
+ - Dictyostelium  discoideum  splA,  a  dual-specificity kinase that regulates
+   spore cell differentiation.
+ - Ryanodine  receptors  (RyRs),  involved  in  the  release of Ca2+ ions from
+   intracellular stores.
+ - SPRY  domain-containing  proteins  with a SOCS boc (SSB). The SOCS proteins
+   appear to  form  part  of a classical negative feedback loop that regulates
+   cytokine signal transduction.
+ - Proteins  of  the  RBCC (RING-finger, B-box and coiled-coil domain) family,
+   such as  Sjoegren syndrom type-A or Ro/SS-A antigen, Xenopus nuclear factor
+   7 (Xnf7) and pyrin/marenostrin.
+ - Proteins  of  the  butyrophilin-related  family. Butyrophilin is a membrane
+   protein expressed  in  milk fat globule membrane. Its SPRY domain is linked
+   to two  external  immunoglobulin-like  motifs  by  a  single  transmembrane
+   segment.
+ - Enterophilins,   a  family  of  leucine  zipper  proteins  associated  with
+   enterocyte differentiation.
+ - The  alpha and beta subunits of stonustoxin (STNX), a secreted protein that
+   was purified from the venom of stonefish (Synanceja horrida).
+
+The profile we developed covers the entire B30.2/SPRY domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / First entry.
+
+[ 1] Vernet C., Boretto J., Mattei M.G., Takahashi M., Jack L.J.,
+     Mather I.H., Rouquier S., Pontarotti P.
+     "Evolutionary study of multigenic families mapping close to the human
+     MHC class I region."
+     J. Mol. Evol. 37:600-612(1993).
+     PubMed=8114113
+[ 2] Ponting C., Schultz J., Bork P.
+     "SPRY domains in ryanodine receptors (Ca(2+)-release channels)."
+     Trends Biochem. Sci. 22:193-194(1997).
+     PubMed=9204703
+[ 3] Woo J.-S., Imm J.-H., Min C.-K., Kim K.-J., Cha S.-S., Oh B.-H.
+     "Structural and functional insights into the B30.2/SPRY domain."
+     EMBO J. 25:1353-1363(2006).
+     PubMed=16498413; DOI=10.1038/sj.emboj.7600994
+[ 4] Henry J., Ribouchon M.-T., Offer C., Pontarotti P.
+     "B30.2-like domain proteins: a growing family."
+     Biochem. Biophys. Res. Commun. 235:162-165(1997).
+     PubMed=9196055; DOI=10.1006/bbrc.1997.6751
+[ 5] Seto M.H., Liu H.-L.C., Zajchowski D.A., Whitlow M.
+     "Protein fold analysis of the B30.2-like domain."
+     Proteins 35:235-249(1999).
+     PubMed=10223295; DOI=10.1002/(SICI)1097-0134(19990501)35:2<235::AID-PROT9>3.0.CO;2-X
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,76 @@
+***********************
+* STAS domain profile *
+***********************
+
+The STAS  domain  is  found  in  the  C-terminal  cytoplasmic  part  of  anion
+transporters from  eukaryotes  and  many bacteria, as well as in the bacterial
+anti-sigma-factor antagonists  (ASAs).   It   was  named  STAS  after  sulfate
+transporters and anti-sigma-factor antagonist [1].
+
+Malfunctions in  members  of  the  SLC26A  family  of  anion  transporters are
+involved in  three  human diseases: diastrophic dysplasia/achondrogenesis type
+1B (DTDST),  Pendred's  syndrome (PDS) and congenital chloride diarrhea (CLD).
+These proteins contain 12 transmembrane helices followed by a cytoplasmic STAS
+domain at  the  C-terminus.  The  importance  of  the  STAS  domain  in  these
+transporters is  illustrated by the fact that a number of mutations in PDS and
+DTDST map to it [1].
+
+The activity  of  bacterial  sigma  transcription  factors  is controlled by a
+regulatory cascade involving  an anti-sigma-factor, the ASA and a phosphatase.
+The antisigma-factor  binds  to sigma and holds it in an inactive complex. The
+ASA can  also interact with the anti-sigma-factor, allowing the release of the
+active sigma  factor.  As  the  anti-sigma-factor is a protein kinase,  it can
+phosphorylate the  anti-sigma antagonist  on a conserved serine residue of the
+STAS domain.  This phosphorylation inactivates the ASA that can be reactivated
+through dephosphorylation  by  a phosphatase [1,2]. The STAS domain of the ASA
+SpoIIAA binds  GTP  and  ATP  and  possesses  a  weak  NTPase activity. Strong
+sequence conservation suggests that the STAS domain could possess general NTP-
+binding activity  and  it has been proposed that the NTPs are likely to elicit
+specific conformational  changes  in  the  STAS  domain through binding and/or
+hydrolysis [1].
+
+Resolution of the solution structure of the ASA SpoIIAA from Bacillus subtilis
+(see <PDB:1AUZ>)  has  shown  that the STAS domain consists of a four-stranded
+beta-sheet and  four  alpha  helices.  The  STAS domain forms a characteristic
+alpha-helical handle-like structure [1,3].
+
+Some proteins known to contain a STAS domain are listed below:
+
+ - Members of the SLC26 family of anion transporters.
+ - Anti-sigma-factor antagonists such as Bacillus subtilis SpoIIAA [2].
+ - Blue-light photoreceptor (Phototropin homolog) from Bacillus subtilis.
+ - Hypothetical protein K12G11.1 from Caenorhabditis elegans.
+ - Hypothetical protein SPCC320.05 from fission yeast.
+
+The profile we developed covers the entire STAS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2002 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "The STAS domain - a link between anion transporters and
+     antisigma-factor antagonists."
+     Curr. Biol. 10:R53-R55(2000).
+     PubMed=10662676
+[ 2] Feucht A., Daniel R.A., Errington J.
+     "Characterization of a morphological checkpoint coupling cell-specific
+     transcription to septation in Bacillus subtilis."
+     Mol. Microbiol. 33:1015-1026(1999).
+     PubMed=10476035
+[ 3] Kovacs H., Comfort D., Lord M., Campbell I.D., Yudkin M.D.
+     "Solution structure of SpoIIAA, a phosphorylatable component of the
+     system that regulates transcription factor sigmaF of Bacillus
+     subtilis."
+     Proc. Natl. Acad. Sci. U.S.A. 95:5067-5071(1998).
+     PubMed=9560229
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

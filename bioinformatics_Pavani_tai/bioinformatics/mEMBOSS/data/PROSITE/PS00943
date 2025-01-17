@@ -1,0 +1,41 @@
+*******************************************
+* UbiA prenyltransferase family signature *
+*******************************************
+
+The following prenyltransferases are evolutionary related [1,2]:
+
+ - Bacterial 4-hydroxybenzoate octaprenyltransferase (gene ubiA).
+ - Yeast   mitochondrial   para-hydroxybenzoate--polyprenyltransferase   (gene
+   COQ2).
+ - Protoheme IX farnesyltransferase (heme O synthase)  from  yeast and mammals
+   (gene COX10) and from bacteria (genes cyoE or ctaB).
+
+These proteins   probably  contain  seven  transmembrane  segments.  The  best
+conserved region  is  located  in a loop between the second and third of these
+segments and we used it as a signature pattern.
+
+-Consensus pattern: N-x(3)-[DEH]-x(2)-[LIMFYT]-D-x(2)-[VM]-x-R-[ST]-x(2)-R-
+                    x(4)-[GYNKR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Melzer M., Heide L.
+     "Characterization of polyprenyldiphosphate: 4-hydroxybenzoate
+     polyprenyltransferase from Escherichia coli."
+     Biochim. Biophys. Acta 1212:93-102(1994).
+     PubMed=8155731
+[ 2] Mogi T., Saiki K., Anraku Y.
+     "Biosynthesis and functional role of haem O and haem A."
+     Mol. Microbiol. 14:391-398(1994).
+     PubMed=7885224
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

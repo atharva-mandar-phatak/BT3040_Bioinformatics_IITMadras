@@ -1,0 +1,66 @@
+***************************************
+* CheR-type methyltransferase profile *
+***************************************
+
+Chemotaxis in  bacteria  is  a  behavourial  response  that allows bacteria to
+migrate towards  favorable  chemicals  and  away  from  unfavorable  ones. The
+signaling activity   of   bacterial   chemotaxis  transmembrane  receptors  is
+modulated by  reversible  methylation of specific glutamate residues predicted
+to lie  within  a  coiled-coil region of the receptors cytoplasmic domain. The
+level of  receptor  methylation  results  from  the  activities  of a specific
+S-adenosyl-L-methionine-dependent methyltransferase  (EC  2.1.1.80), CheR, and
+CheB methylesterase  (see <PDOC50122>) [1,2]. The CheR methyltransferase binds
+to major  chemoreceptors  through  their  C-terminal pentapeptide motif NWETF,
+which is distinct from the methylation site.
+
+The crystal  structure  reveals  CheR  to  be  a  mixed  alpha/beta two-domain
+protein. The  N-terminal  domain  consists  of four alpha-helices while the C-
+terminal domain  has a modified Rossmann-type fold. The central seven-stranded
+beta-sheet in  the  C-terminal  domain  of  CheR  is  commonly  found  in  all
+S-adenosylmethionine-dependent methyltransferases.   However,  the  C-terminal
+domain of  CheR  deviates  from  this  common fold by insertion of a subdomain
+(beta-subdomain) consisting of a three-stranded beta-sheet and an alpha-helix.
+The beta-subdomain  of  the CheR methyltransferase is a unique protein-protein
+interaction structural   unit   found   specifically   in   methyltransferases
+associated with bacterial receptors. The protein-protein recognition involving
+this subdomain   occurs   through   extension   of   the   beta-sheet  of  the
+methyltransferase by  addition of a beta-strand originating from the C-termini
+of some chemotaxis receptors [3,4].
+
+The profile we developed covers the entire CheR methyltransferase.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Springer W.R., Koshland D.E. Jr.
+     "Identification of a protein methyltransferase as the cheR gene
+     product in the bacterial sensing system."
+     Proc. Natl. Acad. Sci. U.S.A. 74:533-537(1977).
+     PubMed=322131
+[ 2] Simms S.A., Stock A.M., Stock J.B.
+     "Purification and characterization of the
+     S-adenosylmethionine:glutamyl methyltransferase that modifies membrane
+     chemoreceptor proteins in bacteria."
+     J. Biol. Chem. 262:8537-8543(1987).
+     PubMed=3298235
+[ 3] Djordjevic S., Stock A.M.
+     "Crystal structure of the chemotaxis receptor methyltransferase CheR
+     suggests a conserved structural motif for binding
+     S-adenosylmethionine."
+     Structure 5:545-558(1997).
+     PubMed=9115443
+[ 4] Djordjevic S., Stock A.M.
+     "Chemotaxis receptor recognition by protein methyltransferase CheR."
+     Nat. Struct. Biol. 5:446-450(1998).
+     PubMed=9628482
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

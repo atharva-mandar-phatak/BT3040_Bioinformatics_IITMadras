@@ -1,0 +1,28 @@
+ATPASEA
+ATP synthase (proton-translocating ATPase) is a component of the cyto-
+plasmic membrane of eubacteria, the inner membrane of mitochondria, and
+the thylakoid membrane of chloroplasts [1,2]. The ATPase complex contains
+an oligomeric transmembrane portion (CF0), which acts as a proton channel,
+and a catalytic core (coupling factor CF1).
+
+The CF0 a-subunit is a highly hydrophobic protein and has been predicted to
+contain 8 transmembrane (TM) regions [3]. It is a key component of the
+proton channel, possibly playing a direct role in the translocation of
+protons across the membrane. Sequence comparison of a-subunits reveals
+that the overall level of similarity is quite low, but the degree of
+conservation is relatively high in putative TM domain 5, which contains
+a conserved arginine. Mutagenesis experiments have shown that the Arg
+residue is required for proton translocation, its replacement resulting
+in loss of ATPase activity [4]. 
+
+ATPASEA is a 4-element fingerprint that provides a signature for the ATP
+synthase a-subunits. The fingerprint was derived from an initial alignment
+of 7 sequences: the motifs were drawn from 4 possible TM domains, motif 3
+including the region encoded by PROSITE pattern ATPASE_A (PS00449), which
+contains the conserved Arg. Three iterations on OWL24.0 were required to
+reach convergence, at which point a true set comprising 75 sequences was
+identified. Six partial matches were also found, each of which fails to
+make a significant match with 2 motifs.    
+
+An update on SPTR37_9f identified a true set of 165 sequences, and 24
+partial matches.

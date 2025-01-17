@@ -1,0 +1,57 @@
+***********************************************
+* Thrombospondin type-3 (TSP3) repeat profile *
+***********************************************
+
+Thrombospondins are multimeric multidomain glycoproteins that function at cell
+surfaces  and  in  the  extracellular matrix milieu. They act as regulators of
+cell interactions in vertebrates. They are divided into two subfamilies, A and
+B,  according to their overall molecular organization. The subgroup A proteins
+TSP-1  and  -2  contain an N-terminal domain, a VWFC domain (see <PDOC00928>),
+three   TSP1   repeats   (see   <PDOC50092>),   three  EGF-like  domains  (see
+<PDOC00021>), TSP3 repeats and a C-terminal domain (see <PDOC51236>). They are
+assembled as trimer. The subgroup B thrombospondins, designated TSP-3, -4, and
+COMP (cartilage oligomeric matrix protein, also designated TSP-5) are distinct
+in  that they contain unique N-terminal regions, lack the VWFC domain and TSP1
+repeats,  contain  four  copies  of  EGF-like  domains,  and  are assembled as
+pentamers  [1].  EGF,  TSP3  repeats  and  the  C-terminal domain are thus the
+hallmark of a thrombospondin.
+
+The  calcium-binding  TSP3  repeats are a tandem of aspartic acid-rich motifs,
+which  resembles  EF hands in the acidic side chains. But unlike EF hands, the
+calcium-binding  loops  of  the  TSP3  repeats  are  not  flanked by secondary
+structure elements. The structure of the TSP3 repeats has been solved (see for
+example  <PDB:1YO8>)  [2,3].  They form a wire draped around the calcium ions.
+The  individual  calcium-binding repeats are linked by disulfide bonds to each
+other.
+
+The profile we developed covers the entire TSP3 repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2007 / First entry.
+
+[ 1] Adams J.C.
+     "Thrombospondins: multifunctional regulators of cell interactions."
+     Annu. Rev. Cell Dev. Biol. 17:25-51(2001).
+     PubMed=11687483; DOI=10.1146/annurev.cellbio.17.1.25
+[ 2] Kvansakul M., Adams J.C., Hohenester E.
+     "Structure of a thrombospondin C-terminal fragment reveals a novel
+     calcium core in the type 3 repeats."
+     EMBO J. 23:1223-1233(2004).
+     PubMed=15014436; DOI=10.1038/sj.emboj.7600166
+[ 3] Carlson C.B., Bernstein D.A., Annis D.S., Misenheimer T.M.,
+     Hannah B.L., Mosher D.F., Keck J.L.
+     "Structure of the calcium-rich signature domain of human
+     thrombospondin-2."
+     Nat. Struct. Mol. Biol. 12:910-914(2005).
+     PubMed=16186819; DOI=10.1038/nsmb997
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

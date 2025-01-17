@@ -1,0 +1,22 @@
+PLASTOCYANIN
+Plastocyanin participates in electron transfer between P700 and the
+cytochrome B/F complex in photosystem I. It is found, loosely bound,
+on the inner thylakoid membrane surface in chloroplasts. The plasto-
+cyanins form a subclass of the type I copper blue proteins, which
+include amicyanins, azurins, rusticyanins, and so on [1]. These are 
+small proteins that bind a single copper atom, and are characterised 
+by a intense electronic absorption band near 600nm [2]. There is 
+considerable sequence divergence within this class of proteins, but
+the copper-binding sites are well conserved. 
+
+PLASTOCYANIN is a 3-element fingerprint that provides a signature for the
+plastocyanins. The fingerprint was derived from an initial alignment of
+10 sequences: the motifs were drawn from the full alignment length, motif
+3 including conserved Cys and His residues involved in copper binding
+(cf. PROSITE pattern COPPER_BLUE (PS00196)). Two iterations on OWL25.1 
+were required to reach convergence, at which point a true set comprising 
+46 sequences was identified. One partial match was also found, AZUP_VIBAL,
+a closely related pseudoazurin sequence that matches motifs 1 and 3.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 2
+partial matches.

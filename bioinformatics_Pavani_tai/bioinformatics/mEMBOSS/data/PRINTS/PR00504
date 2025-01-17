@@ -1,0 +1,24 @@
+CHROMODOMAIN
+The CHROMO (CHRromatin Organization MOdifier) domain [1-4] is a conserved
+region of around 60 amino acids, originally identified in Drosophila
+modifiers of variegation - these are proteins that alter the structure of
+chromatin to the condensed morphology of heterochromatin, a cytologically
+visible condition where gene expression is repressed. In one of these
+proteins, Polycomb, the chromo domain has been shown to be important for
+chromatin targeting. Proteins that contain a chromo domain appear to fall
+into 3 classes: (1) those having an N-terminal chromo domain followed by a
+region termed the chromo shadow domain [3]; (2) those with a single chromo
+domain; and (3) those with paired tandem chromo domains. 
+
+CHROMODOMAIN is a 3-element fingerprint that provides a signature for the
+chromo domain. The fingerprint was derived from an initial alignment of 7
+sequences: the motifs were drawn from short conserved regions spanning the
+full domain length, motifs 2 and 3 spanning the region encoded by PROSITE
+pattern CHROMO_1 (PS00598). Two iterations on OWL27.1 were required to
+reach convergence, at which point a true set comprising 12 sequences was
+identified. Several partial matches were also found, all of which are
+believed to be family members. This is not a powerful discriminator owing
+to the low level of sequence similarity between different chromo domains.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 21
+partial matches.

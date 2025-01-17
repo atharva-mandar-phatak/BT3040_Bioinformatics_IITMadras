@@ -1,0 +1,44 @@
+*********************************************
+* Sodium:alanine symporter family signature *
+*********************************************
+
+It has  been shown [1] that integral membrane proteins that mediate the intake
+of a  wide  variety  of  molecules  with the concomitant uptake of sodium ions
+(sodium symporters)  can  be  grouped, on the basis of sequence and functional
+similarities into  a  number  of  distinct  families. One of these families is
+known as the  sodium:alanine  symporter family (SAF) and currently consists of
+the following proteins:
+
+ - Thermophilic bacterium PS-3 alanine carrier protein (ACP). ACP can use both
+   sodium and hydrogen as a symport ion.
+ - Alteromonas haloplanktis D-alanine/glycine permease (gene dagA).
+ - Bacillus subtilis alsT.
+ - Hypothetical   protein   yaaJ   from   Escherichia  coli  and  HI0183,  the
+   corresponding Haemophilus influenzae protein.
+ - Haemophilus influenzae hypothetical protein HI0883.
+
+These integral  membrane  proteins  are  predicted  to  comprise a least eight
+membrane spanning  domains.    As  a  signature  pattern we selected a  highly
+conserved region which is located in the N-terminal section and which includes
+part of the first transmembrane region.
+
+-Consensus pattern: G-G-x-[GA](2)-[LIVM]-F-W-M-W-[LIVM]-x-[STAV]-[LIVMFA](2)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Reizer J., Reizer A., Saier M.H. Jr.
+     "A functional superfamily of sodium/solute symporters."
+     Biochim. Biophys. Acta 1197:133-166(1994).
+     PubMed=8031825
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

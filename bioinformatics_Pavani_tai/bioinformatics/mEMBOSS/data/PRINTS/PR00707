@@ -1,0 +1,36 @@
+UBCTHYDRLASE
+Cysteine protease activity is dependent on an active dyad of cysteine and
+histidine, the order and spacing of these residues varying in the 20 or so
+known families. Families C1, C2 and C10 are loosely termed papain-like, and 
+nearly half of all cysteine proteases are found exclusively in viruses [1].
+
+Ubiquitin is highly conserved, commonly found conjugated to proteins in
+eukaryotic cells, where it may act as a marker for rapid degradation, or
+it may have a chaperone function in protein assembly [1]. The ubiquitin is
+released by cleavage from the bound protein by a protease [1]. A number of
+deubiquitinising proteases are known: all are activated by thiol compounds
+[1,2], and inhibited by thiol-blocking agents and ubiquitin aldehyde [1,3],
+and as such have the properties of cysteine proteases [1].
+
+The deubiquitinsing proteases can be split into 2 size ranges (20-30 kDa
+and 100-200 kDa) [1]: the yuh1 family of proteases fall into the first group. 
+Yeast yuh1 protease is known to be active only against small ubiquitin
+conjugates, being inactive against conjugated beta-galactosidase [1]. A
+mammalian homologue, UCH (ubiquitin conjugate hydrolase), is one of the most
+abundant proteins in the brain [1]. Only one conserved cysteine can be
+identified, along with two conserved histidines. The spacing between the
+cysteine and the second histidine is thought to be more representative of 
+the cysteine/histidine spacing of a cysteine protease catalytic dyad [1].
+
+UBCTHYDRLASE is a 5-element fingerprint that provides a signature for the 
+yuh1 family of deubiquitinising proteases (C12). The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length: motif 3
+includes the region encoded by PROSITE pattern PS00140 (UCH_1), which
+contains the catalytic Cys and the first of the conserved His residues; 
+and motif 4 contains the second of the conserved histidines. Two iterations
+on OWL29.3 were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 5
+partial matches.

@@ -1,0 +1,25 @@
+HYETHTZKNASE
+Thiamine pyrophosphate (TPP), a required cofactor for many enzymes in the 
+cell, is synthesised de novo in Salmonella typhimurium [1]. Five kinase 
+activities have been implicated in TPP synthesis, which involves joining 
+a 4-methyl-5-(beta-hydroxyethyl)thiazole (THZ) moiety and a 4-amino-5-
+hydroxymethyl-2-methylpyrimidine (HMP) moiety [1,2]. 
+
+THZ kinase (EC 2.7.1.50) activity is involved in the salvage synthesis of 
+TH-P from the thiazole: 
+
+2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate      pyrophosphate
+			+ 			    =		     +
+4-4-methyl-5-(2-phosphonooxyethyl)-thiazole 	  thiamin monophosphate
+
+Hydroxyethylthiazole kinase expression is regulated at the mRNA level by
+intracellular thiamin pyrophosphate [2].
+
+HYETHTZKNASE is a 6-element fingerprint that provides a signature for the
+hydroxyethylthiazole kinase family. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length. Two iterations on 
+OWL30.2 were required to reach convergence, at which point a true set
+comprising 8 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

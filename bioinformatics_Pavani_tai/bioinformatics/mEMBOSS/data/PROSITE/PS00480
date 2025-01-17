@@ -1,0 +1,42 @@
+******************************
+* Citrate synthase signature *
+******************************
+
+Citrate synthase (EC 2.3.3.1) (CS) is the tricarboxylic acid cycle enzyme that
+catalyzes the  synthesis of citrate  from  oxaloacetate  and acetyl-CoA  in an
+aldol condensation.  CS can directly form  a carbon-carbon bond in the absence
+of metal ion cofactors.
+
+In prokaryotes, citrate synthase is  composed of six  identical  subunits.  In
+eukaryotes, there are two isozymes of citrate synthase: one is found    in the
+mitochondrial matrix,  the  second  is  cytoplasmic. Both seem to be dimers of
+identical chains.
+
+There are a number of  regions of sequence  similarity between prokaryotic and
+eukaryotic citrate  synthases.  One of the best conserved contains a histidine
+which is  one  of  three  residues  shown  [1] to be involved in the catalytic
+mechanism of  the  vertebrate  mitochondrial  enzyme. We used this region as a
+signature pattern.
+
+-Consensus pattern: G-[FYAV]-[GA]-H-x-[IV]-x(1,2)-[RKTQ]-x(2)-[DV]-[PS]-R
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Karpusas M., Branchaud B., Remington S.J.
+     "Proposed mechanism for the condensation reaction of citrate synthase:
+     1.9-A structure of the ternary complex with oxaloacetate and
+     carboxymethyl coenzyme A."
+     Biochemistry 29:2213-2219(1990).
+     PubMed=2337600
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

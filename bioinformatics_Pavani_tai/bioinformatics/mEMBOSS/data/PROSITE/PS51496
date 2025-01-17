@@ -1,0 +1,61 @@
+**********************
+* CVC domain profile *
+**********************
+
+Homeobox-containing genes  encode  transcription factors and are characterized
+by the  homeodomain  (HD) (see <PDOC00027>), a motif that directs specific DNA
+binding to regulate the expression of target genes. Homeobox genes are grouped
+into several subclasses according to the primary structure of their HD and its
+flanking sequences. Among the paired-like subclass, the paired-like CVC (PLC)-
+homeodomain proteins  (HDPs)  are  characterized by a conserved CVC domain and
+can be  grouped  into  the  Vsx-1  and Vsx-2 family, containing orthologs from
+several species.  The  characteristic  feature  of  the  Vsx-1  group  are the
+existence of  a  RV  domain  and LG sequence and the lack of a Paired-Tail/OAR
+domain (see  <PDOC50803>).  Instead  of an RV domain, the Vsx-2 group proteins
+have a  conserved  14  amino  acid motif called the Paired-Tail or OAR domain.
+These specific   domain   differences   may   correlate  with  the  functional
+specificity of  each  group.  PLC-HDPs  appear  to  play  a particular role in
+occular development  and  execute  their functions by binding to the conserved
+locus control  region  (LCR),  located upstream of the transcrption initiation
+site of   the   red   opsin   gene,  and  thus  specify  the  development  and
+differenciation of  cone  photoreceptors and a subset of retinal inner nuclear
+layer bipolar  cells.  The  CVC  (standing  for Chx10/Vsx-1 and ceh-10) domain
+consists of approximately 50-60 amino acid residues. Because the CVC domain is
+located immediately C-terminal to the homeodomain, the CVC domain is predicted
+to influence  transcriptional  regulation through DNA-binding, protein-protein
+interaction and/or  protein degradation processes. It is possible that the CVC
+domain is  necessary  for  protein  folding  or  protein-protein  interactions
+because this domain is hydrophobic [1,2,3].
+
+The profile we developed covers the entire CVC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2010 / First entry.
+
+[ 1] Svendsen P.C., McGhee J.D.
+     "The C. elegans neuronally expressed homeobox gene ceh-10 is closely
+     related to genes expressed in the vertebrate eye."
+     Development 121:1253-1262(1995).
+     PubMed=7789259
+[ 2] Ohtoshi A., Justice M.J., Behringer R.R.
+     "Isolation and characterization of Vsx1, a novel mouse CVC paired-like
+     homeobox gene expressed during embryogenesis and in the retina."
+     Biochem. Biophys. Res. Commun. 286:133-140(2001).
+     PubMed=11485319; DOI=10.1006/bbrc.2001.5372
+[ 3] Knauer S.K., Carra G., Stauber R.H.
+     "Nuclear export is evolutionarily conserved in CVC paired-like
+     homeobox proteins and influences protein stability, transcriptional
+     activation, and extracellular secretion."
+     Mol. Cell. Biol. 25:2573-2582(2005).
+     PubMed=15767664; DOI=10.1128/MCB.25.7.2573-2582.2005
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

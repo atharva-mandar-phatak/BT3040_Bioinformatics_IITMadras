@@ -1,0 +1,28 @@
+PHOTSYSPSAAB
+Photosystem I, a membrane complex found in plant and cyanobacteria
+chloroplasts, uses light energy to transfer electrons from plastocyanin
+to ferredoxin [1]. The electron transfer components of the photosystem 
+include the primary electron donor chlorophyll P-700 and 5 electron 
+acceptors: chlorophyll (A0), phylloquinone (A1) and 3 4Fe-4S iron-sulphur
+centres, designated Fx, Fa and Fb.
+
+The proteins psaA and psaB are similar and form a dimer in the membrane,
+the complex being involved in binding the electron transfer components [1].
+Each protein contains 11 well-conserved putative transmembrane (TM) domains.
+The Fx iron-sulphur centre is bound between TM domains 8 and 9, each
+protein providing 2 of the 4 cysteine ligands [1].
+
+PHOTSYSPSAAB is a 12-element fingerprint that provides a signature for the 
+psaA and psaB photosystem I proteins. The fingerprint was derived from 
+an initial alignment of 8 sequences: motifs 1-8 encode TM domains 1-8; 
+motif 9 spans the highly-conserved loop region between TM domains 8 and 9,
+which contains the Cys ligands for the Fx iron-sulphur centre (cf. PROSITE
+pattern PHOTOSYSTEM_I_PSAAB (PS00419)); and motifs 10-12 encode TM domains
+9-11. Two iterations on OWL23.2 were required to reach convergence, at
+which point a true set comprising 26 sequences was identified. Two partial
+matches were also found: PSAA_EUGGR is a psaA protein lacking a match with
+the first TM region; and HLBPSHA is a core polypeptide from the reaction 
+centre of the photosynthetic bacterium Heliobacillus mobilis, known to be
+related to other photosystems.
+
+An update on SPTR37_9f identified a true set of 41 sequences.

@@ -1,0 +1,104 @@
+**************************************************
+* Guanylate cyclase domain signature and profile *
+**************************************************
+
+Guanylate cyclases (EC 4.6.1.2) [1 to 4] catalyze the formation  of cyclic GMP
+(cGMP) from GTP.  cGMP  acts as an  intracellular  messenger, activating cGMP-
+dependent kinases and regulating CGMP-sensitive ion channels. The role of cGMP
+as a second messenger in vascular smooth muscle relaxation  and retinal photo-
+transduction  is  well  established.  Guanylate  cyclase is  found both in the
+soluble and particular fraction  of eukaryotic cells.  The soluble  and plasma
+membrane-bound forms differ in structure, regulation and other properties.
+
+Most currently  known  plasma  membrane-bound  forms  are  receptors for small
+polypeptides.  The topology of such proteins is the following:  they have a N-
+terminal extracellular domain which acts as the ligand binding region, then  a
+transmembrane domain, followed by  a  large cytoplasmic C-terminal region that
+can be subdivided into  two domains: a protein kinase-like domain that appears
+important for proper signalling and a cyclase  catalytic domain. This topology
+is schematically represented below.
+
+   +-----------------------xxxxx----------------------+---------------+
+   | Ligand-binding        XXXXX  Protein Kinase like |   Cyclase     |
+   +-----------------------xxxxx----------------------+---------------+
+     Extracellular         Transmembrane          Cytoplasmic
+
+The known guanylate cyclase receptors are:
+
+ - The sea-urchins receptors for  speract and resact, which are small peptides
+   that stimulate sperm motility and metabolism.
+ - The receptors for natriuretic peptides (ANF).  Two  forms  of ANF receptors
+   with guanylate cyclase activity are  currently known: GC-A (or ANP-A) which
+   seems specific  to  atrial  natriuretic peptide (ANP), and GC-B  (or ANP-B)
+   which seems to be stimulated  more effectively by brain natriuretic peptide
+   (BNP) than by ANP.
+ - The receptor for  Escherichia  coli  heat-stable  enterotoxin (GC-C).   The
+   endogenous ligand for this intestinal receptor seems to be a  small peptide
+   called guanylin.
+ - Retinal   guanylate   cyclase  (retGC)  which  probably  plays  a  specific
+   functional role in the rods and/or cones of photoreceptors. It is not known
+   if this protein acts as receptor,  but  its structure is similar to that of
+   the other plasma membrane-bound GCs.
+
+The soluble forms of guanylate cyclase are  cytoplasmic heterodimers.  The two
+subunits, alpha and beta are  proteins of  from 70 to 82 Kd  which are  highly
+related. Two forms of beta subunits are currently known: beta-1 which seems to
+be expressed in  lung and brain,  and beta-2  which is more abundant in kidney
+and liver.
+
+The membrane and  cytoplasmic  forms  of  guanylate  cyclase share a conserved
+domain which is probably important  for  the catalytic activity of the enzyme.
+Such  a domain  is also  found  twice in the different forms of membrane-bound
+adenylate cyclases (also known as class-III) [5,6] from mammals, slime mold or
+Drosophila. We have derived a consensus pattern from the most conserved region
+in that domain. We also developed a profile which covers the domain.
+
+-Consensus pattern: [GD]-[VI]-[LIVM]-x(0,1)-[GS]-x(5)-[FY]-x-[LIVM]-[FYWL]-
+                    [GS]-[DNTHKWE]-[DNTAS]-[IV]-[DNTAY]-x(5)-[DEC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the sea urchin Arbacia punctulata resact receptor which lack this domain.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The pattern will detect both domains of adenylate cyclases class-III.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Koesling D., Boehme E., Schultz G.
+     "Guanylyl cyclases, a growing family of signal-transducing enzymes."
+     FASEB J. 5:2785-2791(1991).
+     PubMed=1680765
+[ 2] Garbers D.L.
+     "The guanylyl cyclase receptor family."
+     New Biol. 2:499-504(1990).
+     PubMed=1982420
+[ 3] Garbers D.L.
+     "Guanylyl cyclase receptors and their endocrine, paracrine, and
+     autocrine ligands."
+     Cell 71:1-4(1992).
+     PubMed=1356629
+[ 4] Yuen P.S.T., Garbers D.L.
+     "Guanylyl cyclase-linked receptors."
+     Annu. Rev. Neurosci. 15:193-225(1992).
+     PubMed=1349465; DOI=10.1146/annurev.ne.15.030192.001205
+[ 5] Iyengar R.
+     "Molecular and functional diversity of mammalian Gs-stimulated
+     adenylyl cyclases."
+     FASEB J. 7:768-775(1993).
+     PubMed=8330684
+[ 6] Barzu O., Danchin A.
+     "Adenylyl cyclases: a heterogeneous class of ATP-utilizing enzymes."
+     Prog. Nucleic Acid Res. Mol. Biol. 49:241-283(1994).
+     PubMed=7863008
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

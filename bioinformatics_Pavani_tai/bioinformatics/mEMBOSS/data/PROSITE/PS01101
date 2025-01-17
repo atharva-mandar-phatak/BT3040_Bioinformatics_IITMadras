@@ -1,0 +1,45 @@
+*************************************************
+* Casein kinase II regulatory subunit signature *
+*************************************************
+
+Casein kinase  II  (CK-2)  [1]  is  an  ubiquitous eukaryotic serine/threonine
+protein kinase which is found both in the cytoplasm and the  nucleus and whose
+substrates are  numerous.  It  generally  phosphorylates  Ser  or  Thr  at the
+N-terminal of stretch of acidic residues (see <PDOC00006>). CK-2 exists as  an
+heterotetramer composed of  two catalytic  subunits (alpha) and two regulatory
+subunits (beta). In most species there are two closely related isoforms of the
+catalytic subunit: alpha  and  alpha'. Some species, such as fungi and plants,
+express two    forms of  regulatory subunits: beta and beta'. The beta subunit
+plays a  complex  role in regulating the basal catalytic activity of the alpha
+subunit. The beta subunit is a highly conserved protein of about  25  Kd  that
+contains, in its central section, a cysteine-rich motif that could be involved
+in binding  a  metal such as zinc [2]. We have used this region as a signature
+pattern.
+
+-Consensus pattern: C-P-x-[LIVMYAT]-x-C-x(5)-[LI]-P-[LIVMCA]-G-x(9)-V-[KRM]-
+                    x(2)-C-[PA]-x-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Allende J.E., Allende C.C.
+     "Protein kinases. 4. Protein kinase CK2: an enzyme with multiple
+     substrates and a puzzling regulation."
+     FASEB J. 9:313-323(1995).
+     PubMed=7896000
+[ 2] Reed J.C., Bidwai A.P., Glover C.V.C.
+     "Cloning and disruption of CKB2, the gene encoding the 32-kDa
+     regulatory beta'-subunit of Saccharomyces cerevisiae casein kinase
+     II."
+     J. Biol. Chem. 269:18192-18200(1994).
+     PubMed=8027080
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

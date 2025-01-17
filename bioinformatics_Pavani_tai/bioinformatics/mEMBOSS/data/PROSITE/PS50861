@@ -1,0 +1,112 @@
+********************************************************
+* Aminoacyl-transfer RNA synthetases class-II profiles *
+********************************************************
+
+Aminoacyl-tRNA  synthetases (EC 6.1.1.-) [1] are  a  group  of  enzymes  which
+activate amino acids and transfer them to specific tRNA molecules as the first
+step in protein biosynthesis. In  prokaryotic organisms  there  are  at  least
+twenty different types  of aminoacyl-tRNA synthetases,  one for each different
+amino acid. In eukaryotes  there are  generally two aminoacyl-tRNA synthetases
+for  each  different amino  acid: one cytosolic form and a mitochondrial form.
+While all these  enzymes have  a  common  function, they are widely diverse in
+terms of subunit size and of quaternary structure.
+
+The  synthetases  specific  for  alanine,  asparagine, aspartic acid, glycine,
+histidine,  lysine, phenylalanine, proline, serine, and threonine are referred
+to as class-II synthetases [2 to 6]. Class-II enzymes are generally dimeric or
+tetrameric, and attach their amino acid to the 3' OH of their tRNA, except for
+phenylalaninyl-tRNA  synthetase  which  uses  the  2' OH like the class-I tRNA
+synthetase.
+
+Class-II  tRNA  synthetases are structurally distinct from the class-I enzymes
+and  have  a central antiparallel beta-sheet instead of the Rossman fold found
+in Class-I structure (see <PDB:1SES>) [8].
+
+Class-II tRNA synthetases do not share a high degree of similarity, however at
+least  three  conserved  regions  are present [2,5,9]. We have developed three
+profiles to  detect  class-II  tRNA  synthetases.  The first one recognize all
+class-II enzymes  except for heterodimeric glycyl-tRNA synthetases and alanyl-
+tRNA synthetases which are picked up by specific profiles.
+
+There are  at  least  two families of proteins related to class-II enzymes and
+that are also recognized by the first profile.
+
+ - Bacterial  aspartate--ammonia ligase (EC 6.3.1.1), the enzyme that produces
+   asparagine from aspartate [10].
+ - Bacterial  ATP  phosphoribosyltransferase  regulatory  subunit (gene hisZ).
+   HisZ seems   to  allow  the  regulation  of  ATP  phosphoribosyltransferase
+   activity by histidine. It is distantly related to histidyl-tRNA synthetases
+   and not all members of this family are picked up by the profile.
+
+-Sequences known to belong to this class detected by the first profile: ALL,
+ except for heterodimeric glycyl-tRNA synthetases and alanyl-tRNA synthetases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL
+ heterodimeric glycyl-tRNA synthetases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the third profile: ALL
+ alanyl-tRNA synthetases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Cusack S.; cusack@embl-grenoble.fr
+
+-Last update: May 2002 / Text revised; profiles added; pattern deleted.
+
+[ 1] Schimmel P.
+     "Aminoacyl tRNA synthetases: general scheme of structure-function
+     relationships in the polypeptides and recognition of transfer RNAs."
+     Annu. Rev. Biochem. 56:125-158(1987).
+     PubMed=3304131; DOI=10.1146/annurev.bi.56.070187.001013
+[ 2] Delarue M., Moras D.
+     "The aminoacyl-tRNA synthetase family: modules at work."
+     BioEssays 15:675-687(1993).
+     PubMed=8274143
+[ 3] Schimmel P.
+     "Classes of aminoacyl-tRNA synthetases and the establishment of the
+     genetic code."
+     Trends Biochem. Sci. 16:1-3(1991).
+     PubMed=2053131
+[ 4] Nagel G.M., Doolittle R.F.
+     "Evolution and relatedness in two aminoacyl-tRNA synthetase
+     families."
+     Proc. Natl. Acad. Sci. U.S.A. 88:8121-8125(1991).
+     PubMed=1896459
+[ 5] Cusack S., Haertlein M., Leberman R.
+     "Sequence, structural and evolutionary relationships between class 2
+     aminoacyl-tRNA synthetases."
+     Nucleic Acids Res. 19:3489-3498(1991).
+     PubMed=1852601
+[ 6] Cusack S.
+     "Sequence, structure and evolutionary relationships between class 2
+     aminoacyl-tRNA synthetases: an update."
+     Biochimie 75:1077-1081(1993).
+     PubMed=8199242
+[ 7] Cusack S., Berthet-Colominas C., Haertlein M., Nassar N., Leberman R.
+     "A second class of synthetase structure revealed by X-ray analysis of
+     Escherichia coli seryl-tRNA synthetase at 2.5 A."
+     Nature 347:249-255(1990).
+     PubMed=2205803; DOI=10.1038/347249a0
+[ 8] Delarue M.
+     "Aminoacyl-tRNA synthetases."
+     Curr. Opin. Struct. Biol. 5:48-55(1995).
+     PubMed=7773747
+[ 9] Leveque F., Plateau P., Dessen P., Blanquet S.
+     "Homology of lysS and lysU, the two Escherichia coli genes encoding
+     distinct lysyl-tRNA synthetase species."
+     Nucleic Acids Res. 18:305-312(1990).
+     PubMed=2183178
+[10] Nakatsu T., Kato H., Oda J.
+     Nat. Struct. Biol. 5:15-19(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,107 @@
+*********************
+* SAP motif profile *
+*********************
+
+The SAP  motif  is  a  35-residue  motif,  which has been named after SAF-A/B,
+Acinus and PIAS, three proteins known to contain it. The SAP motif is found in
+a variety  of  nuclear  proteins  involved  in  transcription, DNA repair, RNA
+processing or  apoptotic  chromatin degradation. As the sap motif of SAF-A has
+been shown  to  be  essential  for  specific DNA binding activity, it has been
+proposed that it could be a DNA-binding motif [1,2].
+
+A multiple  alignment  of  the  SAP  motif reveals a bipartite distribution of
+strongly conserved  hydrophobic,  polar  and  bulky amino acids separated by a
+region that  contains  a glycine. Secondary structure predictions suggest that
+the SAP motif could form two alpha helices separated by a turn [1].
+
+Some proteins known to contain a SAP motif are listed below:
+
+ - Vertebrate  scaffold  attachment  factors  A  and  B  (SAF-A/B).  These two
+   proteins are heterogeneous nuclear ribonucleoproteins (hnRNPs) that bind to
+   AT-rich chromosomal  region.  It  has  been  proposed  that they couple RNA
+   metabolism to nuclear organization [2,3,4]. The SAF-A protein is cleaved by
+   caspase-3 during apoptosis [2,5].
+ - Mammalian  Acinus, a protein which induces apoptotic chromatin condensation
+   after cleavage  by  caspase-3  [6].  Acinus also contains a RNA-recognition
+   motif.
+ - Eukaryotic  proteins  of  the  PIAS  (protein  inhibitor of activated STAT)
+   family. These proteins interact with phosphorylated STAT dimers and inhibit
+   STAT mediated gene activation. Deletion of the first 50 amino acid residues
+   containing the  SAP  domain  allows  the  interaction  of  PIAS1 with STAT1
+   monomer [7].
+ - Plant  poly(ADP-ribose)  polymerase  (PARP). PARP is a nuclear protein that
+   catalyzes the   poly(ADP-ribosyl)ation  of  proteins.  It  is  involved  in
+   responses to  mild  and  severe oxidative stresses, by mediating DNA repair
+   and programmed  cell  death  processes,  respectively  [8]. PARP is tightly
+   bound to chromatin or nuclear matrix.
+ - Arabidopsis thaliana Arp, an apurinic endonuclease-redox protein.
+ - Yeast   THO1   protein.   It   could  be  involved  in  the  regulation  of
+   transcriptional elongation by RNA polymerase II [9].
+ - Animal  Ku70.  Together with Ku86, it forms a DNA ends binding complex that
+   is involved in repairing DNA double-strand breaks.
+ - Yeast RAD18, a protein involved in DNA repair.
+ - Neurospora crassa UVS-2, the homolog of RAD18.
+
+The profile we developed cover the entire SAP motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2003 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "SAP - a putative DNA-binding motif involved in chromosomal
+     organization."
+     Trends Biochem. Sci. 25:112-114(2000).
+     PubMed=10694879
+[ 2] Goehring F., Schwab B.L., Nicotera P., Leist M., Fackelmayer F.O.
+     EMBO J. 16:7361-7371(1997).
+[ 3] Weighardt F., Cobianchi F., Cartegni L., Chiodi I., Villa A., Riva S.,
+     Biamonti G.
+     "A novel hnRNP protein (HAP/SAF-B) enters a subset of hnRNP complexes
+     and relocates in nuclear granules in response to heat shock."
+     J. Cell Sci. 112:1465-1476(1999).
+     PubMed=10212141
+[ 4] Nayler O., Stratling W., Bourquin J.P., Stagljar I., Lindemann L.,
+     Jasper H., Hartmann A.M., Fackelmayer F.O., Ullrich A., Stamm S.
+     "SAF-B protein couples transcription and pre-mRNA splicing to SAR/MAR
+     elements."
+     Nucleic Acids Res. 26:3542-3549(1998).
+     PubMed=9671816
+[ 5] Kipp M., Schwab B.L., Przybylski M., Nicotera P., Fackelmayer F.O.
+     "Apoptotic cleavage of scaffold attachment factor A (SAF-A) by
+     caspase-3 occurs at a noncanonical cleavage site."
+     J. Biol. Chem. 275:5031-5036(2000).
+     PubMed=10671544
+[ 6] Sahara S., Aoto M., Eguchi Y., Imamoto N., Yoneda Y., Tsujimoto Y.
+     "Acinus is a caspase-3-activated protein required for apoptotic
+     chromatin condensation."
+     Nature 401:168-173(1999).
+     PubMed=10490026; DOI=10.1038/43678
+[ 7] Liao J., Fu Y., Shuai K.
+     "Distinct roles of the NH2- and COOH-terminal domains of the protein
+     inhibitor of activated signal transducer and activator of
+     transcription (STAT) 1 (PIAS1) in cytokine-induced PIAS1-Stat1
+     interaction."
+     Proc. Natl. Acad. Sci. U.S.A. 97:5267-5272(2000).
+     PubMed=10805787; DOI=97/10/5267
+[ 8] Amor Y., Babiychuk E., Inze D., Levine A.
+     "The involvement of poly(ADP-ribose) polymerase in the oxidative
+     stress responses in plants."
+     FEBS Lett. 440:1-7(1998).
+     PubMed=9862413
+[ 9] Piruat J.I., Aguilera A.
+     "A novel yeast gene, THO2, is involved in RNA pol II transcription and
+     provides new evidence for transcriptional elongation-associated
+     recombination."
+     EMBO J. 17:4859-4872(1998).
+     PubMed=9707445; DOI=10.1093/emboj/17.16.4859
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

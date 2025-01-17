@@ -1,0 +1,37 @@
+********************************************************
+* Alanine racemase pyridoxal-phosphate attachment site *
+********************************************************
+
+Alanine racemase (EC 5.1.1.1) [1] catalyzes the pyridoxal-dependent conversion
+of L-alanine into D-alanine, a key building block  of bacterial peptidoglycan.
+In bacteria such as Escherichia coli or  Salmonella typhimurium, there are two
+forms of  alanine  racemase:  a biosynthetic form (alr) required for cell wall
+formation  and a  form  (dadB)  that  functions  in  L-alanine  catabolism. In
+contrast to  dadB and alr which are monomeric enzymes, the alanine racemase of
+Bacillaceae are homodimers.
+
+The pyridoxal-phosphate group of  alanine racemase  is  attached  to  a lysine
+residue.  The sequence around this residue is highly conserved in all forms of
+the enzyme.
+
+-Consensus pattern: [SACVLG]-[AIPTV]-x(0,1)-K-[ADGS]-[DEN]-[GA]-Y-G-[HACILN]-
+                    [GD]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2002 / Pattern revised.
+
+[ 1] Hayashi H., Wada H., Yoshimura T., Esaki N., Soda K.
+     "Recent topics in pyridoxal 5'-phosphate enzyme studies."
+     Annu. Rev. Biochem. 59:87-110(1990).
+     PubMed=2197992; DOI=10.1146/annurev.bi.59.070190.000511
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

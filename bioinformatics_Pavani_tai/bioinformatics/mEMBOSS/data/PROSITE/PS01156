@@ -1,0 +1,97 @@
+***********************************************
+* TonB-dependent receptor proteins signatures *
+***********************************************
+
+In Escherichia coli the tonB protein interacts  with  outer  membrane receptor
+proteins that  carry  out high-affinity binding and energy-dependent uptake of
+specific substrates  into  the  periplasmic space. These substrates are either
+poorly permeable  through  the  porin  channels or are encountered at very low
+concentrations. In the absence  of tonB these  receptors bind their substrates
+but do not carry out active transport.  The tonB  protein  also interacts with
+some colicins.  The  proteins that are currently known or presumed to interact
+with tonB are:
+
+  Gene   Function or name
+  ----   -------------------------------------------------------------------
+  btuB   Receptor for cobalamin.
+  cirA   Receptor for colicin I (exact substrate not known).
+  fatA   Receptor for ferric anguibactin (Vibrio anguillarum).
+  fcuA   Receptor for ferrichrome (Yersinia enterocolitica).
+  fecA   Receptor for iron dicitrate.
+  fepA   Receptor for ferrienterobactin (ferric enterochelin).
+  fhuA   Receptor for ferrichrome-iron.
+  fhuE   Receptor for ferric coprogen, ferrioxamine B, and rhodotrulic acid.
+  foxA   Receptor for ferrioxamine (Yersinia enterocolitica).
+  fptA   Receptor for Fe(III)-pyochelin (Pseudomonas aeruginosa).
+  fpvA   Receptor for ferripyoverdine (Pseudomonas aeruginosa).
+  fyuA   Receptor for pesticin and yersiniabactin (Yersinia).
+  hemR   Receptor for hemin (Yersinia enterocolitica).
+  hxuC   Receptor for heme/hemopexin (Haemophilus influenzae).
+  irgA   Receptor for ferric vibriobactin (Vibrio cholerae).
+  iroA   Receptor for a siderophore (Neisseria meningitidis).
+  iutA   Receptor for ferric aerobactin.
+  pbuA   Receptor for ferric pseudobactin M114 (Pseudomonas strain M114).
+  pfeA   Receptor for ferric enterobactin (Pseudomonas aeruginosa).
+  pupA   Receptor for ferric pseudobactin 358 (Pseudomonas putida).
+  pupB   Receptor for ferric pseudobactin BN7 and BN8 (Pseudomonas putida).
+  tbp1   Receptor for transferrin (Neisseria and Haemophilus).
+
+  Haemophilus influenzae hypothetical proteins HI0262, HI0661, HI0635, HI0712,
+  HI1217, and HI1567.
+
+  cba    Colicin B, a channel forming colicin.
+  cda    Colicin D.
+  cma    Colicin M, inhibitor of murein biosynthesis.
+
+Most of  these proteins contain, at their N-terminus, a short conserved region
+[1,2,3],  called the tonB-box, involved in the interaction of the protein with
+the tonB protein [4]. With  the  exception of the colicin B, D and M receptors
+they all  also contain, in their C-terminal extremity a short conserved domain
+that contains two invariant residues.
+
+-Consensus pattern: <x(10,115)-[DENF]-[ST]-[LIVMF]-[LIVSTEQ]-V-{AGPN}-[AGP]-
+                    [STANEQPK]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 16 sequences.
+-Other sequence(s) detected in Swiss-Prot: 169.
+
+-Consensus pattern: [LYGSTANEQ]-x(3)-[GSTAENQ]-x-[PGE]-R-x-[LIVFYWA]-x-
+                    [LIVMFTA]-[STAGNQ]-[LIVMFYGTA]-x-[LIVMFYWGTADQ]-x-F>
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for hemR and cba/cda/cma.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Lundrigan M.D., Kadner R.J.
+     "Nucleotide sequence of the gene for the ferrienterochelin receptor
+     FepA in Escherichia coli. Homology among outer membrane receptors that
+     interact with TonB."
+     J. Biol. Chem. 261:10797-10801(1986).
+     PubMed=3015941
+[ 2] Schramm E., Mende J., Braun V., Kamp R.M.
+     "Nucleotide sequence of the colicin B activity gene cba: consensus
+     pentapeptide among TonB-dependent colicins and receptors."
+     J. Bacteriol. 169:3350-3357(1987).
+     PubMed=2439491
+[ 3] Nau C.D., Konisky J.
+     "Evolutionary relationship between the TonB-dependent outer membrane
+     transport proteins: nucleotide and amino acid sequences of the
+     Escherichia coli colicin I receptor gene."
+     J. Bacteriol. 171:1041-1047(1989).
+     PubMed=2644220
+[ 4] Gudmundsdottir A., Bell P.E., Lundrigan M.D., Bradbeer C., Kadner R.J.
+     "Point mutations in a conserved region (TonB box) of Escherichia coli
+     outer membrane protein BtuB affect vitamin B12 transport."
+     J. Bacteriol. 171:6526-6533(1989).
+     PubMed=2687240
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

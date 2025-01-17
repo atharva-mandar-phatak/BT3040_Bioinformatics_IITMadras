@@ -1,0 +1,31 @@
+TYPE3OMBPROT
+Some Gram-negative animal enteropathogens express a specialised secretion 
+system to directly "inject" exotoxins into the cytoplasm of host cells. 
+Dubbed the type III secretion system, it is of specific interest to 
+researchers, as the components of such a system are only expressed in 
+pathogenic strains [1]. The system is composed of structural proteins and 
+exotoxin effectors; these are often encoded on large virulence plasmids or 
+on the bacterial chromosome itself [1]. 
+
+The Shigella flexneri invasion plasmid antigen (ipa) genes are found on such 
+a plasmid, and are arranged into an operon. Directly upstream of this operon 
+is another cluster of type III genes, termed ipgD, E and F [2]. Deletion 
+mutational studies of all three genes showed they were essential for 
+virulence in S.flexneri, and that IpgD is secreted by the type III needle 
+to the outside of the bacterial cell [2]. Further analysis of the ipg operon
+confirmed that the IpgD gene product is chaperoned by the IpgE protein while 
+in the bacterial cytoplasm [3]. 
+
+More recently, a large study into the spread of the ipa/mxi/ipg
+pathogenicity islands through their relevant plasmid has revealed that 
+homologues exist in many different Shigella strains, as well as 
+enteroinvasive E.coli and Salmonella spp. [4]. There is evidence that the 
+genes were acquired from Shigella through lateral transfer, like most of the
+other type III secretion system virulence plasmids [4]. 
+
+TYPE3OMBPROT is a 10-element fingerprint that provides a signature for the
+type III secretion system outer membrane B protein family. The fingerprint
+was derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning the N-terminal portion of the alignment. Two
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 24 sequences was identified.

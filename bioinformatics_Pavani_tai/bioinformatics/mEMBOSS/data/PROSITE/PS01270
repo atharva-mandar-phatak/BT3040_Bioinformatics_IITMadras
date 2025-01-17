@@ -1,0 +1,54 @@
+***********************************
+* Band 7 protein family signature *
+***********************************
+
+Mammalian band  7  protein [1] (also known as 7.2B or stomatin) is an integral
+membrane phosphoprotein   of  red  blood  cells  thought  to  regulate  cation
+conductance by  interacting  with  other proteins of the junctional complex of
+the membrane  skeleton.  Structurally, band  7  is evolutionary related to the
+following proteins:
+
+ - Caenorhabditis  elegans  protein  mec-2 [2]. Mec-2 positively regulates the
+   activity of  the putative mechanosensory transduction channel. It may links
+   the mechanosensory  channel  and  the microtubule cytoskeleton of the touch
+   receptor neurons.
+ - Caenorhabditis elegans proteins sto-1 to sto-4.
+ - Caenorhabditis elegans protein unc-1.
+ - Escherichia coli hypothetical protein ybbK.
+ - Mycobacterium tuberculosis hypothetical protein MtCY277.09.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1128.
+ - Methanococcus jannaschii hypothetical protein MJ0827.
+
+Structurally all  these  proteins  consist  of a short N-terminal domain which
+is followed  by  a  transmembrane  region and a variable size (from 170 to 350
+residues) C-terminal domain.
+
+As a  signature  pattern,  we  selected  a  conserved region located about 110
+residues after the transmembrane domain.
+
+-Consensus pattern: R-x(2)-[LIV]-[SAN]-x(6)-[LIV]-D-x(2)-T-x(2)-W-G-[LIVT]-
+                    [KRH]-[LIV]-x-[KRA]-[LIV]-E-[LIV]-[KRQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Gallagher P.G., Forget B.G.
+     "Structure, organization, and expression of the human band 7.2b gene,
+     a candidate gene for hereditary hydrocytosis."
+     J. Biol. Chem. 270:26358-26363(1995).
+     PubMed=7592848
+[ 2] Huang M., Gu G., Ferguson E.L., Chalfie M.
+     A stomatin-like protein necessary for mechanosensation in C.
+     "elegans."
+     Nature 378:292-295(1995).
+     PubMed=7477350
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

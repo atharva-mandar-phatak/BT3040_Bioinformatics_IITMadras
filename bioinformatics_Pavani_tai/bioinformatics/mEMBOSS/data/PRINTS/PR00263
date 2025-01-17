@@ -1,0 +1,43 @@
+HBGFFGF
+The heparin-binding growth factor (HBGF) family consists of at least 7
+related proteins (HBGF1 - HBGF7) that bind to 3 different receptors and
+have a strong affinity for heparin. This family is a member of a super-
+family that also contains the interleukin-1 proteins, Kunitz-type soybean 
+trypsin inhibitors (STI) and histactophilin. All have very similar 
+structures, but although the HBGF and interleukin-1 families share some 
+sequence similarity (about 25% [1]), they show none at all to the STIs.
+
+HBGFs are involved in many different processes related to cell differen-
+tiation and growth control [1]. HBGF1 and HBGF2 have similar effects: they 
+induce mesoderm formation in embryogenesis, and mediate wound repair, 
+angiogenesis and neural outgrowth; they also induce proliferation and 
+migration of fibroblasts, endothelial cells and astroglial cells. HBGF3 
+(int-2) and HBGF4 (hst/ks) are known oncogenes, from stomach tumours and 
+Kaposi sarcoma respectively. HBGF5 and HBGF6 are also oncogene products. 
+HBGF7, keratinocyte growth factor, is possibly the major paracrine
+effector of normal epithelial cell proliferation.
+
+The crystal structures of HBGF1 (also known as acidic fibroblast growth
+factor, aFGF, and FGF1) and HBGF2 (also known as basic fibroblast growth
+factor, bFGF, and FGF2) [2] have been solved, showing them to have the same
+12-stranded beta-sheet structure as both interleukin-1 and the Kunitz-type
+soybean trypsin inhibitors [4]; HBGF1 and interleukin-1 had been found to 
+be similar, and they were predicted to have similar structures [3]. The 
+beta-sheets are arranged in 3 similar lobes around a central axis, 6 
+strands forming an anti-parallel beta-barrel. Several regions of HBGF1 have 
+been implicated in receptor binding, notably beta-strands 1-3, and the 
+loop between strands 8 and 9. The loop between strands 10 and 11 is thought
+to be involved in binding heparin.  
+
+HBGFFGF is a 4-element fingerprint that provides a signature for the
+HBGF family. The fingerprint was derived from an initial alignment of 3
+sequences, the motifs all being drawn from beta-sheet regions, which are
+generally more conserved than the loops between them: motif 1 spans strands
+1 and 2; motif 2 strands 4 and 5; motif 3 strands 6 and 7; and motif 4
+strands 8 and 9. Motifs 1 and 4 were of particular interest, since these
+encode the strands implicated in receptor binding. Three iterations on 
+OWL17.1 were required to reach convergence, at which point all known
+members of the HBGF family were identified. 
+
+An update on SPTR37_9f identified a true set of 45 sequences, and 10
+partial matches.

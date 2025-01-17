@@ -1,0 +1,48 @@
+INSADHFAMILY
+Drosophila alcohol dehydrogenase (ADH), an NAD(H)-dependent oxidoreductase,
+is a member of the short-chain dehydrogenases/reductases (SDR) family. The
+enzyme is homodimeric and catalyses the dehydrogenation of alcohols to their
+respective ketones or aldehydes, both for metabolic assimilation and
+detoxification purposes. 
+
+Insect ADH is very different from yeast and mammalian ADHs. The enzyme from 
+Drosophila lebanonensis has been characterised by protein analysis and was
+found to have a 254-residue protein chain with an acetyl-blocked N-terminal
+Met [1]. Comparisons with the enzyme from other species reveals that they
+have diverged considerably. The structural variation within Drosophila is 
+about as large as that for mammalian zinc-containing alcohol dehydrogenase.
+
+The crystal structure of the apo form of Drosophila ADH has been solved to
+1.9A resolution [2]. Each ADH subunit is revealed to have a mono-domain 
+alpha/beta structure, with a characteristic NAD(H)-binding Rossmann fold.
+The polypeptide chain folds into a central 8-stranded beta-sheet, flanked 
+on each side by 3 alpha-helices. The dimers have local 2-fold symmetry and
+essentially associate via a 4-helix bundle. Three structural features 
+characterise the active site architecture: (i) a deep cavity, covered by a
+flexible 33-residue loop and an 11-residue C-terminal tail of the 
+neighbouring subunit, whose hydrophobic surface is likely to increase the
+specificity of the enzyme for secondary aliphatic alcohols; (ii) the 
+Ser-Tyr-Lys residues of the catalytic triad are known to be involved in
+enzymatic catalysis; and (iii) 3 well-ordered water molecules in hydrogen 
+bonding distance of side-chains of the catalytic triad may be significant
+for the proton release steps in the catalysis. 
+
+A number of proteins within the SDR family share a strong phylogenetic
+relationship with insect ADH. Amongst these are Drosophila ADH-related
+protein (duplicate of Adh or Adh-dup) [3]; Drosophila fat body protein
+[4]; and development-specific 25kDa protein from Sarcophaga peregrina [5].
+
+INSADHFAMILY is an 8-element fingerprint that provides a signature for the
+family of alcohol dehydrogenases and related proteins. The fingerprint was
+derived from an initial alignment of 6 sequences. The motifs were drawn from
+short conserved regions spanning virtually the full alignment length, 
+focusing on those sections that characterise the ADHs but distinguish them 
+from the rest of the SDR family: motif 1 includes strand 1; motif 2 contains
+helix 2; motif 3 includes helix 4; motif 4 spans helices 5 and 6; motif 5
+spans strand 5 and helix 7; motif 6 encodes helix 8; motif 7 spans strands
+6 and 7; and motif 8 includes strand 9. Three iterations on SPTR37_10f were
+required to reach convergence, at which point a true set comprising 79 
+sequences was identified. Several partial matches were also found: O96646
+is a pigment cell dehydrogenase reductase from Drosophila melanogaster that
+matches motifs 3-6, and all the rest are closely related members of the SDR
+family that match 2 motifs.

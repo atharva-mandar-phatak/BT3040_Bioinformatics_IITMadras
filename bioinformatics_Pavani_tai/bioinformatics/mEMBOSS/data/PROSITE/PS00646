@@ -1,0 +1,65 @@
+***********************************************
+* Ribosomal protein S13 signature and profile *
+***********************************************
+
+Ribosomal protein S13 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli,  S13  is  known to be involved in binding fMet-tRNA and,
+hence, in  the  initiation of translation. It is a basic protein of 115 to 177
+amino-acid residues [1,2].
+
+The  crystal structure of the S13 protein has been solved as part of the small
+ribosomal  subunit  (see  <PDB:1J5E; M>)  [3].  It  consists  of two separated
+domains,  an  approximately  60-residue  N-terminal domain which forms a small
+helical  domain  consisting  of two-turn helices and two alpha-turn structure,
+and  a  C-terminal  long  straight  alpha helix followed by a region devoid of
+secondary  structure.  The  N-terminal  domain  makes  several  base  specific
+interactions with the 16S RNA. Several lysine residues in the C-terminal helix
+also contact RNA.
+
+Proteins known to belong to this family are listed below.
+
+ - Eubacterial S13.
+ - Plant chloroplast S13 (nuclear encoded).
+ - Red algal chloroplast S13.
+ - Cyanelle S13.
+ - Archaebacterial S13.
+ - Plant mitochondrial S13.
+ - Mammalian and plant S18.
+
+As  a signature pattern, we selected the best conserved regions located at the
+C-terminal  end  of the long straight alpha helix. We also developed a profile
+which covers the N-terminal domain and the long straight alpha helix.
+
+-Consensus pattern: [KRQSEAT]-[GS]-x-R-H-x(2)-[GSNHKLCD]-x(2)-[LIVMCT]-[RNH]-
+                    G-Q
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Chlamydia trachomatis S13.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Chan Y.-L., Paz V., Wool I.G.
+     "The primary structure of rat ribosomal protein S18."
+     Biochem. Biophys. Res. Commun. 178:1212-1218(1991).
+     PubMed=1872840
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+[ 3] Brodersen D.E., Clemons W.M. Jr., Carter A.P., Wimberly B.T.,
+     Ramakrishnan V.
+     "Crystal structure of the 30 S ribosomal subunit from Thermus
+     thermophilus: structure of the proteins and their interactions with 16
+     S RNA."
+     J. Mol. Biol. 316:725-768(2002).
+     PubMed=11866529; DOI=10.1006/jmbi.2001.5359
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,32 @@
+TYPE3IMSPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+It is believed that the family of type III inner membrane proteins are 
+used as structural moieties in a complex with several other subunits [4]. 
+One such set of inner membrane proteins, labeled "S" here for nomenclature 
+purposes, includes the Salmonella and Shigella SpaS, the Yersinia YscU, 
+Rhizobium Y4YO, and the Erwinia HrcU genes [4]. The flagellar protein FlhB 
+also shares similarity, probably due to evolution of the type III secretion 
+system from the flagellar biosynthetic pathway. 
+
+TYPE3IMSPROT is a 5-element fingerprint that provides a signature for the
+type III secretion system inner membrane S protein family. The fingerprint
+was derived from an initial alignment of 12 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length (~400 amino acids).
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 32 sequences was identified. A single partial
+match was also found, O87466, a type III pathway protein from Pseudomonas
+syringae that fails to make a significant match with motif 1.

@@ -1,0 +1,88 @@
+*******************************************************************
+* Cytochrome b5 family, heme-binding domain signature and profile *
+*******************************************************************
+
+Cytochrome b5  is  a  membrane-bound  hemoprotein  which  acts as an  electron
+carrier for several membrane-bound  oxygenases [1].   There are two homologous
+forms of b5, one  found in microsomes and one  found in the outer  membrane of
+mitochondria.  Two conserved histidine residues serve as axial ligands for the
+heme group.    The  structure of  a number  of oxidoreductases consists of the
+juxtaposition of  a  heme-binding domain homologous to that of b5 and either a
+flavodehydrogenase or a molybdopterin domain. These enzymes are:
+
+ - Lactate dehydrogenase  (EC 1.1.2.3) [2], an   enzyme  that  consists  of  a
+   flavodehydrogenase domain and a heme-binding domain called cytochrome b2.
+ - Nitrate reductase (EC 1.7.1.-), a key enzyme involved in  the first step of
+   nitrate  assimilation in  plants, fungi  and  bacteria [3,4]. Consists of a
+   molybdopterin domain   (see  <PDOC00484>),  a  heme-binding  domain  called
+   cytochrome b557, as well as a cytochrome reductase domain.
+ - Sulfite oxidase (EC 1.8.3.1) [5],  which catalyzes the terminal reaction in
+   the oxidative degradation  of sulfur-containing  amino acids. Also consists
+   of a molybdopterin domain and a heme-binding domain.
+ - Yeast  acyl-CoA  desaturase  1  (EC  1.14.19.1)  (gene  OLE1).  This enzyme
+   contains a C-termainal heme-binding domain.
+
+This family of proteins also includes:
+
+ - TU-36B, a Drosophila muscle protein of unknown function [6].
+ - Fission yeast hypothetical protein SpAC1F12.10c.
+ - Yeast hypothetical protein YMR073c.
+ - Yeast hypothetical protein YMR272c.
+
+We used a segment which includes the first  of the two histidine heme ligands,
+as a signature pattern for the heme-binding domain of cytochrome b5 family.
+
+-Consensus pattern: [FY]-[LIVMK]-{I}-{Q}-H-P-[GA]-G
+                    [H is a heme axial ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Rouze P.; pierre.rouze@gengenp.rug.ac.be
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ozols J.
+     "Structure of cytochrome b5 and its topology in the microsomal
+     membrane."
+     Biochim. Biophys. Acta 997:121-130(1989).
+     PubMed=2752049
+[ 2] Guiard B.
+     "Structure, expression and regulation of a nuclear gene encoding a
+     mitochondrial protein: the yeast L(+)-lactate cytochrome c
+     oxidoreductase (cytochrome b2)."
+     EMBO J. 4:3265-3272(1985).
+     PubMed=3004948
+[ 3] Calza R., Huttner E., Vincentz M., Rouze P., Galangau F., Vaucheret H.,
+     Cherel I., Meyer C., Kronenberger J., Caboche M.
+     Mol. Gen. Genet. 209:552-562(1987).
+[ 4] Crawford N.M., Smith M., Bellissimo D., Davis R.W.
+     "Sequence and nitrate regulation of the Arabidopsis thaliana mRNA
+     encoding nitrate reductase, a metalloflavoprotein with three
+     functional domains."
+     Proc. Natl. Acad. Sci. U.S.A. 85:5006-5010(1988).
+     PubMed=3393528
+[ 5] Guiard B., Lederer F.
+     "Amino acid sequence of the 'b5-like' heme-binding domain from chicken
+     sulfite oxidase."
+     Eur. J. Biochem. 100:441-453(1979).
+     PubMed=510290
+[ 6] Levin R.J., Boychuk P.L., Croniger C.M., Kazzaz J.A., Rozek C.E.
+     "Structure and expression of a muscle specific gene which is adjacent
+     to the Drosophila myosin heavy-chain gene and can encode a cytochrome
+     b related protein."
+     Nucleic Acids Res. 17:6349-6367(1989).
+     PubMed=2549511
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

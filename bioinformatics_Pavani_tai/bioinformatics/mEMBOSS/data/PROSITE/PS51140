@@ -1,0 +1,86 @@
+**********************
+* CUE domain profile *
+**********************
+
+The Coupling of Ubiquitin conjugation to ER degradation or CUE domain is a ~44
+residue   ubiquitin   binding   domain,  present  in  eukaryotic  proteins  of
+trafficking  and  ubiquitination  pathways.  Ubiquitin  is  a  76  amino  acid
+polypeptide  that  can  be  attached  to  proteins  to alter their activity or
+location   (see   <PDOC00271>).   Monoubiquitination   and   the  addition  of
+polyubiquitin chains are important cellular regulatory signals. The CUE domain
+was  named  after baker's yeast Cue1 protein [1]. Some domains which can occur
+in  combination  with  the  CUE  domain  are  the  RING-type  zinc finger (see
+<PDOC00449>),  the  Smr  domain  (see  <PDOC50828>)  or  the  C2  domain  (see
+<PDOC00380>).  CUE  domains  can  bind  monoubiquitin  and can be required for
+ubiquitination of the protein in which they are found [2-4].
+
+The 3D structure of the CUE domain comprises three alpha helices arranged in a
+bundle  (see  <PDB:1OTR>),  similar  to  the  fold  of  the  UBA  domain  (see
+<PDOC50030>). The binding surface is a hydrophobic patch that is complementary
+to  the  ubiquitin  hydrophobic surface. The CUE domain contains two conserved
+motifs  that  bind ubiquitin, i.e. (MF)P, C-terminal to the first helix, and a
+di-leucine-like motif in the third helix.
+
+Some proteins known to contain a CUE domain:
+
+ - Yeast  Cue1  (YMR264W)  protein,  which  recruits the ubiquitin-conjugating
+   enzyme  Ubc7p  to the endoplasmic reticulum (ER), where it is essential for
+   the  degradation  of misfolded proteins. The Cue1 CUE domain lacks parts of
+   the motifs and shows a relatively low affinity for ubiquitin [2].
+ - Yeast  Cue2,  Cue3  (YGL110C),  Cue4 (YML101C) and Cue5 (YOR042w) proteins,
+   which  have  different  ubiquitin-binding  affinities  [2]. Cue2 contains a
+   tandem of two ubiquitin binding CUE domains near its N-terminus.
+ - Yeast  Def1  (YKL054C)  protein, which is involved in ubiquitination of RNA
+   polymerase II and mediating its degradation through interaction with Rad26.
+ - Fungal   Vacuolar   Protein  Sorting-associated  protein  Vps9,  a  guanine
+   nucleotide  exchange  factor  for the Rab-like GTPase Vps21. Vps9 is needed
+   for the transport of proteins from biosynthetic and endocytic pathways into
+   the  vacuole.  Its C-terminal CUE domain forms a dimer which binds a single
+   ubiquitin molecule.
+ - Mammalian  Toll-interacting  protein  tollip and TAB2, proteins involved in
+   signaling from the interleukin-1 receptor.
+ - Human  autocrine  motility factor receptor (AMFR), a cytokine receptor that
+   regulates  tumor  cell  motility and promotes metastasis. AMFR is conserved
+   among metazoans.
+ - Human  ancient ubiquitous protein 1 (AUP1), involved in integrin signaling.
+   Aup1 is conserved among metazoans.
+ - Japanese pufferfish BAW (Between AKAP84 and WSBB1 genes) protein.
+
+The profile we developed covers the entire CUE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: July 2005 / First entry.
+
+[ 1] Ponting C.P.
+     "Proteins of the endoplasmic-reticulum-associated degradation pathway:
+     domain detection and function prediction."
+     Biochem. J. 351:527-535(2000).
+     PubMed=11023840
+[ 2] Shih S.C., Prag G., Francis S.A., Sutanto M.A., Hurley J.H., Hicke L.
+     "A ubiquitin-binding motif required for intramolecular
+     monoubiquitylation, the CUE domain."
+     EMBO J. 22:1273-1281(2003).
+     PubMed=12628920; DOI=10.1093/emboj/cdg140
+[ 3] Prag G., Misra S., Jones E.A., Ghirlando R., Davies B.A.,
+     Horazdovsky B.F., Hurley J.H.
+     "Mechanism of ubiquitin recognition by the CUE domain of Vps9p."
+     Cell 113:609-620(2003).
+     PubMed=12787502
+[ 4] Kang R.S., Daniels C.M., Francis S.A., Shih S.C., Salerno W.J.,
+     Hicke L., Radhakrishnan I.
+     "Solution structure of a CUE-ubiquitin complex reveals a conserved
+     mode of ubiquitin binding."
+     Cell 113:621-630(2003).
+     PubMed=12787503
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,39 @@
+*******************************
+* Plant hemoglobins signature *
+*******************************
+
+Leghemoglobins [1] are hemoproteins  present in the root nodules of leguminous
+plants. Leghemoglobins are structurally and functionally related to hemoglobin
+and myoglobin.  By providing  oxygen to the bacteroids, they are essential for
+symbiotic nitrogen fixation.
+
+Structurally related  hemoglobins  are found in nonsymbiotic plants where they
+may not  function as an oxygen storage or transport proteins, but might act as
+an oxygen sensors [2].
+
+We have  developed  a signature pattern that exclusively picks up the sequence
+of plants  hemoglobins.  It  is centered on an histidine that acts as the heme
+iron distal ligand.
+
+-Consensus pattern: [SN]-P-x-[LV]-x(2)-H-A-x(3)-F
+                    [H is an heme iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Powell R., Gannon F.
+     "The leghaemoglobins."
+     BioEssays 9:117-121(1988).
+     PubMed=2906540
+[ 2] Arredondo-Peter R., Hargrove M.S., Moran J.F., Sarath G., Klucas R.V.
+     Plant Physiol. 118:1121-1126(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,45 @@
+KCNQ1CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Structurally, KCNQ channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-gated
+K+ channels, the KCNQ channels, the EAG-like K+ channels and 3 kinds of 
+Ca2+-activated K+ channel (BK, IK and SK) [2]. All K+ channels share a
+characteristic sequence feature: a TMxTVGYG motif that resides between
+the 2 C-terminal membrane-spanning helices, and forms the K+-selective 
+pore domain [1].
+
+KCNQ channels differ from other voltage-gated 6 TM helix channels, chiefly 
+in that they possess no tetramerisation domain. Consequently, they rely on
+interaction with accessory subunits, or form heterotetramers with other
+members of the family [3]. Currently, 5 members of the KCNQ family are 
+known. These have been found to be widely distributed within the body,
+having been shown to be expressed in the heart, brain, pancreas, lung,
+placenta and ear. They were initially cloned as a result of a search for 
+proteins involved in cardiac arhythmia. Subsequently, mutations in other 
+KCNQ family members have been shown to be responsible for some forms of
+hereditary deafness [4] and benign familial neonatal epilepsy [5].
+
+KCNQ1 was the first member of the KCNQ channel family to be isolated, and
+has been found to be the most common cause of the disease 'long QT syndrome'
+a cardiac arhythmia resulting in a prolonged QT interval. In exceptional
+cases, this can lead to sudden death, triggered by extreme stress [6]. 
+KCNQ1 is expressed in the stria vascularis of the inner ear, and may be
+the cause of hereditary deafness [7].
+
+KCNQ1CHANNEL is a 9-element fingerprint that provides a signature for the
+KCNQ1 voltage-gated potassium channel subtype. The fingerprint was derived
+from an initial alignment of 5 sequences: the motifs were drawn from the
+C-terminal portion of the alignment, focusing on those sections that 
+characterise the KCNQ1 channel but distinguish it from other members of 
+the K+ channel superfamily - motifs 1-9 span the C-terminal intracellular 
+region. Two iterations on SPTR39_14f were required to reach convergence, 
+at which point a true set comprising 7 sequences was identified.

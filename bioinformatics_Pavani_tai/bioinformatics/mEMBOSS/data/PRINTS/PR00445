@@ -1,0 +1,19 @@
+HUPFHYPC
+Bacterial membrane-bound nickel-dependent hydrogenases require several
+gene products for their expresssion and/or synthesis [1]. Amongst these
+is a group that codes for a family of small proteins (80-110 residues),
+which includes A.eutrophus and A.vinelandii hoxL and hypC, R.leguminosarum
+and R.capsulatus hupF and hypC, and E.coli hypC and hybG.
+
+HUPFHYPC is a 4-element fingerprint that provides a signature for the
+hupF/hypC family. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from short conserved regions 
+spanning the full alignment length - motif 1 spans the region encoded by
+PROSITE pattern HUPF_HYPC (PS01097), which includes a conserved N-terminal
+Met-Cys dipeptide. Two iterations on OWL26.3 were required to reach 
+convergence, at which point a true set comprising 14 sequences was
+identified. A single partial match was also found, S39402, a hupF protein
+that fails to make a significant match with the final motif.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 8
+partial matches.

@@ -1,0 +1,38 @@
+SYCECHAPRONE
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[1] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [1]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [1], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+Effector proteins secreted by the type III system do not possess a secretion 
+signal, and are considered unique because of this [1]. Yersinia spp. secrete 
+an effector protein called YopE through the type III needle [2]. This acts 
+as a Rho GTPase-activating protein that disrupts the host cell actin 
+cytoskeleton {2}, and is regulated by a chaperone protein called SycE/YerA 
+[3]. In the absence of the SycE chaperone, YopE is not transported through 
+the needle and remains in the bacterial cytoplasm, so suggesting a crucial 
+role for this moiety [4]. 
+
+Both the YopE regulator and SycE/YerA proteins share similarity with the
+exoenzyme S (ExoS) gene product of Pseudomonas aeruginosa [5]. ExoS has both
+ADP-ribosylating and GTPase activity, and is implicated as a virulence 
+factor. As type III secretion in Pseudomonas is often associated with
+systemic and even fatal infections in susceptible patients [6], the proteins
+involved are of interest as vaccine and drug targets [6].
+
+SYCECHAPRONE is a 5-element fingerprint that provides a signature for the
+Gram-negative bacterial type III secretion SycE chaperone protein family.
+The fingerprint was derived from an initial alignment of 5 sequences: the
+motifs were drawn from conserved regions spanning the full alignment length.
+A single iteration on SPTR39.22_17.3f was required to reach convergence, no 
+further sequences being identified beyond the starting set.

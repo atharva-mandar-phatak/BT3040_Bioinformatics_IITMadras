@@ -1,0 +1,74 @@
+*********************************************************************************
+* Phosphagen kinase active site signature and N- and C-terminal domain profiles *
+*********************************************************************************
+
+Phosphagen (guanidino)  kinases,  including  creatine  kinase  (CK),  arginine
+kinase (AK),  taurocyamine  kinase  (TK), lombricine kinase (LK), glycocyamine
+kinase (GK),  and hypotaurocyamine kinase (HTK), are enzymes that catalyze the
+reversible transfer  of  the  gamma-phosphoryl group of adenosine triphosphate
+(ATP) to  naturally  occuring  guanidino compounds such as creatine, arginine,
+yelding adenosine  diphosphate  (ADP) and a phosphorylated guanidine typically
+referred to  as phosphagen (phosphocreatine, phosphoarginine and etc). Members
+of this  enzyme  family play a key role in animals as ATP-buffering systems in
+cells that display high and variable rates of ATP turnover. Phosphagen kinases
+have been  found  in  all  animal  species  and  in  some  protozoa,  such  as
+trypanosomes, choanoflagellates,  and  the  ciliates,  Paramecium tetraurelia,
+Paramecium caudatum, and Tetrahymena. Eukaryotic phosphagen kinases consist of
+a small,  ~100-residue,  alpha-helical  N-terminal  domain and a larger, 250+-
+residue, C-terminal  alpha/beta  saddle  domain  in  which  many  key residues
+involved in  catalysis  are  found  (see  <PDB:3L2E>).  The  N-terminal domain
+undergoes significant  conformational movements during catalysis, closing down
+on the  catalytic  pocket.  It  is  involved  in  dimer  formation.  Bacterial
+phosphagen kinases  have  the  large  C-terminal  domain  seen  in  eukaryotic
+phosphagen kinases but lack the N-terminal domain [1,2,3,4].
+
+A cysteine  residue  is implicated in the catalytic activity of these enzymes.
+The region around this active site residue is highly conserved and can be used
+as a   signature   pattern.  We  also  developed  two  profiles,  which  cover
+respectively the entire phosphagen kinase N- and C-terminal domains.
+
+-Consensus pattern: C-P-x(0,1)-[ST]-N-[ILV]-G-T
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2010 / Text revised; profiles added.
+
+[ 1] Tanaka K., Uda K., Shimada M., Takahashi K., Gamou S., Ellington W.R.,
+     Suzuki T.
+     "Evolution of the cytoplasmic and mitochondrial phosphagen kinases
+     unique to annelid groups."
+     J. Mol. Evol. 65:616-625(2007).
+     PubMed=17932618; DOI=10.1007/s00239-007-9046-4
+[ 2] Conejo M., Bertin M., Pomponi S.A., Ellington W.R.
+     "The early evolution of the phosphagen kinases--insights from
+     choanoflagellate and poriferan arginine kinases."
+     J. Mol. Evol. 66:11-20(2008).
+     PubMed=18064398; DOI=10.1007/s00239-007-9058-0
+[ 3] Andrews L.D., Graham J., Snider M.J., Fraga D.
+     "Characterization of a novel bacterial arginine kinase from
+     Desulfotalea psychrophila."
+     Comp. Biochem. Physiol. 150:312-319(2008).
+     PubMed=18499493; DOI=10.1016/j.cbpb.2008.03.017
+[ 4] Lim K., Pullalarevu S., Surabian K.T., Howard A., Suzuki T., Moult J.,
+     Herzberg O.
+     "Structural basis for the mechanism and substrate specificity of
+     glycocyamine kinase, a phosphagen kinase family member."
+     Biochemistry 49:2031-2041(2010).
+     PubMed=20121101; DOI=10.1021/bi9020988
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

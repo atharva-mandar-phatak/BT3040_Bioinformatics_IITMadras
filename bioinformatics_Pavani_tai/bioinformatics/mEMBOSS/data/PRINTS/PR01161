@@ -1,0 +1,34 @@
+TUBULIN
+Microtubules are polymers of tubulin, a dimer of two 55kDa subunits, 
+designated alpha and beta [1,2]. Within the microtubule lattice, alpha-beta
+heterodimers associate in a head-to-tail fashion, giving rise to microtubule 
+polarity. Fluorescent labelling studies have suggested that tubulin is
+oriented in microtubules with beta-tubulin toward the plus end [3]. 
+
+For maximal rate and extent of polymerisation into microtubules, tubulin 
+requires GTP. Two molecules of GTP are bound at different sites, termed N 
+and E. At the E (Exchangeable) site, GTP is hydrolysed during incorporation
+into the microtubule. Close to the E site is an invariant region rich in 
+glycine residues, which is found in both chains and is thought to control
+access of the nucleotide to its binding site [4]. 
+
+Most species, excepting simple eukaryotes, express a variety of closely-
+related alpha- and beta-isotypes. A third family member, gamma-tubulin, has
+also been identified in a number of species. Gamma-tubulin is found at 
+microtubule-organising centres, such as the spindle poles or the centrosome, 
+suggesting that it is involved in minus-end nucleation of microtubule 
+assembly [5].
+
+TUBULIN is a 9-element fingerprint that provides a signature for tubulins.
+The fingerprint was derived from an initial alignment of 58 sequences. The 
+motifs were drawn from conserved regions spanning virtually the full
+alignment length - motif 5 spans the region encoded by PROSITE pattern
+TUBULIN (PS00227), which includes the glycine-rich region believed to
+control access of the nucleotide to the E binding site. Four iterations on
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 343 sequences was identified. Two partial matches were also 
+found: O22416 is a tubulin from Chlamydomonas reinhardtii that fails to
+make significant matches with motifs 6 and 9; and O59060 is a hypothetical
+cell division protein from Pyrococcus horikoshii that matches motifs 5 and
+6 (ftsZ polypeptides contain a glycine-rich motif equivalent to the 
+GTP-binding region of tubulins - see signature CELLDVISFTSZ).

@@ -1,0 +1,53 @@
+*****************************************************************************
+* Alanine dehydrogenase and pyridine nucleotide transhydrogenase signatures *
+*****************************************************************************
+
+The following   dehydrogenases   have  been  shown [1]  to  share  regions  of
+similarity:
+
+ - Alanine dehydrogenase (EC 1.4.1.1),  an enzyme  which  catalyzes  the  NAD-
+   dependent reversible reductive amination of pyruvate into alanine.
+ - Pyridine nucleotide transhydrogenase (EC 1.6.1.1), which is the enzyme that
+   catalyzes the reduction of NADP+ to NADPH with the concomitant oxidation of
+   NADH to NAD+. This enzyme is located  in the plasma membrane of prokaryotes
+   and  in  the  inner  membrane  of  the  mitochondria  of  eukaryotes.   The
+   transhydrogenation between NADH and NADP is coupled with the  translocation
+   of a proton across the membrane.  In prokaryotes  the enzyme is composed of
+   two different subunits:  an alpha chain (gene pntA)  and a beta chain (gene
+   pntB) while in eukaryotes it is a single chain protein.
+
+The sequence  of  alanine  dehydrogenase  from  several  bacterial species are
+related with  those of the  alpha subunit  of  bacterial  pyridine  nucleotide
+transhydrogenase and of the N-terminal half of the eukaryotic enzyme.  The two
+most conserved regions correspond respectively  to the N-terminal extremity of
+these proteins and  to  a  central  glycine-rich  region  which is part of the
+NAD(H)-binding site. We have developed signature patterns for both regions.
+
+-Consensus pattern: [GA]-[LIVM]-[PKV]-x(0,1)-E-x(3)-[NG]-E-x(1,3)-R-[VT]-[AG]-
+                    x-[ST]-P-x-[GSTVN]-[VA]-x(2)-[LI]-x-[KRHNGSED]-x-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-[LIVMF]-G-[GAV]-G-x-[AV]-[GA]-x(2)-[SA]-x(3)-[GA]-
+                    x-[SGR]-[LIVM]-[GN]-A-x-V-x(3)-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Delforge D., Depiereux E., De Bolle X., Feytmans E., Remacle J.
+     "Similarities between alanine dehydrogenase and the N-terminal part of
+     pyridine nucleotide transhydrogenase and their possible implication in
+     the virulence mechanism of Mycobacterium tuberculosis."
+     Biochem. Biophys. Res. Commun. 190:1073-1079(1993).
+     PubMed=8439307
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,49 @@
+SH3DOMAIN
+SH3 (src Homology-3) domains are small protein modules containing 
+approximately 50 amino acid residues [1]. They are found in a variety of
+of proteins with enzymatic activity: e.g., in csrc and PLCy1; adaptor
+proteins Crk and Grb2, which lack catalytic sequences; and in cytoskeletal
+proteins, such as fodrin and yeast actin binding protein ABP-1. Although
+usually found as single copies, multiple (2-4) copies of the domain can be
+present in a single polypeptide, particularly in the adaptor proteins. 
+
+SH3 domains are commonly found in proteins that also contain SH2 (src 
+Homology-2) domains, suggesting that their functions are inter-related.
+The location of SH3 domains within the amino acid sequence varies widely,
+and their specific functions are still unclear. The present view is that
+they act as protein binding modules, and are involved in linking signals
+transmitted from the cell surface by protein tyrosine kinases to 
+"downstream effector proteins".
+
+The crystal structure of the SH3 domain of the cytoskeletal protein
+spectrin, and the solution structures of SH3 domains of phospholipase C
+(PLC-y) and phosphatidylinositol 3-kinase p85 alpha-subunit, have been
+determined [2-4]. In spite of relatively limited sequence similarity,
+their overall structures are similar. The domains belong to the alpha+beta
+structural class, with 5 to 8 beta-strands forming 2 tightly-packed, anti-
+parallel beta-sheets arranged in a barrel-like structure, and intervening
+loops sometimes forming helices. Conserved aliphatic and aromatic residues
+form a hydrophobic core (A11, L23, A29, V34, W42, L52 and V59 in PLC-y [4])
+and a hydrophobic pocket on the molecular surface (L12, F13, W53 and P55 in
+PLC-y). The conserved core is believed to stabilise the fold, while the
+pocket is thought to serve as a binding site for target proteins. Conserved
+carboxylic amino acids located in the loops, on the periphery of the
+pocket (D14 and E22), may be involved in protein-protein interactions via
+proline-rich regions. The N- and C-termini are packed in close proximity,
+indicating that they are independent structural modules.
+                                                                      
+SH3DOMAIN is a 4-element fingerprint that provides a signature for SH3
+domains. The fingerprint was derived from an initial alignment of 11
+sequences: the motifs were drawn from conserved regions spanning the full
+domain length - motifs 1 and 4 encode the N- and C-terminal beta-strands,
+which contain the conserved residues of the hydrophobic pocket; motifs 2
+and 3 span the central beta-strands containing the conserved residues
+that constitute the hydrophobic core. Four iterations on OWL26.3 were
+required to reach convergence, at which point a true set comprising 176
+sequences was identified. Sixty-nine partial matches were also found
+(the fingerprint does not perform perfectly because of the low level of
+sequence similarity between SH3 domains, and is further complicated by
+their multiple repeat nature).
+
+An update on SPTR37_9f identified a true set of 257 sequences, and 145
+partial matches.

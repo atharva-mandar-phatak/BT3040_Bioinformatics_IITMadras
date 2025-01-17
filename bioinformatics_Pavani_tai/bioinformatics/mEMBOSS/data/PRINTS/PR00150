@@ -1,0 +1,31 @@
+PEPCARBXLASE
+Phosphoenolpyruvate carboxylase (PEPCase), an enzyme found in all multi-
+cellular plants, catalyses the formation of oxaloacetate from phospho-
+enolpyruvate (PEP) and a hydrocarbonate ion [1]. This reaction is harnessed
+by C4 plants to capture and concentrate carbon dioxide into the photo-
+synthetic bundle sheath cells. It also plays a key role in the nitrogen
+fixation pathway in legume root nodules: here it functions in concert with
+glutamine, glutamate and asparagine synthetases and aspartate amido trans-
+ferase, to synthesise aspartate and asparagine, the major nitrogen trans-
+port compounds in various amine-transporting plant species [2]. PEPCase
+also plays an antipleurotic role in bacteria and plant cells, supplying
+oxaloacetate to the TCA cycle, which requires continuous input of C4
+molecules in order to replenish the intermediates removed for amino acid
+biosynthesis [3].
+
+The C-terminus of the enzyme contains the active site: this includes a
+conserved lysine residue, involved in substrate binding, and other conserved
+residues important for the catalytic mechanism [4].
+
+PEPCARBXLASE is a 7-element fingerprint that provides a signature for
+phosphoenolpyruvate carboxylases. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motifs 1 and 5
+include regions encoded by PROSITE patterns PEPCASE_1 (PS00781) and
+PEPCASE_2 (PS00393), which contain catalytically-important His and Lys
+residues respectively, and motif 6 includes a region thought to be
+involved in binding phosphoenolpyruvate. Two iterations on OWL 22.1 were
+required to reach convergence, at which point a true set comprising 23
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 39 sequences.

@@ -1,0 +1,66 @@
+LSHRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The gonadotrophins (luteinising hormone, choriogonadotrophin, follicle-
+stimulating hormone) and thyroid-stimulating hormone are heterotrimeric
+glycoproteins composed of a common alpha-subunit and distinct beta-subunits
+[6]. The carbohydrate moiety of the glycoproteins has an essential role in
+receptor recognition. The receptors share close sequence similarity, and
+are characterised by large extracellular domains believed to be involved
+in hormone binding via leucine-rich repeats (LRR) [7]. Modelling of this
+portion of the receptors suggests that they contain three-dimensional
+structures similar to that of porcine ribonuclease inhibitor [7].
+
+The beta subunits of LH (also known as lupotrophin) and hCG are closely
+related in sequence and elicit their biological actions via the same 
+receptor [6]. LH is released from the anterior pituitary under the
+influence of gonadotrophin-releasing hormone and progesterones [6]. CG is
+released by the placenta during pregnancy [6]. In females, LH stimulates
+ovulation and is the major hormone involved in the regulation of 
+progesterone secretion by the corpus luteum [6]. In males, it stimulates 
+Leydig cells to secrete androgens, particularly testosterone. The receptor
+is found in organs involved in reproductive physiology, including testicular
+Leydig cells, ovarian theca, granulosa, luteal and interstitial cells [6].
+The receptor activates adenylyl cyclase through Gs and stimulates the
+phosphoinositide pathway through a pertussis-toxin-insensitive G protein [6].
+
+Familial male precocious puberty (FMPP) is a gonadotropin-independent
+disorder that is inherited in an autosomal dominant, male-limited pattern
+[8]. Affected males generally exhibit signs of puberty by age 4 [8].
+Testosterone production and Leydig cell hyperplasia occur in the context of
+prepubertal levels of luteinising hormone (LH). FMPP was thought to be due
+to a mutant receptor activated in the presence of little or no agonist. A 
+single A-G base change that results in substitution of glycine for aspartate 
+at position 578 in LH receptor TM domain 6 was found in affected individuals
+from eight different families [8]. Linkage of the mutation to FMPP was
+supported by restriction-digest analysis [8]. Further results suggest that
+autonomous Leydig cell activity in FMPP is caused by a constitutively
+activated LH receptor [8]. 
+
+LSHRECEPTOR is a 10-element fingerprint that provides a signature for the
+lutropin-choriogonadotropic hormone receptors. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length, focusing on 
+those sections that characterise the LH/CG hormone receptors but distinguish
+them from the rest of the glycoprotein hormone receptor family - motifs 1-8
+reside within the N-terminal half of the alignment, prior to the TM domains;
+and motifs 9 and 10 lie at the C-terminus. Two iterations on SPTR37_9f were
+required to reach convergence, at which point a true set comprising 8 
+sequences was identfied. 

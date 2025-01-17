@@ -1,0 +1,91 @@
+*******************************************************************
+* Sodium:neurotransmitter symporter family signatures and profile *
+*******************************************************************
+
+After their release by synapses the action  of  a  number of neurotransmitters
+is  terminated  by  their   high  affinity   sodium-dependent   reuptake  into
+presynaptic terminals  by specific transport proteins [1 to 4]. These proteins
+are the  target of psychomotor stimulants such as amphetamines or cocaine. All
+these proteins  belong  to  a family, known [5] as the sodium:neurotransmitter
+symporter family  (SNF),  that  also  include  some transporters that function
+outside the  brain  and  carry  related molecules. The SNF family is currently
+known to consist of transporters for:
+
+ - Betaine (also transports GABA).
+ - Choline.
+ - Creatine.
+ - Dopamine.
+ - GABA (four different forms of GABA transporters have been characterized).
+ - Glycine (two forms).
+ - Noradrenaline.
+ - Proline.
+ - Serotonin (5HT).
+ - Taurine.
+
+ - Mammalian orphan transporter NTT4.
+ - Caenorhabditis elegans hypothetical transporter T23G5.5.
+
+ - Haemophilus hypothetical proteins HI0736 and HI1690.
+ - Methanococcus jannaschii hypothetical MJ1319.
+
+These transporters  are glycoproteins of about 600 to 700 amino-acid residues.
+The two  bacterial proteins are smaller (457 to 508 residues).  These proteins
+seem to  contain 12 transmembrane domains and both termini are predicted to be
+located in the cytoplasm.
+
+As signature patterns for these proteins we have selected two highly conserved
+regions. The first region spans the C-terminal part of the first transmembrane
+domain, a short extracellular  loop,   and  the N-terminal part of  the second
+transmembrane  domain.   The  second  region   is   located  in   the  largest
+extracellular loop between the third  and fourth  transmembrane domains;  this
+region  contains two conserved cysteines  that  could be involved in disulfide
+bonds. We also developed a profile for this family of proteins.
+
+-Consensus pattern: W-[RK]-F-[GPA]-[YF]-x(4)-[NYHS]-G-G-[GCA]-x-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [YF]-[LIVMFY]-x(2)-[SC]-[LIVMFY]-[STQV]-x(2)-[LVI]-P-W-
+                    x(2)-C-x(3,4)-[NWDS]-[GSTERHAK]
+                    [The C may be involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the  bacterial  and  archaebacterial proteins which are divergent in this
+ region.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Snyder S.H.
+     "Neuroscience. Vehicles of inactivation."
+     Nature 354:187-187(1991).
+     PubMed=1683684; DOI=10.1038/354187a0
+[ 2] Schloss P., Mayser W., Betz H.
+     "Neurotransmitter transporters. A novel family of integral plasma
+     membrane proteins."
+     FEBS Lett. 307:76-80(1992).
+     PubMed=1353462
+[ 3] Attwell D., Bouvier M.
+     "Cloners quick on the uptake."
+     Curr. Biol. 2:541-543(1992).
+     PubMed=15336049
+[ 4] Uhl G.R.
+     "Neurotransmitter transporters (plus): a promising new gene family."
+     Trends Neurosci. 15:265-268(1992).
+     PubMed=1381123
+[ 5] Reizer J., Reizer A., Saier M.H. Jr.
+     "A functional superfamily of sodium/solute symporters."
+     Biochim. Biophys. Acta 1197:133-166(1994).
+     PubMed=8031825
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,65 @@
+*****************************************************
+* Alphavirus nsp2 protease (nsp2pro) domain profile *
+*****************************************************
+
+The family of alphaviruses includes 26 known members. They infect a variety of
+hosts including  mosquitoes,  birds,  rodents and other mammals with worldwide
+distribution. Alphaviruses  also  pose  a  potential threat to human health in
+many area.  For  example,  Venezuelan  Equine Encephalitis Virus (VEEV) causes
+encephalitis in  humans as well as livestock in Central and South America, and
+some variants  of  Sinbis Virus (SIN) and Semliki Forest Virus (SFV) have been
+found to cause fever and arthritis in humans [1].
+
+Alphaviruses possess a single-stranded RNA genome of approximately 12 kb [E1].
+The genomic  RNA  of  alphaviruses  is  translated into two polyproteins that,
+respectively, encode  structural  proteins  and  nonstructural  proteins.  The
+nonstructural proteins may be translated as one or two polyproteins, nsp123 or
+nsp1234, depending  on  the  virus. These polyproteins are cleaved to generate
+nsp1, nsp2, nsp3 and nsp4 by a protease activity that resides within nsp2. The
+nsp2 protein  of alphaviruses has multiple enzymatic acivities. Its N-terminal
+domain has  been  shown  to  possess  ATPase and GTPase activity, RNA helicase
+activity and  RNA 5'-triphosphatase activity. The C-terminal nsp2pro domain of
+nsp2 is  responsible  for  the  regulation  of  26S  subgenome  RNA synthesis,
+switching between  negative- and positive-strand RNA synthesis, targeting nsp2
+for nuclear   transport   and  proteolytic  processing  of  the  nonstructural
+polyprotein [1,2].  The  nsp2pro  domain is a member of peptidase family C9 of
+clan CA [E2].
+
+The nsp2pro  domain  consists of two distinct subdomains (see <PDB:2HWK>). The
+nsp2pro N-terminal   subdomain  is  largely  alpha-helical  and  contains  the
+catalytic dyad  cysteine  and  histidine  residues organized in a protein fold
+that differs  significantly from any known cysteine protease or protein folds.
+The nsp2pro C-terminal subdomain displays structural similarity to S-adenosyl-
+L-methionine-dependent RNA  methyltransferases and provides essential elements
+that contribute  to  substrate recognition and may also regulate the structure
+of the substrate binding cleft [2].
+
+The profile we developed covers the entire nsp2pro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2011 / First entry.
+
+[ 1] Zhang D., Toezser J., Waugh D.S.
+     "Molecular cloning, overproduction, purification and biochemical
+     characterization of the p39 nsp2 protease domains encoded by three
+     alphaviruses."
+     Protein Expr. Purif. 64:89-97(2009).
+     PubMed=19013248; DOI=10.1016/j.pep.2008.10.013
+[ 2] Russo A.T., White M.A., Watowich S.J.
+     "The crystal structure of the Venezuelan equine encephalitis
+     alphavirus nsP2 protease."
+     Structure 14:1449-1458(2006).
+     PubMed=16962975; DOI=10.1016/j.str.2006.07.010
+[E1] http://www.expasy.org/viralzone/all_by_species/625.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=c9
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

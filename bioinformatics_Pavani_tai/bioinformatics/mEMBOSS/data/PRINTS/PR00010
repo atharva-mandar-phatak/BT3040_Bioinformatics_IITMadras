@@ -1,0 +1,24 @@
+EGFBLOOD
+EGF-like repeats occur in coagulation factors, notch and xotch proteins, 
+protein Z, urokinases, plasminogen factors and the lin-12 protein [1-4]: 
+the repeat pattern is EGF-like in the sense that it does not share the 
+exact Cys spacings of the type I EGF motif (see EGFTGF). The primary 
+structures of many of the superfamily members contain regions that are 
+dominated by multiple EGF-like repeats: these have been linked to some 
+physiological role, though the precise nature of this role is as yet
+unclear.
+
+EGFBLOOD is a 4-element fingerprint that provides a signature for type II
+EGF-like repeats. The fingerprint was derived from an initial alignment 
+of 7 sequences [1]: the 4 motifs include 6 cysteines believed to be involved
+in disulphide bond formation, motifs 3 and 4 spanning the region encoded by
+PROSITE pattern EGF (PS00022). Three iterations on OWL12.0 were required
+to reach convergence, at which point a true set comprising 37 sequences was
+identified. Several partial matches were also found: 15 sequences matched
+just 3 motifs, and 17 matched only 2. In view of the poor definition
+between the true set, subfamilies and noise, this is not a powerful
+fingerprint, but is included to illustrate that a distinction can be drawn
+between EGF and EGF-like repeats.
+
+An update on SPTR37_9f identified a true set of 58 sequences, and 94
+partial matches.

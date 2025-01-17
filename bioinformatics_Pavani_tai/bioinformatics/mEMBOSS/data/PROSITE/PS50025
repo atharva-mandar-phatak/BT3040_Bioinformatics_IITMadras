@@ -1,0 +1,92 @@
+****************************
+* Laminin G domain profile *
+****************************
+
+The   Laminin   G   or   LNS  domain  (for  Laminin-alpha,  Neurexin  and  Sex
+hormone-binding  globulin)  is an around 180 amino acid long domain found in a
+large  and  diverse  set  of extracellular proteins [1,2]. It often occures in
+multiple  copies  probably serving as general protein interaction domains that
+bind  the  target proteins and other macromolecules, such as carbohydrates. In
+most  proteins,  the  precise  function  of the laminin G domain is unknown. A
+large  number  of  ligands  in  the  G  domain  of  laminin has been reported,
+including  heparin,  sulfatides, integrins, dystroglycan, nidogen, and fibulin
+[3,4,5].   In   neurexin  the  G  domain  is  known  to  bind  neurexophilins,
+alpha-latrotoxin and neuroligins.
+
+The  crystal  structure of Laminin G domain of neurexin 1-beta has been solved
+[6].  It  is  composed  of 14 beta strands and one alpha helix. The 14 strands
+form  two  antiparallel  seven  stranded beta sheets in a jelly roll fold. The
+alpha  helix  is  located  between beta strand 12 and 13. The structure of the
+laminin  G  domain  is  similar to the lectin domain. Alignment of various LNS
+with  neurexin  1-beta reveal that only the central part (between strand 4 and
+13) is conserved.
+
+Some proteins known to contain a laminin G domain are listed below:
+
+ - Eukaryotic laminin alpha chains. It is a major noncollagenous components of
+   basement membranes  that  mediate  cell  adhesion,  growth  migration,  and
+   differentiation.
+ - Mammalian neurexins.
+ - Sex  steroid binding protein  SBP/SHBG. It regulates  the  plasma metabolic
+   clearance rate   of   steroid   hormones   by   controlling   their  plasma
+   concentration.
+ - Agrin,  a basal lamina protein.  It causes the aggregation of acetylcholine
+   receptors on cultured muscle fibers.
+ - Vitamin K dependent protein S. An anticoagulant plasma protein that acts as
+   a cofactor to activated protein C in the degradation of coagulation factors
+   VA and VIIIA. It helps to prevent coagulation and stimulating fibrinolysis.
+ - Drosophila  slit  protein,  essential  for  development of midline glia and
+   commissural axon  pathways.  It  is  composed of four leucine-rich repeats,
+   seven EGF-like domains, a laminin G-like repeat and the CTCK.
+
+The  profile  we  developed  covers  the  whole  domain,  including the highly
+divergent ends. We artificially placed the threshold at 12.1 to remove matches
+against   thrombospondin-like   N-terminal  domain,  a  structurally homologue
+module. Thus  we  also  remove few real matches which have a score between 8.5
+and 12.1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Vuolteenaho R., Chow L.T., Tryggvason K.
+     "Structure of the human laminin B1 chain gene."
+     J. Biol. Chem. 265:15611-15616(1990).
+     PubMed=1975589
+[ 2] Beckmann G., Hanke J., Bork P., Reich J.G.
+     "Merging extracellular domains: fold prediction for laminin G-like and
+     amino-terminal thrombospondin-like modules based on homology to
+     pentraxins."
+     J. Mol. Biol. 275:725-730(1998).
+     PubMed=9480764
+[ 3] Yurchenco P.D., Sung U., Ward M.D., Yamada Y., O'Rear J.J.
+     "Recombinant laminin G domain mediates myoblast adhesion and heparin
+     binding."
+     J. Biol. Chem. 268:8356-8365(1993).
+     PubMed=8463343
+[ 4] Sung U., O'Rear J.J., Yurchenco P.D.
+     "Localization of heparin binding activity in recombinant laminin G
+     domain."
+     Eur. J. Biochem. 250:138-143(1997).
+     PubMed=9432001
+[ 5] Talts J.F., Andac Z., Gohring W., Brancaccio A., Timpl R.
+     "Binding of the G domains of laminin alpha1 and alpha2 chains and
+     perlecan to heparin, sulfatides, alpha-dystroglycan and several
+     extracellular matrix proteins."
+     EMBO J. 18:863-870(1999).
+     PubMed=10022829; DOI=10.1093/emboj/18.4.863
+[ 6] Rudenko G., Nguyen T., Chelliah Y., Sudhof T.C., Deisenhofer J.
+     "The structure of the ligand-binding domain of neurexin Ibeta:
+     regulation of LNS domain function by alternative splicing."
+     Cell 99:93-101(1999).
+     PubMed=10520997
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

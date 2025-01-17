@@ -1,0 +1,22 @@
+IL1BCENZYME
+Interleukin-1B (IL-1B) converting enzyme (ICE) processes the inactive IL-1B
+precursor to the proinflammatory cytokine, which plays a central role in
+acute and chronic inflammation, bone resorption, myelogenous leukemia, and
+other pathological processes [1]. ICE is a cysteine protease with substrate
+cleavage specificity for Asp-X [2]. It is synthesised largely in monocytes
+as an inactive proenzyme that autoprocesses to an active tetramer of 2
+10kDa and 2 20KDa subunits. The physiological functions of the mammalian
+ICE homologues are unknown, but overexpression of ICE and its homologues in
+transfected cell lines induces apoptosis [3,4]
+
+IL1BCENZYME is a 7-element fingerprint that provides a signature for
+interleukin-1B converting enzymes. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from short
+conserved regions spanning the C-terminal half of the alignment. Two
+iterations on OWL25.2 were required to reach convergence, at which point
+a true set comprising 8 sequences was identified. Two partial matches
+were also found: HSU13022 is a fragment lacking the final 2 motifs,
+and NED2_MOUSE is a murine NEDD-2 sequence that lacks the first 5 motifs.
+
+An update on SPTR37_9f identified a true set of 33 sequences, and 12
+partial matches.

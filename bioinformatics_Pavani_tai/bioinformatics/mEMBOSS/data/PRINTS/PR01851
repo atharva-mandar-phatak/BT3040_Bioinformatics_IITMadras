@@ -1,0 +1,21 @@
+CYSFIBREGLTR
+The cystic fibrosis transmembrane conductance regulator (CFTR) belongs to
+the ATP-binding cassette (ABC) transporter superfamily. It is a member of 
+the ABC-C subfamily, which also contains the SUR receptors and the multi-
+drug-resistance associated proteins (MRP) [1]. The CFTR protein encodes a 
+chloride ion channel, which is controlled by phosphorylation. It has a major
+role in electrolyte and fluid secretion. CFTR is important in the 
+determination of fluid flow, ion concentration and transepithelial salt
+transport. Dysfunction of the CFTR channel causes the life-threatening
+disease, cystic fibrosis, in which transepithelial ion transport is 
+disrupted [2].
+
+CYSFIBREGLTR is a 12-element fingerprint that provides a signature for the
+cystic fibrosis transmembrane conductance regulators. The fingerprint was 
+derived from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motif 1
+encodes the region of the protein lining the pore and includes residues
+responsible for the anion selectivity of the channel; motif 3 is located in
+an intracellular loop; motif 5 resides in a pore loop. Two iterations on
+SPTR40_18f were required to reach convergence, at which point a true set
+comprising 19 sequences was identified.

@@ -1,0 +1,54 @@
+*****************************************
+* Vertebrate metallothioneins signature *
+*****************************************
+
+Metallothioneins (MT) [1,2,3] are small proteins  which bind heavy metals such
+as zinc,  copper,  cadmium,  nickel, etc., through clusters of thiolate bonds.
+MT's occur  throughout the animal kingdom and are also found in higher plants,
+fungi and some prokaryotes. On the basis of structural relationships MT's have
+been subdivided into three classes. Class I includes mammalian MT's as well as
+MT's from crustacean and molluscs, but with clearly related primary structure.
+Class II groups together MT's from various species such as sea urchins, fungi,
+insects and   cyanobacteria   which   display   none   or  only  very  distant
+correspondence to  class  I  MT's.  Class  III  MT's are atypical polypeptides
+containing gamma-glutamylcysteinyl units.
+
+Vertebrate class  I  MT's  are proteins of 60 to 68 amino acid residues, 20 of
+these residues  are  cysteines  that  bind  to  7  bivalent  metal  ions. As a
+signature pattern  we chose a region that spans 19 residues and which contains
+seven of the metal-binding cysteines, this region is located in the N-terminal
+section of class-I MT's.
+
+-Consensus pattern: C-x-C-[GSTAP]-x(2)-C-x-C-x(2)-C-x-C-x(2)-C-x-K
+                    [The 7 C's are involved in metal binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This signature pattern is not meant to detect invertebrate class-I MT's
+ whose sequence is highly divergent from that of vertebrate's.
+
+-Expert(s) to contact by email:
+           Binz P.-A.; binz@dim.hcuge.ch
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Hamer D.H.
+     "Metallothionein."
+     Annu. Rev. Biochem. 55:913-951(1986).
+     PubMed=3527054; DOI=10.1146/annurev.bi.55.070186.004405
+[ 2] Kagi J.H.R., Schaffer A.
+     "Biochemistry of metallothionein."
+     Biochemistry 27:8509-8515(1988).
+     PubMed=3064814
+[ 3] Binz P.-A.
+     Thesis, 1996, University of Zurich.
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

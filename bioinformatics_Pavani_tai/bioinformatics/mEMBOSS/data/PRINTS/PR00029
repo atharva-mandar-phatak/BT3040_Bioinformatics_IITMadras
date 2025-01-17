@@ -1,0 +1,22 @@
+OCTAMER
+The octamer-binding protein is a transcription factor that binds 
+specifically to the octamer motif (ATTTGCAT) of immunoglobulin promoters
+and activates these genes. There are two Ig octamer-binding proteins,
+designated NF-A1 and NF-A2: NF-A1 is found in all cell types, while
+NF-A2 is found only in lymphoid cells. The sequences of these proteins
+contain a region that correponds closely to the DNA-binding homeobox
+domains and POU transcription factors.
+
+OCTAMER is a 4-element fingerprint that provides a signature for both the 
+NF-A1 class of nuclear RNA and histone transcription factors, and the 
+NF-A2 class of lymphoid-restricted immunoglobulin octamer-binding proteins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from conserved, glutamine-rich regions, motif 3 
+corresponding to the inhibitory domain and motif 4 falling at the start of
+the POU domain. Two iterations on OWL22.1 were required to reach
+convergence, at which point a true set comprising 23 sequences was
+identified. Several partial matches were also found, of which three are
+POU sequences that match motifs 3 and 4 (PDM2_DROME, A46196 and DRODPOU28). 
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 9
+partial matches.

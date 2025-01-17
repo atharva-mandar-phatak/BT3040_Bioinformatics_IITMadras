@@ -1,0 +1,34 @@
+OMADHESIN
+The genus Yersinia contains just three species: Y.enterocolita, Y.pestis, 
+and Y.pseudotuberculosis [1]. Although the three use different routes to 
+infect their host, each targets the lymphoid tissue for invasion, and all 
+have developed specific systems to evade host immune cells [1]. PYV, a major 
+virulence plasmid common to all members of this family, harbours the genes
+necessary for type III secretion in the host and the exotoxins translocated 
+by them. 
+
+One of the proteins encoded within this plasmid is the Yersinia YadA 
+non-fimbrial adhesin, a moiety that facilitates cell interaction between 
+the host and pathogen [2]. Mutational studies indicate that this protein
+allows intimate attachment and subsequent uptake by host macrophages of the 
+bacterial cell. Synergistic mechanisms by two other PYV-encoded proteins,
+YopH and YopE, inhibit the action of YadA. Electron microscopy of the 
+mature YadA adhesins suggest that they form distinct "lollipop" shaped 
+structures on the cell surface [3]. This is a trait shared by the adhesins
+of another pathogen, namely Moraxella catarrhalis UspA1 and UspA2 [3]. 
+
+The YadA protein itself exists as a homotrimer of 45kDa subunits, anchored 
+in the outer bacterial membrane by its C-terminus [4]. The lollipop's 
+globular head is formed by the N-terminus in the extracellular space. A
+Yersinia bacterial cell thus coated with YadA can bind a number of host cell 
+macromolecules, including collagen, laminin, mucus and fibronectin, 
+enhancing its capacity for infection [4].
+
+OMADHESIN is a 5-element fingerprint that provides a signature for the
+Yersinia outer membrane adhesins. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning the N-terminal portion of the alignment (~400 amino 
+acids). A single iteration on SPTR40_20f was required to reach convergence, 
+no further sequences being identified beyond the starting set. A single
+partial match was found, Q9ZGX0, a Yersinia hypothetical protein that failed
+to match motifs 1, 2 and 5.

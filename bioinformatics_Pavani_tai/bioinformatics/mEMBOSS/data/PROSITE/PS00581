@@ -1,0 +1,64 @@
+************************************
+* Clathrin light chains signatures *
+************************************
+
+Clathrin [1,2] is the major coat-forming  protein  that encloses vesicles such
+as coated pits and forms cell  surface  patches  involved  in membrane traffic
+within eukaryotic cells.  The clathrin coats (called triskelions) are composed
+of three heavy chains (180 Kd) and three light chains (23 to 27 Kd).
+
+The clathrin light chains [3], which  may help to properly orient the assembly
+and disassembly of the clathrin coats, bind non-covalently to the heavy chain,
+they also bind calcium and interact with the hsc70 uncoating ATPase.
+
+ - In higher eukaryotes two genes code  for distinct but related light chains:
+   LC(a) and LC(b).  Each  of  the  two  genes  can  yield, by tissue-specific
+   alternative splicing, two separate forms which differ by the insertion of a
+   sequence of respectively  thirty or eighteen residues.  There is, in the N-
+   terminal part of the clathrin light chains  a  domain  of  twenty one amino
+   acid residues which is perfectly conserved in LC(a) and LC(b).
+ - In yeast there is a single light chain (gene CLC1)  whose  sequence is only
+   distantly related to that of higher eukaryotes.
+
+We developed two signature  patterns  for  clathrin  light  chains.  The first
+pattern is a  heptapeptide from the center of the  conserved N-terminal region
+of eukaryotic light chains;  the  second  pattern is derived from a positively
+charged region located in the C-terminal extremity of all known clathrin light
+chains.
+
+-Consensus pattern: F-L-A-[QH]-[QE]-E-S
+-Sequences known to belong to this class detected by the pattern: ALL   higher
+ eukaryotes light chains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [KR]-[DS]-x-[SE]-[KR]-[LIVMF]-[KR]-x-[LIVM]-[LIVMY]-
+                    [LIVM]-x-L-[KA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Keen J.H.
+     "Clathrin and associated assembly and disassembly proteins."
+     Annu. Rev. Biochem. 59:415-438(1990).
+     PubMed=1973890
+[ 2] Brodsky F.M.
+     "Living with clathrin: its role in intracellular membrane traffic."
+     Science 242:1396-1402(1988).
+     PubMed=2904698
+[ 3] Brodsky F.M., Hill B.L., Acton S.L., Nathke I., Wong D.H.,
+     Ponnambalam S., Parham P.
+     "Clathrin light chains: arrays of protein motifs that regulate
+     coated-vesicle dynamics."
+     Trends Biochem. Sci. 16:208-213(1991).
+     PubMed=1909824
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

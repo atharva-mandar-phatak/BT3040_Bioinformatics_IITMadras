@@ -1,0 +1,64 @@
+***********************************
+* Ribosomal protein S6e signature *
+***********************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Mammalian S6 [1].
+ - Drosophila S6 [2].
+ - Plant S6 [3].
+ - Yeast S10 (YS4).
+ - Halobacterium marismortui HS13 [4].
+ - Methanococcus jannaschii MJ1260.
+
+S6 is  the major substrate of protein kinases in eukaryotic ribosomes [5];  it
+may have  an  important  role  in  controlling  cell growth  and proliferation
+through the selective translation of particular classes of mRNA.
+
+These proteins  have  135  to  249  amino  acids.  As  a signature pattern, we
+selected a conserved  stretch  of 12 residues  in the N-terminal part of these
+proteins.
+
+-Consensus pattern: [LIVM]-[STAMR]-G-G-x-[DG]-x(2)-G-x-[PV]-M
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Thomas G.; gthomas@fmi.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Franco R., Rosenfeld M.G.
+     "Hormonally inducible phosphorylation of a nuclear pool of ribosomal
+     protein S6."
+     J. Biol. Chem. 265:4321-4325(1990).
+     PubMed=2106518
+[ 2] Watson K.L., Konrad K.D., Woods D.F., Bryant P.J.
+     "Drosophila homolog of the human S6 ribosomal protein is required for
+     tumor suppression in the hematopoietic system."
+     Proc. Natl. Acad. Sci. U.S.A. 89:11302-11306(1992).
+     PubMed=1454811
+[ 3] Hansen G., Estruch J.J., Spena A.
+     "Tobacco cDNA encoding the ribosomal protein S6."
+     Nucleic Acids Res. 20:5230-5230(1992).
+     PubMed=1408841
+[ 4] Kimura M., Arndt E., Hatakeyama T., Hatakeyama T., Kimura J.
+     "Ribosomal proteins in halobacteria."
+     Can. J. Microbiol. 35:195-199(1989).
+     PubMed=2655851
+[ 5] Bandi H.R., Ferrari S., Krieg J., Meyer H.E., Thomas G.
+     "Identification of 40 S ribosomal protein S6 phosphorylation sites in
+     Swiss mouse 3T3 fibroblasts stimulated with serum."
+     J. Biol. Chem. 268:4530-4533(1993).
+     PubMed=8440735
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

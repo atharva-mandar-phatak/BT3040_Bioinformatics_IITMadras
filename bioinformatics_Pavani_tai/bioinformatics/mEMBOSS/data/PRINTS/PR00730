@@ -1,0 +1,51 @@
+THERMOLYSIN
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, approximately
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+quite common in proteins, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c is a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure the
+motif has been shown to form in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of the metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. The first group contain an additional glutamic acid, which
+completes the active site and are termed HEXXH+E: all families in this
+group show some sequence similarity and have thus been grouped into clan
+MA [1]. In the second group, a third histidine constitutes the extra metal-
+binding residue: these are termed HEXXH+H and are grouped into clan MB [1].
+The additional metal-binding residues in the third group are unidentified.
+In the fourth group, the metal-binding residues are known, but in the fifth
+group these residues are as yet unknown [1].
+
+The thermolysin family (M4), part of the MA clan (HEXXH+E), is composed 
+only of secreted eubacterial endopeptidases [1]. The zinc-binding residues
+are H-142, H-146 and E-166, with E-143 acting as the catalytic residue [1].
+Thermolysin also contains 4 calcium-binding sites, which contribute to its
+unusual thermostability [1]. The family also includes enzymes from a number
+of pathogens, including Legionella and Listeria, and the protein pseudolysin,
+all with a substrate specificity for an aromatic residue in the P1' position
+[1]. Three-dimensional structure analysis has shown that the enzymes undergo 
+a hinge-bend motion during catalysis [1]. Pseudolysin has a broader
+specificity, acting on large molecules such as elastin and collagen,
+possibly due to its wider active site cleft [1].
+
+THERMOLYSIN is a 4-element fingerprint that provides a signature for the
+thermolysin metalloprotease (M4) family. The fingerprint was derived from 
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions surrounding the active site - motif 2 includes the region encoded
+by PROSITE pattern ZINC_PROTEASE (PS00142), which contains the HEXXH motif,
+the His residues of which provide the zinc ligands, the Glu being the
+active site residue; and motif 3 contains the additional metal-binding
+residue (E-166). Three iterations on OWL29.1 were required to reach
+convergence, at which point a true set comprising 34 sequences was
+identified. Two partial matches were also found: A38166 is a probable
+elastase precursor that lacks a match with motif 4; and SMP_SERMA is an
+extracellular minor metalloprotease precursor, a member of the M4 family,
+that lacks a match with motif 1.
+
+An update on SPTR37_9f identified a true set of 34 sequences, and 1
+partial match.

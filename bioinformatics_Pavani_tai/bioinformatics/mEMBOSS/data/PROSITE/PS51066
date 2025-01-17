@@ -1,0 +1,90 @@
+**************************************************************
+* Formamidopyrimidine-DNA glycosylase signature and profiles *
+**************************************************************
+
+Most  damage  to  bases in DNA is repaired by the base excision repair pathway
+[1].  The  repair  is  initiated  by  DNA glycosylases, enzymes that recognize
+specific   lesion  bases  in  DNA  and  remove  them.  Formamidopyrimidine-DNA
+glycosylase  (EC  3.2.2.23) (gene fpg) [2] is a bacterial DNA glycosylase that
+recognizes  and  removes damaged bases with a preference for oxidized purines,
+such  as  7,8-dihydro-8-oxoguanine  (8-oxoG). Excision of the oxidized guanine
+occurs  via  nucleophilic  substitution at C1' by the N-terminal proline . The
+aminal   intermediate  thus  formed  rearranges  to  the  Schiff  base,  which
+subsequently  undergoes  beta-  and  delta-elimination,  resulting in complete
+removal  of  the  lesion  nucleoside  from  DNA.  FPG  has thus also a nicking
+activity  that  cleaves  both  the  3'-  and  5'-phosphodiester  bonds  at the
+apurinic/apyrimidinic  (AP)  site, leaving a gap in the DNA that has phosphate
+groups on both the 5'- and 3'-ends [3].
+
+The  protein  contains  three structural domains: an N-terminal catalytic core
+domain,  a  central  helix-two  turn-helix (H2TH) module and a C-terminal zinc
+finger   (see  <PDB:1K82>)  [4].  The  N-terminal  catalytic  domain  and  the
+C-terminal  zinc  finger  straddle  the  DNA with the long axis of the protein
+oriented  roughly  orthogonal  to  the  helical axis of the DNA. Residues that
+contact  DNA  are  located  in the catalytic domain and in a beta-hairpin loop
+formed by the zinc finger [5].
+
+Endonuclease  VIII  (EC  3.2.-.-) (gene nei) is a DNA N-glycosylase with an AP
+lyase  activity. It is evolutionary related to FPG. Orthologs of FPG have also
+been discovered in mammals (NEIL1, 2 AND 3). NEILs are also active in excising
+a  variety  of  oxidatively  damaged bases but show significant differences in
+substrate preference [6].
+
+We have developed a signature pattern that covers the four conserved cysteines
+of  the  zinc  finger, and, two profiles that span the entire catalytic domain
+and zinc finger.
+
+-Consensus pattern: C-x(1,4)-C-[GSANHK]-x(1,2)-[IVML]-x(7,11)-R-
+                    [GSANPVLMT]-x(2)-[FYWIL]-C-x(2)-C-Q
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: NEIL1 proteins don't have the zinc finger motif.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Fromme J.C., Verdine G.L.
+     "Base excision repair."
+     Adv. Protein Chem. 69:1-41(2004).
+     PubMed=15588838; DOI=10.1016/S0065-3233(04)69001-2
+[ 2] Duwat P., de Oliveira R., Ehrlich S.D., Boiteux S.
+     "Repair of oxidative DNA damage in gram-positive bacteria: the
+     Lactococcus lactis Fpg protein."
+     Microbiology 141:411-417(1995).
+     PubMed=7704272
+[ 3] Fromme J.C., Banerjee A., Verdine G.L.
+     "DNA glycosylase recognition and catalysis."
+     Curr. Opin. Struct. Biol. 14:43-49(2004).
+     PubMed=15102448; DOI=10.1016/j.sbi.2004.01.003
+[ 4] Gilboa R., Zharkov D.O., Golan G., Fernandes A.S., Gerchman S.E.,
+     Matz E., Kycia J.H., Grollman A.P., Shoham G.
+     "Structure of formamidopyrimidine-DNA glycosylase covalently complexed
+     to DNA."
+     J. Biol. Chem. 277:19811-19816(2002).
+     PubMed=11912217; DOI=10.1074/jbc.M202058200
+[ 5] Fromme J.C., Verdine G.L.
+     "Structural insights into lesion recognition and repair by the
+     bacterial 8-oxoguanine DNA glycosylase MutM."
+     Nat. Struct. Biol. 9:544-552(2002).
+     PubMed=12055620; DOI=10.1038/nsb809
+[ 6] Bandaru V., Sunkara S., Wallace S.S., Bond J.P.
+     "A novel human DNA glycosylase that removes oxidative DNA damage and
+     is homologous to Escherichia coli endonuclease VIII."
+     DNA Repair 1:517-529(2002).
+     PubMed=12509226
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

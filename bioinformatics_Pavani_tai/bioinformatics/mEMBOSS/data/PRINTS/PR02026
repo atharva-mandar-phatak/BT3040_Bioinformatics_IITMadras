@@ -1,0 +1,17 @@
+YTRCYTRDABC
+The genome of Bacillus subtilis, a well-characterised Gram-positive
+bacterium, encodes 4,100 protein-coding genes [1].Within the genome, 
+six ytr genes form a single operon, ytrABCDEF, which may play a role in
+acetoin utilisation during stationary phase and sporulation, and is believed
+to encode a putative ATP-binding cassette (ABC) transport system [2].It has
+been suggested that YtrC and YtrD, which are highly hydrophobic proteins,
+may form a channel through the cell membrane: YtrC is predicted to contain
+9 TM segments and YtrD only 8 [2].
+
+YTRCYTRDABC is a 5-element fingerprint that provides a signature for the 
+YtrC/YtrC probable ABC transporter permeases. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length - motifs 2,
+3 and 5 span predicted transmembrane regions. Two iterations on SPTR57_40f
+were required to reach convergence, at which point a true set comprising 
+8 sequences was identified.

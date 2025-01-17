@@ -1,0 +1,24 @@
+CAULIMOCOAT
+Caulimoviruses are encapsidated plant viruses that contain circular double-
+stranded DNA [1]. Members of the group include cauliflower mosaic virus [2],
+carnation etched ring virus [3], figwort mosaic virus [4] and soybean
+chlorotic mottle virus [5]. The viral coat proteins are quite similar,
+containing a fairly hydrophilic N-terminal region and a highly-basic
+C-terminal domain, which may be involved in DNA-binding. The sequences
+contain the motif CxxCxxxHxxxC, which is similarly found in the nucleic 
+acid binding protein of retroviruses [1].
+
+CAULIMOCOAT is a 9-element fingerprint that provides a signature for the
+caulimovirus coat proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, motifs 7 and 8 encoding the well-
+conserved CxxCxxxHxxxC sequence. Two iterations of OWL23.2 were required 
+to reach convergence, at which point a true set comprising 9 sequences was
+identified. Three partial matches were also found: these are rice tungro
+bacilliform virus polyproteins that contain coat proteins - although there
+is little or no correspondence with the rest of the motifs, there is
+considerable similarity in the possible DNA-binding region encoded by
+motifs 7 and 8.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 2
+partial matches.

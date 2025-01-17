@@ -1,0 +1,50 @@
+***************************
+* Interleukin-1 signature *
+***************************
+
+Interleukin-1 (IL-1)  [1,2,3]  is  a  member of a family of cellular mediators
+known as   cytokines.   IL-1  has  many  biological  activities.  Among  other
+functions, it  is  a  fever-producing  factor (pyrogen), induces prostaglandin
+synthesis, is involved in T-lymphocyte activation and proliferation as well as
+in B-lymphocyte activation and proliferation via interleukin-2.
+
+There are  two    different   forms  of IL-1: IL-1 alpha and IL-1 beta,  whose
+sequence are  about  25%  identical.    IL-1  alpha  and beta bind to the same
+receptor. Both  forms  of  IL-1 are synthesized as precursor proteins of about
+270 residues  which are then post-translationally processed by the cleavage of
+a N-terminal sequence of approximately 115 residues.
+
+The interleukin-1  receptor  antagonist  (IL-1ra)  is  a  protein structurally
+related to IL-1's but whose biological function is not yet known.
+
+As a signature pattern for  these cytokines, we selected a conserved region in
+the C-terminal section.
+
+-Consensus pattern: [FC]-x-S-[ASLV]-x(2)-P-x(2)-[FYLIV]-[LI]-[SCA]-T-x(7)-
+                    [LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Dinarello C.A.
+     "Biology of interleukin 1."
+     FASEB J. 2:108-115(1988).
+     PubMed=3277884
+[ 2] Mizel S.B.
+     "The interleukins."
+     FASEB J. 3:2379-2388(1989).
+     PubMed=2676681
+[ 3] Hughes A.L.
+     "Evolution of the interleukin-1 gene family in mammals."
+     J. Mol. Evol. 39:6-12(1994).
+     PubMed=8064874
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

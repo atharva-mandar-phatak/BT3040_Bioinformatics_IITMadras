@@ -1,0 +1,43 @@
+******************************
+* Phosphoketolase signatures *
+******************************
+
+Phosphoketolases are   key   enzymes  of  the  pentose  phosphate  pathway  of
+heterofermentative and  facultative  homofermentative lactic acid bacteria and
+of the  D-fructose  6-phosphate  shunt of bifidobacteria. PK activity has been
+sporadically reported in other microorganisms including eukaryotic yeasts. Pks
+catalyze an  irreversible thiamine diphosphate (ThDP) dependent phosphorolytic
+reaction splitting  D-xylulose  5-phosphate  (EC  4.1.2.9)  or  D-fructose  6-
+phosphate (EC 4.1.2.22) in the presence of inorganic phosphate to yield acetyl
+phosphate and glycerol 3-phosphate or erythrose 4-phosphate, respectively [1].
+
+A multiple  alignment  of PK sequences shows several highly conserved regions.
+We selected  two  of these regions as signature patterns for PKs. The function
+of the  first  one  is  not  known,  whereas the second correspond to the ThDP
+binding site [1].
+
+-Consensus pattern: E-G-G-E-L-G-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x(3)-[DN]-x-P-x(2)-[LIVFT]-x(3)-[LIVM]-x-G-D-G-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Teuber M.; michael.teuber@ilw.agrl.ethz.ch
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Rohr L.M., Teuber M., Meile L.
+     Chimia 56:270-273(2002).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

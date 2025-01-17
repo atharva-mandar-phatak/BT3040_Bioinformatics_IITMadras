@@ -1,0 +1,41 @@
+INTRLEUKIN1B
+Interleukin-1 (IL-1) is a cytokine with a wide range of biological and
+physiological effects, including fever, prostaglandin synthesis (in e.g.,
+fibroblasts, muscle and endothelial cells), T-lymphocyte activation, and 
+interleukin-2 production [1]. This family is a member of a superfamily that
+also contains the heparin binding growth factors (HBGF), the Kunitz-type 
+soybean trypsin inhibitors (STI) and histactophilin. All have very similar
+structures, but although the interleukin-1 and HBGF families share some
+sequence similarity (about 25%), they show none at all to the STIs.
+
+Over a hundred cytokines have now been identified, including several
+putative new members of the IL-1 family [2]. The IL-1 family consists of 2
+main classes, designated alpha (IL1A) and beta (IL1B), as well as the more
+recently discovered IL-1 receptor antagonist (IL1RA). Sequence similarity 
+is high within the IL1A and IL1B subfamilies (about 60-70%) but low between
+them (less than 30%). IL1As and IL1Bs are synthesised as larger precursors, 
+which are processed to give mature carboxy fragments. IL1B requires this 
+cleavage to become biologically active, but IL1A precursor is already 
+active. Both IL1A and IL1B bind to the same IL1-specific receptor on the 
+target cell, which is then internalised to initiate the relevant effects
+(which appear to be similar or identical).
+
+The crystal structures of IL1A and IL1B [3] have been solved, showing them 
+to share the same 12-stranded beta-sheet structure as both the heparin
+binding growth factors and the Kunitz-type soybean trypsin inhibitors [4].
+The beta-sheets are arranged in 3 similar lobes around a central axis, 6
+strands forming an anti-parallel beta-barrel. Several regions, especially 
+the loop between strands 4 and 5, have been implicated in receptor binding.
+
+INTRLEUKIN1B is an 11-element fingerprint that provides a signature for the
+interleukin-1 beta precursor. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 1-4 reside in the propeptide;
+motif 5 encodes beta-strands 2 and 3; motif 6 includes strand 4; motif 7 
+encompasses strands 5 and 6; motif 8 spans strand 7 and alpha-helix 2;
+motif 9 encodes strands 8 and 9; motif 10 spans strands 10-12; and motif
+11 encodes strand 13. Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 16 sequences was 
+identified. Three partial matches were also found, O73909 and O57398,
+IL-1 beta sequences from chicken and common carp that fail to make
+significant matches with the most of the motifs.

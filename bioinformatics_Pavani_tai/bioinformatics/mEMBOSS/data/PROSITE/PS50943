@@ -1,0 +1,92 @@
+**********************************
+* Cro/C1-type HTH domain profile *
+**********************************
+
+The  cro/C1-type HTH domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  50-60  residues  present  in  transcriptional regulators. The domain is
+named   after   the   transcriptional  repressors  cro  and  C1  of  temperate
+bacteriophages  434  and  lambda,  respectively.  Besides  in  bacteriophages,
+cro/C1-type  regulators  are  present  in  prokaryotes  and in eukaryotes. The
+helix-turn-helix DNA-binding motif is generally located in the N-terminal part
+of  these  transcriptional  regulators.  The  C-terminal  part  may contain an
+oligomerization  domain, e.g. C1 repressors and CopR act as dimers, while SinR
+is  a tetramer. The cro/C1-type HTH domain also occurs in combination with the
+TPR  repeat  and  the  C-terminal part of C-5 cytosine-specific DNA methylases
+contains regions related to the enzymatic function (see <PDOC00089>).
+
+Several   structures  of  cro/C1-type  transcriptional  repressors  have  been
+resolved and their DNA-binding domain encompasses five alpha helices, of which
+the  extremities are less conserved (see <PDB:2OR1>) [1]. The helix-turn-helix
+motif  comprises  the  second  and  third  helices, the third being called the
+recognition  helix.  The HTH is involved in DNA-binding into the major groove,
+where  the  recognition  helix  makes  most  DNA-contacts.  The  bacteriophage
+repressors   regulate  lysogeny/lytic  growth  by  binding  with  differential
+affinity  to  the  operators.  These  operators  show  2-fold symmetry and the
+repressors  bind as dimers. Binding of the repressor to the operator positions
+the DNA backbone into a slightly bent twist [1,2].
+
+Some proteins known to contain a cro/C1-type HTH domain:
+
+ - Bacteriophage  434  cro and C1, transcriptional repressors that bind to the
+   operator DNA. Upon induction, proteases in the bacterial host cleave the C1
+   dimerization  domain  from  the  DNA-binding  domain, so that genes for the
+   lytic pathway are no longer repressed.
+ - PBSX xre, a repressor protein of the defective prophage in Bacillus.
+ - Bacillus  subtilis  sinR,  a  transcriptional  repressor  for inhibition of
+   sporulation.  The  structure  and  function are related to phage repressors
+   [3].
+ - Bombyx   mori   (Silk   moth)  MBF1,  multiprotein  bridging  factor  1,  a
+   transcriptional  coactivator  that  mediates  transcriptional activation by
+   connecting  a  general  and  a  gene-specific transcription factor. MBF1 is
+   conserved in eukaryotes from yeast to human [4,5].
+ - Plasmid  pIP501 copR, a transcriptional repressor and activator involved in
+   plasmid copy number regulation.
+ - Escherichia   coli   nadR,   a   transcriptional  regulator  of  early  NAD
+   biosynthetic genes.
+ - Dictyostelium  discoideum  (Slime  mold)  H7, a vegetative specific protein
+   which is deactivated upon the initiation of development.
+
+The  profile we developed covers the entire DNA-binding domain, from the major
+part  of  helix  1, including the helix-turn-helix motif and the major part of
+helix 5.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: CYNS_AQUAE.
+-Last update: November 2003 / First entry.
+
+[ 1] Aggarwal A.K., Rodgers D.W., Drottar M., Ptashne M., Harrison S.C.
+     "Recognition of a DNA operator by the repressor of phage 434: a view
+     at high resolution."
+     Science 242:899-907(1988).
+     PubMed=3187531
+[ 2] Steinmetzer K., Behlke J., Brantl S., Lorenz M.
+     "CopR binds and bends its target DNA: a footprinting and fluorescence
+     resonance energy transfer study."
+     Nucleic Acids Res. 30:2052-2060(2002).
+     PubMed=11972345
+[ 3] Lewis R.J., Brannigan J.A., Offen W.A., Smith I., Wilkinson A.J.
+     "An evolutionary link between sporulation and prophage induction in
+     the structure of a repressor:anti-repressor complex."
+     J. Mol. Biol. 283:907-912(1998).
+     PubMed=9799632
+[ 4] Takemaru K., Li F.Q., Ueda H., Hirose S.
+     "Multiprotein bridging factor 1 (MBF1) is an evolutionarily conserved
+     transcriptional coactivator that connects a regulatory factor and TATA
+     element-binding protein."
+     Proc. Natl. Acad. Sci. U.S.A. 94:7251-7256(1997).
+     PubMed=9207077
+[ 5] Kabe Y., Goto M., Shima D., Imai T., Wada T., Morohashi K.,
+     Shirakawa M., Hirose S., Handa H.
+     "The role of human MBF1 as a transcriptional coactivator."
+     J. Biol. Chem. 274:34196-34202(1999).
+     PubMed=10567391
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

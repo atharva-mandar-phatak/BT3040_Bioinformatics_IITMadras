@@ -1,0 +1,42 @@
+KCHANNEL
+Potassium channels are the most diverse group of the ion channel family
+(possibly as a result of gene duplication and alternative splicing of the 
+genes [1,2]). They are important in shaping the action potential, and in
+neuronal excitability and plasticity [3]. The potassium channel family is 
+composed of several functionally distinct isoforms, which can be broadly
+separated into 2 groups [4]: the first is the practically non-inactivating 
+"delayed" group, the second the rapidly inactivating "transient" group.
+These are all highly similar proteins, with possibly only small amino acid 
+changes causing the diversity of the voltage-dependent gating mechanism,
+channel conductance and toxin binding properties.
+
+Members of the potassium channel family vary in several ways: some open in 
+response to depolarisation of the plasma membrane; others open in response 
+to hyperpolarisation or an increase in intracellular calcium concentration;
+some can be regulated by binding of a transmitter, together with 
+intracellular kinases; and others are regulated by GTP-binding proteins or 
+other second messengers [5]. They are also involved in T-cell activation, 
+and may have a role in target cell lysis by cytotoxic T-lymphocytes [6].
+
+Potassium channels are transmembrane (TM) proteins that contain 6 membrane-
+spanning alpha-helical segments, 5 of which are hydrophobic, the other 
+being positively charged. The charged segment is believed to be localised 
+within a cluster formed by the hydrophobic helices: it is postulated that 
+it may constitute the voltage sensor region, possibly moving outward on 
+depolarisation, causing a conformational change. The 6-helix bundle is a 
+common structural motif in sodium channels (in which it is repeated 4 times
+within the sequence to form a 24-helix bundle), and in calcium channels 
+(where it also forms a 24-helix bundle, which itself is tightly bound 
+to 3 different subunits).
+
+KCHANNEL is an 8-element fingerprint that provides a signature for the 
+potassium channels. The fingerprint was derived from an initial alignment 
+of 16 sequences: motifs 1 and 2 were drawn from the cytoplasmic region 
+preceding the TM domains; motifs 3, 5, 6 and 8 encode loops between TM
+domains 1 and 2, 3 and 4, 4 and 5, and 5 and 6 respectively; motifs 4 and
+7 encode TM domains 2 and 5. Two iterations on OWL19.1 were required to
+reach convergence, at which point a true set comprising 56 sequences was
+identified. 
+
+An update on SPTR37_9f identified a true set of 97 sequences, and 15
+partial matches.

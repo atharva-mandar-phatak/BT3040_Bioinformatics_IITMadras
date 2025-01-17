@@ -1,0 +1,24 @@
+PHPHLIPASEA2
+Phospholipase A2 (PLA2) is a small lipolytic enzyme involved in a number
+of physiologically important cellular processes, such as the liberation
+of arachidonic acid from membrane phospholipids [1]. It plays a pivotal
+role in the biosynthesis of prostaglandin and other mediators of
+inflammation. PLA2 sequences contain around 120 amino acid residues: they
+have 4-7 disulphide bonds and bind a calcium ion, which is essential for
+activity. Within the active enzyme, the alpha amino group is involved in
+a conserved hydrogen-bonding network linking the N-terminal region to
+the active site. The side chains of 2 conserved residues, His and Asp,
+participate in the catalytic network.
+
+PHPHLIPASEA2 is a 5-element fingerprint that provides a signature for
+phospholipase A2 proteins. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 3 and 5 include the regions
+encoded by PROSITE patterns PA2_HIS (PS00118) and PA2_ASP (PS00119), which
+contain the active site His and Asp residues respectively. Three iterations
+on OWL26.0 were required to reach convergence, at which point a true set
+comprising 144 sequences was identified. Several partial matches were also
+found, many of which are N-terminal fragments.
+
+An update on SPTR37_9f identified a true set of 139 sequences, and 19
+partial matches.

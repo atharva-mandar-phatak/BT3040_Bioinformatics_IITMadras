@@ -1,0 +1,28 @@
+PROFILIN
+Profilin is a ubiquitous eukaryotic protein that plays an active role in
+the regulation of actin polymerisation. It binds to both cytosolic actin
+and the phospholipid phosphatidylinositol-4,5-bisphosphate [1]: such 
+competitive binding affinities suggest that profilin serves as a link
+between the phosphatidyl inositol cycle and actin polymerisation, and
+hence acts as an essential component in the signalling pathway leading to
+cytoskeletal rearrangement.
+
+Sequence similarity between profilins from different species is low, but
+the  N-terminal region, which is thought to be involved in actin binding,
+is relatively well conserved. Profilin folds into a single compact globular
+domain, which is bisected by an extended anti-parallel beta-sheet. Two
+alpha-helices (which include the N- and C-terminal residues) lie on the
+convex face of the sheet, and 3 smaller helices lie on the concave face.
+
+PROFILIN is a 6-element fingerprint that provides a signature for
+profilins. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length, motif 1 including the N-terminal region encoded by
+PROSITE pattern PROFILIN (PS00414), which is thought to be involved in
+actin binding. Two iterations on OWL26.0 were required to reach
+convergence, at which point a true set comprising 25 sequences was
+identified. A single partial match was also found, profilin II from
+Dictyostelium, which fails to make significant matches with motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 8
+partial matches.

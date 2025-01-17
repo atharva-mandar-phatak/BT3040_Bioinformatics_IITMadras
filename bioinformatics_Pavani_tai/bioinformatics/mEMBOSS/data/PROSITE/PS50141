@@ -1,0 +1,43 @@
+***********************************************
+* Adenosine to inosine editase domain profile *
+***********************************************
+
+Editase (EC 3.5.4.-)  are enzymes that catalyze the site-selective deamination
+of adenosine  residue  into inosine within double stranded regions of mRNA. In
+mRNA inosine  is  read as guanosine by the translation apparatus, resulting in
+codon changes  within the synthesized protein. The editase domain contains the
+active site and binds three zinc atoms [1].
+
+Several editases  share  a  common  global  arrangement of domains. Hence, the
+DRADA proteins  contain  two  DRADA  repeats  (see  <PDOC50139>), three double
+stranded RNA-binding domains (dsRBD) (see <PDOC50137>), and one editase domain
+from N-  to  C-terminus,  while  the  RED1 and RED2 editases have a simplified
+domains structure with no DRADA repeat and only two dsRBD [2].
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Editases that  deaminate cytidine are not detected by this profile (see
+ <PDOC00702>).
+
+-Last update: December 2001 / First entry.
+
+[ 1] Maas S., Melcher T., Seeburg P.H.
+     "Mammalian RNA-dependent deaminases and edited mRNAs."
+     Curr. Opin. Cell Biol. 9:343-349(1997).
+     PubMed=9159072
+[ 2] Slavov D., Crnogorac-Jurcevic T., Clark M., Gardiner K.
+     "Comparative analysis of the DRADA A-to-I RNA editing gene from
+     mammals, pufferfish and zebrafish."
+     Gene 250:53-60(2000).
+     PubMed=10854778
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

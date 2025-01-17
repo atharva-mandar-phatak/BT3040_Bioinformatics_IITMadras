@@ -1,0 +1,25 @@
+CLPPROTEASEP
+The clp protease is an ATP-dependent protease that cleaves a number of 
+proteins, such as casein and albumin [1]. It exists as a heterodimer of
+ATP-binding regulatory A and catalytic P subunits, both of which are
+required for effective levels of protease activity in the presence of
+ATP [1], although the P subunit alone does possess some catalytic activity.
+The clpP subunit is a serine protease that contains 2 residues (Ser and
+His) of the triad (Ser, His and Asp) normally found in serine proteases,
+although the sequence of clpP subunits shows no similarity to trypsin- or
+subtilisin-like enzymes [1]. The clp enzyme is thus a unique class of
+protease, which closely resembles a protein encoded by plant chloroplast
+genomes.
+
+CLPPROTEASEP is a 5-element fingerprint that provides a signature for the
+P subunit of the clp protease and related proteins. The fingerprint was
+derived from an initial alignment of 5 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length, motifs
+3 and 4 including the regions encoded by PROSITE patterns CLPP_PROTEASE_SER
+(PS00381) and CLPP_PROTEASE_HIS (PS00382), which contain the active Ser and
+His residues respectively. Two iterations on OWL22.1 were required to reach
+convergence, at which point a true set comprising 7 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 4
+partial matches.

@@ -1,0 +1,68 @@
+GPR4RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Lysophospholipids (LPs), such as lysophosphatidic acid (LPA), sphingosine
+1-phosphate (S1P) and sphingosylphosphorylcholine (SPC), have long been
+known to act as signalling molecules in addition to their roles as
+intermediates in membrane biosynthesis [6]. They have roles in the
+regulation of cell growth, differentiation, apoptosis and development, and
+have been implicated in a wide range of pathophysiological conditions,
+including: blood clotting, corneal wounding, subarachinoid haemorrhage,
+inflammation and colitis [7]. A number of G protein-coupled receptors bind
+members of the lysophospholipid family. These include: the cannabinoid
+receptors; platelet activating factor receptor; OGR1, an SPC receptor
+identified in ovarian cancer cell lines; PSP24, an orphan receptor that has
+been proposed to bind LPA; and at least 8 closely related receptors, the EDG
+family, that bind LPA and S1P [6]. 
+
+SPC is produced from degradation of sphingomyelin and regulates many diverse
+cellular functions, such as: proliferation, growth inhibition, smooth muscle
+contraction and wound healing [6,8]. It is also thought to play a role in
+the cardiovascular system and potently activates inwardly rectifying K+
+channels, suggesting a possible role in regulation of heart rate [6].
+
+Lysophosphatidylcholine (LPC) is produced by the action of phospholipase A2
+on phosphatidylcholine and promotes inflammatory effects, such as monocyte
+chemotaxis, increased expression of endothelial cell adhesion molecules and
+growth factors, and macrophage activation. LPC also plays a role in
+atherosclerosis and has been implicated in the pathogenesis of systemic
+lupus erythematosus, an autoimmune disease [9].
+
+The orphan receptor GPR4 has been identified as a high affinity receptor for
+SPC and a lower affinity receptor for LPC [10]. GPR4 is expressed at highest
+levels in the ovary, liver, lung, kidney, lymph nodes and subthalamic
+nuclei. Activation of GPR4 mediates an increase in intracellular calcium,
+activation of serum response element, ERK kinase activation and stimulation
+of cell migration [10].
+
+GPR4RECEPTOR is an 8-element fingerprint that provides a signature for the
+GPR4 sphingosylphosphorylcholine and lysophosphatidylcholine receptors. The
+fingerprint was derived from an initial alignment of 2 sequences: the motifs
+were drawn from conserved sections within N- and C-terminal and loop
+regions, focusing on those areas of the alignment that characterise the GPR4
+receptors but distinguish them from the rest of the lysophospholipid
+receptor family - motif 1 resides at the N-terminus, leading into TM domain
+1; motif 2 lies in the second cytoplasmic loop, leading into TM domain 4;
+motif 3 spans the C-terminal portion of TM domain 4, leading into the second
+external loop; motif 4 lies in the second external loop; motif 5 spans the
+third cytoplasmic loop; motif 6 encodes the third external loop; and motifs
+7 and 8 reside at the C-terminus. A single iteration on SPTR40_18f was
+required to reach convergence, no further sequences being identified beyond
+the starting set.

@@ -1,0 +1,70 @@
+************************************************************
+* Glycoprotein hormones alpha chain signatures and profile *
+************************************************************
+
+Glycoprotein hormones [1,2] (or gonadotropins) are a family of proteins  which
+include the mammalian  hormones follitropin (FSH), lutropin (LSH), thyrotropin
+(TSH) and chorionic  gonadotropin (CG), as  well as at least two forms of fish
+gonadotropins. All these  hormones  consist of two  glycosylated chains (alpha
+and beta). In mammalian  gonadotropins,  the  alpha chain  is identical in the
+four types of hormones but the beta chains, while homologous, are different.
+
+The alpha chains  are  highly  conserved  proteins  of  about  100  amino acid
+residues  which  contain ten   conserved cysteines  all  involved in disulfide
+bonds [3], as shown in the following schematic representation.
+
+                        +---------------------------+
+            +----------+|             +-------------|--+
+            |        **||***          |             |  |
+        xxxxCxCxxxxxxCxCCxxxxxxxxxxxxxCCxxxxxxxxxxCxCxxCx
+              |      |                 |         *|******
+              +------|-----------------+          |
+                     |                            |
+                     +----------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+We have developed two patterns for these hormones. Each of them contains three
+of the  conserved  cysteines.  We  also  developed a profile including the two
+regions covered by the patterns.
+
+-Consensus pattern: C-x-G-C-C-[FY]-S-[RQS]-A-[FY]-P-T-P
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: N-H-T-x-C-x-C-x-T-C-x(2)-H-K
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Lapthorn A.; adrian@chem.gla.ac.uk
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Pierce J.G., Parsons T.F.
+     "Glycoprotein hormones: structure and function."
+     Annu. Rev. Biochem. 50:465-495(1981).
+     PubMed=6267989; DOI=10.1146/annurev.bi.50.070181.002341
+[ 2] Stockell Hartree A., Renwick A.G.C.
+     Biochem. J. 287:665-679(1992).
+[ 3] Lapthorn A.J., Harris D.C., Littlejohn A., Lustbader J.W.,
+     Canfield R.E., Machin K.J., Morgan F.J., Isaacs N.W.
+     "Crystal structure of human chorionic gonadotropin."
+     Nature 369:455-461(1994).
+     PubMed=8202136; DOI=10.1038/369455a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

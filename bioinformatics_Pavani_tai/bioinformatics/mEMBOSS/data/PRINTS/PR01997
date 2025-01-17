@@ -1,0 +1,21 @@
+MTP2FAMILY
+Two major structural proteins from the lactococcal temperate bacteriophage
+TP901-1 have been sequenced: the Major Head Protein (MHP) and the Major Tail
+Protein (MTP) [1]. Homologues of the major tail protein have since been
+found in Staphylococcus, Streptococcus and Lactobacillus phages. The
+sequences are fairly short, typically ~150-200 amino acid residues in
+length, and are well conserved. This family of proteins (designated here
+phage MTP 2) has its own distinct sequence signature that distinguishes it 
+from the MTP 1 family (see MTP1FAMILY). 
+
+Sequences belonging to the MTP 2 family are longer than those belonging to
+the MTP 1 family, and are well conserved across a range of species. 
+
+MTP2FAMILY is a 5-element fingerprint that provides a signature for the
+phage major tail protein 2 family. The fingerprint was derived from an
+initial alignment of 43 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length. Two iterations on SPTR57_40f
+were required to reach convergence, at which point a true set comprising
+44 sequences was identified. Four partial matches were also found, all of
+which are likely tail proteins that fail to make signficant matches with
+motifs 1 and 3, and 5.

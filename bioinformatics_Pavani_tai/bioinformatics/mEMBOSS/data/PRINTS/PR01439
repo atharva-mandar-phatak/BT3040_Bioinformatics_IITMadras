@@ -1,0 +1,31 @@
+CELLSNTHASEA
+An operon encoding 4 proteins required for bacterial cellulose biosynthesis
+(bcs) in Acetobacter xylinum has been isolated via genetic complementation
+with strains lacking cellulose synthase activity [1]. Nucleotide sequence
+analysis showed the cellulose synthase operon to consist of 4 genes, 
+designated bcsA, bcsB, bcsC and bcsD [1], all of which are required for 
+maximal bacterial cellulose synthesis in A.xylinum [1]. 
+
+The calculated molecular mass of the protein encoded by bcsA is 84.4kDa [1].
+Sequence analysis suggests that the gene product is an integral membrane
+protein with several transmembrane (TM) domains [2]. It is postulated that
+the protein is anchored in the membrane at the N-terminal end by a single
+hydrophobic helix [2]. Two potential N-glycosylation sites are predicted
+from sequence analysis, consistent with earlier observations that BcsA is
+a glycoprotein. The function of BcsA is unknown. The sequence shares a 
+high degree of similarity with E.coli YhjO.
+
+CELLSNTHASEA is a 9-element fingerprint that provides a signature for 
+cellulose synthase subunit A. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved, largely
+hydrophobic, regions spanning virtually the full alignment length - motif 2
+includes putative TM domain 3; motif 3 encodes TM domain 4; and motifs 5-9
+include TM domains 5-9 respectively. Three iterations on SPTR39_14f were
+required to reach convergence, at which point a true set comprising 7 
+sequences was identified. Several partial matches were also found: 
+YHJO_ECOLI is an E.coli hypothetical 78.6kDa protein that fails to match
+motifs 8 and 9; O67406 is a cellulose synthase catalytic subunit from
+Aquifex aeolicus that matches motifs 4, 5 and 7; Q44418 is a cellulose
+synthase from Agrobacterium tumefaciens that matches motifs 4 and 5, and
+Q9X571 is a putative cellulose synthase from Rhizobium leguminosarum that
+matches motifs 2 and 5.

@@ -1,0 +1,60 @@
+**********************
+* HSR domain profile *
+**********************
+
+The following  proteins  share  a  nuclear dot (DT) targeting and dimerization
+domain of ~100 amino acids  [1,2,3]:
+
+ - Mammalian  nuclear  autoantigen  Sp-100,  a  constituent of nuclear domains
+   known as  nuclear dots (NDs) or promyelocytic leukemia (PML) bodies. It may
+   play a role in the control of gene expression.
+ - Murine  Sp100-rs,  a  murine-truncated Sp-100 homologue, which is expressed
+   from a  highly  amplified gene. In some mice strains, the amplification has
+   progressed to  such  extremely  high  copy  numbers that the amplified gene
+   locus is   visible   as  a  homogeneously  staining  region  (HSR)  on  the
+   corresponding murine chromosome.
+ - Mammalian nuclear body protein SP140-like or LySp100B protein.
+ - Mammalian Sp110 nuclear body protein.
+ - Vertebrate  AutoImmune  REgulator (AIRE) protein, a transcription regulator
+   predominantly expressed   in   thymus   medullary   epithelial   cells.  It
+   subcellularly localizes to nuclear dots.
+
+As this domain comprises most of the sequence of the truncated murine Sp100-rs
+protein, it  was  termed  HSR  domain [2]. The HSR domain, which has also been
+named ASS  (AIRE, Sp-100 and Sp140) domain [3], can also be found N-terminally
+in association  with other domains, such as SAND (see <PDOC50864>), PHD finger
+(see <PDOC50016>)  and Bromo (see <PDOC00550>), The HSR domain is predicted to
+be predominantly alpha-helical [1,2,3].
+
+The profile we developed covers the entire HSR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2008 / First entry.
+
+[ 1] Gibson T.J., Ramu C., Gemuend C., Aasland R.
+     "The APECED polyglandular autoimmune syndrome protein, AIRE-1,
+     contains the SAND domain and is probably a transcription factor."
+     Trends Biochem. Sci. 23:242-244(1998).
+     PubMed=9697411
+[ 2] Sternsdorf T., Jensen K., Reich B., Will H.
+     "The nuclear dot protein sp100, characterization of domains necessary
+     for dimerization, subcellular localization, and modification by small
+     ubiquitin-like modifiers."
+     J. Biol. Chem. 274:12555-12566(1999).
+     PubMed=10212234
+[ 3] Mittaz L., Rossier C., Heino M., Peterson P., Krohn K.J.E., Gos A.,
+     Morris M.A., Kudoh J., Shimizu N., Antonarakis S.E., Scott H.S.
+     "Isolation and characterization of the mouse Aire gene."
+     Biochem. Biophys. Res. Commun. 255:483-490(1999).
+     PubMed=10049735; DOI=10.1006/bbrc.1999.0223
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,25 @@
+KAZALINHBTR
+Kazal inhibitors, which inhibit a number of serine proteases (such as
+trypsin and elastase), belong to family of proteins that includes
+pancreatic secretory trypsin inhibitor; avian ovomucoid; acrosin inhibitor;
+and elastase inhibitor. These proteins contain between 1 and 7 Kazal-type
+inhibitor repeats [1,2]. 
+
+The structure of the Kazal repeat includes a large quantity of extended
+chain, 2 short alpha-helices and a 3-stranded anti-parallel beta sheet [1].
+The inhibitor makes 11 contacts with its enzyme substrate: unusually, 8 of
+these important residues are hypervariable [2]. Altering the enzyme-contact
+residues, and especially that of the active site bond, affects the the
+strength of inhibition and specificity of the inhibitor for particular
+serine proteases [2,3].
+
+KAZALINHBTR is a 2-element fingerprint that provides a signature for Kazal-
+type serine protease inhibitors. The fingerprint was derived from an
+initial alignment of 10 sequences: the motifs were drawn from conserved
+regions towards the N-terminus of the alignment and span the region encoded
+by PROSITE pattern KAZAL (PS00282), which includes 4 Cys residues involved
+in disulphide bond formation. Two iterations on OWL25.1 were required to
+reach convergence, at which point a true set comprising 111 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 45 sequences.

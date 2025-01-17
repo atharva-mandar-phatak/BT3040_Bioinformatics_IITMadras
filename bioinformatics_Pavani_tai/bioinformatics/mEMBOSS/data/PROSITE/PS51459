@@ -1,0 +1,89 @@
+***********************
+* Fido domain profile *
+***********************
+
+The following   proteins   share   a   globular  domain  named  fido  that  is
+approximately 125  to 150 residues long and is present in all kingdoms of life
+[1,2,3,4]:
+
+ - Fic  (filamentation  induced  by cAMP) from diverse bacteria. It contains a
+   longer insert in the fido domain.
+ - Doc  (death  on  curing)  proteins  from phage P1 and several bacteria. All
+   these proteins contain a minimal stand-alone version of the fido domain.
+ - HypE  (Huntingtin  associated  protein  E)  from animal. In humans, HypE is
+   thought to  interact  with  Huntingtin,  one  of  the major proteins in the
+   Huntington's disease  protein interaction network. Proteins related to HypE
+   are also  found in several bacteria and some archaea. HypE proteins contain
+   a longer  insert  in  their  fido  domain  and  are  typically  multidomain
+   proteins.
+ - Type IV secretion system effector AnkX from Legionella.
+ - VopS,  a  type  III  secretion  system  effector  from  Vibrio  that causes
+   eukaryotic cell cytotoxicity.
+ - IbpA  (virulence  factor  p76)  from  Haemophilus somnus. It includes an N-
+   terminal haemagglutination   activity   domain,  two  fido  domains  and  a
+   peptidase C58 domain.
+ - BepA,  an  anti-apoptotic  bacterial  effector  protein, which is a type IV
+   secretion system substrate.
+
+The fido  domain  of Vibrio VopS covalently modifies Rho GTPase threonine with
+AMP to  inhibit  downstream  signaling  events  in  host cells. The AMPylation
+activity extends  to  a  eukaryotic  fido  domain  in Drosophila fic homologue
+CG9523. AMPylation    represents    a   newly   discovered   posttranslational
+modification used to stably modify proteins with AMP. This signaling mechanism
+is predicted to be functionally similar to other posttranslation modifications
+such as  phosphorylation, SUMOylation or acetylation, because the added moiety
+changes the  activity  of the modified protein. The covalent attachment of AMP
+by a  phosphodiester bond is predicted to be reversible and is bulky enough to
+provide a docking site for a putative AMP binding domain [4].
+
+The fido domain contains a central motif conserved in most sequences (H-x-F-x-
+[DE]-[AG]-N-[GK]-R), with  the  motif  His contributing to fic AMPylation. The
+fido domain  adopts an alpha-helical fold, arranged as a six-helix up and down
+bundle (see <PDB:2F6S>) [2,3,4].
+
+The profile we developed covers the entire fido domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2009 / First entry.
+
+[ 1] Anantharaman V., Aravind L.
+     "New connections in the prokaryotic toxin-antitoxin network:
+     relationship with the eukaryotic nonsense-mediated RNA decay system."
+     Genome Biol. 4:R81-R81(2003).
+     PubMed=14659018; DOI=10.1186/gb-2003-4-12-r81
+[ 2] Garcia-Pino A., Christensen-Dalsgaard M., Wyns L., Yarmolinsky M.,
+     Magnuson R.D., Gerdes K., Loris R.
+     "Doc of prophage P1 is inhibited by its antitoxin partner Phd through
+     fold complementation."
+     J. Biol. Chem. 283:30821-30827(2008).
+     PubMed=18757857; DOI=10.1074/jbc.M805654200
+[ 3] Das D., Krishna S.S., McMullan D., Miller M.D., Xu Q., Abdubek P.,
+     Acosta C., Astakhova T., Axelrod H.L., Burra P., Carlton D.,
+     Chiu H.-J., Clayton T., Deller M.C., Duan L., Elias Y., Elsliger M.-A.,
+     Ernst D., Feuerhelm J., Grzechnik A., Grzechnik S.K., Hale J.,
+     Han G.W., Jaroszewski L., Jin K.K., Klock H.E., Knuth M.W.,
+     Kozbial P., Kumar A., Marciano D., Morse A.T., Murphy K.D.,
+     Nigoghossian E., Okach L., Oommachen S., Paulsen J., Reyes R.,
+     Rife C.L., Sefcovic N., Tien H., Trame C.B., Trout C.V.,
+     van den Bedem H., Weekes D., White A., Hodgson K.O., Wooley J.,
+     Deacon A.M., Godzik A., Lesley S.A., Wilson I.A.
+     "Crystal structure of the Fic (Filamentation induced by cAMP) family
+     protein SO4266 (gi|24375750) from Shewanella oneidensis MR-1 at 1.6 A
+     resolution."
+     Proteins 75:264-271(2009).
+     PubMed=19127588; DOI=10.1002/prot.22338
+[ 4] Kinch L.N., Yarbrough M.L., Orth K., Grishin N.V.
+     "Fido, a novel AMPylation domain common to fic, doc, and AvrB."
+     PLoS ONE 4:E5818-E5818(2009).
+     PubMed=19503829; DOI=10.1371/journal.pone.0005818
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

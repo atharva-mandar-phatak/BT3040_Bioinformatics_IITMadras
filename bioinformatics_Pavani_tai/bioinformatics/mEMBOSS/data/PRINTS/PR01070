@@ -1,0 +1,32 @@
+ACCCTRFRASEB
+Fatty acid synthesis involves a set of reactions, commencing with 
+carboxylation of acetyl-CoA to malonyl-CoA [1]. This is an irreversible
+reaction, catalysed by the acetyl-CoA carboxylase complex (EC 6.4.1.2); a
+heterohexamer of biotin carboxyl carrier protein, biotin carboxylase and two
+non-identical carboxyl transferase subunits (alpha and beta) in a 2:2
+association [1,2]. 
+
+The reaction involves two steps: 
+
+(1) Biotin carrier protein + ATP + HCO(3)(-) <=>
+	    Carboxybiotin carrier protein + ADP + Phosphate
+
+(2) Carboxybiotin carrier protein + Acetyl-CoA ->
+	    Malonyl-CoA + Biotin carrier protein
+
+In the first step, biotin carboxylase catalyses the carboxylation of the
+carrier protein to form an intermediate. Next, the transcarboxylase complex
+transfers the carboxyl group from the intermediate to acetyl-CoA forming
+malonyl-CoA.
+
+ACCCTRFRASEB is a 5-element fingerprint that provides a signature for the
+acetyl-CoA carboxylase carboxyl transferase beta subunit. The fingerprint
+was derived from an initial alignment of 5 sequences: the motifs were drawn
+from conserved regions within the central and C-terminal portions of the
+alignment. Three iterations on OWL31.1 were required to reach convergence,
+at which point a true set comprising 23 sequences was identified. Several
+partial matches were also found, all of which are transferase beta subunit
+fragments that lack portions of sequence bearing one or more motifs.
+
+An update on SPTR37_9f identified a true set of 23 sequences, and 3
+partial matches.

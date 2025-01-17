@@ -1,0 +1,28 @@
+TYPE1KERATIN
+Keratins are a well known group of intermediate filament proteins. Like 
+actin filaments, keratins are flexible but provide a firm cell skeleton.
+Unlike actin, however, no known keratins are associated with motor 
+functions [1]. Approximately 10 keratins form the basis of hair or claw,
+with a further 20 found in internal body cavity epithelia. They are also
+found at desmosomes and hemi-desmosomes (cell/cell and cell/matrix contacts 
+respectively) [2].
+
+Type I keratins are a group of acidic intermediate filament proteins that
+exist as chains of heterodimers with basic type II keratins [3]. Each type
+I keratin consists of head-, rod- and tail-like structures, the rod being
+constructed from three linked coils: 1A, 1B and 2. Type I proteins are 
+associated with a number of inherited developmental disorders, such as 
+baldness, beading of hair, and skin blistering.
+
+TYPE1KERATIN is a 5-element fingerprint that provides a signature for type
+I keratins. The fingerprint was derived from an initial alignment of 34
+sequences: the motifs were drawn from the central and C-terminal portions
+of the alignment - motifs 1 and 2 fall within coil 1B; motif 3 resides
+within linker 12; and motifs 4 and 5 are located within coil 2 (the region 
+encoded by PROSITE pattern IF (PS00226) lies between motif 5 and the 
+C-terminus, within coil 2). Three iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 53 sequences was
+identified. Several partial matches were also found, all of which are 
+intermediate filament proteins that mostly match motifs 2 and 5: Q90809 and 
+Q90976 are chicken CP49 proteins; Q13515 is a highly diverent human protein;
+Q28177 is a bovine phakinin; and O96754 is from Amphioxus.

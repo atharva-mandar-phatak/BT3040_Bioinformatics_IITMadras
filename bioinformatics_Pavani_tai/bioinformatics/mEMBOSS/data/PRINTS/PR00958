@@ -1,0 +1,38 @@
+HOMSERKINASE
+Saccharomyces cerevisiae strains containing the erg8-1 mutation are 
+temperature sensitive for growth due to a defect in phosphomevalonate 
+kinase, an enzyme of isoprene and ergosterol biosynthesis [1]. Subcloning
+and DNA sequencing have defined the functional ERG8 regulon as an 850bp 
+upstream region and an adjacent 1,272bp open reading frame [1]. The deduced 
+ERG8 protein contains 424 residues and shows no similarity to known proteins,
+except within a putative ATP-binding domain present in many kinases [1].
+
+Enzymes that share the N-terminal Gly/Ser-rich putative ATP-binding region
+include: galactokinase, homoserine kinase, mevalonate kinase and phospho-
+mevalonate kinase. 
+
+Homoserine kinase is a homodimeric enzyme involved in threonine bio-
+synthesis. Sequence comparison of the yeast enzyme with the corresponding
+proteins from bacterial sources reveals the presence of several highly
+conserved regions, the pattern of occurrence of which suggests that the
+ancestral sequences might have been composed from separate (functional)
+domains [2]. A block of similar residues, found towards the C-terminus,
+is also present in many other proteins involved in threonine (or serine)
+metabolism; this motif may therefore represent the binding site for the
+hydroxy-amino acids [2]. Limited similarity was detected between a motif
+conserved among the homoserine kinases and consensus sequences found in
+other mono- or dinucleotide-binding proteins [2].
+
+HOMSERKINASE is a 5-element fingerprint that provides a signature for
+homoserine kinases. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from short conserved regions 
+spanning virtually the full alignment length - motif 1 lies at the
+N-terminus; motif 2 includes the C-terminal residues of the nucleotide-
+binding sequence; and motif 5 lies at the C-terminus. Two iterations on
+OWL30.2 were required to reach convergence, at which point a true set 
+comprising 18 sequences was identified. Several partial matches were also 
+found, all of which are fragments or homologues that fail to match one
+or more motifs.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 1
+partial match.

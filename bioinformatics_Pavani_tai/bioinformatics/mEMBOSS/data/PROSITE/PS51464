@@ -1,0 +1,76 @@
+**********************
+* SIS domain profile *
+**********************
+
+The  sugar  isomerase  (SIS)  domain  is a phosphosugar-binding module that is
+found  in  a  variety  of eubacterial, archaebacterial and eukaryotic proteins
+that  have a role in phosphosugar isomerization or regulation [1]. In enzymes,
+the  SIS  domain  can  have  a  catalytic function as an isomerase and bind to
+phosphorylated  sugars.  In  bacterial  transcriptional regulators of the rpiR
+family,  the domain seems to bind substrates implicated in the genes for sugar
+metabolism  that  are  controlled by the regulator. The SIS domain is found in
+one  or  two  copies  and  can  be  linked  to  additional  domains,  such  as
+helix-turn-helix  (HTH)  (see  <PDOC51071>),  CBS (see <PDOC51371>), glutamine
+amidotransferases  type  2 (see <PDOC00406>), or phosphopantetheine-attachment
+(see <PDOC00012>) [1,2,E1].
+
+The SIS domain has an alpha-beta structure and is dominated by a five-stranded
+parallel  beta  sheet flanked on either side by alpha helices forming a three-
+layer   alpha-beta-alpha   sandwich  (see  <PDB:1MOQ>)  [3].  The  fold  shows
+similarities to that of glucose-6-phosphate isomerase (see <PDOC00157>).
+
+Some proteins known to contain a SIS domain are listed below:
+
+ - Eukaryotic      and      prokaryotic      glucosamine--fructose-6-phosphate
+   aminotransferase [isomerizing] (EC 2.6.1.16).
+ - Eukaryotic glucokinase regulator (GCKR) family (see <PDOC00979>).
+ - Bacterial rpiR family of HTH transcriptional regulators (see <PDOC51071>).
+ - Escherichia coli arabinose 5-phosphate isomerase (kdsD) (EC 5.3.1.13).
+ - Escherichia coli fructoselysine 6-phosphate deglycase (frlB) (EC 3.5.-.-).
+ - Escherichia  coli  gutQ,  which is encoded by the glucitol-synthesis operon
+   and is thought to contain a nucleotide-binding site.
+ - Escherichia coli polysialic acid capsule expression protein kpsF.
+ - Bacterial phosphoheptose isomerase (gmhA/lpcA) or sedoheptulose 7-phosphate
+   isomerase (EC 5.3.1.-).
+ - Prokaryotic 3-hexulose-6-phosphate isomerase (PHI) (EC 5.3.1.27).
+ - Enterobacterial dnaA initiator-associating protein diaA.
+ - Proteobacterial    N-acetylmuramic   acid   6-phosphate   etherase   (murQ)
+   (EC 4.2.-.-),   which   catalyzes   the  cleavage  of  the  D-lactyl  ether
+   substituent   of  MurNAc  6-phosphate,  producing  GlcNAc  6-phosphate  and
+   D-lactate.
+ - Bacterial  putative  tagatose-6-phosphate  ketose/aldose  isomerase  (agaS)
+   (EC 5.3.1.-).
+
+The profile we developed covers the entire SIS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2009 / First entry.
+
+[ 1] Bateman A.
+     "The SIS domain: a phosphosugar-binding domain."
+     Trends Biochem. Sci. 24:94-95(1999).
+     PubMed=10203754
+[ 2] Jaeger T., Mayer C.
+     "N-acetylmuramic acid 6-phosphate lyases (MurNAc etherases): role in
+     cell wall metabolism, distribution, structure, and mechanism."
+     Cell. Mol. Life Sci. 65:928-939(2008).
+     PubMed=18049859; DOI=10.1007/s00018-007-7399-
+[ 3] Teplyakov A., Obmolova G., Badet-Denisot M.A., Badet B.,
+     Polikarpov I.
+     "Involvement of the C terminus in intramolecular nitrogen channeling
+     in glucosamine 6-phosphate synthase: evidence from a 1.6 A crystal
+     structure of the isomerase domain."
+     Structure 6:1047-1055(1998).
+     PubMed=9739095
+[E1] http://www.sanger.ac.uk/Users/agb/SIS/SIS.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

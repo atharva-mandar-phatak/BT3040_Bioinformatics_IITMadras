@@ -1,0 +1,89 @@
+***********************************************************
+* ABC transporter integral membrane type-2 domain profile *
+***********************************************************
+
+ABC  transporters  belong  to the ATP-Binding Cassette (ABC) superfamily which
+uses  the  hydrolysis  of ATP to energize diverse biological import and export
+systems.  ABC transporters are minimally constituted of two conserved regions:
+a  highly  conserved  ATP  binding cassette (ABC) (see <PDOC00185>) and a less
+conserved  transmembrane  domain (TMD). These regions can be found on the same
+protein  (mostly  in  eukaryotes  and bacterial exporters) or on two different
+ones (mostly bacterial importers) [1,2,3]. But in a subgroup of exporters, the
+transmembrane  region  is  encoded  by a separated polypeptide, the ABC-2 type
+transport  system  integral  membrane  protein.  The  molecular  size  of this
+transmembrane  protein  is  around  30  Kd.  It  is  thought  to  contain  six
+transmembrane  regions,  it  either  form homooligomeric channels or associate
+with  another  type  of  transmembrane  protein  to  form  heteroligomers. The
+function  of  the  integral  inner-membrane  protein  is  to  translocate  the
+substrate across the membrane and seems to play an important role in substrate
+recognition [4].
+
+The  ABC-2  type transport system integral membrane proteins with a functional
+attribution are listed below:
+
+ - Escherichia coli wzm (kpsM), involved in polysialic acid export.
+ - Haemophilus  influenzae  bexB,  involved  in  polyribosylribitol  phosphate
+   capsule polysaccharide export.
+ - Neisseria  meningitidis  ctrC,  involved  in  polyneuraminic  acid  capsule
+   polysaccharide export.
+ - Rhizobiacae   nodulation  protein  J  (gene  nodJ),  probably  involved  in
+   exporting a modified beta-1,4-linked N-acetylglucosamine oligosaccharide.
+ - Streptomyces   peucetius   drrB,  involved  in  exporting  the  antibiotics
+   daunorubicin and Doxorubicin.
+ - Klebsiella pneumoniae O-antigen export system protein rfbA.
+ - Yersinia enterocolitica O-antigen export system protein rfbD.
+ - Escherichia coli hypothetical protein yadH.
+ - Escherichia coli hypothetical protein yhhJ.
+ - Escherichia coli hypothetical protein yhih.
+
+The  profile  we  developed  recognize  the  six transmembrane regions of ABC-2
+integral membrane proteins.
+
+-Sequences known to belong to this class detected by the profile: ALL, except 1.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  profile  replaces   a  pattern  (PS00890)  whose specificity was
+ inadequate. Furthermore, this profile matches some eukaryotic transporters in
+ Drosophila  melanogaster,  Dictyostelium  discoideum,  Anopheles gambiae, and
+ some prokaryotic fused exporters. None of these atypical matches are detected
+ by other ABC TMD profiles (see <PDOC00364>).
+
+-Last update: May 2005 / Text revised.
+
+[ 1] Holland I.B., Cole S.P.C., Kuchler K., Higgins C.F.
+     (In) ABC proteins from bacteria to man, Academic Press, San Diego,
+     (2003).
+[ 2] Holland I.B., Blight M.A.
+     J. Mol. Biol. 293:381-399(1999).
+[ 3] Saurin W., Hofnung M., Dassa E.
+     "Getting in or out: early segregation between importers and exporters
+     in the evolution of ATP-binding cassette (ABC) transporters."
+     J. Mol. Evol. 48:22-41(1999).
+     PubMed=9873074
+[ 4] Ambudkar S.V., Dey S., Hrycyna C.A., Ramachandra M., Pastan I.,
+     Gottesman M.M.
+     "Biochemical, cellular, and pharmacological aspects of the multidrug
+     transporter."
+     Annu. Rev. Pharmacol. Toxicol. 39:361-398(1999).
+     PubMed=10331089; DOI=10.1146/annurev.pharmtox.39.1.361
+[ 5] Reizer J., Reizer A., Saier M.H. Jr.
+     "A new subfamily of bacterial ABC-type transport systems catalyzing
+     export of drugs and carbohydrates."
+     Protein Sci. 1:1326-1332(1992).
+     PubMed=1303751
+[ 6] Vazquez M., Santana O., Quinto C.
+     "The NodL and NodJ proteins from Rhizobium and Bradyrhizobium strains
+     are similar to capsular polysaccharide secretion proteins from
+     gram-negative bacteria."
+     Mol. Microbiol. 8:369-377(1993).
+     PubMed=8316086
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

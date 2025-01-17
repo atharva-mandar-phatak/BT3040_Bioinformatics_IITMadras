@@ -1,0 +1,31 @@
+CALCITONINB
+The calcitonin (CT) gene is alternatively expressed in a tissue-specific
+manner, producing either the calcium regulatory hormone CT in the thyroid,
+or the neuropeptide calcitonin gene related peptide (CGRP) in the brain [1].
+In medullary carcinoma of the thyroid, both peptides are produced [1]. 
+
+CGRP is a 37-residue peptide produced by alternative splicing of the CT 
+gene. CGRP induces vasodilation in various vessels, including those of the
+coronary, cerebral and systemic vasculature. A neurotransmitter or neuro-
+modulator role is suggested by its abundance in the CNS [1]. The structure
+of human CGRP has been determined by 1H NMR [2]. The main conformational
+feature of the hormone is an N-terminal disulphide-bonded loop (residues
+2-7), leading into a well-defined alpha-helix between residues 8 and 18;
+thereafter, the structure is predominantly disordered, although there are
+indications of a preference for a turn-type conformation between residues
+19 and 21 [2]. 
+
+CALCITONINB is a 4-element fingerprint that provides a signature for beta-
+type calcitonin and calcitonin gene-related peptides. The fingerprint was
+derived from an initial alignment of 12 sequences: the motifs span the full
+length of the peptide - motifs 1 and 2 encode the alpha-helix, motif 1 also
+including the two Cys residues known to be involved in disulphide bond
+formation [2] (these motifs also include the region encoded by PROSITE
+pattern CALCITONIN (PS00258)); and motifs 3 and 4 span the structurally-
+disordered C-terminal region. A single iteration on OWL30.0 was required
+to reach convergence, no further sequences being identified beyond the 
+starting set. A single partial match was found, A56855, a closely related 
+chicken islet amyloid peptide that makes significant matches with motifs
+1 and 2. 
+
+An update on SPTR37_9f identified a true set of 8 sequences.

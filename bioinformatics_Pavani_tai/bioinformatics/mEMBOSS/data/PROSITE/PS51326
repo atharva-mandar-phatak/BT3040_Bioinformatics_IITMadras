@@ -1,0 +1,99 @@
+********************************************
+* Avidin-like domain signature and profile *
+********************************************
+
+Avidin [1]  is a minor constituent of egg white in several groups of oviparous
+vertebrates.  Avidin,  which was discovered in the 1920's, takes its name from
+the  avidity  with which it binds biotin. These two molecules bind so strongly
+that is highly difficult to separate them. Streptavidin is  a protein produced
+by Streptomyces  avidinii    which    also  binds biotin and whose sequence is
+evolutionary related to that of avidin.
+
+Avidin and streptavidin both  form  homotetrameric  complexes of noncovalently
+associated chains.  Each  chain  forms a very strong and specific non-covalent
+complex with one molecule of biotin.
+
+Fibropellins I and III [2] are proteins that form the apical lamina of the sea
+urchin embryo,  a  component  of  the extracellular matrix. These two proteins
+have a  modular structure composed of a CUB domain (see <PDOC00908>), followed
+by a variable number of EGF repeats (see <PDOC00021>) and a C-terminal avidin-
+like domain. The fibropellin avidin-like domain forms a homotetramer incapable
+of binding biotin [3].
+
+The three-dimensional  structures  of  both  streptavidin [4,5] and avidin [6]
+have been  determined  and  revealed  them  to  share  a common fold: an eight
+stranded anti-parallel  beta-barrel  with  a repeated +1 topology enclosing an
+internal ligand binding site (see <PDB:1AVD>).
+
+As a  signature  sequence  for  the avidin-like domain we selected a conserved
+motif located  in  its  C-terminal  section.  We also developed a profile that
+covers the entire avidin-like domain.
+
+-Consensus pattern: [DENY]-x(2)-[KRI]-[STA]-x(2)-V-G-x-[DN]-x-[FW]-T-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It  is  suggested, on the basis of similarities of structure, function,
+ and sequence,    that  this  family  forms an overall superfamily, called the
+ calycins, with the lipocalin <PDOC00187> and the cytosolic fatty-acid binding
+ proteins <PDOC00188> families [7,8].
+
+-Expert(s) to contact by email:
+                   Flower D.R.; darren.flower@jenner.ac.uk
+
+-Last update: August 2007 / Text revised; profile added.
+
+[ 1] Green N.M.
+     "Avidin and streptavidin."
+     Methods Enzymol. 184:51-67(1990).
+     PubMed=2388586
+[ 2] Bisgrove B.W., Raff R.A.
+     "The SpEGF III gene encodes a member of the fibropellins: EGF
+     repeat-containing proteins that form the apical lamina of the sea
+     urchin embryo."
+     Dev. Biol. 157:526-538(1993).
+     PubMed=8500658; DOI=10.1006/dbio.1993.1155
+[ 3] Yanai I., Yu Y., Zhu X., Cantor C.R., Weng Z.
+     "An avidin-like domain that does not bind biotin is adopted for
+     oligomerization by the extracellular mosaic protein fibropellin."
+     Protein. Sci. 14:417-423(2005).
+     PubMed=15659374; DOI=10.1110/ps.04898705
+[ 4] Hendrickson W.A., Pahler A., Smith J.L., Satow Y., Merritt E.A.,
+     Phizackerley R.P.
+     "Crystal structure of core streptavidin determined from
+     multiwavelength anomalous diffraction of synchrotron radiation."
+     Proc. Natl. Acad. Sci. U.S.A. 86:2190-2194(1989).
+     PubMed=2928324
+[ 5] Pugliese L., Coda A., Malcovati M., Bolognesi M.
+     "Three-dimensional structure of the tetragonal crystal form of
+     egg-white avidin in its functional complex with biotin at 2.7 A
+     resolution."
+     J. Mol. Biol. 231:698-710(1993).
+     PubMed=8515446
+[ 6] Hunt L.T., Barker W.C.
+     "Avidin-like domain in an epidermal growth factor homolog from a sea
+     urchin."
+     FASEB J. 3:1760-1764(1989).
+     PubMed=2784773
+[ 7] Flower D.R.
+     "Structural relationship of streptavidin to the calycin protein
+     superfamily."
+     FEBS Lett. 333:99-102(1993).
+     PubMed=8224179
+[ 8] Holm L., Sander C.
+     "Searching protein structure databases has come of age."
+     Proteins 19:165-173(1994).
+     PubMed=7937731
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

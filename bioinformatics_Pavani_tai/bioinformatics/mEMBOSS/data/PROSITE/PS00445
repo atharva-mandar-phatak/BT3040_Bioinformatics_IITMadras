@@ -1,0 +1,45 @@
+**************************************************
+* FGGY family of carbohydrate kinases signatures *
+**************************************************
+
+It has been shown [1] that four different type of carbohydrate kinases seem to
+be evolutionary related. These enzymes are:
+
+ - L-fuculokinase (EC 2.7.1.51) (gene fucK).
+ - Gluconokinase (EC 2.7.1.12) (gene gntK).
+ - Glycerokinase (EC 2.7.1.30) (gene glpK).
+ - Xylulokinase (EC 2.7.1.17) (gene xylB).
+ - L-xylulose kinase (EC 2.7.1.53) (gene lyxK).
+
+These enzymes are proteins of from 480 to 520 amino acid residues.
+
+As consensus  patterns for this  family  of  kinases we selected two conserved
+regions, one in the central section, the other in the C-terminal section.
+
+-Consensus pattern: [MFYGS]-x-[PST]-x(2)-K-[LIVMFYW]-{G}-W-[LIVMF]-{E}-
+                    [DENQTKR]-[ENQH]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for lyxK.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: [GSA]-x-[LIVMFYW]-{D}-G-[LIVM]-x(7,8)-[HDENQ]-[LIVMF]-
+                    {PEQ}-{DTAI}-[AS]-[STALIVM]-[LIVMFY]-[DEQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 20.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Reizer A., Deutscher J., Saier M.H. Jr., Reizer J.
+     "Analysis of the gluconate (gnt) operon of Bacillus subtilis."
+     Mol. Microbiol. 5:1081-1089(1991).
+     PubMed=1659648
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

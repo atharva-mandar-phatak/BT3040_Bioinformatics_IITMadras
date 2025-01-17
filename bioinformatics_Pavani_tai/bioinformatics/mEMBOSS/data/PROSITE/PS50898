@@ -1,0 +1,68 @@
+************************************
+* Ras-binding domain (RBD) profile *
+************************************
+
+Ras and  heterotrimeric  G  proteins'  alpha  subunits  are signal-transducing
+GTPases that  cycle between inactive GDP-bound and active GTP-bound forms. The
+activities of these GTPases are regulated in part by GTPase-activating protein
+(GAPs) that  stimulate  hydrolysis  of  GTP,  and  guanine nucleotide exchange
+factors (GEFs)  that  stimulate  GDP  release.  Ras  and  G  alpha GTPases are
+prolific signalling   molecules   interacting  with  a  spectrum  of  effector
+molecules and acting through more than one signalling pathway. The Ras-binding
+domain (RBD)  is  an  independent  domain  of  about  75  residues,  which  is
+sufficient for GTP-dependent binding of Ras and other G alpha GTPases. The RBD
+domain can  be present singly or in tandem and it can be found associated with
+many other  domains, such as PDZ (see <PDOC50106>), RGS (see <PDOC50132>), PID
+(see <PDOC00907>),  PH  (see  <PDOC50003>),  C1  (see  <PDOC00379>),  DH  (see
+<PDOC00605>), or protein kinase (see <PDOC00100>) [1].
+
+Structurally, the  RBD domain of Raf-1 consists of a five-stranded mixed beta-
+sheet with  an  interrupted alpha-helix and two additional small alpha-helices
+(see <PDB:1GUA>).  The  structure  of  the RBD domain belongs to the ubiquitin
+alpha/beta roll  superfold  and  is  similar  to  that  of  the RA domain (see
+<PDOC50200>) despite  the  lack  of  significant  sequence identity. The major
+interaction between  Ras  and Raf-1 RBD domain occurs between two antiparallel
+beta-strands: beta 2 of Ras and beta 2 of RBD [2].
+
+Some proteins known to contain a RBD domain are listed below:
+
+ - Vertebrate Raf proto-oncogene serine/threonine-protein kinase.
+ - Mammalian regulator of G-protein signalling 12 (RGS12) and 14 (RGS14).
+ - Mammalian  T-lymphoma  invasion and  metastasis inducing protein 1 (TIAM1).
+   TIAM1 modulates    the    activity    of    Rho-like  proteins and connects
+   extracellular signals to cytoskeletal activities.
+ - Mouse Sif and Tiam1-like exchange factor (STEF).
+ - Drosophila  LOCO-c1  and  LOCO-c2,  two  proteins  required  for glial cell
+   differentiation.
+ - Drosophila  Still  life proteins (SIF) type 1 and 2. They regulate synaptic
+   differentiation through  the organization of actin cytoskeleton possibly by
+   activating Rho-like GTPases.
+
+The profile we developed covers the entire RBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2003 / First entry.
+
+[ 1] Ponting C.P.
+     "Raf-like Ras/Rap-binding domains in RGS12- and still-life-like
+     signalling proteins."
+     J. Mol. Med. 77:695-698(1999).
+     PubMed=10606204
+[ 2] Nassar N., Horn G., Herrmann C., Scherer A., McCormick F.,
+     Wittinghofer A.
+     "The 2.2 A crystal structure of the Ras-binding domain of the
+     serine/threonine kinase c-Raf1 in complex with Rap1A and a GTP
+     analogue."
+     Nature 375:554-560(1995).
+     PubMed=7791872; DOI=10.1038/375554a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

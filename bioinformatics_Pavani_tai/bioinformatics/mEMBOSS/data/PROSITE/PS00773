@@ -1,0 +1,55 @@
+***********************************
+* Chitinases family 19 signatures *
+***********************************
+
+Chitinases (EC 3.2.1.14) [1] are enzymes that  catalyze the  hydrolysis of the
+beta-1,4-N-acetyl-D-glucosamine  linkages in  chitin polymers.  From  the view
+point of sequence similarity  chitinases  belong to either  family 18 or 19 in
+the classification  of  glycosyl  hydrolases  [2,E1].  Chitinases of family 19
+(also known  as  classes  IA  or  I and IB or II) are enzymes from plants that
+function in  the  defense  against  fungal  and insect pathogens by destroying
+their chitin-containing  cell wall. Class IA/I and IB/II enzymes differ in the
+presence (IA/I)  or absence (IB/II) of a N-terminal chitin-binding domain (see
+the relevant entry <PDOC00025>). The catalytic domain of these enzymes consist
+of about 220 to 230 amino acid residues.
+
+As signature patterns we selected two highly conserved regions,  the first one
+is located in the N-terminal section  and  contains  one  of the six cysteines
+which are conserved  in  most, if  not all, of  these  chitinases and which is
+probably involved in a disulfide bond.
+
+-Consensus pattern: C-x(4,5)-F-Y-[ST]-x(3)-[FY]-[LIVMF]-x-A-x(3)-[YF]-x(2)-F-
+                    [GSA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM]-[GSA]-F-x-[STAG](2)-[LIVMFY]-W-[FY]-W-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Neuhaus J.-M.; jean-marc.neuhaus@bota.unine.ch
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Flach J., Pilet P.-E., Jolles P.
+     "What's new in chitinase research?"
+     Experientia 48:701-716(1992).
+     PubMed=1516675
+[ 2] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

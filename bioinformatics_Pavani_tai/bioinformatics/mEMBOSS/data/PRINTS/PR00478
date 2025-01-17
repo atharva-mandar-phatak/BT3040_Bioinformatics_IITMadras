@@ -1,0 +1,24 @@
+PHRIBLKINASE
+Phosphoribulokinase (PRK) catalyses the ATP-dependent phosphorylation of
+ribulose-5-phosphate to ribulose-1,5-phosphate, a key step in the pentose
+phosphate pathway [1-3], where carbon dioxide is assimilated by
+autotrophic organisms [2]. In general, plant enzymes are light-activated
+by the thioredoxin/ferredoxin system, while those from photosynthetic
+bacteria are regulated by a system that has an absolute requirement for
+NADH [2]. Thioredoxin/ferredoxin regulation is mediated by the reversible
+oxidation/reduction of sulphydryl and disulphide groups. In the spinach
+enzyme (KPPR_SPIOL) [3], the participating residues are Cys-16 and Cys-55.
+Sequence analysis shows the first of these cysteines to be present in the
+ATP-binding site [3]; neither is found in the bacterial sequences.
+
+PHRIBLKINASE is a 4-element fingerprint that provides a signature for
+phosphoribulokinases. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from conserved regions spanning the
+N-terminal half of the alignment - motif 1 contains a putative ATP-binding
+site, and motif 3 includes the region encoded by PROSITE pattern
+PHOSPHORIBULOKINASE (PS00567). Two iterations on OWL27.0 were required to
+reach convergence, at which point a true set comprising 17 sequences was
+identified. A single partial match (URK_HAEIN) was also found, a uridine
+kinase that shows slight similarity to motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

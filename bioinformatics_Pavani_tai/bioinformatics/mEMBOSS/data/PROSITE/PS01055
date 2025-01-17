@@ -1,0 +1,48 @@
+***************************************
+* NAD-dependent DNA ligase signatures *
+***************************************
+
+DNA ligase (polydeoxyribonucleotide synthase) is the enzyme that joins two DNA
+fragments by catalyzing the formation of an internucleotide ester bond between
+phosphate and deoxyribose. It is active during DNA replication, DNA repair and
+DNA recombination.  There  are  two  forms  of  DNA  ligase:  one requires ATP
+(EC 6.5.1.1), the other NAD (EC 6.5.1.2).
+
+Bacterial DNA ligases are NAD-dependent.  They  are proteins of about 75 to 85
+Kd whose sequence is well conserved [1]. They also show similarity to yicF, an
+Escherichia  coli  hypothetical protein of 63 Kd.  We  developed two signature
+patterns  for this family of proteins; these signatures are based on conserved
+regions in the N-terminal half.
+
+-Consensus pattern: K-[LIVMF]-D-G-[LIVMAS]-[SAG]-x(4)-Y-x(2)-[GRD]-x-[LF]-
+                    x(4)-[ST]-R-G-[DN]-G-x(2)-G-[DE]-[DENL]
+                    [K is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [IV]-G-[KR]-[ST]-G-x-[LIVM]-[STNK]-x-[VTLYF]-x(2)-[LVMF]-
+                    x-[PS]-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Shark K.B., Conway T.
+     "Cloning and molecular characterization of the DNA ligase gene (lig)
+     from Zymomonas mobilis."
+     FEMS Microbiol. Lett. 75:19-26(1992).
+     PubMed=1526462
+[ 2] Gentry D., Bengra C., Ikehara K., Cashel M.
+     "Guanylate kinase of Escherichia coli K-12."
+     J. Biol. Chem. 268:14316-14321(1993).
+     PubMed=8390989
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

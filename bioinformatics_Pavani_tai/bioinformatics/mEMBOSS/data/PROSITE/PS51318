@@ -1,0 +1,95 @@
+****************************************************
+* Twin arginine translocation (Tat) signal profile *
+****************************************************
+
+The  twin-arginine translocation (Tat) pathway serves the role of transporting
+folded proteins across energy-transducing membranes [1]. Homologs of the genes
+that  encode the transport apparatus occur in archaea, bacteria, chloroplasts,
+and  plant mitochondria [2]. In bacteria, the Tat pathway catalyzes the export
+of  proteins  from  the  cytoplasm  across  the inner/cytoplasmic membrane. In
+chloroplasts,  the  Tat  components  are  found  in the thylakoid membrane and
+direct the import of proteins from the stroma. The Tat pathway acts separately
+from  the  general  secretory  (Sec)  pathway, which transports proteins in an
+unfolded state [3].
+
+It  is  generally  accepted  that  the  primary  role  of the Tat system is to
+translocate  fully  folded  proteins  across membranes. An example of proteins
+that need to be exported in their 3D conformation are redox proteins that have
+acquired  complex  multiatom  cofactors  in  the  bacterial  cytoplasm (or the
+chloroplast  stroma  or  mitochondrial  matrix).  They  include  hydrogenases,
+formate  dehydrogenases,  nitrate  reductases,  trimethylamine  N-oxide (TMAO)
+reductases  and dimethyl sulfoxide (DMSO) reductases [4,5]. The Tat system can
+also export whole heteroligomeric complexes in which some proteins have no Tat
+signal.  This  is  the  case  of  the  DMSO reductase or formate dehydrogenase
+complexes.  But  there  are also other cases where the physiological rationale
+for  targeting  a protein to the Tat signal is less obvious. Indeed, there are
+examples  of  homologous  proteins  that are in some cases targeted to the Tat
+pathway  and  in  other  cases to the Sec apparatus. Some examples are: copper
+nitrite    reductases,    flavin    domains    of    flavocytochrome   c   and
+N-acetylmuramoyl-L-alanine amidases [6].
+
+In  halophilic  archaea  such  as  Halobacterium  almost all secreted proteins
+appear  to  be  Tat  targeted.  It  has  been proposed to be a response to the
+difficulties  these  organisms  would  otherwise  face in successfully folding
+proteins extracellularly at high ionic strength [7].
+
+The  Tat  signal  peptide  consists  of  three  motifs: the positively charged
+N-terminal  motif,  the  hydrophobic  region  and  the  C-terminal region that
+generally  ends  with  a  consensus short motif (A-x-A) specifying cleavage by
+signal  peptidase.  Sequence analysis revealed that signal peptides capable of
+targeting the Tat protein contain the consensus sequence [ST]-R-R-x-F-L-K. The
+nearly  invariant  twin-arginine  gave rise to the pathway's name. In addition
+the h-region of Tat signal peptides is typically less hydrophobic than that of
+Sec-specific signal peptides [4,5].
+
+The  profile  we  developed  recognizes  the whole prokaryotic and archeal Tat
+signal from the methionine to the A-x-A short motif.
+
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ for 5 proteins.
+-Other sequence(s) detected in Swiss-Prot: 5.
+-Last update: May 2007 / First entry.
+
+[ 1] Wickner W., Schekman R.
+     "Protein translocation across biological membranes."
+     Science 310:1452-1456(2005).
+     PubMed=16322447; DOI=10.1126/science.1113752
+[ 2] Yen M.R., Tseng Y.H., Nguyen E.H., Wu L.F., Saier M.H. Jr.
+     "Sequence and phylogenetic analyses of the twin-arginine targeting
+     (Tat) protein export system."
+     Arch. Microbiol. 177:441-450(2002).
+     PubMed=12029389; DOI=10.1007/s00203-002-0408-4
+[ 3] Stephenson K.
+     "Sec-dependent protein translocation across biological membranes:
+     evolutionary conservation of an essential protein transport pathway
+     (review)."
+     Mol. Membr. Biol. 22:17-28(2005).
+     PubMed=16092521
+[ 4] Lee P.A., Tullman-Ercek D., Georgiou G.
+     "The bacterial twin-arginine translocation pathway."
+     Annu. Rev. Microbiol. 60:373-395(2006).
+     PubMed=16756481; DOI=10.1146/annurev.micro.60.080805.142212
+[ 5] Robinson C., Bolhuis A.
+     "Tat-dependent protein targeting in prokaryotes and chloroplasts."
+     Biochim. Biophys. Acta 1694:135-147(2004).
+     PubMed=15546663; DOI=10.1016/j.bbamcr.2004.03.010
+[ 6] Berks B.C., Palmer T., Sargent F.
+     "Protein targeting by the bacterial twin-arginine translocation (Tat)
+     pathway."
+     Curr. Opin. Microbiol. 8:174-181(2005).
+     PubMed=15802249; DOI=10.1016/j.mib.2005.02.010
+[ 7] Bolhuis A.
+     "Protein transport in the halophilic archaeon Halobacterium sp. NRC-1:
+     a major role for the twin-arginine translocation pathway?"
+     Microbiology 148:3335-3346(2002).
+     PubMed=12427925
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

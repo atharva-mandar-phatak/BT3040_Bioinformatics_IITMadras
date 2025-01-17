@@ -1,0 +1,96 @@
+*********************************************
+* Crp-type HTH domain signature and profile *
+*********************************************
+
+The  crp-type  HTH  domain  is  a  DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about 70-75 amino acids present in transcription regulators of the
+crp-fnr  family,  involved  in  the  control  of virulence factors, enzymes of
+aromatic  ring  degradation,  nitrogen  fixation,  photosynthesis, and various
+types  of  respiration.  The  crp-fnr  family is named after the first members
+identified  in  E.coli: the well characterized cyclic AMP receptor protein CRP
+or  CAP  (catabolite activator protein) and the fumarate and nitrate reductase
+regulator  Fnr.  crp-type  HTH  domain  proteins occur in most bacteria and in
+chloroplasts  of  red  algae.  The  DNA-binding  HTH  domain is located in the
+C-terminal  part;  the  N-terminal  part of the proteins of the crp-fnr family
+contains    a    nucleotide-binding    domain    (see   <PDOC00691>)   and   a
+dimerization/linker   helix   occurs   in   between.  The  crp-fnr  regulators
+predominantly  act  as  transcription  activators,  but  can also be important
+repressors,  and  respond to diverse intracellular and exogenous signals, such
+as  cAMP,  anoxia,  redox  state,  oxidative  and  nitrosative  stress, carbon
+monoxide, nitric oxide or temperature [1,2].
+
+The  structure  of the crp-type DNA-binding domain (see <PDB:1LB2>) shows that
+the  helices (H) forming the helix-turn-helix motif (H2-H3) are flanked by two
+beta-hairpin  (B)  wings,  in  the  topology  H1-B1-B2-H2-H3-B3-B4. Helix 3 is
+termed  the  recognition helix, as in most wHTHs it binds the DNA major groove
+[3,4,5].
+
+Some proteins known to contain a Crp-type HTH domain:
+
+ - Escherichia  coli  crp  (also  known  as  cAMP  receptor),  a  protein that
+   complexes   with   cAMP   and   regulates   the  transcription  of  several
+   catabolite-sensitive operons.
+ - Escherichia  coli fnr, a protein that activates genes for proteins involved
+   in a variety of anaerobic electron transport systems.
+ - Rhizobium   leguminosarum  fnrN,  a  transcription  regulator  of  nitrogen
+   fixation.
+ - Rhodobacter  sphaeroides  fnrL, a transcription activator of genes for heme
+   biosynthesis,   bacteriochlorophyll   synthesis  and  the  light-harvesting
+   complex LHII.
+ - Rhizobiacae  fixK,  a  protein that regulates nitrogen fixation genes, both
+   positively and negatively.
+ - Lactobacillus  casei  fnr-like  protein  flp, a putative regulatory protein
+   linked to the trpDCFBA operon.
+ - Cyanobacteria  ntcA,  a  regulator  of  the  expression of genes subject to
+   nitrogen control.
+ - Xanthomonas  campestris  clp,  a  protein  involved  in  the  regulation of
+   phytopathogenicity.  Clp  controls the production of extracellular enzymes,
+   xanthan gum and pigment, either positively or negatively.
+
+The  'helix-turn-helix'  DNA-binding motif of these proteins is located in the
+C-terminal  part  of the sequence. The pattern we use to detect these proteins
+starts  two residues before the HTH motif and ends two residues before the end
+of helix 3. We also developed a profile that covers the entire wHTH, including
+helix 1 and strand 4, and which allows a more sensitive detection.
+
+-Consensus pattern: [LIVM]-[STAG]-[RHNWM]-x(2)-[LIM]-[GA]-x-[LIVMFYAS]-
+                    [LIVSC]-[GA]-x-[STACN]-x(2)-[MST]-x(1,2)-[GSTN]-R-x-
+                    [LIVMF]-x(2)-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Irvine A.S., Guest J.R.
+     "Lactobacillus casei contains a member of the CRP-FNR family."
+     Nucleic Acids Res. 21:753-753(1993).
+     PubMed=8441692
+[ 2] Koerner H., Sofia H.J., Zumft W.G.
+     FEMS Microbiol. Rev. 27:559-592(2003).
+[ 3] Busby S., Ebright R.H.
+     "Transcription activation by catabolite activator protein (CAP)."
+     J. Mol. Biol. 293:199-213(1999).
+     PubMed=10550204; DOI=10.1006/jmbi.1999.3161
+[ 4] Lanzilotta W.N., Schuller D.J., Thorsteinsson M.V., Kerby R.L.,
+     Roberts G.P., Poulos T.L.
+     "Structure of the CO sensing transcription activator CooA."
+     Nat. Struct. Biol. 7:876-880(2000).
+     PubMed=11017196; DOI=10.1038/82820
+[ 5] Huffman J.L., Brennan R.G.
+     "Prokaryotic transcription regulators: more than just the
+     helix-turn-helix motif."
+     Curr. Opin. Struct. Biol. 12:98-106(2002).
+     PubMed=11839496
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

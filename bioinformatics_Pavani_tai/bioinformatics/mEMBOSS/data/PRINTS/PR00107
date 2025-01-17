@@ -1,0 +1,36 @@
+PHOSPHOCPHPR
+The phosphoenolpyruvate-dependent sugar phosphotransferase system (PTS)
+is a major carbohydrate transport system in bacteria. The PTS catalyses
+the phosphorylation of sugar substrates during their translocation across
+the cell membrane. The mechanism involves the transfer of a phosphoryl
+group from phosphoenolpyruvate (PEP) via enzyme I (EI) to enzyme II (EII)
+of the PTS system, which in turn transfers it to a phosphocarrier protein
+(HPr) [1,2].
+
+HPr is a small (79-90 amino acid) cytoplasmic protein - in certain 
+bacteria, HPr is a domain in a larger protein that includes an EIII(Fru)
+(IIA) domain, and in some cases also the EI domain. A conserved N-terminal
+His serves as an acceptor for the phosphoryl group of EI, and a centrally
+located conserved Ser (in Gram-positive bacteria only) is phosphorylated
+by an ATP-dependent protein kinase, which process may play a role in
+sugar transport. The phosphorylation sites are well conserved.
+
+The structure of HPr comprises a 4-stranded anti-parallel beta-sheet, with
+3 alpha-helices that pack against one face of the sheet, a fold known as an
+open-face beta-sandwich [2]. The topology can be described as that of a
+right-handed alpha-/beta-jelly-roll, by analogy with the beta-sandwich
+jelly-roll fold of viral coat proteins, legume lectins, and so on. The
+catalytic His and the regulatory Ser are located on the surface of the
+protein, such that they can be phosphorylated without invoking
+conformational changes.  
+
+PHOSPHOCPHPR is a 3-element fingerprint that provides a signature for HPr
+phosphocarrier proteins. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from short conserved
+regions spanning the full alignment length, motifs 1 and 2 including the
+His and Ser phosphorylation sites encoded by PROSITE patterns PTS_HPR_HIS
+(PS00369) and PTS_HPR_SER (PS00589). Two iterations on OWL25.2 were
+required to reach convergence, at which point a true set comprising 21
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 26 sequences.

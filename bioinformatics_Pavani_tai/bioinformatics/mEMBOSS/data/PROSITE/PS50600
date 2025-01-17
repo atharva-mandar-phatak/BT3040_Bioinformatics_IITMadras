@@ -1,0 +1,68 @@
+******************************************
+* Ubiquitin-like protease family profile *
+******************************************
+
+Deubiquitinating  enzymes  (DUB) form a large family of cysteine protease that
+can deconjugate ubiquitin or ubiquitin-like proteins from ubiquitin-conjugated
+proteins.  They can be classified in 3 families according to sequence homology
+[1,2]:   ubiquitin   carboxyl-terminal   hydrolases (UCH)  (see  <PDOC00127>),
+ubiquitin-specific   processing   proteases  (UBP)   (see   <PDOC00750>),  and
+ubiquitin-like proteases  (ULP)  (EC  3.4.22.68)  specific  for  deconjugating
+ubiquitin-like proteins.  In  contrast  to  the  UBP  pathway,  which  is very
+redundant (16  UBP  enzymes  in  yeast),  there is few ubiquitin-like protease
+(only one in yeast, ULP1).
+
+ULP1  catalyses  two  critical  functions  in  the  SUMO/Smt3  pathway via its
+cysteine  protease  activity.  ULP1  processes  the  Smt3  C-terminal sequence
+(-GGATY)  to  its  mature form (-GG), and it deconjugates Smt3 from the lysine
+epsilon-amino group of the target protein [3].
+
+Crystal  structure of yeast ULP1 bound to Smt3 [4] revealed that the catalytic
+and  interaction  interface  is  situated  in a shallow and narrow cleft where
+conserved  residues recognize the Gly-Gly motif at the C-terminal extremity of
+Smt3  protein.  Ulp1  adopts  a  novel  architecture  despite  some structural
+similarity  with  other cysteine protease. The secondary structure is composed
+of  seven  alpha helices and seven beta strands. The catalytic domain includes
+the  central  alpha  helix,  beta-strands  4  to  6,  and  the catalytic triad
+(Cys-His-Asp) (see <PDB:1EUV>).
+
+We  developed  a  profile directed against the C-terminal part of ULP proteins
+that displays full proteolytic activity [4].
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C48 in the classification of peptidases
+ [E1].
+
+-Last update: May 2008 / Text revised.
+
+[ 1] Chung C.H., Baek S.H.
+     "Deubiquitinating enzymes: their diversity and emerging roles."
+     Biochem. Biophys. Res. Commun. 266:633-640(1999).
+     PubMed=10603300; DOI=10.1006/bbrc.1999.1880
+[ 2] Hochstrasser M.
+     "Ubiquitin-dependent protein degradation."
+     Annu. Rev. Genet. 30:405-439(1996).
+     PubMed=8982460; DOI=10.1146/annurev.genet.30.1.405
+[ 3] Li S.J., Hochstrasser M.
+     "A new protease required for cell-cycle progression in yeast."
+     Nature 398:246-251(1999).
+     PubMed=10094048; DOI=10.1038/18457
+[ 4] Mossessova E., Lima C.D.
+     "Ulp1-SUMO crystal structure and genetic analysis reveal conserved
+     interactions and a regulatory element essential for cell growth in
+     yeast."
+     Mol. Cell 5:865-876(2000).
+     PubMed=10882122
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

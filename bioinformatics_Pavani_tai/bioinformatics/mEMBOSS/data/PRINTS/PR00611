@@ -1,0 +1,40 @@
+ERYTHCRUORIN
+Globins are haem-containing proteins involved in dioxygen binding and/or 
+transport [1,2]. Hundreds of globin sequences are known [3]. It has been 
+proposed that all globins have evolved from a family of ancestral, ~17kDa 
+haemoproteins that displayed the globin fold and functioned as redox 
+proteins [4]. The globin superfamily includes vertebrate haemoglobins (Hb); 
+vertebrate myoglobins (Mb); invertebrate globins; plant leghaemoglobins; and 
+bacterial flavohaemoglobins. 
+
+The function of haemoglobins (Hbs) is transport of dioxygen in blood plasma.
+Erythrocruorins (Ec) are extracellular Hbs found freely dissolved in the 
+blood of annelids and arthropods. Ec molecules exist as aggregates of up to
+200 small globin-like subunits, some of which are disulphide-bonded and not
+all of which contain haem [5]. Nematodes (e.g., Ascaris) possess an octa-
+meric Hb, each subunit containing two globin-like domains. Ascaris Hb binds
+oxygen four orders of magnitude more tightly than does human Hb [6]. The
+brine shrimp Artemia has evolved the longest known concatenation of globin
+domains: each subunit contains 9 globin-like domains, connected by linking
+peptides [7]. Artemia possess three types of dimeric haemoglobins: HbI
+(alpha+alpha); HbII (alpha+beta); and HbIII (beta+beta). 
+
+The 3D structures of a number of Ecs are known. The protein is largely 
+alpha-helical, eight conserved helices (A to H) providing the scaffold for 
+a well-defined haem-binding pocket. The imidazole ring of the "proximal" His 
+residue provides the fifth haem iron ligand; the other axial haem iron 
+position remains essentially free for O(2) coordination. Many Ecs lack
+the "distal" His and Val residues that are conserved in vertebrate globins.
+
+ERYTHCRUORIN is a 4-element fingerprint that provides a signature for the 
+erythrocruorins. The fingerprint was derived from an initial alignment
+of 17 sequences (both N- and C-terminal globin-like domains of GLB_ASCSU 
+and GLB_PSEDC were used to construct the alignment): motif 1 spans helices B
+and C; motif 2 corresponds to helix F, and includes the invariant proximal
+His residue; motif 3 includes helix G; and motif 4 spans helix H. Three
+iterations on OWL28.2 were required to reach convergence, at which point a
+true set comprising 62 sequences was identified. Numerous partial matches
+were also found, most of which are members of the globin superfamily.
+
+An update on SPTR37_9f identified a true set of 64 sequences, and 104
+partial matches.

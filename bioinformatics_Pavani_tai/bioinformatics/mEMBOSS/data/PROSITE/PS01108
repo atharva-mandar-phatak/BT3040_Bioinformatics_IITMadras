@@ -1,0 +1,39 @@
+***********************************
+* Ribosomal protein L24 signature *
+***********************************
+
+Ribosomal protein L24 is one of the proteins from the large ribosomal subunit.
+L24 belongs to a family  of ribosomal proteins which, on the basis of sequence
+similarities, groups:
+
+ - Eubacterial L24.
+ - Plant chloroplast L24 (nuclear-encoded).
+ - Red algal L24.
+ - Vertebrate L26.
+ - Yeast L26 (YL33).
+ - Archaebacterial HmaL24 (HL15).
+ - A probable ribosomal protein from Sulfolobus acidocaldarius [1].
+
+In their mature form, these proteins have 103 to 150 amino-acid residues. As a
+signature pattern,  we selected a conserved stretch of 20 residues in their N-
+terminal section.
+
+-Consensus pattern: [GDEN]-D-x-[IV]-x-[IV]-[LIVMA]-x-G-x(2)-[KRA]-[GNQK]-
+                    x(2,3)-[GA]-x-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the Sulfolobus sequence.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ouzounis C., Kyrpides N., Sander C.
+     Nucleic Acids Res. 23:565-570(1995).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

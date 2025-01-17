@@ -1,0 +1,52 @@
+*****************************************
+* glpT family of transporters signature *
+*****************************************
+
+The following  proteins  involved in the uptake of phosphorylated metabolites,
+are evolutionary related [1,2]:
+
+ - Escherichia coli,  Bacillus subtilis and Haemophilus influenzae glycerol-3-
+   phosphate transporter (gene glpT).
+ - Salmonella typhimurium phosphoglycerate transporter (gene pgtP).
+ - Escherichia coli and  Salmonella typhimurium hexose-6-phosphate transporter
+   (gene uhpT).
+ - Escherichia coli and Salmonella typhimurium protein uhpC. UhpC is necessary
+   for the expression of uhpT and seems to  act  jointly with the uhpB sensor/
+   kinase protein.
+ - Human glucose 6-phosphate translocase [3].
+
+These proteins of about 50 Kd apparently contain  12 transmembrane regions. As
+a signature pattern we selected a conserved region in their central section.
+
+-Consensus pattern: [QEK]-[RF]-G-x(3)-[GSA]-[LIVF]-[WL]-[NS]-x-[SA]-[HM]-N-
+                    [LIV]-[GA]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Goldrick D., Yu G.-Q., Jiang S.-Q., Hong J.S.
+     "Nucleotide sequence and transcription start point of the
+     phosphoglycerate transporter gene of Salmonella typhimurium."
+     J. Bacteriol. 170:3421-3426(1988).
+     PubMed=3042749
+[ 2] Marger M.D., Saier M.H. Jr.
+     "A major superfamily of transmembrane facilitators that catalyse
+     uniport, symport and antiport."
+     Trends Biochem. Sci. 18:13-20(1993).
+     PubMed=8438231
+[ 3] Gerin I., Veiga-da-Cunha M., Achouri Y., Collet J.-F.,
+     Van Schaftingen E.
+     "Sequence of a putative glucose 6-phosphate translocase, mutated in
+     glycogen storage disease type Ib."
+     FEBS Lett. 419:235-238(1997).
+     PubMed=9428641
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

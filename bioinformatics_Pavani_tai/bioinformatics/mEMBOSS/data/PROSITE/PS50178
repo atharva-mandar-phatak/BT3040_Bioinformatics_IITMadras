@@ -1,0 +1,128 @@
+**********************************************
+* Zinc finger FYVE/FYVE-related type profile *
+**********************************************
+
+The FYVE  domain  has  been  named  after  the  first letter of the first four
+proteins in  which it was found (Fab1, YOTB/ZK632.12, Vac1, and EEA1). It is a
+cysteine-rich domain  of  about 70 amino acids that coordinates two Zn2+ ions.
+The FYVE  domain  is found in several eukaryotic non-nuclear proteins involved
+in distinct   cellular   functions,   including   vesicle   transport,  signal
+transduction and  cytoskeletal regulation. FYVE domains are generally found in
+one copy  but  two  copies  can  also  be  found. Positions of FYVE domains in
+different proteins vary from the extreme N-terminus to the extreme C-terminus.
+FYVE domains  are  found  associated  with  other  domains  such  as  IQ  (see
+<PDOC50096>), PH  (see  <PDOC50003>),  VHS,  RCC,  SH2 (see <PDOC50001>), RING
+finger (see  <PDOC00449>)  or  C2H2 zinc finger (see <PDOC00028>) [1,2,3]. The
+function of  the  FYVE domain is to target signal-transducing proteins to cell
+membranes through   binding  to  the  membrane  lipid  phosphatidylinositol-3-
+phosphate (PtdIns(3)P) with high specificity [4,5].
+
+The FYVE  domain  has eight conserved cysteines, which coordinate the two Zn2+
+ions in  a  'cross-braced'  topology: the first Zn2+ ion is coordinated by the
+first and  third  pairs of cysteines, and the second ion is coordinated by the
+second and  fourth  pairs. In addition, the FYVE domain contains several other
+conserved residues,   most  prominently  a  basic  R-[RK]-H-H-C-R-x-C-G  motif
+surrounding the  third and fourth cysteine residues. Several hydrophobic amino
+acid positions  are  also  conserved among the FYVE fingers, as is an isolated
+arginine residue  towards  the C-terminus [2,6]. Resolution of the crystal and
+solution structures  of  the  FYVE  domain  has  shown that it consists of two
+double-stranded antiparallel beta-sheets, which are stabilized by the two zinc
+ions and  a  C-terminal  alpha-helix. The conserved R-[RK]-H-H-C-R-x-C-G motif
+and the  conserved  arginine  residue  form  a  basic  pocket  involved in the
+inositol head group binding [6,7].
+
+The FYVE-related  domain  is  found  in several proteins involved in regulated
+secretion, such  as  Rabphilin-3A and Rim. Although the structure of the FYVE-
+related domain  is  closely related to the one of the genuine FYVE domain, the
+FYVE-related domain lacks several of the conserved feature of the FYVE domain,
+like the  basic R-[RK]-H-H-C-R-x-C-G motif, and it does not bind to PtdIns(3)P
+[2,4,6].
+
+Some proteins  known  to  contain  a  FYVE or a FYVE-related domain are listed
+below:
+
+ - Animal   Hrs,   an   hepatocyte  growth  factor-regulated  tyrosine  kinase
+   substrate. Hrs  is  localised  to early endosomes in a manner that requires
+   phosphoinositide 3-kinase (PI 3-kinase) activity.
+ - Animal Smad anchor for receptor activation (SARA), an important mediator of
+   transforming growth  factor  beta  (TGF-beta) signalling. It is responsible
+   for the  recruitment  of  Smad2  and  Smad3  to  the TGF-beta receptor upon
+   receptor stimulation.
+ - Mammalian Fgd1, a protein implicated in cytoskeletal regulation. It acts as
+   a guanine  nucleotide  exchange  factor for Cdc42, a Rho-family GTPase that
+   controls the  submembraneous actin cytoskeleton. In human, mutations in the
+   gene coding   for   the  Fgd1  protein  are  associated  with  faciogenital
+   dysplasia, an   X-linked   autosomal   disease  primarily  associated  with
+   skeletal, facial and genital anomalies.
+ - Mammalian  early endosome antigen 1 (EEA1), which fuses endosome and relies
+   on its   FYVE  domain  for  specific  localization  to  PtdIns(3)P-enriched
+   membranes and for recruiting regulatory Rab5 and syntaxin proteins.
+ - Human Rabenosyn-5, a rab5 effector that is localized to early endosomes and
+   required for endosome fusion.
+ - Caenorhabditis elegans hypothetical protein ZK632.12.
+ - Yeast  VAC1  protein.  It  is  required for vacuole segregation and vacuole
+   protein sorting.  Possibly  part  of  a  complex  which tethers the vacuole
+   membrane to  microtubules,  either  directly  or via kinesin or dynein-like
+   motor proteins.   Probably  functions  in  several  interorganelle  traffic
+   pathways.
+ - Yeast vacuolar protein sorting-associated protein VPS27. It is required for
+   membrane traffic to the vacuole.
+ - Yeast   FAB1   protein,  a  PI  5-kinase  that  converts  PtdIns(3)-P  into
+   PtdIns(3,5)P2. It   is   implicated  in  the  formation  of  multivesicular
+   endosome.
+
+ - Animal  rabphilin-3A,  an  effector  of  the  Rab3A GTPase. Activated Rab3A
+   reversibly recruits rabphilin-3A to synaptic vesicles.
+ - Mammalian  proteins  of  the  Rim  family.  They are effectors of the Rab3A
+   GTPase. Rim  proteins have sequence similarity to rabphilin-3A but localize
+   to the  active  zone  of  the  presynaptic  plasma  membrane  instead of to
+   synaptic vesicles.
+
+The profile we developed covers the entire FYVE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Stenmark H., Aasland R., Toh B.-H., D'Arrigo A.
+     "Endosomal localization of the autoantigen EEA1 is mediated by a
+     zinc-binding FYVE finger."
+     J. Biol. Chem. 271:24048-24054(1996).
+     PubMed=8798641
+[ 2] Stenmark H., Aasland R.
+     "FYVE-finger proteins--effectors of an inositol lipid."
+     J. Cell Sci. 112:4175-4183(1999).
+     PubMed=10564636
+[ 3] Gillooly D.J., Simonsen A., Stenmark H.
+     "Cellular functions of phosphatidylinositol 3-phosphate and FYVE
+     domain proteins."
+     Biochem. J. 355:249-258(2001).
+     PubMed=11284710
+[ 4] Gaullier J.-M., Simonsen A., D'Arrigo A., Bremnes B., Stenmark H.,
+     Aasland R.
+     "FYVE fingers bind PtdIns(3)P."
+     Nature 394:432-433(1998).
+     PubMed=9697764; DOI=10.1038/28767
+[ 5] Patki V., Lawe D.C., Corvera S., Virbasius J.V., Chawla A.
+     "A functional PtdIns(3)P-binding motif."
+     Nature 394:433-434(1998).
+     PubMed=9697765; DOI=10.1038/28771
+[ 6] Misra S., Hurley J.H.
+     "Crystal structure of a phosphatidylinositol 3-phosphate-specific
+     membrane-targeting motif, the FYVE domain of Vps27p."
+     Cell 97:657-666(1999).
+     PubMed=10367894
+[ 7] Kutateladze T., Overduin M.
+     "Structural mechanism of endosome docking by the FYVE domain."
+     Science 291:1793-1796(2001).
+     PubMed=11230696; DOI=10.1126/science.291.5509.1793;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

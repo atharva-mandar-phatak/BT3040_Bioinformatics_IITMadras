@@ -1,0 +1,21 @@
+POTXCARLCOAT
+Potex viruses are encapsidated, single-stranded RNA plant viruses. The
+group includes papaya mosaic virus [1], potato virus X [2] and lily virus
+X [3]. Sequence comparison of potexvirus coat proteins with those of
+carlaviruses (e.g., lily symptomless virus [3]) show considerable
+similarity. The most highly conserved region of potex and carlavirus coat
+proteins lies around the middle third of the sequences: this is a
+relatively aromatic- and proline-rich region and contains a single
+conserved cysteine residue.
+
+POTXCARLCOAT is a 4-element fingerprint that provides a signature for the
+potex virus coat protein. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+within the middle third of the alignment, motifs 3 and 4 spanning the
+region encoded by PROSITE pattern POTEX_CARLAVIRUS_COAT (PS00418). Three
+iterations on OWL23.2 were required to reach convergence, at which point a
+true set comprising 38 sequences was identified. Several partial matches
+were also found, all of which are family members.
+
+An update on SPTR37_9f identified a true set of 84 sequences, and 10
+partial matches.

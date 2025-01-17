@@ -1,0 +1,72 @@
+***************************************************************************
+* Immunoglobulins and major histocompatibility complex proteins signature *
+***************************************************************************
+
+The basic structure  of immunoglobulin (Ig) [1] molecules is a tetramer of two
+light chains  and two heavy chains linked  by disulfide  bonds.  There are two
+types of  light chains:  kappa and lambda,  each composed of a constant domain
+(CL) and a variable domain (VL).  There are five types of heavy chains: alpha,
+delta, epsilon,  gamma  and  mu,  all consisting of a variable domain (VH) and
+three (in alpha,  delta  and  gamma)  or  four (in  epsilon and  mu)  constant
+domains (CH1 to CH4).
+
+The major histocompatibility complex  (MHC) molecules  are made of two chains.
+In class I [2] the alpha  chain is composed of three  extracellular domains, a
+transmembrane   region   and a   cytoplasmic tail.   The  beta  chain (beta-2-
+microglobulin) is  composed of a single extracellular domain. In class II [3],
+both the  alpha and the beta chains are composed of two extracellular domains,
+a transmembrane region and a cytoplasmic tail.
+
+It is  known  [4,5]    that  the  Ig  constant  chain  domains  and   a single
+extracellular   domain   in each  type  of  MHC   chains are related.    These
+homologous domains  are  approximately    one    hundred amino  acids long and
+include a conserved intradomain disulfide bond.  We developed  a small pattern
+around the C-terminal cysteine involved  in  this  disulfide bond which can be
+used to detect these category of Ig related proteins.
+
+-Consensus pattern: [FY]-{L}-C-{PGAD}-[VA]-{LC}-H
+                    [The C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern:
+ Ig heavy chains type Alpha C region  : All, in CH2 and CH3.
+ Ig heavy chains type Delta C region  : All, in CH3.
+ Ig heavy chains type Epsilon C region: All, in CH1, CH3 and CH4.
+ Ig heavy chains type Gamma C region  : All, in CH3 and also CH1 in some cases
+ Ig heavy chains type Mu C region     : All, in CH2, CH3 and CH4.
+ Ig light chains type Kappa C region  : In all CL except rabbit and Xenopus.
+ Ig light chains type Lambda C region : In all CL except rabbit.
+ MHC class I alpha chains : All,  in   alpha-3  domains,   including   in  the
+ cytomegalovirus MHC-1 homologous protein [6].
+ Beta-2-microglobulin     : All.
+ MHC class II alpha chains: All, in alpha-2 domains.
+ MHC class II beta  chains: All, in beta-2 domains.
+-Other sequence(s) detected in Swiss-Prot: 89.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gough N.
+     Trends Biochem. Sci. 6:203-205(1981).
+[ 2] Klein J., Figueroa F.
+     Immunol. Today 7:41-44(1986).
+[ 3] Figueroa F., Klein J.
+     Immunol. Today 7:78-81(1986).
+[ 4] Orr H.T., Lancet D., Robb R.J., Lopez de Castro J.A., Strominger J.L.
+     "The heavy chain of human histocompatibility antigen HLA-B7 contains
+     an immunoglobulin-like region."
+     Nature 282:266-270(1979).
+     PubMed=388231
+[ 5] Cushley W., Owen M.J.
+     Immunol. Today 4:88-92(1983).
+[ 6] Beck S., Barrell B.G.
+     "Human cytomegalovirus encodes a glycoprotein homologous to MHC
+     class-I antigens."
+     Nature 331:269-272(1988).
+     PubMed=2827039; DOI=10.1038/331269a0;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

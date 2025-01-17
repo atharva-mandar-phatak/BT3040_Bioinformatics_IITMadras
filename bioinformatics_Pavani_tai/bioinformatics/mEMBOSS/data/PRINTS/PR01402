@@ -1,0 +1,27 @@
+MUTATORMUTX
+MutT is a small bacterial protein (~12-15kDa) involved in the GO system [1]
+responsible for removing an oxidatively damaged form of guanine (8-hydroxy-
+guanine or 7,8-dihydro-8-oxoguanine) from the nucleotide pool. 8-oxo-dGTP
+is inserted opposite dA and dC residues of template DNA with near equal
+efficiency, leading to A.T to G.C transversions. MutT degrades 8-oxo-dGTP 
+to the monophosphate, with the concomitant release of pyrophosphate. A short
+conserved N-terminal region of mutT (designated the MutT domain) is also
+found in a variety of other prokaryotic, viral, and eukaryotic proteins
+[2-5]. Recently, the generic name 'NUDIX hydrolases' (NUcleoside DIphosphate
+linked to some other moeity X) has been coined for this domain family [6].
+
+MutX is a 17kDa protein that shares some similarity with Escherichia coli 
+MutT. Like MutT, the pure MutX protein hydrolyses all canonical nucleoside 
+triphosphates at different rates, with a preference for dGTP, yielding 
+nucleoside monophosphates and inorganic pyrophosphate [7]. Despite the
+similarity in enzymatic activity, the two proteins have distinct primary
+and quaternary structures [7]. Their sequences share only a small region 
+of similarity (the MutT domain), and under the same conditions in which 
+MutT exists as a monomer in solution, MutX behaves as a trimer [7]. 
+
+MUTATORMUTX is a 6-element fingerprint that provides a signature for mutator
+MutX proteins. The fingerprint was derived from an initial alignment of 2
+sequences: the motifs were drawn from short conserved regions N- and 
+C-terminal to the MutT domain. A single iteration on SPTR37_10f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set.

@@ -1,0 +1,29 @@
+CASNKINASEII
+Casein kinase, a ubiquitous, well-conserved protein kinase involved in
+cell metabolism and differentiation [1,2], is characterised by its 
+preference for Ser or Thr in acidic stretches of amino acids [1,2]. The
+enzyme is a tetramer of 2 alpha- and 2 beta-subunits [1,2]. However, some
+species (e.g., mammals) possess 2 related forms of the alpha-subunit (alpha
+and alpha'), while others (e.g., fungi) possess 2 related beta-subunits
+(beta and beta') [3]. 
+
+The alpha-subunit is the catalytic unit and contains regions characteristic
+of serine/threonine protein kinases [1,2]. The beta-subunit is believed to
+be regulatory, possessing an N-terminal auto-phosphorylation site, an
+internal acidic domain, and a potential metal-binding motif [3]. The
+mammalian beta-subunit gene promoter shares common features with those of
+other mammalian protein kinases and is closely related to the promoter of
+the regulatory subunit of cAMP-dependent protein kinase [3].
+
+CASNKINASEII is a 6-element fingerprint that provides a signature for
+the casein kinase II regulatory subunit. The fingerprint was derived from 
+an initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, motifs 4 and 5
+including the region encoded by PROSITE pattern CK2_BETA (PS01101), a
+Cys-rich region that may be involved in binding a metal ion such as zinc.
+Two iterations on OWL27.0 were required to reach convergence, at which point
+a true set comprising 15 sequences was identified. A single partial match
+(DROSUSTEB) was also found, a Drosophila stellate supressor protein fragment
+lacking the portion of sequence bearing the last 3 motifs.
+
+An update on SPTR37_9f identified a true set of 16 sequences.

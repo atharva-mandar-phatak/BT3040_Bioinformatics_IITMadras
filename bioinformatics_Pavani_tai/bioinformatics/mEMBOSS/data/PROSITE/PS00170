@@ -1,0 +1,90 @@
+****************************************************************************
+* Cyclophilin-type peptidyl-prolyl cis-trans isomerase signature & profile *
+****************************************************************************
+
+Cyclophilin [1] is  the  major high-affinity  binding  protein  in vertebrates
+for  the immunosuppressive  drug  cyclosporin A (CSA). It exhibits a peptidyl-
+prolyl cis-trans  isomerase activity (EC 5.2.1.8) (PPIase or rotamase). PPIase
+is an  enzyme  that  accelerates protein folding by catalyzing  the  cis-trans
+isomerization  of proline    imidic  peptide bonds in oligopeptides [2]. It is
+probable that  CSA  mediates  some  of its effects via an inhibitory action on
+PPIase.  Cyclophilin  is a cytosolic protein which belongs to a family [3,4,5]
+that also includes the following isozymes:
+
+ - Cyclophilin B  (or S-cyclophilin),  a  PPIase   which  is  retained  in  an
+   endoplasmic reticulum compartment.
+ - Cyclophilin C, a cytoplasmic PPiase.
+ - Mitochondrial matrix cyclophilin (cyp3).
+ - A  PPIase  which  seems  specific  for  the  folding of rhodopsin and is an
+   integral membrane  protein  anchored  by a C-terminal transmembrane region.
+   This protein was first characterized in Drosophila (gene ninaA).
+ - Bacterial periplasmic PPiase (gene ppiA).
+ - Bacterial cytosolic PPiase (gene ppiB).
+ - Natural-killer cell  cyclophilin-related protein. This large protein (about
+   160 Kd) is a component of a putative tumor-recognition  complex involved in
+   the function of NK cells. It contains a cyclophilin-type PPiase domain.
+ - Mammalian  nucleoporin Nup358 [6], a nuclear pore complex protein of 358 Kd
+   that contains a C-terminal cyclophilin-type PPiase domain.
+ - Yeast hypothetical protein YJR032w.
+ - Fission yeast hypothetical protein SpAC21E11.05c.
+ - Caenorhabditis elegans hypothetical protein T27D1.1.
+
+The sequences of  the  different  forms  of cyclophilin-type  PPIases are well
+conserved.  As  a signature pattern, we  selected  a  conserved region  in the
+central part of these enzymes.
+
+-Consensus pattern: [FY]-x(2)-[STCNLVA]-x-[FV]-H-[RH]-[LIVMNS]-[LIVM]-x(2)-F-
+                    [LIVM]-x-Q-[AGFT]-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 7 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: FKBP's,  a  family  of  proteins  that  bind the immunosuppressive drug
+ FK506, are also PPIases,  but their sequence is not at all related to that of
+ cyclophilin (see <PDOC00426>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Stamnes M.A., Rutherford S.L., Zuker C.S.
+     "Cyclophilins: a new family of proteins involved in intracellular
+     folding."
+     Trends Cell Biol. 2:272-276(1992).
+     PubMed=14731520
+[ 2] Fischer G., Schmid F.X.
+     "The mechanism of protein folding. Implications of in vitro refolding
+     models for de novo protein folding and translocation in the cell."
+     Biochemistry 29:2205-2212(1990).
+     PubMed=2186809
+[ 3] Trandinh C.C., Pao G.M., Saier M.H. Jr.
+     "Structural and evolutionary relationships among the immunophilins:
+     two ubiquitous families of peptidyl-prolyl cis-trans isomerases."
+     FASEB J. 6:3410-3420(1992).
+     PubMed=1464374
+[ 4] Galat A.
+     "Peptidylproline cis-trans-isomerases: immunophilins."
+     Eur. J. Biochem. 216:689-707(1993).
+     PubMed=8404888
+[ 5] Hacker J., Fischer G.
+     "Immunophilins: structure-function relationship and possible role in
+     microbial pathogenicity."
+     Mol. Microbiol. 10:445-456(1993).
+     PubMed=7526121
+[ 6] Wu J., Matunis M.J., Kraemer D., Blobel G., Coutavas E.
+     "Nup358, a cytoplasmically exposed nucleoporin with peptide repeats,
+     Ran-GTP binding sites, zinc fingers, a cyclophilin A homologous
+     domain, and a leucine-rich region."
+     J. Biol. Chem. 270:14209-14213(1995).
+     PubMed=7775481
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

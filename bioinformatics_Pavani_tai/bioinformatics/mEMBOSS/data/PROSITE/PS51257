@@ -1,0 +1,90 @@
+******************************************************************
+* Prokaryotic membrane lipoprotein lipid attachment site profile *
+******************************************************************
+
+In prokaryotes, membrane lipoproteins are synthesized  with a precursor signal
+peptide, which is cleaved  by  a specific lipoprotein signal peptidase (signal
+peptidase II). The peptidase recognizes a conserved sequence and cuts upstream
+of a cysteine residue  to which a  glyceride-fatty acid lipid is attached [1].
+Some of  the  proteins known to undergo such processing currently include (for
+recent listings see [1,2,3]):
+
+ - Major outer membrane lipoprotein (murein-lipoproteins) (gene lpp).
+ - Escherichia coli lipoprotein-28 (gene nlpA).
+ - Escherichia coli lipoprotein-34 (gene nlpB).
+ - Escherichia coli lipoprotein nlpC.
+ - Escherichia coli lipoprotein nlpD.
+ - Escherichia coli osmotically inducible lipoprotein B (gene osmB).
+ - Escherichia coli osmotically inducible lipoprotein E (gene osmE).
+ - Escherichia coli peptidoglycan-associated lipoprotein (gene pal).
+ - Escherichia coli rare lipoproteins A and B (genes rplA and rplB).
+ - Escherichia coli copper homeostasis protein cutF (or nlpE).
+ - Escherichia coli plasmids traT proteins.
+ - Escherichia coli Col plasmids lysis proteins.
+ - A number of Bacillus beta-lactamases.
+ - Bacillus subtilis periplasmic oligopeptide-binding protein (gene oppA).
+ - Borrelia burgdorferi outer surface proteins A and B (genes ospA and ospB).
+ - Borrelia hermsii variable major protein 21 (gene vmp21) and 7 (gene vmp7).
+ - Chlamydia trachomatis outer membrane protein 3 (gene omp3).
+ - Fibrobacter succinogenes endoglucanase cel-3.
+ - Haemophilus influenzae proteins Pal and Pcp.
+ - Klebsiella pullulunase (gene pulA).
+ - Klebsiella pullulunase secretion protein pulS.
+ - Mycoplasma hyorhinis protein p37.
+ - Mycoplasma hyorhinis variant surface antigens A, B, and C (genes vlpABC).
+ - Neisseria outer membrane protein H.8.
+ - Pseudomonas aeruginosa lipopeptide (gene lppL).
+ - Pseudomonas solanacearum endoglucanase egl.
+ - Rhodopseudomonas viridis reaction center cytochrome subunit (gene cytC).
+ - Rickettsia 17 Kd antigen.
+ - Shigella flexneri invasion plasmid proteins mxiJ and mxiM.
+ - Streptococcus pneumoniae oligopeptide transport protein A (gene amiA).
+ - Treponema pallidium 34 Kd antigen.
+ - Treponema pallidium membrane protein A (gene tmpA).
+ - Vibrio harveyi chitobiase (gene chb).
+ - Yersinia virulence plasmid protein yscJ.
+
+ - Halocyanin from Natrobacterium pharaonis [4], a membrane associated copper-
+   binding protein.  This  is  the  first archaebacterial  protein known to be
+   modified in such a fashion).
+
+From  the precursor sequences of all these proteins, we derived a profile that
+starts   at   the   beginning   of   the   sequence   and   ends   after   the
+post-translationally modified cysteine.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: some 100 prokaryotic proteins. Some
+ of them are not membrane lipoproteins, but at least half of them could be.
+
+-Note:  This profile replace an obsolete rule. All the information in the rule
+ has been encoded in the profile format.
+
+-Last update: October 2006 / Text revised; profiles added; rule deleted.
+
+[ 1] Hayashi S., Wu H.C.
+     "Lipoproteins in bacteria."
+     J. Bioenerg. Biomembr. 22:451-471(1990).
+     PubMed=2202727
+[ 2] Klein P., Somorjai R.L., Lau P.C.K.
+     "Distinctive properties of signal sequences from bacterial
+     lipoproteins."
+     Protein Eng. 2:15-20(1988).
+     PubMed=3253732
+[ 3] von Heijne G.
+     Protein Eng. 2:531-534(1989).
+[ 4] Mattar S., Scharf B., Kent S.B.H., Rodewald K., Oesterhelt D.,
+     Engelhard M.
+     "The primary structure of halocyanin, an archaeal blue copper protein,
+     predicts a lipid anchor for membrane fixation."
+     J. Biol. Chem. 269:14939-14945(1994).
+     PubMed=8195126
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

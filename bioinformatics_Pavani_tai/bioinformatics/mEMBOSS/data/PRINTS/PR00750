@@ -1,0 +1,42 @@
+BETAAMYLASE
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt).
+
+Family 14 encompasses the beta-amylases [5]. These are bacterial or plant
+enzymes that hydrolyse 1,4-alpha-glucosidic linkages in starch-type 
+polysaccharides, removing successive maltose units from the non-reducing
+ends of the chains. 
+
+The 3D structure of a complex of soybean beta-amylase with an inhibitor 
+(alpha-cyclodextrin) has been determined to 3.0A resolution by X-ray
+diffraction [6]. The enzyme folds into large and small domains: the large
+domain has a (beta alpha)8 super-secondary structural core, while the smaller
+is formed from two long loops extending from the beta-3 and beta-4 strands
+of the (beta alpha)8 fold [6]. The interface of the two domains, together
+with shorter loops from the (beta alpha)8 core, form a deep cleft, in which 
+the inhibitor binds [6]. Two maltose molecules also bind in the cleft,
+one sharing a binding site with alpha-cyclodextrin, and the other sitting
+more deeply in the cleft [6].
+
+BETAAMYLASE is a 9-element fingerprint that provides a signature for 
+beta-amylases. The fingerprint was derived from an initial alignment of
+7 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motif 1 spans beta-strand 2 and the
+third alpha-helix; motif 2 encodes helix 4; motif 3 spans the C-terminus of
+strand 3, together with strands 4 and 5, and includes the region encoded by
+PROSITE patterns BETA_AMYLASE_1 (PS00506), which contains a catalytically-
+important aspartate [5]; motif 4 spans helices 10 and 11, and includes the
+the region encoded by PROSITE patterns BETA_AMYLASE_2 (PS00679), which
+contains a catalytically-important glutamate [2]; motif 5 spans helix 14 and
+the N-terminus of helix 15; motifs 6 and 7 include strand 9 and helix 16
+respectively; motif 8 spans helix 17 and strand 10; and motif 9 includes
+helix 20 and strand 11. Two iterations on OWL29.3 were required to reach
+convergence, at which point a true set comprising 21 sequences was
+identified. A single partial match was found, AMYB_SECCE, a beta-amylase
+fragment that matches the final 3 motifs.
+
+An update on SPTR37_9f identified a true set of 20 sequences.

@@ -1,0 +1,40 @@
+******************************
+* Kinesin light chain repeat *
+******************************
+
+Kinesin [1]  is a microtubule-associated force-producing protein that may play
+a role  in  organelle  transport. Kinesin is an oligomeric complex composed of
+two heavy  chains  and  two light chains. The light chain has been proposed to
+function in  the  coupling of cargo to the heavy chain or in the modulation of
+its ATPase activity [2]. It is a well conserved protein which is composed of a
+core that  consist of a coiled-coil domain followed  by  four imperfect tandem
+repeats of  a  42  residue  domain. The N- and C-termini are more variable and
+alternative splicing is responsible for the production of isoforms that differ
+in those two regions.
+
+We developed a signature pattern that span the complete length of the repeated
+segment.
+
+-Consensus pattern: [DEQR]-A-L-x(3)-[GEQ]-x(3)-G-x-[DNS]-x-P-x-V-A-x(3)-N-x-L-
+                    [AS]-x(5)-[QR]-x-[KR]-[FY]-x(2)-[AV]-x(4)-[HKNQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / First entry.
+
+[ 1] Bloom G.S., Endow S.A.
+     Protein Prof. 2:1109-1171(1995).
+[ 2] Gauger A.K., Goldstein L.S.
+     "The Drosophila kinesin light chain. Primary structure and interaction
+     with kinesin heavy chain."
+     J. Biol. Chem. 268:13657-13666(1993).
+     PubMed=8514798
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

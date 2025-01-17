@@ -1,0 +1,43 @@
+**********************************
+* Peptidase family U32 signature *
+**********************************
+
+Porphyromonas gingivalis  collagenase  (gene  prtC)  [1]  is  an  enzyme  that
+degrades type  I  collagen and that seems to require a metal cofactor. PrtC is
+evolutionary related to a number of uncharacterized proteins:
+
+ - Escherichia coli hypothetical protein ydcP.
+ - Escherichia coli  hypothetical protein yegQ, and HI0419,  the corresponding
+   Haemophilus influenzae protein.
+ - Escherichia coli hypothetical protein yhbU.
+ - Helicobacter pylori hypothetical protein HP0169.
+ - Methanococcus jannaschii hypothetical protein MJ0090.
+
+A well conserved region containing two cysteines can be used as a signature
+pattern for these proteins.
+
+-Consensus pattern: E-x-F-x(2)-G-[SA]-[LIVM]-C-x(4)-G-x-C-x-[LIVM]-S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family U32 in the classification of peptidases
+ [E1].
+
+-Last update: November 1997 / First entry.
+
+[ 1] Kato T., Takahashi N., Kuramitsu H.K.
+     "Sequence analysis and characterization of the Porphyromonas
+     gingivalis prtC gene, which expresses a novel collagenase activity."
+     J. Bacteriol. 174:3889-3895(1992).
+     PubMed=1317840
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,61 @@
+**************************************************************
+* Large T-antigen (T-ag) origin-binding domain (OBD) profile *
+**************************************************************
+
+The group  of  polyomaviruses is formed by the homonymous murine virus (Py) as
+well as  other  representative  members such as the simian virus 40 (SV40) and
+the human BK and JC viruses [1]. Their large T antigen (T-ag) protein binds to
+and activates  DNA  replication  from  the  origine  of DNA replication (ori).
+Insofar as  is  known,  the T-ag binds to the origin first as a monomer to its
+pentanucleotide recognition element. The monomers are then thought to assemble
+into hexamers and double hexamers, which constitute the form that is active in
+initiation of  DNA  replication.  When  bound to the ori, T-ag double hexamers
+encircle DNA  [2]. T-ag is a multidomain protein that contains an N-terminal J
+domain (see  <PDOC00553>),  a  central  origin-binding  domain (OBD), and a C-
+terminal superfamily 3 helicase domain (see <PDOC51206>) [3].
+
+The overall  fold  of  the ~130-residue T-ag OBD can be described as a central
+five-stranded antiparallel beta-sheet flanked by two alpha-helices on one side
+and one  alpha-helix  and  one 3(10)-helix on the other (see <PDB:1TBD>). Both
+faces of the central beta-sheet are largely hydrophobic and are protected from
+solvent by  the  helices, thus forming two hydrophobic cores [4]. The T-ag OBD
+molecules are  arranged  as  a spiral with a left-handed twist having six T-ag
+OBD's per  turn.  The  spiral  surrounds  a central channel, the inner wall of
+which consists of alpha helices [4].
+
+The profile we developed covers the entire T-ag OBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2007 / Profile revised.
+
+[ 1] Iacoangeli A., Melucci-Vigo G., Risuleo G., Santi E.
+     "Role of mouse polyomavirus late region in the control of viral DNA
+     replication: a review."
+     Biochimie 77:780-786(1995).
+     PubMed=8824775
+[ 2] Bochkareva E., Martynowski D., Seitova A., Bochkarev A.
+     "Structure of the origin-binding domain of simian virus 40 large T
+     antigen bound to DNA."
+     EMBO J. 25:5961-5969(2006).
+     PubMed=17139255; DOI=10.1038/sj.emboj.7601452
+[ 3] Meinke G., Bullock P.A., Bohm A.
+     "Crystal structure of the simian virus 40 large T-antigen
+     origin-binding domain."
+     J. Virol. 80:4304-4312(2006).
+     PubMed=16611889; DOI=10.1128/JVI.80.9.4304-4312.2006
+[ 4] Luo X., Sanford D.G., Bullock P.A., Bachovchin W.W.
+     "Solution structure of the origin DNA-binding domain of SV40
+     T-antigen."
+     Nat. Struct. Biol. 3:1034-1039(1996).
+     PubMed=8946857
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

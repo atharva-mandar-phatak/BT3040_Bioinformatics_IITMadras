@@ -1,0 +1,30 @@
+OTXHOMEOBOX
+Otx proteins constitute a class of vertebrate homeodomain-containing
+transcription factors that have been shown to be essential for anterior
+head formation, including brain morphogenesis. They are orthologous to the
+product of the Drosophila head gap gene, orthodenticle (Otd), and appear to
+play similar roles in both, since the developmental abnormalities caused by
+disruption of these transcription factors in one, can be recovered by
+substitution of the factor(s) from the other. Such studies have provided
+strong evidence that there exists a conserved genetic programme for insect
+and mammalian brain development, which presumably arose in a more primitive
+common ancestor [1,2].
+
+Two vertebrate orthodenticle-related transcription factors have been
+indentified, Otx1 and Otx2, which have sizes of 355 and 289 residues
+respectively. They contain a bicoid-like homeodomain, which features a
+conserved lysine residue at position 9 of the DNA recognition helix, which
+is thought to confer high-affinity binding to TAATCC/T elements on DNA [3].
+Otd-like transcription factors have also been found in zebrafish and 
+certain lamprey species.
+
+OTXHOMEOBOX is a 4-element fingerprint that provides a signature for Otx
+transcription factors. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 enocodes the first
+10 residues of the N-terminus (prior to the homeobox DNA-binding domain);
+and motifs 2-4 encode short stretches (7-9 residues) of the C-terminal half
+of the sequence alignment. Two iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 10 sequences was
+identified. A single partial match was also found, Q9YHDO, a sea lamprey 
+Otx protein that matches motifs 1 and 4.

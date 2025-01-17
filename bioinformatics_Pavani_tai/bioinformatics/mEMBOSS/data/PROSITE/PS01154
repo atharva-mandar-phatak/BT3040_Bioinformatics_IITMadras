@@ -1,0 +1,47 @@
+******************************************************
+* RNA polymerases L / 13 to 16 Kd subunits signature *
+******************************************************
+
+In eukaryotes,   there   are   three  different  forms  of  DNA-dependent  RNA
+polymerases (EC 2.7.7.6)  transcribing  different sets of genes. Each class of
+RNA polymerase  is  an assemblage of ten to twelve different polypeptides.  In
+archaebacteria, there  is generally a single form of RNA polymerase which also
+consist of an oligomeric assemblage of 10 to 13 polypeptides.
+
+It has  been shown that small subunits of about 13 to 16 Kd found in all three
+types of eukaryotic polymerases are highly conserved. Subunits known to belong
+to this family are:
+
+ - Budding yeast RPC19 subunit from RNA polymerases I and III [1].
+ - Budding yeast RPB11 subunit from RNA polymerase II [2].
+ - Mammalian RPA16 from RNA polymerase I.
+ - Mammalian RPB11 (gene POLR2J) from RNA polymerase II.
+ - Caenorhabditis elegans hypothetical protein F58A4.9.
+ - Archaebacterial RNA polymerase subunit L (gene rpoL).
+
+As a signature pattern we selected a conserved  region which is located at the
+N-terminal extremity of these polymerase subunits.
+
+-Consensus pattern: [LIVMFA]-x(2)-[EYD]-x-[HYN]-[ST]-[LIVMFY]-x-[NSTR]-x-
+                    [LIV]-x(3)-[LIVA]-x(4,5)-[VPG]-x(4)-[FY]-x(3)-[HPY]-[PEV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dequard-Chablat M., Riva M., Carles C., Sentenac A.
+     J. Biol. Chem. 266:15300-15307(1991).
+[ 2] Woychik N.A., McKune K., Lane W.S., Young R.A.
+     "Yeast RNA polymerase II subunit RPB11 is related to a subunit shared
+     by RNA polymerase I and III."
+     Gene Expr. 3:77-82(1993).
+     PubMed=8508029
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

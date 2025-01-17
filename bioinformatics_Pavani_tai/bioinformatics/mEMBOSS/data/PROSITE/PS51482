@@ -1,0 +1,45 @@
+***********************
+* DegV domain profile *
+***********************
+
+The DegV  protein family received its name based on sequence similarity to the
+DegV protein  from  Bacillus subtilis. All members of the DegV family are from
+bacteria, mostly  Firmicutes.  The  function  of  DegV  proteins  is  not  yet
+completely understood,  but  structural  evidence indicates that they can bind
+different fatty acids [1,2].
+
+The DegV  domain  consists of two different alpha/beta folds (see <PDB:3FYS>).
+The N-terminal  domain,  which  contains  seven  beta-strands  and  six alpha-
+helices, can  be further divided into two subdomains: a three-layer alpha/beta
+core domain  and  a  small  peripheral  subdomain  including  a three-stranded
+antiparallel beta-sheet  and  one  alpha-helix. The C-terminal domain contains
+six beta-strands   and   five   alpha-helices  in  a  two-layered  alpha/beta-
+arrangement. The  two domains mainly interact through hydrophobic contacts and
+form a ligand-binding pocket at the domain interface [1,2].
+
+The profile we developed covers the entire DegV domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2010 / First entry.
+
+[ 1] Schulze-Gahmen U., Pelaschier J., Yokota H., Kim R., Kim S.-H.
+     "Crystal structure of a hypothetical protein, TM841 of Thermotoga
+     maritima, reveals its function as a fatty acid-binding protein."
+     Proteins 50:526-530(2003).
+     PubMed=12577257; DOI=10.1002/prot.10305
+[ 2] Nan J., Zhou Y., Yang C., Brostromer E., Kristensen O., Su X.-D.
+     "Structure of a fatty-acid-binding protein from Bacillus subtilis
+     determined by sulfur-SAD phasing using in-house chromium radiation."
+     Acta Crystallogr. D 65:440-448(2009).
+     PubMed=19390149; DOI=10.1107/S0907444909007756
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

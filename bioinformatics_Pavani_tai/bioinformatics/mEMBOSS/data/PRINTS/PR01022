@@ -1,0 +1,49 @@
+OUTRMMBRANEA
+The outer membrane proteins of several Gram-negative organisms share a 
+C-terminal domain of about 45 residues [1,2]: these include, outer membrane
+protein ompA from enterobacteria such as E.coli; outer membrane protein P5
+from Haemophilus influenzae; outer membrane protein P.III/class IV from 
+Neisseria; outer membrane porin F (gene oprF) from Pseudomonas; protein
+TpN50 from Treponema pallidum; peptidoglycan-associated lipoprotein (gene 
+pal) from Escherichia coli, Haemophilus influenzae, Legionella pneumophila
+and Pseudomonas putida; outer membrane lipoprotein P6 from Haemophilus 
+influenzae; Escherichia coli hypothetical lipoprotein yiaD; and Vibrio 
+parahaemolyticus sodium-type flagellar protein motY.
+
+Apart from this domain, these proteins are not otherwise structurally 
+related: most are porin-like integral membrane proteins (such as ompA),
+but some are small lipid-anchored proteins (such as pal).
+
+The amino acid sequence of major outer membrane protein II (ompA) from
+E.coli K-12 has been determined [3]. The polypeptide contains 325 residues,
+the transmembrane (TM) component being located between residues 1-177. In 
+this region, a predominantly lipophilic 27-residue segment exists that may
+span the membrane in a mostly alpha-helical conformation, or a 19-residue 
+stretch of this segment might traverse the membrane linearly [3]. Inside 
+the outer membrane, there exists an -APAPAPAP- sequence that, by analogy 
+with the -CPPCP- sequence in the hinge region of immunoglobulin, could 
+assume a polyproline helical conformation [3]. 
+
+OmpA is required for the action of colicins K and L, and for stabilisation 
+of mating aggregates in conjugation [4]. The protein serves as a receptor
+for a number of phages, and also acts as a porin with low permeability,
+allowing slow penetration of small solutes [4]. The size of the OmpA channel
+is thought to be rather similar to that of E.coli OmpF and OmpC porins 
+(i.e., about 1nm in diameter). 
+
+OUTRMMBRANEA is a 7-element fingerprint that provides a signature for
+outer membrane protein A. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning the central and C-teminal portions of the alignment, focusing on
+those regions that characterise ompA proteins but distinguish them from
+general ompA-domain containing polypeptides - motif 1 encodes the fifth
+putative TM region; motif 2 includes the C-terminal portion of putative TM 
+domain 7; motif 3 spans putative TM domain 8; and motif 6 lies within the
+ompA domain, and encodes part of the region encoded by PROSITE pattern OMPA
+(PS01068). Two iterations on OWL30.2 were required to reach convergence,
+at which point a true set comprising 18 sequences was identified. Several
+partial matches were also found, all of which are outer membrane protein 
+AII or P5 homologues.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 8
+partial matches.

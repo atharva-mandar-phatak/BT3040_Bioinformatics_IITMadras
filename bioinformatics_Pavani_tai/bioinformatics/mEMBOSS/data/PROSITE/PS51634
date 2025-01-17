@@ -1,0 +1,79 @@
+**********************
+* CRC domain profile *
+**********************
+
+The following  proteins  of  the tesmin/TSO1 family contain two cysteines-rich
+repeats with  the consensus C-X-C-X(4)-C-X(3)-Y-C-X-C-X(6)-C-X(3)-C-X-C-X(2)-C
+separated by  a  region  of  variable  length  containing  the short conserved
+sequence R-N-P-X-A-F-X-P-K:
+
+ - Animal  tesmin or MTL5, originally identified by its specific expression in
+   testes, but  subsequently  it was also detected at specific stages of ovary
+   development.
+ - Animal tesmin-like (tesl) or LIN54.
+ - Drosophila  melanogaster  tombola (tomb), a meiotic arrest protein which is
+   expressed specifically in testis.
+ - Arabidopsis  thaliana TSO1, 'tso' means 'ugly' in Chinese and refers to the
+   appearance of tso1 mutant flowers.
+ - Arabidopsis thaliana TSO1-like 1 and 2 (SOL1 and SOL2).
+ - Legume  Cysteine-rich Polycomb-like Protein 1 (CPP1), a DNA-binding protein
+   acting as a negative regulator of the leghemoglobin gene.
+
+This domain has been named the CRC domain (C1-RNPXAFXPK-C2). It binds zinc and
+is able to bind DNA [1,2,3,4,5].
+
+The CRC domain shows some similarity to the CXC domain found in the E(z)-type
+of Polycomb group proteins (see <PDOC51633>) [6]. However, a clear distinction
+can be made since the CXC domain lacks the RNPXAFXPK motif.
+
+The profile we developed covers the entire CRC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2012 / First entry.
+
+[ 1] Song J.-Y., Leung T., Ehler L.K., Wang C., Liu Z.
+     "Regulation of meristem organization and cell division by TSO1, an
+     Arabidopsis gene with cysteine-rich repeats."
+     Development 127:2207-2217(2000).
+     PubMed=10769244
+[ 2] Hauser B.A., He J.Q., Park S.O., Gasser C.S.
+     "TSO1 is a novel protein that modulates cytokinesis and cell expansion
+     in Arabidopsis."
+     Development 127:2219-2226(2000).
+     PubMed=10769245
+[ 3] Cvitanich C., Pallisgaard N., Nielsen K.A., Hansen A.C., Larsen K.,
+     Pihakaski-Maunsbach K., Marcker K.A., Jensen E.O.
+     "CPP1, a DNA-binding protein involved in the expression of a soybean
+     leghemoglobin c3 gene."
+     Proc. Natl. Acad. Sci. U.S.A. 97:8163-8168(2000).
+     PubMed=10859345; DOI=10.1073/pnas.090468497
+[ 4] Andersen S.U., Algreen-Petersen R.G., Hoedl M., Jurkiewicz A.,
+     Cvitanich C., Braunschweig U., Schauser L., Oh S.-A., Twell D.,
+     Jensen E.O.
+     "The conserved cysteine-rich domain of a tesmin/TSO1-like protein
+     binds zinc in vitro and TSO1 is required for both male and female
+     fertility in Arabidopsis thaliana."
+     J. Exp. Bot. 58:3657-3670(2007).
+     PubMed=18057042; DOI=10.1093/jxb/erm215
+[ 5] Jiang J., Benson E., Bausek N., Doggett K., White-Cooper H.
+     "Tombola, a tesmin/TSO1-family protein, regulates transcriptional
+     activation in the Drosophila male germline and physically interacts
+     with always early."
+     Development 134:1549-1559(2007).
+     PubMed=17360778; DOI=10.1242/dev.000521
+[ 6] Ogawa M., Hiraoka Y., Taniguchi K., Aiso S.
+     "Cloning and expression of a human/mouse Polycomb group gene,
+     ENX-2/Enx-2."
+     Biochim. Biophys. Acta 1395:151-158(1998).
+     PubMed=9473645
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

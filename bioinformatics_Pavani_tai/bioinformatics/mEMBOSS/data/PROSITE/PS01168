@@ -1,0 +1,38 @@
+************************************
+* Ribosomal protein S27e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of [1]:
+
+ - Mammalian S27 (human S27 was originally known as metallopan-stimulin 1).
+ - Chlamydomonas reinhardtii S27.
+ - Entamoeba histolytica S27.
+ - Yeast S27.
+ - Archaebacterial S27e.
+
+These proteins have from 57 to 99 amino acids.  They contain, in their central
+section, a putative zinc-finger region of the type C-x(2)-C-x(14)-C-x(2)-C. We
+have selected that region as a signature pattern.
+
+-Consensus pattern: [QKRTE]-C-x(2)-C-x(6)-F-[GSDA]-x-[PSA]-x(5)-C-x(2)-C-
+                    [GSAQ]-x(2)-[LIV]-x(2)-[PS]-x-G
+                    [The 4 C's may be zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Chan Y.-L., Suzuki K., Olvera J., Wool I.G.
+     "Zinc finger-like motifs in rat ribosomal proteins S27 and S29."
+     Nucleic Acids Res. 21:649-655(1993).
+     PubMed=8441676
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

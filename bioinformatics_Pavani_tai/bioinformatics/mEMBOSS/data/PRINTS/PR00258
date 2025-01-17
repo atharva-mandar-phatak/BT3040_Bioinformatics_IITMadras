@@ -1,0 +1,23 @@
+SPERACTRCPTR
+The egg peptide speract receptor is a transmembrane glycoprotein of about
+500 amino acids [1]. Topologically, it comprises a large extracellular
+domain of about 450 residues, followed by a transmembrane domain and a
+short cytoplasmic region of about 12 amino acids. The extracellular
+domain contains 4 repeats of a well-conserved region, which spans 115
+amino acids and contains 6 conserved cysteines. A similar domain is also
+found towards the C-terminus of macrophage scavenger receptor type I [2],
+a membrane glycoprotein implicated in the pathologic deposition of
+cholesterol in arterial walls during artherogenesis, and in the CD5
+glycoprotein, which acts as a receptor in regulating T-cell proliferation.
+
+SPERACTRCPTR is a 5-element fingerprint that provides a signature for the
+egg peptide speract receptor and related proteins. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs were drawn
+from a number of short regions within the conserved domain, motifs
+1-3 spanning the region encoded by PROSITE pattern SPERACT_RECEPTOR
+(PS00420). Two iterations on OWL24.0 were required to reach convergence,
+at which point a true set comprising 17 sequences was identified. Partial
+matches were also made with T-cell surface glycoprotein CD5 precursors.
+
+An update on SPTR37_9f identified a true set of 28 sequences, and 4
+partial matches.

@@ -1,0 +1,23 @@
+CUNO2RDTASE
+The 3D structure of the copper-containing nitrite reductase (NIR) from
+Achromobacter cycloclastes has been determined to 2.3A resolution [1]. The
+enzyme is a trimer, each monomer of which contains two Greek key beta-barrel
+domains (similar to that of plastocyanin) and houses two copper sites. The
+two copper atoms in the monomer comprise one type I copper site (Cu-I:
+two His, one Cys and one Met ligand) and one putative type II copper site
+(Cu-II: three His and one solvent ligand) [1]. Although ligated by adjacent
+amino acids, Cu-I and Cu-II are ~12.5A apart. Cu-II is bound with near
+perfect tetrahedral geometry by residues from each of two monomers [1].
+The Cu-II site lies at the bottom of a 12A deep solvent channel and is the
+site to which the substrate (NO2-) binds [1].
+
+CUNO2RDTASE is a 6-element fingerprint that provides a signature for
+copper-containing nitrite reductases. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from short conserved
+regions spanning the full alignment length - motif 1 spans the second 
+strand; motif 2 encompasses strand 4; motif 3 spans strand 5; motif 4 
+includes helix 1; motif 5 spans strand 8; and motif 6 spans helix 2 and
+strand 9. Two iterations on OWL29.2 were required to reach convergence,
+at which point a true set comprising 8 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

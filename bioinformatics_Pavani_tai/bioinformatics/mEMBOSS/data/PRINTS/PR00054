@@ -1,0 +1,21 @@
+FUNGALZNCYS
+The N-terminal region of a number of fungal transcriptional regulatory 
+proteins contains a Cys-rich motif that is involved in zinc-dependent
+binding of DNA. The region forms a binuclear Zn cluster, in which 2 Zn 
+atoms are bound by 6 Cys residues [1,2]. The range of proteins known to 
+contain such a domain include those involved in arginine, proline, 
+pyrimidine, quinate, maltose and galactose metabolism; amide and GABA
+catabolism; leucine biosynthesis; and so on.
+
+FUNGALZNCYS is a 4-element fingerprint that provides a signature for the 
+Zn-Cys binuclear cluster. The fingerprint was derived from an initial 
+alignment of 12 sequences: the motifs span the Cys-rich region encoded
+by PROSITE pattern ZN2_CY6_FUNGAL (PS00463). Two iterations on OWL17.1 were
+required to reach convergence, at which point a true set comprising 17 
+sequences was identified. Six partial matches were also found: closer 
+inspection reveals that these are all true family members, but the poor 
+conservation in the third and particularly the fourth motifs means that 
+these are not matched as well as the first 2.
+
+An update on SPTR37_9f identified a true set of 31 sequences, and 41
+partial matches.

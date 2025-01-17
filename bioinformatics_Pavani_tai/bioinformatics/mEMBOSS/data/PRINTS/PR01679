@@ -1,0 +1,38 @@
+KIR7CHANNEL
+Potassium channels are found in virtually all cell types. Their pore-
+forming subunits fall into three structural families, i.e. those possessing
+six, four and two transmembrane (TM) domains. The six-TM domain K+ channels
+can be further subdivided into six families: the voltage-gated K+ channels
+(Kv), the KCNQ channels, the eag-like K+ channels, and three Ca2+-activated
+K+ channels. Inwardly-rectifying K+ channels (Kir) are the principal class
+of two-TM domain K+ channels, and the recently-discovered two-pore domain
+K+ channels, make up a family of four-TM domain K+ channels.
+                
+Inwardly rectifying potassium channels (Kir) are responsible for regulating
+diverse processes including: cellular excitability, vascular tone, heart
+rate, renal salt flow, and insulin release [1]. To date, around twenty
+members of this superfamily have been cloned, which can be grouped into six
+families by sequence similarity - these are designated Kir1.x-7.x [2,3].
+                
+Cloned Kir channel cDNAs encode proteins of between ~370-500 residues,
+containing two predicted TM domains, with the characteristic K+ channel
+pore-forming domain located between them. Both N- and C-termini are thought
+to be cytoplasmic, and the N-terminus lacks a signal sequence. It is thought 
+that four Kir subunits assemble to form a tetrameric channel complex, which
+may be hetero- or homomeric [1].
+
+The KCNJ13 gene encodes a Kir7 alpha subunit that is predominantly expressed
+in the brain. It is also present in intestinal epithelial cells, thyroid
+follicular cells, spinal cord, kidney and stomach [4,5], suggesting a role
+in the regulation of the ion-transporting functions of these specialised
+cells. The unique properties of Kir7 make it a strong candidate for the low-
+conductance K+ channel that is coupled to Na+K+-ATPase by recycling K+ [6]. 
+
+KIR7CHANNEL is a 4-element fingerprint that provides a signature for the
+Kir7 inward rectifier K+ channel. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise Kir7 but distinguish it from other Kir channel
+subtypes - motifs 1-3 span the N-terminus; and motif 4 resides at the
+C-terminus. A single iteration on SPTR40_18f was required to reach
+convergence, no further sequences being identified beyond the starting set.

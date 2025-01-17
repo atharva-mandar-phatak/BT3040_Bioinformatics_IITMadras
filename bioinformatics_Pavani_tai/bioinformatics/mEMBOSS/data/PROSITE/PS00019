@@ -1,0 +1,60 @@
+************************************************
+* Actinin-type actin-binding domain signatures *
+************************************************
+
+Alpha-actinin is  a F-actin cross-linking  protein  which is thought to anchor
+actin to a variety of intracellular structures [1].   The actin-binding domain
+of alpha-actinin seems to reside in the first  250 residues of the protein.  A
+similar actin-binding domain has  been  found in the N-terminal region of many
+different actin-binding proteins [2,3]:
+
+ - In the beta chain of spectrin (or fodrin).
+ - In dystrophin, the protein defective  in  Duchenne muscular dystrophy (DMD)
+   and which  may  play a  role  in  anchoring the  cytoskeleton to the plasma
+   membrane.
+ - In the slime mold gelation factor (or ABP-120).
+ - In actin-binding protein ABP-280  (or filamin), a  protein  that link actin
+   filaments to membrane glycoproteins.
+ - In fimbrin (or plastin),  an actin-bundling protein.  Fimbrin  differs from
+   the above proteins in  that  it  contains  two  tandem copies of the actin-
+   binding domain and that these copies are located  in the C-terminal part of
+   the protein.
+
+We selected  two  conserved  regions  as  signature  patterns for this type of
+domain.  The first of this region  is located at  the beginning of the domain,
+while the second one is  located in  the central section and has been shown to
+be essential for the binding of actin.
+
+-Consensus pattern: [EQ]-{LNYH}-x-[ATV]-[FY]-{LDAM}-{T}-W-{PG}-N
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 32.
+
+-Consensus pattern: [LIVM]-x-[SGNL]-[LIVMN]-[DAGHENRS]-[SAGPNVT]-x-[DNEAG]-
+                    [LIVM]-x-[DEAGQ]-x(4)-[LIVM]-x-[LM]-[SAG]-[LIVM]-[LIVMT]-
+                    [WS]-x(0,1)-[LIVM](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Schleicher M., Andre E., Hartmann H., Noegel A.A.
+     "Actin-binding proteins are conserved from slime molds to man."
+     Dev. Genet. 9:521-530(1988).
+     PubMed=3243032
+[ 2] Matsudaira P.
+     "Modular organization of actin crosslinking proteins."
+     Trends Biochem. Sci. 16:87-92(1991).
+     PubMed=2058002
+[ 3] Dubreuil R.R.
+     "Structure and evolution of the actin crosslinking proteins."
+     BioEssays 13:219-226(1991).
+     PubMed=1892474
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

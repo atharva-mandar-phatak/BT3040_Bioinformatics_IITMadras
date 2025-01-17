@@ -1,0 +1,28 @@
+NACAEXCHNGR
+Na+/Ca2+ exchange proteins are involved in maintaining Ca2+ homeostasis in
+a wide variety of cell types. They are found in both the plasma membrane
+and intracellular organellar membranes, where they exchange Na+ for Ca2+ in
+an electrogenic manner. When located in the plasma membrane, they generally
+utilise the transmembrane (TM) Na+ concentration gradient in order to
+extrude Ca2+ from cells. Three mammalian isoforms have been cloned to date
+(NCX1-3), which consist of 920-970 amino acid residues that are predicted
+to possess 11 or 12 TM domains. Interestingly, they possess a short motif 
+(~30 residues) that is similar to the Na+/K+-ATPase, although its function
+is unknown [1-3].
+
+NCX1 has been found to be predominantly expressed in the heart, where it
+plays an important role in excitation-contraction coupling, but it is also
+abundant in a variety of other tissues [1]. NCX2 and NCX3 transcripts have
+been detected in the brain and skeletal muscle [2,3]. Homologous Na+/Ca2+
+exchange proteins have also been found in C.elegans, D.melanogaster and
+squid.
+
+NACAEXCHNGR is a 4-element fingerprint that provides a signature for
+Na+/Ca2+ exchangers. The fingerprint was derived from an initial alignment
+of 9 sequences: the motifs were drawn from the C-terminal hydrophobic
+region of the alignment - motif 1 encodes most of the seventh putative
+TM domain; motif 2 spans the end of the seventh TM domain, through the 
+start of the eighth TM domain; motif 3 lies within the eighth putative TM
+region; and motif 4 encodes ~half the extracellular loop between TM domains
+8 and 9. Two iterations on SPTR37_10f were required to reach convergence,
+at which point a true set comprising 19 sequences was identified.

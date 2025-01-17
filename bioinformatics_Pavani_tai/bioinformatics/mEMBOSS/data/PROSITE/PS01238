@@ -1,0 +1,60 @@
+*********************************************************
+* GDA1/CD39 family of nucleoside phosphatases signature *
+*********************************************************
+
+A number of nucleoside diphosphate and triphosphate hydrolases as well as some
+yet uncharacterized proteins have been found to belong to the same  family [1,
+2]. This family currently consist of:
+
+ - Yeast  guanosine-diphosphatase  (EC 3.6.1.42) (GDPase) (gene GDA1). GDA1 is
+   a golgi  integral  membrane  enzyme that catalyzes the hydrolysis of GDP to
+   GMP.
+ - Potato  apyrase  (EC  3.6.1.5)  (adenosine diphosphatase) (ADPase). Apyrase
+   acts on both ATP and ADP to produce AMP.
+ - Mammalian  vascular  ATP-diphosphohydrolase  (EC  3.6.1.5)  (also  known as
+   lymphoid cell activation antigen CD39).
+ - Toxoplasma gondii nucleoside-triphosphatases (EC 3.6.1.15) (NTPase). NTPase
+   hydrolyses various  nucleoside  triphosphates  to produce the corresponding
+   nucleoside mono-  and  diphosphates.  This  enzyme  is  secreted  into  the
+   invaded host   cell   into   the  parasitophorous  vacuole,  a  specialized
+   compartment where the parasite intracellulary resides.
+ - Pea nucleoside-triphosphatases (EC 3.6.1.15) (NTPase).
+
+ - Caenorhabditis elegans hypothetical protein C33H5.14.
+ - Caenorhabditis elegans hypothetical protein R07E4.4.
+ - Yeast chromosome V hypothetical protein YER005w.
+
+The above uncharacterized proteins all seem to be membrane-bound.
+
+All these  proteins  share a number of conserved domains. We have selected the
+best conserved  of  these domains. It is located in the central section of the
+proteins.
+
+-Consensus pattern: [LIVM]-x-G-x(2)-E-G-x-[FYLS]-x-[FW]-[LIVA]-[TAG]-x-N-[HYF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Handa M., Guidotti G.
+     "Purification and cloning of a soluble ATP-diphosphohydrolase
+     (apyrase) from potato tubers (Solanum tuberosum)."
+     Biochem. Biophys. Res. Commun. 218:916-923(1996).
+     PubMed=8579614
+[ 2] Vasconcelos E.G., Ferreira S.T., de Carvalho T.M.U., de Souza W.,
+     Kettlun A.M., Mancilla M., Valenzuela M.A., Verjovski-Almeida S.
+     "Partial purification and immunohistochemical localization of ATP
+     diphosphohydrolase from Schistosoma mansoni. Immunological
+     cross-reactivities with potato apyrase and Toxoplasma gondii
+     nucleoside triphosphate hydrolase."
+     J. Biol. Chem. 271:22139-22145(1996).
+     PubMed=8703025
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

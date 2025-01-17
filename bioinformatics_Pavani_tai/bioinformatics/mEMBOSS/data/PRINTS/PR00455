@@ -1,0 +1,26 @@
+HTHTETR
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+acrR, betI, bm3R1, envR, jadR, mtrR, tcmR, tcmR, tetC, tetR, ttk, ybiH, 
+and yixD [1-3]. Many of these proteins function as repressors that control
+the level of susceptibility to hydrophobic antibiotics and detergents.
+Within this family, the HTH motif is situated towards the N-terminus.
+
+The 3D structure of the homodimeric TetR protein complexed with 7-chloro-
+tetracycline-magnesium has been determined to 2.1A resolution [4]. TetR
+folds into 10 alpha-helices with connecting turns and loops. The 3
+N-terminal alpha-helices of the repressor form the DNA-binding domain: this
+structural motif encompasses an HTH fold with an inverse orientation
+compared with that of other DNA-binding proteins. 
+
+HTHTETR is a 2-element fingerprint that provides a signature for the HTH
+motif of the tetR family of bacterial regulatory proteins. The fingerprint
+was derived from an initial alignment of 17 sequences: the motifs were drawn
+from the N-terminal portion of the alignment encompassing the HTH motif 
+(cf. PROSITE pattern HTH_TETR_FAMILY (PS01081)). Three iterations on 
+OWL27.0 were required to reach convergence, at which point a true set 
+comprising 35 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 70 sequences.

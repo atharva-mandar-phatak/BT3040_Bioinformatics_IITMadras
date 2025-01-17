@@ -1,0 +1,30 @@
+MAMLPOXGNASE
+Lipoxygenases are iron-containing dioxygenases that catalyse the hydro-
+peroxidation of lipids containing a cis,cis-1,4-pentadiene structure. They
+are common in plants, where they are involved in such diverse aspects of 
+plant physiology as growth and development, pest resistance and senescence 
+or responses to wounding [1]. In mammals, a number of lipoxygenase isozymes
+are involved in the metabolism of prostaglandins and leukotrienes [2]. By
+contrast with plant lipoxygenases, the mammalian enzymes are activated in
+the presence of FLAP (5-lipoxygenase activating protein), and also require
+ATP and calcium.
+
+The iron atom in lipoxygenases is bound by 4 ligands, 3 of which are His
+residues [3]. In fact there are 6 histidines conserved in all lipoxygenases,
+5 of which are clustered in a stretch of 40 amino acids. This region
+contains 2 of the 3 His ligands: the other histidines are believed to be
+important for lipoxygenase activity [4].
+
+MAMLPOXGNASE is a 7-element fingerprint that provides a signature for 
+mammalian lipoxygenases. The fingerprint was derived from an initial 
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those areas
+of the alignment that characterise mammalian lipoxygenases but distinguish
+them from those of plant origin (cf. PROSITE patterns LIPOXYGENASE_1
+(PS00711) and LIPOXYGENASE_2 (PS00081), and signatures PLTLPOXGNASE and
+LIPOXYGENASE). Two iterations on OWL26.3 were required to reach convergence,
+at which point a true set comprising 20 sequences was identified. A single
+partial match was also found, S74450, a rat 12/15-lipoxygenase fragment.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 4
+partial matches.

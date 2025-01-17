@@ -1,0 +1,49 @@
+**********************************************************
+* Electron transfer flavoprotein alpha-subunit signature *
+**********************************************************
+
+The electron  transfer flavoprotein (ETF) [1,2] serves as a  specific electron
+acceptor for various mitochondrial dehydrogenases.  ETF transfers electrons to
+the  main  respiratory chain  via  ETF-ubiquinone  oxidoreductase.  ETF  is an
+heterodimer that consist of  an  alpha  and  a beta subunit and which bind one
+molecule of FAD per dimer. A similar system also exists in some bacteria.
+
+The alpha subunit of ETF  is a  protein of  about  32 Kd which is structurally
+related to  the  bacterial  nitrogen  fixation protein fixB which could play a
+role in a redox process and feed electrons to ferredoxin.
+
+Other related proteins are:
+
+ - Escherichia coli hypothetical protein ydiR.
+ - Escherichia coli hypothetical protein ygcQ.
+
+As  a signature  pattern  for these  proteins  we  selected a highly conserved
+region which is located in the C-terminal section.
+
+-Consensus pattern: [LI]-Y-[LIVM]-[AT]-x-[GA]-[IV]-[SD]-G-x-[IV]-Q-[HP]-x(2)-
+                    G-x(6)-[IV]-x-A-[IV]-N
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ygcQ.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Finocchiaro G., Ikeda Y., Ito M., Tanaka K.
+     "Biosynthesis, molecular cloning and sequencing of electron transfer
+     flavoprotein."
+     Prog. Clin. Biol. Res. 321:637-652(1990).
+     PubMed=2326318
+[ 2] Tsai M.H., Saier M.H. Jr.
+     "Phylogenetic characterization of the ubiquitous electron transfer
+     flavoprotein families ETF-alpha and ETF-beta."
+     Res. Microbiol. 146:397-404(1995).
+     PubMed=8525056
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

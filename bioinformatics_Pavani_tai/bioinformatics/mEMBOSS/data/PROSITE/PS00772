@@ -1,0 +1,78 @@
+****************************************
+* Barwin domain signatures and profile *
+****************************************
+
+Barwin [1] is a barley seed protein of 125 residues that binds weakly a chitin
+analog. It contains six cysteines involved in disulfide bonds, as shown in the
+following schematic representation.
+
+                              +---------------+
+                              |    *****      |                ****
+    xxxxxxxxxxxxxxxCxxxxxxxxxxCxxxxCxCxxxxxxxxCxxxxxxxxxxxxxxxxxxCx
+                   |               | |                           |
+                   +---------------+ +---------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+Barwin is closely related to the following proteins:
+
+ - Hevein, a wound-induced protein found in the latex of rubber trees.
+ - HEL, an Arabidopsis thaliana hevein-like protein [2].
+ - Win1 and win2, two wound-induced proteins from potato.
+ - Pathogenesis-related protein 4 from tobacco.
+
+Hevein and the win1/2 proteins consist  of an N-terminal chitin-binding domain
+followed by  a  barwin-like C-terminal domain of ~122 residues. Barwin and its
+related proteins could be involved in a defense mechanism in plants [1].
+
+The dominating structural feature of the barwin domain is a well-defined four-
+stranded antiparallel beta-sheet, two parallel beta-sheets packed antiparallel
+to each other and four short alpha-helices (see <PDB:1BW3>) [3].
+
+As signature  patterns,  we selected two highly conserved regions that contain
+some of  the  cysteines.  We  also  developed a profile that covers the entire
+barwin domain.
+
+-Consensus pattern: C-G-[KR]-C-L-x-V-x-N
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: V-[DN]-Y-[EQD]-F-V-[DN]-C
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / Text revised; profile added.
+
+[ 1] Svensson B., Svendsen I., Hoejrup P., Roepstorff P., Ludvigsen S.,
+     Poulsen F.M.
+     "Primary structure of barwin: a barley seed protein closely related to
+     the C-terminal domain of proteins encoded by wound-induced plant
+     genes."
+     Biochemistry 31:8767-8770(1992).
+     PubMed=1390663;
+[ 2] Potter S., Uknes S., Lawton K., Winter A.M., Chandler D.,
+     Dimaio J., Novitzky R., Ward E., Ryals J.
+     "Regulation of a hevein-like gene in Arabidopsis."
+     Mol. Plant Microbe Interact. 6:680-685(1993).
+     PubMed=8118053;
+[ 3] Ludvigsen S., Poulsen F.M.
+     "Three-dimensional structure in solution of barwin, a protein from
+     barley seed."
+     Biochemistry 31:8783-8789(1992).
+     PubMed=1390665
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

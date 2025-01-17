@@ -1,0 +1,54 @@
+TRPCHANNEL5
+Transient receptor potential (Trp) and related proteins are thought to be
+Ca2+ ion channel subunits that mediate capacitative Ca2+ entry in response 
+to a range of external and internal cell stimuli. Such Ca2+ entry is thought 
+to be an essential component of cellular responses to many hormones and
+growth factors, and acts to replenish intracellular Ca2+ stores that have
+been emptied through the action of inositol triphosphate (IP3) and other 
+agents. In non-excitable cells, i.e. those that lack voltage-gated Ca2+
+channels, such as hepatocytes, this mode of Ca2+ entry is thought to be an
+important step in generating the oscillations of intracellular Ca2+
+concentration that characterise their response to stimulatory agents [1].
+
+Studies on the visual transduction system in Drosophila led to the molecular
+cloning of Trp and the cDNA of a related protein, Trp-like, which show
+similarity to voltage gated Ca2+ channels in the regions known as S3 through
+S6, including the S5-S6 linker that forms the ion-selective channel pore [2].
+This provided evidence that Trp and/or related proteins might form mammalian
+capacitative Ca2+ entry channels. 
+
+A number of Trp and Trp-like channel gene isoforms have now been cloned, 
+including several mammalian homologues. The Trp family is thought to encode
+at least 20 Ca2+-permeable channel proteins. Hydropathy analysis suggests 
+that they share a common transmembrane (TM) topology. Each family member is 
+predicted to possess 6 TM domains with intracellular N- and C-termini, which
+is similar to the core structure of the pore-forming subunits of the voltage
+-gated Na+ and Ca2+ channels. By analogy with these proteins, which have 
+4 linked domains of 6 TM segments, it is likely that Trp channels are
+homo- or heterotetramers of 4 single subunits [3].
+
+The Trp family can be divided on the basis of sequence similarity into 3
+subfamilies: short (S), long (L) and osm-like (O) Trp channels [4]. The
+STrp subfamily includes Drosophila Trp and Trpl-like, and the mammalian
+homologues TrpC1-7. Channels of the STrpC subfamily are activated following
+receptor-mediated stimulation of different isoforms of phospholipase C [4].
+
+TrpC5 was originally cloned from rabbit and mouse tissues [5]; a human
+isoform has also been identified. Expression studies have demonstrated that
+TrpC5 is able to form homomeric cation channels that are activated following
+stimulation of Gq-coupled receptors and by receptor tyrosine kinases [6]. In
+mammalian brain, TrpC5 has been reported to form heteromers with TrpC1,
+which appear to be activated by Gq-linked receptors, but not by store 
+depletion [7]. This has led to the proposal that different TrpC heteromers
+may form diverse receptor-regulated channels.
+
+TRPCHANNEL5 is a 6-element fingerprint that provides a signature for 
+transient receptor potential channel 5. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise TrpC5 but distinguish it from other family
+members - motif 1 lies in the intracellular N-terminal region; motif 2 
+encodes the second half of TM domain 1; and motifs 3-6 reside within the
+C-terminal cytoplasmic region. A single iteration on SPTR40_18f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set. 

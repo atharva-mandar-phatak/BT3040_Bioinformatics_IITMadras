@@ -1,0 +1,44 @@
+**********************
+* PXA domain profile *
+**********************
+
+The PX-associated  (PXA)  domain  is  a  ~200-amino  acid  module  of  unknown
+function. Perhaps  it  is  required  for  protein-protein  interaction  and/or
+filament formation.  In  addition  to  the  phosphoinositide-binding  PX  (see
+<PDOC50195>) domain,   the   PXA   domain   can  also  be  associated  with  a
+transmembrane domain  and  RGS  (see <PDOC50132>), which binds to activated G-
+alpha subunits and is responsible for GTPase activating protein (GAP) function
+[1,2].
+
+Some proteins known to contain a PXA domain are listed below:
+
+ - Mammalian sorting nexins (SNXs) 13, 14 and 19.
+ - Yeast structural protein MDM1.
+
+The profile we developed covers the entire PXA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2006 / First entry.
+
+[ 1] Zheng B., Ma Y.-C., Ostrom R.S., Lavoie C., Gill G.N., Insel P.A.,
+     Huang X.-Y., Farquhar M.G.
+     "RGS-PX1, a GAP for GalphaS and sorting nexin in vesicular
+     trafficking."
+     Science 294:1939-1942(2001).
+     PubMed=11729322; DOI=10.1126/science.1064757
+[ 2] Xu Y., Seet L.-F., Hanson B., Hong W.
+     "The Phox homology (PX) domain, a new player in phosphoinositide
+     signalling."
+     Biochem. J. 360:513-530(2001).
+     PubMed=11736640
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

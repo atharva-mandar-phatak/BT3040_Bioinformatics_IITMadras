@@ -1,0 +1,50 @@
+*****************************************
+* Argininosuccinate synthase signatures *
+*****************************************
+
+Argininosuccinate synthase (EC 6.3.4.5) (AS)  is  a   urea  cycle enzyme  that
+catalyzes the  penultimate  step  in  arginine biosynthesis: the ATP-dependent
+ligation of  citrulline    to  aspartate  to  form  argininosuccinate, AMP and
+pyrophosphate [1,2].
+
+In humans,  a  defect  in  the AS gene causes citrullinemia, a genetic disease
+characterized by severe vomiting spells and mental retardation.
+
+AS is  a  homotetrameric enzyme of chains of about 400 amino-acid residues. An
+arginine seems to be important for the enzyme's catalytic mechanism.
+
+The sequences of AS  from various prokaryotes, archaebacteria  and  eukaryotes
+show significant similarity.  We  selected  two signature patterns for AS. The
+first is a highly conserved stretch of nine residues located in the N-terminal
+extremity of  these  enzymes,  the  second  is derived from a conserved region
+which contains one of the conserved arginine residues.
+
+-Consensus pattern: [ASL]-[FY]-S-G-G-[LV]-D-T-[ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x-T-x-[KRM]-G-N-D-x(2)-R-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] van Vliet F., Crabeel M., Boyen A., Tricot C., Stalon V., Falmagne P.,
+     Nakamura Y., Baumberg S., Glansdorff N.
+     Gene 95:99-104(1990).
+[ 2] Morris C.J., Reeve J.N.
+     "Conservation of structure in the human gene encoding
+     argininosuccinate synthetase and the argG genes of the archaebacteria
+     Methanosarcina barkeri MS and Methanococcus vannielii."
+     J. Bacteriol. 170:3125-3130(1988).
+     PubMed=3133361
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

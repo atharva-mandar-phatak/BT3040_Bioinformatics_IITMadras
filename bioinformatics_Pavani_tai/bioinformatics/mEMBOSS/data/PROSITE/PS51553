@@ -1,0 +1,60 @@
+**********************************************************************
+* GMP synthetase ATP pyrophosphatase (GMPS ATP-PPase) domain profile *
+**********************************************************************
+
+Guanosine 5'-monophosphate  synthetase  (GMPS)  is a widespread enzyme seen in
+all domains  of  life.  GMPS  is  required  for  the final step of the de novo
+synthesis of guanine nucleotides, converting xanthosine 5'-monophosphate (XMP)
+into  guanosine 5'-monophosphate  (GMP),  a  precursor  of  DNA  and RNA. GMPS
+consists of  two  catalytic  units,  glutamine  amidotransferase (GATase) (see
+<PDOC00405>) and  ATP pyrophosphatase (ATP-PPase). GATase hydrolyzes glutamine
+to yield  glutamate  and  ammonia, while ATP-PPase utilizes ammonia to convert
+adenyl xanthosine  5'-monophosphate  (adenyl-XMP)  into GMP. The two catalytic
+units are  either  encoded  by  a single gene (two-domain type) in eucaryotes,
+bacteria, and  some  archaea,  or  encoded  by two separate genes (two-subunit
+type) in  other archaea. In two-domain-type GMPS, the GATase domain is located
+in the  N-terminal half, and the ATP-PPase domain is located in the C-terminal
+half; in   two-subunit-type   GMPS,   these   two   units  exist  as  separate
+polypeptides. ATP-PPase  consists  of two domains (N-domain and C-domain). The
+N-domain contains  an  ATP-binding  platform  called P-loop (see <PDOC00017>),
+whereas the  C-domain  contains  the  XMP-binding site and also contributes to
+homodimerization [1,2,3].
+
+The GMP  synthetase  ATP-PPase  ATP-binding domain is a twisted, five-stranded
+parallel beta-sheet  sandwiched  between  helical  layers (see <PDB:1GPM>). It
+contains a  glycine  rich  ATP-binding motif called the "P-loop motif" located
+after the first beta-strand [1,3].
+
+The profile we developed covers the entire GMPS ATP-PPase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2011 / First entry.
+
+[ 1] Tesmer J.J.G., Klem T.J., Deras M.L., Davisson V.J., Smith J.L.
+     "The crystal structure of GMP synthetase reveals a novel catalytic
+     triad and is a structural paradigm for two enzyme families."
+     Nat. Struct. Biol. 3:74-86(1996).
+     PubMed=8548458
+[ 2] Grimaldi C., Dutertre M., Simonet J.-M.
+     "Genetic organization and polymorphism of the guaA gene encoding the
+     GMP synthetase in Lactobacillus rhamnosus."
+     Curr. Microbiol. 40:245-249(2000).
+     PubMed=10688693; DOI=10.1007/s002849910049
+[ 3] Maruoka S., Horita S., Lee W.C., Nagata K., Tanokura M.
+     "Crystal structure of the ATPPase subunit and its substrate-dependent
+     association with the GATase subunit: a novel regulatory mechanism for
+     a two-subunit-type GMP synthetase from Pyrococcus horikoshii OT3."
+     J. Mol. Biol. 395:417-429(2010).
+     PubMed=19900465; DOI=10.1016/j.jmb.2009.10.053
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

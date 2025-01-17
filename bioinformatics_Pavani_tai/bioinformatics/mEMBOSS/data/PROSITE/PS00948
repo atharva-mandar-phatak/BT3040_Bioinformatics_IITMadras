@@ -1,0 +1,37 @@
+***********************************
+* Ribosomal protein S7e signature *
+***********************************
+
+A number  of  eukaryotic  ribosomal  proteins  can  be grouped on the basis of
+sequence similarities [1]. One of these families consists of:
+
+ - Mammalian S7.
+ - Xenopus S8.
+ - Insect S7.
+ - Yeast probable ribosomal protein S7 (N2212).
+ - Fission yeast probable ribosomal protein S7 (SpAC18G6.13c).
+
+These proteins  have about 200 amino acids. As a signature pattern we selected
+a highly  conserved    stretch  of 14 residues which is located in the central
+section and which is rich in charged residues.
+
+-Consensus pattern: [KRAI]-L-x-R-E-L-E-K-K-F-[SAPQG]-x-[KRN]-[HED]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Salazar C.E., Mills-Hamm D.M., Kumar V., Collins F.H.
+     "Sequence of a cDNA from the mosquito Anopheles gambiae encoding a
+     homologue of human ribosomal protein S7."
+     Nucleic Acids Res. 21:4147-4147(1993).
+     PubMed=8371989
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

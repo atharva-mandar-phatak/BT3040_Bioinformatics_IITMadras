@@ -1,0 +1,114 @@
+***************************************
+* Chromo domain signature and profile *
+***************************************
+
+The 'chromo' (CHRromatin Organization MOdifier) domain [1 to 4] is a conserved
+region of  about  60  amino acids which was first identified in the drosophila
+chromatin proteins  HP1  and  Polycomb.  Chromo  domain have now been found in
+single or  multiple  copies  in  a variety of eukaryotic proteins with diverse
+structures and  activities, most or all of which are connected with chromosome
+structure/function. Functional  dissections of chromo domain proteins suggests
+a mechanistic  role  for chromo domains in targeting chromo domain proteins to
+specific regions  of  the  nucleus.  The  mechanism  of  targeting may involve
+protein-protein and/or  protein/nucleic acid interactions. Hence, several line
+of evidence  show  that  the  HP1  chromo  domain is a methyl-specific histone
+binding module,  whereas  the  chromo  domain of two protein components of the
+drosophila dosage  compensation  complex, MSL3 and MOF, contain chromo domains
+that bind to RNA in vitro [5].
+
+HP1 was  found  to  have  a second chromo domain in the C-terminal half of the
+protein, called the 'chromo shadow' domain, with weak but significant sequence
+similarity to the N-terminal chromo domain. Various chromo shadow domains have
+been shown to mediate self-association, pointing to a general property of this
+motif. However,  chromo  shadow  domains  have been implicated in a variety of
+heterologous interactions  as  well.  Hence  the chromo shadow domain of human
+HP1-family proteins  has  been  found to bind to lamin B receptor in yeast two
+hybrid protein assay [5].
+
+The high  resolution structures of HP1-family protein chromo and chromo shadow
+domain reveal  a  conserved  chromo domain fold motif consisting of three beta
+strands packed  against  an alpha helix. The chromo domain fold belongs to the
+OB (oligonucleotide/oligosaccharide  binding)-fold class found in a variety of
+prokaryotic and eukaryotic nucleic acid binding protein [5].
+
+Some proteins  known  to  contain  a chromo or chromo shadow domain are listed
+below:
+
+ - Drosophila heterochromatin protein Su(var)205 (HP1).
+ - Human heterochromatin protein HP1 alpha.
+ - Mammalian modifier 1 and modifier 2.
+ - Fission  yeast  swi6,  a  protein  involved in the repression of the silent
+   mating-type loci mat2 and mat3.
+ - Drosophila protein Polycomb (Pc).
+ - Mammalian modifier 3, a homolog of Pc.
+ - Drosophila protein Su(var)3-9, a suppressor of position-effect variegation.
+ - Human Mi-2 autoantigen, characterisitic of dermatomyosis.
+ - Fungal  retrotranposon  polyproteins:  'skippy'  from  Fusarium  oxysporum,
+   'grasshopper' and  'MAGGY'   from   Magnaporthe   grisea   and  CfT-1  from
+   Cladosporium fulvum.
+ - Fission yeast hypothetical protein SpAC18G6.02c.
+ - Caenorhabditis elegans hypothetical protein C29H12.5
+ - Caenorhabditis elegans hypothetical protein ZK1236.2.
+ - Caenorhabditis elegans hypothetical protein T09A5.8.
+ - Mammalian DNA-binding/helicase proteins CHD-1 to CHD-4.
+ - Yeast protein CHD1.
+ - Drosophila male-specific lethal-3 protein (MSL-3).
+ - Drosophila males absent on the first (MOF).
+ - Tetrahymena thermophila Pdds (programmed DNA degradation), factors that
+   appear to participate in the recognition and removal of DNA during
+   macronuclear differentiation.
+
+The signature  pattern  for  this  domain  corresponds  to  its best conserved
+section, which  is  located  in its central part. We also developed a profile,
+which covers the entire chromo and chromo shadow domains.
+
+-Consensus pattern: [FYL]-x-[LIVMC]-[KR]-W-x-[GDNR]-[FYWLME]-x(5,6)-[ST]-W-
+                    [ESV]-[PSTDEN]-x(2,3)-[LIVMC]
+-Sequences known to belong to this class detected by the pattern: ALL   chromo
+ domains, but does not detect chromo shadow domains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Aasland R.; aasland@bio.uib.no
+
+-Last update: June 2003 / Text revised.
+
+[ 1] Paro R.
+     "Imprinting a determined state into the chromatin of Drosophila."
+     Trends Genet. 6:416-421(1990).
+     PubMed=1982376
+[ 2] Singh P.B., Miller J.R., Pearce J., Kothary R., Burton R.D., Paro R.,
+     James T.C., Gaunt S.J.
+     "A sequence motif found in a Drosophila heterochromatin protein is
+     conserved in animals and plants."
+     Nucleic Acids Res. 19:789-794(1991).
+     PubMed=1708124
+[ 3] Aasland R., Stewart A.F.
+     "The chromo shadow domain, a second chromo domain in
+     heterochromatin-binding protein 1, HP1."
+     Nucleic Acids Res. 23:3168-3173(1995).
+     PubMed=7667093
+[ 4] Koonin E.V., Zhou S., Lucchesi J.C.
+     "The chromo superfamily: new members, duplication of the chromo domain
+     and possible role in delivering transcription regulators to
+     chromatin."
+     Nucleic Acids Res. 23:4229-4233(1995).
+     PubMed=7501439
+[ 5] Eissenberg J.C.
+     "Molecular biology of the chromo domain: an ancient chromatin module
+     comes of age."
+     Gene 275:19-29(2001).
+     PubMed=11574148
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

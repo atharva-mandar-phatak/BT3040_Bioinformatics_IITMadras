@@ -1,0 +1,29 @@
+DISEASERSIST
+Plants are attacked by a range of phytopathegenic organisms, including
+viruses, mycoplasma, bacteria, fungi, nematodes, protozoa and parasites.
+Resistance to a pathogen is manifested in several ways and is often
+correlated with a hypersensitive response (HR), localised induced cell
+death in the host plant at the site of infection [1]. The induction of
+the plant defense response that leads to HR is initiated by the plant's
+recognition of specific signal molecules (elicitors) produced by the
+pathogen; R genes are thought to encode receptors for these elicitors.
+
+RPS2, N and L6 genes confer resistance to bacterial, viral and fungal
+pathogens. Sequence analysis has shown that they contain C-terminal
+leucine-rich repeats, which are characteristic of plant and animal
+proteins involved in protein-protein interactions [1]. In addition,
+the sequences contain a conserved nucleotide-binding site towards
+their N-termini.
+
+DISEASERSIST is a 4-element fingerprint that provides a signature for
+disease resistance proteins. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length, motif 1 encoding
+a nucleotide-binding P-loop. Two iterations on OWL26.0 were required to
+reach convergence, at which point a true set comprising 3 sequences was
+identified. A single partial match was also found, AFSR_STRCO, a
+Streptomyces regulatory protein that matches motifs 1 and 3 (and
+also weakly with motif 2).
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 8
+partial matches.

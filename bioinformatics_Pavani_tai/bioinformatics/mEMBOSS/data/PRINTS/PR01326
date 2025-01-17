@@ -1,0 +1,44 @@
+KIR23CHANNEL
+Potassium channels are found in virtually all cell types. Their pore-
+forming subunits fall into three structural families, i.e. those possessing
+six, four and two transmembrane (TM) domains. The six-TM domain K+ channels
+can be further subdivided into six families: the voltage-gated K+ channels
+(Kv), the KCNQ channels, the eag-like K+ channels, and three Ca2+-activated
+K+ channels. Inwardly-rectifying K+ channels (Kir) are the principal class
+of two-TM domain K+ channels, and the recently-discovered two-pore domain
+K+ channels, make up a family of four-TM domain K+ channels.
+
+Inwardly rectifying potassium channels (Kir) are responsible for regulating
+diverse processes including: cellular excitability, vascular tone, heart
+rate, renal salt flow, and insulin release [1]. To date, around twenty
+members of this superfamily have been cloned, which can be grouped into six
+families by sequence similarity - these are designated Kir1.x-7.x [2,3].
+
+Cloned Kir channel cDNAs encode proteins of between ~370-500 residues,
+containing two predicted TM domains, with the characteristic K+ channel
+pore-forming domain located between them. Both N- and C-termini are thought
+to be cytoplasmic, and the N-terminus lacks a signal sequence. It is thought
+that four Kir subunits assemble to form a tetrameric channel complex, which
+may be hetero- or homomeric [1].
+
+Kir2.3 it thought to play a role in the maintenance of membrane potential
+in both neurones and myocardium. It is highly expressed in the forebrain,
+and has a distinctly smaller ionic conductance than other Kir2.x family
+members. By comparison with other Kir2.x channels, sequence analysis shows
+it to have a larger putative extracellular loop (~15 more amino acid
+residues) linking the first TM domain to the pore-forming (H5) domain, 
+although the significance of this remains to be elucidated. Functional
+studies have revealed Kir2.3 channel activity to be modulated by channel
+phosphorylation, oxidation state, and changes in intracellular and
+extracellular pH.
+
+KIR23CHANNEL is an 8-element fingerprint that provides a signature for the
+Kir2.3 inward rectifier K+ channel. The fingerprint was derived from an
+intitial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise Kir2.3 but distinguish it from other subtypes -
+motif 1 lies within the putative cytoplasmic N-terminus; motif 2 encodes
+the C-terminal half of the second TM domain; and motifs 3-8 lie within the
+putative cytoplasmic C-terminus. Two iterations on SPTR37_10f were required
+to reach convergence, at which point a true set comprising 5 sequences was
+identified.

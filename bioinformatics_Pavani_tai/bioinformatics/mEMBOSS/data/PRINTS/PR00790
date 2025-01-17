@@ -1,0 +1,31 @@
+PAMONOXGNASE
+Peptidylglycine alpha-amidating monooxygenase (PAM) is a multifunctional
+protein found in secretory granules. The protein contains two enzymes that
+act sequentially to catalyse the alpha-amidation of neuroendocrine peptides 
+[1,2]: peptidylglycine + ascorbate + O(2) = peptidyl(2-hydroxyglycine) + 
+dehydroascorbate + H(2)O. The product is unstable and dismutates to
+glyoxylate and the corresponding desglycine peptide amide. The first step
+of the reaction is catalysed by peptidylglycine alpha-hydroxylating mono-
+oxygenase (PHM), and is dependent on copper, ascorbate and molecular oxygen;
+peptidyl-alpha-hydroxyglycine alpha-amidating lyase (PAL) catalyses the
+second step of the reaction [1]. 
+
+Sequence analysis shows the protein to be similar to dopamine-beta-mono-
+oxygenases (DBH), a class of ascorbate-dependent enzymes that requires
+copper as a cofactor and uses ascorbate as an electron donor. PAM and DBH
+share a few regions of sequence similarity, some of which contain clusters
+of conserved histidine residues that may be involved in copper binding.
+
+PAMONOXGNASE is 9-element fingerprint that provides a signature for
+peptidyl-glycine alpha-amidating monooxygenases. The fingerprint was
+derived from an initial alignment of 9 sequences: the motifs were drawn
+from conserved regions spanning the intragranular domain - motif
+2 includes the region encoded by PROSITE pattern CU2_MONOOXYGENASE_1
+(PS00084), which contains conserved histidine residues that may be involved
+in copper binding. Two iterations on OWL29.4 were required to reach
+convergence, at which point a true set comprising 13 sequences was
+identified. Several partial matches were also found, all of which are
+fragments and related sequences that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 7
+partial matches.

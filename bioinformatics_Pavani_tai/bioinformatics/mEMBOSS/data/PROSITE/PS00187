@@ -1,0 +1,65 @@
+********************************************
+* Thiamine pyrophosphate enzymes signature *
+********************************************
+
+A number of enzymes  require  thiamine  pyrophosphate  (TPP) (vitamin B1) as a
+cofactor.  It has been shown [1] that  some  of these enzymes are structurally
+related. These related TPP enzymes are:
+
+ - Pyruvate oxidase (POX) (EC 1.2.3.3)
+   Reaction catalyzed: pyruvate + orthophosphate + O(2) + H(2)O = acetyl
+   phosphate + CO(2) + H(2)O(2).
+ - Pyruvate decarboxylase (PDC) (EC 4.1.1.1)
+   Reaction catalyzed: pyruvate = acetaldehyde + CO(2).
+ - Indolepyruvate decarboxylase (EC 4.1.1.74) [2]
+   Reaction catalyzed: indole-3-pyruvate = indole-3-acetaldehyde + CO(2).
+ - Acetolactate synthase (ALS) (EC 2.2.1.6)
+   Reaction catalyzed: 2 pyruvate = acetolactate + CO(2).
+ - Benzoylformate decarboxylase (BFD) (EC 4.1.1.7) [3]
+   Reaction catalyzed: benzoylformate = benzaldehyde + CO(2).
+
+As  a signature pattern for these enzymes we  have selected a conserved region
+which is located in their C-terminal section.
+
+-Consensus pattern: [LIVMF]-[GSA]-x(5)-P-x(4)-[LIVMFYW]-x-[LIVMF]-x-G-D-[GSA]-
+                    [GSAC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 13 sequences.
+-Other sequence(s) detected in Swiss-Prot: a hypothetical  protein in the  puf
+ photosynthesis operon of Rhodobacter capsulatus;  this protein could be a TPP
+ enzyme.
+
+-Note: Other TPP enzymes  such as the E1  component of pyruvate  dehydrogenase
+ complex, 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate  synthase, and
+ transketolase do not seem to be related to the above enzymes.
+
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Green J.B.A.
+     "Pyruvate decarboxylase is like acetolactate synthase (ILV2) and not
+     like the pyruvate dehydrogenase E1 subunit."
+     FEBS Lett. 246:1-5(1989).
+     PubMed=2651151;
+[ 2] Koga J., Adachi T., Hidaka H.
+     "Molecular cloning of the gene for indolepyruvate decarboxylase from
+     Enterobacter cloacae."
+     Mol. Gen. Genet. 226:10-16(1991).
+     PubMed=2034209
+[ 3] Tsou A.Y., Ransom S.C., Gerlt J.A., Buechter D.D., Babbitt P.C.,
+     Kenyon G.L.
+     "Mandelate pathway of Pseudomonas putida: sequence relationships
+     involving mandelate racemase, (S)-mandelate dehydrogenase, and
+     benzoylformate decarboxylase and expression of benzoylformate
+     decarboxylase in Escherichia coli."
+     Biochemistry 29:9856-9862(1990).
+     PubMed=2271624
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,62 @@
+**********************
+* UEV domain profile *
+**********************
+
+The N-terminal  ubiquitin  E2 variant (UEV) domain is ~145 amino acid residues
+in length  and  shows  significant sequence similarity to E2 ubiquitin ligases
+(see <PDOC00163>) but is unable to catalyze ubiquitin transfer as it lacks the
+active site  cysteine  that  forms  the  transient  thioester bond with the C-
+terminus of ubiquitin (Ub). Nevertheless, at least some UEVs have retained the
+ability to  bind  Ub,  and appear to act either as cofactors in ubiquitylation
+reactions, or  as ubiquitin sensors. UEV domains also frequently contain other
+protein recognition  motifs,  and may generally serve to couple protein and Ub
+binding functions  to  facilitate  the  formation  of  multiprotein  complexes
+[1,2,3,4].
+
+The UEV  domain  consists  of  a twisted four-stranded antiparallel beta-sheet
+having a  meander topology, with four alpha-helices packed against one face of
+the sheet  (see <PDB:1KPP>). The UEV fold is generally similar to canonical E2
+ligases in  the  hydrophobic  core  and  'active  site'  regions,  but differs
+significantly at both its N- and C-termini [3,4].
+
+Some proteins known to contain a UEV domain are listed below:
+
+ - Yeast vacuolar protein sorting-associated protein 23 (Vps23).
+ - Mammalian tumor susceptibility gene TSG101 protein, the homologue of Vps23.
+
+The profile we developed covers the entire UEV domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2010 / First entry.
+
+[ 1] Koonin E.V., Abagyan R.A.
+     "TSG101 may be the prototype of a class of dominant negative ubiquitin
+     regulators."
+     Nat. Genet. 16:330-331(1997).
+     PubMed=9241264; DOI=10.1038/ng0897-330
+[ 2] Ponting C.P., Cai Y.-D., Bork P.
+     "The breast cancer gene product TSG101: a regulator of
+     ubiquitination?"
+     J. Mol. Med. 75:467-469(1997).
+     PubMed=9253709
+[ 3] Pornillos O., Alam S.L., Rich R.L., Myszka D.G., Davis D.R.,
+     Sundquist W.I.
+     "Structure and functional interactions of the Tsg101 UEV domain."
+     EMBO J. 21:2397-2406(2002).
+     PubMed=12006492; DOI=10.1093/emboj/21.10.2397
+[ 4] Teo H., Veprintsev D.B., Williams R.L.
+     "Structural insights into endosomal sorting complex required for
+     transport (ESCRT-I) recognition of ubiquitinated proteins."
+     J. Biol. Chem. 279:28689-28696(2004).
+     PubMed=15044434; DOI=10.1074/jbc.M400023200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

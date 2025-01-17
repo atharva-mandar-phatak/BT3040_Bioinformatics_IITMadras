@@ -1,0 +1,51 @@
+LVDCCALPHA1
+Calcium channel proteins are involved in the control of neurotransmitter
+release from neurons [1], and play an important role in the regulation of a
+variety of cellular functions, including membrane excitability, muscle
+contraction and synaptic transmission [2]. Voltage-gated calcium channels
+are classified as T, L, N, P, Q and R, and are distinguished by their
+sensitivity to pharmacological blocks, single-channel conductance kinetics,
+and voltage-dependence. On the basis of their voltage activation
+properties, the voltage-gated calcium classes can be further divided into
+two broad groups: the low (T-type) and high (L, N, P, Q and R-type)
+threshold-activated channels [3].
+
+Generally, the channel proteins are composed of 4 tightly-coupled subunits
+(alpha-1, alpha-2, beta and gamma), the alpha-1 subunit from each creating
+the pore for the import of extracellular calcium ions. The alpha-1 subunit
+shares sequence characteristics with all voltage-dependent cation channels,
+and exploits the same 6-helix bundle structural motif - in both sodium and
+calcium channels, this motif is repeated 4 times within the sequence to give
+a 24-helix bundle. Within each of these repeats, 5 of the transmembrane (TM)
+segments (S1, S2, S3, S5, S6) are hydrophobic and one is positively charged
+(S4) - the latter is characterised by charged amino acids at very third
+position, and probably represents the voltage-sensor.
+
+Several genes encoding alpha-1 subunits have been identified, each forming
+a distinct electrophysiological channel [4]. L-type calcium channels are
+formed from alpha-1S, alpha-1C and alpha-1D subunits. They are widely 
+distributed and are well characterised in the heart, smooth and skeletal
+muscle, and some neurons. Their primary functions are in both excitation-
+contraction and excitation-secretion coupling. In skeletal muscle, the 
+L-type calcium channels act as a voltage sensor for excitation-contraction
+coupling, and in cardiac muscle, they provide a pathway for calcium influx. 
+Mutations affecting L-type channel subunits result in three diseases: 
+(1) muscular dystrophy, which is characterised by a lack of functional 
+skeletal muscle; (2) hypokalaemic periodic paralysis, which is characterised
+by episodic attacks of skeletal muscle weakness; and (3) malignant
+hyperthermia, which is the main cause of death due to anaesthesia [3].
+
+LVDCCALPHA1 is a 6-element fingerprint that provides a signature for the
+L-type voltage-dependent calcium channel alpha-1 subunit. The fingerprint
+was derived from an initial alignment of 13 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length: motif 1 lies in
+the extracellular region between TM domains 1 and 2 of repeat I; motif 2
+resides in TM domain 3 of repeat I; motif 3 encodes the cytoplasmic region
+between TM domain 6 of repeat I and TM domain 1 of repeat II; motif 4 lies
+in the cytoplasmic region of repeat II; motif 5 spans TM domain 3 of repeat 
+II; and motif 6 resides in the extracellular region between TM domains
+5 and 6 in repeat II. Two iterations on SPTR40_18f were required to reach
+convergence, at which point a true set comprising 18 sequences was
+identified. Several partial matches were also found, all of which are
+members of the L-type voltage-dependent calcium channel family that fail 
+to make significant matches with one or more motifs.

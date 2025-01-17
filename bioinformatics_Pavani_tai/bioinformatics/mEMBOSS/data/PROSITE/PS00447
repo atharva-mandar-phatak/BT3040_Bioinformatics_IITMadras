@@ -1,0 +1,57 @@
+*************************************
+* DNA polymerase family A signature *
+*************************************
+
+Replicative  DNA polymerases (EC 2.7.7.7)  are the key enzymes  catalyzing the
+accurate  replication of DNA.   They require either a small RNA molecule or  a
+protein as a primer for the de novo synthesis of a DNA chain.  On the basis of
+sequence similarities  a number of DNA polymerases have  been grouped together
+[1,2,3] under the designation of DNA polymerase family A. The polymerases that
+belong to this family are listed below.
+
+ - Escherichia coli and various other bacterial polymerase I (gene polA).
+ - Thermus aquaticus Taq polymerase.
+ - Bacteriophage sp01 polymerase.
+ - Bacteriophage sp02 polymerase.
+ - Bacteriophage T5 polymerase.
+ - Bacteriophage T7 polymerase.
+ - Mycobacteriophage L5 polymerase.
+ - Yeast mitochondrial polymerase gamma (gene MIP1).
+
+Five regions of similarity  are  found  in  all the above polymerases.  One of
+these conserved regions, known as 'motif B' [1], is located in a domain which,
+in Escherichia coli polA,  has been shown to bind deoxynucleotide triphosphate
+substrates; it contains a conserved tyrosine  which  has been shown, by photo-
+affinity labelling, to be in the active site; a conserved lysine, also part of
+this motif, can be chemically labelled, using pyridoxal phosphate. We use this
+conserved region as a signature for this family of DNA polymerases.
+
+-Consensus pattern: R-x(2)-[GSAV]-K-x(3)-[LIVMFY]-[AGQ]-x(2)-Y-x(2)-[GS]-x(3)-
+                    [LIVMA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Delarue M., Poch O., Tordo N., Moras D., Argos P.
+     "An attempt to unify the structure of polymerases."
+     Protein Eng. 3:461-467(1990).
+     PubMed=2196557
+[ 2] Ito J., Braithwaite D.K.
+     "Compilation and alignment of DNA polymerase sequences."
+     Nucleic Acids Res. 19:4045-4057(1991).
+     PubMed=1870963
+[ 3] Braithwaite D.K., Ito J.
+     "Compilation, alignment, and phylogenetic relationships of DNA
+     polymerases."
+     Nucleic Acids Res. 21:787-802(1993).
+     PubMed=8451181
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

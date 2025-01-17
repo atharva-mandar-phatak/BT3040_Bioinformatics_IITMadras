@@ -1,0 +1,31 @@
+SMALLCYTKCXC
+Certain cell types, such as fibroblasts, endothelial cells and macrophages,
+secrete low molecular weight proteins in response to a variety of stimuli,
+including viral transformation, interferons and growth factors [1-3]. Some
+of these factors are structurally related, existing as either homodimers or
+homotetramers: each monomer has a core fold comprising a 3-stranded anti-
+parallel beta-sheet in a Greek-key arrangement [2], and a C-terminal alpha-
+helix [1,2]. The structure is held together by 2 disulphide bridges [1,2].
+
+All such cytokine proteins possess mitogenic, chemotactic or inflammatory
+activities [1-3], and are referred to as chemokines or intercrines. The
+family can be split into 2 groups, depending on the spacing of 2 N-terminal
+Cys residues [1,2]: in one group (CxC), the cysteines are separated by a
+single amino acid; in the second (CC), they are adjacent [1,2]. The CxC 
+group includes such factors as interleukin-8, platelet factor 4, melanoma 
+growth stimulatory activity protein, macrophage inflammatory protein 2, 
+platelet basic protein, and several others.
+
+SMALLCYTKCXC is a 3-element fingerprint that provides a signature for the
+CxC family of chemokines. The fingerprint was derived from an initial 
+alignment of 16 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 encodes the N-
+terminal region containing the first 2 cysteines; motif 2 spans the first
+2 beta-strands; and motif 3 spans the third strand and part of the C-
+terminal helix (the motifs encompass the region encoded by PROSITE pattern
+SMALL_CYTOKINES_CXC (PS00471), which describes a large portion of the active
+protein). Two iterations on OWL26.3 were required to reach convergence, at
+which point a true set comprising 49 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 1
+partial match.

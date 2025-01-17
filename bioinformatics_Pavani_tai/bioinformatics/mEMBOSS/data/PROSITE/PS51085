@@ -1,0 +1,91 @@
+***************************************************************************
+* 2Fe-2S ferredoxin-type iron-sulfur binding domain signature and profile *
+***************************************************************************
+
+Ferredoxins  are small, acidic, electron transfer proteins that are ubiquitous
+in  biological  redox  systems.  They  have  either  4Fe-4S, 3Fe-4S, or 2Fe-2S
+cluster.  Among  them,  ferredoxin  with  one  2Fe-2S cluster per molecule are
+present  in  plants, animals, and bacteria, and form a distinct 2Fe-Ferredoxin
+family  [1,2].  They  are proteins of around one hundred amino acids with four
+conserved  cysteine  residues  to  which  the  2Fe-2S cluster is ligated. This
+conserved region is also found as a domain in various metabolic enzymes.
+
+Several  structures  of the 2Fe-2S ferredoxin domain have been determined (see
+for example <PDB:4FXC>) [3]. The domain is classified as a beta-grasp which is
+characterized  as  having  a beta-sheet comprised of four beta-strands and one
+alpha-helix  flanking  the  sheet  [4].  The  two  Fe  atoms  are  coordinated
+tetrahedrally by the two inorganic S atoms and four cysteinyl S atoms.
+
+Some proteins that contains a 2Fe-2S ferredoxin-type domain are listed below:
+
+ - Ferredoxin from photosynthetic organisms;  namely plants and algae where it
+   is located in the chloroplast or cyanelle; and cyanobacteria.
+ - Ferredoxin from archaebacteria of the Halobacterium genus.
+ - Ferredoxin IV (gene pftA) and V (gene fdxD) from Rhodobacter capsulatus.
+ - Ferredoxin in the  toluene  degradation  operon (gene xylT) and naphthalene
+   degradation operon (gene nahT) of Pseudomonas putida.
+ - Hypothetical Escherichia coli protein yfaE.
+
+ - The N-terminal domain  of the  bifunctional ferredoxin/ferredoxin reductase
+   electron  transfer  component of the benzoate 1,2-dioxygenase complex (gene
+   benC) from Acinetobacter calcoaceticus, the toluene 4-monooxygenase complex
+   (gene tmoF), the toluate 1,2-dioxygenase system (gene xylZ), and the xylene
+   monooxygenase system (gene xylA) from Pseudomonas.
+ - The N-terminal domain of  phenol  hydroxylase  protein  p5 (gene dmpP) from
+   Pseudomonas Putida.
+ - The N-terminal domain of  methane  monooxygenase   component C  (gene mmoC)
+   from Methylococcus capsulatus .
+ - The C-terminal domain of the vanillate degradation pathway  protein vanB in
+   a Pseudomonas species.
+ - The N-terminal domain of bacterial  fumarate  reductase iron-sulfur protein
+   (gene frdB).
+ - The  N-terminal  domain  of CDP-6-deoxy-3,4-glucoseen reductase (gene ascD)
+   from Yersinia pseudotuberculosis.
+ - The central domain of eukaryotic succinate dehydrogenase (ubiquinone) iron-
+   sulfur protein.
+ - The N-terminal domain of eukaryotic xanthine dehydrogenase.
+ - The N-terminal domain of eukaryotic aldehyde oxidase.
+
+Three  of  the  four  conserved  cysteines  are clustered together in the same
+region  of  the  protein. Our signature pattern spans that iron-sulfur binding
+region. We also developed a profile that covers the whole domain.
+
+-Consensus pattern: C-{C}-{C}-[GA]-{C}-C-[GAST]-{CPDEKRHFYW}-C
+                    [The 3 C's are 2Fe-2S ligands]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  Ferredoxins  from the adrenodoxin subfamily are slightly divergent and
+ are not picked up by our pattern (but they are recognized by the profile). We
+ have  thus  developed  a  second  pattern  specific  for  this subfamily (see
+ <PDOC00642>).
+
+-Last update: March 2005 / Text revised; profile added.
+
+[ 1] Meyer J.
+     Trends Ecol. Evol. 3:222-226(1988).
+[ 2] Harayama S., Polissi A., Rekik M.
+     "Divergent evolution of chloroplast-type ferredoxins."
+     FEBS Lett. 285:85-88(1991).
+     PubMed=2065785
+[ 3] Fukuyama K., Ueki N., Nakamura H., Tsukihara T., Matsubara H.
+     "Tertiary structure of [2Fe-2S] ferredoxin from Spirulina platensis
+     refined at 2.5 A resolution: structural comparisons of plant-type
+     ferredoxins and an electrostatic potential analysis."
+     J. Biochem. 117:1017-1023(1995).
+     PubMed=8586613
+[ 4] Overington J.P.
+     Curr. Opin. Struct. Biol. 2:394-401(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

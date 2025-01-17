@@ -1,0 +1,18 @@
+DKSAZNFINGER
+The dksA gene product suppresses the temperature-sensitive growth and
+filamentation of a dnaK deletion mutant of E.coli [1]. Gene knockout [1]
+and deletion [2] experiments have shown the gene to be non-essential,
+mutations causing a mild sensitivity to UV light, but not affecting DNA
+recombination [2]. The protein contains a C-terminal region thought to fold
+into a 4-cysteine zinc finger. Other proteins found to contain a similar
+domain include the traR gene product, present on the conjugative plasmid
+F [3], and several hypothetical proteins from bacteria and bacteriophages.
+
+DKSAZNFINGER is a 2-element fingerprint that provides a signature for the
+dksA/traR zinc finger. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from the full finger domain, spanning
+the region encoded by PROSITE pattern DKSA_TRAR_ZN_FINGER (PS01102). Two
+iterations on OWL28.3 were required to reach convergence, at which point
+a true set comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 14 sequences.

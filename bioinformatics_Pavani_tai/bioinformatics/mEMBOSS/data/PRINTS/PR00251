@@ -1,0 +1,25 @@
+BACTRLOPSIN
+The bacterial opsins are retinal-binding proteins that provide light-
+dependent ion transport and sensory functions to a family of halophilic 
+bacteria [1,2]. They are integral membrane proteins believed to contain
+7 transmembrane (TM) domains, the last of which contains the attachment
+point for retinal (a conserved lysine). There are several classes of these
+bacterial proteins: they include bacteriorhodopsin and archaerhodopsin,
+which are light-driven proton pumps; halorhodopsin, a light-driven 
+chloride pump; and sensory rhodopsin, which mediates both photoattractant
+(in the red) and photophobic (in the UV) responses.
+ 
+BACTRLOPSIN is a 7-element fingerprint that provides a signature for the
+bacterial opsins. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from the 7 putative membrane-
+spanning domains - motif 3 includes the region encoded by PROSITE pattern
+BACTERIAL_OPSIN_1 (PS00950), which contains a functionally important Arg
+residue, and motif 7 encompasses the region encoded by PROSITE pattern
+BACTERIAL_OPSIN_RET (PS00327), which contains the retinal-binding lysine.
+Two iterations on OWL21.2 were required to reach convergence, at which
+point a true set comprising 8 sequences was identified. A single partial
+match was also found, a halorhodopsin fragment [3] lacking the first and
+the seventh TM domains.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 5
+partial matches.

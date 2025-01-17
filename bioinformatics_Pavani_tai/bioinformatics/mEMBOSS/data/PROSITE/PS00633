@@ -1,0 +1,107 @@
+*************************************
+* Bromodomain signature and profile *
+*************************************
+
+The bromodomain [1,2,3] is a conserved region of about 70 amino acids found in
+the following proteins:
+
+ - Higher  eukaryotes  transcription  initiation  factor  TFIID 250 Kd subunit
+   (TBP-associated factor  p250)  (gene  CCG1). P250 associated with the TFIID
+   TATA-box binding  protein  and  seems  essential for progression  of the G1
+   phase of the cell cycle.
+ - Human  RING3,  a  protein  of  unknown function encoded in the MHC class II
+   locus.
+ - Mammalian  CREB-binding  protein (CBP), which mediates cAMP-gene regulation
+   by binding specifically to phosphorylated CREB protein.
+ - Drosophila female sterile homeotic protein (gene fsh),  required maternally
+   for proper   expression   of  other  homeotic  genes  involved  in  pattern
+   formation, such as Ubx.
+ - Drosophila brahma protein (gene brm), a protein required for the activation
+   of multiple homeotic genes.
+ - Mammalian  homologs  of  brahma.  In human,  three brahma-like proteins are
+   known: SNF2a(hBRM), SNF2b, and BRG1.
+ - Human  BS69,  a  protein  that  binds  to  adenovirus  E1A and inhibits E1A
+   transactivation
+ - Human peregrin (or Br140).
+ - Yeast  BDF1  [3],  a  transcription  factor involved in the expression of a
+   broad class of genes including snRNAs.
+ - Yeast  GCN5,  a general transcriptional activator operating in concert with
+   certain other   DNA-binding   transcriptional  activators,  such  as  GCN4,
+   HAP2/3/4 or ADA2.
+ - Yeast NPS1/STH1, involved in G(2) phase control in mitosis.
+ - Yeast  SNF2/SWI2,  which is part of a complex with the SNF5, SNF6, SWI3 and
+   ADR6/SWI1 proteins.   This   SWI-complex  is  involved  in  transcriptional
+   activation.
+ - Yeast SPT7, a transcriptional activator of  Ty elements and possibly  other
+   genes.
+ - Caenorhabditis elegans protein cbp-1.
+ - Yeast hypothetical protein YGR056w.
+ - Yeast hypothetical protein YKR008w.
+ - Yeast hypothetical protein L9638.1.
+
+Some proteins  contain  a  region  which,  while  similar  to some extent to a
+classical bromodomain,  diverges  from it by either lacking part of the domain
+or because of an insertion. These proteins are:
+
+ - Mammalian  protein  HRX (also known as All-1 or MLL), a protein involved in
+   translocations leading  to  acute  leukemias  and  which possibly acts as a
+   transcriptional regulatory  factor. HRX contains a region similar to the C-
+   terminal half of the bromodomain.
+ - Caenorhabditis  elegans  hypothetical  protein  ZK783.4. The bromodomain of
+   this protein has a 23 amino-acid insertion.
+ - Yeast  protein  YTA7.  This  protein  contains  a  region  with significant
+   similarity to  the C-terminal half of the bromodomain. As it is a member of
+   the AAA  family  (see  <PDOC00572>)  it is also in a functionally different
+   context.
+
+The above proteins generally contain a single  bromodomain,  but  some of them
+contain two  copies,  this  is the case of BDF1, CCG1, fsh, RING3, YKR008w and
+L9638.1.
+
+The exact function  of this domain is not yet known  but  it  is thought to be
+involved in  protein-protein  interactions  and   it may be important  for the
+assembly or  activity  of multicomponent complexes involved in transcriptional
+activation.
+
+The consensus  pattern  that  we  have  developed  spans  a  major part of the
+bromodomain; a  more  sensitive    detection is available through the use of a
+profile which spans the whole domain.
+
+-Consensus pattern: [STANVFHG]-x(2)-[FAS]-x(4)-[DNSPAKT]-x(0,7)-[DENQTFG]-Y-
+                    [HFYLRKT]-x(2)-[LIVMFY]-x(3)-[LIVM]-x(4)-[LIVM]-x(6,10)-Y-
+                    x(12,13)-[LIVM]-x(2)-N-[SACF]-x(2)-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the divergent types of bromodomains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Aasland R.; aasland@bio.uib.no
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Haynes S.R., Doolard C., Winston F., Beck S., Trowsdale J., Dawid I.B.
+     Nucleic Acids Res. 20:2693-2603(1992).
+[ 2] Tamkun J.W., Deuring R., Scott M.P., Kissinger M., Pattatucci A.M.,
+     Kaufman T.C., Kennison J.A.
+     "brahma: a regulator of Drosophila homeotic genes structurally related
+     to the yeast transcriptional activator SNF2/SWI2."
+     Cell 68:561-572(1992).
+     PubMed=1346755
+[ 3] Tamkun J.W.
+     "The role of brahma and related proteins in transcription and
+     development."
+     Curr. Opin. Genet. Dev. 5:473-477(1995).
+     PubMed=7580139
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

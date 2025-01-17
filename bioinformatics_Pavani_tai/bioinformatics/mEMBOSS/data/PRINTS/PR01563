@@ -1,0 +1,70 @@
+G2ARECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Lysophospholipids (LPs), such as lysophosphatidic acid (LPA), sphingosine
+1-phosphate (S1P) and sphingosylphosphorylcholine (SPC), have long been
+known to act as signalling molecules in addition to their roles as
+intermediates in membrane biosynthesis [6]. They have roles in the
+regulation of cell growth, differentiation, apoptosis and development, and
+have been implicated in a wide range of pathophysiological conditions,
+including: blood clotting, corneal wounding, subarachinoid haemorrhage,
+inflammation and colitis [7]. A number of G protein-coupled receptors bind
+members of the lysophospholipid family. These include: the cannabinoid
+receptors; platelet activating factor receptor; OGR1, an SPC receptor
+identified in ovarian cancer cell lines; PSP24, an orphan receptor that has
+been proposed to bind LPA; and at least 8 closely related receptors, the EDG
+family, that bind LPA and S1P [6]. 
+
+Lysophosphatidylcholine (LPC) is produced by the action of phospholipase A2
+on phosphatidylcholine and promotes inflammatory effects, such as monocyte
+chemotaxis, increased expression of endothelial cell adhesion molecules and
+growth factors, and macrophage activation. LPC also plays a role in
+atherosclerosis and has been implicated in the pathogenesis of systemic
+lupus erythematosus, an autoimmune disease [8].
+
+An orphan receptor, G2A, has recently been identified that acts as a high 
+affinity receptor for LPC and a lower affinity receptor for the related
+lysophospholipid, SPC [8]. G2A is expressed mainly in lymphocytes and its
+expression is up-regulated by stress and prolonged mitogenic signals. Mice
+lacking the receptor have been found to develop a late-onset autoimmune
+disease [9]. It has therefore been suggested that G2A may function as a
+sensor of LPC levels at sites of inflammation and act as a negative
+regulator of lymphocyte growth to limit expansion of tissue-infiltrating
+cells and overt autoimmune disease [8]. Activation of G2A by LPC results in
+an increase in intracellular calcium levels (through coupling to Gi
+proteins) and activation of MAP kinases. The receptor has also been shown 
+to couple to G13 proteins, causing RhoA activation and formation of actin
+stress fibers [9].
+
+G2ARECEPTOR is an 8-element fingerprint that provides a signature for the
+G2A lysophosphatidylcholine receptors. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the G2A receptors but distinguish them from the 
+rest of the lysophospholipid receptor family - motif 1 lies in the first 
+external loop; motif 2 spans the second cytoplasmic loop; motif 3 resides 
+in TM domain 4; motif 4 lies in the second external loop, leading into TM 
+domain 5; motif 5 encodes the C-terminal portion of TM domain 5, leading 
+into the third cytoplasmic loop; motif 6 is located in the third external 
+loop; motif 7 spans part of TM domain 7, leading into the C-terminus; and 
+motif 8 also resides at the C-terminus. A single iteration on
+SPTR39.22_17.3f was required to reach convergence, no further sequences 
+being identified beyond the starting set. A single partial match was found,
+Q9BSU2, a human G2A receptor fragment that fails to match motifs 1-3.

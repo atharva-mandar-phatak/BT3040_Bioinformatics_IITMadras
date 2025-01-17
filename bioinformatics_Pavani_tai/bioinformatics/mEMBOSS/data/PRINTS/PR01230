@@ -1,0 +1,30 @@
+NACLTRNSPORT
+The thiazide-sensitive Na-Cl co-transporter is a large integral membrane
+protein (~1000 amino acids) that mediates the coupled transport of Na+ and
+Cl- in an electrically silent manner. In the mammalian kidney, it is the 
+dominant mechanism mediating Cl- absorption in the early distal tubule, and
+here it is the target of the widely-used thiazide class of diuretic drugs.
+It is also known to be present in the urinary bladder of the winter
+flounder, from where the gene encoding it was initially cloned [1]. 
+
+Hydrophobicity analysis predicts the Na-Cl co-transporter to have 12
+transmembrane (TM) domains and comparisons with other cloned ion co-
+transporters reveals that a superfamily of electroneutral cation-chloride
+co-transporters exists, which includes the K-Cl co-transporters (PR01081)
+and the Na-K-Cl co-transporters (PR01207). All share a similar predicted
+membrane topology in a central hydrophobic domain, together with
+hydrophilic N- and C-termini that are likely cytoplasmic [2].
+
+Mutations in the thiazide-sensitive Na-Cl co-transporter have been
+found that give rise to Gitelman's variant of Bartter's syndrome,
+an inherited kidney disease characterised by hypokalaemic alkalosis [3].
+
+NACLTRNSPORT is a 4-element fingerprint that provides a signature for
+thiazide-sensitive Na-Cl co-transporters. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 lies at the
+start of the fifth putative TM domain; motif 2 encodes ~1/3 of the seventh
+TM domain; motif 3 encodes a short portion of the putative cytoplasmic loop
+between TM domains 8 and 9; and motif 4 lies at the end of the cytoplasmic
+C-terminus. Two iterations on SPTR37_10f were required to reach convergence,
+at which point a true set comprising 5 sequences was identified.

@@ -1,0 +1,91 @@
+*********************************************************************
+* Hydroxymethylglutaryl-coenzyme A reductase signatures and profile *
+*********************************************************************
+
+Hydroxymethylglutaryl-coenzyme A reductase  (EC 1.1.1.34)  (HMG-CoA reductase)
+[1,2] catalyzes the NADP-dependent  synthesis  of mevalonate from 3-hydroxy-3-
+methylglutaryl-CoA.   In vertebrates, HMG-CoA  reductase  is the rate-limiting
+enzyme in  cholesterol biosynthesis. In plants, mevalonate is the precursor of
+all isoprenoid compounds.
+
+HMG-CoA reductase  is a membrane bound enzyme.  Structurally, it consists of 3
+domains. An N-terminal region that contains a variable number of transmembrane
+segments (7 in mammals, insects and fungi; 2 in plants), a linker region and a
+C-terminal catalytic domain of approximately 400 amino-acid residues.
+
+In archebacteria  [3] HMG-CoA reductase, which is involved in the biosynthesis
+of the isoprenoids side chains of lipids, seems to be cytoplasmic and lack the
+N-terminal hydrophobic domain.
+
+Some bacteria, such  as Pseudomonas mevalonii, can  use mevalonate as the sole
+carbon source.   These   bacteria   use  an  NAD-dependent  HMG-CoA  reductase
+(EC 1.1.1.88)  to  deacetylate  mevalonate into 3-hydroxy-3-methylglutaryl-CoA
+[3]. The Pseudomonas enzyme is structurally  related  to  the catalytic domain
+of NADP-dependent HMG-CoA reductases.
+
+We selected   three  conserved  regions  as  signature  patterns  for  HMG-CoA
+reductases. The  first  is  located in the center of the catalytic domain, the
+second is  a glycine-rich region located in the C-terminal section of the same
+catalytic domain  and  the third is also located in the C-terminal section and
+contains an histidine residue that seems [4] to be implicated in the catalytic
+mechanism as a general base.
+
+-Consensus pattern: [RKH]-x-{Y}-{I}-x-{I}-{L}-D-x-M-G-x-N-x-[LIVMA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Consensus pattern: [LIVM]-G-x-[LIVM]-G-G-[AG]-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 6.
+
+-Consensus pattern: A-[LIVM]-x-[STAN]-x(2)-[LI]-x-[KRNQ]-[GSA]-H-[LM]-x-
+                    [FYLH]
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for archaebacterial HMG-CoA reductases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Caelles C., Ferrer A., Balcells L., Hegardt F.G., Boronat A.
+     "Isolation and structural characterization of a cDNA encoding
+     Arabidopsis thaliana 3-hydroxy-3-methylglutaryl coenzyme A
+     reductase."
+     Plant Mol. Biol. 13:627-638(1989).
+     PubMed=2491679
+[ 2] Basson M.E., Thorsness M., Finer-Moore J., Stroud R.M., Rine J.
+     "Structural and functional conservation between yeast and human
+     3-hydroxy-3-methylglutaryl coenzyme A reductases, the rate-limiting
+     enzyme of sterol biosynthesis."
+     Mol. Cell. Biol. 8:3797-3808(1988).
+     PubMed=3065625
+[ 3] Lam W.L., Doolittle W.F.
+     "Mevinolin-resistant mutations identify a promoter and the gene for a
+     eukaryote-like 3-hydroxy-3-methylglutaryl-coenzyme A reductase in the
+     archaebacterium Haloferax volcanii."
+     J. Biol. Chem. 267:5829-5834(1992).
+     PubMed=1556098
+[ 4] Beach M.J., Rodwell V.W.
+     "Cloning, sequencing, and overexpression of mvaA, which encodes
+     Pseudomonas mevalonii 3-hydroxy-3-methylglutaryl coenzyme A
+     reductase."
+     J. Bacteriol. 171:2994-3001(1989).
+     PubMed=2656635
+[ 5] Darnay B.G., Wang Y., Rodwell V.W.
+     "Identification of the catalytically important histidine of
+     3-hydroxy-3-methylglutaryl-coenzyme A reductase."
+     J. Biol. Chem. 267:15064-15070(1992).
+     PubMed=1634543
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

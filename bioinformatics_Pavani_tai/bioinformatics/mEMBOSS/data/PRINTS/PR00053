@@ -1,0 +1,26 @@
+FORKHEAD
+The fork head protein of Drosophila, a transcription factor that promotes 
+terminal rather than segmental development, contains neither homeodomains
+nor zinc-fingers characteristic of other transcription factors [1]. Instead,
+it contains a distinct type of DNA-binding region, containing around 100
+amino acids, which has since been identified in a number of transcription
+factors (including Drosophila FD1-5, mammalian HNF-3, human HTLF, yeast
+HCM1, etc.). This is referred to as the fork head domain [1-3].
+
+The fork head domain binds B-DNA as a monomer [2], but shows no similarity 
+to previously identified DNA-binding motifs. Although the domain is found
+in several different transcription factors, a common function is their
+involvement in early developmental decisions of cell fates during
+embryogenesis [3].
+
+FORKHEAD is a 3-element fingerprint the provides a signature for the fork
+head DNA-binding domain. The fingerprint was derived from an initial 
+alignment of 8 sequences: the motifs were drawn from highly-conserved parts
+of the domain, motifs 1 and 3 including the regions encoded by PROSITE
+patterns FORK_HEAD_1 (PS00657) and FORK_HEAD_2 (PS00658), which contain a
+conserved hexapeptide and heptapeptide in its N-terminal and central
+sections. Two iterations on OWL25.1 were required to reach convergence,
+at which point a true set comprising 56 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 126 sequences, and 3
+partial matches.

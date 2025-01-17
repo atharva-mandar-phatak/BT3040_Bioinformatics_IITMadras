@@ -1,0 +1,54 @@
+***************************************************************************
+* Orn/Lys/Arg decarboxylases family 1 pyridoxal-phosphate attachment site *
+***************************************************************************
+
+Pyridoxal-dependent decarboxylases  acting  on ornithine, lysine, arginine and
+related substrates  can be classified into two different families on the basis
+of sequence similarities [1,2]. The first family consists of:
+
+ - Prokaryotic  ornithine decarboxylase (EC 4.1.1.17) (ODC). ODC catalyzes the
+   transformation of ornithine into putrescine.
+ - Prokaryotic  lysine  decarboxylase  (EC 4.1.1.18) (LDC).  LDC catalyzes the
+   transformation of lysine into cadaverine.
+ - Escherichia coli biodegradative arginine decarboxylase (EC 4.1.1.19) (ADC).
+   ADC catalyzes the transformation of arginine into agmatine.
+ - Bacillus subtilis hypothetical protein yaaO.
+
+One of the regions of sequence similarity contains a  conserved lysine residue
+which is known, in Escherichia coli LDC [3] and in ADC [4], to be the site  of
+attachment of  the pyridoxal-phosphate group.  We  have used this region  as a
+signature pattern.
+
+These enzymes are collectively known as group III decarboxylases [2].
+
+-Consensus pattern: [STAV]-x-S-x-H-K-x(2)-[GSTAN](2)-x-[STA]-Q-[STA](2)
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yaaO.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1993).
+[ 2] Sandmeier E., Hale T.I., Christen P.
+     Eur. J. Biochem. 221:997-1002(1994).
+[ 3] Meng S.-Y., Bennett G.N.
+     "Nucleotide sequence of the Escherichia coli cad operon: a system for
+     neutralization of low extracellular pH."
+     J. Bacteriol. 174:2659-2669(1992).
+     PubMed=1556085
+[ 4] Stim K.P., Bennett G.N.
+     "Nucleotide sequence of the adi gene, which encodes the biodegradative
+     acid-induced arginine decarboxylase of Escherichia coli."
+     J. Bacteriol. 175:1221-1234(1993).
+     PubMed=8383109
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

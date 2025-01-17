@@ -1,0 +1,33 @@
+CCMBBIOGNSIS
+Within mitochondria and bacteria, a family of related proteins is involved
+in the assembly of periplasmic c-type cytochromes: these include CycK [1],
+CcmF [2,3], NrfE [4] and CcbS [5]. These proteins may play a role in 
+guidance of apocytochromes and haem groups for their covalent linkage 
+by the cytochrome-c-haem lyase. Members of the family are probably integral
+membrane proteins, with up to 16 predicted transmembrane (TM) helices. 
+
+The gene products of the hel and ccl loci have been shown to be required
+specifically for the biogenesis of c-type cytochromes in the Gram-negative
+photosynthetic bacterium Rhodobacter capsulatus [6]. Genetic and molecular
+analyses show that the hel locus contains at least 4 genes, helA, helB, helC
+and orf52 [6]. HelA is similar to the ABC transporters and helA, helB, and
+helC are proposed to encode an export complex [4]. It is believed that the
+hel-encoded proteins are required for the export of haem to the periplasm,
+where it is subsequently ligated to the c-type apocytochromes [6]. However,
+while CcmB and CcmC have the potential to interact with CcmA, the 3 gene 
+products probably associating to form a complex with (CcmA)2-CcmB-CcmC
+stoichiometry, the substrate for the putative CcmABC-transporter is probably
+neither haem nor c-type apocytochromes [3]. Hydropathy analysis suggests
+the presence of 6 TM domains.
+
+CCMBBIOGNSIS is a 7-element fingerprint that provides a signature for 
+cytochrome c-type biogenesis protein CcmB (HelB). The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 includes the
+C-terminal half of TM domain 1; motif 2 encodes the C-terminal half of TM 
+domain 2; motif 3 lies immediately N-terminal to TM domain 3; motif 4 spans
+TM domain 3; and motifs 5-7 encode TM domains 4-6 respectively. Two
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 10 sequences was identified. A single partial match
+was also found, Q9Z650, a CcmB protein from Pantoea citrea that fails to 
+make a significant match with motif 3.

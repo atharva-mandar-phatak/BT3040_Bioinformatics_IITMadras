@@ -1,0 +1,41 @@
+DELTAOPIOIDR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The term opioid refers to a class of substance that produces its effects
+via the major classes of opioid receptor, termed mu, delta and kappa [6].
+The delta opioid receptor has a more discrete distribution in the CNS
+relative to the mu and kappa opioid receptors: it is found in the cerebral
+cortex, amygdala, nucleus accumbens, olfactory tubercle and pontine
+nucleus. It is also found in certain smooth muscles, e.g. hamster vas
+deferens, and in cell lines [6]. Delta-receptors mediate analgesia.
+
+DELTAOPIOIDR is a 6-element fingerprint that provides a signature for the 
+delta opioid receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the delta opioid receptors but
+distinguish them from the rest of the opioid receptor family - motifs 1
+and 2 were drawn from the N-terminal region preceding TM domain 1; motifs
+3 and 4 lie in the second and third external loops; and motifs 5 and 6 were
+drawn from the C-terminal region following TM domain 7. Two iterations on
+OWL27.1 were required to reach convergence, at which point a true set
+comprising 4 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

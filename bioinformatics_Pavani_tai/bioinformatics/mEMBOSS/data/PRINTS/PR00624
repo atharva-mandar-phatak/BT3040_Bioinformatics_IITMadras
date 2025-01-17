@@ -1,0 +1,23 @@
+HISTONEH5
+Histone H5 is a nuclear protein involved in the condensation of nucleosome
+chains into higher order structures. In this respect, it performs the same
+function as histone H1, and replaces H1 in certain cells.
+
+The structure of GH5, the globular domain (residues 22-100) of the linker
+histone H5, has been solved [1,2]. The fold is similar to the DNA-binding
+domain of the catabolite gene activator protein, CAP, thus providing a
+possible model for the binding of GH5 to DNA. The structure comprises 3
+alpha-helices and 2 short beta-strands.
+
+HISTONEH5 is a 7-element fingerprint that provides a signature for the
+H5 histones. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motifs 1-3 encode most of helices 1-3 res.; 
+motif 4 spans the 2 beta-strands; and motifs 5-7 span a lysine-rich region
+in the C-terminal section beyond the globular domain. Two iterations on
+OWL29.0 were required to reach convergence, at which point a true set
+comprising 9 sequences was identified. Several partial matches were also
+found, all of which are closely related H1 histones.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 84
+partial matches.

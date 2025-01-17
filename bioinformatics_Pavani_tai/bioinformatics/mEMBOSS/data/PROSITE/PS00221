@@ -1,0 +1,76 @@
+************************
+* MIP family signature *
+************************
+
+Recently the sequence  of a number of  different proteins, that all seem to be
+transmembrane channel proteins, has been found to be  highly related [1 to 4].
+These proteins are listed below.
+
+ - Mammalian major intrinsic protein (MIP). MIP is the major component of lens
+   fiber gap junctions.  Gap junctions  mediate  direct  exchange  of ions and
+   small molecule from one cell to another.
+ - Mammalian  aquaporins  [5].  These  proteins  form  water-specific channels
+   that provide the  plasma  membranes  of  red  cells and kidney proximal and
+   collecting tubules  with  high  permeability  to  water, thereby permitting
+   water to move in the direction of an osmotic gradient.
+ - Soybean nodulin-26, a major component of the peribacteroid membrane induced
+   during nodulation in legume roots after Rhizobium infection.
+ - Plants tonoplast intrinsic proteins (TIP). There  are  various  isoforms of
+   TIP: alpha (seed), gamma, Rt (root), and Wsi (water-stress induced).  These
+   proteins may allow the diffusion of water, amino acids and/or peptides from
+   the tonoplast interior to the cytoplasm.
+ - Bacterial glycerol facilitator protein (gene glpF), which  facilitates  the
+   movement of glycerol across the cytoplasmic membrane.
+ - Salmonella typhimurium propanediol diffusion facilitator (gene pduF).
+ - Yeast FPS1, a glycerol uptake/efflux facilitator protein.
+ - Drosophila neurogenic protein  'big brain' (bib).  This protein may mediate
+   intercellular communication; it  may functions by allowing the transport of
+   certain molecules(s) and thereby sending a signal for an  exodermal cell to
+   become an epidermoblast instead of a neuroblast.
+ - Yeast hypothetical protein YFL054c.
+ - A hypothetical protein from the pepX region of lactococcus lactis.
+
+The MIP family proteins seem to  contain six transmembrane segments.  Computer
+analysis shows that these  protein  probably  arose  by  a  tandem, intragenic
+duplication event from an ancestral protein that contained three transmembrane
+segments.  As a signature pattern we selected a well conserved region which is
+located  in  a  probable  cytoplasmic  loop   between   the second  and  third
+transmembrane regions.
+
+-Consensus pattern: [HNQA]-{D}-N-P-[STA]-[LIVMF]-[ST]-[LIVMF]-[GSTAFY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Reizer J., Reizer A., Saier M.H. Jr.
+     CRC Crit. Rev. Biochem. 28:235-257(1993).
+[ 2] Baker M.E., Saier M.H. Jr.
+     "A common ancestor for bovine lens fiber major intrinsic protein,
+     soybean nodulin-26 protein, and E. coli glycerol facilitator."
+     Cell 60:185-186(1990).
+     PubMed=2404610
+[ 3] Pao G.M., Wu L.-F., Johnson K.D., Hofte H., Chrispeels M.J., Sweet G.,
+     Sandal N.N., Saier M.H. Jr.
+     "Evolution of the MIP family of integral membrane transport
+     proteins."
+     Mol. Microbiol. 5:33-37(1991).
+     PubMed=2014003
+[ 4] Wistow G.J., Pisano M.M., Chepelinsky A.B.
+     "Tandem sequence repeats in transmembrane channel proteins."
+     Trends Biochem. Sci. 16:170-171(1991).
+     PubMed=1715617
+[ 5] Chrispeels M.J., Agre P.
+     "Aquaporins: water channel proteins of plant and animal cells."
+     Trends Biochem. Sci. 19:421-425(1994).
+     PubMed=7529436
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

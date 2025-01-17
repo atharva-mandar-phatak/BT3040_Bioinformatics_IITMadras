@@ -1,0 +1,20 @@
+TMFOUR
+A number of eukaryotic cell surface antigens have been shown to be related
+[1], including mammalian leukocyte antigen CD37, mammalian lysosomal 
+membrane protein CD63, human tumour-associated antigen CD-029, and several
+others. These proteins are all type II membrane proteins: they contain an
+N-terminal transmembrane (TM) domain, which acts both as a signal sequence
+and a membrane anchor, and 3 additional TM regions (hence the name 'TM4').
+The sequences contain a number of conserved cysteine residues. 
+
+TMFOUR is a 4-element fingerprint that provides a signature for the
+TM4 proteins. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn largely from the TM domains, motifs 2 and
+3 spanning the region encoded by PROSITE pattern TM4 (PS00421), which 
+encompasses the intervening loop. Two iterations on OWL23.2 were required
+to reach convergence, at which point a true set comprising 20 sequences was
+identified. A single partial match (B35826) was also found, a fragment
+lacking part of TM domain 4.
+
+An update on SPTR37_9f identified a true set of 47 sequences, and 6
+partial matches.

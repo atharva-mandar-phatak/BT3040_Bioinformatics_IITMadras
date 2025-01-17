@@ -1,0 +1,55 @@
+**********************
+* MBT repeat profile *
+**********************
+
+The  Polycomb-group  protein Sex Comb on midleg (SCM) and the tumor suppressor
+protein  lethal  (3) malignant brain tumor (l(3)mbt) , share a homology region
+consisting  of  two repeats, each about 100 amino acids in length. This repeat
+has been name MBT after its occurence in l(3)mbt [1].
+
+The  structure  of  MBT  repeats  has been solved (see <PDB:1OI1>) [2,3]. Each
+repeat consists of an extended "arm" and a globular core. The arm of the first
+repeat  packs  against  the core of the second repeat and vice versa. The core
+consists  of  an  SH3-like  five stranded beta-barrel followed by a C-terminal
+alpha-helice   and   another   short  beta-strand.  The  MBT  structure  shows
+significant  similarities  with  the  Tudor  (see  <PDOC50304>), the PWWP (see
+<PDOC50812>)  and  the chromo (see <PDOC00517>) domains within the beta-barrel
+portion  of  the structure. Given their similarity to these domains, a binding
+role   is  probable,  and  post-translationally  modified  histones  are  good
+candidates for binding targets [3,4].
+
+The profile we developed covers the whole MBT repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2005 / First entry.
+
+[ 1] Bornemann D., Miller E., Simon J.
+     "The Drosophila Polycomb group gene Sex comb on midleg (Scm) encodes a
+     zinc finger protein with similarity to polyhomeotic protein."
+     Development 122:1621-1630(1996).
+     PubMed=8625848
+[ 2] Wang W.K., Tereshko V., Boccuni P., MacGrogan D., Nimer S.D.,
+     Patel D.J.
+     "Malignant brain tumor repeats: a three-leaved propeller architecture
+     with ligand/peptide binding pockets."
+     Structure 11:775-789(2003).
+     PubMed=12842041
+[ 3] Sathyamurthy A., Allen M.D., Murzin A.G., Bycroft M.
+     "Crystal structure of the malignant brain tumor (MBT) repeats in Sex
+     Comb on Midleg-like 2 (SCML2)."
+     J. Biol. Chem. 278:46968-46973(2003).
+     PubMed=12952983; DOI=10.1074/jbc.M306469200
+[ 4] Maurer-Stroh S., Dickens N.J., Hughes-Davies L., Kouzarides T.,
+     Eisenhaber F., Ponting C.P.
+     Trends Biochem. Sci. 28:69-74(2003).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

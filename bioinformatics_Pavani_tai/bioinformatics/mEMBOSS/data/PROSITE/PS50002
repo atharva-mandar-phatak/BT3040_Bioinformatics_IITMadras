@@ -1,0 +1,120 @@
+***************************************
+* Src homology 3 (SH3) domain profile *
+***************************************
+
+The Src  homology  3 (SH3) domain is a small protein domain of about 60 amino-
+acid residues first  identified as  a  conserved sequence in the non-catalytic
+part of several cytoplasmic protein tyrosine kinases (e.g. Src, Abl, Lck) [1].
+Since then,  it  has  been  found in a great variety of other intracellular or
+membrane-associated proteins [2,3,4,5].
+
+The SH3  domain  has a characteristic fold which consists of five or six beta-
+strands arranged  as  two tightly packed anti-parallel beta sheets. The linker
+regions may contain short helices [6].
+
+The function  of the SH3 domain is not well understood. The current opinion is
+that they  mediate  assembly  of  specific  protein  complexes  via binding to
+proline-rich peptides [7].
+
+In general  SH3  domains  are  found  as single copies in a given protein, but
+there is  a  significant number of protein with two SH3 domains and a few with
+3 or 4 copies.
+
+So far, SH3 domains have been identified in the following proteins:
+
+ - Many  vertebrate,  invertebrate  and  retroviral cytoplasmic (non-receptor)
+   protein tyrosine kinases. In particular in the Src, Abl, Bkt, Csk and ZAP70
+   families of kinases.
+ - Mammalian phosphatidylinositol-specific phospholipase C-gamma-1 and -2.
+ - Mammalian phosphatidyl inositol 3-kinase regulatory p85 subunit.
+ - Mammalian Ras GTPase-activating protein (GAP).
+ - Adaptor  proteins  mediating binding of guanine nucleotide exchange factors
+   to growth  factor  receptors: vertebrate GRB2, Caenorhabditis elegans sem-5
+   and Drosophila DRK. All of which have two SH3 domains.
+ - Mammalian  Vav  oncoprotein,  a  guanine  nucleotide exchange factor of the
+   CDC24 family.
+ - Some guanine-nucleotide releasing factors of the CDC25 family: yeast CDC25,
+   yeast SCD25, fission yeast ste6.
+ - MAGUK  proteins. These proteins consist of at least three types of domains:
+   one or  more  copies  of  the  DHR  domain,  a  SH3 domain and a C-terminal
+   guanylate kinase  domain  (see  <PDOC00670>).  Members  of this family are:
+   Drosophila lethal(1)discs  large-1  tumor  suppressor  protein (gene Dlg1),
+   mammalian tight  junction  protein  ZO-1,  vertebrate  erythrocyte membrane
+   protein p55,  Caenorhabditis  elegans  protein  lin-2, rat protein CASK and
+   mammalian synaptic  proteins  SAP90/PSD-95,  CHAPSYN-110/PSD-93, SAP97/DLG1
+   and SAP102.
+ - Miscellanous   proteins   interacting   with  vertebrate  receptor  protein
+   tyrosine kinases: mammalian cytoplasmic protein Nck (3 copies), oncoprotein
+   Crk (2 copies).
+ - Chicken  Src  substrate  p80/85  protein  (cortactin) and the similar human
+   hemopoietic lineage cell specific protein Hs1.
+ - Mammalian dihydrouridine-sensitive L-type calcium channel beta (regulatory)
+   subunit including the related human myasthenic syndrome antigen B (MSYB).
+ - Mammalian  neutrophil  cytosolic  activators of NADPH oxidase: p47 (NCF-1),
+   p67 (NCF-2), and a potential homolog from Caenorhabditis elegans (B0303.7).
+   NCF-1 and -2 have two copies of the SH3 domain, while B0303.7 has four.
+ - Some myosin heavy chains from amoebae, slime molds and yeast (gene MYO3).
+ - Vertebrate and Drosophila spectrin and fodrin alpha-chain.
+ - Human amphiphysin.
+ - Yeast actin-binding protein ABP1.
+ - Yeast actin-binding protein SLA1 (3 copies).
+ - Yeast protein BEM1 and the fission yeast homolog scd2 (or ral3) (2 copies).
+ - Yeast BEM1-binding proteins BOI2 (BEB1) and BOB1 (BOI1).
+ - Yeast fusion protein FUS1.
+ - Yeast protein RSV167.
+ - Yeast protein SSU81.
+ - Yeast  hypothetical proteins YAR014c (1 copy), YFR024c (1 copy), YHL002w (1
+   copy), YHR016c  (1  copy),  YJL020C  (1  copy),  YHR114w (2 copies) and the
+   fission yeast homolog SpAC12C2.05c.
+ - Caenorhabditis elegans hypothetical protein F42H10.3.
+
+The profile developed to detect SH3 domains is based on a structural alignment
+consisting of  5  gap-free  blocks  and  4  linker  regions  totaling 62 match
+positions.
+
+-Sequences known to belong to this class detected by the profile: ALL.     The
+ second SH3 domain in crk is missed at a stringent cut-off.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Zvelebil M.; marketa@ludwig.ucl.ac.uk
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Mayer B.J., Hamaguchi M., Hanafusa H.
+     "A novel viral oncogene with structural similarity to phospholipase
+     C."
+     Nature 332:272-275(1988).
+     PubMed=2450282; DOI=10.1038/332272a0
+[ 2] Musacchio A., Gibson T., Lehto V.P., Saraste M.
+     "SH3--an abundant protein domain in search of a function."
+     FEBS Lett. 307:55-61(1992).
+     PubMed=1639195
+[ 3] Pawson T., Schlessingert J.
+     "SH2 and SH3 domains."
+     Curr. Biol. 3:434-442(1993).
+     PubMed=15335710
+[ 4] Mayer B.J., Baltimore D.
+     "Signalling through SH2 and SH3 domains."
+     Trends Cell Biol. 3:8-13(1993).
+     PubMed=14731533
+[ 5] Pawson T.
+     "Protein modules and signalling networks."
+     Nature 373:573-580(1995).
+     PubMed=7531822; DOI=10.1038/373573a0
+[ 6] Kuriyan J., Cowburn D.
+     Curr. Opin. Struct. Biol. 3:828-837(1993).
+[ 7] Morton C.J., Campbell I.D.
+     "SH3 domains. Molecular 'Velcro'."
+     Curr. Biol. 4:615-617(1994).
+     PubMed=7953536
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

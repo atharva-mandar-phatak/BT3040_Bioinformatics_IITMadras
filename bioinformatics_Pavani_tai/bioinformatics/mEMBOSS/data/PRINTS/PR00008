@@ -1,0 +1,22 @@
+DAGPEDOMAIN
+Diacylglycerol (DAG) is an important second messenger; phorbol esters
+(PE) are analogues of DAG and are potent tumour promoters that cause
+a variety of physiological changes when administered to both cells and
+tissues. DAG activates a family of Ser/Thr protein kinases known 
+collectively as protein kinase C (PKC) [1]: PE's can stimulate PKC 
+directly. The N-terminal region of PKC, known as C1, has been shown to 
+bind PE and DAG in a phospholipid-dependent fashion [2]. The C1 region 
+of PKC contains 1 or 2 copies of a Cys-rich region of about 50 amino acid 
+residues, which is essential for DAG/PE binding.
+
+DAGPEDOMAIN is a 4-element fingerprint that encodes this Cys-rich region. 
+The fingerprint was derived from an initial alignment of 13 sequences 
+(A.Bairoch, personal communication): the motifs span the full length of
+the DAG/PE binding domain. Two iterations on OWL10.0 were required to
+reach convergence, at which point every known occurrence of the motif was
+detected (38 in all), together with an additional protein - the human vav
+oncogene. The implication is that the vav oncogene may well bind DAG
+and/or PE's and could thus be involved in signal transduction [3]. 
+
+An update on SPTR37_9f identified a true set of 101 sequences, and 25
+partial matches.

@@ -1,0 +1,47 @@
+PROTHROMBIN
+The amino acid sequence of prothrombin has a modular architecture, 
+comprising a series of N-terminal gamma-carboxyglutamate residues,
+activation peptides 1 and 2, thrombin light chains A and B, and two kringle 
+domains. Modification of the glutamyl residues is necessary for calcium-
+dependent interaction of the protein with a negatively charged phospholipid 
+surface, which is essential for the conversion of prothrombin to thrombin.
+
+Prothrombin activation at the membrane surface is mediated by factors Va
+and Xa. Factor Xa removes the activation peptide and cleaves the remaining
+part into light and heavy chains. Activation is slow because factor V 
+itself has to be activated by the initial small amounts of thrombin.
+
+Thrombin is a member of the trypsin family of S1 peptidases. It catalyses
+the preferential cleavage of arginine-lysine bonds, converting fibrinogen 
+to fibrin, and releasing fibrinopeptides A and B. Thrombin can itself cleave
+the N-terminal fragment (fragment 1) of prothrombin, prior to its activation
+by factor Xa. Its effects are mediated by the thrombin receptor.
+
+The structure of the thrombin A-chain has been determined to 1.9A resolution
+[1]. The A-chain, which is ordered only in its central part, is positioned
+along the molecular surface opposite to the active site. The B-chain 
+exhibits the characteristic fold of trypsin-like proteases [1,2].
+
+The most conserved portions of the B chain are the active-site residues and
+adjacent amino acids, the B loop, and the primary substrate-binding region
+[3]. The regions of poorest conservation in the B chain correspond to 
+surface loops, including putative thrombomodulin-binding sites and a 
+hirudin-binding region. The extent of sequence similarity between species
+and the conservation of many of the functional/structural motifs suggests
+that, in addition to their role in blood coagulation, vertebrate thrombins
+may play an important role in the general mechanisms of wound repair [3].
+
+PROTHROMBIN is an 4-element fingerprint that provides a signature for 
+prothrombin. The fingerprint was derived from an initial alignment of 4 
+sequences: the motifs were drawn from conserved regions spanning the 
+C-terminal two-thirds of the alignment - motif 1 encodes the C-terminal 
+alpha-helix of the thrombin light chain (A); and motifs 2-4 span the 
+thrombin heavy chain (B) - motif 2 encodes helices 2 and 3 and strands 6 and
+7; motif 3 encodes strand 10; and motif 4 spans strand 15 and helices 6 and 
+7. A single iteration on SPTR37_10f was required to reach convergence, no 
+further sequences being identified beyond the starting set. A single partial
+match was found, 
+
+An update on SPTR57.15_40.15f identified a true set of 21 sequences, and two
+partial matches (Q90504_EPTST and B3XZZ0_LAMJA), which are pacific hagfish
+and Japanese lamprey thrombins that fail to match motif 1.

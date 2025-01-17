@@ -1,0 +1,76 @@
+***********************************************
+* LDL-receptor class B (LDLRB) repeat profile *
+***********************************************
+
+The low-density lipoprotein receptor (LDLR)  regulates cholesterol homeostasis
+in  mammalian  cells.  LDLR  binds  cholesterol-carrying  LDL, associates with
+clathrin-coated  pits,  and  is  internalized  into  acidic endosomes where it
+separates  from  its  ligand.  The  ligand is degraded in lysosomes, while the
+receptor  returns  to  the cell surface [1]. The LDLR has several domains. The
+ligand-binding  domain  contains  seven  LDL  receptor  class  A  repeats (see
+<PDOC00929>),  each with three disulfide bonds and a coordinated Ca2+ ion. The
+second  conserved  region contains two EGF repeats (see <PDOC00913>), followed
+by  six  YWTD or LDL receptor class B repeats and another EGF repeat [2]. This
+conserved  region is critical for ligand release and recycling of the receptor
+[3].
+
+The  structure  of  the six YWTD repeats of LDL receptor have been solved (see
+<PDB:1IJQ>)  [4].  The  six  YWTD  repeats  together  fold  into  a six-bladed
+beta-propeller.  Each  blade  of  the  propeller consists of four antiparallel
+beta-strands;  the  innermost  strand  of  each  blade  is  labeled  1 and the
+outermost  strand,  4.  The  sequence  repeats  are offset with respect to the
+blades  of  the  propeller,  such  that any given 40-residue YWTD repeat spans
+strands  2–4 of one propeller blade and strand 1 of the subsequent blade. This
+offset ensures circularization of the propeller because the last strand of the
+final  sequence repeat acts as an innermost strand 1 of the blade that harbors
+strands 2–4 from the first sequence repeat.
+
+Some proteins known to contain LDL receptor class B repeats:
+
+ - Animal low-density lipoprotein receptor.
+ - Mammalian pro-epidermal growth factor precursor (EGF).
+ - Mammalian nidogen-2 precursor, a cell adhesion glycoprotein which is widely
+   distributed in basement membranes.
+ - Vertebrate sortilin-related receptor precursor.
+ - Very  low-density lipoprotein receptor precursor (VLDLR). It binds VLDL and
+   transports it into cells by endocytosis.
+ - Drosophila  Yolkless  protein.  It is involved in uptake of vitellogenin by
+   endocytosis.
+
+The profile we developed covers the whole LDL receptor class B repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2005 / First entry.
+
+[ 1] Brown M.S., Goldstein J.L.
+     "A receptor-mediated pathway for cholesterol homeostasis."
+     Science 232:34-47(1986).
+     PubMed=3513311
+[ 2] Springer T.A.
+     "An extracellular beta-propeller module predicted in lipoprotein and
+     scavenger receptors, tyrosine kinases, epidermal growth factor
+     precursor, and extracellular matrix components."
+     J. Mol. Biol. 283:837-862(1998).
+     PubMed=9790844
+[ 3] Davis C.G., Goldstein J.L., Sudhof T.C., Anderson R.G., Russell D.W.,
+     Brown M.S.
+     "Acid-dependent ligand dissociation and recycling of LDL receptor
+     mediated by growth factor homology region."
+     Nature 326:760-765(1987).
+     PubMed=3494949; DOI=10.1038/326760a0
+[ 4] Jeon H., Meng W., Takagi J., Eck M.J., Springer T.A., Blacklow S.C.
+     "Implications for familial hypercholesterolemia from the structure of
+     the LDL receptor YWTD-EGF domain pair."
+     Nat. Struct. Biol. 8:499-504(2001).
+     PubMed=11373616; DOI=10.1038/88556
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

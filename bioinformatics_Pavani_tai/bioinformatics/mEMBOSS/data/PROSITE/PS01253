@@ -1,0 +1,110 @@
+***************************************************
+* Fibronectin type-I domain signature and profile *
+***************************************************
+
+Fibronectin is a plasma protein that binds cell surfaces and various compounds
+including collagen, fibrin, heparin, DNA, and  actin.   The major part  of the
+sequence of fibronectin consists  of the repetition of three types of domains,
+which are called type I, II, and III [1]. Type I domain (FN1) is approximately
+40 residues  in  length.    Four conserved cysteines are involved in disulfide
+bonds. Fibronectin contains 12 repeats of this domain.
+
+The 3D structure of the FN1 domain has been determined (see <PDB:1FBR>) [2-5].
+It consists of two antiparallel beta-sheets, first a double-stranded one, that
+is  linked  by  a  disulfide  bond to a triple-stranded beta-sheet. The second
+conserved disulfide bridge links the C-terminal adjacent strands of the domain
+(see the schematic representation below).
+
+                                          +--------+
+              +---------------------------|-+      |
+              |                           | |      |
+            xxCxxxxxxxxaxxxxxax+xxxxxxxxxxCxCxxxxxxCxxx
+              **************************************
+              bbb    bbb    bbbbb      bbbbb      bbbbb
+
+'C': conserved cysteine involved in a disulfide bond.
+'a': often conserved aromatic amino acid.
+'b': position of sheet-forming amino acids.
+'+': positively charged amino acid.
+'*': position of the pattern.
+
+In  human  tissue  plasminogen activator chain A, the FN1 domain together with
+the  following epidermal growth factor (EGF)-like domain (see <PDOC00021>) are
+involved  in  fibrin-binding [6]. It has been suggested that these two modules
+form  a  single structural and functional unit [4]. The two domains keep their
+specific  tertiary  structure,  but  interact intimately to bury a hydrophobic
+core;  the  inter-module  linker makes up the third strand of the EGF-module's
+major  beta-sheet.
+
+The  FN1  domain  is  also  found  as a single copy in the following mammalian
+proteins:
+
+ - Blood  coagulation factor  XII  (Hageman  factor),  which  is composed of a
+   fibronectin type-II domain, two EGF-repeats, one fibronectin type-I domain,
+   followed by a kringle.
+ - Hepatocyte   growth   factor   (HGF)  activator  (EC  3.4.21.-),  activates
+   hepatocyte growth  factor    by  converting  it  from  a  single chain to a
+   heterodimeric form.  It  has  the  same modular architecture than the blood
+   coagulation factor XII.
+ - Tissue-type  plasminogen  activator  (t-PA),  which  contains a fibronectin
+   type-I domain, one EGF-repeat, and two kringles.
+
+We  developed  a pattern, that spans the domain between the first and the last
+conserved  cysteine.  We  also  developed  a profile that covers the whole FN1
+domain.
+
+-Consensus pattern: C-x(6,8)-[LFY]-x(5)-[FYW]-x-[RK]-x(8,10)-C-x-C-x(6,9)-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  pattern  will,  in  a  few  cases,  miss one of the FN1 domains in
+ fibronectin due to rare further variation in gap length or lack of one of the
+ conserved aromatic amino acids.
+
+-Expert(s) to contact by email:
+           Potts J.; jenp@bioch.ox.ac.uk
+
+-Last update: March 2005 / Text revised; profile added.
+
+[ 1] Skorstengaard K., Jensen M.S., Sahl P., Petersen T.E., Magnusson S.
+     "Complete primary structure of bovine plasma fibronectin."
+     Eur. J. Biochem. 161:441-453(1986).
+     PubMed=3780752
+[ 2] Baron M., Norman D., Willis A., Campbell I.D.
+     "Structure of the fibronectin type 1 module."
+     Nature 345:642-646(1990).
+     PubMed=2112232; DOI=10.1038/345642a0
+[ 3] Downing A.K., Driscoll P.C., Harvey T.S., Dudgeon T.J., Smith B.O.,
+     Baron M., Campbell I.D.
+     "Solution structure of the fibrin binding finger domain of tissue-type
+     plasminogen activator determined by 1H nuclear magnetic resonance."
+     J. Mol. Biol. 225:821-833(1992).
+     PubMed=1602484
+[ 4] Smith B.O., Downing A.K., Driscoll P.C., Dudgeon T.J., Campbell I.D.
+     "The solution structure and backbone dynamics of the fibronectin type
+     I and epidermal growth factor-like pair of modules of tissue-type
+     plasminogen activator."
+     Structure 3:823-833(1995).
+     PubMed=7582899
+[ 5] Potts J.R., Phan I., Williams M.J., Campbell I.D.
+     Nat. Genet. 2:946-950(1995).
+[ 6] Bennett W.F., Paoni N.F., Keyt B.A., Botstein D., Jones A.J.S.,
+     Presta L., Wurm F.M., Zoller M.J.
+     "High resolution analysis of functional determinants on human
+     tissue-type plasminogen activator."
+     J. Biol. Chem. 266:5191-5201(1991).
+     PubMed=1900516
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,72 @@
+*********************************
+* Osteonectin domain signatures *
+*********************************
+
+The following extracellular proteins  contain, in their C-terminal section,  a
+domain of  about 240 amino acids which is highly conserved [1]. These proteins
+are:
+
+ - SPARC  (also known as Osteonectin or BM-40), a glycoprotein that appears to
+   regulate cell growth through interactions with the extracellular matrix and
+   cytokines. It binds calcium and copper, several types of collagen, albumin,
+   thrombospondin, PDGF  and  cell  membranes.  There  are two calcium binding
+   sites; a acidic domain that binds 5 to 8 Ca++ with a low affinity and a EF-
+   hand loop that binds a Ca++ ion with a high affinity. SPARC is expressed at
+   high levels in tissues undergoing morphogenesis, remodeling and repair.
+ - SC1, a mammalian brain extracellular matrix protein.
+ - QR1, an avian protein, specifically expressed in the neuroretina.
+
+This domain    has  a N-terminal section of about 90 residues that contains 11
+conserved cysteines, a  central  section  that is probably in an alpha-helical
+conformation, and a C-terminal section that contains two EF-hand type calcium-
+binding regions   [2]  and  three  conserved  cysteines.    This  topology  is
+schematically represented below.
+
+                                                                     +----+
+                                                                     |    |
+ xCxCxCxxCCxCxxxCxxCxCxxxxxCxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<Ca>xCxxC<Ca>Cxx
+  ***********                   ***
+
+'C' : conserved cysteines involved in disulfide bonds.
+'Ca': EF-hand region (see <PDOC00018>).
+'*' : position of the patterns.
+
+We developed two signature   patterns for  this  domain. One is located in the
+C-terminal  cysteine-rich  section, the  other  consists in a highly conserved
+stretch of 11 residues in the central section.
+
+-Consensus pattern: C-x-[DNS]-x(2)-C-x(2)-G-[KRH]-x-C-x(6,7)-P-x-C-x-C-x(3,5)-
+                    C-P
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: F-P-x-R-[IM]-x-D-W-L-x-[NQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Maurer P.; maurer2@urz.unibas.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Lane T.F., Sage E.H.
+     "The biology of SPARC, a protein that modulates cell-matrix
+     interactions."
+     FASEB J. 8:163-173(1994).
+     PubMed=8119487
+[ 2] Hohenester E., Maurer P., Hohenadl C., Timpl R., Jansonius J.N.,
+     Engel J.
+     "Structure of a novel extracellular Ca(2+)-binding module in BM-40."
+     Nat. Struct. Biol. 3:67-73(1996).
+     PubMed=8548457
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,70 @@
+**********************
+* MRG domain profile *
+**********************
+
+MORF4 (mortality  factor  on  chromosome  4),  MRG15  (MORF4-related  gene  on
+chromosome 15)  and  MRGX  (MORF4-related gene on chromosome X) are members of
+the MRG  protein  family  that  were first identified as transcription factors
+involved in  cellular  senescence. All expressed members of the MRG family are
+localized to the nucleus and have predicted motifs that indicate they function
+as chromatin  remodeling  complex  components.  MORF4,  MRG15 and MRGX share a
+common C-terminal  part  but  a  different  N-terminal  part.  The  C-terminal
+similarity of  all MRG family members (MORF4, MRG15 and MRGX homologs) defines
+a new  conserved  protein  domain.  The  ~170  amino  acid  MRG domain binds a
+plethora of   transcriptional  regulators  and  chromatin-remodeling  factors,
+including the  histone  deacetylase  transriptional corepressor mSin3A and the
+nuclear protein PAM14 (protein-associated MRG, 14kDa) [1,2].
+
+The MRG  domain  consists  of  three  conserved  blocks.  It  is predominantly
+hydrophobic, and consists of mainly alpha-helices that are arranged in a three
+layer sandwich  topology  (see <PDB:2F5J>). The hydrophobic core is stabilized
+by interactions   among  a  number  of  conserved  hydrophobic  residues.  The
+molecular surface  is  largely  hydrophobic,  but  contains  a few hydrophilic
+patches [3,4,5].
+
+The profile we developed covers the entire MRG domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2012 / First entry.
+
+[ 1] Bertram M.J., Berube N.G., Hang-Swanson X., Ran Q., Leung J.K.,
+     Bryce S., Spurgers K., Bick R.J., Baldini A., Ning Y., Clark L.J.,
+     Parkinson E.K., Barrett J.C., Smith J.R., Pereira-Smith O.M.
+     "Identification of a gene that reverses the immortal phenotype of a
+     subset of cells and is a member of a novel family of transcription
+     factor-like genes."
+     Mol. Cell. Biol. 19:1479-1485(1999).
+     PubMed=9891081
+[ 2] Bertram M.J., Pereira-Smith O.M.
+     "Conservation of the MORF4 related gene family: identification of a
+     new chromo domain subfamily and novel protein motif."
+     Gene 266:111-121(2001).
+     PubMed=11290425
+[ 3] Bowman B.R., Moure C.M., Kirtane B.M., Welschhans R.L., Tominaga K.,
+     Pereira-Smith O.M., Quiocho F.A.
+     "Multipurpose MRG domain involved in cell senescence and proliferation
+     exhibits structural homology to a DNA-interacting domain."
+     Structure 14:151-158(2006).
+     PubMed=16407074; DOI=10.1016/j.str.2005.08.019
+[ 4] Zhang P., Zhao J., Wang B., Du J., Lu Y., Chen J., Ding J.
+     "The MRG domain of human MRG15 uses a shallow hydrophobic pocket to
+     interact with  the N-terminal region of PAM14."
+     Protein Sci. 15:2423-2434(2006).
+     PubMed=17008723; DOI=10.1110/ps.062397806
+[ 5] Xie T., Graveline R., Kumar G.S., Zhang Y., Krishnan A., David G.,
+     Radhakrishnan I.
+     "Structural basis for molecular interactions involving MRG domains:
+     implications in chromatin biology."
+     Structure 20:151-160(2012).
+     PubMed=22244764; DOI=10.1016/j.str.2011.10.019
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

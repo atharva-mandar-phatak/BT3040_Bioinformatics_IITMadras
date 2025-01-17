@@ -1,0 +1,96 @@
+*************************************************
+* LIM zinc-binding domain signature and profile *
+*************************************************
+
+Recently [1,2] a number of proteins have  been  found  to  contain a conserved
+cysteine-rich domain of about 60 amino-acid residues. These proteins are:
+
+ - Caenorhabditis elegans mec-3; a protein required for the differentiation of
+   the set of six touch receptor neurons in this nematode.
+ - Caenorhabditis  elegans  lin-11;  a  protein  required  for  the asymmetric
+   division of vulval blast cells.
+ - Vertebrate insulin gene enhancer binding protein isl-1.  Isl-1 binds to one
+   of the two cis-acting protein-binding domains of the insulin gene.
+ - Vertebrate homeobox proteins lim-1, lim-2 (lim-5) and lim3.
+ - Vertebrate  lmx-1,  which acts as a transcriptional activator by binding to
+   the FLAT  element;  a  beta-cell-specific transcriptional enhancer found in
+   the insulin gene.
+ - Mammalian  LH-2,  a  transcriptional  regulatory  protein  involved  in the
+   control of  cell  differentiation  in  developing  lymphoid and neural cell
+   types.
+ - Drosophila  protein  apterous,  required  for the normal development of the
+   wing and halter imaginal discs.
+ - Vertebrate protein kinases LIMK-1 and LIMK-2.
+ - Mammalian   rhombotins. Rhombotin 1 (RBTN1 or TTG-1) and rhombotin-2 (RBTN2
+   or TTG-2)  are  proteins of about 160 amino acids whose genes are disrupted
+   by chromosomal translocations in T-cell leukemia.
+ - Mammalian  and  avian cysteine-rich protein (CRP), a 192 amino-acid protein
+   of unknown function. Seems to interact with zyxin.
+ - Mammalian cysteine-rich intestinal protein (CRIP),  a  small  protein which
+   seems to   have   a  role  in  zinc  absorption  and  may  function  as  an
+   intracellular zinc transport protein.
+ - Vertebrate paxillin, a cytoskeletal focal adhesion protein.
+ - Mouse testin. Mouse testin  should not be confused with rat testin which is
+   a thiol protease homolog (see <PDOC00126>).
+ - Sunflower pollen specific protein SF3.
+ - Chicken zyxin. Zyxin is  a low-abundance adhesion plaque protein which  has
+   been shown to interact with CRP.
+ - Yeast protein LRG1 which is involved in sporulation [4].
+ - Yeast rho-type GTPase activating protein RGA1/DBM1.
+ - Caenorhabditis elegans homeobox protein ceh-14.
+ - Caenorhabditis elegans homeobox protein unc-97.
+ - Yeast hypothetical protein YKR090w.
+ - Caenorhabditis elegans hypothetical proteins C28H8.6.
+
+These proteins  generally  have two tandem copies of a domain, called LIM (for
+Lin-11 Isl-1  Mec-3)  in  their  N-terminal  section.  Zyxin  and paxillin are
+exceptions in  that  they  contains respectively three and four LIM domains at
+their C-terminal extremity. In apterous, isl-1,  LH-2, lin-11, lim-1 to lim-3,
+lmx-1 and  ceh-14  and  mec-3  there  is a homeobox domain some 50 to 95 amino
+acids after the LIM domains.
+
+In the  LIM  domain,  there  are  seven  conserved  cysteine  residues  and  a
+histidine. The  arrangement followed by these conserved residues is  C-x(2)-C-
+x(16,23)-H-x(2)-[CH]-x(2)-C-x(2)-C-x(16,21)-C-x(2,3)-[CHD]. The   LIM   domain
+binds two  zinc  ions  [5].  LIM  does not bind DNA, rather it seems to act as
+interface for protein-protein interaction.   We developed a pattern that spans
+the first half of the LIM domain.
+
+-Consensus pattern: C-x(2)-C-x(15,21)-[FYWHPCR]-H-x(2)-[CH]-x(2)-C-x(2)-C-
+                    x(3)-[LIVMF]
+                    [The 5 C's and the H bind zinc]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Last update: April 2005 / Profile revised.
+
+[ 1] Freyd G., Kim S.K., Horvitz H.R.
+     "Novel cysteine-rich motif and homeodomain in the product of the
+     Caenorhabditis elegans cell lineage gene lin-11."
+     Nature 344:876-879(1990).
+     PubMed=1970421
+[ 2] Baltz R., Evrard J.-L., Domon C., Steinmetz A.
+     "A LIM motif is present in a pollen-specific protein."
+     Plant Cell 4:1465-1466(1992).
+     PubMed=1467648; DOI=10.1105/tpc.4.12.1465
+[ 3] Sanchez-Garcia I., Rabbitts T.H.
+     Trends Genet. 10:315-320(1994).
+[ 4] Mueller A., Xu G., Wells R., Hollenberg C.P., Piepersberg W.
+     Nucleic Acids Res. 22:3151-3154(1994).
+[ 5] Michelsen J.W., Schmeichel K.L., Beckerle M.C., Winge D.R.
+     "The LIM motif defines a specific zinc-binding protein domain."
+     Proc. Natl. Acad. Sci. U.S.A. 90:4404-4408(1993).
+     PubMed=8506279
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

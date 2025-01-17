@@ -1,0 +1,28 @@
+SPO11HOMOLOG
+Spo11 is a meiosis-specific protein in yeast that covalently binds to DNA
+double-strand breaks (DSBs) during the early stages of meiosis [1]. These
+DSBs initiate homologous recombination, which is required for chromosomal 
+segregation and generation of genetic diversity during meiosis [1]. Mouse
+and human homologues of Spo11 have been cloned and characterised [1]. The 
+proteins are 82% identical and share ~25% identity with other family 
+members. Mouse Spo11 has been localised to chromosome 2H4, and human SPO11
+to chromosome 20q13.2-q13.3, a region amplified in some breast and ovarian 
+tumours [1]. 
+
+Similarity between SPO11 and archaebacterial TOP6A proteins points to 
+evolutionary specialisation of a DNA-cleavage function for meiotic
+recombination [2]. Note that the yeast SPO11 protein shares far less 
+similarity to other SPO11 proteins than the human and mouse homologues do
+to each other.
+
+SPO11HOMOLOG is a 10-element fingerprint that provides a signature for the
+SPO11-like proteins. The fingerprint was derived from an initial alignment 
+of 5 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length, focusing on those sections that characterise the
+SPO11 proteins but distinguish them from the closely related TOP6A topo-
+isomerases. Two iterations on SPTR39_15f were required to reach convergence,
+at which point a true set comprising 7 sequences was identified. Several
+partial matches were also found, each of which match 2 motifs: Q9LZ03 is a
+meiosis specific-like protein from Arabidopsis thaliana; Q9P4D2 is SPO11
+from Coprinus cinereus; and RE12_SCHPO is meiotic recombination protein
+REC12 from Schizosaccharomyces pombe.

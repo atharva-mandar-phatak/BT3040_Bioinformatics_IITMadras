@@ -1,0 +1,23 @@
+FELALLERGEN
+Allergen 1 from the domestic cat, Felis domesticus, is an important agent
+in human allergic reactions [1]. The protein is expressed in saliva and 
+sebaceous glands. The complete primary structure of Fel dI has been 
+determined [2]. The allergen is composed of two polypeptide chains, which
+have been shown to be encoded by different genes [2]. The protein exists as 
+a heterotetramer of non-covalently linked disulphide-linked heterodimers of 
+chains 1 and 2. Fel dI chain 1 shares sequence similarity with rabbit 
+uteroglobin; chain 2 is a glycoprotein with N-linked oligosaccharides [2].
+
+FELALLERGEN is a 4-element fingerprint that provides a signature for
+feline Fel dI allergens. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from short conserved regions 
+spanning virtually the full alignment length - motifs 1 and 4 reside at the
+N- and C-termini respectively, and include the regions encoded by PROSITE 
+patterns UTEROGLOBIN_1 (PS00403) and UTEROGLOBIN_2 (PS00404), each of which 
+contains a Cys residue that is thought to be involved in interchain
+disulphide bond formation. Two iterations on OWL29.6 were required to reach
+convergence, at which point a true set comprising 6 sequences was identified. 
+A single partial match was also found, a mouse salivary androgen-binding
+protein that matches motifs 1,2 and 4.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

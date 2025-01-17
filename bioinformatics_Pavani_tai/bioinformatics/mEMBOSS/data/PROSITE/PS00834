@@ -1,0 +1,74 @@
+************************************************
+* Aspartyl proteases, omptin family signatures *
+************************************************
+
+Escherichia coli  protease  VII  (EC 3.4.21.87) (omptin) (gene ompT) [1] is an
+outer-membrane associated   protease  with  a  specificity  for  paired  basic
+residues. It  seems  to  be  an  aspartyl protease [2] inhibited by zinc ions.
+Omptin is highly similar to the following proteins:
+
+ - Salmonella  typhimurium  outer  membrane   protease E (gene pgtE) [3], also
+   specific for paired basic residues.
+ - Yersinia pestis coagulase/fibrinolysin  (plasminogen activator) (gene  pla)
+   [4]. This  enzyme  is  encoded  on  a  plasmid required  for the pathogenic
+   potential of the bacteria. It cleaves and activates plasminogen at the foci
+   of infection; this allows plasmin to degrade fibrin barriers thus promoting
+   the invasiveness of the plague bacteria.
+ - Escherichia coli outer membrane protease ompP [5].
+
+The mature  forms of these enzymes are proteins of about 280 to 300 amino-acid
+residues. As signature patterns, we selected two well conserved regions in the
+central part of these proteins.
+
+-Consensus pattern: W-T-D-x-S-x-H-P-x-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: A-G-Y-Q-E-[ST]-R-[FYW]-S-[FYW]-[TN]-A-x-G-G-[ST]-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family A26 in the classification of peptidases
+ [6,E1].
+
+-Last update: January 2002 / Text revised.
+
+[ 1] Sugimura K., Nishihara T.
+     "Purification, characterization, and primary structure of Escherichia
+     coli protease VII with specificity for paired basic residues: identity
+     of protease VII and OmpT."
+     J. Bacteriol. 170:5625-5632(1988).
+     PubMed=3056908
+[ 2] Vandeputte-Rutten L., Kramer R.A., Kroon J., Dekker N., Egmond M.R.,
+     Gros P.
+     EMBO J. 20:5033-5039(2001).
+[ 3] Grodberg J., Dunn J.J.
+     "Comparison of Escherichia coli K-12 outer membrane protease OmpT and
+     Salmonella typhimurium E protein."
+     J. Bacteriol. 171:2903-2905(1989).
+     PubMed=2651422
+[ 4] Sodeinde O.A., Goguen J.D.
+     "Nucleotide sequence of the plasminogen activator gene of Yersinia
+     pestis: relationship to ompT of Escherichia coli and gene E of
+     Salmonella typhimurium."
+     Infect. Immun. 57:1517-1523(1989).
+     PubMed=2651310
+[ 5] Kaufmann A., Stierhof Y.-D., Henning U.
+     "New outer membrane-associated protease of Escherichia coli K-12."
+     J. Bacteriol. 176:359-367(1994).
+     PubMed=8288530
+[ 6] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

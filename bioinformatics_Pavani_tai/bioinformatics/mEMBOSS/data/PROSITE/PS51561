@@ -1,0 +1,155 @@
+************************************************************
+* Class I SAM-dependent methyltransferases family profiles *
+************************************************************
+
+Methyltransferases  (EC  2.1.1.-)  constitute  an  important  class of enzymes
+present  in every life form. They transfer a methyl group most frequently from
+S-adenosyl  L-methionine  (SAM  or  AdoMet) to a nucleophilic acceptor such as
+nitrogen,  oxygen,  sulfur  or  carbon  leading  to  S-adenosyl-L-homocysteine
+(AdoHcy)  and  a  methylated  molecule.  The substrates that are methylated by
+these  enzymes  cover  virtually every kind of biomolecules ranging from small
+molecules,  to  lipids,  proteins  and  nucleic  acids. Methyltransferases are
+therefore   involved   in   many   essential   cellular   processes  including
+biosynthesis,  signal  transduction,  protein repair, chromatin regulation and
+gene  silencing  [1,2,3].  More  than  230  different  enzymatic  reactions of
+methyltransferases  have been described so far, of which more than 220 use SAM
+as  the  methyl  donor  [E1].  A  review  published  in  2003  [2] divides all
+methyltransferases  into  5  classes based on the structure of their catalytic
+domain (fold):
+ - class I:    Rossmann-like                    alpha/beta
+ - class II:   TIM beta/alpha-barrel            alpha/beta
+ - class III:  tetrapyrrole methylase           alpha/beta
+ - class IV:   SPOUT                            alpha/beta     see <PDOC51604>
+ - class V:    SET domain                       all beta       see <PDOC51565>
+A  more  recent  paper  [3]  based  on a study of the Saccharomyces cerevisiae
+methyltransferome argues for four more folds:
+ - class VI:   transmembrane                    all alpha      see <PDOC51598>
+ - class VII:  DNA/RNA-binding 3-helical bundle all alpha
+ - class VIII: SSo0622-like                     alpha+beta
+ - class IX:   thymidylate synthetase           alpha+beta
+
+The  vast  majority  of  methyltransferases  belong  to the Rossmann-like fold
+(Class  I)  which  consists  in  a seven-stranded beta sheet adjoined by alpha
+helices.  The beta sheet contains a central topological switch-point resulting
+in  a  deep  cleft  in which SAM binds. Class I methyltransferases display two
+conserved  positions, the first one is a GxGxG motif (or at least a GxG motif)
+at   the   end  of  the  first  beta  strand  which  is  characteristic  of  a
+nucleotide-binding  site  and  is hence used to bind the adenosyl part of SAM,
+the  second  conserved  position is an acidic residue at the end of the second
+beta  strand  that  forms one hydrogen bond to each hydroxyl of the SAM ribose
+part. The core of these enzymes is composed by about 150 amino acids that show
+very strong spatial conservation. Catechol O-methyltransferase (EC 2.1.1.6) is
+the  canonical  Class  I methyltransferase considering that it consists in the
+exact consensus structural core with no extra domain (see <PDB:1VID>) [2].
+
+Some enzymatic activities known to belong to the Class I superfamily:
+Profiles directed against domains:
+ - Dot 1 methyltransferase (EC 2.1.1.43) (see <PDOC51569>).
+ - Eukaryotic  and  dsDNA  viruses mRNA cap 0 methyltransferase (EC 2.1.1.56)
+   (see <PDOC51562>).
+ - Flavivirus  mRNA  cap  0  and  cap 1 methyltransferase (EC 2.1.1.56 and EC
+   2.1.1.57) [4,5,6].
+ - RMT2 methyltransferases: arginine N-methyltransferase 2 (EC 2.1.1.-) and
+   guanidinoacetate N-methyltransferase (EC 2.1.1.2) [7,8].
+Profiles directed against whole-length proteins:
+ - Glycine  and  glycine/sarcosine  N-methyltransferase  (EC  2.1.1.20 and EC
+   2.1.1.156).
+ - mRNA  (2'-O-methyladenosine-N(6)-)-methyltransferase  (EC 2.1.1.62) and the
+   other MT-A70-like methyltransferases.
+ - Phosphoethanolamine N-methyltransferase (EC 2.1.1.103).
+ - ssmRNA and dsRNA viruses  mRNA cap 0 methyltransferase (EC 2.1.1.56)
+ - dsDNA  viruses mRNA cap 1 methyltransferase (EC 2.1.1.57)
+ - NNT1 nicotinamide N-methyltransferase (EC 2.1.1.1).
+ - NNMT/PNMT/TEMT  methyltransferases:  nicotinamide  N-methyltransferase  (EC
+   2.1.1.1),  phenylethanolamine  N-methyltransferase  (EC 2.1.1.28) and amine
+   N-methyltransferase (EC 2.1.1.49).
+ - Acetylserotonin   O-methyltransferase   (EC  2.1.1.4)  and  acetylserotonin
+   O-methyltransferase-like (EC 2.1.1.-).
+ - HNMT histamine N-methyltransferase (EC 2.1.1.8).
+ - TRM5/TYW2 tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228).
+ - Protein    arginine    N-methyltransferases    including   histone-arginine
+   N-methyltransferase  (EC  2.1.1.125)  and  [Myelin  basic protein]-arginine
+   N-methyltransferase (EC 2.1.1.125).
+ - Spermidine/spermine synthase putrescine N-methyltransferase (EC 2.1.1.53).
+ - TrmB tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33).
+ - TRM1 tRNA (guanine(26)-N(2))-dimethyltransferase (EC 2.1.1.216).
+ - CLNMT calmodulin-lysine N-methyltransferase (EC 2.1.1.60).
+ - TRM61 tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220).
+ - UbiE 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201).
+   COMT   caffeate   O-methyltransferase   (EC   2.1.1.68)   and   other  COMT
+   methyltransferases.
+ - RlmE Adrift methyltransferase (EC 2.1.1.-).
+ - RrmJ mRNA (nucleoside-2'-O-)-methyltransferase (EC 2.1.1.57).
+ - Tocopherol O-methyltransferase (EC 2.1.1.95).
+ - Catechol O-methyltransferase (EC 2.1.1.6).
+ - Magnesium protoporphyrin IX methyltransferase (EC 2.1.1.11).
+ - 18S  rRNA  (adenine(1779)-N(6)/adenine(1780)-N(6))-dimethyltransferase  (EC
+   2.1.1.183).
+ - TRM11   methyltransferases:   tRNA  (guanine(10)-N2)-methyltransferase  (EC
+   2.1.1.214) and homologs (EC 2.1.1.-).
+ - ERG6  methyltransferases:  sterol  24-C-methyltransferase (EC 2.1.1.41) and
+   24-methylenesterol C-methyltransferase (EC 2.1.1.143).
+ - RsmB/NOP TRM4 methyltransferases: tRNA (cytosine-5-)-methyltransferases (EC
+   2.1.1.202, EC 2.1.1.203 and EC 2.1.1.-).
+ - C5-methyltransferases:  DNA  (cytosine-5-)-methyltransferase  (EC 2.1.1.37)
+   and tRNA (cytosine(38)-C(5))-methyltransferase (EC 2.1.1.204).
+ - RNA M5U tRNA (uracil-5-)-methyltransferase (EC 2.1.1.35).
+ - Methionine S-methyltransferase (EC 2.1.1.12).
+ - TPMT  methyltransferases:  thiopurine  S-methyltransferase  (EC  2.1.1.67),
+   thiol  S-methyltransferase  (EC  2.1.1.9) and thiocyanate methyltransferase
+   (EC 2.1.1.n4).
+
+-Last update: Mars 2012 / Text revised.
+
+[ 1] Kozbial P.Z., Mushegian A.R.
+     "Natural history of S-adenosylmethionine-binding proteins."
+     BMC Struct. Biol. 5:19-19(2005).
+     PubMed=16225687; DOI=10.1186/1472-6807-5-19
+[ 2] Schubert H.L., Blumenthal R.M., Cheng X.
+     "Many paths to methyltransfer: a chronicle of convergence."
+     Trends. Biochem. Sci. 28:329-335(2003).
+     PubMed=12826405
+[ 3] Wlodarski T., Kutner J., Towpik J., Knizewski L., Rychlewski L.,
+     Kudlicki A., Rowicka M., Dziembowski A., Ginalski K.
+     "Comprehensive structural and substrate specificity classification of
+     the Saccharomyces cerevisiae methyltransferome."
+     PLoS One. 6:E23168-E23168(2011).
+     PubMed=21858014; DOI=10.1371/journal.pone.0023168
+[ 4] Egloff M.P., Benarroch D., Selisko B., Romette J.L., Canard B.
+     "An RNA cap (nucleoside-2'-O-)-methyltransferase in the flavivirus RNA
+     polymerase  NS5: crystal structure and functional characterization."
+     EMBO J. 21:2757-2768(2002).
+     PubMed=12032088; DOI=10.1093/emboj/21.11.2757
+[ 5] Zhou Y., Ray D., Zhao Y., Dong H., Ren S., Li Z., Guo Y.,
+     Bernard K.A., Shi P.Y., Li H.
+     "Structure and function of flavivirus NS5 methyltransferase."
+     J. Virol. 81:3891-3903(2007).
+     PubMed=17267492; DOI=10.1128/JVI.02704-062
+[ 6] Geiss B.J., Thompson A.A., Andrews A.J., Sons R.L., Gari H.H.,
+     Keenan S.M., Peersen O.B.
+     "Analysis of flavivirus NS5 methyltransferase cap binding."
+     J. Mol. Biol. 385:1643-1654(2009).
+     PubMed=19101564; DOI=10.1016/j.jmb.2008.11.058
+[ 7] Komoto J., Yamada T., Takata Y., Konishi K., Ogawa H., Gomi T.,
+     Fujioka M., Takusagawa F.
+     "Catalytic mechanism of guanidinoacetate methyltransferase: crystal
+     structures of  guanidinoacetate methyltransferase ternary complexes."
+     Biochemistry 43:14385-14394(2004).
+     PubMed=15533043; DOI=10.1021/bi0486785
+[ 8] Komoto J., Huang Y., Takata Y., Yamada T., Konishi K., Ogawa H.,
+     Gomi T., Fujioka M., Takusagawa F.
+     "Crystal structure of guanidinoacetate methyltransferase from rat
+     liver: a model structure of protein arginine methyltransferase."
+     J. Mol. Biol. 320:223-235(2002).
+     PubMed=12079381; DOI=10.1016/S0022-2836(02)00448-5
+[E1] http://enzyme.expasy.org/EC/2.1.1.-
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

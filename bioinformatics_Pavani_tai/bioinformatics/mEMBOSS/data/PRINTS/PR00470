@@ -1,0 +1,29 @@
+TRYPANRDTASE
+Trypanothione reductase from leishmania, and African and South American
+trypanosomes, has been purified and characterised [1]. The enzymes have
+similar physical, mechanistic and kinetic properties, and are members of
+the flavoprotein disulphide oxidoreductase family. Trypanothione is the
+parasite analogue of glutathione, hence this enzyme is equivalent to
+glutathione reductase. It catalyses the reaction:
+NADPH + trypanothione = NADP(+) + reduced trypanothione
+
+Trypanothione reductase shows pronounced specificty for its disulphide
+substrates, trypanothione disulphide or glutathionylspermidine disulphide.
+The 3D structure of the enzyme has been determined and its mode of
+substrate binding revealed in detail [2], offering hope for the design of
+drugs to combat Chagas disease. The structure belongs to the alpha+beta
+class, i.e. with mainly anti-parallel beta-sheets separated by alpha and
+beta regions. It contains an alpha-beta sandwich characteristic of
+FAD/NAD-linked reductases and a C-terminal dimerisation domain.  
+
+TRYPANRDTASE is a 5-element fingerprint that provides a signature for 
+trypanothione reductase. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions
+within the N-terminal half of the alignment, i.e. away from the domains
+that characterise the rest of the flavoprotein disulphide oxidoreductase
+family. Two iterations on OWL27.0 were required to reach convergence, at
+which point a true set comprising 10 sequences was identified.
+
+An update on SPTR57.15_40.15f identified a true set of 13 sequences, and
+a single partial match (Q95PT6_LEIDO), which is a trypanothione reductase
+from Leishmania donovani that fails to match motif 3.

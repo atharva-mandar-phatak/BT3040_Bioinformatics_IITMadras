@@ -1,0 +1,66 @@
+*****************************************
+* PMP-22 / EMP / MP20 family signatures *
+*****************************************
+
+The following   vertebrate   small   integral   membrane   glycoproteins   are
+evolutionary related [1,2,3]:
+
+ - Peripheral  myelin  protein 22 (PMP-22), which is expressed in many tissues
+   but mainly  by  Schwann  cells  as  a component of myelin of the peripheral
+   nervous system  (PNS).  PMP-22  probably plays a role both in myelinization
+   and in  cell  proliferation. Mutations affecting PMP-22 are associated with
+   hereditary motor  and  sensory  neuropathies  such  as  Charcot-Marie-Tooth
+   disease type 1A (CMT-1A) in human or the 'trembler' phenotype in mice.
+ - Eye lens specific membrane protein 20 (MP20 or MP19).
+ - Epithelial  membrane  protein-1  (EMP-1) (also  kwown  as  tumor-associated
+   membrane protein (TMP) or as squamous cell-specific protein Cl-20).
+ - Epithelial membrane protein-2 (EMP-2) (also kwown as XMP).
+ - Epithelial membrane protein-3 (EMP-3) (also kwown as YMP).
+
+These are  proteins  of about 160 to 173 amino acid residues that contain four
+transmembrane segments.  PMP-22,  EMP-1,  -2  and -3 are highly similar, while
+MP20 is more distantly related.
+
+We selected  two  conserved  regions  as signature patterns, the first pattern
+includes the end of the first transmembrane region and part of the loop before
+the second  region.  The second pattern corresponds to the third transmembrane
+region.
+
+-Consensus pattern: [LIVMF]-[LIVMFC]-[LIVMF](2)-[SA]-[TL]-x(2)-[DNKS]-x-W-
+                    x(9,13)-[LIV]-W-x(2)-[CG]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for human MP20.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [RQ]-[AVS]-x-[MC]-[IV]-L-[SA]-x-[LI]-x(4)-[GSA]-[LIVMF]-
+                    [LIVMFS]-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  PMP-22  family  is evolutionary related to the claudin family (see
+ <PDOC01045>).
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Taylor V., Welcher A.A., Program A.E., Suter U.
+     "Epithelial membrane protein-1, peripheral myelin protein 22, and lens
+     membrane protein 20 define a novel gene family."
+     J. Biol. Chem. 270:28824-28833(1995).
+     PubMed=7499407
+[ 2] Marvin K.W., Fujimoto W., Jetten A.M.
+     "Identification and characterization of a novel squamous
+     cell-associated gene related to PMP22."
+     J. Biol. Chem. 270:28910-28916(1995).
+     PubMed=7499420
+[ 3] Ben-Porath I., Benvenisty N.
+     Gene 183:69-75(1996).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

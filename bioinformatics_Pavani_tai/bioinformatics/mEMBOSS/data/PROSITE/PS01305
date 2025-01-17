@@ -1,0 +1,58 @@
+***************************************
+* moaA / nifB / pqqE family signature *
+***************************************
+
+A number  of  proteins  involved in the biosynthesis of metallo cofactors have
+been shown [1,2] to be evolutionary related. These proteins are:
+
+ - Bacterial  and  archebacterial  protein  moaA,  which  is  involved  in the
+   biosynthesis of the molybdenum cofactor (molybdopterin; MPT).
+ - Arabidopsis thaliana cnx2, a protein involved in molybdopterin biosynthesis
+   and which is highlys similar to moaA.
+ - Bacillus  subtilis  narA,  which  seems  to  be  the  moaA ortholog in that
+   bacteria.
+ - Bacterial  protein  nifB (or fixZ) which is involved in the biosynthesis of
+   the nitrogenase iron-molybdenum cofactor.
+ - Bacterial  protein  pqqE  which  is  involved  in  the  biosynthesis of the
+   cofactor pyrrolo-quinoline-quinone (PQQ).
+ - Pyrococcus  furiosus  cmo,  a  protein  involved  in  the  synthesis  of  a
+   molybdopterin-based tungsten cofactor.
+ - Caenorhabditis elegans hypothetical protein F49E2.1.
+
+All these proteins share, in their N-terminal region, a conserved  domain that
+contains three  cysteines.  In moaA, these cysteines have been shown [1] to be
+important for the biological activity. They could be inolved in the binding of
+an iron-sulfur cluster.
+
+-Consensus pattern: [LIV]-x(3)-C-[NDP]-[LIVMF]-[DNQRS]-C-x-[FYM]-C
+                    [The 3 C's may be Fe-S ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Menendez C.; menendez@ruf.uni-freiburg.de
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Menendez C., Igloi G., Henninger H., Brandsch R.
+     "A pAO1-encoded molybdopterin cofactor gene (moaA) of Arthrobacter
+     nicotinovorans: characterization and site-directed mutagenesis of the
+     encoded protein."
+     Arch. Microbiol. 164:142-151(1995).
+     PubMed=8588735
+[ 2] Hoff T., Schnorr K.M., Meyer C., Caboche M.
+     "Isolation of two Arabidopsis cDNAs involved in early steps of
+     molybdenum cofactor biosynthesis by functional complementation of
+     Escherichia coli mutants."
+     J. Biol. Chem. 270:6100-6107(1995).
+     PubMed=7890743
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

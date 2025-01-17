@@ -1,0 +1,32 @@
+C2HCZNFINGER
+The zinc finger motif is an unusually small, self-folding domain in which 
+Zn is a crucial component of its tertiary structure: fingers bind 1 atom of
+Zn in a tetrahedral array to yield a finger-like projection, which interacts
+with nucleotides in the major groove of the nucleic acid - the Zn binds to 
+conserved Cys and His residues. Fingers have been found to bind to about 5
+base pairs of nucleic acid containing short runs of guanine residues. They 
+are found in all transcription factors, and also proteins such as RNA and 
+DNA polymerases. This ability to bind to both RNA and DNA suggests 
+versatility not demonstrated by the helix-turn-helix motif: the zinc finger
+may thus represent the original nucleic acid binding protein. It has also 
+been suggested that a Zn-centred domain could be used in a protein
+interaction, e.g. in protein kinase C.
+
+The zinc finger motif was first discovered in the Xenopus laevis 
+transcription factor IIIA, and has since been found to be ubiquitous in 
+transcription factors and other DNA-binding proteins. Putative fingers are 
+present in the structure of many regulatory proteins, acting as specific 
+nucleic acid binding domains. The motif contains ~20 amino acid residues,
+including conserved Cys and His residues. Zinc fingers bind zinc via a 
+number of different motifs, including a C2H2 repeat, a C4 motif (e.g., in
+the hormone-regulated proteins), and a C2HC motif.
+
+C2HCZNFINGER is a 2-element fingerprint that provides a signature for
+C2HC-type zinc fingers. The fingerprint was derived from an initial
+alignment of 35 sequences: the motifs span the complete zinc finger region.
+Five iterations on OWL30.2 were required to reach convergence, at which
+point a true set comprising 781 sequences was identified. It is possible
+that many more matches to the fingerprint exist, but our cut-offs were
+conservative in order to avoid inclusion of false positives.
+
+An update on SPTR37_9f identified a true set of 403 sequences.

@@ -1,0 +1,43 @@
+DIUHORMONER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+Insect diuretic hormones regulate fluid and ion secretion, and the receptors
+with which they interact are attractive targets for new insect control
+agents [6]. Diuretic hormone receptors from the moth, Manduca sexta, and the
+house cricket, Acheta domesticus, share 53% sequence identity and have been 
+shown to be members of the secretin-like family of GPCRs [7]. The receptors
+bind diuretic hormone with high affinity and stimulate adenylate cyclase 
+with high potency. 
+
+DIUHORMONER is an 8-element fingerprint that provides a signature for
+diuretic hormone receptors. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length, focusing on those sections that 
+characterise the diuretic hormone receptors but distinguish them from the
+rest of the secretin-like superfamily - motifs 1 and 2 lie immediately
+N-terminal to TM domain 1; motif 3 spans TM domain 2; motif 4 resides in 
+the loop between TM domains 3 and 4; motif 5 lies between TM domains 4 and 
+5; motif 6 spans the C-terminal portion of TM domain 6 and its following
+loop; and motifs 7 and 8 reside at the C-terminus. A single iteration on
+SPTR37_9f was required to reach convergence, no further sequences being
+identified beyond the starting set. 

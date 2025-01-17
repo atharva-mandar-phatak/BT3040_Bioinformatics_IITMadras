@@ -1,0 +1,23 @@
+ANNEXIN
+The annexins are a family of proteins that bind to phospholipids in a  
+calcium-dependent manner [1]. There are several distinct classes of annexin,
+each of which has an amino-acid sequence consisting of an N-terminal 'arm' 
+followed by 4 or 8 copies of a conserved domain of 61 residues (only one
+of these residues, an arginine, is conserved between all copies): the
+calcium binding sites are found within the repeated domains [2]. Individual
+repeats (sometimes known as endonexin folds) consist of 5 alpha-helices
+wound into a right-handed superhelix. Each annexin class is thought to have
+a specific function, although for some the precise role is unclear. It has
+been suggested that the N-terminal residues confer the functional
+specificity that differentiates each class.
+
+ANNEXIN is a 7-element fingerprint that provides a signature for the 
+annexins. The fingerprint was derived from an initial alignment of 12
+sequences: motifs 1 and 2 span the first repeat (cf. PROSITE pattern
+ANNEXIN (PS00223)); and motifs 3-5 span the first half of 3 further
+repeats - 1, 3, 4 and 5 include the conserved Arg. Two iterations on
+OWL11.0 were required to reach convergence, at which point a true set
+comprising 28 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 54 sequences, and 18
+partial matches.

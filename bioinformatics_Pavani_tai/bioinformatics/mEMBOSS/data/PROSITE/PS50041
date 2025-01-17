@@ -1,0 +1,203 @@
+**********************************************
+* C-type lectin domain signature and profile *
+**********************************************
+
+A number of different families of  proteins share a conserved domain which was
+first characterized in  some  animal lectins  and  which seem to function as a
+calcium-dependent carbohydrate-recognition domain [1,2,3]. This  domain, which
+is known as the C-type lectin domain (CTL)  or as the carbohydrate-recognition
+domain (CRD),  consists of about 110 to 130 residues. There are four cysteines
+which are perfectly conserved and involved in two disulfide bonds. A schematic
+representation of the CTL domain is shown below.
+
+                                                         +------+
+                                                         |      |
+     xcxxxxcxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCxxxxWxCxxxxCx
+      |    |       |                                     ************|*
+      +----+       +-------------------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'c': optional cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+The categories of proteins, in which the CTL domain has been found, are listed
+below.
+
+Type-II membrane proteins where the CTL domain  is  located  at the C-terminal
+extremity of the proteins:
+
+ - Asialoglycoprotein receptors (ASGPR)  (also  known as hepatic lectins) [4].
+   The ASGPR's  mediate the endocytosis of plasma glycoproteins  to  which the
+   terminal  sialic acid  residue  in  their carbohydrate  moieties  has  been
+   removed.
+ - Low affinity immunoglobulin epsilon  Fc receptor (lymphocyte IgE receptor),
+   which plays  an  essential  role in the regulation of IgE production and in
+   the differentiation of B cells.
+ - Kupffer cell receptor.  A  receptor  with  an  affinity  for  galactose and
+   fucose, that could be involved in endocytosis.
+ - A number of proteins  expressed on the  surface of  natural killer T-cells:
+   NKG2, NKR-P1,  YE1/88  (Ly-49),  CD69 and on B-cells: CD72, LyB-2. The CTL-
+   domain in these proteins is  distantly related  to other CTL-domains; it is
+   unclear whether they are likely to bind carbohydrates.
+
+Proteins that consist of an N-terminal collagenous domain  followed  by a CTL-
+domain [5], these proteins are sometimes called 'collectins':
+
+ - Pulmonary surfactant-associated  protein  A (SP-A).   SP-A  is  a  calcium-
+   dependent protein that binds to surfactant phospholipids and contributes to
+   lower the surface tension at the air-liquid interface in the alveoli of the
+   mammalian lung.
+ - Pulmonary surfactant-associated protein D (SP-D).
+ - Conglutinin, a calcium-dependent lectin-like protein which binds to a yeast
+   cell wall extract and to immune complexes through  the complement component
+   (iC3b).
+ - Mannan-binding proteins (MBP)  (also  known as  mannose-binding  proteins).
+   MBP's  bind  mannose  and  N-acetyl-D-glucosamine  in  a  calcium-dependent
+   manner.
+ - Bovine collectin-43 (CL-43).
+
+Selectins (or LEC-CAM) [6,7]. Selectins are cell adhesion molecules implicated
+in  the  interaction of  leukocytes  with  platelets  or vascular endothelium.
+Structurally, selectins consist of a long extracellular domain, followed by  a
+transmembrane  region  and  a  short  cytoplasmic  domain. The   extracellular
+domain is itself composed of a CTL-domain,  followed by an EGF-like domain and
+a variable number of SCR/Sushi repeats. Known selectins are:
+
+ - Lymph node homing  receptor (also  known as L-selectin, leukocyte  adhesion
+   molecule-1, (LAM-1), leu-8, gp90-mel, or LECAM-1)
+ - Endothelial leukocyte adhesion molecule 1  (ELAM-1, E-selectin or LECAM-2).
+   The ligand recognized by ELAM-1 is sialyl-Lewis x.
+ - Granule membrane  protein 140 (GMP-140, P-selectin, PADGEM, CD62, or LECAM-
+   3). The ligand recognized by GMP-140 is Lewis x.
+
+Large proteoglycans  that contain a  CTL-domain followed by one copy of a SCR/
+Sushi repeat, in their C-terminal section:
+
+ - Aggrecan (cartilage-specific proteoglycan core protein).  This proteoglycan
+   is a major component of the  extracellular matrix of cartilagenous  tissues
+   where it has a role in the resistance to compression.
+ - Brevican.
+ - Neurocan.
+ - Versican  (large  fibroblast  proteoglycan), a  large  chondroitin  sulfate
+   proteoglycan that may play a role in  intercellular signalling.
+
+In addition  to  the  CTL  and  Sushi domains, these proteins also contain, in
+their N-terminal  domain,  an  Ig-like V-type region, two or four link domains
+(see <PDOC00955>) and up to two EGF-like repeats.
+
+Two type-I membrane proteins:
+
+ - Mannose receptor from macrophages. This protein mediates the endocytosis of
+   glycoproteins by macrophages in several  recognition  and uptake processes.
+   Its extracellular section consists of a fibronectin type II domain followed
+   by eight tandem repeats of the CTL domain.
+ - 180    Kd    secretory  phospholipase A2 receptor (PLA2-R). A protein whose
+   structure is highly similar to that of the mannose receptor.
+ - DEC-205  receptor.  This  protein    is  used by dendritic cells and thymic
+   epithelial cells  to  capture  and  endocytose diverse carbohydrate-binding
+   antigens and direct them to antigen-processing cellular compartiments. DEC-
+   205 extracellular section consists of a fibronectin type II domain followed
+   by ten tandem repeats of the CTL domain.
+ - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+   mechanism. It  is  composed  of  2  FA58C  domains (see <PDOC00988>), a CTL
+   domain, 2 VWFC domains (see <PDOC00928), and a CTCK (see <PDOC00912>).
+
+Various other proteins that uniquely consist of a CTL domain:
+
+ - Invertebrate soluble galactose-binding lectins.  A category to which belong
+   a humoral lectin from a  flesh fly; echinoidin, a lectin from  the coelomic
+   fluid of a sea urchin; BRA-2 and BRA-3, two lectins from the coelomic fluid
+   of a barnacle, a  lectin from the tunicate Polyandrocarpa misakiensis and a
+   newt oviduct lectin. The  physiological  importance of these lectins is not
+   yet known but they may play an important role in defense mechanisms.
+ - Pancreatic stone protein (PSP)  (also known  as  pancreatic  thread protein
+   (PTP), or reg), a protein that might act  as  an  inhibitor  of spontaneous
+   calcium carbonate precipitation.
+ - Pancreatitis associated protein (PAP), a  protein that might be involved in
+   the control of bacterial proliferation.
+ - Tetranectin, a plasma protein that binds  to  plasminogen  and  to isolated
+   kringle 4.
+ - Eosinophil granule major basic protein (MBP), a cytotoxic protein.
+ - A galactose specific lectin from a rattlesnake.
+ - Two subunits of a coagulation factor IX/factor X-binding protein (IX/X-bp),
+   a snake venom anticoagulant protein  which  binds with  factors IX and X in
+   the presence of calcium.
+ - Two subunits of  a  phospholipase A2 inhibitor from  the  plasma of a snake
+   (PLI-A and PLI-B).
+ - A lipopolysaccharide-binding  protein  (LPS-BP)  from  the  hemolymph  of a
+   cockroach [8].
+ - Sea raven antifreeze protein (AFP) [9].
+
+As a signature pattern for this domain, we selected the C-terminal region with
+its three conserved cysteines.
+
+-Consensus pattern: C-[LIVMFYATG]-x(5,12)-[WL]-{T}-[DNSR]-{C}-{LI}-C-x(5,6)-
+                    [FYWLIVSTA]-[LIVMSTA]-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ the distantly related natural killer T-cell and B-cell proteins.
+-Other sequence(s) detected in Swiss-Prot: 15.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Note: All CTL domains have five Trp residues before the second Cys,  with the
+ exception of tunicate lectin and cockroach LPS-BP which have Leu.
+
+-Expert(s) to contact by email:
+           Drickamer K.; kd@glycob.ox.ac.uk
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Drickamer K.
+     "Two distinct classes of carbohydrate-recognition domains in animal
+     lectins."
+     J. Biol. Chem. 263:9557-9560(1988).
+     PubMed=3290208
+[ 2] Drickamer K.
+     "Evolution of Ca(2+)-dependent animal lectins."
+     Prog. Nucleic Acid Res. Mol. Biol. 45:207-232(1993).
+     PubMed=8341801
+[ 3] Drickamer K.
+     Curr. Opin. Struct. Biol. 3:393-400(1993).
+[ 4] Spiess M.
+     "The asialoglycoprotein receptor: a model for endocytic transport
+     receptors."
+     Biochemistry 29:10009-10018(1990).
+     PubMed=2125488
+[ 5] Weis W.I., Kahn R., Fourme R., Drickamer K., Hendrickson W.A.
+     "Structure of the calcium-dependent lectin domain from a rat
+     mannose-binding protein determined by MAD phasing."
+     Science 254:1608-1615(1991).
+     PubMed=1721241
+[ 6] Siegelman M.
+     "Sweetening the selectin pot."
+     Curr. Biol. 1:125-128(1991).
+     PubMed=15336187
+[ 7] Lasky L.A.
+     "Selectins: interpreters of cell-specific carbohydrate information
+     during inflammation."
+     Science 258:964-969(1992).
+     PubMed=1439808
+[ 8] Jomori T., Natori S.
+     "Molecular cloning of cDNA for lipopolysaccharide-binding protein from
+     the hemolymph of the American cockroach, Periplaneta americana.
+     Similarity of the protein with animal lectins and its acute phase
+     expression."
+     J. Biol. Chem. 266:13318-13323(1991).
+     PubMed=1712779
+[ 9] Ng N.F.L., Hew C.-L.
+     "Structure of an antifreeze polypeptide from the sea raven. Disulfide
+     bonds and similarity to lectin-binding proteins."
+     J. Biol. Chem. 267:16069-16075(1992).
+     PubMed=1644794
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

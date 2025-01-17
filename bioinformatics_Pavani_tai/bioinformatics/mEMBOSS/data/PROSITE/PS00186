@@ -1,0 +1,60 @@
+***************************************
+* Isopenicillin N synthase signatures *
+***************************************
+
+Isopenicillin N  synthase  (EC  1.21.3.1)  (IPNS) [1,2] is a key enzyme in the
+biosynthesis of  penicillin  and cephalosporin.  In the presence of oxygen, it
+removes  iron and ascorbate, four hydrogen atoms from L-(alpha-aminoadipyl)-L-
+cysteinyl-d-valine to   form   the   azetidinone  and  thiazolidine  rings  of
+isopenicillin.  IPNS is  an  enzyme  of  about  330  amino-acid  residues. Two
+cysteines are  conserved in fungal and bacterial  IPNS  sequences;  these  may
+be involved in iron-binding and/or substrate-binding.
+
+Cephalosporium acremonium DAOCS/DACS [3] is a bifunctional  enzyme involved in
+cephalosporin biosynthesis. The DAOCS domain, which is structurally related to
+IPNS, catalyzes the step from penicillin N to deacetoxy-cephalosporin C - used
+as a   substrate   by  DACS  to  form  deacetylcephalosporin  C.  Streptomyces
+clavuligerus possesses  a  monofunctional  DAOCS  enzyme  (gene cefE) [4] also
+related to IPNS.
+
+We derived  two  signature  patterns  for  these  enzymes, centered around the
+conserved cysteine residues.
+
+-Consensus pattern: [RK]-x-[STA]-x(2)-S-x-C-Y-[SL]
+                    [C may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Streptomyces clavuligerus  DAOCS  which has  Ser in the first position of
+ the pattern.
+-Other sequence(s) detected in Swiss-Prot: 6.
+
+-Consensus pattern: [LIVM](2)-x-C-G-[STA]-x(2)-[STAG]-x(2)-T-x-[DNG]
+                    [C may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Nocardia lactamdurans IPNS.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Martin J.F.
+     Trends Biotechnol. 5:306-308(1987).
+[ 2] Chen G., Shiffman D., Mevarech M., Aharonowitz Y.
+     Trends Biotechnol. 8:105-111(1990).
+[ 3] Samson S.M., Dotzlaf J.E., Slisz M.L., Becker G.W., van Frank R.M.,
+     Veal L.E., Yeh W.K., Miller J.R., Queener S.W., Ingolia T.D.
+     Bio/Technology 5:1207-1214(1987).
+[ 4] Kovacevic S., Weigel B.J., Tobin M.B., Ingolia T.D., Miller J.R.
+     "Cloning, characterization, and expression in Escherichia coli of the
+     Streptomyces clavuligerus gene encoding deacetoxycephalosporin C
+     synthetase."
+     J. Bacteriol. 171:754-760(1989).
+     PubMed=2644235
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

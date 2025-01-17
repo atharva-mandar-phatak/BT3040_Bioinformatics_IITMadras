@@ -1,0 +1,32 @@
+HELNAPAPROT
+Helicobacter pylori is a Gram-negative flagellated pathogen that causes   
+gastric and peptic ulcers. In its chronic state, it can also contribute to 
+gastric cancer development, through elicitation of a huge host inflammatory 
+response [1]. It has been suggested that activated leukocytes may be 
+responsible for tissue damage, and that phagocytes contribute to 
+carcinogenesis. 
+
+One of the bacterium's many virulence factors is neutrophil-activating 
+protein A (NAPA), a 15kDa peptide that forms dodecameric complexes upon 
+secretion from the pathogen [2]. It belongs to the iron-binding ferritin 
+family, and is structurally similar to E.coli DNA-binding Dps protein [3]. 
+The complex is able to bind up to 500 atoms of iron, but does not have
+DNA-binding properties. Each monomer has four alpha-helices arranged as a 
+bundle. 
+
+Recent work has demonstrated that NAPA protein, used as an oral vaccine, 
+confers protection on mice against H.pylori infection [4]. It has also shown
+the amino acid sequence to be similar to other bacteroferritin/DNA-binding 
+proteins, such as B.subtilis MRGA, TYF1 antigen from Treponema spp., and 
+hypothetical iron binding proteins from Rickettsia and Streptomyces [4].
+
+HELNAPAPROT is an 3-element fingerprint that provides a signature for 
+the Helicobacter pylori neutrophil-activating protein A family. The
+fingerprint was derived from an initial alignment of 4 sequences: the
+motifs were drawn from conserved regions spanning the full alignment length 
+(~180 amino acids) - motif 1 overlaps the N-terminus of helix 2, and motif
+2 the C-terminus; while motif 3 spans the N-terminus of helix 4. Two 
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 16 sequences was identified. A single partial match
+was also found, a NAPA protein from Borrelia burgdorferi that fails to
+make a significant match with motif 2.

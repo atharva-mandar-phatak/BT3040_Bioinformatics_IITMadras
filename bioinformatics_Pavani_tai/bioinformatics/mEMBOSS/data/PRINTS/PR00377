@@ -1,0 +1,50 @@
+IMPHPHTASES
+Inositol polyphosphate 1-phosphatase (1PTASE) and inositol monophosphatase
+(MPTASE) are enzymes of the inositol signalling pathway that share similar
+enzymatic activity [1]. Both enzymes exhibit an absolute requirement for
+metal ions (Mg2+ is preferred), and both are uncompetitively inhibited by
+submillimolar concentrations of Li+. Their amino acid sequences contain
+a number of conserved motifs, which are also shared by several other 
+proteins related to MPTASE (including products of fungal QaX and qutG,
+bacterial suhB and cysQ, and yeast hal2) [1]. 
+
+Structural analysis of these proteins has revealed a common core of 155
+residues: the core comprises 5 alpha-helices and 11 beta-strands, and
+includes residues essential for metal binding and catalysis. While the
+core has been conserved, presumably to impart catalytic function, the
+loops and regions of structure outside the core have evolved unique
+regulatory domains [1].
+
+An interesting property of the enzymes of this family is their sensitivity
+to Li+ at levels achieved in patients undergoing therapy for manic
+depression. The targets and mechanism of action of Li+ are unknown, but
+overactive inositol phosphate signalling may account for symptoms of the
+disease [2,3]. It has been proposed that these Li+-sensitive proteins 
+could represent targets for Li+ in manic depressive disease [1].   
+
+The structures of several members of the superfamily have been determined
+by X-ray crystallography [3-7]. The fold of fructose 1,6-bisphosphatase
+(FBPTASE) was noted to be identical to that of MPTASE [6,7]. FBPTASE is a
+critical enzyme in the gluconeogenic pathway that removes the 1-phosphate
+from fructose 1,6-bis-phosphate to form fructose 6-phosphate [8,9]. FBTASE
+also requires metal ions for catalysis (Mg2+ and Mn2+ being preferred) and
+the enzyme is potently inhibited by Li+.
+
+1PTASE, MPTASE and FBPTASE share a sequence motif (Asp-Pro-[Ile,Leu]-Asp-
+[Gly,Ser]-[Thr,Ser] which has been shown to bind metal ions and participate
+in catalysis. This motif is also found in the distantly-related fungal,
+bacterial and yeast MPTASE homologues. It has been suggested that these
+proteins define an ancient structurally conserved family involved in
+diverse metabolic pathways, including inositol signalling, gluconeogenesis,
+sulphate assimilation and possbily quinone metabolism [1].
+     
+IMPHPHTASES (formerly INFBPHPHTASE) is a 6-element fingerprint that 
+provides a signature for the inositol monophosphatase superfamily. The
+fingerprint was derived from an initial alignment of 73 sequences: the motifs
+were drawn from conserved regions spanning virtually the full alignment 
+length, motif 3 including the catalytic DP[I,L]D[G,S][T,S] motif, which
+contains residues known to be involved in metal binding. Two iterations on
+SPTR55_38f were required to reach convergence, at which point a true set 
+comprising 558 sequences was identified. Numerous partial matches were also
+found, all of which are superfamily members that fail to make significant
+matches with one or more motifs.

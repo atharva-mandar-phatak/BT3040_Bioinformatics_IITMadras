@@ -1,0 +1,36 @@
+RIBOSOMALL7A
+The genomic structure and sequence of the human ribosomal protein L7a has
+been determined [1]. The gene contains 8 exons and 7 introns, encompassing
+3179 bp. The human gene resembles other mammalian ribosomal protein genes
+in so far as it contains a short first exon, a short 5' untranslated leader
+and its transcriptional start sites at C residues embedded in a poly-
+pyrimidine tract [1].
+
+The sequence of a gene for ribosomal protein L4 of S.cerevisiae has also 
+been determined, which, unlike most of its other ribosomal protein genes,
+has no intron [2]. The single open reading frame is highly similar to
+mammalian ribosomal protein L7a. 
+
+There appear to be two genes for L4, both of which are active [2]. Yeast
+cells containing a disruption of the L4-1 gene form smaller colonies than
+either wild-type or disrupted L4-2 strains. Disruption of both L4 genes is
+lethal, probably resulting from an inability of the organism to produce
+functional ribosomes. [3]
+
+Several other ribosomal proteins have been found to share sequence 
+similarity with L7a, including yeast NHP2 [4], B.subtilis hypothetical 
+protein ylxQ, Halobacterium marismortui Hs6, and M.jannaschii MJ1203.
+
+RIBOSOMALL7A is a 7-element fingerprint that provides a signature for
+the L7A family of ribosomal proteins. The fingerprint was derived from
+an initial alignment of 4 sequences: the motifs were drawn from short
+conserved sections spanning virtually the full alignment length, focusing
+on those regions that characterise the ribosomal L7A proteins but
+distinguish them from the rest of the HMG-like family. Two iterations
+on OWL30.2 were required to reach convergence, at which point a true
+set comprising 14 sequences was identified. Two partial matches were
+also found, both of which are fragments: RL7A_ARATH is an Arabidopsis L7A 
+protein that matches motifs 1-5; and SSO4A09 is a porcine L7A protein
+that matches motifs 4-6.
+
+An update on SPTR37_9f identified a true set of 11 sequences.

@@ -1,0 +1,64 @@
+**********************
+* NBD domain profile *
+**********************
+
+The variable  portions  of  immunoglobulin  and  T  cell  receptor  genes  are
+assembled in  developing  lymphocytes  from  variable (V), joining (J), and in
+some cases  diversity  (D)  gene  segments,  which are widely separated in the
+genome. These  segments are brought together in a highly regulated manner by a
+somatic site-specific  recombination  reaction  known  as V(D)J recombination.
+Each gene  segment  is  flanked by a signal sequence consisting of a conserved
+heptamer (consensus  sequence  5'-CACAGTG-3')  and nonamer (consensus sequence
+5'-ACAAAAACC-3') separated  by  a  relatively  nonconserved 12 or 23 base pair
+(bp) spacer  (12 signal or 23 signal, respectively). A segment flanked by a 12
+signal can  only  be  joined  efficiently  to  one  flanked  by a 23 signal, a
+restriction referred to as the 12/23 rule [1].
+
+The V(D)J  recombinase  subunits  Rag-1  and Rag-2 mediate assembly of antigen
+receptor gene  segments.  The  critical step for signal recognition is binding
+of Rag-1  to  the  nonamer [2]. The Rag-1 nonamer binding domain (NBD) forms a
+tightly interwoven  dimer  that  binds and synapses two nonamer elements, with
+each NBD  making contact with both DNA molecules. Each NBD monomer is composed
+of three helices: H1, H2 and H3 (see <PDB:3GNA>). Helix 1 contains a kink that
+separates it  into  two  smaller  helices: H1a and H1b. Helices H2 and H3 from
+each subunit   form   a   four-helix   bundle  through  extensive  hydrophobic
+interactions and  constitute  the  bulk of the dimer interface, whereas the H1
+helices from  the  two  subunits wrap around one side of the four-helix bundle
+with the  N-terminal GGRPR motifs protruding from opposite sides of the dimer.
+The GGRPR  motif  is  an  example of an AT-hook, a structural element found in
+various DNA binding proteins [3].
+
+The profile we developed covers the entire NBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2010 / First entry.
+
+[ 1] Difilippantonio M.J., McMahan C.J., Eastman Q.M., Spanopoulou E.,
+     Schatz D.G.
+     "RAG1 mediates signal sequence recognition and recruitment of RAG2 in
+     V(D)J recombination."
+     Cell 87:253-262(1996).
+     PubMed=8861909
+[ 2] Spanopoulou E., Zaitseva F., Wang F.-H., Santagata S., Baltimore D.,
+     Panayotou G.
+     "The homeodomain region of Rag-1 reveals the parallel mechanisms of
+     bacterial and V(D)J recombination."
+     Cell 87:263-276(1996).
+     PubMed=8861910
+[ 3] Yin F.F., Bailey S., Innis C.A., Ciubotaru M., Kamtekar S.,
+     Steitz T.A., Schatz D.G.
+     "Structure of the RAG1 nonamer binding domain with DNA reveals a dimer
+     that mediates DNA synapsis."
+     Nat. Struct. Mol. Biol. 16:499-508(2009).
+     PubMed=19396172; DOI=10.1038/nsmb.1593
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

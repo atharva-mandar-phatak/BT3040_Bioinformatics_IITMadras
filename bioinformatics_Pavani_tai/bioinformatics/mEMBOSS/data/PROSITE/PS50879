@@ -1,0 +1,80 @@
+*********************************
+* Ribonuclease H domain profile *
+*********************************
+
+Ribonuclease H  (RNase  H) (EC 3.1.26.4) recognizes and cleaves the RNA strand
+of RNA-DNA heteroduplexes.
+
+In  prokaryotes  RNase  H is  involved in removing the RNA of RNA-DNA hybrids,
+particularly  the primers of Okazaki fragments in lagging-strand DNA synthesis
+[1].  An  additional  function  of the bacterial RNase H domain is to generate
+primers for initiation of DNA replication [2].
+
+The  RNase  H  domain  is  also  present  in  retroviral reverse transcriptase
+proteins  where  it  performs three functions : (a) generation of a polypurine
+tract  which  acts as the primer for plus strand DNA synthesis, (b) removal of
+RNA  primers  from  nascent minus and plus DNA strands, and (c) degradation of
+the  original  RNA  template. For HIV, inactivation of the RNase H renders the
+virus  non-infectious,  making this enzymatic activity a target for therapy of
+AIDS [1].
+
+In eukaryotes, the RNase H1 protein is present in nuclei, but it has also been
+isolated  from  mitochondria  of  many organisms. In mouse inactivation of the
+RNaseH1  gene  arrest  development  about  day  E8.5  because  of a failure to
+generate  mtDNA,  indicating  an  essential role for RNase H1 during mammalian
+embryogenesis [3].
+
+The  3D structure of the RNase H domain from diverse bacteria and retroviruses
+has  been  solved  (see  for  example  <PDB:1RNH>) [4,5,6]. All have four beta
+strands  and four to five alpha helices. The Escherichia coli RNase H1 protein
+binds  a  single  Mg(2+)  ion cofactor in  the  active site of the enzyme. The
+divalent  cation  is  bound  by  the  carboxyl groups of four acidic residues,
+Asp-10,  Glu-48,  Asp-70, and Asp-134 [5]. The first three acidic residues are
+highly conserved in all bacterial and retroviral RNase H sequences.
+
+The profile we developed covers the whole RNase H domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2004 / First entry.
+
+[ 1] Crouch R.J.
+     "Ribonuclease H: from discovery to 3D structure."
+     New Biol. 2:771-777(1990).
+     PubMed=2177653
+[ 2] Dasgupta S., Masukata H., Tomizawa J.
+     "Multiple mechanisms for initiation of ColE1 DNA replication: DNA
+     synthesis in the presence and absence of ribonuclease H."
+     Cell 51:1113-1122(1987).
+     PubMed=2446774
+[ 3] Cerritelli S.M., Frolova E.G., Feng C., Grinberg A., Love P.E.,
+     Crouch R.J.
+     "Failure to produce mitochondrial DNA results in embryonic lethality
+     in Rnaseh1 null mice."
+     Mol. Cell 11:807-815(2003).
+     PubMed=12667461
+[ 4] Yang W., Hendrickson W.A., Crouch R.J., Satow Y.
+     "Structure of ribonuclease H phased at 2 A resolution by MAD analysis
+     of the selenomethionyl protein."
+     Science 249:1398-1405(1990).
+     PubMed=2169648
+[ 5] Katayanagi K., Okumura M., Morikawa K.
+     "Crystal structure of Escherichia coli RNase HI in complex with Mg2+
+     at 2.8 A resolution: proof for a single Mg(2+)-binding site."
+     Proteins 17:337-346(1993).
+     PubMed=8108376
+[ 6] Davies J.F. II, Hostomska Z., Hostomsky Z., Jordan S.R., Matthews D.A.
+     "Crystal structure of the ribonuclease H domain of HIV-1 reverse
+     transcriptase."
+     Science 252:88-95(1991).
+     PubMed=1707186
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

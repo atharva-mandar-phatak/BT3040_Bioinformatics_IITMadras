@@ -1,0 +1,41 @@
+***************************************************
+* Phosphoribosyl pyrophosphate synthase signature *
+***************************************************
+
+Phosphoribosyl pyrophosphate  synthase  (EC 2.7.6.1) (PRPP synthase) catalyzes
+the formation  of  PRPP  from ATP and ribose 5-phosphate. PRPP is then used in
+various biosynthetic  pathways,  as  for  example in the formation of purines,
+pyrimidines, histidine   and  tryptophan.  PRPP  synthase  requires  inorganic
+phosphate and magnesium ions for its stability and activity.
+
+In mammals,  three  isozymes of PRPP synthase are found; in yeast there are at
+least four isozymes.
+
+As a  signature  pattern  for this enzyme, we selected a very conserved region
+that has  been  suggested to be involved in binding divalent cations [1]. This
+region contains  two  conserved aspartic acid residues as well as a histidine,
+which are all potential ligands for a cation such as magnesium.
+
+-Consensus pattern: D-[LIM]-H-[SANDT]-x-[QS]-[IMSTAVF]-[QMLPH]-[GA]-[FY]-F-
+                    x(2)-P-[LIVMFCT]-D
+                    [The 2 D's and the H are  magnesium ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bower S.G., Harlow K.W., Switzer R.L., Hove-Jensen B.
+     "Characterization of the Escherichia coli prsA1-encoded mutant
+     phosphoribosylpyrophosphate synthetase identifies a divalent
+     cation-nucleotide binding site."
+     J. Biol. Chem. 264:10287-10291(1989).
+     PubMed=2542328
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

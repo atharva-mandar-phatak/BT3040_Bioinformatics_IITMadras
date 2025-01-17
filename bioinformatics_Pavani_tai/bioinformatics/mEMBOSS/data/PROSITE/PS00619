@@ -1,0 +1,76 @@
+****************************************************
+* PTN/MK heparin-binding protein family signatures *
+****************************************************
+
+The following extracellular heparin-binding proteins involved in regulation of
+growth and differentiation belong to a new family of growth factors:
+
+ - Pleiotrophin (PTN) [1]. Also  known as  heparin-binding   growth-associated
+   molecule (HB-GAM),   heparin-binding  growth  factor  8  (HBGF-8), heparin-
+   binding neutrophic  factor) (HBNF) and osteoblast specific protein (OSF-1).
+   This factor has neurite extension activity.
+ - Midkine (MK) [2], a retinoic acid-induced differentiation factor.
+ - Retinoic acid-induced heparin-binding protein (RI-HB) [3] from chicken. RI-
+   has mitogenic activity and neurite extension activity for PC12 cells. RI-HB
+   is possibly the chicken homolog of mammalian MK.
+ - Pleiotrophic  factors  alpha-1 and -2 and beta-1 and -2 from Xenopus laevis
+   [4], the homologs of respectively midkine and pleiotrophin.
+
+These growth factors are highly related proteins of about 140 amino acids that
+contain 10  conserved  cysteines  probably  involved in disulfide bonds (their
+position is schematically represented in the figure below). These proteins are
+also rich in basic residues and in tryptophan.
+
+     xxxxxxxCxxxCxxxCxxxxxCxxxCxCxxxxCxxxxCxxxxxxxxxxCxxxxCxxxxxxxxxxxxx
+           *************      *************
+
+'C': conserved cysteine probably involved in a disulfide bond.
+'*': position of the patterns.
+
+We developed  two signature  patterns for  this  family of growth  factors. As
+shown in the figure  above, the patterns include the majority of the conserved
+cysteines.
+
+-Consensus pattern: S-[DE]-C-x-[DE]-W-x-W-x(2)-C-x-P-x-[SN]-x-D-C-G-[LIVMA]-G-
+                    x-R-E-G
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-[KR]-[LIVM]-P-C-N-W-K-K-x-F-G-A-[DE]-C-K-Y-x-F-[EQ]-x-W-
+                    G-x-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Li Y.-S., Milner P.G., Chauhan A.K., Watson M.A., Hoffman R.M.,
+     Kodner C.M., Milbrandt J., Deuel T.F.
+     Science 250:1690-1693(1990).
+[ 2] Tsutsui J.-I., Uehara K., Kadomatsu K., Matsubara S., Muramatsu T.
+     "A new family of heparin-binding factors: strong conservation of
+     midkine (MK) sequences between the human and the mouse."
+     Biochem. Biophys. Res. Commun. 176:792-797(1991).
+     PubMed=2025291
+[ 3] Urios P., Duprez D., Le Caer J.-P., Courtois Y., Vigny M., Laurent M.
+     "Molecular cloning of RI-HB, a heparin binding protein regulated by
+     retinoic acid."
+     Biochem. Biophys. Res. Commun. 175:617-624(1991).
+     PubMed=2018506
+[ 4] Tsujimura A., Yasojima K., Kuboki Y., Suzuki A., Ueno N., Shiokawa K.,
+     Hashimoto-Gotoh T.
+     "Developmental and differential regulations in gene expression of
+     Xenopus pleiotrophic factors-alpha and -beta."
+     Biochem. Biophys. Res. Commun. 214:432-439(1995).
+     PubMed=7677748
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

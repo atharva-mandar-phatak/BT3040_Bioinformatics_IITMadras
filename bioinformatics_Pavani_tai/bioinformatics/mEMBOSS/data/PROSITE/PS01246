@@ -1,0 +1,42 @@
+****************************************************
+* Uncharacterized protein family UPF0003 signature *
+****************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Escherichia coli protein aefA.
+ - Escherichia coli hypothetical protein yggB.
+ - Escherichia coli hypothetical protein yjeP and HI0195.1, the  corresponding
+   Haemophilus influenzae protein.
+ - Escherichia coli hypothetical protein ynaI.
+ - Bacillus subtilis hypothetical protein yhdY.
+ - Helicobacter pylori hypothetical protein HP0415.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0639.
+ - Archaeoglobus fulgidus hypothetical protein AF1546.
+ - Methanococcus jannaschii hypothetical protein MJ0170.
+ - Methanococcus jannaschii hypothetical protein MJ1143.
+
+The  size of these proteins range from 30 to 120 Kd. They all contain a number
+of transmembrane  regions.  As  a  signature  pattern,  we  selected  the best
+conserved region  which  is  located  in  and  just  after  the last potential
+transmembrane region.
+
+-Consensus pattern: G-[STIF]-V-x(2)-[LIVM]-x(6)-[LIVMF]-x(3)-[DQT]-x(3)-
+                    [LIVH]-x-[LIV]-P-[NW]-x(2)-[LIVMF]-[LIVFSTA]-x(5)-[NV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1997).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

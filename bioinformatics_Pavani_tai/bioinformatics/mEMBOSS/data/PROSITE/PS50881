@@ -1,0 +1,71 @@
+**********************************************
+* Ribosomal protein S5 signature and profile *
+**********************************************
+
+Ribosomal protein S5 is one of the proteins from the  small ribosomal subunit.
+In Escherichia  coli, S5 is known to be important in the assembly and function
+of the 30S ribosomal subunit.  Mutations  in  S5  have  been shown to increase
+translational error frequencies.
+
+The  crystal  structure  of the S5 protein has been solved [1] and consists of
+two  separated  domains  (see <PDB:1PKP>). An N-terminal domain which displays
+some  structurale  homology  to  the  dsRBD  domain (alpha-beta(3)-alpha) (see
+<PDOC50137>)  and  a  mainly helical C-terminal domain that interacts with S8.
+The dsRBD domain of the S5 protein interacts with the 16S RNA [2].
+
+S5  belongs  to a family of ribosomal proteins which, on the basis of sequence
+similarities [3,4], groups:
+
+ - Eubacterial S5.
+ - Cyanelle S5.
+ - Red algal chloroplast S5.
+ - Archaebacterial S5.
+ - Mammalian S2 (LLrep3).
+ - Caenorhabditis elegans S2 (C49H3.11).
+ - Drosophila S2.
+ - Plant S2.
+ - Yeast S4 (SUP44).
+ - Fungi mitochondrial S5.
+
+S5  is  a protein of 166 to 254 amino-acid residues. The signature pattern for
+this  protein is based on a conserved region, rich in glycine residues located
+in  the  N-terminal  domain.  The  profile  we  developed  covers  the  entire
+N-terminal dsRBD domain.
+
+-Consensus pattern: G-[KRQEA]-x(3)-[FYVIM]-x-[ACVTI]-x(2)-[LIVMA]-[LIVMAT]-
+                    [AG]-[DN]-x(2,3)-G-x-[LIVMA]-[GS]-x-[SAG]-x(5,6)-[DEQGHS]-
+                    [LIVMARFY]-x(2,3)-[AS]-[LIVMFRY]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Ramakrishnan V., White S.W.
+     "The structure of ribosomal protein S5 reveals sites of interaction
+     with 16S rRNA."
+     Nature 358:768-771(1992).
+     PubMed=1508272; DOI=10.1038/358768a0
+[ 2] Brodersen D.E., Clemons W.M. Jr., Carter A.P., Wimberly B.T.,
+     Ramakrishnan V.
+     "Crystal structure of the 30 S ribosomal subunit from Thermus
+     thermophilus: structure of the proteins and their interactions with 16
+     S RNA."
+     J. Mol. Biol. 316:725-768(2002).
+     PubMed=11866529; DOI=10.1006/jmbi.2001.5359
+[ 3] All-Robyn J.A., Brown N., Otaka E., Liebman S.W.
+     Mol. Cell. Biol. 10:6544-6553(1990).
+[ 4] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

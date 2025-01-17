@@ -1,0 +1,53 @@
+****************************************************
+* Nitrate and nitrite sensing (NIT) domain profile *
+****************************************************
+
+The  nitrate  and  nitrite sensing (NIT) domain is an about 250-residue sensor
+domain  which  has  been  detected  in  various  receptor components of signal
+transduction  pathways  from  different bacterial lineages. All proteins which
+contain  a  NIT  domain belong to one of the four known classes of prokaryotic
+signal transduction proteins, namely:
+
+ - Intracellular transcription anti-termination regulators,
+ - Sensor histidine kinases,
+ - Methyl-accepting chemotaxis proteins,
+ - Diguanylate cyclases and phosphodiesterases.
+
+NIT-containing  receptors  regulate cellular functions such as gene expression
+(transcription   anti-terminators   and   histidine  kinases),  cell  motility
+(chemotaxis   receptors)   and   enzyme  activity  (diguanylate  cyclases  and
+phosphodiesterases),   in  response  to  changes  in  nitrate  and/or  nitrite
+concentrations.  The  NIT  domain  is  found  both  as an extracellular and an
+intracellular  sensor.  It  can be found in association with others signalling
+domains   like   ANTAR,   HAMP   (see  <PDOC50885>),  MCP,  Hemerythrins  (see
+<PDOC00476>),  CHASE  (see  <PDOC50839>),  GGDEF  (see  <PDOC50887>), PAS (see
+<PDOC50112>),  EAL  (see  <PDOC50883>), HK (see <PDOC50109>), GAF, REC and HPt
+(see <PDOC50894>).
+
+The NIT domain is predicted to be all alpha-helical. Several conserved charged
+residues  form  a  signature  for  the  NIT  domain:  the  Glu-Arg  couple  in
+alpha-helix  1,  Asp  in  alpha-helix 2, Arg in alpha-helix 3, and the charged
+residue  (Glu  or  Arg)  in  alpha-helix  5.  In addition a conserved aromatic
+residue is found in alpha-helix 10 [1].
+
+The profile we developed covers the entire core of the NIT domain.
+
+-Sequences  known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2003 / First entry.
+
+[ 1] Shu C.J., Ulrich L.E., Zhulin I.B.
+     "The NIT domain: a predicted nitrate-responsive module in bacterial
+     sensory receptors."
+     Trends Biochem. Sci. 28:121-124(2003).
+     PubMed=12633990
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

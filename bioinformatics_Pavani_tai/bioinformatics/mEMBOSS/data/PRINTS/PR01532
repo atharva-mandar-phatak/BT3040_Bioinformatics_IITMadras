@@ -1,0 +1,68 @@
+CXCCHMKINER3
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family).
+
+The C-X-C chemokines IP10, Mig and I-TAC are upregulated in response to
+interferon-gamma and are potent chemoattractants for activated T cells
+[8,11]. All three chemokines have been found to activate the type 3 C-X-C
+chemokine receptor (CXCR3) [7,8]. CXCR3 is expressed in natural killer cells
+and activated T lymphocytes but not in resting T lymphocytes, B lymphocytes,
+monocytes or granulocytes [7]. CXCR3 also appears to be constitutively
+expressed on endothelial cells of medium and large blood vessels [9]. Upon
+binding to CXCR3, all three ligands cause mobilisation of intracellular
+calcium and chemotaxis. I-TAC, however, has a much higher affinity for the
+receptor and produces more potent effects than IP10 or Mig [8]. I-TAC
+appears to bind to two distinct sites on CXCR3: when the receptor is in the
+active conformation, all three ligands can bind, but I-TAC binds at an
+allotropic site, distinct from that of IP10 and Mig. By contrast, only I-TAC
+can bind to the uncoupled conformation of the receptor [10]. CXCR3 is also
+capable of binding a number of CC chemokines with moderate affinity. One of
+these, eotaxin, appears to act as a natural antagonist of the receptor [11].
+
+The main role of CXCR3 and its ligands appears to be the selective
+recruitment of effector T cells in both normal tissues and inflammation [8].
+CXCR3 may be involved in a number of T cell-mediated inflammatory diseases,
+such as autoimmune diseases, delayed-type hypersensitivity responses,
+certain viral diseases and transplant rejection. Upregulation of I-TAC in
+astrocytes and microglial cells by interferon suggests that it may also play
+a role in neuroinflammatory diseases, such as meningitis, encephalitis and
+multiple sclerosis [8]. IP10 has also been suggested to be involved in
+recruitment of inflammatory cells into the brain following ischaemic injury
+[12].
+
+CXCCHMKINER3 is a 9-element fingerprint that provides a signature for the
+type 3 C-X-C chemokine receptor. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that
+characterise the type 3 C-X-C chemokine receptors but distinguish them
+from other members of the chemokine receptor family - motifs 1-3 reside at
+the N-terminus; motif 4 spans the first cytoplasmic loop, leading into TM
+domain 2; motif 5 encodes the second cytoplasmic loop; motif 6 spans the
+C-terminal portion of TM domain 4; motif 7 lies in the second external loop;
+motif 8 lies in the third external loop, leading into TM domain 7; and motif
+9 resides at the C-terminus. A single iteration on SPTR39_15f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set.

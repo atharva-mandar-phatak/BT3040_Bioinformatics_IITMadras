@@ -1,0 +1,81 @@
+*******************************
+* Endothelin family signature *
+*******************************
+
+Endothelins (ET's) are a family  of  potent mammalian vasoconstrictor peptides
+[1,2,3]. Sarafotoxins (SRTX) and bibrotoxin (BTX) are  cardiotoxins  from  the
+venom of snakes of the Atractaspis family, structurally and functionally [4,5]
+similar to  endothelin.  The  peptides  currently  known  to  belonging to the
+ET/SRTX family are:
+
+ - Endothelin 1 (ET-1).
+ - Endothelin 2 (ET-2) which  is  also known in mouse as Vasoactive Intestinal
+   Contractor (VIC).
+ - Endothelin 3 (ET-3).
+ - Sarafotoxins SRTX-A, -B, -C and -D from Atractaspis engaddensis.
+ - Bibrotoxin (BTX) from Atractaspis bibroni.
+
+As shown in the  following schematic  representation, these peptides which are
+21 residues long contain two intramolecular disulfide bonds.
+
+                        +-------------+
+                        |             |
+                        CxCxxxxxxxCxxxCxxxxxx
+                          |       |
+                          +-------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+As a  signature  pattern  for  this  family  of  proteins,  we  have taken the
+conserved residues in the disulfide loops region.
+
+-Consensus pattern: C-x-C-x(4)-D-x(2)-C-x(2)-[FY]-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In addition to endothelin, the precursors of ETs contain an endothelin-
+ like domain which is also detected by this pattern.
+-Note: The precursor of sarafotoxins is  a  large  protein  that  contains  12
+ copies of various isoforms of the toxin [6].
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Yanagisawa M., Masaki T.
+     "Molecular biology and biochemistry of the endothelins."
+     Trends Pharmacol. Sci. 10:374-378(1989).
+     PubMed=2690429
+[ 2] Simonson M.S., Dunn M.J.
+     "Cellular signaling by peptides of the endothelin gene family."
+     FASEB J. 4:2989-3000(1990).
+     PubMed=2168326
+[ 3] Rubanyi G.M., Parker Botelho L.H.
+     "Endothelins."
+     FASEB J. 5:2713-2720(1991).
+     PubMed=1916094
+[ 4] Kloog Y., Sokolovsky M.
+     "Similarities in mode and sites of action of sarafotoxins and
+     endothelins."
+     Trends Pharmacol. Sci. 10:212-214(1989).
+     PubMed=2549664
+[ 5] Sokolovsky M.
+     "Endothelins and sarafotoxins: physiological regulation, receptor
+     subtypes and transmembrane signaling."
+     Trends Biochem. Sci. 16:261-264(1991).
+     PubMed=1656557
+[ 6] Ducancel F., Matre V., Dupont C., Lajeunesse E., Wollberg Z.,
+     Bdolah A., Kochva E., Boulain J.C.C., Menez A.
+     "Cloning and sequence analysis of cDNAs encoding precursors of
+     sarafotoxins. Evidence for an unusual 'rosary-type' organization."
+     J. Biol. Chem. 268:3052-3055(1993).
+     PubMed=8428983
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,148 @@
+**************************************
+* FERM domain signatures and profile *
+**************************************
+
+FERM domains  (F for 4.1 protein, E for ezrin, R for radixin and M for moesin)
+are widespread protein modules of ~300 amino-acids in length that are involved
+in localizing  proteins  to the plasma membrane. They are found in a number of
+cytoskeletal-associated proteins  that  associate with various proteins at the
+interface between the plasma membrane and the cytoskeleton. The FERM domain is
+located at   the  N-terminus  of  the  majority  of  FERM-containing  proteins
+[1,2,3,4,5]. The  FERM  domain  defines  members  of the band 4.1 superfamily,
+which includes [6]:
+
+ - Band 4.1, which links  the spectrin-actin  cytoskeleton  of erythrocytes to
+   the plasma membrane. Band 4.1 binds with a high affinity to glycophorin and
+   with lower affinity to band 3 protein.
+ - Ezrin (cytovillin or p81), a component  of  the undercoat of the microvilli
+   plasma membrane.
+ - Moesin, which is probably involved in binding major cytoskeletal structures
+   to the plasma membrane.
+ - Radixin, which seems to play a  crucial role in  the  binding of the barbed
+   end of actin filaments to the plasma membrane in the undercoat of the cell-
+   to-cell adherens junction (AJ).
+ - Talin, which binds  with high affinity to vinculin and with low affinity to
+   integrins.  Talin  is a high molecular weight (270 Kd) cytoskeletal protein
+   concentrated in regions of cell-substratum  contact and, in lymphocytes, of
+   cell-cell contacts.
+ - Filopodin,  a  slime mold protein that binds actin and which is involved in
+   the control of cell motility and chemotaxis.
+ - Merlin  (or  schwannomin).  Defects in this protein are the cause of type 2
+   neurofibromatosis (NF2), a predisposition to tumors of the nervous system.
+ - Protein NBL4.
+ - Unconventional  myosins  X,  VIIa  and  XV, which are mutated in congenital
+   deafness.
+
+ - Focal-adhesion  kinases  (FAKs), cytoplasmic protein tyrosine kinases which
+   are important  for signalling through a class of extracellular matrix (ECM)
+   receptors, the integrins.
+ - Janus tyrosine kinases (JAKs), a group of cytoplasmic tyrosine kinases that
+   are non-covalently associated with the cytoplasmic tails of receptors for
+   cytokines or polypeptidic hormones.
+ - Non-receptor tyrosine-protein kinase TYK2.
+ - Protein-tyrosine   phosphatases   PTPN3   (PTP-H1)  and  PTPN4  (PTP-MEG1).
+   Structurally these two very similar  enzymes  are  composed of a N-terminal
+   band 4.1-like domain followed by a central segment of  unknown function and
+   a C-terminal   catalytic  domain  (see  <PDOC00323>).  They  could  act  at
+   junctions between the membrane and the cytoskeleton.
+ - Protein-tyrosine  phosphatases  PTPN14  (PEZ or PTP36) and PTP-D1, PTP-RL10
+   and PTP2E.  These  phosphatases  also consist of a N-terminal band 4.1-like
+   domain and  a  C-terminal  catalytic  domain.  The  central domain seems to
+   contain a SH3-binding domain.
+ - Caenorhabditis elegans protein phosphatase ptp-1.
+
+Ezrin, moesin,  and  radixin are highly related proteins (ERM protein family),
+but the  other  proteins in which this domain is found do not share any region
+of similarity  outside  of the domain. ERM proteins are made of three domains,
+the FERM  domain, a central helical domain and a C-terminal tail domain, which
+binds F-actin.  The amino-acid sequence of the FERM domain is highly conserved
+among ERM  proteins  and  is  responsible  for  membrane association by direct
+binding to  the  cytoplasmic domain or tail of integral membrane proteins. ERM
+proteins are  regulated  by  an  intramolecular association of the FERM and C-
+terminal tail  domains that masks their binding sites for other molecules. For
+cytoskeleton-membrane crosslinking,  the  dormant  molecules becomes activated
+and the  FERM  domain  attaches  to  the membrane by binding specific membrane
+proteins, while  the  last 34 residues of the tail bind actin filaments. Aside
+from binding  to membranes, the activated FERM domain of ERM proteins can also
+bind the  guanine  nucleotide  dissociation  inhibitor of Rho GTPase (RhoDGI),
+which suggest  that  in addition to functioning as a crosslinker, ERM proteins
+may influence  Rho  signalling  pathways.  The  crystal  structure of the FERM
+domain reveals  that  it  is composed of three structural modules (F1, F2, and
+F3) that  together form a compact clover-shaped structure (see <PDB:1EF1>). F1
+folds into  an  alpha+beta  structure  with  one  long alpha-helix and a five-
+stranded mixed  beta-sheet.  F2  is  an  all-alpha  structure with four longer
+alpha-helices and one short helix. F3 consists of a sandwich of two orthogonal
+antiparallel beta-sheets followed by a long helix [5,7].
+
+The FERM  domain  has  also  been called the amino-terminal domain, the 30-kDa
+domain, 4.1N30, the membrane-cytoskeletal-linking domain, the ERM-like domain,
+the ezrin-like  domain  of  the band 4.1 superfamily, the conserved N-terminal
+region, and the membrane attachment domain [4].
+
+We have developed two signature  patterns for this domain, one is based on the
+conserved positions  found  at  the  N-terminal  extremity  of the domain, the
+second is located in the C-terminal section.
+
+-Consensus pattern: W-[LIV]-x(3)-[KRQ]-x-[LIVM]-x(2)-[QH]-x(0,2)-[LIVMF]-
+                    x(6,8)-[LIVMF]-x(3,5)-F-[FY]-x(2)-[DENS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [HYW]-x(9)-[DENQSTV]-[SA]-x(3)-[FYC]-[LIVM]-x(2,3)-
+                    [ACVWD]-x(2)-[LM]-x(2)-[FY]-[GM]-x-[DENQSTH]-[LIVMFYS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Rees J.; jrees@vax.oxford.ac.uk
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Rees D.J.G., Ades S.E., Singer S.J., Hynes R.O.
+     "Sequence and domain structure of talin."
+     Nature 347:685-689(1990).
+     PubMed=2120593; DOI=10.1038/347685a0
+[ 2] Funayama N., Nagafuchi A., Sato N., Tsukita S., Tsukita S.
+     "Radixin is a novel member of the band 4.1 family."
+     J. Cell Biol. 115:1039-1048(1991).
+     PubMed=1955455
+[ 3] Takeuchi K., Kawashima A., Nagafuchi A., Tsukita S.
+     "Structural diversity of band 4.1 superfamily members."
+     J. Cell Sci. 107:1921-1928(1994).
+     PubMed=7983158
+[ 4] Chishti A.H., Kim A.C., Marfatia S.M., Lutchman M., Hanspal M.,
+     Jindal H., Liu S.-C., Low P.S., Rouleau G.A., Mohandas N., Chasis J.A.,
+     Conboy J.G., Gascard P., Takakuwa Y., Huang S.-C., Benz E.J. Jr.,
+     Bretscher A., Fehon R.G., Gusella J.F., Ramesh V., Solomon F.,
+     Marchesi V.T., Tsukita S., Tsukita S., Hoover K.B.
+     "The FERM domain: a unique module involved in the linkage of
+     cytoplasmic proteins to the membrane."
+     Trends Biochem. Sci. 23:281-282(1998).
+     PubMed=9757824
+[ 5] Pearson M.A., Reczek D., Bretscher A., Karplus P.A.
+     "Structure of the ERM protein moesin reveals the FERM domain fold
+     masked by an extended actin binding tail domain."
+     Cell 101:259-270(2000).
+     PubMed=10847681
+[ 6] Girault J.-A., Labesse G., Mornon J.-P., Callebaut I.
+     "The N-termini of FAK and JAKs contain divergent band 4.1 domains."
+     Trends Biochem. Sci. 24:54-57(1999).
+     PubMed=10098398
+[ 7] Hamada K., Shimizu T., Matsui T., Tsukita S., Hakoshima T.
+     "Structural basis of the membrane-targeting and unmasking mechanisms
+     of the radixin FERM domain."
+     EMBO J. 19:4449-4462(2000).
+     PubMed=10970839; DOI=10.1093/emboj/19.17.4449
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,44 @@
+DNAPOLI
+DNA	carries the biological information that instructs cells how to exist
+in an ordered fashion: accurate replication is thus one of the most
+important events in the cell life cycle. This function is mediated by
+DNA-directed DNA-polymerases, which add nucleotide triphosphate (dNTP)
+residues to the 5'-end of the growing DNA chain, using a complementary 
+DNA as template. Small RNA molecules are generally used as primers for
+chain elongation, although terminal proteins may also be used.
+
+DNA-dependent DNA-polymerases have been grouped into families, denoted A, B
+and X, on the basis of sequence similarities [1,2].	Members of family A, 
+which includes bacterial and bacteriophage polymerases, share significant
+similarity to E.coli polymerase I; hence family A is also known as the pol I
+family. The	bacterial polymerases also contain an exonuclease activity,
+which is coded for in the N-terminal portion. 
+
+Three motifs, A, B and C, as defined by Delarue et al. [2], are seen to be 
+conserved across all DNA-polymerases, with motifs A and C also seen in RNA- 
+polymerases. They are centered on invariant residues, and their structural 
+significance was implied from the Klenlow (E.coli) structure: motif A 
+contains a strictly-conserved aspartate at the junction of a beta-strand 
+and an alpha-helix; motif B contains an alpha-helix with positive charges; 
+and motif C has a doublet of negative charges, located in a beta-turn-beta 
+secondary structure [2]. 
+
+DNAPOLI is a 9-element fingerprint that provides a signature for the DNA-
+polymerase A family. The fingerprint was derived from an initial alignment
+of 14 sequences: the motifs were drawn from conserved regions in the
+C-terminal portion of the alignment - motif 1 spans strands 7 and 8, and
+helix 16, and contains a conserved Arg, which binds a metal ion; motif 2 
+straddles helix 17; motif 3 spans strand 9 and helix 19; motif 4 encompasses
+"motif A", which contains one of the active site Asps; motif 5 spans the 
+region encoded by PROSITE pattern DNA_POLYMERASE_A (PS00447), corresponding
+to "motif B", which contains the strictly conserved active site Lys and the
+conserved Tyr residue; motif 6 spans the C-terminal section of helix 24 and
+the start of helix 25; motif 7 straddles strands 10 and 11; motif 8 spans
+the central portion of helix 26; and motif 9 includes "motif C", which 
+contains an active site Asp. Two iterations on OWL30.1 were required to 
+reach convergence, at which point a true set comprising 28 sequences was
+identified. Several partial matches were also found, all of which are true
+but distant family members, including two yeast gamma polymerases. 
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 15
+partial matches.

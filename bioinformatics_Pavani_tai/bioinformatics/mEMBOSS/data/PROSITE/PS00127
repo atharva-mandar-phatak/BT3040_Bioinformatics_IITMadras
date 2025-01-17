@@ -1,0 +1,86 @@
+********************************************
+* Pancreatic ribonuclease family signature *
+********************************************
+
+Pancreatic ribonucleases (EC 3.1.27.5)  are pyrimidine-specific  endonucleases
+present in high  quantity in the pancreas of a number of mammalian taxa and of
+a few reptiles [1,2].    As shown in the following schematic representation of
+the sequence of pancreatic RNases there are four conserved disulfide bonds and
+three amino acid residues involved in the catalytic activity.
+
+                        +---------------------------+
+                        |        +------------------|------+
+                        |        |                  |      |
+     xxxxx#xxxxxxCxxxxxxC#xxxxxxxCxxCxxxCxxxxxCxxxxxCxxxxxxCxxx#xxx
+                 |      ****        |   |     |
+                 |                  +---+     |
+                 +----------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the pattern.
+
+A number of other proteins  belongs to  the  pancreatic RNAse family and these
+are listed below.
+
+ - Bovine seminal vesicle and bovine brain ribonucleases.
+ - The kidney non-secretory  ribonucleases  (also  known as eosinophil-derived
+   neurotoxin (EDN) [3]).
+ - Liver-type ribonucleases [4].
+ - Angiogenin, which induces vascularization of normal  and malignant tissues.
+   It abolishes protein synthesis by specifically hydrolyzing cellular tRNAs.
+ - Eosinophil cationic protein (ECP) [5],  a cytotoxin and helminthotoxin with
+   ribonuclease activity.
+ - Frog liver ribonuclease and frog sialic acid-binding lectin [6].
+
+The signature pattern we  developed for these proteins includes five conserved
+residues: a cysteine  involved in a disulfide  bond, a lysine  involved in the
+catalytic activity and three other residues important for substrate binding.
+
+-Consensus pattern: C-K-x(2)-N-T-F
+                    [C is involved in a disulfide bond]
+                    [K is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+-Last update: October 1993 / Text revised.
+
+[ 1] Beintema J.J., Schuller C., Irie M., Carsana A.
+     "Molecular evolution of the ribonuclease superfamily."
+     Prog. Biophys. Mol. Biol. 51:165-192(1988).
+     PubMed=3074337
+[ 2] Beintema J.J., van der Laan J.M.
+     "Comparison of the structure of turtle pancreatic ribonuclease with
+     those of mammalian ribonucleases."
+     FEBS Lett. 194:338-342(1986).
+     PubMed=3940901
+[ 3] Rosenberg H.F., Tenen D.G., Ackerman S.J.
+     "Molecular cloning of the human eosinophil-derived neurotoxin: a
+     member of the ribonuclease gene family."
+     Proc. Natl. Acad. Sci. U.S.A. 86:4460-4464(1989).
+     PubMed=2734298
+[ 4] Hofsteenge J., Matthies R., Stone S.R.
+     "Primary structure of a ribonuclease from porcine liver, a new member
+     of the ribonuclease superfamily."
+     Biochemistry 28:9806-9813(1989).
+     PubMed=2611266
+[ 5] Rosenberg H.F., Ackerman S.J., Tenen D.G.
+     "Human eosinophil cationic protein. Molecular cloning of a cytotoxin
+     and helminthotoxin with ribonuclease activity."
+     J. Exp. Med. 170:163-176(1989).
+     PubMed=2473157
+[ 6] Lewis M.T., Hunt L.T., Barker W.C.
+     "Striking sequence similarity among sialic acid-binding lectin,
+     pancreatic ribonucleases, and angiogenin: possible structural and
+     functional relationships."
+     Protein Seq. Data Anal. 2:101-105(1989).
+     PubMed=2710786
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

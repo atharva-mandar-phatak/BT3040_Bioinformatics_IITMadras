@@ -1,0 +1,24 @@
+FRIZZLED
+The frizzled (fz) locus of Drosophila coordinates the cytoskeletons of
+epidermal cells, producing a parallel array of cuticular hairs and bristles
+[1,2]. In fz mutants, the orientation of individual hairs with respect both
+to their neighbours and to the organism as a whole is altered - in the wild-
+type wing, all hairs point towards the distal tip [1]. In the developing
+wing, fz has 2 functions: it is required for the proximal-distal
+transmission of an intracellular polarity signal; and it is required for
+cells to respond to the polarity signal.
+
+Fz produces an mRNA that encodes an integral membrane protein with 7
+putative transmembrane (TM) domains. This protein should contain both
+extracellular and cytoplasmic domains, which could function in the
+transmission and interpretation of polarity information [1]. 
+
+FRIZZLED is a 7-element fingerprint that provides a signature for frizzled
+proteins. The fingerprint was derived from an initial alignment of 5 
+sequences: the motifs were drawn from the 7 putative TM regions. Two
+iterations on OWL27.1 were required to reach convergence, at which point
+a true set comprising 12 sequences was identified. A single partial match
+was also found, a frizzled protein fragment lacking the last 3 motifs.
+
+An update on SPTR37_9f identified a true set of 25 sequences, and 1
+partial match.

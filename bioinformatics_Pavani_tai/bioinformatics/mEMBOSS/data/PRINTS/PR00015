@@ -1,0 +1,31 @@
+GPOSANCHOR
+Viruses, parasites and bacteria are covered in protein and sugar molecules
+that help them gain entry into a host by counteracting the host's defenses
+[1]. One such molecule is the M protein produced by certain streptococcal
+bacteria. M proteins embody a motif that is now known to be shared by many 
+bacterial surface proteins. The motif includes a conserved hexapeptide,
+which precedes a hydrophobic C-terminal membrane anchor, which itself
+precedes a cluster of basic residues [2,3]. The hexapeptide is suggested
+to be essential for the correct anchoring to the bacterial membrane - the
+hydrophobic domain alone, with its C-terminal charged residues, is
+insufficient for attachment. The proteins that contain the conserved
+hexapeptide and hydrophobic anchor are diverse: they include M proteins,
+IgA and IgG binding proteins, fibronectin-binding proteins, wall-associated
+proteins, trypsin-resistant surface T protein, protein H precursor, etc..
+
+GPOSANCHOR is a 2-element fingerprint that provides a signature for the
+membrane anchor region of such cell-surface proteins. The fingerprint was
+derived from an initial alignment of 6 sequences: motif 1 includes the well-
+conserved hexapeptide encoded by PROSITE pattern GRAM_POS_ANCHORING
+(PS00343), and motif 2 spans the hydrophobic C-terminal anchor and part
+of the basic residue cluster. Three iterations on OWL21.1 were required to
+reach convergence, at which point a true set comprising 40 sequences was
+identified. The diagnostic performance of this fingerprint is not high,
+largely because it contains only 2 motifs, coupled with the fact that the
+degree of sequence similarity within the family is poor. As a result, 
+it has been necessary to use large hitlists to capture as many true-
+positives as possible. Note also that the fingerprint encodes both the
+conserved hexapeptide and the hydrophobic transmembrane motif, and hence
+sequences only bearing the hexapeptide are not identified. 
+
+An update on SPTR37_9f identified a true set of 58 sequences.

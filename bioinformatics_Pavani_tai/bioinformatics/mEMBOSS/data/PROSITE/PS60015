@@ -1,0 +1,62 @@
+********************************
+* Mu-agatoxin family signature *
+********************************
+
+Spider mu-agatoxins  are  cysteine-rich insecticidal polypeptides, which cause
+gradual but  irreversible  paralysis. These toxins cause repetitive firing and
+massive transmitter  release  (which  is mediated by glutamate receptors) from
+presynaptic stores at neuromuscular junctions [1].
+
+The mu-agatoxin family contains:
+
+ - Mu-agatoxin 1-6 from Agelenopsis aperta (Funnel-web spider),
+ - Curtatoxin 1-3 from Hololena curta (Funnel-web spider),
+ - Delta-palutoxin IT1, IT2, IT3 and IT4 from Paracoelotes luctuosus (Spider),
+ - Toxin  ACTX-Hi:OB4219  from  Hadronyche  infensa  (Fraser island funnel-web
+   spider).
+
+Mu-agatoxin family  proteins have a [C-C-CC-C-C-C-C] cysteine arrangement. The
+three dimensional  structure  of mu-agatoxins possesses a knottin scafold (see
+<PDOC60004>) [E1]  with  a fourth pair of cysteine residues (marked '#' in the
+following schematic representation) involved in a vicinal disulfide linkage.
+
+                              +-------------+
+                              |             | #     #
+                       CxxxxxxCxxxxxxxCCxxxxCxCxxxxxCxC
+                       |              ||      |     | |
+                       +---------------+      +-----+ |
+                                      +---------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': fourth pair of cysteine residues.
+
+Our signature  pattern for mu-agatoxins contains the eight conserved cysteines
+involved in disulfide bonds.
+
+-Consensus pattern: C-[LAV]-x-[DEK]-X(3)-C-x(6,7)-C-C-x(4)-C-x-C-x(5)-C-x-C
+                    [The 8 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: June 2005 / First entry.
+
+[ 1] Skinner W.S., Adams M.E., Quistad G.B., Kataoka H., Cesarin B.J.,
+     Enderlin F.E., Schooley D.A.
+     "Purification and characterization of two classes of neurotoxins from
+     the funnel web spider, Agelenopsis aperta."
+     J. Biol. Chem. 264:2150-2155(1989).
+     PubMed=2914898
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,56 @@
+************************************************************************
+* Ubiquitin carboxyl-terminal hydrolases family 1 cysteine active site *
+************************************************************************
+
+Ubiquitin carboxyl-terminal  hydrolases (EC 3.4.19.12) (UCH) (deubiquitinating
+enzymes) [1,2] are thiol proteases  that recognize  and  hydrolyze the peptide
+bond at the C-terminal glycine of ubiquitin. These enzymes are involved in the
+processing of  poly-ubiquitin  precursors  as  well  as  that  of  ubiquinated
+proteins.
+
+There are two distinct families of UCH.  The first class consist of enzymes of
+about 25 Kd and is currently represented by:
+
+ - Mammalian isozymes L1, L3 and L5.
+ - Yeast YUH1.
+ - Drosophila Uch.
+
+One of  the  active site residues of class-I UCH [3] is a cysteine. We derived
+a signature pattern from the region around that residue.
+
+-Consensus pattern: Q-x(3)-N-[SA]-C-G-x(3)-[LIVM](2)-H-[SA]-[LIVM]-[SA]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C12 in the classification of peptidases
+ [4,E1].
+
+-Last update: December 2001 / Text revised.
+
+[ 1] Jentsch S., Seufert W., Hauser H.-P.
+     "Genetic analysis of the ubiquitin system."
+     Biochim. Biophys. Acta 1089:127-139(1991).
+     PubMed=1647207
+[ 2] D'andrea A., Pellman D.
+     Crit. Rev. Biochem. Mol. Biol. 33:337-352(1998).
+[ 3] Johnston S.C., Larsen C.N., Cook W.J., Wilkinson K.D., Hill C.P.
+     "Crystal structure of a deubiquitinating enzyme (human UCH-L3) at 1.8
+     A resolution."
+     EMBO J. 16:3787-3796(1997).
+     PubMed=9233788; DOI=10.1093/emboj/16.13.3787
+[ 4] Rawlings N.D., Barrett A.J.
+     "Families of cysteine peptidases."
+     Methods Enzymol. 244:461-486(1994).
+     PubMed=7845226
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

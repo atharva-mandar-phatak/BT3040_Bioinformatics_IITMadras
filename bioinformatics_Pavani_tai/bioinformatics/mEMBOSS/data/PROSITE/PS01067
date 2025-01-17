@@ -1,0 +1,39 @@
+**************************************
+* Protein secE/sec61-gamma signature *
+**************************************
+
+In bacteria, the secE protein plays a role in protein export; it is one of the
+components -  with  secY  (see  <PDOC00612>)  and  secA  -  of the  preprotein
+translocase. In eukaryotes, the evolutionary related protein sec61-gamma plays
+a role  in protein translocation through the endoplasmic reticulum; it is part
+of a trimeric complex that also consist of sec61-alpha and beta [1]. Both secE
+and sec61-gamma  are small proteins of about 60 to 90 amino acids that contain
+a single  transmembrane region at their C-terminal extremity (Escherichia coli
+secE is  an exception,  in  that  it possess an extra N-terminal segment of 60
+residues that contains two additional transmembrane domains).
+
+The sequence  of  secE/sec61-gamma is not extremely well conserved, however it
+is possible  to  derive  a  signature  pattern centered on a conserved proline
+located 10 residues before the beginning of the transmembrane domain.
+
+-Consensus pattern: [LIVMFY]-x-{D}-[DENQGA]-x-{E}-x(2)-[LIVMFTA]-x-[KRV]-x(2)-
+                    [KW]-P-x(3)-[SEQ]-x(5)-{D}-{CG}-[LIVT]-[LIVGA]-[LIVFGAST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hartmann E., Sommer T., Prehn S., Goerlich D., Jentsch S., Rapoport T.A.
+     "Evolutionary conservation of components of the protein translocation
+     complex."
+     Nature 367:654-657(1994).
+     PubMed=8107851; DOI=10.1038/367654a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

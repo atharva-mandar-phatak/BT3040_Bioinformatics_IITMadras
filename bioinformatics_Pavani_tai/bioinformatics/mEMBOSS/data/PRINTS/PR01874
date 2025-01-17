@@ -1,0 +1,21 @@
+DNAREPAIRADA
+RadA are archael proteins that share sequence similarity and functionality
+with the bacterial RecA and the eukaryotic Rad51 proteins [1-4]. Sequence
+analysis and biochemical studies have shown that RadA is in fact more
+similar to eukaryotic Rad51 than to the bacterial RecA [1,3,4]: in 
+particular, the N-terminal region, containing domain I, is conserved among 
+the RadA and Rad51 proteins, but absent from RecA [3]. 
+
+RadA forms octameric rings or helical nucleoprotein filaments, and catalyses
+homologous recombination in cells [1,3,5]. RadA proteins have the ability to
+bind to ssDNA, to hydrolyse ATP in a DNA-dependent manner, and to catalyse
+DNA pairing and strand exchange [3,5-8]. Studies have shown that some RadA
+proteins display a preference for binding to DNA sequences that are rich in
+G bases, and under-represented in A and C [7].
+
+DNAREPAIRADA is a 7-element fingerprint that provides a signature for DNA 
+repair radA proteins. The fingerprint was derived from an initial alignment
+of 15 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length. Two iterations on SPTR40_20f were
+required to reach convergence, at which point a true set comprising 39
+sequences was identified.

@@ -1,0 +1,22 @@
+CATATPASE
+P-type (or E1-E2-type) ATPases constitute a superfamily of cation transport 
+enzymes, present both in prokaryota and eukaryota, whose members mediate 
+membrane flux of all common biologically relevant cations [1]. The enzymes
+can be divided into 4 major groups [2]: (1) Ca2+-transporting ATPases;
+(2) Na+/K+- and gastric H+/K+-transporting ATPases; (3) plasma membrane
+H+-transporting ATPases (proton pumps) of plants, fungi and lower
+eukaryotes; and (4) all bacterial P-type ATPases, except the Mg2+-ATPase
+of S.typhimurium, which is more similar to the eukaryotic sequences.
+
+CATATPASE is a 6-element fingerprint that provides a signature for the
+superfamily of cation-transporting ATPases. The fingerprint was derived 
+from an initial alignment of 18 sequences: the motifs were drawn from 
+regions that are well-conserved throughout the superfamily, motif 2
+including residues in the vicinity of a phosphorylated aspartate (cf.
+PROSITE pattern ATPASE_E1_E2 (PS00154)). Two iterations on OWL19.1 were
+required to reach convergence, at which point a true set comprising 93
+sequences was identified. Several partial matches were also found,
+including several fragments.
+
+An update on SPTR37_9f identified a true set of 217 sequences, and 94
+partial matches.

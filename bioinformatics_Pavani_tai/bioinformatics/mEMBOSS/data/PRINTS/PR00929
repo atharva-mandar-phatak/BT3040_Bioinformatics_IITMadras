@@ -1,0 +1,33 @@
+ATHOOK
+High mobility group (HMG)I proteins bind preferentially to the minor groove
+of A.T-rich regions in double-stranded DNA [1,2]. DNA-binding of these, and
+several related, proteins is effected by an 11-residue domain known as an
+A.T-hook [1].
+
+Within known HMG-I proteins are found three highly conserved regions, 
+closely related to the consensus sequence TPKRPRGRPKK [1]. A synthetic 
+oligopeptide with this sequence specifically binds to substrate DNA in a
+manner reminiscent of intact HMG-I proteins. Structure predictions suggest
+that the peptide has a secondary structure similar to the anti-tumour and
+anti-viral drugs netropsin and distamycin, and to the dye Hoechst 33258 [1]. 
+These ligands, which also preferentially bind to A.T-rich DNA, effectively
+compete with both the synthetic peptide and the HMG-I proteins for DNA 
+binding [1]. The peptide also contains novel structural features such as a
+predicted Asx bend, or "hook", at its N-terminus, and laterally-projecting
+cationic Arg/Lys "bristles", which may play a role in the binding of HMG-I
+proteins [1]. The predicted peptide structure, the A.T-hook, is a previously
+undescribed DNA-binding motif [1].
+
+ATHOOK is a 3-element fingerprint that provides a signature for AT-hook-like
+domains. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from 3 consecutive hook regions. Two
+iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 20 sequences was identified. Several partial matches
+were also found, all of which are DNA-binding proteins with regions of
+sequence showing strong similarity to the hook domain. Note that the motifs
+in this fingerprint are short and of low complexity. The fingerprint is 
+therefore not highly diagnostic, and results should therefore be treated
+with a degree of caution.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 2
+partial matches.

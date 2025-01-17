@@ -1,0 +1,50 @@
+****************************************
+* Aminotransferases class-IV signature *
+****************************************
+
+Aminotransferases  share certain mechanistic features with   other  pyridoxal-
+phosphate dependent enzymes, such as  the  covalent  binding of the pyridoxal-
+phosphate group  to  a  lysine  residue.  On the basis of sequence similarity,
+these various  enzymes  can  be  grouped [1,2] into subfamilies. One of these,
+called class-IV, currently consists of the following enzymes:
+
+ - Branched-chain amino-acid aminotransferase  (EC 2.6.1.42) (transaminase B),
+   a bacterial   (gene   ilvE)  and  eukaryotic  enzyme  which  catalyzes  the
+   reversible transfer  of  an  amino  group  from 4-methyl-2-oxopentanoate to
+   glutamate, to form leucine and 2-oxoglutarate.
+ - D-alanine   aminotransferase   (EC  2.6.1.21).  A  bacterial  enzyme  which
+   catalyzes the transfer of the amino group from D-alanine (and other D-amino
+   acids) to 2-oxoglutarate, to form pyruvate and D-aspartate.
+ - 4-amino-4-deoxychorismate (ADC) lyase (gene pabC). A  bacterial enzyme that
+   converts ADC into 4-aminobenzoate (PABA) and pyruvate.
+
+The above enzymes  are  proteins of about 270  to 415 amino-acid residues that
+share a few regions of sequence similarity.  Surprisingly, the  best conserved
+region does not include the  lysine residue  to  which the pyridoxal-phosphate
+group is  known  to  be  attached,  in  ilvE. The region we use as a signature
+pattern is located some 40 residues at the C-terminus side of the PlP-lysine.
+
+-Consensus pattern: E-x-[STAGCI]-x(2)-N-[LIVMFAC]-[FY]-x(6,12)-[LIVMFA]-x-T-
+                    x(6,8)-[LIVM]-x-[GS]-[LIVM]-x-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Green J.M., Merkel W.K., Nichols B.P.
+     "Characterization and sequence of Escherichia coli pabC, the gene
+     encoding aminodeoxychorismate lyase, a pyridoxal phosphate-containing
+     enzyme."
+     J. Bacteriol. 174:5317-5323(1992).
+     PubMed=1644759
+[ 2] Bairoch A.
+     Unpublished observations (1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

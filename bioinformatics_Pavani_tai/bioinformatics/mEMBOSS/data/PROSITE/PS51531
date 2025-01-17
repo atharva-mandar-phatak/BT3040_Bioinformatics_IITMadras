@@ -1,0 +1,64 @@
+***********************************************
+* Foamy virus protease (FV PR) domain profile *
+***********************************************
+
+Spumaviruses or  foamy  viruses (FVs) are a group of complex retroviruses that
+have been  isolated  from  a  number  of animal species and are believed to be
+apathogenic in  their  animal host [E1]. FVs express a pol-specific transcript
+that codes  for  a Pol polyprotein that consists of the protease (PR), reverse
+transcriptase, robonuclease  H  ,  and  the integrase domains. Retrovriral PRs
+belong to  the family of aspartic proteases and are active as homodimers, with
+the active   site   triplets   (Asp-Thr/Ser-Gly;   D-T/S-G)  from  both  chain
+contributing to the symetric active site of the enzyme. Transient FV PR domain
+homodimers are  formed  under native condition but are only present as a minor
+transient species,   which   is   not   detectable   by  traditional  methods.
+Dimerization of  FV  RT  might  be  triggered  by additional viral or cellular
+factors [1,2,3,4].  The  FV  PR  domain forms peptidase family A9 (spumapepsin
+family) [E2].
+
+The FV  PR  domain  consists  of  seven  beta-strands  and a helical turn (see
+<pdb:2JYS>). The  beta-strands  form  a closed barrel-like beta-sheet with the
+strand order  beta1-beta2-beta7-beta3-beta6-beta5-beta1. The strands beta1 and
+beta7 are  arranged  in  parallel,  while all other strands are arranged in an
+anti-parallel manner [3].
+
+The profile we developed covers the entire FV PR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2011 / First entry.
+
+[ 1] Konvalinka J., Loechelt M., Zentgraf H., Fluegel R.M., Kraeusslich H.-G.
+     "Active foamy virus proteinase is essential for virus infectivity but
+     not for formation of a Pol polyprotein."
+     J. Virol. 69:7264-7268(1995).
+     PubMed=7474150
+[ 2] Pfrepper K.-I., Rackwitz H.-R., Schnoelzer M., Heid H., Loechelt M.,
+     Fluegel R.M.
+     "Molecular characterization of proteolytic processing of the Pol
+     proteins of human foamy virus reveals novel features of the viral
+     protease."
+     J. Virol. 72:7648-7652(1998).
+     PubMed=9696869
+[ 3] Hartl M.J., Woehrl B.M., Roesch P., Schweimer K.
+     "The solution structure of the simian foamy virus protease reveals a
+     monomeric protein."
+     J. Mol. Biol. 381:141-149(2008).
+     PubMed=18597783; DOI=10.1016/j.jmb.2008.05.064
+[ 4] Hartl M.J., Schweimer K., Reger M.H., Schwarzinger S., Bodem J.,
+     Rosch P., Wohrl B.M.
+     "Formation of transient dimers by a retroviral protease."
+     Biochem. J. 427:197-203(2010).
+     PubMed=20136635; DOI=10.1042/BJ20091451
+[E1] http://www.expasy.org/viralzone/all_by_protein/10.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=A9
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,69 @@
+*************************************************
+* N-6 Adenine-specific DNA methylases signature *
+*************************************************
+
+N-6 adenine-specific DNA  methylases (EC 2.1.1.72) (A-Mtase) are  enzymes that
+specifically methylate the amino group at the C-6 position of adenines in DNA.
+Such enzymes are  found  in the three existing types of bacterial restriction-
+modification systems  (in type I system the A-Mtase is the product of the hsdM
+gene, and in type III it is the product of the mod gene). All of these enzymes
+recognize  a  specific  sequence  in  DNA  and  methylate  an  adenine in that
+sequence.
+
+It has been  shown [1,2,3,4] that A-Mtases contain  a conserved motif Asp/Asn-
+Pro-Pro-Tyr/Phe in their N-terminal  section,  this conserved  region could be
+involved in substrate binding or in the catalytic activity.  We have derived a
+pattern from that motif.
+
+-Consensus pattern: [LIVMAC]-[LIVFYWA]-{DYP}-[DN]-P-P-[FYW]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for m.HhaII where the second Pro is  replaced  by  Gln and in m.HindIII where
+ that same Pro is replaced by Tyr.
+-Other sequence(s) detected in Swiss-Prot: 33 different proteins that are most
+ probably not A-Mtases, and three hypothetical Escherichia coli  proteins that
+ could be A-Mtases.
+
+-Note: N-4 cytosine-specific DNA methylases,  which are probably enzymatically
+ related to A-Mtases,  also  include  a  conserved  Pro-Pro  dipeptide but the
+ residues around them are  sufficiently different to allow the derivation of a
+ pattern specific to these enzymes.
+
+-Expert(s) to contact by email:
+           Roberts R.J.; roberts@neb.com
+           Bickle T.; bickle@ubaclu.unibas.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Loenen W.A.M., Daniel A.S., Braymer H.D., Murray N.E.
+     "Organization and sequence of the hsd genes of Escherichia coli
+     K-12."
+     J. Mol. Biol. 198:159-170(1987).
+     PubMed=3323532
+[ 2] Narva K.E., Van Etten J.L., Slatko B.E., Benner J.S.
+     "The amino acid sequence of the eukaryotic DNA
+     [N6-adenine]methyltransferase, M.CviBIII, has regions of similarity
+     with the prokaryotic isoschizomer M.TaqI and other DNA [N6-adenine]
+     methyltransferases."
+     Gene 74:253-259(1988).
+     PubMed=3248728
+[ 3] Lauster R.
+     "Evolution of type II DNA methyltransferases. A gene duplication
+     model."
+     J. Mol. Biol. 206:313-321(1989).
+     PubMed=2541254
+[ 4] Timinskas A., Butkus V., Janulaitis A.
+     "Sequence motifs characteristic for DNA [cytosine-N4] and DNA
+     [adenine-N6] methyltransferases. Classification of all DNA
+     methyltransferases."
+     Gene 157:3-11(1995).
+     PubMed=7607512
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

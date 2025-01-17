@@ -1,0 +1,35 @@
+*************************
+* Histone H2A signature *
+*************************
+
+Histone H2A  is  one  of  the  four histones, along with H2B, H3 and H4, which
+forms the   eukaryotic  nucleosome  core.  Using  alignments  of  histone  H2A
+sequences [1,2,E1]  we selected, as a signature pattern, a conserved region in
+the N-terminal  part of H2A.  This  region is conserved  both  in classical S-
+phase regulated  H2A's  and  in    variant histone H2A's which are synthesized
+throughout the cell cycle.
+
+-Consensus pattern: [AC]-G-L-x-F-P-V
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Wells D.E., Brown D.
+     "Histone and histone gene compilation and alignment update."
+     Nucleic Acids Res. 19:2173-2188(1991).
+     PubMed=2041803
+[ 2] Thatcher T.H., Gorovsky M.A.
+     "Phylogenetic analysis of the core histones H2A, H2B, H3, and H4."
+     Nucleic Acids Res. 22:174-179(1994).
+     PubMed=8121801
+[E1] http://research.nhgri.nih.gov/histones/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

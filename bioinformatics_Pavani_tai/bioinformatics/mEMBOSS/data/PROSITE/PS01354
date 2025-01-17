@@ -1,0 +1,80 @@
+**********************************************************************
+* Long hematopoietin receptor, soluble alpha chains family signature *
+**********************************************************************
+
+A number  of  receptors  for  lymphokines,  hematopoietic  growth  factors and
+growth hormone-related  molecules  have  been  found to share a common binding
+domain. These  receptors  are  designated as hematopoietin receptors [1,2] and
+the corresponding ligands as hematopoietins. Further, hematopoietins have been
+subdivided into  two  major  structural  groups:  Large/long  and  small/short
+hematopoietins.
+
+One  subset  of individual receptor chains that are part of receptor complexes
+for   large   hematopoietins  contain  common  structural  elements  in  their
+extracellular  parts:  an immunoglobulin-like  domain at the N-terminal end of
+the hematopoietin  receptor domain (except for the EBCV-induced interleukin-12
+beta chain)  and a short (or no) cytoplasmic domain. They define a structural
+subgroup containing the following chains:
+
+ - Interleukin-6 receptor alpha chain (IL6RA).
+ - Interleukin-11 receptor alpha chain (IL11RA).
+ - Ciliary neurotrophic factor receptor alpha chain (CNTFRA).
+ - Interleukin-12 beta chain p40 (IL12BC).
+ - Interleukin-12 beta chain induced by Epstein-Barr Virus (EBI3).
+
+A schematic representation of the structure of these receptors is shown below:
+
+  +-----------+--------------------------------------------+
+  |  Ig-like  |  C C     C  C         Extracellular        |
+  +-----------+--|-|-----|--|------------------------------+
+                 | |     |  |
+                 +-+     +--+
+
+Members of  this  subgroup  bind  to their cognate cytokines with low affinity
+and possess  transmembrane  and  short cytoplasmic domains (IL6RA and IL11RA),
+or are  GPi-linked  membrane  proteins  (CNTFRA).  Truncated  soluble forms of
+IL-6 and  CNTF  receptors  alpha  chains are physiologically active [3]. IL-12
+is an  heterodimeric  cytokine  made  of an alpha chain (p35) and a beta chain
+(p40). p40  (IL12BC)  can  be  regarded  as  an alpha chain receptor devoid of
+cytoplasmic domain  [4].  Members  of  this  family  have  the ability to bind
+corresponding cytokines with no signalling function.
+
+We have  used  one  pattern to detect this family. The motif is located in the
+middle of the 200 amino acids hematopoietin domain.
+
+-Consensus pattern: [LIV]-x-P-D-P(2)-x(2)-[LIV]-x(8,11)-[LVAM]-x(3)-W-x(2)-P-
+                    x-[ST]-W-x(4,6)-[FY]-x-L-x-[FY]-x-[LVI]
+-Sequences known to belong to this class detected by the pattern: ALL
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Boulay J.-L.; Jean-Louis.Boulay@unibas.ch
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Boulay J.-L., Paul W.E.
+     "Hematopoietin sub-family classification based on size, gene
+     organization and sequence homology."
+     Curr. Biol. 3:573-581(1993).
+     PubMed=15335670
+[ 2] Sprang S.R., Bazan J.F.
+     Curr. Opin. Struct. Biol. 3:815-827(1993).
+[ 3] Kishimoto T., Taga T., Akira S.
+     "Cytokine signal transduction."
+     Cell 76:253-262(1994).
+     PubMed=8293462
+[ 4] Gearing D.P., Cosman D.
+     "Homology of the p40 subunit of natural killer cell stimulatory factor
+     (NKSF) with the extracellular domain of the interleukin-6 receptor."
+     Cell 66:9-10(1991).
+     PubMed=2070420
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

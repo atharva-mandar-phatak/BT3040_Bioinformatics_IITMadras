@@ -1,0 +1,29 @@
+HIV1MATRIX
+The HIV-1 matrix protein forms an icosahedral shell associated with
+the inner membrane of the mature virus [1]. The functions of the protein
+include anchoring the transmembrane envelope protein on the surface
+of the virus; assisting in viral penetration; transporting the pro-
+viral integration complex across the nuclear envelope; and localising
+the assembling virion to the cell membrane.
+
+The structure of the protein comprises 5 alpha-helices, a short 3.10
+helix and a 3-stranded mixed beta-sheet [1]. The first 3 helices and the
+3.10 region pack around the fourth helix to form a compact globular
+domain that is capped by the beta-sheet. The C-terminal helix projects
+away from the sheet to expose C-terminal residues essential for early
+steps in the HIV-1 infectious cycle. Basic residues, implicated in
+membrane binding and nuclear localisation functions, cluster around
+an extruded cationic loop that connects strands 1 and 2.
+
+HIV1MATRIX is a 5-element fingerprint that provides a signature for
+HIV-1 matrix proteins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from highly-conserved
+regions spanning the full length of the mature protein, motif 2
+including the basic residues implicated in membrane binding. Three
+iterations of OWL25.1 were required to reach convergence, at which
+point a true set comprising 70 sequences was identified. A single
+partial match was also found, a matrix protein fragment lacking the
+final 2 motifs.
+
+An update on SPTR37_9f identified a true set of 206 sequences, and 38
+partial matches.

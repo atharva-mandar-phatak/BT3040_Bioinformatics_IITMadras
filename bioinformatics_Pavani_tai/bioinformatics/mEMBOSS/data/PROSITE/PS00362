@@ -1,0 +1,47 @@
+***********************************
+* Ribosomal protein S15 signature *
+***********************************
+
+Ribosomal protein S15 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli, this protein binds to 16S ribosomal RNA and functions at
+early steps in ribosome assembly. It belongs to a family of ribosomal proteins
+which, on the basis of sequence similarities [1,2], groups:
+
+ - Eubacterial S15.
+ - Archaebacterial Halobacterium marismortui HmaS15 (HS11).
+ - Plant chloroplast S15.
+ - Yeast mitochondrial S28.
+ - Mammalian S13.
+ - Brugia pahangi and Wuchereria bancrofti S13 (S15).
+ - Yeast S13 (YS15).
+
+S15 is a protein of 80 to 250 amino-acid residues.  As a signature pattern, we
+selected a conserved region located in the C-terminal part of these proteins.
+
+-Consensus pattern: [LIVM]-x(2)-H-[LIVMFY]-x(3)-{S}-x-D-x(2)-[STAGN]-x(3)-
+                    [LF]-x(2)-{A}-x(6)-[LIVM]-x(2)-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Expert(s) to contact by email:
+           Ellis S.R.; srelli01@ulkyvm.bitnet
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dang H., Ellis S.R.
+     "Structural and functional analyses of a yeast mitochondrial ribosomal
+     protein homologous to ribosomal protein S15 of Escherichia coli."
+     Nucleic Acids Res. 18:6895-6901(1990).
+     PubMed=2263452
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

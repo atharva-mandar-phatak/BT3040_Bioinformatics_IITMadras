@@ -1,0 +1,36 @@
+P53SUPPRESSR
+The tumour suppressor P53 is involved in 50% of all human cancers [1-3].
+The protein has been implicated in cell cycle regulation, particularly in
+the monitoring of genomic DNA integrity prior to replication; for this
+reason it has been dubbed 'guardian of the genome'. P53 is a sequence-
+specific DNA-binding protein and transcription factor; downstream targets
+include the gene for p21, whose product inhibits cyclin-dependent kinase-4,
+thereby blocking cell division.
+
+The structure of P53 comprises 4 domains: an N-terminal transactivation
+domain; a central DNA-binding domain; an oligomerisation domain; and a
+C-terminal, basic, regulatory domain [1,3]. The structure of the oligo-
+merisation domain consists of a dimer of dimers, each dimer consisting
+of 2 anti-parallel alpha-helices and an anti-parallel beta-sheet. The sheets
+lie on opposite sides of the tetramer and the helices form an unusual
+4-helix bundle [1,3]. While the majority of P53 mutations found in human
+cancers are located in the DNA-binding domain, some are also found in
+the oligomerisation domain.
+
+P53SUPPRESSR is a 6-element fingerprint that provides a signature for p53
+tumour suppressor proteins. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were largely drawn from conserved
+regions within the central DNA-binding domain - motif 1 spans loop L1, beta-
+hairpin S2 S2' and connecting loop; motif 2 spans strand S4, loop L2 and
+helix H1, and includes 2 of the zinc ligands (Cys176 and His179); motif 3
+spans strands S7 and S8 and the connecting loop; motif 4, which contains the
+remaining 2 zinc ligands (Cys238 and Cys242), spans loop L3 and strand S9,
+and includes the region encoded by PROSITE pattern P53 (PS00348), which is
+involved in binding the large T antigen of SV40 [2]; motif 5 spans strand
+S10, helix H2 and the connecting loop; and motif 6 lies within the oligo-
+merisation domain. Two iterations on OWL26.0 were required to reach
+convergence, at which point a true set comprising 23 sequences was
+identified. A single partial match was also found, a fragment lacking
+the final 4 motifs. 
+
+An update on SPTR37_9f identified a true set of 36 sequences.

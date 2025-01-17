@@ -1,0 +1,22 @@
+EPENDYMIN
+Ependymins are secretory proteins found predominantly in the cerebro-
+spinal fluid of teleost fish [1-3]. A bound form of the glycoproteins is
+associated with the extracellular matrix, probably with collagen fibrils -
+this may be the functional form of ependymins [1]. The proteins, which
+contain about 200 amino acids (including 4 conserved Cys residues that
+may form disulphide bonds), bind calcium via N-linked sialic acid residues.
+The molecular function of ependymins appear to be related to cell contact
+phenomena involving the extracellular matrix [1]. To date, no mammalian 
+homologue has been identified. 
+
+EPENDYMIN is a 7-element fingerprint that provides a signature for the
+ependymins. The fingerprint was derived from an initial alignment of 9
+sequences: the motifs were drawn from conserved regions spanning the
+full alignment length, motifs 1, 3, 5 and 7 each including a conserved
+Cys residue - motif 3 also contains a conserved n-glycosylation site and
+includes the region encoded by PROSITE pattern ependymin_1 (PS00898),
+while motif 7 includes the region encoded by PROSITE pattern EPENDYMIN_2
+(PS00899). A single iteration on OWL24.0 was required to reach convergence,
+no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 11 sequences.

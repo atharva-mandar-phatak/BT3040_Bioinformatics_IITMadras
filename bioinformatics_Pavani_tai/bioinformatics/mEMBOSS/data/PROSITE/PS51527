@@ -1,0 +1,67 @@
+*************************************************************
+* Flavivirus NS2B and NS3 protease (NS3pro) domain profiles *
+*************************************************************
+
+Pathogenic members  of  the  flavivirus family [E1], including West Nile Virus
+(WNV) and Dengue Virus (DV), are growing global threats for which there are no
+specific treatments.  The  genome  encodes  three structural proteins found in
+the mature virion (C, prM, and E) and seven "nonstructural" (i.e., not part of
+the virion architecture) proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, and NS5).
+Full-length NS3  is  a  bifunctional  protein.  The  N-terminal  175  residues
+comprise a  chymotrypsin-like protease, "NS3pro", while the C-terminal portion
+is a   helicase  ("NS3hel").  The  NS2B  protein,  which  is  located  in  the
+polypeptide precursor  immediately upstream of the NS3pro domain, functions as
+the cofactor  for  NS3pro.  A  35-48  residue  central portion is required for
+protease activity  in  vitro,  while  N-  and  C-terminal flanking hydrophobic
+regions are predicted to anchor the NS2B-NS3 complex into the host endoplasmic
+reticulum  membrane. The  two component flaviviral enzyme NS2B-NS3 cleaves the
+viral polyprotein  precursor  within the host cell, a process that is required
+for viral  replication  [1,2,3].  The  NS3pro domain forms peptidase family S7
+(flavivirin family) of clan PA [E2].
+
+The NS3pro  has  a  classical  serine  protease catalytic triad (His, Asp, and
+Ser). The  enzymatic  activity  of  NS3pro is enhanced by interacting with the
+central 40  amino acid of NS2B which acts as an essential cofactor. The NS3pro
+domain has  an  overall structure of two barrels made of six beta sheets each,
+with the  active  site  located  in  the  cleft  between the barrels. The NS2B
+hydrophilic core  cofactor  contributes one of the N-terminal beta sheets (see
+<PDB:3L6P>) [1,2,3].
+
+The profiles we developed cover the entire flavivirus NS2B and NS3pro domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2011 / First entry.
+
+[ 1] Aleshin A.E., Shiryaev S.A., Strongin A.Y., Liddington R.C.
+     "Structural evidence for regulation and specificity of flaviviral
+     proteases and evolution of the Flaviviridae fold."
+     Protein Sci. 16:795-806(2007).
+     PubMed=17400917; DOI=10.1110/ps.072753207
+[ 2] Wichapong K., Pianwanit S., Sippl W., Kokpol S.
+     "Homology modeling and molecular dynamics simulations of Dengue virus
+     NS2B/NS3 protease: insight into molecular interaction."
+     J. Mol. Recognit. 23:283-300(2010).
+     PubMed=19693793; DOI=10.1002/jmr.977
+[ 3] Chandramouli S., Joseph J.S., Daudenarde S., Gatchalian J.,
+     Cornillez-Ty C., Kuhn P.
+     "Serotype-specific structural differences in the protease-cofactor
+     complexes of the dengue virus family."
+     J. Virol. 84:3059-3067(2010).
+     PubMed=20042502; DOI=10.1128/JVI.02044-09
+[E1] http://www.expasy.org/viralzone/all_by_species/24.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=S7
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

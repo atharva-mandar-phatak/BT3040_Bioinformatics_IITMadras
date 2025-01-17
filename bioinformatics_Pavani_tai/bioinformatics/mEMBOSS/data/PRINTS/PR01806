@@ -1,0 +1,29 @@
+VIRFACTRMVIN
+Virulent bacteria utilise a number of different pathogenic mechanisms to 
+successfully invade a host [1]. There are roughly six subclasses of 
+virulence factor; most are protein moieties aimed at evading the host
+immune system or rendering it useless against the pathogen [1]. Mechanisms
+can be conserved across a number of bacteria, like the flagella used by 
+enterobacteria, or unique to a certain species, such as the Type IV/CAG 
+system of Helicobacter pylori [1].
+
+The sequencing of a number of pathogenic bacterial genomes has led to novel
+virulence proteins being discovered that are yet to be biochemically 
+characterised [2]. One example is the MviN family of proteins, first 
+described in Salmonella [3], and conserved across a wide variety of 
+pathogens in both animals and plants. Further work on these proteins of
+as yet unknown function has revealed they are integral membrane molecules, 
+and are part of an operon essential in at least one species [4].
+                                                                               
+VIRFACTRMVIN is a 7-element fingerprint that provides a signature for the 
+MviN virulence factors. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 spans the first
+putative transmembrane (TM) domain; motif 3 includes putative TM domain 3;
+motif 4 encodes TM domain 4; motif 5 includes the C-terminus of TM domain 6;
+motif 6 spans TM domain 9; and motif 7 includes putative TM domain 11. Three
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 28 sequences was identified. Several partial matches
+were also found, all of which are MviN homologues, virulence factor-related
+proteins and putative membrane proteins that fail to make significant
+matches with one or more motifs.

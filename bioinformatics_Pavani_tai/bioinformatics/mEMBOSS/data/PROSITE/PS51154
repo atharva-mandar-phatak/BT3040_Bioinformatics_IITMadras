@@ -1,0 +1,102 @@
+************************
+* Macro domain profile *
+************************
+
+The  Macro  or  A1pp  domain  is  a  module of ~180 amino acids which can bind
+ADP-ribose,  an  NAD  metabolite  or related ligands. The domain was described
+originally   in   association   with   ADP-ribose  1''-phosphate  (Appr-1''-P)
+processing  activity  (A1pp)  of  the yeast YBR022W protein [1]. The domain is
+also  called  Macro  domain  as  it is the C-terminal domain of mammalian core
+histone  macro-H2A [2,3]. Macro domain proteins can be found in eukaryotes, in
+(mostly  pathogenic)  bacteria,  in  archaea  and  in  ssRNA  viruses, such as
+coronaviruses,  Rubella  and  Hepatitis  E  viruses. In vertebrates the domain
+occurs  e.g.  in  histone  macroH2A,  in predicted poly-ADP-ribose polymerases
+(PARPs)  and  in  B aggressive lymphoma (BAL) protein. The macro domain can be
+associated  with catalytic domains, such as PARP (see <PDOC51059>), or sirtuin
+(See  <PDOC50305>). The Macro domain can recognize ADP-ribose or in some cases
+poly-ADP-ribose,  which  can  be  involved  in ADP-ribosylation reactions that
+occur  in  important  processes,  such  as  chromatin  biology, DNA repair and
+transcription  regulation [4]. The human macroH2A1.1 Macro domain binds an NAD
+metabolite  O-acetyl-ADP-ribose  [5].  The  Macro domain has been suggested to
+play  a  regulatory  role in ADP-ribosylation, which is involved in inter- and
+intracellular  signaling,  transcriptional regulation, DNA repair pathways and
+maintenance  of genomic stability, telomere dynamics, cell differentiation and
+proliferation, and necrosis and apoptosis.
+
+The  3D  structure  of the Macro domain has a mixed alpha/beta fold of a mixed
+beta  sheet  sandwiched  between  four helices (see <PDB:2BFQ>). Several Macro
+domain  only  domains are shorter than the structure of AF1521 and lack either
+the  first  strand  or  the C-terminal helix 5. Well conserved residues form a
+hydrophobic cleft and cluster around the AF1521-ADP-ribose binding site [3-6].
+
+Some proteins known to contain a Macro domain:
+
+ - Mammalian   histone   macro-H2A.1  and  macro-H2A.2,  the  latter  with  an
+   alternatively  spliced  Macro  domain.  These  histones are enriched in the
+   chromatin   of  inactive  X-chromosomes  and  appear  to  have  a  role  in
+   transcriptional silencing [3,5].
+ - Mammalian  B aggressive lymphoma protein (BAL), which is a highly expressed
+   risk factor in some agressive lymphomas.
+ - Mammalian PARP-14 and PARP-15 proteins, with predicted PARP activity.
+ - Yeast  YBR022W  protein, which catalyzes the hydrolyzation of Appr-1''-P, a
+   metabolite from tRNA splicing, to ADP-ribose and Pi.
+ - Archaeoglobus fulgidus AF1521 and related archaeal and bacterial proteins.
+ - Coronaviral  papain-like  proteinase  (nsp3), in replicase polyprotein 1ab,
+   which   is  responsible  for  cleavages  at  the  N-terminus  of  replicase
+   polyprotein.
+ - Rubella virus protease p150.
+ - Hepatitis E virus non-structural polyprotein.
+ - Alphavirus non-structural protein 3.
+
+The  profile we developed covers the entire Macro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  The  Macro  domain  has  also  been called A1pp, the X domain, ADRP or
+ macro-H2A domain.
+
+-Last update: May 2007 / Text revised.
+
+[ 1] Martzen M.R., McCraith S.M., Spinelli S.L., Torres F.M., Fields S.,
+     Grayhack E.J., Phizicky E.M.
+     "A biochemical genomics approach for identifying genes by the activity
+     of their products."
+     Science 286:1153-1155(1999).
+     PubMed=10550052
+[ 2] Aravind L.
+     "The WWE domain: a common interaction module in protein ubiquitination
+     and ADP ribosylation."
+     Trends Biochem. Sci. 26:273-275(2001).
+     PubMed=11343911
+[ 3] Allen M.D., Buckle A.M., Cordell S.C., Lowe J., Bycroft M.
+     "The crystal structure of AF1521 a protein from Archaeoglobus fulgidus
+     with homology to the non-histone domain of macroH2A."
+     J. Mol. Biol. 330:503-511(2003).
+     PubMed=12842467
+[ 4] Karras G.I., Kustatscher G., Buhecha H.R., Allen M.D., Pugieux C.,
+     Sait F., Bycroft M., Ladurner A.G.
+     "The macro domain is an ADP-ribose binding module."
+     EMBO J. 24:1911-1920(2005).
+     PubMed=15902274; DOI=10.1038/sj.emboj.7600664
+[ 5] Kustatscher G., Hothorn M., Pugieux C., Scheffzek K., Ladurner A.G.
+     "Splicing regulates NAD metabolite binding to histone macroH2A."
+     Nat. Struct. Mol. Biol. 12:624-625(2005).
+     PubMed=15965484; DOI=10.1038/nsmb956
+[ 6] Egloff M.P., Malet H., Putics A., Heinonen M., Dutartre H.,
+     Frangeul A., Gruez A., Campanacci V., Cambillau C., Ziebuhr J.,
+     Ahola T., Canard B.
+     "Structural and functional basis for ADP-ribose and poly(ADP-ribose)
+     binding by viral macro domains."
+     J. Virol. 80:8493-8502(2006).
+     PubMed=16912299; DOI=10.1128/JVI.00713-06
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

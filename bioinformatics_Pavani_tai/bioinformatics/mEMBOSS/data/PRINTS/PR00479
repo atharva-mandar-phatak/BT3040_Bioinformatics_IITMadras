@@ -1,0 +1,26 @@
+PRPHPHLPASEC
+Bacillus cereus contains a monomeric phospholipase C that prefers to act 
+on phosphatidylcholine, but also shows weak catalytic activity with 
+sphingomyelin and phosphatidylinositol [1]. Sequence studies have shown 
+the protein to be similar both to alpha toxin from Clostridium perfingens
+and C.bifermentans, a phospholipase C involved in haemolysis and cell
+rupture [2], and to lecithinase from Listeria monocytogenes, which aids
+cell-to-cell spread by breaking down the 2-membrane vacuoles that surround
+the bacterium during transfer [3].
+
+Each of these proteins is a zinc-dependent enzyme, binding 3 zinc ions per
+molecule [4]. The enzymes catalyse the conversion of phosphatidylcholine
+and water to 1,2-diacylglycerol and choline phosphate [1,2,4].
+
+PRPHPHLPASEC is a 5-element fingerprint that provides a signature for 
+prokaryotic zinc-dependent phospholipase C. The fingerprint was derived
+from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions largely spanning the central portion of the alignment -
+motif 3 includes the region encoded by PROSITE pattern PROKAR_ZN_DEPEND_PLPC
+(PS00384), the 2 conserved histidines and the conserved aspartate of which
+provide 3 of the zinc ligands; and motifs 1 and 4 contain other zinc-binding
+residues. Two iterations on OWL27.0 were required to reach convergence, at
+which point a true set comprising 11 sequences was identified. A single
+partial match (LIU190352) was also found, a lecithinase fragment.
+
+An update on SPTR37_9f identified a true set of 18 sequences.

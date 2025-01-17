@@ -1,0 +1,47 @@
+FUNRIBOTOXIN
+Fungi are ubiquitous in nature, and numerous fungal diseases in humans, 
+cattle, poultry, etc., have been described. The major pathogenic species
+of Aspergillus for humans is Aspergillus fumigatus [1], which is responsible
+for a variety of allergic and invasive diseases; the most severe form is
+invasive aspergillosis, which is an increasingly important cause of
+mortality in severely immunocompromised patients, especially those with
+acute leukaemia. During human fungal infections, a variety of complex 
+circulating antigens are found in the urine and serum of patients. Of these,
+the major antigen is a 18kDa protein, whose amino acid composition is
+similar to that of mitogillin and restrictocin [1].
+
+The fungal ribotoxins are a family of highly specific ribonucleases that 
+inactivate the ribosome by cleavage of the 23-28S RNA of the large ribosomal 
+subunit at a single phosphodiester bond. Cleavage abolishes the capacity of
+ribosomes to carry out protein synthesis by inhibiting elongation factor 1-
+dependent binding of aminoacyl-tRNA and GTP-dependent binding of elongation
+factor 2 to ribosomes. Mitogillin-like ribotoxins are among the most potent
+inhibitors of translation so far identified, and they have been investigated
+as potential anti-tumour agents, or components of immunotoxins [2].
+
+Mitogillin and the related Aspergillus fungal ribotoxins, restrictocin (from 
+which mitogillin differs by only one amino acid) and a-sarcin (with which it 
+has 86% amino acid sequence identity), are small basic proteins of ~17kDa, 
+consisting of a single polypeptide chain. These proteins share amino acid
+sequence similarity with T1/U2-like ribonucleases, but their ability to
+interact specifically with the ribosome and cause a single ribonucleolytic
+cleavage in the large subunit rRNA is unique. Similarities and differences
+in the amino acid sequences of ribotoxins and other guanyl/purine 
+ribonucleases may represent domains or residues key to ribonucleolytic
+activity and specificity [2,3]. The presence of such domains (some of 
+which are similar to sequences in ribosome-associated proteins) in fungal 
+ribotoxins, led to the hypothesis that fungal ribotoxins are a family of 
+naturally engineered toxins with ribosomal targeting elements inserted 
+into non-essential regions of T1-like ribonucleases. 
+
+FUNRIBOTOXIN is a 5-element fingerprint that provides a signature for the 
+major allergen fungal ribotoxins. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 includes beta-strand 1,
+which bears the first active site His residue; motif 2 includes strand 2,
+which houses the active site Asp; motif 3 encodes the N-terminus of strand
+3, which bears the active site Arg; motif 4 spans the C-terminus of strand 3
+and the N-terminal portion of strand 4; and motif 5 includes strand 5, which
+houses the second active site His. Two iterations on SPTR39_17f were 
+required to reach convergence, at which point a true set comprising 11
+sequences was identified.

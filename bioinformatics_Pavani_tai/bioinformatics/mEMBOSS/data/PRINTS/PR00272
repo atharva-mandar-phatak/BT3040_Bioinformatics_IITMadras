@@ -1,0 +1,36 @@
+ERYTHROPTN
+Erythropoietin, a plasma glycoprotein, is the primary physiological
+mediator of erythropoiesis [1]. It is involved in the regulation of the
+level of peripheral erythrocytes by stimulating the differentiation of 
+erythroid progenitor cells, found in the spleen and bone marrow, into mature
+erythrocytes [2]. It is primarily produced in adult kidneys and foetal 
+liver [3], acting by attachment to specific binding sites on erythroid
+progenitor cells, stimulating their differentiation [3]. Severe kidney
+dysfunction causes reduction in the plasma levels of erythropoietin,
+resulting in chronic anaemia - injection of purified erythropoietin into
+the blood stream can help to relieve this type of anaemia [1]. In cases of
+severe kidney damage, causing very low erythropoietin levels, the liver
+can take over production of the hormone [1].
+
+Levels of erythropoietin in plasma fluctuate with varying oxygen tension of
+the blood, but androgens and prostaglandins also modulate the levels to some
+extent [3]. Erythropoietin glycoprotein sequences are well conserved, a
+consequence of which is that the hormones are cross-reactive among mammals,
+i.e. that from one species, say human, can stimulate erythropoiesis in
+other species, say mouse or rat [4]. The human form has a single O-linked
+and 3 N-linked sugar chains, which may affect biological activity, such as
+turnover rate, antigenicity, and so on [1].
+
+ERYTHROPTN is a 6-element fingerprint that provides a signature for the
+erythropoietins. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 1 includes the region encoded by PROSITE pattern
+EPO (PS00817), the totally conserved Cys of which is involved in disulphide
+bond formation; motifs 2 and 4 include conserved Asn residues, all of
+which have N-linked sugar chains attached; and motif 5 has 2 conserved Ser
+residues, the second of which has an O-linked sugar chain attached. Two
+iterations on OWL22.0 were required to reach convergence, at which point a
+true set comprising 10 sequences was identified. A single partial match was
+also found, an erythropoietin fragment matching just 5 motifs.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

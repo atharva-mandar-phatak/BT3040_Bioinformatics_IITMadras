@@ -1,0 +1,39 @@
+KCNECHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Some types of K+ channel are closed at the resting potential of the cell,
+but open on membrane depolarisation, and are thus known as voltage-gated 
+channels. Each of these types of channel typically comprises 4 pore-forming
+alpha subunits that may associate with one of a number of different types of
+beta subunit. Two types of beta subunit (KCNE and KCNAB) are presently known
+to associate with voltage-gated alpha subunits (Kv, KCNQ and eag-like).
+However, not all combinations of alpha and beta subunits are possible.
+The KCNE family of K+ channel subunits are membrane glycoproteins that 
+possess a single transmembrane (TM) domain. They share no structural 
+relationship with the alpha subunit proteins, which possess pore forming 
+domains. The subunits appear to have a regulatory function, modulating the 
+kinetics and voltage dependence of the alpha subunits of voltage-dependent
+K+ channels [2]. KCNE subunits are formed from short polypeptides of ~130
+amino acids, and are divided into five subfamilies: KCNE1 (MinK/IsK),
+KCNE2 (MiRP1), KCNE3 (MiRP2), KCNE4 (MiRP3) and KCNE1L (AMMECR2).
+
+KCNECHANNEL is a 3-element fingerprint that provides a signature for the
+KCNE voltage-gated K+ channel family E. The fingerprint was derived from an
+initial alignment of 9 sequences: the motifs were drawn from conserved 
+regions spannning the central portion of the alignment: motifs 1 and 2 span
+the TM domain; and motif 3 spans the C-terminus of the TM domain and the
+N-terminus of the cytoplasmic tail. Two iterations on SPTR39.22_17.3f were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified.
+
+An update on SPTR57_40f identified a true set of 18 sequences. Two partial  
+matches were also found, Q8AWZ9_XENLA and Q8AWZ8_XENLA, which are frog 
+translated mRNA sequences that fail to make a significant match to motif 1.

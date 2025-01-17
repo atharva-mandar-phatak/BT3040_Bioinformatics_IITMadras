@@ -1,0 +1,52 @@
+***************************************************
+* Bacterial microcompartiments proteins signature *
+***************************************************
+
+A family  of  small bacterial proteins has been recently discovered [1,2] that
+seem to  be  involved  in  the formation of specific microcompartiments in the
+cell in  which  the  metabolism  of potentially toxic by-products takes place.
+The proteins that belong to this family are:
+
+ - Escherichia   coli   and  Salmonella  typhimurium  cchA,  involved  in  the
+   degradation of ethanolamine.
+ - Salmonella typhimurium pduA, involved in 1,2-propanediol metabolism.
+ - Synechococcus ccmK, involved  in  the formation of the carboxysome which is
+   a polyhedral inclusion where RuBisCO is sequestred.
+ - Thiobacillus  neapolitanus  carboxysome  shell  proteins csoS1A, csoS1B and
+   csoS1C.
+ - A  number  of  hypothetical  Synechococcus proteins which are also probably
+   involved in the carboxysome shell formation.
+ - Escherichia coli hypothetical protein yffI.
+
+These proteins  have  from 90 to 120 amino acid residues with the exception of
+two Synechococcus  hypothetical  proteins  which contains respectively 275 and
+297 amino  acids  and which are made up of two tandem homologous domains. As a
+signature pattern, we selected a conserved region in their N-terminal section.
+
+-Consensus pattern: D-x(0,1)-M-x-K-[SAG](2)-x-[IV]-x-[LIVM]-[LIVMA]-[GCSY]-
+                    x(4)-[GDE]-[SGPDR]-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] English R.S., Lorbach S.C., Qin X., Shively J.M.
+     "Isolation and characterization of a carboxysome shell gene from
+     Thiobacillus neapolitanus."
+     Mol. Microbiol. 12:647-654(1994).
+     PubMed=7934888
+[ 2] Stojiljkovic I., Bauemler A.J., Heffron F.
+     "Ethanolamine utilization in Salmonella typhimurium: nucleotide
+     sequence, protein expression, and mutational analysis of the cchA cchB
+     eutE eutJ eutG eutH gene cluster."
+     J. Bacteriol. 177:1357-1366(1995).
+     PubMed=7868611
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

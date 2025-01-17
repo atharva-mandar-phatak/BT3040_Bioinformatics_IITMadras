@@ -1,0 +1,60 @@
+************************************
+* Intermediate filaments signature *
+************************************
+
+Intermediate filaments   (IF)   [1,2,3]  are  proteins  which  are  primordial
+components of  the cytoskeleton and the nuclear envelope.  They generally form
+filamentous structures  8  to  14  nm  wide. IF proteins are members of a very
+large multigene  family  of  proteins  which has been subdivided in five major
+subgroups:
+
+ - Type   I: Acidic cytokeratins.
+ - Type  II: Basic cytokeratins.
+ - Type III: Vimentin,  desmin,   glial  fibrillary  acidic  protein   (GFAP),
+   peripherin, and plasticin.
+ - Type  IV: Neurofilaments L, H and M, alpha-internexin and nestin.
+ - Type   V: Nuclear lamins A, B1, B2 and C.
+
+All IF proteins  are structurally  similar in  that they consist of: a central
+rod domain comprising  some 300 to  350 residues which is  arranged in coiled-
+coiled alpha-helices,  with at least two short characteristic interruptions; a
+N-terminal non-helical  domain  (head)  of variable  length; and a  C-terminal
+domain (tail)  which is also   non-helical,  and which   shows  extreme length
+variation between different IF proteins.
+
+While IF proteins are evolutionary and structurally related, they have limited
+sequence homologies  except in several regions of the rod domain. We use, as a
+sequence pattern  for  this  class of  proteins,  a conserved  region  at  the
+C-terminal extremity of the rod domain.
+
+-Consensus pattern: [IV]-{K}-[TACI]-Y-[RKH]-{E}-[LM]-L-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Drosophila lamin DM0 and filensin.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Note: In the third position of  the pattern, Ala is found in type IV and V IF
+ proteins, Thr is found in IF proteins of  type I, II, III, and VI,  Cys in IF
+ from snails, and Ile in IF from worms.   In the first position of the pattern
+ Val is found in type VI, Ile is found in all other types.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Quinlan R., Hutchison C., Lane B.
+     Protein Prof. 2:801-952(1995).
+[ 2] Steiner P.M., Roop D.R.
+     Annu. Rev. Biochem. 57:593-625(1988).
+[ 3] Stewart M.
+     "Intermediate filaments: structure, assembly and molecular
+     interactions."
+     Curr. Opin. Cell Biol. 2:91-100(1990).
+     PubMed=2183847
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

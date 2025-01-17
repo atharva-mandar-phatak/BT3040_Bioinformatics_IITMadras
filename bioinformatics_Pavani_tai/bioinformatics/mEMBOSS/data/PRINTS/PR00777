@@ -1,0 +1,28 @@
+HIRUDIN
+Hirudin is a potent thrombin inhibitor secreted by the salivary glands of
+the medicinal leech, Hirudo medicinalis [1]. It forms a stable non-covalent
+complex with alpha-thrombin, thereby abolishing its ability to cleave
+fibrinogen. The protein belongs to the hirudin family.
+
+The structure of hirudin has been solved by NMR [2], and the structure 
+of a recombinant hirudin-thrombin complex has been determined by X-ray
+crystallography to 2.3A [3]. Hirudin consists of an N-terminal globular
+domain and an extended C-terminal domain. Residues 1-3 form a parallel beta-
+strand with residues 214-217 of thrombin, the nitrogen atom of residue 1
+making a hydrogen bond with the Ser195 O gamma atom of the catalytic site.
+The C-terminal domain makes numerous electrostatic interactions with an
+anion-binding exosite of thrombin, while the last five residues are in
+a helical loop that forms many hydrophobic contacts [3].
+
+HIRUDIN is a 4-element fingerprint that provides a signature for hirudins.
+The fingerprint was derived from an initial alignment of 16 sequences: the
+motifs were drawn from conserved regions spanning the full alignment
+length - motif 1 encodes 2 beta-turns; motif 2 spans 4 turns and the
+first short beta-strand; and motif 3 spans the second strand and a gamma-
+turn. Two iterations on OWL29.4 were required to reach convergence, at
+which point a true set comprising 19 sequences was identified. Two
+partial matches were found, both of which are family members that fail
+to make significant matches with one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 1
+partial match.

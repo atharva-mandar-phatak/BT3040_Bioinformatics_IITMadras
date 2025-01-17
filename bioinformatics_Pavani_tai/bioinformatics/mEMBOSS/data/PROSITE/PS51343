@@ -1,0 +1,109 @@
+**********************************************
+* P-II protein family signatures and profile *
+**********************************************
+
+P-II  family  proteins are regulators of nitrogen metabolism, with a length of
+~110 amino acid residues, found throughout the bacteria and most archaea. P-II
+proteins sense cellular 2-oxoglutarate as an indicator for nitrogen limitation
+and  bind and respond to ATP. The family is named after the P-II protein (gene
+glnB),  a  bacterial protein important for the control of glutamine synthetase
+[1,2,3].  In  nitrogen-limiting  conditions,  when  the  ratio of glutamine to
+2-ketoglutarate  decreases, P-II is uridylylated on a tyrosine residue to form
+P-II-UMP. P-II-UMP allows the deadenylation of glutamine synthetase (GS), thus
+activating   the   enzyme.   Conversely,   in  nitrogen  excess,  P-II-UMP  is
+deuridylated  and  then  promotes  the adenylation of GS. P-II also indirectly
+controls the transcription of the GS gene (glnA) by preventing NR-II (ntrB) to
+phosphorylate NR-I (ntrC) which is the transcriptional activator of glnA. Once
+P-II  is  uridylylated,  these  events  are  reversed.  The  tyrosine which is
+uridylated is located in the T-loop in the central part of the protein.
+
+Not  all  P-II  family  proteins have this site for sensing cellular glutamine
+[4].  In  cyanobacteria,  P-II  seems to be phosphorylated on a serine residue
+rather than being uridylated. It has a different set of interacting proteins.
+
+In  methanogenic archaebacteria, the  nitrogenase iron  protein gene (nifH) is
+followed by two  open reading  frames highly  similar  to the eubacterial P-II
+protein [5].  These  proteins could be involved in  the regulation of nitrogen
+fixation.
+
+In the  red  alga,  Porphyra  purpurea, there is a glnB homolog encoded in the
+chloroplast genome.
+
+Other proteins highly similar to glnB are:
+
+ - Bacillus subtilis protein nrgB [6].
+ - Escherichia coli glnK [7].
+ - Plant P-II protein, which is localized to the chloroplast [8].
+
+We  developed  two  signature  patterns  for  P-II protein. The first one is a
+conserved   stretch  (in  eubacteria)  of  six  residues  which  contains  the
+uridylated  tyrosine,  the  other is derived from a conserved region in the C-
+terminal part of the P-II protein. We also developed a profile that covers the
+whole P-II protein.
+
+-Consensus pattern: Y-[KR]-G-[AS]-[AE]-Y
+                    [The second Y is uridylated]
+-Sequences known to belong to this class detected by the pattern: ALL   glnB's
+ from eubacteria.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: [ST]-x(3)-G-[DY]-G-[KR]-[IV]-[FW]-[LIVM]-x(2)-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2007 / Text revised; profile added.
+
+[ 1] Magasanik B.
+     "Regulation of transcription of the glnALG operon of Escherichia coli
+     by protein phosphorylation."
+     Biochimie 71:1005-1012(1989).
+     PubMed=2574599
+[ 2] Holtel A., Merrick M.
+     "Identification of the Klebsiella pneumoniae glnB gene: nucleotide
+     sequence of wild-type and mutant alleles."
+     Mol. Gen. Genet. 215:134-138(1988).
+     PubMed=2907369
+[ 3] Cheah E., Carr P.D., Suffolk P.M., Vasudevan S.G., Dixon N.E.,
+     Ollis D.L.
+     "Structure of the Escherichia coli signal transducing protein PII."
+     Structure 2:981-990(1994).
+     PubMed=7866749
+[ 4] Leigh J.A., Dodsworth J.A.
+     "Nitrogen regulation in bacteria and archaea."
+     Annu. Rev. Microbiol. 61:349-377(2007).
+     PubMed=17506680; DOI=10.1146/annurev.micro.61.080706.093409
+[ 5] Sibold L., Henriquet M., Possot O., Aubert J.-P.
+     "Nucleotide sequence of nifH regions from Methanobacterium ivanovii
+     and Methanosarcina barkeri 227 and characterization of glnB-like
+     genes."
+     Res. Microbiol. 142:5-12(1991).
+     PubMed=2068380
+[ 6] Wray L.V. Jr., Atkinson M.R., Fisher S.H.
+     "The nitrogen-regulated Bacillus subtilis nrgAB operon encodes a
+     membrane protein and a protein highly similar to the Escherichia coli
+     glnB-encoded PII protein."
+     J. Bacteriol. 176:108-114(1994).
+     PubMed=8282685
+[ 7] Allikmets R., Gerrard B.C., Court D., Dean M.
+     "Cloning and organization of the abc and mdl genes of Escherichia
+     coli: relationship to eukaryotic multidrug resistance."
+     Gene 136:231-236(1993).
+     PubMed=7904973
+[ 8] Mizuno Y., Berenger B., Moorhead G.B., Ng K.K.
+     "Crystal structure of Arabidopsis PII reveals novel structural
+     elements unique to plants."
+     Biochemistry 46:1477-1483(2007).
+     PubMed=17279613; DOI=10.1021/bi062149e
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

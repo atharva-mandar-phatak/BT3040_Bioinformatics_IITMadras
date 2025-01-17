@@ -1,0 +1,75 @@
+*********************************
+* Zinc finger THAP-type profile *
+*********************************
+
+The  THAP-type  zinc  finger  (consensus:  C-x(2,4)-C-x(35,50)-C-x(2)-H) is an
+~90-residue  domain  restricted  to  animals, which is shared between the THAP
+family  of cellular DNA-binding proteins, and transposases from mobile genomic
+parasites   [1,2].   THAP1,  the  prototype  of  the  THAP  family,  possesses
+zinc-dependent   sequence-specific  DNA  binding  activity  and  recognizes  a
+consensus DNA target sequence of 11 nucleotides [3]. The THAP-type zinc finger
+can  be  found in one or more copies and can be associated with other domains,
+such as the C2H2-type zinc finger (see <PDOC00028>).
+
+The  structure  of  the  THAP-type  zinc  finger  (see <PDB:2JTG>) reveals the
+presence  between  the C2CH zinc coordinating residues of a short antiparallel
+beta-sheet   interspersed   by   a   long   loop-helix-loop   insertion.  This
+loop-helix-loop motif has been shown to be essential for the identification of
+a number of critical residues for DNA recognition [4].
+
+Some proteins known to contain a THAP-type zinc finger are listed below:
+
+ - Mammalian  Thanatos-associated protein-1 (THAP1). It potentiates both serum
+   withdrawal- and   tumor   necrosis   factor  alpha-induced  apoptosis,  and
+   interacts with  prostate-apoptosis-response  4 (Par4), a well-characterized
+   proapoptotic factor.
+ - Mammalian  death-associated  protein  DAP4/p52rIPK  or  THAP0.  It has been
+   identified in  a  genetic  screen  for  genes involved in interferon-gamma-
+   induced apoptosis  in  HeLa  cells  and in a two-hybrid screen for indirect
+   activators of  the  interferon-induced kinase PKR, an important mediator of
+   stress-induced apoptosis.
+ - Mammalian THAP2 to THAP11.
+ - Drosophila melanogaster dorsal interacting protein 2 (DIP2).
+ - Drosophila melanogaster P element transposase.
+
+The  profile  we  developed  covers  the  whole  THAP-type  zinc finger with 4
+positions upstream, and about 20 positions downstream.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2008 / Text revised.
+
+[ 1] Roussigne M., Kossida S., Lavigne A.-C., Clouaire T., Ecochard V.,
+     Glories A., Amalric F., Girard J.-P.
+     "The THAP domain: a novel protein motif with similarity to the
+     DNA-binding domain of P element transposase."
+     Trends Biochem. Sci. 28:66-69(2003).
+     PubMed=12575992
+[ 2] Roussigne M., Cayrol C., Clouaire T., Amalric F., Girard J.-P.
+     "THAP1 is a nuclear proapoptotic factor that links
+     prostate-apoptosis-response-4 (Par-4) to PML nuclear bodies."
+     Oncogene 22:2432-2442(2003).
+     PubMed=12717420; DOI=10.1038/sj.onc.1206271
+[ 3] Clouaire T., Roussigne M., Ecochard V., Mathe C., Amalric F.,
+     Girard J.P.
+     "The THAP domain of THAP1 is a large C2CH module with zinc-dependent
+     sequence-specific DNA-binding activity."
+     Proc. Natl. Acad. Sci. U.S.A. 102:6907-6912(2005).
+     PubMed=15863623; DOI=10.1073/pnas.0406882102
+[ 4] Bessiere D., Lacroix C., Campagne S., Ecochard V., Guillet V.,
+     Mourey L., Lopez F., Czaplicki J., Demange P., Milon A., Girard J.P.,
+     Gervais V.
+     "Structure-function analysis of the THAP zinc finger of THAP1, a large
+     C2CH DNA-binding module linked to Rb/E2F pathways."
+     J. Biol. Chem. 283:4352-4363(2008).
+     PubMed=18073205; DOI=10.1074/jbc.M707537200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

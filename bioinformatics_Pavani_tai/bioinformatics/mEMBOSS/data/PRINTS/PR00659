@@ -1,0 +1,22 @@
+CHROMOGRANIN
+Chromogranins and secretogranins are acidic proteins present in the
+secretory granules of endocrine and neuro-endocrine cells [1,2]. Granins 
+may be precursors of biologically-active peptides, or they may be helper
+proteins in the packaging of peptide hormones and neuropeptides - their
+precise role is unclear. 
+
+Similarity between these proteins is confined to short N- and C-terminal
+regions: chromogranins A and B are characterised by an N-terminal motif
+that includes 2 cysteine residues involved in disulphide bond formation;
+and chromogranins and secretogranins together share a C-terminal motif.   
+
+CHROMOGRANIN is a 3-element fingerprint that provides a signature for
+chromogranins A and B. The fingerprint was derived from an initial alignment
+of 8 sequences: motifs 1 and 2 were drawn from the N-terminus, and span
+the region encoded by PROSITE pattern GRANINS_2 (PS00423), which includes
+the conserved cysteine residues; and motif 3 lies at the C-terminus, and
+spans the region encoded by PROSITE pattern GRANINS_1 (PS00422). Two
+iterations on OWL29.1 were required to reach convergence, at which point
+a true set comprising 14 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 10 sequences.

@@ -1,0 +1,31 @@
+AMINEOXDASEF
+Monoamine oxidases (MAO) A and B are encoded by two genes derived from
+a common ancestral gene [1]. The enzymes catalyse the oxidative deamination
+of biogenic and xenobiotic amines and have important roles in the metabolism
+of neuroactive and vasoactive amines in the central nervous system and
+peripheral tissues [2]. MAO-A preferentially oxidises biogenic amines such
+as 5-hydroxytryptamine, norepinephrine and epinephrine. MAO-A deficiency
+has been linked to Brunner's syndrome, a form of X-linked nondysmorphic
+mild mental retardation [2].
+
+The protein contains two similarly-sized subunits, one of which contains
+covalently-bound flavin adenine dinucleotide (FAD). The FAD binding site
+lies near the C-terminus; at the N-terminus are features characteristic
+of the ADP-binding fold, suggesting that this region is also involved in
+FAD binding [2]. The A and B forms of the enzyme share 70% sequence identity;
+both contain the pentapeptide Ser-Gly-Gly-Cys-Tyr, the cysteine of which
+binds FAD [3].
+
+AMINEOXDASEF is a 9-element fingerprint that provides a signature for
+flavin-containing amine oxidases. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 lies in the
+N-terminal putative nucleotide-binding region; and motif 6 contains the
+conserved C-terminal pentapeptide, the cysteine of which binds the FAD
+cofactor. A single iteration on OWL29.4 was required to reach convergence,
+no further sequences being identified beyond the starting set. Several
+partial matches were also found, all of which are fragments and related
+oxidases that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 7
+partial matches.

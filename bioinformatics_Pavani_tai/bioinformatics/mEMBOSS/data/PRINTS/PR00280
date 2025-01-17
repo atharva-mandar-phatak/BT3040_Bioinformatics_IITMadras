@@ -1,0 +1,21 @@
+CHANLCOLICIN
+Colicins are unusual bacterial toxins. They are directed against close
+relatives of the producing strain, killing their targets in one of
+three distinct ways: via a ribonuclease; via a deoxyribonuclease activity;
+or by forming pores in the target cell membrane [1]. Channel-forming 
+colicins are transmembrane proteins that depolarise the cytoplasmic
+membrane, leading to dissipation of cellular energy [2,3]. Their N-terminal
+regions are involved in their uptake, the central portion is important for
+binding to outer membrane receptors, and the C-terminus forms the channel.
+
+CHANLCOLICIN is a 4-element fingerprint that provides a signature for the
+channel-forming colicins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from short conserved
+regions towards the C-terminus, motif 4 including the region encoded by
+PROSITE pattern CHANNEL_COLCIN (PS00276). Two iterations on OWL24.0
+were required to reach convergence, at which point a true set comprising
+10 sequences was identified. A single partial match was also found, which
+fails to make a significant match with motif 4.
+
+An update on SPTR37_9f identified a true set of 23 sequences, and 1
+partial match.

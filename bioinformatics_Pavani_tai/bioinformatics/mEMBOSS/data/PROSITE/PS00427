@@ -1,0 +1,113 @@
+********************************************
+* Disintegrin domain signature and profile *
+********************************************
+
+Disintegrins [1,2]  are  snake  venom   proteins   which  inhibit   fibrinogen
+interaction  with  platelet  receptors  expressed on the glycoprotein IIb-IIIa
+complex. They act by binding to the integrin glycoprotein IIb-IIIa receptor on
+the  platelet  surface and  inhibit  aggregation  induced  by  ADP,  thrombin,
+platelet-activating factor and collagen.
+
+Disintegrins are peptides of about  70 amino  acid residues that contain  many
+cysteines all  involved  in disulfide bonds [3].  Disintegrins contain an Arg-
+Gly-Asp (RGD) sequence, a recognition site of many adhesion proteins.  The RGD
+sequence  of disintegrins is postulated to interact with the glycoprotein IIb-
+IIIa complex.
+
+The sequences of disintegrins from  different  snake  species are known. These
+proteins  are  known  as:  albolabrin,   applagin,  barbourin,  batroxostatin,
+bitistatin, echistatin, elegantin, eristicophin, flavoridin, halysin, kistrin,
+tergeminin and triflavin.
+
+Some other proteins are known to contain a disintegrin domain:
+
+ - Some  snake    venom  zinc metalloproteinases [4]  consist of an N-terminal
+   catalytic domain  fused  to  a  disintegrin  domain.  Such  is the case for
+   trimerelysin I    (HR1B),   atrolysin e (Ht-e)  and  trigramin. It has been
+   suggested  that  these proteinases  are  able to cleave themselves from the
+   disintegrin domains  and  that  the  latter  may  arise  from  such a post-
+   translational processing.
+ - ADAM type metalloproteases (see <PDOC50215>).
+ - Mammalian epididymial protein 1 (EAP I) [6].  EAP I is  associated with the
+   sperm membrane and may play a role in sperm maturation. Structurally, EAP I
+   consists of  an  N-terminal  domain,  followed  by a zinc metalloproteinase
+   domain, a disintegrin domain, and a large C-terminal domain that contains a
+   transmembrane region.
+
+The schematic  representation of the structure of a typical disintegrin domain
+is shown below:
+
+                              +-----+
+                +-------------|-----|--+        +------------------+
+                |             |     |  |        |                  |
+  xxxxxCxCxxxxxxCCxxxxCxxxxxxxCxxxxCCxxCxxxxxxxxCxxxRGDxxxxxCxxxxxxCxxxxxxx
+       | |       |    |       *****|**************          |
+       +-|-------|----+            +------------------------+
+         +-------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+Short disintegrins lack the N-terminal of the domain.
+
+As a    signature  pattern for the disintegrin domain, we selected a conserved
+central region  that  contains  five  of  the  cysteines involved in disulfide
+bonds. A profile was also developed that spans the whole domain.
+
+-Consensus pattern: C-x(2)-[GS]-x-C-C-x(1,2)-[NQRSEKD]-C-x-[FMYLVI]-x(6)-C-
+                    [RKNQ]
+                    [The 5 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Williams J., Rucinski B., Holt J., Niewiarowski S.
+     "Elegantin and albolabrin purified peptides from viper venoms:
+     homologies with the RGDS domain of fibrinogen and von Willebrand
+     factor."
+     Biochim. Biophys. Acta 1039:81-89(1990).
+     PubMed=2191722
+[ 2] Dennis M.S., Henzel W.J., Pitti R.M., Lipari M.T., Napier M.A.,
+     Deisher T.A., Bunting S., Lazarus R.A.
+     "Platelet glycoprotein IIb-IIIa protein antagonists from snake venoms:
+     evidence for a family of platelet-aggregation inhibitors."
+     Proc. Natl. Acad. Sci. U.S.A. 87:2471-2475(1990).
+     PubMed=2320569
+[ 3] Calvete J.J., Schafer W., Soszka T., Lu W.Q., Cook J.J., Jameson B.A.,
+     Niewiarowski S.
+     "Identification of the disulfide bond pattern in albolabrin, an
+     RGD-containing peptide from the venom of Trimeresurus albolabris:
+     significance for the expression of platelet aggregation inhibitory
+     activity."
+     Biochemistry 30:5225-5229(1991).
+     PubMed=2036389
+[ 4] Hite L.A., Fox J.W., Bjarnason J.B.
+     "A new family of proteinases is defined by several snake venom
+     metalloproteinases."
+     Biol. Chem. Hoppe-Seyler 373:381-385(1992).
+     PubMed=1515064
+[ 5] Blobel C.P., Wolfsberg T.G., Turck C.W., Myles D.G., Primakoff P.,
+     White J.M.
+     "A potential fusion peptide and an integrin ligand domain in a protein
+     active in sperm-egg fusion."
+     Nature 356:248-252(1992).
+     PubMed=1552944; DOI=10.1038/356248a0
+[ 6] Perry A.C.F., Jones R., Barker P.J., Hall L.
+     "A mammalian epididymal protein with remarkable sequence similarity to
+     snake venom haemorrhagic peptides."
+     Biochem. J. 286:671-675(1992).
+     PubMed=1417724
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

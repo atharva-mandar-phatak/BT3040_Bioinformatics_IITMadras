@@ -1,0 +1,30 @@
+FATTYACIDBP
+The Fatty Acid-Binding Proteins (FABPs) are a family of proteins that are
+principally located in the cytosol and are characterised by the ability to
+bind to hydrophobic ligands, such as fatty acids, retinol, retinoic acid, 
+bile salts and pigments [1,2]. Recently, a number of family members have
+been identified that are secreted, such as gastrotropin and mammary-derived
+growth inhibitor. The family is implicated in general lipid metabolism,
+acting as intracellular transporters of hydrophobic metabolic intermediates
+and as carriers of lipids between membranes [1-3]. 
+
+The FABPs exhibit a high degree both of sequence and structural similarity.
+They are small, 12-18kDa, soluble proteins composed of 110-160 residues. 
+Their crystal structures show them to be 10-stranded anti-parallel beta-
+barrels with a +1,+1 topology, which wrap around an internal cavity to 
+form a ligand binding site [2,3]. The anti-parallel beta-barrel fold is also
+exploited by the lipocalins, which function similarly by binding small
+hydrophobic molecules. Similarity at the sequence level, however, is less
+obvious, being confined to a single short N-terminal motif.
+
+FATTYACIDBP is a 3-element fingerprint that provides a signature for the
+fatty acid-binding proteins. The fingerprint was derived from an initial
+alignment of 41 sequences: motif 1 includes the GxW triplet, which forms 
+part of the first beta-strand and corresponds to a similar motif in the 
+sequence of lipocalins, where it has the same conformation and location 
+within the protein fold [4] (cf. PROSITE pattern FABP (PS00214)); motif 2 
+spans the C-terminus of strand 3 and includes strand 4; and motif 3 encodes
+strands 9 and 10. Seven iterations on SPTR37_10f were required to reach 
+convergence, at which point a true set comprising 85 sequences was 
+identified. Six partial matches were also found, all of which are true 
+family members that fail to make significant matches with motif 2.

@@ -1,0 +1,21 @@
+COLDSHOCK
+When E.coli is exposed to a temperature drop from 37 to 10 degrees
+centigrade, a 4-5 hour lag phase occurs, after which growth is resumed at
+a reduced rate [1]. During the lag phase, the expression of around 13
+proteins, which contain specific DNA-binding regions [2], is increased
+2-10 fold. These so-called 'cold shock' proteins are thought to help the
+cell to survive in temperatures lower than optimum growth temperature, by
+contrast with heat shock proteins, which help the cell to survive in
+temperatures greater than the optimum, possibly by condensation of the
+chromosome and organization of the prokaryotic nucleoid [1].
+
+COLDSHOCK is a 3-element fingerprint that provides a signature for the
+cold shock proteins. The fingerprint was derived from an initial alignment
+of 5 sequences: motifs 1 and 2 span the region encoded by PROSITE pattern
+COLD_SHOCK (PS00352), the putative DNA-binding domain. Two iterations on
+OWL21.1 were required to reach convergence, at which point a true set
+comprising 21 sequences was identified. A single partial match was also
+found, a fragment matching motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 89 sequences, and 1
+partial match.

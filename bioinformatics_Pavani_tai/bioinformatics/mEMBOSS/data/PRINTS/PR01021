@@ -1,0 +1,28 @@
+OMPADOMAIN
+The outer membrane proteins of several Gram-negative organisms share a 
+C-terminal domain of about 45 residues [1,2]: these include, outer membrane
+protein ompA from enterobacteria such as E.coli; outer membrane protein P5
+from Haemophilus influenzae; outer membrane protein P.III/class IV from 
+Neisseria; outer membrane porin F (gene oprF) from Pseudomonas; protein
+TpN50 from Treponema pallidum; peptidoglycan-associated lipoprotein (gene 
+pal) from Escherichia coli, Haemophilus influenzae, Legionella pneumophila
+and Pseudomonas putida; outer membrane lipoprotein P6 from Haemophilus 
+influenzae; Escherichia coli hypothetical lipoprotein yiaD; and Vibrio 
+parahaemolyticus sodium-type flagellar protein motY.
+
+Apart from this domain, these proteins are not otherwise structurally 
+related: most are porin-like integral membrane proteins (such as ompA),
+but some are small lipid-anchored proteins (such as pal).
+
+OMPADOMAIN is a 3-element fingerprint that provides a signature for the
+ompA domain. The fingerprint was derived from an initial alignment of 14
+sequences: the motifs were drawn from conserved regions spanning the 
+central portion of the alignment - motifs 2 and 3 lie within the region
+encoded by PROSITE pattern OMPA (PS01068). Five iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 61
+sequences was identified. Several partial matches were also found, all of
+which appear to be either ompA-domain containing outer membrane proteins,
+or peptidoglycan-associated lipoprotein precursors.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 5
+partial matches.

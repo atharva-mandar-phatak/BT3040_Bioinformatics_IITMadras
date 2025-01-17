@@ -1,0 +1,31 @@
+CITRTSNTHASE
+Citrate synthase is a member of a small family of enzymes that can directly
+form a carbon-carbon bond without the presence of metal ion cofactors [1].
+It catalyses the first reaction in the Krebs' cycle [1], the condensation
+of acetyl coenzyme A and oxaloacetate to form citrate and coenzyme A, an
+important function in both energy generation and carbon assimilation [2].
+The reaction proceeds via a non-covalently bound intermediate citryl-
+coenzyme A intermediate, and is thus thought to be a 2-step process [1]. 
+
+The enzyme exists as a globular homodimer (a hexamer in prokaryotes), which 
+is almost completely helical (20 helices per monomer), which is unusual for
+such a large enzyme [3]. Each monomer is divided into a large and a small 
+domain, the cleft between these domains forming the active site where both 
+citrate and acetyl-coenzyme A have been shown to bind [3]. The enzyme
+undergoes a conformational change upon binding of the oxaloacetate, whereby
+the active site cleft closes over [3].
+
+CITRTSNTHASE is a 6-element fingerprint that provides a signature for the
+citrate synthases. The fingerprint was derived from an initial alignment
+of 7 sequences: motifs 1-6 were drawn from conserved regions at, or in the
+vicinity of, the active site - motif 4 includes the region encoded by
+PROSITE pattern CITRATE_SYNTHASE (PS00480), the conserved His of which has
+been implicated in the catalytic activity. Two iterations on OWL22.1 were
+required to reach convergence, at which point a true set comprising 21
+sequences was identified. A subfamily of partial matches was also found,
+most of which are citrate synthase fragments from crystallographic studies,
+and one is a citrate synthase from Mycobacterium smegmatis, which fails to
+make significant matches with motifs 1, 2 and 5.
+
+An update on SPTR37_9f identified a true set of 52 sequences, and 5
+partial matches.

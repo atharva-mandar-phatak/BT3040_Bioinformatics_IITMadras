@@ -1,0 +1,52 @@
+LTBRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para
+-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Leukotrienes (LT) are potent lipid mediators derived from arachidonic acid
+metabolism. They can be divided into two classes, based on the presence or
+absence of a cysteinyl group. Leukotriene B4 (LTB4) does not contain such a
+group, whereas LTC4, LTD4, LTE4 and LTF4 are cysteinyl leukotrienes [6].
+
+LTB4 is one of the most effective chemoattractant mediators known, and is
+produced predominantly by neutrophils and macrophages. It is involved in a
+number of events, including: stimulation of leukocyte migration from the
+bloodstream; activation of neutrophils; inflammatory pain; host defense
+against infection; increased interleukin production and transcription [8].
+It is found in elevated concentrations in a number of inflammatory and
+allergic conditions, such as asthma, psoriasis, rheumatoid arthritis and
+inflammatory bowel disease, and has been implicated in the pathogenesis of
+these diseases [6,8].
+
+Binding sites for LTB4 have been observed in membrane preparations from
+leukocytes, macrophages and spleen. Two receptors for LTB4 have since been
+cloned (BLT1 and BLT2); both are members of the rhodopsin-like G protein-
+coupled receptor superfamily [7].
+
+LTBRECEPTOR is a 5-element fingerprint that provides a signature for the
+leukotriene B4 receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved sections
+within loop and C-terminal regions, focusing on those areas of the alignment
+that characterise the leukotriene B4 receptors but distinguish them from the
+rest of the rhodopsin-like superfamily - motif 1 resides at the C-terminus
+of TM domain 2, leading into the first external loop; motif 2 is located in
+the first external loop, leading into TM domain 3; motif 3 spans the second
+cytoplasmic loop; motif 4 is located in the second external loop, leading 
+into TM domain 5; and motif 5 is located at the C-terminus, proximal to TM
+domain 7. Two iterations on SPTR39_15f were required to reach convergence,
+at which point a true set comprising 7 sequences was identified.

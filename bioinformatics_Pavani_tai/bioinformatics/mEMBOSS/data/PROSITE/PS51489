@@ -1,0 +1,77 @@
+**********************************
+* BUB1 N-terminal domain profile *
+**********************************
+
+The missegregation  of sister chromatids during mitosis results in the loss or
+gain of chromosomes in daughter cells (aneuploidy). This disastrous outcome is
+avoided by  the  mitotic checkpoint for spindle assembly (SAC), which monitors
+the proper  assembly  of  the mitotic spindle and blocks the onset of anaphase
+until the  kinetochores  of  all  chromosomes  receive a bipolar attachment to
+spindle microtubules.  BUB1  and  BUB1R (BUB1-related kinase, known as MAD3 in
+the yeast)  are  multidomain proteins that play central roles in this process,
+working together with other kinetochore-bound components including MAD2, BUB3,
+CDC20, and  MPS1. BUB1 acts as an upstream component of the mitotic checkpoint
+pathway, while  BUBR1  is  a downstream component that inhibits the regulatory
+protein CDC20.  BUB1  and BUBR1 are highly conserved in eukaryotes and share a
+common architecture:  a  conserved  N-terminal region, a central non-conserved
+region that   contains   the  bonding  region  for  other  mitotic  checkpoint
+components such  as BUB3, and a C-terminal serine/threonine kinase domain (see
+<PDOC00100>). The  BUB1  N-terminal  domain  mediates  the binding of BUB1 and
+BUBR1 to the mitotic kinetochore protein Blinkin [1,2,3,4].
+
+The BUB1  N-terminal  domain is composed of eight alpha-helices arranged in an
+anti-parallel fashion  reminiscent  of  a  TPR  domain  (see <PDOC50005>). The
+central six  alpha-helices  fold  into three sequential helix-loop-helix units
+(TPR1-3), with  their  alpha-helices  forming concave inner and outer surfaces
+(see <PDB:2WVI>).  Each  of the helix-loop-helix units ressembles a single TPR
+repeat. The  three  TPR  units are packed together such that "A" alpha-helices
+form the  inner  surface and "B" alpha-helices form the outer surface, and the
+entire structure  has  a  subtle  right-handed  super-helical  twist. The BUB1
+structure also  contains  a short N-terminal alpha-helix connected by a kinked
+loop and  an  extended  C-terminal alpha-helix that mimics an A-type helix but
+protrudes greater than 20 Angstroms from the molecule. These alpha-helices are
+unlikely to  form  additional  TPR motifs in the full-length protein given the
+hydrophilic nature  of  their outer edges. The extended C-terminal alpha-helix
+ressembles a caping alpha-helix as observed in numerous TPR domains [3,4].
+
+The profile we developed covers the entire BUB1 N-terminal domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2010 / First entry.
+
+[ 1] Bolanos-Garcia V.M., Beaufils S., Renault A., Grossmann J.G.,
+     Brewerton S., Lee M., Venkitaraman A., Blundell T.L.
+     "The conserved N-terminal region of the mitotic checkpoint protein
+     BUBR1: a putative TPR motif of high surface activity."
+     Biophys. J. 89:2640-2649(2005).
+     PubMed=16040755; DOI=10.1529/biophysj.105.063511
+[ 2] Beaufils S., Grossmann J.G., Renault A., Bolanos-Garcia V.M.
+     "Characterization of the tetratricopeptide-containing domain of BUB1,
+     BUBR1, and PP5 proves that domain amphiphilicity over amino acid
+     sequence specificity governs protein adsorption and interfacial
+     activity."
+     J. Phys. Chem. B 112:7984-7991(2008).
+     PubMed=18547097; DOI=10.1021/jp711222s
+[ 3] Bolanos-Garcia V.M., Kiyomitsu T., D'Arcy S., Chirgadze D.Y.,
+     Grossmann J.G., Matak-Vinkovic D., Venkitaraman A.R., Yanagida M.,
+     Robinson C.V., Blundell T.L.
+     "The crystal structure of the N-terminal region of BUB1 provides
+     insight into the mechanism of BUB1 recruitment to kinetochores."
+     Structure 17:105-116(2009).
+     PubMed=19141287; DOI=10.1016/j.str.2008.10.015
+[ 4] D'Arcy S., Davies O.R., Blundell T.L., Bolanos-Garcia V.M.
+     "Defining the molecular basis of BubR1 kinetochore interactions and
+     APC/C-CDC20 inhibition."
+     J. Biol. Chem. 285:14764-14776(2010).
+     PubMed=20220147; DOI=10.1074/jbc.M109.082016
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

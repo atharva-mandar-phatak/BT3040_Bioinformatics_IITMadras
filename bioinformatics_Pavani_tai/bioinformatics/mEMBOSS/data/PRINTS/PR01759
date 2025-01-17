@@ -1,0 +1,39 @@
+CAPSULEPROTC
+Bacillus spp. are Gram-positive aerobic rods that are able to form endo-
+spores that allow them to survive in almost any environment [1]. The many 
+different species exhibit a wide variation of physiological abilities, their 
+spores being resistant, for example, to heat, cold, disinfection and 
+radiation. However, the spores require oxygen to sporulate, which has 
+important consequences [1]. Of particular interest to researchers are  
+B.anthracis, B.cereus and B.subtilis, all extremely pathogenic microbes that
+owe their virulence to the exotoxins they secrete and to the extracellular 
+polypeptide and polysaccharide capsules that protect them from the host 
+immune system [1].
+
+The capsule of B.anthracis is composed of poly-D-glutamic acid, which is the 
+principal non-toxin virulence factor of the bacterium [1]. It is believed to 
+inhibit host defense via evasion of macrophages, and, in conjunction with 
+the lethal anthrax and oedema toxin, spreads rapidly through the host [1,2]. 
+Three virulence plasmid-associated enzymes are responsible for the synthesis 
+of the capsule, termed CapA, CapB and CapC [2]. The "cap" region is found on 
+the B.anthracis pX02 plasmid, and is transcriptionally regulated by 
+cytoplasmic levels of bicarbonate [2]. 
+
+Further analysis of the two major B.anthracis virulence plasmids (pX02 and 
+pX01) has revealed that transcription and translation of the cap synthesis 
+enzymes in pX02 is essential for activation of pX01, which carries the pag, 
+lef and cya exotoxin genes [3]. It is believed that, together with CapB and 
+CapC, CapA forms a polyglutamyl sythetase complex to produce the mature 
+polyglutamate capsule [3]. In addition, it has been suggested that CapC is 
+the complex's endogenous acceptor of glutamyl residues [3].  
+
+CAPSULEPROTC is a 5-element fingerprint that provides a signature for the
+Bacillus capsule biosynthesis CapC proteins. The fingerprint was derived 
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motif 1
+lies in the first putative transmembrane (TM) domain; motif 2 includes the 
+N-terminal portion of the second putative TM domain; motif 3 lies 
+immediately C-terminal to putative TM domain 3; and motifs 4 and 5 reside 
+between putative TM domains 3 and 4, motif 5 encoding the N-terminus of 
+the final TM region. A single iteration on SPTR40_20f was required to reach
+convergence, no further sequences being identified beyond the starting set. 

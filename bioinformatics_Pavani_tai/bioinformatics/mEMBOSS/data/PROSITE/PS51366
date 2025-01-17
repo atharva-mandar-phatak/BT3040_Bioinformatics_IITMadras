@@ -1,0 +1,62 @@
+*********************
+* MI domain profile *
+*********************
+
+The MI  (after  MA-3 and eIF4G) domain is a protein-protein interaction module
+of ~130  amino  acids  [1-3]. It appears in several translation factors and is
+found in:
+
+ - One copy in plant and animal eIF4G 1 and 2 (DAP-5/NAT1/p97),
+ - Two  copies  in  the animal programmed cell death protein 4 (PDCD4) or MA-3
+   that is  induced  during  programmed  cell  death  and  inhibits neoplastic
+   transformation,
+ - Four tandem-repeated copies in a group of uncharacterized plant proteins.
+
+The MI domain consists of seven alpha-helices, which pack into a globular form
+(see <PDB:2IOL>).  The  packing  arrangement  consists  of  repeating pairs of
+antiparallel helices  packed  one upon the other such that a superhelical axis
+is generated perpendicular to the alpha-helical axes [4].
+
+The profile we developed covers the entire MI domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The MI domain has also been named MA3 domain.
+
+-Last update: February 2008 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "Eukaryote-specific domains in translation initiation factors:
+     implications for translation regulation and evolution of the
+     translation system."
+     Genome Res. 10:1172-1184(2000).
+     PubMed=10958635
+[ 2] Ponting C.P.
+     "Novel eIF4G domain homologues linking mRNA translation with
+     nonsense-mediated mRNA decay."
+     Trends. Biochem. Sci. 25:423-426(2000).
+     PubMed=10973054
+[ 3] Yang H.-S., Cho M.-H., Zakowicz H., Hegamyer G., Sonenberg N.,
+     Colburn N.H.
+     "A novel function of the MA-3 domains in transformation and
+     translation suppressor Pdcd4 is essential for its binding to
+     eukaryotic translation initiation factor 4A."
+     Mol. Cell. Biol. 24:3894-3906(2004).
+     PubMed=15082783
+[ 4] LaRonde-LeBlanc N., Santhanam A.N., Baker A.R., Wlodawer A.,
+     Colburn N.H.
+     "Structural basis for inhibition of translation by the tumor
+     suppressor Pdcd4."
+     Mol. Cell. Biol. 27:147-156(2007).
+     PubMed=17060447; DOI=10.1128/MCB.00867-06
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,23 @@
+LIPOLPP20
+A major antigen has been recognised in Helicobacter pylori, a protein 
+with an apparent molecular weight of 20,000 and mass 18,283 Da [1]. DNA
+sequence analysis revealed a 525 bp gene, encoding a 175-amino acid residue
+product with a typical 21-residue lipoprotein signal peptide and consensus
+prolipoprotein processing site [1]. Results of experimental work with Lpp20
+are consistent with it being a nonessential lipoprotein [1]. 
+
+Prokaryotic membrane lipoproteins are synthesised with precursor signal
+peptides that are cleaved by specific peptidases (signal peptidase II). The
+enzyme recognises a conserved sequence, cutting upstream of a cysteine 
+residue to which a glyceride-fatty acid lipid is attached [2].
+
+LIPOLPP20 is an 8-element fingerprint that provides a signature for the
+Lpp20 lipoprotein precursor. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 spans the signal peptide and
+includes the Cys residue that constitutes the lipid attachement site. A
+single iteration on OWL30.2 was required to reach convergence, no further 
+sequences being identified beyond the starting set.
+
+
+An update on SPTR37_9f identified a true set of 2 sequences.

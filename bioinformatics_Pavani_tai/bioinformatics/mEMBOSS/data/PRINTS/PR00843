@@ -1,0 +1,28 @@
+GLHYDRLASE30
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 30 encompasses the mammalian glucosyl-ceramidases (EC
+3.2.1.45).
+
+Human acid beta-glucosidase (D-glucosyl-N-acylsphingosine glucohydrolase),
+cleaves the glucosidic bonds of glucosylceramide and synthetic beta-
+glucosides [5]. Any one of over 50 different mutations in the gene of
+glucocerebrosidase have been found to affect activity of this hydrolase,
+producing variants of Gaucher disease, the most prevalent lysosomal
+storage disease [5,7]. 
+
+GLHYDRLASE30 is a 6-element fingerprint that provides a signature for
+family 30 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions 
+spanning the N-terminal half of the alignment - motifs 1 and 4 each include
+potential glycosylation sites; and motif 5 encodes a putative proton donor
+site. A single iteration on OWL29.6 was required to reach convergence, no
+further sequences being identified beyond the starting set. Two partial
+matches were found: CEF11E6 is a fragment that lacks the portion of sequence
+bearing motifs 5 and 6; and I67792, a putative glucosylceramidase that
+matches motifs 4, 5 and 6.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

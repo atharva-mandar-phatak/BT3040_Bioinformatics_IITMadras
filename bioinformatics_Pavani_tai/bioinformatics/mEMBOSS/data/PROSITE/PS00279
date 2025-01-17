@@ -1,0 +1,126 @@
+*************************************************************************
+* Membrane attack complex/perforin (MACPF) domain signature and profile *
+*************************************************************************
+
+The membrane  attack complex/perforin (MACPF) domain is conserved in bacteria,
+fungi, mammals  and  plants.  It  was originally identified and named as being
+common to  five  complement components (C6, C7, C8-alpha, C8-beta, and C9) and
+perforin. These  molecules  perform  critical functions in innate and adaptive
+immunity. The  MAC  family  proteins  and perforin are known to participate in
+lytic pore  formation.  In  response  to  pathogen infection, a sequential and
+highly specific  interaction  between  the constituent elements occurs to form
+transmembrane channels  which  are known as the membrane-attack complex (MAC).
+Only a  few  other  MACPF  proteins  have  been  characterized and several are
+thought to  form  pores  for  invasion  or  protection  [1,2,3].  Examples are
+proteins from  malarial  parasites [4], the cytolytic toxins from sea anemones
+[5], and   proteins   that   provide   plant   immunity   [1,6].  Functionally
+uncharacterized MACPF proteins are also evident in pathogenic bacteria such as
+Chlamydia spp.  [7]  and  Photorhabdus  luminescens  [2].  The MACPF domain is
+commonly found  to be associated with other N- and C-terminal domains, such as
+TSP1 (see  <PDOC50092>),  LDLRA (see <PDOC00929>), EGF-like (see <PDOC00021>),
+Sushi/CCP/SCR (see  <PDOC50923>), FIMAC or C2 (see <PDOC00380>). They probably
+control or  target  MACPF  function  [2,8].  The  MACPF  domain  oligomerizes,
+undergoes conformational change, and is required for lytic activity.
+
+The MACPF  domain consists of a central kinked four-stranded antiparallel beta
+sheet surrounded  by  alpha  helices  and beta strands, forming two structural
+segments. Overall,  the  MACPF  domain  has  a  thin  L-shaped appearance (see
+<PDB:2QQH; A>).  MACPF domains exhibit limited sequence similarity but contain
+a signature [YW]-G-[TS]-H-[FY]-x(6)-G-G motif [2,3,8].
+
+Some proteins known to contain a MACPF domain are listed below:
+
+ - Vertebrate  complement  proteins  C6  to  C9.  Complement  factors C6 to C9
+   assemble to  form  a  scaffold,  the  membrane  attack  complex (MAC), that
+   permits C9  polymerization  into  pores  that  lyse Gram-negative pathogens
+   [3,8].
+ - Vertebrate  perforin. It is delivered by natural killer cells and cytotoxic
+   T lymphocytes  and forms oligomeric pores (12 to 18 monomers) in the plasma
+   membrane of either virus-infected or transformed cells.
+ - Arabidopsis  thaliana constitutively activated cell death 1 (CAD1) protein.
+   It is  likely  to  act  as  a  mediator  that  recognizes plant signals for
+   pathogen infection [6].
+ - Arabidopsis thaliana necrotic spotted lesions 1 (NSL1) protein [1].
+ - Venomous sea anemone Phyllodiscus semoni toxins PsTX-60A and PsTX-60B [5].
+ - Venomous sea anemone Actineria villosa toxin AvTX-60A [5].
+ - Plasmodium  sporozoite  microneme  protein  essential  for cell traversal 2
+   (SPECT2). It  is  essential  for  the  membrane-wounding  activity  of  the
+   sporozoite and  is  involved  in its traversal of the sinusoidal cell layer
+   prior to hepatocyte-infection [4].
+ - Photorhabdus luminescens Plu-MACPF. Although nonlytic, it was shown to bind
+   to cell membranes [2].
+ - Chlamydial putative uncharacterized protein CT153 [7].
+
+We developed  both  a  pattern and a profile for the MACPF domain. Whereas the
+profile covers  the entire MACPF domain, the pattern is based on the conserved
+signature of the MACPF domain.
+
+-Consensus pattern: Y-x(6)-[FY]-G-T-H-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for rabbit C8-beta.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2008 / Text revised; profile added.
+
+[ 1] Noutoshi Y., Kuromori T., Wada T., Hirayama T., Kamiya A., Imura Y.,
+     Yasuda M., Nakashita H., Shirasu K., Shinozaki K.
+     "Loss of Necrotic Spotted Lesions 1 associates with cell death and
+     defense responses in Arabidopsis thaliana."
+     Plant Mol. Biol. 62:29-42(2006).
+     PubMed=16900325; DOI=10.1007/s11103-006-9001-6
+[ 2] Rosado C.J., Buckle A.M., Law R.H.P., Butcher R.E., Kan W.-T., Bird C.H.,
+     Ung K., Browne K.A., Baran K., Bashtannyk-Puhalovich T.A., Faux N.G.,
+     Wong W., Porter C.J., Pike R.N., Ellisdon A.M., Pearce M.C.,
+     Bottomley S.P., Emsley J., Smith A.I., Rossjohn J., Hartland E.L.,
+     Voskoboinik I., Trapani J.A., Bird P.I., Dunstone M.A.,
+     Whisstock J.C.
+     "A common fold mediates vertebrate defense and bacterial attack."
+     Science 317:1548-1551(2007).
+     PubMed=17717151; DOI=10.1126/science.1144706
+[ 3] Slade D.J., Lovelace L.L., Chruszcz M., Minor W., Lebioda L.,
+     Sodetz J.M.
+     "Crystal structure of the MACPF domain of human complement protein C8
+     alpha in complex with the C8 gamma subunit."
+     J. Mol. Biol. 379:331-342(2008).
+     PubMed=18440555; DOI=10.1016/j.jmb.2008.03.061
+[ 4] Ishino T., Chinzei Y., Yuda M.
+     "A Plasmodium sporozoite protein with a membrane attack complex domain
+     is required for breaching the liver sinusoidal cell layer prior to
+     hepatocyte infection."
+     Cell. Microbiol. 7:199-208(2005).
+     PubMed=15659064; DOI=10.1111/j.1462-5822.2004.00447.x
+[ 5] Satoh H., Oshiro N., Iwanaga S., Namikoshi M., Nagai H.
+     "Characterization of PsTX-60B, a new membrane-attack complex/perforin
+     (MACPF) family toxin, from the venomous sea anemone Phyllodiscus
+     semoni."
+     Toxicon 49:1208-1210(2007).
+     PubMed=17368498; DOI=10.1016/j.toxicon.2007.01.006
+[ 6] Morita-Yamamuro C., Tsutsui T., Sato M., Yoshioka H., Tamaoki M.,
+     Ogawa D., Matsuura H., Yoshihara T., Ikeda A., Uyeda I.,
+     Yamaguchi J.
+     "The Arabidopsis gene CAD1 controls programmed cell death in the plant
+     immune system and encodes a protein containing a MACPF domain."
+     Plant Cell Physiol. 46:902-912(2005).
+     PubMed=15799997; DOI=10.1093/pcp/pci095
+[ 7] Ponting C.P.
+     "Chlamydial homologues of the MACPF (MAC/perforin) domain."
+     Curr. Biol. 9:R911-R913(1999).
+     PubMed=10608922
+[ 8] Hadders M.A., Beringer D.X., Gros P.
+     "Structure of C8alpha-MACPF reveals mechanism of membrane attack in
+     complement immune defense."
+     Science 317:1552-1554(2007).
+     PubMed=17872444; DOI=10.1126/science.1147103
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,44 @@
+GIPRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+Glucose-dependent insulinotropic polypeptide (GIP) plays an important role
+in the regulation of postprandial insulin secretion and proinsulin gene 
+expression of pancreatic beta-cells [6]. The human GIP-receptor encodes a
+7TM protein that is similar to the human glucagon-like peptide 1(GLP-1) 
+receptor. It is hoped that an understanding of GIP-receptor regulation and
+signal transduction will shed light on the hormone's failure to exert its
+biological action at the pancreatic B-cell in type II diabetes mellitus. 
+
+GIPRECEPTOR is an 11-element fingerprint that provides a signature for  
+gastric inhibitory polypeptide receptors. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length, focusing on those sections
+that characterise the gastric inhibitory polypeptide receptors but 
+distinguish them from the rest of the secretin-like superfamily - motifs 1-6
+span the N-terminal domain; motif 7 resides in the loop between TM domains 2
+and 3; motif 8 spans the loop between TM domains 3 and 4; motif 9 spans the C-terminal portion of TM domain 6 and
+loop between TM domains 4 and 5; and motifs 10 and 11 reside at the 
+C-terminus. A single iteration on SPTR37_9f was required to reach convergence,
+no further sequences being identified beyond the starting set. Two partial 
+matches were also found, secretin and glucagon receptors that match motifs
+1, 8 and 9.

@@ -1,0 +1,21 @@
+GLU5KINASE
+Glutamate 5-kinase (gamma-glutamyl kinase) catalyses the first step in the
+biosynthesis of proline, the ATP-dependent phosphorylation of glutamate to 
+glutamate 5-phosphate [1,2]. In bacteria, the glutamate 5-kinase gene proB
+and the gamma-glutamyl phosphate reductase gene (another gene involved in
+proline biosynthesis) are part of the same operon [1]. In yeast, studies 
+have shown that expression is not repressed by exogenous proline and is not
+induced by glutamate in the growth medium, suggesting that the gene (PRO1)
+is regulated by the general amino acid control system [2]. The mothbean
+plant (Vigna aconitifolia) contains a protein that possesses both glutamate
+5-kinase and gamma-glutamyl phosphate reductase activities [3].
+
+GLU5KINASE is a 5-element fingerprint that provides a signature for
+glutamate 5-kinase. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn mainly from the N-terminal half of 
+the alignment, motif 6 spanning the central Gly/Ala-rich region encoded by
+PROSITE pattern GLUTAMATE_5_KINASE (PS00902). Two iterations on OWL27.0
+were required to reach convergence, at which point a true set comprising
+14 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 27 sequences.

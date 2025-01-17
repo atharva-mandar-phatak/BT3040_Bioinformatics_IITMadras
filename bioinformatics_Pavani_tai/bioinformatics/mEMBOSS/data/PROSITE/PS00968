@@ -1,0 +1,56 @@
+********************************************************
+* Antenna complexes alpha and beta subunits signatures *
+********************************************************
+
+In photosynthetic bacteria the antenna  complexes function as light-harvesting
+systems that absorb light radiation and transfer the  excitation energy to the
+reaction centers.    The  antenna    complexes  are  generally composed of two
+polypeptides (alpha and beta chains); two  or three bacteriochlorophyll (BChl)
+molecules and some carotenoids [1,2].
+
+Both the  alpha and the beta chains of antenna complexes are small proteins of
+42 to  68  residues which share a three-domain organization. They are composed
+of a  N-terminal  hydrophilic  cytoplasmic  domain followed by a transmembrane
+region and  a  C-terminal hydrophilic periplasmic domain. In the transmembrane
+region of  both  chains  there is a conserved histidine which is most probably
+involved in  the binding of the magnesium atom of a bacteriochlorophyll group.
+The beta  chains contain an additional conserved histidine which is located at
+the C-terminal extremity  of the  cytoplasmic domain and which is also thought
+to be involved in bacteriochlorophyll-binding.
+
+We have developed  signature patterns for the alpha and for the beta subunits.
+These signature patterns include the conserved histidine residues.
+
+-Consensus pattern: [LIVFAG]-x-[GASV]-[LIVFA]-x-[IV]-H-x(3)-[LIVM]-[GSTAE]-
+                    [STANH]-x(1,3)-[STN]-W-[LIVMFYW]
+                    [The H binds BChl]
+-Sequences known to belong to this class detected by the pattern: ALL    alpha
+ chains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [EQ]-x(4)-[HGQ]-x(5)-[GSTA]-x(3)-[FYV]-x(3)-[AG]-x(2)-
+                    [AV]-H-x(7)-P
+                    [The two H bind BChl]
+-Sequences known to belong to this class detected by the pattern: ALL     beta
+ chains, except for Ectothiorhodospira halochloris B800/830/1020 beta-2.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Wagner-Huber R., Brunisholz R.A., Bissig I., Frank G., Suter F., Zuber H.
+     Eur. J. Biochem. 205:917-925(1992).
+[ 2] Brunisholz R.A., Zuber H.
+     "Structure, function and organization of antenna polypeptides and
+     antenna complexes from the three families of Rhodospirillaneae."
+     J. Photochem. Photobiol. B 15:113-140(1992).
+     PubMed=1460542
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

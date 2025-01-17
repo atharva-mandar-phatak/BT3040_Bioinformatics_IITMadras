@@ -1,0 +1,58 @@
+********************************************
+* Coproporphyrinogen III oxidase signature *
+********************************************
+
+Coproporphyrinogen III  oxidase  (EC  1.3.3.3)  (coproporphyrinogenase)  [1,2]
+catalyzes the   oxidative   decarboxylation  of  coproporphyrinogen  III  into
+protoporphyrinogen IX,   a common step in the pathway for the biosynthesis  of
+porphyrins such as heme, chlorophyll or cobalamin.
+
+Coproporphyrinogen III  oxidase  is  an  enzyme  that  requires  iron  for its
+activity. A  cysteine  seems  to be important for the catalytic mechanism [3].
+Sequences from a  variety  of  eukaryotic  and  prokaryotic  sources show that
+this enzyme  has  been  evolutionarily  conserved.  As  a signature pattern we
+selected a  highly  conserved region in the central part of the sequence; this
+region contains  the  only  conserved  cysteine  and  is rich in charged amino
+acids.
+
+-Consensus pattern: K-x-[WQA]-[CA]-x(2)-[FYH](2)-x-[LIVM]-x-[HY]-R-x-E-x-R-G-
+                    [LIVMT]-G(2)-[LIVM]-F-[FY]-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Some  bacteria  possess  an  anaerobic  form  of coproporphyrinogen III
+ oxidase [4] which does not belong to this family.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Xu K., Elliott T.
+     "An oxygen-dependent coproporphyrinogen oxidase encoded by the hemF
+     gene of Salmonella typhimurium."
+     J. Bacteriol. 175:4990-4999(1993).
+     PubMed=8349542
+[ 2] Kohno H., Furukawa T., Yoshinaga T., Tokunaga R., Taketani S.
+     "Coproporphyrinogen oxidase. Purification, molecular cloning, and
+     induction of mRNA during erythroid differentiation."
+     J. Biol. Chem. 268:21359-21363(1993).
+     PubMed=8407975
+[ 3] Camadro J.M., Chambon H., Jolles J., Labbe P.
+     "Purification and properties of coproporphyrinogen oxidase from the
+     yeast Saccharomyces cerevisiae."
+     Eur. J. Biochem. 156:579-587(1986).
+     PubMed=3516695
+[ 4] Xu K., Elliott T.
+     "Cloning, DNA sequence, and complementation analysis of the Salmonella
+     typhimurium hemN gene encoding a putative oxygen-independent
+     coproporphyrinogen III oxidase."
+     J. Bacteriol. 176:3196-3203(1994).
+     PubMed=8195073
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

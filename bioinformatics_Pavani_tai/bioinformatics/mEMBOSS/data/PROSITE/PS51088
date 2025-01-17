@@ -1,0 +1,70 @@
+************************************
+* TEA domain signature and profile *
+************************************
+
+The  TEA domain is a DNA-binding region of about 66 to 68 amino acids that has
+been  named  after  the two proteins that originally defined the domain: TEF-1
+and  abaA  [1].  The  TEA  domain  is  located  toward  the  amino terminus of
+eukaryotic  transcription  factors of the TEA/ATTS family . It is predicted to
+contain  three  alpha-helices,  two  of  which  have  been  demonstrated to be
+important for DNA binding [2].
+
+Some of the proteins that contain a TEA domain are listed below:
+
+ - Mammalian enhancer factor TEF-1. TEF-1 can bind to two  distinct  sequences
+   in the SV40 enhancer and is a transcriptional activator.
+ - Mammalian  TEF-3,  TEF-4 and TEF-5 [3], putative transcriptional activators
+   highly similar to TEF-1.
+ - Drosophila scalloped protein (gene sd),  a  probable  transcription  factor
+   that functions in the regulation  of cell-specific gene  expression  during
+   Drosophila development, particularly  in the differentiation of the nervous
+   system [4].
+ - Emericella nidulans  regulatory  protein  abaA.  AbaA  is  involved  in the
+   regulation  of conidiation (asexual spore);  its expression  leads  to  the
+   cessation of vegetative growth.
+ - Yeast trans-acting factor TEC1.  TEC1  is involved in the activation of the
+   Ty1 retrotransposon.
+ - Caenorhabditis elegans hypothetical protein F28B12.2.
+
+As  a signature pattern, we have used positions 39 to 67 of the TEA domain. We
+also developed a profile that covers the whole domain.
+
+-Consensus pattern: G-R-N-E-L-I-x(2)-[YH]-I-x(3)-[TC]-x(3)-R-T-[RK](2)-Q-
+                    [LIVM]-S-S-H-[LIVM]-Q-V
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2005 / Text revised; profile added.
+
+[ 1] Buerglin T.R.
+     Cell 66:11-12(1991).
+[ 2] Hwang J.J., Chambon P., Davidson I.
+     "Characterization of the transcription activation function and the DNA
+     binding domain of transcriptional enhancer factor-1."
+     EMBO J. 12:2337-2348(1993).
+     PubMed=8389695
+[ 3] Jacquemin P., Hwang J.-J., Martial J.A., Dolle P., Davidson I.
+     "A novel family of developmentally regulated mammalian transcription
+     factors containing the TEA/ATTS DNA binding domain."
+     J. Biol. Chem. 271:21775-21785(1996).
+     PubMed=8702974
+[ 4] Campbell S., Inamdar M., Rodrigues V., Raghavan V., Palazzolo M.,
+     Chovnick A.
+     "The scalloped gene encodes a novel, evolutionarily conserved
+     transcription factor required for sensory organ differentiation in
+     Drosophila."
+     Genes Dev. 6:367-379(1992).
+     PubMed=1547938
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

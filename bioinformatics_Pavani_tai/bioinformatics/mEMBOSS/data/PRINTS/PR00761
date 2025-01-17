@@ -1,0 +1,24 @@
+BINDIN
+Bindin, the major protein component of the acrosome granule of sea urchin 
+sperm, mediates species-specific adhesion of sperm to the egg surface 
+during fertilisation [1,2]. The protein coats the acrosomal process after 
+externalisation by the acrosome reaction; it binds to sulphated, fucose-
+containing polysaccharides on the vitelline-layer receptor proteoglycans 
+that cover the egg plasma membrane.
+
+Bindins from different genera show high levels of sequence similarity in 
+both the mature bindin domain and in the probindin precursor region. The 
+most highly conserved region is a 42-residue segment in the central portion
+of the mature bindin protein. This domain may be responsible for conserved 
+functions of bindin, while the more highly divergent flanking regions may
+be responsible for its species-specific properties [2]. 
+
+BINDIN is a 6-element fingerprint that provides a signature for bindins.
+The fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from conserved regions spanning the C-terminal half of
+the alignment - motif 3 and 4 span a potential fucose-binding domain, and
+motif 5 includes a Glu-rich region. Two iterations on OWL29.4 were required
+to reach convergence, at which point a true set comprising 17 sequences
+was identified.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

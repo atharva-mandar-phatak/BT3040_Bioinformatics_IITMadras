@@ -1,0 +1,108 @@
+*****************************************************
+* PARP catalytic and alpha-helical domains profiles *
+*****************************************************
+
+Poly(ADP-ribose) polymerases  (PARP)  (EC 2.4.2.30)  are a  family  of enzymes
+present in eukaryotes which catalyzes  the poly(ADP-ribosyl)ation of a limited
+number of  proteins  involved in chromatin architecture, DNA repair, or in DNA
+metabolism including   PARP  itself.  PARP,  also  known  as  poly(ADP-ribose)
+synthase and  poly(ADP-ribose)  transferase,  transfers  the ADP-ribose moiety
+from its  substrate,  nicotinamide  adenine dinucleotide (NAD), to carboxylate
+groups of aspartic and glutamic residues. Whereas some PARPs might function in
+genome protection,  others  appear  to  play  different  roles  in  the  cell,
+including telomere   replication   and   cellular   transport.   PARP-1  is  a
+multifunctional enzyme.   The  polypeptide  has  a  highly  conserved  modular
+organization consisting   of  an  N-terminal  DNA-binding  domain,  a  central
+regulating segment,  and  a C-terminal or F region accommodating the catalytic
+center. The  F  region  is  composed  of  two parts: a purely alpha-helical N-
+terminal domain  (alpha-hd),  and  the  mixed  alpha/beta C-terminal catalytic
+domain bearing  the  putative NAD binding site.  Although proteins of the PARP
+family are  related  through their PARP catalytic domain, they do not resemble
+each other  outside  of  that  region, but rather, they contain unique domains
+that distinguish  them  from  each other and hint at their discrete functions.
+Domains to  which  the  PARP catalytic domain is found associated with include
+zinc fingers   (see   <PDOC00360>),   SAP   (see  <PDOC50800>),  ankyrin  (see
+<PDOC50088>), BRCT (see <PDOC50172>), Macro domain, SAM (see <PDOC50105>), WWE
+(see <PDOC50918>) and UIM (see <PDOC50330>) [1,2,3].
+
+The alpha-hd  domain  is  ~130 amino acids in length and consists of an up-up-
+down-up-down-down motif  of  helices  (see  <PDB:1PAX>  and <PDB:1GS0>). It is
+thought to relay the activation signal issued on binding to damaged DNA [4,5].
+The PARP  catalytic  domain  is  ~230  residues  in length (see <PDB:1PAX> and
+<PDB:1GS0>). Its  core consists of a five-stranded antiparallel beta-sheet and
+four-stranded mixed  beta-sheet.  The  two  sheets  are  consecutive  and  are
+connected via  a single pair of hydrogen bonds between two strands that run at
+an angle of 90 degree. These central beta-sheets are surrounded by five alpha-
+helices, three 3(10)-helices, and by a three- and a two-stranded beta-sheet in
+a 37-residue  excursion  between  two  central  beta-strands [4,5]. The active
+site, known  as  the  'PARP signature' is formed by a block of 50 amino acids,
+the 'PARP  signature',  that  are strictly conserved among the vertebrates and
+highly conserved  among all species. The 'PARP signature' is characteristic of
+all PARP  protein family members. It is formed by a segment of conserved amino
+acid residues  formed  by a beta-sheet, an alpha-helix, a 3(10)-helix, a beta-
+sheet, and an alpha-helix [3].
+
+Some proteins known to belong to the PARP family are listed below [2,3]:
+
+ - PARP-1. It is involved in the cellular response to DNA damage.
+ - PARP-2.
+ - PARP-3.  It  is  a  core  component of the centrosome and is preferentially
+   associated with the daughter centriole at all stages of the cell cycle.
+ - PARP-4  or  VPARP.  It  is  associated  with vault particles, a cytoplasmic
+   ribonucleoprotein complex   that  associates  two  other  highly  conserved
+   proteins, major  vault  protein  (MVP)  and  telomerase-associated  protein
+   (TEP1) and an untranslated vault RNA (VRNA).
+ - PARP-5a   or  Tankyrase  1  (TRF1-interacting,  ankyrin-related  ADP-ribose
+   polymerase). The  alpha-hd  domain  is  replaced  in  Tankyrase  by the SAM
+   domain.
+ - PARP-5b  or  Tankyrase  2.  It  appears  to  interact with many partners at
+   discrete subcellular  locations,  including the Glgi complex and endosomes.
+ - PARP-7 or TiPARP. It has been identified as a 2,3,7,8-Tetrachlorodibenzo-p-
+   dioxin (TCDD)-induced mRNA.
+ - PARP-9 or Bal.
+ - PARP-10.
+ - PARP-11.
+ - PARP-14.
+ - PARP-15.
+
+The profiles we developed cover the entire catalytic and alpha-hd domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2005 / First entry.
+
+[ 1] de Murcia G., Menissier de Murcia J.
+     Trends Biochem. Sci. 19:172-176(1994).
+[ 2] Ame J.-C., Spenlehauer C., de Murcia G.
+     "The PARP superfamily."
+     Bioessays 26:882-893(2004).
+     PubMed=15273990; DOI=10.1002/bies.20085
+[ 3] Nguewa P.A., Fuertes M.A., Valladares B., Alonso C., Perez J.M.
+     "Poly(ADP-ribose) polymerases: homology, structural domains and
+     functions. Novel therapeutical applications."
+     Prog. Biophys. Mol. Biol. 88:143-172(2005).
+     PubMed=15561303; DOI=10.1016/j.pbiomolbio.2004.01.001
+[ 4] Ruf A., Mennissier de Murcia J., de Murcia G., Schulz G.E.
+     "Structure of the catalytic fragment of poly(AD-ribose) polymerase
+     from chicken."
+     Proc. Natl. Acad. Sci. U.S.A. 93:7481-7485(1996).
+     PubMed=8755499
+[ 5] Oliver A.W., Ame J.-C., Roe S.M., Good V., de Murcia G., Pearl L.H.
+     "Crystal structure of the catalytic fragment of murine
+     poly(ADP-ribose) polymerase-2."
+     Nucleic Acids Res. 32:456-464(2004).
+     PubMed=14739238; DOI=10.1093/nar/gkh215
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

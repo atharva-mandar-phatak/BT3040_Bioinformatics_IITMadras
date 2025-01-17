@@ -1,0 +1,30 @@
+GLHYDRLASE48
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 48 encompasses endoglucanases (EC 3.2.1.4) and 
+cellobiohydrolases (EC 3.2.1.91).
+
+The largest cellulase gene sequenced to date is one of the cellulases (celA)
+from the genome of the thermophilic anaerobic bacterium Caldocellum 
+saccharolyticum [5]. The celA gene product is a polypeptide of 1751 amino
+acids; this has a multidomain structure comprising two catalytic domains 
+and two cellulose-binding domains, linked by Pro-Thr-rich regions (so-called
+PT linkers) [5]. The N-terminal domain encodes an endoglucanase activity on
+carboxymethylcellulose, consistent with its similarity to several endo-1, 
+4-beta-D-glucanase sequences. The C-terminal domain shows similarity to a 
+cellulase from Clostridium thermocellum (CelS), which acts synergistically
+with a second component to hydrolyse crystalline cellulose [5]. 
+
+GLHYDRLASE48 is a 9-element fingerprint that provides a signature for
+family 48 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal portion of the alignment, which corresponds to the
+second catalytic domain, downstream from the Pro-Thr-rich region in celA 
+from C.saccharolyticum. Two iterations on OWL30.0 were required to reach
+convergence, at which point a true set comprising 6 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 1
+partial match.

@@ -1,0 +1,30 @@
+ANTSNTHASEII
+Anthranilate synthase (ASase) is a tetrameric protein comprising 2 copies 
+each of components I and II [1]. The protein catalyses the first step in 
+the tryptophan biosynthetic pathway, namely the conversion of chorismate 
+and an ammonium ion to anthranilate. Component I obtains this ion from 
+ammonia, whereas component II obtains the ion from glutamine using the 
+glutamine amidotransferase (GATase) activity [2]. In some bacteria, such as
+E.coli, component II can be much larger than in other organisms, due to the
+presence of phosphoribosyl-anthranilate transferase (PRTase) activity. 
+This is the second step in tryptophan biosynthesis and results in the 
+addition of 5-phosphoribosyl-1-pyrophosphate to anthranilate to create 
+N-5'-phosphoribosyl-anthranilate. Some studies have suggested that the 
+larger component II could have arisen by gene fusion [2], a hypothesis 
+supported by the fact that the 2 activities are found in discrete domains 
+that are physically separated in the 3D model.
+
+ANTSNTHASEII is a 6-element fingerprint that provides a signature for 
+anthranilate synthase type II components. The fingerprint was derived
+from an initial alignment of 6 sequences: motif 2 is highly conserved in 
+all GATases; and motif 3 spans the Gln binding site (cf. PROSITE pattern
+GATASE_TYPE_I). Three iterations on OWL17.1 were required to reach 
+convergence, at which point a true set comprising 37 sequences was 
+identified, including a family of para-aminobenzoate synthases, which 
+possess GATase activity and are similar to the type II components [3]. 
+Several partial matches were also found, including an ASase fragment, and a
+subfamily of enzymes involved in pyrimidine and arginine biosynthesis - all
+of these possess GATase activity, and hence most match motifs 2 and 3.
+
+An update on SPTR37_9f identified a true set of 55 sequences, and 74
+partial matches.

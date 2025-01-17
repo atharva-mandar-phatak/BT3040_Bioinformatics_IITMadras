@@ -1,0 +1,72 @@
+***************************
+* Protein secY signatures *
+***************************
+
+The eubacterial secY protein [1] plays an important role in protein export. It
+interacts with the signal sequences of  secretory proteins as well as with two
+other  components of the protein translocation system: secA and secE.  SecY is
+an integral  plasma membrane protein  of  419 to 492  amino acid residues that
+apparently  contains ten  transmembrane  segments.  Such  a structure probably
+confers to secY a 'translocator' function, providing a channel for periplasmic
+and outer-membrane precursor proteins.
+
+Homologs of  secY  are  found in archaebacteria [2].  SecY  is also encoded in
+the chloroplast  genome  of  some algae [3]  where  it  could be involved in a
+prokaryotic-like protein  export  system  across  the  two  membranes  of  the
+chloroplast endoplasmic reticulum (CER) which  is  present in  chromophyte and
+cryptophyte algae.
+
+In eukaryotes,  the  evolutionary related protein sec61-alpha plays a role  in
+protein translocation  through  the  endoplasmic  reticulum;  it  is part of a
+trimeric complex that also consist of sec61-beta and gamma [4].
+
+We have  developed  two   signature patterns  for  secY  proteins.  The  first
+corresponds to   the second  transmembrane region, which is the most conserved
+section of  these proteins. The second spans the C-terminal part of the fourth
+transmembrane region,   a short intracellular loop, and the N-terminal part of
+the fifth transmembrane region.
+
+-Consensus pattern: [GSTL]-[LIVMFK]-[LIVMFCA]-x-[LIVMF]-[GSAN]-[LIVM]-x-P-
+                    [LIVMFYN]-[LIVMFY]-x-[AS]-[GSTQD]-[LIVMFAT](3)-[EQ]-
+                    [LIVMFA](2)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFYW](2)-x-[DE]-x-[LIVM]-[STDNQ]-x(2,3)-[GK]-[LIVMF]-
+                    [GST]-[NST]-G-x-[GST]-[LIV]-[LIVFP]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ito K.
+     "SecY and integral membrane components of the Escherichia coli protein
+     translocation system."
+     Mol. Microbiol. 6:2423-2428(1992).
+     PubMed=1406280
+[ 2] Auer J., Spicker G., Boeck A.
+     "Presence of a gene in the archaebacterium Methanococcus vannielii
+     homologous to secY of eubacteria."
+     Biochimie 73:683-688(1991).
+     PubMed=1764515
+[ 3] Douglas S.E.
+     "A secY homologue is found in the plastid genome of Cryptomonas phi."
+     FEBS Lett. 298:93-96(1992).
+     PubMed=1544427
+[ 4] Hartmann E., Sommer T., Prehn S., Goerlich D., Jentsch S., Rapoport T.A.
+     "Evolutionary conservation of components of the protein translocation
+     complex."
+     Nature 367:654-657(1994).
+     PubMed=8107851; DOI=10.1038/367654a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

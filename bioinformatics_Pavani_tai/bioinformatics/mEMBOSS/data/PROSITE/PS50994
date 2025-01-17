@@ -1,0 +1,71 @@
+**************************************
+* Integrase catalytic domain profile *
+**************************************
+
+The  retroviral integrase is the enzyme responsible for the insertion of a DNA
+copy  of  the viral genome into host DNA, an essential step in the replication
+cycle  of  viruses  [1].  Integrases  comprise three functional and structural
+domains:  the  central  core domain, which contains the catalytic residues, an
+N-terminal  zinc  finger (see <PDOC50876>) and a C-terminal DNA binding domain
+(see <PDOC51027>)[2].
+
+The  integrase  catalytic  domain catalyzes a series of reactions to integrate
+the  viral genome into a host chromosome. In the first step, it removes two 3'
+end  nucleotides from each strand of the linear viral DNA, leaving overhanging
+CA-OH ends. In the second step, the processed 3' ends are covalently joined to
+the  5'  ends  of  the  target DNA. In the third step, which probably involves
+additional  cellular  enzymes,  unpaired  nucleotides at the viral 5' ends are
+removed  and  the  ends  are  joined to the target site 3' ends, generating an
+integrated  provirus  flanked  by  five base-pair direct repeats of the target
+site DNA [3].
+
+The  crystal structure of the catalytic domain shows a dimeric structure, with
+each  monomer containing a five-stranded beta-sheet and six alpha-helices (see
+<PDB:1ITG>) [4]. This fold is characteristic of the polynucleotidyltransferase
+superfamily whose members include RNase H (see <PDOC50879>), the bacteriophage
+Mu  transposase, and the E. coli Holliday junction resolving enzyme, RuvC [5].
+The  catalytic domain of integrase contains the DD35E triad motif. As in other
+DNA-binding proteins containing this motif, these acidic residues coordinate a
+divalent  Mg2+  in  the resting enzyme. Substituting any one of these residues
+abolishes both processing and integration activities of integrase.
+
+The integrase catalytic domain is also found in various transposase proteins.
+
+The profile we developed covers the whole integrase catalytic domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2004 / First entry.
+
+[ 1] Frankel A.D., Young J.A.
+     "HIV-1: fifteen proteins and an RNA."
+     Annu. Rev. Biochem. 67:1-25(1998).
+     PubMed=9759480; DOI=10.1146/annurev.biochem.67.1.1
+[ 2] Esposito D., Craigie R.
+     "HIV integrase structure and function."
+     Adv. Virus. Res. 52:319-333(1999).
+     PubMed=10384240
+[ 3] Katz R.A., Skalka A.M.
+     "The retroviral enzymes."
+     Annu. Rev. Biochem. 63:133-173(1994).
+     PubMed=7526778; DOI=10.1146/annurev.bi.63.070194.001025
+[ 4] Dyda F., Hickman A.B., Jenkins T.M., Engelman A., Craigie R.,
+     Davies D.R.
+     "Crystal structure of the catalytic domain of HIV-1 integrase:
+     similarity to other polynucleotidyl transferases."
+     Science 266:1981-1986(1994).
+     PubMed=7801124
+[ 5] Rice P., Craigie R., Davies D.R.
+     "Retroviral integrases and their cousins."
+     Curr. Opin. Struct. Biol. 6:76-83(1996).
+     PubMed=8696976
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,113 @@
+********************************
+* Frizzled (fz) domain profile *
+********************************
+
+The  frizzled (fz) domain is an extracellular domain of about 120 amino acids.
+It was  first  identified  in  the alpha-1 chain of type XVIII collagen and in
+members of the Frizzled family of seven transmembrane (7TM) proteins which act
+as receptors  for  secreted  Wingless (Wg)/Wnt glycoproteins (see <PDOC00219>)
+[1]. In  addition  to  these  proteins, one or two copies of the fz domain are
+also found [2,3,4,5,6] in:
+
+ - The frizbee (Frzb) family; secreted frizzled-like proteins.
+ - Smoothened; another 7TM receptor involved in hedgehog signaling.
+ - Carboxpeptidase Z (CPZ).
+ - Transmembrane serine protease corin.
+ - Two  receptor  tyrosine  kinases (RTKs) subfamilies, the Ror family and the
+   muscle-specific kinase (MuSK) family.
+
+As the  fz  domain  contains  10 cysteines which are largely conserved, it has
+also been  called  cysteine-rich domain (CRD) [1]. The fz domain also contains
+several other  highly  conserved  residues,  for  example,  a basic amino acid
+follows C6,  and a conserved proline residues lies four residues C-terminal to
+C9 [5].  The  crystal  structure of a fz domain shows that it is predominantly
+alpha-helical with  all  cysteines  forming  disulfide  bonds.  In addition to
+helical regions, two short beta-strands at the N-terminus form a minimal beta-
+sheet with  the  second beta sheet passing through a knot created by disulfide
+bonds [7].
+
+The schematic  representation of the structure of a typical fz domain is shown
+below:
+
+                                                  +-------------------+
+                                 +----------------|-------+           |
+                                 |                |       |           |
+  xxCxxxxCxxxxxxxxxxxxxxxxxxxxxxxCxxxxCxxxCxxxxxxxCxxxCxxxCxxxxxCxxxxxC
+    |    |                            |   |           |         |
+    +----|----------------------------|---+           +---------+
+         +----------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+Several  fz  domains  have  been shown to be both necessary and sufficient for
+Wg/Wnt  ligand  binding,  strongly  suggesting  that the fz domain is a Wg/Wnt
+interacting domain [8,9,10].
+
+The profile we developed covers the entire fz domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2002 / Text revised.
+
+[ 1] Rehn M., Pihlajaniemi T.
+     "Identification of three N-terminal ends of type XVIII collagen chains
+     and tissue-specific differences in the expression of the corresponding
+     transcripts. The longest form contains a novel motif homologous to rat
+     and Drosophila frizzled proteins."
+     J. Biol. Chem. 270:4705-4711(1995).
+     PubMed=7876242
+[ 2] Xu Y.K., Nusse R.
+     "The Frizzled CRD domain is conserved in diverse proteins including
+     several receptor tyrosine kinases."
+     Curr. Biol. 8:R405-R406(1998).
+     PubMed=9637908
+[ 3] Masiakowski P., Yancopoulos G.D.
+     "The Wnt receptor CRD domain is also found in MuSK and related orphan
+     receptor tyrosine kinases."
+     Curr. Biol. 8:R407-R407(1998).
+     PubMed=9637909
+[ 4] Saldanha J., Singh J., Mahadevan D.
+     "Identification of a Frizzled-like cysteine rich domain in the
+     extracellular region of developmental receptor tyrosine kinases."
+     Protein Sci. 7:1632-1635(1998).
+     PubMed=10082384
+[ 5] Rehn M., Pihlajaniemi T., Hofmann K., Bucher P.
+     "The frizzled motif: in how many different protein families does it
+     occur?"
+     Trends Biochem. Sci. 23:415-417(1998).
+     PubMed=9852758
+[ 6] Yan W., Sheng N., Seto M., Morser J., Wu Q.
+     "Corin, a mosaic transmembrane serine protease encoded by a novel cDNA
+     from human heart."
+     J. Biol. Chem. 274:14926-14935(1999).
+     PubMed=10329693
+[ 7] Dann C.E., Hsieh J.-C., Rattner A., Sharma D., Nathans J., Leahy D.J.
+     "Insights into Wnt binding and signalling from the structures of two
+     Frizzled cysteine-rich domains."
+     Nature 412:86-90(2001).
+     PubMed=11452312; DOI=10.1038/35083601
+[ 8] Bhanot P., Brink M., Samos C.H., Hsieh J.-C., Wang Y., Macke J.P.,
+     Andrew D., Nathans J., Nusse R.
+     "A new member of the frizzled family from Drosophila functions as a
+     Wingless receptor."
+     Nature 382:225-230(1996).
+     PubMed=8717036
+[ 9] Lin K., Wang S., Julius M.A., Kitajewski J., Moos M. Jr., Luyten F.P.
+     "The cysteine-rich frizzled domain of Frzb-1 is required and
+     sufficient for modulation of Wnt signaling."
+     Proc. Natl. Acad. Sci. U.S.A. 94:11196-11200(1997).
+     PubMed=9326585
+[10] Rattner A., Hsieh J.-C., Smallwood P.M., Gilbert D.J., Copeland N.G.,
+     Jenkins N.A., Nathans J.
+     Proc. Natl. Acad. Sci. U.S.A. 94:2859-2863(1997).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

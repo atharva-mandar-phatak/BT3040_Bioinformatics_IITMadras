@@ -1,0 +1,24 @@
+PIIGLNB
+In Gram-negative bacteria, the activity and concentration of glutamine
+synthetase (GS) is regulated in response to nitrgen source availability.
+PII, a tetrameric protein encoded by the glnB gene, is a component of the
+adenylation cascade involved in the regulation of GS activity [1]. In
+times of nitrogen deficiency, GS is activated by deadenylation of each of
+the subunits in the dodecameric GS complex [2] via a pathway stimulated by
+uridylated PII. In nitrogen excess, PII is deuridylated, resulting in GS
+inhibition by adenylation of each of the GS subunits [1]. PII also
+regulates GS concentration at the transcriptional level by affecting the
+phosphorylation of the NRI protein, which is the transcriptional activator
+of the GS gene, glnA [2].
+
+PIIGLNB is a 4-element fingerprint that provides a signature for PII
+proteins. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, motif 4 including the region encoded by PROSITE
+pattern PII_GLNB_CTER (PS00638). Two iterations on OWL24.0 were required
+to reach convergence, at which point a true set comprising 14 sequences
+was identified. A single partial match was also found, B61030, which is 
+similar to PII proteins but lacks the uridylation site and shows little
+similarity to the C-terminal region described by motif 4.
+
+An update on SPTR37_9f identified a true set of 51 sequences.

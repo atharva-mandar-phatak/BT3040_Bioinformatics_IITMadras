@@ -1,0 +1,110 @@
+********************************************************
+* Galactoside-binding lectin (galectin) domain profile *
+********************************************************
+
+Galectins (also  known  as  galaptins  or  S-lectin)  are a family of proteins
+defined by  having at least one characteristic carbohydrate recognition domain
+(CRD) with  an  affinity  for  beta-galactosides  and sharing certain sequence
+elements. Members  of  the  galectins  family  are  found  in  mammals, birds,
+amphibians, fish,  nematodes,  sponges, and some fungi. Galectins are known to
+carry out  intra-  and extracellular functions through glycoconjugate-mediated
+recogntion. From  the  cytosol they may be secreted by non-classical pathways,
+but they  may also be targeted to the nucleus or specific sub-cytosolic sites.
+Within the  same  peptide  chain  some  galectins  have  a CRD with only a few
+additional amino acids, whereas others have two CRDs joined by a link peptide,
+and one (galectin-3) has one CRD joined to a different type of domain [1-3].
+
+The galectin carbohydrate recognition domain (CRD) is a beta-sandwich of about
+135 amino  acid  (see  <PDB:1HLC>).  The  two  sheets are slightly bent with 6
+strands forming  the  concave  side and 5 strands forming the convex side. The
+concave side  forms a groove in which carbohydrate is bound, and which is long
+enough to hold about a linear tetrasaccharide [1-5].
+
+A number of proteins are known to belong to this family:
+
+ - Galectin-3  (also known as MAC-2 antigen; CBP-35 or IgE-binding protein), a
+   35 Kd lectin which  binds  immunoglobulin  E and  which  is composed of two
+   domains: a  N-terminal  domain that consist of tandem repeats of a glycine/
+   proline-rich sequence and a C-terminal galectin domain.
+ - Galectin-4 [6], which is composed of two galectin domains.
+ - Galectin-5.
+ - Galectin-7 [7], a keratinocyte protein which could be involved in cell-cell
+   and/or cell-matrix interactions necessary for normal growth control.
+ - Galectin-8 [8], which is composed of two galectin domains.
+ - Galectin-9 [9], which is composed of two galectin domains.
+ - Human eosinophil lysophospholipase (EC 3.1.1.5) [5] (Charcot-Leyden crystal
+   protein), a   protein  that  may  have  both  an  enzymatic  and  a  lectin
+   activities. It   forms   hexagonal  bipyramidal  crystals  in  tissues  and
+   secretions from sites of eosinophil-associated inflammation.
+ - Caenorhabditis  elegans  32  Kd lactose-binding lectin [10]. This lectin is
+   composed of two galectin domains.
+ - Caenorhabditis elegans lec-7 and lec-8.
+
+The profile we developed covers the entire galectin domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2007 / Pattern removed, profile added and text revised.
+
+[ 1] Leffler H.
+     "Introduction to galectins.";
+     Trends Glycosci. Glycotechnol. 9:9-19(1997).
+[ 2] Leffler H., Carlsson S., Hedlund M., Qian Y., Poirier F.
+     "Introduction to galectins."
+     Glycoconj. J. 19:433-440(2004).
+     PubMed=14758066; DOI=10.1023/B:GLYC.0000014072.34840.04
+[ 3] Ban M., Yoon H.-J., Demirkan E., Utsumi S., Mikami B., Yagi F.
+     "Structural basis of a fungal galectin from Agrocybe cylindracea for
+     recognizing sialoconjugate."
+     J. Mol. Biol. 351:695-706(2005).
+     PubMed=16051274; DOI=10.1016/j.jmb.2005.06.045
+[ 4] Lobsanov Y.D., Gitt M.A., Leffler H., Barondes S.H., Rini J.M.
+     "X-ray crystal structure of the human dimeric S-Lac lectin, L-14-II,
+     in complex with lactose at 2.9-A resolution."
+     J. Biol. Chem. 268:27034-27038(1993).
+     PubMed=8262940
+[ 5] Leonidas D.D., Elbert B.L., Zhou Z., Leffler H., Ackerman S.J.,
+     Acharya K.R.
+     "Crystal structure of human Charcot-Leyden crystal protein, an
+     eosinophil lysophospholipase, identifies it as a new member of the
+     carbohydrate-binding family of galectins."
+     Structure 3:1379-1393(1995).
+     PubMed=8747464
+[ 6] Oda Y., Herrmann J., Gitt M.A., Turck C.W., Burlingame A.L.,
+     Barondes S.H., Leffler H.
+     "Soluble lactose-binding lectin from rat intestine with two different
+     carbohydrate-binding domains in the same peptide chain."
+     J. Biol. Chem. 268:5929-5939(1993).
+     PubMed=8449956
+[ 7] Madsen P., Rasmussen H.H., Flint T., Gromov P., Kruse T.A., Honore B.,
+     Vorum H., Celis J.E.
+     "Cloning, expression, and chromosome mapping of human galectin-7."
+     J. Biol. Chem. 270:5823-5829(1995).
+     PubMed=7534301
+[ 8] Hadari Y.R., Paz K., Dekel R., Mestrovic T., Accili D., Zick Y.
+     "Galectin-8. A new rat lectin, related to galectin-4."
+     J. Biol. Chem. 270:3447-3453(1995).
+     PubMed=7852431
+[ 9] Wada J., Kanwar Y.S.
+     "Identification and characterization of galectin-9, a novel
+     beta-galactoside-binding mammalian lectin."
+     J. Biol. Chem. 272:6078-6086(1997).
+     PubMed=9038233
+[10] Hirabayashi J., Satoh M., Kasai K.-I.
+     "Evidence that Caenorhabditis elegans 32-kDa beta-galactoside-binding
+     protein is homologous to vertebrate beta-galactoside-binding lectins.
+     cDNA cloning and deduced amino acid sequence."
+     J. Biol. Chem. 267:15485-15490(1992).
+     PubMed=1639789
+[11] Abbott W.M., Feizi T.
+     J. Biol. Chem. 266:5552-5557(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

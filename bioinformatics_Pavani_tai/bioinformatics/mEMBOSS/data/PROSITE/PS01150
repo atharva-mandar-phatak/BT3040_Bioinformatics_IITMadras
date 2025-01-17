@@ -1,0 +1,67 @@
+****************************************************************
+* Respiratory-chain NADH dehydrogenase 20 Kd subunit signature *
+****************************************************************
+
+Respiratory-chain NADH dehydrogenase (EC 1.6.5.3) [1,2] (also known as complex
+I  or  NADH-ubiquinone  oxidoreductase) is  an  oligomeric  enzymatic  complex
+located in  the  inner mitochondrial membrane  which  also  seems  to exist in
+the chloroplast and in cyanobacteria (as a NADH-plastoquinone oxidoreductase).
+Among the 25 to 30 polypeptide  subunits  of  this bioenergetic enzyme complex
+there is  one with a molecular  weight of  20  Kd (in mammals) [3], which is a
+component of  the  iron-sulfur (IP) fragment of the enzyme. It seems to bind a
+4Fe-4S iron-sulfur cluster. The 20 Kd subunit has been found to be:
+
+ - Nuclear encoded, as a precursor form with a transit peptide in mammals, and
+   in Neurospora crassa.
+ - Mitochondrial encoded in Paramecium (gene psbG).
+ - Chloroplast encoded in various higher plants (gene ndhK or psbG).
+
+The 20 Kd subunit is highly similar to [4]:
+
+ - Synechocystis strain PCC 6803 proteins psbG1 and psbG2.
+ - Subunit B of Escherichia coli NADH-ubiquinone oxidoreductase (gene nuoB).
+ - Subunit NQO6 of Paracoccus denitrificans NADH-ubiquinone oxidoreductase.
+ - Subunit 7 of Escherichia coli formate hydrogenlyase (gene hycG).
+ - Subunit I of Escherichia coli hydrogenase-4 (gene hyfI).
+
+As as signature pattern we selected a highly  conserved region, located in the
+central section  of  this subunit and which contains a conserved cysteine that
+is probably involved in the binding of the 4Fe-4S center.
+
+-Consensus pattern: [GN]-x-[DE]-[KRHST]-[LIVMFA]-[LIVMF]-P-[IV]-D-[LIVMFYWA]-
+                    [LIVMFYWK]-x-P-x-C-P-[PT]
+                    [The C may be a 4Fe-4S ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ragan C.I.
+     Curr. Top. Bioenerg. 15:1-36(1987).
+[ 2] Weiss H., Friedrich T., Hofhaus G., Preis D.
+     "The respiratory-chain NADH dehydrogenase (complex I) of
+     mitochondria."
+     Eur. J. Biochem. 197:563-576(1991).
+     PubMed=2029890
+[ 3] Arizmendi J.M., Runswick M.J., Skehel J.M., Walker J.E.
+     "NADH: ubiquinone oxidoreductase from bovine heart mitochondria. A
+     fourth nuclear encoded subunit with a homologue encoded in chloroplast
+     genomes."
+     FEBS Lett. 301:237-242(1992).
+     PubMed=1577158
+[ 4] Weidner U., Geier S., Ptock A., Friedrich T., Leif H., Weiss H.
+     "The gene locus of the proton-translocating NADH: ubiquinone
+     oxidoreductase in Escherichia coli. Organization of the 14 genes and
+     relationship between the derived proteins and subunits of
+     mitochondrial complex I."
+     J. Mol. Biol. 233:109-122(1993).
+     PubMed=7690854
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

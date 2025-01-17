@@ -1,0 +1,53 @@
+***********************************
+* Ribosomal protein L23 signature *
+***********************************
+
+Ribosomal protein L23 is one of the proteins from the large ribosomal subunit.
+In  Escherichia coli,  L23 is known to bind a specific region on the 23S rRNA;
+in yeast, the corresponding protein binds to a homologous site on the 26S rRNA
+[1]. It  belongs  to  a  family  of  ribosomal proteins which, on the basis of
+sequence similarities [2,3,4], groups:
+
+ - Eubacterial L23.
+ - Algal and plant chloroplast L23.
+ - Archaebacterial L23.
+ - Mammalian L23A.
+ - Caenorhabditis elegans L23A (F55D10.2).
+ - Fungi L25.
+ - Yeast mitochondrial YmL41 (gene MRPL41 or MRP20).
+
+As a signature pattern, we selected a small conserved region in the C-terminal
+section of these proteins, which is probably involved in rRNA-binding [2].
+
+-Consensus pattern: [RK](2)-[AM]-[IVFYT]-[IV]-[RKT]-L-[STANEQK]-x(7)-[LIVMFT]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast mitochondrial YmL41.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] El Baradi T.T.A.L., Raue H.A., van de Regt C.H.F., Verbree E.C.,
+     Planta R.J.
+     EMBO J. 4:210-2107(1985).
+[ 2] Raue H.A., Otaka E., Suzuki K.
+     "Structural comparison of 26S rRNA-binding ribosomal protein L25 from
+     two different yeast strains and the equivalent proteins from three
+     eubacteria and two chloroplasts."
+     J. Mol. Evol. 28:418-426(1989).
+     PubMed=2501503
+[ 3] Fearon K., Mason T.L.
+     "Structure and function of MRP20 and MRP49, the nuclear genes for two
+     proteins of the 54 S subunit of the yeast mitochondrial ribosome."
+     J. Biol. Chem. 267:5162-5170(1992).
+     PubMed=1544898
+[ 4] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

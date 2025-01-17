@@ -1,0 +1,48 @@
+************************
+* ELO family signature *
+************************
+
+The ELO  family  consist  of eukaryotic integral membrane proteins involved in
+fatty acid elongation. This family consist of:
+
+ - Mammalian  proteins  ELOVL1  to  ELOVL4  [1]. These proteins all seem to be
+   involved in the synthesis of very long chain fatty acids.
+ - Yeast ELO1, ELO2 and ELO3 [2]. They seem to be components of membrane-bound
+   fatty acid elongation systems.
+ - Caenorhabditis elegans hypothetical protein C40H1.4.
+ - Caenorhabditis elegans hypothetical protein D2024.3.
+
+The proteins have from 271 to 435 amino acid residues. Structurally, they seem
+to be  formed  of  three  sections: a N-terminal region with two transmembrane
+domains, a central hydrophilic loop and a C-terminal region that contains from
+one to  three  transmembrane  domains.  As  a  signature pattern we selected a
+conserved region that contains three histidines. This region is located in the
+hydrophilic loop.
+
+-Consensus pattern: [LIV]-x-F-[LIV]-H-[VYWT]-[FY]-H-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / Pattern and text revised.
+
+[ 1] Tvrdik P., Westerberg R., Silve S., Asadi A., Jakobsson A., Cannon B.,
+     Loison G., Jacobsson A.
+     "Role of a new mammalian gene family in the biosynthesis of very long
+     chain fatty acids and sphingolipids."
+     J. Cell Biol. 149:707-718(2000).
+     PubMed=10791983
+[ 2] Oh C.-S., Toke D.A., Mandala S., Martin C.E.
+     "ELO2 and ELO3, homologues of the Saccharomyces cerevisiae ELO1 gene,
+     function in fatty acid elongation and are required for sphingolipid
+     formation."
+     J. Biol. Chem. 272:17376-17384(1997).
+     PubMed=9211877
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

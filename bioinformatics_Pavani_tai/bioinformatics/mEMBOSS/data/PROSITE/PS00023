@@ -1,0 +1,127 @@
+*********************************************************************
+* Fibronectin type-II collagen-binding domain signature and profile *
+*********************************************************************
+
+Fibronectin is a plasma protein that binds cell surfaces and various compounds
+including  collagen,  fibrin,  heparin,  DNA, and actin. The major part of the
+sequence  of fibronectin consists of the repetition of three types of domains,
+which  are  called  type  I,  II,  and  III  [1].  Type  II  domain  (FN2)  is
+approximately  40 residues long, contains four conserved cysteines involved in
+disulfide bonds and is part of the collagen-binding region of fibronectin [2].
+In  fibronectin  the  minimal collagen binding region is formed by one FN1 and
+two  FN2 domains. This suggests that the collagen-binding sites spans multiple
+modules.
+
+A schematic representation of  the position  of the invariant residues and the
+topology of the disulfide bonds in FN2 domain is shown below.
+
+                        +----------------------+
+                        |                      |
+        xxCxxPFx#xxxxxxxCxxxxxxxxWCxxxxx#xxx#x#Cxx
+          |                       |
+          +-----------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': large hydrophobic residue.
+
+The  3D-structure of  the FN2 domain has been determined (see <PDB:2FN2>) [3].
+The  structure  consists  of  two  double-stranded  anti-parallel beta-sheets,
+oriented  approximately  perpendicular to each other, and two irregular loops,
+one  separating  the  two beta-sheets and the other between the two strands of
+the  second  beta-sheet.  The  minimal  collagen-binding  region (FN1-FN2-FN2)
+adopts a hairpin structure where the conserved aromatic residues of FN2 form a
+hydrophobic  pocket  which  is thought to provide a binding site for non polar
+residues in collagen [4].
+
+Some proteins that contain an FN2 domain are listed below:
+
+ - Blood coagulation factor XII (Hageman factor) (1 copy).
+ - Bovine seminal plasma proteins PDC-109 (BSP-A1/A2) and BSP-A3 [5] (twice).
+ - Cation-independent mannose-6-phosphate receptor (which is also the insulin-
+   like growth factor II receptor) [6] (1 copy).
+ - Mannose receptor of macrophages [7] (1 copy).
+ - 180 Kd secretory phospholipase A2 receptor (1 copy) [8].
+ - DEC-205 receptor (1 copy) [9].
+   72  Kd and 92 Kd type IV collagenases (EC 3.4.24.24) (MMP-2 and MMP-9) [10]
+   (3  copies).  Both  metalloproteinases  are strongly expressed in malignant
+   tumors  and  have  been  attributed  to  metastasize. They  both  degradate
+   collagen-IV  thus  facilitating  penetration  of  the basement membranes by
+   tumor cells.
+ - Hepatocyte growth factor activator [11] (1 copy).
+
+Our  consensus  pattern  spans  the  domain  between  the  first  and the last
+conserved cysteine. We also developed a profile that covers the whole domain.
+
+-Consensus pattern: C-x(2)-P-F-x-[FYWIV]-x(7)-C-x(8,10)-W-C-x(4)-[DNSR]-[FYW]-
+                    x(3,5)-[FYW]-x-[FYWI]-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2005 / Text revised; profile added.
+
+[ 1] Skorstengaard K., Jensen M.S., Sahl P., Petersen T.E., Magnusson S.
+     "Complete primary structure of bovine plasma fibronectin."
+     Eur. J. Biochem. 161:441-453(1986).
+     PubMed=3780752
+[ 2] Forastieri H., Ingham K.C.
+     "Interaction of gelatin with a fluorescein-labeled 42-kDa chymotryptic
+     fragment of fibronectin."
+     J. Biol. Chem. 260:10546-10550(1985).
+     PubMed=3928622
+[ 3] Pickford A.R., Potts J.R., Bright J.R., Phan I., Campbell I.D.
+     "Solution structure of a type 2 module from fibronectin: implications
+     for the structure and function of the gelatin-binding domain."
+     Structure 5:359-370(1997).
+     PubMed=9083105
+[ 4] Pickford A.R., Smith S.P., Staunton D., Boyd J., Campbell I.D.
+     "The hairpin structure of the (6)F1(1)F2(2)F2 fragment from human
+     fibronectin enhances gelatin binding."
+     EMBO J. 20:1519-1529(2001).
+     PubMed=11285216; DOI=10.1093/emboj/20.7.1519
+[ 5] Seidah N.G., Manjunath P., Rochemont J., Sairam M.R., Chretien M.
+     "Complete amino acid sequence of BSP-A3 from bovine seminal plasma.
+     Homology to PDC-109 and to the collagen-binding domain of
+     fibronectin."
+     Biochem. J. 243:195-203(1987).
+     PubMed=3606570
+[ 6] Kornfeld S.
+     "Structure and function of the mannose 6-phosphate/insulinlike growth
+     factor II receptors."
+     Annu. Rev. Biochem. 61:307-330(1992).
+     PubMed=1323236; DOI=10.1146/annurev.bi.61.070192.001515
+[ 7] Taylor M.E., Conary J.T., Lennartz M.R., Stahl P.D., Drickamer K.
+     "Primary structure of the mannose receptor contains multiple motifs
+     resembling carbohydrate-recognition domains."
+     J. Biol. Chem. 265:12156-12162(1990).
+     PubMed=2373685
+[ 8] Lambeau G., Ancian P., Barhanin J., Lazdunski M.
+     "Cloning and expression of a membrane receptor for secretory
+     phospholipases A2."
+     J. Biol. Chem. 269:1575-1578(1994).
+     PubMed=8294398
+[ 9] Jiang W., Swiggard W.J., Heufler C., Peng M., Mirza A., Steinman R.M.,
+     Nussenzweig M.C.
+     "The receptor DEC-205 expressed by dendritic cells and thymic
+     epithelial cells is involved in antigen processing."
+     Nature 375:151-155(1995).
+     PubMed=7753172; DOI=10.1038/375151a0
+[10] Collier I.E., Wilhelm S.M., Eisen A.Z., Marmer B.L., Grant G.A.,
+     Seltzer J.L., Kronberger A., He C., Bauer E.A., Goldberg G.I.
+     J. Biol. Chem. 263:6579-6587(1988).
+[11] Miyazawa K., Shimomura T., Kitamura A., Kondo J., Morimoto Y.,
+     Kitamura N.
+     J. Biol. Chem. 268:10024-10028(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

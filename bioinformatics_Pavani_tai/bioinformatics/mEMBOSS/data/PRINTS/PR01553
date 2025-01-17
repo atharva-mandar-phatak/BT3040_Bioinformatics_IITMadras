@@ -1,0 +1,35 @@
+TYPE4SSCAGA 
+Helicobacter pylori is a Gram-negative flagellated pathogen that causes   
+gastric and peptic ulcers. In its chronic state, it can also contribute to 
+gastric cancer development, through elicitation of a huge host inflammatory 
+response [1]. It has been suggested that activated leukocytes may be 
+responsible for tissue damage, and that phagocytes contribute to 
+carcinogenesis. The Helicobacter genome contains several virulence factors;
+clinical strains may be divided roughly into two types, depending on 
+whether they contain the functional cag pathogenicity island. Type I strains 
+can cause malignant disease, as they possess the active cag island and 
+its associated exotoxin, CagA.
+
+The bacterium makes use of a type IV secretion system similar in mechanism 
+to the conjugation machine of Agrobacterium tumefaciens [2]. These machines
+secrete three different types of substrate: DNA conjugation intermediates,
+as in A.tumefaciens; multimeric proteins, such as the pertussis toxin of
+Bordetella pertussis; and the CagA protein of H.pylori [3]. CagA has been
+linked to the more severe forms of gastric ulcers and duodenal cancers [3].
+Both CagA and the secretion system apparatus are encoded in the large
+pathogenicity island, termed cag [3], possessed by the malignant disease-
+causing type I bacterial strains.
+
+The CagA exotoxin is encoded in the last portion of the island, and
+mutants lacking the gene fail to induce IL-8 secretion, and to activate 
+NF-kappa-B in vivo [4]. CagA is believed to have a similar function to 
+EPEC type III secreted effectors; both are tyrosine-phosphorylated once 
+translocated into the target cell [4], and allow engulfment by the host via
+rearrangement of the actin cytoskeleton.
+
+TYPE4SSCAGA is an 11-element fingerprint that provides a signature for the
+type IV secretion system CagA exotoxin family. The fingerprint was derived
+from an initial alignment of 8 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length (~1266 
+amino acids). A single iteration on SPTR39_14f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

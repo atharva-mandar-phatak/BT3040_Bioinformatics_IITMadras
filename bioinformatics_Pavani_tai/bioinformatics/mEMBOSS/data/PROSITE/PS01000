@@ -1,0 +1,64 @@
+***********************************************************
+* Succinate dehydrogenase cytochrome b subunit signatures *
+***********************************************************
+
+Succinate dehydrogenase   (SDH)  is  a  membrane-bound  complex  of  two  main
+components: a   membrane-extrinsic   component   composed   of  an FAD-binding
+flavoprotein and an iron-sulfur protein, and a hydrophobic  component composed
+of a cytochrome B and a membrane anchor protein. The cytochrome b component is
+a mono heme transmembrane protein [1,2,3] belonging to a family that groups:
+
+ - Cytochrome b-556 from bacterial SDH (gene sdhC).
+ - Cytochrome b560 from the mammalian mitochondrial SDH complex.
+ - Cytochrome b560 subunit encoded in the mitochondrial genome of some algae
+   and in the plant Marchantia polymorpha.
+ - Cytochrome b from yeast mitochondrial SDH complex (gene SDH3 or CYB3).
+ - Protein cyt-1 from Caenorhabditis.
+
+These cytochromes  are  proteins  of  about  130  residues that comprise three
+transmembrane regions.  There  are  two  conserved  histidines  which  may  be
+involved in  binding  the heme group. We developed two signature patterns that
+include these histidine residues.
+
+-Consensus pattern: R-P-[LIVMT]-x(3)-[LIVM]-x(6)-[LIVMWPK]-x(4)-S-x(2)-H-R-x-
+                    [ST]
+                    [H may be a heme ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: H-x(3)-[GA]-[LIVMT]-R-[HF]-[LIVMF]-x-[FYWM]-D-x-[GVA]
+                    [H may be a heme ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The di-heme cytochrome b-558 from Bacillus subtilis  SDH complex is not
+ a member of this family.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Yu L., Wei Y.-Y., Usui S., Yu C.-A.
+     "Cytochrome b560 (QPs1) of mitochondrial succinate-ubiquinone
+     reductase. Immunochemistry, cloning, and nucleotide sequencing."
+     J. Biol. Chem. 267:24508-24515(1992).
+     PubMed=1447196
+[ 2] Abraham P.R., Mulder A., van 't Riet J., Raue H.A.
+     "Characterization of the Saccharomyces cerevisiae nuclear gene CYB3
+     encoding a cytochrome b polypeptide of respiratory complex II."
+     Mol. Gen. Genet. 242:708-716(1994).
+     PubMed=8152421
+[ 3] Leblanc C., Boyen C., Richard O., Bonnard G., Grienenberger J.M.,
+     Kloareg B.
+     "Complete sequence of the mitochondrial DNA of the rhodophyte Chondrus
+     crispus (Gigartinales). Gene content and genome organization."
+     J. Mol. Biol. 250:484-495(1995).
+     PubMed=7616569
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

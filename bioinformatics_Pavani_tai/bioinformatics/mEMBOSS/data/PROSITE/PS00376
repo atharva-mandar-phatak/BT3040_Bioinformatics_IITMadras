@@ -1,0 +1,44 @@
+********************************************
+* S-adenosylmethionine synthase signatures *
+********************************************
+
+S-adenosylmethionine synthase  (EC  2.5.1.6)  is the enzyme that catalyzes the
+formation of S-adenosylmethionine (AdoMet) from methionine and ATP [1]. AdoMet
+is an important  methyl donor for transmethylation and is also the propylamino
+donor in polyamine biosynthesis.
+
+In bacteria  there  is  a single isoform of AdoMet synthase (gene metK), there
+are two  in budding yeast (genes SAM1 and SAM2) and in mammals while in plants
+there is generally a multigene family.
+
+The sequence  of  AdoMet  synthase is highly conserved throughout isozymes and
+species. We selected two signature patterns for this type of enzyme; the first
+is a  hexapeptide  which seems to be involved in ATP-binding; the second is an
+almost perfectly conserved glycine-rich nonapeptide.
+
+-Consensus pattern: [GN]-[AS]-G-D-Q-G-x(3)-G-[FYHG]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for M.genitalium metK.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-[GA]-G-[ASC]-[FY]-S-x-K-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Horikawa S., Sasuga J., Shimizu K., Ozasa H., Tsukada K.
+     "Molecular cloning and nucleotide sequence of cDNA encoding the rat
+     kidney S-adenosylmethionine synthetase."
+     J. Biol. Chem. 265:13683-13686(1990).
+     PubMed=1696256
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,47 @@
+RNGMNOXGNASE
+Dioxygen can be incorporated directly into organic compounds in reactions 
+catalysed by enzymes termed oxygenases or hydroxylases: oxygenases that
+catalyse the incorporation of both atoms of dioxygen into substrates are
+known as dioxygenases; those that catalyse the incorporation of only one
+atom of dioxygen are termed monooxygenases, or mixed-function oxygenases.
+The second atom of dioxygen is reduced to H2O either by the substrates
+themselves or by a co-substrate reductant [1].
+
+One of the first steps in aerobic degradation of aromatic compounds
+involves introduction of one or two hydroxyl groups onto the aromatic ring.
+Incorporation of single hydroxyl groups (monohydroxylation) is generally
+catalysed by monooxygenases. In bacteria, the majority of monooxygenases
+catalysing monohydroxylation of aromatic rings of substituted phenols are
+single-component flavoenzymes, although multi-component monooxygenases,
+such as phenol and toluene-4 monooxygenase, have also been found.
+
+The structure and reaction mechanism of a bacterial single-component
+aromatic-ring hydroxylase, para-hydroxybenzoate hydroxylase (PHBH), have
+been characterised [2]. Monooxygenases of this class can be divided into
+several subgroups. Local sequence similarities between the group of PHBH
+and salicylate hydroxylase and that of dichlorophenol and phenol
+hydroxylases are confined to 2 regions [1]. In the first of these, at the
+N-terminus, a conserved ADP-binding motif is found associated with a beta-
+alpha-beta fold [3]: in PHBH, this region binds the ADP portion of FAD; in
+dichlorophenol and phenol hydroxylases, however, it may be involved in
+binding NADPH rather than FAD, since highly-conserved Asp or Glu residues
+associated with NADH or FAD binding are absent. The second region of
+similarity (residues 276-329 in PHBH), may be involved in FAD binding as,
+in the 3D structure of PHBH, this region contains an FAD-binding beta-
+strand. With the exception of these 2 regions, the sequences of
+flavoprotein monooxygenases vary significantly.
+
+RNGMNOXGNASE is a 6-element fingerprint that provides a signature for the
+bacterial aromatic-ring hydroxylases (flavoprotein monooxygenases). The 
+fingerprint was derived from an initial alignment of 14 sequences: motif 1
+corresponds to the ADP binding site; motifs 3-6 were drawn from the region
+associated with flavin binding in PHBH (residues 278-344). Two iterations 
+on OWL26.0 were required to reach convergence, at which point a true set 
+comprising 19 sequences was identified. Several partial matches were also 
+found: VISC_ECOLI, YBJ8_YEAST and A55767 match the first 4 motifs; 
+BCH3_RHOCA matches the first 3 motifs; UBIH_ECOLI matches motifs 1, 2 and 4;
+and most of the sequences matching only 2 motifs (one of which is motif 1)
+are FAD-containing oxidoreductases.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 49
+partial matches.

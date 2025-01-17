@@ -1,0 +1,60 @@
+***********************
+* DhaK domain profile *
+***********************
+
+Dihydroxyacetone (Dha) kinases are a family of sequence-conserved enzymes that
+phosphorylate dihydroxyacetone,  glyceraldehyde  and other short-chain ketoses
+and aldoses.  They  can  be divided into two groups according to the source of
+high-energy phosphate  that  they  utilize,  either ATP or phosphoenolpyruvate
+(PEP). The  ATP-dependent  forms  are  the two-domain Dha kinases (DAK), which
+occur in animals, plants and eubacteria. They consist of a Dha binding (K) and
+an ATP  binding  (L)  (see  <PDOC51480>) domain. The PEP-dependent forms occur
+only in eubacteria and a few archaebacteria and consist of three subunits. Two
+subunits, DhaK  and DhaL, are homologous to the K and L domains. Intriguingly,
+the ADP  moiety  is not exchanged for ATP but remains permanently bound to the
+DhaL subunit  where it is rephosphorylated in situ by the third subunit, DhaM,
+which is  homologous  to  the  IIA  domain  of  the mannose transporter of the
+bacterial PEP:sugar phosphotransferase system (PTS) (see <PDOC00528>) [1,2].
+
+The DhaK  domain  consists  of  two  alpha/beta-folds,  each containing a six-
+stranded  mixed beta-sheet  surrounded  by six and three helices, respectively
+(see <PDB:1UN8>). Dha is bound in hemiaminal linkage to the imidazole nitrogen
+of an invariant histidine [3,4].
+
+The profile we developed covers the entire DhaK domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2010 / First entry.
+
+[ 1] Oberholzer A.E., Schneider P., Baumann U., Erni B.
+     "Crystal structure of the nucleotide-binding subunit DhaL of the
+     Escherichia coli dihydroxyacetone kinase."
+     J. Mol. Biol. 359:539-545(2006).
+     PubMed=16647083; DOI=10.1016/j.jmb.2006.03.057
+[ 2] Zurbriggen A., Jeckelmann J.-M., Christen S., Bieniossek C.,
+     Baumann U., Erni B.
+     "X-ray structures of the three Lactococcus lactis dihydroxyacetone
+     kinase subunits and of a transient intersubunit complex."
+     J. Biol. Chem. 283:35789-35796(2008).
+     PubMed=18957416; DOI=10.1074/jbc.M804893200
+[ 3] Siebold C., Arnold I., Garcia-Alles L.F., Baumann U., Erni B.
+     "Crystal structure of the Citrobacter freundii dihydroxyacetone kinase
+     reveals an eight-stranded alpha-helical barrel ATP-binding domain."
+     J. Biol. Chem. 278:48236-48244(2003).
+     PubMed=12966101; DOI=10.1074/jbc.M305942200
+[ 4] Siebold C., Garcia-Alles L.F., Erni B., Baumann U.
+     "A mechanism of covalent substrate binding in the x-ray structure of
+     subunit K of the Escherichia coli dihydroxyacetone kinase."
+     Proc. Natl. Acad. Sci. U.S.A. 100:8188-8192(2003).
+     PubMed=12813127; DOI=10.1073/pnas.0932787100
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,25 @@
+CELLSNTHASEB
+An operon encoding 4 proteins required for bacterial cellulose biosynthesis
+(bcs) in Acetobacter xylinum has been isolated via genetic complementation
+with strains lacking cellulose synthase activity [1]. Nucleotide sequence
+analysis showed the cellulose synthase operon to consist of 4 genes, 
+designated bcsA, bcsB, bcsC and bcsD [1], all of which are required for 
+maximal bacterial cellulose synthesis in A.xylinum [1]. 
+
+The calculated molecular mass of the protein encoded by bcsB is 85.3kDa [1].
+BcsB encodes the catalytic subunit of cellulose synthase. The protein
+polymerises uridine 5'-diphosphate glucose to cellulose:
+UDP-glucose + (1,4-beta-D-glucosyl)(N) = UDP + (1,4-beta-D-glucosyl)(N+1).
+The enzyme is specifically activated by the nucleotide cyclic diguanylic 
+acid. Sequence analysis suggests that BcsB contains several transmembrane 
+(TM) domains, and shares a high degree of similarity with E.coli YhjN.
+
+CELLSNTHASEB is an 11-element fingerprint that provides a signature for 
+cellulose synthase subunit B. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved, largely
+hydrophobic, regions spanning virtually the full alignment length - motif 9
+includes putative TM domain 1; and motif 10 encodes TM domain 2. Two
+iterations on SPTR39_14f were required to reach convergence, at which point
+a true set comprising 7 sequences was identified. A single partial match was
+also found, YHJN_ECOLI, an E.coli hypothetical 86.0kDa protein that matches
+motifs 1, 4, 6 and 9.

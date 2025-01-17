@@ -1,0 +1,39 @@
+***************************
+* Aspartokinase signature *
+***************************
+
+Aspartokinase (EC   2.7.2.4)   (AK)   [1]  catalyzes  the  phosphorylation  of
+aspartate.  The product of this  reaction can then be used in the biosynthesis
+of lysine or in the pathway leading to  homoserine, which participates in  the
+biosynthesis of threonine, isoleucine and methionine.
+
+In Escherichia coli, there are three different isozymes  which differ in their
+sensitivity to  repression and inhibition by Lys, Met and Thr. AK1 (gene thrA)
+and AK2  (gene  metL)  are  bifunctional  enzymes  which both consist of an N-
+terminal AK  domain and a  C-terminal  homoserine dehydrogenase domain. AK1 is
+involved in  threonine  biosynthesis and AK2, in that of methionine. The third
+isozyme, AK3  (gene lysC), is monofunctional and involved in lysine synthesis.
+In yeast, there is a single isozyme of AK (gene HOM3).
+
+As a  signature  pattern for AK, we selected a conserved region located in the
+N-terminal extremity.
+
+-Consensus pattern: [LIVM]-x-K-[FY]-G-G-[ST]-[SC]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Rafalski J.A., Falco S.C.
+     "Structure of the yeast HOM3 gene which encodes aspartokinase."
+     J. Biol. Chem. 263:2146-2151(1988).
+     PubMed=2892836
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

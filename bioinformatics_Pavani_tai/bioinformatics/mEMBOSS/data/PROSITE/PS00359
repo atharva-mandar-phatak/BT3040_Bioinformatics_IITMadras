@@ -1,0 +1,53 @@
+***********************************
+* Ribosomal protein L11 signature *
+***********************************
+
+Ribosomal protein L11 is one of the proteins from the large ribosomal subunit.
+In Escherichia coli, L11 is known to bind directly to the 23S rRNA. It belongs
+to a family of ribosomal proteins which, on the basis of sequence similarities
+[1,2], groups:
+
+ - Eubacterial L11.
+ - Plant chloroplast L11 (nuclear-encoded).
+ - Read algal chloroplast L11.
+ - Cyanelle L11.
+ - Archaebacterial L11.
+ - Mammalian L12.
+ - Plants L12.
+ - Yeast L12 (YL15).
+
+L11 is a protein of 140 to 165 amino-acid residues. As a signature pattern, we
+have selected  a  conserved  region located in the C-terminal section of these
+proteins. In  Escherichia  coli, the C-terminal half of L11 has been shown [3]
+to be  in  an  extended  and  loosely  folded conformation and is likely to be
+buried within the ribosomal structure.
+
+-Consensus pattern: [RKN]-x-[LIVM]-x-G-[ST]-x(2)-[SNQ]-[LIVM]-G-x-{M}-[LIVM]-
+                    x(0,1)-[DENG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Pucciarelli M.G., Remacha M., Vilella M.D., Ballesta J.P.G.
+     "The 26S rRNA binding ribosomal protein equivalent to bacterial
+     protein L11 is encoded by unspliced duplicated genes in Saccharomyces
+     cerevisiae."
+     Nucleic Acids Res. 18:4409-4416(1990).
+     PubMed=2167467
+[ 2] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+[ 3] Choli T.
+     "Structural properties of ribosomal protein L11 from Escherichia
+     coli."
+     Biochem. Int. 19:1323-1338(1989).
+     PubMed=2483975
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

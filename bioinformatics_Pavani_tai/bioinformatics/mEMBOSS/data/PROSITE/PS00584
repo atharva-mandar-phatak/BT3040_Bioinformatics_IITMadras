@@ -1,0 +1,77 @@
+**************************************************
+* pfkB family of carbohydrate kinases signatures *
+**************************************************
+
+It has  been  shown [1,2,3] that the following carbohydrate and purine kinases
+are evolutionary  related  and  can  be grouped into a single family, which is
+known [1] as the 'pfkB family':
+
+ - Fructokinase (EC 2.7.1.4) (gene scrK).
+ - 6-phosphofructokinase isozyme 2 (EC 2.7.1.11) (phosphofructokinase-2) (gene
+   pfkB). pfkB is a minor phosphofructokinase isozyme in Escherichia coli  and
+   is not  evolutionary  related  to  the  major  isozyme (gene pfkA).  Plants
+   6-phosphofructokinase also belong to this family.
+ - Ribokinase (EC 2.7.1.15) (gene rbsK).
+ - Adenosine kinase (EC 2.7.1.20) (gene ADK).
+ - 2-dehydro-3-deoxygluconokinase (EC 2.7.1.45) (gene: kdgK).
+ - 1-phosphofructokinase   (EC 2.7.1.56)  (fructose 1-phosphate kinase)  (gene
+   fruK).
+ - Inosine-guanosine kinase (EC 2.7.1.73) (gene gsk).
+ - Tagatose-6-phosphate  kinase  (EC  2.7.1.144)  (phosphotagatokinase)  (gene
+   lacC).
+ - Escherichia coli hypothetical protein yeiC.
+ - Escherichia coli hypothetical protein yeiI.
+ - Escherichia coli hypothetical protein yhfQ.
+ - Escherichia coli hypothetical protein yihV.
+ - Bacillus subtilis hypothetical protein yxdC.
+ - Yeast hypothetical protein YJR105w.
+
+All the above kinases are proteins of from 280 to 430 amino acid residues that
+share a few region  of sequence similarity.   We  have selected  two of  these
+regions as signature patterns.  The  first  pattern  is based on a region rich
+in glycine which is located in the N-terminal  section of these enzymes; while
+the second pattern is based on a conserved region in the C-terminal section.
+
+-Consensus pattern: [AG]-G-x(0,1)-[GAP]-x-N-{AGLS}-[STA]-x(2)-{A}-x-{G}-
+                    {GNKA}-[GS]-x(9)-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ADK,  gsk, kdgK, yeast ribokinase and YJR105w, B.subtilis yxdC and E.coli
+ yihV.
+-Other sequence(s) detected in Swiss-Prot: 33.
+
+-Consensus pattern: [DNSK]-[PSTV]-x-[SAG](2)-[GD]-D-x(3)-[SAGV]-[AG]-
+                    [LIVMFYA]-[LIVMSTAP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Note: Some bacterial fructokinases belong to the ROK family <PDOC00866>.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wu L.-F., Reizer A., Reizer J., Cai B., Tomich J.M., Saier M.H. Jr.
+     "Nucleotide sequence of the Rhodobacter capsulatus fruK gene, which
+     encodes fructose-1-phosphate kinase: evidence for a kinase superfamily
+     including both phosphofructokinases of Escherichia coli."
+     J. Bacteriol. 173:3117-3127(1991).
+     PubMed=1850730
+[ 2] Orchard L.M.D., Kornberg H.L.
+     "Sequence similarities between the gene specifying
+     1-phosphofructokinase (fruK), genes specifying other kinases in
+     Escherichia coli K12, and lacC of Staphylococcus aureus."
+     Proc. R. Soc. Lond., B, Biol. Sci. 242:87-90(1990).
+     PubMed=1981619
+[ 3] Blatch G.L., Scholle R.R., Woods D.R.
+     "Nucleotide sequence and analysis of the Vibrio alginolyticus sucrose
+     uptake-encoding region."
+     Gene 95:17-23(1990).
+     PubMed=2174811
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

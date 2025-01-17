@@ -1,0 +1,21 @@
+COPPERFIST
+Copper levels are maintained in yeast by the copper-binding protein metallo-
+thionein and a trans-activating regulatory protein that activates the
+transcription of the metallothionein gene in response to copper [1,2]. This
+regulatory protein binds specifically to the metallothionein promoter in
+the presence, but not in the absence, of copper [1]. Deletion experiments 
+have shown that the DNA-binding and metallo-regulatory functions of the 
+factor is confined to the conserved N-terminal region, which forms a novel 
+copper cluster, known as a copper fist [1,2]. This domain, which is similar
+in structure to metallothionein itself, undergoes a large conformational 
+change on copper-binding that allows DNA-binding [1].
+
+COPPERFIST is a 3-element fingerprint the provides a signature for the 
+copper-fist domain of a family of fungal transcription factors. The
+fingerprint was derived from an initial alignment of 5 sequences: the
+motifs were drawn from the full length of the domain, and include the 
+region encoded by PROSITE pattern COPPER_FIST (PS01119). Two iterations
+on OWL28.3 were required to reach convergence, at which point a true set
+comprising 6 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

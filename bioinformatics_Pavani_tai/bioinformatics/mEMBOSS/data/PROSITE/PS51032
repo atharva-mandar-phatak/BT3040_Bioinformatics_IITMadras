@@ -1,0 +1,98 @@
+**************************
+* AP2/ERF domain profile *
+**************************
+
+Ethylene  is an endogenous plant hormone that influences many aspects of plant
+growth  and  development.  Some  defense  related  genes  that  are induced by
+ethylene were found to contain a cis-regulatory element known as the Ethylene-
+Responsive  Element  (ERE)  [1].  Sequence  analysis  on  various  ERE regions
+identified  a  short motif rich in G/C nucleotides, the GCC-box, essential for
+the  response  to  ethylene.  This  short  motif  is recognized by a family of
+transcrition factors, the ERE binding factors (ERF) [2,3].
+
+ERF  proteins contain an about 60 amino acid region which is also found in the
+APETALA2  (AP2)  protein, the AP2/ERF domain [4]. It has been shown in various
+proteins  that  the AP2/ERF domain is necessary and sufficient to bind GCC-box
+[5].
+
+The  structure  of  the AP2/ERF domain in complex with the target DNA has been
+solved  (see <PDB:1GCC>)  [6].  The  structure  resemble that of bacteriophage
+integrases  and  the  methyl-CpG-binding  domain  (MBD)  (see  <PDOC50982>): a
+three-stranded   beta-sheet  and  an  alpha  helice  almost  parallel  to  the
+beta-sheet.  It  contacts  DNA  via  Arg and Trp residues located in the beta-
+sheet.
+
+Some proteins known to contain an AP2/ERF domain are listed below:
+
+ - Arabidopsis thaliana ERF1 to 6.
+ - Tobacco  ethylene-responsive  element-binding proteins (EREBPs), homologues
+   of ERFs proteins.
+ - Arabidopsis  thaliana  AP2 protein. It regulates meristeme identity, floral
+   organ specification and seed coat development.
+ - Arabidopsis  thaliana C-repeat/dehydration-responsive element (DRE) binding
+   factor 1  (CBF1 or DREB1) and DREB2. They bind a GCC-box-like element found
+   in  dehydratation  responsive  element.  Binding  to  this element mediates
+   cold-inducible transcription.
+ - Arabidopsis  thaliana  and  maize  abscisic acid (ABA)-insensitive 4 (ABI4)
+   proteins.  They  bind  to  a  GCC-box-like  element found in ABA-responsive
+   genes.
+ - Octadecanoid-derivative responsive catharenthus AP2-domain (ORCA2) protein.
+   It  binds a GCC-box-like element in the jasmonate responsive element of Str
+   promoter.
+ - Tomato  Pto-interacting  proteins  4 to 6 (Pti4 to Pti6). Pti5 and 6 bind a
+   GCC-box-like  element in regulatory regions of various pathogenesis-related
+   (PR) genes.
+ - Trichodesmium  erythraeum,  Tetrahymena  thermophila,  Enterobacteria phage
+   RB49  and  bacteriophage  Felix 01 HNH endonucleases. HNH endonucleases are
+   homing endonucleases that move extensively via lateral gene transfer [7].
+
+The profile we developed covers the whole AP2/ERF domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2004 / First entry.
+
+[ 1] Broglie K.E., Biddle P., Cressman R., Broglie R.
+     "Functional analysis of DNA sequences responsible for ethylene
+     regulation of a bean chitinase gene in transgenic tobacco."
+     Plant Cell 1:599-607(1989).
+     PubMed=2535512; DOI=10.1105/tpc.1.6.599
+[ 2] Ohme-Takagi M., Shinshi H.
+     Plant Cell 7:173-182(1995).
+[ 3] Fujimoto S.Y., Ohta M., Usui A., Shinshi H., Ohme-Takagi M.
+     "Arabidopsis ethylene-responsive element binding factors act as
+     transcriptional activators or repressors of GCC box-mediated gene
+     expression."
+     Plant Cell 12:393-404(2000).
+     PubMed=10715325
+[ 4] Weigel D.
+     "The APETALA2 domain is related to a novel type of DNA binding
+     domain."
+     Plant Cell 7:388-389(1995).
+     PubMed=7773013; DOI=10.1105/tpc.7.4.388
+[ 5] Hao D., Ohme-Takagi M., Sarai A.
+     "Unique mode of GCC box recognition by the DNA-binding domain of
+     ethylene-responsive element-binding factor (ERF domain) in plant."
+     J. Biol. Chem. 273:26857-26861(1998).
+     PubMed=9756931
+[ 6] Allen M.D., Yamasaki K., Ohme-Takagi M., Tateno M., Suzuki M.
+     "A novel mode of DNA recognition by a beta-sheet revealed by the
+     solution structure of the GCC-box binding domain in complex with
+     DNA."
+     EMBO J. 17:5484-5496(1998).
+     PubMed=9736626; DOI=10.1093/emboj/17.18.5484
+[ 7] Magnani E., Sjolander K., Hake S.
+     "From endonucleases to transcription factors: evolution of the AP2 DNA
+     binding domain in plants."
+     Plant Cell 16:2265-2277(2004).
+     PubMed=15319480; DOI=10.1105/tpc.104.023135
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

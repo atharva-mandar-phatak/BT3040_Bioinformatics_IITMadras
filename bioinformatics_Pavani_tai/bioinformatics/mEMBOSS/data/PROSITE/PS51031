@@ -1,0 +1,70 @@
+***********************
+* BESS domain profile *
+***********************
+
+The BESS domain is a ~40 amino acid module that has been named after the three
+proteins that  originally  defined  the  domain:  Boundary  element associated
+factor 32,  Su(var)3-7,  and  Stonewall.  The BESS domain directs a variety of
+protein-protein interactions, including interactions with itself, with Dorsal,
+and with  a  TBP-associated factor. It is found in a single copy in drosophila
+proteins and  is  often  associated  with  the  MADF  domain (see <PDOC51029>)
+[1,2,3].
+
+It has  been  suggested  that the BESS domain might be related to the myb/SANT
+HTH domain.  Consistent with the possibility of a relationship to the myb/SANT
+domain, the  BESS domain secondary structure prediction suggests the existence
+of three alpha-helices [1,2,3].
+
+Some proteins known to contain a BESS domain are listed below:
+
+ - Drosophila  Boundary element associated factor 32 (BEAF-32).
+ - Drosophila  Suppressor  of  variegation  protein 3-7 (Su(var)3-7). It could
+   play a role in chromosome condensation.
+ - Drosophila  Ravus.  It  is  homologous to the C-terminal part of Su(var)3-7
+   [4].
+ - Drosophila  Stonewall  (Stwl), a putative transcription factor required for
+   maintenance of   female   germline   stem   cells   as   well   as   oocyte
+   differentiation.
+ - Drosophila  Adf-1,  a transcription factor first identified on the basis of
+   its interaction  with the alcohol dehydrogenase promoter but that binds the
+   promoters of a diverse group of genes [1].
+ - Drosophila  Dorsal-interacting  protein  3  (Dip3). It functions both as an
+   activator to  bind  DNA  in  a  sequence  specific manner and a coactivator
+   to stimulate synergistic activation by Dorsal and Twist [2].
+
+The profile we developed covers the entire BESS domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2004 / First entry.
+
+[ 1] England B.P., Admon A., Tjian R.
+     "Cloning of Drosophila transcription factor Adf-1 reveals homology to
+     Myb oncoproteins."
+     Proc. Natl. Acad. Sci. U.S.A. 89:683-687(1992).
+     PubMed=1731341
+[ 2] Cutler G., Perry K.M., Tjian R.
+     "Adf-1 is a nonmodular transcription factor that contains a
+     TAF-binding Myb-like motif."
+     Mol. Cell. Biol. 18:2252-2261(1998).
+     PubMed=9528796
+[ 3] Bhaskar V., Courey A.J.
+     "The MADF-BESS domain factor Dip3 potentiates synergistic activation
+     by Dorsal and Twist."
+     Gene 299:173-184(2002).
+     PubMed=12459265
+[ 4] Delattre M., Spierer A., Hulo N., Spierer P.
+     "A new gene in Drosophila melanogaster, Ravus, the phantom of the
+     modifier of position-effect variegation Su(var)3-7."
+     Int. J. Dev. Biol. 46:167-171(2002).
+     PubMed=11902679
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

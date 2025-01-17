@@ -1,0 +1,60 @@
+**********************
+* IBB domain profile *
+**********************
+
+Cytosolic proteins  bearing a classical nuclear localization signal (NLS) (see
+<PDOC00015>) enter  the  nucleus  bound to a heterodimer of importin-alpha and
+importin-beta (also   called   karyopherin-alpha  and  -beta).  Importin-alpha
+contains the NLS-binding site and importin-beta is responsible for the docking
+of the importin-substrate complex to the filaments of the nuclear pore complex
+(NPC) and  its  translocation through the pore. Importin-alpha consists of two
+functional domains,  a highly basic amino-terminal region of roughly 40 amino-
+acid residues  (the  IBB domain) responsible for importin-beta binding, and an
+NLS-binding domain  built of armadillo (ARM) repeats (see <PDOC50176>). Appart
+from the  classical  protein-import pathway, importin-beta is also involved in
+the nuclear  import  of spliceosomal small nuclear ribonucleoprotein particles
+(snRNPs), which  is  mediated by the 45K protein snurportin-1. Snurportin-1 is
+functionally analogous    to    importin-alpha,    as    it   recognizes   the
+trimethylguanosine (m3G)  cap  structure  of the small nuclear RNAs U1, U2, U4
+and U5,  and  binds  to  importin-beta  through  an  IBB-domain.  Snurportin-1
+contains an N-terminal IBB domain and a C-terminal m3G-cap-binding region with
+no structural similarity to the arm repeat domain of importin-alpha [1-3].
+
+The IBB domain is an L-shapped molecule with an N-terminal extended moiety and
+a C-terminal   helix   running   in  mutually  perpendicular  directions  (see
+<PDB:1QGK>). The  IBB  domain  is  intimately  bound  on  the inner surface of
+importin-beta that  contains many acidic residues and is thus complementary to
+the highly positively charged IBB domain [1,2].
+
+The profile we developed covers the entire IBB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2006 / First entry.
+
+[ 1] Kobe B.
+     "Autoinhibition by an internal nuclear localization signal revealed by
+     the crystal structure of mammalian importin alpha."
+     Nat. Struct. Biol. 6:388-397(1999).
+     PubMed=10201409; DOI=10.1038/7625
+[ 2] Cingolani G., Petosa C., Weis K., Mueller C.W.
+     "Structure of importin-beta bound to the IBB domain of
+     importin-alpha."
+     Nature 399:221-229(1999).
+     PubMed=10353244; DOI=10.1038/20367
+[ 3] Huber J., Cronshagen U., Kadokura M., Marshallsay C., Wada T.,
+     Sekine M., Luehrmann R.
+     "Snurportin1, an m3G-cap-specific nuclear import receptor with a novel
+     domain structure."
+     EMBO J. 17:4114-4126(1998).
+     PubMed=9670026; DOI=10.1093/emboj/17.14.4114
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

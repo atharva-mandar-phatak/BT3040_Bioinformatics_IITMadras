@@ -1,0 +1,30 @@
+ELICITIN
+Elicitins are a family of small, highly-conserved proteins secreted by
+phytopathogenic fungi belonging to the phytophthora species [1,2]. They are
+toxic proteins responsible for inducing a necrotic and systemic hyper-
+sensitive response in plants from the solanaceae and cruciferae families.
+Leaf necrosis provides immediate control of fungal invasion and induces
+systemic acquired resistance; both responses mediate basic protection
+against subsequent pathogen inoculation.
+
+Members of this family share a high level of sequence similarity, but they
+differ in net charge, dividing them into two classes: alpha and beta [1,3].
+Alpha-elicitins are highly acidic, with a valine residue at position 13,
+whereas beta-elicitins are basic, with a lysine at the same position.
+Residue 13 is known to be involved in the control of necrosis and, being
+exposed, is thought to be involved in ligand/receptor binding [3,4].
+Phenotypically, the two classes can be distinguished by their necrotic
+properties: beta-elicitins are 100-fold more toxic and provide better
+subsequent protection [1,2].
+
+ELICITIN is a 5-element fingerprint that provides a signature for elicitins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from conserved regions spanning the full alignment length  
+- motif 1 spans the first alpha-helix, which houses the exposed residue 13; 
+motif 2 incorporates the second helix; motif 3 spans helices 3 and 4; motif
+4 incorporates two anti-parallel beta-strands and the turn between them; and 
+motif 5 spans the fifth helix. Two iterations on OWL30.2 were required to 
+reach convergence, at which point a true set comprising 14 sequences was 
+identified.
+
+An update on SPTR37_9f identified a true set of 14 sequences.

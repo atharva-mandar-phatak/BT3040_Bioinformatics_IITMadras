@@ -1,0 +1,28 @@
+INVEPROTEIN
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+The Salmonella/Shigella invasion protein E gene (InvE) is one such type
+III secretion protein subunit, and is localised to the outer membrane of 
+the bacterial cell. It is located immediately upstream of the InvA gene on 
+the SPI I pathogenicity island, and is involved in the surface presentation 
+of antigens to the host cell [4].
+
+INVEPROTEIN is a 6-element fingerprint that provides a signature for the
+Salmonella/Shigella invasion protein InvE. The fingerprint was derived 
+from an initial alignment of 5 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~450 amino acids).
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 18 sequences was identified.

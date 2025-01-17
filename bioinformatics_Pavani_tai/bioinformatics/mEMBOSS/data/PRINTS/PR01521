@@ -1,0 +1,44 @@
+OREXIN1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The hypothalamus plays a central role in the integrated control of feeding
+and energy homeostasis [6]. A new family of neuropeptides, orexins, have
+been identified that bind and activate two closely related (previously) 
+orphan GPCRs [6,7]. Orexins stimulate appetite and food consumption [7].
+Their genes are expressed bilaterally and symmetrically in the lateral
+hypothalamus, which has been shown to be the "feeding centre". By contrast,
+the "satiety centre" is expressed in the ventromedial hypothalamus and is
+dominated by the leptin-regulated neuropeptide network.
+
+Both orexin receptors exhibit a similar pharmacology - the 2 orexin
+peptides, orexin-A and orexin-B, bind to both receptors and, in each case,
+agonist binding results in an increase in intracellular calcium levels. 
+However, orexin-B shows a 10-fold selectivity for orexin receptor
+type 2, whilst orexin-A is equipotent at both receptors [8].
+
+OREXIN1R is a 4-element fingerprint that provides a signature for type 1
+orexin receptors. The fingerprint was derived from an initial alignment of 2
+sequences: the motifs were drawn from conserved regions spanning the
+C-terminal half of the alignment, focusing on those sections that
+characterise the type 1 receptors but distinguish them from the rest of
+the orexin receptor family - motif 1 spans the third cytoplasmic loop; and
+motifs 2-4 reside at the cytoplasmic C-terminus. A single iteration on
+SPTR39_15f was required to reach convergence, no further sequences being
+identified beyond the starting set.

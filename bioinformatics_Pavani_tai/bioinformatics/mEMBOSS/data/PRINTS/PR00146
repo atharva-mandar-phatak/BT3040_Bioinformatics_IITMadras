@@ -1,0 +1,28 @@
+DHPICSNTHASE
+Dihydropicolinate synthase (DHDPS) is the key enzyme in lysine biosynthesis
+via the diaminopimelate pathway of prokaryotes, some phycomycetes and
+higher plants. The enzyme catalyses the condensation of L-aspartate-beta-
+semialdehyde and pyruvate to dihydropicolinic acid via a ping-pong
+mechanism in which pyruvate binds to the enzyme by forming a Schiff-base
+with a lysine residue [1].
+
+The sequences of DHDPS from different sources are well-conserved. The
+structure takes the form of a homotetramer, in which 2 monomers are
+related by an approximate 2-fold symmetry [1]. Each monomer comprises
+2 domains: an 8-fold alpha-/beta-barrel, and a C-terminal alpha-helical
+domain. The fold resembles that of N-acetylneuraminate lyase. The active
+site lysine is located in the barrel domain, and has access via 2 channels
+on the C-terminal side of the barrel.
+
+DHPICSNTHASE is a 4-element fingerprint that provides a signature for
+dihydropicolinate synthases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 1 including the region
+encoded by PROSITE pattern DHDPS_1 (PS00665) (the region containing the
+active site lysine was not sufficiently well conserved to form part of
+the fingerprint - cf. PROSITE pattern DHDPS_2 (PS00666)). Two iterations
+on OWL25.2 were required to reach convergence, at which point a true
+set comprising 10 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 3
+partial matches.

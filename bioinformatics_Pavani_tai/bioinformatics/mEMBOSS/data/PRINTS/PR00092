@@ -1,0 +1,34 @@
+TYROSINASE
+Tyrosinase (monophenol oxygenase) [EC 1.14.18.1] is a copper monooxygenase
+that catalyses the hydroxylation of monophenols, and the oxidation of
+o-diphenols to o-quinols. These reactions make it a key enzyme in the
+formation of pigments such as melanin in both prokaryotes and eukaryotes.
+The protein binds 2 copper ions (designated CuA and CuB), each being bound 
+by 3 conserved His residues [1]. This is reminiscent of copper binding in 
+haemocyanins (copper-containing oxygen carriers found in molluscan and 
+arthropodan haemolymph) [2], the second ion-binding site in both proteins 
+showing the greatest degree of similarity [1,2]. 
+
+It is believed that molluscan and arthropodan haemocyanins have evolved 
+independently from a common ancestral copper-containing protein: it has 
+been hypothesised [2] that gene duplication may have led to the evolution 
+of the arthropod haemocyanins, while fusion with a gene of a different 
+structure led to the evolution of tyrosinases and molluscan haemocyanins. 
+This hypothesis is partially verified by the fact that although the 2 types
+of haemocyanin have similar amino-acid compositions, they vary markedly in 
+sequence and structure, the only real sequence similarity being in the 
+second copper-binding domain.
+
+TYROSINASE is a 4-element fingerprint that provides a signature for copper-
+binding motifs in tyrosinases. The fingerprint was derived from an initial
+alignment of 5 sequences: motif 1 includes the highly conserved WHR motif,
+the His of which binds copper in the first binding site (CuA) (cf. PROSITE
+pattern TYROSINASE_1 (PS00497)); and motifs 3 and 4 encode the second
+copper-binding domain (CuB) (cf. PROSITE pattern TYROSINASE_2 (PS00498)).
+Three iterations on OWL12.0 were required to reach convergence, at which
+point a true set comprising 19 sequences was identified, including a number
+of molluscan haemocyanins. A subfamily of arthropodan haemocyanins was
+found to match just 2 motifs. 
+
+An update on SPTR37_9f identified a true set of 49 sequences, and 2
+partial matches.

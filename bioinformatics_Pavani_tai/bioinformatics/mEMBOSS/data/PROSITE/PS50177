@@ -1,0 +1,103 @@
+*********************************************
+* Nuclear transport factor 2 domain profile *
+*********************************************
+
+Nucleocytoplasmic  transport  is  mediated  by large supramolecular structures
+that  span the nuclear envelope called nuclear pore complexes (NPC). Classical
+import pathway involves proteins containing nuclear localisation signal (NLS).
+This  transport signal is recognized in the cytosol by importin alpha. Binding
+of  the resulting complex to the cytoplasmic fibrils of the NPC is mediated by
+the  cytosolic  factor  importin  beta.  From  their, the substrate-alpha-beta
+transport  complex move to a central NPC region, where it pass through a gated
+channel [1,2].
+
+This  nuclear import as well as the export pathway are dependent on the GTPase
+cycle  of  Ran  protein,  a  Ras-related  GTPase.  RanGDP  is generated in the
+cytoplasm by RanGTPase-activating protein and Ran is recharged with GTP in the
+nucleus  by  the  RCC1  factor  (see <PDOC00544>). RanGTP is exported from the
+nucleus  bound  to  importin proteins and must be recycled back to the nucleus
+for  new exchange. This recycling step of Ran is mediated by Nuclear transport
+factor 2 (NTF2) [3,4]. This small protein specifically binds to RanGDP and the
+nuclear pore  proteins containing phenylalanine-glycine (XFXFG) repeats [5,6].
+These interactions  are  required for the transport of RanGDP into the nucleus
+[6].
+
+Structurally [7],  NTF2  forms  an  alpha-beta barrel that opens at one end to
+form a  distinctive  hydrophobic  cavity.  The  crystal  structure  of NTF2 in
+complex with  RanGDP  [8]  shows  that  the  interaction  is  mediated  by the
+hydrophobic cavity  of  NTF2  and  the  putative  switch  II  loop of Ran. The
+contribution of  the switch II loop certainly accounts for the ability of NTF2
+to discriminate between GDP and GTP-bound forms of Ran.
+
+The following proteins contain a region similar to NTF2:
+
+ - Eukaryotic  NXF  proteins [9]. These are nuclear mRNA export factors. These
+   proteins contain, in addition to a NTF2 domain, a number of leucine-rich
+   repeats and a UBA domain.
+ - Eukaryotic  NXT1/NXT2  proteins  [9].  These  proteins  are  stimulators of
+   protein export for  NES-containing  proteins.  The also play a role in mRNA
+   nuclear export. They heterodimerize with NFX proteins. In contrast to NTF2,
+   NXT1 and NXT2 preferentially bind RanGTP.
+ - eukaryotic  Ras-GTPase-activating  protein (GAP)-binding proteins (G3BP's).
+   These proteins contain one NTF2 domain and one RRM (see <PDOC00030>).
+
+We developed a profile for NTF2 that spans the complete domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Mattaj I.W., Englmeier L.
+     "Nucleocytoplasmic transport: the soluble phase."
+     Annu. Rev. Biochem. 67:265-306(1998).
+     PubMed=9759490; DOI=10.1146/annurev.biochem.67.1.265
+[ 2] Melchior F., Gerace L.
+     "Two-way trafficking with Ran."
+     Trends Cell Biol. 8:175-179(1998).
+     PubMed=9695834
+[ 3] Nehrbass U., Blobel G.
+     "Role of the nuclear transport factor p10 in nuclear import."
+     Science 272:120-122(1996).
+     PubMed=8600522
+[ 4] Smith A., Brownawell A., Macara I.G.
+     "Nuclear import of Ran is mediated by the transport factor NTF2."
+     Curr. Biol. 8:1403-1406(1998).
+     PubMed=9889103
+[ 5] Clarkson W.D., Kent H.M., Stewart M.
+     "Separate binding sites on nuclear transport factor 2 (NTF2) for
+     GDP-Ran and the phenylalanine-rich repeat regions of nucleoporins p62
+     and Nsp1p."
+     J. Mol. Biol. 263:517-524(1996).
+     PubMed=8918934
+[ 6] Bayliss R., Ribbeck K., Akin D., Kent H.M., Feldherr C.M., Gorlich D.,
+     Stewart M.
+     "Interaction between NTF2 and xFxFG-containing nucleoporins is
+     required to mediate nuclear import of RanGDP."
+     J. Mol. Biol. 293:579-593(1999).
+     PubMed=10543952; DOI=10.1006/jmbi.1999.3166
+[ 7] Bullock T.L., Clarkson W.D., Kent H.M., Stewart M.
+     "The 1.6 angstroms resolution crystal structure of nuclear transport
+     factor 2 (NTF2)."
+     J. Mol. Biol. 260:422-431(1996).
+     PubMed=8757804
+[ 8] Stewart M., Kent H.M., McCoy A.J.
+     "Structural basis for molecular recognition between nuclear transport
+     factor 2 (NTF2) and the GDP-bound form of the Ras-family GTPase Ran."
+     J. Mol. Biol. 277:635-646(1998).
+     PubMed=9533885
+[ 9] Herold A., Suyama M., Rodrigues J.P., Braun I.C., Kutay U.,
+     Carmo-Fonseca M., Bork P., Izaurralde E.
+     "TAP (NXF1) belongs to a multigene family of putative RNA export
+     factors with a conserved modular architecture."
+     Mol. Cell. Biol. 20:8996-9008(2000).
+     PubMed=11073998
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,61 @@
+********************************************
+* Glycosyl hydrolases family 3 active site *
+********************************************
+
+It has been shown [1,2] that the following  glycosyl hydrolases can be, on the
+basis of sequence similarities, classified into a single family:
+
+ - Beta glucosidases (EC 3.2.1.21) from  the  fungi  Aspergillus wentii (A-3),
+   Hansenula anomala,  Kluyveromyces  fragilis,  Saccharomycopsis  fibuligera,
+   (BGL1 and BGL2), Schizophyllum commune and Trichoderma reesei (BGL1).
+ - Beta glucosidases from  the  bacteria   Agrobacterium  tumefaciens  (Cbg1),
+   Butyrivibrio  fibrisolvens (bglA),    Clostridium    thermocellum   (bglB),
+   Escherichia coli  (bglX),  Erwinia  chrysanthemi  (bgxA)  and  Ruminococcus
+   albus.
+ - Alteromonas strain O-7 beta-hexosaminidase A (EC 3.2.1.52).
+ - Bacillus subtilis hypothetical protein yzbA.
+ - Escherichica  coli  hypothetical protein ycfO and HI0959, the corresponding
+   Haemophilus influenzae protein.
+
+One of the conserved regions in  these enzymes  is  centered  on  a  conserved
+aspartic acid  residue  which has been shown [3], in  Aspergillus wentii beta-
+glucosidase A3, to be implicated in the catalytic mechanism. We have used this
+region as a signature pattern.
+
+-Consensus pattern: [LIVM](2)-[KR]-x-[EQKRD]-x(4)-G-[LIVMFTC]-[LIVT]-[LIVMF]-
+                    [ST]-D-x(2)-[SGADNIT]
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 2] Castle L.A., Smith K.D., Morris R.O.
+     "Cloning and sequencing of an Agrobacterium tumefaciens
+     beta-glucosidase gene involved in modifying a vir-inducing plant
+     signal molecule."
+     J. Bacteriol. 174:1478-1486(1992).
+     PubMed=1537792
+[ 3] Bause E., Legler G.
+     "Isolation and structure of a tryptic glycopeptide from the active
+     site of beta-glucosidase A3 from Aspergillus wentii."
+     Biochim. Biophys. Acta 626:459-465(1980).
+     PubMed=6783081
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

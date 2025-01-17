@@ -1,0 +1,52 @@
+CLCHANNEL0
+Chloride channels (CLCs) constitute an evolutionarily well-conserved family
+of voltage-gated channels that are structurally unrelated to the other known
+voltage-gated channels. They are found in organisms ranging from bacteria to
+yeasts and plants, and also to animals. Their functions in higher animals
+likely include the regulation of cell volume, control of electrical 
+excitability and trans-epithelial transport [1].
+
+The first member of the family (CLC-0) was expression-cloned from the
+electric organ of Torpedo marmorata [2], and subsequently nine CLC-like
+proteins have been cloned from mammals. They are thought to function as
+multimers of two or more identical or homologous subunits, and they have
+varying tissue distributions and functional properties. To date, CLC-0, 
+CLC-1, CLC-2, CLC-4 and CLC-5 have been demonstrated to form functional Cl-
+channels; whether the remaining isoforms do so is either contested or 
+unproven. One possible explanation for the difficulty in expressing 
+activatable Cl- channels is that some of the isoforms may function as Cl- 
+channels of intracellular compartments, rather than of the plasma membrane.
+However, they are all thought to have a similar transmembrane (TM) topology,
+initial hydropathy analysis suggesting 13 hydrophobic stretches long enough
+to form putative TM domains [2]. Recently, the postulated TM topology has
+been revised, and it now seems likely that the CLCs have 10 (or possibly 12)
+TM domains, with both N- and C-termini residing in the cytoplasm [3].
+
+A number of human disease-causing mutations have been identified in the
+genes encoding CLCs. Mutations in CLCN1, the gene encoding CLC-1, the major
+skeletal muscle Cl- channel, lead to both recessively and dominantly-
+inherited forms of muscle stiffness or myotonia [4]. Similarly, mutations
+in CLCN5, which encodes CLC-5, a renal Cl- channel, lead to several forms 
+of inherited kidney stone disease [5]. These mutations have been
+demonstrated to reduce or abolish CLC function.
+
+CLC-0 is the principal Cl- channel of the electric organ of the Torpedo
+species. These marine electric rays generate high voltage pulses (to stun
+their prey) by the concerted action of Cl- channels and nicotinic acetyl-
+choline receptors, in specialised cells known as electrocytes. The
+properties of the CLC-0 channel (consisting of 805-809 amino acids) have
+been extensively studied after reconstitution into lipid bilayers. It has
+a peculiar double-barrelled structure, appearing to have two identical ion
+pores that close and open independently, but which can be also closed
+together by another common gate. Further evidence also suggests it may
+function as a homodimer [6,7].
+
+CLCHANNEL0 is a 5-element fingerprint that provides a signature for the 
+CLC-0 voltage-gated Cl- channel. The fingerprint was derived from an initial
+alignment of 2 sequences: the motifs were drawn from conserved regions
+within the N-terminal half of the alignment, focusing on those sections
+that characterise the CLC-0 isoform but distinguish it from others -
+motifs 1-3 reside within the putative cytoplasmic N-terminus; and motifs 4
+and 5 lie within the ninth and tenth, hydrophilic domains, respectively.
+A single iteration on SPTR37_9f was required to reach convergence, no
+further sequences being identified beyond the starting set.

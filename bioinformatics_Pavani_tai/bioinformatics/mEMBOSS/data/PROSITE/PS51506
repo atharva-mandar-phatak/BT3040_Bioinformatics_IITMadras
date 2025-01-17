@@ -1,0 +1,51 @@
+*************************************************************
+* Cbl-type phosphotyrosine-binding (Cbl-PTB) domain profile *
+*************************************************************
+
+Cbl (Casitas  B-lineage  lymphoma)  is  an adaptor protein that functions as a
+negative regulator  of  many  signalling pathways that start from receptors at
+the cell  surface.  The  evolutionarily conserved amino-terminal region of Cbl
+(Cbl-N) binds  to  phosphorylated  tyrosine residues and has cell-transforming
+activity. The N-terminal Cbl-type phosphotyrosine-binding (Cbl-PTB) domain is
+composed of  three  interacting domains: a four-helix bundle (4H), an EF-hand-
+like calcium-binding domain (see <PDOC00018>), and a divergent SH2-like domain
+(see <PDOC50001>).  The  calcium-bound  EF-hand  wedges between the 4H and SH2
+domains, and  roughly determines their relative orientation. The three domains
+together form an integrated phosphoprotein-recognition module. The Cbl-PTB has
+also been named Cbl N-terminal (Cbl-N) or tyrosine kinase binding (TKB) domain
+[1,2].
+
+The N-terminal 4H domain contains four long alpha-helices. The C and D helices
+in this  domain  pack  against  the adjacent EF-hand-like domain, and a highly
+conserved loop  connecting  the  A and B helices contacts the SH2-like domain.
+The EF-hand  motif  is  similar  to  classical  EF-hand proteins. The SH2-like
+domain in  Cbl-N retains the general helix-sheet-helix architecture of the SH2
+fold, but lacks the secondary beta-sheet, comprising beta-strands D', E and F,
+and also a prominent BG loop (see <PDB:2CBL>) [1].
+
+The profile we developed covers the entire Cbl-PTB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2010 / First entry.
+
+[ 1] Meng W., Sawasdikosol S., Burakoff S.J., Eck M.J.
+     "Structure of the amino-terminal domain of Cbl complexed to its
+     binding site on ZAP-70 kinase."
+     Nature 398:84-90(1999).
+     PubMed=10078535; DOI=10.1038/18050
+[ 2] Langenick J., Araki T., Yamada Y., Williams J.G.
+     "A Dictyostelium homologue of the metazoan Cbl proteins regulates STAT
+     signalling."
+     J. Cell. Sci. 121:3524-3530(2008).
+     PubMed=18840649; DOI=10.1242/jcs.036798
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

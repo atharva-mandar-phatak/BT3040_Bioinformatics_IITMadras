@@ -1,0 +1,77 @@
+**********************
+* UBX domain profile *
+**********************
+
+Covalent modification of proteins by the small, evolutionary conserved protein
+ubiquitin (see  <PDOC00271>)  plays  a  central  role in a variety of cellular
+processes, including  bulk  protein  degradation,  cell-cycle  control, stress
+response, DNA  repair,  signal  transduction,  transcriptional  regulation and
+vesicular traffic. A cascade of three enzymes (called E1, E2 and E3) catalyzes
+the conjugation  of  ubiquitin  to  lysine  side-chains  of  target  proteins.
+Ubiquitination is  a  reversible  process: several specific ubiquitin carboxy-
+terminal hydrolases   (UBPs)  (see  <PDOC00750>)  can  remove  ubiquitin  from
+proteins. The  variety  of  cellular  processes  regulated  by  ubiquitination
+demands a  high  substrate specificity of the ubiquitination machinery as well
+as the  existence  of  diverse  downstream  effector proteins interacting with
+ubiquitinated substrates.  Most  of these cellular effectors are characterized
+by a  modular  composition  of  ubiquitin-binding  motifs  and further domains
+mediating specific functions. The UBX domain is an about 80 amino acid residue
+module of  unknown  function  present  typically at the carboxyl terminus of a
+variety of  eukaryotic  proteins.  It  was  originally identified in the human
+hypothetical 33.4  kDa  protein,  a member of the UBA domain (see <PDOC50030>)
+family of  proteins  implicated in ubiquitination processes. The UBX domain is
+found also  in  a number of different proteins that so far appear unrelated to
+processes involving  ubiquitination, including FAS-associated factor-1 (FAF1),
+p47 and Rep8, as well as in several proteins of unknown function. As only very
+few UBX  domain proteins have been studied in details, no general function for
+the UBX domain has yet emerged [1,2].
+
+The resolution  of the three dimensional of the UBX domain of human FAF1 shows
+a beta-Grasp  fold  characterized  by  a  beta-beta-alpha-beta-beta-alpha-beta
+secondary-structure organization  (see  <PDB:1H8C>).  The strands are arranged
+into a   mixed  five-stranded  beta  sheet  in  the  order  21534.  The  three
+dimensional structure   of   the   UBX   domain  reveals  a  close  structural
+relationship with  ubiquitin despite the lack of significant sequence homology
+[1].
+
+Some proteins known to contain an UBX domain are listed below:
+
+ - Mammalian  FAS-associated  factor  1 (FAF1). It specifically interacts with
+   the cytoplasmic domain of FAS.
+ - Mammalian  P97/VCP  associated  protein  p47,  involved in homotypic ER and
+   Golgi fusion control.
+ - Mammalian UBX domain-containing protein 1 (UBXD1).
+ - Human hypothetical 33.4 kDa protein (Y33K).
+ - Human reproduction 8 protein (rep-8).
+ - Human undulin 2, a matrix glycoprotein.
+ - Yeast SHP1 protein.
+ - Yeast hypothetical proteins YBR273C, YDL091C, YDR330W, YJL048C, YMR067C.
+
+The profile we developed covers the entire UBX domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hofmann K.; kay.hofmann@memorec.com
+
+-Last update: May 2003 / First entry.
+
+[ 1] Buchberger A., Howard M.J., Proctor M., Bycroft M.
+     "The UBX domain: a widespread ubiquitin-like module."
+     J. Mol. Biol. 307:17-24(2001).
+     PubMed=11243799; DOI=10.1006/jmbi.2000.4462
+[ 2] Buchberger A.
+     "From UBA to UBX: new words in the ubiquitin vocabulary."
+     Trends Cell Biol. 12:216-221(2002).
+     PubMed=12062168
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,62 @@
+*************************************
+* Ran binding domain type 1 profile *
+*************************************
+
+RanBP  proteins  form  a  heterogeneous family of proteins involved in nuclear
+transport.  Among  them, some contain a common region (RanBD1) involved in the
+binding  of  Ran,  a  Ras-related  GTPase (see <PDOC00859>). This domain binds
+RanGTP  and  increases  the  rate  of  RanGAP1-induced  GTP hydrolysis. RanBD1
+displays some similarity with the WASP domain [1,2].
+
+The  crystal  structure  of  RanBD1 of the human protein RanBP2 complexed with
+Ran,  bound  to  a  non-hydrolysable  GTP  analogue,  has  been  resolved (see
+<PDB:1RRP>) [3].  Like  the  WASP  domain,  RanBD1  show a PH domain fold (see
+<PDOC50003>), although  there  is  no  detectable sequence similarity. Ran-GTP
+contacts RanBD1   in   four   different   points,   "embracing"  RanBD1.  This
+conformation can stabilize the binding of GTP to Ran.
+
+The following proteins contain a RanBD1 domain:
+
+ - Mammalian  Ran  binding  protein  1.  RanBP1 is a small  cytosolic protein,
+   essential for nuclear import and export of RNA.
+ - Mammalian Ran binding protein 2. RanBP2 is a filamentous protein located in
+   the  Nuclear  Pore  Complex  (NPC) on the  cytoplasmic side of the ring. It
+   could function in coupling  RanGTP hydrolysis to NPC translocation  through
+   its Ran binding domain.
+ - Mammalian  Ran  binding  protein  3  proteins.  RanBP3  is localized in the
+   nucleus  and preferentially bind RanGTP and may be nuclear effectors of the
+   Ran pathway.
+ - Yeast  nucleoporin  2  (NUP2).  NUP2  is  a  component  of the nuclear pore
+   complex. It may be involved in binding and translocation of proteins during
+   nucleocytoplasmic transport.
+ - Mammalian nucleoporin NUP50.
+
+The profile we developed covers the entire RanBD1 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Mattaj I.W., Englmeier L.
+     "Nucleocytoplasmic transport: the soluble phase."
+     Annu. Rev. Biochem. 67:265-306(1998).
+     PubMed=9759490; DOI=10.1146/annurev.biochem.67.1.265
+[ 2] Melchior F., Gerace L.
+     "Two-way trafficking with Ran."
+     Trends Cell Biol. 8:175-179(1998).
+     PubMed=9695834
+[ 3] Vetter I.R., Nowak C., Nishimoto T., Kuhlmann J., Wittinghofer A.
+     "Structure of a Ran-binding domain complexed with Ran bound to a GTP
+     analogue: implications for nuclear transport."
+     Nature 398:39-46(1999).
+     PubMed=10078529; DOI=10.1038/17969
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

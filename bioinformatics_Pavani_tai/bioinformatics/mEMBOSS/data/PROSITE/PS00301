@@ -1,0 +1,116 @@
+********************************************
+* GTP-binding elongation factors signature *
+********************************************
+
+Elongation factors  [1,2]  are proteins  catalyzing the  elongation of peptide
+chains in protein biosynthesis. In both prokaryotes and  eukaryotes, there are
+three  distinct types  of elongation  factors,  as  described in the following
+table:
+
+ ---------------------------------------------------------------------------
+ Eukaryotes   Prokaryotes   Function
+ ---------------------------------------------------------------------------
+ EF-1alpha    EF-Tu         Binds GTP and  an aminoacyl-tRNA;  delivers  the
+                            latter to the A site of ribosomes.
+ EF-1beta     EF-Ts         Interacts with EF-1a/EF-Tu  to  displace GDP and
+                            thus allows the regeneration of GTP-EF-1a.
+ EF-2         EF-G          Binds GTP and peptidyl-tRNA and translocates the
+                            latter from the A site to the P site.
+ ---------------------------------------------------------------------------
+
+The GTP-binding elongation factor family also includes the following proteins:
+
+ - Eukaryotic  peptide  chain  release  factor GTP-binding subunits [3]. These
+   proteins interact  with  release  factors  that bind to ribosomes that have
+   encountered a  stop  codon  at  their decoding site and help them to induce
+   release of  the  nascent  polypeptide.  The yeast protein was known as SUP2
+   (and also as SUP35, SUF12 or GST1) and the human homolog as GST1-Hs.
+ - Prokaryotic  peptide  chain release factor 3 (RF-3) (gene prfC).  RF-3 is a
+   class-II RF, a GTP-binding  protein  that  interacts  with class I RFs (see
+   <PDOC00607>) and enhance their activity [4].
+ - Prokaryotic GTP-binding protein lepA and its  homolog  in yeast (gene GUF1)
+   and in Caenorhabditis elegans (ZK1236.1).
+ - Yeast HBS1 [5].
+ - Rat statin S1 [6], a protein of unknown function which is highly similar to
+   EF-1alpha.
+ - Prokaryotic selenocysteine-specific elongation factor selB [7], which seems
+   to replace  EF-Tu  for  the insertion of selenocysteine directed by the UGA
+   codon.
+ - The tetracycline resistance proteins tetM/tetO [8,9] from various  bacteria
+   such as  Campylobacter jejuni, Enterococcus faecalis,  Streptococcus mutans
+   and Ureaplasma urealyticum. Tetracycline binds to the prokaryotic ribosomal
+   30S subunit and inhibits binding of aminoacyl-tRNAs. These proteins abolish
+   the inhibitory effect of tetracycline on protein synthesis.
+ - Rhizobium nodulation protein nodQ [10].
+ - Escherichia coli hypothetical protein yihK [11].
+
+In EF-1-alpha, a specific region  has  been  shown [12] to  be  involved  in a
+conformational change mediated by the hydrolysis of GTP to GDP. This region is
+conserved in  both EF-1alpha/EF-Tu as well as EF-2/EF-G and thus seems typical
+for GTP-dependent proteins which bind non-initiator tRNAs to the ribosome. The
+pattern we  developed  for  this  family  of  proteins  include that conserved
+region.
+
+-Consensus pattern: D-[KRSTGANQFYW]-x(3)-E-[KRAQ]-x-[RKQD]-[GC]-[IVMK]-[ST]-
+                    [IV]-x(2)-[GSTACKRNQ]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 11 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Concise Encyclopedia Biochemistry, Second Edition, Walter de Gruyter,
+     Berlin New-York (1988).
+[ 2] Moldave K.
+     Annu. Rev. Biochem. 54:1109-1149(1985).
+[ 3] Stansfield I., Jones K.M., Kushnirov V.V., Dagkesamanskaya A.R.,
+     Poznyakovski A.I., Paushkin S.V., Nierras C.R., Cox B.S.,
+     Ter-Avanesyan M.D., Tuite M.F.
+     "The products of the SUP45 (eRF1) and SUP35 genes interact to mediate
+     translation termination in Saccharomyces cerevisiae."
+     EMBO J. 14:4365-4373(1995).
+     PubMed=7556078
+[ 4] Grentzmann G., Brechemier-Baey D., Heurgue-Hamard V., Buckingham R.H.
+     "Function of polypeptide chain release factor RF-3 in Escherichia
+     coli. RF-3 action in termination is predominantly at UGA-containing
+     stop signals."
+     J. Biol. Chem. 270:10595-10600(1995).
+     PubMed=7737996
+[ 5] Nelson R.J., Ziegelhoffer T., Nicolet C., Werner-Washburne M., Craig E.A.
+     "The translation machinery and 70 kd heat shock protein cooperate in
+     protein synthesis."
+     Cell 71:97-105(1992).
+     PubMed=1394434
+[ 6] Ann D.K., Moutsatsos I.K., Nakamura T., Lin H.H., Mao P.-L., Lee M.-J.,
+     Chin S., Liem R.K.H., Wang E.
+     "Isolation and characterization of the rat chromosomal gene for a
+     polypeptide (pS1) antigenically related to statin."
+     J. Biol. Chem. 266:10429-10437(1991).
+     PubMed=1709933
+[ 7] Forchammer K., Leinfeldr W., Bock A.
+     Nature 342:453-456(1989).
+[ 8] Manavathu E.K., Hiratsuka K., Taylor D.E.
+     "Nucleotide sequence analysis and expression of a
+     tetracycline-resistance gene from Campylobacter jejuni."
+     Gene 62:17-26(1988).
+     PubMed=2836268
+[ 9] LeBlanc D.J., Lee L.N., Titmas B.M., Smith C.J., Tenover F.C.
+     "Nucleotide sequence analysis of tetracycline resistance gene tetO
+     from Streptococcus mutans DL5."
+     J. Bacteriol. 170:3618-3626(1988).
+     PubMed=2841293
+[10] Cervantes E., Sharma S.B., Maillet F., Vasse J., Truchet G., Rosenberg C.
+     Mol. Microbiol. 3:745-755(1989).
+[11] Plunkett G. III, Burland V.D., Daniels D.L., Blattner F.R.
+     Nucleic Acids Res. 21:3391-3398(1993).
+[12] Moller W., Schipper A., Amons R.
+     Biochimie 69:983-989(1987).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

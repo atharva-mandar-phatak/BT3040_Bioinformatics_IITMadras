@@ -1,0 +1,110 @@
+*****************************************************
+* Zinc-containing alcohol dehydrogenases signatures *
+*****************************************************
+
+Alcohol dehydrogenase (EC 1.1.1.1) (ADH) catalyzes the reversible oxidation of
+ethanol to acetaldehyde with the concomitant  reduction of NAD [1].  Currently
+three,   structurally   and   catalytically,   different  types   of   alcohol
+dehydrogenases are known:
+
+ - Zinc-containing 'long-chain' alcohol dehydrogenases.
+ - Insect-type, or 'short-chain' alcohol dehydrogenases.
+ - Iron-containing alcohol dehydrogenases.
+
+Zinc-containing ADH's [2,3] are  dimeric or  tetrameric enzymes  that bind two
+atoms of zinc per subunit.  One  of  the  zinc atom is essential for catalytic
+activity while the other is not.   Both  zinc atoms  are coordinated by either
+cysteine or histidine residues;  the  catalytic zinc  is  coordinated  by  two
+cysteines  and one histidine.   Zinc-containing ADH's  are  found in bacteria,
+mammals, plants, and in fungi. In most species there are more than one isozyme
+(for example,  human  have  at  least six isozymes, yeast have three, etc.). A
+number of  other   zinc-dependent dehydrogenases  are  closely related to zinc
+ADH [4], these are:
+
+ - Xylitol dehydrogenase (EC 1.1.1.9) (D-xylulose reductase).
+ - Sorbitol dehydrogenase (EC 1.1.1.14).
+ - Aryl-alcohol dehydrogenase (EC 1.1.1.90) (benzyl alcohol dehydrogenase).
+ - L-threonine 3-dehydrogenase (EC 1.1.1.103).
+ - Cinnamyl-alcohol  dehydrogenase  (EC  1.1.1.195)  (CAD) [5]. CAD is a plant
+   enzyme involved in the biosynthesis of lignin.
+ - Galactitol-1-phosphate 5-dehydrogenase (EC 1.1.1.251).
+ - Escherichia coli L-idonate 5-dehydrogenase (EC 1.1.1.264).
+ - Pseudomonas putida 5-exo-alcohol dehydrogenase (EC 1.1.1.-) [6].
+ - Escherichia coli starvation sensing protein rspB.
+ - Escherichia coli hypothetical protein yjgB.
+ - Escherichia coli hypothetical protein yjgV.
+ - Escherichia coli hypothetical protein yjjN.
+ - Yeast hypothetical protein YAL060w (FUN49).
+ - Yeast hypothetical protein YAL061w (FUN50).
+ - Yeast hypothetical protein YCR105w.
+
+The pattern that  we developed to  detect this  class of enzymes is based on a
+conserved region that includes a histidine  residue which is the second ligand
+of the catalytic zinc atom.
+
+This family also includes NADP-dependent quinone  oxidoreductase (EC 1.6.5.5),
+an enzyme found in bacteria (gene qor), in yeast and in mammals where, in some
+species such as rodents, it has  been  recruited as an eye lens protein and is
+known as  zeta-crystallin  [7].  The  sequence  of  quinone  oxidoreductase is
+distantly related to that other zinc-containing alcohol  dehydrogenases and it
+lacks the zinc-ligand residues. The torpedo fish and mammlian synaptic vesicle
+membrane protein vat-1 is realted to qor. We have developed a specific pattern
+for this subfamily.
+
+-Consensus pattern: G-H-E-x-{EL}-G-{AP}-x(4)-[GA]-x(2)-[IVSAC]
+                    [H is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for quinone oxidoreductases.
+-Other sequence(s) detected in Swiss-Prot: 10.
+
+-Consensus pattern: [GSDN]-[DEQHKM]-x(2)-L-x(3)-[SAG](2)-G(2)-x-G-x(4)-Q-x(2)-
+                    [KRS]
+-Sequences known to belong to this class detected by the pattern: ALL  quinone
+ oxidoreductases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Joernvall H.; hans.jornvall@mbb.ki.se
+           Persson B.; bengt.persson@mbb.ki.se
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Branden C.-I., Joernvall H., Eklund H., Furugren B.
+     (In) The Enzymes (3rd edition) 11:104-190(1975).
+[ 2] Joernvall H., Persson B., Jeffery J.
+     Eur. J. Biochem. 167:195-201(1987).
+[ 3] Sun H.-W., Plapp B.V.
+     "Progressive sequence alignment and molecular evolution of the
+     Zn-containing alcohol dehydrogenase family."
+     J. Mol. Evol. 34:522-535(1992).
+     PubMed=1593644
+[ 4] Persson B., Hallborn J., Walfridsson M., Hahn-Hagerdal B., Keranen S.,
+     Penttila M., Jornvall H.
+     "Dual relationships of xylitol and alcohol dehydrogenases in families
+     of two protein types."
+     FEBS Lett. 324:9-14(1993).
+     PubMed=8504864
+[ 5] Knight M.E., Halpin C., Schuch W.
+     "Identification and characterisation of cDNA clones encoding cinnamyl
+     alcohol dehydrogenase from tobacco."
+     Plant Mol. Biol. 19:793-801(1992).
+     PubMed=1643282
+[ 6] Koga H., Aramaki H., Yamaguchi E., Takeuchi K., Horiuchi T.,
+     Gunsalus I.C.
+     "camR, a negative regulator locus of the cytochrome P-450cam
+     hydroxylase operon."
+     J. Bacteriol. 166:1089-1095(1986).
+     PubMed=3011733
+[ 7] Joernvall H., Persson B., Du Bois G., Lavers G.C., Chen J.H.,
+     Gonzalez P., Rao P.V., Zigler J.S. Jr.
+     FEBS Lett. 322:240-244(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,61 @@
+****************************************
+* AGC-kinase C-terminal domain profile *
+****************************************
+
+The  AGC  (cAMP-dependent, cGMP-dependent and protein kinase C) protein kinase
+family  embraces a collection of protein kinases that display a high degree of
+sequence  similarity  within  their  respective  kinase  domains.  AGC  kinase
+proteins  are  characterized  by  three  conserved  phosphorylation sites that
+critically  regulate their function. The first one is located in an activation
+loop  in  the center of the kinase domain. The two other phosphorylation sites
+are  located outside the kinase domain in a conserved region on its C-terminal
+side,    the   AGC-kinase   C-terminal   domain.   These   sites   serves   as
+phosphorylation-regulated  switches to control both intra- and inter-molecular
+interactions.   Without   these  priming  phosphorylations,  the  kinases  are
+catalytically inactive [1,2,3].
+
+Several  structures  of the AGC-kinase C-terminal domain have been solved (see
+for  example  <PDB:1O6L>). The first phosphorylation site is located in a turn
+motif the second one at the end of the domain in an hydrophobic pocket. In PKB
+the  phosphorylated  hydrophobic motif engages a hydrophobic groove within the
+N-lobe  of  the  kinase  domain which orders alpha helices close to the active
+site [4].
+
+The profile we developed covers the entire AGC-kinase C-terminal domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In  some  AGC kinases the C-terminal AGC-kinase domain is also known as
+ the PIF domain.
+
+-Last update: December 2006 / First entry.
+
+[ 1] Newton A.C.
+     "Regulation of the ABC kinases by phosphorylation: protein kinase C as
+     a paradigm."
+     Biochem. J. 370:361-371(2003).
+     PubMed=12495431; DOI=10.1042/BJ20021626
+[ 2] Parker P.J., Parkinson S.J.
+     "AGC protein kinase phosphorylation and protein kinase C."
+     Biochem. Soc. Trans. 29:860-863(2001).
+     PubMed=11709088
+[ 3] Mora A., Komander D., van Aalten D.M., Alessi D.R.
+     "PDK1, the master regulator of AGC kinase signal transduction."
+     Semin. Cell Dev. Biol. 15:161-170(2004).
+     PubMed=15209375
+[ 4] Yang J., Cron P., Good V.M., Thompson V., Hemmings B.A., Barford D.
+     "Crystal structure of an activated Akt/protein kinase B ternary
+     complex with GSK3-peptide and AMP-PNP."
+     Nat. Struct. Biol. 9:940-944(2002).
+     PubMed=12434148; DOI=10.1038/nsb870
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

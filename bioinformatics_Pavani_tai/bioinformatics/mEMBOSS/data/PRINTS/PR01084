@@ -1,0 +1,33 @@
+NAHEXCHNGR
+Na+/H+ exchange proteins eject protons from cells, effectively eliminating
+excess acid from actively metabolising cells. Na+/H+ exchange activity is
+also crucial for the regulation of cell volume, and for the reabsorption of
+NaCl across renal, intestinal, and other epithelia. These antiports exchange
+Na+ for H+ in an electroneutral manner, and this activity is carried out by
+a family of Na+/H+ exchangers, or NHEs, which are known to be present in
+both prokaryotic and eukaryotic cells. In mammalian cells, Na+/H+ exchange
+activity is found in both the plasma membrane and inner mitochondrial
+membrane. To date, six mammalian isoforms have been identified (designated
+NHE1-NHE6) [1,2]. These exchangers are highly-regulated (glyco)phospho-
+proteins, which, based on their primary structure, appear to contain 10-12 
+membrane-spanning regions at the N-terminus and a large cytoplasmic region
+at the C-terminus. There is some evidence that they may exist in the cell
+membrane as homodimers, but little is currently known about the mechanism
+of their antiport [3].
+
+NAHEXCHNGR is a 4-element fingerprint that provides a signature for the
+Na+/H+ exchanger family. The fingerprint was derived from an initial 
+alignment of 18 sequences: the motifs were drawn from conserved regions 
+spanning the N-terminal half of the alignment - motif 1 encodes hydrophobic
+domain M4; motif 2 lies in the second cytoplasmic loop; and motifs 3 and 4 
+span hydrophobic domains M5 and M5A respectively. Two iterations on OWL31.1
+were required to reach convergence, at which point a true set comprising 32 
+sequences was identified. Six partial matches were also found: of the 4 of
+these from C.elegans, NAH_CAEEL is a probable Na+/H+ exchanger fragment - 
+the others, which are derived from cosmid sequencing, include putative NHE
+genes; the remaining partial matches, F69355 and S75063, are NHE-like 
+proteins from Achaeoglobus fulgidus and Synechocystis sp., respectively.
+
+An update on SPTR57_40f identified a true set of 207 sequences. Several  
+of partial matches were also found, all of which are family members that 
+fail to make signficant matches with one or more motifs.

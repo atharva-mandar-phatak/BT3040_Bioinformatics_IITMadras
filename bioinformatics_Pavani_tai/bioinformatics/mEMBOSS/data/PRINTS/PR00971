@@ -1,0 +1,54 @@
+RIBOSOMALS10
+Ribosomes are ribonucleoprotein particles that are the site of protein
+synthesis. The structure of the ribosome is well conserved across the
+prokaryotic and eukaryotic lineages, reflecting the early origin of their
+essential function. They comprise two subunits, which can dissociate on 
+heating. In prokaryotes, the small subunit contains a single large RNA 
+moeity denoted, according to its sedimentation coefficient, 16S rRNA, and 21 
+different ribosomal proteins, designated S1-S21. Eukaryotic small ribosomal
+subunits contain 33 proteins, many of which are similar to those found
+in prokaryotes. 
+
+There are two major tRNA binding sites on the ribosome, termed the A site, 
+where incoming aminoacyl-tRNA is bound, and the P site (for peptidyl tRNA), 
+where new peptide bonds are formed. The ribosomal proteins catalyse ribosome 
+assembly and stabilise the rRNA, tuning the structure of the ribosome for 
+optimal function [1]. Evidence suggests that, in prokaryotes, the peptidyl
+transferase reaction is performed by the large subunit 23S rRNA, whereas
+proteins probably have a greater role in eukaryotic ribosomes. Most of the
+proteins lie close to, or on the surface of, the 30S subunit, arranged
+peripherally around the rRNA [2]. The small subunit ribosomal proteins can
+be categorised as primary binding proteins, which bind directly and
+independently to 16S rRNA; secondary binding proteins, which display no
+specific affinity for 16S rRNA, but its assembly is contingent upon the
+presence of one or more primary binding proteins; and tertiary binding
+proteins, which require the presence of one or more secondary binding
+proteins and sometimes other tertiary binding proteins.
+
+The small ribosomal subunit protein S10 consists of about 100 amino acid
+residues. In Escherichia coli, S10 is involved in binding tRNA to the
+ribosome, and also operates as a transcriptional elongation factor [3]. 
+Experimental evidence [4] has revealed that S10 has virtually no groups
+exposed on the ribosomal surface, and is one of the "split proteins": these are a discrete group
+that are selectively removed from 30S subunits under low salt conditions 
+and are required for the formation of activated 30S reconstitution
+intermediate (RI*) particles. S10 belongs to a family of proteins [5] that
+includes: eubacterial S10; algal chloroplast S10; cyanelle S10; archae-
+bacterial S10; Marchantia polymorpha and Prototheca wickerhamii mito-
+chondrial S10; Arabidopsis thaliana mitochondrial S10 (nuclear encoded); 
+vertebrate S20; plant S20; and yeast URP2.
+
+RIBOSOMALS10 is a 3-element fingerprint that provides a signature for S10
+ribosomal proteins. The fingerprint was derived from an initial alignment 
+of 26 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length - motif 2 includes most of the central
+region encoded by PROSITE pattern RIBOSOMAL_S10 (PS00361). Two iterations 
+on OWL30.2 were required to reach convergence, at which point a true set 
+comprising 57 sequences was identified. Three partial matches were also
+found: two of these (RS20_MAIZE and RS10_DESMO) are fragments, lacking the
+portions of sequence bearing motifs 1 and 4 respectively; and AF030961 is
+a sequence from Schistosoma mansoni that fails to make a significant match
+with motif 1.
+
+An update on SPTR37_9f identified a true set of 52 sequences, and 4
+partial matches.

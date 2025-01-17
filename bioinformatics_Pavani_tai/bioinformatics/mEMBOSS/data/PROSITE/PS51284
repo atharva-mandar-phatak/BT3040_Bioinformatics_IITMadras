@@ -1,0 +1,56 @@
+**********************
+* DOC domain profile *
+**********************
+
+The anaphase-promoting  complex  (APC) is a multi-subunit E3 protein ubiquitin
+ligase that  is  reponsible  for  the metaphase to anaphase transition and the
+exit from  mitosis.  The subunit APC10 is a one-domain protein homologous to a
+sequence element,  termed  the  DOC  domain,  found  in  several  hypothetical
+proteins that  may also mediate ubiquitination reactions, because they contain
+combinations of either RING finger (see <PDOC00449>), cullin (see <PDOC00967>)
+or HECT (see <PDOC50237>) domains [1-3].
+
+The DOC   domain  consists  of  a  beta-sandwich,  in  which  a  five-stranded
+antiparallel beta-sheet  is  packed  on  top  of a three stranded antiparallel
+beta-sheet, exhibiting a 'jellyroll' fold (see <PDB:1JHJ; A>) [2,3].
+
+Some proteins known to contain a DOC domain are listed below:
+
+ - Eucaryotic Doc1/Apc10.
+ - Mammalian protein associated with the transcription factor Myc (PAM).
+ - Mouse runty-jerky-sterile (RJS) protein.
+ - Human HERC2, the ortholog of RJS.
+
+The profile we developed covers the entire DOC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2007 / First entry.
+
+[ 1] Grossberger R., Gieffers C., Zachariae W., Podtelejnikov A.V.,
+     Schleiffer A., Nasmyth K., Mann M., Peters J.-M.
+     "Characterization of the DOC1/APC10 subunit of the yeast and the human
+     anaphase-promoting complex."
+     J. Biol. Chem. 274:14500-14507(1999).
+     PubMed=10318877
+[ 2] Wendt K.S., Vodermaier H.C., Jacob U., Gieffers C., Gmachl M.,
+     Peters J.-M., Huber R., Sondermann P.
+     "Crystal structure of the APC10/DOC1 subunit of the human
+     anaphase-promoting complex."
+     Nat. Struct. Biol. 8:784-788(2001).
+     PubMed=11524682; DOI=10.1038/nsb0901-784
+[ 3] Au S.W.N., Leng X., Harper J.W., Barford D.
+     "Implications for the ubiquitination reaction of the anaphase-promoting
+     complex from the crystal structure of the Doc1/Apc10 subunit."
+     J. Mol. Biol. 316:955-968(2002).
+     PubMed=11884135; DOI=10.1006/jmbi.2002.5399
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,42 @@
+GLHYDLASE14A
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 14 (EC 3.2.1.2) encompasses the beta-amylases.
+
+Beta-amylases, which are found in plants and bacteria, hydrolyse 1,4-alpha-
+glucosidic linkages in starch-type polysaccharide substrates, removing
+successive maltose units from the non-reducing ends of the chains [5]. In 
+potato plants, the enzyme has been found to work optimally at 40 degrees C, 
+becoming unstable above this temperature [5]. On the basis of sequence
+comparisons, plant and bacterial beta-amylases can be readily distinguished
+from each other. 
+
+The 3D structure of a complex of soybean beta-amylase with an inhibitor 
+(alpha-cyclodextrin) has been determined to 3.0A resolution by X-ray
+diffraction [6]. The enzyme folds into large and small domains: the large
+domain has a (beta alpha)8 super-secondary structural core, while the smaller
+is formed from two long loops extending from the beta-3 and beta-4 strands
+of the (beta alpha)8 fold [6]. The interface of the two domains, together
+with shorter loops from the (beta alpha)8 core, form a deep cleft, in which 
+the inhibitor binds [6]. Two maltose molecules also bind in the cleft,
+one sharing a binding site with alpha-cyclodextrin, and the other sitting
+more deeply in the cleft [6]. Sequence alignments allow us to relate
+features of the bacterial beta-amylases to the soybean structure.
+
+GLHYDLASE14A is a 5-element fingerprint that provides a signature for 
+the bacterial beta-amylases. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+spanning virtually the full alignment length, focusing on those regions
+that characterise the bacterial beta-amylases but distinguish them from
+the rest of the beta-amylase family - motif 1 spans helices 5 and 6, beta-
+strand 6 and the N-terminus of strand 7; motif 2 includes the C-terminal
+half of helix 12; and motif 3 includes helix 13. Two iterations on OWL30.0
+were required to reach convergence, at which point a true set comprising 6
+sequences was identified. A single partial match was also found, AB000264,
+a fragment from Bacillus firmus that lacks the portion of sequence bearing
+motif 5.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

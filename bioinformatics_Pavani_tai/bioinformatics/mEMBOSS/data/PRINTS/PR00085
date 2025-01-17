@@ -1,0 +1,29 @@
+THFDHDRGNASE
+Enzymes that participate in the transfer of one-carbon units require
+the coenzyme tetrahydrofolate (THF). Various reactions generate one-carbon
+derivatives of THF, which can be interconverted between different oxidation
+states by methylene-THF dehydrogenase, methenyl-THF cyclohydrolase and
+formyl-THF synthetase [1,2]. The dehydrogenase and cyclohydrolase activities
+are expressed by a variety of multifunctional enzymes, including the tri-
+functional eukaryotic C1-tetrahydrofolate synthase [2]; a bifunctional
+eukaryotic mitochondrial protein; and the bifunctional E.coli folD protein
+[1,2].
+
+Methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclo-
+hydrolase share an overlapping active site [2], and as such are usually
+located together in proteins, acting in tandem on the carbon-nitrogen bonds
+of substrates other than peptide bonds.
+
+THFDHDRGNASE is a 7-element fingerprint that provides a signature for the
+tetrahydrofolate dehydrogenase/cyclohydrolase family. The fingerprint was
+derived from an initial alignment of 5 motifs: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length, motifs 2
+and 7 including the N- and C-terminal regions encoded by PROSITE patterns
+THF_DHG_CYH_1 (PS00766) and THF_DHG_CYH_2 (PS00767). Two iterations on
+OWL25.1 were required to reach convergence, at which point a true set
+comprising 11 sequences was identified. A single partial match was also
+found, MTD1_YEAST, a methylenetetrahydrofolate dehydrogenase that shows
+only slight similarity to the rest of the family.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 5
+partial matches.

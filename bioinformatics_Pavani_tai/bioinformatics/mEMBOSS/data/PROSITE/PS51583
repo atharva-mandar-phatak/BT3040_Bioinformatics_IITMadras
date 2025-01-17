@@ -1,0 +1,97 @@
+************************************************************
+* Class V SAM-dependent methyltransferases family profiles *
+************************************************************
+
+Methyltransferases  (EC  2.1.1.-)  constitute  an  important  class of enzymes
+present  in every life form. They transfer a methyl group most frequently from
+S-adenosyl  L-methionine  (SAM  or  AdoMet) to a nucleophilic acceptor such as
+nitrogen,  oxygen,  sulfur  or  carbon  leading  to  S-adenosyl-L-homocysteine
+(AdoHcy)  and  a  methylated  molecule.  The substrates that are methylated by
+these  enzymes  cover  virtually every kind of biomolecules ranging from small
+molecules,  to  lipids,  proteins  and  nucleic  acids. Methyltransferases are
+therefore   involved   in   many   essential   cellular   processes  including
+biosynthesis,  signal  transduction,  protein repair, chromatin regulation and
+gene  silencing  [1,2,3].  More  than  230  different  enzymatic  reactions of
+methyltransferases  have been described so far, of which more than 220 use SAM
+as  the  methyl  donor  [E1].  A  review  published  in  2003  [2] divides all
+methyltransferases  into  5  classes based on the structure of their catalytic
+domain (fold):
+ - class I:    Rossmann-like                    alpha/beta     see <PDOC51555>
+ - class II:   TIM beta/alpha-barrel            alpha/beta
+ - class III:  tetrapyrrole methylase           alpha/beta
+ - class IV:   SPOUT                            alpha/beta     see <PDOC51604>
+ - class V:    SET domain                       all beta
+A  more  recent  paper  [3]  based  on a study of the Saccharomyces cerevisiae
+methyltransferome argues for four more folds:
+ - class VI:   transmembrane			all alpha      see <PDOC51598>
+ - class VII:  DNA/RNA-binding 3-helical bundle all alpha
+ - class VIII: SSo0622-like                     alpha+beta
+ - class IX:   thymidylate synthetase           alpha+beta
+
+Class  V  proteins contain the SET domain (see <PDOC50280>) usually flanked by
+other  domains  forming  the  so-called pre- and post-SET regions. The enzymes
+belonging  to  this class all N-methylate lysine in proteins. Most of them are
+histone    methyltransferases   (EC   2.1.1.43)   like   the   histone   H3-K9
+methyltransferase    dim-5    (see    <PDB:1ML9>)   or   the   histone   H3-K4
+methyltransferase  SETD7  (see  <PDB:1H3I>)  [3,4].  Some others methylate the
+large   subunit   of  the  enzyme  ribulose-bisphosphate-carboxylase/oxygenase
+(RuBisCO)  (EC  2.1.1.127)  in  plants;  in  these  enzymes  the SET domain is
+interrupted  by  a novel domain [4]. Cytochrome c lysine  N-methyltransferases
+(EC 2.1.1.59)  do  not  possess a SET domain, or at least  not  a  SET  domain
+detected  by any  of the detection methods; however they do display a SET-like
+region and for this reason they are also assigned to this class [5].
+
+Some enzymatic activities known to belong to the Class V superfamily:
+
+ - SETD3 histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - TRX/MLL histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - Suvar4-20 histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - SET2 histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - PR/SET histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - Suvar3-9 histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - EZ histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - SET7 histone-lysine N-methyltransferase (EC 2.1.1.43).
+ - RuBisCO methyltransferase: [Ribulose-bisphosphate carboxylase]-lysine
+   N-methyltransferase (EC 2.1.1.127).
+ - [Cytochrome c]-lysine N-methyltransferase (EC 2.1.1.59).
+
+The profiles we developed to identify Class V SAM-dependent methyltransferases
+families are directed against whole length proteins.
+
+-Last update: January 2012 / First entry.
+
+[ 1] Kozbial P.Z., Mushegian A.R.
+     "Natural history of S-adenosylmethionine-binding proteins."
+     BMC Struct. Biol. 5:19-19(2005).
+     PubMed=16225687; DOI=10.1186/1472-6807-5-19
+[ 2] Schubert H.L., Blumenthal R.M., Cheng X.
+     "Many paths to methyltransfer: a chronicle of convergence."
+     Trends. Biochem. Sci. 28:329-335(2003).
+     PubMed=12826405
+[ 3] Wlodarski T., Kutner J., Towpik J., Knizewski L., Rychlewski L.,
+     Kudlicki A., Rowicka M., Dziembowski A., Ginalski K.
+     "Comprehensive structural and substrate specificity classification of
+     the Saccharomyces cerevisiae methyltransferome."
+     PLoS One. 6:E23168-E23168(2011).
+     PubMed=21858014; DOI=10.1371/journal.pone.0023168
+[ 4] Yeates T.O.
+     "Structures of SET domain proteins: protein lysine methyltransferases
+     make their mark."
+     Cell 111:5-7(2002).
+     PubMed=12372294
+[ 5] Porras-Yakushi T.R., Whitelegge J.P., Clarke S.
+     "Yeast ribosomal/cytochrome c SET domain methyltransferase subfamily:
+     identification of Rpl23ab methylation sites and recognition motifs."
+     J. Biol. Chem. 282:12368-12376(2007).
+     PubMed=17327221; DOI=10.1074/jbc.M611896200
+[E1] http://enzyme.expasy.org/EC/2.1.1.-
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

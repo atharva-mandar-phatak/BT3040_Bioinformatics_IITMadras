@@ -1,0 +1,54 @@
+******************************************************
+* Eukaryotic molybdopterin oxidoreductases signature *
+******************************************************
+
+A number of   different  eukaryotic  oxidoreductases  that require  and bind a
+molybdopterin cofactor have  been shown [1] to share a few regions of sequence
+similarity. These enzymes are:
+
+ - Xanthine dehydrogenase (EC 1.17.1.4),  which  catalyzes  the   oxidation of
+   xanthine to uric acid with  the concomitant reduction of NAD. Structurally,
+   this enzyme  of about 1300 amino acids consists of at least three  distinct
+   domains: an   N-terminal  2Fe-2S ferredoxin-like iron-sulfur binding domain
+   (see <PDOC00175>),  a  central  FAD/NAD-binding domain and a C-terminal Mo-
+   pterin domain.
+ - Aldehyde oxidase (EC 1.2.3.1), which catalyzes the oxidation aldehydes into
+   acids. Aldehyde  oxidase is highly similar to xanthine dehydrogenase in its
+   sequence and domain structure.
+ - Nitrate reductase (EC 1.7.1.1), which  catalyzes  the  reduction of nitrate
+   to nitrite.  Structurally, this enzyme of about 900 amino acids consists of
+   an N-terminal Mo-pterin domain,  a central cytochrome b5-type  heme-binding
+   domain (see <PDOC00170>)  and  a   C-terminal  FAD/NAD-binding   cytochrome
+   reductase domain.
+ - Sulfite oxidase (EC 1.8.3.1), which  catalyzes  the oxidation of sulfite to
+   sulfate. Structurally, this enzyme of about 460 amino acids  consists of an
+   N-terminal cytochrome b5-binding domain followed by a Mo-pterin domain.
+
+There are a few conserved regions in the sequence of the molybdopterin-binding
+domain of  these enzymes. The pattern we use to detect these proteins is based
+on one  of  them.  It  contains  a cysteine residue which could be involved in
+binding the molybdopterin cofactor.
+
+-Consensus pattern: [GA]-{A}-x(2)-[KRNQHT]-x(11,14)-[LIVMFYWS]-x(3)-{V}-{GK}-
+                    x(3)-[LIVMF]-x-C-x(2)-[DEN]-R-x(2)-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wootton J.C., Nicolson R.E., Cock J.M., Walters D.E., Burke J.F.,
+     Doyle W.A., Bray R.C.
+     "Enzymes depending on the pterin molybdenum cofactor: sequence
+     families, spectroscopic properties of molybdenum and possible
+     cofactor-binding domains."
+     Biochim. Biophys. Acta 1057:157-185(1991).
+     PubMed=2015248;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

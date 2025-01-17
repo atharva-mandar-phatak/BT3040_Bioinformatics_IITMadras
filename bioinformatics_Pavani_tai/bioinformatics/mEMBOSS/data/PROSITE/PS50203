@@ -1,0 +1,76 @@
+***************************************************************
+* Cysteine proteinase, calpain-type, catalytic domain profile *
+***************************************************************
+
+Calpains are  a  family  of  cytosolic cysteine proteinases (see <PDOC00126>).
+Members of  the  calpain family are believed to function in various biological
+processes, including    integrin-mediated    cell    migration,   cytoskeletal
+remodeling, cell differentiation and apoptosis [1,2].
+
+The  calpain  family  includes numerous members from C. elegans to mammals and
+with homologs in yeast and bacteria. The best characterized members are the m-
+and  mu-calpains,  both proteins are heterodimer composed of a large catalytic
+subunit  and  a  small  regulatory  subunit.  The large subunit comprises four
+domains  (dI-dIV)  while the small subunit has two domains (dV-dVI). Domain dI
+is  a  short region cleaved by autolysis, dII is the catalytic core, dIII is a
+C2-like domain, dIV consists of five calcium binding EF-hand motifs [2].
+
+The  crystal  structure of calpain has been solved (see <PDB:1DF0>) [3,4]. The
+catalytic  region consists of two distinct structural domains (dIIa and dIIb).
+dIIa  contains  a  central  helix  flanked  on  three  faces  by  a cluster of
+alpha-helices  and  is  entirely  unrelated to the corresponding domain in the
+typical  thiol  proteinases.  The fold of dIIb is similar to the corresponding
+domain   in   other   cysteine  proteinases  and  contains  two three-stranded
+anti-parallel beta-sheets. The catalytic triad residues (C,H,N) are located in
+dIIa and dIIb. The activation of the domain is dependent on the binding of two
+calcium atoms  in  two  non  EF-hand  calcium  binding  sites  located  in the
+catalytic core, one close to the Cys active site in dIIa and one at the end of
+dIIb. Calcium-binding  induced  conformational changes in the catalytic domain
+which align the active site [4,5].
+
+The profile we developed covers the whole catalytic domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2003 / First entry.
+
+-Note: These  proteins belong to family C2 in the classification of peptidases
+ [6,E1].
+
+[ 1] Glading A., Lauffenburger D.A., Wells A.
+     "Cutting to the chase: calpain proteases in cell motility."
+     Trends Cell Biol. 12:46-54(2002).
+     PubMed=11854009
+[ 2] Perrin B.J., Huttenlocher A.
+     "Calpain."
+     Int. J. Biochem. Cell Biol. 34:722-725(2002).
+     PubMed=11950589
+[ 3] Hosfield C.M., Elce J.S., Davies P.L., Jia Z.
+     "Crystal structure of calpain reveals the structural basis for
+     Ca(2+)-dependent protease activity and a novel mode of enzyme
+     activation."
+     EMBO J. 18:6880-6889(1999).
+     PubMed=10601010; DOI=10.1093/emboj/18.24.6880
+[ 4] Moldoveanu T., Hosfield C.M., Lim D., Elce J.S., Jia Z., Davies P.L.
+     "A Ca(2+) switch aligns the active site of calpain."
+     Cell 108:649-660(2002).
+     PubMed=11893336
+[ 5] Khorchid A., Ikura M.
+     "How calpain is activated by calcium."
+     Nat. Struct. Biol. 9:239-241(2002).
+     PubMed=11914728; DOI=10.1038/nsb0402-239
+[ 6] Rawlings N.D., Barrett A.J.
+     "Families of cysteine peptidases."
+     Methods Enzymol. 244:461-486(1994).
+     PubMed=7845226
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

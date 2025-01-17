@@ -1,0 +1,72 @@
+******************************************************
+* DNA mismatch repair proteins mutS family signature *
+******************************************************
+
+Mismatch repair contributes to the overall fidelity of DNA replication [1]. It
+involves the correction of mismatched base pairs that  have been missed by the
+proofreading  element  of the DNA polymerase complex.     The sequence of some
+proteins involved in mismatch repair in different organisms have been found to
+be evolutionary related [2,3]. One of these families is called mutS [4,E1], it
+consists of:
+
+ - Prokaroytic  protein  mutS  protein  (also  called  hexA  in  Streptococcus
+   pneumoniae).  Muts is thought to carry out the mismatch recognition step of
+   DNA repair.
+ - Eukaryotic MSH1, which is involved in mitochondrial DNA repair.
+ - Eukaryotic MSH2,  which  is  involved  in  nuclear postreplication mismatch
+   repair. MSH2 heterodimerizes with MSH6.  In man, MSH2 is involved in a form
+   of familial hereditary nonpolyposis colon cancer (HNPCC).
+ - Eukaryotic MSH3, which is probably involved in the repair of large loops.
+ - Eukaryotic MSH4, which is involved in meiotic recombination.
+ - Eukaryotic MSH5, which is involved in meiotic recombination.
+ - Eukaryotic MSH6 (also known as G/T mismatch binding protein), a  DNA-repair
+   protein that binds to G/T mismatches through heterodimerization with MSH2.
+ - Prokaryotic protein mutS2 whose function is not yet known.
+ - A coral (Sarcophyton glaucum) mitochondrial encoded mutS-like protein.
+
+As a signature pattern for  this class of mismatch repair proteins we selected
+a region rich in glycine and negatively charged residues. This region is found
+in the C-terminal  section of  these  proteins;  about  80  residues to the C-
+terminal of an ATP-binding site motif 'A' (P-loop) (see <PDOC00017>).
+
+-Consensus pattern: [STA]-[LIVMF]-x-[LIVM]-x-D-E-[LIVMFY]-[GCA]-[RKHAS]-[GS]-
+                    [GST]-x(4)-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for mutS2.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Eisen J.A.; jeisen@tigr.org
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Modrich P.
+     "DNA mismatch correction."
+     Annu. Rev. Biochem. 56:435-466(1987).
+     PubMed=3304141; DOI=10.1146/annurev.bi.56.070187.002251
+[ 2] Haber L.T., Walker G.C.
+     "Altering the conserved nucleotide binding motif in the Salmonella
+     typhimurium MutS mismatch repair protein affects both its ATPase and
+     mismatch binding activities."
+     EMBO J. 10:2707-2715(1991).
+     PubMed=1651234
+[ 3] New L., Liu K., Crouse G.F.
+     "The yeast gene MSH3 defines a new class of eukaryotic MutS
+     homologues."
+     Mol. Gen. Genet. 239:97-108(1993).
+     PubMed=8510668
+[ 4] Eisen J.A.
+     "A phylogenomic study of the MutS family of proteins."
+     Nucleic Acids Res. 26:4291-4300(1998).
+     PubMed=9722651
+[E1] http://www.tigr.org/~jeisen/MutS/MutS.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,19 @@
+NUSGTNSCPFCT
+The nusG protein is a bacterial transcriptional elongation factor involved
+in transcription termination and anti-termination [1,2] - it is thus 
+essential for bacterial viability [2]. The protein forms part of the
+transcription complex, interacting with RNA polymerase and the termination
+factor rho [3,4].
+
+NUSGTNSCPFCT is a 3-element fingerprint that provides a signature for nusG 
+transcription termination proteins. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions in the central and C-terminal portions of the alignment, motif 3
+including the region encoded by PROSITE pattern NUSG (PS01014). Two
+iterations on OWL24.0 were required to reach convergence, at which point a
+true set comprising 11 sequences was identified. A single partial match was
+also found, NUSG_CGDAB, a nusG protein fragment from the citrus greening
+disease-associated bacterium-like organism.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 3
+partial matches.

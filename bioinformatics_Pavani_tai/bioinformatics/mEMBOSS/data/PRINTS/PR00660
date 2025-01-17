@@ -1,0 +1,31 @@
+ERLUMENR
+Proteins resident in the lumen of the endoplasmic reticulum (ER) contain a
+C-terminal tetrapeptide (commonly Lys-Asp-Glu-Leu (KDEL) in mammals and 
+His-Asp-Glu-Leu (HDEL) in yeast (S.cerevisiae)) that acts as a signal for
+their retrieval from subsequent compartments of the secretory pathway. The
+receptor for this signal is a ~26kDa Golgi membrane protein, initially
+identified as the ERD2 gene product in S.cerevisiae. The receptor molecule, 
+known variously as the ER lumen protein retaining receptor or the 'KDEL 
+receptor', is believed to cycle between the cis side of the Golgi apparatus 
+and the ER. It has also been characterised in a number of other species,
+including plants, Plasmodium, Drosophila and mammals. In mammals, 2 highly
+related forms of the receptor are known.
+
+The KDEL receptor is a highly hydrophobic protein of 220 residues; its 
+sequence exhibits 7 hydrophobic regions, all of which have been suggested
+to traverse the membrane. More recently, however, it has been suggested
+that only 6 of these regions are transmembrane (TM), resulting in both N-
+and C-termini on the cytoplasmic side of the membrane.
+
+ERLUMENR is a 7-element fingerprint that provides a signature for the KDEL 
+receptors. The fingerprint was derived from an initial alignment of 9 
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 2 spans the C-terminal portion of the first
+cytoplasmic loop leading into TM domain 2, and corresponds to the region
+encoded by PROSITE pattern ER_LUMEN_RECEPTOR_1 (PS00951); motif 4 includes
+a well-conserved decapeptide from the central portion of TM domain 5 
+corresponding to the region encoded by PROSITE pattern ER_LUMEN_RECEPTOR_2 
+(PS00952). A single iteration on OWL29.2 was required to reach convergence,
+no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 14 sequences.

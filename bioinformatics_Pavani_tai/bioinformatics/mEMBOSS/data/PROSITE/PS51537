@@ -1,0 +1,61 @@
+*********************************************************
+* Norovirus 3C-like protease (NV 3CLpro) domain profile *
+*********************************************************
+
+Noroviruses (NVs;  formerly  "Norwalk-like viruses") [E1], which belong to the
+Caliciviridae, are   the   major   causative   agents  of  nonbacterial  acute
+gastroenteritis in  humans.  The  NV genome, which consists of positive-sense,
+single-stranded RNA,  contains three open reading frames (ORFs). The first ORF
+produces a  polyprotein  that  is processed by the viral 3C-like protease into
+six nonstructural  proteins.  The  six  NV  ORF1  nonstructural  proteins  are
+homologous to  picornaviral  nonstructural proteins and are named accordingly:
+N-terminal protein, 2C-like nucleoside triphosphatase, 3A-like protein, 3B VPg
+(genome-linked viral  protein,  3C-like  protease  (NV  3CLpro), and a 3D RNA-
+dependent RNA  polymerase. NV 3CLpros are the key enzymes for ORF1 polyprotein
+processing and  also  cleave  the  poly(A)-binding  protein,  causing cellular
+translation inhibition.  NV  3CLpros  belong to the chymotrypsin-like protease
+family, in  that  they  appear  to  have  chymotrypsin-like folds. Whether the
+3CLpro domain  has  a  catalytic dyad of composed of histidine and cysteine or
+tryad of histidine, glutamate and cysteine remains controversial [1,2]. The NV
+3CLpro domain forms peptidase family C37 [E2].
+
+The NV  3CLpro  domain adopts a serine protease-like fold that consists of two
+beta-barrels separated  by  a cleft within which lie the active site catalytic
+residues (see  <PDB:1WQS>).  The  N-terminal beta barrel has two alpha-helices
+and seven  beta-strands.  The  beta-strands  form a twisted antiparallel beta-
+sheet ressembling  an incomplete beta-barrel. The core of the incomplete beta-
+barrel contains  hydrophobic  residues.  The  active site histidine residue is
+found in  the N-terminal beta-barrel, as well as the glutamate. The C-terminal
+six-stranded antiparallel  beta-barrel  contains the active site cysteine. The
+catalytic site  formed  is  situated deep within a cleft between the N- and C-
+terminal beta-barrels [1,2].
+
+The profile we developed covers the entire NV 3CLpro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2011 / First entry.
+
+[ 1] Nakamura K., Someya Y., Kumasaka T., Ueno G., Yamamoto M., Sato T.,
+     Takeda N., Miyamura T., Tanaka N.
+     "A norovirus protease structure provides insights into active and
+     substrate binding site integrity."
+     J. Virol. 79:13685-13693(2005).
+     PubMed=16227288; DOI=10.1128/JVI.79.21.13685-13693.2005
+[ 2] Zeitler C.E., Estes M.K., Venkataram Prasad B.V.
+     "X-ray crystallographic structure of the Norwalk virus protease at
+     1.5-A resolution."
+     J. Virol. 80:5050-5058(2006).
+     PubMed=16641296; DOI=10.1128/JVI.80.10.5050-5058.2006
+[E1] http://expasy.org/viralzone/all_by_species/194.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=c37
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

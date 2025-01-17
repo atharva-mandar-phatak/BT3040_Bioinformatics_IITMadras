@@ -1,0 +1,53 @@
+THYROIDHORMR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [1,2]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+In common with other members of the steroid hormone receptor family, thyroid
+hormone receptors (TRs) contain 2 major highly-conserved domains, involved
+in DNA- and ligand-binding respectively. Except for a conserved 12-residue
+motif adjacent to the DNA-binding domain, the N-terminal domains are 
+divergent between alpha- and beta-TR isoforms (but are conserved within
+isoforms). The DNA-binding domain is the most highly conserved feature of
+the family; it contains 2 zinc-binding modules (zinc fingers). The ligand-
+binding domain [4] includes a number of conserved motifs, parts of which
+are thought to be involved in dimerisation. The hinge region between these
+2 domains [5] is thought to contain the binding site for transcriptional
+co-repressor proteins that mediate the transcriptional repression function
+of unliganded receptors: for more information see the TRR resource at
+http://xanadu.mgh.harvard.edu//receptor/trrfront.html. 
+
+THYROIDHORMR is a 9-element fingerprint that provides a signature for the
+thyroid hormone receptors. The fingerprint was derived from an initial
+alignment of 17 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those areas of
+the alignment that characterise the TRs but distinguish them from the
+rest of the steroid hormone receptor family - motif 1 lies at the
+N-terminus just prior to the DNA-binding domain; and motifs 2-9 span the
+hinge and ligand-binding regions. Two iterations on OWL28.0 were required
+to reach convergence, at which point a true set comprising 40 sequences
+was identified. Three partial matches were also found (RATERBAA2, JC4014
+and MMU9419), all of which are steroid hormone receptor family members.
+
+An update on SPTR37_9f identified a true set of 29 sequences, and 1
+partial match.

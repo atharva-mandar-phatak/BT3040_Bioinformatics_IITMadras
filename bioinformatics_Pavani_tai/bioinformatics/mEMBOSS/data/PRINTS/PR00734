@@ -1,0 +1,27 @@
+GLHYDRLASE7
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt).
+
+Family 7 includes exoglucanases and cellobiohydrolases [5], which play a 
+role in the conversion of cellulose to glucose by cutting the dissaccharide
+cellobiose from the nonreducing end of the cellulose polymer chain. 
+Structurally, cellulases and xylanases generally consist of a catalytic
+domain joined to a cellulose-binding domain (CBD) via a linker region that
+is rich in proline and/or hydroxy-amino acids. In type I exoglucanases, the
+CBD domain is found at the C-terminal extremity of these enzyme (this short
+domain forms a hairpin loop structure stabilised by 2 disulphide bridges).
+
+GLHYDRLASE7 is a 9-element fingerprint that provides a signature for 
+family 7 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions 
+within the catalytic domain, prior to the linker region and C-terminal
+cellulose-binding domain. Two iterations on OWL29.3 were required to reach
+convergence, at which point a true set comprising 24 sequences was
+identified. Several partial matches were also found, all of which are
+cellobiohydrolase fragments.
+
+An update on SPTR37_9f identified a true set of 21 sequences.

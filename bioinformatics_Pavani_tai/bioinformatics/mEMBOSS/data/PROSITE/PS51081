@@ -1,0 +1,69 @@
+*********************************
+* Zinc finger SIAH-type profile *
+*********************************
+
+SINA/Siah  family proteins represent mammalian homologs of the Drosophila SINA
+(seven  in  absentia)  protein.  SINA  is  required  for R7 photoreceptor cell
+differentiation  within  the sevenless pathway [1]. Members of this family are
+E3  ubiquitin  ligases  that  regulate ubiquitination and protein degradation.
+Siahs  are  known  to  recognize  several target proteins including Deleted in
+Colorectal  Cancer (DCC), synaptophysin and Numb and promote their degradation
+[2,3].
+
+SINA/Siah sequences are highly conserved from plants to mammals. Whereas the N
+terminus  and  RING  domain  of  Siah  bind E2 proteins, the C terminus can be
+considered  as a substrate- and cofactor-interaction domain (substrate-binding
+domain,  SBD)  that  interacts  with  a  number of proteins, some of which are
+degraded  [4].  The  SBD  domain  displays some sequence similarities with the
+C-terminal  region  of  TRAF proteins. It contains a cysteine-rich region, the
+SIAH-type  zinc finger, with eight totally conserved Cys and His residues that
+coordinate two zinc atoms [5].
+
+The   crystal  structure  of  SIAH-type  zinc  finger  has  been  solved  (see
+<PDB:1K2F>)  [5].  It folds  in two subdomains, each one binding one zinc atom
+and consisting of two beta-strands and an alpha helice.
+
+The profile we developed covers the entire SIAH-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2005 / First entry.
+
+[ 1] Carthew R.W., Rubin G.M.
+     "seven in absentia, a gene required for specification of R7 cell fate
+     in the Drosophila eye."
+     Cell 63:561-577(1990).
+     PubMed=2146028
+[ 2] Hu G., Zhang S., Vidal M., Baer J.L., Xu T., Fearon E.R.
+     "Mammalian homologs of seven in absentia regulate DCC via the
+     ubiquitin-proteasome pathway."
+     Genes Dev. 11:2701-2714(1997).
+     PubMed=9334332
+[ 3] Susini L., Passer B.J., Amzallag-Elbaz N., Juven-Gershon T.,
+     Prieur S., Privat N., Tuynder M., Gendron M.C., Israel A., Amson R.,
+     Oren M., Telerman A.
+     "Siah-1 binds and regulates the function of Numb."
+     Proc. Natl. Acad. Sci. U.S.A. 98:15067-15072(2001).
+     PubMed=11752454; DOI=10.1073/pnas.261571998
+[ 4] Hu G., Fearon E.R.
+     "Siah-1 N-terminal RING domain is required for proteolysis function,
+     and C-terminal sequences regulate oligomerization and binding to
+     target proteins."
+     Mol. Cell. Biol. 19:724-732(1999).
+     PubMed=9858595
+[ 5] Polekhina G., House C.M., Traficante N., Mackay J.P., Relaix F.,
+     Sassoon D.A., Parker M.W., Bowtell D.D.
+     "Siah ubiquitin ligase is structurally related to TRAF and modulates
+     TNF-alpha signaling."
+     Nat. Struct. Biol. 9:68-75(2002).
+     PubMed=11742346; DOI=10.1038/nsb743
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

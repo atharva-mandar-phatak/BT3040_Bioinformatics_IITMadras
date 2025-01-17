@@ -1,0 +1,27 @@
+ZPELLUCIDA
+A large domain, containing around 260 amino acids, has been recognised in a
+variety of receptor-like eukaryotic glycoproteins [1]. These include: sperm
+receptor ZP2 and ZP3, which are responsible for sperm adhesion in the zona
+pellucida; glycoprotein GP2, which is the major component of pancreatic
+secretory granule membranes; TGF-beta receptor type III, which is a 
+proteoglycan that binds to TGF-beta; and uromodulin, which is a urinary
+glycoprotein of unknown function. All of these are mosaic proteins, each
+containing an extracellular region followed by either a TM domain and a
+short cytoplasmic region, or by a GPI-anchor. The domain common to all
+these proteins is located in the C-terminal portion of the extracellular
+region, and contains 8 conserved Cys residues, which are probably involved
+in disulphide bond formation.
+
+ZPELLUCIDA is a 6-element fingerprint that provides a signature for the
+zona pellucida sperm-binding proteins. The fingerprint was derived from
+an initial alignment of 10 sequences: the motifs were drawn from 
+conserved regions encompassing virtually the full domain length and include
+5 conserved Cys residues - motifs 4 and 5 span the region encoded by
+PROSITE pattern ZP_DOMAIN (PS00682). Two iterations on OWL24.0 were
+required to reach convergence, at which point a true set comprising 18
+sequences was identified. Three partial matches were also found, all of
+which are family members that fail to make significant matches with one
+or more of the motifs. 
+
+An update on SPTR37_9f identified a true set of 34 sequences, and 39
+partial matches.

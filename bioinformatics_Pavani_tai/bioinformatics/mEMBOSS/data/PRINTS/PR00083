@@ -1,0 +1,25 @@
+HOLDHDRGNASE
+Histidinol dehydrogenase catalyses the final step in microbial histidine
+biosynthesis, the 4-electron oxidation of L-histidinol to histidine [1]. In
+4-electron dehydrogenases, a single active site catalyses 2 separate 
+oxidation steps: oxidation of the substrate alcohol to an intermediate
+aldehyde; and oxidation of the aldehyde to the product acid, in this case
+His [1]. The reaction proceeds via a tightly- or covalently-bound inter-
+mediate, and requires the presence of 2 NAD molecules [1]. By contrast with
+most dehydrogenases, the substrate is bound before the NAD coenzyme [1]. A
+Cys residue has been implicated in the catalytic mechanism of the second
+oxidative step [1]. Bacterial histidinol dehydrogenase is a distinct single-
+chain enzyme [1], but is part of a multifunctional enzyme in fungi [2].
+
+HOLDHDRGNASE is a 9-element fingerprint that provides a signature for 
+histidinol dehydrogenases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 2 including the region
+encoded by PROSITE pattern HISOL_DEHYDROGENASE (PS00611), which contains
+the catalytically important Cys. Two iterations on OWL25.1 were required
+to reach convergence, at which point a true set comprising 12 sequences
+was identified. Two partial matches were also found (S24815 and PPPPIC3K),
+both of which are C-terminally truncated histidinol dehydrogenase fragments.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 2
+partial matches.

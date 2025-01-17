@@ -1,0 +1,60 @@
+****************************************
+* Gas vesicles protein GVPa signatures *
+****************************************
+
+Gas vesicles are small, hollow, gas filled protein structures found in several
+cyanobacterial  and archaebacterial     microorganisms  [1].  They  allow  the
+positioning of  the  bacteria  at the favorable depth for growth. Gas vesicles
+are hollow    cylindrical tubes, closed by a hollow, conical cap  at each end.
+Both the    conical  end caps and central cylinder are made  up of 4-5 nm wide
+ribs that  run at right angles to the long axis of the structure. Gas vesicles
+seem to be constituted of two different protein components: GVPa and GVPc.
+
+GVPa, a small protein of about 70 amino acid residues, is the main constituent
+of gas vesicles and form the essential core of the structure.  The sequence of
+GVPa is extremely well conserved.
+
+GvpJ and  gvpM,  two proteins encoded in the cluster of genes required for gas
+vesicle synthesis  in  the archaebacteria Halobacterium halobium and Haloferax
+mediterranei, have  been  found  [2]  to  be evolutionary related to GVPa. The
+exact  function of  these    two proteins is not known, although they could be
+important for determining the shape determination gas vesicles.
+
+The N-terminal  domain  of  Aphanizomenon  flos-aquae  protein  gvpA/J is also
+related to GVPa.
+
+We developed two  signature  patterns for this family of proteins.  The  first
+pattern  is located in the N-terminal  section while  the  second is in the C-
+terminal section.
+
+-Consensus pattern: [LIVM]-x-[DE]-[LIVMFYT]-[LIVM]-[DE]-x-[LIVM](2)-[DKR](2)-
+                    G-x-[LIVMA]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-[LIVA](3)-A-[GS]-[LIVMFY]-x-[TK]-x(3)-[YFI]-[AG]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Aphanizomenon flos-aquae gvpA/J.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Walsby A.E., Hayes P.K.
+     "Gas vesicle proteins."
+     Biochem. J. 264:313-322(1989).
+     PubMed=2513809
+[ 2] Jones J.G., Young D.C., DasSarma S.
+     "Structure and organization of the gas vesicle gene cluster on the
+     Halobacterium halobium plasmid pNRC100."
+     Gene 102:117-122(1991).
+     PubMed=1864501
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

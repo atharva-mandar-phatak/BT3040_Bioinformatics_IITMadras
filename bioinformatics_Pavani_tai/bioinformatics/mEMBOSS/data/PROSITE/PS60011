@@ -1,0 +1,109 @@
+*******************************************************
+* Plant C6 type antimicrobial peptide (AMP) signature *
+*******************************************************
+
+Plants normally  grow on substrates that are extremely rich in microorganisms,
+but infection  remains a rare event. During evolution, plants have developed a
+variety of  defense  systems  to  protect themselves from potential pathogens.
+Proteins including thionins, plant defensins and chitinases have been shown to
+play active  roles against pathogen infections. Plants produce a wide array of
+antimicrobial compounds  for  escaping  from  microorganisms by producing some
+proteins, which   are   having   antibacterial,   antifungal   activity,  etc.
+Antimicrobial peptides  extracted  from plants inhibit the growth of a variety
+of fungi, oomycetes, Gram-positive bacterial phytopathogenes and Saccharomyces
+cerevisiae. Many antimicrobial peptides (AMPs) which contain cysteine residues
+abundantly have  been  isolated from plants, and these are classified into the
+plant defensin  family.  Plant  defensins can be classified broadly into three
+types (hevein  type,  C6  type,  and  C8 type) according to the number and the
+position of cysteine residues in the molecules. The C6 type of plant defensins
+are highly  basic  proteins that contains 6 cysteine residues and a continuous
+sequence of  cysteine  (-CC-).  All  the 6 cysteines are involved in disulfide
+bond formation for stabilizing protein tertiary structure [1,2,3,4].
+
+                           +----------+
+                           |          |
+                           CxxxxCxxxxCCxxxCxxxxxxC
+                                |    |    |      |
+                                +----|----+      |
+                                     +-----------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+The overall  tertiary  structure  of  Ac-AMP2 consists of a centrally located,
+twisted anti-parallel beta-sheet, which acts as the core of the protein and is
+more or less covered by the rest of the protein (see <PDB:1MMC>) [4].
+
+Some C6 type AMPs are listed below:
+
+ - Mirabilis jalapa AMPs Mj-AMP1 and Mj-AMP2. They exhibit a broad spectrum of
+   antifungal activity [1].
+ - Phytolacca  americana  (pokeweed)  seeds  AMP  (Pa-AMP-1).  It inhibits the
+   growth of several filamentous fungi and gram-positive bacteria [2].
+ - Amaranthus  caudatus  AMPs Ac-AMP1 and Ac-AMP2, which are probably involved
+   in the  protection  of seeds or seedlings against fungi and microorganisms.
+   Although presently  uncertain,  the mode of action is most probably related
+   to the fact that they can bind to chitin, a polymer of beta-1,4-N-acetyl-D-
+   glucosamine [4].
+ - Impatiens  balsamina  (balsam) AMPs Ib-AMP1, Ib-AMP2, Ib-AMP3, and Ib-AMP4,
+   which play  a  role  in  the defense of the germinating seed against micro-
+   organisms, by  inhibiting  the  growth  of a range of filamentous fungi and
+   bacteria, especially Gram-positive bacteria [5].
+ - Mesembryanthemum crystallinum (common ice plant) AMP Mc-AMP-1. It possesses
+   antifungal and antibacterial activity.
+
+Our signature  pattern  for  plant C6 type antimicrobial peptides contains the
+six conserved  cysteines  involved  in  disulfide  bonds with knottin scaffold
+[E1].
+
+-Consensus pattern: C-[IV]-x(2,4)-[RG]-C-x(2,6)-[GP]-x-C-C-S-x(2,4)-C-
+                    x-{C}-x(4,8)-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: October 2006 / Pattern revised.
+
+[ 1] Cammue B.P.A., De Bolle M.F.C., Terras F.R.G., Proost P., Van Damme J.,
+     Rees S.B., Vanderleyden J., Broekaert W.F.
+     "Isolation and characterization of a novel class of plant
+     antimicrobial peptides form Mirabilis jalapa L. seeds."
+     J. Biol. Chem. 267:2228-2233(1992).
+     PubMed=1733929
+[ 2] Liu Y., Luo J., Xu C., Ren F., Peng C., Wu G., Zhao J.
+     "Purification, characterization, and molecular cloning of the gene of
+     a seed-specific antimicrobial protein from pokeweed."
+     Plant Physiol. 122:1015-1024(2000).
+     PubMed=10759497
+[ 3] Fujimura M., Ideguchi M., Minami Y., Watanabe K., Tadera K.
+     "Purification, characterization, and sequencing of novel antimicrobial
+     peptides, Tu-AMP 1 and Tu-AMP 2, from bulbs of tulip (Tulipa
+     gesneriana L.)."
+     Biosci. Biotechnol. Biochem. 68:571-577(2004).
+     PubMed=15056889
+[ 4] Martins J.C., Maes D., Loris R., Pepermans H.A.M., Wyns L., Willem R.,
+     Verheyden P.
+     "H NMR study of the solution structure of Ac-AMP2, a sugar binding
+     antimicrobial protein isolated from Amaranthus caudatus."
+     J. Mol. Biol. 258:322-333(1996).
+     PubMed=8627629
+[ 5] Tailor R.H., Acland D.P., Attenborough S., Cammue B.P.A., Evans I.J.,
+     Osborn R.W., Ray J.A., Rees S.B., Broekaert W.F.
+     "A novel family of small cysteine-rich antimicrobial peptides from
+     seed of Impatiens balsamina is derived from a single precursor
+     protein."
+     J. Biol. Chem. 272:24480-24487(1997).
+     PubMed=9305910
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,74 @@
+************************************************
+* Glycine radical domain signature and profile *
+************************************************
+
+Protein radicals  are  components of several biologically important reactions.
+Glycyl radical  enzymes  are  involved  in  a  great variety of functions, for
+example, nucleotide,  pyruvate  and  toluene metabolism [1]. These enzymes are
+posttranslationally interconverted,   under   anaerobic  conditions,  from  an
+inactive to  an  active  form  that  carries  a  stable radical localized to a
+specific glycine  at  the C-terminal region of the polypeptidic chain. Extreme
+sensitivity towards  destruction  by  oxygen,  leading to polypeptide cleavage
+between the N-Calpha bond of the Gly residue, is a conspicuous property of all
+protein-based glycyl radicals, thus confining their existence to strictly
+anaerobic conditions.
+
+Some proteins known to contain a glycyl radical are listed below:
+
+ - Escherichia  coli  pyruvate  formate-lyase  (EC 2.3.1.54) (genes pflB, pflD
+   and pflF),  a  key  enzyme  of  anaerobic  glucose  metabolism, it converts
+   pyruvate and CoA into acetyl-CoA and pyruvate [2].
+ - Escherichia  coli  (gene  nrdD)  and  bacteriophage  T4 (gene nrdD or sunY)
+   anaerobic ribonucleoside-triphosphate reductase (EC 1.17.4.2) [3,4].
+ - Escherichia  coli  and  bacteriophage T4 autonomous glycyl radical cofactor
+   (gene grcA) [5].
+
+These proteins share a conserved region  centered around the glycine which, in
+pfl, is  known to  bear the free radical.  We  use this region has a signature
+pattern. We  also  developed a profile which covers the entire glycine radical
+domain.
+
+-Consensus pattern: [STIV]-x-R-[IVT]-[CSA]-G-Y-{GI}-[GACV]
+                    [G carries the radical]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Eklund H., Fontecave M.
+     "Glycyl radical enzymes: a conservative structural basis for radicals."
+     Structure 7:R257-R262(1999).
+     PubMed=10574800
+[ 2] Wagner A.F.V., Frey M., Neugebauer F.A., Schaefer W., Knappe J.
+     "The free radical in pyruvate formate-lyase is located on glycine-734."
+     Proc. Natl. Acad. Sci. U.S.A. 89:996-1000(1992).
+     PubMed=1310545
+[ 3] Sun X., Harder J., Krook M., Joernvall H., Sjoeberg B.-M., Reichard P.
+     "A possible glycine radical in anaerobic ribonucleotide reductase from
+     Escherichia coli: nucleotide sequence of the cloned nrdD gene."
+     Proc. Natl. Acad. Sci. U.S.A. 90:577-581(1993).
+     PubMed=8421692
+[ 4] Young P., Oehman M., Xu M.Q., Shub D.A., Sjoeberg B.-M.
+     "Intron-containing T4 bacteriophage gene sunY encodes an anaerobic
+     ribonucleotide reductase."
+     J. Biol. Chem. 269:20229-20232(1994).
+     PubMed=8051113
+[ 5] Wagner A.F.V., Schultz S., Bomke J., Pils T., Lehmann W.D., Knappe J.
+     "YfiD of Escherichia coli and Y06I of bacteriophage T4 as autonomous
+     glycyl radical cofactors reconstituting the catalytic center of
+     oxygen-fragmented pyruvate formate-lyase."
+     Biochem. Biophys. Res. Commun. 285:456-462(2001).
+     PubMed=11444864; DOI=10.1006/bbrc.2001.5186
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

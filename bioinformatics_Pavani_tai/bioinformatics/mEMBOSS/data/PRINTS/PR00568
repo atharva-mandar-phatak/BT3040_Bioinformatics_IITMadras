@@ -1,0 +1,52 @@
+DOPAMINED3R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Dopamine neurons in the vertebrate central nervous system are involved in
+the initiation and execution of movement, the maintenance of emotional
+stability, and the regulation of pituitary function [6]. Various human
+neurological diseases (e.g., Parkinson disease and schizophrenia), are
+believed to be manifestations of dopamine and dopamine receptor imbalance.
+The receptors have been divided into several different subtypes (designated
+D1-D5), which may be distinguished by their G protein coupling, ligand
+specificity, anatomical distribution and physiological effects.
+
+D3 receptors have a similar pharmacological profile to D2 receptors. They
+are expressed predominantly in the limbic area (including the olfactory
+tubercle, nucleus accumbens, islands of Calleja and hypothalamus), and they
+are present in lower levels in the caudate-putamen and cerebral cortex [7].
+The receptors are also found in dopamine cell bodies in the substantia
+nigra [7]. The distribution of the receptors is consistent with a role in
+cognition and emotional functions; they may thus be the target of anti-
+psychotic therapy involving dopamine antagonists [7]. 
+
+DOPAMINED3R is a 7-element fingerprint that provides a signature for the
+D3 family of dopamine receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved sections
+within either loop or N-terminal regions, focusing on those areas of the
+alignment that characterise the D3 receptors but distinguish them from the
+rest of the rhodopsin-like superfamily - motif 1 lies at the N-terminus;
+motif 2 spans the second cytoplasmic loop, leading into the N-terminus of
+TM domain 4; motifs 3-6 span the third cytoplasmic loop; and motif 7 spans
+the third external loop, leading into the N-terminus of TM domain 7. A
+single iteration on OWL28.1 was required to reach convergence, no further
+sequences being identified beyond the starting set. Two partial matches
+were also found, A48258 and A55419, both of which are D3 receptor fragments.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

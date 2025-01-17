@@ -1,0 +1,66 @@
+**********************
+* BAG domain profile *
+**********************
+
+Bcl2-associated athanogene (BAG) family proteins participate in a wide variety
+of   cellular   processes   including   cell   survival   (stress   response),
+proliferation,  migration  and  apoptosis.  These  proteins  share a conserved
+region  of  about  110 amino-acids at their carboxy terminus, named as the BAG
+domain. It has been shown [1,3] that the BAG domain can interact with the heat
+shock  proteins  70  (Hsc70/Hsp70)  (see  <PDOC00269>) and can modulate either
+positively  or  negatively  these chaperone proteins. In BAG-1, the BAG domain
+also  interact  with the serine/threonine kinase Raf-1 in a mutually exclusive
+interaction.  BAG-1  promotes  cell growth by binding to and stimulating Raf-1
+activity.  The  binding  to  Hsc70/Hsp70  have  an  anti-apoptotic  effect, it
+diminishes  Raf-1  signaling  and  inhibits  subsequent  events,  such  as DNA
+synthesis  and arrests of the cell cycle [1]. The C-terminus of the BAG domain
+is  also  a  possible site of interaction with Bcl-2 in BAG-1 and BAG-3/CAIR-1
+which provides a supra-additive anti-apoptotic effect [2].
+
+The  BAG  domain  is found in association with several N-terminal domains like
+ubiquitin  (see  <PDOC00271>),  IQ  (see  <PDOC50096>), and the WW domain (see
+<PDOC50020>).  These domains enable BAG family proteins to interact with other
+proteins  and  potentially  alter  the  activity  of  those target proteins by
+recruiting Hsc70/Hsp70 [1].
+
+The  crystal  structure of the BAG domain has been solved (see <PDB:1HX1>)[3],
+and revealed that it consists of three anti-parallel alpha helices. In the BAG
+domain   the   first   and   the   second   alpha-helices  interact  with  the
+serine/threonine  kinase Raf-1 and the second and third alpha-helices interact
+with the ATP-binding pocket of Hsc70/Hsp70.
+
+The  profile we developed covers half of the first alpha-helix, the second one
+and the third one.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2004 / First entry.
+
+[ 1] Doong H., Vrailas A., Kohn E.C.
+     "What's in the 'BAG'? -- a functional domain analysis of the BAG-family
+     proteins."
+     Cancer Lett. 188:25-32(2002).
+     PubMed=12406544
+[ 2] Takayama S., Sato T., Krajewski S., Kochel K., Irie S., Millan J.A.,
+     Reed J.C.
+     "Cloning and functional analysis of BAG-1: a novel Bcl-2-binding
+     protein with anti-cell death activity."
+     Cell 80:279-284(1995).
+     PubMed=7834747
+[ 3] Sondermann H., Scheufler C., Schneider C., Hoehfeld J., Hartl F.-U.,
+     Moarefi I.
+     "Structure of a Bag/Hsc70 complex: convergent functional evolution of
+     Hsp70 nucleotide exchange factors."
+     Science 291:1553-1557(2001).
+     PubMed=11222862; DOI=10.1126/science.291.5508.1553
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

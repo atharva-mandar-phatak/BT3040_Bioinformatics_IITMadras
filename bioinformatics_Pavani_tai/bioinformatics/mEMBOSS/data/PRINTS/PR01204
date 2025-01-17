@@ -1,0 +1,56 @@
+GLY1TRNSPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane helices and includes 
+carriers for gamma-aminobutyric acid (GABA), noradrenaline/adrenaline, 
+dopamine, serotonin, proline, glycine, choline, betaine and taurine. They
+are structurally distinct from the second more-restricted family of plasma
+membrane transporters, which are responsible for excitatory amino acid
+tranport. The latter couple glutamate and aspartate uptake to the co-
+transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5].
+
+Glycine is known to serve two contrasting roles as a neurotransmitter in
+the central nervous system. Firstly, it serves as an inhibitory neuro-
+transmitter in the spinal cord, brainstem and retina, where it activates a
+ligand-gated Cl- channel. Secondly, it is an obligatory co-agonist for
+activation of the N-methyl-D-aspartate (NMDA) receptor - unless glycine
+is also bound to the NMDA receptor, glutamate cannot activate this ion
+channel. Not surprisingly, then, plasma membranes possess glycine
+transporters in order to regulate its concentration. Two independent genes
+have been identified that encode Na+ and Cl- -coupled glycine transporters.
+Their products, referred to as GLYT-1 and GLYT-2, have differing
+distribution patterns within the central nervous system, suggesting they
+may subserve unique functions [6]. Indeed the distribution of the GLYT-1
+transporter suggests it may play a role in regulating glycine
+concentrations in brain regions containing glycine-dependent NMDA receptors
+[7]. Three different mRNA isoforms for GLYT-1 have been detected. These
+arise as a result of differential splicing, or the usage of multiple
+promoter sites. They encode transporters of 633, 638 and 692 amino acid
+residues, all three having 50-60% similarity to other transporters in the
+Na+ and Cl- -coupled neurotransmitter transporter superfamily.
+
+GLY1TRNSPORT is a 4-element fingerprint that provides a signature for the
+glycine neurotransmitter transporter type 1 (GLYT-1). The fingerprint was
+derived from an initial alignment of 3 sequences: the motifs were drawn
+from conserved regions located within the first third of the alignment,
+focusing on those sections that characterise the glycine transporter
+but distinguish it from others - motifs 1-2 reside within the putative
+cytoplasmic N-terminus; and motifs 3-4 encode portions of the large
+extracellular loop located between TM domains 3 and 4. Two iterations on
+SPTR37_9f were required to reach convergence, at which point a true set
+comprising 4 sequences was identified.

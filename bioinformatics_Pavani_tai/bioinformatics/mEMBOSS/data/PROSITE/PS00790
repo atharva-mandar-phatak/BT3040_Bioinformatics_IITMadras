@@ -1,0 +1,78 @@
+***********************************************
+* Receptor tyrosine kinase class V signatures *
+***********************************************
+
+A number of growth factors  stimulate mitogenesis by interacting with a family
+of   cell  surface receptors which   possess  an  intrinsic, ligand-sensitive,
+protein tyrosine kinase activity [1].   These  receptor tyrosine kinases (RTK)
+all share the same topology: an  extracellular ligand-binding domain, a single
+transmembrane  region and a cytoplasmic  kinase domain.   However  they can be
+classified into at  least  five groups on the basis of  sequence similarities.
+The extracellular domain of class V RTK's consist  of  a  region  of about 300
+amino acids,  amongst  which  16  conserved    cysteines  probably involved in
+disulfide bonds;  this  region is followed by two copies of a fibronectin type
+III domain.  The ligands  for these receptors are proteins of about 200 to 300
+residues collectively  known  as  Ephrins  (see  <PDOC01003>).  The  receptors
+currently known to belong to class V are [2,3,E1]:
+
+ - EPHA1 (Eph-1; Esk).
+ - EPHA2 (Eck; Mpk-5; Sek-2).
+ - EPHA3 (Etk-1; Hek; Mek4; Tyro4; Rek4; Cek4).
+ - EPHA4 (Sek; Hek8; Mpk-3; Cek8).
+ - EPHA5 (Ehk-1; Hek7; Bsk; Cek7).
+ - EPHA6 (Ehk-2).
+ - EPHA7 (Ehk-3; Hek11; Mdk-1; Ebk).
+ - EPHA8 (Eek).
+ - EPHB1 (Eph-2; Elk; Net).
+ - EPHB2 (Eph-3; Hek5; Drt; Erk; Nuk; Sek-3; Cek5; Qek5).
+ - EPHB3 (Hek-2; Mdk-5).
+ - EPHB4 (Htk; Mdk-2; Myk-1).
+ - EPHB5 (Cek9).
+ - EPHB6 (HEP).
+
+The EPHA subtype receptors bind to GPI-anchored ephrins while the EPHB subtype
+receptors bind to type-I membrane ephrins.
+
+We developed  two  signature  patterns  for  this  class  of RTK's, which each
+include some of the conserved cysteine residues.
+
+-Consensus pattern: F-x-[DN]-x-[GAW]-[GAS]-C-[LIVM]-[SA]-[LIVM](2)-[SA]-[LV]-
+                    [KRHQ]-[LIVA]-x(3)-[KREQT]-C-[PSAWR]
+                    [The 2 C's may be involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-x(2)-[DE]-G-[DEQKRG]-W-x(2,3)-[PAQ]-[LIVMT]-[GT]-x-C-
+                    x-C-x(2)-G-[HFY]-[EQ]
+                    [The 3 C's may be involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Yarden Y., Ullrich A.
+     "Growth factor receptor tyrosine kinases."
+     Annu. Rev. Biochem. 57:443-478(1988).
+     PubMed=3052279; DOI=10.1146/annurev.bi.57.070188.002303
+[ 2] Sajjadi F.G., Pasquale E.B., Subramani S.
+     "Identification of a new eph-related receptor tyrosine kinase gene
+     from mouse and chicken that is developmentally regulated and encodes
+     at least two forms of the receptor."
+     New Biol. 3:769-778(1991).
+     PubMed=1657122
+[ 3] Wicks I.P., Wilkinson D., Salvaris E., Boyd A.W.
+     "Molecular cloning of HEK, the gene encoding a receptor tyrosine
+     kinase expressed by human lymphoid tumor cell lines."
+     Proc. Natl. Acad. Sci. U.S.A. 89:1611-1615(1992).
+     PubMed=1311845
+[E1] http://depts.washington.edu/eph/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,55 @@
+******************************************
+* Indoleamine 2,3-dioxygenase signatures *
+******************************************
+
+Indoleamine 2,3-dioxygenase (EC 1.13.11.42) (IDO) [1] is an enzyme responsible
+for the  conversion of tryptophan and other indole derivatives to kynurenines.
+In mammals, IDO is induced by interferon-gamma (IFN-gamma) and responsible for
+some of  its  anti-proliferative  effects.  The  degradative  action of IDO on
+tryptophan leads  to cell death by starvation of this essential and relatively
+scarce amino acid. IDO is a heme-containing enzyme of about 400 amino acids.
+
+Other proteins that are evolutionarily related to IDO are:
+
+ - Myoglobin  from  the  red  muscle  of  the  gastropods  Nordotis madaka and
+   Sulculus diversicolor  [2].  These  unusual globins lack enzymatic activity
+   but have kept the heme group.
+ - Yeast hypothetical protein YJR078w.
+
+As a  signature  for  the  IDO  family, we selected two conserved regions. The
+first is  located    in  the central section and is rich in glycine and serine
+residues; the  second  is  located  in  the  second  third of the sequence and
+contains a  conserved  histidine  that could serve as a proximal ligand to the
+heme iron.
+
+-Consensus pattern: G-G-S-[AN]-[GA]-Q-S-S-x(2)-Q
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [FY]-L-[DQ]-[DE]-[LIVM]-x(2)-Y-M-x(3)-H-[KR]
+                    [The H is a heme ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Taylor M.W., Feng G.S.
+     "Relationship between interferon-gamma, indoleamine 2,3-dioxygenase,
+     and tryptophan catabolism."
+     FASEB J. 5:2516-2522(1991).
+     PubMed=1907934
+[ 2] Suzuki T.
+     "Abalone myoglobins evolved from indoleamine dioxygenase: the
+     cDNA-derived amino acid sequence of myoglobin from Nordotis madaka."
+     J. Protein Chem. 13:9-13(1994).
+     PubMed=8011076
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

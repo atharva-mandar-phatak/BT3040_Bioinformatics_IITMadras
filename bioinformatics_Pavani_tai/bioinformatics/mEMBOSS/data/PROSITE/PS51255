@@ -1,0 +1,69 @@
+**********************************************
+* ADP-dependent kinase (ADPK) domain profile *
+**********************************************
+
+Although ATP  is  the  most common phosphoryl group donor for kinases, certain
+hyperthermophilic archaea,  such  as  Thermococcus  litoralis  and  Pyrococcus
+furiosus, utilize    unusual    ADP-dependent    glucokinases   (ADPGKs)   and
+phosphofructokinases (ADPPKKs)  in their glycolytic pathways [1-3]. ADPGKs and
+ADPPFKs exhibit  significant  similarity,  and  form  an  ADP-dependent kinase
+(ADPK) family, which was tentatively named the PFKC family [4]. A ~460-residue
+ADPK domain is also found in a bifunctional ADP-dependent gluco/phosphofructo-
+kinase (ADP-GK/PFK)  from  Methanococcus  jannaschii  as well as in homologous
+hypothetical proteins present in several eukaryotes [5].
+
+The whole  structure  of  the  ADPK domain can be divided into large and small
+alpha/beta subdomains (see <PDB:1GC5; A>). The larger subdomain, which carries
+the ADP  binding site, consists of a twisted 12-stranded beta sheet flanked on
+both faces  by 13 alpha helices and three 3(10) helices, forming an alpha/beta
+3-layer sandwich.  The  smaller subdomain, which covers the active site, forms
+an alpha/beta  two-layer  structure  containing  5 beta strands and four alpha
+helices. The  ADP  molecule  is  buried  in  a  shallow  pocket  in  the large
+subdomain. The  binding  of  substrate  sugar induces a structural change, the
+small domain closing to form a complete substrate sugar binding site [1-3].
+
+The profile we developed covers the entire ADPK domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2006 / First entry.
+
+[ 1] Ito S., Fushinobu S., Yoshioka I., Koga S., Matsuzawa H., Wakagi T.
+     "Structural basis for the ADP-specificity of a novel glucokinase from
+     a hyperthermophilic archaeon."
+     Structure 9:205-214(2001).
+     PubMed=11286887
+[ 2] Tsuge H., Sakuraba H., Kobe T., Kujime A., Katunuma N., Ohshima T.
+     "Crystal structure of the ADP-dependent glucokinase from Pyrococcus
+     horikoshii at 2.0-A resolution: a large conformational change in
+     ADP-dependent glucokinase."
+     Protein Sci. 11:2456-2463(2002).
+     PubMed=12237466
+[ 3] Ito S., Fushinobu S., Jeong J.-J., Yoshioka I., Koga S., Shoun H.,
+     Wakagi T.
+     "Crystal structure of an ADP-dependent glucokinase from Pyrococcus
+     furiosus: implications for a sugar-induced conformational change in
+     ADP-dependent kinase."
+     J. Mol. Biol. 331:871-883(2003).
+     PubMed=12909015
+[ 4] Ronimus R.S., Morgan H.W.
+     "The biochemical properties and phylogenies of phosphofructokinases
+     from extremophiles."
+     Extremophiles 5:357-373(2001).
+     PubMed=11778837
+[ 5] Verhees C.H., Tuininga J.E., Kengen S.W.M., Stams A.J.M.,
+     van der Oost J., de Vos W.M.
+     "ADP-dependent phosphofructokinases in mesophilic and thermophilic
+     methanogenic archaea."
+     J. Bacteriol. 183:7145-7153(2001).
+     PubMed=11717273; DOI=10.1128/JB.183.24.7145-7153.2001
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

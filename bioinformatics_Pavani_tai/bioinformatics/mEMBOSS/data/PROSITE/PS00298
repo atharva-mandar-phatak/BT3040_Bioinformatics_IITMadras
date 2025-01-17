@@ -1,0 +1,57 @@
+**********************************************
+* Heat shock hsp90 proteins family signature *
+**********************************************
+
+Prokaryotic   and  eukaryotic  organisms   respond  to  heat  shock  or  other
+environmental  stress  by  the  induction   of   the  synthesis   of  proteins
+collectively known as heat-shock proteins (hsp) [1].  Amongst them is a family
+of proteins,  with  an  average  molecular weight of 90 Kd, known as the hsp90
+proteins. Proteins known to belong to this family are:
+
+ - Escherichia coli and other bacteria heat shock protein c62.5 (gene htpG).
+ - Vertebrate hsp 90-alpha (hsp 86) and hsp 90-beta (hsp 84).
+ - Drosophila hsp 82 (hsp 83).
+ - Trypanosoma cruzi hsp 85.
+ - Plants Hsp82 or Hsp83.
+ - Yeast and other fungi HSC82, and HSP82.
+ - The endoplasmic reticulum  protein 'endoplasmin'  (also  known  as Erp99 in
+   mouse, GRP94 in hamster, and hsp 108 in chicken).
+
+The exact function of  hsp90  proteins is not yet known. In higher eukaryotes,
+hsp90  has been found associated with steroid hormone receptors, with tyrosine
+kinase oncogene  products of several retroviruses,  with eIF2alpha kinase, and
+with actin  and  tubulin.  Hsp90  are probable chaperonins that possess ATPase
+activity [2,3].
+
+As a signature pattern for the  hsp90  family of  proteins, we have selected a
+highly conserved region found in the N-terminal part of these proteins.
+
+-Consensus pattern: Y-x-[NQHD]-[KHR]-[DE]-[IVA]-F-[LM]-R-[ED]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Lindquist S., Craig E.A.
+     "The heat-shock proteins."
+     Annu. Rev. Genet. 22:631-677(1988).
+     PubMed=2853609; DOI=10.1146/annurev.ge.22.120188.003215
+[ 2] Nadeau K., Das A., Walsh C.T.
+     "Hsp90 chaperonins possess ATPase activity and bind heat shock
+     transcription factors and peptidyl prolyl isomerases."
+     J. Biol. Chem. 268:1479-1487(1993).
+     PubMed=8419347
+[ 3] Jakob U., Buchner J.
+     "Assisting spontaneity: the role of Hsp90 and small Hsps as molecular
+     chaperones."
+     Trends Biochem. Sci. 19:205-211(1994).
+     PubMed=7914036
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

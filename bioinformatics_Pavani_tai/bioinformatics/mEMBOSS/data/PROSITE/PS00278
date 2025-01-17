@@ -1,0 +1,54 @@
+******************************************************************************
+* Staphylococcal enterotoxins / Streptococcal pyrogenic exotoxins signatures *
+******************************************************************************
+
+Staphylococcal enterotoxins and streptococcal pyrogenic exotoxins constitute a
+family of   biologically   and   structurally   related   toxins  produced  by
+Staphylococcus aureus and  Streptococcus  pyogenes [1,2].  These  toxins share
+the ability  to bind to the major histocompatibility complex proteins of their
+hosts. The toxins that belong to this family are:
+
+ - Staphylococcal enterotoxins are  the cause of staphylococcal food poisoning
+   syndrome.  The sequence  of six  different enterotoxins is known: SEA, SEB,
+   SEC1, SEC3, SED, and SEE.
+ - Streptococcal pyrogenic exotoxins  are the causative agents of the symptoms
+   associated with scarlet fever.  The sequence  of two pyrogenic exotoxins is
+   known: SPEA, and SPEC.
+ - Staphylococcus aureus toxic shock syndrome toxin-1 (TSST-1).
+
+While the enterotoxins and the pyrogenic exotoxins are closely related, TSST-1
+seems to be only distantly  related  to  the other toxins.  We  developed  two
+patterns for this family of toxins. The first one is based on a well conserved
+region of enterotoxins and pyrogenic exotoxins,  but  which  does  not pick up
+TSST-1; the second pattern is derived from a more diffuse region of similarity
+common to all these toxins.
+
+-Consensus pattern: Y-G(2)-[LIV]-T-{I}-{N}-x(2)-N
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for TSST-1.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: K-x(2)-[LIVF]-x(4)-[LIVF]-D-x(3)-R-x(2)-L-x(5)-[LIV]-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Iandolo J.J.
+     "Genetic analysis of extracellular toxins of Staphylococcus aureus."
+     Annu. Rev. Microbiol. 43:375-402(1989).
+     PubMed=2679358; DOI=10.1146/annurev.mi.43.100189.002111
+[ 2] Marrack P., Kappler J.
+     "The staphylococcal enterotoxins and their relatives."
+     Science 248:705-711(1990).
+     PubMed=2185544
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

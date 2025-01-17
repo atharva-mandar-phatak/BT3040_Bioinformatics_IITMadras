@@ -1,0 +1,47 @@
+***********************************
+* Ribosomal protein L27 signature *
+***********************************
+
+Ribosomal protein L27 is one of the proteins from the large ribosomal subunit.
+L27  belongs to a family of ribosomal proteins which, on the basis of sequence
+similarities [1,2], groups:
+
+ - Eubacterial L27.
+ - Plant chloroplast L27 (nuclear-encoded).
+ - Algal chloroplast L27.
+ - Yeast mitochondrial YmL2 (gene MRPL2 or MRP7).
+
+The schematic relationship between these groups of proteins is shown below.
+
+ Eub. L27              Nxxxxxxxxx
+ Algal L27             Nxxxxxxxxx
+ Plant L27        tttttNxxxxxxxxxxxxx
+ Yeast MRP7         tttNxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                          ***
+
+'t': transit peptide.
+'N': N-terminal of mature protein.
+'*': position of the pattern.
+
+-Consensus pattern: G-x-[LIVM](2)-x-R-Q-R-G-x(5)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Elhag G.A., Bourque D.P.
+     "Nuclear-encoded chloroplast ribosomal protein L27 of Nicotiana
+     tabacum: cDNA sequence and analysis of mRNA and genes."
+     Biochemistry 31:6856-6864(1992).
+     PubMed=1339289
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,16 @@
+GFGPROTEIN
+An antisense transcript from the Xenopus laevis basic fibroblast growth
+factor (bFGF) gene has been shown to code for an unknown 24kDa protein [1].
+The protein contains an evolutionarily conserved MutT domain core, which
+is a characteristic of the NUDIX hydrolase family [2].
+
+GFGPROTEIN is an 8-element fingerprint that provides a signature for 
+anti-sense to fibroblast growth factor GFG transcripts. The fingerprint was 
+derived from an initial alignment of 2 sequences: the motifs were drawn from
+conserved regions spanning the N- and C-terminal portions of the alignment -
+motifs 1-4 lie immediately N-terminal to the MutT domain, and motifs 5-8
+immediately C-terminal to it. Two iterations on SPTR37_10f were required to 
+reach convergence, at which point a true set comprising 3 sequences was
+identified. A single partial match was found, O95097, the human antisense
+basic fibroblast growth factor A, which fails to match the 4 N-terminal 
+motifs.

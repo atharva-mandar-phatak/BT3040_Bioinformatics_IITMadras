@@ -1,0 +1,119 @@
+*************************************************
+* Nudix hydrolase domain signatures and profile *
+*************************************************
+
+The Nudix  superfamily  is  widespread among eucaryotes, bacteria, archaea and
+viruses and  consists mainly of pyrophosphohydrolases that act upon substrates
+of general  structure  NUcleoside  DIphosphate  linked  to  another  moiety, X
+(NDP-X) to yield NMP plus P-X. Such substrates include (d)NTPs (both canonical
+and oxidised   derivatives),  nucleotide  sugars  and  alcohols,  dinucleoside
+polyphosphates (NpnN),   dinucleotide  coenzymes  and  capped  RNAs.  However,
+phosphohydrolase activity,  including  activity  towards  NDPs themselves, and
+non-nucleotide substrates  such  as  diphosphoinositol  polyphosphates (DIPs),
+5-phosphoribosyl 1-pyrophosphate  (PRPP),  thiamine  pyrophosphate  (TPP)  and
+dihydroneopterin triphosphate   (DHNTP)   have   also   been  described.  Some
+superfamily members,  such  as  Escherichia  coli  mutT,  have  the ability to
+degrade potentially  mutagenic,  oxidised nucleotides while others control the
+levels of metabolic intermediates and signalling compounds. In procaryotes and
+simple eucaryotes,  the  number  of  Nudix  genes  varies  from  0 to over 30,
+reflecting the  metabolic  complexity  and adaptability of the organism. Nudix
+hydrolases are typically small proteins, larger ones having additional domains
+with interactive or other catalytic functions [1].
+
+The Nudix  domain  formed by two beta-sheets packed between alpha-helices (see
+<PDB:1G0S; A>)  [2,3]. It can accomodate sequences of different lengths in the
+connecting loops  and in the amtiparallel beta-sheet. Catalysis depends on the
+conserved 23-amino  acid  Nudix  motif  (Nudix box), G-x(5)-E-x(5)-[UA]-x-R-E-
+x(2)-E-E-x-G-U, where U is an aliphatic, hydrophobic residue. This sequence is
+located in a loop-helix-loop structural motif and the Glu residues in the core
+of the  motif,  R-E-x(2)-E-E,  play  an  important  role  in binding essential
+divalent cations  [1].  The  substrate  specificity  is  determined   by other
+residues outside  the  Nudix  box. For example, CoA pyrophosphatases share the
+NuCoA motif   L-L-T-x-R-[SA]-x(3)-R-x(3)-G-x(3)-F-P-G-G  that  is  located  N-
+terminal of the Nudix box and is involved in CoA recognition [4].
+
+Some proteins known to contain a Nudix domain are listed below:
+
+ - Bacterial  mutator  mutT  protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+   (8-oxo-dGTPase) (3.6.1.-) (dGTP pyrophosphohydrolase).
+ - Streptomyces pneumoniae mutX.
+ - Escherichia  coli nudB (ntpA) dihydroneopterin triphosphate pyrophosphatase
+   (EC 3.6.1.-) (dATP pyrophosphohydrolase).
+ - Escherichia  coli  (yjaD)  and  Haemophilus  influenzae  (HI0432) nudC NADH
+   pyrophosphatase (EC 3.6.1.22).
+ - Escherichia coli nudE (yrfE) ADP compounds hydrolase (EC 3.6.1.-).
+ - Bacterial nudH (rppH) RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside
+   polyphosphate hydrolase).
+ - Escherichia coli nudI (yfaO) nucleoside triphosphatase (EC 3.6.1.-).
+ - Escherichia coli uncharacterized Nudix hydrolase nudL (EC 3.6.1.-).
+ - Streptomyces ambofaciens MutT-like protein from plasmid pSAM2.
+ - Bacillus subtilis hypothetical protein yqkG.
+ - Bacillus subtilis hypothetical protein yzgD.
+ - Mammalian NUDT1 and NUDT15 7,8-dihydro-8-oxoguanine triphosphatase
+   (EC 3.1.6.-).
+ - Mammalian   NUDT2   diadenosine  5',5'''-P1,P4-tetraphosphate  asymmetrical
+   hydrolase (Ap4Aase) (EC 3.6.1.17) [5], which cleaves A-5'-PPPP-5'A to yield
+   AMP and ATP.
+ - Higher  vertebrates NUDT6 nucleoside diphosphate-linked moiety X motif 6, a
+   protein encoded  on the antisense RNA of the basic fibroblast growth factor
+   gene.
+ - Yeast ADP-ribose pyrophosphatase (EC 3.6.1.13) (YSA1).
+ - Yeast NADH pyrophosphatase (EC 3.6.1.22) (NPY1) (YGL067W).
+ - Yeast  peroxisomal  coenzyme  A  diphosphatase  1, peroxisomal (EC 3.6.1.-)
+   (PCD1).
+ - African swine fever viruses protein D250.
+ - Poxviruses proteins D9 and D10.
+
+We developed two patterns for the Nudix domain. The first one covers the Nudix
+box and  the  second the NuCoA motif. We also developed a profile which covers
+the entire Nudix domain.
+
+-Consensus pattern: G-x(5)-E-x(4)-[TAGCV]-[LIVMACF]-x-R-[EL]-[LIVMFGSTA]-x-
+                    [EA]-E-x-[GNDTHR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LM]-[LF]-T-x-R-[SA]-x(3)-[RK]-x(3)-G-x(3)-F-P-G(2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Koonin E.V.; koonin@ncbi.nlm.nih.gov
+
+-Last update: August 2009 / Text revised; profile added.
+
+[ 1] McLennan A.G.
+     "The Nudix hydrolase superfamily."
+     Cell. Mol. Life Sci. 63:123-143(2006).
+     PubMed=16378245; DOI=10.1007/s00018-005-5386-7
+[ 2] Bessman M.J., Frick D.N., O'Handley S.F.
+     "The MutT proteins or 'Nudix' hydrolases, a family of versatile,
+     widely distributed, 'housecleaning' enzymes."
+     J. Biol. Chem. 271:25059-25062(1996).
+     PubMed=8810257
+[ 3] Gabelli S.B., Bianchet M.A., Xu W., Dunn C.A., Niu Z.D., Amzel L.M.,
+     Bessman M.J.
+     "Structure and function of the E. coli dihydroneopterin triphosphate
+     pyrophosphatase: a Nudix enzyme involved in folate biosynthesis."
+     Structure 15:1014-1022(2007).
+     PubMed=17698004; DOI=10.1016/j.str.2007.06.018
+[ 4] Kupke T., Caparros-Martin J.A., Malquichagua Salazar K.J.,
+     Culianez-Macia F.A.
+     "Biochemical and physiological characterization of  Arabidopsis
+     thaliana AtCoAse: a Nudix CoA hydrolyzing  protein that improves plant
+     development."
+     Physiol. Plantarum 135:365-378(2009).
+     PubMed=19340986
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

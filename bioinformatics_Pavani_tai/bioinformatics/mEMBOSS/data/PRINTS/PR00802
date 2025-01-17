@@ -1,0 +1,40 @@
+SERUMALBUMIN
+A number of serum transport proteins are known to be evolutionarily related,
+including albumin, alpha-fetoprotein, vitamin D-binding protein and afamin
+[1-3]. Albumin is the main protein of plasma; it binds water, cations (such
+as Ca++, Na+ and  K+), fatty acids, hormones, bilirubin and drugs - its main
+function is to regulate the colloidal osmotic pressure of blood. Alphafeto-
+protein (alpha-fetoglobulin) is a foetal plasma protein that binds various
+cations, fatty acids and bilirubin. Vitamin D-binding protein binds to
+vitamin D and its metabolites, as well as to fatty acids. The biological
+role of afamin (alpha-albumin) has not yet been characterised.
+
+The 3D structure of human serum albumin has been determined by X-ray
+crystallography to a resolution of 2.8A [4]. It comprises three homologous
+domains that assemble to form a heart-shaped molecule [4]. Each domain is a
+product of two subdomains that possess common structural motifs [4]. The
+principal regions of ligand binding to human serum albumin are located in 
+hydrophobic cavities in subdomains IIA and IIIA, which exhibit similar
+chemistry. Structurally, the serum albumins are similar, each domain
+containing five or six internal disulphide bonds, as shown schematically
+below: 
+
+                   +---+          +----+                        +-----+
+                   |   |          |    |                        |     |
+xxCxxxxxxxxxxxxxxxxCCxxCxxxxCxxxxxCCxxxCxxxxxxxxxCxxxxxxxxxxxxxxCCxxxxCxxxx
+  |                 |       |     |              |               |
+  +-----------------+       +-----+              +---------------+
+
+
+SERUMALBUMIN is a 7-element fingerprint that provides a signature for the
+serum albumin family. The fingerprint was derived from an initial alignment
+of 15 sequences: the motifs were drawn from short conserved regions spanning 
+the central portion of the alignment - motifs 1-3 lie in the first domain;
+motifs 4-6 lie in the second domain; and motif 7 lies in the third domain.
+Two iterations on OWL29.6 were required to reach convergence, at which point
+a true set comprising 35 sequences was identified. Several partial matches
+were also found, all of which are either fragments or serum albumin proteins
+that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 27 sequences, and 1
+partial match.

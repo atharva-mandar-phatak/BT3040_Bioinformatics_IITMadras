@@ -1,0 +1,95 @@
+*************************************
+* SecA family signature and profile *
+*************************************
+
+SecA  is  a  cytoplasmic  protein  of  800  to  960  amino  acid residues. The
+eubacterial  secA  protein  [1]  plays an important role in protein export. It
+interacts  with  the  secY  and  secE  components of the protein translocation
+system.  It  has  a  central  role  in  coupling  the hydrolysis of ATP to the
+transfer of proteins across the membrane.
+
+SecA  is  a  superfamily  2  (SF2)  helicase (see <PDOC51192>) that adapted to
+translocate  proteins.  It  contains  the characteristic DEAD/DEXH ATPase core
+structure with the seven SF2 motifs [2,3].
+
+Several structural analyses on secA have been reported (see <PDB:1M6N>) [4,5].
+They  show  that  secA  contains  two recA-like domains similar to SF1 and SF2
+helicases.  In  helicases,  the  two  recA-like  domains  move relative to one
+another  during the ATPase cycle, generating domain movements that translocate
+the  helicase  along nucleic acids. In secA, it seems that a similar mechanism
+is  used  to  generate  domain  movements  that  are  coupled  to  polypeptide
+translocation.  The  N-terminal recA-like domain of secA contains an insert of
+about  150 residues that forms the preprotein crosslinking domain (PPXD) which
+has  the  ability  to  bind preproteins in solution and which is important for
+preprotein loading onto SecYEG-containing membranes [6].
+
+Homologs of secA are also encoded in the chloroplast  genome of some algae [7]
+as well  as  in  the nuclear genome of plants [8]. It could be involved in the
+intraorganellar protein transport into thylakoids.
+
+We  have  developed  a  signature  pattern for secA proteins based on the best
+conserved  region.  This region is located in the C-terminal recA-like domain.
+We  also  developed  a  profile  that  covers  the region corresponding to the
+two recA-like domains.
+
+-Consensus pattern: [IV]-x-[IV]-[SA]-T-[NQ]-M-A-G-R-G-x-D-I-x-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Text revised; profile added.
+
+[ 1] Lill R., Cunningham K., Brundage L.A., Ito K., Oliver D., Wickner W.
+     "SecA protein hydrolyzes ATP and is an essential component of the
+     protein translocation ATPase of Escherichia coli."
+     EMBO J. 8:961-966(1989).
+     PubMed=2542029
+[ 2] Koonin E.V., Gorbalenya A.E.
+     "Autogenous translation regulation by Escherichia coli ATPase SecA may
+     be mediated by an intrinsic RNA helicase activity of this protein."
+     FEBS. Lett. 298:6-8(1992).
+     PubMed=1531961
+[ 3] Gorbalenya A.E., and Koonin E.V. .
+     "Helicases: amino acid sequence comparisons and structure-function
+     relationships."
+     Curr. Opin. Struct. Biol. 3:419-429(1993).
+[ 4] Hunt J.F., Weinkauf S., Henry L., Fak J.J., McNicholas P.,
+     Oliver D.B., Deisenhofer J.
+     "Nucleotide control of interdomain interactions in the conformational
+     reaction cycle of SecA."
+     Science 297:2018-2026(2002).
+     PubMed=12242434; DOI=10.1126/science.1074424
+[ 5] Sharma V., Arockiasamy A., Ronning D.R., Savva C.G., Holzenburg A.,
+     Braunstein M., Jacobs W.R. Jr., Sacchettini J.C.
+     "Crystal structure of Mycobacterium tuberculosis SecA, a preprotein
+     translocating ATPase."
+     Proc. Natl. Acad. Sci. U.S.A. 100:2243-2248(2003).
+     PubMed=12606717; DOI=10.1073/pnas.0538077100
+[ 6] Papanikou E., Karamanou S., Baud C., Frank M., Sianidis G.,
+     Keramisanou D., Kalodimos C.G., Kuhn A., Economou A.
+     "Identification of the preprotein binding domain of SecA."
+     J. Biol. Chem. 280:43209-43217(2005).
+     PubMed=16243836; DOI=10.1074/jbc.M509990200
+[ 7] Valentin K.
+     "SecA is plastid-encoded in a red alga: implications for the evolution
+     of plastid genomes and the thylakoid protein import apparatus."
+     Mol. Gen. Genet. 236:245-250(1993).
+     PubMed=8437571
+[ 8] Nohara T., Nakai M., Goto A., Endo T.
+     Isolation and characterization of the cDNA for pea chloroplast SecA.
+     "Evolutionary conservation of the bacterial-type SecA-dependent protein
+     transport within chloroplasts."
+     FEBS Lett. 364:305-308(1995).
+     PubMed=7758587
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

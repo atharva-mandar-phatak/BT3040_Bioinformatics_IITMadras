@@ -1,0 +1,25 @@
+HEATSHOCK90
+Prokaryotes and eukaryotes respond to heat shock and other forms of 
+environmental stress by inducing synthesis of heat-shock proteins (hsp) [1].
+Within the family of hsps is a group with an average molecular weight of 
+90 Kd, the so-called hsp90 proteins. 
+
+The precise function of hsp90 is unclear. In higher eukaryotes, the protein
+has been found associated with steroid hormone receptors, tyrosine kinase
+oncogene products of various retroviruses, eIF2alpha kinase, and with actin
+and tubulin. They are probable chaperonins with ATPase activity [2,3]. The
+sequences of hsp90s show a distinctive domain structure, with a highly-
+conserved N-terminal domain separated from a conserved, acidic C-terminal
+domain by a highly-acidic, flexible linker region.
+
+HEATSHOCK90 is a 7-element fingerprint that provides a signature for the
+hsp 90 family of heat shock proteins. The fingerprint was derived from an
+initial alignment of 22 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal domain - motif 2 includes the region 
+encoded by PROSITE pattern HSP90 (PS00298). Three iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising
+70 sequences was identified. Several partial matches were also found, all
+of which are family members, most of which are fragments. 
+
+An update on SPTR37_9f identified a true set of 65 sequences, and 2
+partial matches.

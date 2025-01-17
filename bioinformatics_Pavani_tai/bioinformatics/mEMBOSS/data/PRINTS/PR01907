@@ -1,0 +1,50 @@
+WORMGLOBIN
+Globins are haem-containing proteins involved in dioxygen binding and/or 
+transport [1,2]. Hundreds of globin sequences are known [3]. It has been 
+proposed that all globins have evolved from a family of ancestral, ~17kDa 
+haemoproteins that displayed the globin fold and functioned as redox 
+proteins [4]. The globin superfamily includes vertebrate haemoglobins (Hb); 
+vertebrate myoglobins (Mb); invertebrate globins; plant leghaemoglobins; and 
+bacterial flavohaemoglobins. 
+
+The function of haemoglobins (Hbs) is transport of dioxygen in blood plasma.
+Erythrocruorins (Ec) are extracellular Hbs found freely dissolved in the 
+blood of annelids and arthropods. Ec molecules exist as aggregates of up to
+200 small globin-like subunits, some of which are disulphide-bonded and not
+all of which contain haem [5]. Nematodes (e.g., Ascaris) possess an octa-
+meric Hb, each subunit containing two globin-like domains. Ascaris Hb binds
+oxygen four orders of magnitude more tightly than does human Hb [6]. The
+brine shrimp Artemia has evolved the longest known concatenation of globin
+domains: each subunit contains 9 globin-like domains, connected by linking
+peptides [7]. Artemia possess three types of dimeric haemoglobins: HbI
+(alpha+alpha); HbII (alpha+beta); and HbIII (beta+beta). Erythrocytes of 
+the marine polychaete Glycera dibranchiata (bloodworm) contain several 
+different, single-chain Hbs, some of which self-associate into polydisperse 
+polymers [8,9].
+
+The 3D structures of a number of Ecs are known. The protein is largely 
+alpha-helical, eight conserved helices (A to H) providing the scaffold for 
+a well-defined haem-binding pocket. The imidazole ring of the "proximal" His 
+residue provides the fifth haem iron ligand; the other axial haem iron 
+position remains essentially free for O(2) coordination. Many Ecs lack
+the "distal" His and Val residues that are conserved in vertebrate globins.
+
+The structure of Hb from Glycera has been determined to 2.5A resolution by 
+means of X-ray diffraction and refined to 1.5A resolution [9]. Notably, the 
+D helix is absent, the F helix has several more residues than in mammalian 
+globins, and Pro-105 (G7) causes a bend in the G helix. In addition, the 
+substitution of leucine for the distal histidine residue (E7) creates an 
+unusually hydrophobic haem pocket [9].
+
+WORMGLOBIN is a 5-element fingerprint that provides a signature for worm
+globins. The fingerprint was derived from an initial alignment of 5 
+sequences: the motifs were drawn from conserved regions spanning virtually 
+the full alignment length, focusing on those sections that characterise  
+worm globins but distinguish them from closely related members of the 
+erythrocruorin family. Two iterations on SPTR44_27f were required to
+reach convergence, at which point a true set comprising 6 sequences 
+was identified. A single partial match was also found, GLBX_CHITH, a
+closely related arthropod globin CTT-X from the midge, Chironomus thummi 
+thummi, which matches motifs 1 and 3.
+
+An update on SPTR55_38f identified a true set of 5 sequences.

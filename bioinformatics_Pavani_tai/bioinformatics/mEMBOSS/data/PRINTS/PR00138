@@ -1,0 +1,28 @@
+MATRIXIN
+Extracellular metalloproteases, such as collagenase and stromelysin, which 
+degrade the extracellular matrix, are known as matrixins. They are zinc-
+dependent, calcium-activated proteases synthesised as inactive precursors 
+(zymogens), which are proteolytically cleaved to yield the active enzyme 
+[1,2]. All matrixins and related proteins possess 2 domains: an N-terminal
+domain, and a zinc-binding active site domain. The N-terminal domain
+peptide, cleaved during the activation step, includes a conserved PRCGVPDV
+octapeptide, known as the cysteine switch, whose Cys residue chelates the
+active site zinc atom, rendering the enzyme inactive. The active enzyme
+degrades components of the extracellular matrix, playing a role in the
+initial steps of tissue remodelling during morphogenesis, wound healing,
+angiogenesis and tumour invasion [1,2]. 
+
+MATRIXIN is a 5-element fingerprint that provides a signature for the 
+matrixins. The fingerprint was derived from an initial alignment of 5
+sequences: motif 1 includes the N-terminal octapeptide encoded by PROSITE
+pattern CYSTEINE_SWITCH (PS00546), and motifs 2-5 were drawn from conserved
+regions in the active site domain - motif 4, which includes 2 His residues
+and a catalytic Glu, encodes a characteristic zinc binding site (cf.
+PROSITE pattern ZINC_PROTEASE (PS00142)). Two iterations on OWL22.1 were
+required to reach convergence, at which point a true set comprising 30
+sequences was identified. Ten partial matches were also found, 9 of
+which are functionally-related secreted metalloproteases, and the tenth,
+S11026, a procollagenase fragment. 
+
+An update on SPTR37_9f identified a true set of 82 sequences, and 13
+partial matches.

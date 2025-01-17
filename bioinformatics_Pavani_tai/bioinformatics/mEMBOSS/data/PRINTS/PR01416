@@ -1,0 +1,43 @@
+APJRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+The human APJ gene was originally cloned in 1993 using a set of primers
+based on the 7 conserved TM domains. The putative sequence is closest in
+terms of identity (40-50% in the TM regions) to the angiotensin receptor
+(AT1); however, angiotensin II shows no affinity for the receptor [6]. The
+endogenous ligand has recently been isolated from bovine stomach and
+characterised as a 77 amino acid peptide, which was named apelin [7]. The
+mature transcript encodes a preproprotein that yields a 13 amino acid active
+peptide from the C-terminal end. Apelin has a similar mRNA distribution to
+angiotensin II and the active peptides share some similarity. In vivo
+administration of apelin to rats results in acute hypotensive and thirst-
+promoting effects [8].
+
+APJRECEPTOR is a 7-element fingerprint that provides a signature for APJ
+receptors. The fingerprint was derived from an initial alignment of 3
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those areas of the alignment that
+characterise the APJ receptors but distinguish them from the related
+angiotensin II receptors and the rest of the rhodopsin-like superfamily -
+motifs 1 and 2 span the extracellular N-terminus; motif 3 lies in the second
+external loop; motif 4 spans the C-terminus of the third external loop and 
+the N-terminus of TM domain 7; and motifs 5-7 lie in the cytoplasmic
+C-terminus. A single iteration on SPTR39_14f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

@@ -1,0 +1,45 @@
+**************************
+* grpE protein signature *
+**************************
+
+In prokaryotes the grpE protein [1]  stimulates, jointly with dnaJ, the ATPase
+activity of the dnaK chaperone. It seems to accelerate the release of ADP from
+dnaK thus  allowing  dnaK  to  recycle  more efficiently. GrpE is a protein of
+about 22 to 25 Kd.  In yeast, an  evolutionary  related  mitochondrial protein
+(gene GRPE)  has  been  shown  [2]  to  associate with the mitochondrial hsp70
+protein and to thus play a role in the import of proteins from the cytoplasm.
+
+As a  signature  pattern, we selected the most conserved region of grpE. It is
+located in the C-terminal section.
+
+-Consensus pattern: [FYLV]-[DNST]-[PHEAYVS]-x(2)-[HMACNQ]-x-[ALV]-[LIVMTNSF]-
+                    x(16,21)-[GYP]-[FY]-x(3,4)-[DENGKS]-x(2,3)-[LIV]-[KRIV]-x-
+                    [STAG]-x-V-x(0,1)-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Georgopoulos C.; georgopo@medecine.unige.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Georgopoulos C., Welch W.J.
+     "Role of the major heat shock proteins as molecular chaperones."
+     Annu. Rev. Cell Biol. 9:601-634(1993).
+     PubMed=8280473; DOI=10.1146/annurev.cb.09.110193.003125
+[ 2] Bolliger L., Deloche O., Glick B.S., Georgopoulos C., Jeno P.,
+     Kronidou N., Horst M., Morishima N., Schatz G.
+     "A mitochondrial homolog of bacterial GrpE interacts with
+     mitochondrial hsp70 and is essential for viability."
+     EMBO J. 13:1998-2006(1994).
+     PubMed=8168496
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

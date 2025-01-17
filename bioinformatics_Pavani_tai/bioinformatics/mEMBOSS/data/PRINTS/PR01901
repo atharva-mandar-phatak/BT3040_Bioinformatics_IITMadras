@@ -1,0 +1,46 @@
+WIFPROTEIN
+Wnt proteins constitute a large family of secreted molecules that are
+involved in intercellular signalling during development. The name derives
+from the first 2 members of the family to be discovered: int-1 (mouse) and
+wingless (Drosophila) [1]. It is now recognised that Wnt signalling controls
+many cell fate decisions in a variety of different organisms, including
+mammals [2]. Wnt signalling has been implicated in tumorigenesis, early
+mesodermal patterning of the embryo, morphogenesis of the brain and kidney,
+regulation of mammary gland proliferation, and Alzheimer's disease [3,4].
+
+Wnt-mediated signalling is believed to proceed initially through binding to
+cell surface receptors of the frizzled family; the signal is subsequently
+transduced through several cytoplasmic components to B-catenin, which enters
+the nucleus and activates the transcription of several genes important in
+development [5]. More recently, however, several non-canonical Wnt
+signalling pathways have been elucidated that act independently of
+B-catenin [6]. Members of the Wnt gene family are defined by their sequence
+similarity to mouse Wnt-1 and Wingless in Drosophila. They encode proteins
+of ~350-400 residues in length, with orthologues identified in several,
+mostly vertebrate, species. Very little is known about the structure of 
+Wnts as they are notoriously insoluble; in terms of primary structure, the
+family is characterised by a signal sequence and an almost invariant pattern
+of 23-24 conserved cysteines [1]. Fifteen major Wnt gene families have been 
+identified in vertebrates, with multiple subtypes within some classes.
+
+Whilst different Wnt genes show a characteristic pattern of spatial 
+expression, many tissues express a combination of Wnt subtypes. Furthermore,
+individual Wnt polypeptides show varying affinities for different frizzled 
+receptor subtypes, which are themselves expressed in a highly tissue-
+dependent manner. As a result, Wnt proteins are able to elicit specific 
+biological responses that are distinct from other Wnt family members [1].
+
+Wnt inhibitory factor-1 (WIF-1) is a secreted protein that binds to Wnt 
+proteins and inhibits their activities. It was first identified as an EST 
+from human retina; ortholgues have since been identified in mouse, rat, 
+Xenopus and zebrafish. WIF-1 proteins comprise an N-terminal signal 
+sequence, a family-specific WIF domain, five epidermal growth factor (EGF) 
+repeats and a hydrophilic C-terminus. The interaction of Wnt proteins with 
+WIF-1 and other inhibitors, such as frizzled-related protein, is thought to 
+fine tune their activity [7].
+
+WIFPROTEIN is a 5-element fingerprint that provides a signature for the WIF-
+1 proteins. The fingerprint was derived from an initial alignment of 4 
+sequences: motifs 1-5 lie within the WIF domain. Two iterations on 
+SPTR40_22f were required to reach convergence, at which point a true set 
+comprising 6 sequences was identified. 

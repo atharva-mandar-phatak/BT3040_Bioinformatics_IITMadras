@@ -1,0 +1,37 @@
+MINTRINSICP
+A number of transmembrane (TM) channel proteins can be grouped together
+on the basis of sequence similarities [1-5]. These include: mammalian major
+intrinsic protein (MIP), the major component of lens fibre gap junctions;
+mammalian  aquaporins, which form water-specific channels in plasma
+membranes; soybean nodulin-26, a major component of the peribacteroid
+membrane; plant tonoplast intrinsic proteins (TIP); bacterial glycerol
+facilitator protein, which facilitates movement of glycerol across the
+cytoplasmic membrane; Salmonella typhimurium propanediol diffusion
+facilitator; yeast FPS1, a glycerol uptake/efflux facilitator protein;
+Drosophila neurogenic protein 'big brain' (bib) protein, which may mediate
+intercellular communication; yeast hypothetical protein YFL054C; and a
+hypothetical protein from the pepX region of Lactococcus lactis.
+
+The structures of various members of the MIP family have been determined by
+means of X-ray diffraction [6-8], revealing the fold to comprise a right-
+handed bundle of 6 transmembrane (TM) alpha-helices [6-8]. Similarities in 
+the N- and C-terminal halves of the molecule suggest that the proteins may
+have arisen through tandem, intragenic duplication of an ancestral protein
+that contained 3 TM domains [4].
+
+MINTRINSICP is a 6-element fingerprint that provides a signature for the
+major intrinsic protein family. The fingerprint was derived from an
+initial alignment of 16 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 spans the first
+putative TM domain; motif 2 includes part of the second putative TM region
+and leads into the following cytoplasmic loop (it overlaps the N-terminal
+portion of the region encoded by PROSITE pattern MIP (PS00221)); and motifs
+3-6 include TM domains 3-6 respectively. Three iterations on OWL29.4 were
+required to reach convergence, at which point a true set comprising 117 
+sequences was identified. Several partial matches were also found, all of
+which are fragments or family members that fail to make significant matches
+with one or more motifs.
+
+An update on SPTR55_38f identified a true set of 908 sequences, and
+numerous partial matches, all of which are family members that fail to
+make significant matches with one or more motifs.

@@ -1,0 +1,53 @@
+BKCHANNELA
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Structurally, calcium (Ca2+) activated channels belong to the subfamily of
+K+ channels whose subunits contain 6 transmembrane (TM) domains: these are
+the voltage-gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ 
+channels and 3 kinds of Ca2+-activated K+ channel (BK, IK and SK) [2]. All
+K+ channels share a characteristic sequence feature: a TMxTVGYG motif that
+resides between the 2 C-terminal membrane-spanning helices, and forms
+the K+-selective pore domain [1].
+
+Ca2+-activated K+ channels are a diverse group of channels that are
+activated by an increase in intracellular Ca2+ concentration. They are
+found in the majority of nerve cells, where they modulate cell excitability
+and action potential. Three types of Ca2+-activated K+ channel have been
+characterised, termed small-conductance (SK), intermediate conductance (IK)
+and large conductance (BK) respectively [2-3].
+
+BK channels (also referred to as maxi-K channels) are widely expressed 
+in the body, being found in glandular tissue, smooth and skeletal muscle, 
+as well as in neural tissues. They have been demonstrated to regulate 
+arteriolar and airway diameter, and also neurotransmitter release. Each
+channel complex is thought to be composed of 2 types of subunit: the pore-
+forming (alpha) subunits and smaller accessory (beta) subunits.
+
+The alpha subunit of the BK channel was initially thought to share the
+characteristic 6TM organisation of the voltage-gated K+ channels. However,
+the molecule is now thought to possess an additional TM domain, with an 
+extracellular N-terminus and intracellular C-terminus. This C-terminal 
+region contains 4 predominantly hydrophobic domains, which are also thought
+to lie intracellularly. The extracellular N-terminus and the first TM region
+are required for modulation by the beta subunit. The precise location of the
+Ca2+-binding site that modulates channel activation remains unknown, but it
+is thought to lie within the C-terminal hydrophobic domains.
+
+BKCHANNELA is an 8-element fingerprint that provides a signature for the
+calcium-activated BK potassium channel alpha subunit. The fingerprint was
+derived from an initial alignment of 2 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length, focusing on those
+sections that characterise the BK channel alpha subunits but distinguish 
+them from other members of the K+ channel superfamily. Two iterations on 
+SPTR39_14f were required to reach convergence, at which point a true set 
+comprising 24 sequences was identified. Several partial matches were also
+found, all of which are members of the calcium-dependent BK potassium
+channel family that match only 4 or 5 motifs.

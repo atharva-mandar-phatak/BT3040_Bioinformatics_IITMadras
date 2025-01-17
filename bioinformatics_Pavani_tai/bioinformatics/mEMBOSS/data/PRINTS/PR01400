@@ -1,0 +1,37 @@
+TACYTOLYSIN
+One method of pathogenicity employed by infectious bacteria is the formation 
+of pores through the host cell membranes [1]. This in turn can cause solute/
+protein loss, osmotic cell lysis, and cell death. The pathogen achieves this
+by the secretion of exotoxin monomers, which assemble in the host membrane 
+to form hydrophilic channels [1].
+
+Thiol-activated cytolysins are lytic for a wide range of eukaryotic cells, 
+and are reversibly sensitive to oxidation, due to their activation by 
+thiols [1]. Cholesterol is bound by these moieties when assembling in the 
+target membrane, and is believed to be the receptor for such toxins. 
+
+Members of the cytolysin family include the streptolysin O toxin of
+Streptococcal species [1], Clostridium perfringens perfringolysin O [2], 
+and the exotoxin listeriolysin from L.monocytogenes [3]. All contain a
+conserved cysteine, and share structural similarity in their C-termini [3].
+Perhaps the most well studied mechanism is that of perfringolysin O, which
+binds to cholesterol in the membrane, and inserts via a novel TM amphipathic
+hairpin arrangement [2].
+
+The structure of perfringolysin o from Clostridium perfringens has been 
+determined to 2.2A resolution using X-ray crystallography [4]. The protein
+contains 2 domains, the first of which has an alpha+beta fold, while
+the second has an all-beta fold.
+
+TACYTOLYSIN is an 11-element fingerprint that provides a signature for 
+bacterial thiol-activated pore-forming cytolysins. The fingerprint was
+derived from an initial alignment of 4 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length - motif 1 includes
+beta-strand 1; motif 2 spans strands 3 and 4; motif 3 spans strand 5 and 
+alpha-helix 2; motif 4 includes strand 6; motif 5 spans strand 9 and the
+N-terminal portion of helix 4; motif 6 encodes strand 11; motif 7 spans
+the C-terminal half of helix 11 and strand 12; motif 8 spans strand 15 and
+the N-terminal portion of strand 16; motifs 9, 10 and 11 encode strands 18,
+19 and 23 respectively. Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 12 sequences was 
+identified.

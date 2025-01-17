@@ -1,0 +1,61 @@
+************************************************
+* Hok/gef family cell toxic proteins signature *
+************************************************
+
+In Gram-negative bacteria there is a family of very small proteins which, when
+overexpressed, kill the cells  from the  inside  by  interfering  with a vital
+function in the cell membrane [1]. The proteins known to belong to this family
+are:
+
+ - Escherichia coli chromosomal protein gef.
+ - Escherichia coli chromosomal protein relF.
+ - Plasmid F protein flmA.
+ - Plasmid F protein srnB.
+ - Plasmid R1 protein hok.
+ - Plasmids R16 and R483 protein pndA.
+ - Escherichia coli hypothetical protein ybdY.
+ - Escherichia coli hypothetical protein ydcB.
+ - Escherichia coli hypothetical protein yiaZ [3].
+
+These proteins  consist  of 49 to 68 amino acids.  Their N-terminal section is
+hydrophobic and  seems  [3]  to form  a membrane-spanning region, while the C-
+terminal part  is  located in  the  periplasm  and  contains the toxic domain.
+Two cysteines  are conserved, one  in the N-terminal part and the other in the
+C-terminal part;  in the gef protein, this second cysteine  has been shown [3]
+to be involved in the formation of a disulfide bond between two monomers.
+
+As a signature pattern we  selected the region  that  contains  the end of the
+membrane-spanning region and ends with the second cysteine.
+
+-Consensus pattern: [LIVMA](4)-C-[LIVMFA]-T-[LIVMA](2)-x(4)-[LIVM]-x-[RG]-
+                    x(2)-L-[CY]
+                    [The second C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1998 / Pattern and text revised.
+
+[ 1] Gerdes K., Poulsen L.K., Thisted T., Nielsen A.K., Martinussen J.,
+     Andreasen P.H.
+     "The hok killer gene family in gram-negative bacteria."
+     New Biol. 2:946-956(1990).
+     PubMed=2101633
+[ 2] Borodovsky M., Koonin E.V., Rudd K.E.
+     "New genes in old sequence: a strategy for finding genes in the
+     bacterial genome."
+     Trends Biochem. Sci. 19:309-313(1994).
+     PubMed=7940673
+[ 3] Poulsen L.K., Refn A., Molin S., Andersson P.
+     "Topographic analysis of the toxic Gef protein from Escherichia
+     coli."
+     Mol. Microbiol. 5:1627-1637(1991).
+     PubMed=1943700
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

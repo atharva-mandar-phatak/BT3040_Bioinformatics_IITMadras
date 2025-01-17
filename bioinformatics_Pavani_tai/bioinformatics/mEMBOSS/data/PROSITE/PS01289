@@ -1,0 +1,52 @@
+***************************************
+* TSC-22 / dip / bun family signature *
+***************************************
+
+The following eukaryotic proteins are evolutionary  related and are thought to
+be involved in transcriptional regulation.
+
+ - Vertebrate  protein  TSC-22  [1]. This protein of 144 residues seems to act
+   a transcriptional regulator on C-type natriuretic peptide (CNP) promoter.
+ - Mammalian  protein  DIP  (DSIP-immunoreactive peptide) [2], a protein of 77
+   amino acids, whose function is not yet known.
+ - Drosophila  protein  bunched [3] (gene bun) (also known as shortsighted), a
+   probable transcription   factor  required  for  peripheral  nervous  system
+   morphogenesis, eye development and oogenesis.
+ - Caenorhabditis elegans hypothetical protein T18D3.7.
+
+These proteins  are  highly  similar  in  a  region  of about 50 residues that
+include a  conserved  leucine-zipper domain most probably involved in homo- or
+hetero-dimerization. As  a  signature  pattern  we selected a highly conserved
+stretch of residues that is located just in front of the leucine zipper.
+
+-Consensus pattern: M-D-L-V-K-x-H-L-x(2)-A-V-R-E-E-V-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / First entry.
+
+[ 1] Ohta S., Shimekake Y., Nagata K.
+     "Molecular cloning and characterization of a transcription factor for
+     the C-type natriuretic peptide gene promoter."
+     Eur. J. Biochem. 242:460-466(1996).
+     PubMed=9022669
+[ 2] Vogel P., Maegert H.J., Cieslak A., Adermann K., Forssmann W.-G.
+     "hDIP--a potential transcriptional regulator related to murine TSC-22
+     and Drosophila shortsighted (shs)--is expressed in a large number of
+     human tissues."
+     Biochim. Biophys. Acta 1309:200-204(1996).
+     PubMed=8982256
+[ 3] Treisman J.E., Lai Z.C., Rubin G.M.
+     "Shortsighted acts in the decapentaplegic pathway in Drosophila eye
+     development and has homology to a mouse TGF-beta-responsive gene."
+     Development 121:2835-2845(1995).
+     PubMed=7555710
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

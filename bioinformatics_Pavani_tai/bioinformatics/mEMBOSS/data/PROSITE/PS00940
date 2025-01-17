@@ -1,0 +1,92 @@
+***********************************
+* Gamma-thionins family signature *
+***********************************
+
+The following small plant proteins are evolutionary related:
+
+ - Gamma-thionins from wheat endosperm (gamma-purothionins) and barley (gamma-
+   hordothionins) which   are  toxic  to  animal  cells  and  inhibit  protein
+   synthesis in cell free systems [1].
+ - A flower-specific thionin (FST) from tobacco [2].
+ - Antifungal proteins (AFP) from  the seeds  of Brassicaceae  species such as
+   radish, mustard, turnip and Arabidopsis thaliana [3].
+ - Inhibitors of insect alpha-amylases from sorghum [4].
+ - Probable protease inhibitor P322 from potato.
+ - A germination-related protein from cowpea [5].
+ - Anther-specific protein  SF18  from sunflower [6].  SF18 is a  protein that
+   contains a  gamma-thionin  domain  at  its N-terminus and a proline-rich C-
+   terminal domain.
+ - Soybean sulfur-rich protein SE60 [7].
+ - Vicia faba antibacterial peptides fabatin-1 and -2.
+
+In their  mature  form,  these  proteins  generally  consist of about 45 to 50
+amino-acid residues.  As  shown  in  the  following  schematic representation,
+these peptides contain eight conserved cysteines involved in disulfide bonds.
+
+          +-------------------------------------------+
+          |          +-------------------+            |
+          |          |                   |            |
+        xxCxxxxxxxxxxCxxxxxCxxxCxxxxxxxxxCxxxxxxCxCxxxC
+        *******************|***|                | |
+                           +---|----------------+ |
+                               +------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+-Consensus pattern: [KRGAQS]-x-C-x(3)-[SVA]-x(2)-[FYWH]-x(1,2)-[GF]-x-C-x(5)-
+                    C-x(3)-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bruix M., Jimenez M.A., Santoro J., Gonzalez C., Colilla F.J.,
+     Mendez E., Rico M.
+     "Solution structure of gamma 1-H and gamma 1-P thionins from barley
+     and wheat endosperm determined by 1H-NMR: a structural motif common to
+     toxic arthropod proteins."
+     Biochemistry 32:715-724(1993).
+     PubMed=8380707
+[ 2] Gu Q., Kawata E.E., Morse M.-J., Wu H.-M., Cheung A.Y.
+     "A flower-specific cDNA encoding a novel thionin in tobacco."
+     Mol. Gen. Genet. 234:89-96(1992).
+     PubMed=1495489
+[ 3] Terras F.R.G., Torrekens S., van Leuven F., Osborn R.W., Vanderleyden J.,
+     Cammue B.P.A., Broekaert W.F.
+     "A new family of basic cysteine-rich plant antifungal proteins from
+     Brassicaceae species."
+     FEBS Lett. 316:233-240(1993).
+     PubMed=8422949
+[ 4] Bloch C. Jr., Richardson M.
+     "A new family of small (5 kDa) protein inhibitors of insect
+     alpha-amylases from seeds or sorghum (Sorghum bicolar (L) Moench) have
+     sequence homologies with wheat gamma-purothionins."
+     FEBS Lett. 279:101-104(1991).
+     PubMed=1995329
+[ 5] Ishibashi N., Yamauchi D., Miniamikawa T.
+     "Stored mRNA in cotyledons of Vigna unguiculata seeds: nucleotide
+     sequence of cloned cDNA for a stored mRNA and induction of its
+     synthesis by precocious germination."
+     Plant Mol. Biol. 15:59-64(1990).
+     PubMed=2103443
+[ 6] Domon C., Evrard J.L., Herdenberger F., Pillay D.T., Steinmetz A.
+     "Nucleotide sequence of two anther-specific cDNAs from sunflower
+     (Helianthus annuus L.)."
+     Plant Mol. Biol. 15:643-646(1990).
+     PubMed=2102380
+[ 7] Choi Y., Choi Y.D., Lee J.S.
+     "Nucleotide sequence of a cDNA encoding a low molecular weight
+     sulfur-rich protein in soybean seeds."
+     Plant Physiol. 101:699-700(1993).
+     PubMed=8278516; DOI=101/2/699
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

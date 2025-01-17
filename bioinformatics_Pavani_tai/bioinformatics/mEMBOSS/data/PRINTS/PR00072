@@ -1,0 +1,31 @@
+MALOXRDTASE
+Malic enzymes (malate oxidoreductases) catalyse the oxidative decarboxyl-
+ation of malate to form pyruvate [1], a reaction important in a number of
+metabolic pathways - e.g. carbon dioxide released from the reaction may be
+used in sugar production during the Calvin cycle of photosynthesis [1].
+There are 3 forms of the enzyme: an NAD-dependent form that decarboxylates
+oxaloacetate; an NAD-dependent form that does not decarboxylate oxalo-
+acetate; and an NADPH-dependent form [1]. Other proteins known to be
+similar to malic enzymes are the E.coli scfA protein; a plant enzyme,
+formerly thought to be cinnamyl-alcohol dehydrogenase [2]; and the
+hypothetical yeast protein YKL029c.
+
+Studies on the duck liver malic enzyme reveals that it can be alkylated by
+bromopyruvate, resulting in the loss of oxidative decarboxylation and the
+subsequent enhancement of pyruvate reductase activity [3]. The alkylated
+form is able to bind NADPH but not L-malate, indicating impaired substrate-
+or divalent metal ion-binding in the active site [3]. Sequence analysis has
+highlighted a cysteine residue as the point of alkylation, suggesting that
+it may play an important role in the activity of the enzyme [3], although
+it is absent in the sequences from some species.
+
+MALOXRDTASE is a 7-element fingerprint that provides a signature for malate
+oxidoreductases. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning the central
+portion of the alignment, motif 5 including the region encoded by PROSITE
+pattern MALIC_ENZYMES (PS00331), and motif 6 containing a propsed NAD/NADP
+binding site. Two iterations on OWL25.1 were required to reach convergence,
+at which point a true set comprising 28 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 12
+partial matches.

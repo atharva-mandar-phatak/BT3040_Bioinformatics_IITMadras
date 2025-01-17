@@ -1,0 +1,22 @@
+CELLDVISFTSZ
+In bacteria, ftsZ is an essential cell division protein. It has been
+suggested that ftsZ is a prokaryotic cytoskeletal element and possibly an
+evolutionary progenitor of tubulin. The protein forms a ring at the leading
+edge of the cell division site [1], essentially serving as a scaffold that
+disassembles when septation is complete. FtsZ is a GTP-binding protein with
+GTPase activity. It undergoes GTP-dependent polymerisation into tubules,
+which appear to form a cytoskeleton involved in septum synthesis.
+
+The ftsZ polypeptide contains around 400 residues, which are well-conserved
+across bacterial species, and are also present in plant chloroplasts [1].
+Some similarity is also shown to eukaryotic tubulins. 
+
+CELLDVISFTSZ is a 6-element fingerprint that provides a signature for the
+ftsZ family. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length - motif 1 spans the glycine-rich
+sequence equivalent to the GTP-binding region of tubulins. Twelve iterations
+on SPTR57_40f were required to reach convergence, at which point a true set
+comprising 1304 sequences was identified. Several partial matches were also
+found, all of which are family members that fail to make a significant match
+with one or more motifs.

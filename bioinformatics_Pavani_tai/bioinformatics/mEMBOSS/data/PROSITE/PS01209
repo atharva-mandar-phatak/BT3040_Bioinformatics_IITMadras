@@ -1,0 +1,132 @@
+*************************************************************
+* LDL-receptor class A (LDLRA) domain signature and profile *
+*************************************************************
+
+Low-density lipoprotein  (LDL)  receptors  are the major  cholesterol-carrying
+lipoproteins of  plasma.  Seven  successive  cysteine-rich repeats of about 40
+amino acids are present in the N-terminal of this multidomain membrane protein
+[1]. Similar  domains  have  been  found  (see  references  in  [2])  in other
+extracellular and membrane proteins which are listed below:
+
+ - Vertebrate  very low  density  lipoprotein (VLDL) receptor, which binds and
+   transports VLDL.   Its extracellular domain is composed of 8 LDLRA domains,
+   3 EGF-like domains and 6 LDL-receptor class B domains (LDLRB).
+ - Vertebrate  low-density   lipoprotein  receptor-related  protein  1  (LRP1)
+   (reviewed in [3]),  which  may  act  as  a  receptor for the endocytosis of
+   extracellular ligands. LRP1  contains  31  LDLRA  domains  and  22 EGF-like
+   domains.
+ - Vertebrate  low-density lipoprotein receptor-related protein 2 (LRP2) (also
+   known as  gp330 or megalin). LRP2 contains 36 LDLRA domains and 17 EGF-like
+   domains.
+ - A  LRP-homolog from Caenorhabditis elegans, which contains 35 LDLRA domains
+   and 17 EGF-like domains.
+ - Drosophila  putative vitellogenin receptor, with 13 copies of LDLRA domains
+   and 17 EGF-like repeats.
+ - Complement factor  I, which is responsible for cleaving the alpha-chains of
+   C4b and C3b. It consists of a FIMAC domain (Factor I/MAC proteins C6/C7), a
+   scavenger receptor-like domain,  2  copies of LDLRA and a C-terminal serine
+   protease domain.
+ - Complement  components  C6,  C7,  C8  and  C9.  They contain each one LDLRA
+   domain.
+ - Perlecan,   a   large   multidomain   basement   membrane  heparan  sulfate
+   proteoglycan composed  of  4 LDLRA domains, 3 LamB domains, 12 laminin EGF-
+   like domains,  14-21  IG-like  domains,  3  LamG  domains,  and  4 EGF-like
+   domains. A   similar   but   shorter   proteoglycan  (UNC52)  is  found  in
+   Caenorhabditis elegans which has 3 repeats of LDLRA.
+ - Invertebrate  giant  extracellular  hemoglobin  linker  chains, which allow
+   heme-containing chains to construct giant hemoglobin (1 LDLRA domain).
+ - G-protein  coupled  receptor  Grl101  of the snail Lymnaea stagnalis, which
+   might directly transduce signals carried by large extracellular proteins.
+ - Vertebrate  enterokinase  (EC  3.4.21.9), a type II membrane protein of the
+   intestinal brush  border, which activates trypsinogen. It consists at least
+   of a catalytic light chain and a multidomain heavy chain which has 2 LDLRA,
+   a MAM  domain  (see <PDOC00604>), a SRCR domain (see <PDOC00348>) and a CUB
+   domain (see <PDOC00908>).
+ - Human  autosomal dominant polycystic kidney disease protein 1 (PKD1), which
+   is involved    in   adhesive   protein-protein   and   protein-carbohydrate
+   interactions. The potential calcium-binding site of its single LDLRA domain
+   is missing.
+ - Vertebrate    integral   membrane   protein DGCR2/IDD, a potential adhesion
+   receptor with  1 LDLRA  domain,  a  C-type  lectin  and  a VWFC domain (see
+   <PDOC00928>).
+ - Drosophila  serine protease  nudel  (EC 3.4.21.-), which is involved in the
+   induction of  dorsoventral polarity of the embryo. It has 11 LDLRA domains,
+   3 of which miss the first disulfide bond (C1-C3).
+ - Avian subgroup A rous sarcoma virus receptor (1 copy of LDLRA).
+ - Bovine  Sco-spondin,  which  is  secreted  by  the  subcommissural organ in
+   embryos and  is  involved  in  the  modulation  of neuronal aggregation. It
+   contains at least 2 EGF-like domains and 3 LDLRA domains.
+
+The LDL-receptor class A domain contains 6 disulfide-bound cysteines [4] and a
+highly conserved  cluster of negatively charged amino acids, of which many are
+clustered  on one  face  of the module [2]. A schematic representation of this
+domain is shown here:
+
+     +---------------------+        +--------------------------------+
+     |                     |        |                                |
+    -CxxxxxxxxxxxxCxxxxxxxxCxxxxxxxxCxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxC-
+                  |        *******************************************
+                  |                            |
+                  +----------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'x': any residue.
+'*': position of the pattern.
+
+In LDL-receptors  the  class  A  domains form the binding site for LDL [1] and
+calcium [5].  The  acidic  residues between the fourth and sixth cysteines are
+important for  high-affinity binding of positively charged sequences in LDLR's
+ligands [6].  The  repeat  has  been  shown  [2]  to consist of a beta-hairpin
+structure  followed by a series of beta turns. The binding of calcium seems to
+induce no significant conformational change.
+
+-Consensus pattern: C-[VILMA]-x(5,6)-C-[DNH]-x(3)-[DENQHT]-C-x(3,4)-[STADEW]-
+                    [DEH]-[DE]-x(1,5)-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Yamamoto T., Davis C.G., Brown M.S., Schneider W.J., Casey M.L.,
+     Goldstein J.L., Russell D.W.
+     "The human LDL receptor: a cysteine-rich protein with multiple Alu
+     sequences in its mRNA."
+     Cell 39:27-38(1984).
+     PubMed=6091915
+[ 2] Daly N.L., Scanlon M.J., Djordjevic J.T., Kroon P.A., Smith R.
+     "Three-dimensional structure of a cysteine-rich repeat from the
+     low-density lipoprotein receptor."
+     Proc. Natl. Acad. Sci. U.S.A. 92:6334-6338(1995).
+     PubMed=7603991
+[ 3] Krieger M., Herz J.
+     "Structures and functions of multiligand lipoprotein receptors:
+     macrophage scavenger receptors and LDL receptor-related protein
+     (LRP)."
+     Annu. Rev. Biochem. 63:601-637(1994).
+     PubMed=7979249; DOI=10.1146/annurev.bi.63.070194.003125
+[ 4] Bieri S., Djordjevic J.T., Daly N.L., Smith R., Kroon P.A.
+     "Disulfide bridges of a cysteine-rich repeat of the LDL receptor
+     ligand-binding domain."
+     Biochemistry 34:13059-13065(1995).
+     PubMed=7548065
+[ 5] van Driel I.R., Goldstein J.L., Suedhof T.C., Brown M.S.
+     J. Biol. Chem. 262:17443-17449(1987).
+[ 6] Mahley R.W.
+     "Apolipoprotein E: cholesterol transport protein with expanding role
+     in cell biology."
+     Science 240:622-630(1988).
+     PubMed=3283935
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

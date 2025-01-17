@@ -1,0 +1,118 @@
+***************************************************
+* P-type ('Trefoil') domain signature and profile *
+***************************************************
+
+A cysteine-rich  domain of  approximately forty five   amino-acid residues has
+been found  in some extracellular eukaryotic proteins [1,2,3,4,5]. This domain
+is known  as  either  the  'P',  'trefoil'  or  'TFF'  domain. It contains six
+cysteines that  are  linked  by  three  disulfide bonds in a 1-5, 2-4, and 3-6
+configuration. This   leads   to   a  characteristic  three  leafed  structure
+('trefoil'). The  P-type domain is clearly composed of three looplike regions.
+The central  core  of the domain consists of a short two-stranded antiparallel
+beta-sheet, which  is  capped by an irregular loop and forms a central hairpin
+(loop 3).  The beta-sheet is preceded by a short alpha-helix, with majority of
+the remainder  of  the domain contained in two loops, which lie on either side
+of the central hairpin (see <PDB:1E9T>) [6].
+
+Proteins known to contain this domain are:
+
+ - Protein pS2 (TFF1), a protein secreted by the stomach mucosa, whose gene is
+   induced by  estrogen.  The  exact  function  of  pS2  is not known. It is a
+   protein of about 65 residues and it contains a copy of the 'P' domain.
+ - Spasmolytic  polypeptide  (SP) (TFF2), a protein of about 115 residues that
+   inhibits gastrointestinal motility  and gastric acid secretion. SP could be
+   a growth factor. It contains two tandem copies of the 'P' domain.
+ - Intestinal  trefoil  factor (ITF) (TFF3), an intestinal protein of about 60
+   residues which  may  have a role in promoting cell migration. It contains a
+   copy of the 'P' domain.
+ - Xenopus stomach proteins xP1 (one 'P' domain) and xP4 (four 'P' domains).
+ - Xenopus  integumentary  mucins  A.1  (FIM-A.1 or preprospasmolysin) and C.1
+   (FIM-C.1). These  proteins  could  be involved in defense against microbial
+   infections by  protecting the epithelia from external environment. They are
+   large proteins  (400 residues for A.1; more than 660 residues for C.1 whose
+   sequence is  only partially known) that contain multiple copies  of the 'P'
+   domain interspersed  with  tandem repeats of threonine-rich, O-glycosylated
+   regions.
+ - Xenopus  skin protein xp2 (or APEG) a protein that contains two 'P' domains
+   and which  exists  in  two  alternative  spliced forms that differ from the
+   inclusion of a N-terminal region of 320 residues that  consist of 33 tandem
+   repeats of a G-[GE]-[AP](2,4)-A-E motif.
+ - Zona pellucida sperm-binding protein B (ZP-B) (also known as ZP-X in rabbit
+   and ZP-3  alpha in pig). This protein is a receptor-like glycoprotein whose
+   extracellular region  contains  a  'P'  domain followed by a ZP domain (see
+   <PDOC00577>).
+ - Intestinal  sucrase-isomaltase    (EC 3.2.1.48 / EC 3.2.1.10), a vertebrate
+   membrane-bound, multifunctional  enzyme  complex  which hydrolyzes sucrose,
+   maltose and isomaltose (see <PDOC00120>).
+ - Lysosomal  alpha-glucosidase    (EC  3.2.1.20) (acid maltase), a vertebrate
+   extracellular glycosidase (see <PDOC00120>).
+
+Structurally the P-type domain can be represented as shown below.
+
+              +-------------------------+
+              |         +--------------+|
+              |         |              ||
+            xxCxxxxxx+xxCG#xxxxxxxCxxxxCC#xxxxxxxxWC#xxxxxxxx
+                     *************|*******         |
+                                  |                |
+                                  +----------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': large hydrophobic residue.
+'+': positively charged residue.
+'*': position of the pattern.
+
+-Consensus pattern: [KRH]-x(2)-C-x-[FYPSTV]-x(3,4)-[ST]-x(3)-C-x(4)-C-C-[FYWH]
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+                   Hoffmann W.; werner.hoffmann@medizin.uni-magdeburg.de
+
+-Last update: May 2009 / Text revised; profile added.
+
+[ 1] Hoffmann W., Hauser F.
+     "The P-domain or trefoil motif: a role in renewal and pathology of
+     mucous epithelia?"
+     Trends Biochem. Sci. 18:239-243(1993).
+     PubMed=8267796
+[ 2] Otto B., Wright N.
+     "Trefoil peptides. Coming up clover."
+     Curr. Biol. 4:835-838(1994).
+     PubMed=7820556
+[ 3] Bork P.
+     "A trefoil domain in the major rabbit zona pellucida protein."
+     Protein Sci. 2:669-670(1993).
+     PubMed=8518738
+[ 4] Wright N.A., Hoffmann W., Otto W.R., Rio M.-C., Thim L.
+     "Rolling in the clover: trefoil factor family (TFF)-domain peptides,
+     cell migration and cancer."
+     FEBS Lett. 408:121-123(1997).
+     PubMed=9187350
+[ 5] Sommer P., Blin N., Goett P.
+     "Tracing the evolutionary origin of the TFF-domain, an ancient motif
+     at mucous surfaces."
+     Gene 236:133-136(1999).
+     PubMed=10433974
+[ 6] Lemercinier X., Muskett F.W., Cheeseman B., McIntosh P.B., Thim L.,
+     Carr M.D.
+     "High-resolution solution structure of human intestinal trefoil factor
+     and functional insights from detailed structural comparisons with the
+     other members of the trefoil family of mammalian cell motility
+     factors."
+     Biochemistry 40:9552-9559(2001).
+     PubMed=11583154
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

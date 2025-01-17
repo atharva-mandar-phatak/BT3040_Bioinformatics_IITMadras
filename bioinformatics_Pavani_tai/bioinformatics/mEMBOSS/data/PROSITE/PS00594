@@ -1,0 +1,38 @@
+********************************************
+* Aromatic amino acids permeases signature *
+********************************************
+
+It has been shown [1] that some proteins involved in the transport of aromatic
+amino acids in Escherichia coli and related bacteria are evolutionary related;
+these permeases are:
+
+ - Tryptophan-specific transport protein (tryptophan permease) (gene mtr).
+ - Low affinity tryptophan permease (gene tnaB or trpP).
+ - Tyrosine-specific transport protein (tyrosine permease) (gene tyrP).
+ - Tyrosine permease from Erwinia herbicola (gene: tutB).
+
+These permeases are proteins of  about 400 to 420 amino  acids  which probably
+contain 11 or 12 transmembrane regions. The best conserved domain is a stretch
+of 20 residues which seems to be  located  in a cytoplasmic  loop  between the
+first and second transmembrane region.
+
+-Consensus pattern: I-G-[GA]-G-M-[LF]-[SA]-x-P-x(3)-[SA]-G-x(2)-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Sarsero J.P., Wookey P.J., Gollnick P., Yanofsky C., Pittard A.J.
+     "A new family of integral membrane proteins involved in transport of
+     aromatic amino acids in Escherichia coli."
+     J. Bacteriol. 173:3231-3234(1991).
+     PubMed=2022620
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

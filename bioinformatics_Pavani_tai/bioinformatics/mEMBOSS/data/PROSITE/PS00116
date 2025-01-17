@@ -1,0 +1,84 @@
+*************************************
+* DNA polymerase family B signature *
+*************************************
+
+Replicative  DNA polymerases (EC  2.7.7.7) are the key enzymes  catalyzing the
+accurate  replication of DNA.   They require either a small RNA molecule or  a
+protein as a primer for the de novo synthesis of a DNA chain.  On the basis of
+sequence similarity,  a  number  of DNA polymerases have been grouped [1 to 7]
+under the designation of DNA polymerase family B. These are:
+
+ - Higher eukaryotes polymerases alpha.
+ - Higher eukaryotes polymerases delta.
+ - Yeast polymerase  I/alpha (gene POL1),  polymerase II/epsilon  (gene POL2),
+   polymerase III/delta (gene POL3) and polymerase REV3.
+ - Escherichia coli polymerase II (gene dinA or polB).
+ - Archaebacterial polymerases.
+ - Polymerases of viruses from the herpesviridae family.
+ - Polymerases from Adenoviruses.
+ - Polymerases from Baculoviruses.
+ - Polymerases from Chlorella viruses.
+ - Polymerases from Poxviruses.
+ - Bacteriophage T4 polymerase.
+ - Podoviridae bacteriophages Phi-29, M2 and PZA polymerase.
+ - Tectiviridae bacteriophage PRD1 polymerase.
+ - Polymerases encoded  on mitochondrial linear  DNA plasmids in various fungi
+   and plants  (Kluyveromyces lactis pGKL1 and pGKL2,  Agaricus bitorquis pEM,
+   Ascobolus immersus pAI2,  Claviceps purpurea pCLK1,  Neurospora Kalilo  and
+   Maranhar, maize S-1, etc).
+
+Six regions of similarity (numbered from I to VI) are found in all or a subset
+of the above polymerases.  The most conserved region  (I) includes a conserved
+tetrapeptide with  two  aspartate  residues.  Its  function is not  yet known.
+However, it  has  been  suggested  [3]  that  it  may be involved in binding a
+magnesium ion.    We  selected  this  conserved region as a signature for this
+family of DNA polymerases.
+
+-Consensus pattern: [YA]-[GLIVMSTAC]-D-T-D-[SG]-[LIVMFTC]-{LA}-[LIVMSTAC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast  polymerase  II/epsilon,  Agaricus  bitorquis  pEM  and  Sulfolobus
+ solfataricus polymerase II.
+-Other sequence(s) detected in Swiss-Prot: 9.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Jung G.H., Leavitt M.C., Hsieh J.-C., Ito J.
+     "Bacteriophage PRD1 DNA polymerase: evolution of DNA polymerases."
+     Proc. Natl. Acad. Sci. U.S.A. 84:8287-8291(1987).
+     PubMed=3479792
+[ 2] Bernad A., Zaballos A., Salas M., Blanco L.
+     "Structural and functional relationships between prokaryotic and
+     eukaryotic DNA polymerases."
+     EMBO J. 6:4219-4225(1987).
+     PubMed=3127204
+[ 3] Argos P.
+     "A sequence motif in many polymerases."
+     Nucleic Acids Res. 16:9909-9916(1988).
+     PubMed=2461550
+[ 4] Wang T.S.-F., Wong S.W., Korn D.
+     "Human DNA polymerase alpha: predicted functional domains and
+     relationships with viral DNA polymerases."
+     FASEB J. 3:14-21(1989).
+     PubMed=2642867
+[ 5] Delarue M., Poch O., Tordo N., Moras D., Argos P.
+     "An attempt to unify the structure of polymerases."
+     Protein Eng. 3:461-467(1990).
+     PubMed=2196557
+[ 6] Ito J., Braithwaite D.K.
+     "Compilation and alignment of DNA polymerase sequences."
+     Nucleic Acids Res. 19:4045-4057(1991).
+     PubMed=1870963
+[ 7] Braithwaite D.K., Ito J.
+     "Compilation, alignment, and phylogenetic relationships of DNA
+     polymerases."
+     Nucleic Acids Res. 21:787-802(1993).
+     PubMed=8451181
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

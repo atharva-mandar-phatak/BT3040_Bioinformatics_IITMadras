@@ -1,0 +1,42 @@
+IGASERPTASE
+Proteolytic enzymes that use serine in their catalytic machinery are 
+widespread and numerous, being found in viruses, bacteria and eukaryotes
+[1]. They encompass a range of peptidase activity, including exopeptidase,
+endopeptidase, oligopeptidase and omega-peptidase. More than 20 serine
+protease families (denoted S1 - S27) have been identified, which have been
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+and functional similarities [1]. Structures from four clans have been
+examined (SA, SB, SC and SE): these appear to be unrelated, suggesting at 
+least four evolutionary origins of serine peptidase, and possibly many more
+[1]. Since that examination, structural representations from the other two 
+clan members (SF, SG) have been determined [3].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Proteins from the chymotrypsin clan (SA) have a conserved GXSG pattern at
+the active serine site. The S6 family of the SA clan include IgA-specific
+endopeptidases [1,3], which cleave prolyl bonds in the hinge regions of
+immunoglobulin A heavy chains. Similar specificity is shown by the unrelated
+family of M26 metalloendopeptidases. 
+
+IGASERPTASE is a 9-element fingerprint that provides a signature for the 
+IgA-specific endopeptidase (S6) family of serine peptidases. The fingerprint
+was derived from an initial alignment of 8 sequences: the motifs were
+drawn from conserved regions spanning virtually the full alignment length -
+motif 2 includes the catalytic Asp; and motif 3 encodes the catalytically
+active Ser. Two iterations on OWL30.1 were required to reach convergence,
+at which point a true set comprising 18 sequences was identified. Numerous
+partial matches were also found, all of which are fragments: B41500 matches
+motifs 1-3; and 16 sequences match motifs 2 and 3 only.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 7
+partial matches.

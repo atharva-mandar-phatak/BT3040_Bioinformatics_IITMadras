@@ -1,0 +1,105 @@
+**********************
+* BAR domain profile *
+**********************
+
+The BAR (Bin-Amphiphysin-Rvs) domain is about 200 amino acid long. This domain
+can  be  found  alone  or  in  association with other domains such as SH3 (see
+<PDOC50002>)  and RhoGAP (see <PDOC50238>). BAR domain containing proteins are
+a  unique  class of adaptor proteins characterized by a common N-terminal fold
+termed  the  BAR  domain.  This  set of adaptors, which includes the mammalian
+proteins  amphiphysin  and  Bin1 and the yeast proteins Rvs167 and Rvs161, has
+been  implicated  in  diverse  cellular  processes, including synaptic vesicle
+endocytosis,   actin   regulation,   differentiation,   cell   survival,   and
+tumorigenesis. Clearly there are two functions associated with the BAR domain,
+the  sensing and/or induction of membrane curvature and the binding to a small
+GTPase [1,2].
+
+The  resolution of the N-terminus of amphiphysin has shown that the BAR domain
+forms   a   crescent-shaped   dimer   of  a  three-helix  coiled-coil  with  a
+characteristic  set  of  conserved hydrophobic, aromatic and hydrophilic amino
+acids   (see   <PDB:1URU>)   [3,4].  More  structural  studies  revealed  that
+dimerization  is a minimal function of BAR-domain-containning proteins. It was
+suggested  that  the  V-shaped  dimer  is able to sense and/or induce membrane
+bending.
+
+More,  amphiphysin and endophilin contain a short sequence stretch adjacent to
+the  N  terminus  of  the  BAR  domain  which  is presumed to be essential for
+lipid-binding  and  tubule  formation. This sequence at the N-terminal end was
+shown  to form an amphipathic helix, thereby extending the helical backbone of
+the  dimer  at  the tips. Together with the BAR domain, this sequence motif is
+termed N-BAR and can be found in a subgroup of the BAR-domain family including
+amphiphysin. This stretch is not covered by the developed profile.
+
+Some proteins known to contain a BAR domain are listed below:
+
+ - Animal amphiphysin proteins.
+ - Yeast Rvs (amphiphysin-like) proteins.
+ - Animal endophylin SH3-containing GRB2-like proteins.
+ - Animal Bin Myc box dependent interacting proteins [2].
+ - Animal nadrins.
+ - Animal Tuba proteins [5].
+
+The profile we developed covers the entire BAR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This profile picks up the entire Bin-Amphiphysin-Rvs family. But recent
+ papers, based  on  sequence  and  structural  similarities  have shown that a
+ conserved region  in  more  divergent  families, like oligophrenin, centaurin
+ beta, sorting  nexin, ICA69, pick1 or arfaptins, is related to the BAR domain
+ [6,7,8]. These  families  are  however  too  divergent to be detected by this
+ profile.
+
+-Last update: September 2004 / First entry.
+
+[ 1] Balguerie A., Sivadon P., Bonneu M., Aigle M.
+     "Rvs167p, the budding yeast homolog of amphiphysin, colocalizes with
+     actin patches."
+     J. Cell Sci. 112:2529-2537(1999).
+     PubMed=10393809
+[ 2] Ge K., Prendergast G.C.
+     "Bin2, a functionally nonredundant member of the BAR adaptor gene
+     family."
+     Genomics 67:210-220(2000).
+     PubMed=10903846; DOI=10.1006/geno.2000.6216
+[ 3] Zimmerberg J., McLaughlin S.
+     "Membrane curvature: how BAR domains bend bilayers."
+     Curr. Biol. 14:R250-R252(2004).
+     PubMed=15043839; DOI=10.1016/j.cub.2004.02.060
+[ 4] Miele A.E., Watson P.J., Evans P.R., Traub L.M., Owen D.J.
+     "Two distinct interaction motifs in amphiphysin bind two independent
+     sites on the clathrin terminal domain beta-propeller."
+     Nat. Struct. Mol. Biol. 11:242-248(2004).
+     PubMed=14981508; DOI=10.1038/nsmb736
+[ 5] Salazar M.A., Kwiatkowski A.V., Pellegrini L., Cestra G., Butler M.H.,
+     Rossman K.L., Serna D.M., Sondek J., Gertler F.B., De Camilli P.
+     "Tuba, a novel protein containing bin/amphiphysin/Rvs and Dbl homology
+     domains, links dynamin to regulation of the actin cytoskeleton."
+     J. Biol. Chem. 278:49031-49043(2003).
+     PubMed=14506234; DOI=10.1074/jbc.M308104200
+[ 6] Habermann B.
+     "The BAR-domain family of proteins: a case of bending and binding?"
+     EMBO Rep. 5:250-255(2004).
+     PubMed=14993925; DOI=10.1038/sj.embor.7400105
+[ 7] Peter B.J., Kent H.M., Mills I.G., Vallis Y., Butler P.J.G., Evans P.R.,
+     McMahon H.T.
+     "BAR domains as sensors of membrane curvature: the amphiphysin BAR
+     structure."
+     Science 303:495-499(2004).
+     PubMed=14645856; DOI=10.1126/science.1092586
+[ 8] Richnau N., Fransson A., Farsad K., Aspenstroem P.
+     "RICH-1 has a BIN/Amphiphysin/Rvsp domain responsible for binding to
+     membrane lipids and tubulation of liposomes."
+     Biochem. Biophys. Res. Commun. 320:1034-1042(2004).
+     PubMed=15240152; DOI=10.1016/j.bbrc.2004.05.221
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

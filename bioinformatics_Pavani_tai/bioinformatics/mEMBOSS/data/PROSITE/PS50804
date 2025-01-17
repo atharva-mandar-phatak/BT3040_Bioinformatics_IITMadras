@@ -1,0 +1,83 @@
+********************
+* SCAN box profile *
+********************
+
+This domain of around 80 amino acid residues has been called LeR because it is
+a leucine  rich  region [1], or SCAN box from the first letter of the names of
+the four  proteins  initially  found  to  contain it (SRE-ZBP, CTfin-51, AW-1,
+Number 18 cDNA) [2]. The  SCAN box is essentially found in the N-terminal part
+of transcription  factors  containing  a  zinc  finger  of  the C2H2 type (see
+<PDOC00028>). These  proteins  can  either  activate or repress transcription,
+although  isolated  recombinant  SCAN boxes do not modulate significantly  the
+transcription [1,2].  In  addition to these zinc finger transcription factors,
+an  isolated  SCAN box without adjacent zinc finger motifs has been identified
+in some proteins [3,4].
+
+The SCAN box is enriched in hydrophobic and negatively charged residues with a
+L-X(6)-L motif  at  its  core.  This  core  is  flanked by A, E, L, M, H and C
+residues that  are  frequently  found in alpha-helices [2]. Predictions of the
+secondary structure  of  the  domain  suggest  the  presence of at least three
+alpha-helices that  are  separated  from  one  another by short looped regions
+bounded by  proline  residues  [5].  It  has  been  shown  to  be a  selective
+oligomerization domain  that  mediates  homotypic and heterotypic interactions
+between SCAN box containing proteins [4,5].
+
+The following zinc-finger proteins have been shown to contain a SCAN box:
+
+ - CTfin-51,   a   mouse   protein   that  has  been  shown  to  be  a  strong
+   transcriptional activator.
+ - SRE-ZBP, a human transcription factor that could function as a repressor of
+   c-fos transcription.
+ - Zinc finger proteins ZNF24, ZNF165, ZNF174, ZNF191, ZNF192, ZNF193, ZNF202,
+   ZNF215, ZNF232, ZNF263, ZFP-29, ZFP-38, and ZFP-95.
+
+And a number of proteins devoid of C2H2-type zinc-finger domain:
+
+ - PGC-2  (PPAR-gamma  coactivator  2)  [3], a human protein that binds to and
+   increases the transcriptional activity of the nuclear receptor PPAR-gamma.
+ - SDP1  (SCAN-domain  protein  1) [4], a protein that interacts with the SCAN
+   box of the zinc finger protein ZNF202.
+
+The profile we developed spans the complete SCAN box.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Pengue G., Calabro V., Bartoli P.C., Pagliuca A., Lania L.
+     "Repression of transcriptional activity at a distance by the
+     evolutionarily conserved KRAB domain present in a subfamily of zinc
+     finger proteins."
+     Nucleic Acids Res. 22:2908-2914(1994).
+     PubMed=8065901
+[ 2] Williams A.J., Khachigian L.M., Shows T., Collins T.
+     "Isolation and characterization of a novel zinc-finger protein with
+     transcription repressor activity."
+     J. Biol. Chem. 270:22143-22152(1995).
+     PubMed=7673192
+[ 3] Castillo G., Brun R.P., Rosenfield J.K., Hauser S., Park C.W.,
+     Troy A.E., Wright M.E., Spiegelman B.M.
+     "An adipogenic cofactor bound by the differentiation domain of
+     PPARgamma."
+     EMBO J. 18:3676-3687(1999).
+     PubMed=10393183; DOI=10.1093/emboj/18.13.3676
+[ 4] Schumacher C., Wang H., Honer C., Ding W., Koehn J., Lawrence Q.,
+     Coulis C.M., Wang L.L., Ballinger D., Bowen B.R., Wagner S.
+     "The SCAN domain mediates selective oligomerization."
+     J. Biol. Chem. 275:17173-17179(2000).
+     PubMed=10747874; DOI=10.1074/jbc.M000119200
+[ 5] Williams A.J., Blacklow S.C., Collins T.
+     "The zinc finger-associated SCAN box is a conserved oligomerization
+     domain."
+     Mol. Cell. Biol. 19:8526-8535(1999).
+     PubMed=10567577
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

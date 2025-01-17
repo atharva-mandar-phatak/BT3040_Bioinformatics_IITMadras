@@ -1,0 +1,24 @@
+GTP1OBG
+Several proteins have recently been shown to contain the 5 structural
+motifs characteristic of GTP-binding proteins [1]: these include murine
+DRG protein; GTP1 protein from Schizosaccharomyces pombe; OBG protein from
+Bacillus subtilis; and several others. Although the proteins contain GTP-
+binding motifs and are similar to each other, they do not share sequence
+similarity to other GTP-binding proteins, and have thus been classed as a
+novel group - the GTP1/OBG family [2,3]. As yet, the functions of these 
+proteins is uncertain, but they have been shown to be important in
+development and normal cell metabolism [2,3].
+
+GTP1OBG is a 4-element fingerprint that provides a signature for the
+GTP1/OBG family of GTP-binding proteins. The fingerprint was derived from
+an initial alignment of 6 sequences: motifs 1-3 were drawn from conserved
+regions thought to form the GTP-binding pocket, and correspond to the regions
+encoded by PROSITE patterns ATP_GTP_A (PS00017) (binding site motif A, or
+the so-called P-loop), and GTP1_OBG (PS00905) (binding site motif B). Two
+iterations on OWL24_0 were required to reach convergence, at which point a
+true set comprising 7 sequences was identified. A single partial match was
+also found, YSCH99867, which is similar to the GTP1/OBG family but shows
+marked differences in the region surrounding the third GTP-binding site.
+
+An update on SPTR37_9f identified a true set of 58 sequences, and 6
+partial matches.

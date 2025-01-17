@@ -1,0 +1,45 @@
+************************************************
+* Gamma-glutamyl phosphate reductase signature *
+************************************************
+
+Gamma-glutamyl phosphate  reductase  (EC  1.2.1.41) (GPR)  is the  enzyme that
+catalyzes the  second  step in the biosynthesis of proline from glutamate, the
+NADP-dependent reduction   of  L-glutamate  5-phosphate  into  L-glutamate  5-
+semialdehyde and phosphate.
+
+In eubacteria (gene  proA)  and yeast [1] (gene PRO2), GPR is a monofunctional
+protein, while  in plants  and mammals, it is a bifunctional enzyme (P5CS) [2]
+that consists   of   two  domains:  a  N-terminal  glutamate  5-kinase  domain
+(EC 2.7.2.11) (see <PDOC00701>) and a C-terminal GPR domain.
+
+As a  signature  pattern,  we  selected  a  conserved region that contains two
+histidine residues. This region is located in the last third of GPR.
+
+-Consensus pattern: [VA]-x(5)-A-[LIVAMTCK]-x-[HWFY]-[IM]-x(2)-[HYWNRFT]-
+                    [GSNT]-[STAG]-x(0,1)-H-[ST]-[DE]-x(1,2)-I
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Pearson B.M., Hernando Y., Payne J., Wolf S.S., Kalogeropoulos A.,
+     Schweizer M.
+     "Sequencing of a 35.71 kb DNA segment on the right arm of yeast
+     chromosome XV reveals regions of similarity to chromosomes I and
+     XIII."
+     Yeast 12:1021-1031(1996).
+     PubMed=8896266; DOI=10.1002/(SICI)1097-0061(199609)12:10B<1021::AID-YEA981>3.0.CO;2-7
+[ 2] Hu C.-A.A., Delauney A.J., Verma D.P.S.
+     "A bifunctional enzyme (delta 1-pyrroline-5-carboxylate synthetase)
+     catalyzes the first two steps in proline biosynthesis in plants."
+     Proc. Natl. Acad. Sci. U.S.A. 89:9354-9358(1992).
+     PubMed=1384052
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

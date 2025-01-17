@@ -1,0 +1,31 @@
+GPR162
+Computational methods, including percent identity plots, hydropathy profiles
+and BLAST, have been used to analyse a gene-rich cluster at human chromosome
+12p13 and to compare it with its syntenic region in mouse chromosome 6 [1-3].
+Of 6 genes identified, one of these, termed Gene A, revealed 3 splice forms:
+form A2 demonstrated a clear 7-transmembrane (TM) hydropathy profile, and
+showed very weak similarity to members of the G protein-coupled receptor 
+(GPCR) superfamily [3].
+
+GPCRs mediate a wide range of physiological functions, are major drug
+targets, and are consequently the subject of considerable research interest.
+In 2003, Vassilatis et al. reported that the repertoire of GPCRs for 
+endogenous ligands consisted of 367 receptors in humans and 392 in mice,
+including 26 from human and 83 from mouse that had not been identified
+previously [4]. 
+
+Of these novel receptors, GP162 (also known as GRCA) does show some
+similarity to rhodopsin-class GPCRs (most notably to certain tyramine and
+serotonin receptors, particularly in the region of TM domain 4), but the
+overall degree of similarity is very low, and evidence that it is functional
+GPCR has not been gathered experimentally.
+
+GPR162 is a 10-element fingerprint that provides a signature for the 
+GP162 7TM protein. The fingerprint was derived from an initial alignment of
+3 sequences - the motifs were drawn from conserved regions spanning
+virtually the full alignment length, focusing on those sections that 
+characterise GP162 but distinguish it from closely related GP153 proteins.
+A single iteration on SPTR55_38f was required to reach convergence, no
+further sequences being identified beyond the starting set. A single partial
+match was also found, Q3TY71_MOUSE, a murine visual cortex protein that
+matches motifs 1-3.

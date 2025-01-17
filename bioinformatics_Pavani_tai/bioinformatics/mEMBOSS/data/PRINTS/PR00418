@@ -1,0 +1,59 @@
+TPI2FAMILY
+Topoisomerases catalyse the interconversion of topological isomers of DNA
+and play a key role in DNA metabolism [1]. Topoisomerase I catalyses an ATP-
+independent reaction, while topoisomerase II catalyses an ATP-dependent
+reaction, resulting in the formation of DNA supercoils [1-3]. The supercoil
+is formed by transient cleavage in both strands of double-stranded DNA,
+followed by the passage of a segment of DNA through the break, and break
+ligation [3]. Eukaryotic enzymes can form both positive and negative
+supercoils, while prokaryotic enzymes form only negative supercoils.
+
+Eukaryotic topoisomerase II exists as a homodimer; in bacteriophage T4 it 
+consists of 3 heterologous subunits; in prokaryotes it exists as a tetramer
+of 2 subunits (2 each of gyrA and gyrB); and in E.coli, a second type II
+topoisomerase, involved in chromosome segregation (topoisomerase IV),
+consists of 2 subunits (parC and parE). GyrB, parE, and the product of 
+bacteriophage T4 gene 39, are all similar to the eukaryotic proteins [1-3].
+
+Structural studies of E.coli topoisomerase II have shown that the enzyme
+binds to DNA, forming a complex in which a DNA strand of approximately 120
+base pairs is wound around a protein core [3]. At low resolution, this
+complex resembles a flattened sphere, and may be heart-shaped, with the DNA
+embedded in the protein. There is evidence for channels or cavities in
+the complex, which may have a role in the DNA translocation process [3].
+
+The gyrB protein possesses 2 uniquely-folded domains. The N-terminal domain
+(domain 1) possesses ATP-binding and hydrolysis functions, and forms an
+8-stranded anti-parallel beta-sheet with unusual strand connectivities - the
+structure, which is stabilised by a hydrophobic core, can be subdivided
+into 6- and 2-stranded anti-parallel sheets, connected by a parallel sheet
+[3]. The C-terminal domain (domain 2) contains a 4-stranded mixed parallel
+and anti-parallel beta-sheet. Four helices are also present, 2 of which are
+rich in arginine residues. The gyrB dimer is punctured by a 20A hole, which
+may provide a gateway through which DNA is passed during supercoiling [3].
+Every arginine of domain 2 protrudes into this hole, possibly creating a 
+DNA-binding surface [3].
+
+From this structural information and results of various biochemical studies,
+a possible mechanism has been proposed: DNA is first bound by the gyrB
+dimer, then cleaved by gyrA. A large conformational change allows passage
+of another DNA strand through the double-stranded break and into the protein
+complex. This may involve ATP binding, exploiting the energy of association
+of ATP to the complex to stabilise an unfavourable protein conformation.
+The DNA break is then repaired by ligation, and the whole DNA molecule
+released - this possibly involves hydrolysis of ATP to ADP and organic
+phosphorous, which can dissociate from the protein, allowing the protein
+complex to return to its favoured conformation, and releasing the DNA [3].
+
+TPI2FAMILY is a 9-element fingerprint that provides a signature for the type
+II DNA topoisomerase family. The fingerprint was derived from an initial 
+alignment of 8 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full length of the gyrB domain - motif 5 includes the
+region encoded by PROSITE pattern TOPOISOMERASE_II (PS0177), which contains
+a well-conserved pentapeptide. Two iterations on OWL26.3 were required to 
+reach convergence, at which point a true set comprising 47 sequences was
+identified. Fifteen partial matches were also found, all of which were
+topoisomerase II fragments.
+
+An update on SPTR37_9f identified a true set of 82 sequences, and 7
+partial matches.

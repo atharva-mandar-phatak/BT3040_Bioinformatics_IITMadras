@@ -1,0 +1,33 @@
+MARCKS
+Myristoylated alanine-rich C-kinase substrate (MARCKS) is a predominent
+cellular substrate for protein kinase C (PKC) that has been implicated in
+macrophage activation, neuro-secretion and growth factor-dependent
+mitogenesis [1-3]. The N-terminal glycine is the site of myristoylation, 
+which allows effective binding of the protein to the plasma membrane, where
+it co-localises with PKC [2]. MARCKS binds calmodulin in a calcium-dependent
+manner; the region responsible for calcium-binding is highly basic, a domain
+of 25 amino acids known as the PSD domain, which also contains the PKC
+phosphorylation sites. When not phosphorylated, the PSD domain can bind
+to filamentous actin [3]. It is believed that MARCKS may be a regulated 
+crossbridge between actin and the plasma membrane; modulation of the actin
+cross-linking activity by calmodulin and phosphorylation, represent a
+potential convergence of the calcium-calmodulin and PKC signal transduction
+pathways in regulation of the actin cytoskeleton [3]. 
+
+MARCKS-related protein (MRP) is similar to MARCKS in terms of properties
+such as its myristoylation, phosphorylation and calmodulin-binding, and
+shares a high degree of sequence similarity. Two regions that show highest
+similarity are the kinase C phosphorylation site domain and the N-terminal
+region containing the myristoylation site [4]. MARCKS and MRP amino acid 
+compositions are similar, but the alanine content of the latter is lower [4].
+
+MARCKS is a 4-element fingerprint that provides a signature for the 
+myristoylated alanine-rich C-kinase substrate proteins. The fingerprint
+was derived from an initial alignment of 5 sequences: the motifs were
+drawn from short conserved regions spanning the full alignment length,
+motifs 2 and 3 including the regions encoded by PROSITE patterns MARCKS_1
+(PS00826) and MARCKS_2 (PS00827), the latter corresponding to the PSD domain.
+Two iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 10 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

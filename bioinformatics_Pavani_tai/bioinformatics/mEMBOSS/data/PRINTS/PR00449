@@ -1,0 +1,34 @@
+RASTRNSFRMNG
+Ras proteins bind GDP/GTP and possess intrinsic GTPase activity. The 
+mammalian ras gene family consists of the Harvey and Kirsten ras genes
+(c-H-ras1 and c-K-ras2), an inactive pseudogene of each (c-H-ras2 and
+c-K-ras1) and the n-ras gene. Mutations in the gene products are
+implicated in a variety of human tumours [1,2].
+
+The crystal structure of the normal human c-H-ras oncogene protein lacking
+a flexible C-terminal tail reveals that the protein consists of a 6-
+stranded beta-sheet, 4 alpha-helices, and 9 connecting loops [3]. Four
+loops are involved in interactions with bound guanosine diphosphate: one
+with the phosphates, another with the ribose, and 2 with the guanine base.
+Most transforming proteins (in vivo and in vitro) have single amino acid
+substitutions at one of a few key positions in 3 of these 4 loops, plus one
+additional loop. The biological functions of the remaining loops and other
+exposed regions are currently unknown. However, one loop is the binding site
+for a neutralising monoclonal antibody and another for a putative effector
+region; mutations in the latter region do not alter guanine nucleotide
+binding or guanosine triphosphatase activity, but they do reduce the
+transforming activity of activated proteins [3].
+
+RASTRNSFRMNG is a 5-element fingerprint that provides a signature for ras
+and ras-related transforming proteins. The fingerprint was derived from an
+initial alignment of 15 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 encodes
+the nucleotide-binding region; motifs 2, 3 and 4 span strands 3, 4 and
+5; and motif 5 encompasses the C-terminal helix. Four iterations on
+OWL26.3 were required to reach convergence, at which point a true set
+comprising 308 sequences was identified. Numerous partial matches were
+also found, all of which are fragments and ras-related proteins that fail
+to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 490 sequences, and 73
+partial matches.

@@ -1,0 +1,51 @@
+FMETLEUPHER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Accumulation of phagocytic cells at sites of injury or infection is
+regulated by substances that stimulate chemotaxis, granule secretion,
+superoxide generation and up-regulation of cell surface adhesion molecules
+in cells of the immune system [6]. The chemoattractant substances include
+bacterial N-formyl-methionyl peptides (typified by fMet-Leu-Phe (fMLP)),
+many of which participate in pathophysiological conditions, such as
+anaphylactic and septic shock [6]. Three fMLP receptors have been
+identified: fMLP selectively activates the FPR1 receptor relative to
+the FPR2 receptor; its action on FPR3 is unknown. The FPR1 receptor is
+found in differentiated myeloid cells (i.e., neutrophils and monocytes),
+and in related cell lines; the FPR2 receptor is found only in neutrophils
+and monocytes (it binds fMLP at >1000 times higher concentrations than 
+at the FPR1 receptor, and may bind other N-formyl-methionyl peptides
+with higher affinity) [6].
+
+FMETLEUPHER is an 8-element fingerprint that provides a signature for the
+fMLP receptors. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs were drawn from conserved sections within either
+loop or TM regions, focusing on those areas of the alignment that
+characterise the fMLP receptors but distinguish them from the rest of the
+rhodopsin-like superfamily - motif 1 spans the first cytoplasmic loop;
+motif 2 lies in the C-terminal half of TM domain 2; motif 3 lies in the
+N-terminal half of TM domain 3; motif 4 spans the second cytoplasmic loop;
+motif 5 lies in the second external loop; motif 6 was drawn from TM domain
+5; motif 7 spans the third cytoplasmic loop; and motif 8 lies in the
+C-terminal region following TM domain 7. Two iterations on OWL27.1 were
+required to reach convergence, at which point a true set comprising 8
+sequences was identfied. 
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 13
+partial matches.

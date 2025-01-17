@@ -1,0 +1,37 @@
+1. Get the PDB files from the PDB website, open them and show the SS
+
+2. Open the 1TIM PDB file and show the Cartoon view (Type hide all and then type show cartoon)
+
+3. click the color button on the right side and click "by chain" option and you'll get two colors which means that there are two chains.
+
+4. select one of the chains and right click on it and you'll see the chain option and click hide everything (or else type "hide chain A/B" to hide one of the chains)
+
+5. to change the color, click on the C icon on the right and change the color by ss and then change the color by the desired color palette
+
+6. to zoom into one of those chains, type "zoom chain A/B" and rotate it (You can do it by typing "reset" ig)
+
+7. click on display button on the main menu and click on the sequence to get the sequence.
+
+8. select the residues from 21-26 and you can see some dots highlighted on the figure. those are the amino acids present in that sequence range.
+
+9. type "hide cartoon" to hide the other cartoon that's not in use.
+
+10. select the selected sequence in the right side and click the show lines and zoom it to full.
+
+11. click on that A button -> find -> polar contacts -> within selection
+
+12. see the website for which aminoacids are hydrophobic and list them (show the distances if possible. It should generally be between 3.3 to 4.0)
+
+13. show atom names and go to action -> then click on Vanderwaal's Radii (i guess so)
+
+14. compute the distance between Gamma-Carbon to 2nd Delta-Carbon of Leu24
+
+15. compute the angle formed by the atoms: 2nd Delta carbon, Gamma carbon and the 1st delta carbon of Leu 24: go to wizard, click on measure. click on the distance and change the type of measurement to angle. then select the first, second and third atoms.
+
+16. compute the dihedral angles of Leu24: same procedure as 13th one but the option to be selected is dihedral instead of the normal angle. (select the 23rd and 25th amino acids and then compute the dihedral angles (phi, psi and omega-Look at the formulas in internet))
+
+17. change background to white: go to display, click on the background and select white in the drop side bar.
+
+18. click on the draw/ray on the upper right side of the PyMol window and click view and then click copy to clipboard/save the image
+
+19. bla bla

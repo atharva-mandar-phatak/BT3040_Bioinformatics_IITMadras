@@ -1,0 +1,26 @@
+60KDINNERMP
+Stage III sporulation protein J (SP3J) is a probable lipoprotein, rich in
+basic and hydrophobic amino acids. Mutations in the protein abolish the
+transcription of prespore-specific genes transcribed by the sigma G form of
+RNA polymerase [1]. SP3J could be involved in a signal transduction pathway
+coupling gene expression in the prespore to events in the mother cell, or it
+may be necessary for essential metabolic interactions between the two cells
+[1]. The protein shows a high degree of similarity to B.subtilis YQJG, to
+yeast OXA1 and also to bacterial 60kDa inner-membrane proteins [2-5]. These
+are integral membrane proteins of uncharacterised function that contain 
+several potential transmembrane domains - one of these is located at the
+N-terminus, the rest residing within the C-terminal portion of the protein. 
+
+60KDINNERMP is a 9-element fingerprint that provides a signature for
+bacterial 60kDa inner membrane proteins. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 spans the N-terminal
+hydrophobic domain, and motifs 5-9 encode other strongly hydrophobic 
+regions. A single iteration on OWL29.3 was required to reach convergence,
+no further sequences being identified beyond the starting set. Several
+partial matches were found, all of which are either N-terminal fragments,
+or homologues that fail to make significant matches with one or more motifs
+- these include B.subtillis SP3J and YQJG, and the human homologue of OXA1. 
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 12
+partial matches.

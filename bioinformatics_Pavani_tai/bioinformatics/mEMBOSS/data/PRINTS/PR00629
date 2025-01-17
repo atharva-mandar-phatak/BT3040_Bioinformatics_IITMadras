@@ -1,0 +1,24 @@
+SHCPIDOMAIN
+Shc proteins contain an SH2 domain and a phosphotyrosine interaction (PI)
+domain. These domains facilitate interaction with various activated
+tyrosine-phosphorylated receptors, including those of growth factors,
+insulin, cytokines and lymphocytes. The PI domain comprises 165 residues,
+4 of which (Arg67, Arg175, Ser151 and Lys169 [1]) are responsible for
+binding phosphotyrosine on a 'IIENPQYFSDA'(NPxPY) peptide [2]. 
+
+The PI domain has a similar structure to the insulin receptor substrate-1 
+PTB domain, a 7-stranded beta-sandwich, capped by a C-terminal helix.
+However, the PI domain contains an additional short N-terminal helix and a
+large insertion between strands 1 and 2, which forms a helix and 2 long
+connecting loops. The substrate peptide fits into a surface cleft formed
+from the C-terminal helix and strand 5 [3]. 
+
+SHCPIDOMAIN is a 6-element fingerprint that provides a signature for the
+SHC PI domain. The fingerprint was derived from an initial alignment of 6
+sequences: motif 1 spans strand 1; motif 2 encodes most of the additional
+helix; motif 3 lies in one of the connecting loops; motif 4 includes strand
+2; motif 5 spans strands 4, 5 and 6; and motif 6 encodes the C-terminal
+helix. A single iteration on OWL28.3 was required to reach convergence, no
+further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

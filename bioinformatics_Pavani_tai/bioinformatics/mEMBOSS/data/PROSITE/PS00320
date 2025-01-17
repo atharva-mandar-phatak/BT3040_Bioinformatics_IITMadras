@@ -1,0 +1,78 @@
+*****************************************
+* Amyloidogenic glycoprotein signatures *
+*****************************************
+
+Amyloidogenic glycoprotein  (A4  protein or APP)  is an integral, glycosylated
+membrane brain protein [1,2]. APP is associated with Alzheimer's disease (AD).
+This responsibility stems from the fact that a small peptide (of 43 residues),
+called  the  amyloid beta protein, which is part of the sequence of A4, is the
+major  constituent  of amyloid deposits in AD and in Down's syndrome. As shown
+in  the schematic representation below, the amyloid beta protein both precedes
+and forms part of the unique transmembrane region of A4.
+
+       +----------------------------------------xxxxxxx-------------+
+       |  Extracellular                         XXXXXXX Cytoplasmic |
+       +------------------------------------BBBBBBBBxxx-------------+
+
+'X': Transmembrane region.
+'B': Position of the amyloid beta protein in A4.
+
+The exact function of A4 protein  is not  yet known, but it has been suggested
+that it mediates cell-cell interactions.  The sequence  of  A4  from mammalian
+species is well conserved and is also similar to that of other proteins:
+
+ - Drosophila APPL (gene vnd) [3].
+ - Mammalian protein APLP1 [4].
+ - Mammalian protein APLP2 (APPH) (YWK-II) (CDEI-binding protein) [5].
+
+We have derived  two  patterns specific to these proteins,  the first one is a
+perfectly conserved octapeptide  located in the beginning of the extracellular
+domain; the second is a conserved octapeptide located at the C-terminal end of
+the cytoplasmic domain.
+
+-Consensus pattern: G-[VT]-[EK]-[FY]-V-C-C-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-Y-E-N-P-T-Y-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dyrks T., Weidemann A., Multhaup G., Salbaum J.M., Lemaire H.-G.,
+     Kang J., Muller-Hill B., Masters C.L., Beyreuther K.
+     "Identification, transmembrane orientation and biogenesis of the
+     amyloid A4 precursor of Alzheimer's disease."
+     EMBO J. 7:949-957(1988).
+     PubMed=2900137
+[ 2] Ashall F., Goate A.M.
+     "Role of the beta-amyloid precursor protein in Alzheimer's disease."
+     Trends Biochem. Sci. 19:42-46(1994).
+     PubMed=8140621
+[ 3] Rosen D.R., Martin-Morris L., Luo L.Q., White K.
+     "A Drosophila gene encoding a protein resembling the human
+     beta-amyloid protein precursor."
+     Proc. Natl. Acad. Sci. U.S.A. 86:2478-2482(1989).
+     PubMed=2494667
+[ 4] Wasco W., Bupp K., Magendantz M., Gusella J.F., Tanzi R.E., Solomon F.
+     "Identification of a mouse brain cDNA that encodes a protein related
+     to the Alzheimer disease-associated amyloid beta protein precursor."
+     Proc. Natl. Acad. Sci. U.S.A. 89:10758-10762(1992).
+     PubMed=1279693
+[ 5] Sprecher C.A., Grant F.J., Grimm G., O'Hara P.J., Norris F.,
+     Norris K., Foster D.C.
+     "Molecular cloning of the cDNA for a human amyloid precursor protein
+     homolog: evidence for a multigene family."
+     Biochemistry 32:4481-4486(1993).
+     PubMed=8485127
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

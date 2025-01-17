@@ -1,0 +1,36 @@
+PYOCIN
+The DNA sequence of the entire colicin E2 operon has been determined [1].
+The operon comprises the colicin activity gene (ceaB), the colicin immunity
+gene (ceiB) and the lysis gene (celB), which is essential for colicin
+release from producing cells [1]. A putative LexA binding site is located
+upstream from ceaB, and a rho-independent terminator structure is located
+downstream from celB [1]. Comparison of the amino acid sequences of colicin
+E2 and cloacin DF13 reveal extensive similarity. These colicins have
+different modes of action and recognise different cell surface receptors;
+the two major regions of heterology at the C-terminus, and in the C-terminal
+end of the central region are thought to correspond to the catalytic and 
+receptor-recognition domains, respectively [1]. 
+
+Sequence similarities between colicins E2, A and E1 [2] are less striking.
+The colicin E2 (pyocin) immunity protein does not share similarity with
+either the colicin E3 or cloacin DF13 [3] immunity proteins. Pyocin protects
+a cell that harbours the plasmid ColE2 encoding colicin E2 against colicin 
+E2; it is thus essential both for autonomous replication and colicin E2
+immunity [1]. 
+
+The three-dimensional structure of the colicin E9 immunity protein Im9 has
+been solved by NMR [4]. The fold is a distorted anti-parallel four-helix
+bundle, in which the third helix is rather short, a structure consistent 
+with available kinetic and biochemical data concerning the interaction 
+between Im9 and its target DNase [4]. Important residues that govern
+specificity are located on the molecular surface in a region rich in
+negatively charged groups, consistent with the proposed electrostatically-
+steered association [4]. 
+
+PYOCIN is a 3-element fingerprint that provides a signature for pyocins.
+The fingerprint was derived from an initial alignment of 6 sequences: the
+motifs were drawn from conserved regions spanning the full alignment length
+- motif 1 includes helix 1; motif 2 spans the C-terminus of helix 2 and
+helix 3; and motif 3 includes helix 4. Two iterations on SPTR37_10f were
+required to reach convergence, at which point a true set comprising 9
+sequences was identified.

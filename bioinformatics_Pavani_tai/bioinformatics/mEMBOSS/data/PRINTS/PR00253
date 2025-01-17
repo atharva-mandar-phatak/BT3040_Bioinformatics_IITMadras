@@ -1,0 +1,29 @@
+GABAARECEPTR
+Gamma-aminobutyric acid (GABA) receptors are members of the neurotransmitter
+ligand-gated ion channels: they mediate neuronal inhibition by opening 
+chloride channels on binding GABA [1,2]. There are 5 classes of receptor
+subunit (alpha, beta, gamma, delta and rho), with variants in each class
+[3]. Each subunit contains 4 proposed transmembrane (TM) domains, with a
+large intracellular loop between the third and fourth domain. Active
+receptors contain 5 subunits of varying classes and variants - the use
+of highly similar receptor subtypes, which differ in functionality, is a
+common feature of brain receptors [3].
+
+The neurotransmitter action of the subtype A receptor (GABAA) is
+potentiated by both benzodiazepines and barbiturates [3]. Alpha subunits
+largely determine benzodiazepine binding properties [4], and gamma-2
+subunits appear to be essential for benzodiazepine modulation of receptor
+function [1]. In insects, cyclodiene (an insecticide) resistence is due to
+insensitivity of the cyclodiene/picrotoxinin binding site on the GABAA
+receptor-chloride ionophore complex [5].
+
+GABAARECEPTR is a 4-element fingerprint that provides a signature for GABAA
+receptors. The fingerprint was derived from an initial alignment of 15
+sequences: the motifs were drawn from the 4 putative TM regions. Two
+iterations on OWL24.0 were required to reach convergence, at which point a
+true set comprising 60 sequences was identified: these include a number of
+glycine receptors, which are inhibitory chloride ion channels known to
+share a high degree of similarity with the GABA receptors.
+
+An update on SPTR37_9f identified a true set of 113 sequences, and 10
+partial matches.

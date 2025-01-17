@@ -1,0 +1,50 @@
+VRL2RECEPTOR
+Transient receptor potential (Trp) and related proteins are thought to be
+Ca2+ ion channel subunits that mediate capacitative Ca2+ entry in response 
+to a range of external and internal cell stimuli. Such Ca2+ entry is thought 
+to be an essential component of cellular responses to many hormones and
+growth factors, and acts to replenish intracellular Ca2+ stores that have
+been emptied through the action of inositol triphosphate (IP3) and other 
+agents. In non-excitable cells (i.e., those that lack voltage-gated Ca2+
+channels, such as hepatocytes), this mode of Ca2+ entry is thought to be an
+important step in generating the oscillations of intracellular Ca2+
+concentration that characterise their response to stimulatory agents [1].
+
+Studies on the visual transduction system in Drosophila led to the molecular
+cloning of Trp and of a related protein, Trp-like, which show similarity to
+voltage-gated Ca2+ channels in the regions known as S3-S6, including the S5-
+S6 linker, which forms the ion-selective channel pore [2]. This provided 
+evidence that Trp and/or related proteins might form mammalian capacitative 
+Ca2+ entry channels. The sequences of these proteins have varying lengths 
+(usually 800-1000 amino acid residues), and hydropathy plots suggest they 
+have 6 or more transmembrane (TM) domains, flanked by cytosolic N- and C-
+termini. In addition, most contain N-terminal ankyrin repeats [2,3].
+
+Following the cloning of the vanilloid receptor (VR1), at least 4 other
+related proteins have been identified. Together, these form a distinct
+subgroup of the TRP family. Members of the vanilloid receptor family (TRPV)
+are activated by a diverse range of stimuli, including heat, protons,
+lipids, phorbols, phosphorylation, changes in extracellular osmolarity
+and/or pressure, and depletion of intracellular calcium stores [3]. To date,
+2 vanilloid receptor-like proteins (VRL-1 and VRL-2) and at least 2 
+epithelial calcium channels (ECAC) have been reported.
+
+VRL-2 (also known as VR-OAC, OTRPC4, TRP12) is expressed at high levels in 
+kidney, liver, heart and central nervous system. It is an osmotically 
+regulated channel, which suggests that it could be activated by physical 
+stimuli, such as cell swelling. However, VRL-2 is not gated directly by 
+membrane stretch [4]; thus, as with swelling-activated anion channels, a 
+cytoplasmic signal transduction pathway is likely to be involved, with 
+cross-talk with other activation pathways. It is possible that they may play
+a role in a range of conditions that result from deficits in osmoregulation. 
+Targeting VRL-2 might therefore be of benefit in conditions such as impaired 
+hearing or kidney dysfunction [5].
+
+VRL2RECEPTOR is a 6-element fingerprint that provides a signature for the
+vanilloid receptor-like 2 protein (VRL-2) family. The fingerprint was 
+derived from an initial alignment of 3 sequences: the motifs were drawn 
+from conserved regions spanning the full alignment length - motifs 1-4 lie 
+in the N-terminus; motif 5 encodes the third TM domain; and motif 6 resides 
+in the loop region between the fifth TM domain and the pore-domain. Two 
+iterations on SPTR40_20f were required to reach convergence, at which point 
+a true set comprising 11 sequences was identified.

@@ -1,0 +1,33 @@
+CALSEQUESTRN
+Calsequestrin is the principal calcium-binding protein present in the
+sarcoplasmic reticulum of cardiac and skeletal muscle [1]. It is a highly 
+acidic protein, able to bind over 40 calcium ions, and acts as an internal
+calcium store in muscle. Sequence analysis has suggested that calcium is
+not bound in distinct pockets via EF-hand motifs, but rather via 
+presentation of a charged protein surface [1]. Two forms of calsequestrin
+have been identified: the cardiac form, present in cardiac and slow
+skeletal muscle; and the fast skeletal form, found in fast skeletal muscle
+[1]. The release of calsequestrin-bound calcium (through a a calcium
+release channel) triggers muscle contraction.
+
+Circular dichroism and intrinsic fluorescence spectroscopy studies have
+shown that the active protein is not highly structured, more than 50% of
+it adopting a random coil conformation [2]. It has been further 
+demonstrated that calcium binding results in a structural change, whereby
+the alpha-helical content of the protein increases from 3 to 11% [2].
+Both forms of calsequestrin are phosphorylated by casein kinase II, but
+the cardiac form is phosphorylated more rapidly and to a higher degree [3].
+
+CALSEQUESTRN is a 10-element fingerprint that provides a signature for
+calsequestrin. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motif 1 includes the N-terminal region encoded
+by PROSITE pattern CALSEQUESTRIN_1 (PS00863); motif 7 spans a calcium-
+regulated hydrophobic site; and motif 10 includes the C-terminal region
+encoded by PROSITE pattern CALSEQUESTRIN_2 (PS00864), which is located
+just before the highly-acidic, variable length tail. Two iterations on
+OWL24.0 were required to reach convergence, at which point a true set
+comprising 6 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 1
+partial match.

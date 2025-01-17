@@ -1,0 +1,98 @@
+******************************
+* TBC/rab GAP domain profile *
+******************************
+
+The ~200  amino  acid  TBC/rab  GTPase-activating protein (GAP) domain is well
+conserved across  species  and  has  been  found  in a wide range of different
+proteins from  plant  adhesion  molecules to mammalian oncogenes. The name TBC
+derives from  the  name  of  the  murine protein Tbc1 in which this domain was
+first identified  based  on its similarity to sequences in the tre-2 oncogene,
+and the  yeast  regulators  of  mitosis, BUB2 and cdc16 [1]. The connection of
+this domain with rab GTPase activation stems from subsequent in-depth sequence
+analyses and  alignments  [2] and recent work demonstrating that it appears to
+contain the    catalytic activities of the yeast rab GAPs, GYP1, and GYP7 [3].
+The TBC/rab GAP domain  has  also been named PTM after three proteins known to
+contain it:  the  Drosophila  pollux, the human oncoprotein TRE17 (oncoTRE17),
+and a myeloid cell line-expressed protein [4].
+
+The TBC/rab GAP domain  contains  six  conserved  motifs  named  A to F [2]. A
+conserved arginine  residue  in  the  sequence  motif  B  has been shown to be
+critical for  the full GAP activity [3]. Resolution of the 3D structure of the
+TBC/rab GAP domain of GYP1 has shown that it is a fully alpha-helical V-shaped
+molecule (see <PDB:1FKM>). The conserved arginine residue is positioned at the
+side of  the narrow cleft on the concave site of the V-shaped molecule. It has
+been proposed  that  this  cleft  is  the  binding  site  for  the GTPase. The
+conserved arginine  residue  probably functions as a catalytic arginine finger
+analogous to  that  seen  in  ras  and  Rho-GAPs. The  two key features of the
+arginine finger  activation  mechanism appear to be (i) the positioning of the
+catalytically essential  GTPase  glutamine  side  chain via a hydrogen bonding
+interaction between  the  glutamine  carbamoyl-NH2  group  and  the main chain
+carbonyl group  of  the  GAP arginine, and (ii) the polarization of the gamma-
+phosphate group  or  the  stabilization of charge on it via the interaction of
+the positively charged side chain guanidinoyl group of the GAP arginine [5].
+
+Some proteins known to contain a TBC/rab GAP domain are listed below:
+
+ - Yeast  mitotic  check point protein BUB2. BUB2 monitors spindle microtubule
+   assembly during mitosis.
+ - Yeast  GTPase-activating  proteins  (GAPs)  GYP  1  to  7. GAPs enhance the
+   inherently slow  GTPase  activity  of  Ras-like proteins, which function as
+   binary molecular switches controlling cellular pathways.
+ - Yeast MIC1 protein.
+ - Fission  yeast  cell  division  control protein 16 (CDC16). It is part of a
+   checkpoint control system regulating septum formation.
+ - Drosophila pollux, an adhesion molecule.
+ - Mammalian rab GAPs.
+ - Human TRE oncogene protein.
+ - Human  EBP50-PDZ  interactor  of  64 kDa (EPI64). It binds to the first PDZ
+   domain of EBP50 and E3KARP [6].
+
+The profile  we  developed  covers  the  entire  six  conserved  motifs of the
+TBC/rab GAP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2002 / First entry.
+
+[ 1] Richardson P.M., Zon L.I.
+     "Molecular cloning of a cDNA with a novel domain present in the tre-2
+     oncogene and the yeast cell cycle regulators BUB2 and cdc16."
+     Oncogene 11:1139-1148(1995).
+     PubMed=7566974
+[ 2] Neuwald A.F.
+     "A shared domain between a spindle assembly checkpoint protein and
+     Ypt/Rab-specific GTPase-activators."
+     Trends Biochem. Sci. 22:243-244(1997).
+     PubMed=9255064
+[ 3] Albert S., Will E., Gallwitz D.
+     "Identification of the catalytic domains and their functionally
+     critical arginine residues of two yeast GTPase-activating proteins
+     specific for Ypt/Rab transport GTPases."
+     EMBO J. 18:5216-5225(1999).
+     PubMed=10508155; DOI=10.1093/emboj/18.19.5216
+[ 4] Zhang S.-D., Kassis J., Olde B., Mellerick D.M., Odenwald W.F.
+     "Pollux, a novel Drosophila adhesion molecule, belongs to a family of
+     proteins expressed in plants, yeast, nematodes, and man."
+     Genes Dev. 10:1108-1119(1996).
+     PubMed=8654926
+[ 5] Rak A., Fedorov R., Alexandrov K., Albert S., Goody R.S., Gallwitz D.,
+     Scheidig A.J.
+     "Crystal structure of the GAP domain of Gyp1p: first insights into
+     interaction with Ypt/Rab proteins."
+     EMBO J. 19:5105-5113(2000).
+     PubMed=11013213; DOI=10.1093/emboj/19.19.5105
+[ 6] Reczek D., Bretscher A.
+     "Identification of EPI64, a TBC/rabGAP domain-containing microvillar
+     protein that binds to the first PDZ domain of EBP50 and E3KARP."
+     J. Cell Biol. 153:191-206(2001).
+     PubMed=11285285
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

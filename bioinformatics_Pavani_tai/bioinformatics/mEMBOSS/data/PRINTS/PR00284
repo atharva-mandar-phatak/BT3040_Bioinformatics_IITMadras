@@ -1,0 +1,26 @@
+TOXIN
+A variety of peptide scorpion toxins have been identified that exert
+their effect by binding to sodium or potassium channels, inhbiting
+inactivation of activated channels and hence blocking neuronal 
+transmission [1,2]. Another class of toxin includes plant proteins that
+are toxic to animal cells [3]. Again, their effect is exerted at the level
+of the cell membrane, although the precise mechanism is unknown. Comparison
+of the primary and tertiary structures of toxins from different sources
+shows a degree of similarity - this suggests that fine tuning of the
+mode of action of the toxins is both tissue-specific and related to local
+variations in the primary and tertiary structures.
+
+The toxin structure is based on a 3-stranded anti-parallel beta-sheet, a
+short length of alpha helix running parallel to the sheet, and several
+beta-turns [4,5]. A number of disulphide bridges, some of which are
+closely association with the helix and the sheet, provide a rigid core.
+Overall, the shape of the molecule resembles a right-hand fist.
+
+TOXIN is a 2-element fingerprint that provides a signature for this super-
+family of toxins. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs encode 4 conserved Cys resides, 2 towards the
+N-terminus and 2 towards the C-terminus. Three iterations on OWL23.1
+were required to reach convergence, at which point a true set comprising
+49 sequences was identified.  
+
+An update on SPTR37_9f identified a true set of 48 sequences.

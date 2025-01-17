@@ -1,0 +1,30 @@
+SHIGARICIN
+Various plant and bacterial toxins act by inhibiting protein synthesis
+in eukaryotic cells. Toxins of the shiga and ricin family inactivate 60S
+ribosomal subunits by an N-glycosidic cleavage, which releases a specific
+adenine base from the sugar-phosphate backbone of 28S RNA. Members of the
+family include shiga and shiga-like toxins, and type I (e.g. trichosanthin
+and luffin) and type II (e.g. ricin, agglutinin and abrin) ribosome 
+inactivating proteins (RIPs). 
+
+RIPs have been of considerable interest because of their potential use,
+conjugated with monoclonal antibodies, as immunotoxins to treat cancers.
+Further, trichosanthin has been shown to have potent activity against
+HIV-1-infected T cells and macrophages [1]. Elucidation of the structure-
+function relationships of RIPs has therefore become a major research
+effort. It is now known that RIPs are structurally related. A conserved
+glutamic residue has been implicated in the catalytic mechanism [2]; this
+lies near a conserved arginine, which also plays a role in catalysis [3].
+
+SHIGARICIN is a 5-element fingerprint that provides a signature for
+the shiga/ricin family of ribosomal inactivating toxins. The fingerprint
+was derived from an initial alignment of 9 sequences: the motifs were
+drawn from short conserved regions spanning the full alignment length,
+motif 4 including the region encoded by PROSITE pattern SHIGA_RICIN
+(PS00275), which includes the conserved active site glutamic and arginine
+residues. Two iterations on OWL26.0 were required to reach convergence,
+at which point a true set comprising 46 sequences was identified. Several
+partial matches were also found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 38 sequences, and 4
+partial matches.

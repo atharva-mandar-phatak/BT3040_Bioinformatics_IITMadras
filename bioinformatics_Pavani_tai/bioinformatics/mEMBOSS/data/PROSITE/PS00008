@@ -1,0 +1,48 @@
+*************************
+* N-myristoylation site *
+*************************
+
+An  appreciable  number of eukaryotic  proteins  are  acylated by the covalent
+addition of myristate (a C14-saturated fatty acid) to their N-terminal residue
+via an amide linkage [1,2]. The sequence specificity of the enzyme responsible
+for this  modification,   myristoyl CoA:protein N-myristoyl transferase (NMT),
+has been  derived from the sequence of known N-myristoylated proteins and from
+studies using synthetic peptides. It seems to be the following:
+
+ - The N-terminal residue must be glycine.
+ - In position 2, uncharged residues  are allowed.  Charged residues,  proline
+   and large hydrophobic residues are not allowed.
+ - In positions 3 and 4, most, if not all, residues are allowed.
+ - In position  5,  small uncharged  residues are allowed (Ala, Ser, Thr, Cys,
+   Asn and Gly). Serine is favored.
+ - In position 6, proline is not allowed.
+
+-Consensus pattern: G-{EDRKHPFYW}-x(2)-[STAGCN]-{P}
+                    [G is the N-myristoylation site]
+
+-Note: We  deliberately include as  potential myristoylated  glycine residues,
+ those which  are  internal  to a sequence. It could well be that the sequence
+ under study  represents  a  viral  polyprotein  precursor and that subsequent
+ proteolytic processing  could expose an internal glycine as the N-terminal of
+ a mature protein.
+
+-Last update: October 1989 / Pattern and text revised.
+
+[ 1] Towler D.A., Gordon J.I., Adams S.P., Glaser L.
+     "The biology and enzymology of eukaryotic protein acylation."
+     Annu. Rev. Biochem. 57:69-99(1988).
+     PubMed=3052287; DOI=10.1146/annurev.bi.57.070188.000441
+[ 2] Grand R.J.A.
+     "Acylation of viral and eukaryotic proteins."
+     Biochem. J. 258:625-638(1989).
+     PubMed=2658970
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

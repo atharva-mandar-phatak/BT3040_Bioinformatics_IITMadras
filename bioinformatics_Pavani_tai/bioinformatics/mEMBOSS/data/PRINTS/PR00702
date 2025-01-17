@@ -1,0 +1,22 @@
+ACRIFLAVINRP
+The E.coli acrA and acrB genes encode a multi-drug efflux system that is
+believed to protect the bacterium against hydrophobic inhibitors [1]. 
+Sequence analysis of acrA reveals the presence of two open reading frames,
+the second of which encodes a large transmembrane protein [2]. The protein
+contains 12 hydrophobic, putative transmembrane domains. Proteins belonging
+to this family include the P.aeruginosa multidrug resistance protein mexB, 
+A.eutrophus cation efflux system protein czcA, and various R.meliloti
+nodulation proteins.
+
+ACRIFLAVINRP is a 9-element fingerprint that provides a signature for 
+members of the acriflavin resistance protein family. The fingerprint was
+derived from an initial alignment of 10 sequences: the motifs were largely
+drawn from conserved hydrophobic regions and span virtually the full
+alignment length - motifs 1 and 2 lie in the N-terminal portion of the
+alignment, and motifs 3-9 in the C-terminal portion. Two iterations on
+OWL29.3 were required to reach convergence, at which point a true set
+comprising 16 sequences was identified. Several partial matches were also
+found, all of which are acriflavin resistance protein homologues.
+
+An update on SPTR37_9f identified a true set of 20 sequences, and 20
+partial matches.

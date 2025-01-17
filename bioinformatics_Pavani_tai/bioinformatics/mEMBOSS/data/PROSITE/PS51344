@@ -1,0 +1,64 @@
+****************************************
+* TFE/IIEalpha-type HTH domain profile *
+****************************************
+
+Initiation of  eukaryotic  mRNA transcription requires melting of promoter DNA
+with the  help  of  the  general  transcription factors TFIIE and TFIIH. TFIIE
+consists of  a  large  and  a  small  subunit,  referred to as alpha and beta,
+respectively, in  higher  eukaryotes.  Archaea contain a TFIIE homolog, called
+TFE, that  corresponds  to  the N-terminal half of TFIIEalpha. It appears that
+archaeal TFE   corresponds   to  the  minimal  essential  region  of  eukaryal
+TFIIEalpha. In  archaea  TFE  contains an N-terminal, weakly conserved, helix-
+turn-helix (HTH)  motif  within  a  leucine-rich  region and a C-terminal zinc
+ribbon [1-3].  It has been proposed that the TFE/IIEalpha-type HTH domain acts
+as a  bridging  factor  or  adapter  between the TATA box-binding protein, the
+polymerase, and possibly promoter DNA [4].
+
+The TFE/IIEalpha-type  HTH domain adopts a winged HTH (winged helix) fold (see
+<PDB:1Q1H>), comprising  three  alpha-helices  and  three  beta-strands in the
+canonical order   alpha1-beta1-alpha2-alpha3-beta2-beta3.  Conserved  residues
+within helices  alpha1-alpha3  form the tightly packed hydrophobic core of the
+winged helix  domain.  A specific feature of the structure is the extension of
+the canonical  winged  helix  fold  at  the  N and C termini by the additional
+helices alpha0   and  alpha4,  respectively.  Hydrophobic  residues  from  the
+additional helix  alpha0  extend  the  hydrophobic  core  of  the winged helix
+domain, and  helix alpha0 is tightly packed against the canonical winged helix
+fold. Helix alpha4 comprises only one turn [4].
+
+The profile we developed covers the entire TFE/IIEalpha-type HTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2007 / First entry.
+
+[ 1] Kuldell N.H., Buratowski S.
+     "Genetic analysis of the large subunit of yeast transcription factor
+     IIE reveals two regions with distinct functions."
+     Mol. Cell. Biol. 17:5288-5298(1997).
+     PubMed=9271406
+[ 2] Bell S.D., Brinkman A.B., van der Oost J., Jackson S.P.
+     "The archaeal TFIIEalpha homologue facilitates transcription
+     initiation by enhancing TATA-box recognition."
+     EMBO Rep. 2:133-138(2001).
+     PubMed=11258705; DOI=10.1093/embo-reports/kve021
+[ 3] Hanzelka B.L., Darcy T.J., Reeve J.N.
+     "TFE, an archaeal transcription factor in Methanobacterium
+     thermoautotrophicum related to eucaryal transcription factor
+     TFIIEalpha."
+     J. Bacteriol. 183:1813-1818(2001).
+     PubMed=11160119; DOI=10.1128/JB.183.5.1813-1818.2001
+[ 4] Meinhart A., Blobel J., Cramer P.
+     "An extended winged helix domain in general transcription factor E/IIE
+     alpha."
+     J. Biol. Chem. 278:48267-48274(2003).
+     PubMed=13679366; DOI=10.1074/jbc.M307874200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

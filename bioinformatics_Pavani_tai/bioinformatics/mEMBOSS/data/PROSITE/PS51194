@@ -1,0 +1,136 @@
+**************************************************
+* Superfamilies 1 and 2 helicase domain profiles *
+**************************************************
+
+Helicases  have  been  classified in 5 superfamilies (SF1-SF5) [1]. All of the
+proteins  bind ATP and, consequently, all of them carry the classical Walker A
+(phosphate-binding   loop   or   P-loop)   (see   <PDOC00017>)  and  Walker  B
+(Mg2+-binding  aspartic acid) motifs [1]. For the two largest groups, commonly
+referred  to  as  SF1 and SF2, a total of seven characteristic motifs has been
+identified  [2].  These  two superfamilies encompass a large number of DNA and
+RNA helicases from archaea, eubacteria, eukaryotes and viruses that seem to be
+active  as  monomers  or  dimers.  RNA  and DNA helicases are considered to be
+enzymes  that  catalyze  the separation of double-stranded nucleic acids in an
+energy-dependent manner [3].
+
+The various structures of SF1 and SF2 helicases present a common core with two
+alpha-beta   RecA-like   domains  (see  for  example  <PDB:1FUU>)  [3,4].  The
+structural  homology  with  the  RecA  recombination  protein  covers the five
+contiguous  parallel  beta  strands and the tandem alpha helices. ATP binds to
+the  amino proximal alpha-beta domain, where the Walker A (motif I) and Walker
+B (motif  II) are found. The N-terminal domain also contains motif III (S-A-T)
+which  was  proposed to participate in linking ATPase and helicase activities.
+The  carboxy-terminal  alpha-beta  domain  is structurally very similar to the
+proximal  one even though it is bereft of an ATP-binding site, suggesting that
+it may have originally arisen through gene duplication of the first one.
+
+Some members of helicase superfamilies 1 and 2 are listed below:
+
+ - DEAD-box  RNA  helicases  (see  <PDOC00039>).  The  prototype  of  DEAD-box
+   proteins  is  the translation initiation factor eIF4A. The eIF4A protein is
+   an  RNA-dependent  ATPase  which  functions  together  with eIF4B as an RNA
+   helicases [5,E1].
+ - DEAH-box  RNA  helicases (see <PDOC00039>). Mainly pre-mRNA-splicing factor
+   ATP-dependent RNA helicases [5,E1].
+ - Eukaryotic   DNA  repair  helicase RAD3/ERCC-2, an ATP-dependent 5'-3'  DNA
+   helicase involved in nucleotide excision repair of UV-damaged DNA.
+ - Eukaryotic  TFIIH  basal transcription factor complex helicase XPB subunit.
+   An  ATP-dependent 3'-5' DNA helicase which is a component of the core-TFIIH
+   basal transcription factor, involved in nucleotide excision repair (NER) of
+   DNA  and, when complexed to CAK, in RNA transcription by RNA polymerase II.
+   It  acts  by  opening DNA either around the RNA transcription start site or
+   the DNA.
+ - Eukaryotic  ATP-dependent  DNA  helicase  Q. A DNA helicase that may play a
+   role  in  the  repair  of DNA that is damaged by ultraviolet light or other
+   mutagens.
+ - Eukaryotic  ATP-dependent  helicase  SNF2/RAD54.  A  group of ATP-dependent
+   remodelling factors frequently found associated with histone deacetylases.
+ - Bacterial  and  eukaryotic antiviral SKI2-like helicase. SKI2 has a role in
+   the  3'-mRNA  degradation  pathway. It represses dsRNA virus propagation by
+   specifically  blocking  translation of viral mRNAs, perhaps recognizing the
+   absence of CAP or poly(A).
+ - Bacterial  DNA-damage-inducible  protein  G  (DinG).  A  probable  helicase
+   involved in DNA repair and perhaps also replication.
+ - Bacterial  primosomal  protein  N'  (PriA).  PriA  protein  is one of seven
+   proteins  that  make  up  the restart primosome, an apparatus that promotes
+   assembly   of   replisomes   at  recombination  intermediates  and  stalled
+   replication forks.
+ - Bacterial  ATP-dependent  DNA  helicase  recG.  It  has  a critical role in
+   recombination   and   DNA   repair.  It  helps  process  Holliday  junction
+   intermediates  to  mature products by catalyzing branch migration. It has a
+   DNA  unwinding  activity  characteristic  of a DNA helicase with a 3' to 5'
+   polarity.
+ - ssRNA positive-strand  flaviviruses and potyviruses RNA helicase.
+ - dsDNA viruses early transcription factor 70 kDa subunit.
+ - dsDNA  viruses  nucleoside  triphosphatase I (NPH I) protein. It serves two
+   roles   in  transcription;  it  acts  in  concert  with  viral  termination
+   factor/capping enzyme to catalyze release of UUUUUNU-containing nascent RNA
+   from  the  elongation  complex,  and  it  acts  by  itself  as a polymerase
+   elongation factor to facilitate readthrough of intrinsic pause sites.
+ - Poxviruses  transcript  release  DNA  helicase.  It  prevents virus-induced
+   breakdown of RNA. It acts as a negative transcription elongation factor. It
+   is involved in an ATP-dependent manner in release of nascent RNA.
+
+To  recognize  helicase  Superfamilies 1 and 2 we have developed two profiles.
+The  first one recognizes all classical SF1 and SF2 helicases except bacterial
+DinG protein  and eukaryotic Rad3 which belong to the same subfamily and which
+differ  from  other  SF1-SF2 helicases by the presence of a large insert after
+the Walker A [6]. Our second profile recognizes specifically this subfamily.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the third profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: UvrD (see <PDOC51198>) also belong to SF1 but is not picked-up by these
+ profiles.
+-Note:  secA  is  a  bacterial protein important for protein export which also
+ contains  the seven motifs characteristic of SF1 and SF2. We also developed a
+ profile specific for this family (see <PDOC01016>).
+
+-Last update: April 2006 / First entry.
+
+[ 1] Gorbalenya A.E., and Koonin E.V. .
+     "Helicases: amino acid sequence comparisons and structure-function
+     relationships."
+     Curr. Opin. Struct. Biol. 3:419-429(1993).
+[ 2] Gorbalenya A.E., Koonin E.V., Donchenko A.P., Blinov V.M.
+     "Two related superfamilies of putative helicases involved in
+     replication, recombination, repair and expression of DNA and RNA
+     genomes."
+     Nucleic Acids Res. 17:4713-4730(1989).
+     PubMed=2546125
+[ 3] Caruthers J.M., McKay D.B.
+     "Helicase structure and mechanism."
+     Curr. Opin. Struct. Biol. 12:123-133(2002).
+     PubMed=11839499
+[ 4] Caruthers J.M., Johnson E.R., McKay D.B.
+     "Crystal structure of yeast initiation factor 4A, a DEAD-box RNA
+     helicase."
+     Proc. Natl. Acad. Sci. U.S.A. 97:13080-13085(2000).
+     PubMed=11087862; DOI=10.1073/pnas.97.24.13080
+[ 5] Tanner N.K., Linder P.
+     "DExD/H box RNA helicases: from generic motors to specific
+     dissociation functions."
+     Mol. Cell 8:251-262(2001).
+     PubMed=11545728
+[ 6] Koonin E.V.
+     "Escherichia coli dinG gene encodes a putative DNA helicase related to
+     a group of eukaryotic helicases including Rad3 protein."
+     Nucleic Acids Res. 21:1497-1497(1993).
+     PubMed=8385320
+[E1] http://www.medecine.unige.ch/~linder/HELICASES_TEXT.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,99 @@
+MAJORURINARY
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+Rodent urinary proteins (mouse MUPs and rat alpha-2u globulins) are the  
+major protein components of rodent urine and transport pheromones [5].
+Rodent urine contains an unusually large amount of protein; this phenomenon 
+has been studied extensively in both rats and mice. The major site of MUP
+synthesis is the liver; the protein is secreted by the liver into serum, 
+where it circulates at relatively low levels before being rapidly filtered
+by the kidney and excreted. Expression of MUP mRNA is under different 
+developmental and hormonal control in different tissues. However, 
+constitutive expression of major urinary protein has been demonstrated in 
+the salivary and lachrymal glands.
+
+The sex-dependent expression of MUP (adult male mice secrete 5-20 times 
+as much MUP as do females) and its ability to bind a number of odorant 
+molecules is consistent with the suggestion that MUP acts as a pheromone
+transporter; the protein may be excreted into the urine carrying a bound
+pheromone, which is released as the urine dries and the protein denatures.
+This proposal is strongly supported by the work of Bacchini and colleagues,
+who have successfully purified MUP from mouse urine with bound ligands. They
+identified three components from the total ligand extracted from the 
+purified protein: the largest proportion (~70%) was 2-(s-butyl)thiazoline,
+with 2,3-dehydroexobrevicomin and 4-(ethyl)phenol comprising minor fractions
+of ~15% each. However, only ~40% of protein contained bound ligand. The
+first two of these compounds are known to have pheromone activity in male
+rat urine, eliciting many sexually related responses in female rats. A 
+recent report has shown that MUP, acting via the vomeronasal organ after 
+appropriate physical contact with male mouse urine in their environment, can
+accelerate the onset of puberty in female mice. Interestingly, this seems to
+be a function of the protein itself; MUP devoid of ligands, either by 
+extraction or competitive displacement, is still active, while an organic 
+extract containing these volatile ligands shows no activity. Moreover, a 
+peptide corresponding to the N-terminus of MUP is also active, suggesting 
+that MUP is not only a carrier of pheromones, but also a pheromone itself.
+The crystal structure of MUP has been solved [5] and is known to be a 
+member of the lipocalin family. 
+
+Alpha-2u-globulin, a close homologue of MUP, accounts for 30-50% of total
+excreted protein in adult male rat urine. As its electrophoretic mobility
+is similar to that of serum a2 globulin, it was named 'alpha-2u-globulin',
+the subscript 'u' denoting its origin in urine. Alpha-2u-globulin is 
+secreted into the plasma by a number of tissues, where it circulates before
+filtration through the kidney; between 20 and 50% is reabsorbed by the
+proximal tubule of the nephron, the rest being excreted. Although the exact
+physiological role of alpha-2u-globulin is unclear, there is circumstantial
+evidence that it functions in pheromone transport. This is consistent with
+its observed binding properties, its close similarity with MUP and the known
+properties of male rat urine. For example, acute exposure to many important
+industrial and environmental chemicals, including components of unleaded 
+petrol, causes a toxic syndrome, known as a2u globulin nephropathy, in the
+kidney of adult male rats. This syndrome is characterised by an excessive
+accumulation, in proximal-tubule epithelial cells, of lysosomal protein
+droplets composed of large amounts of alpha-2u-globulin, and the degeneration
+and necrosis of cells lining the proximal tubule. Chronic exposure leads to
+an escalating progression of symptoms, often resulting in kidney failure and
+death. 
+
+MAJORURINARY is a 7-element fingerprint that provides a signature for rodent
+urinary proteins. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motif 1 covers the N-terminal peptide and 310
+helix; motif 2, which includes the region encoded by PROSITE pattern
+LIPOCALIN (PS00213) and corresponds to the first LIPOCALIN fingerprint motif,
+spans the first beta-strand; motif 3 spans the distal region of the large
+loop L1 and strands 2 and 3; motif 4 covers strand 4 and the anterior region
+of strand 5; motif 5, which spans the C-terminus of strand 6 and strand 7,
+corresponds to the second motif of the LIPOCALIN fingerprint; motif 6, which
+spans strand 8 and the N-terminus of the main C-terminal alpha-helix, is 
+similar to the third LIPOCALIN motif; and motif 7 spans the C-terminal
+peptide and includes the short beta-strand 9. Two iterations on SPRT37_10f
+were required to reach convergence, at which point a true set comprising 11
+sequences was identified. A single partial match was also found, horse 
+allergen 1 protein, which matches motifs 2, 4, 6 and 7.

@@ -1,0 +1,60 @@
+*************************
+* FG-GAP repeat profile *
+*************************
+
+Integrins  are  cell  adhesion  receptors  that transmit bidirectional signals
+across the plasma membrane and link the extracellular environment to the actin
+cytoskeleton  [1].  Integrins  are  formed  from  alpha and beta subunits. The
+N-terminal  region  of  alpha  subunits contains seven 60 amino acids sequence
+repeats which fold into a beta-propeller domain [2]. Integrins bind ligands at
+the interface between the alpha subunit beta-propeller domain and beta subunit
+I  domain  [3].  These  domains  associate  over a large interface to form the
+integrin  head.  The  seven  FG-GAP  repeat domain is also found in the enzyme
+phosphatidylinositol phospholipase D.
+
+The  crystal structure of the beta-propeller FG-GAP domain of integrin alpha V
+shows that the domain consists of seven radially arranged "blades" each formed
+from a four-stranded antiparallel sheet (ABCD) (see <PDB:1JV2>) [4]. The inner
+strand  (strand  A)  of  each  blade  lines  the  channel at the center of the
+propeller,  and  strand  D  of  the  next repeat forming the outer edge of the
+blade.  The  beta-propeller  is circularized by juxtaposition of the C7 and D1
+strands. Several Ca2+-binding sites are found in hairpin loops connecting beta
+strands.
+
+The profile we developed covers strand B,C,D and A of the FG-GAP repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2009 / First entry.
+
+[ 1] Springer T.A.
+     "Folding of the N-terminal, ligand-binding region of integrin
+     alpha-subunits into a beta-propeller domain."
+     Proc. Natl. Acad. Sci. U.S.A. 94:65-72(1997).
+     PubMed=8990162
+[ 2] Loftus J.C., Smith J.W., Ginsberg M.H.
+     "Integrin-mediated cell adhesion: the extracellular face."
+     J. Biol. Chem. 269:25235-25238(1994).
+     PubMed=7929213
+[ 3] Xiong J.P., Stehle T., Zhang R., Joachimiak A., Frech M.,
+     Goodman S.L., Arnaout M.A.
+     "Crystal structure of the extracellular segment of integrin alpha
+     Vbeta3 in complex with an Arg-Gly-Asp ligand."
+     Science 296:151-155(2002).
+     PubMed=11884718; DOI=10.1126/science.1069040
+[ 4] Xiong J.P., Stehle T., Diefenbach B., Zhang R., Dunker R., Scott D.L.,
+     Joachimiak A., Goodman S.L., Arnaout M.A.
+     "Crystal structure of the extracellular segment of integrin alpha
+     Vbeta3."
+     Science 294:339-345(2001).
+     PubMed=11546839; DOI=10.1126/science.1064535
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

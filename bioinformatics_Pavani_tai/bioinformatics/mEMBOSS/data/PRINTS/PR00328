@@ -1,0 +1,25 @@
+SAR1GTPBP
+The SAR1 protein, thought to be present in all eukaryotes, mediates
+vesicular transport between the endoplasmic reticulum (ER) and the Golgi
+apparatus [1]. It is a GTP-binding protein that takes part in the
+formation of secretory vesicles by binding to an ER type II membrane
+protein, Sec12p [2]. SAR1 is well-conserved and possesses three short
+motifs that are involved in the GTP-binding activity - these are similar
+to corresponding regions in RAS-related proteins [3], and there are also
+similarities to ADP-ribosylation factors (ARFs).
+
+SAR1GTPBP is a 5-element fingerprint that provides a signature for GTP-
+binding SAR1 proteins. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motifs 1, 2 and 4 corresponding to
+regions implicated in GTP-binding - motif 5 includes the C-terminal region
+encoded by PROSITE pattern SAR1 (PS01020). Two iterations on OWL24.0 were
+required to reach convergence, at which point a true set comprising 5
+sequences was identified. Thirty three partial matches were also found:
+S37106 is a GTP-binding protein fragment from Arabidopsis thaliana; 29 are
+ADP-ribosylation factors; and the last, GBA1_YEAST, is another GTP-binding
+protein - most of these are similar to the GTP-binding regions of SAR1 and
+to motif 3, but show limited similarity elsewhere. 
+
+An update on SPTR37_9f identified a true set of 17 sequences, and 29
+partial matches.

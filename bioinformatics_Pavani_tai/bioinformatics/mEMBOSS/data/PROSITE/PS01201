@@ -1,0 +1,69 @@
+*************************
+* Tub family signatures *
+*************************
+
+The mouse  tubby mutation is  the  cause  of  maturity-onset  obesity, insulin
+resistance and  sensory  deficits.  This  mutation  maps to a gene, tub [1,2],
+which codes for a protein that belongs to a family which currently consists of
+the following members:
+
+ - Mammalian tub, an hydrophilic protein of about 500 residues, which could be
+   involved in the hypothalamic regulation of body weight.
+ - Human    protein   TULP1 [3] is involved in retinis pigmentosa 14 (RP14), a
+   retinal degeneration disease.
+ - Human protein TULP2 [3].
+ - Mammalian protein TULP3 [4].
+ - Mouse protein p4-6 whose function is not known.
+ - Caenorhabditis elegans hypothetical protein F10B5.4.
+ - Several fragmentary sequences from plants, Drosophila and human ESTs.
+
+While the  N-terminal  part of these protein is not conserved in length nor in
+the sequence,  the  C-terminal 250 residues are highly conserved. We therefore
+selected two regions in the C-terminal part as signature patterns.  The second
+region is  located  at  the  C-terminal  extremity  and contains a penultimate
+cysteine residue  that  could  be  critical to the normal functioning of these
+proteins.
+
+-Consensus pattern: F-[KRHQ]-G-R-V-[ST]-x-A-S-V-K-N-F-Q
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: A-F-[AG]-I-[GSAC]-[LIVM]-[ST]-S-F-x-[GST]-K-x-A-C-E
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for TULP2.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Kleyn P.W., Fan W., Kovats S.G., Lee J.J., Pulido J.C., Wu Y.,
+     Berkemeier L.R., Misumi D.J., Holmgren L., Charlat O., Woolf E.A.,
+     Tayber O., Brody T., Shu P., Hawkins F., Kennedy B., Baldini L.,
+     Ebeling C., Alperin G.D., Deeds J., Lakey N.D., Culpepper J., Chen H.,
+     Glucksmann-Kuis M.A., Carlson G.A., Duyk G.M., Moore K.J.
+     "Identification and characterization of the mouse obesity gene tubby:
+     a member of a novel gene family."
+     Cell 85:281-290(1996).
+     PubMed=8612280
+[ 2] Noben-Trauth K., Naggert J.K., North M.A., Nishina P.M.
+     Nature 380:534-538(1996).
+[ 3] North M.A., Naggert J.K., Yan Y., Noben-Trauth K., Nishina P.M.
+     "Molecular characterization of TUB, TULP1, and TULP2, members of the
+     novel tubby gene family and their possible relation to ocular
+     diseases."
+     Proc. Natl. Acad. Sci. U.S.A. 94:3128-3133(1997).
+     PubMed=9096357
+[ 4] Nishina P.M., North M.A., Ikeda A., Yan Y., Naggert J.K.
+     "Molecular characterization of a novel tubby gene family member,
+     TULP3, in mouse and humans."
+     Genomics 54:215-220(1998).
+     PubMed=9828123
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

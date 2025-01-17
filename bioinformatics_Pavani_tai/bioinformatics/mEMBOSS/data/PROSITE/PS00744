@@ -1,0 +1,63 @@
+**************************************
+* Beta-lactamases class B signatures *
+**************************************
+
+Beta-lactamases (EC 3.5.2.6) [1,2]  are enzymes  which catalyze the hydrolysis
+of an amide bond in  the  beta-lactam ring  of  antibiotics  belonging  to the
+penicillin/cephalosporin  family.  Four  kinds  of  beta-lactamase  have  been
+identified [2].  Class-B enzymes are zinc containing proteins whilst class -A,
+C and D enzymes  are  serine hydrolases.  Class-B  beta-lactamases  have  been
+described in  several  Gram-negative bacterial species; they seem to share the
+characteristic of  being  able to hydrolyze carbapenem compounds which are new
+beta-lactam antibiotics of great therapeutic potential.
+
+There are a number of conserved regions in the sequence of known class-B beta-
+lactamases [3]. Most of them are centered on residues known [4] to be involved
+in binding  the  zinc  ion  essential  for the enzyme's catalytic activity. We
+designed two  signature  patterns for this class of enzyme. The first contains
+three residues  involved  in  binding zinc ions. The second pattern contains a
+cysteine which is also a zinc ligand.
+
+-Consensus pattern: [LI]-x-[STN]-[HN]-x-H-[GSTAD]-D-x(2)-G-[GP]-x(7,8)-[GS]
+                    [H/N, H and D are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-x(3)-[LIVM](2)-x-G-x-C-[LIVMF](2)-K
+                    [C is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for L1 from Xanthomonas maltophilia.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2003 / Patterns and text revised.
+
+[ 1] Ambler R.P.
+     "The structure of beta-lactamases."
+     Philos. Trans. R. Soc. Lond., B, Biol. Sci. 289:321-331(1980).
+     PubMed=6109327
+[ 2] Bush K.
+     "Characterization of beta-lactamases."
+     Antimicrob. Agents Chemother. 33:259-263(1989).
+     PubMed=2658779
+[ 3] Osano E., Arakawa Y., Wacharotayankun R., Ohta M., Horii T., Ito H.,
+     Yoshimura F., Kato N.
+     "Molecular characterization of an enterobacterial metallo
+     beta-lactamase found in a clinical isolate of Serratia marcescens that
+     shows imipenem resistance."
+     Antimicrob. Agents Chemother. 38:71-78(1994).
+     PubMed=8141584
+[ 4] Concha N.O., Rasmussen B.A., Bush K., Herzberg O.
+     "Crystal structure of the wide-spectrum binuclear zinc beta-lactamase
+     from Bacteroides fragilis."
+     Structure 4:823-836(1996).
+     PubMed=8805566
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

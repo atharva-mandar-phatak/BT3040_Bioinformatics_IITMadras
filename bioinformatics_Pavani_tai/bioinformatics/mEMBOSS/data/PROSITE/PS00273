@@ -1,0 +1,43 @@
+**************************************
+* Heat-stable enterotoxins signature *
+**************************************
+
+Prokaryotic heat-stable  enterotoxins [1] are  responsible for acute diarrhea.
+The active toxin is  a short  peptide of around twenty residues which contains
+six cysteines involved  in  three  disulfide  bonds, as shown in the following
+schematic representation:
+
+                                +-------+
+                             +--|----+  |
+                             |  |    |  |
+                          xxCCxxCCxxxCxxCxx
+                            |    |
+                            +----+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+We have  taken  the pattern of cysteines, along with three conserved residues,
+as a signature pattern for this group of proteins.
+
+-Consensus pattern: C-C-x(2)-C-C-x-P-A-C-x-G-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Shimonishi Y., Hidaka Y., Koizumi M., Hane M., Aimoto S., Takeda T.,
+     Miwatani T., Takeda Y.
+     "Mode of disulfide bond formation of a heat-stable enterotoxin (STh)
+     produced by a human strain of enterotoxigenic Escherichia coli."
+     FEBS Lett. 215:165-170(1987).
+     PubMed=3552731;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

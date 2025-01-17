@@ -1,0 +1,43 @@
+SCOASYNTHASE
+Mitochondria are found in most eukaryotic cells; they possess their own 
+primitive genomes and adopt a double-membrane structure in situ, leading to 
+the hypothesis that they evolved from symbiont prokaryotes [1]. These 
+organelles are the "power houses" of the cytoplasm, carrying out oxidative 
+respiration, breaking down various substrates using a variety of enzymes and
+electron transfer systems, and providing energy in the form of ATP [1]. 
+
+In the tricarboxylic acid (TCA) cycle, acetate is broken down into carbon 
+dioxide, with the production of biosynthetic precursors as well as ATP [2].
+Twelve enzymes are involved in this process, one of these being succinyl 
+CoA-ligase or synthetase [2]. This catalyses the substrate level phos-
+phorylation of GTP, succinate, and CoA to GDP, succinyl-CoA and phosphate
+[2]. The enzyme is an alpha and beta heterodimer, both chains being similar
+to each other. The proteins are also similar to other succinyl-CoA ligases/
+sythetases, malate-CoA ligases, and ATP citrate-lyases [2]. 
+
+Recently, a novel set of adhesion virulence factors discovered in the 
+genome of the protozoan parasite Trichomonas vaginalis have been shown 
+to be similar to the TCA cycle enzymes [3]. Four surface proteins (AP65, 
+AP51, AP33 and AP23) are essential both for invasion of the host mucosa by 
+the parasite and for maintenance of infection [4]. AP33, in particular, 
+seems to be necessary for virulence, and contains the same functional 
+domains as the succinyl CoA TCA cycle enzymes [4]. 
+
+The structure of Escherichia coli succinyl CoA-synthetase has been resolved 
+to 2.5A by means of X-ray crystallography [5]. It reveals the normally 
+heterodimeric enzyme to exist as a heterotetramer [5]. Two active sites are 
+located at the corner of the alpha/beta chain contacts, with the substrate 
+intermediate, when bound, stabilised by two helix dipoles from the alpha
+subunits [5].
+
+SCOASYNTHASE is a 4-element fingerprint that provides a signature for the 
+succinyl-CoA synthases. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal portion of the alignment - motif 1 encodes the C-
+terminus of alpha-helix 3 and beta-strand 6; motif 2 spans the C-terminus of
+strand 11 and the N-terminus of helix 7; motif 3 encompasses the C-terminus 
+of strand 12 and the N-terminus of helix 8; and motif 4 encodes the N-
+terminus of helix 9. Three iterations on SPTR40_20f were required to reach 
+convergence, at which point a true set comprising 68 sequences was 
+identified. Three partial matches were also found, all CoA enzymes that 
+failed to match one or more motifs.

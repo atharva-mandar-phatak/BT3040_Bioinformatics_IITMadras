@@ -1,0 +1,72 @@
+**********************
+* EAL domain profile *
+**********************
+
+The EAL  domain  is  an  around 250-amino acid signaling domain. It is made of
+four conserved  regions  and  has  been  named  EAL  according  to a conserved
+sequence within  the  second  of  these  regions. The EAL domain is found in a
+large number   of   eubacterial   multi-domain  proteins  involved  in  signal
+transduction. The EAL domain is found in association with other domains of the
+prokaryotic two-component  signal  transduction  systems,  such  as  the GGDEF
+domain (see  <PDOC50887>),  the  response regulatory domain (see <PDOC50110>),
+the PAS repeat and the PAC domain (see <PDOC50112>), the MHYT domain, the HAMP
+domain (see  <PDOC50885>),  the  GAF domain, the TPR repeat, or the FHA domain
+(see <PDOC50006>).  It has been proposed that the EAL domain might function as
+a diguanylate  phosphodiesterase.  Accordingly,  it contains several conserved
+acidic residues  that could participate in metal binding and potentially might
+form a phosphodiesterase active site [1,2,3].
+
+Some proteins known to contain an EAL domain are listed below:
+
+ - Acetobacter xylinum diguanylate cyclase (DGC).
+ - Acetobacter xylinum phosphodiesterase A (gene pdeA).
+ - Bacillus subtilis hypothetical protein ykoW.
+ - Bordetella pertussis bvgR protein.
+ - Escherichia coli rtn protein. It is involved in resistance to phages N4 and
+   lambda.
+ - Escherichia coli hypothetical protein yahA.
+ - Escherichia coli hypothetical protein yciR.
+ - Escherichia coli hypothetical protein yddU.
+ - Escherichia coli hypothetical protein yfeA.
+ - Escherichia coli protein yhjK.
+ - Escherichia coli hypothetical protein yjcC.
+ - Klebsiella pneumoniae fimK protein.
+ - Mycobacterium tuberculosis hypothetical protein Rv1354c.
+ - Rhizobium sp. strain NGR234 hypothetical protein Y4LL.
+ - Synechocystis  sp.  strain  PCC  6803  nitrogen fixation positive activator
+   protein.
+ - Synechocystis sp. strain PCC 6803 hypothetical protein slr0359.
+
+The profile we developed covers the entire EAL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2002 / First entry.
+
+[ 1] Tal R., Wong H.C., Calhoon R., Gelfand D., Fear A.L., Volman G.,
+     Mayer R., Ross P., Amikam D., Weinhouse H., Cohen A., Sapir S.,
+     Ohana P., Benziman M.
+     "Three cdg operons control cellular turnover of cyclic di-GMP in
+     Acetobacter xylinum: genetic organization and occurrence of conserved
+     domains in isoenzymes."
+     J. Bacteriol. 180:4416-4425(1998).
+     PubMed=9721278
+[ 2] Merkel T.J., Barros C., Stibitz S.
+     "Characterization of the bvgR locus of Bordetella pertussis."
+     J. Bacteriol. 180:1682-1690(1998).
+     PubMed=9537363
+[ 3] Galperin M.Y., Nikolskaya A.N., Koonin E.V.
+     "Novel domains of the prokaryotic two-component signal transduction
+     systems."
+     FEMS Microbiol. Lett. 203:11-21(2001).
+     PubMed=11557134
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

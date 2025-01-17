@@ -1,0 +1,49 @@
+***************************************************
+* 6-pyruvoyl tetrahydropterin synthase signatures *
+***************************************************
+
+6-pyruvoyl tetrahydropterin synthase  (EC 4.2.3.12) (PTPS) [1]  catalyzes  the
+second step  in  the  biosynthesis  of  tetrahydrobiopterin  (BH4);  a complex
+rearrangement of    7,8-dihydroneopterin    triphosphate    into    6-pyruvoyl
+tetrahydropterin.
+
+PTPS is  a  small  protein  of  about 145 residues  and forms a homooligomeric
+complex of  two  trimers  assembled  in  a  head-to-head  fashion.  It binds a
+magnesium atom  which  is  ligated by three histidine residues. Three residues
+are implicated  in  the  catalytic  mechanism:  a  cysteine, a histidine and a
+glutamate.
+
+We developed  two  signature  patterns for PTPS. The first contains the active
+site cysteine  and  two  of the three magnesium ligands.  The second signature
+contains the active site histidine.
+
+-Consensus pattern: C-N-N-x(2)-G-H-G-H-N-Y
+                    [C is an active site residue]
+                    [The two H's are magnesium ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for E.coli PTPS.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: D-H-K-N-L-D-x-D
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for E.coli and C.elegans PTPS.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Nar H., Huber R., Heizmann C.W., Thoeny B., Buergisser D.
+     "Three-dimensional structure of 6-pyruvoyl tetrahydropterin synthase,
+     an enzyme involved in tetrahydrobiopterin biosynthesis."
+     EMBO J. 13:1255-1262(1994).
+     PubMed=8137809
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

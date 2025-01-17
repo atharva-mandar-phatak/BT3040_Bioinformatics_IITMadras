@@ -1,0 +1,38 @@
+TAGLIPASE
+Triglyceride lipases (EC 3.1.1.3) are lipolytic enzymes that hydrolyse
+ester linkages of triglycerides [1]. Lipases are widely distributed in
+animals, plants and prokaryotes. At least three tissue-specific isozymes
+exist in higher vertebrates: pancreatic, hepatic and gastric/lingual. These
+lipases are closely related to each other and to lipoprotein lipase
+(EC 3.1.1.34), which hydrolyses triglycerides of chylomicrons and very
+low density lipoproteins (VLDL) [2].
+
+The 3D structure of human pancreatic lipase has been determined by X-ray
+crystallography [3]. The enzyme is a single-chain glycoprotein of 449 amino 
+acids. Structural results suggest that Ser 152 is the nucleophilic residue
+essential for catalysis [4]. The residue is located in the N-terminal domain
+at the C-terminal edge of a doubly-wound parallel beta-sheet, and forms part
+of an Asp-His-Ser triad that is chemically analogous to, but structurally
+different from, that of the serine proteases [3]. The putative hydrolytic
+site is covered by a surface loop, and is thus inaccessible to solvent. 
+It is thought that interfacial activation may involve a reorientation of
+this flap, not only in pancreatic lipases but also in the related hepatic
+and lipoprotein lipases [3]. 
+
+TAGLIPASE is a 9-element fingerprint that provides a signature for the
+triacylglycerol lipase family. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 spans the first
+alpha-helix 1 and beta-strand 5; motif 2 includes helix 2; motif 3 spans
+the C-terminal half of strand 6 and helix 3, leading into helix 4; motif 4
+includes the rest of helix 4; motif 5 spans strand 7 and helix 6; motif 6
+encompasses helix 12; motif 7 includes the C-terminus of helix 13; motif 8
+includes strand 13; and motif 9 spans strands 16 and 17. Two iterations on
+OWL30.0 were required to reach convergence, at which point a true set
+comprising 32 sequences was identified. Several partial matches were also
+found, all of which are fragments or related phospholipase sequences that
+fail to match one or more motifs (those matching 2 motifs belong to the
+vespid venom phospholipase A1 family).
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 7
+partial matches.

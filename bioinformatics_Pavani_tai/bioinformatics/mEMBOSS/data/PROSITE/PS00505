@@ -1,0 +1,49 @@
+*****************************************************
+* Phosphoenolpyruvate carboxykinase (GTP) signature *
+*****************************************************
+
+Phosphoenolpyruvate carboxykinase (GTP)  (EC 4.1.1.32)  (PEPCK)  [1] catalyzes
+the formation of phosphoenolpyruvate by decarboxylation of  oxaloacetate while
+hydrolyzing GTP, a rate limiting step in  gluconeogenesis (the biosynthesis of
+glucose).  In vertebrates there  are  two  isozymes: a  cytosolic  form  whose
+activity is affected by hormones  regulating  this  metabolic process (such as
+glucagon, or insulin) and a mitochondrial form.
+
+An essential  cysteine residue has been  proposed [2] to  be implicated in the
+catalytic mechanism; this residue is  located in the central part of PEPCK and
+is in the center of  a  perfectly  conserved region that we use as a signature
+pattern.
+
+-Consensus pattern: [FY]-P-S-[AGMS]-C-G-K-T-[NS]
+                    [C may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Phosphoenolpyruvate carboxykinase  (ATP)  (EC 4.1.1.49)  an enzyme that
+ catalyzes the same reaction, but  using ATP instead of GTP, is not related to
+ the above enzyme (see <PDOC00460>).
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Weldon S.L., Rando A., Matathias A.S., Hod Y., Kalonick P.A.,
+     Savon S., Cook J.S., Hanson R.W.
+     "Mitochondrial phosphoenolpyruvate carboxykinase from the chicken.
+     Comparison of the cDNA and protein sequences with the cytosolic
+     isozyme."
+     J. Biol. Chem. 265:7308-7317(1990).
+     PubMed=2110163
+[ 2] Lewis C.T., Seyer J.M., Carlson G.M.
+     "Cysteine 288: an essential hyperreactive thiol of cytosolic
+     phosphoenolpyruvate carboxykinase (GTP)."
+     J. Biol. Chem. 264:27-33(1989).
+     PubMed=2909519
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

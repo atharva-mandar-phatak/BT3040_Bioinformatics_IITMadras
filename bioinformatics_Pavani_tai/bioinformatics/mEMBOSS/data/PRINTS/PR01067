@@ -1,0 +1,46 @@
+P2Y5ORPHANR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+A novel member of the GPCR superfamily has been cloned and named P2Y5 due 
+to its similarity to the P2Y purinoceptor family [6]. However, initial 
+experimental evidence suggesting that the receptor binds nucleotides has 
+been contradicted by more recent studies, and the natural ligand for the
+receptor therefore remains unknown [7,8]. Expression of the gene appears to 
+be restricted to activated T cells and is induced by a number of T cell 
+stimuli [6]. P2Y5 is the first example of a GPCR expressed specifically in 
+activated T cells, the gene product possibly providing a link between T cell
+growth factors and G protein activation [6]. 
+
+P2Y5ORPHANR is a 6-element fingerprint that provides a signature for the
+P2Y5 orphan receptor. The fingerprint was derived from an initial alignment 
+of 2 sequences: the motifs were drawn from conserved regions spanning the 
+full alignment length, focusing on those sections that characterise the P2Y5
+receptors but distinguish them from the rest of the rhodopsin-like 
+superfamily - motif 1 resides at the N-terminus; motif 2 spans the first
+cytoplasmic loop; motif 3 lies in the second external loop; motif 4 spans
+the C-terminus of TM domain 6, leading into the third external loop; 
+motif 5 lies in the third external loop; and motif 6 resides at the 
+C-terminus. A single iteration on OWL31.1 was required to reach convergence,
+no further sequences being identified beyond the starting set. A single 
+partial match was found, P2Y9_HUMAN, an orphan receptor with high sequence
+similarity to P2Y5, that matches motifs 1 and 4.
+
+An update on SPTR37_9f identified a true set of 2 sequences, and 2
+partial matches.

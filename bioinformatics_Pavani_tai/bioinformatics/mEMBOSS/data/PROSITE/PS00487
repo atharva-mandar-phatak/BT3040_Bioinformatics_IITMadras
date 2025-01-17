@@ -1,0 +1,51 @@
+***********************************************
+* IMP dehydrogenase / GMP reductase signature *
+***********************************************
+
+IMP dehydrogenase (EC 1.1.1.205)  (IMPDH) catalyzes the rate-limiting reaction
+of de novo GTP biosynthesis,  the NAD-dependent reduction of IMP into XMP [1].
+Inhibition  of  IMP  dehydrogenase  activity  results  in the cessation of DNA
+synthesis. As IMP dehydrogenase is associated with cell proliferation, it is a
+possible target for cancer chemotherapy.  Mammalian  and  bacterial IMPDHs are
+tetramers of identical chains.  There are  two  IMP  dehydrogenase isozymes in
+humans [2].
+
+GMP reductase (EC 1.7.1.7)  catalyzes  the  irreversible  and  NADPH-dependent
+reductive deamination  of GMP into IMP [3]. It converts nucleobase, nucleoside
+and nucleotide derivatives of G to A  nucleotides, and maintains intracellular
+balance of A and G nucleotides.
+
+IMP dehydrogenase and GMP reductase share many regions of sequence similarity.
+One of  these  regions  is  centered  on  a cysteine residue thought [3] to be
+involved in binding IMP. We have used this region as a signature pattern.
+
+-Consensus pattern: [LIVMT]-[RK]-[LIVM]-G-[LIVM]-G-x-G-[SRK]-[LIVMAT]-C-x-T
+                    [C may be the IMP-binding residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Collart F.R., Huberman E.
+     "Cloning and sequence analysis of the human and Chinese hamster
+     inosine-5'-monophosphate dehydrogenase cDNAs."
+     J. Biol. Chem. 263:15769-15772(1988).
+     PubMed=2902093
+[ 2] Natsumeda Y., Ohno S., Kawasaki H., Konno Y., Weber G., Suzuki K.
+     "Two distinct cDNAs for human IMP dehydrogenase."
+     J. Biol. Chem. 265:5292-5295(1990).
+     PubMed=1969416
+[ 3] Andrews S.C., Guest J.R.
+     "Nucleotide sequence of the gene encoding the GMP reductase of
+     Escherichia coli K12."
+     Biochem. J. 255:35-43(1988).
+     PubMed=2904262
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

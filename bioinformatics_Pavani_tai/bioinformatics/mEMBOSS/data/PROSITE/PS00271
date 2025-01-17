@@ -1,0 +1,59 @@
+****************************
+* Plant thionins signature *
+****************************
+
+Thionins are small, basic, plant proteins generally toxic to animal cells [1].
+They seem to exert  their  toxic effect  at the level of the cell membrane but
+their exact  function  is  not  known. They consist of a polypeptide chain  of
+forty five  to  fifty amino acids with three to four internal disulfide bonds.
+They are found in seeds but also in the cell wall of leaves [2]. Thionins  are
+processed from larger precursor proteins [3]. Crambin [4], a hydrophobic plant
+seed protein,  also belongs to this family. The pattern we developed to detect
+this family  of  proteins includes three of the six cysteine residues involved
+in disulfide bonds.
+
+          +-----------------------------------+
+          |+----------------------------+     |
+          ||                            |     |
+        xxCCxxxxxxxxxxxCxxxxxxxxxCxxxCxxCxxxxxCxxxxxxxx
+          **************         |
+                       |         |
+                       +---------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+-Consensus pattern: C-C-x(5)-R-x(2)-[FY]-x(2)-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The proteins from the gamma-thionin family are not related to the above
+ proteins and are described in a separate section.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Vernon L.P., Evett G.E., Zeikus R.D., Gray W.R.
+     "A toxic thionin from Pyrularia pubera: purification, properties, and
+     amino acid sequence."
+     Arch. Biochem. Biophys. 238:18-29(1985).
+     PubMed=3985614
+[ 2] Bohlmann H., Clausen S., Behnke S., Giese H., Hiller C.,
+     Reimann-Phillip U., Schrader G., Barkholt V., Apel K.
+     EMBO J. 7:1559-1565(1988).
+[ 3] Bohlmann H., Apel K.
+     Mol. Gen. Genet. 207:446-454(1987).
+[ 4] Teeter M.M., Mazer J.A., L'Italien J.J.
+     "Primary structure of the hydrophobic plant protein crambin."
+     Biochemistry 20:5437-5443(1981).
+     PubMed=6895315
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

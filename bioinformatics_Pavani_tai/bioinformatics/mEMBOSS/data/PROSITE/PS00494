@@ -1,0 +1,47 @@
+*******************************************
+* Bacterial luciferase subunits signature *
+*******************************************
+
+Luminous bacteria  are  abundant and  widely distributed  Gram-negative motile
+rods. The enzyme responsible for bioluminescence, bacterial luciferase [1,2,3]
+(EC 1.14.14.3),  catalyzes  the  oxidation  of  reduced  riboflavin  phosphate
+(FMNH2) and  a long chain fatty aldehyde with the emission of blue green light
+(490 nm).  Luciferase  is  a heterodimeric enzyme composed of an alpha subunit
+(gene luxA)  and a beta subunit (gene luxB).  The  two subunits appear to have
+arisen by gene duplication.
+
+The bioluminescence operon of some species of Photobacterium encodes a protein
+known as  the  non-fluorescent  flavoprotein  (NFP)  (gene  luxF).  NFP, whose
+function is not yet known, contains an unusual non-covalently bound flavin. It
+is evolutionary related to the luxA/luxB subunits.
+
+As a signature for this family, we selected  a conserved region located in the
+central part of these proteins.
+
+-Consensus pattern: [GA]-[LIVM]-P-[LIVM]-x-[LIVMFY]-x-W-x(6)-[RK]-x(6)-Y-x(3)-
+                    [AR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 1994 / Text revised.
+
+[ 1] Meighen E.A.
+     "Molecular biology of bacterial bioluminescence."
+     Microbiol. Rev. 55:123-142(1991).
+     PubMed=2030669
+[ 2] Meighen E.A.
+     "Bacterial bioluminescence: organization, regulation, and application
+     of the lux genes."
+     FASEB J. 7:1016-1022(1993).
+     PubMed=8370470
+[ 3] O'Kane D.J.O., Prasher D.C.
+     Mol. Microbiol. 6:443-449(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

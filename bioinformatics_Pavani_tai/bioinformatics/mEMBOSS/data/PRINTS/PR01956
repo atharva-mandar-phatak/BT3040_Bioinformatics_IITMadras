@@ -1,0 +1,41 @@
+TNFACTORR10
+The tumour necrosis factor (TNF) receptor (TNFR) superfamily comprises more
+than 20 type-I transmembrane proteins. Family members are defined based on
+similarity in their extracellular domain - a region that contains many
+cysteine residues arranged in a specific repetitive pattern [1]. The
+cysteines allow formation of an extended rod-like structure, responsible for
+ligand binding [2].
+
+Upon receptor activation, different intracellular signalling complexes are
+assembled for different members of the TNFR superfamily, depending on their
+intracellular domains and sequences [3]. Activation of TNFRs can therefore
+induce a range of disparate effects, including cell proliferation,
+differentiation, survival, or apoptotic cell death, depending upon the
+receptor involved [4,5].
+
+TNFRs are widely distributed and play important roles in many crucial
+biological processes, such as lymphoid and neuronal development, innate and
+adaptive immunity, and maintenance of cellular homeostasis [3]. Drugs that
+manipulate their signalling have potential roles in the prevention and
+treatment of many diseases, such as viral infections, coronary heart
+disease, transplant rejection, and immune disease [6].
+
+TNF receptor 10 is activated by TNF-related apoptosis-inducing ligand 
+(TRAIL). Four subtypes of the receptor have been identified: TNF receptors
+10A and 10B (also known as death receptor 4 and 5, respectively), which 
+contain a death domain within their C-terminal regions, and TNF receptors
+10C and 10D, in which the death domain is not present or is truncated. It 
+has been suggested that the function of the latter two receptors may be to 
+inhibit TRAIL cytotoxicity by competing with the other TRAIL receptors for
+binding of the ligand [7,8].
+
+TNFACTORR10 is a 3-element fingerprint that provides a signature for tumour
+necrosis factor receptor 10. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved regions in 
+the N-terminal half of the alignment, focusing on those sections that
+characterise TNF receptor 10 but distinguish it from other TNF receptor
+subtypes - all motifs lie in the N-terminal extracellular region. Two 
+iterations on SPTR55_38f were required to reach convergence, at which point
+a true set comprising 10 sequences was identified. A single partial match
+was also found, A6QNP5_BOVIN, a short translated bovine mRNA that fails to
+match motif 3.

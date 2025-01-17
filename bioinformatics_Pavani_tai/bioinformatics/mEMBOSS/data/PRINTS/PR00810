@@ -1,0 +1,24 @@
+BCTERIALGSPC
+The general (type II) secretion pathway (GSP) within Gram-negative bacteria
+is a signal sequence-dependent process repsonsible for protein export [1-3].
+The process has two stages: exoproteins are first translocated across the
+inner membrane by the general signal-dependent export pathway (GEP), and 
+then across the outer membrane by a species-specific accessory mechanism. 
+
+A number of molecules are involved in the GSP; one of these is known as the
+'C' protein, the most probable location of which is the inner membrane [4].  
+This suggests that protein C is part of the GEP apparatus, aiding trans-
+location of exoproteins from the cytoplasm to the periplasm, prior to 
+transport across the outer membrane. The N-terminal domain, which contains
+a single hydrophobic region, is thought to be cytoplasmic, and the much 
+larger C-terminal domain periplasmic. 
+
+BCTERIALGSPC is a 2-element fingerprint that provides a signature for
+general secretion pathway protein C. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from short conserved
+regions in the periplasmic domain - motif 2 includes the region encoded by
+PROSITE pattern T2SP_C (PS01141), which lies towards the C-terminus. A 
+single iteration on OWL30.0 was required to reach convergence, no further 
+sequences being identified beyond the starting set. 
+
+An update on SPTR37_9f identified a true set of 6 sequences.

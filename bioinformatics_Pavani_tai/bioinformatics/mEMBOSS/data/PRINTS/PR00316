@@ -1,0 +1,21 @@
+ENTEROVIROMP
+The ability to invade eukaryotic cells is a property possessed by many
+pathogenic bacteria [1]. This process is facilitated by bacterial so-called
+virulence outer membrane proteins [1]. Although situated in the membrane, 
+the protein sequences show no long hydrophobic domains consistent with the 
+presence of transmembrane (TM) helices (except in the N-terminal signal
+sequence) [2]. It has therefore been proposed that the proteins possess 8
+membrane-spanning beta-strands, each with 9 or 10 residues [2].
+
+ENTEROVIROMP is a 4-element fingerprint that provides a signature for the
+enterobacterial virulence outer membrane proteins. The fingerprint was
+derived from an initial alignment of 4 sequences: motif 1 includes the
+region encoded by PROSITE pattern ENT_VIR_OMP_1 (PS00694), which spans the
+second putative TM beta-strand; motif 2 spans the fourth and fifth putative
+beta-strands; motif 3 the sixth and seventh; and motif 4 includes the region
+encoded by PROSITE pattern ENT_VIR_OMP_2 (PS00695), which spans the eighth
+strand. Two iterations on OWL23.2 were required to reach convergence, at
+which point a true set comprising 5 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 2
+partial matches.

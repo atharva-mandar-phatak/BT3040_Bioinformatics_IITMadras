@@ -1,0 +1,20 @@
+INTERFERONAB
+Interferons produce antiviral and antiproliferative responses in cells, and
+are defined by their ability to confer viral resistance to their target
+cell [1]. Type I interferons can be divided into alpha, beta and omega
+(alpha-II) subtypes, depending on their sequence: these sequence
+differences may possibly cause different responses to various inducers, or 
+result in the recognition of different target cell types [2]. The main
+conserved structural feature of interferons is a disulphide bond that, 
+except in mouse beta interferon, occurs in all alpha, beta and omega
+sequences.
+
+INTERFERONAB is a 3-element fingerprint that provides a signature for alpha,
+beta and omega interferons. The fingerprint was derived from an initial 
+alignment of 14 sequences: motifs 1 and 3 each contain one of the Cys
+residues involved in disulphide bond formation, motif 3 including the
+region encoded by PROSITE pattern INTERFERON_ALPHABETA (PS00252). Two
+iterations on OWL22.1 were required to reach convergence, at which point a
+true set comprising 93 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 92 sequences.

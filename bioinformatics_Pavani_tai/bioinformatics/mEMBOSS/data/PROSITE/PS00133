@@ -1,0 +1,116 @@
+***********************************************************
+* Zinc carboxypeptidases, zinc-binding regions signatures *
+***********************************************************
+
+There are a number of  different types of zinc-dependent carboxypeptidases (EC
+3.4.17.-) [1,2].   All these enzymes seem  to be structurally and functionally
+related. The enzymes that belong to this family are listed below.
+
+ - Carboxypeptidase A1 (EC 3.4.17.1), a pancreatic  digestive  enzyme that can
+   removes all C-terminal amino acids with the exception of Arg, Lys and Pro.
+ - Carboxypeptidase A2 (EC 3.4.17.15), a  pancreatic digestive  enzyme  with a
+   specificity similar to that of  carboxypeptidase A1,  but with a preference
+   for bulkier C-terminal residues.
+ - Carboxypeptidase B (EC 3.4.17.2), also a  pancreatic  digestive enzyme, but
+   that preferentially removes C-terminal Arg and Lys.
+ - Carboxypeptidase N (EC 3.4.17.3) (also known as arginine carboxypeptidase),
+   a plasma  enzyme   which  protects  the body  from  potent  vasoactive  and
+   inflammatory  peptides  containing C-terminal Arg or Lys (such as kinins or
+   anaphylatoxins) which are released into the circulation.
+ - Carboxypeptidase H (EC 3.4.17.10) (also known as  enkephalin  convertase or
+   carboxypeptidase E), an enzyme located in  secretory granules of pancreatic
+   islets, adrenal gland, pituitary and brain. This enzyme removes residual C-
+   terminal Arg or Lys  remaining  after  initial endoprotease cleavage during
+   prohormone processing.
+ - Carboxypeptidase M (EC 3.4.17.12),  a  membrane  bound Arg and Lys specific
+   enzyme.
+   It is ideally situated to  act  on  peptide  hormones at local tissue sites
+   where it could control  their  activity  before  or  after interaction with
+   specific plasma membrane receptors.
+ - Mast cell carboxypeptidase (EC 3.4.17.1),  an  enzyme  with  a  specificity
+   to carboxypeptidase A, but  found in the secretory  granules of mast cells.
+ - Streptomyces griseus  carboxypeptidase (Cpase SG)  (EC 3.4.17.-) [3], which
+   combines the specificities of mammalian carboxypeptidases A and B.
+ - Thermoactinomyces  vulgaris  carboxypeptidase T  (EC 3.4.17.18) (CPT)  [4],
+   which also combines the specificities of carboxypeptidases A and B.
+ - AEBP1 [5], a transcriptional repressor active in preadipocytes. AEBP1 seems
+   to regulate transcription by cleavage of other transcriptional proteins.
+ - Yeast hypothetical protein YHR132c.
+
+All of  these  enzymes  bind  an  atom of zinc.  Three  conserved residues are
+implicated in the binding of the zinc atom: two histidines and a glutamic acid
+We have derived two signature patterns which contain these three zinc-ligands.
+
+-Consensus pattern: [PK]-x-[LIVMFY]-x-[LIVMFY]-x(2)-{E}-x-H-[STAG]-x-E-x-
+                    [LIVM]-[STAG]-{L}-x(5)-[LIVMFYTA]
+                    [H and E are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: Bacillus sphaericus endopeptidase I
+ which hydrolyses  the  gamma-D-Glu-(L)meso-diaminopimelic  acid bond of spore
+ cortex peptidoglycan  [6]  and  which  is  possibly distantly related to zinc
+ carboxypeptidases.
+
+-Consensus pattern: H-[STAG]-{ADNV}-{VGFI}-{YAR}-[LIVME]-{SDEP}-x-[LIVMFYW]-P-
+                    [FYW]
+                    [H is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 52.
+
+-Note: If a protein includes  both signatures, the  probability of  it being a
+ eukaryotic zinc carboxypeptidase is 100%
+-Note: These  proteins  belong  to families M14A/M14B in the classification of
+ peptidases [7,E1].
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Tan F., Chan S.J., Steiner D.F., Schilling J.W., Skidgel R.A.
+     "Molecular cloning and sequencing of the cDNA for human membrane-bound
+     carboxypeptidase M. Comparison with carboxypeptidases A, B, H, and
+     N."
+     J. Biol. Chem. 264:13165-13170(1989).
+     PubMed=2753907
+[ 2] Reynolds D.S., Stevens R.L., Gurley D.S., Lane W.S., Austen K.F.,
+     Serafin W.E.
+     "Isolation and molecular cloning of mast cell carboxypeptidase A. A
+     novel member of the carboxypeptidase gene family."
+     J. Biol. Chem. 264:20094-20099(1989).
+     PubMed=2584208
+[ 3] Narahashi Y.
+     "The amino acid sequence of zinc-carboxypeptidase from Streptomyces
+     griseus."
+     J. Biochem. 107:879-886(1990).
+     PubMed=2118139
+[ 4] Teplyakov A., Polyakov K., Obmolova G., Strokopytov B., Kuranova I.,
+     Osterman A., Grishin N., Smulevitch S., Zagnitko O., Galperina O.
+     "Crystal structure of carboxypeptidase T from Thermoactinomyces
+     vulgaris."
+     Eur. J. Biochem. 208:281-288(1992).
+     PubMed=1521526
+[ 5] He G.-P., Muise A., Li A.W., Ro H.-S.
+     "A eukaryotic transcriptional repressor with carboxypeptidase
+     activity."
+     Nature 378:92-96(1995).
+     PubMed=7477299; DOI=10.1038/378092a0
+[ 6] Hourdou M.-L., Guinand M., Vacheron M.J., Michel G., Denoroy L.,
+     Duez C.M., Englebert S., Joris B., Weber G., Ghuysen J.-M.
+     "Characterization of the sporulation-related
+     gamma-D-glutamyl-(L)meso-diaminopimelic-acid-hydrolysing peptidase I
+     of Bacillus sphaericus NCTC 9602 as a member of the metallo(zinc)
+     carboxypeptidase A family. Modular design of the protein."
+     Biochem. J. 292:563-570(1993).
+     PubMed=8503890
+[ 7] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

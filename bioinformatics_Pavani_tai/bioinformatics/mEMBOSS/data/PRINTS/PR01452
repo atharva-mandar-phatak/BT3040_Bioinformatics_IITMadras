@@ -1,0 +1,34 @@
+LNOTCHREPEAT
+LIN-12/notch proteins function as receptors for intercellular signals during
+development in a diverse range of species, from human through to C.elegans.
+The LIN-12/notch family is characterised by a repeat region (termed LNR),
+and members also share a number of other features, such as extracellular EGF 
+repeats and intracellular ankyrin repeats. Notch is involved in many
+developmental processes, including limb and appendage development, lymphoid
+lineage selection, axon pathfinding and dendritic sprouting. Dysfunction of
+the notch/LIN-12 signalling pathway has been implicated in several human
+diseases, including leukaemia, cervical and colon cancer, Alzheimer's
+disease, cerebral ischaemia and alagille syndrome [1].  
+
+The notch protein can be divided into 3 main regions: a large extracellular
+domain (ECD), which is composed largely of EGF repeats (between 10 and 36)
+and also contains the triplet cysteine-rich LIN-12/Notch repeat; a single
+transmembrane (TM) domain; and an intracellular domain (ICD), which contains
+6 ankyrin repeats that form the binding site for cytoplasmic regulators of
+notch activity [2]. Three components appear to be essential for LIN-12/notch
+signalling: the Delta/Serrate/LAG-2 (DSL) ligand; the LIN-12/notch receptor
+itself; and the CBF1/Su(H)/LAG-1 (CSL) transcription factor. While 2 EGF-
+like repeats (11 and 12 in Drosophila) appear to be sufficient and necessary
+for DSL ligand binding, the LNR region appears to be involved in receptor
+regulation. Currently, 2 possible methods of CSL factor regulation are
+proposed: receptor-mediated transport of the CSL factor from cytoplasm
+to nucleus; and cleavage of the ICD upon receptor activation, followed by
+entry of the ICD into the nucleus, where it acts as a co-activator of
+transcription with the CSL factor [3].
+
+LNOTCHREPEAT is a 3-element fingerprint that provides a signature for the
+LIN-12/notch (LNR) repeat. The fingerprint was derived from an initial alignment
+of 10 sequences: the motifs were drawn from conserved regions within the 
+repeat, successively encoding the C-termini of repeats 1, 2 and 3 
+respectively. Two iterations on SPTR39_14f were required to reach 
+convergence, at which point a true set comprising 23 sequences was identified.

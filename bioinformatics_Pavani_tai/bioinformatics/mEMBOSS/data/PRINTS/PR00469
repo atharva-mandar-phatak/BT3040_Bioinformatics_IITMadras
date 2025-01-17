@@ -1,0 +1,43 @@
+PNDRDTASEII
+The pyridine nucleotide-disulphide reductases (PNDR) use the isoalloxazine
+ring of FAD to shuttle reducing equivalents from NAD(P)H to a Cys residue
+that is usually a part of a redox-active disulphide bridge. In a second
+step, the reduced disulphide reduces the substrate. On the basis of sequence
+and structural similarities [1], PNDR can be categorised into 2 groups.
+Class II includes: prokaryotic and eukaryotic thioredoxin reductases [2,3];
+bacterial alkyl hydroperoxide reductases [4]; bacterial NADH:dehydrogenases
+[5]; a probable oxidoreductase encoded in the Clostridium pasteurianum
+rubredoxin operon [6]; and yeast hypothetical protein YHR106w. 
+
+The 3D structure of E.coli thioredoxin reductase (TR) has been solved [1,7].
+The protein exists as a homodimer, with 3 domains per monomer, which
+correspond to the FAD-binding, NAD(P)H-binding and central domains of
+glutathione reductase (GR) (cf. signature PNDRDTASEI). However, TR lacks
+the domain that provides the dimer interface in GR, and forms a completely 
+different dimeric structure. The relative orientation of these domains is
+very different in the 2 enzymes: when the FAD-binding domains of TR and GR
+are superimposed, the NADPH-binding domain of one is rotated by 66 degrees
+with respect to the other. The FAD- and NAD(P)H-binding domains have a 
+similar doubly-wound alpha/beta fold, suggesting they evolved by gene
+duplication [8]. While in GR the redox active disulphide is located in
+the FAD-binding domain, in TR it lies in the NADPH-binding domain. This
+suggests that the enzymes diverged from an ancestral nucleotide-binding
+protein and acquired their disulphide reductase activities independently [1]. 
+
+PNDRDTASEII is a 10-element fingerprint that provides a signature for the 
+PNDR class II family. The fingerprint was derived from an initial alignment
+of 14 sequences: motifs 1 and 6 contain 3 conserved Gly residues and
+correspond to the ADP moiety binding site for FAD and NAD(P) respectively
+(cf. motifs 1 and 3 of signature FADPNR); motif 5 contains 2 Cys residues 
+involved in the redox-active disulphide bond (motifs 5 and 6 include the
+region encoded by PROSITE pattern PYRIDINE_REDOX_2 (PS000573)); and motif 9
+encodes the binding site for the FAD flavin moiety (cf. motif 5 of FADPNR).
+Three iterations on OWL27.0 were required to reach convergence, at which
+point a true set comprising 24 sequences was identified, including the
+hydrogen peroxide-forming NADH oxidases from Amphibacillus xylanus (A49911)
+[9] and Streptococcus mutans (JC2311) [10], as well as the Entamoeba
+histolytica gEh-34 gene product (EHDO34) [11]. Numerous partial matches
+were also found, most of which are members of the PNDR family.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 151
+partial matches.

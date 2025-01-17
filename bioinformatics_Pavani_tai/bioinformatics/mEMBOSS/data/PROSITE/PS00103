@@ -1,0 +1,52 @@
+***********************************************************
+* Purine/pyrimidine phosphoribosyl transferases signature *
+***********************************************************
+
+Phosphoribosyltransferases (PRT)  are  enzymes  that catalyze the synthesis of
+beta-n-5'-monophosphates from phosphoribosylpyrophosphate (PRPP) and an enzyme
+specific amine.  A number of PRT's are involved in the biosynthesis of purine,
+pyrimidine,  and  pyridine  nucleotides,  or  in  the  salvage of  purines and
+pyrimidines. These enzymes are:
+
+ - Adenine phosphoribosyltransferase (EC 2.4.2.7) (APRT), which is involved in
+   purine salvage.
+ - Hypoxanthine-guanine or hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)
+   (HGPRT or HPRT), which are involved in purine salvage.
+ - Orotate phosphoribosyltransferase (EC 2.4.2.10) (OPRT), which  is  involved
+   in pyrimidine biosynthesis.
+ - Amido phosphoribosyltransferase (EC 2.4.2.14), which is  involved in purine
+   biosynthesis.
+ - Xanthine-guanine phosphoribosyltransferase (EC 2.4.2.22) (XGPRT),  which is
+   involved in purine salvage.
+
+In the sequence of all these enzymes  there is a small conserved  region which
+may be involved in the  enzymatic activity  and/or be part of the PRPP binding
+site [1].
+
+-Consensus pattern: [LIVMFYWCTA]-[LIVM]-[LIVMA]-[LIVMFC]-[DE]-D-[LIVMS]-
+                    [LIVM]-[STAVD]-[STAR]-[GAC]-x-[STAR]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus subtilis xanthine phosphoribosyltransferase.
+-Other sequence(s) detected in Swiss-Prot: bacterial   phosphoribosyl    pyro-
+ phosphate synthases and 7 other proteins.
+
+-Note: In position 11 of the pattern most of these enzymes have Gly.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Hershey H.V., Taylor M.W.
+     "Nucleotide sequence and deduced amino acid sequence of Escherichia
+     coli adenine phosphoribosyltransferase and comparison with other
+     analogous enzymes."
+     Gene 43:287-293(1986).
+     PubMed=3527873
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

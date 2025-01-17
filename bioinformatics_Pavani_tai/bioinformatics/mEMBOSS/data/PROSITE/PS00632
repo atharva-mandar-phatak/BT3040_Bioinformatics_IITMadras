@@ -1,0 +1,56 @@
+**********************************
+* Ribosomal protein S4 signature *
+**********************************
+
+Ribosomal protein S4 is  one of the proteins from the small ribosomal subunit.
+In Escherichia  coli,    S4  is  known to bind  directly to 16S ribosomal RNA.
+Mutations in  S4  have been shown to increase translational error frequencies.
+It belongs  to a family of ribosomal  proteins which, on the basis of sequence
+similarities [1,2], groups:
+
+ - Eubacterial S4.
+ - Algal and plant chloroplast S4.
+ - Cyanelle S4.
+ - Archaebacterial S4.
+ - Mammalian S9.
+ - Yeast YS11 (SUP46).
+ - Marchantia polymorpha mitochondrial S4.
+ - Dictyostelium discoideum rp1024.
+ - Yeast protein NAM9 [3]. NAM9 has been characterized  as  a  suppressor  for
+   ochre mutations in mitochondrial DNA.  It could be a ribosomal protein that
+   acts as a suppressor by decreasing translation accuracy.
+
+S4 is  a  protein  of 171 to 205 amino-acid residues (except for NAM9 which is
+much larger).  The  signature pattern for this protein is based on a conserved
+region located in the central section of these proteins.
+
+-Consensus pattern: [LIVM]-[DERA]-x-R-[LI]-x(3)-[LIVMC]-[VMFYHQL]-[KRTS]-x(3)-
+                    [STAGCVF]-x-[ST]-x(3)-[SAI]-[KRQ]-x-[LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Mizuta K., Hashimoto T., Suzuki K.I., Otaka E.
+     "Yeast ribosomal proteins: XII. YS11 of Saccharomyces cerevisiae is a
+     homologue to E. coli S4 according to the gene analysis."
+     Nucleic Acids Res. 19:2603-2608(1991).
+     PubMed=2041737
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+[ 3] Boguta M., Dmochowska A., Borsuk P., Wrobel K., Gargouri A.,
+     Lazowska J., Slonimski P.P., Szczesniak B., Kruszewska A.
+     "NAM9 nuclear suppressor of mitochondrial ochre mutations in
+     Saccharomyces cerevisiae codes for a protein homologous to S4
+     ribosomal proteins from chloroplasts, bacteria, and eucaryotes."
+     Mol. Cell. Biol. 12:402-412(1992).
+     PubMed=1729612
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

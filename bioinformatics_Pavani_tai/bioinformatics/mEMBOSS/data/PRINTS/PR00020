@@ -1,0 +1,23 @@
+MAMDOMAIN
+A 170-amino acid domain (the so-called MAM domain) has been recognised in 
+the extracellular region of functionally diverse proteins [1]. These 
+proteins have a modular, receptor-like architecture comprising a signal 
+peptide, an N-terminal extracellular domain, a single transmembrane domain 
+and an intracellular domain - such proteins include meprin (a cell surface
+glycoprotein) [2]; A5 antigen (a developmentally-regulated cell surface 
+protein) [3]; and receptor-like tyrosine protein phosphatase [4]. The MAM
+domain is thought to have an adhesive function. It contains 4 conserved
+cysteine residues, which probably form disulphide bridges.
+
+MAMDOMAIN is a 5-element fingerprint that provides a signature for the
+MAM domain. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length, and include two of the conserved Cys residues - motifs 2 
+and 3 span the region encoded by PROSITE pattern MAM (PS00740), which
+contains the third conserved Cys. Two iterations on OWL24.0 were required 
+to reach convergence, at which point a true set comprising 10 sequences
+was identified. A single partial match was also found, a hypothetical
+protein lacking significant matches with motifs 2 and 5.
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 4
+partial matches.

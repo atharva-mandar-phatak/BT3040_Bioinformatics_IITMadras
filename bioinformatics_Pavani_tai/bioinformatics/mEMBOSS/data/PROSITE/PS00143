@@ -1,0 +1,104 @@
+****************************************************
+* Insulinase family, zinc-binding region signature *
+****************************************************
+
+A number of proteases dependent on divalent cations  for  their activity  have
+been shown [1,2] to belong to one family, on the basis of sequence similarity.
+These enzymes are listed below.
+
+ - Insulinase  (EC  3.4.24.56)  (also  known as insulysin or insulin-degrading
+   enzyme or  IDE),  a  cytoplasmic  enzyme  which seems to be involved in the
+   cellular  processing of insulin, glucagon and other small polypeptides.
+ - Escherichia coli  protease III  (EC 3.4.24.55)  (pitrilysin)  (gene ptr), a
+   periplasmic enzyme that degrades small peptides.
+ - Mitochondrial  processing  peptidase  (EC  3.4.24.64)  (MPP).  This  enzyme
+   removes the  transit  peptide  from the precursor form of proteins imported
+   from the cytoplasm across the  mitochondrial inner membrane. It is composed
+   of two  nonidentical  homologous subunits termed alpha and beta.  The  beta
+   subunit seems  to  be  catalytically  active    while the alpha subunit has
+   probably lost its activity.
+ - Nardilysin (EC 3.4.24.61) (N-arginine dibasic convertase or NRD convertase)
+   this mammalian  enzyme  cleaves peptide substrates on the N-terminus of Arg
+   residues in dibasic stretches.
+ - Klebsiella  pneumoniae  protein  pqqF.  This  protein  is  required for the
+   biosynthesis of the coenzyme pyrrolo-quinoline-quinone (PQQ). It is thought
+   to be  protease  that  cleaves peptide bonds in a small peptide (gene pqqA)
+   thus providing  the  glutamate  and  tyrosine  residues  necessary  for the
+   synthesis of PQQ.
+ - Yeast protein AXL1, which is involved in axial budding [3].
+ - Eimeria bovis sporozoite developmental protein.
+ - Escherichia  coli  hypothetical  protein yddC and HI1368, the corresponding
+   Haemophilus influenzae protein.
+ - Bacillus subtilis hypothetical protein ymxG.
+ - Caenorhabditis elegans hypothetical proteins C28F5.4 and F56D2.1.
+
+It should  be  noted  that  in addition to the above enzymes, this family also
+includes the  core  proteins  I  and II of the mitochondrial bc1 complex (also
+called cytochrome  c  reductase  or  complex III), but the situation as to the
+activity or lack of activity of these subunits is quite complex:
+
+ - In mammals and yeast, core proteins I and II lack enzymatic activity.
+ - In Neurospora crassa and in potato core protein I is equivalent to the beta
+   subunit of MPP.
+ - In Euglena gracilis, core protein I seems to be active, while subunit II is
+   inactive.
+
+These proteins do not  share  many  regions of  sequence  similarity; the most
+noticeable is  in  the  N-terminal  section.  This region includes a conserved
+histidine followed,  two  residues later by a glutamate and another histidine.
+In pitrilysin, it has been shown [4] that this H-x-x-E-H  motif is involved in
+enzyme activity;  the two histidines bind zinc and the glutamate  is necessary
+for catalytic activity. Non active members  of  this family have lost from one
+to three of these active site residues. We  developed a signature pattern that
+detect active members of this family as well as some inactive members.
+
+-Consensus pattern: G-x(8,9)-G-x-[STA]-H-[LIVMFY]-[LIVMC]-[DERN]-[HRKL]-
+                    [LMFAT]-x-[LFSTH]-x-[GSTAN]-[GST]
+                    [The 2 H's are zinc ligands]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL   active
+ members as  well  as  all  MPP  alpha subunits and core II subunits. Does not
+ detect inactive core I subunits.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family M16 in the classification of peptidases
+ [5,E1].
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Rawlings N.D., Barrett A.J.
+     "Homologues of insulinase, a new superfamily of
+     metalloendopeptidases."
+     Biochem. J. 275:389-391(1991).
+     PubMed=2025223
+[ 2] Braun H.-P., Schmitz U.K.
+     "Are the 'core' proteins of the mitochondrial bc1 complex evolutionary
+     relics of a processing protease?"
+     Trends Biochem. Sci. 20:171-175(1995).
+     PubMed=7610476
+[ 3] Becker A.B., Roth R.A.
+     "An unusual active site identified in a family of zinc
+     metalloendopeptidases."
+     Proc. Natl. Acad. Sci. U.S.A. 89:3835-3839(1992).
+     PubMed=1570301
+[ 4] Fujita A., Oka C., Arikawa Y., Katagai T., Tonouchi A., Kuhara S.,
+     Misumi Y.
+     "A yeast gene necessary for bud-site selection encodes a protein
+     similar to insulin-degrading enzymes."
+     Nature 372:567-570(1994).
+     PubMed=7990931; DOI=10.1038/372567a0
+[ 5] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

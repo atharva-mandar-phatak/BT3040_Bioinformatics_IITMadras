@@ -1,0 +1,35 @@
+HTHFIS
+Transcriptional regulators of prokaryotes play an important role in the 
+production of several proteins, and in the growth of the cell [1]. By 
+regulating gene expression, activation or repression of transcription of a 
+variety of genes can be achieved [1]. 
+
+The Factor for Inversion Stimulation (FIS) protein is a regulator of
+bacterial functions, and binds specifically to weakly related DNA sequences 
+[1,2]. It activates ribosomal RNA transcription, and is involved in upstream
+activation of rRNA promoters. Found in gamma proteobacterial microbes, the
+protein has been shown to play a role in the regulation of virulence factors
+in both Salmonella typhimurium and Esherichia coli [2,3]. Some of its
+functions include inhibition of the initiation of DNA replication from the
+OriC site, and promotion of Hin-mediated DNA inversion [3].
+
+In its C-terminal extremity, FIS encodes a helix-turn-helix (HTH) DNA-
+binding motif, which shares a high degree of similarity with other HTH
+motifs of more primitive bacterial transcriptional regulators, such as the
+nitrogen assimilation regulatory proteins (NtrC) from species like Azobacter,
+Rhodobacter and Rhizobium. This has led to speculation that both evolved
+from a single common ancestor [4]. 
+
+The 3-dimensional structure of the E.coli FIS DNA-binding protein has been
+determined by means of X-ray diffraction to 2.0A resolution [5,6]. FIS is
+composed of four alpha-helices tightly intertwined to form a globular dimer
+with two protruding HTH motifs. The 24 N-terminal amino acids are poorly 
+defined, indicating that they might act as 'feelers' suitable for DNA or
+protein (invertase) recognition [5]. 
+
+HTHFIS is a 2-element fingerprint that provides a signature for the FIS 
+bacterial regulatory protein HTH motif. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs span the C-terminal HTH motif
+- motif 1 encodes the first helix and motif 2 the second. Twelve iterations
+on SPTR39.22_17.3f were required to reach convergence, at which point a true
+set comprising 158 sequences was identified.

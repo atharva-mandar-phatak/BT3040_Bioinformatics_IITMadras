@@ -1,0 +1,23 @@
+PDIESTERASE1
+Retinal 3',5'-cGMP phosphodiesterase (PDE) is located in photoreceptor
+outer segments [1]: it is light activated, playing a pivotal role in
+signal transduction. In rod cells, PDE is oligomeric, comprising an
+alpha-, a beta- and 2 gamma-subunits, while in cones, PDE is a homodimer
+of alpha chains, which are associated with several smaller subunits.
+Both rod and cone PDEs catalyse the hydrolysis of cAMP or cGMP to the
+corresponding nucleoside 5' monophosphates, both enzymes also binding
+cGMP with high affinity. The cGMP-binding sites are located in the
+N-terminal half of the protein sequence, while the catalytic core 
+resides in the C-terminal portion. 
+
+PDIESTERASE1 is a 6-element fingerprint that provides a signature for
+3',5'-cyclic nucleotide phosphodiesterases. The fingerprint was derived
+from an initial alignment of 8 sequences: the motifs were drawn from
+short conserved regions within the catalytic core in the C-terminal
+half of the alignment. Three iterations on OWL26.0 were required to
+reach convergence, at which point a true set comprising 51 sequences
+was identified. Several partial matches were also found, largely
+fragments and C-terminal truncations lacking one or more of the motifs.
+
+An update on SPTR37_9f identified a true set of 50 sequences, and 16
+partial matches.

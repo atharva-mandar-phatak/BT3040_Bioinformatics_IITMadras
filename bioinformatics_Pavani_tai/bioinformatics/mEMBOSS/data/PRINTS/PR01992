@@ -1,0 +1,29 @@
+GPR153
+Computational methods, including percent identity plots, hydropathy profiles
+and BLAST, have been used to analyse a gene-rich cluster at human chromosome
+12p13 and to compare it with its syntenic region in mouse chromosome 6 [1-3].
+Of 6 genes identified, one of these, termed Gene A, revealed 3 splice forms:
+form A2 demonstrated a clear 7-transmembrane (TM) hydropathy profile, and
+showed very weak similarity to members of the G protein-coupled receptor 
+(GPCR) superfamily [3].
+
+GPCRs mediate a wide range of physiological functions, are major drug
+targets, and are consequently the subject of considerable research interest.
+In 2003, Vassilatis et al. reported that the repertoire of GPCRs for 
+endogenous ligands consisted of 367 receptors in humans and 392 in mice,
+including 26 from human and 83 from mouse that had not been identified
+previously [4]. 
+
+Of these novel receptors, GP153 (also known as PGR1) does show some
+similarity to rhodopsin-class GPCRs (most notably to certain tyramine and
+serotonin receptors, particularly in the region of TM domain 4), but the
+overall degree of similarity is very low, and evidence that GP153 is a
+functional GPCR has not been gathered experimentally.
+
+GPR153 is a 9-element fingerprint that provides a signature for the GP153
+7TM protein. The fingerprint was derived from an initial alignment of 4 
+sequences - the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise
+GP153 but distinguish it from closely related GP162 proteins. Two iterations
+on SPTR55_38f were required to reach convergence, at which point a true set
+comprising 5 sequences was identified.

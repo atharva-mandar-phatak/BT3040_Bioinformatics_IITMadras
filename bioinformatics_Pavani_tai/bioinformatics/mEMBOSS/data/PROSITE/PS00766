@@ -1,0 +1,68 @@
+************************************************************
+* Tetrahydrofolate dehydrogenase/cyclohydrolase signatures *
+************************************************************
+
+Enzymes that participate in the transfer of  one-carbon  units are involved in
+various biosynthetic pathways. In many of  these  processes  the  transfers of
+one-carbon units are mediated by the coenzyme  tetrahydrofolate (THF). Various
+reactions generate one-carbon derivatives of THF  which can be  interconverted
+between   different  oxidation  states  by  formyltetrahydrofolate  synthetase
+(EC 6.3.4.3),   methylenetetrahydrofolate   dehydrogenase   (EC   1.5.1.5   or
+EC 1.5.1.15) and methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9).
+
+The dehydrogenase and cyclohydrolase activities are expressed  by a variety of
+multifunctional enzymes:
+
+ - Eukaryotic C-1-tetrahydrofolate synthase (C1-THF synthase), which catalyzes
+   all three reactions  described above.  Two  forms  of C1-THF synthases  are
+   known [1],  one  is  located in the mitochondrial matrix,  while the second
+   one is cytoplasmic. In  both forms the  dehydrogenase/cyclohydrolase domain
+   is located in the N-terminal  section  of  the 900 amino acids protein  and
+   consists of about 300 amino acid residues.  The  C1-THF synthases are NADP-
+   dependent.
+ - Eukaryotic  mitochondrial  bifunctional  dehydrogenase/cyclohydrolase  [2].
+   This is  an  homodimeric  NAD-dependent  enzyme  of  about  300  amino acid
+   residues.
+ - Bacterial  folD  [3].  FolD  is  an homodimeric bifunctional NADP-dependent
+   enzyme of about 290 amino acid residues.
+
+The sequence of the dehydrogenase/cyclohydrolase  domain  is highly  conserved
+in all forms of the enzyme.   As signature patterns  we selected two conserved
+regions.  The first one is located in the N-terminal part of these enzymes and
+contains three  acidic  residues.   The second pattern  is  a highly conserved
+sequence of 9 amino acids which is located in the C-terminal section.
+
+-Consensus pattern: [EQLT]-x-[EQKDS]-[LIVM](2)-x(2)-[LIVM]-x(2)-[LIVMY]-N-x-
+                    [DNS]-x(5)-[LIVMF](3)-Q-[LM]-P-[LVI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-[GK]-G-[VI]-G-P-[MFI]-T-[IVA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Shannon K.W., Rabinowitz J.C.
+     "Isolation and characterization of the Saccharomyces cerevisiae MIS1
+     gene encoding mitochondrial C1-tetrahydrofolate synthase."
+     J. Biol. Chem. 263:7717-7725(1988).
+     PubMed=2836393
+[ 2] Belanger C., MacKenzie R.E.
+     "Isolation and characterization of cDNA clones encoding the murine
+     NAD-dependent methylenetetrahydrofolate
+     dehydrogenase-methenyltetrahydrofolate cyclohydrolase."
+     J. Biol. Chem. 264:4837-4843(1989).
+     PubMed=2647744
+[ 3] d'Ari L., Rabinowitz J.C.
+     J. Biol. Chem. 266:23953-23958(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,24 @@
+ADRENOMEDULN
+Adrenomedullin is a hypotensive peptide, first identified in human 
+pheochromocytoma arising from adrenal medulla [1,2]. The protein is ~185 
+amino acids in length, and includes a 21-residue putative N-terminal signal 
+sequence [2]. The active peptide, which is expressed in adrenal glands, lung,
+kidney, heart, spleen, duodenum and submandibular glands, is thought to
+function as a hormone in circulation control. 
+
+The adrenomedullin precursor is believed to contain 2 cleavage sites, one
+of which produces the active adrenomedullin hormone, and the other, a
+20-residue peptide (proadrenomedullin N-terminal 20 peptide, or proam-n20)
+of unknown function [3].
+
+ADRENOMEDULN is an 8-element fingerprint that provides a signature for
+adrenomedullins. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motif 1 spans the signal peptide; motif 2 includes part
+of the proam-n20 sequence; motifs 4-7 span the adrenomedullin peptide; and
+motif 8 lies at the C-terminus. A single iteration on OWL30.0 was required
+to reach convergence, no further sequences being identified beyond the
+starting set.
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 1
+partial match.

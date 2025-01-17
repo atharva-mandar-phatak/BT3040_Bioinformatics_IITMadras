@@ -1,0 +1,44 @@
+NEUTRALPTASE
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, around
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+relatively common, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure 
+adopted by this motif in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of their metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. In the first group, a glutamic acid completes the active site -
+these are termed HEXXH+E: all families in this group show some sequence
+relationship and have been assigned to clan MA [1]. The second group, which
+have a third histidine as the extra metal-binding residue, are termed
+HEXXH+H and are grouped into clan MB on the basis of their inter-relation-
+ship [1]. In the third group, the additional metal-binding residues are
+unidentified. The fourth group is diverse - the metal-binding residues are
+known but do not form the HEXXH motif. And the fifth group comprises the
+remaining families where the metal-binding residues are as yet unknown [1].
+
+With a molecular weight of around 16kDa, Streptomyces extracellular neutral
+protease is one of the smallest known proteases [1]; it is capable of 
+hydrolysing milk proteins [1]. The enzyme is synthesised as a proenzyme with
+a signal peptide, a propeptide and an active domain that contains the 
+conserved HEXXH motif characteristic of metalloprotease clans MA and MB
+[1,2]. Although family M7 shows active site sequence similarity to other
+members of clan MB, it differs in one major respect: the third zinc ligand
+appears to be an aspartate residue rather than the usual histidine. 
+
+NEUTRALPTASE is a 5-element fingerprint that provides a signature for the 
+small extracellular neutral protease (M7) family of metalloproteases. The
+fingerprint was derived from an initial alignment of 3 sequences: the
+motifs were drawn from conserved regions spanning the central portion of
+the alignment - motif 3 contains the conserved HEXXH motif; motif 4
+includes an Asp that may provide the third zinc ligand, and a conserved
+methionine, which appears to play a vital role in the structure of the
+active site. Two iterations on OWL29.3 were required to reach convergence,
+at which point a true set comprising 5 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

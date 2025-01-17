@@ -1,0 +1,25 @@
+PROTEASOME
+The proteasome is a novel type of intracellular complex of approximately 15
+subunits with multiple proteolytic activities [1], and is variously known
+as multicatalytic endopeptidase complex, multicatalytic proteinase complex,
+or prosome. Homologues of these subunits are thought to be involved in 
+antigen processing, although there is no direct evidence of proteasome 
+involvement [2]. These homologues are located between the 2 transporter 
+proteins of the major histocompatability complex I (MHCI) [3], and it is
+thought that they process intracellular antigens by proteolytically 
+cleaving them. The resulting peptides are then transported to the endo-
+plasmic reticulum via the 2 transporters on MHC I, and are then presented 
+to the cell surface where the are recognised by T-cells.
+
+PROTEASOME is a 4-element fingerprint that provides a signature for 
+proteasome components. The fingerprint was derived from an initial 
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 1 including part of the
+region encoded by PROSITE pattern PROTEASOME_B (PS00854). Two iterations on
+OWL19.1 were required to reach convergence, at which point a true set
+comprising 12 sequences was identified. Two proteasome fragments were also
+found (fragments shorter than 20 residues are not identified by the
+fingerprint).
+
+An update on SPTR37_9f identified a true set of 44 sequences, and 10
+partial matches.

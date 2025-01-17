@@ -1,0 +1,22 @@
+HAEMOXYGNASE
+Haem oxygenase is an essential enzyme in haem catabolism, catalysing the 
+oxidative cleavage of the haem ring at the alpha methene bridge, yielding
+biliverdin and carbon monoxide [1]. This microsomal enzyme is induced by
+its substrate haem, heavy metal atoms, and various other factors [1].
+Mammals possess 2 oxygenase isozymes (HO1 and HO2), which show a high  
+degree of sequence similarity [2]: unlike HO1, however, HO2 is not
+inducible by haem and other factors [1,2]. It is believed that HO2 may
+be active in the brain, producing carbon monoxide, which is said to act
+as a neurotransmitter [2]. 
+
+HAEMOXYGNASE is a 7-element fingerprint that provides a signature for haem
+oxygenases. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, motif 4 including the active centre region
+encoded by PROSITE pattern HEME_OXYGENASE (PS00593), the His of which is
+thought to bind the haem. Two iterations on OWL25.1 were required to reach
+convergence, at which point a true set comprising 9 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 2
+partial matches.

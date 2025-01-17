@@ -1,0 +1,52 @@
+TWIKCHANNEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered to
+be an essential element of the aqueous K+-selective pore. Shaker-type and
+Kir K+ channel subunits both contain a single P-domain, and four such 
+subunits are thought to associate to form a multimer, together with
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunits was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one  but two P-domains in each 
+subunit, and evidence suggests a complete channel may be formed by the 
+dimerisation of two such subunits.
+
+The first member of this family (TOK1) cloned from S.cerevisiae [1] was
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show 
+inward or outward rectification, their activity may be modulated in 
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these disparate
+properties, they are all thought to share the same topology of four TM 
+segments, including two P-domains. That TWIK-related K+ channels all produce
+instantaneous and non-inactivating K+ currents, which do not display a
+voltage-dependent activation threshold, suggests that they are background 
+(leak) K+ channels involved in the generation and modulation of the resting
+membrane potential in various cell types. Further studies have revealed that
+they may be found in many species, including: plants, invertebrates and 
+mammals.
+
+TWIK family members (TWIK-1 and TWIK-2) produce constitutive K+ currents of
+weak amplitude [4,7]. They are present in a variety of tissues, including
+brain and cells of the immune system. Together with their functional 
+properties, their wide distribution suggests that these channels may be
+involved in the control of background K+ conductances in many cell types.
+
+TWIKCHANNEL is a 6-element fingerprint that provides a signature for the
+TWIK K+ channel family. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise TWIK channel proteins but distinguish them from related
+two P-domain K+ channel sequences - motifs 1 and 2 lie in the first putative
+TM domain; motif 3 is situated in the second TM domain; motif 4 is located
+in the C-terminus of the second P-domain; and motifs 5 and 6 span the fourth
+TM domain and the C-terminus respectively. Two iterations on SPTR39.22_17.3f
+were required to reach convergence, at which point a true set comprising 6
+sequences was identified. Several partial matches were also found, all of
+which are members of the TWIK K+ channel family that fail to make
+significant matches with one or more motifs. 

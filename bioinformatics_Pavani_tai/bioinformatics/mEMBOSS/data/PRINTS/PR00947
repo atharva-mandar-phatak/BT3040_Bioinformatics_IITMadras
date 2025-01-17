@@ -1,0 +1,22 @@
+CUTICLE
+Insect cuticle is composed of proteins and chitin. The cuticular proteins
+appear to be specific to the type of cuticle (i.e., flexible or stiff)  
+occurring at different stages of insect development. Proteins found in
+the flexible cuticle of larvae and pupae, the soft endocuticle of adult
+insects [1], and arachnid cuticule [2], share a conserved C-terminal region
+[3]. In addition, cuticular proteins share hydrophobic regions dominated by
+tetrapeptide repeats (A-A-P-A/V), which are presumed to be functionally
+important [2,4]. 
+
+CUTICLE is a 3-element fingerprint that provides a signature for insect
+cuticular proteins. The fingerprint was derived from an initial alignment
+of 10 sequences: the motifs were drawn from short conserved regions in the
+central portion of the alignment - motifs 2 and 3 include the region
+encoded by PROSITE pattern CUTICLE (PS00233). Three iterations on OWL30.2
+were required to reach convergence, at which point a true set comprising
+56 sequences was identified. Six partial matches were also found, all of
+which are insect cuticle proteins that fail to make a significant match
+with motif 1.
+
+An update on SPTR37_9f identified a true set of 61 sequences, and 4
+partial matches.

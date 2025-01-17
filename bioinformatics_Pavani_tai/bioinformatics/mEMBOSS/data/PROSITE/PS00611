@@ -1,0 +1,48 @@
+**************************************
+* Histidinol dehydrogenase signature *
+**************************************
+
+Histidinol dehydrogenase (EC 1.1.1.23) (HDH) catalyzes  the  terminal  step in
+the  biosynthesis of  histidine  in  bacteria,  fungi,  and  plants, the four-
+electron oxidation of L-histidinol to histidine.
+
+In bacteria HDH is a single chain  polypeptide;  in fungi it is the C-terminal
+domain of a multifunctional  enzyme which  catalyzes three  different steps of
+histidine biosynthesis;  and  in  plants it is  expressed as  nuclear  encoded
+protein precursor which is exported to the chloroplast [1].
+
+As a  signature  pattern  we selected a highly conserved region located in the
+central part of HDH. This region does not correspond to the part of the enzyme
+that, in most, but not all HDH sequences contains a cysteine residue which, in
+Salmonella typhimurium, has  been  said  [2] to be important for the catalytic
+activity of the enzyme.
+
+-Consensus pattern: [IVTPM]-[DEG]-x(2,3)-[AYEPQ]-G-[PT]-[ST]-[ED]-[LIVSTA]-
+                    [LIVMAECGFT]-[LIVMA]-[LIVMAYF]-[ACNDSTI]-x(2,3)-[ACNGVST]-
+                    x(4,6)-[LIVMAC]-[AVLKIT]-[SACLYWNRMTV]-[DEG]-[LIVMFCA]-
+                    [LIVMKFR]-[SAGVI]-x(2)-E-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Nagai A., Ward E., Beck J., Tada S., Chang J.-Y., Scheidegger A.,
+     Ryals J.
+     "Structural and functional conservation of histidinol dehydrogenase
+     between plants and microbes."
+     Proc. Natl. Acad. Sci. U.S.A. 88:4133-4137(1991).
+     PubMed=2034659
+[ 2] Grubmeyer C.T., Gray W.R.
+     "A cysteine residue (cysteine-116) in the histidinol binding site of
+     histidinol dehydrogenase."
+     Biochemistry 25:4778-4784(1986).
+     PubMed=3533140
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,51 @@
+EMR1HORMONER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+F4/80 is a monoclonal antibody that recognises a murine macrophage-
+restricted cell surface glycoprotein and has been extensively used to
+characterise macrophage populations in a wide range of immunological studies
+[6]. Little is known about its possible role in macrophage differentiation
+and function. The sequence of the F4/80 protein is similar to two protein
+superfamilies: the N-terminal region contains seven epidermal growth factor
+(EGF)-like domains, while the C-terminal region contains seven hydrophobic
+regions whose signature is consistent with membership of the secretin-like
+superfamily of GPCRs. The EGF and GPCR domains are separated from each other
+by a serine/threonine-rich domain, a feature reminiscent of mucin-like,
+single-span, integral membrane glycoproteins with adhesive properties [7].
+Because of its unique characteristics, this putative EGF module-containing, 
+mucin-like hormone receptor has been named EMR1 [7]. The EMR1 gene has been
+localised to human chromosome 19p13.3 [7]. 
+
+EMR1HORMONER is a 9-element fingerprint that provides a signature for EMR1
+hormone receptors. The fingerprint was derived from an initial alignment of
+2 sequences: the motifs were drawn from conserved regions spanning the 
+C-terminal half of the alignment, focusing on those sections that 
+characterise the EMR1 hormone receptors but distinguish them from the rest
+of the secretin-like superfamily - motifs 1-4 lie immediately N-terminal to
+TM domain 1; motif 5 spans the loop between TM domains 1 and 2 and the
+N-terminal portion of TM domain 2; motif 6 lies in the loop between TM 
+domains 3 and 4; motif 7 spans the loop between TM domains 5 and 6, and the
+N-terminal portion of TM domain 6; and motif 9 spans the C-terminus. A 
+single iteration on SPTR37_9f was required to reach convergence, no further 
+sequences being identified beyond the starting set. Two partial matches were
+also found, both leucocyte antigen CD97 sequences that match motifs 5 and 8.

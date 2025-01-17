@@ -1,0 +1,60 @@
+******************************************************
+* Asparaginase / glutaminase active sites signatures *
+******************************************************
+
+Asparaginase   (EC 3.5.1.1),   glutaminase   (EC 3.5.1.2)   and   glutaminase-
+asparaginase (EC 3.5.1.38) are  aminohydrolases that catalyze the   hydrolysis
+of asparagine (or glutamine) to aspartate (or glutamate) and ammonia [1].
+
+Two conserved threonine  residues  have been shown [2,3] to  play  a catalytic
+role. One of them is located  in the N-terminal  extremity while the second is
+located  at  the  end  of  the  first  third  of  the sequence.  We  used both
+conserved regions as signature patterns.
+
+-Consensus pattern: [LIVM]-x-{L}-T-G(2)-T-[IV]-[AGS]
+                    [The second T is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 10.
+
+-Consensus pattern: [GA]-x-[LIVM]-x(2)-H-G-T-D-T-[LIVM]
+                    [The first T is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Plant  asparaginases and  mammalian glutaminases do  not belong to this
+ family and are thus not detected by the above pattern.
+
+-Expert(s) to contact by email:
+           Gribskov M.; gribskov@sdsc.edu
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Tanaka S., Robinson E.A., Appella E., Miller M., Ammon H.L.,
+     Roberts J., Weber I.T., Wlodawer A.
+     "Structures of amidohydrolases. Amino acid sequence of a
+     glutaminase-asparaginase from Acinetobacter glutaminasificans and
+     preliminary crystallographic data for an asparaginase from Erwinia
+     chrysanthemi."
+     J. Biol. Chem. 263:8583-8591(1988).
+     PubMed=3379033
+[ 2] Harms E., Wehner A., Aung H.P., Rohm K.H.
+     "A catalytic role for threonine-12 of E. coli asparaginase II as
+     established by site-directed mutagenesis."
+     FEBS Lett. 285:55-58(1991).
+     PubMed=1906013
+[ 3] Miller M.M., Rao J.K.M., Wlodawer A., Gribskov M.R.
+     "A left-handed crossover involved in amidohydrolase catalysis. Crystal
+     structure of Erwinia chrysanthemi L-asparaginase with bound
+     L-aspartate."
+     FEBS Lett. 328:275-279(1993).
+     PubMed=8348975
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

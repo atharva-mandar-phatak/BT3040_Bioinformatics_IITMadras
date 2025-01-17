@@ -1,0 +1,32 @@
+DNAPOLB
+DNA is the biological information that instructs cells how to exist in an
+ordered fashion: accurate replication is thus one of the most important
+events in the life cycle of a cell. This function is performed by DNA-
+directed DNA-polymerases by adding nucleotide triphosphate (dNTP) residues 
+to the 5'-end of the growing chain of DNA, using a complementary DNA chain 
+as a template. Small RNA molecules are generally used as primers for chain 
+elongation, although terminal proteins may also be used. Even though there 
+are 2 different methods of priming, these are mediated by 2 very similar 
+polymerases with similar methods of chain elongation. 
+
+There are 2 distinct classes of DNA-directed DNA-polymerase, A and B, 
+defined according to sequence similarity criteria. All sequences in the B
+family contain a characteristic DTDS motif, and possess many functional
+domains, including a 5'-3' elongation domain, a 3'-5' exonuclease domain,
+a DNA binding domain, and binding domains for both dNTP's and pyrophosphate.
+
+DNAPOLB is a 3-element fingerprint that provides a signature for class
+B polymerases. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs correspond to the conserved regions described by
+Jung et al. [1], motif 3 containing the DTDS motif, which is universally
+conserved in B DNA-polymerases (cf. PROSITE pattern DNA_POLYMERASE_B). 
+Three iterations on OWL12.0 were required to reach convergence, at which
+point a true set comprising 40 sequences was identified. Three partial
+matches were also found: of these, all are family members, but 2 (HS5DNAPOL
+and S06416) are truncated sequences, HS5DNAPOL ending just after the
+C-terminus of the second motif, and S06416 lacking the first motif;
+DPO2_KLULA is a complete sequence, but fails to make a significant match
+with motif 2.
+
+An update on SPTR37_9f identified a true set of 134 sequences, and 10
+partial matches.

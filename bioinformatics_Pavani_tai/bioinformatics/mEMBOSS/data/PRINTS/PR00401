@@ -1,0 +1,35 @@
+SH2DOMAIN
+The SH2 (src Homology-2) domains are small protein modules containing
+approximately 100 amino acid residues. They are found in a wide variety of
+protein contexts: e.g., in association with catalytic domains of phospho-
+lipase Cy (PLCy) and the nonreceptor protein tyrosine kinases; within
+structural proteins such as fodrin and tensin; and in a group of small 
+adaptor molecules, i.e Crk and Nck. In many cases, when an SH2 domain is
+present so too is an SH3 domain, suggesting that their functions are 
+inter-related. The domains are frequently found as repeats in a single
+protein sequence. 
+
+The structure of the SH2 domain belongs to the alpha+beta class, its
+overall shape forming a compact flattened hemisphere. The core structural
+elements comprise a central hydrophobic anti-parallel beta-sheet, flanked
+by 2 short alpha-helices. In the v-src oncogene product SH2 domain, the
+loop between strands 2 and 3 provides many of the binding interactions
+with the phosphate group of its phosphopeptide ligand, and is hence
+designated the phosphate binding loop. 
+
+SH2DOMAIN is a 5-element fingerprint that provides a signature for SH2
+domains. The fingerprint was derived from an initial alignment of 21
+sequences: the motifs were drawn from short conserved regions spanning the
+full alignment length, and largely correspond to the core structural
+elements (i.e., the N-terminal helix, each of the central 3 strands, and
+the C-terminal helix respectively) - motif 2 contains a highly conserved
+FLVRES sequence involved in phosphate binding (cf. PROSITE profile SH2
+(PS50001)). Five iterations on OWL26.2 were required to reach convergence,
+at which point a true set comprising 187 sequences was identified. Thirty-
+nine partial matches were also found (the fingerprint does not perform
+perfectly because of the low level of sequence similarity between SH2
+domains (the result of their disparate functions), and is further
+complicated by their multiple repeat nature). 
+
+An update on SPTR37_9f identified a true set of 162 sequences, and 143
+partial matches.

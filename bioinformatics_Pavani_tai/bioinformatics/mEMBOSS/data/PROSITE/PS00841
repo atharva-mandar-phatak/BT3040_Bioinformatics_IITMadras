@@ -1,0 +1,112 @@
+**************************
+* XPG protein signatures *
+**************************
+
+Xeroderma  pigmentosum (XP) [1]  is a  human   autosomal   recessive  disease,
+characterized by  a  high incidence of sunlight-induced skin cancer.  People's
+skin cells  with this condition  are  hypersensitive to ultraviolet light, due
+to defects in the incision step of DNA excision repair. There are a minimum of
+seven genetic complementation  groups  involved in this pathway: XP-A to XP-G.
+The defect in XP-G can be corrected by a 133 Kd nuclear protein called XPG (or
+XPGC) [2].
+
+XPG belongs  to a family  of  proteins  [2,3,4,5,6]  that  are composed of two
+main subsets:
+
+ - Subset  1,  to  which  belongs  XPG, RAD2 from budding yeast and rad13 from
+   fission yeast.  RAD2  and  XPG are single-stranded DNA endonucleases [7,8].
+   XPG makes the 3'incision in human DNA nucleotide excision repair [9].
+ - Subset 2, to which belongs mouse and human FEN-1,  rad2 from fission yeast,
+   and RAD27 from budding yeast. FEN-1 is a structure-specific endonuclease.
+
+In addition  to  the  proteins  listed  in  the above groups, this family also
+includes:
+
+ - Fission yeast exo1, a 5'->3' double-stranded DNA exonuclease that could act
+   in a pathway that corrects mismatched base pairs.
+ - Yeast EXO1 (DHS1), a protein with probably the same function as exo1.
+ - Yeast DIN7.
+
+Sequence alignment  of  this  family of proteins reveals that similarities are
+largely confined  to  two  regions.  The  first  is  located at the N-terminal
+extremity  (N-region) and corresponds to the first 95 to 105 amino acids.  The
+second region  is  internal  (I-region)  and  found towards the C-terminus; it
+spans about  140  residues  and  contains a highly  conserved core of 27 amino
+acids that includes a conserved pentapeptide (E-A-[DE]-A-[QS]). It is possible
+that the  conserved acidic residues are involved in the catalytic mechanism of
+DNA excision repair in XPG.  The  amino acids linking the N- and I-regions are
+not conserved;  indeed, they are largely absent from proteins belonging to the
+second subset.
+
+We have  developed  two  signature  patterns  for  these proteins.  The  first
+corresponds to  the central part of the N-region, the second to part of the I-
+region and includes the putative catalytic core pentapeptide.
+
+-Consensus pattern: [VILT]-[KREIT]-[PV]-x-[FYIL]-[VI]-[FW]-D-G-x(2)-[PILHSTF]-
+                    x-[LVCQMFAKS]-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSN]-[LIVM]-[PERD]-[FYSCV]-[LIVM]-x-A-P-x-E-A-[DE]-[PAS]-
+                    [QSE]-[CLM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Clarkson S.G.; clarkson@medecine.unige.ch
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Tanaka K., Wood R.D.
+     "Xeroderma pigmentosum and nucleotide excision repair of DNA."
+     Trends Biochem. Sci. 19:83-86(1994).
+     PubMed=8160271
+[ 2] Scherly D., Nouspikel T., Corlet J., Ucla C., Bairoch A., Clarkson S.G.
+     "Complementation of the DNA repair defect in xeroderma pigmentosum
+     group G cells by a human cDNA related to yeast RAD2."
+     Nature 363:182-185(1993).
+     PubMed=8483504; DOI=10.1038/363182a0
+[ 3] Carr A.M., Sheldrick K.S., Murray J.M., al-Harithy R., Watts F.Z.,
+     Lehmann A.R.
+     "Evolutionary conservation of excision repair in Schizosaccharomyces
+     pombe: evidence for a family of sequences related to the Saccharomyces
+     cerevisiae RAD2 gene."
+     Nucleic Acids Res. 21:1345-1349(1993).
+     PubMed=8464724
+[ 4] Murray J.M., Tavassoli M., al-Harithy R., Sheldrick K.S.,
+     Lehmann A.R., Carr A.M., Watts F.Z.
+     "Structural and functional conservation of the human homolog of the
+     Schizosaccharomyces pombe rad2 gene, which is required for chromosome
+     segregation and recovery from DNA damage."
+     Mol. Cell. Biol. 14:4878-4888(1994).
+     PubMed=8007985
+[ 5] Harrington J.J., Lieber M.R.
+     "Functional domains within FEN-1 and RAD2 define a family of
+     structure-specific endonucleases: implications for nucleotide excision
+     repair."
+     Genes Dev. 8:1344-1355(1994).
+     PubMed=7926735
+[ 6] Szankasi P., Smith G.R.
+     "A role for exonuclease I from S. pombe in mutation avoidance and
+     mismatch correction."
+     Science 267:1166-1169(1995).
+     PubMed=7855597
+[ 7] Habraken Y., Sung P., Prakash L., Prakash S.
+     "Yeast excision repair gene RAD2 encodes a single-stranded DNA
+     endonuclease."
+     Nature 366:365-368(1993).
+     PubMed=8247134; DOI=10.1038/366365a0
+[ 8] O'Donovan A., Scherly D., Clarkson S.G., Wood R.D.
+     J. Biol. Chem. 269:15965-15968(1994).
+[ 9] O'Donovan A., Davies A.A., Moggs J.G., West S.C., Wood R.D.
+     Nature 371:432-435(1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

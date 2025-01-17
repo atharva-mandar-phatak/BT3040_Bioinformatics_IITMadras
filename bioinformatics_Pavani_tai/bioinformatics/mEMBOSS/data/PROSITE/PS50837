@@ -1,0 +1,54 @@
+*******************************
+* NACHT-NTPase domain profile *
+*******************************
+
+The NACHT  domain is a  300 to 400 residue predicted nucleoside triphosphatase
+(NTPase) domain,  which is found in animal, fungal and bacterial proteins. The
+NACHT domain  has  been named after NAIP, CIITA, HET-E and TP1. It is found in
+association with other domains, such as the CARD domain (see <PDOC50209>), the
+DAPIN domain  (see  <PDOC50824>),  the  HEAT  repeat (see <PDOC50077>), the WD
+repeat (see <PDOC00574>), the leucine-rich repeat (LRR) or the BIR repeat (see
+<PDOC00987) [1].
+
+The NACHT  domain  consists  of seven distinct conserved motifs, including the
+ATP/GTPase specific  P-loop (see <PDOC00017>), the Mg(2+)-binding site (Walker
+A and  B  motifs,  respectively)  and  five  more  specific motifs. The unique
+features of  the  NACHT  domain  include  the  prevalence  of  'tiny' residues
+(glycine, alanine  or  serine)  directly C-terminal of the Mg(2+)-coordinating
+aspartate in the Walker B motif, in place of a second acidic residue prevalent
+in other  NTPases.  A  second  acidic residue is typically found in the NACHT-
+containing proteins  two  positions  downstream. Furthermore, the distal motif
+VII contains  a  conserved pattern of polar, aromatic and hydrophobic residues
+that is not seen in any other NTPase family [1].
+
+Some proteins known to contain a NACHT domain are listed below:
+
+ - Mammalian neuronal apoptosis inhibitor protein (NAIP).
+ - Mammalian MHC class II transcription activator (CIITA).
+ - Mammalian telomerase-associated protein (TP1).
+ - Human CARD4 (NOD1), a pro-apoptotic protein, which activate NF-kappaB.
+ - Streptomyces coelicolor predicted NTPases.
+ - Synechocystis sp predicted NTPase.
+ - Podosporina anserina incompatibility locus protein (HET-E).
+
+The profile we developed covers the entire NACHT domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Koonin E.V., Aravind L.
+     "The NACHT family - a new group of predicted NTPases implicated in
+     apoptosis and MHC transcription activation."
+     Trends Biochem. Sci. 25:223-224(2000).
+     PubMed=10782090
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

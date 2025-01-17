@@ -1,0 +1,31 @@
+TCRTETA
+The transposon Tn10-encoded tetracycline resistance (Tcr) protein functions 
+as a metal-tetracycline/H+ antiporter [1,2]. The nucleotide sequence of the 
+Tn10 tetA gene, which alone is sufficient to confer tetracycline resistance,
+has been determined [2]. The sequence similarity between the Tn10 tetA gene 
+and the pBR322 Tcr determinant indicates that these phenotypically distinct
+Tcr determinants must have evolved from a common ancestral sequence [2]. The
+markedly hydrophobic character of the predicted amino acid sequences of the
+Tn10 tetA and pBR322 tet-coded proteins suggests that a substantial portion
+of these proteins may be embedded within the cytoplasmic membrane [2]. 
+
+The Ser65-Asp66 dipeptide is conserved in all known tetracycline antiporter
+proteins [1]. Site-directed mutagenesis studes have shown that a negative
+charge at position 66 is essential for tetracycline transport [1], and that
+the region that includes the dipeptide plays an important role in metal-
+tetracycline transport; it perhaps acts as a gate that opens on the charge-
+charge interaction between Asp66 and the metal-tetracycline [1]. 
+
+TCRTETA is a 12-element fingerprint that provides a signature for the TetA
+class of tetracycline resistance proteins. The fingerprint was derived from
+an initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 includes the
+C-terminal region of putative TM domain 1; and motifs 2-12 encode putative
+TM domains 2-12 respectively. Two iterations on OWL30.2 were required to 
+reach convergence, at which point a true set comprising 9 sequences was 
+identified. Several partial matches were also found, all of which are 
+fragments and related drug resistance proteins that fail to match 5 or 
+more motifs.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 7
+partial matches.

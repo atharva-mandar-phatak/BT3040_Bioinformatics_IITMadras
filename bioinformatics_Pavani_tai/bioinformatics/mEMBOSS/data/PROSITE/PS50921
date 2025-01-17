@@ -1,0 +1,62 @@
+************************
+* ANTAR domain profile *
+************************
+
+The ANTAR  (AmiR  and NasR transcription antitermination regulators) domain is
+present in  bacterial  regulatory  proteins  that  are  predicted to share the
+distinct transcription  antitermination  mechanism reported for amiR and nasR.
+Three distinct classes of ANTAR-containing proteins have been identified. Most
+proteins are  classical  response  regulators,  where  residues  comprising an
+active site are conserved. Therefore, these proteins are predicted to serve as
+cognate regulators  for  sensor  histidine  kinases.  Proteins from the second
+class are  predicted  to  serve  as  cognate  response  regulators  for sensor
+histidine kinases.  Proteins  from  the  second  class are predicted to have a
+reponse-regulator fold,   but   lack   residues   that   are   essential   for
+phosphotransfer, as  in  amiR.  Finally, some of the ANTAR-containing proteins
+are predicted  to  act  as a stand-alone sensory transcriptional regulator. In
+addition to the response regulatory domain (see <PDOC50110>), the ANTAR domain
+is found associated with GAF, PAC (see <PDOC50112>), STAS (see <PDOC50801>) or
+NIT (see <PDOC50906>). The ANTAR domain is supposed to be an RNA-binding motif
+[1].
+
+The structure  of  the  ANTAR  domain  has been solved (see <PDB:1QO0; D>) and
+shows that  its  C-terminus  is extended into a substantial alpha-helix, which
+participates in  a  parallel coiled-coil interaction with the equivalent helix
+of the  other  monomer.  The  C-terminus of this helix participates in a three
+helix bundle.  The side chains of the most conserved residues of ANTAR domains
+are exposed to the cavity formed by the three-helix structure [1,2].
+
+Some proteins known to contain an ANTAR domain are listed below:
+
+ - Pseudomonas  aeruginosa  aliphatic  amidase  regulator  amiR. It acts as an
+   antiterminator of  transcription  of  the  amidase operon by preventing the
+   formation of a termination stem-loop structure when binding ssRNA.
+ - Klebsiella oxytoca nitrate regulatory protein nasR. It binds to the factor-
+   independent terminator site located in the nasF operon leader RNA to effect
+   transcription antitermination.
+ - Azotobacter vinelandii nasT.
+
+The profile we developed spans the entire ANTAR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2003 / First entry.
+
+[ 1] Shu C.J., Zhulin I.B.
+     "ANTAR: an RNA-binding domain in transcription antitermination
+     regulatory proteins."
+     Trends Biochem. Sci. 27:3-5(2002).
+     PubMed=11796212
+[ 2] O'Hara B.P., Norman R.A., Wan P.T.C., Roe S.M., Barrett T.E., Drew R.E.,
+     Pearl L.H.
+     EMBO J. 18:5175-5186(1999).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

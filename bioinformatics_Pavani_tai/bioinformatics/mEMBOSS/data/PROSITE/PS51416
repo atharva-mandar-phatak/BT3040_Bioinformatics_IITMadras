@@ -1,0 +1,64 @@
+****************************
+* MIB/HERC2 domain profile *
+****************************
+
+The MIB/HERC2  domain is a conserved region of ~80 amino acids, which has been
+identified in:
+
+ - Animal Mind bomb 1 and 2 (MIB1 and MIB2) E3 ubiquitin ligases. They contain
+   a very similar domain organization including an amino terminus ZZ-type zinc
+   finger (see  <PDOC50135>)  surrounded by two MIB/HERC2 domains, followed by
+   two MIB  specific  repeats, multiple ankyrin repeats (see <PDOC50088>), and
+   two or  more  Ring fingers (see <PDOC00449>) at their C-terminal ends. They
+   partake in   the  Notch  signaling  pathway  by  ubiquitinating  the  Notch
+   receptors Delta and Jagged prior to endocytosis [1,2,3,4].
+ - Animal probable E3 ubiquitin-protein ligase HERC2 (EC 6.3.2.-). It contains
+   additional motifs,  including  RCC1 repeats (see <PDOC00544>), a DOC domain
+   (see <PDOC51284>),  a carboxy-terminal HECT domain (see <PDOC50237>), and a
+   ZZ-type zinc finger [5].
+
+The profile we developed covers the entire MIB/HERC2 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2008 / First entry.
+
+[ 1] Itoh M., Kim C.-H., Palardy G., Oda T., Jiang Y.-J., Maust D., Yeo S.-Y.,
+     Lorick K., Wright G.J., Ariza-McNaughton L., Weissman A.M., Lewis J.,
+     Chandrasekharappa S.C., Chitnis A.B.
+     "Mind bomb is a ubiquitin ligase that is essential for efficient
+     activation of Notch signaling by Delta."
+     Dev. Cell 4:67-82(2003).
+     PubMed=12530964
+[ 2] Koo B.-K., Yoon K.-J., Yoo K.-W., Lim H.-S., Song R., So J.-H., Kim C.-H.,
+     Kong Y.-Y.
+     "Mind bomb-2 is an E3 ligase for Notch ligand."
+     J. Biol. Chem. 280:22335-22342(2005).
+     PubMed=15824097; DOI=10.1074/jbc.M501631200
+[ 3] Barsi J.C., Rajendra R., Wu J.I., Artzt K.
+     "Mind bomb1 is a ubiquitin ligase essential for mouse embryonic
+     development and Notch signaling."
+     Mech. Dev. 122:1106-1117(2005).
+     PubMed=16061358; DOI=10.1016/j.mod.2005.06.005
+[ 4] Wu J.I., Rajendra R., Barsi J.C., Durfee L., Benito E., Gao G.,
+     Kuruvilla M., Hrdlickova R., Liss A.S., Artzt K.
+     "Targeted disruption of Mib2 causes exencephaly with a variable
+     penetrance."
+     Genesis 45:722-727(2007).
+     PubMed=17987667; DOI=10.1002/dvg.20349
+[ 5] Ji Y., Rebert N.A., Joslin J.M., Higgins M.J., Schultz R.A.,
+     Nicholls R.D.
+     "Structure of the highly conserved HERC2 gene and of multiple
+     partially duplicated paralogs in human."
+     Genome Res. 10:319-329(2000).
+     PubMed=10720573
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

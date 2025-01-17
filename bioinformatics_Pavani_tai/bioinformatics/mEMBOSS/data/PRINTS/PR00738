@@ -1,0 +1,30 @@
+GLHYDRLASE20
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 20 encompasses beta-hexosaminidases and chitobiases.  
+
+In the brain and other tissues, beta-hexosaminidase A degrades GM2
+gangliosides; specifically, the enzyme hydrolyses terminal non-reducing
+N-acetyl-D-hexosamine residues in N-acetyl-beta-D-hexosaminides. There are
+3 forms of beta-hexosaminidase: hexosaminidase A is a trimer, with one
+alpha, one beta-A and one beta-B chain; hexosaminidase B is a tetramer of
+two beta-A and two beta-B chains; and hexosaminidase S is a homodimer of
+alpha chains. The two beta chains are derived from the cleavage of a
+precursor. Mutations in the beta-chain lead to Sandhoff disease, a lysosomal
+storage disorder characterised by accumulation of GM2 ganglioside [5].
+
+GLHYDRLASE20 is an 8-element fingerprint that provides a signature for
+family 20 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal half of the alignment - motifs 1-4 lie in the
+beta-B chain, and motifs 5-8 in the beta-A chain. Two iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising
+19 sequences was identified. Several partial matches were also found, all
+of which are related sequences that fail to make significant matches with
+one or more motifs.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 2
+partial matches.

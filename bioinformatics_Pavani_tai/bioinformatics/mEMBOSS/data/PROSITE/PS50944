@@ -1,0 +1,90 @@
+********************************
+* DtxR-type HTH domain profile *
+********************************
+
+The  dtxR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  65  residues  present in metalloregulators of the dtxR/mntR
+family.  The  family  is  named  after  Corynebacterium  diphtheriae  dtxR, an
+iron-specific  diphtheria  toxin  repressor,  and  Bacillus  subtilis  mntR, a
+manganese  transport regulator. Iron-responsive metalloregulators such as dtxR
+and  ideR  occur  in  Gram-positive  bacteria  of  the  high  GC branch, while
+manganese-responsive  metalloregulators  like  mntR  are  described in diverse
+genera  of  Gram-positive  and Gram-negative bacteria and also in Archaea [1].
+The  metalloregulators  like  dtxR/mntR  contain the DNA-binding dtxR-type HTH
+domain  usually  in  the  N-terminal  part.  The  C-terminal  part  contains a
+dimerization  domain  with  two  metal-binding  sites,  although  the  primary
+metal-binding    site    is   less   conserved   in   the   Mn(II)-regulators.
+Fe(II)-regulated   proteins   contain  an  SH3-like  domain  as  a  C-terminal
+extension, which is absent in Mn(II)-regulated mntR [2,3].
+
+Metal-ion  dependent regulators orchestrate the virulence of several important
+human pathogens. The dtxR protein regulates the expression of diphtheria toxin
+in  response  to environmental iron concentrations. Furthermore, dtxR and ideR
+control  iron  uptake  [4].  Homeostasis  of  manganese, which is an essential
+nutrient, is regulated by mntR. A typical dtxR-type metalloregulator binds two
+divalent metal effectors per monomer, upon which allosteric changes occur that
+moderate binding to the cognate DNA operators. Iron-bound dtxR homodimers bind
+to  an  interrupted  palindrome of 19 bp, protecting a sequence of ~30 bp. The
+crystal  structures of iron-regulated (see <PDB:1C0W>) and manganese-regulated
+(see  <PDB:1ON1>)  repressors  show that the DNA binding domain contains three
+alpha-helices  and  a  pair  of  antiparallel  beta-strands.  Helices  2 and 3
+comprise  the  helix-turn-helix motif and the beta-strands are called the wing
+[3].  This  wHTH  topology  is similar to the lysR-type HTH (see <PDOC00043>).
+Most dtxR-type metalloregulators bind as dimers to the DNA major groove.
+
+Some proteins known to contain a dtxR-type HTH domain:
+
+ - Corynebacterium  diphtheriae  dtxR,  a  diphtheria  toxin  repressor, which
+   regulates  the  expression  of  the high-affinity iron uptake system, other
+   iron-sensitive  genes,  and  the  bacteriophage  tox gene. Metal-bound dtxR
+   represses  transcription  by binding the tox operator; if iron is limiting,
+   conformational  changes  of the wHTH disrupt DNA-binding and the diphtheria
+   toxin is produced.
+ - Mycobacterium  tuberculosis  ideR,  an  iron-dependent  regulator  that  is
+   essential  for  this  pathogen.  The  regulator  represses  genes  for iron
+   acquisition  and  activates iron storage genes, and is a positive regulator
+   of oxidative stress responses [4].
+ - Bacillus  subtilis  mntR, a manganese transport regulator, binds Mn2+ as an
+   effector  and is a transcriptional repressor of transporters for the import
+   of manganese.
+ - Treponema pallidum troR, a metal-dependent transcriptional repressor.
+ - Archaeoglobus  fulgidus  MDR1  (troR),  a  metal-dependent  transcriptional
+   repressor, which negatively regulates its own transcription.
+
+The profile we developed covers the entire dtxR-type HTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2003 / First entry.
+
+[ 1] Guedon E., Helmann J.D.
+     "Origins of metal ion selectivity in the DtxR/MntR family of
+     metalloregulators."
+     Mol. Microbiol. 48:495-506(2003).
+     PubMed=12675807
+[ 2] Spiering M.M., Ringe D., Murphy J.R., Marletta M.A.
+     "Metal stoichiometry and functional studies of the diphtheria toxin
+     repressor."
+     Proc. Natl. Acad. Sci. U.S.A. 100:3808-3813(2003).
+     PubMed=12655054; DOI=10.1073/pnas.0737977100
+[ 3] Glasfeld A., Guedon E., Helmann J.D., Brennan R.G.
+     "Structure of the manganese-bound manganese transport regulator of
+     Bacillus subtilis."
+     Nat. Struct. Biol. 10:652-657(2003).
+     PubMed=12847518; DOI=10.1038/nsb951
+[ 4] Rodriguez G.M., Smith I.
+     "Mechanisms of iron regulation in mycobacteria: role in physiology and
+     virulence."
+     Mol. Microbiol. 47:1485-1494(2003).
+     PubMed=12622807
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

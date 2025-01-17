@@ -1,0 +1,53 @@
+************************************************
+* Bucentaur C-terminal (BCNT-C) domain profile *
+************************************************
+
+Vertebrate BCNT  (named  after  Bucentaur) protein is found in the nucleus and
+cytosol. Gene  duplication of the ancestral BCNT gene leads to the h-type BCNT
+or craniofacial  development  protein 1 (CFDP1) gene and the ruminant-specific
+p97BCNT or  craniofacial  development  protein 2 (CFDP2) gene. The h-type BCNT
+proteins contain  a  highly  conserved  82-amino acid region at the C-terminus
+(BCNT-C) that  is  not present in p97BCNT. Instead ruminant p97BCNT contains a
+region derived  from  the  endonuclease  domain of a retrotransposable element
+RTE-1 [1,2].  In  addition  to  h-type  BCNT proteins, a BCNT-C domain is also
+found in  Drosophila  YETI,  a protein that binds to a microtubule-based motor
+kinesin-1, and  the  yeast  SWR1-complex  protein  5  (SWC5)  or  AOR1  (actin
+overexpression resistant  1),  a  component  of  the SWR1 chromatin remodeling
+complex [2,3].
+
+The profile we developed covers the entire BCNT-C domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2006 / First entry.
+
+[ 1] Iwashita S., Osada N., Itoh T., Sezaki M., Oshima K., Hashimoto E.,
+     Kitagawa-Arita Y., Takahashi I., Masui T., Hashimoto K.,
+     Makalowski W.
+     "A transposable element-mediated gene divergence that directly
+     produces a novel type bovine Bcnt protein including the endonuclease
+     domain of RTE-1."
+     Mol. Biol. Evol. 20:1556-1563(2003).
+     PubMed=12832649; DOI=10.1093/molbev/msg168
+[ 2] Iwashita S., Ueno S., Nakashima K., Song S.-Y., Ohshima K., Tanaka K.,
+     Endo H., Kimura J., Kurohmaru M., Fukuta K., David L., Osada N.
+     "A tandem gene duplication followed by recruitment of a
+     retrotransposon created the paralogous bucentaur gene (bcntp97) in the
+     ancestral ruminant."
+     Mol. Biol. Evol. 23:798-806(2006).
+     PubMed=16384818; DOI=10.1093/molbev/msj088
+[ 3] Wisniewski T.P., Tanzi C.L., Gindhart J.G.
+     "The Drosophila kinesin-I associated protein YETI binds both kinesin
+     subunits."
+     Biol. Cell 95:595-602(2003).
+     PubMed=14720462
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

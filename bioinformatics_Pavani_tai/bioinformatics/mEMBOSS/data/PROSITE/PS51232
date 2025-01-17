@@ -1,0 +1,67 @@
+*****************************************************************
+* Rho GTPase-binding/formin homology 3 (GBD/FH3) domain profile *
+*****************************************************************
+
+Formins are   multidomain   proteins   conserved  from  plants  to  fungi  and
+vertebrates. Due  to  their  pivotal  role  in  the  organization of the actin
+cytoskeleton formins  are  involved  in  processes  as diverse as formation of
+filopodia, microspikes and lamellipodia, establishment and maintenance of cell
+polarity, vesicular trafficking, formation of adherens junctions, cytokinesis,
+embryonic development  and  signaling to the nucleus. Formins are defined by a
+conserved formin  homology  2  (FH2)  domain  with  actin  nucleation activity
+preceded by  a proline-rich formin homology 1 (FH1) domain. In most fungal and
+metazoan formins  the  FH1-FH2  core  is  accompanied  by  a less conserved N-
+terminal formin  homology  3  (FH3)  domain  involved  in  targeting  [1]. The
+Diaphanous-related formins  are  able  to  interact with activated Rho GTPases
+through a  poorly  defined  N-terminal  Rho  GTPase  binding domain (GBD) that
+overlaps with  the  formin  homology 3 (FH3) domain. This binding releases the
+intramolecular inhibitory   interaction  between  the  GBD  and  a  C-terminal
+Diaphanous autoregulatory  domain  (DAD)  (see  <PDOC51231>)  and  renders the
+protein active. It has been proposed that the GBD and FH3 domains constitute a
+single domain  also found in Dictyostelium guanine nucleotide exchange factors
+(RasGEFs) [2].
+
+The GBD/FH3  domain  is approximately 380 residues in length. Its role appears
+to be  twofold.  On  one  hand the N-terminal region of formins is involved in
+subcellular localization  through  interaction  with  diverse targets. The low
+degree of  sequence  conservation  of  this  region  might  correlate with the
+diversity of   binding   partners,  not  only  Rho  GTPases,  and  subcellular
+localization patterns.  On  the  other  hand the GBD/FH3 domain is involved in
+regulation of activation by releasing of an intramolecular interaction between
+the DAD  and  the  N-terminus  [2].  The  GBD/FH3 domain is exclusively alpha-
+helical and  is  comprised  of  the  N-terminal  part of the GBD, an armadillo
+repeat region (ARR) and dimerization subdomains (see <PDB:1Z2C>) [3].
+
+The profile we developed covers the entire GBD/FH3 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2006 / First entry.
+
+[ 1] Petersen J., Nielsen O., Egel R., Hagan I.M.
+     "FH3, a domain found in formins, targets the fission yeast formin Fus1
+     to the projection tip during conjugation."
+     J. Cell Biol. 141:1217-1228(1998).
+     PubMed=9606213
+[ 2] Rivero F., Muramoto T., Meyer A.-K., Urushihara H., Uyeda T.Q.P.,
+     Kitayama C.
+     "A comparative sequence analysis reveals a common GBD/FH3-FH1-FH2-DAD
+     architecture in formins from Dictyostelium, fungi and metazoa."
+     BMC Genomics 6:28-28(2005).
+     PubMed=15740615; DOI=10.1186/1471-2164-6-28
+[ 3] Rose R., Weyand M., Lammers M., Ishizaki T., Ahmadian M.R.,
+     Wittinghofer A.
+     "Structural and mechanistic insights into the interaction between Rho
+     and mammalian Dia."
+     Nature 435:513-518(2005).
+     PubMed=15864301; DOI=10.1038/nature03604
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

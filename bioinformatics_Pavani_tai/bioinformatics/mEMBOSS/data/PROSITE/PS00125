@@ -1,0 +1,72 @@
+************************************************************
+* Serine/threonine specific protein phosphatases signature *
+************************************************************
+
+Serine/threonine specific protein phosphatases  (EC 3.1.3.16) (PP) [1,2,3] are
+enzymes that catalyze the removal of a phosphate group attached to a serine or
+a threonine  residue.  They  are  very  important in controlling intracellular
+events in  eukaryotic  cells.  In mammalian tissues four different types of PP
+have been  identified  and  are  known as PP1, PP2A, PP2B and PP2C. Except for
+PP2C, these enzymes are evolutionary related.
+
+ - Protein  phosphatase-1  (PP1)  is  an  enzyme  of broad specificity.  It is
+   inhibited by  two  thermostable  proteins,  inhibitor-1 and -2. In mammals,
+   there are  two  closely  related  isoforms of PP-1: PP-1alpha and PP-1beta,
+   produced by  alternative splicing of the same gene. In Emericella nidulans,
+   PP-1 (gene  bimG)  plays  an important role in mitosis control by reversing
+   the action  of  the  nimA kinase. In yeast, PP-1 (gene SIT4) is involved in
+   dephosphorylating the large subunit of RNA polymerase II.
+ - Protein phosphatase-2A (PP2A) is also an enzyme of broad specificity.  PP2A
+   is a trimeric enzyme that consist of a core composed of a catalytic subunit
+   associated with a 65 Kd regulatory subunit and a third variable subunit. In
+   mammals, there are two closely  related isoforms  of  the catalytic subunit
+   of PP2A: PP2A-alpha and PP2A-beta, encoded by separate genes.
+ - Protein phosphatase-2B  (PP2B or calcineurin), a  calcium-dependent  enzyme
+   whose activity is stimulated by calmodulin. It is composed of two subunits:
+   the catalytic A-subunit and the calcium-binding B-subunit.  The specificity
+   of PP2B is restricted.
+
+In addition to the above-mentioned  enzymes, some  additional serine/threonine
+specific protein phosphatases have been characterized and are listed below.
+
+ - Mammalian phosphatase-X (PP-X), and  Drosophila  phosphatase-V (PP-V) which
+   are closely related but yet distinct from PP2A.
+ - Yeast  phosphatase  PPH3,  which  is  similar  to  PP2A, but with different
+   enzymatic properties.
+ - Drosophila  phosphatase-Y  (PP-Y),  and yeast phosphatases Z1 and Z2 (genes
+   PPZ1 and PPZ2) which are closely related but yet distinct from PP1.
+ - Drosophila  retinal  degeneration  protein C (gene rdgC), a calcium-binding
+   phosphatase required to prevent light-induced retinal degeneration.
+ - Phages Lambda and Phi-80 ORF-221  which have been shown to have phosphatase
+   activity and are related to mammalian PP's.
+
+The best   conserved   regions   in  these  proteins  is  a  highly  conserved
+pentapeptide that can be used as a signature pattern.
+
+-Consensus pattern: [LIVMN]-[KR]-G-N-H-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Cohen P.
+     "The structure and regulation of protein phosphatases."
+     Annu. Rev. Biochem. 58:453-508(1989).
+     PubMed=2549856; DOI=10.1146/annurev.bi.58.070189.002321
+[ 2] Cohen P., Cohen P.T.W.
+     "Protein phosphatases come of age."
+     J. Biol. Chem. 264:21435-21438(1989).
+     PubMed=2557326
+[ 3] Cohen P.T.W., Brewis N.D., Hughes V., Mann D.J.
+     "Protein serine/threonine phosphatases; an expanding family."
+     FEBS Lett. 268:355-359(1990).
+     PubMed=2166691
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

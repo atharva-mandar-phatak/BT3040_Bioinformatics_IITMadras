@@ -1,0 +1,52 @@
+ANDROGENR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+The androgen receptor consists of 3 functional and structural domains:
+an N-terminal (modulatory) domain; a DNA binding domain that mediates
+specific binding to target DNA sequences (ligand-responsive elements);
+and a hormone binding domain. The N-terminal domain is unique to the 
+androgen receptors and spans approximately the first 530 residues; the
+highly-conserved DNA-binding domain is smaller (around 65 residues) and
+occupies the central portion of the protein; and the hormone binding
+domain lies at the receptor C-terminus.
+
+Defects in the androgen receptor cause testicular feminisation syndrome
+and androgen insensibility syndrome (AIS) [4,5]. AIS may be complete (CAIS),
+where external genitalia are phenotypically female; partial (PAIS), where
+genitalia are substantively ambiguous; or mild (MAIS), where external
+genitalia are normal male, or nearly so. Defects in the receptor also cause
+X-linked spinal and bulbar muscular atrophy (also known as Kennedy's disease).
+
+ANDROGENR is a 9-element fingerprint that provides a signature for the
+androgen receptors. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs span the N-terminal modulatory domain preceding
+the highly-conserved zinc-binding region shared by the steroid hormone
+receptor family. Two iterations on OWL28.0 were required to reach
+convergence, at which point a true set comprising 5 sequences was
+identified. Two partial matches were also found (HUMANRE and ANDR_RABIT), 
+both of which are androgen receptor fragments.
+
+An update on SPTR37_9f identified a true set of 4 sequences, and 3
+partial matches.

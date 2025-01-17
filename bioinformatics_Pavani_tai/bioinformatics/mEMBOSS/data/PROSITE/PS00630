@@ -1,0 +1,65 @@
+**********************************************
+* Inositol monophosphatase family signatures *
+**********************************************
+
+It has been shown [1] that several proteins share two sequence motifs.  Two of
+these  proteins  are  enzymes  of  the  inositol  phosphate  second  messenger
+signalling pathway:
+
+ - Vertebrate,    plants    and    microbial    myo-inositol   monophosphatase
+   (EC 3.1.3.25).
+ - Vertebrate inositol polyphosphate 1-phosphatase (EC 3.1.3.57).
+
+The function of the other proteins is not yet clear:
+
+ - Bacterial  protein  cysQ.  CysQ  could  help  to  control  the pool of PAPS
+   (3'-phosphoadenoside 5'-phosphosulfate), or be useful in sulfite synthesis.
+ - Neurospora crassa protein Qa-X. Probably involved in quinate metabolism.
+ - Emericella nidulans protein qutG. Probably involved in quinate metabolism.
+ - Yeast  protein  HAL2/MET22  [2]  involved  in  salt  tolerance  as  well as
+   methionine biosynthesis.
+ - Yeast hypothetical hypothetical protein YHR046c.
+ - Caenorhabditis elegans hypothetical protein F13G3.5.
+
+It is suggested [1] that these proteins may  act by enhancing the synthesis or
+degradation of phosphorylated messenger molecules. From the X-ray structure of
+human  inositol monophosphatase [3], it  seems  that  some  of  the  conserved
+residues are involved in binding a metal ion and/or the phosphate group of the
+substrate.
+
+-Consensus pattern: [FWV]-x(0,1)-[LIVM]-D-P-[LIVM]-D-[SG]-[ST]-x(2)-[FYA]-
+                    x(0,1)-[HKRNSTY]
+                    [The first D and the T bind a metal ion]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [WYV]-D-x-[AC]-[GSA]-[GSAPV]-x-[LIVFACP]-[LIVM]-[LIVAC]-
+                    x(3)-[GH]-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for cysQ from Mycobacterium leprae.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Neuwald A.F., York J.D., Majerus P.W.
+     "Diverse proteins homologous to inositol monophosphatase."
+     FEBS Lett. 294:16-18(1991).
+     PubMed=1660408
+[ 2] Glaeser H.-U., Thomas D., Gaxiola R., Montrichard F., Surdin-Kerjan Y.,
+     Serrano R.
+     EMBO J. 12:3105-3110(1993).
+[ 3] Bone R., Springer J.P., Atack J.R.
+     "Structure of inositol monophosphatase, the putative target of lithium
+     therapy."
+     Proc. Natl. Acad. Sci. U.S.A. 89:10031-10035(1992).
+     PubMed=1332026
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

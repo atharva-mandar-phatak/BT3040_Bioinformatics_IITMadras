@@ -1,0 +1,53 @@
+TRNASYNTHSER
+Appropriate attachment of an amino acid to its cognate tRNA is the key to
+faithful translation of the genetic code. The family of enzymes responsible
+for this is the aminoacyl-tRNA synthetases (AATRSs) (EC 6.1.1.-).
+
+AATRSs catalyse a two-step reaction:
+
+(1) Enzyme + amino acid + ATP ---> Enzyme(aminoacyl-AMP) + PPi
+
+(2) tRNA + Enzyme(aminoacyl-AMP) ---> aminoacyl-tRNA + AMP + Enzyme
+
+In the first step, they form an aminoacyl-adenylate, in which the carboxyl
+of the amino acid is linked to the alpha-phosphate of ATP, by displacing
+the pyrophosphate. When the correct tRNA is bound, the aminoacyl group is
+transferred to the 2'- or 3'-terminal OH of the tRNA at the expense of AMP
+[1].
+
+Based on structural and sequence comparisons, this group of at least 20
+proteins (in prokaryotes there are approximately 20, but in eukaryotes
+there are usually 2 forms for each amino acid; namely, the cytosolic and
+mitochondrial forms) can be divided into two classes.
+
+Class I AATRSs contain a characteristic Rossman fold and are mostly
+monomeric. At the primary structure level, two highly-conserved motifs
+are observed 'HIGH' and 'KMSKS' [2,3]; these are associated with the ATP-
+binding site.
+
+Class II AATRSs share an anti-parallel beta-sheet formation, flanked by
+alpha-helices [3], and are mostly dimeric or multimeric.
+
+Further distinction between the two classes is evident when the reaction
+mechanisms are investigated. In reactions catalysed by the class I AATRSs,
+the aminoacyl group is coupled to the 2'-hydroxyl of the tRNA, while, in
+class II reactions, the 3'-hydroxyl site is preferred.
+
+Seryl-tRNA synthetase (EC 6.1.1.11) is specific to serine and belongs to 
+Class II.
+
+TRNASYNTHSER is a 5-element fingerprint that provides a signature for 
+seryl-tRNA synthetases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions 
+within the C-terminal portion of the alignment - motifs 1 and 2 span part
+of the region encoded by PROSITE pattern AA_TRNA_LIGASE_II_1 (PS00179), 
+motif 2 including the N_terminal residues of beta-strand 8; motif 3 encodes
+beta-strand 9; motif 4 spans the C-terminal residues of strand 10 and the 
+N-terminus of strand 11; and motif 5 spans the C-terminus of strand 11,
+helix 15 and the N-terminus of strand 12. Four iterations on OWL30.2 were 
+required to reach convergence, at which point a true set comprising 22 
+sequences was identified. Two partial matches were also found, SYS_CRIGR
+and DMSURF41, both of which are AATRS fragments.
+
+An update on SPTR37_9f identified a true set of 27 sequences, and 2
+partial matches.

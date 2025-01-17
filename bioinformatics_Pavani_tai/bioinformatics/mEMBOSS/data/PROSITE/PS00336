@@ -1,0 +1,74 @@
+******************************************************
+* Beta-lactamases classes -A, -C, and -D active site *
+******************************************************
+
+Beta-lactamases (EC 3.5.2.6) [1,2]  are enzymes  which catalyze the hydrolysis
+of an amide bond in  the  beta-lactam ring  of  antibiotics  belonging  to the
+penicillin/cephalosporin  family.   Four  kinds of  beta-lactamase  have  been
+identified [3]. Class-B enzymes are zinc containing  proteins whilst class -A,
+C and D enzymes  are  serine hydrolases.  The  three  classes of serine  beta-
+lactamases are  evolutionary related and belong to a superfamily [4] that also
+includes DD-peptidases  and  a  variety  of  other penicillin-binding proteins
+(PBP's). All these proteins contain a  Ser-x-x-Lys motif,  where the serine is
+the active site residue.  Although  clearly  homologous,  the sequences of the
+three classes of serine beta-lactamases exhibit a large degree  of variability
+and only a small number of residues are conserved in addition to the catalytic
+serine.
+
+Since a  pattern  detecting all serine beta-lactamases would also pick up many
+unrelated sequences,  we decided to provide specific patterns, centered on the
+active site serine, for each of the three classes.
+
+-Consensus pattern: [FY]-x-[LIVMFY]-{E}-S-[TV]-x-K-x(3)-{T}-[AGLM]-{D}-{KA}-
+                    [LC]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL  class-A
+ beta-lactamases.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Consensus pattern: [FY]-E-[LIVM]-G-S-[LIVMG]-[SA]-K
+                    [The first S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL  class-C
+ beta-lactamases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [PA]-x-S-[ST]-F-K-[LIV]-[PALV]-x-[STA]-[LI]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL  class-D
+ beta-lactamases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Brannigan J.; jab5@vaxa.york.ac.uk
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Ambler R.P.
+     "The structure of beta-lactamases."
+     Philos. Trans. R. Soc. Lond., B, Biol. Sci. 289:321-331(1980).
+     PubMed=6109327
+[ 2] Pastor N., Pinero D., Valdes A.M., Soberon X.
+     "Molecular evolution of class A beta-lactamases: phylogeny and
+     patterns of sequence conservation."
+     Mol. Microbiol. 4:1957-1965(1990).
+     PubMed=2082152
+[ 3] Bush K.
+     "Characterization of beta-lactamases."
+     Antimicrob. Agents Chemother. 33:259-263(1989).
+     PubMed=2658779
+[ 4] Joris B., Ghuysen J.-M., Dive G., Renard A., Dideberg O., Charlier P.,
+     Frere J.M., Kelly J.A., Boyington J.C., Moews P.C.
+     "The active-site-serine penicillin-recognizing enzymes as members of
+     the Streptomyces R61 DD-peptidase family."
+     Biochem. J. 250:313-324(1988).
+     PubMed=3128280
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

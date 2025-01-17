@@ -1,0 +1,32 @@
+LANTIPROCESS
+Pathogenic bacteria produce a number of virulence factors to facilitate
+host infection, and to combat competing species [1]. Antibiotics are 
+secreted by some pathogenic prokaryotes to lyse cells, some of which have 
+been adapted by humans for use against virulent microbes. Amongst these are 
+the lantibiotics, produced exclusively by Gram-positive bacteria. 
+Lantibiotics are small, heavily post-translationally modified peptides that 
+inhibit rival cell growth and are strongly cationic [1]. 
+
+Lantibiotic genes reside on the bacterial chromosome, where they cluster 
+with genes that adapt and secrete them to the extracellular space [2]. Many 
+of these so-called 'pathogenicity islands' have been characterised, 
+including the epidermin (epi) cluster in Staphylococcus epidermis [2], and 
+the nisin (nis) cluster in Lactococcus lactis [3]. The gene encoding the 
+lantibiotic is flanked by 3 regulatory genes: 2 of these are usually 
+involved in a 2-component regulatory system; the other cleaves the signal 
+peptide from the precursor to produce the mature lantibiotic.
+
+This protein (usually designated with a "P" suffix - nisP, mutP, etc.) is 
+highly conserved amongst pathogenic species, and is essential for virulence 
+and survival of the bacterium against competitors in the host [4]. Recently,
+a novel pathogenicity island in resistant Enterococcus faecalis was 
+sequenced. In addition to the lantibiotic Cyl gene cluster, this revealed a 
+novel set of virulence factors involved in vancomycin resistance and 
+pathogenicity [5]. 
+
+LANTIPROCESS is a 4-element fingerprint that provides a signature for the 
+lantibiotic leader peptide processing proteins. The fingerprint was derived 
+from an initial alignment of 7 sequences: the motifs were drawn from 
+conserved regions spanning the C-terminal portion of the alignment. A single
+iteration on SPTR40_20f was required to reach convergence, no further 
+sequences being identified beyond the starting set. 

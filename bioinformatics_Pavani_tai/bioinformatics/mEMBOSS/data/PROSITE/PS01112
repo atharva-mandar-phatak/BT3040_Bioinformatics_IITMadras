@@ -1,0 +1,56 @@
+***********************************************
+* RNA polymerases N / 8 Kd subunits signature *
+***********************************************
+
+In eukaryotes,   there   are   three  different  forms  of  DNA-dependent  RNA
+polymerases (EC 2.7.7.6)  transcribing  different sets of genes. Each class of
+RNA polymerase  is  an assemblage of ten to twelve different polypeptides.  In
+archaebacteria, there  is generally a single form of RNA polymerase which also
+consist of an oligomeric assemblage of 10 to 13 polypeptides.
+
+Archaebacterial subunit N (gene rpoN) [1] is a small protein of about 8 Kd, it
+is evolutionary related [2] to a 8.3 Kd component shared by all three forms of
+eukaryotic RNA polymerases (gene RPB10 in yeast and POLR2J in mammals) as well
+as to African swine fever virus protein CP80R [3].
+
+As a signature pattern we selected a conserved  region which is located at the
+N-terminal extremity  of  these  polymerase subunits; this region contains two
+cysteines that binds a zinc ion [4].
+
+-Consensus pattern: [LIVMFD]-[LIVMFP]-P-[LIVM]-x-C-[FL]-[ST]-C-G
+                    [The 2 C's are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Langer D., Hain J., Thuriaux P., Zillig W.
+     "Transcription in archaea: similarity to that in eucarya."
+     Proc. Natl. Acad. Sci. U.S.A. 92:5768-5772(1995).
+     PubMed=7597027
+[ 2] McKune K., Woychik N.A.
+     "Halobacterial S9 operon contains two genes encoding proteins
+     homologous to subunits shared by eukaryotic RNA polymerases I, II, and
+     III."
+     J. Bacteriol. 176:4754-4756(1994).
+     PubMed=8045907
+[ 3] Yanez R.J., Rodriguez J.M., Nogal M.L., Yuste L., Enriquez C.,
+     Rodriguez J.F., Vinuela E.
+     "Analysis of the complete nucleotide sequence of African swine fever
+     virus."
+     Virology 208:249-278(1995).
+     PubMed=11831707
+[ 4] MacKereth C.D., Arrowsmith C.H., Edwards A.M., McIntosh L.P.
+     "Zinc-bundle structure of the essential RNA polymerase subunit RPB10
+     from Methanobacterium thermoautotrophicum."
+     Proc. Natl. Acad. Sci. U.S.A. 97:6316-6321(2000).
+     PubMed=10841539; DOI=97/12/6316
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

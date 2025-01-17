@@ -1,0 +1,57 @@
+**********************************
+* Signal peptidases II signature *
+**********************************
+
+Signal peptidases (SPases) [1]  (also  known  as leader peptidases) remove the
+signal peptides from secretory proteins.  In prokaryotes three types of SPases
+are known: type I (gene lepB) which is responsible for  the  processing of the
+majority  of  exported pre-proteins;  type II (gene lsp)  which  only  process
+lipoproteins, and a third type involved in the processing of pili subunits.
+
+SPase II   (EC 3.4.23.36),   also   known  as  lipoprotein  signal  peptidase,
+recognizes a  conserved  sequence  and  cuts in front of a cysteine residue to
+which a  glyceride-fatty  acid  lipid  is  attached.  SPase  II is an integral
+membrane protein that is anchored in the cytoplasmic membrane.
+
+There are  a  number  of  conserved  regions  in the sequence of Spase II from
+various bacteria  [2],  we  have  selected one of these regions as a signature
+pattern.
+
+-Consensus pattern: [LIVM]-x-[GASF]-[GA]-[GAST]-[LIVMTF]-[GAS]-N-[LVMFGIA]-
+                    [LIVFYGT]-D-[RIK]-[LIVMFAC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family A8 in  the classification of peptidases
+ [3,E1].
+
+-Expert(s) to contact by email:
+           von Heijne G.; gunnar@biokemi.su.se
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Dalbey R.E., Von Heijne G.
+     "Signal peptidases in prokaryotes and eukaryotes--a new protease
+     family."
+     Trends Biochem. Sci. 17:474-478(1992).
+     PubMed=1455520
+[ 2] Zhao X.J., Wu H.C.
+     "Nucleotide sequence of the Staphylococcus aureus signal peptidase II
+     (lsp) gene."
+     FEBS Lett. 299:80-84(1992).
+     PubMed=1544479
+[ 3] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

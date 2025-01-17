@@ -1,0 +1,63 @@
+**************************************
+* Spider toxin CSTX family signature *
+**************************************
+
+Spider toxins  of  the  CSTX  family  are  ion  channel  toxins  containing an
+inhibitor cystine  knot  (ICK)  structural  motif  or  Knottin  scaffold  (see
+<PDOC60004>) [E1].  The  four disulfide bonds present in the CSTX spider toxin
+family are arranged in the following pattern: 1-4, 2-5, 3-8 and 6-7.
+
+This family includes:
+
+ - Cupiennius  salei  (Wandering  spider)  toxin  CSTX-1  and  its proteolytic
+   products CSTX-2a and CSTX-2b [1].
+ - Cupiennius salei (Wandering spider) CSTX-9 [2].
+ - Cupiennius  salei  (Wandering  spider)  CSTX-13,  a neurotoxic enhancer. In
+   contrast to  CSTX-1  and  CSTX-9,  CSTX-13  is a two-chain peptide with two
+   interchain and two intrachain disulfide bridges [3].
+
+We have  developed  a pattern that contains the six conserved cysteines with a
+cysteine arrangement  C-C-CC-C-C  which  are  also  found  in  the  A chain of
+CSTX-13.
+
+-Conserved pattern: C-{C}(6)-C-{C}(6)-C-C-{C}(8)-C-{C}-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: February 2006 / First entry.
+
+[ 1] Kuhn-Nentwig L., Schaller J., Kaempfer U., Imboden H., Malli H.,
+     Nentwig W.
+     "A lysine rich C-terminal tail is directly involved in the toxicity of
+     CSTX-1, a neurotoxic peptide from the venom of the spider Cupiennius
+     salei."
+     Arch. Insect Biochem. Physiol. 44:101-111(2000).
+     PubMed=10897091; DOI=10.1002/1520-6327(200007)44:3<101::AID-ARCH1>3.0.CO;2-S
+[ 2] Schaller J., Kaempfer U., Schuerch S., Kuhn-Nentwig L., Haeberli S.,
+     Nentwig W.
+     "CSTX-9, a toxic peptide from the spider Cupiennius salei: amino acid
+     sequence, disulphide bridge pattern and comparison with other spider
+     toxins containing the cystine knot structure."
+     Cell. Mol. Life Sci. 58:1538-1545(2001).
+     PubMed=11693532
+[ 3] Wullschleger B., Kuhn-Nentwig L., Tromp J., Kaempfer U., Schaller J.,
+     Schuerch S., Nentwig W.
+     "CSTX-13, a highly synergistically acting two-chain neurotoxic
+     enhancer in the venom of the spider Cupiennius salei (Ctenidae)."
+     Proc. Natl. Acad. Sci. U.S.A. 101:11251-11256(2004).
+     PubMed=15272079; DOI=10.1073/pnas.0402226101
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

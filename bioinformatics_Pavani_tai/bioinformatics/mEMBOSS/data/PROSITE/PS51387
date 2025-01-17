@@ -1,0 +1,88 @@
+****************************************
+* PCMH-type FAD-binding domain profile *
+****************************************
+
+Flavoenzymes  have  the  ability  to  catalyse  a  wide  range  of biochemical
+reactions.   They  are  involved  in  the  dehydrogenation  of  a  variety  of
+metabolites,  in  electron  transfer  from  and  to  redox  centres,  in light
+emission,  in  the  activation  of  oxygen  for  oxidation  and  hydroxylation
+reactions  [1,2].  About  1%  of  all  eukaryotic and prokaryotic proteins are
+predicted  to  encode  a flavin adenine dinucleotide (FAD)-binding domain [3].
+According   to   structural   similarities   and  conserved  sequence  motifs,
+FAD-binding  domains  have  been  grouped  in  three  main  families:  (i) the
+ferredoxin  reductase (FR)-type FAD-binding domain (see <PDOC51384>), (ii) the
+FAD-binding  domains  that  adopt  a  Rossmann  fold  and  (iii)  the p-cresol
+methylhydroxylase (PCMH)-type FAD-binding domain [4].
+
+The  FAD  cofactor  consists of adenosine monophosphate (AMP) linked to flavin
+mononucleotide  (FMN)  by  a pyrophosphate bond. The AMP moiety is composed of
+the  adenine  ring bonded to a ribose that is linked to a phosphate group. The
+FMN  moiety  is composed of the isoalloxazine-flavin ring linked to a ribitol,
+which  is  connected  to  a  phosphate group. The flavin functions mainly in a
+redox  capacity,  being  able  to take up two electrons from one substrate and
+release  them two at a time to a substrate or coenzyme, or one at a time to an
+electron  acceptor.  The  catalytic function of the FAD is concentrated in the
+isoalloxazine  ring,  whereas  the ribityl phosphate and the AMP moiety mainly
+stabilize cofactor binding to protein residues [1,2].
+
+The PCMH-type FAD-binding domain consists of two alpha-beta subdomains: one is
+composed  of  three parallel beta-strands (B1-B3) surrounded by alpha-helices,
+and  is  packed  against  the  second  subdomain  containing five antiparallel
+beta-strands (B4-B8) surrounded by alpha-helices (see <PDB:1DII>) [5]. The two
+subdomains  accomodate the FAD cofactor between them [2]. In the PCMH proteins
+the coenzyme FAD is also covalently attached to a tyrosine located outside the
+FAD-binding domain in the C-terminal catalytic domain [6].
+
+Some proteins containing a PCMH-type FAD-binding domain are listed below:
+
+ - Bacterial  UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158). It
+   is involved in the cell wall formation.
+ - Vertebrate alkyldihydroxyacetonephosphate synthase (EC 2.5.1.26).
+ - Eukaryotic lactate dehydrogenase D (EC 1.1.2.4).
+ - Bacterial  carbon  monoxide  dehydrogenase  (EC 1.2.99.2). It catalyzes the
+   oxidation of carbon monoxide to carbon dioxide.
+
+The profile we developed covers the whole PCMH-type FAD-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2008 / First entry.
+
+[ 1] Mathews F.S.
+     "New flavoenzymes."
+     Curr. Opin. Struct. Biol. 1:954-967(1991).
+[ 2] Fraaije M.W., Mattevi A.
+     "Flavoenzymes: diverse catalysts with recurrent features."
+     Trends Biochem. Sci. 25:126-132(2000).
+     PubMed=10694883
+[ 3] Mattevi A.
+     "To be or not to be an oxidase: challenging the oxygen reactivity of
+     flavoenzymes."
+     Trends Biochem. Sci. 31:276-283(2006).
+     PubMed=16600599; DOI=10.1016/j.tibs.2006.03.003
+[ 4] Dym O., Eisenberg D.
+     "Sequence-structure analysis of FAD-containing proteins."
+     Protein Sci. 10:1712-1728(2001).
+     PubMed=11514662
+[ 5] Cunane L.M., Chen Z.W., Shamala N., Mathews F.S., Cronin C.N.,
+     McIntire W.S.
+     "Structures of the flavocytochrome p-cresol methylhydroxylase and its
+     enzyme-substrate complex: gated substrate entry and proton relays
+     support the proposed catalytic mechanism."
+     J. Mol. Biol. 295:357-374(2000).
+     PubMed=10623531; DOI=10.1006/jmbi.1999.3290
+[ 6] McIntire W., Edmondson D.E., Hopper D.J., Singer T.P.
+     "8 alpha-(O-Tyrosyl)flavin adenine dinucleotide, the prosthetic group
+     of bacterial p-cresol methylhydroxylase."
+     Biochemistry 20:3068-3075(1981).
+     PubMed=7248267
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

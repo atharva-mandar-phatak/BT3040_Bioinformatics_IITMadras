@@ -1,0 +1,81 @@
+************************************************************
+* Acyltransferases ChoActase / COT / CPT family signatures *
+************************************************************
+
+A number of eukaryotic acetyltransferases  can  be,  on  the basis of sequence
+similarities, grouped together into a family. These enzymes are:
+
+ - Choline o-acetyltransferase  (EC 2.3.1.6)   (ChoAcTase), an   enzyme   that
+   catalyzes the biosynthesis of the neurotransmitter acetylcholine [1].
+ - Carnitine o-acetyltransferase (EC 2.3.1.7) [2].
+ - Peroxisomal carnitine octanoyltransferase (EC 2.3.1.-)  (COT), a fatty acid
+   beta-oxidation pathway enzyme which is involved in the transport of medium-
+   chain acyl-coenzyme A's from peroxisome to mitochondria [3].
+ - Mitochondrial  carnitine  O-palmitoyltransferases  I  and  II (EC 2.3.1.21)
+   (CPT), enzymes involved in fatty acid metabolism and transport [4].
+ - Yeast hypothetical protein YER024w.
+ - Mycoplasma pneumoniae putative acetyltransferase C09_orf600.
+
+These enzymes  share  many  regions  of  sequence  similarities.  As signature
+patterns we  selected  two of these regions.  The  first one,  located  in the
+N-terminal section of  these enzymes is characterized by the presence of three
+[LIVM]-P dipeptides. The second region, located in the central  part  of these
+enzymes is  characterized  by the conservation of a number of charged residues
+including an  histidine  which  probably plays a crucial role in the catalytic
+mechanism [5].
+
+-Consensus pattern: [LI]-[PK]-x-[LVPQ]-P-[IVTAL]-P-x-[LIVMA]-x-[DENQAS]-[ST]-
+                    [LIVMA]-x(2)-[LY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ 4.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-[FYW]-x-[DA]-[KA]-x(0,1)-[LIVMFY]-x-[LIVMFY](2)-x(3)-
+                    [DNS]-[GSA]-x(6)-[DE]-[HS]-x(3)-[DE]-[GAC]
+                    [H may be an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Berrard S., Brice A., Lottspeich F., Braun A., Barde Y.-A., Mallet J.
+     "cDNA cloning and complete sequence of porcine choline
+     acetyltransferase: in vitro translation of the corresponding RNA
+     yields an active protein."
+     Proc. Natl. Acad. Sci. U.S.A. 84:9280-9284(1987).
+     PubMed=3480542
+[ 2] Kispal G., Sumegi B., Dietmeier K., Bock I., Gajdos G., Tomcsanyi T.,
+     Sandor A.
+     "Cloning and sequencing of a cDNA encoding Saccharomyces cerevisiae
+     carnitine acetyltransferase. Use of the cDNA in gene disruption
+     studies."
+     J. Biol. Chem. 268:1824-1829(1993).
+     PubMed=8420957
+[ 3] Chatterjee B., Song C.S., Kim J.-M., Roy A.K.
+     "Cloning, sequencing, and regulation of rat liver carnitine
+     octanoyltransferase: transcriptional stimulation of the enzyme during
+     peroxisome proliferation."
+     Biochemistry 27:9000-9006(1988).
+     PubMed=3233218
+[ 4] Esser V., Britton C.H., Weis B.C., Foster D.W., McGarry J.D.
+     "Cloning, sequencing, and expression of a cDNA encoding rat liver
+     carnitine palmitoyltransferase I. Direct evidence that a single
+     polypeptide is involved in inhibitor interaction and catalytic
+     function."
+     J. Biol. Chem. 268:5817-5822(1993).
+     PubMed=8449948
+[ 5] Schmalix W., Bandlow W.
+     "The ethanol-inducible YAT1 gene from yeast encodes a presumptive
+     mitochondrial outer carnitine acetyltransferase."
+     J. Biol. Chem. 268:27428-27439(1993).
+     PubMed=8262985
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

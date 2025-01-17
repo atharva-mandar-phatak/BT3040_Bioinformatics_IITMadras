@@ -1,0 +1,51 @@
+*********************************
+* Phosphofructokinase signature *
+*********************************
+
+Phosphofructokinase (EC 2.7.1.11)  (PFK) [1,2] is  a key  regulatory enzyme in
+the glycolytic pathway.  It  catalyzes  the phosphorylation by ATP of fructose
+6-phosphate  to fructose  1,6-bisphosphate.  In  bacteria PFK is a tetramer of
+identical 36 Kd subunits. In mammals it is a tetramer of 80 Kd subunits.  Each
+80 Kd subunit  consist of two  homologous domains  which are highly related to
+the bacterial 36 Kd subunits. In Human there are three, tissue-specific, types
+of PFK isozymes: PFKM (muscle),  PFKL (liver),  and PFKP (platelet).  In yeast
+PFK is an octamer composed  of  four 100 Kd alpha chains (gene PFK1)  and four
+100 Kd beta chains (gene PFK2);  like the  mammalian 80 Kd subunits, the yeast
+100 Kd subunits are composed of two homologous domains.
+
+As a signature pattern for PFK  we selected a region that contains three basic
+residues involved in fructose-6-phosphate binding.
+
+-Consensus pattern: [RK]-x(4)-[GAS]-H-x-[QL]-[QR]-[GS]-[GF]-x(5)-[DE]-[RL]
+                    [The R/K, the H and the Q/R are involved in fructose-6-P
+                     binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Escherichia coli has two phosphofructokinase isozymes which are encoded
+ by genes pfkA (major) and pfkB (minor).  The pfkB isozyme is not evolutionary
+ related to other prokaryotic or eukaryotic PFK's (see <PDOC00504>).
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Poorman R.A., Randolph A., Kemp R.G., Heinrikson R.L.
+     "Evolution of phosphofructokinase--gene duplication and creation of
+     new effector sites."
+     Nature 309:467-469(1984).
+     PubMed=6233492
+[ 2] Heinisch J., Ritzel R.G., von Borstel R.C., Aguilera A., Rodicio R.,
+     Zimmermann F.K.
+     "The phosphofructokinase genes of yeast evolved from two duplication
+     events."
+     Gene 78:309-321(1989).
+     PubMed=2528496
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

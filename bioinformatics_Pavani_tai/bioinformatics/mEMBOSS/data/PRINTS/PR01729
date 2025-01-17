@@ -1,0 +1,33 @@
+SURFACELAYER
+Lactobacillus species form a major part of the normal human digestive and
+genital tract microflora, up to as much as 70% [1]. Commensal bacterial 
+colonisation of, and adhesion to, the intestinal tract is essential in the 
+establishment of a stable microflora and, if missing, allows virulent 
+species to attack the mucosal surfaces [1]. Little is known of how the 
+bacterium manages to colonise and adhere to the intestinal tract, in stark
+contrast to the knowledge accrued of how pathogens adhere to the gut.
+
+A common feature of prokaryotic cell walls formed outside the plasma 
+membrane is the presence of ordered, planar arrays of polypeptide subunits, 
+dubbed surface or S-layers [2]. They perform many roles, depending on the 
+bacterial species (cell recognition, virulence factors and protective coats, 
+to name but a few). In Lactobacillus species, S-layer proteins enable the
+microbes to adhere to and colonise the intestinal tract [2]. A number of
+homologues of the gene originally described in L.crispatus have been found 
+in other Lactobacilli [3]. Their sequence similarity has allowed a test to
+be developed that distinguishes between strains of L.helveticus [3].
+
+Recently, a novel technique that uses flagellum display was able to 
+characterise the exact functional domains of the Lactobacillus SlpA
+S-layer protein [4]. An 81-amino acid region in the N-terminal region of the 
+protein binds host fibronectin, allowing the bacteria to adhere to host
+epithelial cells [4].
+
+SURFACELAYER is an 8-element fingerprint that provides a signature for the
+Lactobacillus surface layer protein family. The fingerprint was derived from
+an initial alignment of 7 sequences: the motifs were drawn from conserved
+regions spanning the C-terminal portion of the alignment (~370 amino acids).
+Two iterations on SPTR40_20f were required to reach convergence, at which
+point a true set comprising 17 sequences was identified. Two partial matches
+were also found, Q9L5V6 and Q9S4K2, both Lactobacillus cell-surface proteins
+that match motifs 7 and 8.

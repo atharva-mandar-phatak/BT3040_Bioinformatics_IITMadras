@@ -1,0 +1,48 @@
+********************************************************
+* 4-hydroxybenzoyl-CoA thioesterase family active site *
+********************************************************
+
+4-hydroxybenzoyl-CoA thioesterase (EC 3.1.2.23) is an enzyme from  Pseudomonas
+CBS-3, a  soil-dwelling  microbe that survives on 4-chlorobenzoate as its sole
+carbon source.  This enzyme [1] catalyzes  the  last of the three steps in the
+pathway from   4-chlorobenzoate   to  hydroxybenzoate,  the  cleavage  of  the
+thioester bond of 4-hydroxybenzoyl-CoA to form hydroxybenzoate.
+
+4-hydroxybenzoyl-CoA thioesterase is a protein of 141 amino-acid residues that
+assemble as  an homotetramer. An aspartate in the N-terminal domain is thought
+to participate in the catalytic mechanism.
+
+This enzyme is evolutionary related to a number of uncharacterized proteins:
+
+ - Escherichia coli hypothetical protein ybgC.
+ - Aquifex aeolicus hypothetical protein AQ_1494.
+ - Haemophilus influenzae hypothetical protein HI0386.
+ - Helicobacter pylori hypothetical protein HP0496.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0204.
+ - Synechocystis strain PCC 6803 hypothetical protein sll0410.
+
+We developed a signature pattern based on the region surrounding the potential
+active site residue.
+
+-Consensus pattern: [QR]-[IV]-x(4)-[TC]-D-x(2)-G-[IV]-V-x-[HF]-x(2)-[FY]
+                    [D is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / First entry.
+
+[ 1] Benning M.M., Wesenberg G., Liu R., Taylor K.L., Dunaway-Mariano D.,
+     Holden H.M.
+     "The three-dimensional structure of 4-hydroxybenzoyl-CoA thioesterase
+     from Pseudomonas sp. Strain CBS-3."
+     J. Biol. Chem. 273:33572-33579(1998).
+     PubMed=9837940;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

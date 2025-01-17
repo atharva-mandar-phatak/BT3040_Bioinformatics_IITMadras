@@ -1,0 +1,41 @@
+*****************************************************
+* Flagella transport protein fliP family signatures *
+*****************************************************
+
+In Escherichia coli and related proteins the fliP protein probably [1] plays a
+role in the transport of flagellar proteins.  FliP is a protein of about 30 Kd
+which contains  three  or  four  transmembrane  regions. Proteins evolutionary
+related to  fliP  have  been  found  in  a wide range of bacteria (mopC, hrcR,
+hrpW, spaP,  yscR,  etc.)  and  are  involved  in  a variety of signal-peptide
+independent secretion systems.
+
+We developed  two  signature  patterns  for  this  family  of  proteins. These
+patterns are  located  in  the  C-terminal  part of these proteins and overlap
+with parts of the last two transmembrane regions.
+
+-Consensus pattern: [PA]-[AS]-[FY]-x-[LIVT]-[STH]-[EQ]-[LI]-x(2)-[GA]-F-
+                    [KREQ]-[IM]-[GV]-[LIF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-[LIVMF]-K-[LIVMF](5)-x-[LIVMA]-[DNGS]-G-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Malakooti J., Ely B., Matsumura P.
+     "Molecular characterization, nucleotide sequence, and expression of
+     the fliO, fliP, fliQ, and fliR genes of Escherichia coli."
+     J. Bacteriol. 176:189-197(1994).
+     PubMed=8282695
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,60 @@
+********************************
+* Zinc finger UBR-type profile *
+********************************
+
+It  has been observed that the identity of N-terminal residues of a protein is
+related  to  the  half  life  of  the protein. This observation yields a rule,
+called  the  N-end  rule  [1]. Similar but distinct versions of the N-end rule
+operate  in  all  organisms  examined,  from mammals to fungi and bacteria. In
+eukaryotes,  the  N-end  rule  pathway  is a part of the ubiquitin degradation
+system.  Some  proteins  that  have  a very short half life contain a specific
+motif  at  their  N-terminus,  the  N-degron.  It  consists of a destabilizing
+N-terminal  residue  and  an  internal Lys, which is the site of poly-Ub chain
+[1,2].
+
+The UBR1 protein was shown to bind specifically to proteins bearing N-terminal
+residues  that  are  destabilizing  according  to  the  N-end rule, but not to
+otherwise identical proteins bearing stabilizing N-terminal residues [3]. UBR1
+contain  an  N-terminal  conserved  region (the UBR-type zinc finger) which is
+also  found  in  various  proteins  implicated  in  N-degron  recognition. The
+UBR-type  zinc finger defines a unique E3 class, most likely N-degron specific
+[4].
+
+The profile we developed covers the whole UBR-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The UBR-type zinc finger is also known as the UBR box motif [4].
+
+-Last update: October 2005 / First entry.
+
+[ 1] Varshavsky A.
+     "The N-end rule: functions, mysteries, uses."
+     Proc. Natl. Acad. Sci. U.S.A. 93:12142-12149(1996).
+     PubMed=8901547
+[ 2] Suzuki T., Varshavsky A.
+     "Degradation signals in the lysine-asparagine sequence space."
+     EMBO J. 18:6017-6026(1999).
+     PubMed=10545113; DOI=10.1093/emboj/18.21.6017
+[ 3] Xie Y., Varshavsky A.
+     "The E2-E3 interaction in the N-end rule pathway: the RING-H2 finger
+     of E3 is required for the synthesis of multiubiquitin chain."
+     EMBO J. 18:6832-6844(1999).
+     PubMed=10581257; DOI=10.1093/emboj/18.23.6832
+[ 4] Tasaki T., Mulder L.C., Iwamatsu A., Lee M.J., Davydov I.V.,
+     Varshavsky A., Muesing M., Kwon Y.T.
+     "A family of mammalian E3 ubiquitin ligases that contain the UBR box
+     motif and recognize N-degrons."
+     Mol. Cell. Biol. 25:7120-7136(2005).
+     PubMed=16055722; DOI=10.1128/MCB.25.16.7120-7136.2005
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

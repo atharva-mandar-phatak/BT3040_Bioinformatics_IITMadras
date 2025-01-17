@@ -1,0 +1,62 @@
+**************************************************
+* Rlu family of pseudouridine synthase signature *
+**************************************************
+
+The following  proteins,  which  seems  to belong to a family of pseudouridine
+synthases (EC 5.4.99.-) [1] have been shown to share regions of similarities:
+
+ - Escherichia   coli  and  Haemophilus  influenzae  ribosomal  large  subunit
+   pseudouridine synthase  A  (gene  rluA). It is responsible for synthesis of
+   pseudouridine from uracil-746 IN 23S rRNA.
+ - Escherichia    coli  and  Haemophilus  influenzae  ribosomal  large subunit
+   pseudouridine synthase  C  (gene  rluC). It is responsible for synthesis of
+   pseudouridine from uracil at positions 955, 2504 and 2580 in 23S rRNA.
+ - Escherichia coli protein and homologs in other bacteria large subunit
+   pseudouridine synthase D (gene rluD).
+ - Yeast DRAP deaminase (gene RIB2).
+ - Escherichia  coli  and Haemophilus influenzae tRNA pseudouridine synthase C
+   (truC).
+ - Haemophilus influenzae hypothetical protein HI0042.
+ - Aquifex aeolicus hypothetical protein AQ_1758.
+ - Bacillus subtilis hypothetical protein yhcT.
+ - Bacillus subtilis hypothetical protein yjbO.
+ - Bacillus subtilis hypothetical protein ylyB.
+ - Helicobacter pylori hypothetical protein HP0347.
+ - Helicobacter pylori hypothetical protein HP0745.
+ - Helicobacter pylori hypothetical protein HP0956.
+ - Mycoplasma genitalium hypothetical protein MG209.
+ - Mycoplasma genitalium hypothetical protein MG370.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1592.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1629.
+ - Yeast hypothetical protein YDL036c.
+ - Yeast hypothetical protein YGR169c.
+ - Fission yeast hypothetical protein SpAC18B11.02c.
+ - Caenorhabditis elegans hypothetical protein K07E8.7.
+
+These are    proteins  of from 21 to 50 Kd which contain a number of conserved
+regions in their central section. They can be picked up in the database by the
+following highly conserved pattern.
+
+-Consensus pattern: [LIVCA]-[NHYTQ]-R-[LI]-[DG]-x(2)-[TV]-[STAC]-G-[LIVAGC]-
+                    [LIVMF](2)-[LIVMFGCA]-[SGTACV]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for HP0347 and slr1592.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Conrad J., Sun D., Englund N., Ofengand J.
+     "The rluC gene of Escherichia coli codes for a pseudouridine synthase
+     that is solely responsible for synthesis of pseudouridine at positions
+     955, 2504, and 2580 in 23 S ribosomal RNA."
+     J. Biol. Chem. 273:18562-18566(1998).
+     PubMed=9660827
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

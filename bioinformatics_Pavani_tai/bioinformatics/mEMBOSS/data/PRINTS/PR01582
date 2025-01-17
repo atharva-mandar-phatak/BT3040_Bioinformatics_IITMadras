@@ -1,0 +1,49 @@
+KV33CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+ 
+Structurally, Kv channels belong to the subfamily of K+ channels whose
+subunits contain 6 transmembrane (TM) domains: these are the voltage-
+gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ channels and
+3 kinds of Ca2+-activated K+ channels (BK, IK and SK) [2]. All K+
+channels share a characteristic sequence feature: a TMxTVGYG motif
+that resides between the 2 C-terminal membrane spanning helices, and
+forms the K+-selective pore domain [1-2].
+
+The Kv family can be divided into 4 subfamilies on the basis of sequence
+similarity and function: Shaker (Kv1), Shab (Kv2), Shaw (Kv3) and Shal 
+(Kv4). All consist of pore-forming alpha subunits that associate with 
+different types of beta subunit. To form a functional K+ channel pore,
+4 alpha subunits and 4 beta subunits are required. The alpha subunits
+have 6 well-conserved TM domains, a pore loop region and variable length
+N- and C-termini. TM domains 5 and 6, and the loop region, form the K+ 
+channel pore through which the K+ ions pass [3]. 
+
+The shaw gene was first isolated from Drosophila. Several vertebrate K+
+channels with similar amino acid sequences were subsequently found and,
+together with the Drosophila Shaw channel, now constitute the Shaw (Kv3)
+family. These channels are thought to play a role in shortening of action
+potential durations and modulating pre-synaptic neurotransmitter release.
+In mammals, the family consists of 4 genes (Kv3.1, Kv3.2, Kv3.3 and Kv3.4).
+Each gene product has its own subcellular location and function [4].
+
+Kv3.3 channels are evenly distributed over the soma and proximal apical
+dendrites. They have also been found in the lens epithelium, corneal
+endothelium, cerebellar cells and the deep cerebellar nuclei. When
+co-expressed with NADPH oxidase, they function as an oxygen sensor complex
+in airway chemoreceptors [4].
+
+KV33CHANNEL is a 6-element fingerprint that provides a signature for the
+Kv3.3 voltage-gated K+ channel. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 1-4 lie in the N-terminus; motif
+5 is located in the first putative TM domain; and motif 6 is situated in the
+C-terminus. A single iteration on SPTR39.22_17.3f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

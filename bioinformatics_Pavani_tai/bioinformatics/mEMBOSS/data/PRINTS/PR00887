@@ -1,0 +1,42 @@
+SSRCOGNITION
+Human cDNA encoding a structure-specific recognition protein, SSRP1, has
+been characterised [1]; the protein binds specifically to DNA modified with
+the anti-cancer drug cisplatin. An 81kDa protein is predicted, containing
+several highly-charged domains and a stretch of 75 residues that share 47%
+identity with a portion of the high mobility group (HMG) protein HMG1 [1].
+This HMG box probably constitutes the structure recognition element for 
+cisplatin-modified DNA, the probable recognition motif being the local
+duplex unwinding and bending that occurs on formation of intra-strand 
+cross-links [1].
+
+SSRP1 is the human homologue of a recently-identified mouse protein that
+binds to recombination signal sequences [2]. These sequences have been
+postulated to form stem-loop structures, further implicating local bends
+and unwinding in DNA as a recognition target for HMG-box proteins.
+
+A Drosophila melanogaster cDNA encoding an HMG-box-containing protein has
+also been isolated [3,4]. This protein shares 50% sequence identity with
+human SSRP1. In vitro binding studies using Drosophila SSRP showed that
+the protein binds to single-stranded DNA and RNA, with highest affinity
+for nucleotides G and U. 
+
+Comparison of the predicted amino acid sequences among SSRP family members
+reveals 48% identity, with structural conservation in the C-terminus of the
+HMG box, as well as domains of highly charged residues [4]. The most highly
+conserved regions lie in the poorly understood N-terminus, suggesting that
+this portion of the protein is critical for its function [4].
+
+SSRCOGNITION is an 8-element fingerprint that provides a signature for
+structure-specific DNA recognition proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from 
+conserved sections spanning the N-terminal half of the alignment, focusing
+on those regions that characterise the structure recognition proteins but
+distinguish them from the HMG-like family. Two iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 12 
+sequences was identified. Two partial matches were also found: BTU84139
+is a bovine SSRP protein fragment that lacks the portion of sequence 
+bearing the first two motifs, and YMG9_YEAST is a yeast hypothetical
+protein that makes strong matches with motifs 1,3,5,6 and 8.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 1
+partial match.

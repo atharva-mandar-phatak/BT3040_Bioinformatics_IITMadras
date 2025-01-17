@@ -1,0 +1,106 @@
+*********************************************************
+* RNA-directed RNA polymerase catalytic domain profiles *
+*********************************************************
+
+RNA-directed  RNA  polymerase  (RdRp)  (EC  2.7.7.48)  is an essential protein
+encoded  in the genomes of all RNA containing viruses with no DNA stage [1,2].
+It  catalyses  synthesis  of  the  RNA  strand  complementary  to  a given RNA
+template,  but the precise molecular mechanism remains unclear. The postulated
+RNA replication process is a two-step mechanism. First, the initiation step of
+RNA  synthesis  begins at or near the 3' end of the RNA template by means of a
+primer-independent (de novo) mechanism. The de novo initiation consists in the
+addition  of  a  nucleotide  tri-phosphate  (NTP)  to  the  3'-OH of the first
+initiating   NTP.  During  the  following  so-called  elongation  phase,  this
+nucleotidyl transfer reaction is repeated with subsequent NTPs to generate the
+complementary RNA product [3].
+
+All  the  RNA-directed  RNA  polymerases,  and  many DNA-directed polymerases,
+employ a fold whose organization has been likened to the shape of a right hand
+with  three  subdomains  termed  fingers, palm and thumb (see <PDB:1RDR>) [4].
+Only  the  palm subdomain, composed of a four-stranded antiparallel beta-sheet
+with two alpha-helices, is well conserved among all of these enzymes. In RdRp,
+the palm subdomain comprises three well conserved motifs (A, B and C). Motif A
+(D-x(4,5)-D)  and  motif C (GDD) are spatially juxtaposed; the Asp residues of
+these  motifs  are implied in the binding of Mg2+ and/or Mn2+. The Asn residue
+of  motif  B  is  involved  in  selection of ribonucleoside triphosphates over
+dNTPs and thus determines whether RNA is synthesized rather than DNA [5].
+
+RNA  viruses with no DNA stage can be placed in three main categories based on
+their replication and coding strategies: positive single-stranded RNA (ssRNA),
+negative   ssRNA   and  double-stranded  RNA  (dsRNA)  viruses.  To  recognize
+RNA-directed RNA polymerase we have developed six profiles that roughly follow
+this  classification  (see below). They are all directed against the catalytic
+region (palm subdomain).
+
+-Sequences known to belong to this class detected by the first profile:    ALL
+ positive   ssRNA   viruses,   two   small  families  of  dsRNA  viruses:  the
+ Partitiviridae  and  the  Totoviridae  and  some  eukaryotic RdRps.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile:   ALL
+ bacteriophages RdRps.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the third profile:    ALL
+ RdRps of the Reoviridae family of dsRNA viruses.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the fourth profile:   ALL
+ RdRps of the Birnaviridae family of dsRNA viruses.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the fifth profile:    ALL
+ RdRps  of negative ssRNA viruses with segmented genomes except the ophiovirus
+ and the varicovirus.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the sixth profile:    ALL
+ RdRps   of  negative  ssRNA  viruses  with  non-segmented  genomes  plus  the
+ ophiovirus and the varicovirus.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The GDD motif lacks in Birnaviridae RNA-directed RNA polymerases [6].
+
+-Last update: November 2005 / First entry.
+
+[ 1] Koonin E.V., Gorbalenya A.E., Chumakov K.M.
+     "Tentative identification of RNA-dependent RNA polymerases of dsRNA
+     viruses and their relationship to positive strand RNA viral
+     polymerases."
+     FEBS Lett. 252:42-46(1989).
+     PubMed=2759231
+[ 2] Zanotto P.M., Gibbs M.J., Gould E.A., Holmes E.C.
+     "A reevaluation of the higher taxonomy of viruses based on RNA
+     polymerases."
+     J. Virol. 70:6083-6096(1996).
+     PubMed=8709232
+[ 3] Kao C.C., Singh P., Ecker D.J.
+     "De novo initiation of viral RNA-dependent RNA synthesis."
+     Virology 287:251-260(2001).
+     PubMed=11531403; DOI=10.1006/viro.2001.1039
+[ 4] Hansen J.L., Long A.M., Schultz S.C.
+     "Structure of the RNA-dependent RNA polymerase of poliovirus."
+     Structure 5:1109-1122(1997).
+     PubMed=9309225
+[ 5] Gohara D.W., Crotty S., Arnold J.J., Yoder J.D., Andino R.,
+     Cameron C.E.
+     "Poliovirus RNA-dependent RNA polymerase (3Dpol): structural,
+     biochemical, and biological analysis of conserved structural motifs A
+     and B."
+     J. Biol. Chem. 275:25523-25532(2000).
+     PubMed=10827187; DOI=10.1074/jbc.M002671200
+[ 6] Shwed P.S., Dobos P., Cameron L.A., Vakharia V.N., Duncan R.
+     "Birnavirus VP1 proteins form a distinct subgroup of RNA-dependent RNA
+     polymerases lacking a GDD motif."
+     Virology 296:241-250(2002).
+     PubMed=12069523; DOI=10.1006/viro.2001.1334
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

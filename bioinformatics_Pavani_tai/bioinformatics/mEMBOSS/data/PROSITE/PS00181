@@ -1,0 +1,84 @@
+***********************************
+* Glutamine synthetase signatures *
+***********************************
+
+Glutamine synthetase (EC 6.3.1.2) (GS)  [1] plays  an  essential  role  in the
+metabolism of nitrogen by catalyzing the condensation of glutamate and ammonia
+to form glutamine.
+
+There seem to be three different classes of GS [2,3,4]:
+
+ - Class I enzymes (GSI) are specific to prokaryotes, and are  oligomers of 12
+   identical subunits.  The  activity  of GSI-type enzyme is controlled by the
+   adenylation of a tyrosine residue. The adenylated enzyme is inactive.
+ - Class II enzymes (GSII) are  found in  eukaryotes and in bacteria belonging
+   to the Rhizobiaceae,  Frankiaceae,  and  Streptomycetaceae  families (these
+   bacteria have  also a class-I GS). GSII are octamer  of identical subunits.
+   Plants have  two  or  more  isozymes  of  GSII,  one  of  the  isozymes  is
+   translocated into the chloroplast.
+ - Class III enzymes (GSIII) has, currently,  only  been  found in Bacteroides
+   fragilis and  in  butyrivibrio  fibrisolvens.  It is a hexamer of identical
+   chains. It is much larger (about 700 amino acids) than the  GSI (450 to 470
+   amino acids) or GSII (350 to 420 amino acids) enzymes.
+
+While the three classes of GS's are clearly structurally related, the sequence
+similarities are not so extensive.    As signature  patterns we selected three
+conserved regions.   The first pattern is based on a conserved tetrapeptide in
+the N-terminal  section of  the enzyme,  the second one is based on a glycine-
+rich region which is thought to be involved in ATP-binding.  The third pattern
+is specific to class I glutamine synthetases and includes the tyrosine residue
+which is reversibly adenylated.
+
+-Consensus pattern: [FYWL]-D-G-S-S-x(6,8)-[DENQSTAK]-[SA]-[DE]-x(2)-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for GSIII and Rhizobium leguminosarum GSI.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Consensus pattern: K-P-[LIVMFYA]-x(3,5)-[NPAT]-[GA]-[GSTAN]-[GA]-x-H-x(3)-S
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for C.elegans and mouse GSI.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: K-[LIVM]-x(5)-[LIVMA]-D-[RK]-[DN]-[LI]-Y
+                    [Y is the site of adenylation]
+-Sequences known to belong to this class detected by the pattern: ALL  class-I
+ GS, except for Clostridium acetobutylicum.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Tateno Y.; ytateno@genes.nig.ac.jp
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Eisenberg D., Almassy R.J., Janson C.A., Chapman M.S., Suh S.W.,
+     Cascio D., Smith W.W.
+     "Some evolutionary relationships of the primary biological catalysts
+     glutamine synthetase and RuBisCO."
+     Cold Spring Harb. Symp. Quant. Biol. 52:483-490(1987).
+     PubMed=2900091
+[ 2] Kumada Y., Benson D.R., Hillemann D., Hosted T.J., Rochefort D.A.,
+     Thompson C.J., Wohlleben W., Tateno Y.
+     "Evolution of the glutamine synthetase gene, one of the oldest
+     existing and functioning genes."
+     Proc. Natl. Acad. Sci. U.S.A. 90:3009-3013(1993).
+     PubMed=8096645
+[ 3] Shatters R.G., Kahn M.L.
+     "Glutamine synthetase II in Rhizobium: reexamination of the proposed
+     horizontal transfer of DNA from eukaryotes to prokaryotes."
+     J. Mol. Evol. 29:422-428(1989).
+     PubMed=2575672
+[ 4] Brown J.R., Masuchi Y., Robb F.T., Doolittle W.F.
+     "Evolutionary relationships of bacterial and archaeal glutamine
+     synthetase genes."
+     J. Mol. Evol. 38:566-576(1994).
+     PubMed=7916055
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

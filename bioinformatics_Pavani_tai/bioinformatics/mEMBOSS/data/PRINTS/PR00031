@@ -1,0 +1,32 @@
+HTHREPRESSR
+Helix-turn-helix (HTH) motifs are found in all known DNA binding proteins
+that regulate gene expression. The motif consists of approximately 20 
+residues and is characterised by 2 alpha-helices, which make intimate 
+contacts with the DNA and are joined by a short turn. The second helix of 
+the HTH motif binds to DNA via a number of hydrogen bonds and hydrophobic 
+interactions, which occur between specific side chains and the exposed 
+bases and thymine methyl groups within the major groove of the DNA [1]. The
+first helix helps to stabilise the structure [2]. 
+
+The HTH motif is very similar in sequence and structure to the N-terminal 
+region of the lamda [3] and other repressor proteins, and has also been 
+identified in many other DNA-binding proteins on the basis of sequence and 
+structural similarity [1]. One of the principal differences between HTH 
+motifs in these different proteins arises from the stereochemical 
+requirement for glycine in the turn, which is needed to avoid steric 
+interference of the beta-carbon with the main chain: for cro and other 
+repressors the Gly appears to be mandatory, while for many of the homeotic
+and other DNA-binding proteins the requirement is relaxed. 
+
+HTHREPRESSR is a 2-element fingerprint that provides a signature for the HTH
+motif of lambda and other repressors, and various homeotic proteins. The
+fingerprint was derived from an initial alignment of 20 sequences (after
+Brennan and Matthews [1]): the motifs span the complete motif and hinge on
+the conserved glycine, differing from the equivalent cro motifs in terms of
+the number and distribution of charged and aromatic residues. Four
+iterations on OWL19.1 were required to reach convergence, at which point a
+true set comprising 102 sequences was identified. This set includes
+repressor proteins, an atypical cro sequence, RNA polymerase sigma factors,
+homeotic proteins, etc., all of which have Gly conserved in the turn. 
+
+An update on SPTR37_9f identified a true set of 103 sequences.

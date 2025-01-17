@@ -1,0 +1,53 @@
+****************************
+* Transaldolase signatures *
+****************************
+
+Transaldolase (EC 2.2.1.2) catalyzes the reversible transfer of a three-carbon
+ketol unit  from  sedoheptulose  7-phosphate  to glyceraldehyde 3-phosphate to
+form erythrose  4-phosphate  and  fructose  6-phosphate. This enzyme, together
+with transketolase,  provides  a  link  between  the  glycolytic  and pentose-
+phosphate pathways.  Transaldolase  is an enzyme of about 34 Kd whose sequence
+has been well conserved throughout evolution. A lysine has been implicated [1]
+in the catalytic mechanism of the enzyme; it acts as a nucleophilic group that
+attacks the carbonyl group of fructose-6-phosphate.
+
+Transaldolase is  evolutionary  related [2] to a bacterial protein of about 20
+Kd (known as talC in Escherichia coli), whose exact function is not yet known.
+
+We developed two signature patterns for these proteins.  The first, located in
+the N-terminal  section,  contains  a  perfectly  conserved  pentapeptide; the
+second, includes the active site lysine.
+
+-Consensus pattern: [DGH]-[IVSAC]-T-[ST]-N-P-[STA]-[LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [LIVMA]-x-[LIVM]-K-[LIVM]-[PAS]-x-[STC]-x-[DENQPAS]-[GC]-
+                    [LIVM]-x-[AGV]-x(0,1)-[QEKRSTH]-x-[LIVMF]
+                    [K is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Miosga T., Schaaff-Gerstenschlaeger I., Franken E., Zimmermann F.K.
+     "Lysine144 is essential for the catalytic activity of Saccharomyces
+     cerevisiae transaldolase."
+     Yeast 9:1241-1249(1993).
+     PubMed=8109173
+[ 2] Reizer J., Reizer A., Saier M.H. Jr.
+     "Novel phosphotransferase system genes revealed by bacterial genome
+     analysis -- a gene cluster encoding a unique Enzyme I and the proteins
+     of a fructose-like permease system."
+     Microbiology 141:961-971(1995).
+     PubMed=7773398
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

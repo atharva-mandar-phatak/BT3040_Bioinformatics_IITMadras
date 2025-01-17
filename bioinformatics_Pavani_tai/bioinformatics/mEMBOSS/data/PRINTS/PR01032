@@ -1,0 +1,19 @@
+PHAGEIV
+Gene IV proteins are filamentous bacteriophage proteins [1,2]. Their exact
+function is unknown, but they are thought to be involved in phage assembly
+and morphogenesis. The proteins are related to the bacterial general
+secretion pathway D (GSPD) family.
+
+PHAGEIV is a 10-element fingerprint that provides a signature for the gene
+IV protein family. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs were drawn from conserved regions spanning the full
+alignment length - motifs 8 and 9 span part of the region encoded by PROSITE
+pattern T2SP_D (PS00875). Two iterations on OWL30.2 were required to reach
+convergence, at which point a true set comprising 6 sequences was identified.
+Several partial matches were also found, all of which are family members
+or homologues that match only motifs 3 and 5: S64727 and AF044261 are
+members of the type II secretion family; and GSPD_PSEAE is a member of the
+GSPD family.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 5
+partial matches.

@@ -1,0 +1,88 @@
+******************************************************
+* Linker histone H1/H5 globular (H15) domain profile *
+******************************************************
+
+Histone proteins  have  central  roles  in  both  chromatin  organization  (as
+structural units of the nucleosome) and gene regulation (as dynamic components
+that have  a  direct  impact on DNA transcription and replication). Eukaryotic
+DNA wraps  around  a  histone octamer to form a nucleosome, the first order of
+compaction of  eukaryotic chromatin. The core histone octamer is composed of a
+central H3-H4  tetramer  and  two  flanking  H2A-H2B  dimers. Each of the core
+histone contains  a  common  structural  motif, called the histone fold, which
+facilitates the   interactions   between  the  individual  core  histones.  In
+addition to the core histones, there is a "linker histone" called H1 (or H5 in
+avian species).  The  linker  histones present in all multicellular eukaryotes
+are the  most divergent group of histones, with numerous cell type- and stage-
+specific variant.  The  linker histones, which do not contain the histone fold
+motif, are  critical to the higher-order compaction of chromatin, because they
+bind to  internucleosomal  DNA  and facilitate interactions between individual
+nucleosomes. In  addition,  H1  variants have been shown to be involved in the
+regulation of  developmental genes. A common feature of this protein family is
+a tripartite  structure  in  which  a  globular (H15) domain of about 80 amino
+acids is  flanked  by  two  less  structured  N- and C-terminal tails. The H15
+domain is  also  characterized  by  high sequence homology among the family of
+linker histones.  The highly conserved H15 domain is essential for the binding
+of H1  or  H5  to the nucleosome. It consists of a three helix bundle (I-III),
+with a  beta-hairpin  at  the  C-terminus. There is also a short three-residue
+stretch between  helices  I  and  II  that is in the beta-strand conformation.
+Together with  the C-terminal beta-hairpin, this strand forms the third strand
+of an antiparallel beta-sheet (see <PDB:1HST>) [1,2,3,4,E1].
+
+Some proteins known to contain a H15 domain are listed below:
+
+ - Eukaryotic  histone  H1.  The  histones  H1  constitute  a family with many
+   variants, differing  in  their affinity for chromatin. Several variants are
+   simultaneously present  in  a  single  cell.  For  example,  the  nucleated
+   erythrocytes of  birds  contain both H1 and H5, the latter being an extreme
+   variant of H1.
+ - Eukaryotic    MHYST    family   of   histone   acetyltransferase.   Histone
+   acetyltransferases transfer an acetyl group from acetyl-CoA to the epsylon-
+   amino group  of lysine within the basic NH2-termini of histones, which bind
+   the acidic phosphates of DNA [5].
+
+The profile we developed covers the entire H15 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2010 / First entry.
+
+[ 1] Marino-Ramirez L., Hsu B., Baxevanis A.D., Landsman D.
+     "The Histone Database: a comprehensive resource for histones and
+     histone fold-containing proteins."
+     Proteins 62:838-842(2006).
+     PubMed=16345076; DOI=10.1002/prot.20814
+[ 2] Ramakrishnan V., Finch J.T., Graziano V., Lee P.L., Sweet R.M.
+     "Crystal structure of globular domain of histone H5 and its
+     implications for nucleosome binding."
+     Nature 362:219-223(1993).
+     PubMed=8384699; DOI=10.1038/362219a0
+[ 3] Cerf C., Lippens G., Muyldermans S., Segers A., Ramakrishnan V.,
+     Wodak S.J., Hallenga K., Wyns L.
+     "Homo- and heteronuclear two-dimensional NMR studies of the globular
+     domain of histone H1: sequential assignment and secondary structure."
+     Biochemistry 32:11345-11351(1993).
+     PubMed=8218199
+[ 4] Ono K., Kusano O., Shimotakahara S., Shimizu M., Yamazaki T.,
+     Shindo H.
+     "The linker histone homolog Hho1p from Saccharomyces cerevisiae
+     represents a winged helix-turn-helix fold as determined by NMR
+     spectroscopy."
+     Nucleic Acids Res. 31:7199-7207(2003).
+     PubMed=14654695
+[ 5] Moore S.D.P., Herrick S.R., Ince T.A., Kleinman M.S., Dal Cin P.,
+     Morton C.C., Quade B.J.
+     "Uterine leiomyomata with t(10;17) disrupt the histone
+     acetyltransferase MORF."
+     Cancer Res. 64:5570-5577(2004).
+     PubMed=15313893; DOI=10.1158/0008-5472.CAN-04-0050
+[E1] http://genome.nhgri.nih.gov/histones/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

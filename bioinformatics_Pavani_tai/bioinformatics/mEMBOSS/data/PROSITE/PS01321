@@ -1,0 +1,36 @@
+***********************************************************
+* Crossover junction endodeoxyribonuclease ruvC signature *
+***********************************************************
+
+RuvC (EC 3.1.22.4) [1] is a bacterial nuclease that resolves Holliday junction
+intermediates in  genetic recombination. It cleaves the cruciform structure in
+supercoiled DNA  by  nicking  to  strands  with  the  same  polarity  at sites
+symmetrically opposed  at  the  junction  in  the homologous arms and leaves a
+5'terminal phosphate and a 3'terminal hydroxyl group.
+
+It is  a  small protein of about 20 Kd. It requires and binds a magnesium ion.
+As a  signature  pattern  we selected a region located in the C-terminal part.
+This region  contains  two aspartate residues implicated in the binding of the
+magnesium ion.
+
+-Consensus pattern: G-x-[GA]-x-[AG]-x-K-x-[EQA]-[IVM]-x(16,19)-D-x-[SAVT]-D-
+                    [AG]-x-[AGS]-[LIVMCA]-[ACS]
+                    [The 2 D's are magnesium ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] West S.C.
+     "Processing of recombination intermediates by the RuvABC proteins."
+     Annu. Rev. Genet. 31:213-244(1997).
+     PubMed=9442895; DOI=10.1146/annurev.genet.31.1.213
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

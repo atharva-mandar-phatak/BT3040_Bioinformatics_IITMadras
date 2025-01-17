@@ -1,0 +1,37 @@
+TYPE3IMRPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+It is believed that the family of type III inner membrane proteins are 
+used as structural moieties in a complex with several other subunits [4]. 
+One such set of inner membrane proteins, labeled "R" here for nomenclature 
+purposes, includes the Salmonella and Shigella SpaR, the Yersinia YscT, 
+Rhizobium Y4YN, and the Erwinia HrcT genes [4]. The flagellar protein FliR 
+also shares similarity, probably due to evolution of the type III secretion 
+system from the flagellar biosynthetic pathway. 
+
+TYPE3IMRPROT is a 4-element fingerprint that provides a signature for the
+type III secretion system inner membrane R protein family. The fingerprint
+was derived from an initial alignment of 7 sequences: the motifs were drawn
+from short conserved regions spanning virtually the full alignment length - 
+motifs 1 and 2 include the C-terminal portions of putative TM domains 1 and
+3; motif 3 encodes putative TM domain 6; and motif 4 includes the N-terminal
+residues of putative TM domain 7. Three iterations on OWL30.2 were required 
+to reach convergence, at which point a true set comprising 17 sequences was
+identified. Several partial matches were also found, all of which are 
+homologues that fail to match one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 3
+partial matches.

@@ -1,0 +1,43 @@
+*******************************
+* Terpene synthases signature *
+*******************************
+
+The following enzymes catalyze mechanistically related reactions which involve
+the highly complex cyclic rearrangement of squalene or its 2,3 oxide:
+
+ - Lanosterol  synthase  (EC 5.4.99.7)  (oxidosqualene--lanosterol   cyclase),
+   which catalyzes the cyclization of (S)-2,3-epoxysqualene to lanosterol, the
+   initial precursor  of  cholesterol,  steroid  hormones  and  vitamin  D  in
+   vertebrates and of ergosterol in fungi (gene ERG7).
+ - Cycloartenol   synthase    (EC 5.4.99.8)   (2,3-epoxysqualene--cycloartenol
+   cyclase), a  plant  enzyme  that  catalyzes  the  cyclization  of  (S)-2,3-
+   epoxysqualene to cycloartenol.
+ - Hopene  synthase  (EC  5.4.99.17) (squalene--hopene  cyclase),  a bacterial
+   enzyme that catalyzes the cyclization  of squalene into hopene, a  key step
+   in hopanoid (triterpenoid) metabolism.
+
+These enzymes are evolutionary related [1] proteins of about 70 to 85 Kd. As a
+signature pattern,  we  selected  a  highly  conserved region which is rich in
+aromatic residues and which is located in the C-terminal section.
+
+-Consensus pattern: [DE]-G-S-W-x-[GE]-x-W-[GA]-[LIVM]-x-[FY]-x-Y-[GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Corey E.J., Matsuda S.P.T., Bartel B.
+     "Isolation of an Arabidopsis thaliana gene encoding cycloartenol
+     synthase by functional expression in a yeast mutant lacking lanosterol
+     synthase by the use of a chromatographic screen."
+     Proc. Natl. Acad. Sci. U.S.A. 90:11628-11632(1993).
+     PubMed=7505443
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

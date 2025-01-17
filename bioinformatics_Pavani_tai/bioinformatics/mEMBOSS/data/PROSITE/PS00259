@@ -1,0 +1,92 @@
+**********************************************
+* Gastrin / cholecystokinin family signature *
+**********************************************
+
+Gastrin and cholecystokinin  (CCK)  [1,2] are  structurally  and  functionally
+related  peptide  hormones that  function  as  hormonal regulators  of various
+digestive processes and feeding behaviors .   They are known to induce gastric
+secretion,  stimulate  pancreatic  secretion,  increase  blood circulation and
+water secretion  in  the stomach  and  intestine, and stimulate  smooth muscle
+contraction.   Originally found  in the gut, these  hormones have  since  been
+shown to be present in various parts of the nervous  system.   Like many other
+active peptides  they  are synthesized  as larger protein precursors that  are
+enzymatically  converted to their  mature forms.   They  are found in  several
+molecular forms  due  to  tissue-specific  post-translational  processing.   A
+number of other peptides are known to belong to the same family:
+
+ - Caerulein [3], an  amphibian  skin  peptide,  with  a  biological  activity
+   similar to that of CCK or gastrin.   There are different types of caerulein
+   precursors [4] in  which a  single  or up to four copies of the peptide are
+   present.
+ - Leukosulfakinin I and II (LSK) [5,6] are peptides, isolated from cockroach,
+   that change the frequency and amplitude of contractions of the hindgut.
+ - Drosulfakinins I and II [7]  are  putative  CCK-homologs  from  Drosophila.
+   Those two  peptides are  part  of a  precursor  sequence  that was isolated
+   using a probe based on the sequence of CCK and LSK.
+ - A chicken antrum peptide [8]  which is  a  potent stimulus of avian gastric
+   acid but not of pancreatic secretion.
+ - Cionin [9], a neuropeptide from the protochordate Ciona intestinalis.
+
+The biological activity of gastrin and CCK is associated with the last five C-
+terminal  residues.  One  or two  positions  downstream, there  is a conserved
+sulfated tyrosine residue.  The signature pattern developed for this family of
+peptides includes  the  biologically active C-terminal sequence as well as the
+sulfated tyrosine.
+
+-Consensus pattern: Y-x(0,1)-[GD]-[WH]-M-[DR]-F
+                    [Y is sulfated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The residues in positions 4 and 6  of the pattern are  respectively Trp
+ and Asp in vertebrate peptides, and His and Arg in insect peptides.
+
+-Last update: April 1990 / Text revised.
+
+[ 1] Concise Encyclopedia Biochemistry, Second Edition, Walter de Gruyter,
+     Berlin New-York (1988).
+[ 2] Cholecystokinin.
+     Ann. N.Y. Acad. Sci. 448(1985).
+[ 3] Erspamer V., Falconieri Erspamer G., Mazzanti G., Endean R.
+     Comp. Biochem. Physiol. 77C:99-108(1984).
+[ 4] Richter K., Egger R., Kreil G.
+     "Sequence of preprocaerulein cDNAs cloned from skin of Xenopus laevis.
+     A small family of precursors containing one, three, or four copies of
+     the final product."
+     J. Biol. Chem. 261:3676-3680(1986).
+     PubMed=3753978
+[ 5] Nachman R.J., Holman G.M., Haddon W.F., Ling N.
+     "Leucosulfakinin, a sulfated insect neuropeptide with homology to
+     gastrin and cholecystokinin."
+     Science 234:71-73(1986).
+     PubMed=3749893
+[ 6] Nachman R.J., Holman G.M., Cook B.J., Haddon W.F., Ling N.
+     "Leucosulfakinin-II, a blocked sulfated insect neuropeptide with
+     homology to cholecystokinin and gastrin."
+     Biochem. Biophys. Res. Commun. 140:357-364(1986).
+     PubMed=3778455
+[ 7] Nichols R., Schneuwly S.A., Dixon J.E.
+     "Identification and characterization of a Drosophila homologue to the
+     vertebrate neuropeptide cholecystokinin."
+     J. Biol. Chem. 263:12167-12170(1988).
+     PubMed=2842322
+[ 8] Dimaline R., Young J., Gregory H.
+     "Isolation from chicken antrum, and primary amino acid sequence of a
+     novel 36-residue peptide of the gastrin/CCK family."
+     FEBS Lett. 205:318-322(1986).
+     PubMed=3743781
+[ 9] Johnsen A.H., Rehfeld J.F.
+     "Cionin: a disulfotyrosyl hybrid of cholecystokinin and gastrin from
+     the neural ganglion of the protochordate Ciona intestinalis."
+     J. Biol. Chem. 265:3054-3058(1990).
+     PubMed=2303439
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

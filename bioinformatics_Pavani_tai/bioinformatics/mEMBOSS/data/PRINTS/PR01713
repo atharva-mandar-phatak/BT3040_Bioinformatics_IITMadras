@@ -1,0 +1,38 @@
+NUCEPIMERASE
+Carbohydrates are used for a wide variety of functions in animals, plants 
+and microbes. As well as providing the main energy source for most organisms,
+carbohydrates are ideally suited for molecular recognition [1]. For example, 
+the stereochemistry of each hydroxyl substituent in a simple six-carbon six- 
+oxygen pyranose ring can be varied to give up to 10 different molecules [1].
+An organism's ability to change and control the stereochemistry of moieties
+like glucose and galactose is, therefore, important.
+
+Epimerases or "dehydratases", enzymes that catalyse these changes in 
+carbohydrates, exist in both prokaryotes and eukaryotes. The processes they 
+arbitrate are known as "epimerisation" and are involved in many metabolic 
+pathways [2]. For example, the UDP-galactose epimerase in Arabidopsis 
+thaliana mediates the reversible epimerisation of UDP-galactose, and is 
+considered essential for this reason, providing a secondary growth 
+metabolite to glucose [2]. 
+
+Bacterial homologues of the mouse-ear cress epimerase are involved in the 
+synthesis of extracellular polysaccharide capsule components, as well as 
+metabolic pathways [3]. For this reason, they are considered virulence 
+factors if present in a pathogenic strain. Vibrio vulnificus, the causative
+agent of septicemia and infectious disease from contaminated seafood, relies 
+on a thick polysaccharide capsule to evade host immune cells [3]. Epimerase
+deletion mutants were unable to infect a mouse model, suggesting that the
+gene is essential for bacterial virulence. Deletion studies with other
+capsular pathogens, like Staphylococcus aureus, have shown that the
+epimerase enzyme is needed for capsule polysaccharide formation and,
+ultimately, virulence [4].
+
+NUCEPIMERASE is a 4-element fingerprint that provides a signature for the
+nucleotide sugar epimerase family. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved 
+regions spanning the C-terminal portion of the alignment(~350 amino acids).
+Three iterations on SPTR40_20f were required to reach convergence, at which 
+point a true set comprising 27 sequences was identified. Three partial 
+matches were also found (Q9HSV1, Q9HSU9, O06402), Mycobacterium tuberculosis 
+and Halobacterium spp. nucleotide sugar epimerases/dehydratases that failed
+to match motifs 1 and 3. 

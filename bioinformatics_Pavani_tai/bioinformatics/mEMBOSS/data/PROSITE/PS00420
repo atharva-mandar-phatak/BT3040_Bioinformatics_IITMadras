@@ -1,0 +1,87 @@
+*************************************
+* SRCR domain signature and profile *
+*************************************
+
+The scavenger  receptor  cysteine-rich  (SRCR) domain is an ancient and highly
+conserved domain  of about 110 residues which is found in diverse secreted and
+cell-surface proteins,  like  the  type  I  scavenger  receptor,  the  speract
+receptor, CD5/Ly-1,  CD6,  or  complement factor I [1]. Tandem repeats of SRCR
+domains are  common in the membrane bound proteins. Most SRCR domains have six
+to eight  cysteines  that  participate  in  intradomain disulfide bonds.  SRCR
+domains have  been  subdivided  into  two  groups,  A  and B, primarily on the
+differences in the spacing pattern between the cysteine residues [2,3].
+
+Although the  biochemical  functions of SRCR domains have not been established
+with certainty,  they  are  likely to mediate protein-protein interactions and
+ligand binding [2,3].
+
+Determination of the crystal structure of the SRCR domain of M2BP reveals that
+the M2NP  SRCR  adopts  a  compact fold of approximate dimensions 22 x 26 x 30
+Angstrom, organized around a curved six-stranded beta-sheet cradling an alpha-
+helix [3].
+
+Some proteins known to contain one or more SRCR domains are listed below:
+
+ - Mammalian  macrophage  scavenger  receptor  type  I,  a  trimeric  integral
+   membrane glycoprotein  implicated in atherosclerosis,   adhesion  and  host
+   defense. The  scavenger  receptor  binds a variety of polyanions, including
+   chemically modified proteins and lipoproteins, and certain polynucleotides.
+ - Mammalian   CD5/Ly-1,  a  protein  expressed  at  the  cell  surface  of  T
+   lymphocytes and  a  distinctive  subset of B lymphocytes. It interacts with
+   CD72/Lyb-2. There are 3 copies of SRCR in CD5.
+ - Mammalian CD6, a lymphocyte cell surface receptor that binds to its ligand,
+   activated leukocyte  cell  adhesion  molecule  (ALCAM/CD166),  through  the
+   membrane proximal  of  its  three  extracellular  SRCR domains. There are 3
+   copies of SRCR in CD6.
+ - Mammalian  Mac-2  binding  protein  (M2BP),  a tumor-associated antigen and
+   matrix protein.
+ - Mammalian  and  amphibian  complement  factor  I  (CFI),  a  protease  that
+   regulates the complement cascade.
+ - Mammalian macrophage receptor MARCO (2 copies).
+ - Vertebrate enteropeptidase (EC 3.4.21.9) (1 copy).
+ - Mammalian neurotrypsin (EC 3.4.21.-) (4 copies).
+ - Lysyl oxidase like proteins 2 and 3 (4 copies).
+ - The sea urchin speract receptor, a transmembrane glycoprotein that mediates
+   the activation of sperm by egg peptides.
+
+The signature pattern that we derived spans  part of the N-terminal section of
+the domain  and  contain  8 conserved residues. The profile spans the complete
+domain.
+
+-Consensus pattern: [GNRVM]-x(5)-[GLKA]-x(2)-[EQ]-x(6)-[WPS]-[GLKH]-x(2)-C-
+                    x(3)-[FYW]-x(8)-[CM]-x(3)-G
+-Sequences known to belong to this class detected by the pattern: only a small
+ minority of all SRCR domains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Freeman M., Ashkenas J., Rees D.J., Kingsley D.M., Copeland N.G.,
+     Jenkins N.A., Krieger M.
+     "An ancient, highly conserved family of cysteine-rich protein domains
+     revealed by cloning type I and type II murine macrophage scavenger
+     receptors."
+     Proc. Natl. Acad. Sci. U.S.A. 87:8810-8814(1990).
+     PubMed=1978939
+[ 2] Resnick D., Pearson A., Krieger M.
+     "The SRCR superfamily: a family reminiscent of the Ig superfamily."
+     Trends Biochem. Sci. 19:5-8(1994).
+     PubMed=8140623
+[ 3] Hohenester E., Sasaki T., Timpl R.
+     "Crystal structure of a scavenger receptor cysteine-rich domain sheds
+     light on an ancient superfamily."
+     Nat. Struct. Biol. 6:228-232(1999).
+     PubMed=10074941; DOI=10.1038/6669
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

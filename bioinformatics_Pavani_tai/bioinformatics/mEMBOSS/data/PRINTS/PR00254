@@ -1,0 +1,32 @@
+NICOTINICR
+Acetylcholine receptors are ligand-gated ion channels that mediate signal
+transduction at the post-synaptic membrane of cholinergic synapses, such as
+the neuromuscular junction [1]. They belong to a family of neurotransmitter-
+gated receptors, including glycine, gamma-aminobutyric-acid (GABA),
+serotonin 5HT3 and glutamate receptors. These are oligomeric transmembrane
+(TM) complexes (pentamers of 2 alpha and 1 beta, 1 gamma and 1 delta
+subunit) that form transient channels on binding specific neurotrans-
+mitters. Their sequences are related and share the same topology: each has
+an extracellular, glycosylated N-terminal ligand-binding domain; 3 hydro-
+phobic TM regions, which form the channel; a hydrophilic cytoplasmic
+domain; followed by a fourth putative TM region [2].
+
+The expression of acetylcholine receptors is activated during muscle
+differentiation and upon denervation of adult muscle [3]. Receptor function
+is regulated by phosphorylation and dephosphorylation by kinases and
+phosphatases present in the post-synaptic membranes [1]. Most of the
+phosphorylation sites are located in the major intracellular loop between
+the third and fourth TM regions and are closely spaced.
+
+NICOTINICR is a 4-element fingerprint that provides a signature for the
+nicotinic acetylcholine receptor family. The fingerprint was derived from 
+an initial alignment of 8 sequences: the motifs were drawn from conserved
+regions in the N-terminal ligand-binding domain (cf. PROSITE pattern
+NEUROTR_ION_CHANNEL (PS00236)). Two iterations on OWL24.0 were required to
+reach convergence, at which point a true set comprising 78 sequences was
+identified. Six partial matches were also found: A20972, ONGARS, ACHB_CHICK
+and A35437 are nicotinic acetylcholine receptor subunit fragments; and
+5HT3_MOUSE and MM5H3R are serotonin receptors.
+
+An update on SPTR37_9f identified a true set of 90 sequences, and 14
+partial matches.

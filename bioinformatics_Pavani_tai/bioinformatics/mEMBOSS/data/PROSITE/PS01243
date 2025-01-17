@@ -1,0 +1,38 @@
+************************************
+* Bax inhibitor-1 family signature *
+************************************
+
+Bax inhibitor-1  (BI-1)  (gene  TEGT)  [1]  is  a suppressor of apoptosis that
+interacts with  BCL2  and  BCL-X.  It is evolutionary related conserved and is
+found in all higher eukaryotes. It is also similar to the following proteins:
+
+ - Escherichia  coli  hypothetical  protein yccA and HI0044, the corresponding
+   Haemophilus influenzae protein.
+ - A probable Pseudomonas aeruginosa ortholog of yccA.
+
+These are  proteins  of  about 25 Kd which seem to contain seven transmembrane
+domains. We  developed  a  signature  pattern that correspond to a region that
+starts with the  beginning  of  the third transmembrane domain and ends in the
+middle of the fourth one.
+
+-Consensus pattern: G-x(2)-[LIVM]-[GC]-P-x-[LI]-x(4)-[SAGDT]-x(4,6)-[LIVM](2)-
+                    x(2)-A-x(2)-[MG]-T-x-[LIVM]-x-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Xu Q., Reed J.C.
+     "Bax inhibitor-1, a mammalian apoptosis suppressor identified by
+     functional screening in yeast."
+     Mol. Biol. Cell 1:337-346(1998).
+     PubMed=9660918;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

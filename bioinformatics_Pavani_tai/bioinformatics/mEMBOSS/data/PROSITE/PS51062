@@ -1,0 +1,68 @@
+***********************
+* Runt domain profile *
+***********************
+
+The Runt domain is a ~128 amino acid region that is characteristic of the RUNX
+family of  heterodimeric eukaryotic transcription factors. The family includes
+genes from  drosophila,  chicken and mammals that are involved in a wide range
+of developmental   processes,  from  sex  determination  and  neurogenesis  in
+drosophila to hematopoiesis and osteoblast differentiation in mouse and human.
+The Runt domain confers DNA binding ability to the consensus core PyGPyGGT and
+mediates the  interaction  of  mammalian  RUNX proteins with the beta-subunit,
+designated core-binding factor beta (CBFbeta), which increases the DNA binding
+affinity of the heterodimer [1,2].
+
+The Runt  domain  adopts the fold of an immunoglobulin (Ig)-like beta sandwich
+(see <PDB:1EAQ; B>). However, an N-terminal alpha helix, which precedes the Ig
+domain is also part of the evolutionary conserved Runt domain. The helix packs
+through hydrophobic interactions against the bulk of the domain that is formed
+by 12  beta  strands  (10 antiparallel and two parallel strands). Two chloride
+ions bind  to  the  native  Runt  domain  of which one is situated at the DNA-
+binding surface.  The  transition  from  the  uncomplexed  Runt  domain to the
+CBFbeta and/or  DNA-bound  form  is  accompanied  by  considerable  structural
+rearrangements. Once  a  Runt-CBFbeta or a Runt-DNA complex has formed, almost
+identical changes  accompany  the  transition  from  the  binary  Runt-CBFbeta
+complex to  the  ternary  complex  including  DNA  and the transition from the
+binary Runt-DNA  complex  to  the  ternary  complex  with CBFbeta, even though
+CBFbeta and  DNA  bind  to  different surfaces on Runt. This suggests that the
+function of CBFbeta is to convert the Runt domain into a DNA-binding competent
+conformation before   actually   binding   to   DNA   and  to  stabilize  this
+conformation [2].
+
+Some proteins known to contain a Runt domain are listed below:
+
+ - Mammalian  RUNX1 or acute myeloid leukemia protein 1 (AML1). It is together
+   with CBFbeta essential for hematopoiesis.
+ - Mammalian   RUNX2   (AML3/PEBP2alphaA/CBFalpha1).   It   is  essential  for
+   osteoblast differentiation and bone formation.
+ - Mammalian RUNX3. It is essential for antiproliferation and apoptosis of the
+   gastric epithelium.
+ - Chicken runt B protein.
+ - Drosophila segmentation protein Runt. It plays a pivotal role in regulating
+   the expression of other pair-rule genes such as eve, ftz, and h.
+ - Drosophila lozenge protein.
+
+The profile we developed covers the entire Runt domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2005 / First entry.
+
+[ 1] Levanon D., Eisenstein M., Groner Y.
+     "Site-directed mutagenesis supports a three-dimensional model of the
+     runt domain."
+     J. Mol. Biol. 277:509-512(1998).
+     PubMed=9533875
+[ 2] Baeckstroem S., Wolf-Watz M., Grundstroem C., Haerd T., Grundstroem T.,
+     Sauer U.H.
+     J. Mol. Biol. 322:259-272(2002).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

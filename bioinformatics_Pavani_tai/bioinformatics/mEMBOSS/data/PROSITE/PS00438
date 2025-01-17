@@ -1,0 +1,67 @@
+***********************************
+* Catalase signatures and profile *
+***********************************
+
+Catalase  (EC  1.11.1.6)  [1,2,3]  or more correctly, hydroperoxidase [4] is a
+heme-containing enzyme, present in all aerobic cells, that decomposes hydrogen
+peroxide  to molecular oxygen and water. Its main function is to protect cells
+from  the  toxic  effects of hydrogen peroxide. In eukaryotic organisms and in
+some  prokaryotes  catalase is a molecule composed of four identical subunits.
+Each of the subunits binds one protoheme IX group.
+
+The  typical core catalase is composed of a heme-containing active site deeply
+buried  in a beta-barrel structure with two or three channels providing access
+to  the  heme  (see  <PDB:1A4E>)  [5]. A conserved tyrosine serves as the heme
+proximal  side  ligand. We have used the region around this residue as a first
+signature  pattern; it also includes a conserved arginine that participates in
+heme-binding.  A  conserved  histidine  has been shown to be important for the
+catalytic mechanism of the enzyme. We have used the region around this residue
+as  a  second  signature pattern. We also developed a profile which covers the
+whole conserved region.
+
+-Consensus pattern: R-[LIVMFSTAN]-F-[GASTNP]-Y-x-D-[AST]-[QEH]
+                    [Y is the proximal heme-binding ligand]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [IF]-x-[RH]-x(4)-[EQ]-R-x(2)-H-x(2)-[GAS]-[GASTFY]-[GAST]
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  Some  prokaryotic  catalases  belong to the non-animal heme peroxidase
+ family (see <PDOC00394>).
+
+-Last update: August 2008 / Profile added and text revised.
+
+[ 1] Murthy M.R.N., Reid T.J. III, Sicignano A., Tanaka N., Rossmann M.G.
+     "Structure of beef liver catalase."
+     J. Mol. Biol. 152:465-499(1981).
+     PubMed=7328661
+[ 2] Melik-Adamyan W.R., Barynin V.V., Vagin A.A., Borisov V.V.,
+     Vainshtein B.K., Fita I., Murthy M.R.N., Rossmann M.G.
+     J. Mol. Biol. 188:63-72(1986).
+[ 3] von Ossowki I., Hausner G., Loewen P.C.
+     J. Mol. Evol. 37:71-76(1993).
+[ 4] Chelikani P., Fita I., Loewen P.C.
+     "Diversity of structures and properties among catalases."
+     Cell. Mol. Life Sci. 61:192-208(2004).
+     PubMed=14745498; DOI=10.1007/s00018-003-3206-5
+[ 5] Mate M.J., Zamocky M., Nykyri L.M., Herzog C., Alzari P.M., Betzel C.,
+     Koller F., Fita I.
+     "Structure of catalase-A from Saccharomyces cerevisiae."
+     J. Mol. Biol. 286:135-149(1999).
+     PubMed=9931255; DOI=10.1006/jmbi.1998.2453
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

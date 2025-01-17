@@ -1,0 +1,33 @@
+SECBCHAPRONE
+Secretion across the inner membrane in some Gram-negative bacteria occurs
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component. [1]. From there, the mature proteins are either 
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome.
+
+The translocase itself comprises 7 proteins, including a chaperone protein
+(SecB), an ATPase (SecA), an integral membrane complex (SecCY, SecE and 
+SecG), and two additional membrane proteins that promote the release of 
+the mature peptide into the periplasm (SecD and SecF) [1]. The chaperone 
+protein SecB [2] is a highly acidic homotetrameric protein that exists
+as a "dimer of dimers" in the bacterial cytoplasm [2]. SecB maintains 
+preproteins in an unfolded state after translation, and targets these to 
+the peripheral membrane protein ATPase SecA for secretion [3].
+
+Recently, the tertiary structure of Haemophilus influenzae SecB was resolved
+by means of X-ray crystallography to 2.5A [4]. The chaperone comprises four
+chains, forming a tetramer, each chain of which has a simple alpha+beta fold
+arrangement. While one binding site on the homotetramer recognises unfolded
+polypeptides by hydrophobic interactions, the second binds to SecA through
+the latter's C-terminal 22 residues [4].
+
+SECBCHAPRONE is a 4-element fingerprint that provides a signature for the
+bacterial protein-transport SecB chaperone protein family. The fingerprint
+was derived from an initial alignment of 4 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motif
+1 spans beta-strand 1 and the N-terminus of alpha-helix 1; motif 2 spans
+strand 4 and the N-terminus of helix 2; motif 3 encompasses the C-terminus
+of helix 2 and helix 3; and motif 4 spans most of helix 4. Three iterations
+on SPTR39.22_17.3f were required to reach convergence, at which point a true
+set comprising 13 sequences was identified.

@@ -1,0 +1,76 @@
+************************************************
+* Receptor tyrosine kinase class III signature *
+************************************************
+
+A number of growth factors  stimulate mitogenesis by interacting with a family
+of   cell  surface receptors which   possess  an  intrinsic, ligand-sensitive,
+protein tyrosine kinase activity [1].   These  receptor tyrosine kinases (RTK)
+all share the same topology: an  extracellular ligand-binding domain, a single
+transmembrane  region and a cytoplasmic  kinase domain.   However  they can be
+classified into at least five groups.   The class III RTK's are  characterized
+by the  presence  of  five  to  seven immunoglobulin-like domains [2] in their
+extracellular section. Their kinase domain differs from that of other RTK's by
+the insertion of a stretch of 70 to 100 hydrophilic residues in  the middle of
+this domain. The receptors currently known to belong to class III are:
+
+ - Platelet-derived growth factor receptor (PDGF-R).  PDGF-R exists as a homo-
+   or heterodimer of two related chains: alpha and beta [3].
+ - Macrophage colony stimulating factor receptor (CSF-1-R)  (also known as the
+   fms oncogene).
+ - Stem cell factor (mast cell growth factor) receptor  (also known as the kit
+   oncogene).
+ - Vascular  endothelial  growth  factor  (VEGF) receptors Flt-1 and Flk-1/KDR
+   [4].
+ - Fl cytokine receptor Flk-2/Flt-3 [5].
+ - The putative receptor Flt-4 [6].
+
+We developed  a  signature pattern for this class of RTK's which is based on a
+conserved region in the kinase domain.
+
+-Consensus pattern: G-x-H-x-N-[LIVM]-V-N-L-L-G-A-C-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Text revised.
+
+[ 1] Yarden Y., Ullrich A.
+     "Growth factor receptor tyrosine kinases."
+     Annu. Rev. Biochem. 57:443-478(1988).
+     PubMed=3052279; DOI=10.1146/annurev.bi.57.070188.002303
+[ 2] Hunkapiller T., Hood L.
+     "Diversity of the immunoglobulin gene superfamily."
+     Adv. Immunol. 44:1-63(1989).
+     PubMed=2646860
+[ 3] Lee K.-H., Bowen-Pope D.F., Reed R.R.
+     "Isolation and characterization of the alpha platelet-derived growth
+     factor receptor from rat olfactory epithelium."
+     Mol. Cell. Biol. 10:2237-2246(1990).
+     PubMed=2157969
+[ 4] Terman B.I., Dougher-Vermazen M., Carrion M.E., Dimitrov D.,
+     Armellino D.C., Gospodarowicz D., Bohlen P.
+     "Identification of the KDR tyrosine kinase as a receptor for vascular
+     endothelial cell growth factor."
+     Biochem. Biophys. Res. Commun. 187:1579-1586(1992).
+     PubMed=1417831
+[ 5] Lyman S.D., James L., Vanden Bos T., de Vries P., Brasel K.,
+     Gliniak B., Hollingsworth L.T., Picha K.S., McKenna H.J.,
+     Splett R.R.
+     "Molecular cloning of a ligand for the flt3/flk-2 tyrosine kinase
+     receptor: a proliferative factor for primitive hematopoietic cells."
+     Cell 75:1157-1167(1993).
+     PubMed=7505204
+[ 6] Galland F., Karamysheva A., Pebusque M.J., Borg J.P., Rottapel R.,
+     Dubreuil P., Rosnet O., Birnbaum D.
+     "The FLT4 gene encodes a transmembrane tyrosine kinase related to the
+     vascular endothelial growth factor receptor."
+     Oncogene 8:1233-1240(1993).
+     PubMed=8386825
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

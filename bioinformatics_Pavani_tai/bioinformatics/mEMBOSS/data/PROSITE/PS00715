@@ -1,0 +1,94 @@
+**************************************
+* Sigma-70 factors family signatures *
+**************************************
+
+Sigma factors [1] are bacterial transcription initiation factors  that promote
+the attachment of the core RNA polymerase to specific initiation sites and are
+then released.  They  alter  the  specificity  of  promoter  recognition. Most
+bacteria express a multiplicity of sigma factors. Two of these factors, sigma-
+70 (gene  rpoD),  generally  known  as the major or primary sigma factor,  and
+sigma-54 (gene  rpoN  or  ntrA)  direct the transcription of a wide variety of
+genes. The    other  sigma  factors,  known  as alternative sigma factors, are
+required for the transcription of specific subsets of genes.
+
+With regard  to  sequence  similarity,  sigma  factors can be grouped into two
+classes: the  sigma-54 and sigma-70 families. The sigma-70 family includes, in
+addition to the primary sigma factor, a wide variety of sigma factors, some of
+which are listed below:
+
+ - Bacillus  sigma  factors  involved  in  the control of sporulation-specific
+   genes: sigma-E  (sigE or spoIIGB), sigma-F (sigF or spoIIAC), sigma-G (sigG
+   or spoIIIG),      sigma-H      (sigH   or   spo0C)  and  sigma-K  (sigK  or
+   spoIVCB/spoIIIC).
+ - Escherichia coli and related bacteria sigma-32 (gene rpoH or htpR) involved
+   in the expression of heat shock genes.
+ - Escherichia coli  and  related   bacteria  sigma-27 (gene fliA) involved in
+   the expression of the flagellin gene.
+ - Escherichia  coli   sigma-S (gene rpoS or katF)  which seems to be involved
+   in the  expression  of  genes  required  for  protection  against  external
+   stresses.
+ - Myxococcus xanthus sigma-B  (sigB)  which  is  essential for the late-stage
+   differentiation of that bacteria.
+
+Alignments of the sigma-70 family permit the identification of four regions of
+high conservation [2,3].  Each of these four regions can in turn be subdivided
+into a number of sub-regions. We developed signature patterns based on the two
+best conserved sub-regions.  The  first pattern corresponds to sub-region 2.2;
+the exact  function of  this sub-region is  not  known  although  it could  be
+involved in the binding of  the sigma factor to  the core RNA polymerase.  The
+second pattern corresponds  to  sub-region  4.2  which seems to harbor  a DNA-
+binding 'helix-turn-helix'    motif    involved  in  binding the conserved -35
+region of  promoters recognized by the major sigma factors. The second pattern
+starts one  residue  before  the  N-terminal  extremity  of the HTH region and
+ends six residues after its C-terminal extremity.
+
+-Consensus pattern: [DE]-[LIVMF](2)-[HEQS]-x-G-x-[LIVMFA]-G-L-[LIVMFYE]-x-
+                    [GSAM]-[LIVMAP]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus subtilis sigma-B and Vibrio parahaemolyticus flaS.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [STN]-x(2)-[DENQ]-[LIVMT]-[GAS]-x(4)-[LIVMF]-[PSTG]-x(3)-
+                    [LIVMA]-x-[NQR]-[LIVMA]-[EQH]-x(3)-[LIVMFWK]-x(2)-[LIVM]
+-Sequences known to belong to this class detected by the pattern:  Almost  all
+ of them, with a few exceptions.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Note: The  sigma-70  factor  family  also includes a divergent subfamily that
+ regulates gene  encoding  for  proteins  with  extracytoplasmic function [4].
+ These sigma  factors,  collectively  known  as  ECF, are not picked up by the
+ above patterns. A separate entry (see <PDOC00814>) has been developed to deal
+ with them.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Helmann J.D., Chamberlin M.J.
+     "Structure and function of bacterial sigma factors."
+     Annu. Rev. Biochem. 57:839-872(1988).
+     PubMed=3052291; DOI=10.1146/annurev.bi.57.070188.004203
+[ 2] Gribskov M., Burgess R.R.
+     "Sigma factors from E. coli, B. subtilis, phage SP01, and phage T4 are
+     homologous proteins."
+     Nucleic Acids Res. 14:6745-6763(1986).
+     PubMed=3092189
+[ 3] Lonetto M.A., Gribskov M., Gross C.A.
+     "The sigma 70 family: sequence conservation and evolutionary
+     relationships."
+     J. Bacteriol. 174:3843-3849(1992).
+     PubMed=1597408
+[ 4] Lonetto M.A., Brown K.L., Rudd K.E., Buttner M.J.
+     "Analysis of the Streptomyces coelicolor sigE gene reveals the
+     existence of a subfamily of eubacterial RNA polymerase sigma factors
+     involved in the regulation of extracytoplasmic functions."
+     Proc. Natl. Acad. Sci. U.S.A. 91:7573-7577(1994).
+     PubMed=8052622
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

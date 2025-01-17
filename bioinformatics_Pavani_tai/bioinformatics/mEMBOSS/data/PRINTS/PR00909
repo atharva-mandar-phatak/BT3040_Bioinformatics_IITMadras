@@ -1,0 +1,33 @@
+SPERMDNBNDNG
+The nucleotide sequences of the genes for the spermidine and putrescine
+transport systems that map at 15 and 19 min on the E.coli chromosome have
+been determined [1,2]. The former was shown to contain four open reading 
+frames encoding protein products PotA to PotD [1]; the latter also contained
+four ORFs, designated PotF to PotI [2]. The D protein has been inferred to
+be a periplasmic polyamine binding protein that regulates polyamine content
+in E.coli [1]; similarly, PotF was inferred to be a periplasmic putrescine-
+specific binding protein [2]. The PotD and PotF proteins show a high degree
+of sequence similarity.
+
+The 3D structure of PotD complexed with spermidine has been solved to 2.5A
+resolution [2]. The structure comprises two domains, with alternating beta-
+alpha-beta topology. The polyamine binding site lies in a central cleft at
+the domain interface. Within the cleft, four acidic residues recognise the
+three positively charged nitrogen atoms of spermidine, and five aromatic
+side chains anchor the methylene backbone by van der Waals interactions [2].
+The overall fold of PotD is similar to that of other periplasmic binding
+proteins, especially to the E.coli maltodextrin-binding protein, despite 
+low sequence identity [2]. Structure comparisons suggest that spermidine
+binding rearranges the relative orientation of the PotD domains, creating
+a more compact structure [2].
+
+SPERMDNBNDNG is a 10-element fingerprint that provides a signature for
+bacterial periplasmic spermidine/putrescine-binding proteins. The 
+fingerprint was derived from an initial alignment of 5 sequences: the 
+motifs were drawn from short conserved regions spanning the full alignment
+length. A single iteration on OWL30.1 was required to reach convergence,
+no further sequences being identified beyond the starting set. Several
+partial matches were found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 3
+partial matches.

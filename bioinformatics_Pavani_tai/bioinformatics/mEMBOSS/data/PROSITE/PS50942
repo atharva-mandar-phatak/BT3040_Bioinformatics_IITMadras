@@ -1,0 +1,81 @@
+***********************
+* ENTH domain profile *
+***********************
+
+The epsin NH2-terminal homology (ENTH) domain is a membrane interacting module
+of ~140  amino  acids.  Typically it is located within 20 residues of the NH2-
+terminus of  proteins  that  often  contain consensus sequences for binding to
+clathrin coat  components  and their accessory factors, and therefore function
+as endocytic  adaptors.  ENTH domain containing proteins have additional roles
+in signaling  and  actin  regulation  and  may  have  yet other actions in the
+nucleus. The  ENTH  domain  is found associated with other domains such as UIM
+(see <PDOC50330>),  the  EH  domain  binding motif NPF, the DPW/F motif or the
+I/LWEQ domain. The ENTH domain has been shown to bind to phosphoinositides, as
+well as  to  interact with proteins, such as the transcription factor PLZF and
+tubulin [1,2,3,4].
+
+The ENTH  domain  forms a compact globular structure, composed of eight alpha-
+helices connected  by  loops  of  varying length (see <PDB:1EDU>). The general
+topology of  the  domain  is  determined  by  three  helical hairpins that are
+stacked consecutively  with  a  right  handed twist. The most highly conserved
+amino acids  fall  roughly  into  two  classes: (i) internal residues that are
+involved in  packing and therefore are necessary for structural integrity, and
+(ii) solvent  accessible  residues  that  may  be  involved in protein-protein
+interactions. The  ENTH  domain is structurally similar to the VHS domain (see
+<PDOC50179>) [4,5].
+
+Some proteins known to contain a ENTH domain are listed below:
+
+ - Mammalian epsin 1, 2 and 3 and their yeast homologs Ent1 through Ent4.
+ - Drosophila liquid facets (LqF), an epsin ortholog.
+ - Mammalian  AP180,  a  third  major component of neuronal endocytic clathrin
+   coats besides clathrin and AP-2.
+ - Mammalian CALM, the non-neuronal homolog of AP180.
+ - Yeast yAP180A and yAP180B, two AP180 homologs.
+ - Mammalian  HIP1  and HIP1R. so called because of their property to interact
+   with huntingtin  (huntingtin interacting protein and huntingtin interacting
+   protein related, respectively), the Huntington disease protein.
+ - Yeast Sla2, the homolog of HIP1/HIP1R.
+
+The profile we developed spans the entire ENTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2003 / First entry.
+
+[ 1] Kay B.K., Yamabhai M., Wendland B., Emr S.D.
+     "Identification of a novel domain shared by putative components of the
+     endocytic and cytoskeletal machinery."
+     Protein Sci. 8:435-438(1999).
+     PubMed=10048338
+[ 2] Itoh T., Koshiba S., Kigawa T., Kikuchi A., Yokoyama S., Takenawa T.
+     "Role of the ENTH domain in phosphatidylinositol-4,5-bisphosphate
+     binding and endocytosis."
+     Science 291:1047-1051(2001).
+     PubMed=11161217; DOI=10.1126/science.291.5506.1047
+[ 3] Ford M.G.J., Pearse B.M.F., Higgins M.K., Vallis Y., Owen D.J.,
+     Gibson A., Hopkins C.R., Evans P.R., McMahon H.T.
+     "Simultaneous binding of PtdIns(4,5)P2 and clathrin by AP180 in the
+     nucleation of clathrin lattices on membranes."
+     Science 291:1051-1055(2001).
+     PubMed=11161218; DOI=10.1126/science.291.5506.1051
+[ 4] Hyman J., Chen H., Di Fiore P.P., De Camilli P., Brunger A.T.
+     "Epsin 1 undergoes nucleocytosolic shuttling and its eps15 interactor
+     NH(2)-terminal homology (ENTH) domain, structurally similar to
+     Armadillo and HEAT repeats, interacts with the transcription factor
+     promyelocytic leukemia Zn(2)+ finger protein (PLZF)."
+     J. Cell Biol. 149:537-546(2000).
+     PubMed=10791968
+[ 5] De Camilli P., Chen H., Hyman J., Panepucci E., Bateman A.,
+     Brunger A.T.
+     FEBS Lett. 513:11-18(2002).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

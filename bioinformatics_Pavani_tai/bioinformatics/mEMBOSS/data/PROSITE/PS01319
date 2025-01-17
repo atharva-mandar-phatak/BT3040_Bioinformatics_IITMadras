@@ -1,0 +1,39 @@
+***************************************
+* Ribosome-binding factor A signature *
+***************************************
+
+Ribosome-binding factor  A  [1]  (gene  rbfA)  is  a  bacterial  protein  that
+associates with  free  30S ribosomal subunits. It does not associates with 30S
+subunits that  are  part  of  70S  ribosomes or polysomes. It is essential for
+efficient processing of 16S rRNA.
+
+Ribosome-binding factor  A  is a protein of from 13 to 15 Kd which is found in
+most prokaryotic  organisms.  A  putative chloroplastic form seems to exist in
+plants [2].
+
+As a signature pattern, we selected the best conserved region which is located
+in the second half of the protein.
+
+-Consensus pattern: [LIVMF]-[QKRHSA]-{E}-x-[LIVMAC]-x(5,6)-[LIVMW]-[RKAYF]-x-
+                    [STACIVMF]-[PV]-{LG}-[LIVMF]-x-[FYI]-x(2)-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bylund G.O., Wipemo L.C., Lundberg L.A., Wikstrom P.M.
+     "RimM and RbfA are essential for efficient processing of 16S rRNA in
+     Escherichia coli."
+     J. Bacteriol. 180:73-82(1998).
+     PubMed=9422595
+[ 2] Bairoch A.
+     Unpublished observations (1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

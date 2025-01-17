@@ -1,0 +1,35 @@
+PANCHORMONE
+The dominant endocrine cell type of the duodenal pancreas is the pancreatic
+polypeptide cell, which secretes pancreatic polypeptide, a hormone involved
+in the regulation of biliary tract motility, and of zymogen secretion from
+the exocrine pancreas [1]. The hormone is produced as a larger propeptide,
+which is enzymatically cleaved to yield the mature active peptide: this is
+36 amino acids in length [2] and has an amidated C-terminus [3]. The
+hormone has a globular structure, residues 2-8 forming a left-handed poly-
+proline-II-like helix, residues 9-13 a beta turn, and 14-32 an alpha-helix,
+held close to the first helix by hydrophobic interactions [2]. Unlike
+glucagon, another peptide hormone, the structure of pancreatic peptide is
+preserved in aqueous solution [4]. Both N- and C-termini are required for
+activity: receptor binding and activation functions may reside in the N-
+and C-termini respectively [2].
+
+Further peptide hormones have been identified that are similar to 
+pancreatic polypeptide in both sequence and structure, including neuro-
+peptide tyrosine (often call neuropeptide Y) and peptide YY. Neuropeptide
+Y, which is widely distributed in the central and peripheral nervous
+systems, is implicated in the control of feeding, and secretion of gonado-
+trophin-releasing hormone [2]. Peptide YY, a gut protein, inhibits exocrine
+pancreatic secretion, can cause vasoconstriction, and affects jejunal and
+colonic mobility [4].
+
+PANCHORMONE is a 2-element fingerprint that provides a signature for the
+pancreatic polypeptides. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from the full alignment
+length - motif 1 spans the polyproline-II-like helix, the beta turn and
+part of the alpha-helix, and motif 2 includes the remaining portion of the
+alpha-helix and the 5 conserved C-terminal residues encoded by PROSITE
+pattern PANCREATIC_HORMONE (PS00265). Three iterations on OWL22.1 were
+required to reach convergence, at which point a true set comprising 47
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 50 sequences.

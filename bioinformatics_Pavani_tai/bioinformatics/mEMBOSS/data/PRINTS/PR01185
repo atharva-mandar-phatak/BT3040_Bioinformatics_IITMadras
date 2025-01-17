@@ -1,0 +1,34 @@
+INTEGRINA
+Integrins constitute a large family of cell surface receptors that mediate
+both cell-cell and cell-matrix adhesion [1,2]. They are widely expressed and
+have a number of other roles that make them important therapeutic targets in
+conditions such as atherosclerosis, thrombosis, cancer and asthma.
+
+Structurally, integrins are heterodimeric associations of alpha and beta 
+chains. No crystallographic data exist for the heterodimer as a whole, but
+images of the gross overall structure have been obtained using electron
+microscopy. Each subunit has a large globular N-terminal extracellular
+domain, a single transmembrane (TM) domain, and a short C-terminal 
+cytoplasmic region. The exact pairing of alpha- and beta-subunits determines
+ligand specificity, localisation and function. Integrins interact with a
+variety of extra-cellular matrix (ECM) proteins (such as fibronectin, 
+collagen, laminin and fibrinogen) via RGD motifs in the ECM protein ligands.
+
+Within the N-terminal domain of alpha subunits, seven sequence repeats, each
+of approximately 60 amino acids, have been found [3]. It has been predicted 
+that these repeats assume a beta-propeller fold. The domains contain seven 
+four-stranded beta-sheets arranged in a torus around a pseudosymmetry axis
+[4]. Integrin ligands and a putative Mg2+ ion are predicted to bind to the
+upper face of the propeller, in a manner analogous to the way in which the
+trimeric G protein beta subunit (G beta) (which also has a beta-propeller
+fold) binds the G protein alpha subunit [4].
+
+INTEGRINA is an 8-element fingerprint that provides a signature for integrin
+alpha subunits. The fingerprint was derived from an initial alignment of 10
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motifs 1-7 span the N-terminal extracellular
+domain; and motif 8 lies within the TM domain. Four iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 41
+sequences was identified. Several partial matches were also found, all of 
+which are integrin alpha subunits and homologues that fail to match one or
+more motifs.

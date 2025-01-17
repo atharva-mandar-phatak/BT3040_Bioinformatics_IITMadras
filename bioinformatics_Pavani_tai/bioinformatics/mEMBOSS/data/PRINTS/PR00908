@@ -1,0 +1,51 @@
+THROMBINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Thrombin is a serine protease with a central role in blood clotting [6].
+It cleaves various substrates involved in coagulation, and activates cell
+surface receptors via a novel proteolytic action. Thrombin stimulates
+aggregation and secretion in blood platelets at the site of vascular injury,
+and also has inflammatory and reparative actions, stimulating chemotaxis in
+monocytes, proliferation of fibroblasts and lymphocytes, and inducing
+endothelium-dependent relaxation of blood vessels [6]. The protein activates
+a number of substrates involved in coagulation: it cleaves fibrinogen to
+fibrin and activates coagulation factor XIII; it also activates factors V
+and VIII [6]. When bound to thrombomodulin, it activates plasma protein C, 
+which, in concert with protein S, inactivates factors Va and VIIIa, leading
+to a decrease in thrombin formation [6].
+
+The thrombin receptor is expressed in high levels in platelets, vascular
+endothelial cells, and various cell lines [6]. The receptor activates 
+phosphoinositide metabolism via a pertussis-toxin-insensitive G protein,
+and inhibits adenylyl cyclase via a pertussis-toxin-sensitive G protein [6].
+
+THROMBINR is an 8-element fingerprint that provides a signature for
+thrombin receptors. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from conserved sections spanning
+the full alignment length, focusing on those regions that characterise
+the thrombin receptors but distinguish them from the rest of the
+rhodopsin-like GPCRs - motifs 1 and 2 lie at the N-terminus; motif 3 spans
+the first cytoplasmic loop; motif 4 spans the second cytoplasmic loop; motif
+5 lies in the second external loop, leading into TM domain 6; motif 6 spans 
+the third cytoplasmic loop; and motifs 7 and 8 lie at the C-terminus. A 
+single iteration on OWL30.2 was required to reach convergence, no further
+sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 6 sequences.

@@ -1,0 +1,66 @@
+MELNOCORTN4R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Adrenocorticotrophin (ACTH), melanocyte-stimulating hormones (MSH) and
+beta-endorphin are peptide products of pituitary pro-opiomelanocortin.
+ACTH regulates synthesis and release of glucocorticoids and aldosterone
+in the adrenal cortex; it also has a trophic action on these cells [6]. 
+ACTH and beta-endorphin are synthesised and released in response to 
+corticotrophin-releasing factor at times of stress (heat, cold, infections,
+etc.) - their release leads to increased metabolism and analgesia res..
+MSH has a trophic action on melanocytes, and regulates pigment production
+in fish and amphibia [6]. The ACTH receptor is found in high levels in
+the adrenal cortex - binding sites are present in lower levels in the
+CNS. The MSH receptor is expressed in high levels in melanocytes, 
+melanomas and their derived cell lines [6]. Receptors are found in low
+levels in the CNS. MSH regulates temperature control in the septal region
+of the brain and releases prolactin from the pituitary.
+
+A further gene, which encodes a melanocortin receptor that is functionally
+distinct from the ACTH and MSH receptors, has also been characterised [7-11].
+The protein contains ~300 amino acids, with calculated molecular mass of 
+~36 KDa, and potential N-linked glycosylation and phosphorylation sites
+[8]. The melanocortin 4 receptor (MC4-R) is regulated by opiate
+administration [10]. Rat MC4-R is 95% identical to human MC4-R, and the
+potency of melanocortin peptides to stimulate cAMP production is similar in 
+these two species homologues [10]. Expression of MC4-R mRNA was found to be
+enriched in the striatum, nucleus accumbens, and periaque-ductal gray, all
+of which are regions implicated in the behavioral effects of opiates 
+(and are regions in which MC1-, MC3- and MC5-R are expressed at low or 
+undetectable levels) [10]. MC4-R mRNA has been found in multiple sites in 
+virtually every brain region, including the cortex, thalamus, hypothalamus,
+brainstem, and spinal cord [11]. Unlike the MC3-R, MC4-R mRNA is found in 
+both parvicellular and magnocellular neurons of the paraventricular nucleus
+of the hypothalamus, suggesting a role in the central control of pituitary 
+function [11].
+
+MELNOCORTN4R is a 5-element fingerprint that provides a signature for the
+melanocortin 4 receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that
+characterise the melanocortin 4 receptors but distinguish them from 
+the rest of the melanocortin receptor family - motifs 1 and 2 lie at the 
+N-terminus; motif 3 lies in the first external loop; motif 4 spans the third
+cytoplasmic loop; and motif 5 lies at the C-terminus. A single iteration 
+on OWL27.1 was required to reach convergence, no further sequences being
+identified beyond the starting set. A single partial match was found, 
+B57055, a rat melanocortin 4 receptor fragment that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

@@ -1,0 +1,109 @@
+************************
+* Tudor domain profile *
+************************
+
+The Tudor  domain  is  a  domain  of  around 50-70 amino acids which was first
+identified as a repeat present in 10 copies in Drosophila Tudor protein [1,2].
+The Tudor domain is found in one or several copies in many eukaryotic proteins
+that colocalize   with  ribonucleoprotein  or  single-stranded  DNA-associated
+complexes in  the  nucleus, in the mitochondrial membrane, or at kinetochores.
+The Tudor  domain  can  be  found in association with other domains, such as a
+staphylococcal nuclease   (SN)-fold  (see  <PDOC00865>),  a  OTU  domain  (see
+<PDOC50802>), a  KH  domain (see <PDOC50084>), a DEAD/DEAH box helicase domain
+(see <PDOC00039>)   or   a  coiled-coil  domain.  An  insufficient  amount  of
+functional information  concerning  the  proteins containing a Tudor domain is
+currently available from which to ascribe putative functions to Tudor domains.
+However, it   is   likely  that  Tudor  domains  function  as  protein-protein
+interaction motifs  during  RNA metabolism and/or transport and do not bind to
+RNA directly [1,3,4].
+
+The resolution  of  the  solution  structure  of the Tudor domain of human SMN
+revealed that  the  Tudor domain forms a strongly bent antiparallel beta-sheet
+with five  strands  forming  a  barrel-like  fold.  The  structure  exhibits a
+conserved negatively  charged  surface  that interacts with the C-terminal Arg
+and Gly-rich tails of the spliceosomal Sm D1 and D3 proteins [4].
+
+Some proteins known to contain a Tudor domain are listed below:
+
+ - Drosophila  Tudor, a protein required during oogenesis for the formation of
+   primordial germ cells and for normal abdominal segmentation.
+ - Drosophila  Homeless  (HLS), a protein belonging to the DE-H family of RNA-
+   dependent ATPases  that  is required for RNA localization during oogenesis.
+   HLS might  function during the processing of pre-mRNA whose products direct
+   microtubules organization, which is required for mRNA transport.
+ - Drosophila  ovarian tumor protein (OTU). OTU is required at multiple stages
+   of oogenesis  and  the  Tudor  domain is required for its early function. A
+   portion of OTU cofractionates with mRNA/protein complexes (mRNPs) [5].
+ - Mammalian survival of motor neuron protein (SMN). SMN participates in small
+   nuclear ribonucleoprotein  (snRNP)  particles assembly in the cytoplasm and
+   may also affect splicing more directly in the nucleus. In human, defects of
+   the SMN  protein  are  associated  with  spinal  muscular  atrophy (SMA), a
+   disease in  which the anterior horn cells in the spinal corn die, resulting
+   in progressive  muscle  weakness  and  ultimately,  in  some  cases, in the
+   inability to breathe and swallow.
+ - Human  A-kinase  anchor  protein  1  (AKAP1).  It  binds  to  type I and II
+   regulatory subunits of protein kinase a and anchors them to the cytoplasmic
+   face of  the mitochondrial outer membrane. An alternatively spliced version
+   of AKAP1   (S-AKAP84)   participates   in   spermiogenesis,   probably   by
+   facilitating ordering of spermatid mitochondria.
+ - Human  p100, a nuclear protein that coactivates gene expression mediated by
+   the Epstein-Barr virus nuclear antigen 2 (EBNA-2). The p100 protein is also
+   able to bind single-stranded DNA.
+ - Human Tudor and KH domain-containing protein (TDRKH) [6].
+ - Rat Tudor repeat associator with PCTAIRE 2 (Trap). Trap contains five Tudor
+   domains and  interacts  with  the  N-terminal  domain  of  PCTAIRE 1 and 2,
+   members of  Cdk-related  kinases  which  is highly expressed in the nervous
+   system.
+ - Caenorhabditis elegans hypothetical protein C56G2.1.
+ - Rice  Rp120, a protein that binds to a wide range of mRNAs expressed during
+   seed development and is associated with the cytoskeleton [7].
+
+The profile we developed covers the entire Tudor domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Ponting C.P.
+     "Tudor domains in proteins that interact with RNA."
+     Trends Biochem. Sci. 22:51-52(1997).
+     PubMed=9048482
+[ 2] Callebaut I., Mornon J.-P.
+     "The human EBNA-2 coactivator p100: multidomain organization and
+     relationship to the staphylococcal nuclease fold and to the tudor
+     protein involved in Drosophila melanogaster development."
+     Biochem. J. 321:125-132(1997).
+     PubMed=9003410
+[ 3] Hirose T., Kawabuchi M., Tamaru T., Okumura N., Nagai K., Okada M.
+     "Identification of tudor repeat associator with PCTAIRE 2 (Trap). A
+     novel protein that interacts with the N-terminal domain of PCTAIRE 2
+     in rat brain."
+     Eur. J. Biochem. 267:2113-2121(2000).
+     PubMed=10727952
+[ 4] Selenko P., Sprangers R., Stier G., Buehler D., Fischer U., Sattler M.
+     "SMN tudor domain structure and its interaction with the Sm
+     proteins."
+     Nat. Struct. Biol. 8:27-31(2001).
+     PubMed=11135666; DOI=10.1038/83014
+[ 5] Glenn L.E., Searles L.L.
+     "Distinct domains mediate the early and late functions of the
+     Drosophila ovarian tumor proteins."
+     Mech. Dev. 102:181-191(2001).
+     PubMed=11287191
+[ 6] Lamb F.S., Barna T.J., Goud C., Marenholz I., Mischke D., Schutte B.C.
+     "Complex RNA processing of TDRKH, a novel gene encoding the putative
+     RNA-binding tudor and KH domains."
+     Gene 246:209-218(2000).
+     PubMed=10767542
+[ 7] Sami-Subbu R., Choi S.-B., Wu Y., Wang C., Okita T.W.
+     Plant Mol. Biol. 46:79-88(2001).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

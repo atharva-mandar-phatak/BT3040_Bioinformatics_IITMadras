@@ -1,0 +1,76 @@
+*******************************************************************
+* Riboflavin synthase alpha chain lumazine-binding repeat profile *
+*******************************************************************
+
+Riboflavin  synthase  (RS-alpha)  catalyzes  the  biosynthesis  of  riboflavin
+(vitamin B2) by dismutation of 6,7-dimethyl-8-(1'-D-ribityl)lumazine (Lum) (EC
+2.5.1.9).  Riboflavin  synthases  of  bacteria  and fungi are structurally and
+evolutionary related to antenna proteins involved in bioluminescence of marine
+bacteria  [1,2]. These proteins seem to have evolved from the duplication of a
+domain of about 100 residues, the lumazine-binding repeat.
+
+The  3D  structure  of RS-alpha, which is an asymmetric homotrimer, shows that
+both  domains form a 6-stranded antiparallel beta-barrel (see <PDB:1PKV>) [3],
+while  a C-terminal helix is involved in trimerization. The Lum-binding domain
+of  RS-alpha  forms two Greek-key folds with the topology BBHBBBHB, where most
+of  the substrate binding sites are located in beta-strands (B) 4 and 5 and in
+helix (H) 2 [3-5].
+
+Some proteins known to contain a lumazine-binding repeat:
+
+ - Riboflavin  synthase  alpha  chain  (EC  2.5.1.9) (gene ribC in Escherichia
+   coli,  ribB  in  Bacillus  subtilis  and Photobacterium leiognathi, RIB5 in
+   yeast).  This  enzyme  synthesizes  riboflavin from two molecules of Lum, a
+   pteridine-derivative.
+ - Photobacterium phosphoreum lumazine  protein (LumP) (gene luxL).  LumP is a
+   protein that  modulates  the  color  of  the  bioluminescence  emission  of
+   bacterial luciferase. In the presence of LumP, light emission is shifted to
+   higher energy  values (shorter wavelength). LumP  binds  non-covalently  to
+   6,7-dimethyl-8-(1'-D-ribityl)lumazine.
+ - Vibrio fischeri  yellow fluorescent protein (YFP) (gene luxY).  Like  LumP,
+   YFP modulates  light  emission  but  towards a longer wavelength. YFP binds
+   non-covalently to FMN.
+
+The profile we developed covers the entire lumazine-binding repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / Pattern removed, profile added and text revised.
+
+[ 1] O'Kane D.J., Woodward B., Lee J., Prasher D.C.
+     "Borrowed proteins in bacterial bioluminescence."
+     Proc. Natl. Acad. Sci. U.S.A. 88:1100-1104(1991).
+     PubMed=1996310
+[ 2] O'Kane D.J., Prasher D.C.
+     "Evolutionary origins of bacterial bioluminescence."
+     Mol. Microbiol. 6:443-449(1992).
+     PubMed=1560772;
+[ 3] Meining W., Eberhardt S., Bacher A., Ladenstein R.
+     "The structure of the N-terminal domain of riboflavin synthase in
+     complex with riboflavin at 2.6A resolution."
+     J. Mol. Biol. 331:1053-1063(2003).
+     PubMed=12927541
+[ 4] Truffault V., Coles M., Diercks T., Abelmann K., Eberhardt S.,
+     Luttgen H., Bacher A., Kessler H.
+     "The solution structure of the N-terminal domain of riboflavin
+     synthase."
+     J. Mol. Biol. 309:949-960(2001).
+     PubMed=11399071; DOI=10.1006/jmbi.2001.4683
+[ 5] Gerhardt S., Schott A.K., Kairies N., Cushman M., Illarionov B.,
+     Eisenreich W., Bacher A., Huber R., Steinbacher S., Fischer M.
+     "Studies on the reaction mechanism of riboflavin synthase: X-ray
+     crystal structure of a complex with
+     6-carboxyethyl-7-oxo-8-ribityllumazine."
+     Structure 10:1371-1381(2002).
+     PubMed=12377123
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,80 @@
+****************************
+* MATH/TRAF domain profile *
+****************************
+
+Although   apparently   functionally   unrelated,   intracellular   TRAFs  and
+extracellular  meprins  share  a  conserved  region of about 180 residues, the
+meprin and TRAF homology (MATH) domain [1].
+
+Meprins  are  mammalian  tissue-specific  metalloendopeptidases of the astacin
+family  implicated  in  developmental,  normal  and  pathological processes by
+hydrolyzing  a  variety  of  proteins.  Various growth factors, cytokines, and
+extracellular matrix proteins are substrates for meprins. They are composed of
+five structural domains: an N-terminal endopeptidase domain, a MAM domain (see
+<PDOC00604>),  a  MATH  domain,  an  EGF-like  domain  (see <PDOC00021>) and a
+C-terminal   transmembrane   region.  Meprin  A  and  B  form  membrane  bound
+homotetramer  whereas  homooligomers  of  meprin A are secreted. A proteolitic
+site adjacent to the MATH domain, only present in meprin A, allows the release
+of the protein from the membrane [2].
+
+TRAF  proteins  were  first  isolated  by  their  ability to interact with TNF
+receptors  [3].  They  promote  cell  survival by the activation of downstream
+protein  kinases  and,  finally,  transcription  factors of the NF-kB and AP-1
+family.  The TRAF proteins are composed of 3 structural domains: a RING finger
+(see  <PDOC00449>)  in  the  N-terminal part of the protein, one to seven TRAF
+zinc  fingers  (see  <PDOC50145>)  in  the  middle  and the MATH domain in the
+C-terminal  part  [1].  The  MATH  domain  is  necessary  and  sufficient  for
+self-association  and  receptor  interaction. From the structural analysis two
+consensus  sequence  recognized  by the TRAF domain have been defined: a major
+one, [PSAT]x[QE]E and a minor one, PxQxxD [4].
+
+The  structure of the TRAF2 protein reveals a trimeric self-association of the
+MATH  domain  (see  <PDB:1CA4>)  [5].  The  domain forms a new, eight-stranded
+antiparallel  beta  sandwich  structure.  A coiled-coil region adjacent to the
+MATH  domain  is  also important for the trimerisation. The oligomerisation is
+essential for establishing appropriate connections to form signaling complexes
+with TNF receptor-1. The ligand binding surface of TRAF proteins is located in
+beta-strands 6 and 7 [4].
+
+The profile we developed covers the whole MATH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2003 / First entry.
+
+[ 1] Sunnerhagen M., Pursglove S., Fladvad M.
+     "The new MATH: homology suggests shared binding surfaces in meprin
+     tetramers and TRAF trimers."
+     FEBS Lett. 530:1-3(2002).
+     PubMed=12387856
+[ 2] Marchand P., Tang J., Johnson G.D., Bond J.S.
+     "COOH-terminal proteolytic processing of secreted and membrane forms
+     of the alpha subunit of the metalloprotease meprin A. Requirement of
+     the I domain for processing in the endoplasmic reticulum."
+     J. Biol. Chem. 270:5449-5456(1995).
+     PubMed=7890660
+[ 3] Rothe M., Wong S.C., Henzel W.J., Goeddel D.V.
+     "A novel family of putative signal transducers associated with the
+     cytoplasmic domain of the 75 kDa tumor necrosis factor receptor."
+     Cell 78:681-692(1994).
+     PubMed=8069916
+[ 4] Ye H., Park Y.C., Kreishman M., Kieff E., Wu H.
+     "The structural basis for the recognition of diverse receptor
+     sequences by TRAF2."
+     Mol. Cell 4:321-330(1999).
+     PubMed=10518213
+[ 5] Park Y.C., Burkitt V., Villa A.R., Tong L., Wu H.
+     "Structural basis for self-association and receptor recognition of
+     human TRAF2."
+     Nature 398:533-538(1999).
+     PubMed=10206649; DOI=10.1038/19110
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

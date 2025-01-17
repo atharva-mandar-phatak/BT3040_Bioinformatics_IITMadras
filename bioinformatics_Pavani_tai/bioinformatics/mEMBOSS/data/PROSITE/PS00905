@@ -1,0 +1,57 @@
+*****************************
+* GTP1/OBG family signature *
+*****************************
+
+A widespread  family  of  GTP-binding proteins has been recently characterized
+[1,2]. This family currently includes:
+
+ - Mouse and Xenopus protein DRG.
+ - Human protein DRG2.
+ - Drosophila protein 128up.
+ - Fission yeast protein gtp1.
+ - A Halobacterium cutirubrum hypothetical protein in a ribosomal protein gene
+   cluster.
+ - Bacillus subtilis  protein obg. Obg  has been experimentally shown to  bind
+   GTP.
+ - Escherichia coli hypothetical protein yhbZ.
+ - Haemophilus influenzae hypothetical protein HI0877.
+ - Mycoplasma genitalium hypothetical protein MG384.
+ - Yeast hypothetical protein YAL036c (FUN11).
+ - Yeast hypothetical protein YGR173w.
+ - Caenorhabditis elegans hypothetical protein C02F5.3.
+
+The function of the proteins that belong to this family is not yet known. They
+are polypeptides of about  40 to 48 Kd which contain  the  five small sequence
+elements characteristic of GTP-binding proteins [3]. As a signature pattern we
+selected the region that correspond to the ATP/GTP B motif (also called G-3 in
+GTP-binding proteins).
+
+-Consensus pattern: D-[LIVMA]-P-G-[LIVM](2)-[DEYPKQV]-[GN]-A-x(2)-G-x-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sazuka T., Tomooka Y., Ikawa Y., Noda M., Kumar S.
+     "DRG: a novel developmentally regulated GTP-binding protein."
+     Biochem. Biophys. Res. Commun. 189:363-370(1992).
+     PubMed=1449490
+[ 2] Hudson J.D., Young P.G.
+     "Sequence of the Schizosaccharomyces pombe gtp1 gene and
+     identification of a novel family of putative GTP-binding proteins."
+     Gene 125:191-193(1993).
+     PubMed=8462872
+[ 3] Bourne H.R., Sanders D.A., McCormick F.
+     "The GTPase superfamily: conserved structure and molecular
+     mechanism."
+     Nature 349:117-127(1991).
+     PubMed=1898771; DOI=10.1038/349117a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

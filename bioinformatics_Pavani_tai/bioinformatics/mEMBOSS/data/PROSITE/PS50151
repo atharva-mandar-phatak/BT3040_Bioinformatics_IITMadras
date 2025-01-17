@@ -1,0 +1,55 @@
+**********************
+* UVR domain profile *
+**********************
+
+In   prokaryote,  nucleotide  excision  repair,  DNA  damage  recognition  and
+processing  are  achieved  by  the  action  of  the  uvrA, uvrB, and uvrC gene
+products  [1].  UvrB  and uvrC share a common domain of around 35 amino acids,
+the so called UVR domain. This domain in uvrB can interact with the homologous
+domain  in uvrC. The crystal structure of Escherichia coli uvrB and uvrC dimer
+[2]  revealed  that the interaction is made throughout a coiled coil structure
+(see  <PDB:1QOJ>).  This  interaction  is  important  for  the incision of the
+damaged strand [3].
+
+A  conserved region similar to the UVR domain is also found in the ATP-binding
+subunit  of  bacterial and chloroplastic Clp proteases, which suggest that the
+UVR domain is not only involved in the interaction between uvrB and uvrC.
+
+The profile we developed covers the whole domain.
+
+-Sequences known to belong to this class detected by the profile: a majority.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Because  of the short size of the domain it is not possible to pick-up
+ all UVR domains with a statistically significant score.
+
+-Last update: April 2002 / First entry.
+
+[ 1] Van Houten B., Snowden A.
+     "Mechanism of action of the Escherichia coli UvrABC nuclease: clues to
+     the damage recognition problem."
+     BioEssays 15:51-59(1993).
+     PubMed=8466476;
+[ 2] Sohi M., Alexandrovich A., Moolenaar G., Visse R., Goosen N.,
+     Vernede X., Fontecilla-Camps J.C., Champness J., Sanderson M.R.
+     "Crystal structure of Escherichia coli UvrB C-terminal domain, and a
+     model for UvrB-uvrC interaction."
+     FEBS Lett. 465:161-164(2000).
+     PubMed=10631326;
+[ 3] Moolenaar G.F., Franken K.L., Dijkstra D.M., Thomas-Oates J.E.,
+     Visse R., van de Putte P., Goosen N.
+     "The C-terminal region of the UvrB protein of Escherichia coli
+     contains an important determinant for UvrC binding to the preincision
+     complex but not the catalytic site for 3'-incision."
+     J. Biol. Chem. 270:30508-30515(1995).
+     PubMed=8530482;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

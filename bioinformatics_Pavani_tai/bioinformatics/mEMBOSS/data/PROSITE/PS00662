@@ -1,0 +1,60 @@
+**********************************************************
+* Bacterial type II secretion system protein E signature *
+**********************************************************
+
+A number  of  bacterial  proteins,  some  of  which  are involved in a general
+secretion pathway  (GSP) for the export  of  proteins (also called the type II
+pathway) [1,2],  have  been  found to be evolutionary related.  These proteins
+are listed below:
+
+ - The    'E'   protein from the GSP operon of: Aeromonas (gene exeE); Erwinia
+   (gene outE);  Escherichia  coli  (gene  yheG);  Klebsiella pneumoniae (gene
+   pulE); Pseudomonas  aeruginosa (gene xcpR); Vibrio cholerae (gene epsE) and
+   Xanthomonas campestris (gene xpsE).
+ - Agrobacterium tumefaciens Ti plasmid virB operon protein 11.  This  protein
+   is required for the transfer of T-DNA to plants.
+ - Bacillus subtilis comG operon protein 1 which is required for the uptake of
+   DNA by competent Bacillus subtilis cells.
+ - Aeromonas hydrophila tapB, involved in type IV pilus assembly.
+ - Pseudomonas protein pilB, which is essential for the formation of the pili.
+ - Pseudomonas aeruginosa protein twitching mobility protein pilT.
+ - Neisseria gonorrhoeae type IV pilus assembly protein pilF.
+ - Vibrio cholerae protein tcpT, which  is involved in the biosynthesis of the
+   tcp pilus.
+ - Escherichia coli protein hofB (hopB).
+ - Escherichia coli hypothetical protein ygcB.
+ - Escherichia coli hypothetical protein yggR.
+
+These proteins have from 344 (pilT and virB11) to 568 (tapB) amino acids, they
+are probably  cytoplasmically located and, on  the  basis of the presence of a
+conserved P-loop region (see <PDOC00017>), probably bind ATP.  As  a signature
+pattern we  selected  a  region  that  overlaps  the  'B' motif of ATP-binding
+proteins.
+
+-Consensus pattern: [LIVM]-R-x(2)-P-D-x-[LIVM](3)-G-E-[LIVM]-R-D
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ygcB.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Text revised.
+
+[ 1] Salmond G.P.C., Reeves P.J.
+     "Membrane traffic wardens and protein secretion in gram-negative
+     bacteria."
+     Trends Biochem. Sci. 18:7-12(1993).
+     PubMed=8438237
+[ 2] Hobbs M., Mattick J.S.
+     "Common components in the assembly of type 4 fimbriae, DNA transfer
+     systems, filamentous phage and protein-secretion apparatus: a general
+     system for the formation of surface-associated protein complexes."
+     Mol. Microbiol. 10:233-243(1993).
+     PubMed=7934814
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

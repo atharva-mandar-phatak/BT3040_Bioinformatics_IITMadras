@@ -1,0 +1,35 @@
+NEUROLIGIN
+Neuroligins constitute a family of brain neurone-specific membrane proteins
+whose structural and biochemical characteristics are indicative of a role in
+heterotypic cell adhesion [1]. Functionally, they bind to the extracellular
+domains of a subset of beta-neurexins in a Ca2+-dependent manner. They have
+been localised to the postsynaptic membranes of excitatory synapses [2].
+This, together with the fact that their C-termini likely bind to PSD-95 (a
+PDZ-domain protein enriched in postsynaptic densities), suggests that they
+may be involved in the recruitment of proteins (such as receptors, ion
+channels and signal-transduction molecules) to synaptic sites of cell
+adhesion.
+
+To date, three neuroligins have been reported, designated neuroligin 1-3 [3].
+Multiple sequence alignment has revealed them to be highly similar, sharing
+overall ~52% identity. The similarity is distributed over the whole protein
+sequence, with the extracellular and transmembrane (TM) domains being more
+conserved than the cytoplasmic regions. They are composed of five domains:
+an N-terminal cleaved signal sequence; a large extracellular region 
+homologous to esterases; a linker between the TM domain and the esterase 
+homology domain that may be O-glycosylated; a single TM domain; and a
+cytoplasmic C-terminal tail. Further sequence comparisons place the
+neuroligins into the large family of esterase homology domain proteins, 
+which includes thyroglobulin, acetylcholinesterase, and gliotactin,
+although the neuroligins are themselves catalytically inactive.
+
+NEUROLIGIN is a 4-element fingerprint that provides a signature for 
+neuroligins. The fingerprint was derived from an initial alignment of 3
+sequences: the motifs were drawn from conserved regions within the
+C-terminal half of the molecule - motifs 1-3 encode portions of the
+esterase homology domain, located after the two alternate splice sites; and
+motif 4 spans the junction between the linker region and the putative
+TM domain. A single iteration on OWL31.1 was required to reach convergence,
+no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

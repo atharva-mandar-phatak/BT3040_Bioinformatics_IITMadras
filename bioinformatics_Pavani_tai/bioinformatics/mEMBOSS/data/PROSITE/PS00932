@@ -1,0 +1,103 @@
+********************************************************
+* Prokaryotic molybdopterin oxidoreductases signatures *
+********************************************************
+
+A number of  different  prokaryotic  oxidoreductases  that require  and bind a
+molybdopterin cofactor have been shown [1,2,3] to share a number of regions of
+sequence similarity. These enzymes are:
+
+ - Escherichia coli respiratory nitrate  reductase (EC 1.7.99.4).  This enzyme
+   complex allows the bacteria  to  use nitrate as an electron acceptor during
+   anaerobic growth.  The enzyme is composed of three different chains: alpha,
+   beta  and gamma.  The alpha chain (gene narG)  is the molybdopterin-binding
+   subunit.  Escherichia coli  encodes for  a second, closely related, nitrate
+   reductase complex  which also contains a  molybdopterin-binding alpha chain
+   (gene narZ).
+ - Escherichia coli anaerobic dimethyl sulfoxide  reductase  (DMSO reductase).
+   DMSO reductase is the terminal reductase during anaerobic growth on various
+   sulfoxide  and N-oxide compounds.  DMSO  reductase  is  composed  of  three
+   chains: A, B and C. The A chain (gene dmsA) binds molybdopterin.
+ - Escherichia  coli  biotin  sulfoxide reductases (genes bisC and bisZ). This
+   enzyme reduces  a  spontaneous  oxidation  product  of biotin, BDS, back to
+   biotin. It  may  serve  as  a  scavenger,  allowing  the cell to use biotin
+   sulfoxide as a biotin source.
+ - Methanobacterium formicicum formate  dehydrogenase (EC 1.2.1.2).  The alpha
+   chain (gene fdhA) of this dimeric enzyme binds a molybdopterin cofactor.
+ - Escherichia coli formate dehydrogenases -H (gene fdhF), -N (gene fdnG)  and
+   -O (gene fdoG).  These enzymes are responsible for the oxidation of formate
+   to carbon  dioxide.  In  addition   to molybdopterin, the alpha (catalytic)
+   subunit also contains an active site, selenocysteine.
+ - Wolinella  succinogenes  polysulfide reductase  chain.   This  enzyme  is a
+   component of the phosphorylative electron transport system with polysulfide
+   as the  terminal acceptor. It is composed of three chains: A, B and C.  The
+   A chain (gene psrA) binds molybdopterin.
+ - Salmonella typhimurium thiosulfate reductase (gene phsA).
+ - Escherichia coli trimethylamine-N-oxide reductase  (EC 1.6.6.9) (gene torA)
+   [4].
+ - Nitrate  reductase  (EC  1.7.99.4)  from Klebsiella pneumoniae (gene nasA),
+   Alcaligenes eutrophus,    Escherichia    coli,   Rhodobacter   sphaeroides,
+   Thiosphaera pantotropha  (gene  napA),  and  Synechococcus  PCC  7942 (gene
+   narB).
+
+These proteins range from 715 amino acids (fdhF) to 1246 amino acids (narZ) in
+size.
+
+We derived three signature patterns for these enzymes. The first is based on a
+conserved region  in the N-terminal section and contains two cysteine residues
+perhaps involved  in  binding  the molybdopterin cofactor. It should  be noted
+that this region is not present in bisC.  The second pattern is derived from a
+conserved region located in the central part of these enzymes.
+
+-Consensus pattern: [STAN]-x-[CH]-x(2,3)-C-[STAG]-[GSTVMF]-x-C-x-[LIVMFYW]-x-
+                    [LIVMA]-x(3,4)-[DENQKHT]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for bisC/bisZ and torA.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [STA]-x-[STAC](2)-x(2)-[STA]-D-[LIVMY](2)-L-P-x-[STAC](2)-
+                    x(2)-E
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for fdnG, fdoG and nasA/napA/narB.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: A-x(3)-[GDTN]-[IF]-x-[DNQTKEH]-x-[DEAQ]-x-[LIVM]-x-
+                    [LIVMC]-x-[NS]-x(2)-[GS]-x(4,5)-[AV]-x-[LIVMEF]-[STY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for nasA/napA/narB.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wootton J.C., Nicolson R.E., Cock J.M., Walters D.E., Burke J.F.,
+     Doyle W.A., Bray R.C.
+     "Enzymes depending on the pterin molybdenum cofactor: sequence
+     families, spectroscopic properties of molybdenum and possible
+     cofactor-binding domains."
+     Biochim. Biophys. Acta 1057:157-185(1991).
+     PubMed=2015248
+[ 2] Bilous P.T., Cole S.T., Anderson W.F., Weiner J.H.
+     "Nucleotide sequence of the dmsABC operon encoding the anaerobic
+     dimethylsulphoxide reductase of Escherichia coli."
+     Mol. Microbiol. 2:785-795(1988).
+     PubMed=3062312
+[ 3] Trieber C.A., Rothery R.A., Weiner J.H.
+     "Multiple pathways of electron transfer in dimethyl sulfoxide
+     reductase of Escherichia coli."
+     J. Biol. Chem. 269:7103-7109(1994).
+     PubMed=8125918
+[ 4] Mejean V., Iobbi-Nivol C., Lepelletier M., Giordano G., Chippaux M.,
+     Pascal M.-C.
+     "TMAO anaerobic respiration in Escherichia coli: involvement of the
+     tor operon."
+     Mol. Microbiol. 11:1169-1179(1994).
+     PubMed=8022286
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

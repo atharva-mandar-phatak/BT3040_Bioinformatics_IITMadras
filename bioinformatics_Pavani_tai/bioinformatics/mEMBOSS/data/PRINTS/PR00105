@@ -1,0 +1,27 @@
+C5METTRFRASE
+DNA (C5-cytosine) methyltransferases catalyse the methylation of the ring
+carbon of cytosine in specific DNA sequences to produce C5-methylcytosine
+[1]. In mammalian cells, cytosine-specific methyltransferases methylate
+certain CpG sequences, which are believed to modulate gene expression and 
+cell differentiation. In bacteria, these enzymes are a component of 
+restriction-modification systems and serve as valuable tools for the 
+manipulation of DNA [1,2]. The structure of HhaI methyltransferase (M.HhaI)
+has been resolved to 2.5 A [3]: the molecule folds into 2 domains -  a
+larger catalytic domain containing catalytic and cofactor binding sites,
+and a smaller DNA recognition domain. 
+
+C5METTRFRASE is a 3-element fingerprint that provides a signature for the
+cytosine-specific methyltransferases. The fingerprint was derived from an
+initial alignment of 11 sequences: the motifs were drawn from some of the
+conserved regions identified by Posfai et al. [4] - motif 1 contains the
+pattern FAGxGG, which forms part of the cofactor S-adenosyl-L-methionine
+(SAM) binding site [3]; motifs 2 and 3 contain conserved Glu and Arg
+residues, respectively, corresponding to Glu-119 and Arg-165 in HhaI, which
+form a salt bridge in the binary complex of HhaI with SAM [3] (cf. PROSITE
+patterns C5_MTASE_1 and C5_MTASE_2). Upon DNA binding, the ion pair is
+disrupted and both side chains interact with polar groups of the target
+cytosine [5]. Two iterations on OWL10.1 were required to reach convergence,
+at which point a true set comprising 26 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 100 sequences, and 14
+partial matches.

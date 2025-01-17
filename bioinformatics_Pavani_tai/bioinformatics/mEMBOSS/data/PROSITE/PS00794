@@ -1,0 +1,46 @@
+*****************************************************************
+* 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase signature *
+*****************************************************************
+
+All organisms require reduced folate cofactors  for the synthesis of a variety
+of metabolites.  Most  microorganisms  must synthesize folate  de novo because
+they lack the  active transport system of higher vertebrate cells which allows
+these organisms   to   use   dietary   folates.  Enzymes  involved  in  folate
+biosynthesis are therefore targets for a variety of antimicrobial agents  such
+as trimethoprim or sulfonamides.
+
+7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase     (EC 2.7.6.3)    (HPPK)
+catalyzes the attachment of pyrophosphate to 6-hydroxymethyl-7,8-dihydropterin
+to form 6-hydroxymethyl-7,8-dihydropteridine pyrophosphate.  This is the first
+step in a three-step pathway leading to 7,8-dihydrofolate.
+
+Bacterial HPPK (gene folK or sulD) [1] is a  protein  of      160 to 270 amino
+acids. In the lower eukaryote Pneumocystis carinii, HPPK is the central domain
+of a multifunctional folate synthesis enzyme (gene fas) [2].
+
+As a signature for HPPK, we selected a conserved region located in the central
+section of these enzymes.
+
+-Consensus pattern: [KRHD]-x-[GA]-[PSAE]-R-x(2)-D-[LIV]-D-[LIVM](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Talarico T.L., Ray P.H., Dev I.K., Merrill B.M., Dallas W.S.
+     "Cloning, sequence analysis, and overexpression of Escherichia coli
+     folK, the gene coding for
+     7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase."
+     J. Bacteriol. 174:5971-5977(1992).
+     PubMed=1325970
+[ 2] Volpes F., Dyer M., Scaife J.G., Darby G., Stammers D.K., Delves C.J.
+     Gene 112:213-218(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

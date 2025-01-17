@@ -1,0 +1,65 @@
+************************************************************************
+* Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain profiles *
+************************************************************************
+
+Phosphatidylinositol 3-kinases  (PI3Ks)  are  lipid kinases that phosphorylate
+4,5-bisphonate (PI(4,5)  P2  or  PIP2) at the 3-position of the inositol ring,
+and thus  generate  phosphatidylinositol 3,4,5-trisphosphate (PIP3), which, in
+turns, initiates  a  vast array of signaling events. PI3Ks can be grouped into
+three classes   based   on  their  domain  organization.  Class  I  PI3Ks  are
+heterodimers consisting  of  a p110 catalytic subunit and a regulatory subunit
+of either  the p85 type (associated with the class IA p110 isoforms p110alpha,
+p110beta or  p110delta)  or  the  p101 type (associated with the class IB p110
+isoform p110gamma).  Common  to  all  catalytic  subunits  are  the N-terminal
+adaptor-binding domain  (ABD)  (see  <PDOC51544>)  that binds to p85, the Ras-
+binding domain  (RBD),  the putative membrane-binding domain (C2), the helical
+domain of unknown function, and the kinase catalytic domain (see <PDOC00710>).
+Class II PI3Ks lack the ABD domain and are distinguished by a carboxy terminal
+C2 domain  (see  <PDOC00380>).  Class III enzymes lack the ABD and RBD domains
+[1,2,3,4].
+
+PI3K RBD  is  a  small globular domain of about 100 residues in length with an
+alpha/beta-sandwich topology (see <PDB:2RD0>). The PI3K RBD domain consists of
+a five-stranded mixed beta-sheet flanked by two alpha-helices [1,2,3,4].
+
+The profile we developed covers the entire PI3K RBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2011 / First entry.
+
+[ 1] Miled N., Yan Y., Hon W.-C., Perisic O., Zvelebil M., Inbar Y.,
+     Schneidman-Duhovny D., Wolfson H.J., Backer J.M., Williams R.L.
+     "Mechanism of two classes of cancer mutations in the phosphoinositide
+     3-kinase catalytic subunit."
+     Science 317:239-242(2007).
+     PubMed=17626883; DOI=10.1126/science.1135394
+[ 2] Huang C.-H., Mandelker D., Schmidt-Kittler O., Samuels Y.,
+     Velculescu V.E., Kinzler K.W., Vogelstein B., Gabelli S.B.,
+     Amzel L.M.
+     "The structure of a human p110alpha/p85alpha complex elucidates the
+     effects of oncogenic PI3Kalpha mutations."
+     Science 318:1744-1748(2007).
+     PubMed=18079394; DOI=10.1126/science.1150799
+[ 3] Berndt A., Miller S., Williams O., Le D.D., Houseman B.T.,
+     Pacold J.I., Gorrec F., Hon W.-C., Liu Y., Rommel C., Gaillard P.,
+     Rueckle T., Schwarz M.K., Shokat K.M., Shaw J.P., Williams R.L.
+     "The p110delta structure: mechanisms for selectivity and potency of
+     new PI(3)K inhibitors."
+     Nat. Chem. Biol. 6:244-244(2010).
+     PubMed=20154668; DOI=10.1038/nchembio0310-244b
+[ 4] Walker E.H., Perisic O., Ried C., Stephens L., Williams R.L.
+     "Structural insights into phosphoinositide 3-kinase catalysis and
+     signalling."
+     Nature 402:313-320(1999).
+     PubMed=10580505; DOI=10.1038/46319
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

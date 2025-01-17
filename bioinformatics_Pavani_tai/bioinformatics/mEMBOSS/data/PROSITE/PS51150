@@ -1,0 +1,81 @@
+***************************************
+* Agouti domain signature and profile *
+***************************************
+
+The agouti   signaling   protein   (ASIP   or  the  agouti  protein)  and  its
+neuropeptide homolog the agouti-related protein (AgRP) are paracrine signaling
+molecules that  act  as  inverse  agonists at distinct subsets of melanocortin
+receptors. ASIP   antagonizes  the  binding  of  alpha-melanocyte  stimulating
+hormone (alpha-MSH)  to  melanocortin  1  receptor  (MC1R),  switching melanin
+synthesis from  eumelanin  (black/brown)  to  phaeomelanin  (red/yellow).  The
+effect of  ASIP on pigment type-switching is responsible for a variety of coat
+color patterns accross a broad range of mammalian species. AgRP is involved in
+energy balance  and  acts normally at the MC3R and MC4R to control body weight
+regulation and metabolism [1,2].
+
+Sequence similarity  between  ASIP  and  AgRP is confined to their Cys-rich C-
+terminal domains, which are also responsible for melanocortin receptor binding
+activity in vitro. Approximately 40 residues in length, there are ten cysteine
+residues in  the C-terminal domain that form a network of five disulfide bonds
+(see the   schematic  representation  below).  The  agouti  C-terminal  domain
+contains a  three-stranded antiparallel beta sheet, where the last two strands
+form a  beta  hairpin  (see  <PDB:1HYK>). The hairpin's turn region presents a
+triplet of  residues  (Arg-Phe-Phe)  known  to  be  essential for melanocortin
+receptor binding.  The  agouti  C-terminal domain adopts the inhibitor cystine
+knot (ICK)   or  knottin  fold  identified  in  numerous  invertebrate  toxins
+[2,3,E1].
+
+                                  +---------------------+
+                    +---------+   |        +---+        |
+                    #         #   |        #   #        |
+                    CxxxxCxxxCCxxxCxxxCxxxxCxxxCxxxCxxxxC
+                         |   |        |            |
+                         +---|--------+            |
+                             +---------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': positions of the cysteine, which are not involved in knottin scaffold
+
+Our pattern and profile for the agouti domain cover the 10 cysteines  involved
+in disulfide bonds.
+
+-Conserved pattern: C-x(6)-C-x(6)-C-C-x(2)-C-x(2)-C-x-C-x(6)-C-x-C-x(6,9)-C
+                    [The 10 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: October 2005 / First entry.
+
+[ 1] Voisey J., Kelly G., Van Daal A.
+     "Agouti signal protein regulation in human melanoma cells."
+     Pigment Cell Res. 16:65-71(2003).
+     PubMed=12519127
+[ 2] McNulty J.C., Jackson P.J., Thompson D.A., Chai B., Gantz I.,
+     Barsh G.S., Dawson P.E., Millhauser G.L.
+     "Structures of the agouti signaling protein."
+     J. Mol. Biol. 346:1059-1070(2005).
+     PubMed=15701517; DOI=10.1016/j.jmb.2004.12.030
+[ 3] McNulty J.C., Thompson D.A., Bolin K.A., Wilken J., Barsh G.S.,
+     Millhauser G.L.
+     "High-resolution NMR structure of the chemically-synthesized
+     melanocortin receptor binding domain AGRP(87-132) of the
+     agouti-related protein."
+     Biochemistry 40:15520-15527(2001).
+     PubMed=11747427; DOI=10.1021/bi0117192
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

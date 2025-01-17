@@ -1,0 +1,29 @@
+LIMPII
+Lysosome membrane protein II (LIMP II) is a 478-residue glycoprotein
+expressed in the membrane of lysosomes and secretory granules with lysosomal
+properties [1]. The N-terminal segment (residues ~4-26) constitute an 
+uncleavable signal peptide [1]. LIMP II possesses an additional C-terminal
+hydrophobic region that, together with the signal peptide, may anchor the
+protein to the membrane [1]. The major portion of the protein resides on the
+luminal side and contains 11 potential N-glycosylation sites and 5 cysteine
+residues. The N- and C-terminal ends of the protein constitute short 
+cytoplasmic tails. 
+
+Comparison of the sequence to that of other lysosomal membrane glycoproteins
+reveals no similarity. Glycine-tyrosine residues (the so-called GY motif),
+believed to constitute an important signal for delivery of lysosomal 
+membrane glycoproteins to lysosomes, are not contained in the cytoplasmic 
+tail [2,3]. The protein thus appears to be a unique LIMP that does not 
+require tyrosine residues for targeting to lysosomes [2]. Sequence database 
+searches reveal extensive similarity between LIMP II and the cell surface 
+protein CD36 involved in cell adhesion [1]. 
+
+LIMPII is a 9-element fingerprint that provides a signature for lysosome
+membrane protein LIMP II. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that
+characterise LIMP II proteins but distinguish them from the rest of the
+CD36 adhesion molecule family - motif 1 encodes the first TM domain; motifs
+2-8 span the lumenal domain; and motif 9 encodes the C-terminal cytoplasmic
+tail. Two iterations on SPTR40_18f were required to reach convergence, at
+which point a true set comprising 3 sequences was identified. 

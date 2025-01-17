@@ -1,0 +1,29 @@
+LMBPPROTEIN
+The lincomycin (LM)-production gene cluster of the over-producing strain
+Streptomyces lincolnensis 78-11 has been analysed [1]. The lmb/lmr gene 
+cluster contains 27 open reading frames with putative biosynthetic or
+regulatory functions (lmb genes) and three resistance (lmr) genes [1]. 
+
+Only a minority of the putative Lmb proteins belong to known protein
+families: these include members of the gamma-glutamyl transferases (LmbA);
+amino acid acylases (LmbC); aromatic amino acid aminotransferases (LmbF);
+imidazoleglycerolphosphate dehydratases (LmbK); dTDP-glucose synthases
+(LmbO); dTDP-glucose 4,6-dehydratases (LmbM); and (NDP-) ketohexose (or 
+ketocyclitol) aminotransferases (LmbS) [1]. 
+
+LmbP seems to show some similarity to a family of enzymes that share an
+N-terminal Gly/Ser-rich putative ATP-binding region: these include galacto-
+kinase, homoserine kinase, mevalonate kinase and phosphomevalonate kinase
+[2]. Sequence v031 from Mycobacterium tuberculosis [3] is also a homologue.
+
+LMBPPROTEIN is a 5-element fingerprint that provides a signature for
+LmbP proteins. The fingerprint was derived from an initial alignment of
+3 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length. A single iteration on OWL30.2 was
+required to reach convergence, no further sequences being identified
+beyond the starting set. A single partial match was found, KIME_METTH,
+a related mevalonate kinase from Methanobacterium thermoautotrophicum 
+that matches motifs 1 and 5.
+
+An update on SPTR37_9f identified a true set of 3 sequences, and 4
+partial matches.

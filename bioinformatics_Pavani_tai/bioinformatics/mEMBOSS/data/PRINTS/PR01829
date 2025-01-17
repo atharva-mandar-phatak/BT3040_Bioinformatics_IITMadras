@@ -1,0 +1,24 @@
+PROTACHYKNIN
+Tachykinins, which comprise a family of closely related peptides with 
+the common C-terminal sequence FxGLM, participate in the regulation of 
+diverse biological processes, such as neurotransmission and neuromodulation
+[1-3]. The tachykinin peptides substance P, neurokinin A, neurokinin 
+A(3-10), neuropeptide K and neuropeptide gamma are produced from a single
+prepro-tachykinin gene as a result of differential RNA splicing and
+differential post-translational processing [1]. Preprotachykinin mRNAs are
+differentially distributed throughout the nervous system, with the alpha
+isoform found abundantly in the brain, and the beta and gamma isoforms found
+mainly in peripheral tissues [1,2].
+
+PROTACHYKNIN is a 6-element fingerprint that provides a signature for the
+protachykinin 1 precursors. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 encodes the putative signal
+peptide; motifs 2 and 3 lie in the adjacent region of the precursor peptide;
+motif 4 includes the region encoding substance P; motif 5 encodes the
+central portion (present in all isoforms) of the neuropeptide K sequence;
+and motif 6 is located at the C-terminus. Two iterations on SPTR40_20f
+were required to reach convergence, at which point a true set comprising
+11 sequences was identified. A single partial match was also found,
+Q9Y6V5, a human protein whose sequence is likely to contain errors and 
+which, as a result, fails to match motifs 5 and 6.

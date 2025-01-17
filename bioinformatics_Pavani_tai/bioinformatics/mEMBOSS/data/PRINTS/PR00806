@@ -1,0 +1,26 @@
+VINCULIN
+Vinculin is a eukaryotic protein that appears to be involved in the
+attachment of actin-based microfilaments to the plasma membrane [1].  
+It also interacts with other structural proteins, such as talin [2] and
+alpha-actinin. The protein is located on the cytoplasmic side of focal
+contacts or adhesion plaques.
+
+Vinculin is a large protein (~1000 residues) that contains an acidic
+N-terminal domain, separated from a smaller, basic C-terminal domain by a
+50-residue proline-rich region [3]. The central part of the N-terminal
+domain consists of a variable number of repeats of a 110-residue domain,
+one of which is lacking in nematode vinculin [4]. Alpha-catenins are 
+evolutionarily related to vinculin, but differ in terms of their structure
+in lacking the repeated domain and proline-rich segment.
+
+VINCULIN is a 7-element fingerprint that provides a signature for
+vinculins. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning the
+C-terminal half of the alignment - motifs 1 and 2 lie in the proline-rich
+region; and motifs 3-7 lie in the C-terminal domain. Two iterations on
+OWL30.0 were required to reach convergence, at which point a true set
+comprising 8 sequences was identified. Two partial matches were also found,
+S87175S3 and VINC_XENLA, both of which are vinculin fragments.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 9
+partial matches.

@@ -1,0 +1,27 @@
+NUDIXFAMILY
+MutT is a small bacterial protein (~12-15Kd) involved in the GO system [1]
+responsible for removing an oxidatively damaged form of guanine (8-hydroxy-
+guanine or 7,8-dihydro-8-oxoguanine) from the nucleotide pool. 8-oxo-dGTP
+is inserted opposite dA and dC residues of template DNA with near equal
+efficiency, leading to A.T to G.C transversions. MutT degrades 8-oxo-dGTP
+to the monophosphate, with the concomitant release of pyrophosphate. A 
+short conserved N-terminal region of mutT (designated the MutT domain)
+is also found in a variety of other prokaryotic, viral, and eukaryotic 
+proteins [2-5].
+
+Recently, the generic name 'NUDIX hydrolases' (NUcleoside DIphosphate linke
+to some other moeity X) has been coined for this domain family [6]. The
+family can be divided into a number of subgroups, of which MutT anti-
+mutagenic activity represents only one type; most of the rest hydrolyse
+diverse nucleoside diphosphate derivatives (including ADP-ribose, GDP-
+mannose, TDP-glucose, NADH, UDP-sugars, dNTP and NTP).
+
+NUDIXFAMILY is a 2-element fingerprint that provides a signature for 
+the NUDIX hydrolase family. The fingerprint was derived from an initial 
+alignment of 12 sequences - the motifs span the full length of the MutT
+domain, and include the region encoded by PROSITE pattern MUTT (PS00893),
+which contains 4 conserved Glu residues. Two iterations on OWL28.0 were
+required to reach convergence, at which point a true set comprising 47
+sequences was identified. 
+
+An update on SPTR57_40f identified a true set of 4,241 sequences.

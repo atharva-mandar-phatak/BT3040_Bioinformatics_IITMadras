@@ -1,0 +1,124 @@
+******************************************************
+* Fibrinogen C-terminal domain signature and profile *
+******************************************************
+
+Fibrinogen,  the  principal  protein of vertebrate blood clotting is a hexamer
+containing two sets of three different chains (alpha, beta, and gamma), linked
+to each other by disulfide bonds [1,2]. The N-terminal sections of these three
+chains  contain  the  cysteines  that  participate in the cross-linking of the
+chains.  The  C-terminal  parts  of the alpha, beta and gamma chains contain a
+domain  of  about  225  amino-acid residues, which can function as a molecular
+recognition  unit  [2-6]. In fibrinogen as well as in angiopoietin this domain
+is  implicated  in protein-protein interactions. In lectins, such as mammalian
+ficolins  and  invertebrate  tachylectin  5A, the fibrinogen C-terminal domain
+binds  carbohydrates.  As  shown  in  the schematic representation this domain
+contains four conserved cysteines involved in two disulfide bonds.
+
+                                                           *****
+  xxxxxxCxxxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCxxxxxCxxxxxxxxxxxxx
+        |            |                                 |     |
+        +------------+                                 +-----+
+               A                    B               P
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+'A,B,P': regions within the domain
+
+The 3D structure of the fibrinogen C-terminal domain (see <PDB:1FZA; F>) shows
+a fold composed of three separate regions [2,5-7]. The N-terminal region, also
+termed  A  domain,  forms  a helix and a beta-sheet held together by the first
+disulfide  bond.  The  second  region,  or B domain, is the largest. The third
+region,  also  termed  P domain, forms long extended coil regions and contains
+the  C-terminal  disulfide  bond.  This  P  region  is  the most divergent and
+contains  most  ligand  binding sites and in some cases residues implicated in
+calcium binding.
+
+Some proteins known to contain a fibrinogen C-terminal domain:
+
+ - Vertebrate fibrinogen alpha, beta and gamma chains.
+ - Mammalian   tenascin-X,  an  extracellular  matrix  protein  that  mediates
+   interactions  between  cells  and  the extracellular matrix and accelerates
+   collagen  fibril  formation.  The  C-terminal  fibrinogen domain binds with
+   fibrillar proteins in the extracellular matrix.
+ - Vertebrate  angiopoietin  proteins,  which  contain a C-terminal fibrinogen
+   domain that interacts with tyrosine-protein kinase receptor TIE2.
+ - Mammalian prothrombinase or fibroleukin.
+ - Sea cucumber fibrinogen-like protein A.
+ - Fruit  fly  protein  scabrous  (gene  sca).  Scabrous  is  involved  in the
+   regulation of neurogenesis in Drosophila and may encode a lateral inhibitor
+   of R8 cells differentiation.
+ - Horseshoe   crab   techylectin-5A,  a  nonself-recognizing  lectin  with  a
+   fibrinogen C-terminal domain that recognizes carbohydrates.
+ - Mammalian ficolins, with a collagen-like domain and a C-terminal fibrinogen
+   domain  that contains potential calcium-binding sites and can interact with
+   GlcNAc.
+
+As  a  signature  pattern  for  this domain, we selected the region around the
+fourth cysteine. We also developed a profile that covers the entire fibrinogen
+C-terminal domain.
+
+-Consensus pattern: W-W-[LIVMFYW]-x(2)-C-x(2)-[GSA]-x(2)-N-G
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: In  contactin-associated proteins (Cntnap/Caspr) and intelectins (Itln)
+ only the  N-terminal  'A'  region of the fibrinogen C-terminal domain is well
+ conserved and detected.
+
+-Expert(s) to contact by email:
+           Doolittle R.F.; rdoolittle@ucsd.edu
+
+-Last update: September 2008 / Text revised; profile added.
+
+[ 1] Doolittle R.F.
+     "Fibrinogen and fibrin."
+     Annu. Rev. Biochem. 53:195-229(1984).
+     PubMed=6383194; DOI=10.1146/annurev.bi.53.070184.001211
+[ 2] Spraggon G., Everse S.J., Doolittle R.F.
+     "Crystal structures of fragment D from human fibrinogen and its
+     crosslinked counterpart from fibrin."
+     Nature 389:455-462(1997).
+     PubMed=9333233; DOI=10.1038/38947
+[ 3] Xu X., Doolittle R.F.
+     "Presence of a vertebrate fibrinogen-like sequence in an echinoderm."
+     Proc. Natl. Acad. Sci. U.S.A. 87:2097-2101(1990).
+     PubMed=2315305
+[ 4] Baker N.E., Mlodzik M., Rubin G.M.
+     "Spacing differentiation in the developing Drosophila eye: a
+     fibrinogen-related lateral inhibitor encoded by scabrous."
+     Science 250:1370-1377(1990).
+     PubMed=2175046
+[ 5] Kairies N., Beisel H.G., Fuentes-Prior P., Tsuda R., Muta T.,
+     Iwanaga S., Bode W., Huber R., Kawabata S.
+     "The 2.0-A crystal structure of tachylectin 5A provides evidence for
+     the common origin of the innate immunity and the blood coagulation
+     systems."
+     Proc. Natl. Acad. Sci. U.S.A. 98:13519-13524(2001).
+     PubMed=11707569; DOI=10.1073/pnas.201523798
+[ 6] Barton W.A., Tzvetkova-Robev D., Miranda E.P., Kolev M.V.,
+     Rajashankar K.R., Himanen J.P., Nikolov D.B.
+     "Crystal structures of the Tie2 receptor ectodomain and the
+     angiopoietin-2-Tie2 complex."
+     Nat. Struct. Mol. Biol. 13:524-532(2006).
+     PubMed=16732286; DOI=10.1038/nsmb1101
+[ 7] Kostelansky M.S., Lounes K.C., Ping L.F., Dickerson S.K., Gorkun O.V.,
+     Lord S.T.
+     "Calcium-binding site beta 2, adjacent to the 'b' polymerization site,
+     modulates lateral aggregation of protofibrils during fibrin
+     polymerization."
+     Biochemistry 43:2475-2483(2004).
+     PubMed=14992585; DOI=10.1021/bi0359978
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

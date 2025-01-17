@@ -1,0 +1,29 @@
+POTATOINHBTR
+Severe leaf damage to potato or tomato plants initiates the synthesis of
+2 serine protease inhibitors throughout the plant, this systemic response
+being triggered by the release of a putative plant hormone [1]. The
+inhibitors (designated type I and II) are also synthesised in potato
+tubers, increasing in concentration as the tuber develops. The family is
+widely distributed throughout nature: it includes type I potato inhibitor
+analogues such as leech eglin [2], barley endosperm chymotrypsin inhibitor
+[3], and trypsin inhibitor from pumpkin. As such, it is the only family of
+protease inhibitor found in both plant and animal species [1]. In general,
+the proteins have retained a specificity towards chymotrypsin-like and
+elastase-like proteases [1].
+
+The inhibitor is a small wedge-shaped molecule, its pointed edge formed by 
+the protease-binding loop, which contains the scissile bond [2]. The loop
+binds tightly to the protease active site, subsequent cleavage of the
+scissile bond causing inhibition of the enzyme [2].
+
+POTATOINHBTR is a 3-element fingerprint that provides a signature for the
+type I potato inhibitors. The fingerprint was derived from an initial
+alignment of 9 sequences: motif 1 includes the region encoded by PROSITE
+pattern POTATO_INHIBITOR (PS00285), and motifs 2 and 3 each contain part
+of the protease binding loop. Three iterations on OWL22.1 were required
+to reach convergence, at which point a true set comprising 35 sequences
+was identified. A single partial match was also found, TOMPROI, a potato
+inhibitor I-like protein fragment from tomato.
+
+An update on SPTR37_9f identified a true set of 23 sequences, and 3
+partial matches.

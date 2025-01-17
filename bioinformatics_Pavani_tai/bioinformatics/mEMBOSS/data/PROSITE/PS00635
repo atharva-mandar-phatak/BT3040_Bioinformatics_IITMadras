@@ -1,0 +1,73 @@
+***************************************************
+* Gram-negative pili assembly chaperone signature *
+***************************************************
+
+Most Gram-negative bacteria possess a supramolecular structure - the pili - on
+their surface, that mediates attachment to specific receptors. The assembly of
+the pili  requires  the  help  of  specialized periplasmic chaperones [1,2,3].
+These proteins  are  structurally  and  possibly  evolutionary  related to the
+immunoglobulin family. Known members of this family are listed below:
+
+ - Escherichia coli papD for P pili.
+ - Escherichia coli afaB for AFA-III adhesin.
+ - Escherichia coli aggD for AAF/I fimbriae.
+ - Escherichia coli cssC for CS6 antigen.
+ - Escherichia coli F17-D for F17 pili.
+ - Escherichia coli faeE for K88 pili.
+ - Escherichia coli fanE for K99 pili.
+ - Escherichia coli fimC for type 1 fimbriae.
+ - Escherichia coli focC for F1C fimbriae.
+ - Escherichia coli nfaE for NFA-I adhesin.
+ - Escherichia coli sfaE for S pili.
+ - Escherichia coli clpE for CS31A capsule-like antigen.
+ - Escherichia coli ecpD for a yet unknown pilin.
+ - Escherichia coli CS3-1 for CS3 pili.
+ - Bordetella  pertussis  fhaD  (or  fimB)  for  filamentous hemagglutinin and
+   fimbria.
+ - Haemophilus influenzae hifB for type b pili.
+ - Klebsiella pneumoniae mrkB for type 3 pili.
+ - Proteus mirabilis pmfD for PMF fimbriae.
+ - Salmonella enteritidis sefB for sef14 fimbriae.
+ - Salmonella typhimurium lpfB for long polar fimbriae.
+ - Yersinia enterocolitica myfB for myf fimbriae.
+ - Yersinia pestis caf1M for F1 capsule antigen.
+ - Yersinia pestis psaB for pH6 antigen.
+ - Escherichia coli hypothetical protein ybgP.
+ - Escherichia coli hypothetical protein ycbF.
+ - Escherichia coli hypothetical protein yehC.
+ - Escherichia coli hypothetical protein yfcS.
+ - Escherichia coli hypothetical protein yhcA.
+ - Escherichia coli hypothetical protein yqiH.
+ - Escherichia coli hypothetical protein yraI.
+
+Structurally, these  proteins  consist of two globular domains with a topology
+identical to  an  immunoglobulin  fold.  As a signature pattern, we selected a
+highly conserved  region  located  in  the  C-terminal  section  of  the first
+globular domain.
+
+-Consensus pattern: [LIVMFY]-[APN]-x-[DNS]-[KREQ]-E-[STR]-[LIVMAR]-x-[FYWTE]-
+                    x-[NCS]-[LIVM]-x(2)-[LIVM]-P-[PAS]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ycbF and yhcA.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Hung D.L., Knight S.D., Woods R.M., Pinkner J.S., Hultgren S.J.
+     "Molecular basis of two subfamilies of immunoglobulin-like
+     chaperones."
+     EMBO J. 15:3792-3805(1996).
+     PubMed=8670884
+[ 2] Jacob-Dubuisson F., Kuehn M.J., Hultgren S.J.
+     Trends Microbiol. 1:50-55(1993).
+[ 3] van Rosmalen M., Saier M.H. Jr.
+     Res. Microbiol. 144:507-527(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,49 @@
+****************************
+* MARCKS family signatures *
+****************************
+
+The myristoylated alanine-rich C-kinase substrate (MARCKS) [1] is a protein of
+about 300  amino  acid  residues  .  It  is one of the most prominent cellular
+substrate for protein kinase C (PKC). The N-terminal glycine residue of MARCKS
+is myristoylated  and  allows the protein  to associate with plasma membranes.
+MARCKS binds calmodulin in a  calcium-dependent manner;  the  region of MARCKS
+responsible for  calcium-binding    is a highly basic domain of 25 amino acids
+(called PSD)  that  contains  the  PKC  phosphorylation  sites. When it is not
+phosphorylated, the PSD domain can bind to filamentous actin.
+
+A protein  known  as  MRP (MARCKS-related protein), MacMARKCS or F52 is highly
+similar  to MARCKS both  in  its  properties (myristoylation, phosphorylation,
+calmodulin-binding) and at the level of the sequence.
+
+We have selected two signature patterns  for this family of protein. The first
+is a  perfectly  conserved  heptapeptide  located  in  the  N-terminal part of
+MARCKS and  MRP  and    also  found  in  the cytoplasmic region of the cation-
+independent mannose-6-phosphate    receptor.  The function  of  this conserved
+region is not yet known. The second pattern corresponds to the PSD domain.
+
+-Consensus pattern: G-Q-E-N-G-H-V-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: E-T-P-K(5)-x(0,1)-F-S-F-K-K-x-F-K-L-S-G-x-S-F-K-[KR]-[NS]-
+                    [KR]-K-E
+                    [The 3 S's are phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Blackshear P.J.
+     "The MARCKS family of cellular protein kinase C substrates."
+     J. Biol. Chem. 268:1501-1504(1993).
+     PubMed=8420923
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

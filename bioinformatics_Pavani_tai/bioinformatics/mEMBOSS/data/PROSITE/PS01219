@@ -1,0 +1,57 @@
+***********************************
+* Ammonium transporters signature *
+***********************************
+
+A number  of  proteins  involved  in  the  transport of ammonium ions across a
+membrane as well as some yet uncharacterized proteins have been shown [1,2] to
+be evolutionary related. These proteins are:
+
+ - Yeast ammonium transporters MEP1, MEP2 and MEP3.
+ - Arabidopsis thaliana high affinity ammonium transporter (gene AMT1).
+ - Corynebacterium glutamicum ammonium and methylammonium transport system.
+ - Escherichia coli putative ammonium transporter amtB.
+ - Bacillus subtilis nrgA.
+
+ - Mycobacterium tuberculosis hypothetical protein MtCY338.09c.
+ - Synechocystis  strain  PCC  6803 hypothetical proteins sll0108, sll0537 and
+   sll1017.
+ - Methanococcus jannaschii hypothetical proteins MJ0058 and MJ1343.
+ - Caenorhabditis elegans hypothetical proteins C05E11.4, F49E11.3 and M195.3.
+
+As expected by their transport function, these proteins are highly hydrophobic
+and seem  to  contain  from 10 to 12 transmembrane domains. The best conserved
+region seems to be located in the fifth (or sixth) transmembrane region and is
+used as a signature pattern.
+
+-Consensus pattern: D-[FYWS]-[AS]-G-[GSC]-x(2)-[IV]-x(3)-[SAG](2)-x(2)-[SAG]-
+                    [LIVMF]-x(3)-[LIVMFYWA](2)-x-[GK]-x-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belongs  to  family  TC 2.49 in  the classification of
+ transporters [3].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ninnemann O., Jauniaux J.-C., Frommer W.B.
+     "Identification of a high affinity NH4+ transporter from plants."
+     EMBO J. 13:3464-3471(1994).
+     PubMed=8062823
+[ 2] Siewe R.M., Weil B., Burkovski A., Eikmanns B.J., Eikmanns M.,
+     Kramer R.
+     "Functional and genetic characterization of the (methyl)ammonium
+     uptake carrier of Corynebacterium glutamicum."
+     J. Biol. Chem. 271:5398-5403(1996).
+     PubMed=8621394
+[ 3] Saier M.H. Jr.
+     Adv. Microbiol. Physiol. 40:81-136(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

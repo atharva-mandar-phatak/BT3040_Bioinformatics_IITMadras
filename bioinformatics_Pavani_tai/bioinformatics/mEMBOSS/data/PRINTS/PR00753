@@ -1,0 +1,23 @@
+ACCSYNTHASE
+ACC (1-aminocyclopropane-1-carboxylic acid) synthase is the key regulatory
+enzyme in the biosynthetic pathway of the plant hormone ethylene [1]. It
+catalyses the reaction  S-adenosyl-L-methionine = 1-aminocyclopropane-1-
+carboxylate + methylthioadenosine. The enzyme functions as a homodimer and
+requires pyridoxal-5'-phosphate as a cofactor. Sequence analysis has
+shown the protein to contain several conserved amino acid residues found
+in a related family of pyridoxal phosphate-dependent aminotransferases [2]. 
+One of these residues is a lysine, which is involved in covalent binding of
+the pyridoxal-phosphate group.
+
+ACCSYNTHASE is an 8-element fingerprint that provides a signature for
+1-aminocyclopropane-1-carboxylate synthases. The fingerprint was derived
+from an initial alignment of 9 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motif 7
+includes the region encoded by PROSITE pattern AA_TRANSFER_CLASS_1 (PS00105),
+which contains the lysine residue involved in pyridoxal phosphate binding.
+Three iterations on OWL29.4 were required to reach convergence, at which
+point a true set comprising 57 sequences was identified. Several partial
+matches were also found, all of which are fragments or related amino-
+transferases that match motifs 6 and 7.
+
+An update on SPTR37_9f identified a true set of 61 sequences.

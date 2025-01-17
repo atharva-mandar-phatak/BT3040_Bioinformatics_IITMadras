@@ -1,0 +1,145 @@
+***********************
+* Lipocalin signature *
+***********************
+
+Proteins which transport small hydrophobic molecules such as steroids, bilins,
+retinoids, and  lipids share limited regions of sequence homology and a common
+tertiary structure   architecture  [1 to  5,E1]. This  is  an  eight  stranded
+antiparallel beta-barrel  with  a  repeated  + 1 topology enclosing a internal
+ligand binding  site  [1,3].  The name 'lipocalin' has  been  proposed [5] for
+this protein  family. Proteins known to belong to this family are listed below
+(references are only provided for recently determined sequences).
+
+ - Alpha-1-microglobulin (protein HC), which seems to bind porphyrin.
+ - Alpha-1-acid  glycoprotein (orosomucoid), which can bind a remarkable array
+   of natural and synthetic compounds [6].
+ - Aphrodisin which, in hamsters, functions as an aphrodisiac pheromone.
+ - Apolipoprotein D, which probably binds heme-related compounds.
+ - Beta-lactoglobulin, a milk protein whose  physiological function appears to
+   bind retinol.
+ - Complement component C8 gamma chain, which seems to bind retinol [7].
+ - Crustacyanin [8], a protein from lobster carapace, which binds astaxanthin,
+   a carotenoid.
+ - Epididymal-retinoic  acid  binding  protein (E-RABP) [9] involved  in sperm
+   maturation.
+ - Insectacyanin, a moth bilin-binding protein, and a related butterfly bilin-
+   binding protein (BBP).
+ - Late Lactation protein (LALP), a milk protein from tammar wallaby [10].
+ - Neutrophil  gelatinase-associated  lipocalin (NGAL)  (p25)  (SV-40  induced
+   24p3 protein) [11].
+ - Odorant-binding protein (OBP), which binds odorants.
+ - Plasma retinol-binding proteins (PRBP).
+ - Human pregnancy-associated endometrial alpha-2 globulin.
+ - Probasin (PB), a rat prostatic protein.
+ - Prostaglandin  D  synthase  (EC 5.3.99.2) (GSH-independent PGD synthase), a
+   lipocalin with enzymatic activity [12].
+ - Purpurin, a retinal protein which binds retinol and heparin.
+ - Quiescence specific protein p20K from chicken (embryo CH21 protein).
+ - Rodent urinary proteins (alpha-2-microglobulin), which may bind pheromones.
+ - VNSP 1 and 2,  putative pheromone transport proteins from mouse vomeronasal
+   organ [13].
+ - Von  Ebner's  gland  protein  (VEGP)  [14]  (also called tear lipocalin), a
+   mammalian protein  which may be involved in taste recognition.
+ - A frog olfactory protein, which may transport odorants.
+ - A  protein found in the cerebrospinal fluid of the toad Bufo Marinus with a
+   supposed function  similar  to transthyretin in transport  across the blood
+   brain barrier [15].
+ - Lizard's  epididymal  secretory protein IV (LESP IV), which could transport
+   small hydrophobic   molecules   into  the  epididymal  fluid  during  sperm
+   maturation [16].
+ - Prokaryotic outer-membrane protein blc [17].
+
+The sequences  of  most  members of the family, the core or kernal lipocalins,
+are characterized  by  three  short  conserved  stretches  of residues [3,18].
+Others, the  outlier lipocalin group, share only one or two of these [3,18]. A
+signature pattern was built around the first, common to all outlier and kernal
+lipocalins, which occurs near the start of the first beta-strand.
+
+-Consensus pattern: [DENG]-{A}-[DENQGSTARK]-x(0,2)-[DENQARK]-[LIVFY]-{CP}-G-
+                    {C}-W-[FYWLRH]-{D}-[LIVMTA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for rodent alpha-1-acid glycoproteins, kangaroo beta-lactoglobulin, VEGP  and
+ LESP IV.
+-Other sequence(s) detected in Swiss-Prot: 82.
+
+-Note: It  is  suggested, on the basis of similarities of structure, function,
+ and sequence,    that  this  family  forms an overall superfamily, called the
+ calycins, with  the  avidin/streptavidin <PDOC00499> and the cytosolic fatty-
+ acid binding proteins <PDOC00188> families [3,19].
+
+-Expert(s) to contact by email:
+           Flower D.R.; darren.flower@jenner.ac.uk
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Cowan S.W., Newcomer M.E., Jones T.A.
+     "Crystallographic refinement of human serum retinol binding protein at
+     2A resolution."
+     Proteins 8:44-61(1990).
+     PubMed=2217163
+[ 2] Igaraishi M., Nagata A., Toh H., Urade H., Hayaishi N.
+     Proc. Natl. Acad. Sci. U.S.A. 89:5376-5380(1992).
+[ 3] Flower D.R., North A.C.T., Attwood T.K.
+     "Structure and sequence relationships in the lipocalins and related
+     proteins."
+     Protein Sci. 2:753-761(1993).
+     PubMed=7684291
+[ 4] Godovac-Zimmermann J.
+     Trends Biochem. Sci. 13:64-66(1988).
+[ 5] Pervaiz S., Brew K.
+     "Homology and structure-function correlations between alpha 1-acid
+     glycoprotein and serum retinol-binding protein and its relatives."
+     FASEB J. 1:209-214(1987).
+     PubMed=3622999
+[ 6] Kremer J.M.H., Wilting J., Janssen L.H.
+     "Drug binding to human alpha-1-acid glycoprotein in health and
+     disease."
+     Pharmacol. Rev. 40:1-47(1988).
+     PubMed=3064105
+[ 7] Haefliger J.-A., Peitsch M.C., Jenne D.E., Tschopp J.
+     "Structural and functional characterization of complement C8 gamma, a
+     member of the lipocalin protein family."
+     Mol. Immunol. 28:123-131(1991).
+     PubMed=1707134
+[ 8] Keen J.N., Caceres I., Eliopoulos E.E., Zagalsky P.F., Findlay J.B.C.
+     "Complete sequence and model for the A2 subunit of the carotenoid
+     pigment complex, crustacyanin."
+     Eur. J. Biochem. 197:407-417(1991).
+     PubMed=2026162
+[ 9] Newcomer M.E.
+     "Structure of the epididymal retinoic acid binding protein at 2.1 A
+     resolution."
+     Structure 1:7-18(1993).
+     PubMed=8069623
+[10] Collet C., Joseph R.
+     Biochim. Biophys. Acta 1167:219-222(1993).
+[11] Kjeldsen L., Johnsen A.H., Sengelov H., Borregaard N.
+     J. Biol. Chem. 268:10425-10432(1993).
+[12] Peitsch M.C., Boguski M.S.
+     Trends Biochem. Sci. 16:363-363(1991).
+[13] Miyawaki A., Matsushita Y.R., Ryo Y., Mikoshiba T.
+     EMBO J. 13:5835-5842(1994).
+[14] Kock K., Ahlers C., Schmale H.
+     Eur. J. Biochem. 221:905-916(1994).
+[15] Achen M.G., Harms P.J., Thomas T., Richardson S.J., Wettenhall R.E.H.,
+     Schreiber G.
+     J. Biol. Chem. 267:23170-23174(1992).
+[16] Morel L., Dufarre J.-P., Depeiges A.
+     J. Biol. Chem. 268:10274-10281(1993).
+[17] Bishop R.E., Penfold S.S., Frost L.S., Holtje J.V., Weiner J.H.
+     J. Biol. Chem. 270:23097-23103(1995).
+[18] Flower D.R., North A.C.T., Attwood T.K.
+     Biochem. Biophys. Res. Commun. 180:69-74(1991).
+[19] Flower D.R.
+     FEBS Lett. 333:99-102(1993).
+[E1] http://www.jenner.ac.uk/Lipocalin/frontpage.htm
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

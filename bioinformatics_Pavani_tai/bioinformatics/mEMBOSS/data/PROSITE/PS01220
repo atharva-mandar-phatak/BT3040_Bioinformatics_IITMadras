@@ -1,0 +1,59 @@
+*************************************************************
+* Phosphatidylethanolamine-binding protein family signature *
+*************************************************************
+
+Mammalian phosphatidylethanolamine-binding   protein  (also  knowns  as  basic
+cytosolic 21  Kd  protein)  is  a  186  residue  protein found in a variety of
+tissues [1].  It  binds hydrophobic ligands, such as phosphatidylethanolamine,
+but also  seems  [2]  to bind nucleotides such as GTP and FMN, it is suggested
+that it could act in membrane  remodeling  during growth and maturation.  This
+protein belongs to a family that also includes:
+
+ - Drosophila antennal protein A5, a putative odorant-binding protein.
+ - Onchocerca volvulus antigen Ov-16 and the related proteins D1, D2 and D3.
+ - Plasmodium falciparum putative phosphatidylethanolamine-binding protein.
+ - Toxocara  canis secreted antigen TES-26. This larval protein has been shown
+   to bind phosphatidylethanolamine.
+ - Yeast  protein  DKA1  (also  known  as  NSP1 or TFS1). The function of this
+   protein is not very clear.
+ - Yeast hypothetical protein YLR179C.
+ - Caenorhabditis elegans hypothetical protein F40A3.3.
+ - Plants proteins of the 'CENTRORADIALIS'  and "SELF-PRUNING' family, some of
+   which seem to be involved in the flowering process.
+
+As a signature pattern, we selected the best conserved region which is located
+in the end of the first third of the sequence of these proteins.
+
+-Consensus pattern: [FYL]-x-[LVM]-[LIVF]-x-[TIVM]-[DC]-P-D-x-P-[SNG]-x(10)-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Schoentgen F.; schoent@cnrs-orleans.fr
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Seddiqi N., Bollengier F., Alliel P.M., Perin J.P., Bonnet F.,
+     Bucquoy S., Jolles P., Schoentgen F.
+     "Amino acid sequence of the Homo sapiens brain 21-23-kDa protein
+     (neuropolypeptide h3), comparison with its counterparts from Rattus
+     norvegicus and Bos taurus species, and expression of its mRNA in
+     different tissues."
+     J. Mol. Evol. 39:655-660(1994).
+     PubMed=7807553
+[ 2] Schoentgen F., Jolles P.
+     "From structure to function: possible biological roles of a new
+     widespread protein family binding hydrophobic ligands and displaying a
+     nucleotide binding site."
+     FEBS Lett. 369:22-26(1995).
+     PubMed=7641877
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

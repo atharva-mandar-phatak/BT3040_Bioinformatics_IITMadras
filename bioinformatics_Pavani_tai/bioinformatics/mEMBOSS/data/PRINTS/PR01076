@@ -1,0 +1,31 @@
+CALDESMON
+Caldesmon (CDM) is an actin- and myosin-binding protein implicated in the
+regulation of actomyosin interactions in smooth muscle and non-muscle cells,
+possibly acting as a bridge between myosin and actin filaments) [1]. CDM is
+believed to be an elongated molecule, with an N-terminal myosin/calmodulin-
+binding domain and a C-terminal tropomyosin/actin/calmodulin-binding domain,
+separated by a 40nm-long central helix [1].
+
+A high-molecular-weight form of CDM is predominantly expressed in smooth
+muscles, while a low-molecular-weight form is widely distributed in non-
+muscle tissues and cells (the protein is not expressed in skeletal muscle
+or heart). 
+
+A short CDM has been cloned from a chicken gizzard library [2]. The 
+predicted protein contains 524 amino acids, with molecular mass ~60Kda.
+The expressed protein binds to F-actin and is retained on calmodulin-
+Sepharose in the presence of Ca2+ [2]. Like the human non-muscle form [1],
+this CDM is identical to the smooth muscle protein at its N- and C-termini,
+but is missing 232 amino acids from the centre. Lack of this central
+segment, which is thought to be helical, renders the non-muscle protein
+~35nm shorter than smooth muscle CDM [2].
+
+CALDESMON is a 7-element fingerprint that provides a signature for
+caldesmons. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the
+C-terminal portion of the alignment - motif 3 encodes an actin-binding 
+region; and motif 5 includes a calmodulin-binding domain. Two iterations 
+on OWL31.1 were required to reach convergence, at which point a true set
+comprising 11 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

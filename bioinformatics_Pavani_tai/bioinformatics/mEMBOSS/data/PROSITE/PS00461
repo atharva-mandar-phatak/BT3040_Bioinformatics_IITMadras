@@ -1,0 +1,39 @@
+**********************************************
+* 6-phosphogluconate dehydrogenase signature *
+**********************************************
+
+6-phosphogluconate dehydrogenase (EC 1.1.1.44) (6PGD) catalyzes the third step
+in  the  hexose   monophosphate   shunt,   the  decarboxylating  reduction  of
+6-phosphogluconate in to ribulose 5-phosphate.
+
+Prokaryotic and  eukaryotic 6PGD  are  proteins of about 470 amino acids whose
+sequence are highly conserved [1].  As a  signature pattern we have selected a
+region which has been shown [2],  from  studies  of  the  sheep  6PGD tertiary
+structure, to be involved in the binding of 6-phosphogluconate.
+
+-Consensus pattern: [LIVM]-x-[DG]-x(2)-[GAEHS]-[NQSD]-[KS]-G-[TE]-G-x-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Reizer A., Deutscher J., Saier M.H. Jr., Reizer J.
+     "Analysis of the gluconate (gnt) operon of Bacillus subtilis."
+     Mol. Microbiol. 5:1081-1089(1991).
+     PubMed=1659648
+[ 2] Adams M.J., Archibald I.G., Bugg C.E., Carne A., Gover S.,
+     Helliwell J.R., Pickersgill R.W., White S.W.
+     "The three dimensional structure of sheep liver 6-phosphogluconate
+     dehydrogenase at 2.6 A resolution."
+     EMBO J. 2:1009-1014(1983).
+     PubMed=6641716
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

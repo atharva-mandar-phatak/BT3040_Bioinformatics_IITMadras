@@ -1,0 +1,18 @@
+ABC2TRNSPORT
+A number of bacterial tranport systems have been found to contain integral
+membrane components that have similar sequences [1]: these systems fit the
+characteristics of ATP-binding cassette (ABC) transporters [2]. The
+proteins form homo- or hetero-oligomeric channels, allowing ATP-mediated 
+transport. Hydropathy analysis of the proteins has revealed the presence
+of 6 possible transmembrane (TM) regions.  
+
+ABC2TRNSPORT is a 6-element fingerprint that provides a signature for the
+integral membrane protein of ABC-2 type transport systems. The fingerprint
+was derived from an initial alignment of 8 sequences: motifs 1-5 were drawn
+from TM regions 1-5, and motif 6 encompasses a conserved C-terminal region
+- motifs 5 and 6 span the region encoded by PROSITE pattern ABC2_MEMBRANE
+(PS00890). Two iterations on OWL23.2 were required to reach convergence,
+at which point a true set comprising 10 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 7
+partial matches.

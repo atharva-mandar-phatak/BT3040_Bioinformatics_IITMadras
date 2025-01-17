@@ -1,0 +1,46 @@
+****************************
+* Ferrochelatase signature *
+****************************
+
+Ferrochelatase (EC 4.99.1.1) (protoheme ferro-lyase) [1,2] catalyzes the  last
+step in  heme  biosynthesis: the chelation of a ferrous ion to proto-porphyrin
+IX, to form protoheme.
+
+In eukaryotes,  ferrochelatase  is  a mitochondrial protein bound to the inner
+membrane, whose active site faces the mitochondrial matrix. The mature form of
+eukaryotic ferrochelatase  is  composed of about 360 amino acids. In bacteria,
+ferrochelatase (gene hemH) [3] is a protein of from 310 to 380 amino acids.
+
+The human autosomal  dominant  disease  protoporphyria  is  due to the reduced
+activity of ferrochelatase.
+
+The signature pattern for this enzyme is  based  on a conserved  region  which
+contains a histidine residue which could be involved in binding iron.
+
+-Consensus pattern: [LIVMF]-[LIVMFC]-x-[ST]-x-H-[GS]-[LIVM]-P-x(4,5)-
+                    [DENQKRLHAFSTI]-x-[GN]-[DPC]-x(1,4)-[YA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Labbe-Bois R.
+     J. Biol. Chem. 265:7278-7283(1990).
+[ 2] Brenner D.A., Frasier F.
+     "Cloning of murine ferrochelatase."
+     Proc. Natl. Acad. Sci. U.S.A. 88:849-853(1991).
+     PubMed=1704134
+[ 3] Miyamoto K., Nakahigashi K., Nishimura K., Inokuchi H.
+     "Isolation and characterization of visible light-sensitive mutants of
+     Escherichia coli K12."
+     J. Mol. Biol. 219:393-398(1991).
+     PubMed=2051480
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

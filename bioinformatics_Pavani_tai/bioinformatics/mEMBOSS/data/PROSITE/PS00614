@@ -1,0 +1,42 @@
+**************************************************
+* Indole-3-glycerol phosphate synthase signature *
+**************************************************
+
+Indole-3-glycerol phosphate synthase (EC 4.1.1.48) (IGPS) catalyzes the fourth
+step in the biosynthesis  of  tryptophan:  the  ring  closure of 1-(2-carboxy-
+phenylamino)-1-deoxyribulose into indol-3-glycerol-phosphate.
+
+In some  bacteria,  IGPS  is  a  single  chain  enzyme.  In  others  - such as
+Escherichia coli - it is the N-terminal  domain  of a bifunctional enzyme that
+also  catalyzes  N-(5'-phosphoribosyl)anthranilate isomerase (PRAI)  activity,
+the third  step  of  tryptophan  biosynthesis.  In  fungi, IGPS is the central
+domain of a trifunctional  enzyme  that also contains a PRAI C-terminal domain
+and a glutamine amidotransferase N-terminal domain.
+
+The N-terminal  section of IGPS contains a highly conserved region which X-ray
+crystallography studies  [1]  have shown to be part of the active site cavity.
+We use this region as a signature pattern for IGPS.
+
+-Consensus pattern: [LIVMFY]-[LIVMC]-x-E-[LIVMFYC]-K-[KRSPQV]-[STAHKRYC]-S-P-
+                    [STRK]-x(3,7)-[LIVMFYST]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Phytophthora parasitica IGPS which lack this region.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wilmanns M., Priestle J.P., Niermann T., Jansonius J.N.
+     "Three-dimensional structure of the bifunctional enzyme
+     phosphoribosylanthranilate isomerase: indoleglycerolphosphate synthase
+     from Escherichia coli refined at 2.0 A resolution."
+     J. Mol. Biol. 223:477-507(1992).
+     PubMed=1738159
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

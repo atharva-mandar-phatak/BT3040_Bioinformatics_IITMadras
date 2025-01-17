@@ -1,0 +1,56 @@
+**************************************
+* Sterol reductase family signatures *
+**************************************
+
+The following  enzymes belong to a conserved family of sterol reductases which
+act by reducing double bonds [1,2]:
+
+ - Fungal  delta(14)-sterol  reductase  (EC  1.3.1.70) (C-14 sterol reductase)
+   (gene ERG24 in budding yeast), an enzyme of ergosterol biosynthesis.
+ - Mammalian (TM7SF2) and plant delta(14)-sterol reductases.
+ - Fungal  delta(24(24(1)))-sterol  reductase  (EC  1.3.1.71) (C-24(28) sterol
+   reductase) (gene   ERG4   in   budding  yeast),  an  enzyme  of  ergosterol
+   biosynthesis.
+ - Mammalian  7-dehydrocholesterol  reductase  (EC  1.3.1.21)  which  produces
+   cholesterol by  reduction  of C7-C8 double bond of 7-dehydrocholesterol (7-
+   DHC).
+ - Lamin  B  receptor,  which  is  thought  to  anchor the lamina to the inner
+   nuclear membrane.
+
+All these  proteins  are highly hydrophobic and seem to contain seven or eight
+transmembrane regions.  As  signature  patterns,  we  selected  two  conserved
+regions. The  first one is apparently located in a loop between the fourth and
+fifth transmembrane regions and the second is in the C-terminal section.
+
+-Consensus pattern: G-x(2)-[LIVMF]-[IFYH]-[DN]-x-[FYWM]-x-G-x(2)-[LF]-[NY]-P-
+                    [RQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM](2)-[LIVMFT]-[HWD]-R-x(2)-R-D-x(3)-C-x(2)-K-Y-[GK]-
+                    x(2)-[FW]-x(2)-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2002 / Patterns and text revised.
+
+[ 1] Lai M.H., Bard M., Pierson C.A., Alexander J.F., Goebl M.,
+     Carter G.T., Kirsch D.R.
+     "The identification of a gene family in the Saccharomyces cerevisiae
+     ergosterol biosynthesis pathway."
+     Gene 140:41-49(1994).
+     PubMed=8125337
+[ 2] Holmer L., Pezhman A., Worman H.J.
+     "The human lamin B receptor/sterol reductase multigene family."
+     Genomics 54:469-476(1998).
+     PubMed=9878250
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

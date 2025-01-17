@@ -1,0 +1,36 @@
+SYNUCLEIN
+Human synuclein has been shown to belong to a gene family [1]. To date, 
+three different proteins, termed alpha, beta and gamma, have been 
+characterised. The amino acid sequences of synucleins share a similar
+overall structure: hydropathy analysis reveals a central hydrophobic domain
+of ~30 amino acids, flanked by highly hydrophilic stretches; the N-terminal
+flanking region contains four repeating motifs (EKTKEGV); and the C-terminal
+domain is rich in glutamic acid and proline [2]
+
+Synelfin, a homologue of synuclein, is a soluble presynaptic protein that 
+is predicted to form an amphipathic alpha-helical structure typical of the
+lipid-binding domain in apolipoproteins [3]. This protein is believed to
+serve a novel function critical to the regulation of vertebrate neural
+plasticity [3]. 
+
+The synuclein gene family recently hit the headlines when one of its 
+members, alpha-synuclein, was found to be mutated in several families with 
+autosomal dominant Parkinson's disease (PD) [1]. A peptide of the alpha-
+synuclein protein had been characterised previously as a major component of 
+amyloid plaques in brains of Alzheimer's disease (AD) patients. The 
+mechanism by which this presynaptic protein is involved in the two most
+common neurodegenerative disorders, AD and PD, remains unclear [1]. Another
+member of the gene family, gamma-synuclein, has been shown to be over-
+expressed in breast carcinomas and may also be overexpressed in ovarian
+cancer [1].
+
+SYNUCLEIN is a 5-element fingerprint that provides a signature for
+synucleins. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length - motif 1 lies at the N-terminus;
+motif 2 includes the first EKT repeat; motif 3 encodes the second and 
+third repeats; motif 4 spans the final repeat, leading into the hydrophobic
+domain; and motif 5 spans the C-terminus of the hydrophobic domain, leading 
+into the Glu-Pro-rich C-terminal domain. Two iterations on SPTR37_10f were
+required to reach convergence, at which point a true set comprising 12
+sequences was identified.

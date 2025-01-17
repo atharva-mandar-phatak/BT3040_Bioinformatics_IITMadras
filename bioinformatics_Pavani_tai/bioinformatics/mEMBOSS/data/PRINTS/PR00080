@@ -1,0 +1,23 @@
+SDRFAMILY
+Primary sequence comparisons have indicated that a number of short-chain
+dehydrogenases and reductases belong to an evolutionarily related family
+(now termed the SDR family) [1]. Most dehydrogenases possess at least 2 
+domains [2], the first binding the coenzyme, often NAD, and the second 
+binding the substrate. This latter domain determines the substrate
+specificity and contains amino acids involved in catalysis. Little sequence
+similarity has been found in the coenzyme binding domain although there is 
+a large degree of structural similarity, and it has therefore been 
+suggested that the structure of dehydrogenases has arisen through gene 
+fusion of a common ancestral coenzyme nucleotide sequence with various 
+substrate specific domains [2].
+
+SDRFAMILY is a 3-element fingerprint that provides a signature for the 
+SDR superfamily. The fingerprint was derived from an initial alignment of
+11 sequences: motif 1 spans a  highly conserved NNAGI sequence, and motif 3
+the conserved YSASK sequence encoded by PROSITE pattern ADH_SHORT (PS00061).
+Six iterations on OWL11.0 were required to reach convergence, at which point
+a true set comprising 49 sequences was identified. Six partial matches were 
+also found.
+
+An update on SPTR37_9f identified a true set of 272 sequences, and 177
+partial matches.

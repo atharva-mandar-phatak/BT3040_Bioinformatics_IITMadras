@@ -1,0 +1,31 @@
+GLUCAGON
+Glucagon is a widely-distributed, 29-residue polypeptide hormone produced
+in the alpha-cells of pancreatic islets [1]. It affects glucose metabolism 
+in liver [2] by inhibiting glycogen synthesis, stimulating glycogenolysis 
+and enchancing gluconeogenesis. It also increases mobilisation of glucose, 
+free fatty acids and ketone bodies, which are metabolites produced in 
+excess in diabetes mellitus.
+
+Glucagon is produced, like other peptide hormones, as part of a larger 
+precursor (preproglucagon), which is cleaved to produce glucagon, glucagon-
+like protein I and glucagon-like protein II: the 2 different glucagon-like
+proteins are structurally distinct [3]. The structure of glucagon itself is
+fully conserved in all known mammalian species [1], and is a member of a
+structurally similar group containing glucagon, glicentin precursor,
+secretin, gastric inhibitory protein, vasoactive intestinal peptide (VIP),
+prealbumin, peptide HI-27 and growth hormone releasing factor.
+
+GLUCAGON is a 2-element fingerprint that provides a signature for the
+glucagon polypeptide hormone superfamily. The fingerprint was derived from
+an initial alignment of 10 sequences: the motifs span 12 well-conserved
+N-terminal residues and an ajacent hydrophobic domain (cf. PROSITE pattern
+GLUCAGON (PS00260)). Two iterations on OWL19.0 were required to reach
+convergence, at which point a true set comprising 58 sequences was
+identified: all belong to the glucagon superfamily and include glucagon,
+glucagon-like peptide 1, glucagon-like peptide 2, gastric inhibitory
+peptide, secretin, vasoactive intestinal protein, somatoliberin, and
+exendins. Two extendins were not identified (EXE3_HELHO and EXE4_HELSU),
+the sequences of which differ in the region encoded by motif 2 - they
+nevertheless match strongly with motif 1.
+
+An update on SPTR37_9f identified a true set of 66 sequences.

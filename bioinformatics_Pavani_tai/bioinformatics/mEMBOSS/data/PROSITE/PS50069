@@ -1,0 +1,64 @@
+***************************************
+* Cullin family signature and profile *
+***************************************
+
+The following proteins are collectively termed cullins [1]:
+
+ - Caenorhabditis   elegans   cul-1   (or  lin-19),  a  protein  required  for
+   developmentally programmed  transitions from the G1 phase of the cell cycle
+   to the G0 phase or the apoptotic pathway.
+ - Caenorhabditis  elegans cul-2, cul-3, cul-4 (F45E12.3), cul-5 (ZK856.1) and
+   cul-6 (K08E7.7).
+ - Mammalian CUL1, CUL2, CUL3, CUL4A and CUL4B.
+ - Mammalian  vasopressin-activated  calcium-mobilizing  receptor  (VACM-1), a
+   kidney-specific protein  thought  to  form  a cell surface receptor [2] but
+   which does not have any structural hallmarks of a receptor.
+ - Drosophila lin19.
+ - Yeast  CDC53  [3],  which  acts  in  concert  with CDC4 and UBC3 (CDC34) to
+   control the G1-to-S phase transition.
+ - Yeast hypothetical protein YGR003w.
+ - Fission yeast hypothetical protein SpAC24H6.03.
+
+The cullins are hydrophilic proteins of 740 to 815 amino acids. The C-terminal
+extremity is  the  most  conserved part of these proteins. We have developed a
+signature pattern from that region.
+
+-Consensus pattern: [LIV]-[KL]-x(2)-[LIVM]-x(2)-L-[IL]-[DEQGVT]-[KRHNQ]-x-
+                    [YT]-[LIVM]-x-R-x(5,7)-[FYLV]-x-Y-x-[SAT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Note: This  documentation  entry  is linked to both a signature pattern and a
+ profile. As  the  profile is much more sensitive than the pattern, you should
+ use it if you have access to the necessary software tools to do so.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Kipreos E.T., Lander L.E., Wing J.P., He W.W., Hedgecock E.M.
+     "cul-1 is required for cell cycle exit in C. elegans and identifies a
+     novel gene family."
+     Cell 85:829-839(1996).
+     PubMed=8681378
+[ 2] Burnatowska-Hledin M.A., Spielman W.S., Smith W.L., Shi P., Meyer J.M.,
+     Dewitt D.L.
+     Am. J. Physiol. 268:f1198-F1210(1995).
+[ 3] Mathias N., Johnson S.L., Winey M., Adams A.E., Goetsch L., Pringle J.R.,
+     Byers B., Goebl M.G.
+     "Cdc53p acts in concert with Cdc4p and Cdc34p to control the
+     G1-to-S-phase transition and identifies a conserved family of
+     proteins."
+     Mol. Cell. Biol. 16:6634-6643(1996).
+     PubMed=8943317
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

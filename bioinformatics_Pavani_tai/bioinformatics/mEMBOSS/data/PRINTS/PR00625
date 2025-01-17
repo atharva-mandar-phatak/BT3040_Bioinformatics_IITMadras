@@ -1,0 +1,25 @@
+JDOMAIN
+DnaJ, a prokaryotic heat shock protein, interacts with dnaK, a chaperone
+hsp70-like protein [1]. DnaJ comprises a 70-residue N-terminal domain
+(the J-domain); a 30-residue glycine-rich region (the G-domain); a central
+domain containing 4 repeats of a CxxCxGxG motif (the CRR-domain); and a
+120-170 residue C-terminal region. 
+
+The J- and CRR-domains are found in many prokaryotic and eukaryotic
+proteins [2], either together or separately: e.g., those containing both
+J- and CRR-domains include yeast proteins MAS5/YDJ1, MDJ1, SCJ1, XDJ1 and
+YNL077w, plant dnaJ homologues from leek and cucumber, and human HDJ2; 
+those with only the J-domain include R.fredii nolC, E.coli cbpA [3], yeast
+proteins  SEC63/NPL1, SIS1, CAJ1, YFR041c, YIR004w and YJL162c, P.falciparum 
+ring-infected erythrocyte surface antigen, human HDJ1 and HSJ1, and 
+Drosophila cysteine-string protein.
+
+JDOMAIN is a 4-element fingerprint that provides a signature the DnaJ
+domain. The fingerprint was derived from an initial alignment of 49
+sequences: the motifs were drawn from short conserved regions spanning the
+full length of the J domain - motif 4 encompasses the C-terminal end of the
+J domain and part of the following Gly-rich region. Fourteen iterations on 
+SPTR57.15_40.15f were required to reach convergence, at which point a true
+set comprising 4,344 sequences was identified. Numerous partial matches were
+also found, all of which are presumed to be family members that fail to make
+significant matches with one or more motifs. 

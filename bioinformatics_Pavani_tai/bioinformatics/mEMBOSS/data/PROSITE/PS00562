@@ -1,0 +1,87 @@
+*******************************************************************
+* CBM1 (Carbohydrate-binding type-1) domain signature and profile *
+*******************************************************************
+
+The  microbial  degradation  of cellulose and xylans requires several types of
+enzymes  such as endoglucanases (EC 3.2.1.4), cellobiohydrolases (EC 3.2.1.91)
+(exoglucanases),  or  xylanases  (EC  3.2.1.8)  [1].  Cellulases and xylanases
+generally  consist  of a catalytic domain and a cellulose-binding domain (CBD)
+also called carbohydrate-binding module (CBM).
+
+The  carbohydrate-binding  module  of a number of fungal cellulases (CBM1) has
+been shown to consist of 38 amino acid residues. Enzymes known to contain such
+a domain are:
+
+ - Endoglucanase I (gene egl1) from Trichoderma reesei.
+ - Endoglucanase II (gene egl2) from Trichoderma reesei.
+ - Endoglucanase V (gene egl5) from Trichoderma reesei.
+ - Exocellobiohydrolase I (gene CBHI) from Humicola grisea, Neurospora crassa,
+   Phanerochaete chrysosporium,  Trichoderma reesei, and Trichoderma viride.
+ - Exocellobiohydrolase II (gene CBHII) from Trichoderma reesei.
+ - Exocellobiohydrolase 3 (gene cel3) from Agaricus bisporus
+ - Endoglucanases B, C2, F and K from Fusarium oxysporum.
+
+CBM1  is  found either at the N-terminal (Cbh-II or egl2) or at the C-terminal
+extremity  (Cbh-I,  egl1  or  egl5)  of  these  enzymes. As it is shown in the
+following schematic representation, there are four conserved cysteines in this
+type of CBD domain, all involved in disulfide bonds. The CBM1 fold consists of
+a  three-stranded  antiparallel  beta-sheet  (see  <PDB:1AZJ>) [2]. The domain
+folds  into  a  wedge-shaped  structure  with  a  flat  face  containing three
+conserved   aromatic   residues   separated  by  about  10.4  Angstroms  which
+corresponds  to  the  periodicity of the glucose units in the cellulose. These
+residues are thus probably involved in cellulose binding.
+
+                         +----------------+
+                         |          +-----|---------+
+                         |          |     |         |
+                  xxxxxxxCxxxxxxxxxxCxxxxxCxxxxxxxxxCx
+                         ****************************
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+Such a domain has also been found in a putative polysaccharide binding protein
+from the  red  alga, Porphyra purpurea. Structurally, this protein consists of
+four tandem repeats of the CBD domain.
+
+-Consensus pattern: C-G(2)-x(4,7)-G-x(3)-C-x(4,5)-C-x(3,5)-[NHGS]-x-[FYWMI]-
+                    x(2)-Q-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: CBM1  of  endoglucanase  I  and exocellobiohydrolase II  have  a  third
+ disulfide bridge on their N-terminal side [3].
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gilkes N.R., Henrissat B., Kilburn D.G., Miller R.C. Jr., Warren R.A.J.
+     "Domains in microbial beta-1, 4-glycanases: sequence conservation,
+     function, and enzyme families."
+     Microbiol. Rev. 55:303-315(1991).
+     PubMed=1886523
+[ 2] Mattinen M.L., Kontteli M., Kerovuo J., Linder M., Annila A.,
+     Lindeberg G., Reinikainen T., Drakenberg T.
+     "Three-dimensional structures of three engineered cellulose-binding
+     domains of cellobiohydrolase I from Trichoderma reesei."
+     Protein Sci. 6:294-303(1997).
+     PubMed=9041630
+[ 3] Mattinen M.L., Linder M., Drakenberg T., Annila A.
+     "Solution structure of the cellulose-binding domain of endoglucanase I
+     from Trichoderma reesei and its interaction with
+     cello-oligosaccharides."
+     Eur. J. Biochem. 256:279-286(1998).
+     PubMed=9760165
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

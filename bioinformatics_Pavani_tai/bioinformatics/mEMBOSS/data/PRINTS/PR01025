@@ -1,0 +1,48 @@
+NEUROKININ2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide receptors are present in very small quantities in the cell
+and are embedded tightly in the plasma membrane. The neuropeptides exhibit
+a high degree of functional diversity through both regulation of peptide
+production and through peptide-receptor interaction [6]. The mammalian
+tachykinin system consists of 3 distinct peptides: substance P, substance
+K and neuromedin K. All possess a common spectrum of biological activities,
+including sensory transmission in the nervous system and contraction/
+relaxation of peripheral smooth muscles, and each interacts with a 
+specific receptor type.
+
+In the periphery, NK2 receptors are found in smooth muscle of the
+respiratory, gastrointestinal and urogenital systems [7]. NK2 receptors
+activate the phosphoinositide pathway through a pertussis-toxin-insensitive 
+G protein, probably of the Gq/G11 class [7].
+
+NEUROKININ2R is a 9-element fingerprint that provides a signature for the
+neurokinin NK2 receptors. The fingerprint was derived from an initial 
+alignment of 5 sequences: the motifs were drawn from conserved sections 
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the NK2 receptors but distinguish them from the rest of
+the neurokinin family - motifs 1 and 2 reside at the N-terminus; motifs 3
+and 4 span the second external loop, leading into TM domain 5; motif 5 
+resides in the third cytoplasmic loop; motif 6 lies in the third external
+loop; and motifs 7-9 reside at the C-terminus. Two iterations on OWL30.2 
+were required to reach convergence, at which point at true set comprising 
+8 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

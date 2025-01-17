@@ -1,0 +1,48 @@
+FNTYPEIII
+Fibronectins are multi-domain glycoproteins found in a soluble form in
+plasma, and in an insoluble form in loose connective tissue and basement
+membranes [1]. They contain multiple copies of 3 repeat regions (types 
+I, II and III), which bind to a variety of substances including heparin,
+collagen, DNA, actin, fibrin and fibronectin receptors on cell surfaces.
+The wide variety of these substances means that fibronectins are involved 
+in a number of important functions: e.g., wound healing; cell adhesion; 
+blood coagulation; cell differentiation and migration; maintenance of the
+cellular cytoskeleton; and tumour metastasis [2]. The role of fibronectin 
+in cell differentiation is demonstrated by the marked reduction in the 
+expression of its gene when neoplastic transformation occurs. Cell 
+attachment has been found to be mediated by the binding of the tetrapeptide
+RGDS to integrins on the cell surface [3], although related sequences can 
+also display cell adhesion activity.
+
+Plasma fibronectin occurs as a dimer of 2 different subunits, linked 
+together by 2 disulphide bonds near the C-terminus. The difference in the 
+2 chains occurs in the type III repeat region and is caused by alternative 
+splicing of the mRNA from one gene [1]. The observation that, in a given
+protein, an individual repeat of one of the 3 types (e.g., the first FnIII
+repeat) shows much less similarity to its subsequent tandem repeats within
+that protein than to its equivalent repeat between fibronectins from other
+species, has suggested that the repeating structure of fibronectin arose at
+an early stage of evolution. It also seems to suggest that the structure is
+subject to high selective pressure [4].
+
+The fibronectin type III repeat region is an approximately 100 amino acid
+domain, different tandem repeats of which contain binding sites for DNA,
+heparin and the cell surface [1]. The superfamily of sequences believed to 
+contain FnIII repeats represents 45 different families, the majority of 
+which are involved in cell surface binding in some manner, or are receptor 
+protein tyrosine kinases, or cytokine receptors. 
+
+FNTYPEIII is a 4-element fingerprint that provides a signature for type
+III fibronectin repeats. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs span the full domain length. Four
+iterations on OWL18.0 were required to reach convergence, at which point a
+true set comprising 95 sequences was identified, including all known
+sequences with FnIII repeats and a number of bacterial sugar digesting
+enzymes and uptake hydrogenases. Numerous partial matches were also found.
+Closer inspection of the result shows there is poor definition between the
+true set, partial matches and noise, indicating that this is not a powerful
+fingerprint: this arises largely because of the poor sequence similarity
+between the type III repeats.
+
+An update on SPTR37_9f identified a true set of 173 sequences, and 266
+partial matches.

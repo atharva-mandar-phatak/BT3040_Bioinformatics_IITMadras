@@ -1,0 +1,85 @@
+***************************************
+* Beta-ketoacyl synthases active site *
+***************************************
+
+Beta-ketoacyl-ACP synthase   (EC  2.3.1.41)  (KAS)  [1]  is  the  enzyme  that
+catalyzes the  condensation of  malonyl-ACP with the growing fatty acid chain.
+It is found as a component of the following enzymatic systems:
+
+ - Fatty  acid  synthase  (FAS),  which  catalyzes the formation of long-chain
+   fatty acids  from  acetyl-CoA,  malonyl-CoA  and NADPH. Bacterial and plant
+   chloroplast FAS are composed of eight separate subunits which correspond to
+   different enzymatic  activities;    beta-ketoacyl  synthase is one of these
+   polypeptides. Fungal FAS consists of two multifunctional proteins, FAS1 and
+   FAS2; the  beta-ketoacyl  synthase domain  is  located  in  the  C-terminal
+   section of FAS2. Vertebrate FAS consists of a single multifunctional chain;
+   the beta-ketoacyl synthase domain is located in the N-terminal section [2].
+ - The multifunctional 6-methysalicylic acid synthase (MSAS) from  Penicillium
+   patulum [3].  This is a multifunctional enzyme involved in the biosynthesis
+   of a  polyketide  antibiotic  and  which has a KAS domain in its N-terminal
+   section.
+ - Polyketide antibiotic  synthase enzyme systems.   Polyketides are secondary
+   metabolites produced by microorganisms and plants from simple  fatty acids.
+   KAS is   one  of  the  components  involved  in  the  biosynthesis  of  the
+   Streptomyces polyketide  antibiotics  granatacin [4],  tetracenomycin C [5]
+   and erythromycin.
+ - Emericella nidulans  multifunctional  protein  Wa.  Wa  is  involved in the
+   biosynthesis of  conidial  green  pigment.  Wa  is  protein  of 216 Kd that
+   contains a KAS domain.
+ - Rhizobium nodulation protein nodE, which probably acts as  a  beta-ketoacyl
+   synthase in the synthesis of the nodulation Nod factor fatty acyl chain.
+ - Yeast mitochondrial protein CEM1.
+
+The condensation reaction is a two step process:  the  acyl  component  of  an
+activated acyl primer is transferred to a  cysteine residue  of the enzyme and
+is then condensed with an activated malonyl donor with the concomitant release
+of carbon  dioxide.  The  sequence  around  the  active  site cysteine is well
+conserved and can be used as a signature pattern.
+
+-Consensus pattern: G-{A}-{KGR}-x(2)-[LIVMFTAP]-{R}-x-[AGC]-C-[STA](2)-[STAG]-
+                    x(2)-{LI}-[LIVMF]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for bacterial and plant beta-ketoacyl synthase III (KAS III).
+-Other sequence(s) detected in Swiss-Prot: 15.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Kauppinen S., Siggaard-Andersen M., von Wettstein-Knowles P.
+     "beta-Ketoacyl-ACP synthase I of Escherichia coli: nucleotide sequence
+     of the fabB gene and identification of the cerulenin binding
+     residue."
+     Carlsberg Res. Commun. 53:357-370(1988).
+     PubMed=3076376
+[ 2] Witkowski A., Rangan V.S., Randhawa Z.I., Amy C.M., Smith S.
+     "Structural organization of the multifunctional animal fatty-acid
+     synthase."
+     Eur. J. Biochem. 198:571-579(1991).
+     PubMed=2050137
+[ 3] Beck J., Ripka S., Siegner A., Schiltz E., Schweizer E.
+     "The multifunctional 6-methylsalicylic acid synthase gene of
+     Penicillium patulum. Its gene structure relative to that of other
+     polyketide synthases."
+     Eur. J. Biochem. 192:487-498(1990).
+     PubMed=2209605
+[ 4] Bibb M.J., Biro S., Motamedi H., Collins J.F., Hutchinson C.R.
+     "Analysis of the nucleotide sequence of the Streptomyces glaucescens
+     tcmI genes provides key information about the enzymology of polyketide
+     antibiotic biosynthesis."
+     EMBO J. 8:2727-2736(1989).
+     PubMed=2684656
+[ 5] Sherman D.H., Malpartida F., Bibb M.J., Kieser H.M., Bibb M.J.,
+     Hopwood D.A.
+     "Structure and deduced function of the granaticin-producing polyketide
+     synthase gene cluster of Streptomyces violaceoruber Tu22."
+     EMBO J. 8:2717-2725(1989).
+     PubMed=2583128
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

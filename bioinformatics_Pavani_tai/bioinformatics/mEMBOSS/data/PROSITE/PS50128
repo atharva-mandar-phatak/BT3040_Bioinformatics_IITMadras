@@ -1,0 +1,58 @@
+*****************************
+* SURP motif repeat profile *
+*****************************
+
+The SURP  motif  is an about 40-residue module, which has been named after the
+first proteins containing it (suppressor-of-white-apricot and PRP21/SPP91). It
+is found  tandemly  repeated  in  proteins  involved in either constitutive or
+regulated pre-mRNA  splicing.  Overall,  the N-terminal half of the SURP motif
+exhibits a   higher  conservation  than  the  C-terminal  half,  where  length
+differences are  apparent in addition to sequence heterogeneity. Nevertheless,
+within this  region, the motif F-x-F-L and the dipeptide Y-Y at the C-terminal
+border are conserved in nearly all proteins. The function of the SURP motif is
+still unknown [1,2,3,4].
+
+Some proteins known to contain a SURP motif are listed below:
+
+ - Drosophila suppressor-of-white-apricot (su(wa)) protein. It modulates a
+   specific set of somatic, sex-independent pre-mRNA processing events.
+ - Yeast PRP21/SPP91, a constitutive pre-mRNA splicing factor.
+ - Vertebrate SWAP proteins, which are homologs of the su(wa) protein.
+ - Mammalian SF3a120 splicing factor, the homolog of PRP21/SPP91.
+
+The profile we developed covers the entire SURP motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2003 / First entry.
+
+[ 1] Spikes D.A., Kramer J., Bingham P.M., Van Doren K.
+     "SWAP pre-mRNA splicing regulators are a novel, ancient protein family
+     sharing a highly conserved sequence motif with the prp21 family of
+     constitutive splicing proteins."
+     Nucleic Acids Res. 22:4510-4519(1994).
+     PubMed=7971282
+[ 2] Denhez F., Lafyatis R.
+     "Conservation of regulated alternative splicing and identification of
+     functional domains in vertebrate homologs to the Drosophila splicing
+     regulator, suppressor-of-white-apricot."
+     J. Biol. Chem. 269:16170-16179(1994).
+     PubMed=8206918
+[ 3] Kraemer A., Mulhauser F., Wersig C., Groening K., Bilbe G.
+     RNA 1:260-272(1995).
+[ 4] Rain J.-C., Tartakoff A.M., Kraemer A., Legrain P.
+     "Essential domains of the PRP21 splicing factor are implicated in the
+     binding to PRP9 and PRP11 proteins and are conserved through
+     evolution."
+     RNA 2:535-550(1996).
+     PubMed=8718683
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,73 @@
+******************************
+* La-type HTH domain profile *
+******************************
+
+The  La-type  HTH  domain  is  an  RNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  90  residues  present  in  La proteins and other eukaryotic
+RNA-binding  proteins.  The domain is named after human La protein, originally
+characterized  as  an  autoantigen  of  the  rheumatic diseases systemic lupus
+erythematosus  and Sjogren's syndrome (La derives from the patient's name). La
+homologs  have  been found in all eukaryots including plants, trypanosomes and
+yeast.  The  La  protein  is  a  nuclear phosphoprotein that recognizes the 3'
+uridylates  (3'  UUU[OH])  present in all newly synthesized RNA polymerase III
+transcripts. La binding stabilizes these transcripts from exonucleases and may
+assist  their folding. The La-type HTH domain occurs in the N-terminal part of
+La  proteins,  followed  by  one  or  two  RNA  recognition  motifs (RRM) (see
+<PDOC00030>).   The   La-type   HTH   also   occurs   in  combination  with  a
+double-stranded RNA binding motif and with a SAM binding motif.
+
+The  crystal  structure  of  the  N-terminal  domain  of  the  La protein from
+Trypanosoma  brucei  shows  that  the  domain  forms  a  wHTH  containing  six
+alpha-helices  (H) and a three-stranded (B) antiparallel sheet with a topology
+H1-H1'-H2-B1-H3-H4-H5-B2-B3  (see  <PDB:1S29>).  The  wHTH  fold  is  found in
+eukaryotic   and   prokaryotic   transcription   factors,   wherein  the  wHTH
+specifically  binds  to  dsDNA  (e.g.  see  <PDOC00042>).  Two  of  the  three
+N-terminal  helices and helix 4 may be considered as insertions into such wHTH
+topologies.  The  helices 3 and 5 correspond with the HTH and the strands form
+the  wing  in  such  transcription factors, where these structures bind DNA. A
+different  surface,  which  is  formed  by  a conserved aromatic patch between
+helices H1, H1', H2 and the loop between H3 and H4 may bind RNA in the La-type
+HTH domain [1].
+
+Some proteins known to contain a La-type HTH domain:
+
+ - Eukaryotic  La  protein,  a  nuclear  protein  that binds the 3' termini of
+   nascent   RNA   polymerase  III  transcripts  and  other  small  RNA,  like
+   pre-tRNA's,  5S  rRNA's,  U6  RNA  and SRP RNA, as characterized in humans,
+   fruit  fly,  baker's  and  fission  yeast, and Trypanosoma brucei. Both the
+   La-type  HTH  domain  and  the  RRM are required for RNA binding by La. The
+   aromatic  patch of the La-type wHTH is required for specific binding to the
+   3'UUU[OH] of pre-tRNA [1,2].
+ - Saccharomyces  cerevisiae SRO9 and SLF1, which associate with polyribosomes
+   and may function in translation.
+ - Euplotes   aediculatus   p43,  a  component  of  the  ciliate's  telomerase
+   ribonucleoprotein. P43 does not bind to the 3' UUU[OH].
+
+The profile we developed covers the entire La-type HTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The La-type HTH domain has also been named LM for 'La motif' [1].
+
+-Last update: March 2004 / First entry.
+
+[ 1] Dong G., Chakshusmathi G., Wolin S.L., Reinisch K.M.
+     "Structure of the La motif: a winged helix domain mediates RNA binding
+     via a conserved aromatic patch."
+     EMBO J. 23:1000-1007(2004).
+     PubMed=14976553; DOI=10.1038/sj.emboj.7600115
+[ 2] Wolin S.L., Cedervall T.
+     "The La protein."
+     Annu. Rev. Biochem. 71:375-403(2002).
+     PubMed=12045101; DOI=10.1146/annurev.biochem.71.090501.150003
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

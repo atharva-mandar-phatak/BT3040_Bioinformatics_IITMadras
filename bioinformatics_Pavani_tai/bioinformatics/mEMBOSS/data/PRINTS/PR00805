@@ -1,0 +1,21 @@
+ALPHACATENIN
+Catenins associate with the cytoplasmic domains of a variety of cadherins
+[1], so producing a complex that links to the actin filament network. This
+association appears to be indispensable for tight cell-cell adhesion - 
+dysfunction of the complex causes dissociation of cancer cells from primary
+tumours, possibly contributing to cancer invasion and metastasis [2]. Three
+different forms of catenin (designated alpha, beta and gamma) comprise the 
+cytoplasmic domain of the cadherin cell-cell adhesion complex [3]. Alpha-
+catenins, proteins of ~100 Kd, are evolutionarily related to vinculin [3]. 
+
+ALPHACATENIN is a 10-element fingerprint that provides a signature for 
+alpha and alpha-2 catenins. The fingerprint was derived from an initial
+alignment of 10 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length. Two iterations on OWL30.0 were required 
+to reach convergence, at which point a true set comprising 11 sequences was
+identified. Several partial matches were also found: CER13H43 is an
+alpha-catenin from C.elegans that fails to match motifs 1 and 2; the rest
+are vinculins, all of which match motifs 8 and 9.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 7
+partial matches.

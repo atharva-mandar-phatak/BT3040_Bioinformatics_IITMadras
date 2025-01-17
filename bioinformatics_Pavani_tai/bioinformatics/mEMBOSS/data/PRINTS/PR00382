@@ -1,0 +1,24 @@
+LIPIDTRNSFER
+Phospholipid transfer proteins (PLTPs) transfer phospholipids, glycolipids,
+fatty acids and sterols from liposomes or microsomes to mitochondria [1].
+PLTPs exist in animal and plant tissues, including rat liver cytosol, 
+potato tuber, castor bean, maize seedlings, spinach, barley and wheat.
+While there is no sequence similarity between animal and plant PTLPs,
+similarity between the plant proteins is high. The sequences contain 8
+cysteines, which form 4 disulphide bridges. Plant PTLPs are also similar
+to alpha-amylase inhibitor I2 from the seeds of ragi, Indian finger millet
+and amylase/protease inhibitors from rice and barley.
+
+LIPIDTRNSFER is a 5-element fingerprint that provides a signature for
+plant phospholipid transfer proteins. The fingerprint was derived from
+an initial alignment of 7 sequences: the motifs were drawn from short
+conserved regions along the full alignment length, motifs 4 and 5
+spanning the region encoded by PROSITE pattern PLANT_LTP (PS00597),
+which contains 2 C-terminal Cys residues involved in disulphide bond
+formation. Two iterations on OWL26.0 were required to reach convergence,
+at which point a true set comprising 32 sequences was identified. Several
+partial matches were also found, most of which are N-terminal fragments,
+or sequences failing to make significant matches with motif 4.
+
+An update on SPTR37_9f identified a true set of 65 sequences, and 11
+partial matches.

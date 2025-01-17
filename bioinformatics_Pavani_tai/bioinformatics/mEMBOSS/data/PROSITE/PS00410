@@ -1,0 +1,72 @@
+****************************
+* Dynamin family signature *
+****************************
+
+Dynamin [1,2] is  a  microtubule-associated force-producing  protein of 100 Kd
+which is involved in  the  production of microtubule bundles and which is able
+to bind and hydrolyze GTP.  Dynamin  is structurally related  to the following
+proteins:
+
+ - Drosophila shibire  protein (gene shi) [3].  Shibire is, very probably, the
+   Drosophila cognate of mammalian dynamin.  It seems to provide the motor for
+   vesicular transport during endocytosis.
+ - Yeast vacuolar  sorting protein VPS1 (or SPO15) [4], a protein which  could
+   also be involved in microtubule-associated motility.
+ - Yeast  protein  MGM1  [5],  which  is  required  for  mitochondrial  genome
+   maintenance.
+ - Yeast protein DNM1, which is involved in endocytosis.
+ - Interferon induced Mx proteins [6,7].  Interferon alpha  or beta induce the
+   synthesis of a family of closely related proteins.  Most  of these proteins
+   are known to confer resistance to influenza viruses and/or rhabdoviruses on
+   transfected mammalian cell in culture.
+
+The  three  motifs  found  in  all  GTP-binding proteins are located in the N-
+terminal part of these proteins.   The signature pattern that we developed for
+these proteins  is  based  on  a  highly  conserved  region  downstream of the
+ATP/GTP-binding motif 'A' (P-loop) (see <PDOC00017>).
+
+-Consensus pattern: L-P-[RKT]-[GD]-[STNKEA]-[GND]-[LIVMG]-[VICA]-T-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Vallee R.B., Shpetner H.S.
+     "Motor proteins of cytoplasmic microtubules."
+     Annu. Rev. Biochem. 59:909-932(1990).
+     PubMed=2142876; DOI=10.1146/annurev.bi.59.070190.004401
+[ 2] Obar R.A., Collins C.A., Hammarback J.A., Shpetner H.S., Vallee R.B.
+     "Molecular cloning of the microtubule-associated mechanochemical
+     enzyme dynamin reveals homology with a new family of GTP-binding
+     proteins."
+     Nature 347:256-261(1990).
+     PubMed=2144893; DOI=10.1038/347256a0
+[ 3] van der Bliek A., Meyerowitz E.M.
+     Nature 351:411-414(1991).
+[ 4] Rothman J.H., Raymond C.K., Gilbert T., O'Hara P.J., Stevens T.H.
+     "A putative GTP binding protein homologous to interferon-inducible Mx
+     proteins performs an essential function in yeast protein sorting."
+     Cell 61:1063-1074(1990).
+     PubMed=2112425
+[ 5] Jones B.A., Fangman W.L.
+     "Mitochondrial DNA maintenance in yeast requires a protein containing
+     a region related to the GTP-binding domain of dynamin."
+     Genes Dev. 6:380-389(1992).
+     PubMed=1532158
+[ 6] Arnheiter H., Meier E.
+     "Mx proteins: antiviral proteins by chance or by necessity?"
+     New Biol. 2:851-857(1990).
+     PubMed=1706623
+[ 7] Staeheli P., Pitossi F., Pavlovic J.
+     "Mx proteins: GTPases with antiviral activity."
+     Trends Cell Biol. 3:268-272(1993).
+     PubMed=14731745
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

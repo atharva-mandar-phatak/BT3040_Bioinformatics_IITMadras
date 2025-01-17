@@ -1,0 +1,51 @@
+*******************************************************
+* 3'5'-cyclic nucleotide phosphodiesterases signature *
+*******************************************************
+
+3'5'-cyclic nucleotide phosphodiesterases (EC 3.1.4.17) (PDEases) catalyze the
+hydrolysis of cAMP  or cGMP to the  corresponding nucleoside 5' monophosphates
+[1]. There are at least seven different subfamilies of PDEases [2,E1]:
+
+ - Type 1, calmodulin/calcium-dependent PDEases.
+ - Type 2, cGMP-stimulated PDEases.
+ - Type 3, cGMP-inhibited PDEases.
+ - Type 4, cAMP-specific PDEases.
+ - Type 5, cGMP-specific PDEases.
+ - Type 6, rhodopsin-sensitive cGMP-specific PDEases.
+ - Type 7, High affinity cAMP-specific PDEases.
+
+All of these forms seem to  share a conserved domain of about 270 residues. We
+have derived a signature  pattern  from a stretch of 12 residues that contains
+two conserved histidines.
+
+-Consensus pattern: H-D-[LIVMFY]-x-H-x-[AG]-x(2)-[NQ]-x-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Slime mold extracellular PDEase  and  yeast  low-affinity  PDEase (gene
+ PDE1) do not show any similarity with the above enzymes and belong to another
+ class of PDEases (see <PDOC00530>).
+
+-Last update: July 1998 / Pattern and text revised.
+
+[ 1] Charbonneau H., Beier N., Walsh K.A., Beavo J.A.
+     "Identification of a conserved domain among cyclic nucleotide
+     phosphodiesterases from diverse species."
+     Proc. Natl. Acad. Sci. U.S.A. 83:9308-9312(1986).
+     PubMed=3025833
+[ 2] Beavo J.A., Reifsnyder D.H.
+     "Primary sequence of cyclic nucleotide phosphodiesterase isozymes and
+     the design of selective inhibitors."
+     Trends Pharmacol. Sci. 11:150-155(1990).
+     PubMed=2159198
+[E1] http://depts.washington.edu/pde/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

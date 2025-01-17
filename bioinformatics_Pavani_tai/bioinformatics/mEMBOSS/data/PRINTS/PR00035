@@ -1,0 +1,19 @@
+HTHGNTR
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+gntR, hutC, korA, and E.coli proteins A, P30, fadR and phnF [1-3]. Within 
+this family, the HTH motif is situated towards the N-terminus.
+
+HTHGNTR is a 2-element fingerprint that provides a signature for the HTH
+motif of the gntR bacterial regulatory proteins. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs completely
+encompass the HTH motif, extending a few residues beyond its N- and C-
+termini (cf. PROSITE pattern HTH_GNTR_FAMILY (PS00043)). Two iterations on 
+OWL21.1 were required to reach convergence, at which point a true set
+comprising 12 sequences was identified. The Streptomyces korA protein,
+which is not identified by the PROSITE pattern, also escapes detection by
+the fingerprint, as it matches strongly only with motif 1.
+
+An update on SPTR37_9f identified a true set of 66 sequences.

@@ -1,0 +1,44 @@
+***********************************
+* Ribosomal protein S19 signature *
+***********************************
+
+Ribosomal protein S19 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli,  S19  is  known  to  form  a complex with S13 that binds
+strongly to  16S  ribosomal RNA. S19 belongs to a family of ribosomal proteins
+which, on the basis of sequence similarities [1,2], groups:
+
+ - Eubacterial S19.
+ - Algal and plant chloroplast S19.
+ - Cyanelle S19.
+ - Archaebacterial S19.
+ - Plant mitochondrial S19.
+ - Eukaryotic S15 ('rig' protein).
+
+S19 is  a  protein  of 88 to 144 amino-acid residues. Our signature pattern is
+based on  the  few  conserved  positions  located in the C-terminal section of
+these proteins.
+
+-Consensus pattern: [STDNQ]-G-[KRNQMHSI]-x(6)-[LIVM]-x(4)-[LIVMC]-[GSD]-x(2)-
+                    [LFI]-[GAS]-[DE]-[FYM]-x(2)-[ST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Kitagawa M., Takasawa S., Kikuchi N., Itoh T., Teraoka H., Yamamoto H.,
+     Okamoto H.
+     "rig encodes ribosomal protein S15. The primary structure of mammalian
+     ribosomal protein S15."
+     FEBS Lett. 283:210-214(1991).
+     PubMed=2044758;
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

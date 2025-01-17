@@ -1,0 +1,46 @@
+GHSRECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Growth hormone (GH) release is thought to occur under the reciprocal
+regulation of two hypothalamic peptides (GH releasing hormone (GHRH) and
+somatostatin) via their engagement with specific cell surface receptors on
+the anterior pituitary somatotroph [6,7]. GH-releasing peptides (such as
+GHRP-6, and the nonpeptide mimetics, L-692, 429 and MK-0677) stimulate GH 
+release through their activation of a distinct receptor, the GH secretagogue
+receptor (GHSR). This receptor couples to G-alpha-11 proteins.  
+
+GHSRECEPTOR is a 10-element fingerprint that provides a signature for the
+growth hormone secretagogue type 1 receptors. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from 
+conserved sections within either loop or TM regions, focusing on those 
+areas of the alignment that characterise the growth hormone secretagogue 
+type 1 receptors but distinguish them from the rest of the rhodopsin-like
+superfamily - motifs 1-3 span the N-terminal region, leading into TM domain
+1;  motif 4 encompasses part of the first external loop and TM domain 3; 
+motif 5 spans part of the second cytoplasmic loop and the N-terminal portion
+of TM domain 4; motif 6 lies in the second cytoplasmic loop; motif 7
+includes part of the second external loop and the N-terminus of TM domain 5;
+motifs 8 and 9 spans the third cytoplasmic and third external loops 
+respectively; and motif 10 resides at the C-terminus. A single iteration on
+SPTR37_10f was required to reach convergence, no further sequences being
+identified beyond the starting set. Two partial matches were found: O93412
+is an orphan GPCR from Sphoeroides nephelus that matches motifs 4, 7 and 9;
+and GP38_HUMAN is a putative GPCR from Homo sapiens that matches motifs 3
+and 4.   

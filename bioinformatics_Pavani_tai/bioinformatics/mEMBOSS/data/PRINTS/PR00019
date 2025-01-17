@@ -1,0 +1,27 @@
+LEURICHRPT
+Leucine-rich repeats (LRRs) are relatively short motifs (22-28 residues
+in length) found in a variety of cytoplasmic, membrane and extracellular 
+proteins [1]. Although these proteins are associated with widely different
+functions, a commmon property involves protein-protein interaction. Little
+is known about the 3D structure of LRRs, although it is believed that they
+can form amphipathic structures with hydrophobic surfaces capable of 
+interacting with membranes [3]. In vitro studies of a synthetic LRR from
+Drosophila Toll protein have indicated that the peptides form gels by
+adopting beta-sheet structures that form extended filaments. These results
+are consistent with the idea that LRRs mediate protein-protein interactions
+and cellular adhesion [4]. Other functions of LRR-containing proteins 
+include, for example, binding to enzymes [5] and vascular repair [6]. The
+3-D structure of ribonuclease inhibitor, a protein containing 15 LRRs, has
+been determined [7], revealing LRRs to be a new class of alpha/beta fold. 
+
+LEURICHRPT is a 2-element fingerprint that provides a signature for 
+leucine-rich repeats in a variety of protein families. The fingerprint 
+was derived from an initial alignment of 5 sequences: the motifs span the 
+full LRR motif. Five iterations on OWL20.0 were required to reach 
+convergence, at which point a true set comprising 83 sequences was 
+identified. It should be stressed, however, that the LRRs are highly 
+divergent and occur in such diverse proteins that absolute definition of 
+an LRR 'superfamily' [2] is difficult - this result is therefore intended 
+primarily as a guide.
+
+An update on SPTR37_9f identified a true set of 129 sequences.

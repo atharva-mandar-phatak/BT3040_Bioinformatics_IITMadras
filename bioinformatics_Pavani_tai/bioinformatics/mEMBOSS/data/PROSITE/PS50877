@@ -1,0 +1,94 @@
+****************************
+* GoLoco/GPR motif profile *
+****************************
+
+In  heterotrimeric  G-protein  signalling,  cell surface receptors (GPCRs) are
+coupled  to  membrane-associated  heterotrimers  comprising  a GTP-hydrolyzing
+subunit  G-alpha  and  a  G-beta/G-gamma dimer. The inactive form contains the
+alpha subunit bound to GDP and complexes with the beta and gamma subunit. When
+the  ligand  is  associated to the receptor, GDP is displaced from G-alpha and
+GTP  is  bound. GTP/G-alpha complex dissociates from the trimer and associates
+to  an  effector  until  the  intrinsic GTPase activity of G-alpha returns the
+protein   to   GDP  bound  form.  Reassociation  of  GDP  bound  G-alpha  with
+G-beta/G-gamma  dimer  terminates  the signal. Several mechanisms regulate the
+signal  output  at  different  stage  of the G-protein cascade. Two classes of
+intracellular  proteins  act  as  inhibitors  of  G protein activation: GTPase
+activating  proteins  (GAPs),  which enhance GTP hydrolysis (see <PDOC50132>),
+and  guanine  dissociation  inhibitors (GDIs), which inhibit GDP dissociation.
+The  GoLoco  or  G-protein  regulatory  (GPR) motif found in various G-protein
+regulators [1,2] acts as a GDI on G-alpha(i) [3,4,5].
+
+The  crystal structure of the GoLoco motif in complex with G-alpha(i) has been
+solved  (see  <PDB:1KJY>)  [6].  It consists of three small alpha helices. The
+highly  conserved  Asp-Gln-Arg  triad  within  the  GoLoco  motif participates
+directly  in  GDP  binding  by  extending  the  arginine  side  chain into the
+nucleotide binding pocket, highly reminiscent of the catalytic arginine finger
+employed  in  GTPase-activating protein (see <PDOC50238>). This addition of an
+arginine in the binding pocket affects the interaction of GDP with G-alpha and
+therefore is certainly important for the GoLoco GDI activity [6,7].
+
+Some proteins known to contain a GoLoco motif are listed below:
+
+ - Mammalian  regulators  of  G-protein signaling 12 and 14 (RGS12 and RGS14),
+   multifaceted signal transduction regulators.
+ - Loco, the drosophila RGS12 homologue.
+ - Mammalian  Purkinje-cell  protein-2  (Pcp2). It may function as a cell-type
+   specific  modulator  for  G protein-mediated cell signaling. It is uniquely
+   expressed in cerebellar Purkinje cells and in retinal bipolar neurons.
+ - Eukaryotic   Rap1GAP.  A  GTPase  activator  for  the  nuclear  ras-related
+   regulatory protein RAP-1A.
+ - Drosophila  protein  Rapsynoid (also known as Partner of Inscuteable, Pins)
+   and  its mammalian homologues AGS3 and LGN. They form a G-protein regulator
+   family that also contains TPR repeats.
+
+The profile we developed covers the whole conserved region.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2003 / First entry.
+
+[ 1] Siderovski D.P., Diverse-Pierluissi M., De Vries L.
+     "The GoLoco motif: a Galphai/o binding motif and potential
+     guanine-nucleotide exchange factor."
+     Trends Biochem. Sci. 24:340-341(1999).
+     PubMed=10470031
+[ 2] Ponting C.P.
+     "Raf-like Ras/Rap-binding domains in RGS12- and still-life-like
+     signalling proteins."
+     J. Mol. Med. 77:695-698(1999).
+     PubMed=10606204
+[ 3] De Vries L., Fischer T., Tronchere H., Brothers G.M., Strockbine B.,
+     Siderovski D.P., Farquhar M.G.
+     Proc. Natl. Acad. Sci. U.S.A. 97:14364-14369(2000).
+[ 4] Natochin M., Lester B., Peterson Y.K., Bernard M.L., Lanier S.M.,
+     Artemyev N.O.
+     "AGS3 inhibits GDP dissociation from galpha subunits of the Gi family
+     and rhodopsin-dependent activation of transducin."
+     J. Biol. Chem. 275:40981-40985(2000).
+     PubMed=11024022; DOI=10.1074/jbc.M006478200
+[ 5] Kimple R.J., De Vries L., Tronchere H., Behe C.I., Morris R.A.,
+     Gist Farquhar M., Siderovski D.P.
+     "RGS12 and RGS14 GoLoco motifs are G alpha(i) interaction sites with
+     guanine nucleotide dissociation inhibitor Activity."
+     J. Biol. Chem. 276:29275-29281(2001).
+     PubMed=11387333; DOI=10.1074/jbc.M103208200
+[ 6] Kimple R.J., Kimple M.E., Betts L., Sondek J., Siderovski D.P.
+     "Structural determinants for GoLoco-induced inhibition of nucleotide
+     release by Galpha subunits."
+     Nature 416:878-881(2002).
+     PubMed=11976690; DOI=10.1038/416878a
+[ 7] Peterson Y.K., Hazard S. III, Graber S.G., Lanier S.M.
+     "Identification of structural features in the G-protein regulatory
+     motif required for regulation of heterotrimeric G-proteins."
+     J. Biol. Chem. 277:6767-6770(2002).
+     PubMed=11756403; DOI=10.1074/jbc.C100699200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

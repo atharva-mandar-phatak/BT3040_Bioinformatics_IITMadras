@@ -1,0 +1,51 @@
+OPIOIDR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The term opioid refers to a class of substance that produces its effects
+via the major classes of opioid receptor, termed mu, delta and kappa [6].
+The receptors are found in the CNS and certain smooth muscles: mu-opioid
+receptors are believed to mediate analgesia, hypothermia, respiratory
+depression, miosis, bradycardia, nausea, euphoria and physical dependence,
+beta-endorphin being the most potent endogenous ligand; delta-receptors
+mediate analgesia; and kappa-opioid receptors are believed to mediate
+analgesia, sedation, miosis and diuresis, dynorphin being the most potent
+endogenous ligand.
+
+A human placental protein that binds opioid ligands with moderate affinity
+has been provisionally classified as an opioid receptor [6]. However, it is
+not selective for kappa-ligands and is 93% similar to the human NK3
+tachykinin receptor, although it doesn't bind tachykinins.   
+
+OPIOIDR is a 6-element fingerprint that provides a signature for the opioid
+receptors. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved sections within either loop
+or TM regions, focusing on those areas of the alignment that characterise
+the opioid receptors but distinguish them from the rest of the rhodopsin-
+like superfamily - motif 1 spans part of the first cytoplasmic loop and
+TM domain 2; motif 2 lies in TM domain 2; motifs 3 and 4 span the second
+and third cytoplasmic loops res.; and motifs 5 and 6 lie at the N- and
+C-termini of TM domain 7. Two iterations on OWL26.0 were required to reach
+convergence, at which point a true set comprising 20 sequences was
+identfied. Several partial matches were also found, all of which are
+somatostatin receptors that match motifs 1, 2 and 6. Notably, the putative
+placental opioid receptor was not identified by this signature.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 17
+partial matches.

@@ -1,0 +1,30 @@
+GLABLOOD
+Coagulation proteins, such as factors VII, IX and X, proteins C and S, and 
+prothrombin, contain gamma-carboxyglutamic acid residues: these vary in 
+number between 9 and 12, and are produced by post-translational 
+modification of Glu residues by a vitamin K-dependent carboxylase. Calcium 
+ions bind to the gamma-carboxyglutamic acid residues of the Gla domain and 
+support the binding of these vitamin K-dependent proteins to acidic 
+phospholipid vesicles, resulting in the production of a soluble fibrin clot.
+
+The Gla domain is an N-terminal module of about 48 residues that contains
+carboxylated Glu residues responsible for high-affinity calcium binding.
+It terminates with a conserved aromatic residue, and at its centre has a
+conserved Gla-x(3)-Gla-x-Cys motif, which seems to be important for the
+substrate recognition by the carboxylase. The domain is dominated by
+secondary structure comprising 3 turns of alpha-helix and 5 short beta-
+strands arranged into 2 beta-structural units. Cys residues 18 and 23 of
+the Gla domain participate in a disulphide bridge to form a small conserved
+loop close to a cluster of conserved aromatic residues.
+
+GLABLOOD is a 3-element fingerprint that provides a signature for the N-
+terminal 'Gla domain' of coagulation proteins. The fingerprint was derived
+from an initial alignment of 6 sequences (after Soriano-Garcia [1]): the
+motifs span the region encoded by PROSITE pattern GLU_CARBOXYLATION
+(PS00011), 1 and 2 encoding the Gla-x(3)-Gla-x-Cys motif. Four iterations
+on OWL11.0 were required to reach convergence, at which point a true set
+comprising 29 sequences was identified. A single partial match was also
+found, a coagulation factor fragment, which lacks part of motif 3. 
+
+An update on SPTR37_9f identified a true set of 38 sequences, and 1
+partial match.

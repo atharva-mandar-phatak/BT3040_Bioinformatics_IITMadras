@@ -1,0 +1,54 @@
+******************************************************************
+* Plant viruses icosahedral capsid proteins 'S' region signature *
+******************************************************************
+
+The capsid protein of plant  icosahedral positive strand RNA viruses generally
+consists of four distinct domains: an N-terminal positively charged 'R' domain
+involved in the  interaction with RNA,  a connecting arm 'a', a central domain
+'S' forming the virion shell, and a C-terminal projecting 'P' domain.  Some of
+the viruses lack either the R or P domains.
+
+It has been shown [1] that the S domain  of the  capsid protein of a number of
+plant viruses are evolutionary related, namely:
+
+ - Carmoviruses: carnation mottle  virus (CarMV),  melon  necrotic  spot virus
+   (MNSV), and turnip crinkle virus (TCV).
+ - Dianthoviruses: red clover necrotic mosaic virus (RCNMV).
+ - Sobemoviruses: maize  chlorotic  mottle  virus  (MCMV),  and  southern bean
+   mosaic virus (SBMV).
+ - Tombusviruses: artichoke mottled  crinkle virus (AMCV),  cucumber  necrosis
+   virus (CNV), cymbidium ringspot virus (CyRSV), and tomato bushy stunt virus
+   (TBSV).
+ - Tobacco necrosis virus (TNV).
+
+The S domain of these viruses  contains  from 158  to  166 amino acids  and is
+composed of eight beta-strand anti-parallel twisted sheets in what is known as
+a 'jellyroll' conformation.  The  signature  pattern for this domain starts at
+the C-terminal  part of the 3rd  beta-strand  and extends up to the end of the
+4th strand.
+
+-Consensus pattern: [FYW]-x-[PSTA]-x(7)-G-x-[LIVM]-x-[LIVM]-x-[FYWI]-x(2)-D-
+                    x(5)-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Koonin E.V.; koonin@ncbi.nlm.nih.gov
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Dolja V.V., Koonin E.V.
+     "Phylogeny of capsid proteins of small icosahedral RNA plant
+     viruses."
+     J. Gen. Virol. 72:1481-1486(1991).
+     PubMed=1856686
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

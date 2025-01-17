@@ -1,0 +1,48 @@
+RIBOSOMALS19
+Ribosomes are ribonucleoprotein particles that are the site of protein
+synthesis. The structure of the ribosome is well conserved across the
+prokaryotic and eukaryotic lineages, reflecting the early origin of their
+essential function. They comprise two subunits, which can dissociate on 
+heating. In prokaryotes, the small subunit contains a single large RNA 
+moeity denoted, according to its sedimentation coefficient, 16S rRNA, and 21 
+different ribosomal proteins, designated S1-S21. Eukaryotic small ribosomal
+subunits contain 33 proteins, many of which are similar to those found
+in prokaryotes. 
+
+There are two major tRNA binding sites on the ribosome, termed the A site, 
+where incoming aminoacyl-tRNA is bound, and the P site (for peptidyl tRNA), 
+where new peptide bonds are formed. The ribosomal proteins catalyse ribosome 
+assembly and stabilise the rRNA, tuning the structure of the ribosome for 
+optimal function [1]. Evidence suggests that, in prokaryotes, the peptidyl
+transferase reaction is performed by the large subunit 23S rRNA, whereas
+proteins probably have a greater role in eukaryotic ribosomes. Most of the
+proteins lie close to, or on the surface of, the 30S subunit, arranged
+peripherally around the rRNA [2]. The small subunit ribosomal proteins can
+be categorised as primary binding proteins, which bind directly and
+independently to 16S rRNA; secondary binding proteins, which display no
+specific affinity for 16S rRNA, but its assembly is contingent upon the
+presence of one or more primary binding proteins; and tertiary binding
+proteins, which require the presence of one or more secondary binding
+proteins and sometimes other tertiary binding proteins.
+
+The small ribosomal subunit protein S19 contains 88-144 amino acid residues.
+In Escherichia coli, S19 is known to form a complex with S13 that binds 
+strongly to 16S ribosomal RNA. Experimental evidence [3] has revealed that 
+S19 is moderately exposed on the ribosomal surface, and is designated 
+a secondary rRNA binding protein. S19 belongs to a family of ribosomal 
+proteins [3,4] that includes: eubacterial S19; algal and plant chloroplast 
+S19; cyanelle S19; archaebacterial S19; plant mitochondrial S19; and 
+eukaryotic S15 ('rig' protein).
+
+RIBOSOMALS19 is a 3-element fingerprint that provides a signature for S19 
+ribosomal proteins. The fingerprint was derived from an initial alignment 
+of 29 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motifs 3 and 4 span the conserved C-terminal
+region encoded by PROSITE pattern RIBOSOMAL_S19 (PS00323). Two iterations 
+on OWL30.2 were required to reach convergence, at which point a true set
+comprising 66 sequences was identified. A single partial match was also
+found, RS19_YERPS, a fragment that lacks the portion of sequence bearing
+motif 3.
+
+An update on SPTR37_9f identified a true set of 62 sequences, and 1
+partial match.

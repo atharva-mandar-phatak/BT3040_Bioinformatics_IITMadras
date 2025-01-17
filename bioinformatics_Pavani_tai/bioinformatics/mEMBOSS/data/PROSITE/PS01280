@@ -1,0 +1,36 @@
+**********************************************************
+* Glucose inhibited division protein A family signatures *
+**********************************************************
+
+Bacterial glucose  inhibited division protein A (gene gidA) is a protein of 70
+Kd whose function is not yet known and whose sequence is highly conserved.  It
+is  evolutionary related to yeast hypothetical protein YGL236C, Caenorhabditis
+elegans hypothetical  protein  F52H3.2  and a Bacillus subtilis protein called
+gid (and which is different from B.subtilis gidA).
+
+We selected  two  highly conserved regions as signature patterns. Both regions
+are located in the central region of the protein.
+
+-Consensus pattern: [GSA]-[PTAV]-x-[YH]-C-P-S-[LIVMF]-[ED]-x-K-[LIVMFA]-x-
+                    [KRNT]-[FY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus subtilis gid.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [AC]-G-[QNV]-x-[NTAI]-G-x(2)-G-Y-x-[EA]-[SAG](2)-[SAGC]-
+                    [QSAGMVIT]-G-[LIVMWF]-[LIVMAF]-[AST]-[GA]-[LIVMTAR]-
+                    [NYAMF]-[ALVST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,94 @@
+*********************************************
+* MAD homology domains MH1 and MH2 profiles *
+*********************************************
+
+Smad proteins  are  signal transducers and transcriptional comodulators of the
+TGF-beta superfamily  of  ligands,  which  play a central role in regulating a
+broad range of cellular responses, including cell growth, differentiation, and
+specification of  developmental  fate, in diverse organisms from C. elegans to
+humans. Ligand  binding  to  specific  transmembrane  receptor kinases induces
+receptor oligomerization  and  phosphorylation  of  the receptor specific Smad
+protein (R-Smad)  in  the  cytoplasm.  The  R-Smad  proteins regulate distinct
+signaling pathways.  Smad1,  5 and 8 mediate the signals of bone morphogenetic
+proteins (BMPs),  while  Smad2  and 3 mediate the signals of activins and TGF-
+betas. Upon  ligand  stimulation,  R-Smad  proteins  are phosphorylated at the
+conserved C-terminal  tail  sequence,  SS*xS*  (where S*  denotes  a  site  of
+phosphorylation). The   phosphorylated   states   of   R-Smad   proteins  form
+heteromeric complexes with Smad4 and are translocated into the nucleus. In the
+nucleus, the  heteromeric  complexes  function  as gene-specific transcription
+activators by  binding  to  promoters  and  interacting  with  transcriptional
+coactivators. Smad6  and  Smad7 are inhibitory Smad proteins that inhibit TGF-
+beta signaling by interfering with either receptor-mediated phosphorylation or
+hetero-oligomerization between   Smad4  and  R-Smad  proteins.  Smad  proteins
+comprise two  conserved  MAD homology domains, one in the N-terminus (MH1) and
+one in the C-terminus (MH2), separated by a more variable, proline-rich linker
+region. The  MH1 domain has a role in DNA binding and negatively regulates the
+functions of   MH2   domain,   whereas  the  MH2  domain  is  responsible  for
+transactivation and  mediates  phosphorylation-triggered  heteromeric assembly
+between Smad4 and R-Smad [1,2].
+
+The MH1  domain  adopts  a compact globular fold, with four alpha helices, six
+short beta  strands,  and  five loops (see <PDB:1MHD>). The N-terminal half of
+the sequence  consists  of  three  alpha  helices  ,  and  the C-terminal half
+contains all  six  beta strands, which form two small beta sheets and one beta
+hairpin. The  fourth  alpha  helix  is  located in the hydrophobic core of the
+molecule, surrounded  by the N-terminal three alpha helices on one side and by
+the two  small  beta  sheets  and  the  beta  hairpin on the other side. These
+secondary structural  elements  are  connected  with  five intervening surface
+loops. The  MH1  domain  employs a novel DNA-binding motif, a 11-residue beta-
+hairpin formed  by  strands B2 and B3, to contact DNA in the major groove. Two
+residues in  the  L3  loop and immediately preceding strand B2 also contribute
+significantly to DNA recognition. The beta hairpin appears to protrude outward
+from the globular MH1 core [1].
+
+The MH2  domain  is  about  ~230  amino  acids in length and contains the SSxS
+motif. The  MH2  domain is able to undergo phosphorylation-dependent homo- and
+heterotrimerization. The  MH2  domain contains a central beta sandwich, with a
+conserved three helix bundle (H3, H4, and H5) on one end and a conserved loop-
+helix region (L1, L2, L3, and H1) on the other end (see <PDB:1DEV>) [2].
+
+The profiles we developed cover the entire MH1 and MH2 domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It  has  been  said that the MH1 domain is related to the CTF/NF-I DNA-
+ binding domain (see <PDOC00361>) [3,4].
+
+-Last update: February 2005 / First entry.
+
+[ 1] Shi Y., Wang Y.-F., Jayaraman L., Yang H., Massague J., Pavletich N.P.
+     "Crystal structure of a Smad MH1 domain bound to DNA: insights on DNA
+     binding in TGF-beta signaling."
+     Cell 94:585-594(1998).
+     PubMed=9741623
+[ 2] Wu J.-W., Hu M., Chai J., Seoane J., Huse M., Li C., Rigotti D.J.,
+     Kyin S., Muir T.W., Fairman R., Massague J., Shi Y.
+     "Crystal structure of a phosphorylated Smad2. Recognition of
+     phosphoserine by the MH2 domain and insights on Smad function in
+     TGF-beta signaling."
+     Mol. Cell 8:1277-1289(2001).
+     PubMed=11779503
+[ 3] Stefancsik R., Sarkar S.
+     "Relationship between the DNA binding domains of SMAD and NFI/CTF
+     transcription factors defines a new superfamily of genes."
+     DNA Seq. 14:233-239(2003).
+     PubMed=14631647
+[ 4] Sadreyev R., Grishin N.
+     "COMPASS: a tool for comparison of multiple protein alignments with
+     assessment of statistical significance."
+     J. Mol. Biol. 326:317-336(2003).
+     PubMed=12547212
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

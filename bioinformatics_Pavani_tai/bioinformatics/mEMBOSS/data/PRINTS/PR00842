@@ -1,0 +1,43 @@
+GLHYDLASE14B
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 14 (EC 3.2.1.2) encompasses the beta-amylase enzymes.
+
+Beta-amylases, which are found in plants and bacteria, hydrolyse 1,4-alpha-
+glucosidic linkages in starch-type polysaccharide substrates, removing
+successive maltose units from the non-reducing ends of the chains [5]. In 
+potato plants, the enzyme has been found to work optimally at 40 degrees C, 
+becoming unstable above this temperature [5]. On the basis of sequence
+comparisons, plant and bacterial beta-amylases can be readily distinguished
+from each other. 
+
+The 3D structure of a complex of soybean beta-amylase with an inhibitor 
+(alpha-cyclodextrin) has been determined to 3.0A resolution by X-ray
+diffraction [6]. The enzyme folds into large and small domains: the large
+domain has a (beta alpha)8 super-secondary structural core, while the smaller
+is formed from two long loops extending from the beta-3 and beta-4 strands
+of the (beta alpha)8 fold [6]. The interface of the two domains, together
+with shorter loops from the (beta alpha)8 core, form a deep cleft, in which 
+the inhibitor binds [6]. Two maltose molecules also bind in the cleft,
+one sharing a binding site with alpha-cyclodextrin, and the other sitting
+more deeply in the cleft [6].
+
+GLHYDLASE14B is a 7-element fingerprint that provides a signature for
+plant beta-amylases. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions 
+spanning the C-terminal half of the alignment, focusing on those regions
+that characterise the plant beta-amylases but distinguish them from the rest
+of the beta-amylase family - motif 1 includes beta-strand 8; motif 2 spans
+helix 17; motif 3 spans the C-terminus of helix 20 and strand 11; motif 4
+includes the N-terminus of helix 21; motif 6 spans the C-terminus of strand
+12, helix 22 and the N-terminus of helix 23; motif 7 encodes the remainder
+of helix 23. Two iterations on OWL30.0 were required to reach convergence,
+at which point a true set comprising 15 sequences was identified. Two partial
+matches were also found: AMYB_SECCE is a fragment from Secale cereale that
+lacks the portion of sequence bearing motif 1; and AF012345 is a fragment
+from Hordeum vulgare that matches motifs 2-5.
+
+An update on SPTR37_9f identified a true set of 13 sequences.

@@ -1,0 +1,20 @@
+WWDOMAIN
+The WW domain, a short conserved region found in a number of disparate
+proteins, is characterised by 2 conserved Trp residues and a conserved Pro
+(hence its alternative name, WWP) [1]. Among the proteins known to contain
+WW domains is dystrophin, the product encoded by the gene responsible for
+Duchenne muscular dystrophy. The domain contains around 35-40 residues,
+and may be repeated up to 4 times in some sequences. It appears to bind
+proteins that contain characteristic proline motifs ([AP]-P-P-[AP]-Y),
+and resembles, to an extent, the SH3 domains. It is often associated with
+other domains that typify proteins involved in signal transduction.
+
+WWDOMAIN is a 2-element fingerprint that provides a signature for the WW
+domain. The fingerprint was derived from an initial alignment of 11
+sequences: the motifs span the full domain length, and correspond to the
+region encoded by PROSITE pattern WW_DOMAIN (PS01159), which includes the
+2 conserved Trp residues and the conserved Pro. Two iterations on OWL26.3
+were required to reach convergence, at which point a true set comprising
+19 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 43 sequences.

@@ -1,0 +1,72 @@
+***********************************************
+* Glycoprotein hormones beta chain signatures *
+***********************************************
+
+Glycoprotein hormones [1,2] (or gonadotropins) are a family of proteins  which
+include the mammalian  hormones follitropin (FSH), lutropin (LSH), thyrotropin
+(TSH) and chorionic  gonadotropin (CG), as  well as at least two forms of fish
+gonadotropins. All these  hormones  consist of two  glycosylated chains (alpha
+and beta). In mammalian  gonadotropins,  the  alpha chain  is identical in the
+four types of hormones but the beta chains, while homologous, are different.
+
+The beta chains are proteins  of  about  100  to 140 amino acid residues which
+contain twelve  conserved  cysteines  all  involved in disulfide bonds [3], as
+shown in the following schematic representation.
+
+      +----------------------+
+      |         +------------|-----------------------------+
+      |       +-|------------|--------+                    |
+      |       | |  ****      |        |      ***************
+   xxxCxxxxxxxCxCxxCxCxxxxxxxCxxxxxxxxCxxxxxxxCxCxCxxCxxxxxCxxxxxxxxxxx
+                   | |                        | | |  |
+                   | |                        | | +--+
+                   +-|------------------------+ |
+                     +--------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+We have developed two patterns for these hormones.  The  first one, located in
+the N-terminal  section, is a region which has been said to be involved in the
+association  between  the  two  chains  of  the hormones.  The  second pattern
+consists of a cluster of five conserved cysteines in the C-terminal section.
+
+-Consensus pattern: C-[STAGM]-G-[HFYL]-C-x-[ST]
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for rat beta-FSH which has Glu in position 2 of the pattern.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [PA]-V-A-x(2)-C-x-C-x(2)-C-x(4)-[STDAI]-[DEY]-C-x(6,8)-
+                    [PGSTAVMI]-x(2)-C
+                    [The 5 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Lapthorn A.; adrian@chem.gla.ac.uk
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Pierce J.G., Parsons T.F.
+     "Glycoprotein hormones: structure and function."
+     Annu. Rev. Biochem. 50:465-495(1981).
+     PubMed=6267989
+[ 2] Stockell Hartree A., Renwick A.G.C.
+     Biochem. J. 287:665-679(1992).
+[ 3] Lapthorn A.J., Harris D.C., Littlejohn A., Lustbader J.W.,
+     Canfield R.E., Machin K.J., Morgan F.J., Isaacs N.W.
+     "Crystal structure of human chorionic gonadotropin."
+     Nature 369:455-461(1994).
+     PubMed=8202136; DOI=10.1038/369455a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

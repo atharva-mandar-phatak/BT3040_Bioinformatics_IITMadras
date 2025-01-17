@@ -1,0 +1,37 @@
+PLTLPOXGNASE
+Lipoxygenases are iron-containing dioxygenases that catalyse the hydro-
+peroxidation of lipids containing a cis,cis-1,4-pentadiene structure. They
+are common in plants, where they are involved in such diverse aspects of 
+plant physiology as growth and development, pest resistance and senescence 
+or responses to wounding [1]. In mammals, a number of lipoxygenase isozymes
+are involved in the metabolism of prostaglandins and leukotrienes [2]. 
+
+Soybean lipoxygenase is well-characterised and its 3D structure has been 
+determined [3]. The fold comprises 2 domains: the N-terminal domain forms
+an 8-stranded anti-parallel jelly-roll, stabilised by a densely-packed
+hydrophobic (aromatic) core; the C-terminal domain forms a much larger,
+complex structure, comprising 23 helices and 2 beta-sheets, a central
+43-residue helix spanning the domain. Two pi-helices are also observed in
+the structure, both of which contain residues that serve as ligands to the
+active site iron. 
+
+The iron atom in lipoxygenases is bound by 4 ligands, 3 of which are
+His residues [3]. In fact there are 6 histidines conserved in all lipoxy-
+genases, 5 of which are clustered in a stretch of 40 amino acids. This
+region contains 2 of the 3 His ligands: the other histidines are believed
+to be important for lipoxygenase activity [4].
+
+PLTLPOXGNASE is a 9-element fingerprint that provides a signature for plant
+lipoxygenases. The fingerprint was derived from an initial alignment of 8
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those areas of the alignment that
+characterise plant lipoxygenases but distinguish them from those of
+mammalian origin (cf. PROSITE patterns LIPOXYGENASE_1 (PS00711) and
+LIPOXYGENASE_2 (PS00081), and signatures MAMLPOXGNASE and LIPOXYGENASE).
+Two iterations on OWL26.3 were required to reach convergence, at which
+point a true set comprising 27 sequences was identified. Two partial
+matches were also found, SOYLOXC and BLYLOXC, both of which are
+lipoxygenase fragments.
+
+An update on SPTR37_9f identified a true set of 47 sequences, and 3
+partial matches.

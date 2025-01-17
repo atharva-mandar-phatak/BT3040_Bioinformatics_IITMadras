@@ -1,0 +1,50 @@
+KIR34CHANNEL
+Potassium channels are found in virtually all cell types. Their pore-
+forming subunits fall into three structural families, i.e. those possessing
+six, four and two transmembrane (TM) domains. The six-TM domain K+ channels
+can be further subdivided into six families: the voltage-gated K+ channels
+(Kv), the KCNQ channels, the eag-like K+ channels, and three Ca2+-activated
+K+ channels. Inwardly-rectifying K+ channels (Kir) are the principal class
+of two-TM domain K+ channels, and the recently-discovered two-pore domain
+K+ channels, make up a family of four-TM domain K+ channels.
+
+Inwardly rectifying potassium channels (Kir) are responsible for regulating
+diverse processes including: cellular excitability, vascular tone, heart
+rate, renal salt flow, and insulin release [1]. To date, around twenty
+members of this superfamily have been cloned, which can be grouped into six
+families by sequence similarity - these are designated Kir1.x-7.x [2,3].
+
+Cloned Kir channel cDNAs encode proteins of between ~370-500 residues,
+containing two predicted TM domains, with the characteristic K+ channel
+pore-forming domain located between them. Both N- and C-termini are thought
+to be cytoplasmic, and the N-terminus lacks a signal sequence. It is thought
+that four Kir subunits assemble to form a tetrameric channel complex, which
+may be hetero- or homomeric [1].
+
+The Kir3.x channel family are gated by G proteins following G protein
+coupled receptor (GPCR) activation. They are widely distributed in
+neuronal, atrial, and endocrine tissues and play key roles in generating
+late inhibitory postsynaptic potentials, slowing the heart rate and
+modulating hormone release. They are directly activated by G protein
+beta-gamma subunits released from G protein heterotrimers of the G(i/o)
+family upon appropriate receptor stimulation.
+
+Kir3.4 is thought to associate with Kir3.1, to form hetero-tetrameric
+acetylcholine-activated K+ channels, in the heart. Their activation,
+following stimulation of the vagus nerve, leads to slowing of the heart,
+and reduction in contractile force. In the brain, Kir3.4 distribution has
+been found to be quite restricted, being found in some neuronal populations,
+such as Purkinje cells and neurones of the globus pallidus and the ventral
+pallidum [4]. A recent study has suggested that Kir3.4 may confer mechano-
+sensitive properties on Kir channels, since channels containing it are
+inactivated by membrane stretch forces [5].
+
+KIR34CHANNEL is a 6-element fingerprint that provides a signature for the
+Kir3.4 inward rectifier K+ channel. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise Kir3.4 but distinguish it from other subtypes -
+motifs 1-3 lie in the putative cytoplasmic N-terminus; and motifs 4-6 encode
+portions of the cytoplasmic C-terminus. A single iteration on SPTR37_10f
+was required to reach convergence, no further sequences being identified
+beyond the starting set.

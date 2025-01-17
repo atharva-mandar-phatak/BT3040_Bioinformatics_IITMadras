@@ -1,0 +1,54 @@
+*******************************************
+* Gamma-glutamyl hydrolase domain profile *
+*******************************************
+
+Gamma-glutamyl  hydrolase  (GGH)  (EC 3.4.19.9)  is  an  enzyme  that  cleaves
+gamma-linked    glutamyl    bonds.    With   a   substrate   such   as   folyl
+penta-gamma-glutamate,  the  enzyme acts as an endopeptidase. GGH is a central
+enzyme  in  the  metabolism of folic acid and antifolyl poly-gamma-glutamates.
+Folate  is  an  essential  co-factor  of  enzymes  for the biosynthesis of DNA
+precursors  and  several  amino acids. In mammals, the activity of GGH against
+antifolate  drugs  is  involved in resistance to anticancer therapy. Mammalian
+GGH  is  located  in  the lysosomes and in plants the enzyme is located in the
+vacuoles.
+
+The  3-dimensional structure of GGH shows a central eight-stranded beta-sheet,
+which  is  sandwiched  by  three  and  five  alpha-helices  on  each side (see
+<PDB:1L9X>).  The  fold resembles that of glutamine amidotransferases (GATase)
+of  class  I,  which  are characterized by a conserved Cys-His-Glu active site
+(see  <PDOC00405>).  The major differences consist of extensions in four loops
+and  at the C-terminus of GGH [1]. The active site residues are well conserved
+and  the  catalytically essential cysteine, positioned at a nucleophile elbow,
+suggests  that  GGH  is  a  cysteine  peptidase. The gamma-glutamyl hydrolases
+belong to the peptidase C26 family, which is classified with the peptidase C56
+PfpI endopeptidases (see <PDOC51276>) in the clan PC(C) [E1, E2].
+
+The profile we developed covers the entire gamma-glutamyl hydrolase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C26 in the classification of peptidases
+ [E1,E2].
+-Note:  The  gamma-glutamyl  hydrolase domain profile is in competition with a
+ profile of a related domain, i.e. GATase type 1 (see <PDOC00405>).
+
+-Last update: December 2006 / First entry.
+
+[ 1] Li H., Ryan T.J., Chave K.J., Van Roey P.
+     "Three-dimensional structure of human gamma -glutamyl hydrolase. A
+     class I glutamine amidotransferase adapted for a complex substate."
+     J. Biol. Chem. 277:24522-24529(2002).
+     PubMed=11953431; DOI=10.1074/jbc.M202020200
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+[E2] http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C26
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

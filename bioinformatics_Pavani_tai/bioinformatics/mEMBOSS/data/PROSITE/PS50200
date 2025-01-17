@@ -1,0 +1,94 @@
+***************************************
+* Ras-associating (RA) domain profile *
+***************************************
+
+Ras proteins  are  signal-transducing GTPases that cycle between inactive GDP-
+bound and  active  GTP-bound  forms.  Ras  is  a  prolific signalling molecule
+interacting with a spectrum of effector molecules and acting through more than
+one signalling    pathway.    A  domain  of  about 100 residues, termed RA for
+RalGDS/AF-6 or Ras-Associating, interacts with Ras and other small GTPases. It
+occurs in  one  or  two copies in a variety of signalling molecules. It can be
+found associated  with  many  other  domains,  such  as PDZ (see <PDOC50106>),
+Dilute (DIL),  GEF  (see  <PDOC00594>), myosin motor, IQ (see <PDOC50096>), C1
+(see <PDOC00379>),  C2    (see <PDOC00380>), protein kinase (see <PDOC00100>),
+VPS9 or sterile alpha motif (SAM) (see <PDOC50105>) [1,2,3].
+
+Some proteins known to contain a RA domain are listed below:
+
+ - Mammalian Ral guanine nucleotide dissociation stimulator (RalGDS).
+ - Human  AF-6  protein  and  Drosophila  CNO protein, two orthologous modular
+   proteins containing myosin- and kinesin-like cargo-binding domains.
+ - Mammalian Ral guanine nucleotide dissociation stimulator-like 1 and 2 (RGL1
+   and RGL2).
+ - Mammalian Ras and Rab interactor 1 (RIN1), 2 (RIN2) and 3 (RIN3).
+ - Mammalian  adapter  proteins  of  the Grb7/10/14 family. They bind, through
+   their C-terminal  SH2  domain (see <PDOC50001>), phosphotyrosine-containing
+   sequences on  a  variety  of activated tyrosine kinase receptors.
+ - Caenorhabditis elegans protein mig-10.
+ - Animal phosphoinositide-specific phospholipase C PLC-epsilon.
+ - Animal unconventional myosins IX.
+ - Mammalian diacylglycerol kinases, theta (EC 2.7.1.107).
+ - Fungal-type adenylate cyclase (EC 4.6.1.1).
+ - Yeast STE50 protein. It is involved in growth arrest during conjugation and
+   may interact with the G protein alpha subunit.
+ - Fission  yeast  sexual  differentiation  protein  ste4. It is essential for
+   mating and meiosis.
+ - Smut fungus MAP kinase pathway-interacting protein Ubc2.
+
+Structurally, the  RA domain of RalGDS consists of a five-stranded mixed beta-
+sheet interrupted  by a 12 residue alpha-helix and two additional small alpha-
+helices (see  <PDB:1LXD>).    The  structure  of  the RA domain belongs to the
+ubiquitin alpha/beta  roll  superfold and is similar to that of the RBD domain
+and the  N-terminal  third  of the FERM domain (see <PDOC00566>) [4,5]. The RA
+domain forms  a  homodimer    where  the interdimer surface is composed of two
+cysteines (Cys  2  in  each  monomer) forming an intermolecular disulfide bond
+and two  interacting  intermolecular  antiparallel  beta-sheets [4]. The major
+interaction between Ras and RalGDS  RA  domain occurs between two antiparallel
+beta-strands: beta 2 of Ras and  beta 2 of RA. This interaction occurs both at
+the backbone as well as the side chain level (see <PDB:1LFD>) [6].
+
+The profile we developed covers the entire RA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2003 / First entry.
+
+[ 1] Ponting C.P., Benjamin D.R.
+     "A novel family of Ras-binding domains."
+     Trends Biochem. Sci. 21:422-425(1996).
+     PubMed=8987396
+[ 2] Kido M., Shima F., Satoh T., Asato T., Kariya K., Kataoka T.
+     "Critical function of the Ras-associating domain as a primary
+     Ras-binding site for regulation of Saccharomyces cerevisiae adenylyl
+     cyclase."
+     J. Biol. Chem. 277:3117-3123(2002).
+     PubMed=11723130; DOI=10.1074/jbc.M109526200
+[ 3] Liao Y., Kariya K., Hu C.-D., Shibatohge M., Goshima M., Okada T.,
+     Watari Y., Gao X., Jin T.-G., Yamawaki-Kataoka Y., Kataoka T.
+     J. Biol. Chem. 274:37815-37820(1999).
+[ 4] Huang L., Weng X., Hofer F., Martin G.S., Kim S.-H.
+     "Three-dimensional structure of the Ras-interacting domain of
+     RalGDS."
+     Nat. Struct. Biol. 4:609-615(1997).
+     PubMed=9253406
+[ 5] Wojcik J., Girault J.-A., Labesse G., Chomilier J., Mornon J.-P.,
+     Callebaut I.
+     "Sequence analysis identifies a ras-associating (RA)-like domain in
+     the N-termini of band 4.1/JEF domains and in the Grb7/10/14 adapter
+     family."
+     Biochem. Biophys. Res. Commun. 259:113-120(1999).
+     PubMed=10334925; DOI=10.1006/bbrc.1999.0727
+[ 6] Huang L., Hofer F., Martin G.S., Kim S.-H.
+     "Structural basis for the interaction of Ras with RalGDS."
+     Nat. Struct. Biol. 5:422-426(1998).
+     PubMed=9628477
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

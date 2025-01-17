@@ -1,0 +1,33 @@
+HEMAGGLUTN1
+The haemagglutinin (HA) glycoprotein of influenza is a trimer containing 
+three structurally distinct regions: a globular head of anti-parallel 
+beta-sheet, which contains the receptor binding site and the variable
+antigenic determinants (antigenic variation in haemagglutinin is
+associated with recurrent epidemics of respiratory diseases in man); a
+triple-stranded, coiled-coil, alpha-helical stalk; and a globular foot of
+anti-parallel beta-sheet [1-4]. 
+
+The structural domains of haemagglutinin are arranged broadly as follows:
+a large globular, hydrophilic, carbohydrate-containing domain resides on 
+the external suface of the membrane; a small, uncharged hydrophobic peptide
+spans the membrane; and a smaller globular, hydrophilic domain resides on
+the inside of the membrane. Each monomer in the structure comprises two
+disulphide-linked chains, HA1 and HA2. The N-terminus of HA1 provides a 
+central strand in the 5-stranded globular foot, the chain then making its
+way to the globular head, where it forms an 8-stranded Swiss-roll. HA2
+provides two alpha-helices, which form part of the fibrous structure
+(three helices, one from each monomer, pack together as the triple-stranded
+coiled-coil that stablises the trimer), its C-terminus providing the
+remaining strands of the 5-stranded globular foot.
+
+HEMAGGLUTN1 is an 8-element fingerprint that provides a signature for
+the haemagglutinin HA1 chain. The fingerprint was derived from an initial
+alignment of 6 sequences: motif 1 encodes the N-terminal beta-strand that
+forms part of the 5-stranded globular foot; motifs 2-4 encode alpha-
+helices; motifs 5 and 6 span three beta-strands; and motifs 7 and 8 span a
+well-conserved C-terminal region. Two iterations on OWL23.0 were required
+to reach convergence, at which point a true set comprising 199 sequences
+was identified. Twenty one partial matches were also found, most of which
+are haemagglutinin fragments that match motifs 1 and 2, or motifs 7 and 8.
+
+An update on SPTR37_9f identified a true set of 185 sequences.

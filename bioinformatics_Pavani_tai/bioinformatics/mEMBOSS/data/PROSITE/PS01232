@@ -1,0 +1,57 @@
+******************************************************
+* Purine and other phosphorylases family 1 signature *
+******************************************************
+
+The following phosphorylases belongs to the same family:
+
+ - Purine   nucleoside  phosphorylase  (EC  2.4.2.1)  (PNP) from most bacteria
+   (gene deoD). This enzyme catalyzes the cleavage of guanosine or  inosine to
+   respective bases and sugar-1-phosphate molecules [1].
+ - Uridine  phosphorylase  (EC 2.4.2.3) (UdRPase) from bacteria (gene udp) and
+   mammals. Catalyzes  the  cleavage of  uridine  into  uracil  and  ribose-1-
+   phosphate. The  products  of  the  reaction  are  used either as carbon and
+   energy sources  or  in  the  rescue  of  pyrimidine  bases  for  nucleotide
+   synthesis [2].
+ - 5'-methylthioadenosine phosphorylase (EC 2.4.2.28) (MTA phosphorylase) from
+   Sulfolobus solfataricus [3].
+
+As a signature  pattern, we selected a conserved region in the central part of
+these enzymes.
+
+-Consensus pattern: [GST]-x-G-[LIVM]-G-x-[PA]-S-x-[GSTAL]-[IL]-x(3)-E-L
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It  should  be  noted  that mammalian and some bacterial PNP as well as
+ eukaryotic MTA  phosphorylase  belong to a different family of phosphorylases
+ (see <PDOC00954>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Takehara M., Ling F., Izawa S., Inoue Y., Kimura A.
+     "Molecular cloning and nucleotide sequence of purine nucleoside
+     phosphorylase and uridine phosphorylase genes from Klebsiella sp."
+     Biosci. Biotechnol. Biochem. 59:1987-1990(1995).
+     PubMed=8534998
+[ 2] Watanabe S.-I., Hino A., Wada K., Eliason J.F., Uchida T.
+     "Purification, cloning, and expression of murine uridine
+     phosphorylase."
+     J. Biol. Chem. 270:12191-12196(1995).
+     PubMed=7744869
+[ 3] Cacciapuoti G., Porcelli M., Bertoldo C., De Rosa M., Zappia V.
+     "Purification and characterization of extremely thermophilic and
+     thermostable 5'-methylthioadenosine phosphorylase from the archaeon
+     Sulfolobus solfataricus. Purine nucleoside phosphorylase activity and
+     evidence for intersubunit disulfide bonds."
+     J. Biol. Chem. 269:24762-24769(1994).
+     PubMed=7929153
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

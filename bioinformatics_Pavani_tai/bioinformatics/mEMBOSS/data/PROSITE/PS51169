@@ -1,0 +1,110 @@
+**************************************
+* Chorismate mutase domains profiles *
+**************************************
+
+Chorismate  mutase  (CM)  is  a  regulatory  enzyme (EC 5.4.99.5) required for
+biosynthesis  of  the  aromatic  amino  acids  phenylalanine  and tyrosine. CM
+catalyzes  the  Claisen  rearrangement  of chorismate to prephenate, which can
+subsequently  be  converted  to  precursors  of  either  L-Phe  or  L-Tyr.  In
+bifunctional  enzymes  the  CM domain can be fused to a prephenate dehydratase
+(P-protein   for   Phe  biosynthesis),  (see  <PDOC00671>),  to  a  prephenate
+dehydrogenase     (T-protein,     for     Tyr     biosynthesis),     or     to
+3-deoxy-D-arabino-heptulosonate 7-phosphate  (DAHP)  synthase  (EC  2.5.1.54).
+Besides  these  prokaryotic  bifunctional enzymes, monofunctional CMs occur in
+prokaryotes as well as in fungi, plants and nematode worms [1].
+
+The  type  I  or  AroH class of CM is represented by Bacillus subtilis aroH, a
+monofunctional,   nonallosteric,  homotrimeric  enzyme  characterized  by  its
+pseudo-alpha/beta-barrel  3D  structure.  Each monomer folds into a 5-stranded
+mixed  beta-sheet packed against an alpha-helix and a 3[10] helix. The core is
+formed  by  a  closed  barrel  of mixed beta-sheets surrounded by helices (see
+<PDB:2CHS>).  The  interfaces  between adjacent subunits form three equivalent
+clefts that harbor the active sites [2].
+
+The  type  II  or  AroQ  class of CM has a completely different all-helical 3D
+structure,  represented  by the CM domain of the bifunctional Escherichia coli
+P-protein  (see  <PDB:1ECM>).  This  type  is  named  after  the  Enterobacter
+agglomerans  monofunctional  CM  encoded  by the aroQ gene [3]. All CM domains
+from  bifunctional  enzymes  as well as most monofunctional CMs belong to this
+class, including archaeal CM.
+
+Eukaryotic  CM  from  plants  and  fungi  form  a  separate  subclass of AroQ,
+represented  by  the  Baker's  yeast  allosteric  CM.  These enzymes show only
+partial  sequence  similarity  to  the  prokaryotic  CMs  due to insertions of
+regulatory  domains,  but the helix-bundle topology and catalytic residues are
+conserved  and  the  3D structure of the E. coli CM dimer resembles a yeast CM
+monomer  (see <PDB:1CSM>) [1,4,5]. The E. coli P-protein CM domain consists of
+3  helices  and  lacks allosteric regulation. The yeast CM has evolved by gene
+duplication  and  dimerization  and  each  monomer has 12 helices. Yeast CM is
+allosterically activated by Trp and inhibited by Tyr [4].
+
+Some proteins known to contain a chorismate mutase domain:
+
+ - Bacillus   subtilis   CM   encoded  by  the  aroH  gene,  a  monofunctional
+   homotrimeric  enzyme  that  is  not affected by end-product amino acids and
+   effectors.
+ - Bacterial  P-protein,  a  bifunctional  enzyme  composed  of  two catalytic
+   domains,  CM  and  prephenate dehydratase for biosynthesis of phenylalanine
+   (Phe). A C-terminal domain can be involved in feedback inhibition by Phe.
+ - Bacterial T-protein, a bifunctional enzyme of two catalytic domains, CM and
+   prephenate  dehydrogenase (EC 1.3.1.12) for biosynthesis of tyrosine (Tyr).
+   Both enzyme activities are inhibited by Tyr.
+ - Bacillus  subtilis  aroA(G)  protein, a bifunctional enzyme composed of two
+   catalytic domains, CM and DAHP synthase.
+ - Enterobacter  agglomerans  CM  encoded  by  the aroQ gene, a monofunctional
+   chorismate mutase.
+ - Yeast  CM,  a monofunctional CM that is allosterically inhibited by Tyr and
+   Phe  and  activated  by  tryptophan,  the  product  from a competing enzyme
+   complex at the branch point of aromatic amino acid biosynthesis [1,4].
+ - Plant  CM, which often occur with different isoenzymes that are differently
+   regulated.
+
+We  developed  a  profile for each structural type of CM domain. Each of the 3
+profiles covers the corresponding chorismate mutase domain entirely.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the third profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / First entry.
+
+[ 1] Helmstaedt K., Krappmann S., Braus G.H.
+     "Allosteric regulation of catalytic activity: Escherichia coli
+     aspartate transcarbamoylase versus yeast chorismate mutase."
+     Microbiol. Mol. Biol. Rev. 65:404-421(2001).
+     PubMed=11528003; DOI=10.1128/MMBR.65.3.404-421.2001
+[ 2] Chook Y.M., Ke H., Lipscomb W.N.
+     "Crystal structures of the monofunctional chorismate mutase from
+     Bacillus subtilis and its complex with a transition state analog."
+     Proc. Natl. Acad. Sci. U.S.A. 90:8600-8603(1993).
+     PubMed=8378335
+[ 3] Xia T., Song J., Zhao G., Aldrich H., Jensen R.A.
+     "The aroQ-encoded monofunctional chorismate mutase (CM-F) protein is a
+     periplasmic enzyme in Erwinia herbicola."
+     J. Bacteriol. 175:4729-4737(1993).
+     PubMed=8335631
+[ 4] Straeter N., Schnappauf G., Braus G., Lipscomb W.N.
+     "Mechanisms of catalysis and allosteric regulation of yeast chorismate
+     mutase from crystal structures."
+     Structure 5:1437-1452(1997).
+     PubMed=9384560
+[ 5] MacBeath G., Kast P., Hilvert D.
+     "A small, thermostable, and monofunctional chorismate mutase from the
+     archaeon Methanococcus jannaschii."
+     Biochemistry 37:10062-10073(1998).
+     PubMed=9665711; DOI=10.1021/bi980449t
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

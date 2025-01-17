@@ -1,0 +1,55 @@
+CCCHEMOKINER
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Chemokines are proteins that have important physiological and patho- 
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a 
+4-cysteine motif: the family can be divided according to whether the
+first 2 Cys residues are adjacent (the C-C family), or separated by an
+intervening residue (the C-x-C family). C-C chemokines are chemoattractant
+for monocytes but not for neutrophils. The C-C family includes human
+monocyte chemotactic protein-1 (MCP-1), regulated on activation, normal
+T cell expressed and secreted (RANTES), and macrophage inflammatory proteins
+(MIP-1a and MIP-1b) [6].
+
+C-C chemokine receptors are found in monocytes, lymphocytes, basophils and
+eosinophils; mRNA is also found in some cell lines [6]. MCP-1 and MIP-1a
+induce activation in low nanomolar concentrations and are highly selective
+relative to C-x-C receptors. Calcium mobilisation has been demonstrated in
+monocytes and in cells expressing the recombinant C-C receptor via an
+uncharacterised G protein; pertussis toxin inhibits some of its actions [6].
+
+CCCHEMOKINER is a 7-element fingerprint that provides a signature for the 
+C-C chemokine receptors. The fingerprint was derived from an initial 
+alignment of 11 sequences: the motifs were drawn from conserved sections 
+within either loop or TM regions, focusing on those areas of the alignment 
+that characterise the C-C chemokine receptors but distinguish them from the 
+rest of the rhodopsin-like superfamily - motif 1 lies at the N-terminus, 
+leading into TM domain 1; motif 2 spans the first cytoplasmic loop; motif 3 
+lies in the first external loop; motif 4 lies in the N-terminal portion of 
+TM domain 3; motif 5 spans the second cytoplasmic loop; motif 6 lies in the
+N-terminal portion of TM domain 7; and motif 7 lies at the C-terminus. Two 
+iterations on OWL29.1 were required to reach convergence, at which point a 
+true set comprising 18 sequences was identified. Several partial matches 
+were also found, all of which are closely related members of the superfamily
+(most of these match motifs 3 and 7).
+
+An update on SPTR37_9f identified a true set of 31 sequences, and 48
+partial matches.

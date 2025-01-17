@@ -1,0 +1,32 @@
+THRMBOMODULN
+Thrombomodulin (TM) is an endothelial cell thrombin receptor that converts
+thrombin from a procoagulant to an anticoagulant enzyme [1,2]. The deduced
+amino acid sequence of mouse thrombomodulin is similar to those determined 
+for human and bovine proteins.
+
+The thrombin-bound structures of peptide fragments from the fifth EGF-like
+domain of thrombomodulin have been determined by NMR and transferred NOE
+spectroscopy [3]. The peptides assume an EGF-like structure, with an anti-
+parallel beta-sheet, which shows structural resilience in accommodating 
+different numbers of residues within its disulphide loop [3]. The key
+contacts with thrombin are hydrophobic interactions between the side chains
+of residues Ile 414 and Ile 424 of thrombomodulin and a hydrophobic pocket
+on the thrombin surface [3]. The unique beta-sheet structures of the bound
+peptides are specified by the presence of disulphide bridges; corresponding
+linear thrombomodulin fragments fold into sheet structures with different
+backbone topologies [3].
+
+THRMBOMODULN is a 9-element fingerprint that provides a signature for
+thrombomodulins. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from conserved regions spanning 
+the C-terminal half of the alignment length - motifs 1-3 span the first
+EGF-like domain; motif 4 includes the C-terminus of the third EGF-like 
+(putative calcium-binding) domain; motif 5 lies in the fourth EGF-like
+domain; motif 6 lies in the sixth EGF-like domain; motif 7 includes the
+sixth EGF-like (putative calcium-binding) domain; motif 8 spans the 
+putative transmembrane domain; and motif 9 lies at the C-terminus. A single
+iteration on OWL30.2 was required to reach convergence, no further sequences
+being identified beyond the starting set. A single partial match was found,
+MMU20217, a mouse fibrillin that matches motif 5 and 7. 
+
+An update on SPTR37_9f identified a true set of 3 sequences.

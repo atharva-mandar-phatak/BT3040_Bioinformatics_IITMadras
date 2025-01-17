@@ -1,0 +1,72 @@
+*********************************
+* Alpha-galactosidase signature *
+*********************************
+
+Alpha-galactosidase (EC 3.2.1.22) (melibiase) [1]  catalyzes the hydrolysis of
+melibiose into galactose and glucose. In man, the deficiency of this enzyme is
+the cause of Fabry's disease (X-linked sphingolipidosis).  Alpha-galactosidase
+is present  in a  variety of organisms.  There  is  a  considerable  degree of
+similarity in  the  sequence of  alpha-galactosidase  from  various eukaryotic
+species.
+
+Escherichia coli alpha-galactosidase  (gene melA),   which  requires  NAD  and
+magnesium as cofactors, is not structurally related to the eukaryotic enzymes;
+by contrast, an  Escherichia coli  plasmid  encoded  alpha-galactosidase (gene
+rafA) [2] contains  a  region  of  about  50 amino acids which is similar to a
+domain of the eukaryotic alpha-galactosidases.
+
+Alpha-N-acetylgalactosaminidase (EC 3.2.1.49) [3] catalyzes the hydrolysis  of
+terminal non-reducing  N-acetyl-D-galactosamine residues in  N-acetyl-alpha-D-
+galactosaminides.  In man,  the deficiency  of  this enzyme  is  the cause  of
+Schindler and Kanzaki diseases. The sequence  of this enzyme is highly related
+to that of the eukaryotic alpha-galactosidases.
+
+We selected, as a  signature pattern for these enzymes, the N-terminal part of
+the conserved  domain.  The  pattern  contains  two  conserved  aspartic  acid
+residues which could be involved in the catalytic mechanism.
+
+-Consensus pattern: G-[LIVMFY]-x(2)-[LIVMFY]-x-[LIVM]-D-[DF]-x(1,2)-W-x(3,7)-
+                    [RV]-[DNSF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belong  to families 27 and 36 in the classification of
+ glycosyl hydrolases [4,E1].
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dey P.M., Pridham J.B.C.
+     "Biochemistry of  -galactosidases."
+     Adv. Enzymol. 36:91-130(1972).
+     PubMed=4561015
+[ 2] Aslanidis C., Schmid K., Schmitt R.
+     "Nucleotide sequences and operon structure of plasmid-borne genes
+     mediating uptake and utilization of raffinose in Escherichia coli."
+     J. Bacteriol. 171:6753-6763(1989).
+     PubMed=2556373
+[ 3] Wang A.M., Bishop D.F., Desnick R.J.
+     "Human alpha-N-acetylgalactosaminidase-molecular cloning, nucleotide
+     sequence, and expression of a full-length cDNA. Homology with human
+     alpha-galactosidase A suggests evolution from a common ancestral
+     gene."
+     J. Biol. Chem. 265:21859-21866(1990).
+     PubMed=2174888
+[ 4] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

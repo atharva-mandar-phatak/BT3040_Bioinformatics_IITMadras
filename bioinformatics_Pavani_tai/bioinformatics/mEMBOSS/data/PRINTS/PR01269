@@ -1,0 +1,28 @@
+SCRYSTALLIN
+S-crystallins are the major protein constituent of the lens in cephalopods.
+Their primary protein sequences show a high degree (41%) of identity with
+the cephalopod digestive gland sigma-class glutathione transferase (GST).
+In spite of the sequence similarity, lens S-crystallin shows little if any
+GST activity. S-crystallins fail to bind to an S-hexylglutathione affinity
+column (marker for glutathione affinity) and have very little GST activity
+in a typical substitution reaction with glutathione and 1-chloro-2,
+4-dinitrobenzene [1]. Nevertheless, pH rate profiles indicate that any
+reactions that do take place proceed via the same mechanism as GSTs [2].
+
+The three-dimensional structure of the sigma-class GST from squid has been
+determined to 2.4A resolution [3]. The protein is characterised by two 
+domains, one of which has a 3-layer(aba) sandwich architecture, the other
+being largely helical. The modelled S-crystallin structure has a similar 
+topology to the squid sigma-class GST, with longer helices 4 and 5, 
+corresponding to a long insertion. The insertion causes the active centre
+to be in a more closed conformation than sigma-class GSTs and may explain
+the low affinity for glutathione [1].
+
+SCRYSTALLIN is a 4-element fingerprint that provides a signature for the
+S-crystallins. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions towards the centre
+of the alignment, corresponding to the helical domain - motif 1 encodes the
+sixth alpha-helix; motif 2 includes the C-terminal portion of helix 7; 
+motif 3 encodes the loop between helices 7 and 8; and motif 4 spans helices
+8-10. Two iterations on SPTR37_10f were required to reach convergence, at
+which point a true set comprising 27 sequences was identified.

@@ -1,0 +1,30 @@
+PHOSPHBKNASE
+Phosphorylase b kinase (EC 2.7.1.38) belongs to a family of proteins 
+involved in glycogen biosynthesis [1]. The protein has a subunit composition
+of (alpha, beta, gamma, delta)4, where the alpha and beta subunits are 
+regulatory, delta is calmodulin, and the gamma subunit is catalytic. The 
+enzyme is believed to have a dual role: the first is connected with glycogen
+degradation via phosphorylation of glycogen phosphorylase; the second 
+controls glycogen biosynthesis on the sarcoplasmic reticular membrane more
+directly by phosphorylation, and thus inhibition, of glycogen synthase [2].
+
+The gamma catalytic chain contains three domains; one protein kinase and two
+calmodulin-binding domains. Calcium and magnesium ions, together with cyclic
+AMP, positively affect the efficiency of the enzyme, which is believed to 
+be associated with its auto-kinase activity [1,3-5].
+
+The full extent of the effects of deficiencies in this enzyme in humans is 
+unknown; but case studies have been documented [6-8] that detail symptoms as
+mild as 'exercise intolerance' [6], to infant mortality arising from floppy
+infant syndrome [7].
+
+PHOSPHBKNASE is a 7-element fingerprint that provides a signature for the
+phosphorylase kinase family. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - in the kinase domain, motif 1 spans 
+the C-terminus of helix 2 and the N-terminus of helix 3; motif 2 spans 
+helices 12 and 13; and the remaining motifs reside in the calmodulin-binding
+domains. Two iterations on OWL30.2 were required to reach convergence, at
+which point a true set comprising 8 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

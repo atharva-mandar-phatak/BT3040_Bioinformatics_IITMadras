@@ -1,0 +1,56 @@
+***********************************************
+* Pyruvate carboxyltransferase domain profile *
+***********************************************
+
+Pyruvate  carboxylase  (EC  6.4.1.1)  (PC),  a  member of the biotin-dependent
+enzyme   family,   is   involved  in  the  gluconeogenesis  by  mediating  the
+carboxylation   of  pyruvate  to  oxaloacetate.  Biotin-dependent  carboxylase
+enzymes perform a two step reaction. Enzyme-bound biotin is first carboxylated
+by  bicarbonate  and ATP and the carboxyl group temporarily bound to biotin is
+subsequently transferred to an acceptor substrate such as pyruvate [1]. PC has
+three  functional domains: a biotin carboxylase (BC) domain (see <PDOC50979>),
+a  carboxyltransferase  (CT)  domain  which  perform  the  second  part of the
+reaction and a biotinyl domain (see <PDOC50968>) [2,3]. The mechanism by which
+the carboxyl group is transferred from the carboxybiotin to the pyruvate is not
+well understood.
+
+The  pyruvate  carboxyltransferase  domain  is  also  found  in other pyruvate
+binding  enzymes  and acetyl-CoA dependent enzymes suggesting that this domain
+can be associated with different enzymatic activities:
+
+ - 2-isopropylmalate synthase (EC 2.3.3.13).
+ - (R)-citramalate synthase (EC 2.3.3.-).
+ - Homocitrate synthase (EC 2.3.3.14).
+ - Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4) (HMGL).
+ - 4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39) (HOA).
+ - Oxaloacetate decarboxylase (EC 4.1.1.3).
+
+The profile we developed spans the entire carboxyltransferase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / First entry.
+
+[ 1] Attwood P.V., Wallace J.C.
+     "Chemical and catalytic mechanisms of carboxyl transfer reactions in
+     biotin-dependent enzymes."
+     Acc. Chem. Res. 35:113-120(2002).
+     PubMed=11851389
+[ 2] Attwood P.V.
+     "The structure and the mechanism of action of pyruvate carboxylase."
+     Int. J. Biochem. Cell Biol. 27:231-249(1995).
+     PubMed=7780827
+[ 3] Jitrapakdee S., Wallace J.C.
+     "Structure, function and regulation of pyruvate carboxylase."
+     Biochem. J. 340:1-16(1999).
+     PubMed=10229653
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

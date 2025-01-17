@@ -1,0 +1,56 @@
+DUFFYANTIGEN
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family).
+
+The Duffy antigen/chemokine receptor was originally identified as a blood
+group antigen on the surface of red blood cells (RBCs). It has been found 
+to act as a multispecific receptor for chemokines of both the C-C and C-X-C
+families, including: Il-8, MGSA, RANTES and MCP-1 [7]. While the receptor
+is predicted to have 7 TM domains, it shares only very low levels of 
+sequence similarity with the other chemokine receptors (indeed, the 
+characteristic rhodopsin-like signature is virtually absent) - it is
+considered to be most similar to the interleukin-8B receptors. 
+
+Duffy is expressed on RBCs (in Duffy-positive individuals), endothelial
+cells of postcapillary venules and Purkinje cells of the cerebellum. On 
+RBCs, the Duffy antigen acts as a receptor for invasion by the malarial
+parasite, Plasmodium vivax; Duffy-negative individuals, whose RBCs do not
+express the receptor are resistant to such infection [7]. The normal
+physiological function of Duffy remains unclear. It is believed to play a 
+more important role on endothelial cells, since expression on these cell
+types is highly conserved, whereas the function on RBCs appears to be 
+dispensable in order to confer resistance to malaria. The signalling
+pathways activated by Duffy are also unknown and the receptor has not 
+been shown to act through a G protein [7].
+
+DUFFYANTIGEN is a 7-element fingerprint that provides a signature for the
+Duffy antigen/chemokine receptors. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - the motifs encode
+each of the putative TM domains. Two iterations on SPTR39.22_17.3f were
+required to reach convergence, at which point a true set comprising 7
+sequences was identified. Note that no member of any GPCR superfamily 
+matched, or partially matched, this 7TM signature.

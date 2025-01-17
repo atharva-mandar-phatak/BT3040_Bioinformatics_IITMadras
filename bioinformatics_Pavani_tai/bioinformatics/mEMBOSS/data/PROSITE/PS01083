@@ -1,0 +1,57 @@
+**************************************
+* DNA photolyases class 2 signatures *
+**************************************
+
+Deoxyribodipyrimidine photolyase (EC 4.1.99.3) (DNA photolyase) [1,2] is a DNA
+repair enzyme. It   binds to UV-damaged DNA containing  pyrimidine dimers and,
+upon absorbing  a  near-UV photon (300 to 500 nm), breaks the cyclobutane ring
+joining the  two  pyrimidines   of the dimer. DNA photolyase is an enzyme that
+requires two  choromophore-cofactors  for  its  activity:  a reduced FADH2 and
+either 5,10-methenyltetrahydrofolate  (5,10-MTFH)  or an oxidized 8-hydroxy-5-
+deazaflavin (8-HDF)  derivative  (F420). The folate or deazaflavin chromophore
+appears to  function  as an antenna, while the FADH2 chromophore is thought to
+be responsible  for  electron  transfer. On the basis of sequence similarities
+[3] DNA photolyases can be grouped into two classes. The second class contains
+enzymes from  Myxococcus  xanthus,  methanogenic archaebacteria, insects, fish
+and marsupial  mammals.  It is not yet known  what second cofactor is bound to
+class 2 enzymes.
+
+There are  a  number  of conserved  sequence  regions in all known class 2 DNA
+photolyases, especially in  the  C-terminal  part.  We  selected  two of these
+regions as signature patterns.
+
+-Consensus pattern: F-x-E-E-x-[LIVM](2)-R-R-E-L-x(2)-N-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x-H-D-x(2)-W-x-E-R-x-[LIVM]-F-G-K-[LIVM]-R-[FY]-M-N
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: See also the entry for class 1 DNA photolyases (see <PDOC00331>).
+
+-Last update: November 1995 / First entry.
+
+[ 1] Sancar G.B., Sancar A.
+     Trends Biochem. Sci. 12:259-261(1987).
+[ 2] Jorns M.S.
+     "DNA photorepair: chromophore composition and function in two classes
+     of DNA photolyases."
+     Biofactors 2:207-211(1990).
+     PubMed=2282137
+[ 3] Yasui A., Eker A.P.M., Yasuhira S., Yajima H., Kobayashi T., Takao M.,
+     Oikawa A.
+     "A new class of DNA photolyases present in various organisms including
+     aplacental mammals."
+     EMBO J. 13:6143-6151(1994).
+     PubMed=7813451
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

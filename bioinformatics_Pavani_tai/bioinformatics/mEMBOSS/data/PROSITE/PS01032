@@ -1,0 +1,87 @@
+************************************
+* Protein phosphatase 2C signature *
+************************************
+
+Protein phosphatase  2C  (PP2C)  is one of the four major classes of mammalian
+serine/threonine  specific protein  phosphatases (EC 3.1.3.16).  PP2C [1] is a
+monomeric enzyme  of about 42 Kd which shows   broad substrate specificity and
+is dependent  on  divalent  cations  (mainly  manganese and magnesium) for its
+activity. Its  exact  physiological  role is still unclear. Three isozymes are
+currently known  in mammals: PP2C-alpha, -beta and -gamma. In yeast, there are
+at least  four  PP2C  homologs:  phosphatase  PTC1 [2] which has weak tyrosine
+phosphatase activity in addition to its activity on serines, phosphatases PTC2
+and PTC3,  and  hypothetical  protein YBR125c. Isozymes of PP2C are also known
+from Arabidopsis   thaliana   (ABI1,  PPH1),  Caenorhabditis  elegans  (FEM-2,
+F42G9.1, T23F11.1), Leishmania chagasi and Paramecium tetraurelia.
+
+In Arabidopsis  thaliana, the kinase associated protein phosphatase (KAPP) [3]
+is an  enzyme  that dephosphorylates the Ser/Thr receptor-like kinase RLK5 and
+which contains a C-terminal PP2C domain.
+
+PP2C does  not  seem  to be evolutionary related to the main family of serine/
+threonine phosphatases:  PP1,  PP2A  and  PP2B . However,  it is significantly
+similar  to  the  catalytic   subunit  of  pyruvate dehydrogenase (lipoamide)-
+phosphatase (EC 3.1.3.43)  (PDPC)  [4],  which catalyzes dephosphorylation and
+concomitant reactivation of  the alpha  subunit of  the E1  component  of  the
+pyruvate dehydrogenase complex. PDPC is a mitochondrial enzyme and, like PP2C,
+is magnesium-dependent.
+
+As a signature pattern, we selected the best conserved region which is located
+in the  N-terminal  part  and  contains a perfectly conserved tripeptide. This
+region includes  a  conserved  aspartate  residue  involved in divalent cation
+binding [5].
+
+-Consensus pattern: [LIVMFY]-[LIVMFYA]-[GSAC]-[LIVM]-[FYC]-D-G-H-[GAV]
+                    [The D is a manganese ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: PP2C  belongs  [6]  to  a  superfamily  which  also  includes bacterial
+ proteins such  as Bacillus spoIIE, rsbU and rsbW, Synechocystis PCC 6803 icfG
+ as well as a domain in fungal adenylate cyclases.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Wenk J., Trompeter H.-I., Pettrich K.-G., Cohen P.T.W., Campbell D.G.,
+     Mieskes G.
+     "Molecular cloning and primary structure of a protein phosphatase 2C
+     isoform."
+     FEBS Lett. 297:135-138(1992).
+     PubMed=1312947
+[ 2] Maeda T., Tsai A.Y.M., Saito H.
+     "Mutations in a protein tyrosine phosphatase gene (PTP2) and a protein
+     serine/threonine phosphatase gene (PTC1) cause a synthetic growth
+     defect in Saccharomyces cerevisiae."
+     Mol. Cell. Biol. 13:5408-5417(1993).
+     PubMed=8395005
+[ 3] Stone J.M., Collinge M.A., Smith R.D., Horn M.A., Walker J.C.
+     "Interaction of a protein phosphatase with an Arabidopsis
+     serine-threonine receptor kinase."
+     Science 266:793-795(1994).
+     PubMed=7973632
+[ 4] Lawson J.E., Niu X.-D., Browning K.S., Trong H.L., Yan J., Reed L.J.
+     "Molecular cloning and expression of the catalytic subunit of bovine
+     pyruvate dehydrogenase phosphatase and sequence similarity with
+     protein phosphatase 2C."
+     Biochemistry 32:8987-8993(1993).
+     PubMed=8396421
+[ 5] Das A.K., Helps N.R., Cohen P.T.W., Barford D.
+     "Crystal structure of the protein serine/threonine phosphatase 2C at
+     2.0 A resolution."
+     EMBO J. 15:6798-6809(1996).
+     PubMed=9003755
+[ 6] Bork P., Brown N.P., Hegyi H., Schultz J.
+     "The protein phosphatase 2C (PP2C) superfamily: detection of bacterial
+     homologues."
+     Protein Sci. 5:1421-1425(1996).
+     PubMed=8819174
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

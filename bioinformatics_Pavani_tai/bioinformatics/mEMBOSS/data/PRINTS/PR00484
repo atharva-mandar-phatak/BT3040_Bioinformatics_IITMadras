@@ -1,0 +1,20 @@
+PBPGOBP
+Pheromone binding proteins (PBPs) are abundant, secreted antennal proteins 
+present in olfactory sensilla - specifically, they lie in the lymph that
+surrounds the dendrites of olfactory receptor neurons [1]. They are thought
+to transport hydrophobic pheromones across this aqueous fluid to receptor
+molecules in the dendritic membranes. Another group of proteins, the
+so-called general odorant-binding proteins (GOBPs) have also been found
+in moth antennae. They share a high level of sequence similarity with the
+PBPs and are believed to carry odorants rather than pheromones. This
+family is distinct from the vertebrate odorant-binding proteins (OBPs).
+
+PBPGOBP is a 6-element fingerprint that provides a signature for the
+PBP/GOBP family. The fingerprint was derived from an initial alignment of
+7 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length. Two iterations on OWL27.1 were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified.
+
+An update on SPTR37_9f identified a true set of 17 sequences, and 1
+partial match.

@@ -1,0 +1,71 @@
+****************************************************
+* Nerve growth factor family signature and profile *
+****************************************************
+
+Nerve growth factor (NGF or beta-NGF) is a vertebrate protein that  stimulates
+division and differentiation  of sympathetic and embryonic sensory neurons [1,
+2]. NGF is  a protein  of  about  120  residues that is  cleaved from a larger
+precursor molecule.  It  contains  six  cysteines  all  involved in intrachain
+disulfide bonds.  A  schematic representation of the structure of NGF is shown
+below:
+
+                                    +------------------------+
+                                    |                        |
+                                    |    *******             |
+        xxxxxxCxxxxxxxxxxxxxxxxxxxxxCxxxxCxxxxxCxxxxxxxxxxxxxCxCxxxx
+              |                          |     |               |
+              +--------------------------|-----+               |
+                                         +---------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+Some proteins have been found [3] to be structurally and  functionally related
+to NGF, these are:
+
+ - Brain-derived neurotrophic  factor  (BDNF), a  protein   that  promotes the
+   survival of neuronal populations all located either in the central  nervous
+   system or directly connected to it.
+ - Neurotrophin-3 (NT-3), a  protein that  seems  to  promote  the survival of
+   visceral and proprioceptive sensory neurons.
+ - Neurotrophins-4/5 (NT-4/5), which  elicit  neurite outgrowth from explanted
+   dorsal root  ganglia  and  could  play a role  in  oogenesis  and/or  early
+   embryogenesis.
+ - Neurotrophin-6.
+ - Neurotrophin-7 from zebrafish.
+
+The pattern  we have developed for  the NGF family spans the central region of
+these  proteins  and  include  two of the six cysteines  involved in disulfide
+bonds.
+
+-Consensus pattern: [GSRE]-C-[KRL]-G-[LIVT]-[DE]-x(3)-[YW]-x-S-x-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL, except
+ for two
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Levi-Montalcini R.
+     Science 237:1154-1162(1987).
+[ 2] Bradshaw R.A., Blundell T.L., Lapatto R., McDonald N.Q., Murray-Rust J.
+     "Nerve growth factor revisited."
+     Trends Biochem. Sci. 18:48-52(1993).
+     PubMed=8488558
+[ 3] Lo D.C.
+     "NGF takes shape."
+     Curr. Biol. 2:67-69(1992).
+     PubMed=15335999
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

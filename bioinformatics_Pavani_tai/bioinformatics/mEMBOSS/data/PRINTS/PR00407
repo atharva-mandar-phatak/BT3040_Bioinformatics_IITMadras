@@ -1,0 +1,58 @@
+EUMOPTERIN
+In biological nitrate assimilation, reduction of nitrate to nitrite is
+catalysed by the multidomain redox enzyme NAD(P)H:nitrate reductase (NR).
+Three forms of NR are known: an NADH-specific enzyme found in higher plants
+and algae (EC 1.6.6.1); an NAD(P)H-bispecific enzyme found in higher plants,
+algae and fungi (EC 1.6.6.2); and an NADPH-specific enzyme found only in
+fungi (EC 1.6.6.3) [1]. NR can be divided into 3 structure/function domains:
+the molybdopterin cofactor binds in the N-terminal domain; the central
+region is the cytochrome b domain, which is similar to animal cytochrome b5
+(see signature CYTOCHROMEB5); and the C-terminal portion of the protein is
+occupied by the FAD/NAD(P)H binding domain, which is similar to NADH:
+cytochrome b5 reductase (see signature CYTB5RDTASE) [1]. The catalytic
+reduction of nitrate to nitrite can be viewed as a single polypeptide
+electron transport chain with electron flow from NAD(P)H -> FAD ->
+cytochrome b5 -> molybdopterin -> NO(3).
+
+The mitochondrial enzyme sulphite oxidase (sulphite:ferricytochrome c
+oxidoreductase; EC 1.8.2.1) catalyses oxidation of sulphite to sulphate, 
+using cytochrome c as the physiological electron acceptor. Sulphite oxidase
+consists of 2 structure/function domains: an N-terminal heme domain, similar
+to cytochrome b5; and a C-terminal molybdopterin domain [2]. Tryptic
+cleavage of rat liver sulphite oxidase yields 2 fragments corresponding to
+these domains. The isolated cytochrome b5 domain has no sulphite oxidase
+activity, but can mediate electron transfer between NADH:cytochrome b5
+reductase and cytochrome c. The isolated molybdopterin domain has no
+sulphite:ferricytochrome c activity, but retains sulphite:ferricyanide 
+and sulphite:O(2) activity [3]. The electron flow in the sulphite oxidase 
+reaction is sulphite -> molybdopterin -> cytochrome b5 -> cytochrome c.
+
+Molybdopterin domains of nitrate reductases and sulphite oxidase are highly
+similar and form a distinct family [4]. Despite functional parallels,
+members of the family show no sequence similarity to the C-terminal
+molybdopterin domain of xanthine dehydrogenase, although xanthine
+dehydrogenase, nitrate reductases and sulphite oxidase can be detected by
+PROSITE pattern MOLYBDOPTERIN_EUK. Comparison of the sequences of the
+molybdopterin domains of sulphite oxidase and nitrate reductases suggests
+that only a single Cys residue (Cys186 in chicken sulphite oxidase), is
+invariant in all these enzymes, indicating that it may play a role in 
+binding molybdopterin to the protein [5,6].
+
+EUMOPTERIN is a 14-element fingerprint that provides a signature for the
+eukaryotic molybdopterin domains shared by nitrate reductases and sulphite
+oxidase. The fingerprint was derived from an initial alignment of 13
+sequences: the motifs were drawn from conserved regions spanning virtually 
+the full alignment length - motif 3 contains the invariant Cys residue that
+that may bind the molybdoterin cofactor (cf. PROSITE pattern MOLYBDOPTERIN_
+EUK (PS00559)) and an adjacent Ala that has been shown to be crucial for
+nitrate reductase activity [7] (a number of missense mutations in the
+molybdopterin domain of nitrate reductase affects the following residues:
+Gly (the last position in motif 7); Gly and Arg (the second and third
+positions in motif 8), and Trp and Gly (positions 3 and 7 in motif 14) [7]).
+Two iterations on OWL26.3 were required to reach convergence, at which
+point a true set comprising 34 sequences was identified. Several partial
+matches were also found, all of which are sulphite oxidase or nitrate 
+reductase fragments.
+
+An update on SPTR37_9f identified a true set of 45 sequences, and 2
+partial matches.

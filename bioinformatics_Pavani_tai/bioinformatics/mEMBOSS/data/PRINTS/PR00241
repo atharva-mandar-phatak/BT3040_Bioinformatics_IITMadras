@@ -1,0 +1,47 @@
+ANGIOTENSINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Angiotensin II is the principal mediator of the renin-angiotensin system;
+it circulates in the bloodstream, stimulating vasoconstriction and
+retention of salt and water [6]. It also stimulates increased fluid intake
+and regulates the neuroendocrine system. Many of its actions are mediated
+by release of hormones from endocrine glands, e.g. vasopressin, catechol-
+amines, aldosterone, growth-hormone, etc.. Molecular cloning studies have
+identifed 2 major receptor subtypes, designated AT1 and AT2. 
+
+ANGIOTENSINR is an 8-element fingerprint that provides a signature for the
+angiotensin II receptors. The fingerprint was derived from an initial
+alignment of 15 sequences: the motifs were drawn from conserved sections
+largely within loop or TM regions, focusing on those areas of the alignment
+that characterise the angiotensin receptors but distinguish them from the
+rest of the rhodopsin-like superfamily - motif 1 lies at the N-terminus of
+TM domain 1; motif 2 spans the C-terminus of TM domain 2, leading into the
+first external loop; motif 3 lies within TM domain 3; motif 4 spans the
+C-terminal portion of TM domain 4, leading into the second external loop;
+motifs 5 and 6 lie at the N- and C-termini of TM domain 5; motif 7 lies in
+the third external loop; and motif 8 spans part of the third external loop,
+leading into the N-terminus of TM domain 7. Two iterations on OWL29.0 were
+required to reach convergence, at which point a true set comprising 21
+sequences was identfied. Several partial matches were also found, including
+several angiotensin II receptor fragments and 2 platelet activating factor
+receptors.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 5
+partial matches.

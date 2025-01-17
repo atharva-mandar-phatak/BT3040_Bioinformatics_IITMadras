@@ -1,0 +1,62 @@
+***********************************************
+* Transcription factor TFIID repeat signature *
+***********************************************
+
+Transcription factor TFIID  (or TATA-binding protein, TBP) [1,2] is a  general
+factor  that  plays  a  major  role  in  the  activation  of  eukaryotic genes
+transcribed by RNA polymerase II.   TFIID binds specifically  to  the TATA box
+promoter element which lies close to the position of transcription initiation.
+
+There is a remarkable degree of sequence  conservation of  a C-terminal domain
+of about 180 residues in TFIID from various eukaryotic sources. This region is
+necessary and sufficient for TATA box binding. The most significant structural
+feature of this domain is the presence of two conserved repeats of a 77 amino-
+acid region. The intramolecular symmetry  generates a saddle-shaped  structure
+that sits astride the DNA [3].
+
+Drosophila TRF (TBP-related factor) [4] is  a  sequence-specific transcription
+factor that also binds to the TATA box and is highly similar to TFIID.
+
+Archaebacteria also possess a TBP homolog [5].
+
+We have derived a signature pattern  that  spans  the  last 50 residues of the
+repeated region.
+
+-Consensus pattern: Y-x-[PK]-x(2)-[IF]-x(2)-[LIVM](2)-x-[KRH]-x(3)-P-[RKQ]-
+                    x(3)-L-[LIVM]-F-x-[STN]-G-[KR]-[LIVMA]-x(3)-G-[TAGL]-[KR]-
+                    x(7)-[AGCS]-x(7)-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Hoffmann A., Sinn E., Yamamoto T., Wang J., Roy A., Horikoshi M.,
+     Roeder R.G.
+     Nature 346:387-390(1990).
+[ 2] Gash A., Hoffmann A., Horikoshi M., Roeder R.G., Chua N.-H.
+     Nature 346:390-394(1990).
+[ 3] Nikolov D.B., Hu S.-H., Lin J., Gasch A., Hoffmann A., Horikoshi M.,
+     Chua N.-H., Roeder R.G., Burley S.K.
+     "Crystal structure of TFIID TATA-box binding protein."
+     Nature 360:40-46(1992).
+     PubMed=1436073; DOI=10.1038/360040a0
+[ 4] Crowley T.E., Hoey T., Liu J.-K., Jan Y.N., Jan L.Y., Tjian R.
+     "A new factor related to TATA-binding protein has highly restricted
+     expression patterns in Drosophila."
+     Nature 361:557-561(1993).
+     PubMed=8429912; DOI=10.1038/361557a0
+[ 5] Marsh T.L., Reich C.I., Whitelock R.B., Olsen G.J.
+     "Transcription factor IID in the Archaea: sequences in the
+     Thermococcus celer genome would encode a product closely related to
+     the TATA-binding protein of eukaryotes."
+     Proc. Natl. Acad. Sci. U.S.A. 91:4180-4184(1994).
+     PubMed=8183889
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

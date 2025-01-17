@@ -1,0 +1,90 @@
+*****************************************
+* Superfamily 3 helicase domain profile *
+*****************************************
+
+Helicases  have  been  classified in 5 superfamilies (SF1-SF5) [1]. All of the
+proteins  bind ATP and, consequently, all of them carry the classical Walker A
+(phosphate-binding   loop   or   P-loop)   (see   <PDOC00017>)  and  Walker  B
+(Mg2+-binding  aspartic  acid) motifs [1]. Superfamily 3 consists of helicases
+encoded  mainly  by small RNA and DNA viruses and some large nucleocytoplasmic
+DNA viruses [2,3]. Small viruses are very dependent on the host-cell machinery
+to  replicate.  SF3  helicase  in  small  DNA  viruses  is  associated with an
+origin-binding  domain.  By  pairing  a  domain that recognizes the ori with a
+helicase,  the  virus  can  bypass  the host-cell-based regulation pathway and
+initiate  its  own  replication. The protein binds to the viral ori leading to
+origin  unwinding. Cellular replication proteins are then recruited to the ori
+and the viral DNA is replicated.
+
+In  SF3 helicases the Walker A and Walker B motifs are separated by spacers of
+rather  uniform,  and  relatively  short,  lenght.  In addition to the A and B
+motifs  this family is caracterized by a third motif (C) which resides between
+the B motif and the C-terminus of the conserved region. This motif consists of
+an Asn residue preceded by a run of hydrophobic residues [4].
+
+Several structure of SF3 helicases have been solved (see <PDB:1N25>) [5]. They
+all  possess  the  same  core  alpha/beta  fold, consisting of a five-stranded
+parallel  beta  sheet  flanked  on  both  sides  by  several alpha helices. In
+contrast to SF1 and SF2 helicases, which have RecA-like core folds, the strand
+connectivity  within  the alpha/beta core domain is that of AAA+ proteins [6].
+The SF3 helicase proteins assemble into a hexameric ring.
+
+Some proteins known to contain an SF3 helicase domain are listed below:
+
+ - Polyomavirus  large  T  antigen. It initiates DNA unwinding and replication
+   via interactions with the viral origin of replication.
+ - Papillomavirus  E1  protein.  An  ATP-dependent  DNA  helicase required for
+   initiation of viral DNA replication.
+ - Parvovirus  Rep/NS1  protein,  which is also required for the initiation of
+   viral replication.
+ - Poxviridae and other large DNA viruses D5 protein.
+ - Bacteriophage  DNA primase/helicase protein.
+ - Bacterial prophage DNA primase/helicase protein.
+ - ssRNA positive strand viruses RNA1 polyprotein.
+
+To  recognize  this  domain  we  have developed two profiles. The first one is
+directed  against  DNA viruses SF3 helicase and the second one is specific for
+ssRNA positive-strand viruses SF3 helicase.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2006 / Text revised; profile added.
+
+[ 1] Gorbalenya A.E., and Koonin E.V. .
+     "Helicases: amino acid sequence comparisons and structure-function
+     relationships."
+     Curr. Opin. Struct. Biol. 3:419-429(1993).
+[ 2] Iyer L.M., Aravind L., Koonin E.V.
+     "Common origin of four diverse families of large eukaryotic DNA
+     viruses."
+     J. Virol. 75:11720-11734(2001).
+     PubMed=11689653; DOI=10.1128/JVI.75.23.11720-11734.2001
+[ 3] Iyer L.M., Leipe D.D., Koonin E.V., Aravind L.
+     "Evolutionary history and higher order classification of AAA+
+     ATPases."
+     J. Struct. Biol. 146:11-31(2004).
+     PubMed=15037234; DOI=10.1016/j.jsb.2003.10.010
+[ 4] Gorbalenya A.E., Koonin E.V., Wolf Y.I.
+     "A new superfamily of putative NTP-binding domains encoded by genomes
+     of small DNA and RNA viruses."
+     FEBS Lett. 262:145-148(1990).
+     PubMed=2156730
+[ 5] Li D., Zhao R., Lilyestrom W., Gai D., Zhang R., DeCaprio J.A.,
+     Fanning E., Jochimiak A., Szakonyi G., Chen X.S.
+     "Structure of the replicative helicase of the oncoprotein SV40 large
+     tumour antigen."
+     Nature 423:512-518(2003).
+     PubMed=12774115; DOI=10.1038/nature01691
+[ 6] Hickman A.B., Dyda F.
+     "Binding and unwinding: SF3 viral helicases."
+     Curr. Opin. Struct. Biol. 15:77-85(2005).
+     PubMed=15718137; DOI=10.1016/j.sbi.2004.12.001
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

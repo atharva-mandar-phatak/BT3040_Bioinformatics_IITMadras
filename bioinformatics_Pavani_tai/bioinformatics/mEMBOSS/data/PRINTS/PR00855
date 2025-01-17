@@ -1,0 +1,52 @@
+PRSTNOIDFPR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Prostanoids (prostaglandins (PG) and thromboxanes (TX)) mediate a wide
+variety of actions and play important physiological roles in the cardio-
+vascular and immune systems, and in pain sensation in peripheral systems
+[6]. PGI2 and TXA2 have opposing actions, involving regulation of the
+interaction of platelets with the vascular endothelium, while PGE2, PGI2
+and PGD2 are powerful vasodilators and potentiate the action of various
+autocoids to induce plasma extravasation and pain sensation. To date,
+evidence for at least 5 classes of prostanoid receptor has been obtained.
+However, identification of subtypes and their distribution is hampered by
+expression of more than one receptor within a tissue, coupled with poor
+selectivity of available agonists and antagonists. 
+
+FP receptors mediate contraction in a wide range of smooth muscle, including
+intraocular, myomretrial and bronchial tissues, and are potent stimulants of
+luteolysis [6]. The receptors activate the phosphoinositide pathway through
+a pertussis-toxin-insensitive G protein, probably of the Gq/G11 class [6].
+
+PRSTNOIDFPR is a 9-element fingerprint that provides a signature for the
+prostanoid FP receptors. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas of 
+the alignment that characterise the prostanoid FP receptors but distinguish
+them from the rest of the prostanoid receptor family - motifs 1 and 2 span
+the N-terminus; motif 3 spans the first cytoplasmic loop, leading into TM
+domain 2; motifs 4 and 5 span the second external loop, leading into TM
+domain 5; motif 6 spans the third cytoplasmic loop; motif 7 spans the third
+external loop; and motifs 8 and 9 reside at the C-terminus. Two iterations
+on OWL29.6 were required to reach convergence, at which point a true set
+comprising 6 sequences was identified. Two partial matches were also found,
+both of which are prostanoid FP receptor fragments.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

@@ -1,0 +1,35 @@
+*****************************************
+* Adenosine and AMP deaminase signature *
+*****************************************
+
+Adenosine deaminase  (EC 3.5.4.4)  catalyzes  the  hydrolytic  deamination  of
+adenosine into inosine.  AMP  deaminase (EC 3.5.4.6)  catalyzes the hydrolytic
+deamination of AMP into IMP.  It  has  been  shown [1] that these two types of
+enzymes  share  three  regions of  sequence  similarities; these  regions  are
+centered on residues which are  proposed  to  play  an  important  role in the
+catalytic mechanism  of  these two enzymes.  We  have  selected one  of  these
+regions, it contains two conserved aspartic  acid  residues that are potential
+active site residues.
+
+-Consensus pattern: [SA]-[LIVM]-[NGS]-[STA]-D-D-P
+                    [The 2 D's may be active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+-Last update: May 2004 / Text revised.
+
+[ 1] Chang Z.Y., Nygaard P., Chinault A.C., Kellems R.E.
+     "Deduced amino acid sequence of Escherichia coli adenosine deaminase
+     reveals evolutionarily conserved amino acid residues: implications for
+     catalytic function."
+     Biochemistry 30:2273-2280(1991).
+     PubMed=1998686
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,49 @@
+FRAGILYSIN
+Metalloproteases are the most diverse of the four main types of protease,
+with more than 30 families identified to date [1]. Of these, around
+half contain the HEXXH motif, which has been shown in crystallographic
+studies to form part of the metal-binding site [1]. The HEXXH motif is 
+relatively common, but can be more stringently defined for metallo-
+proteases as abXHEbbHbc, where a is most often valine or threonine and 
+forms part of the S1' subsite in thermolysin and neprilysin, b is an
+uncharged residue, and c a hydrophobic residue. Proline is never found
+in this site, possibly because it would break the helical structure 
+adopted by this motif in metalloproteases [1].
+
+Metalloproteases can be split into five groups on the basis of their metal-
+binding residues: the first three contain the HEXXH motif, the other two
+do not [1]. In the first group, a glutamic acid completes the active site -
+these are termed HEXXH+E: all families in this group show some sequence
+relationship and have been assigned to clan MA [1]. The second group, which
+have a third histidine as the extra metal-binding residue, are termed
+HEXXH+H and are grouped into clan MB on the basis of their inter-relation-
+ship[1]. In the third group, the additional metal-binding residues are
+unidentified. The fourth group is diverse - the metal-binding residues are
+known but do not form the HEXXH motif. And the fifth group comprises the
+remaining families where the metal-binding residues are as yet unknown [1,2].
+
+Fragilysin is a zinc-containing enterotoxin that belongs to the M10C
+metallopeptidase family, which form part of the MB clan [3]. It is produced
+by around 10% of pathogenic strains of the bacterium Bacteroides fragilis
+(which is found in mammalian large intestines in approximately the same
+quantities as Esherichia coli), and has been shown to cause diarrhoea.
+The fragilysin enterotoxin acts by proteolytically damaging the intestinal
+epithelium (at the tight junctions and basement membranes), causing the
+release of fluids into the intestinal lumen. In view of the intrinsic 
+resistance of the intestinal tract to protease activity (it being constantly
+bathed in digestive proteases), an enzyme activity capable of puncturing
+the epithelium is considered rather unusual. However the exact mechanism of
+action of the protein is unknown [4].
+
+FRAGILYSIN is a 7-element fingerprint that provides a signature for
+fragilysin. The fingerprint was derived from an initial alignment of 2
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motifs 6 and 7 span the region encoded by
+PROSITE pattern ZINC_PROTEASE (PS00142), which describes the HEXXH active
+site; and motif 7 contains three potentially completely conserved residues 
+that could be candidates for the additional active site histidine or 
+glutamic acid. Two iterations on OWL31.1 were required to reach convergence,
+at which point a true set comprising 5 sequences was identified. A single 
+partial match was also found, S75941B, a fragilysin C-terminal fragment.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

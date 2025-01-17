@@ -1,0 +1,104 @@
+***********************
+* SANT domain profile *
+***********************
+
+The  myb  family can be classified into three groups: the myb-type HTH domain,
+which binds DNA (see <PDOC00037>), the SANT domain, which is a protein-protein
+interaction  module  and the myb-like domain that can be involved in either of
+these functions.
+
+The  SANT domain is a motif of ~50 amino acids present in proteins involved in
+chromatin-remodelling and transcription regulation. This eukaryotic domain was
+identified    in    nuclear    receptor    co-repressors   and   named   after
+switching-defective  protein  3  (Swi3),  adaptor  2  (Ada2), nuclear receptor
+co-repressor  (N-CoR)  and  transcription  factor  (TF)IIIB [1]. Although SANT
+domains  show remarkable sequence and structural similarity to the DNA-binding
+helix-turn-helix (HTH) domain of the myb-like tandem repeat (see <PDOC00037>),
+their  function  is not DNA binding. Instead, SANT domains are protein-protein
+interaction  modules  and  some  can  bind  to histone tails (e.g. in Ada2 and
+SMRT).  SANT  domains are found in combination with other domains, such as the
+SWIRM domain (see <PDOC50934>), the ZZ-type zinc finger (see <PDOC50135>), the
+C2H2-type  zinc  finger  (see  <PDOC00028>),  the  GATA-type  zinc finger (see
+<PDOC00300>),  the  MPN-domain  (see <QDOC50249>) and DEAH ATP-helicase domain
+(see   <PDOC00039>).   The   SANT   domain  was  proposed  to  function  as  a
+histone-interaction   module  that  couples  histone-tail  binding  to  enzyme
+catalysis for the remodelling of nucleosomes [2,3].
+
+The  3-dimensional structure of the SANT domain forms three alpha helices (see
+<PDB:1OFC>) [2] similar to the DNA-binding myb-type HTH domain. Because of the
+strong  resemblance,  the  SANT  domain  can  also  be  detected as a myb-like
+"DNA-binding"  domain  (see  <PDOC00037>). Most SANT domains have acidic amino
+acids  at  the  start  of  helix  2 and in helix 3, while myb-like DNA-binding
+domains  have  more  positively charged residues, in particular in their third
+'recognition' helix. The bulky aromatic and hydrophobic residues in the center
+of  helix  3  that  are incompatible with DNA contacts of myb-like DNA-binding
+domains form another distinguishing property of SANT domains.
+
+Some proteins known to contain a SANT domain:
+
+ - Baker's  yeast  ada2,  the  transcriptional adaptor 2 protein, a subunit of
+   many  Gcn5  (general  control of amino-acid synthesis protein 5)-containing
+   histone-acetyltransferase   complexes   of   histone   modifying   enzymes.
+   Eukaryotic  ada2-like  proteins  are  associated with chromatin and mediate
+   protein-protein interactions.
+ - Baker's  yeast rsc8 protein of the RSC (remodel the structure of chromatin)
+   complex of ATP-dependent chromatin-remodelling enzymes.
+ - Human   N-CoR   and  SMRT  (silencing  mediator  of  retinoid  and  thyroid
+   receptors),   both   are  subunits  of  histone  deacetylase  complexes  of
+   histone-modifying  enzymes.  Both  proteins  contain a pair of SANT domains
+   spaced by ~130 aa.
+ - Baker's  yeast  Swi3,  a  transcription  regulatory  protein of the SWI/SNF
+   (switching-defective/sucrose   non-fermenting)   complex  of  ATP-dependent
+   chromatin-remodelling enzymes.
+ - Fruit  fly  ISWI,  imitation  switch  protein,  an  ATP-dependent chromatin
+   remodelling  enzyme  conserved from yeast to human. In addition to the SANT
+   domain, it contains a SLIDE (SANT-like ISWI) domain that can bind DNA [2].
+ - Human   SMARCC1,   SWI/SNF  related,  matrix  associated,  actin  dependent
+   regulator of chromatin, subfamily c protein.
+ - Mammalian MTA1 and MTA2, metastasis-associated proteins 1 and 2, components
+   of  distinct  complexes  with histone deacetylase activity and both repress
+   transcription specifically [4].
+
+The  profile  we  developed  covers  the  entire  SANT  domain.  SANT-specific
+positions within the profile have been manually adapted.
+
+-Sequences  known to belong to this class detected by the profile: ALL, except
+ 2.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  The  SANT  domain  profile  is in competition with profiles of related
+ domains,  which  include  the  myb-type  HTH  DNA-binding domain and myb-like
+ domain (see <PDOC00037>).
+
+-Last update: February 2007 / First entry.
+
+[ 1] Aasland R., Stewart A.F., Gibson T.
+     "The SANT domain: a putative DNA-binding domain in the SWI-SNF and ADA
+     complexes, the transcriptional co-repressor N-CoR and TFIIIB."
+     Trends Biochem. Sci. 21:87-88(1996).
+     PubMed=8882580
+[ 2] Gruene T., Brzeski J., Eberharter A., Clapier C.R., Corona D.F.V.,
+     Becker P.B., Mueller C.W.
+     "Crystal structure and functional analysis of a nucleosome recognition
+     module of the remodeling factor ISWI."
+     Mol. Cell 12:449-460(2003).
+     PubMed=14536084
+[ 3] Boyer L.A., Latek R.R., Peterson C.L.
+     "The SANT domain: a unique histone-tail-binding module?"
+     Nat. Rev. Mol. Cell Biol. 5:158-163(2004).
+     PubMed=15040448
+[ 4] Yao Y.-L., Yang W.-M.
+     "The metastasis-associated proteins 1 and 2 form distinct protein
+     complexes with histone deacetylase activity."
+     J. Biol. Chem. 278:42560-42568(2003).
+     PubMed=12920132; DOI=10.1074/jbc.M302955200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,23 @@
+HTHLYSR
+Numerous bacterial transcription regulatory proteins bind DNA via a 
+helix-turn-helix (HTH) motif. These proteins are very diverse, but for
+convenience may be grouped into subfamilies on the basis of sequence
+similarity. One such family groups together a range of proteins, including
+ampR, catM, catR, cynR, cysB, gltC, iciA, ilvY, irgB, lysR, metR, mkaC, 
+mleR, nahR, nhaR, nodD, nolR, oxyR, pssR, rbcR, syrM, tcbR, tfdS and trpI
+[1-5]. The majority of these proteins appear to be transcription activators
+and most are known to regulate negatively their own expression. All possess
+a potential HTH DNA-binding motif towards their N-termini.
+
+HTHLYSR is a 3-element fingerprint that provides a signature for the HTH
+motif of the lysR bacterial regulatory proteins. The fingerprint was
+derived from an initial alignment of 12 sequences: the motifs completely
+encompass the HTH motif, extending a few residues beyond its C-terminus
+(cf. PROSITE pattern HTH_LYSR_FAMILY (PS00044)). Three iterations on
+OWL21.1 were required to reach convergence, at which point a true set
+comprising 70 sequences was identified. Twelve partial matches were also
+found, some of which are simply fragments, while others lack significant
+matches with one of the 3 motifs.
+
+An update on SPTR37_9f identified a true set of 171 sequences, and 53
+partial matches.

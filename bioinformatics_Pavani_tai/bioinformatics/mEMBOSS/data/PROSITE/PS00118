@@ -1,0 +1,62 @@
+********************************************
+* Phospholipase A2 active sites signatures *
+********************************************
+
+Phospholipase A2 (EC 3.1.1.4) (PA2) [1,2] is  an  enzyme  which releases fatty
+acids  from  the  second  carbon group of glycerol.  PA2's are small and rigid
+proteins of  120  amino-acid residues that have four to seven disulfide bonds.
+PA2 binds a calcium ion which is required for activity. The side chains of two
+conserved residues,  a  histidine  and  an  aspartic  acid,  participate  in a
+'catalytic network'.
+
+Many PA2's  have been sequenced from snakes, lizards, bees and mammals. In the
+latter, there are at least four forms: pancreatic, membrane-associated as well
+as two less characterized forms. The venom of most  snakes  contains  multiple
+forms of   PA2.  Some  of  them  are  presynaptic  neurotoxins  which  inhibit
+neuromuscular transmission  by  blocking  acetylcholine release from the nerve
+termini.
+
+We derived  two  different signature patterns for PA2's. The first is centered
+on the  active  site  histidine  and  contains  three  cysteines  involved  in
+disulfide bonds.  The  second is centered on the active site aspartic acid and
+also contains three cysteines involved in disulfide bonds.
+
+-Consensus pattern: C-C-{P}-x-H-{LGY}-x-C
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL    known
+ functional PA2's.     However, this pattern will not detect some snake toxins
+ homologous with PA2 but which have lost their catalytic  activity  as well as
+ otoconin-22, a  Xenopus  protein  from  the aragonitic otoconia which is also
+ unlikely to be enzymatically active.
+-Other sequence(s) detected in Swiss-Prot: 15.
+
+-Consensus pattern: [LIVMA]-C-{LIVMFYWPCST}-C-D-{GS}-{G}-{N}-x-{QS}-C
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: the majority
+ of functional  and  non-functional PA2's.  Undetected sequences are  bee PA2,
+ gila monster PA2's, PA2 PL-X from habu and PA2 PA-5 from mulga.
+-Other sequence(s) detected in Swiss-Prot: 13.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Davidson F.F., Dennis E.A.
+     "Evolutionary relationships and implications for the regulation of
+     phospholipase A2 from snake venom to human secreted forms."
+     J. Mol. Evol. 31:228-238(1990).
+     PubMed=2120459
+[ 2] Gomez F., Vandermeers A., Vandermeers-Piret M.-C., Herzog R., Rathe J.,
+     Stievenart M., Winand J., Christophe J.
+     "Purification and characterization of five variants of phospholipase
+     A2 and complete primary structure of the main phospholipase A2 variant
+     in Heloderma suspectum (Gila monster) venom."
+     Eur. J. Biochem. 186:23-33(1989).
+     PubMed=2480893
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

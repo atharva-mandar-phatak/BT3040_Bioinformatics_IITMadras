@@ -1,0 +1,28 @@
+TMPROTEINSRA
+Animals recognise a wide variety of chemicals using their senses of taste
+and smell. The nematode C.elegans has only 14 types of chemosensory neuron,
+yet is able to respond to dozens of chemicals because each neuron detects
+several stimuli. More than 40 highly divergent transmembrane proteins that
+could contribute to this functional diversity have been described [1]. Most
+of the candidate receptor genes are in clusters of similar genes; 11 of 
+these appear to be expressed in small subsets of chemosensory neurons. A
+single type of neuron can potentially express at least 4 different receptor
+genes [1]. Some of these might encode receptors for water-soluble
+attractants, repellents and pheromones, which may be divergent members
+of the G protein-coupled receptor family [1].
+
+Sequences of the sra family of C.elegans receptor-like proteins contain
+6-7 hydrophobic, putative transmembrane, regions. These can be
+distinguished from other 7TM proteins (especially those known to couple
+G proteins) by their own characteristic TM signatures.
+
+TMPROTEINSRA is a 7-element fingerprint that provides a signature for the
+C.elegans sra family of integral membrane proteins. The fingerprint was
+derived from an initial alignment of 10 sequences: the motifs were drawn
+from the putative TM regions. A single iteration on OWL29.1 was required to
+reach convergence, no further sequences being identified beyond the starting
+set. Several partial matches were found, all of which are fragments and
+related C.elegans TM proteins.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 7
+partial matches.

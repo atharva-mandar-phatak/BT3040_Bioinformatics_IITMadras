@@ -1,0 +1,51 @@
+*****************************************************
+* Phosphoenolpyruvate carboxykinase (ATP) signature *
+*****************************************************
+
+Phosphoenolpyruvate carboxykinase (ATP)  (EC 4.1.1.49)  (PEPCK)  [1] catalyzes
+the formation of phosphoenolpyruvate by decarboxylation of  oxaloacetate while
+hydrolyzing ATP, a rate limiting step in  gluconeogenesis (the biosynthesis of
+glucose).
+
+The sequence of this enzyme has  been  obtained  from Escherichia coli, yeast,
+and Trypanosoma brucei;   these three  sequences are evolutionary related  and
+share many regions of similarity.  As a signature pattern we selected a highly
+conserved region that contains four acidic  residues  and  which is located in
+the central part of the enzyme.  The beginning of the pattern is located about
+10 residues  to  the  C-terminus  of  an  ATP-binding  motif 'A' (P-loop) (see
+<PDOC00017>) and is also part of the ATP-binding domain [2].
+
+-Consensus pattern: L-I-G-D-D-E-H-x-W-x-[DEPKVNA]-x-[GVS]-[IV]-x-N
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Staphylococcus aureus PEPCK.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Phosphoenolpyruvate carboxykinase  (GTP)  (EC 4.1.1.32)  an enzyme that
+ catalyzes the same reaction, but  using GTP instead of ATP, is not related to
+ the above enzyme (see <PDOC00421>).
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Medina V., Pontarollo R., Glaeske D., Tabel H., Goldie H.
+     "Sequence of the pckA gene of Escherichia coli K-12: relevance to
+     genetic and allosteric regulation and homology of E. coli
+     phosphoenolpyruvate carboxykinase with the enzymes from Trypanosoma
+     brucei and Saccharomyces cerevisiae."
+     J. Bacteriol. 172:7151-7156(1990).
+     PubMed=1701430
+[ 2] Matte A., Goldie H., Sweet R.M., Delbaere L.T.J.
+     "Crystal structure of Escherichia coli phosphoenolpyruvate
+     carboxykinase: a new structural family with the P-loop nucleoside
+     triphosphate hydrolase fold."
+     J. Mol. Biol. 256:126-143(1996).
+     PubMed=8609605
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

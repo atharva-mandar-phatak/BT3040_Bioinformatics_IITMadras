@@ -1,0 +1,19 @@
+SYNAPTOPHYSN
+Synaptophysin and synaptoporin are related glycoproteins: they are the major
+integral membrane proteins of a certain class of small neurosecretory
+vesicles [1,2], although they may also be found in vesicles of various
+non-endocrine cells [2]. The polypeptide chain spans the membrane 4 times,
+and possibly acts as an ion or solute channel.  
+
+SYNAPTOPHYSN is a 5-element fingerprint that provides a signature for the 
+synaptophysin/synaptoporin family. The fingerprint was derived from an 
+initial alignment of 4 sequences: motifs 1 and 3-5 encode the 4 trans-
+membrane regions; motif 2, which spans a conserved region in the first
+intravesicular loop, includes the region encoded by PROSITE pattern
+SYNAPTOP (PS00604), the cysteine of which may be in involved in disulphide
+bond formation. Two iterations on OWL23.2 were required to reach
+convergence, at which point a true set comprising 6 sequences was
+identified. A single partial match was also found, S20316, a synaptophysin
+fragment.
+
+An update on SPTR37_9f identified a true set of 12 sequences.

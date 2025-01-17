@@ -1,0 +1,57 @@
+***************************************************************
+* FAD-dependent glycerol-3-phosphate dehydrogenase signatures *
+***************************************************************
+
+FAD-dependent glycerol-3-phosphate dehydrogenase (EC 1.1.99.5) (GPD) catalyzes
+the conversion  of  glycerol-3-phosphate  into  dihydroxyacetone phosphate. In
+bacteria [1]  it  is  associated  with  the utilization of glycerol coupled to
+respiration. In  Escherichia coli, two isozymes are known: one expressed under
+anaerobic conditions (gene glpA) and one in aerobic conditions (gene glpD). In
+eukaryotes, a mitochondrial form of GPD participates in the glycerol phosphate
+shuttle in conjunction with  an NAD-dependent cytoplasmic GPD (EC 1.1.1.8) [2,
+3].
+
+These enzymes  are  proteins  of  about  60  to 70 Kd which contain a probable
+FAD-binding domain in their N-terminal extremity. The mammalian enzyme differs
+from  the  bacterial  or  yeast proteins by having an  EF-hand calcium-binding
+region (See <PDOC00018>) in its C-terminal extremity.
+
+We developed  two  signature patterns. One based on the first half of the FAD-
+binding  domain and one which corresponds to a conserved region in the central
+part of these enzymes.
+
+-Consensus pattern: [IV]-G-G-G-x(2)-G-[STACV]-G-x-[AT]-x-[DQ]-x(3)-[RAS]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-G-K-x(2)-[GSTE]-Y-R-x(2)-A
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Brown L.J.; ljbrown2@facstaff.wisc.edu
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Austin D., Larson T.J.
+     "Nucleotide sequence of the glpD gene encoding aerobic sn-glycerol
+     3-phosphate dehydrogenase of Escherichia coli K-12."
+     J. Bacteriol. 173:101-107(1991).
+     PubMed=1987111
+[ 2] Roennow B., Kielland-Brandt M.C.
+     Yeast 9:1121-1130(1993).
+[ 3] Brown L.J., McDonald M.J., Lehn D.A., Moran S.M.
+     "Sequence of rat mitochondrial glycerol-3-phosphate dehydrogenase
+     cDNA. Evidence for EF-hand calcium-binding domains."
+     J. Biol. Chem. 269:14363-14366(1994).
+     PubMed=8182039
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

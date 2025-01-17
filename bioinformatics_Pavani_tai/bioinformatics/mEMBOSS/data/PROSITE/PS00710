@@ -1,0 +1,76 @@
+*********************************************************************
+* Phosphoglucomutase and phosphomannomutase phosphoserine signature *
+*********************************************************************
+
+ - Phosphoglucomutase (EC 5.4.2.2) (PGM). PGM  is  an  enzyme  responsible for
+   the conversion  of  D-glucose 1-phosphate into  D-glucose 6-phosphate.  PGM
+   participates in both the breakdown and synthesis of glucose [1].
+ - Phosphomannomutase (EC 5.4.2.8) (PMM).  PMM  is  an enzyme  responsible for
+   the conversion of D-mannose 1-phosphate into D-mannose 6-phosphate.  PMM is
+   required for  different biosynthetic pathways in bacteria.  For example, in
+   enterobacteria  such  as Escherichia coli  there  are  two  different genes
+   coding for this  enzyme:  rfbK  which is involved in the synthesis of the O
+   antigen of lipopolysaccharide and cpsG  which is required for the synthesis
+   of the M antigen capsular polysaccharide [2]. In Pseudomonas aeruginosa PMM
+   (gene algC) is  involved  in the biosynthesis of the alginate layer [3] and
+   in Xanthomonas campestris (gene xanA) it is involved in the biosynthesis of
+   xanthan [4].  In  Rhizobium strain ngr234 (gene noeK) it is involved in the
+   biosynthesis of the nod factor.
+ - Phosphoacetylglucosamine  mutase  (EC  5.4.2.3)  which converts N-acetyl-D-
+   glucosamine 1-phosphate into the 6-phosphate isomer.
+
+The  catalytic  mechanism  of  both  PGM  and  PMM involves the formation of a
+phosphoserine intermediate [1]. The sequence around the serine residue is well
+conserved and can be used as a signature pattern.
+
+In addition to PGM and PMM there  are  at least three uncharacterized proteins
+that belong to this family [5,6]:
+
+ - Urease operon protein ureC from Helicobacter pylori.
+ - Escherichia coli protein mrsA.
+ - Paramecium   tetraurelia   parafusin,  a  phosphoglycoprotein  involved  in
+   exocytosis.
+ - A Methanococcus vannielii hypothetical protein  in the 3'region of the gene
+   for ribosomal protein S10.
+
+-Consensus pattern: [GSA]-[LIVMF]-x-[LIVM]-[ST]-[PGA]-S-H-[NIC]-P
+                    [S is the phosphoserine residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: PMM from fungi do not belong to this family.
+
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Dai J.B., Liu Y., Ray W.J. Jr., Konno M.
+     "The crystal structure of muscle phosphoglucomutase refined at
+     2.7-angstrom resolution."
+     J. Biol. Chem. 267:6322-6337(1992).
+     PubMed=1532581
+[ 2] Stevenson G., Lee S.J., Romana L.K., Reeves P.R.
+     "The cps gene cluster of Salmonella strain LT2 includes a second
+     mannose pathway: sequence of two genes and relationship to genes in
+     the rfb gene cluster."
+     Mol. Gen. Genet. 227:173-180(1991).
+     PubMed=1712067
+[ 3] Zielinski N.A., Chakrabarty A.M., Berry A.
+     "Characterization and regulation of the Pseudomonas aeruginosa algC
+     gene encoding phosphomannomutase."
+     J. Biol. Chem. 266:9754-9763(1991).
+     PubMed=1903398
+[ 4] Koeplin R., Arnold W., Hoette B., Simon R., Wang G., Puehler A.
+     J. Bacteriol. 174:191-199(1992).
+[ 5] Bairoch A.
+     Unpublished observations (1993).
+[ 6] Subramanian S.V., Wyroba E., Andersen A.P., Satir B.H.
+     Proc. Natl. Acad. Sci. U.S.A. 91:9832-9836(1994).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,36 @@
+EPMEMPROT2
+The epithelial membrane proteins (EMP-1, -2 and -3), peripheral myelin
+protein 22 (PMP22), and lens fiber membrane intrinsic protein (LMIP)
+comprise a protein family on the basis of their sequence and structural 
+similarities [1]. Each family member is a small hydrophobic membrane
+glycoprotein, ~160-170 amino acids in length, and shares a common predicted
+transmembrane (TM) topology of four TM domains with intracellular N- and 
+C-termini [2].
+
+A role for the EMP family members in the control of cell growth has been
+suggested [1]. EMP-1 is expressed at high levels in proliferating cells, and
+at reduced levels in cells undergoing growth arrest [3]. In contrast, 
+PMP22, which is co-expressed with EMP-1 in a range of tissues, displays an
+inverse pattern of regulation, with high levels of expression in cultured
+cells undergoing growth arrest [3]. It has therefore been proposed that
+these proteins may have reciprocal functions in the control of cell
+quiescence and proliferation.
+
+EMP-2, previously termed XMP, was identified by expressed sequence tag 
+(EST) database searching, pursuing sequences similar to EMP-1 [4]. Mouse
+and human isoforms have been cloned. EMP-2 is expressed in a range of
+tissues, including ovary, heart, lung and intestine [4]. Although its 
+function has not been elucidated, it has been postulated that EMP-2 may be
+involved in the regulation of cell proliferation on the basis of its 
+sequence similarity to EMP-1 [4].
+
+EPMEMPROT2 is a 4-element fingerprint that provides a signature for
+epithelial membrane protein EMP-2. The fingerprint was derived from an 
+initial alignment of 2 sequences: the motifs were drawn from conserved loop
+and TM regions, focusing on those sections that characterise epithelial
+membrane protein EMP-2 but distinguish it from other family members - motif
+1 spans part of the intracellular loop and part of TM domain 3; motif 2 lies
+in TM domain 3; motif 3 resides within the second extracellular loop; and 
+motif 4 lies in TM domain 4. A single iteration on SPTR39_14f was required
+to reach convergence, no further sequences being identified beyond the 
+starting set.

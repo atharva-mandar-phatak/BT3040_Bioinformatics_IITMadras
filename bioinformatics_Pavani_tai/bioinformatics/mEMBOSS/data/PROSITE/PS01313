@@ -1,0 +1,44 @@
+**************************************
+* Lipoate-protein ligase B signature *
+**************************************
+
+Lipoate-protein ligase  B [1] (gene lipB) is the bacterial enzyme that creates
+an amide  linkage  that  joins  the  free carboxyl group of lipoic acid to the
+epsilon-amino group of a specific lysine residue in lipoate-dependent enzymes.
+
+Such an  enzyme  has  also  be  found in fungi [2], where it is located in the
+mitochondria. It  also  seems  to  exist  in  plants  and  is  encoded  in the
+chloroplast genome of the red alga Cyanidium caldarium.
+
+As a signature for lipB, we selected the most conserved region, located in the
+central part  of  the  enzyme.  This  region  contains  one  of  two conserved
+histidines.
+
+-Consensus pattern: R-G(2)-x(2)-T-[FYWCAH]-H-x(2)-[GHS]-Q-x-[LIVMT]-x-Y
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Morris T.W., Reed K.E., Cronan J.E. Jr.
+     "Lipoic acid metabolism in Escherichia coli: the lplA and lipB genes
+     define redundant pathways for ligation of lipoyl groups to
+     apoprotein."
+     J. Bacteriol. 177:1-10(1995).
+     PubMed=8002607
+[ 2] Chen X.J.
+     "Cloning and characterization of the lipoyl-protein ligase gene LIPB
+     from the yeast Kluyveromyces lactis: synergistic respiratory
+     deficiency due to mutations in LIPB and mitochondrial F1-ATPase
+     subunits."
+     Mol. Gen. Genet. 255:341-349(1997).
+     PubMed=9268025
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

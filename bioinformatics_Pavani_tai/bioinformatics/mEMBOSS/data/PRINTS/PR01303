@@ -1,0 +1,25 @@
+CRCMSPRZOITE
+The circumsporozoite (CS) protein is the most prominant surface antigen on
+the sporozoite of the malaria parasite, Plasmodium spp. The sporozoite is
+the infectious stage of the Plasmodium life cycle, the form in which malaria
+is passed from the mosquito vector to the mammalian host [1]. Antibodies to
+this protein are used in the field to detect exposure to malaria [2] and it 
+is a target for several vaccines [3].
+
+The sequence of the CS protein consists of head and tail regions, which are
+largely conserved, and a large set of low-complexity repeats, which are 
+variant across strain and species [4]. The C-terminal region is probably
+used for anchoring the protein to the cell membrane, while the central
+repeat sequences would be the surface antigen of the organism. The repeats,
+which encode the immunodominant epitope of the CS protein, diverge more
+rapidly than the remainder of the gene. It is thought that the maintenance
+and evolution of the repeats is achieved via a mechanism that acts not at
+the protein level but, rather, directly on the DNA sequence [4]. 
+
+CRCMSPRZOITE is a 6-element fingerprint that provides a signature for
+Plasmodium circumsporozoite proteins. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs were drawn from the conserved
+N- and C-terminal regions of the alignment, flanking the central repeats -
+motif 1 spans the putative signal sequence. Two iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 49
+sequences was identified. 

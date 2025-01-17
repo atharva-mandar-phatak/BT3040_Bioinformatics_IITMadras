@@ -1,0 +1,103 @@
+**********************
+* TIR domain profile *
+**********************
+
+Toll  proteins  or  Toll-like  receptors (TLRs) and the interleukin-1 receptor
+(IL-1R)  superfamily  are both involved in innate antibacterial and antifungal
+immunity  in  insects as well as in mammals. These receptors share a conserved
+cytoplasmic  domain  of approximately 200 amino acids, known as the Toll/IL-1R
+homologous  region  (TIR).  The  similarity  between  TLRs  and  IL-1Rs is not
+restricted  to  sequence  homology  since  these proteins also share a similar
+signaling pathway. They both induce the activation of a Rel type transcription
+factor  via an adaptor protein and a protein kinase [1]. Interestingly, MyD88,
+a  cytoplasmic  adaptor  protein  found  in  mammals,  contains  a  TIR domain
+associated to  a DEATH domain (see <PDOC50017>) [2,3,4]. Besides the mammalian
+and  Drosophila  proteins,  a  TIR  domain  is also found in a number of plant
+cytoplasmic proteins implicated in host defense [5].
+
+Site directed mutagenesis and deletion analysis have shown that the TIR domain
+is  essential  for  Toll  and  IL-1R  activities.  A principal function of TIR
+domains  is thought to be to mediate homotypic protein-protein interactions in
+the  signal  transduction  process  [6].  Sequence  analyses have revealed the
+presence  of three highly conserved regions among the different members of the
+TIR  family:  box  1  (FDAFISY), box 2 (GYKLC-RD-PG), and box 3 (a conserved W
+surrounded  by  basic  residues).  It has been proposed that boxes 1 and 2 are
+involved  in  the  binding of proteins involved in signaling, whereas box 3 is
+primarily  involved  in  directing  localization  of receptor, perhaps through
+interactions with cytoskeletal elements [7].
+
+Resolution  of  the  crystal  structures of the TIR domains of human Toll-like
+receptors 1 and 2 has shown that they contain a central five-stranded parallel
+beta-sheet that is surrounded by a total of five helices on both sides [8].
+
+Some proteins known to contain a TIR domain are listed below:
+
+ - Mammalian  interleukin-1  receptor.  It  is composed of two type I integral
+   membrane proteins,   IL-1R  and  IL-1RacP,  that  share  three  Ig  domains
+   (extracellular) and one TIR domain (cytoplasmic) [7].
+ - Myeloid  differentiation  factor  (MyD88),  a  cytoplasmic protein found in
+   mammals. It  also contains a DEATH domain and acts as an adaptor protein in
+   IL-1R and TLR mediated signaling [2,3,4].
+ - Toll,  from  Drosophila.  The  Toll  signaling  pathway is required for the
+   establishment of  the  dorso-ventral axis during embryogenesis and plays an
+   important role  in  the  immune  response  against bacteria and fungi. Toll
+   contains two  extracellular  LRRs, adjacent cysteine containing motifs, one
+   transmembrane domain,  an  intracellular  TIR  domain  and an intracellular
+   inhibitory domain [4].
+ - LRR  and  TIR  domains  containing  proteins from plants. These cytoplasmic
+   proteins are important in the host response to infection [5].
+
+We developed a profile that covers the entire TIR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Takeuchi O., Kawai T., Sanjo H., Copeland N.G., Gilbert D.J.,
+     Jenkins N.A., Takeda K., Akira S.
+     "TLR6: A novel member of an expanding toll-like receptor family."
+     Gene 231:59-65(1999).
+     PubMed=10231569
+[ 2] Mitcham J.L., Parnet P., Bonnert T.P., Garka K.E., Gerhart M.J.,
+     Slack J.L., Gayle M.A., Dower S.K., Sims J.E.
+     "T1/ST2 signaling establishes it as a member of an expanding
+     interleukin-1 receptor family."
+     J. Biol. Chem. 271:5777-5783(1996).
+     PubMed=8621445
+[ 3] Muzio M., Ni J., Feng P., Dixit V.M.
+     "IRAK (Pelle) family member IRAK-2 and MyD88 as proximal mediators of
+     IL-1 signaling."
+     Science 278:1612-1615(1997).
+     PubMed=9374458
+[ 4] Anderson K.V.
+     "Toll signaling pathways in the innate immune response."
+     Curr. Opin. Immunol. 12:13-19(2000).
+     PubMed=10679407
+[ 5] Van der Biezen E.A., Jones J.D.
+     Trends Biochem. Sci. 23:454-456(1998).
+[ 6] Kopp E.B., Medzhitov R.
+     "The Toll-receptor family and control of innate immunity."
+     Curr. Opin. Immunol. 11:13-18(1999).
+     PubMed=10047546
+[ 7] Slack J.L., Schooley K., Bonnert T.P., Mitcham J.L., Qwarnstrom E.E.,
+     Sims J.E., Dower S.K.
+     "Identification of two major sites in the type I interleukin-1
+     receptor cytoplasmic region responsible for coupling to
+     pro-inflammatory signaling pathways."
+     J. Biol. Chem. 275:4670-4678(2000).
+     PubMed=10671496
+[ 8] Xu Y., Tao X., Shen B., Horng T., Medzhitov R., Manley J.L., Tong L.
+     "Structural basis for signal transduction by the Toll/interleukin-1
+     receptor domains."
+     Nature 408:111-115(2000).
+     PubMed=11081518; DOI=10.1038/35040600
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

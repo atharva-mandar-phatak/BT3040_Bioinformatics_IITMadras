@@ -1,0 +1,71 @@
+************************
+* DAPIN domain profile *
+************************
+
+The DAPIN  (Domain  in Apoptosis and INterferon response) domain is an 80-100-
+residue domain  which  is  found  in  the N-terminus of diverse vertebrate and
+vertebrate-specific viral    proteins    involved    in   apoptosis,   cancer,
+inflammation, and  immune  response. The DAPIN domain can be found alone or in
+association with other domains [1,2,3] like CARD (see <PDOC50209>, NACHT, HIN-
+200 (see  <PDOC50834>), LRR, SPRY, Caspase (see <PDOC00864>) or Zinc finger B-
+box (see  <PDOC50119>).  It has been proposed that the DAPIN domain might have
+an adaptor  function,  coupling apoptosis and immune disorders [1,2,3]. It has
+been shown  that  the  DAPIN  domain  is  a protein-protein interaction domain
+capable of binding to other DAPIN domains [1].
+
+Secondary structure  predictions  have  identified  the DAPIN domain as mostly
+alpha-helical and  it  has  been  suggested that it could belong to the DEATH-
+domain-fold superfamily,  which  includes the CARD, the DEATH domain (DD) (see
+<PDOC50017>) and the DEATH effector domain (DED) (see <PDOC50168>) [1,2,3].
+
+The DAPIN  domain has also been called pyrin domain, pyrin N-terminal homology
+domain (PYD) or PAAD (after the protein families pyrin, AIM, ASC death-domain-
+like) [2,3].
+
+Proteins known to contain a DAPIN domain are listed below:
+
+ - Mammalian  pyrin.  Mutations  in the human pyrin MEFV gene are the cause of
+   familial Mediterranean fever.  Pyrin localizes to the perinuclear cytoplasm
+   and interacts with a putative Golgi transport protein.
+ - Mammalian  ASC  (apoptosis-associated speck-like protein containing a CARD)
+   or Pycard  (PYD  and  CARD  containing  protein).  It forms aggregates when
+   apoptosis is induced by certain anti-tumor drugs.
+ - Human NALP1 and NALP2 (NACHT-, LRR- and PYD-containing proteins).
+ - Zebrafish caspases CASPY and CASPY2.
+ - Mammalian  HIN-200  family  of  hematopoietic  interferon-inducible nuclear
+   proteins. This  family  includes AIM2 (absent in melanoma 2), MNDA (myeloid
+   nuclear differentiation antigen) and IFI16.
+ - Rabbit myxoma virus M013L protein.
+ - Rabbit fibroma virus GP013L protein.
+
+We developed a profile that covers the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Staub E., Dahl E., Rosenthal A.
+     "The DAPIN family: a novel domain links apoptotic and interferon
+     response proteins."
+     Trends Biochem. Sci. 26:83-85(2001).
+     PubMed=11166557
+[ 2] Pawlowski K., Pio F., Chu Z.-L., Reed J.C., Godzik A.
+     "PAAD - a new protein domain associated with apoptosis, cancer and
+     autoimmune diseases."
+     Trends Biochem. Sci. 26:85-87(2001).
+     PubMed=11166558
+[ 3] Martinon F., Hofmann K., Tschopp J.
+     "The pyrin domain: a possible member of the death domain-fold family
+     implicated in apoptosis and inflammation."
+     Curr. Biol. 11:R118-R120(2001).
+     PubMed=11250163
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

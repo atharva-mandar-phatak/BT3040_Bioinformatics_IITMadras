@@ -1,0 +1,113 @@
+******************************************
+* C-type cytochrome superfamily profiles *
+******************************************
+
+In  proteins  belonging to the c-type cytochrome family [1], the heme group is
+covalently  attached  by  thioether  bonds  to two conserved cysteine residues
+located  in  the  cytochrome  c  center.  Cytochromes  c typically function in
+electron  transfer, but c-type cytochrome centers are also found in the active
+sites  of  many  enzymes,  and  in  eukaryotic  cells, cytochrome c has also a
+role in apoptosis [2].
+
+The known structures of c-type cytochromes have six different classes of fold.
+Of  these,  four are unique to c-type cytochromes [3]. The different folds are
+detailed in the example list below.
+
+The  consensus  sequence for the cytochrome c center is Cys-x-x-Cys-His, where
+the  histidine  residue  is one of the two axial ligands of the heme iron [4].
+This arrangement is shared by all proteins known to belong to the cytochrome c
+family, which presently includes:
+
+Monoheme proteins:
+
+ - Cytochrome  c,  an  electron  carrier protein located in the mitochondrial
+   matrix.  Cytochrome  c  is a globular protein with an all alpha-helice fold
+   (see <PDB:1HRC>).
+ - Cytochrome c1. This is the heme-containing component of the cytochrome b-c1
+   complex,   which  accepts  electrons  from  Rieske  protein  and  transfers
+   electrons  to cytochrome c in the mitochondrial respiratory chain.
+ - Bacterial  class  II  cytochromes  c  (c'  and  c556).  Cytochrome  c' is a
+   high-spin  protein  and  is  the  most  widely  occurring  bacterial c-type
+   cytochrome.  Cytochrome  c556  is  a  low-spin  cytochrome  .  Both  have a
+   C-terminal  c-type  cytochrome center. Class II cytochromes are composed of
+   four alpha helices (see <PDB:1CPR>).
+ - Cytochromes c2, c5 and c6.
+ - Bacterial cytochromes c550 to c553 and c555.
+ - Chloroplast  and cyanobacteria cytochrome f. It translocates protons across
+   the  thylakoid  membrane  and  transfers  electrons  from photosystem II to
+   photosystem  I.  Structurally,  cytochrome  f is unique in the cytochrome c
+   family as it is an all beta-strand fold (see <PDB:1CTM>).
+ - Bacteria cytochrome c oxidase, mono-heme subunit, FixO.
+
+Multiheme   proteins   (prokaryotes).   They  are  frequently  associated  with
+electron-transport processes within the nitrogen and sulphur cycles:
+
+ - Cytochrome  c  nitrite  reductase, each  monomere contains five heme groups
+   clustered in a pseudo-two fold structure (see <PDB:1QDB>).
+ - Cytochrome   c3.  It  participates  in  sulfate  respiration  coupled  with
+   phosphorylation  by transferring electrons from the enzyme dehydrogenase to
+   ferredoxin. It binds 4 heme groups per subunit.
+ - Cytochrome c4. It binds 2 heme groups per subunit.
+ - Cytochromes  cc3/Hmc  (High-molecular-weight  cytochrome  c), binds 16 heme
+   groups per subunit.
+ - Purple bacteria photosynthetic reaction center. It binds four heme groups.
+ - HAO   (hydroxylamine   oxidoreductase).   It  catalyzes  the  oxidation  of
+   hydroxylamine  to  nitrite.  The  electrons  released  in  the reaction are
+   partitioned  to  ammonium  monooxygenase  and  to the respiratory chain. It
+   binds eight heme groups per subunit.
+ - Cytochrome  c554.  It  is  the immediate acceptor of electrons from HAO. It
+   binds four heme groups per subunit.
+ - Flavocytochrome  fumarate.  It  catalyzes unidirectional fumarate reduction
+   using  artificial  electron  donors  such as methyl viologen. It binds four
+   heme groups per subunit.
+
+To  recognize  c-type cytochrome family proteins we have developed 4 profiles.
+The  first one recognizes all mono-heme cytochrome c proteins (except class II
+and  f-type  cytochromes).  The  second one recognizes cytochrome c that binds
+more  than  one heme group. The third one recognizes class II cytochrome c and
+the fourth one is directed against cytochrome f family.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the third profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the fourth profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These profiles replace a pattern which specificity was inadequate.
+
+-Last update: August 2004 / Pattern removed, profiles added and text revised.
+
+[ 1] Mathews F.S.
+     "The structure, function and evolution of cytochromes."
+     Prog. Biophys. Mol. Biol. 45:1-56(1985).
+     PubMed=3881803
+[ 2] Martinou J.-C., Desagher S., Antonsson B.
+     "Cytochrome c release from mitochondria: all or nothing."
+     Nat. Cell Biol. 2:E41-E43(2000).
+     PubMed=10707095; DOI=10.1038/35004069
+[ 3] Allen J.W., Daltrop O., Stevens J.M., Ferguson S.J.
+     "C-type cytochromes: diverse structures and biogenesis systems pose
+     evolutionary problems."
+     Philos. Trans. R. Soc. Lond., B, Biol. Sci. 358:255-266(2003).
+     PubMed=12594933; DOI=10.1098/rstb.2002.1192
+[ 4] Barker P.D., Ferguson S.J.
+     "Still a puzzle: why is haem covalently attached in c-type
+     cytochromes?"
+     Structure 7:R281-R290(1999).
+     PubMed=10647174
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

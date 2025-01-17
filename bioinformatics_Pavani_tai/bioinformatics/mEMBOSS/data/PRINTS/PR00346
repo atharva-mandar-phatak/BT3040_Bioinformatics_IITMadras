@@ -1,0 +1,28 @@
+TISSUEFACTOR
+Tissue Factor (TF) [1,2] is a cell-surface receptor that initiates blood 
+coagulation by forming a complex with circulating factor VII or VIIa. The
+mature protein comprises around 250 residues, which encompass an extra-
+cellular domain of about 210 residues bounded by 2 disulphide bridges, a
+transmembrane (TM) domain, and a short C-terminal cytoplasmic domain. There
+is no close sequence similarity between TF and other proteins, although
+structural similarity of the TF extracellular domain to the interferon 
+gamma-receptors and cytokine receptor family has been suggested [3,4].
+
+The tripeptide sequence WKS is repeated 3 times in the extracellular domain
+of human TF. Site-directed mutagenesis studies suggest that, in the first
+repeat, the W may contribute to a hydrophobic core rather than have a 
+direct functional involvement. Mutations in the second and third repeats, 
+however, showed no detectable structural alterations, but did reflect 
+diminished function. It is inferred, therefore, that the WKS motif is 
+associated with a functional site, and the K has been identified as the 
+functionally important residue [5].
+
+TISSUEFACTOR is an 8-element fingerprint that provides a signature for
+the tissue factor proteins. The fingerprint was derived from an initial
+alignment of 4 sequences: motifs 2 and 3 encode the first disulphide bridge
+(cf. PROSITE pattern TISSUE_FACTOR (PS00621)); motifs 4-7 span the extra-
+cellular domain; and motif 8 spans the TM domain - the 3 WKS repeats reside
+in motifs 1-3. A single iteration on OWL17.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 5 sequences.

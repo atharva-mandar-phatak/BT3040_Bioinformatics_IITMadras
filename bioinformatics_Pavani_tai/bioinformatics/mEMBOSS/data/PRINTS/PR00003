@@ -1,0 +1,26 @@
+4DISULPHCORE
+A group of proteins containing 8 characteristically-spaced cysteine
+residues, which are involved in disulphide bond formation, have been
+termed '4-disulphide core' proteins [1]. While the pattern of conserved 
+cysteines suggests that the sequences may adopt a similar fold, the
+overall degree of sequence similarity is low (e.g. a few Pro and Gly
+residues are reasonably well conserved, as is the polar/acidic nature of
+residues between the third and fourth Cys, but otherwise there is little 
+sequence conservation). The group of sequences that share this pattern
+include whey acidic protein (WAP) [1], elafin (an elastase-specific 
+inhibitor from human skin) [2], WDNM1 protein (which is involved in the
+metastatic potential of adenocarcinomas in rats) [3], Kallmann syndrome
+protein [4], and so on.
+
+4DISULPHCORE is a 4-element fingerprint that provides a signature for the
+4-disulphide core proteins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs encode 7 of the 8 well-conserved
+Cys residues. Two iterations on OWL24.0 were required to reach convergence,
+at which point a true set comprising 17 sequences was identified. Four
+partial matches were also found, all of which fail to make significant 
+matches with one or two motifs - in this fingerprint, the power of 
+discrimination is compromised by the fact that the motifs are necessarily
+short, because the sequence conservation is so poor.
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 9
+partial matches.

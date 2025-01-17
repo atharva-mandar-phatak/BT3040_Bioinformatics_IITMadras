@@ -1,0 +1,55 @@
+************************************************
+* 3-hydroxyisobutyrate dehydrogenase signature *
+************************************************
+
+3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31) catalyzes the  NAD-dependent,
+reversible oxidation of 3-hydroxbutyrate to methylmalonate [1]. In eukaryotes,
+it is a homodimeric mitochondrial protein  involved in valine catabolism.   In
+Pseudomonas aeruginosa  [2]  (gene  mmsB), it is involved in the distal valine
+metabolic pathway.
+
+The sequence   of   3-hydroxyisobutyrate  dehydrogenase  from  eukaryotic  and
+prokaryotic sources  show  that this enzyme has been well conserved throughout
+evolution. The following proteins are evolutionary related to 3-hydroxyisobut-
+yrate dehydrogenase:
+
+ - Escherichia  coli  2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60) (genes
+   garR and glxR).
+ - Escherichia coli hypothetical protein ygbJ.
+ - Escherichia coli hypothetical protein yihU.
+ - Bacillus subtilis hypothetical protein yfjR.
+ - Bacillus subtilis hypothetical protein ykwC.
+ - Mycobacterium tuberculosis hypothetical protein Rv0770.
+ - Synechocystis strain PCC 6803 hypothetical protein slr0229.
+
+As a  signature  pattern, we  selected  a highly conserved glycine-rich region
+located at  the  proteins'  N-terminus.  This  region  is probably involved in
+binding NAD.
+
+-Consensus pattern: [LIVMFY](2)-G-L-G-x-[MQ]-G-x(2)-[MA]-[SAV]-x-[SNHR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Rougraff P.M., Zhang B., Kuntz M.J., Harris R.A., Crabb D.W.
+     "Cloning and sequence analysis of a cDNA for 3-hydroxyisobutyrate
+     dehydrogenase. Evidence for its evolutionary relationship to other
+     pyridine nucleotide-dependent dehydrogenases."
+     J. Biol. Chem. 264:5899-5903(1989).
+     PubMed=2647728
+[ 2] Steele M.I., Lorenz D., Hatter K., Park A., Sokatch J.R.
+     "Characterization of the mmsAB operon of Pseudomonas aeruginosa PAO
+     encoding methylmalonate-semialdehyde dehydrogenase and
+     3-hydroxyisobutyrate dehydrogenase."
+     J. Biol. Chem. 267:13585-13592(1992).
+     PubMed=1339433
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,30 @@
+GPCRCAMP
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+It has been suggested that the cAMP receptors coordinate aggregation of 
+individual cells into a multicellular organism, and regulate the expression
+of a large number of developmentally-regulated genes [2-4]. The amino acid
+sequences of the receptors contain high proportions of hydrophobic residues
+grouped into 7 domains, in a manner reminiscent of the rhodopsins and other
+receptors believed to interact with G proteins. However, while a similar
+3D framework has been proposed to account for this, there is no significant
+sequence similarity between these families: the cAMP receptors thus bear
+their own unique '7TM' signature.
+
+GPCRCAMP is a 7-element fingerprint that provides a signature for the 
+cAMP-type family of GPCRs. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs encode the 7 hydrophobic, putative
+membrane-spanning regions. A single iteration on OWL21.1 was required to
+reach convergence, no further sequences being identified beyond the
+starting set.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

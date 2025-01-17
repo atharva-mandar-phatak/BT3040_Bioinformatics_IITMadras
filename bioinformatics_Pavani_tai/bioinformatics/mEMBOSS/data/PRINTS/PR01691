@@ -1,0 +1,48 @@
+TRAAKCHANNEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered to
+be an essential element of the aqueous K+-selective pore. Shaker-type and
+Kir K+ channel subunits both contain a single P-domain, and four such
+subunits are thought to associate to form a multimer, together with 
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunits was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one but two P-domains in each 
+subunit, and evidence suggests a complete channel may be formed by the 
+dimerisation of two such subunits.
+                    
+The first member of this family (TOK1) cloned from S.cerevisiae [1] was
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show
+inward or outward rectification, their activity may be modulated in 
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these disparate
+properties, they are all thought to share the same topology of four TM 
+segments, including two P-domains. That TWIK-related K+ channels all produce
+instantaneous and non-inactivating K+ currents, which do not display a
+voltage-dependent activation threshold, suggests that they are background 
+(leak) K+ channels involved in the generation and modulation of the resting
+membrane potential in various cell types. Further studies have revealed that
+they may be found in many species, including: plants, invertebrates and 
+mammals.
+
+TRAAK (TWIK-related arachidonic acid-stimulated K+ channel) is a member of
+the 2P-domain K+ channel family, and is expressed mainly in the brain and
+placenta [7]. It is strongly activated by unsaturated fatty acids, such as
+oleate and linoleate. An alternative way of activating TRAAK channels is the
+application of stretch to the cell membrane, for example, by means of cell
+swelling, shear stress or negative pressure [8].
+
+TRAAKCHANNEL is a 6-element fingerprint that provides a signature for the
+TRAAK K+ channel. The fingerprint was derived from an initial alignment of 2
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full length of the alignment - motif 1 lies in the loop between TM
+domains 1 and 2; motifs 2 and 3 span the loop between TM2 and TM3; and 
+motifs 4-6 reside at the C-terminus. A single iteration on SPTR40_18f was
+required to reach convergence, no further sequences being identified beyond
+the starting set.

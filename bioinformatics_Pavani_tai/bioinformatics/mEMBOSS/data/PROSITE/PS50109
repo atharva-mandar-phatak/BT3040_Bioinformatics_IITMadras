@@ -1,0 +1,67 @@
+***********************************
+* Histidine kinase domain profile *
+***********************************
+
+Most prokaryotic signal-transduction systems and a few eukaryotic pathways use
+phosphotransfer schemes   involving  two  conserved  components,  a  histidine
+protein kinase  (HK)  and a response regulator protein (RR) (see <PDOC50110>).
+The HK,  which  is regulated by environmental stimuli, autophosphorylates at a
+histidine residue,   creating   a   high-energy   phosphoryl   group  that  is
+subsequently transferred      to  an  aspartate  residue  in  the  RR  domain.
+Phosphorylation induces    a  conformational  change  in  RR  that  results in
+activation of an associated domain that effects the response.
+
+Both prokaryotic   and   eukaryotic  HKs  contain  the  same  basic  signaling
+components, namely a diverse sensing domain and a highly conserved kinase core
+that has  a  unique  fold,  distinct  from  that  of  the  Ser/Thr/Tyr  kinase
+superfamily. The  overall activity of the kinase is modulated by input signals
+to the  sensing  domain. HKs undergo an ATP-dependent autophosphorylation at a
+conserved His residue in the kinase core. Autophosphorylation is a bimolecular
+reaction between   homodimers,   in   which   one  HK  monomer  catalyzes  the
+phosphorylation of the conserved His residue in the second monomer.
+
+The sensing domains are variable in sequence, reflective of the many different
+environmental signals  to  which  HKs  are  responsive, whereas the about 250-
+residue kinase  core  is  more  conserved.  The  kinase  core is composed of a
+dimerization domain and an ATP/ADP-binding phosphotransfer or catalytic domain
+and can  be  identified  by  five conserved primary sequence motifs present in
+both eukaryotic  and  procaryotic HKs. These motifs have been termed the H, N,
+G1, F  and G2 boxes. The conserved His substrate is the central feature in the
+H box,  whereas the N, G1, F and G2 boxes define the nucleotide binding cleft.
+In most  HKs,  the H box is part of the dimerization domain. However, for some
+proteins, like CheA, the conserved His is located at the far N-terminus of the
+protein in  a  separate  HPt  domain.  The  N,  G1, F and G2 boxes are usually
+contiguous, but  the  spacing  between  these  motifs  is somewhat varied. The
+catalytic core  forms  an  alpha-beta sandwich consisting of five antiparallel
+beta strands and three alpha helices (see <PDB:1BXD>) [1,2,3].
+
+The profile we developed covers the histidine kinase core.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Stock A.M., Robinson V.L., Goudreau P.N.
+     "Two-component signal transduction."
+     Annu. Rev. Biochem. 69:183-215(2000).
+     PubMed=10966457; DOI=10.1146/annurev.biochem.69.1.183
+[ 2] West A.H., Stock A.M.
+     "Histidine kinases and response regulator proteins in two-component
+     signaling systems."
+     Trends Biochem. Sci. 26:369-376(2001).
+     PubMed=11406410
+[ 3] Foussard M., Cabantous S., Pedelacq J.-D., Guillet V., Tranier S.,
+     Mourey L., Birck C., Samama J.-P.
+     "The molecular puzzle of two-component signaling cascades."
+     Microbes Infect. 3:417-424(2001).
+     PubMed=11369279
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

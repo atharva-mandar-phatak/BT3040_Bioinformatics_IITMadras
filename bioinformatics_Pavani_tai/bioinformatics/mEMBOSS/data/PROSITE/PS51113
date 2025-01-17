@@ -1,0 +1,80 @@
+********************************
+* Zinc finger Btk-type profile *
+********************************
+
+The  Btk-type  zinc  finger  or  Btk motif (BM) is a domain of ~37 amino acids
+present  in eukaryotic signalling proteins. The domain is named after Bruton's
+tyrosine  kinase  (Btk), an enzyme which is essential for B cell maturation in
+humans and mice [1,2]. Btk and other protein tyrosine kinases (PTK) of the Tec
+family  contain  a  conserved  Tec homology (TH) region between the N-terminal
+pleckstrin homology (PH) domain (see <PDOC50003>) and the Src homology 3 (SH3)
+domain  (see <PDOC50002>). The Btk domain forms the N-terminal part of the Tec
+homology  region  while  the  C-terminal portion of TH contains a proline-rich
+region. The Btk domain occurs in some proteins outside the Tec family of PTKs,
+where  it is also C-terminal to a PH domain. The Btk-type zinc finger seems to
+be  involved  in  protein-protein  interactions,  and  it  can interact with G
+proteins [3,4].
+
+The  crystal  structures  of  Btk  show  that  the  Btk-type zinc finger has a
+globular core, formed by a long loop which is held together by a zinc ion (see
+<PDB:1BTK>).  The  zinc-binding  residues are a histidine and three cysteines,
+which are fully conserved in the Btk motif [1-5].
+
+Some proteins known to contain a Btk-type zinc finger:
+
+ - Mammalian  Bruton's  tyrosine  kinase  (Btk),  a  protein  tyrosine  kinase
+   involved  in  modulation of diverse cellular processes. Mutations affecting
+   Btk  are  the  cause  of  X-linked  agammaglobulinemia  (XLA) in humans and
+   X-linked immunodeficiency in mice.
+ - Mammalian Tec, Bmx, and Itk proteins, which are tyrosine protein kinases of
+   the Tec subfamily.
+ - Drosophila  tyrosine-protein  kinase  Btk29A,  which  is  required  for the
+   development  of  proper  ring canals and of male genitalia and required for
+   adult survival.
+ - Mammalian  Ras  GTPase-activating  proteins  (RasGAP),  which  regulate the
+   activation of inactive GDP-bound Ras by converting GDP to GTP.
+
+The profile we developed covers the entire Btk-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2005 / First entry.
+
+[ 1] Vihinen M., Nilsson L., Smith C.I.E.
+     "Tec homology (TH) adjacent to the PH domain."
+     FEBS Lett. 350:263-265(1994).
+     PubMed=8070576
+[ 2] Lindvall J.M., Blomberg K.E.M., Valiaho J., Vargas L., Heinonen J.E.,
+     Berglof A., Mohamed A.J., Nore B.F., Vihinen M., Smith C.I.E.
+     "Bruton's tyrosine kinase: cell biology, sequence conservation,
+     mutation spectrum, siRNA modifications, and expression profiling."
+     Immunol. Rev. 203:200-215(2005).
+     PubMed=15661031; DOI=10.1111/j.0105-2896.2005.00225.x
+[ 3] Vihinen M., Nore B.F., Mattsson P.T., Backesjo C.M., Nars M.,
+     Koutaniemi S., Watanabe C., Lester T., Jones A., Ochs H.D.,
+     Smith C.I.E.
+     "Missense mutations affecting a conserved cysteine pair in the TH
+     domain of Btk."
+     FEBS Lett. 413:205-210(1997).
+     PubMed=9280283
+[ 4] Jiang Y., Ma W., Wan Y., Kozasa T., Hattori S., Huang X.Y.
+     "The G protein G alpha12 stimulates Bruton's tyrosine kinase and a
+     rasGAP through a conserved PH/BM domain."
+     Nature 395:808-813(1998).
+     PubMed=9796816; DOI=10.1038/27454
+[ 5] Hyvonen M., Saraste M.
+     "Structure of the PH domain and Btk motif from Bruton's tyrosine
+     kinase: molecular explanations for X-linked agammaglobulinaemia."
+     EMBO J. 16:3396-3404(1997).
+     PubMed=9218782; DOI=10.1093/emboj/16.12.3396
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

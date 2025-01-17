@@ -1,0 +1,32 @@
+VDCCGAMMA
+Voltage-dependent calcium channels are a diverse family of proteins that 
+encompass a variety of biological functions, including presynaptic
+neurotransmitter release and protein signalling within the cell [1,2]. The
+high voltage-activated (L-, N-, P-, Q- and R-type) channels comprise the 
+alpha-1 subunit, which creates the pore for the import of extracellular 
+calcium ions [2]. The activity of this pore is modulated by 4 tightly-
+coupled subunits: an intracellular beta subunit; a transmembrane (TM) gamma
+subunit; and a disulphide-linked complex of alpha-2 and delta subunits, 
+which are proteolytically cleaved from the same gene product [3,4].
+
+The voltage-dependent calcium channel gamma (VDCCG) subunit family consists 
+of at least 8 members, which share a number of common structural features 
+[5]. Each member is predicted to possess 4 TM domains, with intracellular
+N- and C-termini. The first extracellular loop contains a highly conserved
+N-glycosylation site and a pair of conserved cysteine residues. The 
+C-terminal 7 residues of VDCCG-2, -3, -4 and -8 are also conserved and 
+contain a consensus site for phosphorylation by cAMP and cGMP-dependent
+protein kinases, and a target site for binding by PDZ domain proteins [5].
+
+VDCCGAMMA is a 3-element fingerprint that provides a signature for the
+voltage-dependent calcium channel gamma subunit proteins. The fingerprint
+was derived from an initial alignment of 3 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - motif 
+1 spans the C-terminus of TM domain 1 and the N-terminus of the first
+extracellular loop; motif 2 encodes the C-terminus of TM domain 3 and the N-
+terminus of the second extracellular loop; and motif 3 lies partly within 
+the second extracellular loop and partly within TM domain 4. Three
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 28 sequences was identified. A single partial match 
+was also found, Q9D563, an uncharacterised translated mouse cDNA that 
+matches motifs 1 and 3.

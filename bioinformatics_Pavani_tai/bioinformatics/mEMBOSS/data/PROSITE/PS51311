@@ -1,0 +1,96 @@
+***************************************
+* Secretoglobin (SCGB) family profile *
+***************************************
+
+Proteins of   the  secretoglobin  (SCGB)  family  have  the  following  common
+characteristics: secretion,  small  size, alpha-helical, and dimeric structure
+[1]. The  secretoglobin  monomere structure is composed of four alpha-helices,
+H1 to  H4,  that  do  not  form  a  canonical  four  helix-bundle motif, but a
+'boomerang'-shaped structure  in  which  helices  H1,  H3,  and  H4  form  the
+interface of  a  dimeric  structure  displaying a large oblong internal cavity
+(see <PDB:1UTG>).  The  large  cavity,  at  the interface of the two monomers,
+joined together  in  an  antiparallel manner, is able to accommodate small- to
+medium-sized hydrophobic   ligands   but   its   access   is   sealed  by  two
+intermolecular disulfide   bridges  involving  conserved  cysteines  [2-5].  A
+schematic representation  of  the  location  of the two disulfide bonds in the
+antiparallel dimer is shown below:
+
+ NH2-xxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCx-COOH
+       |                                                              |
+ COOH-xCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCxx-NH2
+
+Proteins known to be belong to the secretoglobin family are listed below:
+
+ - Uteroglobin  (UTG),  a  steroid-inducible, cytokine-like protein with anti-
+   inflammatory and   immunomodulatory   properties.   It  seems  specific  to
+   lagomorphes (rabbit, hare, and pica) [3].
+ - Clara cell phospholipid-binding protein (CCPBP) (also known as CC10). CCPBP
+   is a protein expressed by  non-ciliated cells  of  pulmonary airway surface
+   epithelium. Its exact function  is  not  known.  Like uteroglobin, it is an
+   inhibitor of   phospholipase   A2.   It   binds   to   phosphatidylcholine,
+   phosphatidylinositol and to polychlorinated biphenyls (PCB) [4].
+ - Domestic  cat  major  allergen chain 1 (fel d I-A) and chain 2 (fel d I-B),
+   which form  a  heterodimeric  structure.  Fel  DI  contains  an  additional
+   disulfide bridge [5].
+ - Human mammaglobin, a mammary-specific protein [6].
+ - Rat prostatic steroid-binding protein C3 [7].
+
+The profile we developed covers the four alpha-helices of the SCGB monomere.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This profile replaces two patterns whose specificity was inadequate.
+-Note: The SCGB family was formerly known as the uteroglobin/Clara cell 10-kDa
+ (UTG/CC10) family.
+
+-Last update: April 2007 / Patterns removed, profile added and text revised.
+
+[ 1] Klug J., Beier H.M., Bernard A., Chilton B.S., Fleming T.P.,
+     Lehrer R.I., Miele L., Pattabiraman N., Singh G.
+     "Uteroglobin/Clara cell 10-kDa family of proteins: nomenclature
+     committee report."
+     Ann. N. Y. Acad. Sci. 923:348-354(2000).
+     PubMed=11193777
+[ 2] Callebaut I., Poupon A., Bally R., Demaret J.P., Housset D.,
+     Delettre J., Hossenlopp P., Mornon J.P.
+     "The uteroglobin fold."
+     Ann. N. Y. Acad. Sci. 923:90-112(2000).
+     PubMed=11193783
+[ 3] Bally R., Delettre J.
+     "Structure and refinement of the oxidized P21 form of uteroglobin at
+     1.64 A resolution."
+     J. Mol. Biol. 206:153-170(1989).
+     PubMed=2704039
+[ 4] Umland T.C., Swaminathan S., Singh G., Warty V., Furey W.,
+     Pletcher J., Sax M.
+     "Structure of a human Clara cell phospholipid-binding protein-ligand
+     complex at 1.9 A resolution."
+     Nat. Struct. Biol. 1:538-545(1994).
+     PubMed=7664082
+[ 5] Kaiser L., Groenlund H., Sandalova T., Ljunggren H.-G.,
+     van Hage-Hamsten M., Achour A., Schneider G.
+     "The crystal structure of the major cat allergen Fel d 1, a member of
+     the secretoglobin family."
+     J. Biol. Chem. 278:37730-37735(2003).
+     PubMed=12851385; DOI=10.1074/jbc.M304740200
+[ 6] Watson M.A., Fleming T.P.
+     "Mammaglobin, a mammary-specific member of the uteroglobin gene
+     family, is overexpressed in human breast cancer."
+     Cancer Res. 56:860-865(1996).
+     PubMed=8631025
+[ 7] Parker M.G., White R., Hurst H., Needham M., Tilly R.
+     "Prostatic steroid-binding protein. Isolation and characterization of
+     C3 genes."
+     J. Biol. Chem. 258:12-15(1983).
+     PubMed=6294095
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

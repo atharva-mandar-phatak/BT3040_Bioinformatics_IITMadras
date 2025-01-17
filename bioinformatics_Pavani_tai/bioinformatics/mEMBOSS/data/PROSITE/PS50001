@@ -1,0 +1,86 @@
+***************************************
+* Src homology 2 (SH2) domain profile *
+***************************************
+
+The Src  homology  2  (SH2) domain is a protein domain of about 100 amino-acid
+residues first   identified   as  a  conserved  sequence  region  between  the
+oncoproteins Src and Fps [1]. Similar sequences were later found in many other
+intracellular signal-transducing   proteins   [2].  SH2  domains  function  as
+regulatory modules  of  intracellular  signalling cascades by interacting with
+high affinity  to  phosphotyrosine-containing  target  peptides in a sequence-
+specific and strictly phosphorylation-dependent manner [3,4,5,6].
+
+The SH2  domain  has  a conserved 3D structure consisting of two alpha helices
+and six  to  seven  beta-strands.  The  core  of  the  domain  is  formed by a
+continuous beta-meander composed of two connected beta-sheets [7].
+
+So far, SH2 domains have been identified in the following proteins:
+
+ - Many  vertebrate,  invertebrate  and  retroviral cytoplasmic (non-receptor)
+   protein tyrosine kinases. In particular in the Src, Abl, Bkt, Csk and ZAP70
+   families of kinases.
+ - Mammalian phosphatidylinositol-specific phospholipase C gamma-1 and -2. Two
+   copies of  the  SH2  domain  are  found  in  those  proteins in between the
+   catalytic 'X-' and 'Y-boxes' (see <PDOC50007>).
+ - Mammalian phosphatidyl inositol 3-kinase regulatory p85 subunit.
+ - Some vertebrate and invertebrate protein-tyrosine phosphatases.
+ - Mammalian Ras GTPase-activating protein (GAP).
+ - Adaptor  proteins  mediating binding of guanine nucleotide exchange factors
+   to growth  factor  receptors: vertebrate GRB2, Caenorhabditis elegans sem-5
+   and Drosophila DRK.
+ - Mammalian  Vav  oncoprotein,  a  guanine-nucleotide  exchange factor of the
+   CDC24 family.
+ - Miscellanous   proteins   interacting   with  vertebrate  receptor  protein
+   tyrosine kinases: oncoprotein Crk, mammalian cytoplasmic proteins Nck, Shc.
+ - STAT proteins (signal transducers and activators of transcription).
+ - Chicken tensin.
+ - Yeast transcriptional control protein SPT6.
+
+The profile developed to detect SH2 domains is based on a structural alignment
+consisting of  8  gap-free  blocks  and  7  linker  regions  totaling 92 match
+positions.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: protein tyrosine  kinases JAK1  and
+ JAK2.
+
+-Expert(s) to contact by email:
+           Zvelebil M.; marketa@ludwig.ucl.ac.uk
+
+-Last update: November 1995 / First entry.
+
+[ 1] Sadowski I., Stone J.C., Pawson T.
+     "A noncatalytic domain conserved among cytoplasmic protein-tyrosine
+     kinases modifies the kinase function and transforming activity of
+     Fujinami sarcoma virus P130gag-fps."
+     Mol. Cell. Biol. 6:4396-4408(1986).
+     PubMed=3025655
+[ 2] Russel R.B., Breed J., Barton G.J.
+     FEBS Lett. 304:15-20(1992).
+[ 3] Marangere L.E.M., Pawson T.
+     J. Cell Sci. Suppl. 18:97-104(1994).
+[ 4] Pawson T., Schlessingert J.
+     "SH2 and SH3 domains."
+     Curr. Biol. 3:434-442(1993).
+     PubMed=15335710
+[ 5] Mayer B.J., Baltimore D.
+     "Signalling through SH2 and SH3 domains."
+     Trends Cell Biol. 3:8-13(1993).
+     PubMed=14731533
+[ 6] Pawson T.
+     "Protein modules and signalling networks."
+     Nature 373:573-580(1995).
+     PubMed=7531822; DOI=10.1038/373573a0
+[ 7] Kuriyan J., Cowburn D.
+     Curr. Opin. Struct. Biol. 3:828-837(1993).
+[E1] http://www.cellsignal.com/reference/domain/sh2.asp
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

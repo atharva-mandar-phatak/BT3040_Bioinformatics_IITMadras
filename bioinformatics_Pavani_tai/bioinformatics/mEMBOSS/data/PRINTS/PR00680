@@ -1,0 +1,27 @@
+PTREFOIL
+The P-type trefoil or P-domain is a 45-residue cysteine-rich region, 
+6 cysteines of which link together through 3 disulphide bonds with
+connectivity 1-5, 2-4, 3-6, thus:
+
+             +-------------------------+
+             |         +--------------+|
+             |         |              ||
+           xxCxxxxxxxxxCxxxxxxxxxCxxxxCCxxxxxxxxxxCxxxxxxxxx
+                                 |                |
+                                 |                |
+                                 +----------------+
+
+The domain has been found in a variety of extracellular eukaryotic
+proteins [1-3].
+
+PTREFOIL is a 3-element fingerprint that provides a signature for P-type
+trefoil domains. The fingerprint was derived from an initial alignment of
+10 sequences: the motifs were drawn from short conserved regions in the
+central portion of the alignment and span the full domain length - motifs 
+1 and 2 include the region encoded by PROSITE pattern P_TREFOIL (PS00025),
+which encodes the central 4 cysteine residues. Two iterations on OWL29.1
+were required to reach convergence, at which point a true set comprising
+20 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 8
+partial matches.

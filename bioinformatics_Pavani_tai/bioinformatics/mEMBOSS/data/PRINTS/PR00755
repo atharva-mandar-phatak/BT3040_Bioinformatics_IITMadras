@@ -1,0 +1,22 @@
+AFLATOXINBRP
+Aflatoxins belong to a family of decaketides that are produced as secondary
+metabolites by Aspergillus flavus and A.parasiticus [1]. The aflatoxin
+biosynthetic pathway involves several enzymatic steps that appear to be
+regulated by the afl2 gene in A.flavus and the apa2 gene in A.parasiticus
+[1]. These genes are homologues and have been designated aflR [1].
+
+AflR encodes a protein that contains a cysteine-rich motif. Several fungal
+transcriptional activator proteins contain this motif, which binds DNA in
+a zinc-dependent fashion. The motif forms a binuclear zinc cluster in which
+six conserved cysteines bind two zinc cations [2,3].
+
+AFLATOXINBRP is a 6-element fingerprint that provides a signature for
+aflatoxin biosynthesis regulatory proteins. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motifs
+1 and 2 span the region encoded by PROSITE pattern ZN2_CY6_FUNGAL (PS00463),
+which contains the binuclear cluster motif. A single iteration on OWL29.4
+was required to reach convergence, no further sequences being identified
+beyond the starting set.  
+
+An update on SPTR37_9f identified a true set of 3 sequences.

@@ -1,0 +1,54 @@
+MTMOLLUSC
+Metallothioneins (MT) are small proteins that bind heavy metals, such as
+zinc, copper, cadmium, nickel, etc.. They have a high content of cysteine
+residues that bind the metal ions through clusters of thiolate bonds [1-3]
+(http://www.unizh.ch/~mtpage/MT.html). An empirical classification into
+three classes has been proposed by Fowler et al. [4] and Kojima [5]. Members
+of class I are defined to include polypeptides related in the positions of
+their cysteines to equine MT-1B, and include mammalian MTs as well as MTs 
+from crustaceans and molluscs. Class II groups MTs from a variety of 
+species, including sea urchins, fungi, insects and cyanobacteria. Class
+III MTs are atypical polypeptides composed of gamma-glutamylcysteinyl
+units [4]. 
+
+This original classification system has been found to be limited, in the
+sense that it does not allow clear differentiation of patterns of structural
+similarities, either between or within classes. Consequently, all class I
+and class II MTs (the proteinaceous sequences) have now been grouped into
+families of phylogenetically-related and thus alignable sequences [6]
+(http://www.unizh.ch/~mtpage/classif.html). This system subdivides the MT
+superfamily into families, subfamilies, subgroups, and isolated isoforms
+and alleles. 
+
+The metallothionein superfamily comprises all polypeptides that resemble
+equine renal metallothionein in several respects [4]: e.g., low molecular
+weight; high metal content; amino acid composition with high Cys and low
+aromatic residue content; unique sequence with characteristic distribution
+of cysteines, and spectroscopic manifestations indicative of metal thiolate
+clusters. A MT family subsumes MTs that share particular sequence-specific 
+features and are thought to be evolutionarily related. The inclusion of a
+MT within a family presupposes that its amino acid sequence is alignable 
+with that of all members. Fifteen MT families have been characterised, each
+family being identified by its number and its taxonomic range: e.g., Family
+1: vertebrate MTs.
+
+Mollusc (family 2) MTs are 64-74 residue proteins, containing 21 conserved
+cysteines. The Cys residues are arranged in C-X-C groups, and a C-X-X-C
+grouping is also observed. In particular, the consensus pattern 
+C-x-C-x(3)-C-T-G-x(3)-C-x-C-x(3)-C-x-C-K has been shown to be diagnostic of
+family 2 metallothioneins. These proteins show more similarily to the
+vertebrate metallothioneins than to those from other invertebrate phyla [7],
+and on this basis they are classified as class I metallothioneins. The
+protein is induced by cadmium and binds divalent cations of several
+transition elements, including cadmium, zinc and copper.
+
+MTMOLLUSC is a 4-element fingerprint that provides a signature for mollusc
+(family 2) metallothioneins. The fingerprint was derived from an initial
+alignment of 12 sequences: motif 1 contains 4 metal-binding cysteines;
+motifs 2 and 3 each include 3 Cys residues; and motif 4 contains 4. Motifs
+2 and 3 fully span the characteristic consensus pattern. Two iterations on 
+OWL30.1 were required to reach convergence, at which point a true set
+comprising 14 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 5
+partial matches.

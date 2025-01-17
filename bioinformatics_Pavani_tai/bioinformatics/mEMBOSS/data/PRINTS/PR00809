@@ -1,0 +1,50 @@
+RAGALLERGEN
+Seeds of cereals contain a variety of serine proteases and alpha-amylase
+inhibitors. These inhibitors can be grouped into families based on structural
+similarities. Trypsin/alpha-amylase inhibitors are specific to trypsin or to
+alpha-amylase, and a few are bifunctional. The proteins contain ~120 amino
+acids, including 10 cysteine residues, all of which are involved in
+disulphide bond formation [1], as represented schematically below:
+
+                      +----------------------------+
+          +----------+|   +-+                      |
+          |          ||   | |                      |
+ xxCxxxxxxCxxxCxxxxxxCCxxxCxCxxxxxxxxxxxxxCxxxxxxxxCxxxxxxxCxxxx
+   |          |                           |                |
+   |          +---------------------------+                |
+   +-------------------------------------------------------+
+
+
+The 3D structure of the bifunctional alpha-amylase/trypsin inhibitor (RBI)
+from seeds of ragi (Eleusine coracana) has been determined in solution using
+multidimensional 1H and 15N NMR spectroscopy [2]. The inhibitor forms a 
+globular 4-helix motif with a simple "up-and-down" topology, and includes
+a short anti-parallel beta-sheet [2]. 
+
+This family also includes various rice seed allergenic proteins (RA) [3,4].
+Genomic and two novel cDNA clones for RA have been isolated and their
+nucleotide sequences determined [3]. One genomic clone was found to contain
+two RA genes, RAG1 and RAG2, which are arranged divergently [3]. Blotting
+analyses showed that RA are encoded by a multigene family consisting of at
+least four members. A conserved sequence similar to a motif identified in
+rice glutelin promoters was observed in the 5' region of the two genes [3].
+RA genes are specifically expressed in ripening seeds and their transcripts 
+accumulate maximally 15-20 days after flowering [3]. 
+
+RAGALLERGEN is an 8-element fingerprint that provides a signature for
+the RAG family of rice seed allergenic proteins. The fingerprint was
+derived from an initial alignment of 7 sequences: the motifs were drawn
+from short conserved sections spanning the full alignment length, focusing
+on those regions that characterise the RAG proteins but distinguish them
+from the rest of the cereal trypsin/alpha-amylase inhibitor family - motif 1
+lies in the leader sequence; and motifs 2 and 3 span the region encoded by 
+PROSITE pattern CEREAL_TRYP_AMYL_INH (PS00426), which itself includes the
+first 3 conserved Cys residues. A single iteration on OWL30.0 was required
+to reach convergence, no further sequences being identified beyond the 
+starting set. Several partial matches were found, all of which are either 
+fragments or sequences lacking the characteristic signal peptide; IAA1_HORVU 
+is a closely related sequence from the HOR allergen family that matches 
+motifs 2, 3 and 8.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 1
+partial match.

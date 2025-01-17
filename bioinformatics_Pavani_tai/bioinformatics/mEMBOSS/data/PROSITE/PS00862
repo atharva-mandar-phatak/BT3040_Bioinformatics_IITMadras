@@ -1,0 +1,73 @@
+****************************************************
+* Oxygen oxidoreductases covalent FAD-binding site *
+****************************************************
+
+Some oxygen-dependent   oxidoreductases  are  flavoproteins  that  contains  a
+covalently bound  FAD  group  which is attached to a histidine via an 8-alpha-
+(N3-histidyl)-riboflavin linkage. These proteins are:
+
+ - (R)-6-hydroxynicotine oxidase (EC 1.5.3.6) (6-HDNO) [1], a bacterial enzyme
+   that catalyzes  the  oxygen-dependent degradation of 6-hydroxynicotine into
+   6-hydroxypyrid-N-methylosmine.
+ - Plant   reticuline   oxidase  (EC 1.21.3.3) [2]   (berberine-bridge-forming
+   enzyme), an enzyme that catalyzes the oxidation of (S)-reticuline into (S)-
+   scoulerine in the pathway leading to benzophenanthridine alkaloids.
+ - L-gulonolactone oxidase (EC 1.1.3.8)  (l-gulono-gamma-lactone oxidase) [3],
+   a mammalian enzyme which catalyzes the oxidation of L-gulono-1,4-lactone to
+   L-xylo-hexulonolactone which spontaneously isomerizes to L-ascorbate.
+ - D-arabinono-1,4-lactone oxidase (EC 1.1.3.24) (L-galactonolactone oxidase),
+   a yeast enzyme involved in the biosynthesis of D-erythroascorbic acid [4].
+ - Mitomycin  radical  oxidase  [5], a bacterial protein involved in mitomycin
+   resistance and that probably oxidizes the reduced form of mitomycins.
+ - Cytokinin oxidase (EC 1.4.3.18), a plant enzyme.
+ - Rhodococcus fascians fasciation locus protein fas5.
+
+The region around the histidine that binds the FAD group is conserved in these
+enzymes and can be used as a signature pattern.
+
+-Consensus pattern: P-x(7)-{L}-x(2)-[DE]-[LIVM]-x(3)-[LIVM]-x(9,12)-[LIVM]-
+                    x(3)-[GSA]-[GSTCHRQ]-G-H
+                    [H is the FAD binding site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Brandsch R., Hinkkanen A.E., Mauch L., Nagursky H., Decker K.
+     "6-Hydroxy-D-nicotine oxidase of Arthrobacter oxidans. Gene structure
+     of the flavoenzyme and its relationship to 6-hydroxy-L-nicotine
+     oxidase."
+     Eur. J. Biochem. 167:315-320(1987).
+     PubMed=3622516
+[ 2] Dittrich H., Kutchan T.M.
+     "Molecular cloning, expression, and induction of berberine bridge
+     enzyme, an enzyme essential to the formation of benzophenanthridine
+     alkaloids in the response of plants to pathogenic attack."
+     Proc. Natl. Acad. Sci. U.S.A. 88:9969-9973(1991).
+     PubMed=1946465
+[ 3] Koshizaka T., Nishikimi M., Ozawa T., Yagi K.
+     "Isolation and sequence analysis of a complementary DNA encoding rat
+     liver L-gulono-gamma-lactone oxidase, a key enzyme for L-ascorbic acid
+     biosynthesis."
+     J. Biol. Chem. 263:1619-1621(1988).
+     PubMed=3338984
+[ 4] Huh W.-K., Lee B.-H., Kim S.-T., Kim Y.-R., Rhie G.-E., Baek Y.-W.,
+     Hwang C.-S., Lee J.-S., Kang S.-O.
+     "D-erythroascorbic acid is an important antioxidant molecule in
+     Saccharomyces cerevisiae."
+     Mol. Microbiol. 30:895-903(1998).
+     PubMed=10094636
+[ 5] August P.R., Flickinger M.C., Sherman D.H.
+     "Cloning and analysis of a locus (mcr) involved in mitomycin C
+     resistance in Streptomyces lavendulae."
+     J. Bacteriol. 176:4448-4454(1994).
+     PubMed=7517396
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

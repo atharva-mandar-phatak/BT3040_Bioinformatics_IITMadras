@@ -1,0 +1,73 @@
+*********************************************************
+* Sequence regions enriched in a particular amino acids *
+*********************************************************
+
+Many  proteins  contain compositionally biased sequence regions which are also
+called low-complexity regions [1]. Typically, such regions are highly enriched
+in one  or  a  few amino acids. We have included profiles specific for each of
+the 20 amino acids so as to search for regions that are significantly enriched
+in a  particular  amino acid. The behaviour of these profiles is controlled by
+two  parameters,  the  match and mismatch scores. These parameters were chosen
+such  that  the "target frequencies" of the corresponding amino acids computed
+according  to  the  Karlin-Altschul theory [2] approximate 35% for the residue
+composition of Swiss-Prot (see below).
+
+   Amino     Average    Match    Mismatch   Target
+   acid      frequency  score    score      frequency
+
+   Ala (A)   7.55          4       -1       38.5
+   Cys (C)   1.69          7       -1       36.8
+   Asp (D)   5.30          5       -1       35.1
+   Glu (E)   6.32          5       -1       32.4
+   Phe (F)   4.07          6       -1       31.9
+   Gly (G)   6.84          5       -1       31.2
+   His (H)   2.24          7       -1       33.6
+   Ile (I)   5.72          5       -1       34.0
+   Lys (K)   5.93          5       -1       33.4
+   Leu (L)   9.33          4       -1       34.7
+   Met (M)   2.35          7       -1       33.1
+   Asn (N)   4.52          5       -1       37.4
+   Pro (P)   4.92          5       -1       36.2
+   Gln (Q)   4.02          6       -1       32.1
+   Arg (R)   5.15          5       -1       35.5
+   Ser (S)   7.22          4       -1       39.2
+   Thr (T)   5.74          5       -1       33.9
+   Val (V)   6.52          5       -1       32.0
+   Trp (W)   1.25          8       -1       34.9
+   Tyr (Y)   3.19          6       -1       35.1
+
+The  normalisation  parameters  for converting raw scores into per-residue log
+expectation  values,  which  are  given  within  the profile, were empirically
+derived  by  fitting  an  extreme value distribution to the score distribution
+obtained  from  a  random  database that conserves the length distribution and
+global  amino  acid  composition  of Swiss-Prot but not the composition of the
+individual sequences.
+
+-Note: These profiles do not characterize biologically defined objects. As the
+ underlying  definition  is purely statistical, it is not possible to speak of
+ true or  false  matches to these profiles, neither is it possible to assign a
+ false negative status to a sequence.
+
+-Expert(s) to contact by email:
+           Bucher P.; Philipp.Bucher@isb-sib.ch
+
+-Last update: April 2002 / First entry.
+
+[ 1] Wootton J.C., Federhen S.
+     "Analysis of compositionally biased regions in sequence databases."
+     Methods Enzymol. 266:554-571(1996).
+     PubMed=8743706
+[ 2] Karlin S., Bucher P., Brendel V., Altschul S.F.
+     "Statistical methods and insights for protein and DNA sequences."
+     Annu. Rev. Biophys. Biophys. Chem. 20:175-203(1991).
+     PubMed=1867715
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

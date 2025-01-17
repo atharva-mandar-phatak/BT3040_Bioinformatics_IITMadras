@@ -1,0 +1,52 @@
+**********************************************************
+* Bacterial type II secretion system protein F signature *
+**********************************************************
+
+A number  of  bacterial  proteins,  some  of  which  are involved in a general
+secretion pathway  (GSP) for the export  of  proteins (also called the type II
+pathway) [1], have  been  found to be evolutionary related. These proteins are
+listed below.
+
+ - The    'F'   protein from the GSP operon of: Aeromonas (gene exeF); Erwinia
+   (gene outF);  Escherichia  coli  (gene  hofF);  Klebsiella pneumoniae (gene
+   pulF); Pseudomonas aeruginosa (gene xcpS);  Vibrio cholerae (gene epsF) and
+   Xanthomonas campestris (gene xpsF).
+ - Bacillus subtilis comG operon protein 2 which is required for the uptake of
+   DNA by competent Bacillus subtilis cells.
+ - Aeromonas hydrophila tapC, involved in type IV pilus assembly.
+ - Pseudomonas protein pilC, which is essential for the formation of the pili.
+ - Vibrio cholerae protein tcpE, which  is involved in the biosynthesis of the
+   tcp pilus.
+ - Escherichia coli protein hofC (hopC).
+
+These are  proteins  of  about 400 amino acids that are highly hydrophobic and
+which are thought to be integral protein of the inner membrane. As a signature
+pattern we selected a conserved region in the central part of these proteins.
+
+-Consensus pattern: [KRQ]-[LIVMAW]-x(2)-[SAIV]-[LIVM]-x-[TY]-P-x(2)-[LIVM]-
+                    x(3)-[STAGV]-x(6)-[LMY]-x(3)-[LIVMF](2)-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Salmond G.P.C., Reeves P.J.
+     "Membrane traffic wardens and protein secretion in gram-negative
+     bacteria."
+     Trends Biochem. Sci. 18:7-12(1993).
+     PubMed=8438237
+[ 2] Hobbs M., Mattick J.S.
+     "Common components in the assembly of type 4 fimbriae, DNA transfer
+     systems, filamentous phage and protein-secretion apparatus: a general
+     system for the formation of surface-associated protein complexes."
+     Mol. Microbiol. 10:233-243(1993).
+     PubMed=7934814
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

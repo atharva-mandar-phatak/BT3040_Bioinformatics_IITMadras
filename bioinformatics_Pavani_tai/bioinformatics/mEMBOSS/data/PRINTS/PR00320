@@ -1,0 +1,59 @@
+GPROTEINBRPT
+Guanine nucleotide binding proteins (G proteins) are a family of membrane-
+associated proteins that couple extracellularly-activated integral-membrane
+receptors to intracellular effectors, such as ion channels and enzymes that
+vary the concentration of second messenger molecules [1-3]. G proteins are
+composed of 3 subunits (alpha, beta and gamma) which, in the resting state,
+associate as a trimer at the inner face of the plasma membrane. The alpha
+subunit has a molecule of guanosine diphosphate (GDP) bound to it:
+stimulation of the G protein by an activated receptor leads to its exchange
+for GTP (guanosine triphosphate). This results in the separation of the
+alpha from the beta and gamma subunits, which always remain tightly
+associated as a dimer. Both the alpha and beta-gamma subunits are then able
+to interact with effectors, either individually or in a cooperative manner.
+The intrinsic GTPase activity of the alpha subunit hydrolyses the bound GTP
+to GDP. This returns the alpha subunit to its inactive conformation and
+allows it to reassociate with the beta-gamma subunit, thus restoring the
+system to its resting state.
+
+Although originally thought to be a passive attenuator and membrane anchor
+for the activated alpha subunit, the beta-gamma subunit is now recognised
+as playing an active role in a number of different G protein-coupled
+signalling events [4]. It has been shown to modulate the activity of some
+isoforms of adenylyl cyclase, phospholipase C, and some ion channels. It is
+involved in receptor phosphorylation via specific kinases, and has been
+implicated in the p21ras-dependent activation of the MAP kinase cascade. 
+It is also highly likely that it contributes to the recognition of specific
+receptors by the G protein. No atomic structure is yet available for beta-
+gamma subunits, but it has been proposed that they interact both with each
+other and with other proteins via a coiled coil motif in their N-terminal
+regions [5].
+
+Four different G protein beta subunits have been identified in mammals,
+and some have been identified in certain invertebrate species. Beta
+subunits contain around 340 amino acids, with apparent molecular weights
+of 35-36 kDa. Their sequences are highly conserved between species, 
+implying that they perform a fundamentally important role in the 
+organisation of G protein linked systems [6]. The sequences display tandem
+repeats of a 40-residue domain containing a characteristic Trp-Asp motif
+(the so-called WD-40 repeat [7]). The WD-40 repeat exists in numerous other
+proteins, including G-beta-like peptides, yeast STE4, MSI1, CDC4, CDC20,
+MAK11, PRP4, PWP1 and TUP1, slime-mould AAC3 and coronin, and Drosophila
+Groucho protein. The number of repeats  within these proteins is variable,
+ranging from around 5 to 8. In G-beta and G-beta-like proteins, the repeats
+span the entire sequence, while in other proteins they are confined to
+central or C-terminal sections.
+
+GPROTEINBRPT is a 3-element fingerprint that provides a signature for WD-40 
+repeats in a variety of proteins. The fingerprint was derived from an 
+initial alignment of 30 sequences: the motifs span 3 WD-40 repeats, and
+include the region encoded by PROSITE pattern G_BETA_REPEATS (PS00678).
+Six iterations on OWL21.1 were required to reach convergence, at which
+point a true set comprising 40 sequences was identified. Twelve partial
+matches were also found, including many proteins known to share similarity
+with G-beta subunits - the relatively high number of partial matches is a
+reflection of the multiple-repeat nature of the sequences, and the low
+level of conservation in some of those repeats.
+
+An update on SPTR37_9f identified a true set of 413 sequences, and 83
+partial matches.

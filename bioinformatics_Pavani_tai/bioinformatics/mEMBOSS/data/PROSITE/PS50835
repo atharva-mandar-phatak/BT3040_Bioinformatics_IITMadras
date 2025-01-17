@@ -1,0 +1,126 @@
+**************************
+* Ig-like domain profile *
+**************************
+
+The  Ig-like  domain  is  probably  the  most  widespread  domain, at least in
+animals.  This  domain  can be considered as an heterogeneous group built on a
+common  fold.  Proteins  containing  an  Ig-like domain differ in their tissue
+distribution, amino acid composition, and biological role [1,2,3].
+
+All  Ig-like  domains  appear to be involved in binding functions. The ligands
+range  from  small  molecules  (antigens,  chromophores),  to hormones (growth
+hormone, interferons, prolactin), up to giant molecules (muscle proteins) [3].
+Binding  sites  are  localized  either  in the loop regions (the most variable
+parts  of  the immunoglobulins) or in strands. For instance, distinct areas of
+the  sheets  are  used  to  bind  the  ligands  of the MHC, CD8, CD4, and PapD
+molecules  or of the growth hormone receptor (GHR). These binding sites may be
+formed  by  a  single  chain  (CD2,  CD4),  by  homodimers  (GHR,  CD8), or by
+heterodimers [3].
+
+Classical  Ig-like  domains  are composed of 7 to 10 beta strands, distributed
+between two sheets with typical topology and connectivity described as a Greek
+key beta-barrel (see <PDB:3HLA>). The general shape of Ig-like domains is well
+conserved,  but  they  can  differ significantly in their size, owing to high
+variability  of  the  loops.  While  a  classical  domain  contains  about 100
+residues,  smaller  ones  (74-90  residues)  have  been  observed  in  several
+Ig-related  molecules  (CD2,  CD4).  Large decorations within loops, sometimes
+including  extra  domains,  are  found in hemocyanin (238 amino acids) [4] and
+transcription   factor   NFkappaB   (201   amino  acids)  [5].  The  schematic
+representation of the structure of a typical Ig-like domain is shown below:
+
+               ----------======D======>--
+              |                          |
+              |    ------<=====E=======--
+              |   |
+              |   |    --======B======>------
+              |   |   |                      |
+              |   |    --<=====A=======      |
+              |   |                          |
+              |   |                          |
+              |   |      <=====G=======--    |
+              |   |                      |   |
+              |    ------======F======>--    |
+              |                              |
+               ----------<=====C=======------
+
+     '=>': indicates the direction of the beta-strands 'A' to 'G'.
+
+Ig-like  domains  can  be  classified according to the numbers of beta strands
+[1,3]:
+
+C1-type:  classical Ig-like domain, described in the schematic representation.
+Sheet  I: ABED, sheet II: CFG. Domain C1 is found exclusively in the molecules
+involved in the immune system:
+
+ - Immunoglobulins (Ig).
+ - Major Histocompatibility Complex (MHC) molecules.
+ - T-cell receptors (TcR).
+
+C2-type:  strand  D is deleted and replaced by strand C' directly connected to
+strand E. Sheet I: ABE, sheet II: C'CFG:
+
+ - Second domain of the vascular cell adhesion molecule-1.
+ - Neural cell adhesion molecule 2.
+ - Vascular endothelial growth factor receptor 3.
+ - Fibroblast growth factor receptor 4.
+ - Interleukin-6 receptor alpha chain.
+
+V-type:extra  strands  C'  and C" between strand C and D. Sheet I: ABED, sheet
+II: C"C'CFG:
+
+ - Variable domain of the immunoglobulin  heavy chain.
+ - T-cell surface glycoprotein CD8 alpha chain.
+ - Viral Hemagglutinin.
+ - Programed cell death protein 1.
+ - Neurocan core protein.
+ - Myelin protein zero.
+
+H-type:extra strand  C'  between  strand C and D. Sheet I: ABE, sheet II: CFG.
+Strand C'/D links sheet I and II:
+
+ - N-terminal domain of cellulase c.
+ - C-terminal domain of galactose oxidase.
+
+We  developed  a profile  based on structural alignments that covers the whole
+domain  and  recognizes Ig-like domains closely related to immunoglobulin. Our
+profiles  does not recognise H-type or DNA binding Ig-like domains, because of
+their high divergence.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: May 2003 / First entry.
+
+[ 1] Bork P., Holm L., Sander C.
+     "The immunoglobulin fold. Structural classification, sequence patterns
+     and common core."
+     J. Mol. Biol. 242:309-320(1994).
+     PubMed=7932691
+[ 2] Halaby D.M., Poupon A., Mornon J.-P.
+     "The immunoglobulin fold family: sequence analysis and 3D structure
+     comparisons."
+     Protein Eng. 12:563-571(1999).
+     PubMed=10436082
+[ 3] Halaby D.M., Mornon J.-P.
+     "The immunoglobulin superfamily: an insight on its tissular, species,
+     and functional diversity."
+     J. Mol. Evol. 46:389-400(1998).
+     PubMed=9541533
+[ 4] Volbeda A., Hol W.G.
+     "Crystal structure of hexameric haemocyanin from Panulirus interruptus
+     refined at 3.2 A resolution."
+     J. Mol. Biol. 209:249-279(1989).
+     PubMed=2585484
+[ 5] Rudolph M.J., Gergen J.P.
+     "DNA-binding by Ig-fold proteins."
+     Nat. Struct. Biol. 8:384-386(2001).
+     PubMed=11323707; DOI=10.1038/87531
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

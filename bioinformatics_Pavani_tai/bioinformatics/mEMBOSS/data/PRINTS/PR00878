@@ -1,0 +1,43 @@
+CHOLNESTRASE
+Group B carboxylesterases constitute a family of enzymes that includes
+proteins that catalyse the conversion of an acylcholine to a choline and
+a weak acid:
+	    Acylcholine + H(2)O -> Choline + COO(-)
+
+and those that catalyse the hydrolysis of acetylcholine to choline and 
+acetate (acetylcholinesterases):
+
+           Acetylcholine + H(2)O -> Choline + Acetate 
+     
+Acetylcholinesterase also acts on a variety of acetic esters and catalyses
+transacetylations. It is found in, or attached to, cellular or basement
+membranes of presynaptic cholinergic neurons and postsynaptic cholinoceptive
+cells. To prevent continuous firing of nerve impulses, acetylcholinesterase 
+has a high K(cat) (~14000/s), to ensure that acetylcholine is broken down
+quickly.
+
+Cholinesterases themselves constitute a family of enzymes that fall into 
+two main types, depending on their substrate preference: enzymes that 
+preferentially hydrolyse acetyl esters are termed acetylcholinesterase
+(AChE) (EC 3.1.1.7); and those that prefer other types of ester, such as
+butyrylcholine are termed butyrylcholinesterase (BChE) (EC 3.1.1.8). 
+
+The 3D structure of acetylcholinesterase from the electric ray has been
+determined. The fold belongs to the alpha/beta class, with a 3-layer
+alpha-beta-alpha sandwich architecture.
+
+CHOLNESTRASE is a 6-element fingerprint that provides a signature for the
+cholinesterase family. The fingerprint was derived from an initial alignment
+of 18 sequences: the motifs were drawn from short conserved sections 
+spanning virtually the full alignment length - motif 1 includes helix 2;
+motif 2 spans the N-terminus of strand 7, helices 3 and 4, and the
+N-terminus of strand 8; motif 3 includes helix 15; motif 4 spans the
+C-terminus of helix 18 and the N-terminus of helix 19, which includes a
+Cys residue involved in disulphide bond formation; motif 5 encodes helix 20;
+and motif 6 spans helices 21 and 22. Two iterations on OWL30.1 were required
+to reach convergence, at which point a true set comprising 23 sequences was
+identified. Several partial matches were also found, two of which are foetal
+proteins, and the rest are fragments.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 1
+partial match.

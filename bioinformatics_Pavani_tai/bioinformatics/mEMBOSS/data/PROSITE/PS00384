@@ -1,0 +1,67 @@
+***************************************************************************
+* Prokaryotic zinc-dependent phospholipase C domain signature and profile *
+***************************************************************************
+
+Bacillus cereus expresses  a phosphatidylcholine  hydrolyzing  phospholipase C
+(EC 3.1.4.3) (PLC) which  is a  monomeric  protein  of 245 amino-acid residues
+that binds three zinc ions [1].  This  PLC is  highly similar to the following
+proteins:
+
+ - Alpha-toxin from Clostridium  perfringens and bifermentans  which  are also
+   zinc-dependent phospholipases C [2].
+ - Lecithinase C from Listeria monocytogenes [3].
+
+In Bacillus  cereus,  there  are nine residues known to be involved in binding
+the zinc ions: 5 His, 2 Asp, 1 Glu and 1 Trp. These residues are all conserved
+in the Clostridium alpha-toxin [4].
+
+As  a  signature  pattern  for this family of enzymes, we selected a conserved
+region  of  11  residues  that contains three of the zinc ligands: a histidine
+involved  in binding the first zinc ion, an aspartic acid which binds both the
+first and the third zinc ion, and a histidine which binds the second zinc ion.
+We  also developed a profile that covers the entire prokaryotic zinc-dependent
+phospholipase C domain.
+
+-Consensus pattern: H-Y-x-[GT]-D-[LIVMAF]-[DNSH]-x-P-x-H-[PA]-x-N
+                    [The 2 H's and the D bind zinc]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2007 / Text revised; profile added.
+
+[ 1] Hough E., Hansen L.K., Birknes B., Jynge K., Hansen S., Hordvik A.,
+     Little C., Dodson E., Derewenda Z.
+     "High-resolution (1.5 A) crystal structure of phospholipase C from
+     Bacillus cereus."
+     Nature 338:357-360(1989).
+     PubMed=2493587; DOI=10.1038/338357a0
+[ 2] Titball R.W., Rubidge T.
+     "The role of histidine residues in the alpha toxin of Clostridium
+     perfringens."
+     FEMS Microbiol. Lett. 56:261-265(1990).
+     PubMed=2111259
+[ 3] Vazquez-Boland J.A., Dominguez L., Rodriguez-Ferri E.F.,
+     Fernandez-Garayzabal J.F., Suarez G.
+     "Preliminary evidence that different domains are involved in cytolytic
+     activity and receptor (cholesterol) binding in listeriolysin O, the
+     Listeria monocytogenes thiol-activated toxin."
+     FEMS Microbiol. Lett. 53:95-99(1989).
+     PubMed=2515103
+[ 4] Naylor C.E., Eaton J.T., Howells A., Justin N., Moss D.S.,
+     Titball R.W., Basak A.K.
+     "Structure of the key toxin in gas gangrene."
+     Nat. Struct. Biol. 5:738-746(1998).
+     PubMed=9699639; DOI=10.1038/1447
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

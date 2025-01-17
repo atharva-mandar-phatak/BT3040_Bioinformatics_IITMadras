@@ -1,0 +1,93 @@
+**********************************************
+* FemABX peptidyl transferase family profile *
+**********************************************
+
+FemABX  peptidyl transferases (EC 2.3.2.-) catalyze the incorporation of amino
+acid(s)   into   the   interchain   peptide   bridge  of  peptidoglycan  using
+aminoacyl-tRNA  as  the amino acid donor, a reaction involved in the synthesis
+of   the  bacterial  cell  wall.  The  femABX  transferases  are  named  after
+Staphylococcus  aureus  femA  and femB (from factors essential for methicillin
+resistance)  and  Weissella  viridescens femX. The femABX enzymes catalyze the
+addition of amino acids to a peptidoglycan precursor, which in most cases is a
+lipid-linked  sugar  pentapeptide  or,  alternatively,  a  soluble  nucleotide
+precursor  for  W.  viridescens  femX.  The  resulting  branched peptide chain
+consists of one to five amino acids and is cross-linked to a pentapeptide of a
+neighboring  disaccharide  chain  by  a  transpeptidase  in  the final step of
+peptidoglycan  synthesis.  The  interchain  peptide and the femABX enzymes for
+their  synthesis  are  found  in  several  Gram-positive  bacteria and in some
+Gram-negative,  mainly  pathogenic  species. The femABX transferases differ by
+type,  position  and  number  of  amino  acids  that  are incoporated into the
+interchain.  Some  femABX  proteins  function as immunity factors that protect
+producers  of interpeptide-specific endopeptidases against their own products.
+In  addition,  the interpeptide plays an important role in cell separation and
+virulence [1-4].
+
+The  3D  structures  of femABX peptidyl transferases consist of two subdomains
+which  both  show  a fold related to that of Gcn5-related N-acetyltransferases
+(GNAT)  (see <PDOC51186>). The C-terminus of the protein structurally partakes
+in  the  N-terminal  subdomain,  and  the  C-terminal subdomain shows stronger
+similarity to the GNAT fold. In femX the 2 subdomains are separated by a cleft
+containing  the UDP-MurNac pentapeptide binding site; the N-terminal subdomain
+contributes  to this binding site and the C-terminal subdomain may be involved
+in tRNA binding (see <PDB:1NE9>) [4]. An antiparallel coiled-coil region of 60
+residues  occurs  within  the  C-terminal  subdomain of femA (see <PDB:1LRZ>),
+which  is  replaced  by  a tight loop in femX. The coiled-coil region might be
+implicated  in tRNA binding and is present in most of the femABX proteins from
+staphylococci, enterococci and streptococci.
+
+Some proteins known to belong to the femABX peptidyl transferase family:
+
+ - Staphylococcal   femA   and  femB,  factors  essential  for  expression  of
+   methicillin  resistance.  FemA  adds  glycines  2 and 3 of the pentaglycine
+   interpeptide, while femB adds glycines 4 and 5.
+ - Staphylococcal fmhB (for fem homolog) or femX, which incorporates the first
+   glycine of the pentaglycine interchain peptide in peptidoglycan.
+ - Weissella  viridescens  femX,  which catalyzes the transfer of an L-alanine
+   from  Ala-tRNA  to  the  epsilon-amino  group  of  L-lysine  of  UDP-MurNAc
+   pentapeptide [3,4].
+ - Streptococcus pneumoniae fibA/murM and fibB/murN, which synthesize branched
+   structured cell wall muropeptides that are strain-specific.
+ - Staphylococcus  capitis  epr  (endopeptidase resistance), which renders the
+   cells  resistant  to  glycylglycine  endopeptidase by increasing the serine
+   content and decreasing the glycine content of the interpeptide chains.
+
+The profile we developed covers the entire femABX peptidyl transferase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2006 / First entry.
+
+[ 1] Hegde S.S., Shrader T.E.
+     "FemABX family members are novel nonribosomal peptidyltransferases and
+     important pathogen-specific drug targets."
+     J. Biol. Chem. 276:6998-7003(2001).
+     PubMed=11083873; DOI=10.1074/jbc.M008591200
+[ 2] Rohrer S., Berger-Bachi B.
+     "FemABX peptidyl transferases: a link between branched-chain cell wall
+     peptide formation and beta-lactam resistance in gram-positive cocci."
+     Antimicrob. Agents Chemother. 47:837-846(2003).
+     PubMed=12604510
+[ 3] Hegde S.S., Blanchard J.S.
+     "Kinetic and mechanistic characterization of recombinant Lactobacillus
+     viridescens FemX (UDP-N-acetylmuramoyl pentapeptide-lysine
+     N6-alanyltransferase)."
+     J. Biol. Chem. 278:22861-22867(2003).
+     PubMed=12679335; DOI=10.1074/jbc.M301565200
+[ 4] Biarrotte-Sorin S., Maillard A.P., Delettre J., Sougakoff W.,
+     Arthur M., Mayer C.
+     "Crystal structures of Weissella viridescens FemX and its complex with
+     UDP-MurNAc-pentapeptide: insights into FemABX family substrates
+     recognition."
+     Structure 12:257-267(2004).
+     PubMed=14962386; DOI=10.1016/j.str.2004.01.006
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

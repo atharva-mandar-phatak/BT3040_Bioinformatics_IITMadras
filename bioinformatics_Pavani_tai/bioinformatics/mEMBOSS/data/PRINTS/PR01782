@@ -1,0 +1,35 @@
+MCEVIRFACTOR
+Mycobacterial species are usually slender curved rods, with a unique cell 
+wall of complex waxes and glycolipids. They are resistant to acids, alkalis
+and dehydration, and are very slow to grow in vitro [1]. The human 
+pathogenic Mycobacteria (M.tuberculosis and M.leprae) are becoming resistant 
+to conventional treatments and, together with HIV-related diseases, are fast 
+posing a global health threat [1]. An essential requirement, particularly of
+M.tuberculosis, is to gain entrance to, and to resist, the hostile intra-
+cellular environment of epithelial cells [1]. 
+
+Recently, an operon was identified in the M.tuberculosis genome that encodes
+cell entry (Mce) proteins, virulence factors required for invasion of host 
+non-phagocytic cells [2]. Homologues of these genes have been found in other
+Mycobacterial strains, and an Mce-deletion mutant in M.bovis greatly 
+impaired the ability of the microbe to infect epithelial cells in vitro [2].
+Although the exact function of Mce is unknown, it appears to serve as a 
+surface effector molecule capable of eliciting plasma membrane perturbations
+in non-phagocytic mammalian cells [2,3]. 
+
+A more recent study into the effects of Mce proteins on T-cell activation
+revealed that an epitope from these moieties, predicted by computational 
+analyses and measured in the proliferative responses of CD4(+) cells, showed
+good promise as a possible subunit vaccine [3]. With this protein also 
+having similar homologues in other mycobacterial species [4], a novel 
+vaccine or drug for the treatment of resistant mycobacterial infections 
+looks likely [4].
+
+MCEVIRFACTOR is an 8-element fingerprint that provides a signature for the
+Mycobacterial cell entry (MCE) protein family. The fingerprint was derived 
+from an initial alignment of 5 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length. A single 
+iteration on SPTR40_20f was required to reach convergence, no further 
+sequences being identified beyond the starting set. Two partial matches were
+found, O53542 and O53969, both mycobacterial hypothetical proteins that 
+match motif 6 and either motif 1 or 3.  

@@ -1,0 +1,39 @@
+PENTAXIN
+Pentaxins (or pentraxins) constitute a family of proteins that are involved
+in acute immunological responses [1]. Three of the principal members of the 
+pentaxin family are serum proteins: namely, C-reactive protein (CRP) [2],
+serum amyloid P component protein (SAP) [3], and female protein (FP) [4]. 
+CRP is expressed in response to tissue damage or inflammation. The protein
+resembles antibody and performs several functions associated with host 
+defence: it promotes agglutination, bacterial capsular swelling and phago-
+cytosis, and activates the classical complement pathway through its calcium-
+dependent binding to phosphocholine. SAP is a vertebrate protein found in 
+all types of amyloid deposits, in glomerular basement menbrane and in 
+elastic fibres in blood vessels. SAP binds to various lipoprotein ligands
+in a calcium-dependent manner, and it has been suggested that, in mammals,
+this may have important implications in atherosclerosis and amyloidosis.
+FP is a SAP homologue found in the Syrian hamster that is unique because
+its synthesis is controlled by sex hormones. 
+
+Pentaxin proteins expressed in the nervous system are neural pentaxin I
+(NPI) and II (NPII) [5]. NPI and NPII are homologous and can exist within
+one species. It is suggested that both proteins mediate the uptake of
+synaptic macromolecules and play a role in synaptic plasticity. Apexin, a
+sperm acrosomal protein, is a homologue of NPII found in guinea pigs [6].
+
+PTX3 (or TSG-14) protein is a cytokine-induced protein that is homologous
+to CRPs and SAPs, but its function is not yet known.
+
+PENTAXIN is a 7-element fingerprint that provides a signature for the
+pentaxin family. The fingerprint was derived from an initial alignment of
+10 sequences: the motifs were drawn from the central and C-terminal regions
+of the alignment - motif 3 includes the region encoded by PROSITE pattern
+PENTAXIN (PS00289), a hexapeptide that includes a cysteine residue known to 
+be involved in disulphide bond formation in CRPs and SRPs. Three iterations
+on OWL30.2 were required to reach convergence, at which point a true set 
+comprising 35 sequences was identified. A single partial match was also
+found, LIMU_LIMPO, a limulin fragment from Limulus polyphemus that matches
+motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 32 sequences, and 4
+partial matches.

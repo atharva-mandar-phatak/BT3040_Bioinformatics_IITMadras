@@ -1,0 +1,38 @@
+NANEUSMPORT
+Neurotransmitter transport systems are integral to the release, re-uptake
+and recycling of neurotransmitters at synapses. High affinity tranport
+proteins found in the plasma membrane of presynaptic nerve terminals and
+glial cells are responsible for the removal from the extracellular space
+of released-transmitters, thereby terminating their actions [1]. Plasma
+membrane neurotransmitter transporters fall into two structurally and
+mechanistically distinct families. The majority of the transporters
+constitute an extensive family of homologous proteins that derive energy
+from the co-transport of Na+ and Cl-, in order to transport neurotransmitter
+molecules into the cell against their concentration gradient. The family 
+has a common structure of 12 presumed transmembrane helices and includes 
+carriers for gamma-aminobutyric acid (GABA), noradrenaline/adrenaline, 
+dopamine, serotonin, proline, glycine, choline, betaine and taurine. They
+are structurally distinct from the second more-restricted family of plasma
+membrane transporters, which are responsible for excitatory amino acid
+tranport. The latter couple glutamate and aspartate uptake to the co-
+transport of Na+ and the counter-transport of K+, with no apparent
+dependence on Cl- [2]. In addition, both of these transporter families
+are distinct from the vesicular neurotransmitter transporters [3,4].
+
+Sequence analysis of the Na+/Cl- neurotransmitter superfamily reveals that
+it can be divided into four subfamilies, these being transporters for
+monoamines, the amino acids proline and glycine, GABA, and a group of
+orphan transporters [5].
+
+NANEUSMPORT is an 8-element fingerprint that provides a signature for the
+Na+/Cl- -coupled neurotransmitter transporter superfamily. The fingerprint
+was derived from an initial alignment of 9 sequences: the motifs were drawn
+from TM regions 1-3, 5, 7-8 and 10-11 respectively (the other TM regions
+were not sufficiently well-conserved to be included in the fingerprint).
+Two iterations on OWL22.1 were required to reach convergence, at which
+point a true set comprising 33 sequences was identified. A single partial
+match was also found, S28306, a hypothetical protein fragment from
+C.elegans that is similar to 6 of the 8 motifs.
+
+An update on SPTR37_9f identified a true set of 61 sequences, and 19
+partial matches.

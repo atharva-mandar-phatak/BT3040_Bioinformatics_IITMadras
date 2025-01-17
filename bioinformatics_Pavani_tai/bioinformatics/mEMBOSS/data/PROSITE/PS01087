@@ -1,0 +1,62 @@
+****************************************
+* Radical activating enzymes signature *
+****************************************
+
+In Escherichia  coli  and  related  bacteria, the pflA protein (or act) [1] is
+involved (EC 1.97.1.4) in the activation of pyruvate formate-lyase (gene pflB)
+under anaerobic  conditions by generation of an organic free radical, using S-
+adenosylmethionine and reduced flavodoxin as cosubstrates to produce 5'-deoxy-
+adenosine. A protein highly similar to pflA and  termed  pflC  [2] is probably
+involved in the activation of a second pyruvate format  lyase (gene pflD). The
+pflA/C proteins belong to a family that also includes phage T4 and Escherichia
+coli nrdG which are involved [3] in the generation of the free radical for the
+anaerobic ribonucleoside-triphosphate  reductase  (gene  nrdD   or sunY). This
+family also includes:
+
+ - Escherichia coli hypothetical protein yjjW.
+ - Haemophilus influenzae hypothetical protein HI0520.
+ - Methanococcus jannaschii hypothetical protein MJ0021.
+
+All these  proteins  possess,  in their N-terminal section, a highly conserved
+region which  contains  three  clustered  cysteines  which are involved in the
+binding of  a 4Fe4S iron-sulfur cluster [4]. We use this region as a signature
+pattern.
+
+-Consensus pattern: [GVPS]-x-[GKS]-x-[KRS]-x(3)-[FL]-x(2)-G-x(0,1)-C-x(3)-C-
+                    x(2)-C-x-[NLF]
+                    [The 3 C's are 4Fe-4S ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Roedel W., Plaga W., Frank R., Knappe J.
+     Eur. J. Biochem. 177:153-158(1988).
+[ 2] Reizer J., Reizer A., Saier M.H. Jr.
+     "Novel phosphotransferase system genes revealed by bacterial genome
+     analysis--a gene cluster encoding a unique Enzyme I and the proteins
+     of a fructose-like permease system."
+     Microbiology 141:961-971(1995).
+     PubMed=7773398
+[ 3] Sun X., Eliasson R., Pontis E., Andersson J., Buist G., Sjoeberg B.-M.,
+     Reichard P.
+     "Generation of the glycyl radical of the anaerobic Escherichia coli
+     ribonucleotide reductase requires a specific activating enzyme."
+     J. Biol. Chem. 270:2443-2446(1995).
+     PubMed=7852304
+[ 4] Tamarit J., Gerez C., Meier C., Mulliez E., Trautwein A.,
+     Fontecave M.
+     "The activating component of the anaerobic ribonucleotide reductase
+     from Escherichia coli. An iron-sulfur center with only three
+     cysteines."
+     J. Biol. Chem. 275:15669-15675(2000).
+     PubMed=10821845
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

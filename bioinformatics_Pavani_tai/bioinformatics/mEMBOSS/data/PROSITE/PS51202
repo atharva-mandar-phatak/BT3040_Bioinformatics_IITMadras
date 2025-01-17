@@ -1,0 +1,95 @@
+*************************************************
+* RCK N-terminal and C-terminal domain profiles *
+*************************************************
+
+Regulators  of  K+  conductance  (RCK) domain is found in many ligand-gated K+
+channels,  most  often  attached  to  the  intracellular carboxy terminus. The
+domain  is  prevalent  among  prokaryotic  K+  channels,  and  also  found  in
+eukaryotic,   high-conductance   Ca2+-activated  K+  channels  (BK  channels).
+[1,4,5].  Largely  involved  in redox-linked regulation of potassium channels,
+the  N-terminal  part  of  the  RCK  domain  is  predicted  to  be  an  active
+dehydrogenase at least in some cases [1]. Some have a conserved sequence motif
+(G-x-G-x-x-G-x(n)-[DE])  for  NAD+  binding [2], but others do not, reflecting
+the  diversity  of  ligands  for  RCK  domains.  The  C-terminal  part is less
+conserved,  being  absent  in  some channels, such as the kefC antiporter from
+Escherichia coli. It is predicted to bind unidentified ligands and to regulate
+sulfate, sodium and other transporters.
+
+The  X-ray  structure  of several RCK domains has been solved (see for example
+<PDB:1LNQ>)  [3,4,5].  It  reveals an alpha-beta fold similar to dehydrogenase
+enzymes. The domain forms a homodimer, producing a cleft between two lobes. It
+has  a  composite  structure,  with  an  N-terminal  (RCK-N), and a C-terminal
+(RCK-C)  subdomains.  The RCK-N subdomain forms a Rossmann fold with two alpha
+helices  (alpha  A  and  alpha  B) on one side of a six stranded parallel beta
+sheet  (beta  A to beta F) and three alpha helices (alpha C, alpha D and alpha
+E) on the other side. The RCK-C subdomain is an all-beta-strand fold. It forms
+an  extention  of the dimer interface and further stabilizes the RCK homodimer
+[3,4,5].  Ca2+ is a ligand that opens the channel in a concentration-dependent
+manner.  Two  Ca2+  ions  are  located  at the base of a cleft between two RCK
+domains,  coordinated by the carboxylate groups of two glutamate residues, and
+by an aspartate residue [3,4,5].
+
+RCK  domains  occur  in  at  least five different contexts:
+
+ - As a single domain on the C terminus of some K+ channels (for example, many
+   prokaryotic K+ channels).
+ - As  two tandem RCK domains on the C terminus of some transporters that form
+   gating  rings (for example, eukaryotic BK channels). The gating ring has an
+   arrangement  of  eight  identical  RCK  domains,  one from each of the four
+   pore-forming subunits and four from the intracellular solution.
+ - As  two  domains,  one  at  the N terminus and another at the C terminus of
+   transporter  (for  example,  the  prokaryotic  trk  system potassium uptake
+   protein A).
+ - As  a  soluble protein (not part of a K+ channel)  consisting of two tandem
+   RCK domains.
+ - As a soluble protein consisting of a single RCK domain.
+
+We  developed two profiles for this domain, one that spans the RCK-N subdomain
+and the other which covers the RCK-C subdomain.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The RCK domain is also named as trkA or KTN.
+
+-Last update: June 2006 / Profile revised.
+
+[ 1] Anantharaman V., Koonin E.V., Aravind L.
+     "Regulatory potential, phyletic distribution and evolution of ancient,
+     intracellular small-molecule-binding domains."
+     J. Mol. Biol. 307:1271-1292(2001).
+     PubMed=11292341; DOI=10.1006/jmbi.2001.4508
+[ 2] Schlosser A., Hamann A., Bossemeyer D., Schneider E., Bakker E.P.
+     "NAD+ binding to the Escherichia coli K(+)-uptake protein TrkA and
+     sequence similarity between TrkA and domains of a family of
+     dehydrogenases suggest a role for NAD+ in bacterial transport."
+     Mol. Microbiol. 9:533-543(1993).
+     PubMed=8412700
+[ 3] Dong J., Shi N., Berke I., Chen L., Jiang Y.
+     "Structures of the MthK RCK domain and the effect of Ca2+ on gating
+     ring stability."
+     J. Biol. Chem. 280:41716-41724(2005).
+     PubMed=16227203; DOI=10.1074/jbc.M508144200
+[ 4] Jiang Y., Pico A., Cadene M., Chait B.T., MacKinnon R.
+     "Structure of the RCK domain from the E. coli K+ channel and
+     demonstration of its presence in the human BK channel."
+     Neuron 29:593-601(2001).
+     PubMed=11301020
+[ 5] Jiang Y., Lee A., Chen J., Cadene M., Chait B.T., MacKinnon R.
+     "Crystal structure and mechanism of a calcium-gated potassium
+     channel."
+     Nature 417:515-522(2002).
+     PubMed=12037559; DOI=10.1038/417515a
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

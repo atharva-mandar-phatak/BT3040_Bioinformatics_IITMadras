@@ -1,0 +1,54 @@
+************************************
+* NDT80 DNA-binding domain profile *
+************************************
+
+The NDT80  DNA-binding  domain is found in the following proteins, which might
+all be involved in sensing nutritional status [1]:
+
+ - Yeast  meiosis-specific  transcription  factor NDT80, the key transcription
+   factor that  ultimately  allows  the  continuation  of  meiosis  after  the
+   successful completion of recombination.
+ - Emericella  nidulans  phoG  (xprG), a transcriptional activator involved in
+   the response to nutrient limitation.
+ - Emericella nidulans putative uncharacterized protein AN6015.2.
+ - Neurospora  crassa  transcription  factor vib-1, involved in the control of
+   heterokaryon incompatibility.
+ - Neurospora crassa related to acid phosphatase NCU04729.
+ - Neurospora crassa related to meiosis-specific protein NDT80 NCU09915.
+
+The proteolytically  resistant core NDT80 DNA-binding domain reveals a central
+beta-sandwich characteristic  of  an  s-type  Ig  fold  (see <PDOC50835>) (see
+<PDB:1MNN>). The  beta-sandwich  contains  a  three-stranded sheet composed of
+strands a,  b  and e, packed against a four-stranded sheet composed of strands
+c', c,  f  and g. Each sheet of the beta-sandwich contains an additional beta-
+strand, as  well  as a variety of peripheral secondary structure elements. The
+NDT80 DNA-binding domain contains an N-terminal extension, which consists of a
+beta-hairpin and a loop [2].
+
+The profile we developed covers the entire NDT80 DNA-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2011 / First entry.
+
+[ 1] Katz M.E., Gray K.-A., Cheetham B.F.
+     "The Aspergillus nidulans xprG (phoG) gene encodes a putative
+     transcriptional activator involved in the response to nutrient
+     limitation."
+     Fungal Genet. Biol. 43:190-199(2006).
+     PubMed=16464624; DOI=10.1016/j.fgb.2005.12.001
+[ 2] Lamoureux J.S., Stuart D., Tsang R., Wu C., Glover J.N.M.
+     "Structure of the sporulation-specific transcription factor Ndt80
+     bound to DNA."
+     EMBO J. 21:5721-5732(2002).
+     PubMed=12411490
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

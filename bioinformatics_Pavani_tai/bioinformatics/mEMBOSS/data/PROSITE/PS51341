@@ -1,0 +1,73 @@
+******************************************************
+* Zinc finger large T-antigen (T-ag) D1-type profile *
+******************************************************
+
+The group  of  polyomaviruses is formed by the homonymous murine virus (Py) as
+well as  other  representative  members such as the simian virus 40 (SV40) and
+the human BK and JC viruses [1]. Their large T antigen (T-ag) protein binds to
+and activates  DNA  replication  from  the  origine  of DNA replication (ori).
+Insofar as  is  known,  the T-ag binds to the origin first as a monomer to its
+pentanucleotide recognition element. The monomers are then thought to assemble
+into hexamers and double hexamers, which constitute the form that is active in
+initiation of  DNA  replication.  When  bound to the ori, T-ag double hexamers
+encircle DNA  [2]. T-ag is a multidomain protein that contains an N-terminal J
+domain (see   <PDOC00553>),   a   central  origin-binding  domain  (OBD)  (see
+<PDOC51287>), and a C-terminal superfamily 3 helicase domain (see <PDOC51206>)
+[3]. The  helicase domain actually contains three distinct structural domains:
+D1 (domain  1),  D2  and  D3  (see  <PDB:1N25>).  D1 is the Zn domain at the N
+terminus and   contains   five  alpha-helices  (alpha1-alpha5).  The  Zn  atom
+coordinated by  a  Zn motif is important in holding alpha3 (alpha-helix 3) and
+alpha4 together,  which  in  turn provide an anchor for alpha1 and alpha2. The
+beginning of  alpha5  packs  with  alpha1 and alpha2 of D1, but its C terminus
+extends to  alpha6  of  D3.  The  D2  domain contains three conserved helicase
+motifs related to SF3 helicases, namely the modified version of Walker A and B
+motifs and  motif  C.  D2  folds  into  a  core  beta-sheet consisting of five
+parallel beta-strands  sandwiched  by  alpha-helices. The third domain, D3, is
+all alpha-helical  Its  seven alpha-helices originate from both the N-terminal
+region (alpha6-alpha8)  and the C terminus (alpha13-alpha16), with D2 inserted
+between [4].
+
+The Zn  motif  of  T-Ag was proposed to form a canonical zinc-finger structure
+for DNA binding. However, the Zn domain (D1) has a globular fold stabilized by
+the coordination  of  a  Zn  atom through the Zn motif, and no classical zinc-
+finger structure  specialized  for DNA binding is present. The Zn motif is not
+directly involved  in binding DNA but is instead important for stabilizing the
+Zn-domain structure [4].
+
+The profile we developed covers the entire T-ag D1-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2007 / First entry.
+
+[ 1] Iacoangeli A., Melucci-Vigo G., Risuleo G., Santi E.
+     "Role of mouse polyomavirus late region in the control of viral DNA
+     replication: a review."
+     Biochimie 77:780-786(1995).
+     PubMed=8824775
+[ 2] Bochkareva E., Martynowski D., Seitova A., Bochkarev A.
+     "Structure of the origin-binding domain of simian virus 40 large T
+     antigen bound to DNA."
+     EMBO J. 25:5961-5969(2006).
+     PubMed=17139255; DOI=10.1038/sj.emboj.7601452
+[ 3] Meinke G., Bullock P.A., Bohm A.
+     "Crystal structure of the simian virus 40 large T-antigen
+     origin-binding domain."
+     J. Virol. 80:4304-4312(2006).
+     PubMed=16611889; DOI=10.1128/JVI.80.9.4304-4312.2006
+[ 4] Li D., Zhao R., Lilyestrom W., Gai D., Zhang R., DeCaprio J.A.,
+     Fanning E., Jochimiak A., Szakonyi G., Chen X.S.
+     "Structure of the replicative helicase of the oncoprotein SV40 large
+     tumour antigen."
+     Nature 423:512-518(2003).
+     PubMed=12774115; DOI=10.1038/nature01691
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

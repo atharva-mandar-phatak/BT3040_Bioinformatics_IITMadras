@@ -1,0 +1,51 @@
+ENDOTHELINBR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Endothelins play an important role in the regulation of the cardiovascular
+system [6]. They are the most potent vasoconstrictors identified, they
+stimulate cardiac contraction, regulate release of vasoactive substances,
+and stimulate mitogenesis in blood vessels in primary culture. They also
+stimulate contraction in almost all other smooth muscles (e.g., uterus,
+bronchus, vas deferens, stomach) and stimulate secretion in several tissues
+(e.g., kidney, liver and adrenals) [6]. Endothelin receptors have also been
+found in the brain (e.g., in the cerebral cortex, cerebellum and glial
+cells). Endothelins have been implicated in a variety of pathophysiological
+conditions associated with stress [6].
+
+The ETB receptors are thought to play a significant role in endothelium-
+dependent vasodilation and a lesser role in vasoconstriction [6]. In the CNS,
+the receptor has been found in the cerebral cortex, hippocampus, cerebellum
+and astrocytes. ETB receptors activate the phosphoinositide pathway through
+a pertussis-toxin-insensitive G protein, though some actions are pertussis-
+sensitive [6].
+
+ENDOTHELINBR is an 8-element fingerprint that provides a signature for
+the endothelin-B receptors. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved sections   
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the endothelin-B receptors but
+distinguish them from the rest of the rhodopsin-like superfamily - motifs
+1-4 span the N-terminus; motifs 5 and 6 span the first and second external
+loops res.; and motifs 7 and 8 lie at the C-terminus. A single iteration on 
+OWL28.1 was required to reach convergence, no further sequences being
+identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 1
+partial match.

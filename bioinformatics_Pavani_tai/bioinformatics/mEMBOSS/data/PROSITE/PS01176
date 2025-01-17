@@ -1,0 +1,56 @@
+*********************************
+* Initiation factor 2 signature *
+*********************************
+
+Initiation factor  2  (IF-2)  (gene  infB)  [1]  is  one  of the three factors
+required  for  the  initiation  of  protein  biosynthesis  in  bacteria.  IF-2
+promotes the  GTP-dependent binding of the initiator tRNA to the small subunit
+of the  ribosome.  IF-2  is  a  protein  of about 70 to 95 Kd which contains a
+central GTP-binding  domain flanked by a highly variable N-terminal domain and
+a more conserved C-terminal domain.
+
+Bacterial IF-2   is   structurally  and  functionally  related  to  eukaryotic
+mitochondrial  IF-2 (IF-2(mt)) [2] as  well as to algal and plants chloroplast
+IF-2 (IF-2(chl)). Both IF-2(mt) and IF-2(chl) are encoded by nuclear genes and
+are produced  as  precursor  proteins with a transit peptide. An exception are
+red algae where IF-2(chl) is encoded by the plastid genome [3].
+
+As a  signature  pattern,  we  selected  a  conserved region in the C-terminal
+section of these proteins.
+
+-Consensus pattern: [GLES]-x-[LIVM]-x(2)-L-[KR]-[KRHNS]-x-K-x(5)-[LIVM]-x(2)-
+                    [GNKADS]-x-[DEN]-[CRG]-[GI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Proteins belonging to this family  also contain a copy  of the ATP/GTP-
+ binding motif 'A' (P-loop) (see <PDOC00017>).
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Laalami S., Sacerdot C., Vachon G., Mortensen K.,
+     Sperling-Petersen H.U., Cenatiempo Y., Grunberg-Manago M.
+     "Structural and functional domains of E coli initiation factor IF2."
+     Biochimie 73:1557-1566(1991).
+     PubMed=1805969
+[ 2] Ma L., Spremulli L.L.
+     "Cloning and sequence analysis of the human mitochondrial
+     translational initiation factor 2 cDNA."
+     J. Biol. Chem. 270:1859-1865(1995).
+     PubMed=7829522
+[ 3] Kostrzewa M., Zetsche K.
+     "Organization of plastid-encoded ATPase genes and flanking regions
+     including homologues of infB and tsf in the thermophilic red alga
+     Galdieria sulphuraria."
+     Plant Mol. Biol. 23:67-76(1993).
+     PubMed=8219057
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

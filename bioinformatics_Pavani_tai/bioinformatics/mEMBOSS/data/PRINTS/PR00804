@@ -1,0 +1,44 @@
+VITAMNDBNDNG
+A number of serum transport proteins are known to be evolutionarily related,
+including albumin, alpha-fetoprotein, vitamin D-binding protein and afamin
+[1-3]. Albumin is the main protein of plasma; it binds water, cations (such
+as Ca++, Na+ and  K+), fatty acids, hormones, bilirubin and drugs - its main
+function is to regulate the colloidal osmotic pressure of blood. Alphafeto-
+protein (alpha-fetoglobulin) is a foetal plasma protein that binds various
+cations, fatty acids and bilirubin. The biological role of afamin 
+(alpha-albumin) has not yet been characterised.
+
+Vitamin D-binding protein (DBP) is an abundant serum glycoprotein secreted
+by the liver; the protein transports vitamin D sterols, binds to actin, and 
+is found on the surface of B-lymphocytes and subpopulations of T-lymphocytes
+[4]. The full length DBP contains 476-amino acids, including a 16-amino
+acid signal sequence. Sequence analysis reveals 23% similarity to albumin
+and to alpha-fetoprotein [4]. DBP contains a characteristic placement of
+cysteine residues, identical to that in albumin, suggesting a similar
+folding structure. Albumin and alpha-fetoprotein contain three internally
+repeated domains [4]. DBP shows similarity to the first two domains and
+has a truncated third domain, supporting the view that DBP is a member of
+the albumin/alpha-fetoprotein multigene family [4]. 
+
+Within the sequence, regularly-spaced disulphide bridges generate a 3-domain
+folding structure, each domain containing ~170 amino acids, with 5 or 6
+internal disulphide bonds, as shown schematically below: 
+
+                   +---+          +----+                        +-----+
+                   |   |          |    |                        |     |
+xxCxxxxxxxxxxxxxxxxCCxxCxxxxCxxxxxCCxxxCxxxxxxxxxCxxxxxxxxxxxxxxCCxxxxCxxxx
+  |                 |       |     |              |               |
+  +-----------------+       +-----+              +---------------+
+
+
+VITAMNDBNDNG is a 9-element fingerprint that provides a signature for
+vitamin D-binding proteins. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the DBPs but distinguish them from related serum albumins
+- motifs 1-5 lie in the first repeat; motifs 6 and 7 lie in the second 
+repeat; and motifs 8 and 9 reside in the third repeat. Two iterations on 
+OWL29.6 were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

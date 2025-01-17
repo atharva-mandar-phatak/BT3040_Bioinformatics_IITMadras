@@ -1,0 +1,38 @@
+7FE8SFRDOXIN
+Ferredoxins [1] are iron-sulphur proteins that mediate electron transfer 
+in a range of metabolic reactions. The proteins fall into several subgroups
+according to the nature of their iron-sulphur cluster(s). The 7Fe
+ferredoxins [2,3] contain both 4Fe-4S and 3Fe-4S centres, which are
+spatially related according to the following scheme:
+
+                   C  C     C E C
+         H2N-------x--x-----x-x-x-----------\
+                    \ \    / /  |           |            
+                     [3Fe-4S]---' [4Fe-4S]--x C
+                         |          / | \   |        
+                HOOC-----x---------x--x--x--/
+                         C         C  C  C
+  
+The 4Fe-4S domain is similar to those found in other bacterial-type
+ferredoxins.
+
+The 3D structure of the 7Fe ferredoxin from Azotobacter vinelandii has been
+determined to 1.9A resolution [3]. The fold belongs to the alpha + beta
+class, with 3 helices and 4 strands forming a barrel-like structure, and
+an extruded loop containing 3 of the 4 cysteinyl residues of the iron-
+sulphur cluster.
+
+7FE8SFRDOXIN is a 3-element fingerprint that provides a signature for 7Fe 
+ferredoxins. The fingerprint was derived from an initial alignment of 2 
+sequences: motif 1 contains 2 of 3 invariant Cys residues contributing to
+the 3Fe-4S cluster, which is located upstream from the 4Fe-4S domain;
+motif 2 contains the first invariant Cys of the 4Fe-4S cluster; and motif 3
+contains 3 invariant cysteines of the 4Fe-4S cluster and one Cys ligand of
+its downstream 3Fe-4S counterpart (see scheme above). Two iterations on
+OWL25.1 were required to reach convergence, at which point a true set
+comprising 20 sequences was identified. 7 partial matches were also found,
+all of them are proteins containing the 4Fe-4S cluster and matching motifs
+2 and 3. 
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 17
+partial matches.

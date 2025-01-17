@@ -1,0 +1,47 @@
+**************************************************************
+* Alpha-isopropylmalate and homocitrate synthases signatures *
+**************************************************************
+
+The following enzymes have  been  shown [1] to  be  functionally  as  well  as
+evolutionary related:
+
+ - Alpha-isopropylmalate synthase (EC 2.3.3.13) which catalyzes the first step
+   in the biosynthesis of leucine,  the  condensation of acetyl-CoA and alpha-
+   ketoisovalerate to form 2-isopropylmalate synthase.
+ - Homocitrate synthase (EC 2.3.3.14) (gene nifV)  which  is  involved  in the
+   biosynthesis of the iron-molybdenum cofactor  of nitrogenase and  catalyzes
+   the condensation of acetyl-CoA and alpha-ketoglutarate into homocitrate.
+
+ - Soybean late nodulin 56.
+ - Methanococcus jannaschii hypothetical proteins MJ0503, MJ1195 and MJ1392.
+
+We have selected  two   conserved  regions  as  signature patterns  for  these
+enzymes.  The first region  is located in  the  N-terminal section  while  the
+second region is located  in the  central section  and  contains two conserved
+histidine residues which could be implicated in the catalytic mechanism.
+
+-Consensus pattern: L-R-[DE]-G-x-Q-x(4)-{L}-x(5)-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFW]-x(2)-H-x-H-[DN]-D-x-G-x-[GAS]-x-[GASLI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Wang S.-Z., Dean D.R., Chen J.S., Johnson J.L.
+     "The N-terminal and C-terminal portions of NifV are encoded by two
+     different genes in Clostridium pasteurianum."
+     J. Bacteriol. 173:3041-3046(1991).
+     PubMed=2022611
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

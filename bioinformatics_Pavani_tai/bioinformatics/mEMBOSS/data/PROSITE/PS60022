@@ -1,0 +1,75 @@
+*********************************
+* Huwentoxin-2 family signature *
+*********************************
+
+The spider  venoms  often  contain  many  active peptides such as neurotoxins,
+lectins, inhibitors  to  enzyme,  etc.  These  peptides are very important for
+spider's hunting  and  defending. During the long history of spider evolution,
+the peptides  evolved  into  different structures and functions. The following
+peptides share high similarity and belong to the huwentoxin-2 family [1-4]:
+
+ - Ornithoctonus   huwena   (Chinese   bird   spider)   (Selenocosmia  huwena)
+   huwentoxin-II (HWTX-II)  and  huwentoxin-IIa  (HWTX-IIa),  which  can cause
+   reversatile paralysis in insects and are insecticidal toxins.
+ - Ornithoctonus   huwena   (Chinese   bird   spider)   (Selenocosmia  huwena)
+   huwentoxin-VII (HWTX-VII)  and  huwentoxin-VIII  (HWTX-VIII),  which  block
+   neuromuscular transmission.
+ - Ornithoctonus   huwena   (Chinese   bird   spider)   (Selenocosmia  huwena)
+   huwentoxin-VI (HWTX-VI).
+ - Brachypelma smithii (Mexican red knee tarantula) venom protein 1.
+ - Lasiodora  parahybana (Salmon pink birdeater) lasiotoxin 1 and 2, which are
+   toxic to mice, but not insects.
+ - Eurypelma californica (American tarantula) ESTX1 and ESTX2 neurotoxins.
+
+Peptides of  the  huwentoxin-2  family contain 6 cysteine residues involved in
+three disulfide  bonds.  The  three  disulfid  bridges  of  HWTX-II  have been
+assigned as  C1-C3, C2-C5 and C4-C6 [3]. The structure of HWTX-II contains two
+beta-turns and  a  double stranded antiparallel beta-sheet cross-linked by two
+disulfide bonds  (2-5 and 4-6) (see <PDB:1I25>). Due to its unique 1-3,2-5,4-6
+disulfide bond-pairing, HTWX-II does not form a cystine-knot like other spider
+toxins [4].
+
+We developed  a  pattern  for huwentoxin-2 family proteins, which contains the
+six conserved cysteines.
+
+-Conserved pattern: C-x(1,4)-[FLIV]-[SEP]-C-[DE]-[EIQ]-x(4,7)-C-x(0,7)-C-
+                    [KST]-x(4,18)-C-[YK]-x(1,3)-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: August 2005 / First entry.
+
+[ 1] Liang S.-P.
+     "An overview of peptide toxins from the venom of the Chinese bird
+     spider Selenocosmia huwena Wang [=Ornithoctonus huwena (Wang)]."
+     Toxicon 43:575-585(2004).
+     PubMed=15066414; DOI=10.1016/j.toxicon.2004.02.005
+[ 2] Diao J., Lin Y., Tang J., Liang S.
+     "cDNA sequence analysis of seven peptide toxins from the spider
+     Selenocosmia huwena."
+     Toxicon 42:715-723(2003).
+     PubMed=14757201
+[ 3] Shu Q., Huang R., Liang S.-P.
+     "Assignment of the disulfide bonds of huwentoxin-II by Edman
+     degradation sequencing and stepwise thiol modification."
+     Eur. J. Biochem. 268:2301-2307(2001).
+     PubMed=11298747
+[ 4] Shu Q., Lu S.-Y., Gu X.-C., Liang S.-P.
+     "The structure of spider toxin huwentoxin-II with unique disulfide
+     linkage: evidence for structural evolution."
+     Protein Sci. 11:245-252(2002).
+     PubMed=11790834
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

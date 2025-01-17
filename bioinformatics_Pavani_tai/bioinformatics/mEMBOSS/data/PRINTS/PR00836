@@ -1,0 +1,41 @@
+SOMATOTROPIN
+Somatotropin, a protein of 191 amino acids, is a hormone that plays an
+important role in growth control. It belongs to an evolutionarily related
+family that includes choriomammotropin (lactogen), its placental analogue;
+prolactin, which promotes lactation in the mammary gland, and placental
+prolactin-related proteins; proliferin and proliferin related protein; and
+somatolactin from various fish [1-4].
+
+The 3D structure of bovine somatotropin has been predicted using a 
+combination of heuristics and energy minimisation [5]. The model is a
+four-helix bundle, in which the helices are intimately packed to form an
+assembly with approximately square cross-section [5]. Adjacent helices are
+anti-parallel, with a tilt between them such that the assembly has the
+appearance of a left-handed twisted bundle [5]. There are two disulphide
+bonds within the structure, as shown schematically below: one "hooks" the
+middle of a long loop with helix 4, pulling the loop onto the surface of 
+the bundle; the other "hooks" the C-terminal segment with the same helix,
+forcing the C-terminus to bend towards the bundle [5]. Consequently, a 
+considerable part of the bundle surface is closely packed, or intimately
+embraced, by the loop segments [5]. 
+                                              
+       xxxxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxxCxxxCxxC
+                    |                            |   |  |
+                    +----------------------------+   +--+
+
+SOMATOTROPIN is a 4-element fingerprint that provides a signature for 
+somatotropin, prolactin and related hormones. The fingerprint was derived
+from an initial alignment of 12 sequences: the motifs were drawn from
+short conserved regions spanning the C-terminal half of the alignment -
+motif 1 spans helix 2, and includes the region encoded by PROSITE pattern
+SOMATOTROPIN_1 (PS00266), which contains one of the Cys residues involved
+in intramolecular disulphide bond formation; motif 2 spans helix 2, leading
+into helix 3; motifs 3 and 4 span helix 6, and include the region encoded by
+PROSITE pattern SOMATOTROPIN_2 (PS00338), which contains two other conserved 
+Cys residues. Three iterations on OWL30.0 were required to reach convergence,
+at which point a true set comprising 172 sequences was identified. Several
+partial matches were also found, all of which are related sequences and
+fragments that fail to match one or two motifs.
+
+An update on SPTR37_9f identified a true set of 160 sequences, and 22
+partial matches.

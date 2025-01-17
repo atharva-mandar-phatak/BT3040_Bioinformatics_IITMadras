@@ -1,0 +1,47 @@
+*************************************************************
+* Protein phosphatase 2A regulatory subunit PR55 signatures *
+*************************************************************
+
+Protein phosphatase 2A (PP2A) is a   serine/threonine  phosphatase involved in
+many  aspects of  cellular  function  including   the  regulation of metabolic
+enzymes and  proteins  involved  in  signal  transduction.  PP2A is a trimeric
+enzyme that consists of a core composed of a catalytic subunit associated with
+a 65 Kd  regulatory subunit (PR65),  also called subunit A;  this complex then
+associates with a third  variable subunit (subunit B),  which confers distinct
+properties to the holoenzyme [1].  One of the forms of the variable subunit is
+a 55  Kd  protein  (PR55)  which  is highly conserved in mammals - where three
+isoforms are known to exist -, Drosophila and yeast (gene CDC55). This subunit
+could perform a substrate recognition function or be responsible for targeting
+the enzyme complex to the appropriate subcellular compartment.
+
+As signature  patterns, we selected  two  perfectly  conserved sequences of 15
+residues; one  located  in  the  N-terminal region, the other in the center of
+the protein.
+
+-Consensus pattern: E-F-D-Y-L-K-S-L-E-I-E-E-K-I-N
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [NH]-[AG]-H-[TAD]-Y-H-I-N-S-I-S-[LIVMN]-[NS]-S-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hemmings B.A.; hemmings@fmi.ch
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Mayer-Jaekel R., Hemmings B.A.
+     "Protein phosphatase 2A--a 'menage a trois'."
+     Trends Cell Biol. 4:287-291(1994).
+     PubMed=14731592;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

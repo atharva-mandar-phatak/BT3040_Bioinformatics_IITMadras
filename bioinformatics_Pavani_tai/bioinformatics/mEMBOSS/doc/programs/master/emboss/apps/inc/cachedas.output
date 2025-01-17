@@ -1,0 +1,113 @@
+
+<a name="output.1"></a>
+<h3>Output files for usage example </h3>
+<p><h3>File: qatests.server.dasregistry</h3>
+<table width="90%"><tr><td bgcolor="#CCFFCC">
+<pre>
+# qatests.server.dasregistry 2012-07-15 12:00:00
+
+DB DS_114_signalp [
+  method: das
+  type: "Protfeatures"
+  format: "dasgff"
+  url: http://das.cbs.dtu.dk:9000/das/signalp
+  example: "P15498"
+  comment: "SignalP (http://www.cbs.dtu.dk/services/SignalP) predictions for UniProt."
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB netphos [
+  method: das
+  type: "Protfeatures"
+  format: "dasgff"
+  url: http://das.cbs.dtu.dk:9000/das/netphos
+  example: "P15498"
+  comment: "NetPhos (http://www.cbs.dtu.dk/services/NetPhos) predictions for UniProt."
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB prop [
+  method: das
+  type: "Protfeatures"
+  format: "dasgff"
+  url: http://das.cbs.dtu.dk:9000/das/prop
+  example: "P15498"
+  comment: "ProP (http://www.cbs.dtu.dk/services/ProP) predictions for UniProt."
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB transmem_pred [
+  method: das
+  type: "Protfeatures"
+  format: "dasgff"
+  url: http://pongo.biocomp.unibo.it/das/dasdb
+  example: "P15498"
+  comment: "Membrane protein annotation. Presenty This DAS server contains UNIPROT and IPI human proteins. The annotation si done using 4 different predictors: TMHMM2.0, MEMSAT, ENSEMBLE_1.0 and PRODIV_TMHMM_0.91"
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+
+
+<font color=red>  [Part of this file has been deleted for brevity]</font>
+
+  method: das
+  type: "Nucfeatures"
+  taxon: "6334"
+  format: "dasgff"
+  url: http://metazoa.ensembl.org/das/Trichinella_spiralis.Tspiralis1.translation
+  example: ""
+  comment: "Annotation source for Trichinella_spiralis translation"
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB Trichoplax_adhaerens_TRIAD1_reference [
+  method: das
+  type: "Nucleotide, Nucfeatures"
+  taxon: "10228"
+  format: "das, dasgff"
+  url: http://metazoa.ensembl.org/das/Trichoplax_adhaerens.TRIAD1.reference
+  example: ""
+  comment: "Trichoplax_adhaerens Reference server based on TRIAD1 assembly. Contains 1415 top level entries."
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB Trichoplax_adhaerens_TRIAD1_transcript [
+  method: das
+  type: "Nucfeatures"
+  taxon: "10228"
+  format: "dasgff"
+  url: http://metazoa.ensembl.org/das/Trichoplax_adhaerens.TRIAD1.transcript
+  example: ""
+  comment: "Annotation source for Trichoplax_adhaerens transcript"
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+DB Trichoplax_adhaerens_TRIAD1_translation [
+  method: das
+  type: "Nucfeatures"
+  taxon: "10228"
+  format: "dasgff"
+  url: http://metazoa.ensembl.org/das/Trichoplax_adhaerens.TRIAD1.translation
+  example: ""
+  comment: "Annotation source for Trichoplax_adhaerens translation"
+  hasaccession: "N"
+  identifier: "segment"
+  fields: "segment,type,category,categorize,feature_id"
+]
+
+</pre>
+</td></tr></table><p>

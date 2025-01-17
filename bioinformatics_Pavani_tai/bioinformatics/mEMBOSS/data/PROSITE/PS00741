@@ -1,0 +1,111 @@
+**************************************************
+* Dbl homology (DH) domain signature and profile *
+**************************************************
+
+The Rho family GTPases Rho, Rac and CDC42 regulate a diverse array of cellular
+processes. Like  all  members  of  the Ras superfamily, the Rho proteins cycle
+between active   GTP-bound   and  inactive  GDP-bound  conformational  states.
+Activation of  Rho  proteins,  through  release  of  bound  GDP and subsequent
+binding of  GTP, is catalyzed by guanine nucleotide exchange factors (GEFs) in
+the Dbl  family.  The  proteins  encoded  by members of the Dbl family share a
+common domain of about 200 residues (designated the Dbl homology or DH domain)
+that has  been  shown  to  encode  a GEF activity specific for a number of Rho
+family members.  In  addition,  all  family  members  possess a second, shared
+domain designated  the pleckstrin homology (PH) domain (see <PDOC50003>). Trio
+and its  homolog  UNC-73  are  unique  within  the Dbl family insomuch as they
+encode two  distinct DH/PH domain modules. The PH domain is invariably located
+immediately C-terminal to the DH domain and this invariant topography suggests
+a functional interdependence between these two structural modules. Biochemical
+data have  established  the  role  of  the  conserved  DH domain in Rho GTPase
+interaction and   activation,  and  the  role  of  the  tandem  PH  domain  in
+intracellular targeting and/or regulation of DH domain function. The DH domain
+of Dbl  has been shown to mediate oligomerization that is mostly homophilic in
+nature. In  addition  to  the  tandem  DH/PH  domains  Dbl family GEFs contain
+diverse structural motifs like serine/threonine kinase (see <PDOC00100>), RBD,
+PDZ (see <PDOC50106>), RGS (see <PDOC50132>), IQ (see <PDOC50096>), REM, Cdc25
+RasGEF (see  <PDOC00594>),  CH  (see  <PDOC50021>), SH2 (see <PDOC50001>), SH3
+(see <PDOC50002>), EF (see <PDOC00018>), spectrin or Ig [1,2,3,4].
+
+The DH domain is composed of three structurally conserved regions separated by
+more variable  regions.  It  does not share significant sequence homology with
+other subtypes  of small G-protein GEF motifs such as the Cdc25 domain and the
+Sec7 domain  (see  <PDOC50190>),  which specifically interact with Ras and ARF
+family small  GTPases,  respectively,  nor  with other Rho protein interactive
+motifs, indicating that the Dbl family proteins are evolutionarily unique. The
+DH domain  is  composed  of 11 alpha helices that are folded into a flattened,
+elongated alpha-helix  bundle  in  which  two  of the three conserved regions,
+conserved region  1  (CR1)  and conserved region 3 (CR3), are exposed near the
+center of  one  surface.  CR1 and CR3, together with a part of alpha-6 and the
+DH/PH junction site, constitute the Rho GTPase interacting pocket [2,3,5].
+
+Some proteins known to contain a DH domain are listed below:
+
+ - Dbl (or mcf-2) oncogene from mammals.  Dbl is a GEF for a  ras-like protein
+   known as G25K or CDC42Hs.
+ - CDC24 from yeast. CDC24 is a GEF that acts on the ras-like protein CDC42 to
+   regulate bud site assembly and mating pheromone signaling.
+ - scd1  from fission yeast. It is a cell cycle regulatory protein with global
+   homology to CDC24.
+ - p140-RAS GEF (cdc25Mm) from mammals. This protein, a GEF for ras, possesses
+   both a domain belonging to the CDC24 family  and one belonging to the CDC25
+   family.
+ - Break  cluster  region  (Bcr) oncogene from mammals. Bcr can form a chimera
+   with the abl protein and then cause chronic myelogenous leukemia (CML). Bcr
+   acts on p21-rac proteins.
+ - Abr,  a  protein that shares strong sequence organization and identity with
+   Bcr, but  lacks  the serine/threonine kinase domain that is found at the N-
+   terminus of Bcr.
+ - T-lymphoma invasion and metastasis inducing protein 1 (Tiam1 protein). Acts
+   as a GEF for rac1, CDC42, and to a lesser extent rhoA.
+ - Oncogenes vav and vav2 from mammals.  The target  of these proteins are not
+   yet known.
+ - Oncogene ect2 from mouse. The target of this protein is not yet known.
+
+The profile we developed covers the entire DH domain.
+
+-Consensus pattern: [LM]-x(2)-[LIVMFYWGS]-[LI]-x(2)-[PEQ]-[LIVMRF]-x(2)-
+                    [LIVM]-x-[KRS]-x(2)-[LT]-x-[LIVM]-x-[DEQN]-[LIVM]-x(3)-
+                    [STM]
+-Sequences known to belong to this class detected by the pattern:  only  about
+ half of all DH domains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hart M.J., Eva A., Zangrilli D., Aaronson S.A., Evans T.,
+     Cerione R.A., Zheng Y.
+     "Cellular transformation and guanine nucleotide exchange activity are
+     catalyzed by a common domain on the dbl oncogene product."
+     J. Biol. Chem. 269:62-65(1994).
+     PubMed=8276860
+[ 2] Whitehead I.P., Campbell S., Rossman K.L., Der C.J.
+     "Dbl family proteins."
+     Biochim. Biophys. Acta 1332:F1-23(1997).
+     PubMed=9061011
+[ 3] Zheng Y.
+     "Dbl family guanine nucleotide exchange factors."
+     Trends Biochem. Sci. 26:724-732(2001).
+     PubMed=11738596
+[ 4] Zhu K., Debreceni B., Bi F., Zheng Y.
+     "Oligomerization of DH domain is essential for Dbl-induced
+     transformation."
+     Mol. Cell. Biol. 21:425-437(2001).
+     PubMed=11134331; DOI=10.1128/MCB.21.2.425-437.2001
+[ 5] Aghazadeh B., Zhu K., Kubiseski T.J., Liu G.A., Pawson T., Zheng Y.,
+     Rosen M.K.
+     "Structure and mutagenesis of the Dbl homology domain."
+     Nat. Struct. Biol. 5:1098-1107(1998).
+     PubMed=9846881; DOI=10.1038/4209
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

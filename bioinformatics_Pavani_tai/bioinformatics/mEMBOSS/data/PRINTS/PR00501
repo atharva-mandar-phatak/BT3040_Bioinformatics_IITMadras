@@ -1,0 +1,34 @@
+KELCHREPEAT
+Kelch is a 50-residue motif, named after the Drosophila mutant in which
+it was first identified [1]. The motif appears 6 times in Drosophila
+egg-chamber regulatory protein, and is also found in mouse protein MIPP [1]
+and in a number of poxviruses. In addition, kelch repeats have been
+recognised in alpha- and beta-scruin [2,3], and in galactose oxidase from
+the fungus Dactylium dendroides [4]. The structure of galactose oxidase
+reveals that the repeated sequence corresponds to a 4-stranded anti-
+parallel beta-sheet motif that forms the repeat unit in a super-barrel
+structural fold [5]. 
+
+The known functions of kelch-containing proteins are diverse: scruin is
+an actin cross-linking protein; galactose oxidase catalyses the oxidation
+of the hydroxyl group at the C6 position in D-galactose; neuraminidase
+hydrolyses sialic acid residues from glycoproteins; and kelch may have a
+cytoskeletal function, as it is localised to the actin-rich ring canals
+that connect the 15 nurse cells to the developing oocyte in Drosophila [2].
+Nevertheless, based on the location of the kelch pattern in the catalytic
+unit in galactose oxidase, functionally important residues have been
+predicted in glyoxal oxidase [4]. 
+
+KELCHREPEAT is a 3-element fingerprint that provides a signature for the
+kelch repeat. The fingerprint was derived from an initial alignment of 11
+sequences: the motifs span the full repeat length, motif 1 including the
+characteristic GG dipeptide and motif 2 a conserved Trp residue. Two
+iterations on OWL28.0 were required to reach convergence, at which point
+a true set comprising 17 sequences was identified. Several partial matches
+were also found (all are family members, but the multiple repeat nature of
+motif has compromised diagnostic performance of the fingerprint). The 
+relationship with glyoxal oxidase cannot be resolved from background noise
+by this fingerprint. 
+
+An update on SPTR37_9f identified a true set of 32 sequences, and 23
+partial matches.

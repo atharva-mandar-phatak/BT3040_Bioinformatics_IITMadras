@@ -1,0 +1,90 @@
+***********************
+* SEC7 domain profile *
+***********************
+
+The  SEC7  domain  was  named  after the first protein found to contain such a
+region  [1]. SEC7 family proteins are guanine nucleotide exchange factor (GEF)
+specific  for  the ADP-rybosylation factors (ARF), a Ras-like GTPases which is
+important for vesicular protein trafficking. Although SEC7 proteins are highly
+divergent  in their overall sequence they share a common region of roughly 200
+amino  acids  known  as the SEC7 domain. Proteins containing a SEC7 domain are
+found in fungi, animals and plants.
+
+SEC7  domains  mediate  interaction with ARF and catalyses GDP to GTP exchange
+[2,3,4]. Crystal structure of the human ARNO SEC7 domain has been solved [5,6]
+and  consist  of  10 alpha-helices. The helices are arranged in a right-handed
+superhelix   reminiscent   of   that   found   in  the  armadillo-repeat  (see
+<PDOC50176>).  The  C-terminal  part  of  the domain mediates interaction with
+Arf-1 through hydrophobic and polar residues. The nucleotide exchange activity
+is  dependent  on  a  conserved  glutamate residue located in the loop between
+helix f and g [5,6]. The corresponding residue in Arabidopsis Emb30 protein is
+mutated to a lysine in a deficient allele [7].
+
+Some proteins known to contain a SEC7 domain are listed below.
+
+ - Yeast SEC7 protein. Associated with ER, essential for fusion of vesicles to
+   the Golgi.
+ - Mammalian cytohesin 1.
+ - Mammalian cytohesin 2 (ARF nucleotide-binding site opener; ARNO).
+ - Mammalian cytohesin 3.
+ - Mammalian cytohesin 4.
+ - Mammalian  brefeldin A-inhibited guanine nucleotide-exchange proteins 1 and
+   2 (ARFGEP1 and ARFGEP2).
+ - Mammalian golgi-specific brefeldin A-resistance guanine nucleotide exchange
+   factor 1 (GBF1).
+
+We developed a profile that spans the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / First entry.
+
+[ 1] Achstetter T., Franzusoff A., Field C., Schekman R.
+     "SEC7 encodes an unusual, high molecular weight protein required for
+     membrane traffic from the yeast Golgi apparatus."
+     J. Biol. Chem. 263:11711-11717(1988).
+     PubMed=3042778
+[ 2] Klarlund J.K., Guilherme A., Holik J.J., Virbasius J.V., Chawla A.,
+     Czech M.P.
+     "Signaling by phosphoinositide-3,4,5-trisphosphate through proteins
+     containing pleckstrin and Sec7 homology domains."
+     Science 275:1927-1930(1997).
+     PubMed=9072969
+[ 3] Klarlund J.K., Rameh L.E., Cantley L.C., Buxton J.M., Holik J.J.,
+     Sakelis C., Patki V., Corvera S., Czech M.P.
+     "Regulation of GRP1-catalyzed ADP ribosylation factor guanine
+     nucleotide exchange by phosphatidylinositol 3,4,5-trisphosphate."
+     J. Biol. Chem. 273:1859-1862(1998).
+     PubMed=9442017
+[ 4] Abergel C., Chavrier P., Claverie J.-M.
+     "Triple association of CDC25-, Dbl- and Sec7-related domains in
+     mammalian guanine-nucleotide-exchange factors."
+     Trends Biochem. Sci. 23:472-473(1998).
+     PubMed=9868368
+[ 5] Cherfils J., Menetrey J., Mathieu M., Le Bras G., Robineau S.,
+     Beraud-Dufour S., Antonny B., Chardin P.
+     "Structure of the Sec7 domain of the Arf exchange factor ARNO."
+     Nature 392:101-105(1998).
+     PubMed=9510256; DOI=10.1038/32210
+[ 6] Mossessova E., Gulbis J.M., Goldberg J.
+     "Structure of the guanine nucleotide exchange factor Sec7 domain of
+     human arno and analysis of the interaction with ARF GTPase."
+     Cell 92:415-423(1998).
+     PubMed=9476900
+[ 7] Shevell D.E., Leu W.M., Gillmor C.S., Xia G., Feldmann K.A., Chua N.H.
+     "EMB30 is essential for normal cell division, cell expansion, and cell
+     adhesion in Arabidopsis and encodes a protein that has similarity to
+     Sec7."
+     Cell 77:1051-1062(1994).
+     PubMed=8020095
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

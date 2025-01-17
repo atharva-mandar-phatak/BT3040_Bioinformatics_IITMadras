@@ -1,0 +1,56 @@
+**********************************
+* Chorismate synthase signatures *
+**********************************
+
+Chorismate synthase (EC 4.2.3.5) catalyzes  the last of the seven steps in the
+shikimate pathway  which  is  used  in  prokaryotes, fungi and  plants for the
+biosynthesis of  aromatic  amino acids. It catalyzes the 1,4-trans elimination
+of the  phosphate group from 5-enolpyruvylshikimate-3-phosphate (EPSP) to form
+chorismate which  can  then  be  used in phenylalanine, tyrosine or tryptophan
+biosynthesis. Chorismate  synthase  requires  the presence of a reduced flavin
+mononucleotide (FMNH2 or FADH2) for its activity.
+
+Chorismate synthase from various sources shows [1,2] a high degree of sequence
+conservation. It  is  a  protein  of  about 360 to 400 amino-acid residues. We
+developed three  signature  patterns  from  conserved  regions  rich  in basic
+residues (mostly  arginines).  The  first  is  in  the N-terminal section, the
+second is central and the third is C-terminal.
+
+-Consensus pattern: G-[DES]-S-H-[GC]-x(2)-[LIVM]-[GTIVLAMS]-x-[LIVTM]-[LIVM]-
+                    [DEST]-[GH]-x-[PV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GE]-x(2)-S-[AG]-R-x-[ST]-x(3)-[VT]-x(2)-[GA]-[STAVY]-
+                    [LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: R-[SHF]-D-[PSV]-[CSAVT]-x(4)-[SGAIVM]-x-[IVGSTAPM]-[LIVM]-
+                    x-E-[STAHNCG]-[LIVMA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Schaller A., Schmid J., Leibinger U., Amrhein N.
+     "Molecular cloning and analysis of a cDNA coding for chorismate
+     synthase from the higher plant Corydalis sempervirens Pers."
+     J. Biol. Chem. 266:21434-21438(1991).
+     PubMed=1718979
+[ 2] Jones D.G.L., Reusser U., Braus G.H.
+     "Molecular cloning, characterization and analysis of the regulation of
+     the ARO2 gene, encoding chorismate synthase, of Saccharomyces
+     cerevisiae."
+     Mol. Microbiol. 5:2143-2152(1991).
+     PubMed=1837329
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

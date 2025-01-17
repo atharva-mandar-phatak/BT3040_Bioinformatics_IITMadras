@@ -1,0 +1,59 @@
+CYSLT2RECPTR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+   
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of which
+transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the receptors
+are very similar and are believed to adopt a common structural framework
+comprising 7 transmembrane (TM) helices [3-5].
+
+Leukotrienes (LT) are potent lipid mediators derived from arachidonic acid
+metabolism. They can be divided into two classes based on the presence or
+absence of a cysteinyl group. Leukotriene B4 (LTB4) does not contain such a
+group, whereas LTC4, LTD4, LTE4 and LTF4 are cysteinyl leukotrienes [6].
+
+Cysteinyl leukotrienes (CysLTs), previously known as the "slow reacting
+substance of anaphylaxis", are produced predominantly by myeloid cells
+associated with inflammatory responses [9]. They are the most potent
+bronchoconstrictors known and also have pro-inflammatory effects, making
+them important mediators in the pathophysiology of human asthma [8]. CysLTs
+have also been implicated in a variety of other diseases, such as allergic
+rhinitis, inflammatory bowel disease and psoriasis [9]. Pharmacological
+studies of the effects of CysLTs have provided evidence for the existence of
+at least 2 distinct receptor subtypes, belonging to the G protein-coupled
+receptor family, designated CysLT1 and CysLT2 [7,8]. CysLT1 is thought to
+mediate bronchospasm, plasma exudation, vasoconstriction, mucus secretion
+and eosinophil recruitment [8]. CysLT2 is less well defined, due to a lack
+of specific agonists and antagonists, but is thought to mediate some of the
+vascular effects attributed to CysLTs [8,9]. Both receptor subtypes have now
+been cloned [7,10].
+
+CysLT2 has highest affinities for LTC4 and LTD4 and, upon activation,
+stimulates phosphatidyl inositol hydrolysis leading to increased
+intracellular calcium concentration. The receptor is expressed widely, with
+highest levels in the heart, placenta, spleen, peripheral blood leukocytes
+and adrenal gland [9-11].
+
+CYSLT2RECPTR is a 6-element fingerprint that provides a signature for
+cysteinyl leukotriene receptor 2. The fingerprint was derived from an  
+initial alignment of 4 sequences: the motifs were drawn from conserved
+sections within loop, TM and N-terminal regions, focusing on those areas of
+the alignment that characterise cysteinyl leukotriene receptor 2 but
+distinguish it from the rest of the leukotriene receptor family - motif 1
+lies at the N-terminus; motif 2 is located in the second external loop;
+motifs 3 and 4 span the third cytoplasmic loop, leading into TM domain 6;
+motif 5 encodes the C-terminal portion of TM domain 6; and motif 6 resides
+in the third external loop. Two iterations on SPTR40_22f were required to
+reach convergence, at which point a true set comprising 5 sequences was
+identified.

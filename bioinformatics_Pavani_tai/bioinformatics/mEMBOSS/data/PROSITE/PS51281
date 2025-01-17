@@ -1,0 +1,50 @@
+*****************************************
+* TAP C-terminal (TAP-C) domain profile *
+*****************************************
+
+The NXF  family  of  shuttling  transport receptors for nuclear export of mRNA
+includes:
+
+ - vertebrate mRNA export factor TAP or nuclear RNA export factor 1 (NXF1).
+ - Caenorhabditis elegans nuclear RNA export factor 1 (nxf-1).
+ - yeast mRNA export factor MEX67.
+
+Members of  the  NXF  family  have a modular structure. A nuclear localization
+sequence and  a  noncanonical  RNA  recognition  motif (RRM) (see <PDOC00030>)
+followed by  four  LRR  repeats  are  located  in  its N-terminal half. The C-
+terminal half  contains  a  NTF2 domain (see <PDOC50177>) followed by a second
+domain. This  most  C-terminal  TAP-C  domain  is  important for binding to FG
+repeat-containing nuclear pore proteins (FG-nucleoporins) and is sufficient to
+mediate nuclear shuttling [1,2].
+
+The Tap-C  domain is made of four alpha helices packed against each other (see
+<PDB:1GO5>). The  arrangement of helices 1, 2 and 3 is similar to that seen in
+a UBA  fold.  and is joined to the next module by flexible 12-residue Pro-rich
+linker [1,2].
+
+The profile we developed covers the entire TAP-C domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2006 / First entry.
+
+[ 1] Suyama M., Doerks T., Braun I.C., Sattler M., Izaurralde E., Bork P.
+     "Prediction of structural domains of TAP reveals details of its
+     interaction with p15 and nucleoporins."
+     EMBO Rep. 1:53-58(2000).
+     PubMed=11256625; DOI=10.1038/sj.embor.embor627
+[ 2] Grant R.P., Hurt E., Neuhaus D., Stewart M.
+     "Structure of the C-terminal FG-nucleoporin binding domain of
+     Tap/NXF1."
+     Nat. Struct. Biol. 9:247-251(2002).
+     PubMed=11875519; DOI=10.1038/nsb773
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

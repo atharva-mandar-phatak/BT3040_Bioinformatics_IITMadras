@@ -1,0 +1,83 @@
+*****************************************
+* DEAD-box RNA helicase Q motif profile *
+*****************************************
+
+RNA  helicases  from the DEAD-box family are found in almost all organisms and
+have  important  roles  in  RNA  metabolism  such  as splicing, RNA transport,
+ribosome  biogenesis,  translation  and RNA decay. They are enzyme that unwind
+double-stranded  RNA  molecules  in  an  energy  dependent fashion through the
+hydrolysis  of  NTP.  DEAD-box  RNA helicases belong to superfamily 2 (SF2) of
+helicases.  As  other  SF1 and SF2 members they contain seven conserved motifs
+which  are characteristic of these two superfamilies (see <PDOC51192>) [1,E1].
+DEAD-box  is named after the amino acids of motif II or Walker B (Mg2+-binding
+aspartic  acid).  Besides these seven motifs, DEAD-box RNA helicases contain a
+conserved  cluster  of  nine  amino-acids  (the  Q  motif)  with  an invariant
+glutamine  located N-terminally of motif I. An additional highly conserved but
+isolated  aromatic  residue is also found upstream of these nine residues [2].
+The  Q  motif is characteristic of and unique to DEAD box family of helicases.
+It  is  supposed  to  control  ATP  binding  and  hydrolysis, and therefore it
+represents a potential mechanism for regulating helicase activity.
+
+Several  structural analyses of DEAD-box RNA helicases have been reported (see
+<PDB:1HV8>)  [3,4].  The Q motif is located in close proximity to motif I. The
+conserved glutamine and aromatic residues interact with the ADP molecule.
+
+Some proteins known to contain a Q motif:
+
+ - Eukaryotic  initiation  factor  4A  (eIF4A).  An ATP-dependent RNA helicase
+   which  is  a  subunit  of the eIF4F complex involved in cap recognition and
+   required for mRNA binding to ribosome.
+ - Various  eukaryotic  helicases involved in ribosome biogenesis (DBP3, DRS1,
+   SPB4, MAK5, DBP6, DBP7, DBP9, DBP10).
+ - Eukaryotic  DEAD-box  proteins involved in pre-mRNA splicing (Prp5p, Prp28p
+   and Sub2p).
+ - DEAD-box  proteins required for mitochondrial genome expression (MSS116 and
+   MRH4).
+ - Fungi  ATP-dependent  RNA  helicase  DHH1. It is required for decapping and
+   turnover of mRNA.
+ - Fungi ATP-dependent RNA helicase DBP5. It is involved in nucleo-cytoplasmic
+   transport of poly(A) RNA.
+ - Bacterial  ATP-dependent  RNA  helicase  rhlB.  It  is  involved in the RNA
+   degradosome,  a  multi-enzyme  complex  important  in  RNA  processing  and
+   messenger RNA degradation.
+ - Bacterial cold-shock DEAD box protein A.
+
+The  profile we developed stretches from the conserved aromatic residue to one
+amino acid after the glutamine of the Q motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / First entry.
+
+[ 1] Koonin E.V., Gorbalenya A.E.
+     "Autogenous translation regulation by Escherichia coli ATPase SecA may
+     be mediated by an intrinsic RNA helicase activity of this protein."
+     FEBS. Lett. 298:6-8(1992).
+     PubMed=1531961
+[ 2] Tanner N.K., Cordin O., Banroques J., Doere M., Linder P.
+     "The Q motif: a newly identified motif in DEAD box helicases may
+     regulate ATP binding and hydrolysis."
+     Mol. Cell 11:127-138(2003).
+     PubMed=12535527
+[ 3] Story R.M., Li H., Abelson J.N.
+     "Crystal structure of a DEAD box protein from the hyperthermophile
+     Methanococcus jannaschii."
+     Proc. Natl. Acad. Sci. U.S.A. 98:1465-1470(2001).
+     PubMed=11171974; DOI=10.1073/pnas.98.4.1465
+[ 4] Benz J., Trachsel H., Baumann U.
+     "Crystal structure of the ATPase domain of translation initiation
+     factor 4A from Saccharomyces cerevisiae--the prototype of the DEAD box
+     protein family."
+     Structure 7:671-679(1999).
+     PubMed=10404596
+[E1] http://medweb2.unige.ch/~linder/RNA_helicases.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

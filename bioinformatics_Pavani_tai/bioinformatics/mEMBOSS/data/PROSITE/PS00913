@@ -1,0 +1,103 @@
+*****************************************************
+* Iron-containing alcohol dehydrogenases signatures *
+*****************************************************
+
+Alcohol dehydrogenase (EC 1.1.1.1) (ADH) catalyzes the reversible oxidation of
+ethanol to acetaldehyde with the concomitant  reduction of NAD [1].  Currently
+three,   structurally   and   catalytically,   different  types   of   alcohol
+dehydrogenases are known:
+
+ - Zinc-containing 'long-chain' alcohol dehydrogenases.
+ - Insect-type, or 'short-chain' alcohol dehydrogenases.
+ - Iron-containing alcohol dehydrogenases.
+
+Iron-containing ADH's have been found in  yeast (gene ADH4) [2], as well as in
+Zymomonas mobilis (gene adhB) [3]. These two iron-containing ADH's are closely
+related to the following enzymes:
+
+ - Escherichia coli propanediol oxidoreductase (EC 1.1.1.77)  (gene fucO) [4],
+   an enzyme involved  in the metabolism of  fucose and  which  also  seems to
+   contain ferrous ion(s).
+ - Clostridium acetobutylicum NADPH- and NADH-dependent butanol dehydrogenases
+   (EC 1.1.1.-) (genes adh1, bdhA and bdhB) [5], an enzyme which has  activity
+   using butanol and ethanol as substrates.
+ - Escherichia coli adhE [6], an   iron-dependent enzyme  which  harbor  three
+   different activities:  alcohol  dehydrogenase,  acetaldehyde  dehydrogenase
+   (acetylating) (EC 1.2.1.10) and pyruvate-formate-lyase deactivase.
+ - Bacterial glycerol dehydrogenase (EC 1.1.1.6) (gene gldA or dhaD) [7].
+ - Clostridium kluyveri NAD-dependent  4-hydroxybutyrate dehydrogenase  (4hbd)
+   (EC 1.1.1.61).
+ - Citrobacter    freundii    and    Klebsiella   pneumoniae   1,3-propanediol
+   dehydrogenase (EC 1.1.1.202) (gene dhaT).
+ - Bacillus  methanolicus  NAD-dependent methanol dehydrogenase (EC 1.1.1.244)
+   [8].
+ - Escherichia   coli  and  Salmonella  typhimurium  ethanolamine  utilization
+   protein eutG.
+ - Escherichia coli hypothetical protein yiaY.
+ - Escherichia coli hypothetical protein ybdH.
+ - Escherichia coli hypothetical protein yqhD.
+ - Methanococcus jannaschii hypothetical protein MJ0712.
+
+The patterns that  we developed to  detect this  class of enzymes are based on
+two conserved regions.
+
+-Consensus pattern: [STALIV]-[LIVF]-x-[DE]-x(6,7)-P-x(4)-[ALIV]-x-[GST]-x(2)-
+                    D-[TAIVM]-[LIVMF]-x(4)-E
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for a few.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSW]-x-[LIVTSACD]-[GH]-x(2)-[GSAE]-[GSHYQ]-x-[LIVTP]-
+                    [GAST]-[GAS]-x(3)-[LIVMT]-x-[HNS]-[GA]-x-[GTAC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for a few.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: July 1998 / Patterns and text revised.
+
+[ 1] Branden C.-I., Joernvall H., Eklund H., Furugren B.
+     (In) The Enzymes (3rd edition) 11:104-190(1975).
+[ 2] Conway T., Sewell G.W., Osman Y.A., Ingram L.O.
+     "Cloning and sequencing of the alcohol dehydrogenase II gene from
+     Zymomonas mobilis."
+     J. Bacteriol. 169:2591-2597(1987).
+     PubMed=3584063
+[ 3] Williamson V.M., Paquin C.E.
+     "Homology of Saccharomyces cerevisiae ADH4 to an iron-activated
+     alcohol dehydrogenase from Zymomonas mobilis."
+     Mol. Gen. Genet. 209:374-381(1987).
+     PubMed=2823079
+[ 4] Conway T., Ingram L.O.
+     "Similarity of Escherichia coli propanediol oxidoreductase (fucO
+     product) and an unusual alcohol dehydrogenase from Zymomonas mobilis
+     and Saccharomyces cerevisiae."
+     J. Bacteriol. 171:3754-3759(1989).
+     PubMed=2661535
+[ 5] Walter K.A., Bennett G.N., Papoutsakis E.T.
+     "Molecular characterization of two Clostridium acetobutylicum ATCC 824
+     butanol dehydrogenase isozyme genes."
+     J. Bacteriol. 174:7149-7158(1992).
+     PubMed=1385386
+[ 6] Kessler D., Leibrecht I., Knappe J.
+     "Pyruvate-formate-lyase-deactivase and acetyl-CoA reductase activities
+     of Escherichia coli reside on a polymeric protein particle encoded by
+     adhE."
+     FEBS Lett. 281:59-63(1991).
+     PubMed=2015910
+[ 7] Truniger V., Boos W.
+     "Mapping and cloning of gldA, the structural gene of the Escherichia
+     coli glycerol dehydrogenase."
+     J. Bacteriol. 176:1796-1800(1994).
+     PubMed=8132480
+[ 8] de Vries G.E., Arfman N., Terpstra P., Dijkhuizen L.
+     J. Bacteriol. 174:5346-5353(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,93 @@
+********************************************************
+* Glycosyl hydrolases family 9 active sites signatures *
+********************************************************
+
+The microbial degradation  of cellulose and  xylans requires  several types of
+enzymes such as endoglucanases (EC 3.2.1.4),  cellobiohydrolases (EC 3.2.1.91)
+(exoglucanases), or xylanases (EC 3.2.1.8) [1,2].  Fungi and bacteria produces
+a spectrum of cellulolytic  enzymes (cellulases)  and  xylanases which, on the
+basis of sequence similarities,  can be classified into families. One of these
+families is known as the cellulase family E [3] or as  the glycosyl hydrolases
+family 9  [4,E1].  The  enzymes  which  are  currently known to belong to this
+family are listed below.
+
+ - Butyrivibrio fibrisolvens cellodextrinase 1 (ced1).
+ - Cellulomonas fimi endoglucanases B (cenB) and C (cenC).
+ - Clostridium cellulolyticum endoglucanase G (celCCG).
+ - Clostridium cellulovorans endoglucanase C (engC).
+ - Clostridium stercoararium endoglucanase Z (avicelase I) (celZ).
+ - Clostridium thermocellum endoglucanases D (celD), F (celF) and I (celI).
+ - Fibrobacter succinogenes endoglucanase A (endA).
+ - Pseudomonas fluorescens endoglucanase A (celA).
+ - Streptomyces reticuli endoglucanase 1 (cel1).
+ - Thermomonospora fusca endoglucanase E-4 (celD).
+
+ - Dictyostelium discoideum  spore  germination  specific endoglucanase 270-6.
+   This slime mold enzyme may digest the spore cell wall  during  germination,
+   to release the enclosed amoeba.
+ - Endoglucanases from plants such as Avocado or French bean.  In  plants this
+   enzyme may be involved the fruit ripening process.
+
+Two of the most conserved  regions in these enzymes  are centered on conserved
+residues which have been shown [5,6], in the endoglucanase D from Cellulomonas
+thermocellum, to be important  for the catalytic activity.  The  first  region
+contains  an  active  site  histidine  and  the  second  region  contains  two
+catalytically important residues: an aspartate and a glutamate.  We  have used
+both regions as signature patterns.
+
+-Consensus pattern: [STV]-x-[LIVMFY]-[STV]-x(2)-G-x-[NKR]-x(4)-[PLIVM]-H-x-R
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Cellulomonas fimi cenC and Streptomyces reticuli cel1.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: [FYW]-x-D-x(4)-[FYW]-x(3)-E-x-[STA]-x(3)-N-[STA]
+                    [D and E are active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Fibrobacter succinogenes endA whose sequence seems to be incorrect.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Beguin P.
+     "Molecular biology of cellulose degradation."
+     Annu. Rev. Microbiol. 44:219-248(1990).
+     PubMed=2252383; DOI=10.1146/annurev.mi.44.100190.001251
+[ 2] Gilkes N.R., Henrissat B., Kilburn D.G., Miller R.C. Jr., Warren R.A.J.
+     "Domains in microbial beta-1, 4-glycanases: sequence conservation,
+     function, and enzyme families."
+     Microbiol. Rev. 55:303-315(1991).
+     PubMed=1886523
+[ 3] Henrissat B., Claeyssens M., Tomme P., Lemesle L., Mornon J.-P.
+     "Cellulase families revealed by hydrophobic cluster analysis."
+     Gene 81:83-95(1989).
+     PubMed=2806912
+[ 4] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 5] Tomme P., Chauvaux S., Beguin P., Millet J., Aubert J.-P., Claeyssens M.
+     "Identification of a histidyl residue in the active center of
+     endoglucanase D from Clostridium thermocellum."
+     J. Biol. Chem. 266:10313-10318(1991).
+     PubMed=2037583
+[ 6] Tomme P., van Beeumen J., Claeyssens M.
+     "Modification of catalytically important carboxy residues in
+     endoglucanase D from Clostridium thermocellum."
+     Biochem. J. 285:319-324(1992).
+     PubMed=1637316
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

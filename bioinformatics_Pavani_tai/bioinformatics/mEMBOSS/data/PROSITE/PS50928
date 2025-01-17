@@ -1,0 +1,230 @@
+************************************************************
+* ABC transporter integral membrane type-1 domain profiles *
+************************************************************
+
+ABC  transporters  belong  to the ATP-Binding Cassette (ABC) superfamily which
+uses  the  hydrolysis  of ATP to energize diverse biological import and export
+systems  (see  <PDOC00185>). ABC transporters are minimally constituted of two
+conserved  regions:  a  highly conserved ATP binding cassette (ABC) and a less
+conserved  transmembrane  domain (TMD). These regions can be found on the same
+protein  (mostly  in  eukaryotes  and bacterial exporters) or on two different
+ones  (mostly  bacterial  importers)  [1,2,3].  The  function  of the integral
+inner-membrane  protein  is  to translocate the substrate across the membrane.
+Studies  of P-glycoprotein function indicate that residues lining the proposed
+chamber  opening  (residues  of  TM2,  TM5  and TM6) play an important role in
+substrate recognition [4].
+
+In  exporters and eukaryotes, ABC transporters consist of a single polypeptide
+composed  of  an  N-terminal  domain of approximately 320 residues, apparently
+containing  six transmembrane segments, fused to a highly conserved ABC-ATPase
+domain  of  approximately  260  residues  [5,6,7]. In some cases an N-terminal
+peptidase  domain of 130-150 residues appended to the TMD is also found, which
+may contain additional transmembrane segments as in the HlyB subfamily [8,9].
+
+The  3D  structure of the E. coli lipid A flippase MsbA homodimer reveals that
+association  of  the  two transmembrane domains forms one chamber that adopt a
+cone-shape  which  extends  along  a pseudo two-fold axis perpendicular to the
+cell membrane (see <PDB:1JSQ>) [10]. The chamber has an opening on either side
+of  the  membrane  to  provide  free access  for  the lipid substrate from the
+cytoplasmic  leaflet  of the lipid bilayer, while excluding molecules from the
+outer leaflet. The chamber openings are defined by intramolecular interactions
+between  TM2  of  one  monomer  and  TM5 of the other. The residues lining the
+chamber are contributed by all 12 transmembrane alpha-helices [10,11].
+
+In  importers  (found  only  in  prokaryotes or archaea) most ABC transporters
+consist  of  four domains usually encoded by independent polypeptides, two ABC
+modules  and  two  TMDs which are thought to contain six transmembrane regions
+[12,13]. The approximately 30 kD TMD displays a distinctive signature, the EAA
+motif,  a 20 amino acid conserved sequence located about 100 residues from the
+C-terminus.  The  motif  is  hydrophilic  and  has  been  found to reside in a
+cytoplasmic  loop  located  between  the  penultimate  and the antepenultimate
+transmembrane  segment  in  all  proteins with a known topology [14,15,16]. It
+appears  to  play  an  important  role in ensuring the correct assembly of the
+prokaryotic  ABC  transport  complex [17] and constituting an interaction site
+with  the  so-called  helical  domain of the ABC module [18,19]. The TMDs form
+either   homo-oligomeric  channels  or  associate  with  another  TMD  to form
+hetero-oligomers.
+
+The  3D  structure  of  the  E. coli  BtuCD proteins  has been solved [20]. It
+consists  of two copies of the transmembrane domain BtuC and two copies of the
+ATPase   BtuD   (see   <PDB:1L7V>).  Each  BtuC  subunit  is  composed  of  10
+alpha-helices, rather than the six of MsbA, and these are packed together in a
+more  intricated  manner than MsbA. Helices two-five and seven-ten are related
+by  a  pseudo-two-fold  rotation  axis,  while  helices one and six are nearly
+perpendicular  to  the  plane  of the membrane. The prominent cytoplasmic loop
+between  helices  six and seven folds into two short helices, L1 and L2, which
+make  extensive  contacts  with  BtuC. The conserved sequence within the L1-L2
+region may represent a general interface between the TMD and NBD [11,20].
+
+During  the transport cycle a conformational change involved by the NBD domain
+has  been  described for this two kinds of transmembrane domains like those of
+Pgp and MalFGK2 complex [21,22].
+
+Integral membrane components of ABC complex have been shown to be evolutionary
+related  and proteins known to belong to this family are classified in several
+functional  subfamilies  depending  on  the substrate used [E1]. All different
+types   of  transporters  with  a  functional  attribution  are  listed  below
+(references are only provided for recently characterized proteins).
+
+In prokaryotes:
+
+Active import transport system components:
+
+ - Carbohydrate uptake transporter.
+ - Cobalt uptake transporter.
+ - Ferric iron uptake transporter.
+ - Hydrophobic amino acid uptake transporter.
+ - Iron Chelate uptake transporter.
+ - Manganese/Zinc/Iron chelate uptake transporter.
+ - Molybdate uptake transporter.
+ - Nitrate/Nitrite/Cyanate uptake transporter.
+ - Peptide/Opine/Nickel uptake transporter.
+ - Phosphate uptake transporter.
+ - Phosphonate uptake transporter.
+ - Polyamine/Opine/Phosphonate uptake transporter.
+ - Quaternary amine uptake transporter.
+ - Sulfate uptake transporter.
+ - Taurine uptake tranporter (tauC).
+ - Thiamin uptake transporter (thiamin/thiamin pyrophosphate).
+ - Vitamine B12 uptake tranporter (btuC).
+
+Active export transport system components:
+
+ - Capsular polysaccharide exporter (kpsT).
+ - Drug exporter-1: daunorubicin/doxorubicin (drrA); oleandomycin (oleC4).
+ - Drug resistance ATPase-1.
+ - Drug/siderophore exporter-3.
+ - Glucan exporter: Beta-(1,2)-glucan export (chvA/ndvA).
+ - Lipid A exporter (msbA).
+ - Lantibiotic exporter: hemolysin/bacteriocin (cylB).
+ - Lipooligosaccharide exporter (nodulation protein nodI from Rhizobium).
+ - Lipopolysaccharide exporter (rbfA).
+ - Micrococin B17 exporter (mcbF).
+ - Micrococin J25 exporter (mcjD).
+ - Peptide-2 exporter: competence factor (comA/comB).
+ - Peptide-3 exporter: modified cyclic peptide (syrD.
+ - Protein-1 exporter: hemolysin (hlyB).
+ - Protein-2 exporter: colicin V(cvaB).
+ - S-layer protein exporter (rsaD/sapD).
+ - Techoic Acid Exporter (tagH).
+
+In eukaryotes:
+
+ - ALDP, a peroxisomal protein involved in X-linked adrenoleukodystrophy.
+ - Antigen  peptide  transporters  1  (TAP1,  PSF1,  RING4, HAM-1, mtp1) and 2
+   (TAP2, PSF2,  RING11, HAM-2, mtp2), which  are involved in the transport of
+   antigens from      the   cytoplasm  to  a  membrane-bound  compartment  for
+   association with MHC class I molecules.
+ - Cystic fibrosis transmembrane conductance regulator (CFTR),  which  is most
+   probably involved in the transport of chloride ions.
+ - Drosophila  proteins  white  (w)  and brown (bw), which are involved in the
+   import of ommatidium screening pigments.
+ - Fungal elongation factor 3 (EF-3).
+ - Multidrug   transporters  (Mdr1)  (P-glycoprotein),  a  family  of  closely
+   related proteins which extrude a wide variety of drugs out of the cell.
+ - 70 Kd peroxisomal membrane protein (PMP70).
+ - Sulfonylurea  receptor,  a  putative  subunit  of the B-cell  ATP-sensitive
+   potassium channel.
+
+We  have  developed two profiles to distinguish between these two kinds of ABC
+transmembrane  domains. The  first  one recognizes the TMD in protein families
+where TMD  and  NBD are on separate proteins. The second one picks up proteins
+where TMD  and NBD are fused. Both profiles cover the entire six transmembrane
+region.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  profiles  replace  a  pattern  (PS00402)  whose  specificity was
+ inadequate.
+
+-Last update: November 2003 / Pattern removed, profiles added and text revised.
+
+[ 1] Holland I.B., Cole S.P.C., Kuchler K., Higgins C.F.
+     (In) ABC proteins from bacteria to man, Academic Press, San Diego,
+     (2003).
+[ 2] Holland I.B., Blight M.A.
+     J. Mol. Biol. 293:381-399(1999).
+[ 3] Saurin W., Hofnung M., Dassa E.
+     "Getting in or out: early segregation between importers and exporters
+     in the evolution of ATP-binding cassette (ABC) transporters."
+     J. Mol. Evol. 48:22-41(1999).
+     PubMed=9873074
+[ 4] Ambudkar S.V., Dey S., Hrycyna C.A., Ramachandra M., Pastan I.,
+     Gottesman M.M.
+     "Biochemical, cellular, and pharmacological aspects of the multidrug
+     transporter."
+     Annu. Rev. Pharmacol. Toxicol. 39:361-398(1999).
+     PubMed=10331089; DOI=10.1146/annurev.pharmtox.39.1.361
+[ 5] Reizer J., Reizer A., Saier M.H. Jr.
+     "A new subfamily of bacterial ABC-type transport systems catalyzing
+     export of drugs and carbohydrates."
+     Protein Sci. 1:1326-1332(1992).
+     PubMed=1303751
+[ 6] Vazquez M., Santana O., Quinto C.
+     "The NodL and NodJ proteins from Rhizobium and Bradyrhizobium strains
+     are similar to capsular polysaccharide secretion proteins from
+     gram-negative bacteria."
+     Mol. Microbiol. 8:369-377(1993).
+     PubMed=8316086
+[ 7] Peelman F., Labeur C., Vanloo B., Roosbeek S., Devaud C., Duverger N.,
+     Denefle P., Rosier M., Vandekerckhove J., Rosseneu M.
+     "Characterization of the ABCA transporter subfamily: identification of
+     prokaryotic and eukaryotic members, phylogeny and topology."
+     J. Mol. Biol. 325:259-274(2003).
+     PubMed=12488094
+[ 8] Havarstein L.S., Diep D.B., Nes I.F.
+     "A family of bacteriocin ABC transporters carry out proteolytic
+     processing of their substrates concomitant with export."
+     Mol. Microbiol. 16:229-240(1995).
+     PubMed=7565085
+[ 9] Zhong X., Kolter R., Tai P.C.
+     "Processing of colicin V-1, a secretable marker protein of a bacterial
+     ATP binding cassette export system, requires membrane integrity,
+     energy, and cytosolic factors."
+     J. Biol. Chem. 271:28057-28063(1996).
+     PubMed=8910417
+[10] Chang G., Roth C.B.
+     Science 293:1793-1800(2001).
+[11] Borges-Walmsley M.I., McKeegan K.S., Walmsley A.R.
+     Biochem. J. 0:0-0(2003).
+[12] Ames G.F.-L.
+     Annu. Rev. Biochem. 55:397-425(1986).
+[13] Higgins C.F., Hyde S.C., Mimmack M.M., Gileadi U., Gill D.R.,
+     Gallagher M.P.
+     J. Bioenerg. Biomembr. 22:571-592(1990).
+[14] Dassa E., Hofnung M.
+     EMBO J. 4:2287-2293(1985).
+[15] Saurin W., Koster W., Dassa E.
+     Mol. Microbiol. 12:993-1004(1994).
+[16] Pearce S.R., Mimmack M.L., Gallagher M.P., Gileadi U., Hyde S.C.,
+     Higgins C.F.
+     Mol. Microbiol. 6:57-57(1992).
+[17] Schneider E., Hunke S.
+     FEMS Microbiol. Rev. 22:1-20(1998).
+[18] Hunke S., Mourez M., Jehanno M., Dassa E., Schneider E.
+     J. Biol. Chem. 275:15526-15534(2000).
+[19] Mourez M., Hofnung M., Dassa E.
+     EMBO J. 16:3066-3077(1997).
+[20] Locher K.P., Lee A.T., Rees D.C.
+     Science.  296:1091-108.(2002).
+[21] Rosenberg M.F., Velarde G., Ford R.C., Martin C., Berridge G.,
+     Kerr I.D., Callaghan R., Schmidlin A., Wooding C., Linton K.J.,
+     Higgins C.F.
+     EMBO J. 20:5615-5625(2001).
+[22] Chen J., Sharma S., Quiocho F.A., Davidson A.L.
+     Proc. Natl. Acad. Sci. U.S.A. 98:1525-1530(2001).
+[E1] http://www.tcdb.org/tcdb/index.php?tc=3.A.1
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

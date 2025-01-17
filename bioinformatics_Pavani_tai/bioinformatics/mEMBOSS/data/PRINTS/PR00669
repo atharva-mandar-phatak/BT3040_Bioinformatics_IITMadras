@@ -1,0 +1,20 @@
+INHIBINA
+Inhibin is a gonadal glycopeptide that preferentially suppresses pituitary
+secretion of follitropin (follicle-stimulating hormone) [1]. It is a
+heterodimeric protein, linked by one or more disulphide bonds: inhibin A is
+a dimer of alpha and beta-A chains; and inhibin B is a dimer of alpha and
+beta-B. Inhibins belong to a gene family that also includes transforming
+growth factor-beta (TGF-beta) [2].
+
+INHIBINA is an 8-element fingerprint that provides a signature for inhibin
+alpha subunits. The fingerprint was derived from an initial alignment of
+13 sequences: the motifs were drawn from the C-terminal two-thirds of the
+alignment, motifs 2,3 and 5-8 each containing conserved Cys residues, which
+are involved in inter- and intra-chain disulphide bond formation. A single
+iteration on OWL29.1 was required to reach convergence, no further sequences
+being identified beyond the starting set. Numerous partial matches were
+found: all are members of the TGF-beta family that match motifs 5 and 6,
+which contain 2 of the conserved cysteines (cf. PROSITE pattern TGF_BETA
+(PS00250)).
+
+An update on SPTR37_9f identified a true set of 8 sequences.

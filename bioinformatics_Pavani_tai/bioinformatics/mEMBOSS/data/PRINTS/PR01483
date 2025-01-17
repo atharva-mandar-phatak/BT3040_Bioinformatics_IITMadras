@@ -1,0 +1,45 @@
+FASYNTHASE
+The yeast fatty acid synthase (FAS) is a hexameric complex (alpha 6 beta 6)
+of two multifunctional proteins, alpha and beta [1]. The alpha subunit
+contains two of the seven enzymatic activities required for the synthesis
+of fatty acids, together with the site for attachment of the prosthetic
+group 4'-phosphopantetheine [1]. The beta subunit contains the remaining
+five enzyme domains: acetyltransferase and malonyltransferase, s-acyl fatty
+acid synthase thioesterase, enoyl-[acyl-carrier protein] reductase, and
+3-hydroxypalmitoyl-[acyl-carrier protein] dehydratase.
+
+The sequential order of the five FAS1-encoded enzyme domains is co-linear 
+in Yarrowia lipolytica and Saccharomyces cerevisiae, which observation is
+consistent with evidence that the functional organisation of FAS genes is
+similar in related organisms but differs between unrelated species [2].
+
+Sterigmatocystin (ST) and the aflatoxins (AFs) (related fungal secondary 
+metabolites) are among the most toxic, mutagenic and carcinogenic natural
+products known [3]. In Aspergillus nidulans, the ST biosynthetic pathway is 
+believed to involve at least 15 enzymatic activities; some Aspergillus
+parasiticus, Aspergillus flavus and Aspergillus nomius strains contain
+additional activities that convert ST to AF [3]. 
+
+A 60kb region of the A.nidulans genome has been characterised and found to
+contain virtually all of the genes needed for ST biosynthesis [3]. The
+deduced polypeptide sequences of regions within this cluster share a high
+degree of similarity with enzymes that have activities predicted for ST/AF
+biosynthesis, including a polyketide synthase, a fatty acid synthase
+(alpha and beta subunits), five monooxygenases, four dehydrogenases, an
+esterase, an 0-methyltransferase, a reductase, an oxidase and a zinc
+cluster DNA binding protein [3].
+
+FASYNTHASE is a 12-element fingerprint that provides a signature for the 
+fatty acid synthases. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from conserved regions largely 
+spanning the central portion of the alignment - motifs 1-4 reside in the
+enoyl reductase domain; motifs 5 and 6 lie between the enoyl reductase and
+dehyrdatase domains; motifs 7 and 8 reside within the dehyrdatase domain;
+and motifs 9-12 reside in the malonyl/palmitoyl transferase domain. Three
+iterations on SPTR39_14f were required to reach convergence, at which point
+a true set comprising 13 sequences was identified. Several partial matches
+were also found: Q48926 is a fatty acid synthase from Mycobacterium bovis
+that matches motifs 1, 2, 6, 7, 9 and 11; O59897 and O60026 are polyketide
+synthases from Aspergillus fumigatus that match motifs 9 and 11; and O53664
+and O69502 are hypothetical 30kDa proteins from Mycobacterium tuberculosis
+and Mycobacterium leprae, both of which match motifs 6 and 7.

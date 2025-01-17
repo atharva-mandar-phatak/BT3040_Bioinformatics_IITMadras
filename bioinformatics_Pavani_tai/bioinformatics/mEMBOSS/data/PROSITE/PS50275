@@ -1,0 +1,73 @@
+**********************************
+* Sac phosphatase domain profile *
+**********************************
+
+The Sac  domain is a region of homology between the N-terminus of synaptojanin
+and the   otherwise   unrelated   yeast  protein  Sac1p.  The  Sac  domain  is
+approximately 400 residues in length, and proteins containing this domain show
+approximately 35%  identity with other Sac domains throughout this region. The
+Sac domain  exhibits  phosphatidylinositol  polyphosphate phosphatase activity
+and can  hydrolyse  phosphate from any of the three positions of inositol that
+may be  phosphorylated  (3-,  4-  and  5).  However,  adjacent  phosphates are
+resistant to   hydrolysis.   Sac   domains  cannot  hydrolyse  phosphate  from
+phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P2),  or  PtdIns(3,4)P2,  or
+PtdIns(3,4,5)P3, but can hydrolyse PtdIns(3,5)P2 [1,2].
+
+The Sac  domain  consists  of  seven  highly  conserved motifs which appear to
+define the  catalytic  and  regulatory  regions  of the phosphatase. The sixth
+conserved region  contains  a highly conserved C-x(5)-R-[TS] motif, thought to
+be the  catalytic  motif  of  many  metal-independent  protein  and  inositide
+polyphosphate phosphatases.  Interestingly, the Inp51p Sac domain in which the
+cysteine, arginine  and  threonine/serine  residues  within  the C-x(5)-R-[TS]
+motif are absent, does not exhibit any phosphatase activity [1,2].
+
+Two classes  of Sac domain proteins have been identified in mammals as well as
+lower eukaryotes [1,2]. The first comprises proteins, which, in addition to an
+N-terminal phosphatase  Sac  domain, have all the domains associated with type
+II phosphatidylinositol phosphate 5-phosphatases:
+
+ - Mammalian   synaptojanins,   type   II  phosphatidylinositol  phosphate  5-
+   phosphatases.
+ - Yeast  INP51, a 108 kDa membrane protein. It is involved in endocytosis and
+   regulation of  the actin cytoskeleton under conditions of normal vegetative
+   growth. Although  the Sac phosphatase domain of INP51  may be catalytically
+   inactive, the domain may retain other functions.
+ - Yeast  INP52, a 133 kDa membrane protein. It is involved in endocytosis and
+   regulation of  the actin cytoskeleton under conditions of normal vegetative
+   growth.
+ - Yeast  INP53,  a  124  kDa  membrane  protein. It appears to have a role in
+   intra-Golgi and Golgi-to-endosomal trafficking.
+
+The other class of Sac-containing phosphatases consists of proteins with an N-
+terminal Sac phosphatase domain and no other recognizable domains:
+
+ - Yeast  Sac1p,  a 67 kDa membrane protein found in the endoplasmic reticulum
+   (ER) and  Golgi.  It  regulates  the  actin  cytoskeleton  and phospholipid
+   metabolism.
+ - Yeast   FIG4, a 101 kDa protein encoded by a pheromone regulated or induced
+   gene. FIG4   might  function  to  regulate  effector molecules of the actin
+   cytoskeleton during mating.
+
+The profile we developed covers the seven highly conserved motifs found in Sac
+domains.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Hughes W.E.
+     "The Sac phosphatase domain."
+     Curr. Biol. 11:R249-R249(2001).
+     PubMed=11413010
+[ 2] Hughes W.E., Cooke F.T., Parker P.J.
+     Biochem. J. 350 Pt 2:337-352(2000).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

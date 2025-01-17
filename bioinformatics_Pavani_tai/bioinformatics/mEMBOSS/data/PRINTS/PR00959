@@ -1,0 +1,29 @@
+MEVGALKINASE
+Saccharomyces cerevisiae strains containing the erg8-1 mutation are 
+temperature sensitive for growth due to a defect in phosphomevalonate 
+kinase, an enzyme of isoprene and ergosterol biosynthesis [1]. Subcloning
+and DNA sequencing have defined the functional ERG8 regulon as an 850bp 
+upstream region and an adjacent 1,272bp open reading frame [1]. The deduced 
+ERG8 protein contains 424 residues and shows no similarity to known proteins,
+except within a putative ATP-binding domain present in many kinases [1].
+Disruption studies have shown that the ERG8 gene is essential [1]. Its
+expression in S.cerevisiae from the galactose-inducible galactokinase (GAL1)
+promoter results in 1,000-fold-elevated levels of phosphomevalonate kinase
+enzyme activity. 
+
+Enzymes that share the N-terminal Gly/Ser-rich putative ATP-binding region
+include: galactokinase, homoserine kinase, mevalonate kinase and phospho-
+mevalonate kinase. 
+
+MEVGALKINASE is a 4-element fingerprint that provides a signature for
+mevalonate and galactokinases. The fingerprint was derived from an initial
+alignment of 11 sequences: the motifs were drawn from short conserved 
+regions spanning virtually the full alignment length - motif 2 includes the
+region encoded by PROSITE pattern GHMP_KINASES_ATP (PS00627), which
+describes the putative ATP-binding domain. Two iterations on OWL30.2 were
+required to reach convergence, at which point a true set comprising 38
+sequences was identified. Several partial matches were also found, all of
+which are fragments or homologues that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 34 sequences, and 3
+partial matches.

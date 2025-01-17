@@ -1,0 +1,50 @@
+********************************************************************
+* Prokaryotic sulfate- and thiosulfate-binding proteins signatures *
+********************************************************************
+
+Sulfate-binding  protein (gene sbp or sbpA)  and  thiosulfate-binding  protein
+(gene cysP) are  two structurally related periplasmic bacterial proteins which
+specifically bind sulfate and thiosulfate and  are  involved  in the transport
+systems for these nutrients [1,2].
+
+As signature patterns for these  proteins  we  selected two conserved regions;
+one located  in  the  N-terminal  region  and the other in the central part of
+these proteins. The second pattern includes two adjacent amino acids (Ser-Gly)
+that, in sbp, are known to be essential for sulfate binding [3].
+
+-Consensus pattern: K-x-[NQEK]-[GT]-G-[DQ]-x-[LIVM]-x(3)-Q-S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: N-P-K-[ST]-S-G-x-A-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 1993 / Patterns and text revised.
+
+[ 1] Hryniewicz M., Sirko A., Palucha A., Boeck A., Hulanicka D.
+     "Sulfate and thiosulfate transport in Escherichia coli K-12:
+     identification of a gene encoding a novel protein involved in
+     thiosulfate binding."
+     J. Bacteriol. 172:3358-3366(1990).
+     PubMed=2188959
+[ 2] Laudenbach D.E., Grossman A.R.
+     "Characterization and mutagenesis of sulfur-regulated genes in a
+     cyanobacterium: evidence for function in sulfate transport."
+     J. Bacteriol. 173:2739-2750(1991).
+     PubMed=1708375
+[ 3] Pflugrath J.W., Quiocho F.A.
+     "The 2 A resolution structure of the sulfate-binding protein involved
+     in active transport in Salmonella typhimurium."
+     J. Mol. Biol. 200:163-180(1988).
+     PubMed=3288756
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

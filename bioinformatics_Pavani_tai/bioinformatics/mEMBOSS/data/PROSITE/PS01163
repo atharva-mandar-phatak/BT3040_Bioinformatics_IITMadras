@@ -1,0 +1,61 @@
+*******************************************************
+* Galactose-1-phosphate uridyl transferase signatures *
+*******************************************************
+
+Galactose-1-phosphate  uridyl  transferase (EC 2.7.7.12) (galT)  catalyzes the
+transfer of an uridyldiphosphate group on  galactose (or glucose) 1-phosphate.
+During the  reaction,  the  uridyl moiety links to a histidine residue. In the
+Escherichia coli  enzyme,  it  has  been shown [1] that two histidine residues
+separated by   a single proline residue are essential for enzyme activity. The
+first one is a ligand to a zinc ion and the second act as a nucleophile.
+
+On the  basis of sequence similarities, two apparently unrelated families seem
+to exist.  Class-I  enzymes  are  found in eukaryotes as well as some bacteria
+such as Escherichia coli or Streptomyces lividans, while class-II enzymes have
+been found  so  far  only  in  some  Gram-positive  bacteria  such as Bacillus
+subtilis or Lactobacillus helveticus [2].
+
+We developed  signature  patterns for both  families.  For class-I enzymes the
+signature is  based on the active site residues. For class-II enzymes we chose
+a region which also includes two conserved histidines.
+
+-Consensus pattern: F-E-N-[RK]-G-x(3)-G-x(4)-H-P-H-x-Q
+                    [The first H binds zinc and the second H is an active site
+                    residue]
+-Sequences known to belong to this class detected by the pattern: ALL  class-I
+ enzymes.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: D-L-P-I-[VS]-G-G-[ST]-[LIVM](2)-[STAV]-H-[DEN]-H-[FY]-Q-
+                    [GAT]-G
+-Sequences known to belong to this class detected by the pattern: ALL class-II
+ enzymes.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Class-I  enzymes are structurally related to the HIT family of proteins
+ (see <PDOC00694>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Reichardt J.K.V., Berg P.
+     "Conservation of short patches of amino acid sequence amongst proteins
+     with a common function but evolutionarily distinct origins:
+     implications for cloning genes and for structure-function analysis."
+     Nucleic Acids Res. 16:9017-9026(1988).
+     PubMed=2845364
+[ 2] Mollet B., Pilloud N.
+     "Galactose utilization in Lactobacillus helveticus: isolation and
+     characterization of the galactokinase (galK) and galactose-1-phosphate
+     uridyl transferase (galT) genes."
+     J. Bacteriol. 173:4464-4473(1991).
+     PubMed=2066342
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

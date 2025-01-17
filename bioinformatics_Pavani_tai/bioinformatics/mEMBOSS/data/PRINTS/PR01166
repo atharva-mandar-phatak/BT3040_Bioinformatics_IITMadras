@@ -1,0 +1,30 @@
+CYCOXIDASEII
+Cytochrome c oxidase, a component of the respiratory chain, is an oligomeric
+enzymatic complex involved in the transfer of electrons from cytochrome c to
+oxygen [1,2]. In eukaryotes, the complex is located in the mitochondrial 
+inner membrane; in aerobic prokaryotes, it is found in the plasma membrane. 
+In prokaryotes, the enzyme complex consists of 3-4 subunits, and in mammals
+up to 13 polypeptides.
+
+Subunit 2 (CO II) transfers the electrons from cytochrome c to the catalytic
+subunit 1. It contains two adjacent transmembrane (TM) regions at its 
+N-terminus, and the major part of the protein is exposed to the periplasmic
+or to the mitochondrial intermembrane space, respectively. CO II provides
+the substrate-binding site and contains a copper centre, termed Cu(A), 
+probably the primary acceptor in cytochrome c oxidase. By contrast, the
+corresponding subunit of the cbb3-type oxidase lacks the copper A redox-
+centre. Several bacterial CO II have a C-terminal extension that contains
+a covalently bound haem c.
+
+CYCOXIDASEII is a 6-element fingerprint that provides a signature for
+cytochrome C oxidase subunit II. The fingerprint was derived from an initial
+alignment of 20 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motifs 1 and 2 span a putative TM 
+region; and motifs 5-7 span the region encoded by PROSITE pattern COX2 
+(PS00078), which encompasses a dinuclear purple copper centre (motifs 5
+and 7 contain conserved valine and methionine residues thought to be
+involved in stabilising the copper-binding fold). Four iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 291 sequences was identified. Several partial matches were also 
+found, all of which are cytochrome c oxidase subunit II sequences that fail 
+to make significant matches with one or more motifs.

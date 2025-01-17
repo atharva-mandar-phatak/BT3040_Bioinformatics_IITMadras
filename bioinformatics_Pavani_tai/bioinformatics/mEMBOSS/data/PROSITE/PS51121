@@ -1,0 +1,63 @@
+*****************************************
+* NtA (N-terminal agrin) domain profile *
+*****************************************
+
+Agrin  is involved in postsynaptic differentiation at the site of nerve-muscle
+contact.  The  N-terminal  Agrin  (NtA) domain is a region of ~135 amino acids
+required  for  the  localization  of  agrin to synaptic basal lamina and other
+basement  membranes  [1].  Agrin is a heparan sulfate proteoglycan whereof the
+NtA  domain  forms  the most N-terminal part, followed by 9 Kazal-like domains
+and  2  LE  domains  (see  <PDOC00961>). The C-terminal part consists of a SEA
+domain (see <PDOC50024>), 4 EGF-like domains (see <PDOC00021>) and 3 Laminin G
+domains  (see  <PDOC50025>),  responsible  for the clustering of acetylcholine
+receptors.  The NtA domain is the most highly conserved domain in agrin and it
+binds with the coiled coil domain of laminins [2].
+
+Tertiairy  structures  show  that  the  NtA domain folds as a beta-barrel core
+flanked by N- and C-terminal helical regions (see <PDB:1PXU>). The core of the
+domain  consists  of  5  beta-strands  that  form 2 beta-sheets. The structure
+belongs  to  the  OB  fold  family  and  shows  similarity  with  the protease
+inhibition  domain  of  TIMP-1,  suggesting alternative functions for agrin in
+addition to synaptogenic activity [2,3]. Residues Leu 117 and Val 124 in helix
+3 of the NtA domain are essential for binding to the laminin gamma1 chain [4].
+
+The profile we developed covers the entire NtA (N-terminal agrin) domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2005 / First entry.
+
+[ 1] Denzer A.J., Hauser D.M., Gesemann M., Ruegg M.A.
+     "Synaptic differentiation: the role of agrin in the formation and
+     maintenance of the neuromuscular junction."
+     Cell Tissue Res. 290:357-365(1997).
+     PubMed=9321698
+[ 2] Stetefeld J., Jenny M., Schulthess T., Landwehr R., Schumacher B.,
+     Frank S., Ruegg M.A., Engel J., Kammerer R.A.
+     "The laminin-binding domain of agrin is structurally related to
+     N-TIMP-1."
+     Nat. Struct. Biol. 8:705-709(2001).
+     PubMed=11473262; DOI=10.1038/90422
+[ 3] Mascarenhas J.B., Ruegg M.A., Sasaki T., Eble J.A., Engel J.,
+     Stetefeld J.
+     "Structure and laminin-binding specificity of the NtA domain expressed
+     in eukaryotic cells."
+     Matrix Biol. 23:507-513(2005).
+     PubMed=15694127; DOI=10.1016/j.matbio.2004.11.003
+[ 4] Mascarenhas J.B., Ruegg M.A., Winzen U., Halfter W., Engel J.,
+     Stetefeld J.
+     "Mapping of the laminin-binding site of the N-terminal agrin domain
+     (NtA)."
+     EMBO J. 22:529-536(2003).
+     PubMed=12554653; DOI=10.1093/emboj/cdg041
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

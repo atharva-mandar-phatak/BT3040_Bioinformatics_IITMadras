@@ -1,0 +1,21 @@
+CLOACIN
+Colicins are polypeptide toxins produced by, and active against, Escherichia
+coli and closely related bacteria. The bacteriocin cloacin DF13 inactivates
+ribosomes by hydrolysing 16S RNA in 30S ribosomes at a specific site. The
+protein consists of 561 amino acids and has a molecular weight of ~59kD. 
+Sequence analysis reveals the N-terminal third of the cloacin molecule,
+which is involved in translocation of the protein across the cell membrane,
+to be relatively hydrophobic and rich in glycine [1]. The C-terminal portion
+is rich in positively charged amino acids, possibly reflecting the RNase 
+activity located within this domain [1]. Sequence comparisons reveal 
+similarities with colicin E3 and E6, but not with Col E1, despite striking
+similarities in codon usage [1]. 
+
+CLOACIN is an 8-element fingerprint that provides a signature for cloacins.
+The fingerprint was derived from an initial alignment of 3 sequences: the
+motifs were drawn from conserved regions spanning the central portion of the
+alignment - motifs 1-4 were drawn from the domain thought to be involved in
+translocation of the protein across the cell membrane; and motifs 5-8 reside
+within the domain responsible for the receptor binding activity. Two
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 6 sequences was identified.

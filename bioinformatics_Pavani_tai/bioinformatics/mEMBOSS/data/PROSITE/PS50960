@@ -1,0 +1,75 @@
+*******************************
+* Psq-type HTH domain profile *
+*******************************
+
+The  psq-type  HTH  domain  is a DNA-binding, helix-turn-helix (HTH) domain of
+about  50  amino acids present in eukaryotic proteins of the Pipsqueak family.
+This  family  is  named  after  the Drosophila pipsqueak protein, containing a
+DNA-binding  domain  that  consists  of  four tandem repeats of the psq motif.
+Proteins of the Pipsqueak family occur in vertebrates, insects, nematodes, and
+fungi. Three subgroups of the family have been described: BTB, E93 and CENP-B.
+Pipsqueak  and  the other proteins of the BTB group (Broad-Complex, Tramtrack,
+Bric   a   brac)   contain  a  BTB  protein-protein  interaction  domain  (see
+<PDOC50097>)  in  the N-terminal part, and the psq-type HTH domain(s) occur in
+the  C-terminal part. Many BTB proteins are transcriptional regulators and the
+psq-type  HTH domain of e.g. pipsqueak and bric a brac proteins binds DNA. The
+Drosophila cell death regulating protein E93 and e.g. human orthologs form the
+second  subgroup  and  can  contain the psq-type HTH at varying positions. The
+human  centromere protein B (CENP-B) and the other members of the CENP-B group
+contain  a  psq-type  DNA-binding  domain  in  the N-terminal part and often a
+dimerization  domain  in the C-terminal part. The CENP-B group includes fungal
+transposases  that, however, lack the N-terminal extremity of the psq-type HTH
+domain [1].
+
+The  NMR  and crystal structures of human CENP-B show that the N-terminal part
+of the DNA binding domain is composed of three alpha-helices (see <PDB:1HLV>).
+The   second   and   third   helices   connected   via  a  turn  comprise  the
+helix-turn-helix  motif.  Helix  3 is termed the recognition helix as it binds
+the DNA major groove, like in other HTHs. In CENP-B this domain is followed by
+a CENPB-type HTH, which binds an adjacent DNA major groove (see <PDOC51253>).
+
+Some proteins known to contain a psq-type HTH domain:
+
+ - Drosophila  pipsqueak  protein,  a developmental regulator with pleiotropic
+   functions   during   oogenesis,   embryonic  pattern  formation  and  adult
+   development. The psq-type HTH domain binds to GAGA sequences [2,3].
+ - Drosophila  bric  a  brac 1 and 2 proteins, required for the development of
+   adult ovaries, legs, antennae and abdomen.
+ - Mammalian   centromere  protein  B,  associated  with  the  centromere  and
+   specifically binding a 17 bp sequence, the CENP-B box.
+
+The profile we developed covers the entire psq-type HTH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The majority of fungal  transposases lacks too many N-terminal residues
+ in the domain and is therefore not detected by the profile.
+
+-Last update: February 2004 / First entry.
+
+[ 1] Siegmund T., Lehmann M.
+     "The Drosophila Pipsqueak protein defines a new family of
+     helix-turn-helix DNA-binding proteins."
+     Dev. Genes Evol. 212:152-157(2002).
+     PubMed=11976954; DOI=10.1007/s00427-002-0219-2
+[ 2] Lehmann M., Siegmund T., Lintermann K.-G., Korge G.
+     "The pipsqueak protein of Drosophila melanogaster binds to GAGA
+     sequences through a novel DNA-binding domain."
+     J. Biol. Chem. 273:28504-28509(1998).
+     PubMed=9774480
+[ 3] Schwendemann A., Lehmann M.
+     "Pipsqueak and GAGA factor act in concert as partners at homeotic and
+     many other loci."
+     Proc. Natl. Acad. Sci. U.S.A. 99:12883-12888(2002).
+     PubMed=12271134; DOI=10.1073/pnas.202341499
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,110 @@
+******************************************************
+* Sigma-54 interaction domain signatures and profile *
+******************************************************
+
+Some bacterial  regulatory  proteins  activate  the  expression  of genes from
+promoters recognized by core RNA polymerase  associated  with  the alternative
+sigma-54 factor. These have a conserved domain of about 230 residues  involved
+in the  ATP-dependent  [1,2]  interaction  with sigma-54. This domain has been
+found in the proteins listed below:
+
+ - acoR from Alcaligenes eutrophus, an  activator  of  the  acetoin catabolism
+   operon acoXABC.
+ - algB from Pseudomonas aeruginosa,  an  activator  of  alginate biosynthetic
+   gene algD.
+ - dctD from Rhizobium, an  activator of dctA,  the C4-dicarboxylate transport
+   protein.
+ - dhaR  from Citrobacter freundii, a regulator of the dha operon for glycerol
+   utilization.
+ - fhlA from Escherichia coli, an activator of the formate dehydrogenase H and
+   hydrogenase III structural genes.
+ - flbD from Caulobacter crescentus, an activator of flagellar genes.
+ - hoxA from Alcaligenes eutrophus, an activator of the hydrogenase operon.
+ - hrpS from Pseudomonas syringae, an  activator of  hprD as well as other hrp
+   loci involved in plant pathogenicity.
+ - hupR1 from  Rhodobacter capsulatus, an  activator of the [NiFe] hydrogenase
+   genes hupSL.
+ - hydG from Escherichia coli  and Salmonella typhimurium, an activator of the
+   hydrogenase activity.
+ - levR from Bacillus subtilis, which regulates the expression of the levanase
+   operon (levDEFG and sacC).
+ - nifA (as well as anfA and vnfA)  from various bacteria, an activator of the
+   nif nitrogen-fixing operon.
+ - ntrC, from various bacteria, an  activator  of  nitrogen assimilatory genes
+   such as that for glutamine synthetase (glnA) or of the nif operon.
+ - pgtA from Salmonella typhimurium,  the  activator of the inducible phospho-
+   glycerate transport system.
+ - pilR from Pseudomonas aeruginosa, an activator of pilin gene transcription.
+ - rocR   from   Bacillus   subtilis,  an  activator  of  genes  for  arginine
+   utilization
+ - tyrR from Escherichia coli, involved  in  the transcriptional regulation of
+   aromatic amino-acid biosynthesis and transport.
+ - wtsA,  from  Erwinia  stewartii,  an  activator of plant pathogenicity gene
+   wtsB.
+ - xylR  from Pseudomonas putida, the  activator  of  the  tol  plasmid xylene
+   catabolism operon xylCAB and of xylS.
+ - Escherichia coli hypothetical protein yfhA.
+ - Escherichia coli hypothetical protein yhgB.
+
+About half of these proteins (algB, dcdT, flbD, hoxA, hupR1, hydG,  ntrC, pgtA
+and pilR) belong to signal transduction  two-component systems [3] and possess
+a domain  that  can  be  phosphorylated by a sensor-kinase protein in their N-
+terminal section.    Almost  all  of these proteins possess a helix-turn-helix
+DNA-binding domain in their C-terminal section.
+
+The domain which  interacts with  the sigma-54 factor  has an ATPase activity.
+This  may be required  to  promote a  conformational  change necessary for the
+interaction [4]. The domain contains  an atypical ATP-binding motif A (P-loop)
+as well as a form of motif B. The two ATP-binding motifs are located in the N-
+terminal  section of the domain; we have developed signature patterns for both
+motifs. Other  regions  of the domain are also conserved. We have selected one
+of them, located in the C-terminal section, as a third signature pattern.
+
+-Consensus pattern: [LIVMFY](3)-x-G-[DEQ]-[STE]-G-[STAV]-G-K-x(2)-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: A majority.
+-Other sequence(s) detected in Swiss-Prot: eukaryotic rab-like ypt1  family of
+ GTP-binding proteins.
+
+-Consensus pattern: [GS]-x-[LIVMFA]-x(2)-[AS]-[DNEQASH]-[GNEKT]-G-[STIM]-
+                    [LIVMFY](3)-[DE]-[EK]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: A majority.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [FYW]-P-[GS]-N-[LIVM]-R-[EQ]-L-x-[NHAT]
+-Sequences known to belong to this class detected by the pattern: Almost   all
+ of these proteins.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Morrett E., Segovia L.
+     J. Bacteriol. 175:6067-6074(1993).
+[ 2] Austin S., Kundrot C., Dixon R.
+     "Influence of a mutation in the putative nucleotide binding site of
+     the nitrogen regulatory protein NTRC on its positive control
+     function."
+     Nucleic Acids Res. 19:2281-2287(1991).
+     PubMed=2041769
+[ 3] Albright L.M., Huala E., Ausubel F.M.
+     "Prokaryotic signal transduction mediated by sensor and regulator
+     protein pairs."
+     Annu. Rev. Genet. 23:311-336(1989).
+     PubMed=2694934; DOI=10.1146/annurev.ge.23.120189.001523
+[ 4] Austin S., Dixon R.
+     "The prokaryotic enhancer binding protein NTRC has an ATPase activity
+     which is phosphorylation and DNA dependent."
+     EMBO J. 11:2219-2228(1992).
+     PubMed=1534752
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

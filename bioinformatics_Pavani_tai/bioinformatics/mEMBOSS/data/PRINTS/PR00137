@@ -1,0 +1,34 @@
+LYSOZYME
+Lysozyme is a muramidase that hydrolyses beta-1,4-links between N-acetyl-
+muramic acid and N-acetyl-D-glucosamine in the peptidoglycan of bacterial 
+cell walls [1], thus helping to fight invading bacteria. In this capacity,
+the enzyme is found in tears and saliva [2], but it has also been recruited
+for a digestive role in the true stomach (abomasum) of ruminants and 
+colobine monkeys: here it probably degrades the cell walls of bacteria 
+passing from the foregut, allowing the breakdown products to be digested by
+other stomach enzymes [3]. The stomach form of lysozyme is endowed with 
+special physiochemical properties that allow it to function in an acidic 
+and protease-rich environment.
+
+Lysozyme C is similar to alpha-lactalbumin in terms of primary sequence and
+structure [4], and both have probably evolved from a common ancestral 
+protein. There is, however, no similarity in function, lactalbumin being 
+involved in the formation of lactose and is essential for milk production. 
+Another significant difference between the 2 enzymes is that while all 
+lactalbumins have the ability to bind calcium, this property is restricted 
+to only a few lysozymes [5]. 
+
+LYSOZYME is a 6-element fingerprint that provides a signature for the 
+lysozyme C family of enzymes. The fingerprint was derived from an initial
+alignment of 6 sequences: motif 4 encodes the region involved in calcium 
+binding, and together with motif 3 contains 3 of the 8 cysteine residues 
+conserved in both lysozymes and lactalbumins (cf. PROSITE pattern 
+LACTALBUMIN_LYSOZYME (PS00128)). Two iterations on OWL20.0 were required to
+reach convergence, at which point a true set comprising 79 sequences was 
+identified. Several partial matches were also found: these include a 
+lysozyme fragment that lacks the portion of sequence bearing motif 1, and 
+several lactalbumins and other lysozyme fragments that match only 2 motifs
+(largely motifs 1, 3 or 4).
+
+An update on SPTR37_9f identified a true set of 58 sequences, and 29
+partial matches.

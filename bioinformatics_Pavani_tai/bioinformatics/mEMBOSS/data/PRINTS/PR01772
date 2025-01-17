@@ -1,0 +1,31 @@
+JNKMAPKINASE
+MAP (Mitogen Activated Protein) kinases participate in kinase cascades,  
+whereby at least 3 protein kinases act in series, culminating in activation 
+of MAP kinase [1-2]. MAP kinases are activated by dual phosphorylation 
+on both tyrosine and threonine residues of a conserved TXY motif.
+
+JNK (Jun N-terminal Kinase), also known as Stress Activated Protein Kinase 
+(SAPK), belongs to the family of MAP kinases. JNK was first identified in 
+1990 as a microtubule-associated kinase from livers of cycloheximide-treated
+rats [3]. Later, it was purified by absorption to a c-Jun fusion protein 
+[4]. JNKs are activated by cytokines, certain ligands for GPCRs, agents 
+that interfere with DNA and protein synthesis, and to some extent by 
+growth factors, serum and transforming agents. Three genes have been 
+identified in humans: JNK1, JNK2 and JNK3. Knockouts of these genes have 
+revealed that either JNK1 or JNK2 must have an anti-apoptotic role [5].
+
+JNKMAPKINASE is a 9-element fingerprint that provides a signature for the 
+JNK MAP kinases. The fingerprint was derived from an initial alignment of 9
+sequences: the motifs were drawn from conserved regions spanning virtually 
+the full alignment length, focusing on those sections that characterise the 
+JNK enzymes but distinguish them from the rest of the MAP kinase family -
+motif 1 includes the C-terminus of alpha-helix 2; motif 2 spans beta-strand
+8, helix 3 and the N-terminus of helix 4; motif 3 encodes the C-terminus of
+helix 4; motif 5 includes the N-terminus of helix 5; motif 6 includes the
+C-terminal two-thirds of helix 8; motif 7 includes helix 11; motif 8
+includes helix 12; and motif 9 spans the C-terminus of helix 14 and helix 15.
+Two iterations on SPTR40_20f were required to reach convergence, at which 
+point a true set comprising 18 sequences was identified. Several partial
+matches were also found: O44408 and O44182 are hypothetical proteins from 
+C.elegans that match 3 or 4 motifs; and Q9XXV1 is a MAP kinase related 
+protein from Tetrahymena pyriformis that matches 2 motifs.

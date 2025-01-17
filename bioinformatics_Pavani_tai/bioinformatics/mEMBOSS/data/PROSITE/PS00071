@@ -1,0 +1,49 @@
+********************************************************
+* Glyceraldehyde 3-phosphate dehydrogenase active site *
+********************************************************
+
+Glyceraldehyde  3-phosphate  dehydrogenase  (EC 1.2.1.12)  (GAPDH)  [1]  is  a
+tetrameric NAD-binding enzyme common to both the  glycolytic and gluconeogenic
+pathways. A cysteine in the middle of the  molecule  is  involved in forming a
+covalent  phosphoglycerol  thioester intermediate.   The sequence  around this
+cysteine is  totally  conserved   in  eubacterial and eukaryotic GAPDHs and is
+also present, albeit in a  variant  form,  in  the  otherwise highly divergent
+archaebacterial GAPDH [2].
+
+Escherichia coli  D-erythrose  4-phosphate  dehydrogenase (E4PDH) (gene epd or
+gapB) is an enzyme highly related to GAPDH [3].
+
+-Consensus pattern: [ASV]-S-C-[NT]-T-{S}-x-[LIM]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Bacillus megaterium GAPDH which has  Pro instead of Ser in position 2  of
+ the pattern.
+-Other sequence(s) detected in Swiss-Prot: 5.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Harris J.I., Waters M.
+     (In) The Enzymes (3rd edition) 13:1-50(1976).
+[ 2] Fabry S., Lang J., Niermann T., Vingron M., Hensel R.
+     "Nucleotide sequence of the glyceraldehyde-3-phosphate dehydrogenase
+     gene from the mesophilic methanogenic archaebacteria Methanobacterium
+     bryantii and Methanobacterium formicicum. Comparison with the
+     respective gene structure of the closely related extreme thermophile
+     Methanothermus fervidus."
+     Eur. J. Biochem. 179:405-413(1989).
+     PubMed=2492940
+[ 3] Zhao G., Pease A.J., Bharani N., Winkler M.E.
+     "Biochemical characterization of gapB-encoded erythrose 4-phosphate
+     dehydrogenase of Escherichia coli K-12 and its possible role in
+     pyridoxal 5'-phosphate biosynthesis."
+     J. Bacteriol. 177:2804-2812(1995).
+     PubMed=7751290
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

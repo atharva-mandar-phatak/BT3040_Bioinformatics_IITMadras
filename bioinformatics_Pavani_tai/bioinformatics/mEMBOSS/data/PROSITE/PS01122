@@ -1,0 +1,89 @@
+******************************************
+* Caspase family signatures and profiles *
+******************************************
+
+Interleukin-1 beta converting enzyme (EC 3.4.22.36) (ICE) [1,2] is responsible
+for the cleavage of the IL-1 beta precursor at an Asp-Ala bond to generate the
+mature biologically  active  cytokine.  ICE  a  thiol protease composed of two
+subunits of 10 (p10) and 20 Kd (p20), both derived by the autocleavage of a 45
+Kd precursor  (p45). Two residues are implicated in the catalytic mechanism: a
+cysteine and an histidine. They are located  in the P20 subunit after cleavage
+of  the  precursor.  ICE  belongs  to  a family  of  peptidases  [3] which  is
+implicated in  programmed  cell  death  (apoptosis)  and which has been termed
+'caspase' for cysteine aspase. ICE is known as Caspase-1 and the other members
+of this family [4] are:
+
+ - Caspase-2 (ICH-1, NEDD-2).
+ - Caspase-3 (also  known  as apopain, CPP32, Yama), a protease which,  at the
+   onset of  apoptosis,  proteolytically  cleaves  poly(ADP-ribose) polymerase
+   (see <PDOC00360>) at an Asp-Gly bond.
+ - Caspase-4 (ICH-2, TX, ICErel-II).
+ - Caspase-5 (ICH-3, TY, ICErel-III).
+ - Caspase-6 (MCH-2).
+ - Caspase-7 (MCH-3, ICE-LAP3, CMH-1, SCA-2, LICE2).
+ - Caspase-8 (MCH-5, MACH, FLICE).
+ - Caspase-9 (MCH-6, ICE-LAP6).
+ - Caspase-10 (MCH-4, FLICE2).
+ - Caspase-11.
+ - Caspase-12.
+ - Caspase-13 (ERICE).
+ - Caspase-14.
+ - Caenorhabditis elegans ced-3 involved in the initiation of apoptosis.
+ - Drosophila Ice.
+
+We have  developed  signature  patterns for both active site residues. We also
+developed  two  profiles, one specific for the caspase P10 subunit and one for
+the caspase P20 subunit.
+
+-Consensus pattern: H-x(2,4)-[SC]-x(2)-{A}-x-[LIVMF](2)-[ST]-H-G
+                    [The second H is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: K-P-K-[LIVMF]-[LIVMFY]-[LIVMF](2)-[QP]-[AF]-C-[RQG]-[GE]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C14 in the classification of peptidases
+ [5,E1].
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Thornberry N.A., Molineaux S.M.
+     "Interleukin-1 beta converting enzyme: a novel cysteine protease
+     required for IL-1 beta production and implicated in programmed cell
+     death."
+     Protein Sci. 4:3-12(1995).
+     PubMed=7773174
+[ 2] Kumar S.
+     "ICE-like proteases in apoptosis."
+     Trends Biochem. Sci. 20:198-202(1995).
+     PubMed=7610484
+[ 3] Nicholson D.W., Thornberry N.A.
+     "Caspases: killer proteases."
+     Trends Biochem. Sci. 22:299-306(1997).
+     PubMed=9270303
+[ 4] Alnemri E.S., Livingston D.J., Nicholson D.W., Salvesen G.,
+     Thornberry N.A., Wong W.W., Yuan J.
+     "Human ICE/CED-3 protease nomenclature."
+     Cell 87:171-171(1996).
+     PubMed=8861900
+[ 5] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of peptidases."
+     Biochem. J. 290:205-218(1993).
+     PubMed=8439290
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,62 @@
+************************************
+* Mu homology domain (MHD) profile *
+************************************
+
+The mu  homology  domain  (MHD)  is  an ~280 residue module, which is found in
+endocytotic proteins involved in clathrin-mediated endocytosis:
+
+ - Mu subunits of adaptor protein (AP) complexes, AP-1, AP-2, AP-3, and AP-4.
+ - Proteins of the stonin family.
+
+The MHD  domain  has  been  shown  to bind to the C2B domain of members of the
+synaptotagmin family.  In  addition,  the mu2 subunit MHD domain also binds to
+the tyrosine-based  motif  (Tyr-x-x-hydrophobic  residue) that marks many cell
+surface for  endocytosis.  Residues  involved  in  this  interaction  are  not
+conserved in  stonins,  which  are  not  able to bind tyrosine-based endocytic
+signals [1,2,3].
+
+The mu2  subunit  MHD  domain  has an elongated, banana-shaped, all beta-sheet
+structure (see   <PDB:1BW8>).  It  can  be  considered  as  two  beta-sandwich
+subdomains (A  and  B),  with subdomain B inserted between strands 6 and 15 of
+subdomain A,  and  joined  edge  to  edge  such  that  the convex surface is a
+continuous nine-stranded  mixed  beta-sheet  that runs the whole length of the
+molecule. The  tyrosine  based  signal  binds  to a site on the surface of two
+parallel beta-sheet strands (beta1 and beta16) in subdomain A [4].
+
+The profile we developed covers the entire MHD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2005 / First entry.
+
+[ 1] Martina J.A., Bonangelino C.J., Aguilar R.C., Bonifacino J.S.
+     "Stonin 2: an adaptor-like protein that interacts with components of
+     the endocytic machinery."
+     J. Cell Biol. 153:1111-1120(2001).
+     PubMed=11381094
+[ 2] Walther K., Krauss M., Diril M.K., Lemke S., Ricotta D., Honing S.,
+     Kaiser S., Haucke V.
+     "Human stoned B interacts with AP-2 and synaptotagmin and facilitates
+     clathrin-coated vesicle uncoating."
+     EMBO Rep. 2:634-640(2001).
+     PubMed=11454741; DOI=10.1093/embo-reports/kve134
+[ 3] Walther K., Diril M.K., Jung N., Haucke V.
+     "Functional dissection of the interactions of stonin 2 with the
+     adaptor complex AP-2 and synaptotagmin."
+     Proc. Natl. Acad. Sci. U.S.A. 101:964-969(2004).
+     PubMed=14726597; DOI=10.1073/pnas.0307862100
+[ 4] Owen D.J., Evans P.R.
+     "A structural explanation for the recognition of tyrosine-based
+     endocytotic signals."
+     Science 282:1327-1332(1998).
+     PubMed=9812899
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

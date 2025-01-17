@@ -1,0 +1,68 @@
+****************************************************
+* Glu / Leu / Phe / Val dehydrogenases active site *
+****************************************************
+
+ - Glutamate  dehydrogenases  (EC 1.4.1.2, EC 1.4.1.3, and EC 1.4.1.4) (GluDH)
+   are enzymes that catalyze the NAD- or NADP-dependent reversible deamination
+   of glutamate into  alpha-ketoglutarate [1,2]. GluDH isozymes are  generally
+   involved with either ammonia assimilation or glutamate catabolism.
+ - Leucine dehydrogenase (EC 1.4.1.9) (LeuDH) is a  NAD-dependent enzyme  that
+   catalyzes the reversible deamination of leucine and several other aliphatic
+   amino acids to their keto analogues [3].
+ - Phenylalanine dehydrogenase (EC 1.4.1.20) (PheDH) is a NAD-dependent enzyme
+   that catalyzes the  reversible deamidation of  L-phenylalanine into phenyl-
+   pyruvate [4].
+ - Valine  dehydrogenase  (EC 1.4.1.8) (ValDH) is a NADP-dependent enzyme that
+   catalyzes the  reversible   deamidation   of   L-valine   into  3-methyl-2-
+   oxobutanoate [5].
+
+These  dehydrogenases  are structurally and functionally related.  A conserved
+lysine  residue located in a  glycine-rich  region has been  implicated in the
+catalytic mechanism. The conservation of the region around this residue allows
+the derivation of a signature pattern for such type of enzymes.
+
+-Consensus pattern: [LIV]-x(2)-G-G-[SAG]-K-x-[GV]-x(3)-[DNST]-[PL]
+                    [K is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: All known sequences from this family have Pro in the  last  position of
+ the pattern with the exception of yeast GluDH which as Leu.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Britton K.L., Baker P.J., Rice D.W., Stillman T.J.
+     "Structural relationship between the hexameric and tetrameric family
+     of glutamate dehydrogenases."
+     Eur. J. Biochem. 209:851-859(1992).
+     PubMed=1358610
+[ 2] Benachenhou-Lahfa N., Forterre P., Labedan B.
+     J. Mol. Evol. 36:335-346(1993).
+[ 3] Nagata S., Tanizawa K., Esaki N., Sakamoto Y., Ohshima T., Tanaka H.,
+     Soda K.
+     "Gene cloning and sequence determination of leucine dehydrogenase from
+     Bacillus stearothermophilus and structural comparison with other
+     NAD(P)+-dependent dehydrogenases."
+     Biochemistry 27:9056-9062(1988).
+     PubMed=3069133
+[ 4] Takada H., Yoshimura T., Ohshima T., Esaki N., Soda K.
+     "Thermostable phenylalanine dehydrogenase of Thermoactinomyces
+     intermedius: cloning, expression, and sequencing of its gene."
+     J. Biochem. 109:371-376(1991).
+     PubMed=1880121
+[ 5] Tang L., Hutchinson C.R.
+     "Sequence, transcriptional, and functional analyses of the valine
+     (branched-chain amino acid) dehydrogenase gene of Streptomyces
+     coelicolor."
+     J. Bacteriol. 175:4176-4185(1993).
+     PubMed=8320231
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

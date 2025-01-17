@@ -1,0 +1,56 @@
+***********************************************
+* RNA 3'-terminal phosphate cyclase signature *
+***********************************************
+
+RNA 3'-terminal  phosphate cyclase (EC 6.5.1.4) [1,2] catalyzes the conversion
+of 3'-phosphate  to  a  2',3'-cyclic  phosphodiester  at  the  end of RNA. The
+biological role of this enzyme is unknown but it is likely to function in some
+aspects of cellular RNA processing.
+
+The reaction catalyzed by the enzyme occurs in three steps:
+
+ 1) adenylation of the enzyme by ATP;
+ 2) the  enzyme  acts  on  RNA-3'terminal  phosphate to produce RNA-3'terminal
+    diphosphate adenylate;
+ 3) Release  of  AMP and cyclisation by a non catalytic nucleophilic attack by
+    the adjacent 2'hydroxyl on the phosphorus in the diester linkage.
+
+This enzyme, which has been characterized in human (where there seems to be at
+least three   isozymes)   and  Escherichia  coli  (gene  rtCA),  seems  to  be
+taxonomically widespread.  It is found in insects, plants, fungi (gene RTC1 in
+yeast) and in archeabacteria.
+
+RNA cyclase is a protein of from 36 to 42 Kd. The best conserved region, which
+we use  as  a signature pattern, is a glycine-rich stretch of residues located
+in the  central  part of the sequence and which is reminiscent of various ATP,
+GTP or  AMP glycine-rich loops. In this context, the conserved Arg (His in the
+E.coli enzyme) could be the AMP-binding residue.
+
+-Consensus pattern: [RH]-G-x(2)-P-x-G(3)-x-[LIV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Filipowicz W.; filipowi@fmi.ch.
+
+-Last update: November 1997 / First entry.
+
+[ 1] Genschik P., Billy E., Swianiewicz M., Filipowicz W.
+     "The human RNA 3'-terminal phosphate cyclase is a member of a new
+     family of proteins conserved in Eucarya, Bacteria and Archaea."
+     EMBO J. 16:2955-2967(1997).
+     PubMed=9184239; DOI=10.1093/emboj/16.10.2955
+[ 2] Filipowicz W., Vicente O.
+     "RNA 3'-terminal phosphate cyclase from HeLa cells."
+     Methods Enzymol. 181:499-510(1990).
+     PubMed=2199762
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,63 @@
+*********************************
+* Dps protein family signatures *
+*********************************
+
+Escherichia coli protein dps [1] is a DNA-binding protein, synthesized  during
+prolonged starvation,  that  seems  to  protect DNA from oxidative damage. Dps
+binds DNA without any apparent sequence specificity. It  is a protein of about
+19 Kd  that  associates  into a complex  of 12 subunits  forming  two  stacked
+hexameric rings.
+
+Proteins similar to dps have been found in other bacteria:
+
+ - Bacillus subtilis protein mrgA.
+ - Antigen TpF1/TyF1 from Treponema pallidum and pertenue.
+ - Haemophilus ducreyi fine tangled pili major subunit (gene ftpA).
+ - Helicobacter pylori neutrophil-activating protein A (gene napA).
+ - Listeria innocua non-heme iron-containing ferritin.
+ - Synechococcus  PCC  7942  nutrient-stress induced DNA binding protein (gene
+   dpsA).
+ - A low-temperature induced protein from Anabaena variabilis.
+ - Haemophilus influenzae hypothetical protein HI1349.
+ - Synechocystis strain PCC 6803 hypothetical protein slr1894.
+ - A hypothetical protein  encoded  in  the 5' region of a  gene coding  for a
+   bromoperoxidase, in plasmid pOP2621 of Streptomyces aureofaciens.
+
+All these proteins  share  a conserved  region of  about 50 residues in  their
+central region.  We  have  developed  two signature patterns derived from both
+extremities of that region.
+
+-Consensus pattern: H-[FW]-x-[LIVM]-x-G-x(5)-[LV]-H-x(3)-[DE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFY]-[DH]-x-[LIVM]-[GA]-E-R-x(3)-[LIF]-[GDN]-x(2)-[PA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: There  seems [2] to be a structural similarity between this family  and
+ that of eukaryotic ferritins (see <PDOC00181>).
+
+-Last update: July 1998 / Patterns and text revised.
+
+[ 1] Almiron M., Link A.J., Furlong D., Kolter R.
+     "A novel DNA-binding protein with regulatory and protective roles in
+     starved Escherichia coli."
+     Genes Dev. 6:2646-2654(1992).
+     PubMed=1340475
+[ 2] Bozzi M., Mignogna G., Stefanini S., Barra D., Longhi C., Valenti P.,
+     Chiancone E.
+     "A novel non-heme iron-binding ferritin related to the DNA-binding
+     proteins of the Dps family in Listeria innocua."
+     J. Biol. Chem. 272:3259-3265(1997).
+     PubMed=9013563
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

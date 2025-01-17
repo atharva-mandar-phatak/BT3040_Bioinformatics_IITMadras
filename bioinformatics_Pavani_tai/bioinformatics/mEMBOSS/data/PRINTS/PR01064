@@ -1,0 +1,43 @@
+OREXINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The hypothalamus plays a central role in the integrated control of feeding
+and energy homeostasis [6]. A new family of neuropeptides, orexins, have
+been identified that bind and activate two closely related (previously) 
+orphan GPCRs [6,7]. Orexins stimulate appetite and food consumption [7].
+Their genes are expressed bilaterally and symmetrically in the lateral
+hypothalamus, which has been shown to be the "feeding centre". By contrast,
+the "satiety centre" is expressed in the ventromedial hypothalamus and is
+dominated by the leptin-regulated neuropeptide network. 
+
+OREXINR is a 10-element fingerprint that provides a signature for orexin
+receptors. The fingerprint was derived from an initial alignment of 4
+sequences, focusing on those sections that characterise the orexin receptors
+but distinguish them from the rest of the rhodopsin-like GPCR family - motifs
+1 and 2 reside at the N-terminus; motif 3 spans the C-terminus of TM domain
+2, leading into the first external loop; motif 4 lies in the second
+cytoplasmic loop; motifs 5 and 6 span the second external loop; motifs 7 and
+8 span the third cytoplasmic loop; motif 9 lies in the third external loop;
+and motif 10 resides at the C-terminus. A single iteration on OWL31.1 was 
+required to reach convergence, no further sequences being identified beyond
+the starting set. A single partial match was found, an orexin receptor 
+fragment that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 2 sequences.

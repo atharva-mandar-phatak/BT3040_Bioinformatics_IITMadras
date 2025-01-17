@@ -1,0 +1,29 @@
+HYALURONDASE
+O-Glycosyl hydrolases (EC  3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 56 encompasses a group of hyaluronidases (EC 3.2.1.35)
+that includes venom hyaluronidases [5] and mammalian sperm surface proteins
+(PH-20).
+
+The venom of honeybees contains several biologically-active peptides and 
+two enzymes, one of which is a hyaluronidase [5]. The amino acid sequence
+of bee venom hyaluronidase contains 349 amino acids, and includes four
+cysteines and a number of potential glycosylation sites [5]. The sequence
+shows a high degree of similarity to PH-20, a membrane protein of mammalian
+sperm involved in sperm-egg adhesion, supporting the view that hyaluronidases
+play a role in fertilisation [5]. 
+
+HYALURONDASE is an 8-element fingerprint that provides a signature for bee
+venom hyaluronidases. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs were drawn from conserved sections spanning 
+virtually the full alignment length, focusing on those regions that 
+characterise the venom hyaluronidases but distinguish them from other family
+56 glycosyl hydrolases. A single iteration on OWL30.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+A single partial match was also found, a closely related C.elegans sequence
+that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

@@ -1,0 +1,42 @@
+RDC1ORPHANR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Several 7TM receptors have been cloned but their endogenous ligands are
+unknown; these have been termed orphan receptors. Canine RDC1 receptors
+were first characterised by Libert et al. as belonging to a new subfamily
+of receptors with a short non-glycosylated (extracellular) N-terminal
+extension [6]. The human homologue of RDC1 was originally believed to code
+for a VIP receptor [7], but this is no longer thought to be correct [8].
+
+RDC1ORPHANR is a 9-element fingerprint that provides a signature for the
+RDC1 orphan receptors. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the RDC1 receptors but distinguish
+them from the rest of the rhodopsin-like superfamily - motifs 1 and 2 lie at
+the N-terminus; motif 3 spans the first cytoplasmic loop; motif 4 spans the
+first external loop; motif 5 spans the second cytoplasmic loop; motifs 6
+and 7 span the second external loop; motif 8 spans the third cytoplasmic
+loop; and motif 9 resides at the C-terminus. A single iteration on OWL29.0
+was required to reach convergence, no further sequences being identified
+beyond the starting set. A single partial match was also found, HSU67784,
+a human RDC1 fragment.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

@@ -1,0 +1,41 @@
+***********************************
+* Ribosomal protein L14 signature *
+***********************************
+
+Ribosomal protein L14 is one of the proteins from the large ribosomal subunit.
+In eubacteria,  L14 is known to bind directly to the 23S rRNA. It belongs to a
+family of ribosomal proteins which, on the basis of sequence similarities [1],
+groups:
+
+ - Eubacterial L14.
+ - Algal and plant chloroplast L14.
+ - Cyanelle L14.
+ - Archaebacterial L14.
+ - Yeast L17A.
+ - Mammalian L23.
+ - Caenorhabditis elegans L23 (B0336.10).
+ - Higher eukaryotes mitochondrial L14.
+ - Yeast mitochondrial Yml38 (gene MRPL38).
+
+L14 is a protein of 119 to 137 amino-acid residues. As a signature pattern, we
+selected a conserved region located in the C-terminal half of these proteins.
+
+-Consensus pattern: [GA]-[LIV](3)-x(9,10)-[DNS]-G-x(4)-[FY]-x(2)-[NT]-x(2)-V-
+                    [LIV]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for pine L14 and for Acanthamoeba mitochondrial L14.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K., Suzuki K.
+     Protein Seq. Data Anal. 5:301-313(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

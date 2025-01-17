@@ -1,0 +1,81 @@
+************************************************
+* Zinc finger CHY-type and CTCHY-type profiles *
+************************************************
+
+Pirh2  is  an  eukaryotic  ubiquitin  protein  ligase, which has been shown to
+promote  p53  degradation  in mammals. Pirh2 physically interacts with p53 and
+promotes  ubiquitination  of  p53  independently  of MDM2. Like MDM2, Pirh2 is
+thought  to  participate  in an autoregulatory feedback loop that controls p53
+function.  Pirh2  proteins  contain three distinct zinc fingers, the CHY-type,
+the  CTCHY-type  which  is  C-terminal  to the CHY-type zinc finger and a RING
+finger  (see <PDOC00449>). The CHY-type zinc finger has no known functions but
+the  region encompassing the CTCHY-type zinc finger is required for binding to
+p53 in mammals [1].
+
+The  CTCHY-type  zinc  finger  is  only  found  in pirh2 proteins, whereas the
+CHY-type zinc finger is also found in the following proteins:
+
+ - Yeast  helper  of Tim protein 13. Hot13 may have a role in the assembly and
+   recycling  of  the small Tims, a complex of the mitochondrial intermembrane
+   space  that  participates  in  the TIM22 import pathway for assembly of the
+   inner membrane [2].
+ - Several  plant  hypothetical  proteins that also contain hemerythrin cation
+   binding domains.
+ - Several protozoan hypothetical proteins that also contain a Myb domain.
+
+The  solution  structure  of  the CHY-type and the CTCHY-type zinc fingers has
+been  solved  (see  <PDB:2DKT>).  Each  conserved region binds 3 zinc atoms as
+shown in the following schematic representations:
+
+The CHY-type zinc finger:
+
+                      ++---------+-----+
+                      ||         |     |
+         CXHYxxxxxxxxxCCxxxxxCxxCHxxxxxHxxxxxxxxxxxCxxCxxxxxxxxxCxxC
+         | |                 |  |                  |  |         |  |
+         +-+-----------------+--+                  +--+---------+--+
+
+The CTCHY-type zinc finger:
+
+                             +--+------------+------+
+                             |  |            |      |
+              CxxCxxxxxxxxxxHCxxCxxCxxxxxxxxxHCxxCxxCxxxxxxxxHxC
+              |  |          |      |          |  |           | |
+              +--+----------+------+          +--+-----------+-+
+
+'C': conserved cysteine involved in the binding of one zinc atom.
+'H': conserved histidine involved in the binding of one zinc atom.
+
+The  first  profile  covers the entire CHY-type zinc finger and the second one
+the whole CTCHY-type zinc finger.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2006 / First entry.
+
+[ 1] Leng R.P., Lin Y., Ma W., Wu H., Lemmers B., Chung S., Parant J.M.,
+     Lozano G., Hakem R., Benchimol S.
+     "Pirh2, a p53-induced ubiquitin-protein ligase, promotes p53
+     degradation."
+     Cell 112:779-791(2003).
+     PubMed=12654245
+[ 2] Curran S.P., Leuenberger D., Leverich E.P., Hwang D.K., Beverly K.N.,
+     Koehler C.M.
+     "The role of Hot13p and redox chemistry in the mitochondrial TIM22
+     import pathway."
+     J. Biol. Chem. 279:43744-43751(2004).
+     PubMed=15294910; DOI=10.1074/jbc.M404878200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

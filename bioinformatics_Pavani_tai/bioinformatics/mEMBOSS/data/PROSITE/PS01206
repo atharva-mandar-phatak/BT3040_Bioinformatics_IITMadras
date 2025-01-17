@@ -1,0 +1,75 @@
+*************************************************
+* Amiloride-sensitive sodium channels signature *
+*************************************************
+
+Amiloride-sensitive sodium  channels  (ASC) [1,2,3] are  sodium permeable non-
+voltage-sensitive ion  channels  inhibited  by  the  diuretic  amiloride. They
+mediate the  electrodiffusion  of the luminal sodium (and water, which follows
+osmotically) through  the apical membrane of epithelial cells. In vertebrates,
+these channels  control  the reabsorption of sodium in kidney, colon, lung and
+sweat glands.  They also play a role in taste perception. The ASC are composed
+of three  homologous  subunits, called alpha, beta and gamma. A fourth subunit
+(delta) can  replace  the  alpha  subunit [4]. The vertebrate ASC subunits are
+homologous to    the   degenerins [5] of Caenorhabditis elegans: deg-1, del-1,
+mec-4, mec-10  and  unc-8.  They  are  proteins  that  can be mutated to cause
+neuronal degradation. They are also thought to form sodium channels.
+
+This family also includes:
+
+ - Mammalian  amiloride-sensitive  brain  sodium  channel BNAC1 (also known as
+   degenerin channel  MDEG).  This  is  a cation channel permeable for sodium,
+   potassium and lithium.
+ - Caenorhabditis elegans hypothetical proteins C41C4.5, T28F4.2 and ZK770.1.
+
+Structurally, the  proteins  that  belong  to this family consist of about 510
+to 920  amino  acid  residues.  They  are  made of an intracellular N-terminus
+region followed  by  a  transmembrane  domain,  a  large extracellular loop, a
+second transmembrane segment and a C-terminal intracellular tail [6].
+
+The signature  we  developed  to  pick  up  these  proteins corresponds to the
+beginning of  a  conserved  cysteine-rich  region  (there  are  nine conserved
+cysteines in a domain of about 65 residues) located at the C-terminal  part of
+the extracellular loop.
+
+-Consensus pattern: Y-x(2)-[EQTFPMSI]-x-C-x(3)-C-x-[QTAVKS]-x(2)-[LIVMT]-
+                    [LIVMSAQ]-x(2)-C-x-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Garty H.
+     "Molecular properties of epithelial, amiloride-blockable Na+
+     channels."
+     FASEB J. 8:522-528(1994).
+     PubMed=8181670
+[ 2] Jentsch T.J.
+     "Trinity of cation channels."
+     Nature 367:412-413(1994).
+     PubMed=7509038; DOI=10.1038/367412a0
+[ 3] Le T., Saier M.H. Jr.
+     "Phylogenetic characterization of the epithelial Na+ channel (ENaC)
+     family."
+     Mol. Membr. Biol. 13:149-157(1996).
+     PubMed=8905643
+[ 4] Garcia-Anoveros J., Ma C., Chalfie M.
+     Curr. Biol. 5:441-448(1995).
+[ 5] Waldmann R., Champigny G., Bassilana F., Voilley N., Lazdunski M.
+     "Molecular cloning and functional expression of a novel
+     amiloride-sensitive Na+ channel."
+     J. Biol. Chem. 270:27411-27414(1995).
+     PubMed=7499195
+[ 6] Snyder P.M., McDonald F.J., Stokes J.B., Welsh M.J.
+     "Membrane topology of the amiloride-sensitive epithelial sodium
+     channel."
+     J. Biol. Chem. 269:24379-24383(1994).
+     PubMed=7929098
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

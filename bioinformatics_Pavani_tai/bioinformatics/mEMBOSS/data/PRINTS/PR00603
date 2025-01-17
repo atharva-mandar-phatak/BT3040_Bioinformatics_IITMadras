@@ -1,0 +1,28 @@
+CYTOCHROMEC1
+Cytochrome bc1 complex (ubiquinol:ferricytochrome c oxidoreductase) is 
+found in mitochondria, photosynthetic bacteria and other prokaryotes [1].
+It is minimally composed of three subunits: cytochrome b, carrying a low- 
+and a high-potential haem group; cytochrome c1 (cyt c1); and a high-
+potential Rieske iron-sulphur protein. The general function of the complex 
+is electron transfer between two mobile redox carriers, ubiquinol and 
+cytochrome c; the electron transfer is coupled with proton translocation 
+across the membrane, thus generating proton-motive force in the form of an
+electrochemical potential that can drive ATP synthesis. In its structure and
+functions, the cytochrome bc1 complex bears extensive analogy to the
+cytochrome b6f complex of chloroplasts and cyanobacteria; cyt c1 plays an
+analogous role to cytochrome f, in spite of their different structures [2]. 
+
+CYTOCHROMEC1 is an 8-element fingerprint that provides a signature for cyt
+c1. The fingerprint was derived from an initial alignment of 10 sequences:
+motif 2 includes two invariant Cys residues that covalently bind the haem
+group, and a His residue, which provides the fifth haem iron ligand (cf.
+PROSITE pattern CYTOCHROME_C); and motif 6 includes an invariant Met, which
+provides the sixth haem iron ligand [3,4]. Two iterations on OWL28.1 were
+required to reach convergence, at which point a true set comprising 16
+sequences was identified. Three partial matches were also found: A44033 is
+a Crithidia fasciculata cyt c1 fragment lacking motifs 7 and 8; and S65505
+and S65506 are cyt c1 N-terminal fragments, from C. fasciculata and Bodo
+caudatus respectively, which match only the first three motifs.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 3
+partial matches.

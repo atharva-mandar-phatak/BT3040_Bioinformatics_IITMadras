@@ -1,0 +1,28 @@
+HYPRGLYCEMC2
+Hyperglycemic hormone, which controls blood sugar levels, is an abundant
+peptide in the sinus glands of isopods and decapods [1,2]. The peptide is a
+potent secretagogue, releasing digestive enzymes from the hepatopancreas.
+It may act as a stress hormone. The peptide contains around 70 amino acid
+residues, and includes 6 cysteine residues involved in disulphide bond
+formation [2]. The sequences show a high degree of similarity to the
+American lobster molt-inhibiting hormone [3], which also shows hyper-
+glycemic hormone activity.
+
+Sequence analysis reveals at least 2 discrete sequence families,
+characterised by distinctive N- and C-terminal signatures: broadly, the
+families represent separate groups of the crustacean hyperglycemic-like
+hormones and the molt-inhibiting-like hormones. The positions of 5 of the
+6 cysteine residues are conserved between these families, the first Cys
+being displaced by one residue position.
+
+HYPRGLYCEMC2 is a 4-element fingerprint that provides a signature for the
+molt-inhibiting-like hormones (type 2). The fingerprint was derived from
+an initial alignment of 4 sequences: motif 1 was drawn from the conserved
+N-terminal region of the alignment; motif 2 lies in the central portion and
+includes the fourth Cys residue; and motifs 3 and 4 were drawn from the
+C-terminal region. A single iteration on OWL27.1 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+This family does not include the lobster molt-inhibiting hormone MIH_HOMAM,
+whose sequence signature is compatible with type 1 hyperglycemic hormones.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

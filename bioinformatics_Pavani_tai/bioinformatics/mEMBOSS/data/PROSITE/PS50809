@@ -1,0 +1,100 @@
+***********************************************
+* DM DNA-binding domain signature and profile *
+***********************************************
+
+The DM (Doublesex/Mab-3)  domain  is  found  in proteins from worm to mammals.
+Null mutation  in  DM  domain  containing  proteins  doublesex  and  mab-3 are
+associated with   intersexual  phenotypes.  These  proteins  are  believed  to
+function as  transcription  factors  on  downstream  sex-determination  genes,
+especially on  neuroblast differenciation and yolk protein genes transcription
+[1,2].
+
+The DM    domain   binds   DNA   as  a  dimer,  allowing  the  recognition  of
+pseudopalindromic sequences  [3,4,5].  The  NMR  analysis of the DSX DM domain
+[5] revealed  a novel zinc module containing 'intertwined' CCHC and HCCC zinc-
+binding sites.  The recognition of the DNA requires the carboxy-terminal basic
+tail which contacts the minor groove of the target sequence.
+
+The way the 'intertwined' motif is binding two atoms of zinc is illustrated in
+the following schematic representation:
+
+                                            x x basic tail x x x Cter
+                               x  x       x
+                            x       H    C
+                         x        x  \ /  x
+                        x       x     Zn   x
+  Nter x x x x x x x x x C x x C     / \  x
+                       x  \  /      C x C
+                       x   Zn      x
+                        x / \    x
+                         HxxxC x
+
+'C': conserved cysteine involved in zinc binding.
+'H': conserved histidine involved in zinc binding.
+'Zn': zinc atom.
+
+Some of the proteins containing a DM domain are listed below.
+
+ - Mammalian DRMT1 and DRMT2 proteins. They are candidates for SRY independent
+   male to female sex reversal.
+ - Vertebrate  TERRA  proteins.  Play specific roles in early somitogenesis of
+   vertebrates.
+ - Drosophila doublesex  (DSX) male and female specific isoforms. Each isoform
+   is supposed   to  repress  expression  of  terminal  differentiation  genes
+   specific to  the  opposite  sex. The male isoform binds the fbe enhancer of
+   the yolk gene and prevent its expression [5].
+ - Caenorhabditis elegans  Male-ABnormal-3 (Mab-3) protein. Expressed in males
+   and repressed in  hermaphrodites.  Mutations  affect the differentiation of
+   certain tissues (intestine  and  lateral  epidermis)  in  males  but not in
+   hermaphrodites.
+
+As a  signature  pattern  for the DM domain, we selected the six cysteines and
+the two histidines of the zinc module. We also developed a profile that covers
+the whole DM domain.
+
+-Consensus pattern: C-x(2)-C-x(2)-H-x(8)-H-x(3,4)-C-x(4)-C-x-C-x(2,3)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / First entry.
+
+[ 1] Burtis K.C., Coschigano K.T., Baker B.S., Wensink P.C.
+     "The doublesex proteins of Drosophila melanogaster bind directly to a
+     sex-specific yolk protein gene enhancer."
+     EMBO J. 10:2577-2582(1991).
+     PubMed=1907913
+[ 2] Shen M.M., Hodgkin J.
+     "mab-3, a gene required for sex-specific yolk protein expression and a
+     male-specific lineage in C. elegans."
+     Cell 54:1019-1031(1988).
+     PubMed=3046751
+[ 3] Erdman S.E., Chen H.J., Burtis K.C.
+     "Functional and genetic characterization of the oligomerization and
+     DNA binding properties of the Drosophila doublesex proteins."
+     Genetics 144:1639-1652(1996).
+     PubMed=8978051
+[ 4] Yi W., Zarkower D.
+     "Similarity of DNA binding and transcriptional regulation by
+     Caenorhabditis elegans MAB-3 and Drosophila melanogaster DSX suggests
+     conservation of sex determining mechanisms."
+     Development 126:873-881(1999).
+     PubMed=9927589
+[ 5] Zhu L., Wilken J., Phillips N.B., Narendra U., Chan G., Stratton S.M.,
+     Kent S.B., Weiss M.A.
+     "Sexual dimorphism in diverse metazoans is regulated by a novel class
+     of intertwined zinc fingers."
+     Genes Dev. 14:1750-1764(2000).
+     PubMed=10898790
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

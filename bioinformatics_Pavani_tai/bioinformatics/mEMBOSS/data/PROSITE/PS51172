@@ -1,0 +1,87 @@
+*****************************************************
+* CBM3 (carbohydrate binding type-3) domain profile *
+*****************************************************
+
+Carbohydrate-binding  modules  (CBM)  have  been  classified into more than 40
+families  according  to  sequence  homology [E1]. Several cellulolytic enzymes
+share  a  conserved  region  of about 150 amino acid residues, the CBM3 domain
+[1].  It  has been classified in three different subtypes, termed family IIIa,
+IIIb and IIIc. The family IIIa (scaffoldin) and IIIb (mainly free enzymes) are
+closely  similar  in  their primary structures and both types bind strongly to
+crystalline  cellulose  [2,3].  Members  of  the  family  IIIc,  fails to bind
+crystalline  cellulose,  but serves in a 'helper' capacity by feeding a single
+incoming  cellulose  chain  into the active site of the neighbouring catalytic
+module pending hydrolysis [4,5].
+
+The  CBM3  domain  is  mainly  found C-terminal to the catalytic domain, which
+correspond  to a wide range  of  bacterial glycosyl hydrolases  like  family 9
+(see <PDOC00511>), family 5 (see <PDOC00565>) and family 10 (see <PDOC00510>).
+
+The  crystal  structure  of  CBM3  has  been  solved  (see <PDB:1NBC>) [2]. It
+consists  of nine beta-strands which form a compact domain that has an overall
+prismatic  shape.  It  is  arranged in two antiparallel beta-sheets that stack
+face-to-face  to  form  a  beta sandwich with jelly roll topology. Two defined
+surfaces,  located  on opposite sides of the molecule, contain conserved polar
+and aromatic residues which are probably involved in the binding of the CBM to
+cellulose  [2,3].  The  first  one forms a planar strip whereas the second one
+forms a shallow groove.
+
+Some proteins known to contain a CBM3 domain are listed below:
+
+ - Clostridial  cellulosomal  scaffolding  proteins  cipA, cipC and cbpA. They
+   promote the   binding   of  cellulose  to  the  catalytic  domains  of  the
+   cellulolytic enzymes.
+ - Bacterial   cellulases   A, B, F, G, I, N, Y, Z   (Endo-1,4-beta-glucanase)
+   (EC 3.2.1.4).
+
+The profile we developed covers the whole CBM3 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  CBM3  domain  is also known as cellulose-binding domain family III
+ (CBD III).
+
+-Last update: December 2005 / First entry.
+
+[ 1] Poole D.M., Morag E., Lamed R., Bayer E.A., Hazlewood G.P.,
+     Gilbert H.J.
+     "Identification of the cellulose-binding domain of the cellulosome
+     subunit S1 from Clostridium thermocellum YS."
+     FEMS Microbiol. Lett. 78:181-186(1992).
+     PubMed=1490597
+[ 2] Tormo J., Lamed R., Chirino A.J., Morag E., Bayer E.A., Shoham Y.,
+     Steitz T.A.
+     "Crystal structure of a bacterial family-III cellulose-binding domain:
+     a general mechanism for attachment to cellulose."
+     EMBO J. 15:5739-5751(1996).
+     PubMed=8918451
+[ 3] Shimon L.J.W., Pages S., Belaich A., Belaich J.-P., Bayer E.A., Lamed R.,
+     Shoham Y., Frolow F.
+     "Structure of a family IIIa scaffoldin CBD from the cellulosome of
+     Clostridium cellulolyticum at 2.2 A resolution."
+     Acta Crystallogr. D 56:1560-1568(2000).
+     PubMed=11092922
+[ 4] Irwin D., Shin D.-H., Zhang S., Barr B.K., Sakon J., Karplus P.A.,
+     Wilson D.B.
+     "Roles of the catalytic domain and two cellulose binding domains of
+     Thermomonospora fusca E4 in cellulose hydrolysis."
+     J. Bacteriol. 180:1709-1714(1998).
+     PubMed=9537366
+[ 5] Gal L., Pages S., Gaudin C., Belaich A., Reverbel-Leroy C., Tardif C.,
+     Belaich J.-P.
+     "Characterization of the cellulolytic complex (cellulosome) produced
+     by Clostridium cellulolyticum."
+     Appl. Environ. Microbiol. 63:903-909(1997).
+     PubMed=9055408
+[E1] http://www.cazy.org/fam/CBM3.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

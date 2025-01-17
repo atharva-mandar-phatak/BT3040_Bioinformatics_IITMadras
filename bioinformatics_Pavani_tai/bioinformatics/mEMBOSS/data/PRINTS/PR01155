@@ -1,0 +1,57 @@
+VIP2RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that   
+encompasses a wide range of functions (including various autocrine, para-   
+crine and endocrine processes). They show considerable diversity at the   
+sequence level, on the basis of which they can be separated into distinct   
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,   
+but between which there is no statistically significant similarity in   
+sequence [1]. The currently known clan members include the rhodopsin-like   
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating   
+pheromone receptors, and the metabotropic glutamate receptor family.       
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid   
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-   
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+families: the secretin-like receptors thus bear their own unique '7TM'
+signature.      
+
+Vasoactive intestinal polypeptide (VIP) has a wide physiological profile.
+In the periphery, it induces relaxation in smooth muscle; inhibits
+secretion in certain tissues, but stimulates secretion in others; and
+modulates activity of cells in the immune system [6]. In the CNS, it has a
+range of both excitatory and inhibitory actions. VIP receptors are
+distributed widely in the periphery, and occur throughout the gastro-
+intestinal tract and genitourinary system, other smooth muscles and
+secretory glands. In the CNS, they are found abundantly in, e.g. the cortex,
+hippocampus and thalamus [6]. All VIP receptors activate adenylyl cyclase.
+
+There are two structurally distinct receptors that recognise VIP peptides
+and pituitary adenylate cyclase activating polypeptide (PACAP) with similar
+affinities (PACAP/VIPR-1, PACAP/VIPR-2), as well as a specific receptor for
+the PACAP peptide (PACAP-1). RNA transcripts for all three receptor types
+are found in human heart, brain and adipose tissue [7]. By contrast with
+VIPR-1, which is constitutively expressed, the expression of VIPR-2 is 
+induced only following stimulation through the TCR-associated CD3 complex [8].
+VIP induces the expression of the VIPR-2 gene in the absence of additional
+stimuli. Differential expression and regulation of the two VIP receptors in
+T lymphocytes suggests different physiological roles in mediating the 
+immunomodulatory activities of VIP and related neuropeptides [8]. 
+
+VIP2RECEPTOR is a 10-element fingerprint that provides a signature for 
+vasoactive intestinal peptide type 2 receptors. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from 
+conserved regions spanning the full alignment length, focusing on those
+areas that characterise the type 2 VIP receptors but distinguish them from
+the rest of the VIP receptor family - motifs 1-5 lie in the N-terminal
+region immediately preceding TM domain 1; motif 6 spans the loop between
+TM domains 2 and 3; motif 7 lies in the loop between TM domains 3 and 4; 
+motif 8 spans the loop between TM domains 6 and 7; and motifs 9 and 10 
+reside at the C-terminus. A single iteration on SPTR37_9f was required to
+reach convergence, no further sequences being identified beyond the 
+starting set.

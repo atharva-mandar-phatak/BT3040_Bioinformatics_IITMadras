@@ -1,0 +1,49 @@
+***************************
+* Glyoxalase I signatures *
+***************************
+
+Glyoxalase I  (EC 4.4.1.5) (lactoylglutathione lyase) catalyzes the first step
+of the  glyoxal  pathway,  the transformation of methylglyoxal and glutathione
+into S-lactoylglutathione  which  is then converted by glyoxalase II to lactic
+acid [1].  Glyoxalase I is  an  ubiquitous enzyme which binds one mole of zinc
+per subunit. The bacterial and yeast enzymes are monomeric while the mammalian
+one is homodimeric.
+
+The sequence  of  glyoxalase I is well conserved. In bacteria and mammals, the
+enzyme is  a  protein  of about 130 to 180 residues while in fungi it is about
+twice longer. In these  organisms the enzyme is built out of the tandem repeat
+of an homologous domain.
+
+We have   derived  two  signature  patterns  for this family. The first one is
+located in  the  N-terminal  region  while  the  second  one is located in the
+central section  of  the protein and contains a conserved histidine that could
+be implicated in the binding of the zinc atom.
+
+-Consensus pattern: [HQ]-[IVT]-x-[LIVFY]-x-[IV]-x(4)-{E}-[STA]-x(2)-F-[YM]-
+                    x(2,3)-[LMF]-G-[LMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: G-[NTKQ]-x(0,5)-[GA]-[LVFY]-[GH]-H-[IVF]-[CGA]-x-[STAGLE]-
+                    x(2)-[DNC]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ B.subtilis ywbC.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kim N.-S., Umezawa Y., Ohmura S., Kato S.
+     "Human glyoxalase I. cDNA cloning, expression, and sequence similarity
+     to glyoxalase I from Pseudomonas putida."
+     J. Biol. Chem. 268:11217-11221(1993).
+     PubMed=7684374;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

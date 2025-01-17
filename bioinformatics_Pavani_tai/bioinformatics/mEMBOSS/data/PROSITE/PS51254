@@ -1,0 +1,81 @@
+***********************************
+* ABC transporter family profiles *
+***********************************
+
+ABC  transporters  belong  to the ATP-Binding Cassette (ABC) superfamily which
+use the hydrolysis of ATP to energize diverse biological systems. It forms one
+of  the  largest  of  all  protein  families with a diversity of physiological
+functions  (see <PDOC00185>) [1,2]. Several studies have shown that there is a
+correlation  between  the  functional  characterisation  and  the phylogenetic
+classification  of  the  ABC  cassette  [2,4]. More than 50 families have been
+described based on a phylogenetic and functional classification [2,3,4] [E1].
+
+Some  ABC  transporter  families  on  which  we developed a profile are listed
+below.
+
+Active import transport system components:
+
+ - Sulfate/thiosulfate import ATP-binding protein cysA (EC 3.6.3.25).
+ - Phosphate import ATP-binding protein pstB (EC 3.6.3.27).
+ - Molybdenum import ATP-binding protein modC (EC 3.6.3.29).
+ - Ferric cations import ATP-binding protein fbpC (EC 3.6.3.30).
+ - Maltose/maltodextrin import ATP-binding protein malK (EC 3.6.3.19).
+ - Cobalt import ATP-binding protein cbiO.
+ - Nickel import ATP-binding protein nikD/nikE (EC 3.6.3.24).
+ - Phosphonates import ATP-binding protein phnC (EC 3.6.3.28).
+ - Taurine import ATP-binding protein tauB (EC 3.6.3.36).
+ - Ribose import ATP-binding protein rbsA (EC 3.6.3.17).
+ - Galactose/methyl galactoside import ATP-binding protein mglA (EC 3.6.3.17).
+ - Hemin import ATP-binding protein hmuV.
+ - Methionine import ATP-binding protein metN.
+ - Arabinose import ATP-binding protein araG (EC 3.6.3.17).
+ - Xylose import ATP-binding protein xylG (EC 3.6.3.17).
+ - Thiamine import ATP-binding protein thiQ.
+ - Aliphatic sulfonate import ATP-binding protein ssuB.
+ - Zinc import ATP-binding protein znuC.
+ - Spermidine/putrescine import ATP-binding protein potA (EC 3.6.3.31).
+ - sn-glycerol-3-phosphate import ATP-binding protein ugpC (EC 3.6.3.20).
+
+Active export transport system components:
+
+ - Lipid A export ATP-binding/permease protein msbA.
+ - Nod factor export ATP-binding protein I.
+ - Cytochrome c biogenesis ATP-binding export protein ccmA (EC 3.6.3.41).
+ - Lipoprotein releasing system ATP-binding protein lolD.
+ - Teichoic acids export ATP-binding protein tagH (EC 3.6.3.40).
+ - Macrolide export ATP-binding/permease protein macB.
+ - Beta-(1-->2)glucan export ATP-binding/permease protein ndvA (EC 3.6.3.42).
+
+Each  family  profile  was  built on a discriminating region either in the ABC
+cassette or in the C-terminal region.
+
+-Last update: June 2009 / Text revised.
+
+[ 1] Holland I.B., Cole S.P.C., Kuchler K., Higgins C.F.
+     (In) ABC proteins from bacteria to man, Academic Press, San Diego,
+     (2003).
+[ 2] Saurin W., Hofnung M., Dassa E.
+     "Getting in or out: early segregation between importers and exporters
+     in the evolution of ATP-binding cassette (ABC) transporters."
+     J. Mol. Evol. 48:22-41(1999).
+     PubMed=9873074
+[ 3] Higgins C.F.
+     "ABC transporters: physiology, structure and mechanism -- an overview."
+     Res. Microbiol. 152:205-210(2001).
+     PubMed=11421269
+[ 4] Dassa E., Bouige P.
+     "The ABC of ABCS: a phylogenetic and functional classification of ABC
+     systems in living organisms."
+     Res. Microbiol. 152:211-229(2001).
+     PubMed=11421270
+[E1] http://www.tcdb.org/tcdb/index.php?tc=3.A.1
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

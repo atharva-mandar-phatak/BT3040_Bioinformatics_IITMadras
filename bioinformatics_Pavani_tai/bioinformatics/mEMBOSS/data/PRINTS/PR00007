@@ -1,0 +1,35 @@
+COMPLEMNTC1Q
+The complement C1q polypeptide comprises 6 A, 6 B and 6 C chains. These
+share the same topology, each possessing a small, globular N-terminal
+domain, a collagen-like Gly/Pro-rich central region, and a conserved C-
+terminal region, the so-called C1q domain. Electron microscopy (EM) has
+shown that 3 subunits (A, B and C) come together, joined via a triple-
+helix in the collagen-like region [1], 6 such assemblies associating to
+form a hexameric structure with 6 globular heads linked by 6 collagen-like
+stalks to a fibril-like central region [1]. The stalks themselves interact
+with 2C1r and 2C1s proenzymes to form the C1 protein, the first component
+of the serum complement system [1].
+
+The C1q protein is produced in collagen-producing cells [2] and shows
+sequence and structural similarity to collagens VIII and X [1,3],
+indicating a possible evolutionary relationship. Additionally, some
+carbohydrate-binding proteins, such as mannan-binding protein, lung
+surfactant protein SP-A and conglutinin, also have collagen-like regions
+with globular domains. These globular domains are distinct from C1q at the
+sequence level, but appear structurally similar using EM [1]. In fact,
+mannan-binding protein can mimic C1q activity by activating the 2C1r2C1s
+complex after interaction with suitable carbohydrate ligands [1]. This
+process may be important for antibody-independent complement activation in
+infections where there is little or no antibody response [1].
+
+COMPLEMNTC1Q is a 4-element fingerprint that provides a signature for the 
+complement C1q domain. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions spanning
+virtually the full domain length. Four iterations on OWL24.0 were 
+required to reach convergence, at which point a true set comprising 26
+sequences was identified. Three partial matches were also found: S15826 and
+CHKCX are collagen X fragments, and C41752 is a series of fragments from
+the chipmunk hibernation-specific protein HP-20, which is similar to the
+complement C1q, collagen VIII and collagen X proteins.
+
+An update on SPTR37_9f identified a true set of 25 sequences.

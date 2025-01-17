@@ -1,0 +1,47 @@
+SKCHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Structurally, calcium (Ca2+) activated channels belong to the subfamily of
+K+ channels whose subunits contain 6 transmembrane (TM) domains: these are
+the voltage-gated K+ (Kv) channels, the KCNQ channels, the EAG-like K+ 
+channels and 3 kinds of Ca2+-activated K+ channel (BK, IK and SK) [2]. All
+K+ channels share a characteristic sequence feature: a TMxTVGYG motif that
+resides between the 2 C-terminal membrane-spanning helices, and forms
+the K+-selective pore domain [1].
+
+Ca2+-activated K+ channels are a diverse group of channels that are
+activated by an increase in intracellular Ca2+ concentration. They are
+found in the majority of nerve cells, where they modulate cell excitability
+and action potential. Three types of Ca2+-activated K+ channel have been
+characterised, termed small-conductance (SK), intermediate conductance (IK)
+and large conductance (BK) respectively [2-3].
+
+SK channels are thought to play an important role in the functioning of
+all excitable tissues. To date, 3 subtypes (designated SK1-SK3) have been
+cloned, each of which possesses a different tissue expression profile: SK1
+channels are expressed in the heart; SK2 channels are found in the adrenal
+gland; and SK3 channels are known to be present in skeletal muscle.
+
+Although SK channels have been classified as belonging to the 6TM domain
+voltage-gated K+ channel family, they show little or no sequence similarity
+to other family members. The fourth TM domain resembles the S4 voltage
+sensor domain of Kv channels, since it contains 3 positively charged 
+residues. However, despite similarity to the Kv voltage-sensory motif, SK 
+channel activation is not voltage sensitive.
+
+SKCHANNEL is a 2-element fingerprint that provides a signature for the
+calcium-activated SK potassium channels. The fingerprint was derived from 
+an initial alignment of 2 sequences: the motifs were drawn from conserved
+regions within the N-terminal portion of the alignment, focusing on those
+sections that characterise the SK potassium channels but distinguish them
+from other members of the K+ channel superfamily. Three iterations on
+SPTR39_14f were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.

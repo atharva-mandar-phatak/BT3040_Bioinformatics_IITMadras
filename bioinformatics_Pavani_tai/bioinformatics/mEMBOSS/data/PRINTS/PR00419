@@ -1,0 +1,35 @@
+ADXRDTASE
+Mitochondrial P450-containing systems comprise 3 components: an FAD-
+containing flavoprotein NADPH:adrenodoxin reductase (AR); an iron-sulphur 
+protein, adrenodoxin; and P450 [1]. The direction of electron flow is 
+NADPH --> AR --> adrenodoxin --> P450. FAD can be reduced by 2 electrons 
+from NADPH, which are transferred one at a time to adrenodoxin, a one-
+electron carrier. Both AR and adrenodoxin are soluble proteins located 
+on the matrix side of the inner mitochondrial membrane.  
+
+Despite functional parallels, AR shows no global similarity either to
+flavoprotein pyridine nucleotide cytochrome reductases (FPNCR) or to FAD-
+dependent pyridine nucleotide reductases (FADPNR) [2]. However, BLAST
+searches reveal local similarity of the N-terminal region of AR to
+glutamate synthase and NADH peroxidase, especially in the nucleotide-
+binding regions, suggesting that AR and FADPNR may be distantly related. 
+
+ADXRDTASE is a 5-element fingerprint that provides a signature for the 
+adrenodoxin reductase family and related flavoproteins. The fingerprint 
+was derived from an initial alignment of 7 sequences: the motifs were
+drawn from the N-terminal portion of the alignment - motifs 1 and 4 each
+contain a conserved Gly-x-Gly-x-x-Gly/Ala consensus corresponding to the
+ADP-binding sites for FAD and NAD(P) respectively (in motif 1, Gly is
+always found at third position, while in motif 4 this may be replaced by
+an Ala, suggesting this could be a major determinant of NADPH vs. NADH
+specificity of AR [2]. Similarly, NADPH-dependent glutamate synthases
+(GLTD_ECOLI and GLTD_AZOBR) contain a Gly-x-Gly-x-x-Ala pattern, whereas
+NADH-dependent glutamate synthase (GLSN_MEDSA) and NADH peroxidase are
+characterised by a Gly-x-Gly-x-x-Gly consensus). Two iterations on OWL26.2
+were required to reach convergence, at which point a true set comprising
+15 sequences was identified. Numerous partial matches were also found,
+corresponding to a family of closely related flavin-containing
+monooxygenases.  
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 26
+partial matches.

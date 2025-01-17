@@ -1,0 +1,65 @@
+OGR1RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Lysophospholipids (LPs), such as lysophosphatidic acid (LPA), sphingosine
+1-phosphate (S1P) and sphingosylphosphorylcholine (SPC), have long been
+known to act as signalling molecules in addition to their roles as
+intermediates in membrane biosynthesis [6]. They have roles in the
+regulation of cell growth, differentiation, apoptosis and development, and
+have been implicated in a wide range of pathophysiological conditions,
+including: blood clotting, corneal wounding, subarachinoid haemorrhage,
+inflammation and colitis [7]. A number of G protein-coupled receptors bind
+members of the lysophospholipid family. These include: the cannabinoid
+receptors; platelet activating factor receptor; OGR1, an SPC receptor
+identified in ovarian cancer cell lines; PSP24, an orphan receptor that has
+been proposed to bind LPA; and at least 8 closely related receptors, the EDG
+family, that bind LPA and S1P [6]. 
+
+SPC is produced from degradation of sphingomyelin and regulates many diverse
+cellular functions, such as: proliferation, growth inhibition, smooth muscle
+contraction and wound healing [6,8]. It is also thought to play a role in
+the cardiovascular system and potently activates inwardly rectifying K+
+channels, suggesting a possible role in regulation of heart rate [6].
+
+The orphan receptor OGR1 has been identified as a high affinity receptor for
+SPC [8]. OGR1 is expressed in ovarian cancer cell lines and also in spleen,
+testis, small intestine, peripheral blood leukocytes, brain, heart, lung,
+placenta and kidney. Expression has not been found in thymus, prostate,
+ovary, colon, liver, skeletal muscle or pancreas [9]. Upon activation by
+SPC, OGR1 couples to both Gi proteins, causing increases in intracellular 
+calcium, and Gq proteins, to activate MAP kinases, inhibiting proliferation.
+SPC also causes regulation of ion channel activity, binding of activator
+protein-1 to DNA, and expression of cell adhesion molecule-1 and 
+interleukin-6 [8].
+
+OGR1RECEPTOR is an 11-element fingerprint that provides a signature for the
+OGR1 sphingosylphosphorylcholine receptors. The fingerprint was derived from
+an initial alignment of 2 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the OGR1 receptors but distinguish them from the 
+rest of the lysophospholipid receptor family - motif 1 resides at the 
+N-terminus; motif 2 spans part of the N-terminus, leading into TM domain 1; 
+motif 3 lies in the first external loop, leading into TM domain 3; motif 4 
+spans the second cytoplasmic loop; motif 5 encodes the C-terminal portion of
+TM domain 4, leading into the second external loop; motif 6 spans the third
+cytoplasmic loop; motif 7 encodes the third external loop; motif 8 lies at
+the C-terminus of TM domain 7; and motifs 9-11 reside at the C-terminus. A
+single iteration on SPTR39.22_17.3f was required to reach convergence, no 
+further sequences being identified beyond the starting set.

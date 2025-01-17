@@ -1,0 +1,25 @@
+ATPASEGAMMA
+ATP synthase (proton-translocating ATPase) is a component of the cyto-
+plasmic membrane of eubacteria, the inner membrane of mitochondria, and
+the thylakoid membrane of chloroplasts [1,2]. The ATPase complex contains
+an oligomeric transmembrane portion (CF0), which acts as a proton channel,
+and a catalytic core (coupling factor CF1), which contains 5 subunits
+(designated alpha to epsilon).
+
+The catalytic core gamma subunit is thought to be important in the
+regulation of ATPase activity and the flow of protons through the CF0
+complex. A well-conserved region in the C-terminus [3] appears to be
+essential for assembly and catalysis. 
+
+ATPASEGAMMA is a 4-element fingerprint that provides a signature for the
+ATP synthase catalytic core gamma subunits. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, motif 4
+including the region encoded by PROSITE pattern ATPASE_GAMMA (PS00153),
+which lies at the C-terminus. Two iterations on OWL24.0 were required to
+reach convergence, at which point a true set comprising 28 sequences
+was identified. A single partial match was also found, which fails to
+make significant matches with motifs 2 and 4.
+
+An update on SPTR37_9f identified a true set of 50 sequences, and 5
+partial matches.

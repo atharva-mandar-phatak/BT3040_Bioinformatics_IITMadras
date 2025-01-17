@@ -1,0 +1,24 @@
+LIPOSIGPTASE
+Bacterial cell walls contain large amounts of murein lipoprotein, a small 
+protein that is both N-terminally bound to lipid and attached to membrane 
+peptidoglycan (murein) through the epsilon-amino group of its C-terminal
+lysine residue [1]. Secretion of this lipoprotein is facilitated by the
+action of lipoprotein signal peptidase (also known as leader peptidase II),
+located in the inner membrane [1,2]. The enzyme is inhibited by globomycin
+and also by pepstatin, suggesting that it is an aspartic peptidase [1].
+The catalytic residues have not been identified, but three conserved
+aspartates can be identified from sequence alignments.
+
+LIPOSIGPTASE is a 3-element fingerprint that provides a signature for the
+lipoprotein signal peptidase family (A8) of aspartate endopeptidases. The 
+fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from conserved regions spanning virtually the full
+alignment length - motif 2 includes the region encoded by PROSITE pattern
+SPASE_II (PS00855), which contains one of the conserved aspartate residues;
+and motif 3 contains a second conserved Asp. Two iterations on OWL29.3 were
+required to reach convergence, at which point a true set comprising 11
+sequences was identified. A single partial match was also found, LLU63724,
+a fragment that lacks the region of sequence bearing motif 3.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 1
+partial match.

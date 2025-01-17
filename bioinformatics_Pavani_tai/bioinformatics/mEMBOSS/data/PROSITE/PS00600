@@ -1,0 +1,65 @@
+*******************************************************************
+* Aminotransferases class-III pyridoxal-phosphate attachment site *
+*******************************************************************
+
+Aminotransferases  share certain mechanistic features with   other  pyridoxal-
+phosphate dependent enzymes, such as  the  covalent  binding of the pyridoxal-
+phosphate group  to  a  lysine  residue.  On the basis of sequence similarity,
+these various  enzymes  can  be  grouped [1,2] into subfamilies. One of these,
+called class-III, currently consists of the following enzymes:
+
+ - Acetylornithine aminotransferase (EC 2.6.1.11) which catalyzes the transfer
+   of an amino group  from  acetylornithine  to  alpha-ketoglutarate, yielding
+   N-acetyl-glutamic-5-semi-aldehyde and glutamic acid.
+ - Ornithine aminotransferase (EC 2.6.1.13),  which  catalyzes the transfer of
+   an amino group from  ornithine to alpha-ketoglutarate, yielding glutamic-5-
+   semi-aldehyde and glutamic acid.
+ - Omega-amino acid--pyruvate aminotransferase (EC 2.6.1.18), which  catalyzes
+   transamination between a variety  of omega-amino acids, mono- and diamines,
+   and pyruvate. It plays a pivotal role in omega amino acids metabolism.
+ - 4-aminobutyrate aminotransferase  (EC 2.6.1.19) (GABA transaminase),  which
+   catalyzes the transfer of an amino group from  GABA to alpha-ketoglutarate,
+   yielding succinate semialdehyde and glutamic acid.
+ - DAPA aminotransferase (EC 2.6.1.62), a bacterial  enzyme (gene bioA)  which
+   catalyzes an   intermediate  step  in   the  biosynthesis  of  biotin,  the
+   transamination  of  7-keto-8-aminopelargonic  acid  (7-KAP)  to   form 7,8-
+   diaminopelargonic acid (DAPA).
+ - 2,2-dialkylglycine  decarboxylase  (EC 4.1.1.64),  a   Pseudomonas  cepacia
+   enzyme (gene dgdA) that  catalyzes  the decarboxylating  amino  transfer of
+   2,2-dialkylglycine and  pyruvate  to  dialkyl  ketone,  alanine  and carbon
+   dioxide.
+ - Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8) (GSA).  GSA  is  the
+   enzyme involved in  the second step  of  porphyrin biosynthesis, via the C5
+   pathway. It  transfers    the  amino  group  on  carbon  2  of glutamate-1-
+   semialdehyde to the neighbouring carbon, to give delta-aminolevulinic acid.
+ - Bacillus subtilis aminotransferase yhxA.
+ - Bacillus subtilis aminotransferase yodT.
+ - Haemophilus influenzae aminotransferase HI0949.
+ - Caenorhabditis elegans aminotransferase T01B11.2.
+
+The sequence around the pyridoxal-phosphate  attachment site  of this class of
+enzyme is sufficiently conserved to allow the creation of a specific pattern.
+
+-Consensus pattern: [LIVMFYWCS]-[LIVMFYWCAH]-x-D-[ED]-[IVA]-x(2,3)-[GAT]-
+                    [LIVMFAGCYN]-x(0,1)-[RSACLIH]-x-[GSADEHRM]-x(10,16)-[DH]-
+                    [LIVMFCAG]-[LIVMFYSTAR]-x(2)-[GSA]-K-x(2,3)-[GSTADNV]-
+                    [GSAC]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1992).
+[ 2] Yonaha K., Nishie M., Aibara S.
+     J. Biol. Chem. 267:12506-12510(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

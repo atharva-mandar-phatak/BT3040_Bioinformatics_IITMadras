@@ -1,0 +1,56 @@
+******************************
+* LIF / OSM family signature *
+******************************
+
+On the  basis  of  functional and structural similarities, the following small
+cytokines can be classified into a single family [1,2]:
+
+ - Leukemia inhibitory factor (LIF) (also known as differentiation-stimulating
+   factor). LIF is a mammalian growth factor that controls the differentiation
+   and proliferation of   hematopoietic  cells  as  well  as those of  several
+   other cellular lineages.
+ - Oncostatin (OSM),  a growth  regulator  produced  by a  number of mammalian
+   cells lines.  OSM  is capable of inhibiting  the replication of a number of
+   tumor cells.
+
+As a signature pattern for these cytokines, we selected a  conserved region in
+their C-terminal section.  This  region  is  centered on a  conserved cysteine
+which has been shown [3], in OSM, to be involved in a disulfide bond.
+
+-Consensus pattern: [PST]-x(4)-F-[NQ]-x-K-x(3)-C-x-[LF]-L-x(2)-Y-[HK]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It has been said [2]  that  LIF and OSM can  be  included  in  the IL-6
+ family of cytokines (see the relevant entry <PDOC00227>), but while all these
+ cytokines seem  to  be  structurally  related, the sequence similarity is not
+ high enough to allow the use of a single consensus pattern.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Hilton D.J.
+     "LIF: lots of interesting functions."
+     Trends Biochem. Sci. 17:72-76(1992).
+     PubMed=1566332
+[ 2] Rose T.M., Bruce A.G.
+     "Oncostatin M is a member of a cytokine family that includes
+     leukemia-inhibitory factor, granulocyte colony-stimulating factor, and
+     interleukin 6."
+     Proc. Natl. Acad. Sci. U.S.A. 88:8641-8645(1991).
+     PubMed=1717982
+[ 3] Kallestad J.C., Shoyab M., Linsley P.S.
+     "Disulfide bond assignment and identification of regions required for
+     functional activity of oncostatin M."
+     J. Biol. Chem. 266:8940-8945(1991).
+     PubMed=2026606
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

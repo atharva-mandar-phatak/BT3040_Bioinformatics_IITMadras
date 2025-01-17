@@ -1,0 +1,33 @@
+IL6GCSFMGF
+Interleukin-6 (IL6) is a cytokine involved in a number of biological
+functions: e.g., it induces the final maturation of B-cells into immuno-
+globulin-producing cells, and induces nerve cell differentiation [1]. A
+number of other cytokines may be grouped with IL6 on the basis of sequence
+similarity [1-3]: these include granulocyte colony-stimulating factor (GCSF)
+and myelomonocytic growth factor (MGF). GCSF acts in hematopoiesis by
+affecting the production, differentiation and function of 2 related white
+cell groups in the blood [3]. MGF also acts in hematopoiesis, stimulating
+proliferation and colony formation of normal and transformed avian cells
+of the myeloid lineage.
+
+Proteins belonging to the IL6/GCSF/MGF family have a compact, globular
+fold (similar to other interleukins), stabilised by 2 disulphide bonds [3].
+One half of the structure is dominated by a 4 alpha-helix bundle with a
+left-handed twist [4]: the helices are anti-parallel, with 2 overhand
+connections, which fall into a 2-stranded anti-parallel beta-sheet [4]. The
+fourth helix is important to the biological activity of the molecule [2]. 
+
+IL6GCSFMGF is a 4-element fingerprint that provides a signature for the
+IL6/GCSF/MGF cytokine family. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length - motif 1 encodes the first 
+helix; motif 2 encodes part of the first strand; motif 3 spans part of the
+first strand and the second helix, and corresponds to the region encoded by
+PROSITE pattern INTERLEUKIN_6 (PS00254), the 2 Cys residues of which form a
+disulphide bond; and motif 4 encodes the fourth helix. Two iterations on
+OWL26.3 were required to reach convergence, at which point a true set
+comprising 21 sequences was identified. Two partial matches (NRL_1RHGA1 and
+NRL_1RHGB1) were also found, both of which are GCSF fragments lacking the
+portion of sequence bearing motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 23 sequences.

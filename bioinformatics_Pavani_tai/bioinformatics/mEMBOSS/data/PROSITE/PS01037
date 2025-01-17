@@ -1,0 +1,69 @@
+***********************************************************************
+* Bacterial extracellular solute-binding proteins, family 1 signature *
+***********************************************************************
+
+Bacterial high affinity transport systems are involved in active  transport of
+solutes across  the  cytoplasmic  membrane.  The  protein  components of these
+traffic systems  include  one  or two transmembrane protein components, one or
+two membrane-associated    ATP-binding   proteins   (ABC   transporters;   see
+<PDOC00185>) and a high affinity periplasmic solute-binding protein. The later
+are thought  to  bind the substrate in the vicinity of the inner membrane, and
+to transfer  it to a complex of inner membrane proteins for concentration into
+the cytoplasm.
+
+In gram-positive  bacteria  which are surrounded by a single membrane and have
+therefore no  periplasmic  region  the  equivalent  proteins  are bound to the
+membrane via an N-terminal lipid anchor. These homolog proteins do not play an
+integral role in the transport process per se, but probably serve as receptors
+to trigger  or  initiate  translocation of the solute  through the membrane by
+binding to  external  sites  of  the  integral membrane proteins of the efflux
+system.
+
+In addition  at  least some solute-binding proteins function in the initiation
+of sensory transduction pathways.
+
+On the  basis  of  sequence  similarities,  the vast majority of these solute-
+binding proteins  can  be  grouped  [1] into eight families of clusters, which
+generally correlate with the nature of the solute bound.
+
+Family 1 currently includes the following proteins:
+
+ - Periplasmic  maltose/maltodextrin-binding  proteins  of  Enterobacteriaceae
+   (gene malE)  and  homologous  lipoprotein in Streptococcus pneumoniae (gene
+   malX).
+ - Periplasmic  multiple  oligo-saccharide  binding  protein  of Streptococcus
+   mutans (gene msmE), which is involved in the uptake of melibiose, raffinose
+   and isomaltotriose.
+ - Periplasmic  glycerol-3-phosphate-binding  protein  of  Escherichia coli, a
+   component of   the   phosphate-limitation   inducible   uptake  system  for
+   sn-glycerol-3-phosphate and glycerophosphoryl diesters.
+ - Periplasmic  iron-binding  protein from Serratia marcescens (gene sfuA) and
+   the homologous   proteins   (gene  fbp)  from  Haemophilus  influenzae  and
+   Neisseria, which are part of the iron-acquisition system.
+ - Periplasmic thiamine-binding  protein (gene tbpA) from Escherichia coli and
+   Haemophilus influenzae.
+
+The signature  pattern  for  this  family is located in the central section of
+the mature proteins.
+
+-Consensus pattern: [GAP]-[LIVMFA]-[STAVDN]-x-{H}-x(2)-[GSAV]-[LIVMFY](2)-Y-
+                    [ND]-x(3)-[LIVMF]-x-[KNDE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Tam R., Saier M.H. Jr.
+     "Structural, functional, and evolutionary relationships among
+     extracellular solute-binding receptors of bacteria."
+     Microbiol. Rev. 57:320-346(1993).
+     PubMed=8336670
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

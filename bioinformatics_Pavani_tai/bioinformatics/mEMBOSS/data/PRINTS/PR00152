@@ -1,0 +1,24 @@
+RUBISCOSMALL
+RuBisCO (ribulose-1,5-bisphosphate carboxylase/oxygenase) is a bifunctional
+enzyme that catalyses both the carboxylation and oxygenation of ribulose-
+1,5-bisphosphate (RuBP) [1], thus fixing carbon dioxide as the first step
+of the Calvin cycle [2]. RuBisCO is the major protein in the stroma of
+chloroplasts, and in higher plants exists as a complex of 8 large and 8
+small subunits: the function of the small subunit is unknown [2]. While
+the large subunit is coded for by a single gene, the small subunit is
+coded for by several different genes, which are distributed in a tissue
+specific manner - they are transcriptionally regulated by light receptor
+phytochrome [3], which results in RuBisCO being more abundant during the
+day when it is required. 
+
+RUBISCOSMALL is a 6-element fingerprint that provides a signature for
+RuBisCO small subunits. The fingerprint was derived from an initial
+alignment of 12 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motifs 1 and 2 comprising
+part of the chloroplast localisation sequence. Three iterations on OWL21.1
+were required to reach convergence, at which point a true set comprising
+62 sequences was identified. Several partial matches was also found, all
+of which are fragments.
+
+An update on SPTR37_9f identified a true set of 93 sequences, and 12
+partial matches.

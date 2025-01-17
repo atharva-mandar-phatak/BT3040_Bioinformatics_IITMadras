@@ -1,0 +1,65 @@
+*********************************************
+* Stress-response A/B barrel domain profile *
+*********************************************
+
+The stress-response  A/B  barrel domain is found in a class of stress-response
+proteins in  plants  and in some bacterial fructose-bisphosphate aldolase. The
+stress-response A/B  barrel  domain  forms  a  very  stable  dimer. This dimer
+belongs to  the  superfamily  of  dimeric  alpha+beta barrels in which the two
+beta-sheets form  a beta-barrel. The two molecules in the dimer are related by
+a 2-fold  axis  parallel  to  helix  H1  and beta-strands B3 and B4. The outer
+surface of  the  beta-sheets  of  the  two  molecules forms a beta-barrel-like
+structure defining  a  central  pore.  The function of the stress-response A/B
+barrel domain is unknown [1,2,3].
+
+The stress-response  A/B  barrel domain has an alpha/beta structure consisting
+of a  four-stranded  antiparallel beta-sheet and three alpha-helices, arranged
+in a  Beta-Alpha-Beta-Beta-Alpha-Alpha-Beta  topology  (see  <PDB:1Q4R>).  Two
+sheets join  at  their  edges  to  form an oblong beta-barrel, flanked by four
+helices on  each of the opposing faces. C-terminal residues extending from the
+beta4 strand of each monomer wrap around and connect with the beta2 strand and
+alpha1 helix of the opposing monomer to form the dimer interface [1,2,3].
+
+Some proteins  known to contain a stress response A/B barrel domain are listed
+below:
+
+ - Arabidopsis thaliana At3g17210
+ - Arabidopsis thaliana At5g22580
+ - Populus  tremula  stable  protein  1  (SP-1)  (also  known as Pop3 in other
+   Populus species), a thermostable stress-responsive protein.
+ - Pseudomonas hydrogenothermophila fructose 1,6-bisphosphate aldolase (cbbA).
+
+The profile we developed covers the entire stress-response A/B barrel domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2010 / First entry.
+
+[ 1] Lytle B.L., Peterson F.C., Qiu S.H., Luo M., Zhao Q., Markley J.L.,
+     Volkman B.F.
+     "Solution structure of a ubiquitin-like domain from tubulin-binding
+     cofactor B."
+     J. Biol. Chem. 279:46787-46793(2004).
+     PubMed=15364906; DOI=10.1074/jbc.M409422200
+[ 2] Cornilescu G., Cornilescu C.C., Zhao Q., Frederick R.O.,
+     Peterson F.C., Thao S., Markley J.L.
+     "Solution structure of a homodimeric hypothetical protein, At5g22580,
+     a structural genomics target from Arabidopsis thaliana."
+     J. Biomol. NMR 29:387-390(2004).
+     PubMed=15213437; DOI=10.1023/B:JNMR.0000032525.70677.16
+[ 3] Dgany O., Gonzalez A., Sofer O., Wang W., Zolotnitsky G., Wolf A.,
+     Shoham Y., Altman A., Wolf S.G., Shoseyov O., Almog O.
+     "The structural basis of the thermostability of SP1, a novel plant
+     (Populus tremula) boiling stable protein."
+     J. Biol. Chem. 279:51516-51523(2004).
+     PubMed=15371455; DOI=10.1074/jbc.M409952200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

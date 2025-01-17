@@ -1,0 +1,55 @@
+********************************
+* TFIIS central domain profile *
+********************************
+
+Transcription factor  IIS  (TFIIS)  is  a transcription elongation factor that
+increases the  overall transcription rate of RNA polymerase II by reactivating
+transcription elongation  complexes that have arrested transcription. TFIIS is
+a modular  factor  that  comprises  an  N-terminal domain (see <PDOC51319>), a
+central domain, and a C-terminal TFIIS-type zinc finger (see <PDOC00383>). The
+central domain  is  conserved  in  TFIIS  homologues  and  interacts  with RNA
+polymerase II [1,2].
+
+The TFIIS  central  domain comprises a bundle of three helices [1,2] and three
+short helices,  which  form  upon Pol II interaction [3] (see <PDB:1PQV>). The
+three-helix bundle  is  built  around  a  hydrophobic core composed largely of
+three tyrosines  protruding  from  one  face  of the C-terminal helix [1]. The
+TFIIS domain  is  separated  from the TFIIS-type zinc finger by an interdomain
+linker [1],  which  is  unstructured  in  free TFIIs [2]. Upon Pol II binding,
+however, the  linker  forms an alpha-helix, which runs along the Pol II bottom
+face [3].
+
+The profile we developed covers the TFIIS central domain and the linker alpha-
+helix.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2007 / First entry.
+
+[ 1] Morin P.E., Awrey D.E., Edwards A.M., Arrowsmith C.H.
+     "Elongation factor TFIIS contains three structural domains: solution
+     structure of domain II."
+     Proc. Natl. Acad. Sci. U.S.A. 93:10604-10608(1996).
+     PubMed=8855225
+[ 2] Olmsted V.K., Awrey D.E., Koth C., Shan X., Morin P.E., Kazanis S.,
+     Edwards A.M., Arrowsmith C.H.
+     "Yeast transcript elongation factor (TFIIS), structure and function.
+     I: NMR structural analysis of the minimal transcriptionally active
+     region."
+     J. Biol. Chem. 273:22589-22594(1998).
+     PubMed=9712887
+[ 3] Kettenberger H., Armache K.-J., Cramer P.
+     "Architecture of the RNA polymerase II-TFIIS complex and implications
+     for mRNA cleavage."
+     Cell 114:347-357(2003).
+     PubMed=12914699
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

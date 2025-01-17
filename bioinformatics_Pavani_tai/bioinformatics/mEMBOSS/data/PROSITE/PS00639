@@ -1,0 +1,141 @@
+******************************************************
+* Eukaryotic thiol (cysteine) proteases active sites *
+******************************************************
+
+Eukaryotic thiol proteases (EC 3.4.22.-) [1]  are  a  family  of   proteolytic
+enzymes which contain an active site cysteine.   Catalysis  proceeds through a
+thioester intermediate and is facilitated by a nearby histidine side chain; an
+asparagine completes the essential catalytic triad.  The  proteases  which are
+currently  known  to belong  to  this  family are listed below (references are
+only provided for recently determined sequences).
+
+ - Vertebrate  lysosomal  cathepsins B   (EC 3.4.22.1),   H  (EC 3.4.22.16), L
+   (EC 3.4.22.15), and S (EC 3.4.22.27) [2].
+ - Vertebrate lysosomal  dipeptidyl  peptidase I (EC 3.4.14.1)  (also known as
+   cathepsin C) [2].
+ - Vertebrate   calpains   (EC   3.4.22.52)  (EC  3.4.22.53).  Calpains    are
+   intracellular calcium-activated   thiol   protease   that  contain  both  a
+   N-terminal catalytic domain and a C-terminal calcium-binding domain.
+ - Mammalian cathepsin K, which seems involved in osteoclastic bone resorption
+   [3].
+ - Human cathepsin O [4].
+ - Bleomycin hydrolase.  An  enzyme that  catalyzes  the  inactivation  of the
+   antitumor drug BLM (a glycopeptide).
+ - Plant enzymes: barley aleurain (EC 3.4.22.16), EP-B1/B4; kidney bean EP-C1,
+   rice bean SH-EP;  kiwi fruit actinidin (EC 3.4.22.14);  papaya latex papain
+   (EC 3.4.22.2),   chymopapain (EC 3.4.22.6),   caricain (EC 3.4.22.30),  and
+   proteinase IV (EC 3.4.22.25); pea turgor-responsive protein 15A;  pineapple
+   stem bromelain (EC 3.4.22.32); rape COT44;  rice  oryzain  alpha, beta, and
+   gamma; tomato low-temperature induced, Arabidopsis thaliana A494, RD19A and
+   RD21A.
+ - House-dust mites allergens DerP1 and EurM1.
+ - Cathepsin B-like proteinases from the  worms  Caenorhabditis elegans (genes
+   gcp-1, cpr-3,  cpr-4,  cpr-5 and cpr-6), Schistosoma mansoni (antigen SM31)
+   and Japonica  (antigen  SJ31),  Haemonchus contortus (genes AC-1 and AC-2),
+   and Ostertagia ostertagi (CP-1 and CP-3).
+ - Slime mold cysteine proteinases CP1 and CP2.
+ - Cruzipain from Trypanosoma cruzi and brucei.
+ - Throphozoite cysteine proteinase (TCP) from various Plasmodium species.
+ - Proteases from Leishmania mexicana, Theileria annulata and Theileria parva.
+ - Baculoviruses cathepsin-like enzyme (v-cath).
+ - Drosophila  small  optic  lobes protein (gene sol), a neuronal protein that
+   contains a calpain-like domain.
+ - Yeast thiol protease BLH1/YCP1/LAP3.
+ - Caenorhabditis   elegans   hypothetical  protein  C06G4.2,  a  calpain-like
+   protein.
+
+Two bacterial peptidases are also part of this family:
+
+ - Aminopeptidase C from Lactococcus lactis (gene pepC) [5].
+ - Thiol protease tpr from Porphyromonas gingivalis.
+
+Three other  proteins  are  structurally  related to this family, but may have
+lost their proteolytic activity.
+
+ - Soybean  oil  body   protein P34. This protein has its active site cysteine
+   replaced by a glycine.
+ - Rat  testin, a sertoli cell secretory protein highly similar to cathepsin L
+   but with  the  active  site  cysteine  is  replaced by a serine. Rat testin
+   should not be confused with mouse testin which is a LIM-domain protein (see
+   <PDOC00382>).
+ - Plasmodium falciparum serine-repeat protein (SERA),  the  major blood stage
+   antigen. This protein of 111 Kd possesses  a C-terminal thiol-protease-like
+   domain [6], but the active site cysteine is replaced by a serine.
+
+The sequences around the three active site residues are well conserved and can
+be used as signature patterns.
+
+-Consensus pattern: Q-{V}-x-{DE}-[GE]-{F}-C-[YW]-{DN}-x-[STAGC]-[STAGCV]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for P34, testins, SERA antigen, and Theileria annulara protease.
+-Other sequence(s) detected in Swiss-Prot: 6.
+
+-Note: The residue in position 4 of the pattern is almost always cysteine; the
+ only exceptions are calpains (Leu), bleomycin hydrolase (Ser) and  yeast YCP1
+ (Ser).
+-Note: The residue in position 5 of the pattern is always Gly except in papaya
+ protease IV where it is Glu.
+
+-Consensus pattern: [LIVMGSTAN]-{IEVK}-H-[GSACE]-[LIVM]-{GPSI}-[LIVMAT](2)-G-
+                    {SLAG}-[GSADNH]
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for calpains, P34 and tpr.
+-Other sequence(s) detected in Swiss-Prot: 146.
+
+-Consensus pattern: [FYCH]-[WI]-[LIVT]-x-[KRQAG]-N-[ST]-W-x(3)-[FYW]-G-x(2)-G-
+                    [LFYW]-[LIVMFYG]-x-[LIVMF]
+                    [N is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for calpains, bromelain, yeast BLH1, tomato low-temperature induced protease,
+ cathepsin O, pepC and tpr.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belong to family C1 (papain-type) and C2 (calpains) in
+ the classification of peptidases [7,E1].
+
+-Expert(s) to contact by email:
+           Turk B.; boris.turk@ijs.si
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Dufour E.
+     "Sequence homologies, hydrophobic profiles and secondary structures of
+     cathepsins B, H and L: comparison with papain and actinidin."
+     Biochimie 70:1335-1342(1988).
+     PubMed=3148320
+[ 2] Kirschke H., Barrett A.J., Rawlings N.D.
+     Protein Prof. 2:1587-1643(1995).
+[ 3] Shi G.-P., Chapman H.A., Bhairi S.M., DeLeeuw C., Reddy V.Y., Weiss S.J.
+     "Molecular cloning of human cathepsin O, a novel endoproteinase and
+     homologue of rabbit OC2."
+     FEBS Lett. 357:129-134(1995).
+     PubMed=7805878
+[ 4] Velasco G., Ferrando A.A., Puente X.S., Sanchez L.M., Lopez-Otin C.
+     "Human cathepsin O. Molecular cloning from a breast carcinoma,
+     production of the active enzyme in Escherichia coli, and expression
+     analysis in human tissues."
+     J. Biol. Chem. 269:27136-27142(1994).
+     PubMed=7929457
+[ 5] Chapot-Chartier M.P., Nardi M., Chopin M.C., Chopin A., Gripon J.C.
+     Appl. Environ. Microbiol. 59:330-333(1993).
+[ 6] Higgins D.G., McConnell D.J., Sharp P.M.
+     "Malarial proteinase?"
+     Nature 340:604-604(1989).
+     PubMed=2671749; DOI=10.1038/340604a0
+[ 7] Rawlings N.D., Barrett A.J.
+     "Families of cysteine peptidases."
+     Methods Enzymol. 244:461-486(1994).
+     PubMed=7845226
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

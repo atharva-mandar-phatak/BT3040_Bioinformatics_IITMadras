@@ -1,0 +1,45 @@
+***********************************************************
+* Hydrogenases expression/synthesis hypA family signature *
+***********************************************************
+
+Bacterial membrane-bound  nickel-dependent  hydrogenases  requires a number of
+accessory proteins  which  are involved in their maturation. The exact role of
+these proteins  is  not  yet  clear,  but  some  seem  to  be required for the
+incorporation of  the  nickel  ions  [1,2]. One of these proteins is generally
+known as  hypA.  It is a protein of about 12 to 14 Kd that contains, in its C-
+terminal region four conserved cysteines that may bind nickel.
+
+Escherichia coli  has  two proteins that belong to this family: hypA and hybF.
+Homolog have also been found in the genome of many archaea.
+
+We developed  a  signature  pattern  that  starts about 45 residues before the
+first conserved cysteine and that ends with the second one.
+
+-Consensus pattern: [GS]-x(4)-[LIVMT]-x(4)-[LIVMF]-x(2)-[CSAM]-[LMFY]-x(6)-
+                    [STC]-x(4,5)-[PAC]-x-[LIVMF]-x-[LIVMF]-x(8)-C-x(1,2)-[CH]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Fu C., Maier R.J.
+     "Nucleotide sequences of two hydrogenase-related genes (hypA and hypB)
+     from Bradyrhizobium japonicum, one of which (hypB) encodes an
+     extremely histidine-rich region and guanine nucleotide-binding
+     domains."
+     Biochim. Biophys. Acta 1184:135-138(1994).
+     PubMed=8305450
+[ 2] Olson J.W., Mehta N.S., Maier R.J.
+     "Requirement of nickel metabolism proteins HypA and HypB for full
+     activity of both hydrogenase and urease in Helicobacter pylori."
+     Mol. Microbiol. 39:176-182(2001).
+     PubMed=11123699
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

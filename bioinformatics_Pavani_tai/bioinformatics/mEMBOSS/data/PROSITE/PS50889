@@ -1,0 +1,74 @@
+*********************************
+* S4 RNA-binding domain profile *
+*********************************
+
+The S4  domain  is  a  small  globular  domain  consisting of 60-65 amino acid
+residues that is found in:
+
+ - The ribosomal protein S4 family (see <PDOC00549>).
+ - Tyrosyl-tRNA synthetases.
+ - The rluA and rsuA families of pseudouridine synthases.
+ - Several predicted RNA methylases.
+ - A putative novel RNA editing enzyme.
+ - A  number  of  uncharacterized,  small  proteins  that  may  be involved in
+   translation regulation.
+
+The S4  domain  typically  occurs  in  a  single  copy at various positions in
+different proteins.  The  S4  domain  can  be  found alone as in several small
+bacterial proteins  (e.g.  YabO from B. subtilis and YrfH from E. coli), or in
+association with  other  domains  such  as  the  N-terminal  alpha  helix rich
+globular domain  found  in  S4  proteins, the pseudouridine synthase catalytic
+domain, the  methylase  domain,  the  tyrosyl-tRNA  synthetases  domain or the
+deaminase domain.  It  has  been  proposed  that  the  S4 domain is capable of
+recognizing complex, unique 3D features in highly folded RNA molecules such as
+rRNAs, tRNAs, and untranslated regions of mRNAs [1].
+
+The S4   domain   contains   a  characteristic  pattern  of  conserved  polar,
+hydrophobic, and  small  residues  in its N-terminal and central parts. The C-
+terminal part  does  not  show a high degree of conservation between different
+families within the superfamily of S4 containing proteins and may be important
+for interactions  specific to each family [1]. The S4 domain has an alpha/beta
+structure consisting  of  an  antiparallel  beta  sheet  packed  against alpha
+helices (see <PDB:1C05>) [2,3,4].
+
+The profile we developed covers the entire S4 RNA-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ 40S ribosomal  protein S9  from Entamoeba histolytica,  Candida albicans  and
+ Drosophila melanogaster.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2002 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "Novel predicted RNA-binding domains associated with the translation
+     machinery."
+     J. Mol. Evol. 48:291-302(1999).
+     PubMed=10093218
+[ 2] Davies C., Gerstner R.B., Draper D.E., Ramakrishnan V., White S.W.
+     "The crystal structure of ribosomal protein S4 reveals a two-domain
+     molecule with an extensive RNA-binding surface: one domain shows
+     structural homology to the ETS DNA-binding motif."
+     EMBO J. 17:4545-4558(1998).
+     PubMed=9707415; DOI=10.1093/emboj/17.16.4545
+[ 3] Guijarro J.I., Pintar A., Prochnicka-Chalufour A., Guez V.,
+     Gilquin B., Bedouelle H., Delepierre M.
+     "Structure and dynamics of the anticodon arm binding domain of
+     Bacillus stearothermophilus Tyrosyl-tRNA synthetase."
+     Structure 10:311-317(2002).
+     PubMed=12005430
+[ 4] Sivaraman J., Sauve V., Larocque R., Stura E.A., Schrag J.D.,
+     Cygler M., Matte A.
+     "Structure of the 16S rRNA pseudouridine synthase RsuA bound to uracil
+     and UMP."
+     Nat. Struct. Biol. 9:353-358(2002).
+     PubMed=11953756; DOI=10.1038/nsb788
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

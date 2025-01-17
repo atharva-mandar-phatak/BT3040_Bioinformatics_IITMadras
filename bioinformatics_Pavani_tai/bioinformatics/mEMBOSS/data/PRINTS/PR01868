@@ -1,0 +1,32 @@
+ABCEFAMILY
+The ABCE family of ATP-binding cassette (ABC) transporters solely comprises
+the ABCE1 gene product, a 68kDa polypeptide found in insect cells and multi-
+cellular eukaryotes, but not in yeast [1-3]. Originally described by Bisbal 
+et al. [1], ABCE1 contains 2 nucleotide-binding domains (NBDs) typical of 
+the ABC transporter protein superfamily; however, it lacks transmembrane 
+domains required for membrane transport functions [1,2].
+
+ABCE1 is an endoribonuclease inhibitor that interacts directly with RNase L
+to prevent it from binding 2-5A (5'-phosphorylated 2',5'-linked oligo-
+adenylates) [1]. RNase L plays a major role in the anti-viral and anti-
+proliferative activities of interferons, and its inhibition by ABCE1
+occurs in a concentration-dependent manner [1,4].
+
+Recently, ABCE1 has been shown to be essential for the assembly of immature
+HIV-1 capsids in insect cells and higher eukaryotic cell types [3]. ABCE1 
+expression is induced during HIV type I infection, and is understood to
+bind HIV-1 Gag (p55) polypeptides following their translation, and to
+promote their assembly into immature HIV-1 capsids [1,3,5].
+
+ABCEFAMILY is a 6-element fingerprint that provides a signature for the E
+subfamily of ABC transporters. The fingerprint was derived from an initial
+alignment of 10 sequences: all motifs were drawn from the first third of the
+alignment, focusing on those regions that distinguish ABCE1 polypeptides
+from other members of the ABC transporter superfamily - motif 1 resides in
+the putative metal-binding domain; motif 2 lies in the 4Fe-4S iron-sulphur-
+binding domain; motif 3 lies between the 4Fe-4S domain and the NBD; motif 4
+lies in the ATP-binding region of the NBD; and motifs 5 and 6 reside in the
+C-terminal NBD. Two iterations on SPTR40_20f were required to reach 
+convergence, at which point a true set comprising 25 sequences was 
+identified. A single partial match was also found, a hypothetical protein 
+that may be a truncated ABCE1.

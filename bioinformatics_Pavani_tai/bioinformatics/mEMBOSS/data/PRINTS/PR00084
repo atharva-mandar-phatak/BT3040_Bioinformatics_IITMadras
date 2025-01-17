@@ -1,0 +1,24 @@
+MTLDHDRGNASE
+Mannitol-1-phosphate 5-dehydrogenase catalyses the NAD-dependent reduction
+of mannitol-1-phosphate to fructose-6-phosphate [1] as part of the
+phosphoenolpyruvate-dependent phosphotransferase system (PTS) [2]. The PTS
+facilitates the vectorial translocation of metabolisable carbohydrates to
+form the corresponding sugar phosphates, which are then converted to 
+glycolytic intermediates [2]. Mannitol 2-dehydrogenase catalyses the 
+NAD-dependent reduction of mannitol to fructose [3]. The E.coli yeiQ
+protein shares sequence similarity with these 2 types of dehydrogenase,
+suggesting an evolutionary relationship.
+
+MTLDHDRGNASE is a 4-element fingerprint that provides a signature for
+mannitol dehydrogenases. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions in
+the first half of the alignment, motif 1 including a putative NAD-binding
+site, and motif 3 containing the region encoded by PROSITE pattern
+MANNITOL_DHGENASE (PS00974). Two iterations on OWL25.1 were required to
+reach convergence, at which point a true set comprising 7 sequences was
+identified. A single partial match was also found, ECMTLD1, an E.coli
+mannitol-1-phosphate dehydrogenase that fails to make significant matches
+with motifs 2 and 4.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 1
+partial match.

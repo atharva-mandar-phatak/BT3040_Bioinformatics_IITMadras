@@ -1,0 +1,31 @@
+TRNSRECEPTRP
+Transient receptor potential (Trp) and related proteins are thought to be
+Ca2+ ion channel subunits that mediate capacitative Ca2+ entry in response 
+to a range of external and internal cell stimuli. Such Ca2+ entry is thought 
+to be an essential component of cellular responses to many hormones and
+growth factors, and acts to replenish intracellular Ca2+ stores that have
+been emptied through the action of inositol triphosphate (IP3) and other 
+agents. In non-excitable cells, i.e. those that lack voltage-gated Ca2+
+channels, such as hepatocytes, this mode of Ca2+ entry is thought to be an
+important step in generating the oscillations of intracellular Ca2+
+concentration that characterise their response to stimulatory agents [1].
+
+Studies on the visual transduction system in Drosophila led to the molecular
+cloning of Trp and the cDNA of a related protein, Trp-like, which show
+similarity to voltage gated Ca2+ channels in the regions known as S3 through
+S6, including the S5-S6 linker that forms the ion-selective channel pore [2].
+This provided evidence that Trp and/or related proteins might form mammalian
+capacitative Ca2+ entry channels. They have varying lengths (usually 800-1000
+amino acid residues), and hydropathy analyses suggest that they have six or
+more transmebrane (TM) regions, flanked by cytosolic N- and C-termini.
+
+TRNSRECEPTRP is a 3-element fingerprint that provides a signature for the
+transient receptor potential family and related proteins. The fingerprint
+was derived from an initial alignment of 26 sequences: the motifs were
+drawn from the central hydrophobic region of the molecules containing the
+putative TM domains. Two iterations on OWL31.1 were required to reach 
+convergence, at which point a true set comprising 27 sequences was 
+identified. A single partial match was also found, a TRP-like protein 
+fragment from Mus musculus that matches motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 17 sequences.

@@ -1,0 +1,73 @@
+****************************************
+* Methionine aminopeptidase signatures *
+****************************************
+
+Methionine aminopeptidase  (EC 3.4.11.18) (MAP) is responsible for the removal
+of the amino-terminal (initiator) methionine from nascent eukaryotic cytosolic
+and cytoplasmic  prokaryotic  proteins  if the penultimate amino acid is small
+and uncharged.  All  MAP  studied  to date are monomeric proteins that require
+cobalt ions for activity.
+
+Two subfamilies  of  MAP  enzymes  are  known  to  exist  [1,2].  While  being
+evolutionary related,  they only share a limited amount of sequence similarity
+mostly clustered  around  the residues shown, in the Escherichia coli MAP [3],
+to be involved in cobalt-binding.
+
+The first  family  consists  of enzymes from prokaryotes as well as eukaryotic
+MAP-1, while  the second group is made up of archebacterial MAP and eukaryotic
+MAP-2. The  second  subfamily  also  includes proteins which do not seem to be
+MAP, but  that  are  clearly evolutionary related such as mouse proliferation-
+associated protein 1 and fission yeast curved DNA-binding protein.
+
+For each  of these subfamilies, we developed a specific signature pattern that
+includes residues known to be involved in colbalt-binding.
+
+-Consensus pattern: [MFY]-x-G-H-G-[LIVMC]-[GSHN]-x(3)-H-x(4)-[LIVM]-x(1,2)-
+                    [HN]-[YWVHF]
+                    [H is a cobalt ligand]
+-Sequences known to belong to this class detected by the pattern: ALL MAP from
+ family 1.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DA]-[LIVMY]-x-K-[LIVM]-D-x-G-x-[HQ]-[LIVMS]-[DNS]-G-x(3)-
+                    [DN]
+                    [The second D and the last D/N are cobalt ligands]
+-Sequences known to belong to this class detected by the pattern: ALL MAP from
+ family 2. Does not detect fission yeast curved DNA-binding protein.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family M24A and M24C in the classification  of
+ peptidases [4,E1].
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Arfin S.M., Kendall R.L., Hall L., Weaver L.H., Stewart A.E.,
+     Matthews B.W., Bradshaw R.A.
+     "Eukaryotic methionyl aminopeptidases: two classes of cobalt-dependent
+     enzymes."
+     Proc. Natl. Acad. Sci. U.S.A. 92:7714-7718(1995).
+     PubMed=7644482
+[ 2] Keeling P.J., Doolittle W.F.
+     "Methionine aminopeptidase-1: the MAP of the mitochondrion?"
+     Trends Biochem. Sci. 21:285-286(1996).
+     PubMed=8772380
+[ 3] Roderick S.L., Matthews B.W.
+     "Structure of the cobalt-dependent methionine aminopeptidase from
+     Escherichia coli: a new type of proteolytic enzyme."
+     Biochemistry 32:3907-3912(1993).
+     PubMed=8471602
+[ 4] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,36 @@
+KINESINHEAVY
+Kinesins are found in organisms from all the major eukaryotic kingdoms:
+protists, fungi, plants and animals [1]. They are believed to function
+as motors for microtubule-dependent motile phenomena, such as membrane
+transport, and chromosome movement during mitosis and meiosis. The
+common feature of kinesins is a highly-conserved 'motor domain' that
+contains binding sites for ATP and microtubules. Linked to the motor
+domains are 'tail domains' that vary somewhat in amino acid sequence.
+It is believed that tail domains may specify the type of cargo that
+particular kinesins are able to transport along microtubules.
+
+Kinesins contain 2 heavy and 2 light chains. Maintenance of their
+quaternary structure does not require interchain disulphide bonds.
+Details of the structure have been revealed by high-resolution electron
+microscopy [2], showing kinesin to be an asymmetric rod-like molecule
+(~80nm long), with a pair of globular heads located at one end and a
+fan-shaped tail at the other. Kinesin heavy chains are mildly acidic
+polypeptides ranging from around 109 to 117 kDa. The sequences are highly 
+similar, sharing more than 70% identity within their N-terminal motor 
+domains. Downstream of the motor domain is an extended region that forms
+an alpha-helical coiled coil. Beyond this is the C-terminal region,
+which together with the light chains forms the tail domain, which
+associate with membrane-bound organelles. 
+
+KINESINHEAVY is a 4-element fingerprint that provides a signature for
+kinesin heavy chains. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs were drawn from the well-conserved
+motor domain, motif 3 spanning the decapeptide encoded by PROSITE pattern
+KINESIN_MOTOR_DOMAIN (PS00411), which is involved in microtubule binding.
+Three iterations on OWL25.2 were required to reach convergence, at which
+point a true set comprising 48 sequences was identified. Five partial
+matches were also found, all of which are kinesin heavy chain fragments
+lacking the first 2 motifs.
+
+An update on SPTR37_9f identified a true set of 120 sequences, and 3
+partial matches.

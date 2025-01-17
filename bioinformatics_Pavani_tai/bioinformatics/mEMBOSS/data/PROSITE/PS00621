@@ -1,0 +1,50 @@
+***************************
+* Tissue factor signature *
+***************************
+
+Tissue factor (TF) [1,2] is an integral membrane glycoprotein  that  initiates
+blood coagulation by forming a  complex  with  circulating factor VII or VIIa.
+The complex then activates factors IX or X by specific limited proteolysis.
+
+The mature  form of TF  is  a protein of about  250  amino acid  residues.  TF
+consists of an  extracellular domain of about 210 residues  that  contains two
+disulfide bonds, followed  by  a transmembrane  region and a short cytoplasmic
+C-terminal  domain.  This  structure  is  shown  in  the  following  schematic
+representation:
+
+   +----------*****---------------------------------------xxxxx----+
+   |           C C       Extracellular            C    C  XXXXX Cyt|
+   +-----------|-|--------------------------------|----|--xxxxx----+
+               | |                                |    |  Transm.
+               +-+                                +----+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As a pattern for TF,  we  have used the region centered on  the  two cysteines
+involved in the first disulfide bond.
+
+-Consensus pattern: W-K-x-K-C-x(2)-T-x-[DEN]-T-E-C-D-[LIVM]-T-D-E
+                    [The 2 C's are linked by a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Bach R.R.
+     "Initiation of coagulation by tissue factor."
+     CRC Crit. Rev. Biochem. 23:339-368(1988).
+     PubMed=3067973
+[ 2] Barcham G.J., Andrews A.E., Nash A.D.
+     "Cloning and expression of a cDNA encoding ovine interleukin 7."
+     Gene 154:265-269(1995).
+     PubMed=7890175
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

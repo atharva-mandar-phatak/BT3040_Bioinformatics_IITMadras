@@ -1,0 +1,75 @@
+*************************************************
+* YjeF C-terminal domain signatures and profile *
+*************************************************
+
+The YjeF  C-terminal  domain  is an ~280-residue module found in the following
+proteins:
+
+ - Yeast chromosome XI hypothetical protein YKL151c.
+ - Caenorhabditis elegans hypothetical protein R107.2.
+ - Escherichia coli hypothetical protein YjeF.
+ - Bacillus subtilis hypothetical protein yxkO.
+ - Helicobacter pylori hypothetical protein HP1363.
+ - Mycobacterium tuberculosis hypothetical protein MtCY77.05c.
+ - Mycobacterium leprae hypothetical protein B229_C2_201.
+ - Synechocystis strain PCC 6803 hypothetical protein sll1433.
+ - Methanococcus jannaschii hypothetical protein MJ1586.
+ - Streptococcus mutans	putative uncharacterized protein SMU.573.
+ - Streptococcus thermophilus predicted sugar kinase STER_0661.
+ - Streptococcus sanguinis putative uncharacterized protein SSA_0673.
+ - Thermotoga maritima hypothetical protein Tm0922.
+
+The YjeF  C-terminal  domain  has an alpha/beta fold and shows high structural
+homology to  the  members of a ribokinase-like superfamily. The members of the
+ribokinase-like superfamily  are  all  phosphotransferases  and  catalyze  the
+phosphorylation of the hydroxymethyl group of the substrate; magnesium and ATP
+(or ADP)  are  required  for  their  activity. The YjeF C-terminal is found in
+association with  the  YjeF  N-terminal domain, which belongs of a specialized
+family of Rossmann fold domains (see <PDOC51385>) [1-3].
+
+The first  pattern  we  developed  covers  residues  that might be involved in
+forming the  substrate-binding  pocket. The second one corresponds to residues
+that could form a kinase anion hole, with the conserved aspartate predicted to
+be the  catalytic  base  [1].  We  also  developed  a profile which covers the
+entire YjeF C-terminal domain.
+
+-Consensus pattern: [SAV]-[IVW]-[LVA]-[LIV]-G-[PNS]-G-L-[GP]-x-[DENQT]
+-Sequences known to belong to this class detected by the pattern: ALL, except
+ for H.pylori HP1363.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GA]-G-x-G-D-[TV]-[LT]-[STA]-G-x-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2008 / Text revised; profile added.
+
+[ 1] Zhang R.-G., Grembecka J., Vinokour E., Collart F., Dementieva I.,
+     Minor W., Joachimiak A.
+     "Structure of Bacillus subtilis YXKO--a member of the UPF0031 family
+     and a putative kinase."
+     J. Struct. Biol. 139:161-170(2002).
+     PubMed=12457846
+[ 2] Zhou Y.-F., Li L.-F., Yang C., Liang Y.-H., Su X.-D.
+     "Preliminary X-ray crystallographic analysis of SMU.573, a putative
+     sugar kinase from Streptococcus mutans."
+     Acta Crystallogr. F 64:47-49(2008).
+     PubMed=18097102; DOI=10.1107/S1744309107065645
+[ 3] Anantharaman V., Aravind L.
+     "Novel conserved domains in proteins with predicted roles in
+     eukaryotic cell-cycle regulation, decapping and RNA stability."
+     BMC Genomics 5:45-45(2004).
+     PubMed=15257761; DOI=10.1186/1471-2164-5-45
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

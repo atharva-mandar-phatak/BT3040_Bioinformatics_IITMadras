@@ -1,0 +1,50 @@
+******************************************************
+* Fructose-bisphosphate aldolase class-I active site *
+******************************************************
+
+Fructose-bisphosphate aldolase (EC 4.1.2.13) [1,2] is a glycolytic enzyme that
+catalyzes  the reversible  aldol cleavage   or  condensation of  fructose-1,6-
+bisphosphate into  dihydroxyacetone-phosphate and  glyceraldehyde 3-phosphate.
+There are  two  classes  of  fructose-bisphosphate  aldolases  with  different
+catalytic mechanisms.   Class-I   aldolases   [3],   mainly  found  in  higher
+eukaryotes, are homotetrameric enzymes which form a  Schiff-base  intermediate
+between the C-2 carbonyl  group of  the substrate (dihydroxyacetone phosphate)
+and the epsilon-amino group of a lysine residue.
+
+In vertebrates, three  forms  of this enzyme  are found: aldolase A in muscle,
+aldolase B in liver and aldolase C in brain.
+
+The sequence around the lysine involved in the Schiff-base is highly conserved
+and can be used as a signature for this class of enzyme.
+
+-Consensus pattern: [LIVM]-x-[LIVMFYW]-E-G-x-[LSI]-L-K-[PA]-[SN]
+                    [K is involved in Schiff-base formation]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Staphylococcus carnosus aldolase.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Perham R.N.
+     "The fructose-1,6-bisphosphate aldolases: same reaction, different
+     enzymes."
+     Biochem. Soc. Trans. 18:185-187(1990).
+     PubMed=2199259
+[ 2] Marsh J.J., Lebherz H.G.
+     "Fructose-bisphosphate aldolases: an evolutionary history."
+     Trends Biochem. Sci. 17:110-113(1992).
+     PubMed=1412694
+[ 3] Freemont P.S., Dunbar B., Fothergill-Gilmore L.A.
+     "The complete amino acid sequence of human skeletal-muscle
+     fructose-bisphosphate aldolase."
+     Biochem. J. 249:779-788(1988).
+     PubMed=3355497
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

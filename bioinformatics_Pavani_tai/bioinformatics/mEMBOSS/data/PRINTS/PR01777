@@ -1,0 +1,32 @@
+INTERFERONGR
+Interferon (INF)-gamma is a dimeric glycoprotein produced by activated T 
+cells and natural killer cells. Although originally isolated based on its
+antiviral activity, INF-gamma also displays powerful anti-proliferative and
+immuno-modulatory activities, which are essential for developing appropriate 
+cellular defenses against a variety of infectious agents. The first step in 
+eliciting these responses is the specific high affinity interaction of INF-
+gamma with its cell-surface receptor (INF-gammaRalpha); the complex then
+interacts with at least one of a family of additional species-specific 
+accessory factors (AF-1 or INF-gammabeta), which convey different cellular 
+responses. One such response is the association and phosphorylation of two 
+protein tyrosine kinases (Jak-1 and Jak-2), which in turn stimulate nuclear 
+transcription activators [1]. 
+
+The human INF-gammaR, is a member of the hematopoietic cytokine receptor 
+superfamily. It is expressed in a membrane-bound form in many cell types,
+and is over-expressed in tumour cells. It comprises an extracellular portion 
+of 229 residues, a single transmembrane region, and a cytoplasmic domain of 
+221 residues. As with other members of its superfamily, the cytokine-binding
+sites are formed by a small set of closely-spaced surface loops that extend 
+from a beta-sheet core, much like antigen-binding sites on antibodies. The 
+extracellular INF-gammaR monomer comprises two domains (domain D1 from 
+residue 14-102, and domain D2 from residue 114-221), each resembling an Ig 
+fold with fibronectin type III topology [2].
+
+INGRECEPTOR is a 5-element fingerprint that provides a signature for the 
+interferon-gamma receptor alpha chains. The fingerprint was derived from an 
+initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length - motif 1 includes
+beta-strand 6 in the putative extracellular domain; and motifs 2-5 span the 
+cytoplasmic domain. A single iteration on SPTR39_17f was required to reach 
+convergence, no further sequences being identified beyond the starting set.  

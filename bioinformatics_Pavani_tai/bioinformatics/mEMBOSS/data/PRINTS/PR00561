@@ -1,0 +1,64 @@
+ADRENRGCB1AR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+In the periphery, the adrenergic system plays an important role in
+regulating the cardiovascular system [6]. Increased sympathetic discharge
+to the heart increases the rate and force of contraction mediated through 
+beta-1 receptors. Circulating adrenaline also acts on cardiac tissue, and, 
+in addition acts both on alpha-1 adrenoceptors in arterial smooth muscle, 
+stimulating vasoconstriction, and on beta-2 adrenoceptors in vascular beds 
+of skeletal muscle, stimulating vasodilation [6]. In the CNS, noradrenaline 
+is thought to be involved in the regulation of mood, and various psycho-
+active drugs alter noradrenergic function. Numerous drugs exert their 
+actions via adrenoceptors: e.g., beta-2 selective agonists such as 
+salbutamol are used in the acute treatment of asthma, while alpha agonists 
+prolong the action of local anaesthetics, and act as nasal decongestants [6].
+
+Adrenoceptors can be divided into three main classes based on sequence
+similarity, receptor pharmacology and signalling mechanisms. Further 
+subdivisions exist within each class [6]. A large number of agonists and 
+antagonists distinguish between the different classes of adrenoceptor; by
+contrast, relatively small differences in agonist and antagonist affinities
+are demonstrated, especially within the alpha-1 and alpha-2 adrenoceptor
+subtypes [6]. 
+
+Beta-1 and beta-2 receptors often coexist, but one subtype normally
+predominates [6]. Beta-1 receptors are the predominant subtype in cardiac
+tissue (where they mediate positive inotropic and chronotropic effects) and
+in the kidney (where they enhance renin release) [6]. The receptor activates
+adenylyl cyclase through Gs [6]. 
+
+ADRENRGCB1AR is a 7-element fingerprint that provides a signature for the
+beta-1 adrenergic receptors. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the beta-1 adrenergic receptors but
+distinguish them from the rest of the rhodopsin-like superfamily - motifs 
+1 and 2 span the N-terminus; motifs 3 and 4 lie in the third cytoplasmic
+loop; motif 5 spans the third external loop; and motifs 6 and 7 lie at the
+C-terminus. A single iteration on OWL28.1 was required to reach convergence,
+no further sequences being identified beyond the starting set. Three partial
+matches were also found: SSU56425 and S40503 are both beta-1 adrenergic
+receptor fragments; and B1AR_MELGA is the turkey beta-T adrenergic receptor
+whose sequence differs markedly from those of the rest of the beta-1
+receptor family.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 1
+partial match.

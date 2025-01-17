@@ -1,0 +1,55 @@
+*************************************************
+* Bipartite nuclear localization signal profile *
+*************************************************
+
+The uptake  of protein by  the   nucleus  is extremely selective   and nuclear
+proteins must therefore  contain within  their final  structure a signal  that
+specifies selective accumulation in the nucleus [1,2]. Studies on some nuclear
+proteins, such as  the  large T antigen of SV40,  have indicated which part of
+the sequence  is  required  for  nuclear  translocation.   The  known  nuclear
+targeting sequences  are   generally  basic, but  there  seems to  be no clear
+common denominator  between  all the known sequences.  Although some consensus
+sequence patterns have  been proposed (see for example [3]),  the current best
+strategy to detect a nuclear targeting sequence is based [4] on  the following
+definition of what is called a 'bipartite nuclear localization signal':
+
+  (1) Two adjacent basic amino acids (Arg or Lys).
+  (2) A spacer region of any 10 residues.
+  (3) At least three basic residues (Arg or Lys) in the five positions
+      after the spacer region.
+
+The  profile  we  developed  covers  the entire bipartite nuclear localization
+signal.
+
+-Sequences known to belong to this class detected by the profile: 56% of known
+ nuclear proteins according to [4].
+-Other sequence(s) detected in Swiss-Prot: about 4.2% of  non-nuclear proteins
+ according to [4].
+
+-Note:  This profile replace an obsolete rule. All the information in the rule
+ has been encoded in the profile format.
+
+-Last update: October 2006 / Text revised; profiles added; rule deleted.
+
+[ 1] Dingwall C., Laskey R.A.
+     "Protein import into the cell nucleus."
+     Annu. Rev. Cell Biol. 2:367-390(1986).
+     PubMed=3548772; DOI=10.1146/annurev.cb.02.110186.002055
+[ 2] Garcia-Bustos J.F., Heitman J., Hall M.N.
+     Biochim. Biophys. Acta 1071:83-101(1991).
+[ 3] Gomez-Marquez J., Segade F.
+     FEBS Lett. 226:217-219(1988).
+[ 4] Dingwall C., Laskey R.A.
+     "Nuclear targeting sequences -- a consensus?"
+     Trends Biochem. Sci. 16:478-481(1991).
+     PubMed=1664152
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

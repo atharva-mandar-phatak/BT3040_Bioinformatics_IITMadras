@@ -1,0 +1,19 @@
+DEFENSIN
+Insect defensins are a diverse family of anti-bacterial peptides, largely
+active against Gram-positive bacteria [1-5]. The sequences contain 6 well-
+conserved cysteines, all of which are involved in disulphide bridge
+formation. A small degree of sequence similarity has been noted between
+insect and mammalian defensins [1], but the topological arrangement of
+the disulphide bonds and the tertiary structure [6] are quite different. 
+
+DEFENSIN is a 3-element fingerprint that provides a signature for the
+insect defensins. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from virtually the full alignment
+length, and include the 5 well-conserved Cys residues encoded by PROSITE
+pattern INSECT_DEFENSIN (PS00425). A single iteration on OWL23.1 was
+required to reach convergence, no further sequences being identified beyond
+the starting set. A single partial match was also found, S38672, which
+fails to make a significant match with motif 2.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 4
+partial matches.

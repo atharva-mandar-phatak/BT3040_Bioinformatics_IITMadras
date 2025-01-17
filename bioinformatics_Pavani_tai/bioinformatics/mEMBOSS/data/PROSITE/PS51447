@@ -1,0 +1,58 @@
+**************************************************************
+* Ferredoxin-fold anticodon binding (FDX-ACB) domain profile *
+**************************************************************
+
+Aminoacyl-tRNA synthetases  (aaRSs)  play a crucial role in the translation of
+the genetic  code  by  means  of  covalent  attachment of amino acids to their
+cognate tRNAs. Phenylalanine--tRNA synthetase (PheRS) is known to be among the
+most complex  enzymes  of  the aaRS family. Bacterial and mitochondrial PheRSs
+share a ferredoxin-fold anticodon binding (FDX-ACB) domain, which represents a
+canonical double  split  alpha+beta  motif  having  no insertions. The FDX-ACB
+domain displays  a typical RNA recognition fold (RRM) (see <PDOC00030>) formed
+by the  four-stranded antiparallel beta sheet, with two helices packed against
+it (see <PDB:3CMQ>) [1,2,3,4,5].
+
+The profile we developed covers the entire FDX-ACB domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2009 / First entry.
+
+[ 1] Mosyak L., Reshetnikova L., Goldgur Y., Delarue M., Safro M.G.
+     "Structure of phenylalanyl-tRNA synthetase from Thermus
+     thermophilus."
+     Nat. Struct. Biol. 2:537-547(1995).
+     PubMed=7664121
+[ 2] Goldgur Y., Mosyak L., Reshetnikova L., Ankilova V., Lavrik O.,
+     Khodyreva S., Safro M.
+     "The crystal structure of phenylalanyl-tRNA synthetase from thermus
+     thermophilus complexed with cognate tRNAPhe."
+     Structure 5:59-68(1997).
+     PubMed=9016717
+[ 3] Rodova M., Ankilova V., Safro M.G.
+     "Human phenylalanyl-tRNA synthetase: cloning, characterization of the
+     deduced amino acid sequences in terms of the structural domains and
+     coordinately regulated expression of the alpha and beta subunits in
+     chronic myeloid leukemia cells."
+     Biochem. Biophys. Res. Commun. 255:765-773(1999).
+     PubMed=10049785; DOI=10.1006/bbrc.1999.0141
+[ 4] Moor N., Lavrik O., Favre A., Safro M.
+     "Prokaryotic and eukaryotic tetrameric phenylalanyl-tRNA synthetases
+     display conservation of the binding mode of the tRNA(Phe) CCA end."
+     Biochemistry 42:10697-10708(2003).
+     PubMed=12962494; DOI=10.1021/bi034732q
+[ 5] Klipcan L., Levin I., Kessler N., Moor N., Finarov I., Safro M.
+     "The tRNA-induced conformational activation of human mitochondrial
+     phenylalanyl-tRNA synthetase."
+     Structure 16:1095-1104(2008).
+     PubMed=18611382; DOI=10.1016/j.str.2008.03.020
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

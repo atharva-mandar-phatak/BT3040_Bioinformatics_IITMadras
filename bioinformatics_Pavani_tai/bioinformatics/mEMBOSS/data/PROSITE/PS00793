@@ -1,0 +1,57 @@
+***************************************
+* Dihydropteroate synthase signatures *
+***************************************
+
+All organisms require reduced folate cofactors  for the synthesis of a variety
+of metabolites.  Most  microorganisms  must synthesize folate  de novo because
+they lack the  active transport system of higher vertebrate cells which allows
+these organisms to use dietary  folates.  Enzymes  that  are  involved  in the
+biosynthesis of folates are therefore the target of a variety of antimicrobial
+agents such as trimethoprim or sulfonamides.
+
+Dihydropteroate synthase (EC 2.5.1.15) (DHPS)  catalyzes  the  condensation of
+6-hydroxymethyl-7,8-dihydropteridine  pyrophosphate to  para-aminobenzoic acid
+to form 7,8-dihydropteroate.  This  is  the  second step  in  the  three steps
+pathway leading from 6-hydroxymethyl-7,8-dihydropterin  to  7,8-dihydrofolate.
+DHPS  is the target  of sulfonamides which  are substrates analog that compete
+with para-aminobenzoic acid.
+
+Bacterial DHPS (gene sul or folP) [1] is a protein of  about  275 to 315 amino
+acid residues  which  is  either  chromosomally  encoded  or  found on various
+antibiotic resistance plasmids. In the  lower eukaryote  Pneumocystis carinii,
+DHPS is the C-terminal  domain  of  a  multifunctional folate synthesis enzyme
+(gene fas) [2].
+
+We developed two signature patterns for DHPS,  the  first signature is located
+in the N-terminal section of these enzymes,  while  the  second  signature  is
+located in the central section.
+
+-Consensus pattern: [LIVM]-x-[AG]-[LIVMF](2)-N-x-T-x-[DN]-S-[FLMI]-x-D-x-[SG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GE]-[SAV]-x-[LIVM](2)-D-[LIVMF]-G-[GPA]-x(2)-[STA]-x-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Slock J., Stahly D.P., Han C.-Y., Six E.W., Crawford I.P.
+     "An apparent Bacillus subtilis folic acid biosynthetic operon
+     containing pab, an amphibolic trpG gene, a third gene required for
+     synthesis of para-aminobenzoic acid, and the dihydropteroate synthase
+     gene."
+     J. Bacteriol. 172:7211-7226(1990).
+     PubMed=2123867
+[ 2] Volpes F., Dyer M., Scaife J.G., Darby G., Stammers D.K., Delves C.J.
+     Gene 112:213-218(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

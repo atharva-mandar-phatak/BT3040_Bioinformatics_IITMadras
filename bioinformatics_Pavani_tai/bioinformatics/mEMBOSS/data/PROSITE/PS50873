@@ -1,0 +1,111 @@
+*******************************************
+* Heme peroxidase signatures and profiles *
+*******************************************
+
+Heme-binding peroxidases (EC 1.11.1.-) [1] carry out a variety of biosynthetic
+and  degradative  functions  using hydrogen peroxide as the electron acceptor.
+The  heme  prosthetic  group  is protoporphyrin IX and the fifth ligand of the
+heme iron is a histidine (known as the proximal histidine). An other histidine
+residue (the distal histidine) serves as an acid-base catalyst in the reaction
+between  hydrogen peroxide and the enzyme. The regions around these two active
+site residues are more or less conserved in a majority of peroxidases [2,3].
+
+Heme  peroxidases  are  widely distributed throughout bacteria, fungi, plants,
+and  vertebrates. On the basis of structural properties they can be devided in
+two large superfamilies.
+
+The plant peroxidase superfamily (can be grouped in three classes):
+
+ Class I. Peroxidase of prokaryotic origin:
+ - Plant  ascorbate  peroxidases.  They  play  a key role in hydrogen peroxide
+   removal in the chloroplasts and cytosol of higher plants.
+ - Yeast cytochrome c peroxidase (EC 1.11.1.5).
+ - Prokaryotic catalase-peroxidases.  Some  bacterial  species produce enzymes
+   that exhibit both catalase  and  broad-spectrum  peroxidase activities [4].
+   Examples  of  such  enzymes are:  catalase HP I from Escherichia coli (gene
+   katG) and perA from Bacillus stearothermophilus.
+
+ Class II. Secreted fungal peroxidases:
+ - Fungal ligninases. Ligninase catalyzes the first step in the degradation of
+   lignin. It depolymerizes lignin by catalyzing the C(alpha)-C(beta) cleavage
+   of the propyl side chains of lignin.
+
+ Class III. Classical secretory plant peroxidases:
+ - Plant peroxidases (EC 1.11.1.7).  Plants express a large number of isozymes
+   of  peroxidases.   Some  of  them  play  a   role  in  cell-suberization by
+   catalyzing the deposition of the  aromatic residues  of suberin on the cell
+   wall, some are expressed as a defense response toward  wounding, others are
+   involved in the metabolism of auxin and the biosynthesis of lignin.
+
+The animal peroxidase superfamily:
+
+ - Myeloperoxidase (EC 1.11.1.7)  (MPO).  MPO  is  found  in  granulocytes and
+   monocytes and  plays  a  major  role  in  the oxygen-dependent microbicidal
+   system of neutrophils.
+ - Lactoperoxidase (EC 1.11.1.7) (LPO). LPO is a milk protein which acts as an
+   antimicrobial agent.
+ - Eosinophil  peroxidase  (EC 1.11.1.7)  (EPO).   An   enzyme  found  in  the
+   cytoplasmic granules of eosinophils.
+ - Thyroid peroxidase (EC 1.11.1.8) (TPO).  TPO  plays  a  central role in the
+   biosynthesis of thyroid hormones. It  catalyzes the iodination and coupling
+   of  the  hormonogenic  tyrosines in  thyroglobulin  to  yield  the  thyroid
+   hormones T3 and T4.
+
+The  two patterns we developed recognize both superfamilies. Our first pattern
+recognizes   the   proximal  heme-binding  site  whereas  the  second  pattern
+surrounded  the  distal  active  site.  We  also  developed  two profiles, one
+specific  for  the animal peroxidases superfamily and one directed against the
+plant peroxidase superfamily.
+
+-Consensus pattern: [DET]-[LIVMTA]-{NSYL}-{RPFC}-[LIVM]-[LIVMSTAG]-[SAG]-
+                    [LIVMSTAG]-H-[STA]-[LIVMFY]
+                    [H is the proximal heme-binding ligand]
+-Sequences known to belong to this class detected by the profile: ALL.
+ for ligninase III from Phlebia radiata, and LPO.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [SGATV]-{D}-x(2)-[LIVMA]-R-[LIVMA]-x-[FW]-H-{V}-[SAC]
+                    [H is an active site residue]
+-Sequences known to belong to this class detected by the profile: ALL.
+ for vertebrate peroxidases (MPO, TPO, LPO, and EPO).
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Dawson J.H.
+     "Probing structure-function relations in heme-containing oxygenases
+     and peroxidases."
+     Science 240:433-439(1988).
+     PubMed=3358128
+[ 2] Kimura S., Ikeda-Saito M.
+     "Human myeloperoxidase and thyroid peroxidase, two enzymes with
+     separate and distinct physiological functions, are evolutionarily
+     related members of the same gene family."
+     Proteins 3:113-120(1988).
+     PubMed=2840655
+[ 3] Henrissat B., Saloheimo M., Lavaitte S., Knowles J.K.C.
+     "Structural homology among the peroxidase enzyme family revealed by
+     hydrophobic cluster analysis."
+     Proteins 8:251-257(1990).
+     PubMed=2177893
+[ 4] Welinder K.G.
+     "Bacterial catalase-peroxidases are gene duplicated members of the
+     plant peroxidase superfamily."
+     Biochim. Biophys. Acta 1080:215-220(1991).
+     PubMed=1954228
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

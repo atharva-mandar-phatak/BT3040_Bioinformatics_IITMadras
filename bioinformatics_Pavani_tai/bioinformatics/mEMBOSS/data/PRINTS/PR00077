@@ -1,0 +1,25 @@
+GPDHDRGNASE
+NAD-dependent glycerol-3-phosphate dehydrogenase (G3PDH) catalyses the
+conversion of glycerol-3-phosphate to glycerone phosphate in the presence
+of NAD. It is a eukaryotic cytoplasmic protein, active as a homodimer [1],
+each monomer containing an N-terminal NAD binding site [2]. In insects, it
+acts in conjunction with a mitochondrial alpha-glycerophosphate oxidase in
+the alpha-glycerophosphate cycle, which is essential for the production of
+energy used in insect flight [1].
+
+GPDHDRGNASE is a 6-element fingerprint that provides a signature for 
+NAD-dependent glycerol-3-phosphate dehydrogenases. The fingerprint was
+derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length, motif
+1 including the proposed NAD binding site, and motif 2 containing the
+region encoded by PROSITE pattern NAD_G3PDH (PS00957), the conserved His
+of which is implicated in the catalytic mechanism. Two iterations on
+OWL25.1 were required to reach convergence, at which point a true set
+comprising 15 sequences was identified. Four partial matches were also
+found: C32937 is a G3PDH fragment lacking the first 2 motifs; PLU12977
+is a G3PDH homologue that lacks motif 1 and shows limited similarity to
+motif 2; and DHNO_AGRT7 and A06498 are D-nopaline dehydrogenases, which
+show some similarity to motifs 1 and 2.
+
+An update on SPTR37_9f identified a true set of 33 sequences, and 9
+partial matches.

@@ -1,0 +1,41 @@
+**********************************
+* Ribosomal protein S9 signature *
+**********************************
+
+Ribosomal protein S9 is one of the proteins from the  small ribosomal subunit.
+It belongs to a family of ribosomal  proteins which,  on the basis of sequence
+similarities [1,2], groups:
+
+ - Eubacterial S9.
+ - Algal chloroplast S9.
+ - Cyanelle S9.
+ - Archaebacterial S9.
+ - Mammalian S16.
+ - Plant S16.
+ - Yeast mitochondrial ribosomal S9.
+
+As a signature pattern, we selected a conserved region containing many charged
+residues and located in the central section of these proteins.
+
+-Consensus pattern: [GS]-G(2)-x(2)-[GSA]-[QK]-x(2)-[SA]-x(3)-[GSA]-x-[GSTAV]-
+                    [KR]-[GSALVD]-[LIFV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Chan Y.-L., Paz V., Olvera J., Wool I.G.
+     "The primary structure of rat ribosomal protein S16."
+     FEBS Lett. 263:85-88(1990).
+     PubMed=2332055
+[ 2] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

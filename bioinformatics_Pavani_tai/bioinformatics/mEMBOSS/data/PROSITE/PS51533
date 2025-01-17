@@ -1,0 +1,81 @@
+**********************
+* ADD domain profile *
+**********************
+
+One of  the  largest  protein  families in the human genome is the zinc finger
+family that  contains  members  involved  in  the  regulation of transcription
+processes. The  zinc finger domains have been classified based on the order of
+cysteine (C)  and  histidine (H) residues. Zinc fingers are thought to mediate
+protein–DNA and  protein–protein  interactions.  The ADD (ATRX, DNMT3, DNMT3L)
+domain is  a cysteine-rich region that consists of a C2C2-type zinc finger and
+a closely  located  domain of an imperfect PHD-type zinc finger with C4C4 (see
+<PDOC50016>). The region between the two subdomains has a constant length, and
+it contains identical and conserved amino acids [1,2]. The ADD domain binds to
+the histone H3 tail that is unmethylated at lysine 4 [3,4].
+
+The ADD domain is present in chromatin-associated proteins that play a role in
+establishing and/or maintaining a normal pattern of DNA methylation:
+
+ - DNMT3A, DNMT3B, DNA methyltransferases.
+ - DNMT3L, a DNMT3-like enzymatically inactive regulatory factor.
+ - ATRX,  a  large  nuclear protein predominantly localized to heterochromatin
+   and nuclear  PML  bodies.  At  the  C-terminus is a helicase/ATPase domain,
+   which characterizes  ATRX  as  a  member  of  the  SNF2 (SWI/SNF) family of
+   chromatin-associated proteins.
+
+The ADD  domain is composed of three clearly distinguishable modules that pack
+together through  extensive hydrophobic interactions to form a single globular
+domain (see <PDB:2JM1). Starting at the N terminus, there is first a subdomain
+that binds  a  single zinc ion through four cysteines and is structurally very
+similar to  the zinc fingers of the erythroid transcription factor GATA-1 (see
+<PDOC00300>). Packed  against  this  GATA-like  finger  is a second subdomain,
+which binds  two  zinc  ions  and closely resembles the structure reported for
+several PHD fingers. Finally, there is a long C-terminal alpha-helix that runs
+out from  the  PHD finger and makes extensive hydrophobic contacts with the N-
+terminal GATA  finger,  bringing  the N- and C-termini of the ADD domain close
+together. This  combination of fused GATA-like and PHD fingers within a single
+domain is thus far unique [2,4].
+
+The profile we developed covers the entire ADD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2011 / First entry.
+
+[ 1] Aapola U., Kawasaki K., Scott H.S., Ollila J., Vihinen M., Heino M.,
+     Shintani A., Kawasaki K., Minoshima S., Krohn K., Antonarakis S.E.,
+     Shimizu N., Kudoh J., Peterson P.
+     "Isolation and initial characterization of a novel zinc finger gene,
+     DNMT3L, on 21q22.3, related to the cytosine-5-methyltransferase 3 gene
+     family."
+     Genomics 65:293-298(2000).
+     PubMed=10857753; DOI=10.1006/geno.2000.6168
+[ 2] Argentaro A., Yang J.-C., Chapman L., Kowalczyk M.S., Gibbons R.J.,
+     Higgs D.R., Neuhaus D., Rhodes D.
+     "Structural consequences of disease-causing mutations in the
+     ATRX-DNMT3-DNMT3L (ADD) domain of the chromatin-associated protein
+     ATRX."
+     Proc. Natl. Acad. Sci. U.S.A. 104:11939-11944(2007).
+     PubMed=17609377; DOI=10.1073/pnas.0704057104
+[ 3] Ooi S.K.T., Qiu C., Bernstein E., Li K., Jia D., Yang Z.,
+     Erdjument-Bromage H., Tempst P., Lin S.-P., Allis C.D., Cheng X.,
+     Bestor T.H.
+     "DNMT3L connects unmethylated lysine 4 of histone H3 to de novo
+     methylation of DNA."
+     Nature 448:714-717(2007).
+     PubMed=17687327; DOI=10.1038/nature05987
+[ 4] Otani J., Nankumo T., Arita K., Inamoto S., Ariyoshi M., Shirakawa M.
+     "Structural basis for recognition of H3K4 methylation status by the
+     DNA methyltransferase 3A ATRX-DNMT3-DNMT3L domain."
+     EMBO Rep. 10:1235-1241(2009).
+     PubMed=19834512; DOI=10.1038/embor.2009.218
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,53 @@
+*****************************************************
+* Cell cycle proteins ftsW / rodA / spoVE signature *
+*****************************************************
+
+A number of  prokaryotic  proteins  involved in cell cycle processes have been
+found [1,2] to be structurally related, these proteins are:
+
+ - Escherichia  coli  and  related  bacteria  cell division protein ftsW. This
+   protein plays  a  role  in  the  stabilization of the ftsZ ring during cell
+   division.
+ - Escherichia  coli  and  related bacteria rod shape-determining protein rodA
+   (or mrdB).  It  is required for the expression of the enzymatic activity of
+   PBP2, which  is  thought  to  participate in the synthesis of peptidoglycan
+   during the initiation of cell elongation.
+ - Bacillus subtilis stage V sporulation protein E (spoVE). The exact function
+   of spoVE in endospore formation is not known.
+ - Bacillus subtilis hypothetical protein ylaO.
+ - Bacillus subtilis hypothetical protein ywcF (ipa-42D).
+ - Cyanophora paradoxa cyanelle ftsW homolog. This protein may  be involved in
+   the organelle division process.
+
+All these proteins are hydrophobic integral membrane protein and contain about
+400 residues.  We have selected the best conserved region, which is located in
+the C-terminal section, as a signature pattern for these proteins.
+
+-Consensus pattern: [NV]-x(5)-[GTR]-[LIVMA]-x-P-[PTLIVME]-x-G-[LIVM]-x(3)-
+                    [LIVMFW](2)-S-[YSAQ]-G-G-[STN]-[SA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ikeda M., Sato T., Wachi M., Jung H.K., Ishino F., Kobayashi Y.,
+     Matsuhashi M.
+     "Structural similarity among Escherichia coli FtsW and RodA proteins
+     and Bacillus subtilis SpoVE protein, which function in cell division,
+     cell elongation, and spore formation, respectively."
+     J. Bacteriol. 171:6375-6378(1989).
+     PubMed=2509435
+[ 2] Joris B., Dive G., Henriques A., Piggot P.J., Ghuysen J.-M.
+     "The life-cycle proteins RodA of Escherichia coli and SpoVE of
+     Bacillus subtilis have very similar primary structures."
+     Mol. Microbiol. 4:513-517(1990).
+     PubMed=2113157
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

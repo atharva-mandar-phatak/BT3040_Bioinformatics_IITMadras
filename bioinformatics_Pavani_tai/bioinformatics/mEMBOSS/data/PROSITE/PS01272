@@ -1,0 +1,46 @@
+***************************************************
+* Glucokinase regulatory protein family signature *
+***************************************************
+
+The  glucokinase  regulatory  protein  (GCKR) [1] is a vertebrate protein that
+inhibits  glucokinase by forming a complex with the enzyme, which plays a role
+in  the control of blood glucose homeostasis. GCKR is a protein of about 70 Kd
+which  is  evolutionary  related to bacterial N-acetylmuramic acid 6-phosphate
+etherases  (MurNAc-6-P  etherase,  murQ) which are about half the size of GCKR
+and  form active homodimers. MurNAc-6-P etherases catalyze the cleavage of the
+D-lactyl  ether substituent of the bacterial cell wall sugar MurNAc and play a
+role  in  recycling  of the cell wall [2]. The 3D structure of the Haemophilus
+influenzae HI0754/murQ protein (see <PDB:1NRI>) shows structural relationships
+with  other  sugar  isomerase  (SIS)  domain  proteins  (see  <PDOC51464>). In
+contrast to mono-SIS bacterial MurNAc-6-P etherase, mammalian GCKR is composed
+of two SIS domains.
+
+As a  signature  pattern,  we  selected  one  of  at least four well conserved
+regions found in those proteins.
+
+-Consensus pattern: G-[PA]-E-x-[LIV]-[STAM]-G-S-[ST]-R-[LIVM]-K-[STGA](3)-
+                    x(2)-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2009 / Text revised.
+
+[ 1] Veiga-Da-Cunha M., Detheux M., Watelet N., Van Schaftingen E.
+     "Cloning and expression of a Xenopus liver cDNA encoding a
+     fructose-phosphate-insensitive regulatory protein of glucokinase."
+     Eur. J. Biochem. 225:43-51(1994).
+     PubMed=7925465;
+[ 2] Jaeger T., Mayer C.
+     "N-acetylmuramic acid 6-phosphate lyases (MurNAc etherases): role in
+     cell wall metabolism, distribution, structure, and mechanism."
+     Cell. Mol. Life Sci. 65:928-939(2008).
+     PubMed=18049859; DOI=10.1007/s00018-007-7399-
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,78 @@
+*******************************************
+* Glycosyl hydrolases family 1 signatures *
+*******************************************
+
+It has been shown [1 to 4] that the  following  glycosyl hydrolases can be, on
+the basis of sequence similarities, classified into a single family:
+
+ - Beta-glucosidases (EC 3.2.1.21) from various bacteria such as Agrobacterium
+   strain ATCC 21400, Bacillus polymyxa, and Caldocellum saccharolyticum.
+ - Two plants (clover) beta-glucosidases (EC 3.2.1.21).
+ - Two  different  beta-galactosidases (EC 3.2.1.23)  from  the archaebacteria
+   Sulfolobus solfataricus (genes bgaS and lacS).
+ - 6-phospho-beta-galactosidases (EC 3.2.1.85) from  various  bacteria such as
+   Lactobacillus casei, Lactococcus lactis, and Staphylococcus aureus.
+ - 6-phospho-beta-glucosidases (EC 3.2.1.86) from Escherichia coli (genes bglB
+   and ascB) and from Erwinia chrysanthemi (gene arbB).
+ - Plants myrosinases (EC 3.2.1.147) (sinigrinase) (thioglucosidase).
+ - Mammalian lactase-phlorizin hydrolase  (LPH)  (EC 3.2.1.108 / EC 3.2.1.62).
+   LPH, an integral membrane glycoprotein, is  the  enzyme that splits lactose
+   in the small intestine. LPH is a large protein of about 1900 residues which
+   contains four tandem repeats  of  a  domain  of about 450 residues which is
+   evolutionary related to the above glycosyl hydrolases.
+
+One of the conserved regions in  these enzymes  is  centered  on  a  conserved
+glutamic acid residue which has been  shown [5], in the beta-glucosidase  from
+Agrobacterium, to  be directly involved  in glycosidic bond cleavage by acting
+as a nucleophile. We have used this region as a signature pattern. As a second
+signature pattern  we  selected  a  conserved region,  found in the N-terminal
+extremity of these enzymes, this region also contains a glutamic acid residue.
+
+-Consensus pattern: [LIVMFSTC]-[LIVFYS]-[LIV]-[LIVMST]-E-N-G-[LIVMFAR]-[CSAGN]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 14.
+
+-Note: This pattern will pick up the last two domains of LPH;  the  first  two
+ domains, which are removed from  the LPH precursor by proteolytic processing,
+ have lost the active site glutamate and may therefore be inactive [4].
+
+-Consensus pattern: F-x-[FYWM]-[GSTA]-x-[GSTA]-x-[GSTA](2)-[FYNH]-[NQ]-x-E-x-
+                    [GSTA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern will pick up the last three domains of LPH.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: November 1995 / Patterns and text revised.
+
+[ 1] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 2] Henrissat B.
+     "Sequence homology between a beta-galactosidase and some
+     beta-glucosidases."
+     Protein Seq. Data Anal. 4:61-62(1991).
+     PubMed=1924272
+[ 3] Gonzalez-Candelas L., Ramon D., Polaina J.
+     Gene 95:31-38(1990).
+[ 4] El Hassouni M., Henrissat B., Chippaux M., Barras F.
+     J. Bacteriol. 174:765-777(1992).
+[ 5] Withers S.G., Warren R.A.J., Street I.P., Rupitz K., Kempton J.B.,
+     Aebersold R.
+     J. Am. Chem. Soc. 112:5887-5889(1990).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

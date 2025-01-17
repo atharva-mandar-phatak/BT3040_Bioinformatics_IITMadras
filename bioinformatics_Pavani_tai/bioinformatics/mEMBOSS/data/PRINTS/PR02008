@@ -1,0 +1,40 @@
+RCMTFAMILY
+RNA (C5-cytosine) methyltransferases (RCMTs) catalyse the transfer of a 
+methyl group to the 5th carbon of a cytosine base in RNA sequences to 
+produce C5-methylcytosine. RCMTs use the cofactor S-adenosyl-L-methionine 
+(SAM) as a methyl donor [1]. The catalytic mechanism of RCMTs involves an
+attack by the thiolate of a Cys residue on position 6 of the target cytosine
+base to form a covalent link, thereby activating C5 for methyl-group 
+transfer. Following the addition of the methyl group, a second Cys residue
+acts as a general base in the beta-elimination of the proton from the 
+methylated cytosine ring. The free enzyme is restored and the methylated
+product is released [2].
+
+Numerous putative RCMTs have been identified in archaea, bacteria and
+eukaryota [3,4]; most are predicted to be nuclear or nucleolar proteins [5].
+The Escherichia coli Ribosomal RNA Small-subunit Methyltransferase Beta
+(RSMB) FMU (FirMicUtes) represents the first protein identified and
+characterised as a cytosine-specific RNA methyltransferase. RSMB was
+reported to catalyse the formation of C5-methylcytosine at position 967 of
+16S rRNA [6,7].
+
+A classification of RCMTs has been proposed on the basis of sequence
+similarity [3]. According to this classification, RCMTs are divided into
+8 distinct subfamilies [3]. Recently, a new RCMT subfamily, termed RCMT9,
+was identified [4]. Members of the RCMT contain a core domain, responsible
+for the cytosine-specific RNA methyltransferase activity. This 'catalytic'
+domain adopts the Rossmann fold for the accommodation of the cofactor SAM
+[8]. The RCMT subfamilies are also distinguished by N-terminal and
+C-terminal extensions, variable both in size and sequence [3].    
+
+RCMTFAMILY is a 5-element fingerprint that provides a signature for the RNA
+(C5-cytosine) methyltransferases. The fingerprint was derived from an
+initial alignment of 31 sequences: the motifs were drawn from conserved
+regions spanning the core 'catalytic' region: motif 3 contains an invariant 
+Cys residue within a ProCys dipeptide, which is essential for the cytosine-
+specific RNA methyltransferase activity [2]; and motif 4 bears the second 
+invariant Cys residue within the dipeptide, which is the principal catalyst
+in RCMTs [2]. Three iterations on SPTR57.15_40.15f were required to reach 
+convergence, at which point a true set comprising 2489 sequences was 
+identified. Numerous partial matches were also found, all of which are
+thought to be RCMT family members.

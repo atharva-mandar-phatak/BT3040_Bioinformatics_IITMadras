@@ -1,0 +1,103 @@
+************************************************************
+* Serine proteases, trypsin family, signatures and profile *
+************************************************************
+
+The catalytic activity  of the  serine proteases from the  trypsin  family  is
+provided by a charge relay system involving an aspartic acid residue hydrogen-
+bonded  to a histidine,  which  itself  is hydrogen-bonded to  a serine.   The
+sequences in the vicinity of the active site serine and histidine residues are
+well conserved  in  this family of proteases [1].  A partial list of proteases
+known to belong to the trypsin family is shown below.
+
+ - Acrosin.
+ - Blood coagulation factors VII, IX, X, XI  and XII,  thrombin,  plasminogen,
+   and protein C.
+ - Cathepsin G.
+ - Chymotrypsins.
+ - Complement components C1r, C1s, C2, and complement factors B, D and I.
+ - Complement-activating component of RA-reactive factor.
+ - Cytotoxic cell proteases (granzymes A to H).
+ - Duodenase I.
+ - Elastases 1, 2, 3A, 3B (protease E), leukocyte (medullasin).
+ - Enterokinase (EC 3.4.21.9) (enteropeptidase).
+ - Hepatocyte growth factor activator.
+ - Hepsin.
+ - Glandular (tissue) kallikreins (including EGF-binding  protein  types A, B,
+   and C,  NGF-gamma  chain,  gamma-renin, prostate specific antigen (PSA) and
+   tonin).
+ - Plasma kallikrein.
+ - Mast cell proteases (MCP) 1 (chymase) to 8.
+ - Myeloblastin (proteinase 3) (Wegener's autoantigen).
+ - Plasminogen activators (urokinase-type, and tissue-type).
+ - Trypsins I, II, III, and IV.
+ - Tryptases.
+ - Snake venom proteases such as ancrod,  batroxobin,  cerastobin, flavoxobin,
+   and protein C activator.
+ - Collagenase  from  common cattle  grub  and  collagenolytic  protease  from
+   Atlantic sand fiddler crab.
+ - Apolipoprotein(a).
+ - Blood fluke cercarial protease.
+ - Drosophila trypsin like proteases: alpha, easter, snake-locus.
+ - Drosophila protease stubble (gene sb).
+ - Major mite fecal allergen Der p III.
+
+All the above proteins belong to family S1 in the classification of peptidases
+[2,E1] and  originate  from  eukaryotic  species.  It  should  be  noted  that
+bacterial proteases  that  belong  to  family  S2A  are  similar enough in the
+regions of  the  active  site  residues that they can be picked up by the same
+patterns. These proteases are listed below.
+
+ - Achromobacter lyticus protease I.
+ - Lysobacter alpha-lytic protease.
+ - Streptogrisin A and B (Streptomyces proteases A and B).
+ - Streptomyces griseus glutamyl endopeptidase II.
+ - Streptomyces fradiae proteases 1 and 2.
+
+We also developed a profile specific for the S1 family that spans the complete
+domain. In addition to proteases from the S1 family, this profile also detects
+proteins that have lost active site residues and which are therefore no longer
+catalytically active. Examples of such proteins are haptoglobin and protein Z.
+
+-Consensus pattern: [LIVM]-[ST]-A-[STAG]-H-C
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for complement  components  C1r  and  C1s, pig plasminogen, bovine protein C,
+ rodent urokinase, ancrod, gyroxin and two insect trypsins.
+-Other sequence(s) detected in Swiss-Prot: 18.
+
+-Consensus pattern: [DNSTAGC]-[GSTAPIMVQH]-x(2)-G-[DE]-S-G-[GS]-[SAPHV]-
+                    [LIVMFYWH]-[LIVMFYSTANQH]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 18 different proteases which have lost the first conserved glycine.
+-Other sequence(s) detected in Swiss-Prot: 8.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: If a  protein  includes  both  the serine and the histidine active site
+ signatures,  the  probability of it being a trypsin family serine protease is
+ 100%
+
+-Last update: May 2002 / Text revised.
+
+[ 1] Brenner S.
+     "The molecular evolution of genes and proteins: a tale of two
+     serines."
+     Nature 334:528-530(1988).
+     PubMed=3136396; DOI=10.1038/334528a0
+[ 2] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

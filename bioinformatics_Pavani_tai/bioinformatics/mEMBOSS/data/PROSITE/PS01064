@@ -1,0 +1,49 @@
+***********************************************
+* Pyridoxamine 5'-phosphate oxidase signature *
+***********************************************
+
+Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) is a FMN  flavoprotein involved
+in the de novo synthesis  of pyridoxine (vitamin B6) and  pyridoxal phosphate.
+It oxidizes  pyridoxamine-5-P (PMP) and pyridoxine-5-P (PNP) to pyridoxal-5-P.
+The sequences of the enzyme from bacterial (genes pdxH or fprA) [1] and fungal
+(gene PDX3)  [2]  sources  show  that  this  protein has been highly conserved
+throughout evolution.
+
+PdxH is  evolutionary  related  [3]  to  one  of  the enzymes in the phenazine
+biosynthesis protein pathway, phzD (also known as phzG).
+
+As a  signature  pattern, we selected a highly conserved region located in the
+C-terminal part of these enzymes.
+
+-Consensus pattern: [LIVFMYWA]-E-F-W-[QHGENRAMVYLCF]-x(4)-[RW]-[LIVMK]-[HN]-
+                    [DNESIT]-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Lam H.-M., Winkler M.E.
+     "Characterization of the complex pdxH-tyrS operon of Escherichia coli
+     K-12 and pleiotropic phenotypes caused by pdxH insertion mutations."
+     J. Bacteriol. 174:6033-6045(1992).
+     PubMed=1356963
+[ 2] Loubbardi A., Marcireau C., Karst F., Guilloton M.
+     "Sterol uptake induced by an impairment of pyridoxal phosphate
+     synthesis in Saccharomyces cerevisiae: cloning and sequencing of the
+     PDX3 gene encoding pyridoxine (pyridoxamine) phosphate oxidase."
+     J. Bacteriol. 177:1817-1823(1995).
+     PubMed=7896706
+[ 3] Pierson L.S. III, Gaffney T., Lam S., Gong F.
+     "Molecular analysis of genes encoding phenazine biosynthesis in the
+     biological control bacterium. Pseudomonas aureofaciens 30-84."
+     FEMS Microbiol. Lett. 134:299-307(1995).
+     PubMed=8586283
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

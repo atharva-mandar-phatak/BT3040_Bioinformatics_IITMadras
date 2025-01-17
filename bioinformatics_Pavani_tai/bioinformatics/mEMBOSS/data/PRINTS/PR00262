@@ -1,0 +1,25 @@
+IL1HBGF
+The interleukin-1 (IL1) and heparin-binding growth factor (HBGF) families
+share low sequence similarity (about 25% [1]) but have very similar
+structures: coupled with the Kunitz-type soybean trypsin inhibitors (STI),
+they form a structural superfamily. Despite their structural correspond-
+ence, however, they show no sequence similarity to the STI family.
+              
+The crystal structures of interleukin-1 beta and HBGF1 have been solved, 
+showing both families to have the same 12-stranded beta-sheet structure 
+[4]; the beta-sheets are arranged in 3 similar lobes around a central 
+axis, 6 strands forming an anti-parallel beta-barrel [2,3]. The beta-sheets 
+are generally well preserved and the crystal structures superimpose in
+these areas. The intervening loops are less well conserved - the loop 
+between beta-strands 6 and 7 is slightly longer in interleukin-1 beta.
+
+IL1HBGF is a 3-element fingerprint that provides a signature for the 
+IL1 beta and HBGF superfamily. The fingerprint was derived from an initial
+alignment of 8 sequences, the motifs all being drawn from beta-sheet
+regions, which are generally more conserved than the loops between them:
+motif 1 spans strands 5-7; motif 2 strands 8 and 9; and motif 3 strand 12.
+Four iterations on OWL17.1 were required to reach convergence, at which
+point all known family members were identified.
+
+An update on SPTR37_9f identified a true set of 65 sequences, and 39
+partial matches.

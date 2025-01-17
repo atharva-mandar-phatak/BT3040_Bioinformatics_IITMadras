@@ -1,0 +1,149 @@
+*****************************************
+* Putative AMP-binding domain signature *
+*****************************************
+
+It has been shown [1 to 5] that a number of prokaryotic and eukaryotic enzymes
+which all probably act via  an ATP-dependent  covalent binding of AMP to their
+substrate, share a region of sequence similarity. These enzymes are:
+
+ - Insects luciferase (luciferin 4-monooxygenase)  (EC 1.13.12.7).  Luciferase
+   produces light by catalyzing the oxidation of luciferin in  presence of ATP
+   and molecular oxygen.
+ - Alpha-aminoadipate  reductase (EC 1.2.1.31) from  yeast  (gene LYS2).  This
+   enzyme catalyzes  the activation  of  alpha-aminoadipate  by  ATP-dependent
+   adenylation and the reduction of activated alpha-aminoadipate by NADPH.
+ - Acetate--CoA ligase (EC 6.2.1.1)  (acetyl-CoA synthetase),  an  enzyme that
+   catalyzes the formation of acetyl-CoA from acetate and CoA.
+ - Long-chain-fatty-acid--CoA  ligase  (EC 6.2.1.3), an  enzyme that activates
+   long-chain fatty acids for both the synthesis of cellular lipids and  their
+   degradation via beta-oxidation.
+ - 4-coumarate--CoA ligase (EC 6.2.1.12) (4CL), a plant enzyme  that catalyzes
+   the formation  of  4-coumarate-CoA from  4-coumarate  and  coenzyme A;  the
+   branchpoint  reactions  between   general  phenylpropanoid  metabolism  and
+   pathways leading to various specific end products.
+ - O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26) (OSB-CoA synthetase) (gene
+   menE) [6], a bacterial enzyme  involved  in the biosynthesis of menaquinone
+   (vitamin K2).
+ - 4-Chlorobenzoate--CoA  ligase   (EC 6.2.1.-)  (4-CBA--CoA  ligase)  [7],  a
+   Pseudomonas enzyme involved in the degradation of 4-CBA.
+ - Indoleacetate--lysine ligase (EC 6.3.2.20) (IAA-lysine synthetase) [8],  an
+   enzyme from Pseudomonas syringae that converts indoleacetate to IAA-lysine.
+ - Bile acid-CoA  ligase  (gene baiB)  from  Eubacterium strain VPI 12708 [4].
+   This enzyme catalyzes the ATP-dependent formation of a variety of C-24 bile
+   acid-CoA.
+ - Crotonobetaine/carnitine-CoA  ligase  (EC 6.3.2.-)  from  Escherichia  coli
+   (gene caiC).
+ - L-(alpha-aminoadipyl)-L-cysteinyl-D-valine  synthetase   (ACV   synthetase)
+   from various fungi (gene acvA or pcbAB).   This  enzyme catalyzes the first
+   step in the biosynthesis of penicillin and cephalosporin,  the formation of
+   ACV from the constituent amino acids.  The amino acids seem to be activated
+   by adenylation.  It  is  a protein of around 3700 amino acids that contains
+   three related domains of about 1000 amino acids.
+ - Gramicidin  S  synthase  I  (gene  grsA)  from Bacillus brevis. This enzyme
+   catalyzes the first step  in  the  biosynthesis  of  the  cyclic antibiotic
+   gramicidin S, the ATP-dependent racemization of phenylalanine (EC 5.1.1.11)
+ - Tyrocidine  synthase  I  (gene  tycA)  from  Bacillus  brevis. The reaction
+   carried out   by   tycA   is   identical   to   that   catalyzed   by  grsA
+ - Gramicidin S synthase II (gene grsB) from Bacillus brevis. This enzyme is a
+   multifunctional protein  that  activates  and  polymerizes proline, valine,
+   ornithine and leucine. GrsB consists of four related domains.
+ - Enterobactin  synthase  components  E  (gene  entE)  and F (gene entF) from
+   Escherichia coli.  These  two  enzymes  are  involved  in the ATP-dependent
+   activation  of  respectively   2,3-dihydroxybenzoate   and   serine  during
+   enterobactin (enterochelin) biosynthesis.
+ - Cyclic  peptide  antibiotic  surfactin  synthase  subunits  1, 2 and 3 from
+   Bacillus subtilis.  Subunits  1  and 2 contains three related domains while
+   subunit 3 only contains a single domain.
+ - HC-toxin  synthetase  (gene  HTS1)  from Cochliobolus carbonum. This enzyme
+   activates the four amino acids (Pro, L-Ala, D-Ala and 2-amino-9,10-epoxi-8-
+   oxodecanoic acid)  that  make  up  HC-toxin,  a  cyclic  tetrapeptide. HTS1
+   consists of four related domains.
+
+There are also some proteins, whose exact function is not yet known, but which
+are, very probably, also AMP-binding enzymes. These proteins are:
+
+ - ORA  (octapeptide-repeat antigen),  a Plasmodium falciparum  protein  whose
+   function is not known but which  shows a high degree of similarity with the
+   above proteins.
+ - AngR, a Vibrio anguillarum protein. AngR is thought to be a transcriptional
+   activator  which  modulates  the  anguibactin (an iron-binding siderophore)
+   biosynthesis gene  cluster operon.  But  we believe [9], that angR is not a
+   DNA-binding protein, but rather an  enzyme involved in  the biosynthesis of
+   anguibactin.  This conclusion is  based on three facts: the presence of the
+   AMP-binding domain; the size of angR (1048 residues),  which is far  bigger
+   than any bacterial transcriptional protein; and  the presence of a probable
+   S-acyl thioesterase immediately downstream of angR.
+ - A hypothetical protein in mmsB 3'region in Pseudomonas aeruginosa.
+ - Escherichia coli hypothetical protein ydiD.
+ - Yeast hypothetical protein YBR041w.
+ - Yeast hypothetical protein YBR222c.
+ - Yeast hypothetical protein YER147c.
+
+All these proteins contains a highly  conserved  region  very rich in glycine,
+serine, and threonine  which is  followed  by a conserved lysine.   A parallel
+can be drawn [9]  between  this type of  domain and  the G-x(4)-G-K-[ST] ATP-/
+GTP-binding 'P-loop' domain or  the protein kinases G-x-G-x(2)-[SG]-x(10,20)-K
+ATP-binding domains (see <PDOC00017> and <PDOC00100>).
+
+-Consensus pattern: [LIVMFY]-{E}-{VES}-[STG]-[STAG]-G-[ST]-[STEI]-[SG]-x-
+                    [PASLIVM]-[KR]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 13.
+
+-Note: In a majority of cases the residue that  follows  the Lys at the end of
+ the pattern is a Gly.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Toh H.
+     "Sequence analysis of firefly luciferase family reveals a conservative
+     sequence motif."
+     Protein Seq. Data Anal. 4:111-117(1991).
+     PubMed=1946328
+[ 2] Smith D.J., Earl A.J., Turner G.
+     "The multifunctional peptide synthetase performing the first step of
+     penicillin biosynthesis in Penicillium chrysogenum is a 421,073 dalton
+     protein similar to Bacillus brevis peptide antibiotic synthetases."
+     EMBO J. 9:2743-2750(1990).
+     PubMed=2118102
+[ 3] Schroeder J.
+     Nucleic Acids Res. 17:460-460(1989).
+[ 4] Mallonee D.H., Adams J.L., Hylemon P.B.
+     "The bile acid-inducible baiB gene from Eubacterium sp. strain VPI
+     12708 encodes a bile acid-coenzyme A ligase."
+     J. Bacteriol. 174:2065-2071(1992).
+     PubMed=1551828
+[ 5] Turgay K., Krause M., Marahiel M.A.
+     "Four homologous domains in the primary structure of GrsB are related
+     to domains in a superfamily of adenylate-forming enzymes."
+     Mol. Microbiol. 6:529-546(1992).
+     PubMed=1560782
+[ 6] Driscoll J.R., Taber H.W.
+     "Sequence organization and regulation of the Bacillus subtilis menBE
+     operon."
+     J. Bacteriol. 174:5063-5071(1992).
+     PubMed=1629163
+[ 7] Babbitt P.C., Kenyon G.L., Martin B.M., Charest H., Slyvestre M.,
+     Scholten J.D., Chang K.-H., Liang P.-H., Dunaway-Mariano D.
+     "Ancestry of the 4-chlorobenzoate dehalogenase: analysis of amino acid
+     sequence identities among families of acyl:adenyl ligases, enoyl-CoA
+     hydratases/isomerases, and acyl-CoA thioesterases."
+     Biochemistry 31:5594-5604(1992).
+     PubMed=1351742
+[ 8] Farrell D.H., Mikesell P., Actis L.A., Crosa J.H.
+     "A regulatory gene, angR, of the iron uptake system of Vibrio
+     anguillarum: similarity with phage P22 cro and regulation by iron."
+     Gene 86:45-51(1990).
+     PubMed=2311935
+[ 9] Bairoch A.
+     Unpublished observations (1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

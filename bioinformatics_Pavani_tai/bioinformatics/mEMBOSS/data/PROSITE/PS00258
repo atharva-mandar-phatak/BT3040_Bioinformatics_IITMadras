@@ -1,0 +1,61 @@
+*********************************************
+* Calcitonin / CGRP / IAPP family signature *
+*********************************************
+
+Calcitonin [1] is a 32 amino acid polypeptide hormone  that causes a rapid but
+short-lived drop  in the  level  of  calcium  and  phosphate in the  blood, by
+promoting the  incorporation of  these ions in the bones. Alternative splicing
+of the gene coding for calcitonin  produces a  distantly related peptide of 37
+amino acids,  called  calcitonin  gene-related  peptide  (CGRP).  CGRP induces
+vasodilatation  in  a  variety  of vessels,  including  the coronary, cerebral
+and systemic  vasculature.  Its  abundance  in  the  CNS  also points toward a
+neurotransmitter or neuromodulator role.
+
+Islet amyloid  polypeptide  (IAPP)  [2]  (also  known  as  diabetes-associated
+peptide (DAP),  or  amylin)  is  a  peptide of 37 amino acids that selectively
+inhibits insulin-stimulated  glucose  utilization and  glycogen  deposition in
+muscle, while  not  affecting adipocyte glucose metabolism. Structurally, IAPP
+is closely related to CGRP.
+
+Two conserved  cysteines  in the  N-terminal of these peptides are known to be
+involved in a disulfide bond.  The C-terminal residue of all three peptides is
+amidated.
+
+                 ****************
+                xCxxxxxCxxxxxxxxxxxxxxxxxxxxxxxxxxxx-NH(2)
+                 |     |                             Amide group
+                 +-----+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+The pattern we  developed  for this family of  peptides includes the region of
+the disulfide bond.
+
+-Consensus pattern: C-[SAGDN]-[STN]-x(0,1)-[SA]-T-C-[VMA]-x(3)-[LYF]-x(3)-
+                    [LYF]
+                    [The 2 C's are linked by a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Breimer L.H., McIntyre I., Zaidi M.
+     "Peptides from the calcitonin genes: molecular genetics, structure and
+     function."
+     Biochem. J. 255:377-390(1988).
+     PubMed=3060108
+[ 2] Nishi M., Sanke T., Nagamatsu S., Bell G.I., Steiner D.F.
+     "Islet amyloid polypeptide. A new beta cell secretory product related
+     to islet amyloid deposits."
+     J. Biol. Chem. 265:4173-4176(1990).
+     PubMed=2407732
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,46 @@
+****************************************
+* RNA polymerases beta chain signature *
+****************************************
+
+DNA-dependent RNA  polymerases (EC 2.7.7.6) are  ubiquitous enzymes  necessary
+for the  transcription  of  genomic  DNA  into  RNA.  Most RNA polymerases are
+multimeric enzymes and are composed of a variable number of subunits.  However
+the two  largest  subunits  (generally  known  as  alpha  and beta chains) are
+present in all known multimeric RNA polymerases.  The  beta chain is currently
+known in:
+
+ - Eubacterial RNA polymerase beta chain (gene rpoB).
+ - Plants and algal chloroplast RNA polymerase beta chain (gene rpoB).
+ - Eukaryotes RNA polymerases I, II and III second largest subunits.
+ - Archebacterial RNA polymerase subunit B (gene rpoB) or B' (gene rpoB1).
+ - Poxviruses RNA polymerase 132 Kd subunit (gene RPO132).
+ - Baculoviruses RNA polymerase subunit LEF-8.
+ - African swine fever virus RNA polymerase subunit EP1242L.
+ - Fungal plasmid-encoded RNA polymerases.
+
+The beta  chains are proteins of from 900 to 1400 amino acid residues.  A well
+conserved region of 13  residues that contains two conserved lysines and which
+is thought to be part of the  active site is located in the C-terminal part of
+all beta chains [1]. We have used this region as a signature pattern.
+
+-Consensus pattern: G-x-[KN]-[LIVMFA]-[STAC]-[GSTNR]-x-[HSTA]-[GSAI]-[QNH]-K-
+                    [GL]-[IVTEC]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Passarelli A.L., Todd J.W., Miller L.K.
+     "A baculovirus gene involved in late gene expression predicts a large
+     polypeptide with a conserved motif of RNA polymerases."
+     J. Virol. 68:4673-4678(1994).
+     PubMed=8207843
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

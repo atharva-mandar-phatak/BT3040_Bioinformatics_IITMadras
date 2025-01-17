@@ -1,0 +1,52 @@
+******************************************
+* Birnavirus VP4 protease domain profile *
+******************************************
+
+Viruses of  the  Birnaviridae  family  [E1] infect animal species belonging to
+vertebrates, mollusks, insects and rotifers and are characterized by their bi-
+segmented double-stranded RNA genome (segments A and B). Segment A encodes two
+overlapping reading  frames  and  the  larger  open  reading  frame  encodes a
+polyprotein (NH2-pVP2-VP4-VP3-COOH).  The polyprotein is processed through the
+proteolytic activity  of  VP4  to generate pVP2 and VP3. During virus assembly
+pVP2 is  further  processed  by  VP4  to  generate  the capsid protein VP2 and
+structural peptides.  Evolutionarily,  the  VP4  protease  of the Birnaviridae
+family belongs to clan SJ and family S50 [E2] [1,2,3].
+
+The birnavirus  VP4 protease domain displays a catalytic serine/lysine dyad in
+its active  site.  The  birnavirus  VP4 protease domain has an alpha/beta fold
+(see <PDB:2PNL>) [2,3].
+
+The profile we developed covers the entire birnavirus VP4 protease domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2011 / First entry.
+
+[ 1] Petit S., Lejal N., Huet J.-C., Delmas B.
+     "Active residues and viral substrate cleavage sites of the protease of
+     the birnavirus infectious pancreatic necrosis virus."
+     J. Virol. 74:2057-2066(2000).
+     PubMed=10666235
+[ 2] Feldman A.R., Lee J., Delmas B., Paetzel M.
+     "Crystal structure of a novel viral protease with a serine/lysine
+     catalytic dyad mechanism."
+     J. Mol. Biol. 358:1378-1389(2006).
+     PubMed=16584747; DOI=10.1016/j.jmb.2006.02.045
+[ 3] Lee J., Feldman A.R., Delmas B., Paetzel M.
+     "Crystal structure of the VP4 protease from infectious pancreatic
+     necrosis virus reveals the acyl-enzyme complex for an intermolecular
+     self-cleavage reaction."
+     J. Biol. Chem. 282:24928-24937(2007).
+     PubMed=17553791; DOI=10.1074/jbc.M701551200
+[E1] http://viralzone.expasy.org/viralzone/all_by_species/162.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=s50
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

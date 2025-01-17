@@ -1,0 +1,54 @@
+BACFERRITIN
+Bacterioferritin (BFR; also known as cytochrome b1 or cytochrome b557) of 
+Escherichia coli is an iron-storage protein consisting of 24 identical
+subunits that pack together to form a highly symmetrical, nearly spherical 
+shell surrounding a central cavity of about 8 nm diameter [1,2]. X-ray 
+crystallographic studies have revealed a close structural similarity 
+between BFR and the ferritins, a family of iron-storage proteins found in 
+both eukaryota and prokaryota [1]. Common to both ferritins and BFRs is a 
+capacity to store large quantities of iron within their hollow interior, in
+the form of a hydrated ferric oxide mineral containing variable amounts of
+phosphate anion. However, a major difference between them is that BFR 
+contains up 12 b-type haem groups, while ferritins, as isolated, do not 
+contain haem. 
+
+The building block for the BFR shell is a protein dimer (subunits A and B) 
+binding the single haem group. Each subunit consists of four nearly 
+parallel alpha-helices. The haem is bound symmetrically to subunits A and B
+by Met(A)-52 and Met(B)-52 residues [3]. Each subunit includes a binuclear 
+metal-binding site linking together the four major helices of the subunit, 
+which has been identified as the ferroxidase centre of BFR [2]:
+
+                                 Glu-127
+                                 |
+                       O         C         O
+                       |        / \        |
+               Glu-18--C--O    O   O    O--C--Glu-94
+                           'M1'     'M2'
+               His-54--+--N'  'O   O'  'N--+--His-130
+                       |   \    \ /    /   |
+                       |   /     C     \   |
+                       +--N      |      N--+
+                                 Glu-51
+
+(M1 and M2 are the metal centres 1 and 2). BFR mutants with Met-52 replaced
+are haem-free, but appear to be correctly assembled and are capable of 
+accumulating iron [4]. 
+
+BACFERRITIN is a 7-element fingerprint that provides a signature for the
+BFRs. The fingerprint was derived from an initial alignment of 5 sequences:
+the motifs were drawn from conserved regions spanning virtually the full 
+alignment length - motifs 1 and 2 encompass helix A, motif 1 spanning the
+region encoded by PROSITE pattern BACTERIOFERRITIN (PS00549), which includes
+Glu-18, one of six residues that form the binuclear-metal centre; motif 3, 
+which spans most of helix B, includes Met-52, which provides an axial haem 
+iron ligand, and the Glu-51 and His-54 components of the metal centre; 
+motif 4 spans the B-C connecting loop; motif 5 includes most of helix C; 
+and motifs 6 and 7, which encompass helix D, contain invariant residues 
+Glu-94, Glu-127 and His-130 res., which also contribute to the metal- 
+binding site. Two iterations on OWL28.1 were required to reach convergence, 
+at which point a true set comprising 6 sequences was identified. Four 
+partial matches were also found, all of which are N-terminal BFR fragments.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 3
+partial matches.

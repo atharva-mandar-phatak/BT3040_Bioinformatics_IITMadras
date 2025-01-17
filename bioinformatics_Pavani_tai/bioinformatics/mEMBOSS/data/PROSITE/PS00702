@@ -1,0 +1,51 @@
+**************************************************************
+* Granulocyte-macrophage colony-stimulating factor signature *
+**************************************************************
+
+Granulocyte-macrophage colony-stimulating factor  (GM-CSF) [1,2] is a cytokine
+that acts in hematopoiesis by  stimulating  the growth  and differentiation of
+hematopoietic  precursor cells from various lineages,  including granulocytes,
+macrophages, eosinophils and erythrocytes.
+
+GM-CSF is a glycoprotein of  about  120 amino acid residues that contains four
+conserved cysteine  residues involved in  two disulfide bonds, as shown in the
+following schematic representation.
+
+                                                   +---------------+
+                                                   |               |
+        xxxxxxxxxxxxxxxxxxxxxxxxxxCxxxxxxxxxxxxxxxxCxxxCxxxxxxxxxxxCxxx
+                                  |                *****
+                                  +--------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As a signature pattern, we selected the region  that  includes  the second and
+third conserved cysteines.
+
+-Consensus pattern: C-P-[LP]-T-x-E-[ST]-x-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Morstyn G., Burgess A.W.
+     "Hemopoietic growth factors: a review."
+     Cancer Res. 48:5624-5637(1988).
+     PubMed=2458827
+[ 2] Walter M.R., Cook W.J., Ealick S.E., Nagabhushan T.L., Trotta P.P.,
+     Bugg C.E.
+     "Three-dimensional structure of recombinant human
+     granulocyte-macrophage colony-stimulating factor."
+     J. Mol. Biol. 224:1075-1085(1992).
+     PubMed=1569568
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

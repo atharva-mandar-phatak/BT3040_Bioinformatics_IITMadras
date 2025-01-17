@@ -1,0 +1,63 @@
+*********************************
+* CENPB-type HTH domain profile *
+*********************************
+
+The  CENPB-type  HTH domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  70-75  amino  acids,  present  in  eukaryotic  centromere  proteins and
+transposases.  The  domain  is  named  after  the  mammalian  major centromere
+autoantigen  B  or  centromere  protein  B  (CENP-B),  which  is a fundamental
+centromere  component  of  chromosomes.  The N-terminus of CENP-B contains two
+DNA-binding  HTH  domains,  which  bind  to adjacent major grooves of DNA. The
+N-terminus  of CENP-B is formed by a psq-type HTH domain (see <PDOC50960>) and
+C-terminal  to  this  domain  lies  the  CENPB-type  HTH domain. These two HTH
+domains together bind specifically to a 17-base-pair sequence, the CENP-B box,
+which occurs in alpha-satellite DNA in human centromeres [1].
+
+The  structure of the CENPB-type HTH domain is composed of three alpha-helices
+(see  <PDB:1HLV>).  The second and third helices connected via a turn comprise
+the  helix-turn-helix  motif.  Helix  3  is termed the recognition helix as it
+binds  the  DNA  major  groove,  like  in  other  HTHs.  In CENP-B this domain
+recognizes  site  3  of  the CENP-B box, while the preceding psq-type HTH (see
+<PDOC50960>)  binds  site  1  of  the CENP-B box, and a connecting linker loop
+binds in the minor groove of DNA and recognizes site 2 [2].
+
+Some proteins known to contain a CENPB-type HTH domain:
+
+ - Mammalian centromere protein B (CENP-B), associated with the centromere and
+   specifically binding DNA to the CENP-B box.
+ - Mammalian jerky protein, involved in epileptic seizures in mice.
+ - Mammalian Pogo transposases.
+ - Fission  yeast  ARS-binding  protein  1  (abp1) and CENP-B homolog proteins
+   (CBHP-1 and 2), which are centromere proteins.
+ - Candida albicans protein PDC2.
+ - Fungal transposases.
+
+The  profile  we  developed covers the entire CENPB-type HTH domain, including
+the N-terminal linker loop.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: September 2006 / First entry.
+
+[ 1] Tanaka Y., Tachiwana H., Yoda K., Masumoto H., Okazaki T.,
+     Kurumizaka H., Yokoyama S.
+     "Human centromere protein B induces translational positioning of
+     nucleosomes on alpha-satellite sequences."
+     J. Biol. Chem. 280:41609-41618(2005).
+     PubMed=16183641; DOI=10.1074/jbc.M509666200
+[ 2] Tanaka Y., Nureki O., Kurumizaka H., Fukai S., Kawaguchi S., Ikuta M.,
+     Iwahara J., Okazaki T., Yokoyama S.
+     "Crystal structure of the CENP-B protein-DNA complex: the DNA-binding
+     domains of CENP-B induce kinks in the CENP-B box DNA."
+     EMBO J. 20:6612-6618(2001).
+     PubMed=11726497; DOI=10.1093/emboj/20.23.6612
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

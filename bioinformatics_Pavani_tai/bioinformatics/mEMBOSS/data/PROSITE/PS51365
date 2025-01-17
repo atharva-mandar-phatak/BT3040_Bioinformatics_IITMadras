@@ -1,0 +1,61 @@
+**************************************************
+* Renal dipeptidase family signature and profile *
+**************************************************
+
+Renal  dipeptidase  (rDP) (EC 3.4.13.19), also known as microsomal dipeptidase
+or  membrane dipeptidase, is a zinc-dependent metalloenzyme which hydrolyzes a
+wide  range  of  dipeptides. It is involved in renal metabolism of glutathione
+and its conjugates. It is a homodimeric disulfide-linked glycoprotein attached
+to the renal brush border microvilli membrane by a GPI-anchor.
+
+The  active  site  of  rDP  is  composed  of  binuclear zinc ions bridged by a
+glutamate  residue [1,2]. The two zinc ions are coordinated by three different
+histidine  residues,  the  glutamate  and  an aspartate (see <PDB:1ITU>). Four
+cysteine  residues form two disulfide bonds and an additional cysteine residue
+in  the  C-terminal  part  links  to  the  corresponding cysteine of the other
+subunit in the homodimeric enzyme.
+
+RDP  seems  to  be  evolutionary  related  to hypothetical proteins in the PQQ
+biosynthesis operons of Acinetobacter calcoaceticus and Klebsiella pneumoniae.
+We selected for a signature pattern the region around the glutamate residue in
+the  active  site, which is highly conserved. We also developed a profile that
+covers the entire renal dipeptidase.
+
+-Consensus pattern: [LIVM]-E-G-[GA]-x(2)-[LIVMF]-x(6)-L-x(3)-Y-x(2)-G-[LIVM]-R
+                    [E is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2008 / Text revised; profile added.
+
+-Note: These proteins belong to family M19 in the classification of peptidases
+ [3,E1].
+
+[ 1] Adachi H., Katayama T., Nakazato H., Tsujimoto M.
+     "Importance of Glu-125 in the catalytic activity of human renal
+     dipeptidase."
+     Biochim. Biophys. Acta 1163:42-48(1993).
+     PubMed=8097406
+[ 2] Nitanai Y., Satow Y., Adachi H., Tsujimoto M.
+     "Crystal structure of human renal dipeptidase involved in beta-lactam
+     hydrolysis."
+     J. Mol. Biol. 321:177-184(2002).
+     PubMed=12144777
+[ 3] Rawlings N.D., Barrett A.J.
+     "Evolutionary families of metallopeptidases."
+     Methods Enzymol. 248:183-228(1995).
+     PubMed=7674922
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

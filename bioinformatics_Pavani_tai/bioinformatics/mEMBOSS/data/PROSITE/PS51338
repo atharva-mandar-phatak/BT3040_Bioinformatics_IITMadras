@@ -1,0 +1,70 @@
+**********************
+* IMD domain profile *
+**********************
+
+The N-terminal  IRSp53  and  MIM homology domain (IMD) is a BAR-like domain of
+~250 amino  acids  that  is  conserved  in  an  evolutionarily related protein
+family, the  IRSp53/MIM  family.  The  IRSp53/MIM  family  is  a novel F-actin
+bundling protein family that includes invertebrate relatives:
+
+ - Vertebrate  missing  in metastasis (MIM), an actin-binding scaffold protein
+   that may be involved in cancer metastasis.
+ - Vertebrate ABBA-1, a MIM-related protein.
+ - Vertebrate  brain-specific  angiogenesis  inhibitor  1-associated protein 2
+   (BAI1-associated protein  2)  or insulin receptor tyrosine kinase substrate
+   p53 (IRSp53),  a  multifunctional  adaptor  protein  that links Rac1 with a
+   Wiskott-Aldrich syndrome  family  verprolin-homologous protein 2 (WAVE2) to
+   induce lamellipodia or Cdc42 with Mena to induce filopodia.
+ - Vertebrate  brain-specific  angiogenesis  inhibitor 1-associated protein 2-
+   like proteins 1 and 2 (BAI1-associated protein 2-like proteins 1 and 2).
+ - Drosophila melanogaster CG32082-PA.
+ - Caenorhabditis elegans M04F3.5 protein.
+
+The vertebrate  IRSp53/MIM family is divided into two major groups: the IRSp53
+subfamily and  the  MIM/ABBA subfamily. The putative invertebrate homologs are
+positioned between  them.  The  IRSp53 subfamily members contain an SH3 domain
+(see <PDOC50002>),  and  the  MIM/ABBA subfamily proteins contain a WH2 domain
+(see <PDOC51082>).  The vertebrate SH3-containing subfamily is further divided
+into three  groups  according  to  the  presence or absence of the WWB and the
+half-CRIB motif.  The  IMD domain can bind to and bundle actin filaments, bind
+to membranes and interact with the small GTPase Rac [1,2].
+
+The IMD  domain  folds  as a coiled coil of three extended alpha-helices and a
+shorter C-terminal  helix  (see <PDB:1Y2O>). Helix 4 packs tightly against the
+other three  helices,  and thus represents an integral part of the domain. The
+fold of the IMD domain closely resembles that of the BAR (Bin-Amphiphysin-RVS)
+domain (see  <PDOC51021>),  a  functional  module serving both as a sensor and
+inducer of membrane curvature [3].
+
+The profile we developed covers the entire IMD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2007 / First entry.
+
+[ 1] Yamagishi A., Masuda M., Ohki T., Onishi H., Mochizuki N.
+     "A novel actin bundling/filopodium-forming domain conserved in insulin
+     receptor tyrosine kinase substrate p53 and missing in metastasis
+     protein."
+     J. Biol. Chem. 279:14929-14936(2004).
+     PubMed=14752106; DOI=10.1074/jbc.M309408200
+[ 2] Machesky L.M., Johnston S.A.
+     "MIM: a multifunctional scaffold protein."
+     J. Mol. Med. 85:569-576(2007).
+     PubMed=17497115; DOI=10.1007/s00109-007-0207-0
+[ 3] Millard T.H., Bompard G., Heung M.Y., Dafforn T.R., Scott D.J.,
+     Machesky L.M., Fuetterer K.
+     "Structural basis of filopodia formation induced by the IRSp53/MIM
+     homology domain of human IRSp53."
+     EMBO J. 24:240-250(2005).
+     PubMed=15635447; DOI=10.1038/sj.emboj.7600535
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,80 @@
+************************************************************
+* Adrenodoxin family, iron-sulfur binding region signature *
+************************************************************
+
+Ferredoxins [1] are a group of iron-sulfur  proteins  which  mediate  electron
+transfer in a wide variety of metabolic reactions.  Ferredoxins can be divided
+into several subgroups depending upon  the  physiological  nature  of the iron
+sulfur  cluster(s)  and  according  to  sequence  similarities.  One family of
+ferredoxins groups together the following proteins that all bind a single 2Fe-
+2S iron-sulfur cluster:
+
+ - Adrenodoxin (ADX) (adrenal ferredoxin), a  vertebrate mitochondrial protein
+   which transfers electrons from adrenodoxin reductase to cytochrome P450scc,
+   which is involved in cholesterol side chain cleavage.
+ - Putidaredoxin (PTX), a Pseudomonas putida protein which transfers electrons
+   from putidaredoxin  reductase to  cytochrome P450-cam, which is involved in
+   the oxidation of camphor.
+ - Terpredoxin  [2],  a  Pseudomonas  protein  which  transfers electrons from
+   terpredoxin reductase  to  cytochrome  P450-terp,  which is involved in the
+   oxidation of alpha-terpineol.
+ - Rhodocoxin  [3],  a  Rhodococcus  protein  which  transfers  electrons from
+   rhodocoxin reductase to  cytochrome CYP116 (thcB), which is involved in the
+   degradation of thiocarbamate herbicides.
+ - Escherichia coli ferredoxin (gene fdx) [4] whose  exact function is not yet
+   known.
+ - Rhodobacter capsulatus ferredoxin VI [5], which may transfer electrons to a
+   yet uncharacterized oxygenase.
+ - Caulobacter crescentus ferredoxin (gene fdxB) [6].
+
+In these proteins, four cysteine  residues bind the iron-sulfur cluster. Three
+of these cysteines are  clustered  together in the same region of the protein.
+Our signature pattern spans that iron-sulfur binding region.
+
+-Consensus pattern: C-x(2)-[STAQ]-x-[STAMV]-C-[STA]-T-C-[HR]
+                    [The 3 C's are 2Fe-2S ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Meyer J.
+     Trends Ecol. Evol. 3:222-226(1988).
+[ 2] Peterson J.A., Lu J.-Y., Geisselsoder J., Graham-Lorence S.,
+     Carmona C., Witney F., Lorence M.C.
+     "Cytochrome P-450terp. Isolation and purification of the protein and
+     cloning and sequencing of its operon."
+     J. Biol. Chem. 267:14193-14203(1992).
+     PubMed=1629218
+[ 3] Nagy I., Schoofs G., Compernolle F., Proost P., Vanderleyden J.,
+     de Mot R.
+     "Degradation of the thiocarbamate herbicide EPTC (S-ethyl
+     dipropylcarbamothioate) and biosafening by Rhodococcus sp. strain
+     NI86/21 involve an inducible cytochrome P-450 system and aldehyde
+     dehydrogenase."
+     J. Bacteriol. 177:676-687(1995).
+     PubMed=7836301
+[ 4] Ta D.T., Vickery L.E.
+     "Cloning, sequencing, and overexpression of a [2Fe-2S] ferredoxin gene
+     from Escherichia coli."
+     J. Biol. Chem. 267:11120-11125(1992).
+     PubMed=1317854
+[ 5] Naud I., Vincon M., Garin J., Gaillard J., Forest E., Jouanneau Y.
+     "Purification of a sixth ferredoxin from Rhodobacter capsulatus.
+     Primary structure and biochemical properties."
+     Eur. J. Biochem. 222:933-939(1994).
+     PubMed=8026503
+[ 6] Wang S.P., Chen Y.P., Ely B.
+     "A ferredoxin, designated FdxP, stimulates p-hydroxybenzoate
+     hydroxylase activity in Caulobacter crescentus."
+     J. Bacteriol. 177:2908-2911(1995).
+     PubMed=7751304
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

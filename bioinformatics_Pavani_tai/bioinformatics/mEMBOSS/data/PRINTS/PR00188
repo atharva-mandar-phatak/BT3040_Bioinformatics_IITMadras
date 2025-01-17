@@ -1,0 +1,27 @@
+PLANTGLOBIN
+Leghaemoglobins are haem-proteins, first identified in root nodules of
+leguminous plants: their physiological role involves fixation of 
+atmospheric nitrogen, formed symbiotically in the nodules by the bacteria
+Rhizobium [1]. The structure of leghaemoglobins is similar to that of
+haemoglobins and myoglobins, although there is little sequence conservation
+[1]. The protein is largely alpha-helical, eight helices providing the
+scaffold for a well-defined haem-binding pocket [1]. By contrast with the
+tetrameric mammalian globin assembly, the plant form is monomeric [2]. 
+
+The structural similarity of leghaemoglobins and haemoglobins has suggested
+a common evolutionary origin. It was thought that haemoglobins may be found
+in plants other than legumes [2], and indeed globins have now been
+identified in the roots of non-leguminous plants, where they have a role
+in respiratory metabolism in the root cells [2].
+
+PLANTGLOBIN is a 4-element fingerprint that provides a signature for the 
+plant globins. The fingerprint was derived from an initial alignment
+of 7 sequences: motif 1 includes helix A; motif 2 contains part of helix B
+and helix C; motif 3 includes helix E and corresponds to the region encoded
+by PROSITE pattern PLANT_GLOBIN (PS00208), the conserved His of which is 
+one of the iron ligands; and motif 4 contains part of helix G and helix H 
+(structural studies show that various residues from motifs 2-4 interact 
+with the haem group). Four iterations on SPTR55_38f were required to reach
+convergence, at which point a true set comprising 101 sequences was 
+identified. Eight partial matches were also found, all of which are family
+members that fail to make signficant matches with one or more motifs.

@@ -1,0 +1,40 @@
+TBOX
+The T-box gene family is an ancient group of putative transcription
+factors that appear to play a critical role in the development of all
+animal species.
+
+These genes were uncovered on the basis of similarity to the DNA binding
+domain [1] of murine Brachyury (T) gene product, which similarity is the
+defining feature of the family. The Brachyury gene is named for its
+phenotype, which was identified 70 years ago as a mutant mouse strain with
+a short blunted tail. The gene, and its paralogues, have become a well-
+studied model for the family, and hence much of what is known about the
+T-box family is derived from the murine Brachyury gene.
+
+Consistent with its nuclear location, Brachyury protein has a sequence-
+specific DNA-binding activity and can act as a transcriptional regulator
+[2]. Homozygous mutants for the gene undergo extensive developmental
+anomalies, thus rendering the mutation lethal [3]. The postulated role of
+Brachyury is as a transcription factor, regulating the specification and
+differentiation of posterior mesoderm during gastrulation in a dose-
+dependent manner [1].
+
+Common features shared by T-box family members are, DNA-binding and
+transcriptional regulatory activity, a role in development and conserved
+expression patterns, most of the known genes in all species being expressed
+in mesoderm of mesoderm precursors [4].
+
+TBOX is a 6-element fingerprint that provides a signature for the T-box
+domain. The fingerprint was derived from an initial alignment of 23
+sequences: the motifs were drawn from conserved regions spanning the 
+DNA-binding domain - motif 1 spans beta-strands 2-4 and includes part of
+the region encoded by PROSITE pattern TBOX_1 (PS01283); motifs 2 and 3 span
+part of the sequence encoded by PROSITE pattern TBOX_2 (PS01264), including
+strands 8-11 and helix 2; motif 4 includes strand 13; and motif 5 spans
+strand 15 and the N-terminal residues of helix 4. Two iterations on OWL30.2
+were required to reach convergence, at which point a true set comprising 50
+sequences was identified. Several partial matches were also found, all of
+which are fragments.
+
+An update on SPTR37_9f identified a true set of 46 sequences, and 7
+partial matches.

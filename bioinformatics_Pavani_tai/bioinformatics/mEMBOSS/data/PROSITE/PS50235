@@ -1,0 +1,76 @@
+**********************************************************************
+* Ubiquitin carboxyl-terminal hydrolases family 2 signatures/profile *
+**********************************************************************
+
+Ubiquitin  carboxyl-terminal  hydrolases (EC 3.1.2.15) (UCH) (deubiquitinating
+enzymes) [1,2] are thiol proteases  that recognize  and  hydrolyze the peptide
+bond at the C-terminal glycine of ubiquitin. These enzymes are involved in the
+processing of  poly-ubiquitin  precursors  as  well  as  that  of  ubiquinated
+proteins.
+
+There are  two  distinct  families  of  UCH. The second class consist of large
+proteins (800 to 2000 residues) and is currently represented by:
+
+ - Yeast UBP1, UBP2, UBP3, UBP4 (or DOA4/SSV7), UBP5, UBP7, UBP9, UBP10,
+   UBP11, UBP12, UBP13, UBP14, UBP15 and UBP16.
+ - Human tre-2.
+ - Human isopeptidase T.
+ - Human isopeptidase T-3.
+ - Mammalian Ode-1.
+ - Mammalian Unp.
+ - Mouse Dub-1.
+ - Drosophila fat facets protein (gene faf).
+ - Mammalian faf homolog.
+ - Drosophila D-Ubp-64E.
+ - Caenorhabditis elegans hypothetical protein R10E11.3.
+ - Caenorhabditis elegans hypothetical protein K02C4.3.
+
+These proteins only share two regions of similarity. The first region contains
+a conserved cysteine which is probably implicated  in the catalytic mechanism.
+The second region contains two conserved histidines residues,  one of which is
+also probably  implicated  in  the  catalytic  mechanism.  We  have  developed
+signature pattern  for  both  conserved  regions.  We also developed a profile
+including the two regions covered by the patterns.
+
+-Consensus pattern: G-[LIVMFY]-x(1,3)-[AGCY]-[NASMQG]-x-C-[FYWC]-[LIVMFCA]-
+                    [NSTAD]-[SACV]-x-[LIVMSF]-[QF]
+                    [C may be the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for two sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [YMF]-x-[LK]-x-[SAGNC]-[LIVMFT]-x(2)-H-x-G-x(4,6)-G-H-
+                    [YF]
+                    [The 2 H's may be active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family C19 in the classification of peptidases
+ [3,E1].
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Jentsch S., Seufert W., Hauser H.-P.
+     "Genetic analysis of the ubiquitin system."
+     Biochim. Biophys. Acta 1089:127-139(1991).
+     PubMed=1647207
+[ 2] D'andrea A., Pellman D.
+     Crit. Rev. Biochem. Mol. Biol. 33:337-352(1998).
+[ 3] Rawlings N.D., Barrett A.J.
+     "Families of cysteine peptidases."
+     Methods Enzymol. 244:461-486(1994).
+     PubMed=7845226
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

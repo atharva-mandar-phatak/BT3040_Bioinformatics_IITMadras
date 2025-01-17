@@ -1,0 +1,61 @@
+********************************************************
+* Eph receptor ligand binding (Eph LBD) domain profile *
+********************************************************
+
+The Eph  receptors, which bind a group of cell-membrane-anchored ligands known
+as ephrins,  represent  the  largest  subfamily  of  receptor tyrosine kinases
+(RTKs) (see <PDOC00629>). The Eph receptors and their ephrin ligands control a
+diverse array  of  cell-cell interactions in the nervous and vascular systems.
+On ephrin  binding,  the  Eph kinase domain is activated, initiating 'forward'
+signaling in  the  receptor-expressing cells. Simultaneously, signals are also
+induced in  the  ligand-expressing cells a phenomenon referred to as 'reverse'
+signalling. The  extracellular  Eph  receptor region contains a conserved 180-
+amino-acid N-terminal  ligand-binding domain (LBD) which is both necessary and
+sufficient for  bindings of the receptors to their ephrin ligands. An adjacent
+cysteine-rich region  might  be  involved in receptor–receptor oligomerization
+often observed  on  ligand  binding, whereas the next two fibronectin type III
+repeats (see <PDOC50853>) have yet to be assigned a clear biological function.
+The cytoplasmic   Eph   receptor   region   contains   a  kinase  domain  (see
+<PDOC00100>), a sterile alpha motif (SAM) domain (see <PDOC50105>), and a PDZ-
+binding motif.  The  ligand-binding domain (LBD) of Eph receptors is unique to
+this family  of  RTKs  ans  shares no significant amino-acid-sequence homology
+with other known proteins [1,2,3].
+
+The Eph  LBD  domain  forms  a  compact  globular structure which folds into a
+jellyroll beta-sandwich   composed   of   11  antiparallel  beta-strands  (see
+<PDB:1NUK>). It  has  two antiparallel beta-sheets, with the usual left-handed
+twist, packed  against each other to form a compact beta-sandwich, and a short
+3(10) helix [1,2,3].
+
+The profile we developed covers the entire Eph LBD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2011 / First entry.
+
+[ 1] Himanen J.-P., Henkemeyer M., Nikolov D.B.
+     "Crystal structure of the ligand-binding domain of the receptor
+     tyrosine kinase EphB2."
+     Nature 396:486-491(1998).
+     PubMed=9853759; DOI=10.1038/24904
+[ 2] Himanen J.-P., Rajashankar K.R., Lackmann M., Cowan C.A.,
+     Henkemeyer M., Nikolov D.B.
+     "Crystal structure of an Eph receptor-ephrin complex."
+     Nature 414:933-938(2001).
+     PubMed=11780069; DOI=10.1038/414933a
+[ 3] Himanen J.-P., Goldgur Y., Miao H., Myshkin E., Guo H., Buck M.,
+     Nguyen M., Rajashankar K.R., Wang B., Nikolov D.B.
+     "Ligand recognition by A-class Eph receptors: crystal structures of
+     the EphA2 ligand-binding domain and the EphA2/ephrin-A1 complex."
+     EMBO Rep. 10:722-728(2009).
+     PubMed=19525919; DOI=10.1038/embor.2009.91
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

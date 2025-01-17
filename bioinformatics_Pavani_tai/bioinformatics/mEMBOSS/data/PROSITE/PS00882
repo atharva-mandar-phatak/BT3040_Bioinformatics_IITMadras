@@ -1,0 +1,59 @@
+**********************************************************************
+* Nickel-dependent hydrogenases b-type cytochrome subunit signatures *
+**********************************************************************
+
+Bacterial membrane-bound  nickel-dependent hydrogenases  [1,2,3]  seem  to  be
+associated with  a  b-type  cytochrome  involved  in  electron  transfer  from
+hydrogen to  oxygen. This cytochrome is a protein of about 28 Kd that seems to
+have four  transmembrane  regions.  The  gene  coding  for  this cytochrome is
+adjacent to that coding for the large subunit of the hydrogenase.  It has been
+assigned a variety of names in different species: hupC, hyaC, hydC or hoxZ.
+
+We developed two signature patterns for this protein. The first corresponds to
+the first potential transmembrane region. The second signature includes the C-
+terminal part  of  a  hydrophilic  loop  between  the  third  and  the  fourth
+transmembrane region  as  well  as  the first half of the fourth transmembrane
+region. Both signatures contain conserved histidines that could be involved in
+binding the heme iron group.
+
+-Consensus pattern: R-[LIVMFYW]-x-H-W-[LIVM]-x(2)-[LIVMF]-[STAC]-[LIVM]-x(2)-
+                    L-x-[LIVM]-T-G
+                    [H may be a heme ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [RH]-[STA]-[LIVMFYW]-H-[RH]-[LIVM]-x(2)-W-x-[LIVMF]-x(2)-
+                    F-x(3)-H
+                    [The 2 H's may be heme ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Cauvin B., Colbeau A., Vignais P.M.
+     "The hydrogenase structural operon in Rhodobacter capsulatus contains
+     a third gene, hupM, necessary for the formation of a physiologically
+     competent hydrogenase."
+     Mol. Microbiol. 5:2519-2527(1991).
+     PubMed=1791762
+[ 2] Dross F., Geisler V., Lenger R., Theis F., Krafft T., Fahrenholz F.,
+     Kojro E., Duchene A., Tripier D., Juvenal K.
+     "The quinone-reactive Ni/Fe-hydrogenase of Wolinella succinogenes."
+     Eur. J. Biochem. 206:93-102(1992).
+     PubMed=1587288
+[ 3] Hidalgo E., Palacios J.M., Murillo J., Ruiz-Argueso T.
+     "Nucleotide sequence and characterization of four additional genes of
+     the hydrogenase structural operon from Rhizobium leguminosarum bv.
+     viciae."
+     J. Bacteriol. 174:4130-4139(1992).
+     PubMed=1597428
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

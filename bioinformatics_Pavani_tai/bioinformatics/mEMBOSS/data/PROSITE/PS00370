@@ -1,0 +1,83 @@
+************************************
+* PEP-utilizing enzymes signatures *
+************************************
+
+A number of enzymes that catalyze  the  transfer  of  a  phosphoryl group from
+phosphoenolpyruvate (PEP) via a phospho-histidine intermediate have been shown
+to be structurally related [1,2,3,4]. These enzymes are:
+
+ - Pyruvate,orthophosphate  dikinase (EC 2.7.9.1)  (PPDK).  PPDK catalyzes the
+   reversible phosphorylation  of  pyruvate  and  phosphate  by ATP to PEP and
+   diphosphate. In  plants PPDK function  in the direction of the formation of
+   PEP, which is the primary acceptor of carbon dioxide in C4 and crassulacean
+   acid metabolism plants.  In  some  bacteria, such as Bacteroides symbiosus,
+   PPDK functions in the direction of ATP synthesis.
+ - Phosphoenolpyruvate  synthase (EC 2.7.9.2) (pyruvate,water dikinase).  This
+   enzyme catalyzes the reversible  phosphorylation of pyruvate by ATP to form
+   PEP, AMP and phosphate, an essential step in gluconeogenesis when  pyruvate
+   and lactate are used as a carbon source.
+ - Phosphoenolpyruvate-protein  phosphatase  (EC 2.7.3.9).  This is  the first
+   enzyme of the phosphoenolpyruvate-dependent sugar phosphotransferase system
+   (PTS), a major carbohydrate transport system in bacteria. The PTS catalyzes
+   the phosphorylation  of incoming  sugar substrates  concomitant with  their
+   translocation across the cell membrane. The general mechanism of the PTS is
+   the following: a phosphoryl group  from PEP is transferred to enzyme-I (EI)
+   of PTS which in  turn transfers  it to a phosphoryl  carrier protein (HPr).
+   Phospho-HPr  then  transfers  the  phosphoryl  group  to  a  sugar-specific
+   permease.
+
+All these enzymes share  the  same  catalytic  mechanism:  they  bind  PEP and
+transfer the phosphoryl  group  from it  to a histidine residue.  The sequence
+around that residue is highly conserved and can be used as a signature pattern
+for  these enzymes.  As  a  second  signature  pattern we selected a conserved
+region in the C-terminal part  of  the  PEP-utilizing enzymes.  The biological
+significance of this region is not yet known.
+
+-Consensus pattern: G-[GA]-x-[STN]-x-H-[STA]-[STAV]-[LIVM](2)-[STAV]-[RG]
+                    [H is phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DEQSKN]-x-[LIVMF]-[SA]-[LIVMF]-G-[ST]-N-D-[LIVM]-x-Q-
+                    [LIVMFYGT]-[STALIV]-[LIVMFY]-[GAS]-x(2)-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Reizer J., Hoischen C., Reizer A., Pham T.N., Saier M.H. Jr.
+     "Sequence analyses and evolutionary relationships among the
+     energy-coupling proteins Enzyme I and HPr of the bacterial
+     phosphoenolpyruvate: sugar phosphotransferase system."
+     Protein Sci. 2:506-521(1993).
+     PubMed=7686067
+[ 2] Reizer J., Reizer A., Merrick M.J., Plunkett G. III, Rose D.J.,
+     Saier M.H. Jr.
+     "Novel phosphotransferase-encoding genes revealed by analysis of the
+     Escherichia coli genome: a chimeric gene encoding an Enzyme I
+     homologue that possesses a putative sensory transduction domain."
+     Gene 181:103-108(1996).
+     PubMed=8973315
+[ 3] Pocalyko D.J., Carroll L.J., Martin B.M., Babbitt P.C.,
+     Dunaway-Mariano D.
+     "Analysis of sequence homologies in plant and bacterial pyruvate
+     phosphate dikinase, enzyme I of the bacterial phosphoenolpyruvate:
+     sugar phosphotransferase system and other PEP-utilizing enzymes.
+     Identification of potential catalytic and regulatory motifs."
+     Biochemistry 29:10757-10765(1990).
+     PubMed=2176881
+[ 4] Niersbach M., Kreuzaler F., Geerse R.H., Postma P.W., Hirsch H.J.
+     "Cloning and nucleotide sequence of the Escherichia coli K-12 ppsA
+     gene, encoding PEP synthase."
+     Mol. Gen. Genet. 231:332-336(1992).
+     PubMed=1310524
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

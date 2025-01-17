@@ -1,0 +1,63 @@
+********************************************
+* Ferritin iron-binding regions signatures *
+********************************************
+
+Ferritin [1,2] is one of the major non-heme iron storage proteins. It consists
+of a mineral core of hydrated ferric  oxide, and a multi-subunit protein shell
+which  englobes   the  former  and   assures   its   solubility in  an aqueous
+environment.
+
+In animals the protein is mainly cytoplasmic  and  there  are generally two or
+more genes that encodes for closely related subunits (in mammals there are two
+subunits which are known as H(eavy) and L(ight)).  In plants ferritin is found
+in the chloroplast [3].
+
+There are a number  of well conserved  region in the sequence of ferritins. We
+have selected two  of  these regions to  develop signature patterns. The first
+pattern is located in the  central  part  of  the  sequence of ferritin and it
+contains  three  conserved  glutamate  which are thought to be involved in the
+binding of iron.  The second pattern  is located in the C-terminal section, it
+corresponds to a region  which forms a hydrophilic channel through which small
+molecules and ions can gain access to the central cavity of the molecule; this
+pattern also  includes  conserved  acidic  residues  which are potential metal
+binding sites.
+
+-Consensus pattern: E-x-[KR]-E-x(2)-E-[KR]-[LF]-[LIVMA]-x(2)-Q-N-x-R-x-G-R
+                    [The 3 E's may be iron ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ferritin 1 from Schistosoma mansoni
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: D-x(2)-[LIVMF]-[STACQV]-[DH]-[FYMI]-[LIV]-[EN]-x(2)-[FYC]-
+                    L-x(6)-[LIVMQ]-[KNER]
+                    [The second D and the E may be iron ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Crichton R.R., Charloteaux-Wauters M.
+     "Iron transport and storage."
+     Eur. J. Biochem. 164:485-506(1987).
+     PubMed=3032619
+[ 2] Theil E.C.
+     "Ferritin: structure, gene regulation, and cellular function in
+     animals, plants, and microorganisms."
+     Annu. Rev. Biochem. 56:289-315(1987).
+     PubMed=3304136; DOI=10.1146/annurev.bi.56.070187.001445
+[ 3] Ragland M., Briat J.-F., Gagnon J., Laulhere J.-P., Massenet O.,
+     Theil E.C.
+     "Evidence for conservation of ferritin sequences among plants and
+     animals and for a transit peptide in soybean."
+     J. Biol. Chem. 265:18339-18344(1990).
+     PubMed=2211706
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

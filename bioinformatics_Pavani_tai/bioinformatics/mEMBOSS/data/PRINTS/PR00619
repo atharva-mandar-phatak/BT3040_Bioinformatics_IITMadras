@@ -1,0 +1,29 @@
+GATAZNFINGER
+A number of transcription factors (including erythroid-specific tran-
+scription factor and nitrogen regulatory proteins), specifically bind the
+DNA sequence (A/T)GATA(A/G) [1] in the regulatory regions of genes; they 
+are consequently termed GATA-binding transcription factors [2,3]. The
+interactions occur via highly-conserved zinc finger domains in which the
+zinc ion is coordinated by 4 cysteine residues [2,3].
+
+NMR studies have shown the core of the zinc finger to comprise 2 irregular
+anti-parallel beta-sheets and an alpha-helix, followed by a long loop to the
+C-terminal end of the finger [3]. The N-terminal part, which includes the
+helix, is similar in structure, but not sequence, to the N-terminal zinc
+module of the glucocorticoid receptor DNA-binding domain [3]. The helix and 
+the loop connecting the 2 beta-sheets interact with the major groove of the
+DNA, while the C-terminal tail wraps around into the minor groove. It is
+this tail that is the essential determinant of specific binding [3].
+Interactions between the zinc finger and DNA are mainly hydrophobic,
+explaining the preponderance of thymines in the binding site; a large number
+of interactions with the phosphate backbone have also been observed [3].
+
+GATAZNFINGER is a 2-element fingerprint that provides a signature for the 
+zinc finger domain of GATA-binding transcription factors. The fingerprint
+was derived from an initial alignment of 6 sequences: the motifs were drawn
+from the full finger domain, spanning the region encoded by PROSITE pattern
+GATA_ZN_FINGER (PS00344). Two iterations on OWL28.3 were required to reach
+convergence, at which point a true set comprising 59 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 64 sequences.

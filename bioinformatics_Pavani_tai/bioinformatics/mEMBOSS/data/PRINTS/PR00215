@@ -1,0 +1,25 @@
+NEUROMODULIN
+Neuromodulin is a major growth cone membrane protein whose expression is
+widely correlated with successful axon elongation [1]: it is a crucial
+component of an effective regeneration response in the nervous system [2].
+Although its function is uncertain, the N-terminal region is well
+conserved, containing both a calmodulin binding domain, and sites for
+acylation, membrane attachment and protein kinase C phosphorylation [1].
+The C-terminal sequences, however, are not conserved, although their amino
+acid compositions are similar [1]. Structure predictions suggest the C-
+terminus may exist as an extended, negatively-charged rod with some
+similarity to the side arms of neurofilaments, intimating that the
+biological role of neuromodulin may depend on the ability to form a
+dynamic membrane-cytoplasm-calmodulin complex [1].
+
+NEUROMODULIN is a 3-element fingerprint that provides a signature for the 
+neuromodulins. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from the N-terminal region, motif 1
+encoding 2 palmitoylated Cys residues responsible for the attachment of the
+protein to the membrane (cf. PROSITE pattern NEUROMODULIN_1 (PS00412)), and
+motif 2 encoding a phosphorylated Ser residue that lies adjacent to the
+calmodulin-binding domain (cf. PROSITE pattern NEUROMODULIN_2 (PS00413)).
+Two iterations on OWL23.2 were required to reach convergence, at which
+point a true set comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

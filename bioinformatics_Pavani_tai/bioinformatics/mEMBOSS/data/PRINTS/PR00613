@@ -1,0 +1,38 @@
+MYOGLOBIN
+Globins are haem-containing proteins involved in dioxygen binding and/or 
+transport [1,2]. Hundreds of globin sequences are known [3]. It has been 
+proposed that all globins have evolved from a family of ancestral, ~17kDa 
+haemoproteins that displayed the globin fold and functioned as redox 
+proteins [4]. The globin superfamily includes vertebrate haemoglobins (Hb);
+vertebrate myoglobins (Mb); invertebrate globins; plant leghaemoglobins; and
+bacterial flavohaemoglobins. 
+
+The function of vertebrate myoglobin (Mb) is storage of dioxygen in tissues.
+Mb binds O(2) in the reduced [Fe(II)] state. The Mb molecule exists as a
+monomer that binds iron protoporphyrin IX (haem). 
+
+The 3D structures of a great number of vertebrate Mbs in various states
+are known. The protein is largely alpha-helical, eight conserved helices 
+(A to H) providing the scaffold for a well-defined haem-binding pocket. The
+imidazole ring of the "proximal" His residue provides the fifth haem iron 
+ligand; the other axial haem iron position remains essentially free for 
+O(2) coordination. Conserved "distal" His and Val residues block an 
+unhindered access to the sixth coordination site so that a controlled 
+binding of small molecules may result only as a consequence of side-chain 
+dynamics of the protein [2]. O(2) binding results in a transition from 
+high-spin to low-spin iron, with accompanying changes in the Fe-N bond 
+lengths and coordination geometry [1]. 
+
+MYOGLOBIN is a 6-element fingerprint that provides a signature for the 
+vertebrate Mbs. The fingerprint was derived from an initial alignment of 7
+sequences: motif 1 largely includes helix A; motif 2 spans most of helix B
+and helix C; motif 3 corresponds to helix E, and includes the conserved
+distal His residue; motif 4 corresponds to helix F, and includes the
+invariant proximal His residue; motif 5 spans helix G; and motif 6 spans
+helix H. Motifs 3-5 are adjacent Two iterations on OWL28.2 were required to
+reach convergence, at which point a true set comprising 79 sequences was
+identified. Numerous partial matches were also found, all of which are
+members of the globin superfamily.
+
+An update on SPTR37_9f identified a true set of 75 sequences, and 1
+partial match.

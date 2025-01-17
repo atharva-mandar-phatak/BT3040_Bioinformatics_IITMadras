@@ -1,0 +1,56 @@
+***********************
+* KIND domain profile *
+***********************
+
+The KIND   (kinase   non-catalytic   C-lobe  domain)  is  a  putative  protein
+interaction domain,  which  has  been  identified  as  being similar to the C-
+terminal protein  kinase  catalytic  fold  (C  lobe)  (see  <PDOC00100>).  Its
+presence at  the  N-terminus  of  signalling  proteins  and the absence of the
+active site  residues  in  the  catalytic and activation loops suggest that it
+folds independently  and  is  likely to be non-catalytic. The occurence of the
+domain only  in metazoa implies that it has evolved from the catalytic protein
+kinase domain  into  an  interaction domain possibly by keeping the substrate-
+binding features [1,2].
+
+Some proteins known to contain a KIND domain are listed below:
+
+ - Animal  Spir proteins. In the central region they contain a WH2 domain (see
+   <PDOC51082>) cluster,  which  is known to bind actin. The C-terminal region
+   encodes a  modified  FYVE zinc-finger domain, which directs the subcellular
+   localization of the proteins.
+ - Animal  non-receptor phosphatase type 13 (PTP type 13), which also contains
+   a FERM  domain  (see  <PDOC00566>),  PDZ  domains  (see  <PDOC50106>) and a
+   tyrosine specific protein phosphatase (see <PDOC00323>).
+ - Vertebrate very KIND (VKIND or KIAA1768), a signalling protein specifically
+   expressed in  the nervous system of vertebrates. It has two KIND domains in
+   the N-terminal  half,  and  a guanine nucleotide exchange factor domain for
+   Ras-like GTPases  (RasGEF)  at  the C-terminal end with a structural domain
+   attached at its N-terminal (RasGEFN) (see <PDOC00594>).
+
+The profile we developed covers the entire KIND domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2008 / First entry.
+
+[ 1] Ciccarelli F.D., Bork P., Kerkhoff E.
+     "The KIND module: a putative signalling domain evolved from the C lobe
+     of the protein kinase fold."
+     Trends Biochem. Sci. 28:349-352(2003).
+     PubMed=12877999
+[ 2] Mees A., Rock R., Ciccarelli F.D., Leberfinger C.B., Borawski J.M.,
+     Bork P., Wiese S., Gessler M., Kerkhoff E.
+     "Very-KIND is a novel nervous system specific guanine nucleotide
+     exchange factor for Ras GTPases."
+     Gene Expr. Patterns 6:79-85(2005).
+     PubMed=16099729; DOI=10.1016/j.modgep.2005.04.015
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

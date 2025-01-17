@@ -1,0 +1,44 @@
+KCNE1CHANNEL
+Potassium ion (K+) channels are a structurally diverse group of proteins
+that facilitate the flow of K+ ions across cell membranes. They are
+ubiquitous, being present in virtually all cell types. Activation of K+
+channels tends to hyperpolarise cells, reducing the membrane's electrical
+resistance, dampening nervous activity. In eukaryotic cells, K+ channels
+are involved in neural signalling and generation of the cardiac rhythm, and
+act as effectors in signal transduction pathways involving G protein-
+coupled receptors (GPCRs). In prokaryotic cells, they play a role in the
+maintenance of ionic homeostasis [1].
+
+Some types of K+ channel are closed at the resting potential of the cell,
+but open on membrane depolarisation, and are thus known as voltage-gated 
+channels. Each of these types of channel typically comprises 4 pore-forming
+alpha subunits that may associate with one of a number of different types of
+beta subunit. Two types of beta subunit (KCNE and KCNAB) are presently known
+to associate with voltage-gated alpha subunits (Kv, KCNQ and eag-like).
+However, not all combinations of alpha and beta subunits are possible.
+
+The KCNE family of K+ channel subunits are membrane glycoproteins that 
+possess a single transmembrane (TM) domain. They share no structural 
+relationship with the alpha subunit proteins, which possess pore forming 
+domains. The subunits appear to have a regulatory function, modulating the 
+kinetics and voltage dependence of the alpha subunits of voltage-dependent
+K+ channels [2]. KCNE subunits are formed from short polypeptides of ~130
+amino acids, and are divided into five subfamilies: KCNE1 (MinK/IsK),
+KCNE2 (MiRP1), KCNE3 (MiRP2), KCNE4 (MiRP3) and KCNE1L (AMMECR2).
+
+KCNE1 subunits associate with KCNQ1 alpha subunits to form channels that
+are responsible for the IkS currents that determine the duration of the
+action potential in cardiac muscle. Mutations in both of the genes encoding
+these subunits cause an inherited disorder that increases the risk of death
+from cardiac arrhythmia (long QT syndrome type 1) and Jervell and
+Lange-Nielsen syndrome, associated with congenital deafness [3].
+
+KCNE1CHANNEL is a 4-element fingerprint that provides a signature for the
+KCNE voltage-gated K+ channel subfamily E1. The fingerprint was derived
+from an initial alignment of 7 sequences: the motifs were drawn from
+conserved regions spanning the N- and C-terminal portions of the alignment,
+focusing on those sections that characterise the KCNE1 subunits but
+distinguish them from the rest of the KCNE family - motifs 1 and 2 lie
+in the extracellular N-terminus; and motifs 3 and 4 lie in the cytoplasmic
+C-terminus. A single iteration on SPTR39.22_17.3f was required to reach
+convergence, no further sequences being identified beyond the starting set.

@@ -1,0 +1,42 @@
+2POREKCHANEL
+Potassium (K+) channels play a key role in many cellular functions, in both
+excitable and non-excitable tissues. Among the ion channels, they form the
+largest family in terms of both structure and function. K+ channel subunits
+contain a conserved pore-forming motif, the P-domain, which is considered
+to be an essential element of the aqueous K+-selective pore. Shaker-type
+and Kir K+ channel subunits both contain a single P-domain, and four such 
+subunits are thought to associate to form a multimer, together with 
+associated auxillary (regulatory) subunits. Recently, a new class of K+ 
+channel subunit was cloned, which is clearly distinct from the Shaker and
+Kir families; the new class contains not one but two P-domains in each
+subunit, and evidence suggests a complete channel may be formed by the
+dimerisation of two such subunits.
+
+The first member of this family (TOK1), cloned from S.cerevisiae [1], is
+predicted to have eight potential transmembrane (TM) helices. However,
+subsequently-cloned two P-domain family members from Drosophila and
+mammalian species are predicted to have only four TM segments. They are
+usually referred to as TWIK-related channels (Tandem of P-domains in a 
+Weakly Inward rectifying K+ channel) [2-6]. Functional characterisation of
+these channels has revealed a diversity of properties in that they may show
+inward or outward rectification, their activity may be modulated in 
+different directions by protein phosphorylation, and their sensitivity to
+changes in intracellular or extracellular pH varies. Despite these
+disparate properties, they are all thought to share the same topology of
+four TM segments, including two P-domains. That TWIK-related K+ channels
+all produce instantaneous and non-inactivating K+ currents, which do not
+display a voltage-dependent activation threshold, suggests that they are
+background (leak) K+ channels involved in the generation and modulation of
+the resting membrane potential in various cell types. Further studies have
+revealed that they may be found in many species, including: plants,
+invertebrates and mammals.
+
+2POREKCHANEL is a 2-element fingerprint that provides a signature for the
+two pore domain K+ channel family. The fingerprint was derived from an
+initial alignment of 10 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motifs 1 and 2 each
+encoding part of one of the K+ channel pore-forming domains. Three
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 51 sequences was identified.
+
+An update on SPTR57.15_40.15f identified a true set of 345 sequences.

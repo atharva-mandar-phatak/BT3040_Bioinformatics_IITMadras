@@ -1,0 +1,34 @@
+VACJLIPOPROT
+Pathogenic bacterial lipoproteins play a major part in the virulence of 
+several microbial species [1]. They are a diverse group of proteins found 
+in both Gram-negative and Gram-positive microbes, and the functions they 
+carry out are varied [1]: some act as antibiotic resistance enzymes and are 
+cleaved, as needed, from their lipid moiety; others form part of high-
+affinity transport systems in enterobacteria. In some pathogens that 
+attack the host mucosal surfaces, lipoproteins are utilised as adhesions, 
+and recently there has been speculation that some may even form part of a 
+rudimentary signalling/sensory pathway in certain prokaryotes [1]. 
+
+Lipoproteins in Gram-negative microbes also act as structural stabilisers,
+forming non-covalent bonds with peptidoglycan on the outer membrane of the 
+cell [1]. Following completion of the genomes of several Gram-negative 
+prokaryotes, a putative lipoprotein, VacJ, has been discovered in the raw 
+sequence open reading frames [2-4]. Biochemical analysis of the Shigella 
+flexneri VacJ protein revealed it to be essential for virulence, promoting 
+spread of bacterial cells through the intercellular space of tissues [5]. 
+
+Upon expression in the facultative intracellular microbe, host cells form 
+membranous protrusions containing the pathogen, allowing it to move to the 
+cytoplasm of the next target cell [5]. As homologues of this lipoprotein 
+have largely been found in obligate or facultative intracellular microbial 
+genomes, it appears to be specific for that particular lifestyle [5].
+
+The database of bacterial liproteins, DOLOP, cites VacJ as an "interesting 
+factor": www.mrc-lmb.cam.ac.uk/genomes/dolop [6]. 
+
+VACJLIPOPROT is a 4-element fingerprint that provides a signature for the 
+bacterial VacJ outer membrane lipoproteins. The fingerprint was derived from
+an initial alignment of 5 sequences: the motifs were drawn from conserved 
+regions spanning the N-terminal portion of the alignment. Three iterations 
+on SPTR40_20f were required to reach convergence, at which point a true set 
+comprising 20 sequences was identified. 

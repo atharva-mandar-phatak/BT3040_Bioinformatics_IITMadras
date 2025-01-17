@@ -1,0 +1,25 @@
+CATALASE
+Catalase is a constitutive peroxisomal enzyme [1] that catalyses the 
+conversion of hydrogen peroxide to water and molecular oxygen in a 
+'catalatic' reaction, which protects the cell from the toxic effects of 
+hydrogen peroxide [2]. It can also oxidise a number of other compounds in 
+the presence of hydrogen peroxide in a 'peroxidatic' reaction [2], which
+is responsible for ethanol oxidation in liver, if the concentration of 
+hydrogen peroxide is high enough. Different catalase isoforms can be 
+identified within a particular species, the number of isoforms ranging
+from 1 in lentil cotyledons to 12 in mustard cotyledons [1]. Most catalases
+exist as tetramers of 65kDa subunits, each subunit containing a protohaem
+IX group [3] buried deep within the structure, but which is accessible 
+through hydrophobic channels [2].
+
+CATALASE is a 7-element fingerprint that provides a signature for the 
+catalases. The fingerprint was derived from an initial alignment of 6
+sequences: motifs 2 and 7 include regions encoded by PROSITE patterns
+CATALASE_2 (PS00438) and CATALASE_1 (PS00437), the former containing a
+highly conserved His thought to be important for catalysis, the latter
+including the Tyr that acts as the proximal ligand for the haem iron atom.
+Two iterations on OWL21.1 were required to reach convergence, at which
+point a true set comprising 38 sequences was identified. A single partial
+match was also found, a catalase fragment.
+
+An update on SPTR37_9f identified a true set of 106 sequences.

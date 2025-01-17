@@ -1,0 +1,46 @@
+***********************************************************
+* N-acetyl-gamma-glutamyl-phosphate reductase active site *
+***********************************************************
+
+N-acetyl-gamma-glutamyl-phosphate reductase  (EC 1.2.1.38) (AGPR) [1,2] is the
+enzyme that  catalyzes  the  third  step  in the biosynthesis of arginine from
+glutamate, the  NADP-dependent reduction of N-acetyl-5-glutamyl phosphate into
+N-acetylglutamate 5-semialdehyde.
+
+In bacteria it is a monofunctional protein of 35 to 38 Kd (gene argC) while in
+fungi it is part of a bifunctional mitochondrial enzyme (gene ARG5,6, arg11 or
+arg-6) which  contains a N-terminal acetylglutamate kinase (EC 2.7.2.8) domain
+and a C-terminal AGPR domain.
+
+In the  Escherichia coli enzyme, a cysteine has been shown to be implicated in
+the catalytic  activity,  the region around this residue is well conserved and
+can be used as a signature pattern.
+
+-Consensus pattern: [LIVMA]-[GSA]-x-[PA]-G-C-[FYN]-[AVPST]-T-[GSACVT]-x(3)-
+                    [GTACLPS]-[LIVMCAF]-x-[PL]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Ludovice M., Martin J.F., Carrachas P., Liras P.
+     "Characterization of the Streptomyces clavuligerus argC gene encoding
+     N-acetylglutamyl-phosphate reductase: expression in Streptomyces
+     lividans and effect on clavulanic acid production."
+     J. Bacteriol. 174:4606-4613(1992).
+     PubMed=1339424
+[ 2] Gessert S.F., Kim J.H., Nargang F.E., Weiss R.L.
+     "A polyprotein precursor of two mitochondrial enzymes in Neurospora
+     crassa. Gene structure and precursor processing."
+     J. Biol. Chem. 269:8189-8203(1994).
+     PubMed=7907589
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

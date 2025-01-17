@@ -1,0 +1,67 @@
+**************************************
+* DNA photolyases class 1 signatures *
+**************************************
+
+Deoxyribodipyrimidine photolyase (EC 4.1.99.3) (DNA photolyase) [1,2] is a DNA
+repair enzyme. It   binds to UV-damaged DNA containing  pyrimidine dimers and,
+upon absorbing  a  near-UV photon (300 to 500 nm), breaks the cyclobutane ring
+joining the  two  pyrimidines   of the dimer. DNA photolyase is an enzyme that
+requires two  choromophore-cofactors  for  its  activity:  a reduced FADH2 and
+either 5,10-methenyltetrahydrofolate  (5,10-MTFH)  or an oxidized 8-hydroxy-5-
+deazaflavin (8-HDF)  derivative  (F420). The folate or deazaflavin chromophore
+appears to  function  as an antenna, while the FADH2 chromophore is thought to
+be responsible  for  electron  transfer. On the basis of sequence similarities
+[3] DNA photolyases  can be grouped into two classes. The first class contains
+enzymes from   Gram-negative   and   Gram-positive  bacteria,  the  halophilic
+archaebacteria Halobacterium halobium,  fungi and plants. Class 1 enzymes bind
+either 5,10-MTHF (E.coli, fungi, etc.) or 8-HDF (S.griseus, H.halobium).
+
+This family  also  includes  Arabidopsis  cryptochromes 1 (CRY1) and 2 (CRY2),
+which are  blue  light  photoreceptors that  mediate  blue  light-induced gene
+expression.
+
+There are  a  number  of  conserved  sequence regions in all known class 1 DNA
+photolyases, especially in  the  C-terminal  part.  We  selected  two of these
+regions as signature patterns.
+
+-Consensus pattern: T-G-x-P-[LIVM](2)-D-A-x-M-[RA]-x-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DN]-R-x-R-[LIVM]-[LIVMN]-x-[STA]-[STAQ]-F-[LIVMFA]-x-K-x-
+                    L-x(2,3)-W-[KRQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: See also the entry for class 2 DNA photolyases (see <PDOC00832>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Sancar G.B., Sancar A.
+     Trends Biochem. Sci. 12:259-261(1987).
+[ 2] Jorns M.S.
+     "DNA photorepair: chromophore composition and function in two classes
+     of DNA photolyases."
+     Biofactors 2:207-211(1990).
+     PubMed=2282137
+[ 3] Yasui A., Eker A.P.M., Yasuhira S., Yajima H., Kobayashi T., Takao M.,
+     Oikawa A.
+     "A new class of DNA photolyases present in various organisms including
+     aplacental mammals."
+     EMBO J. 13:6143-6151(1994).
+     PubMed=7813451
+[ 4] Lin C., Ahmad M., Cashmore A.R.
+     "Arabidopsis cryptochrome 1 is a soluble protein mediating blue
+     light-dependent regulation of plant growth and development."
+     Plant J. 10:893-902(1996).
+     PubMed=8953250
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

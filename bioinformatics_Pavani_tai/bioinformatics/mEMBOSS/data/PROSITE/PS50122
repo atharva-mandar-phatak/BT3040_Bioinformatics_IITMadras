@@ -1,0 +1,73 @@
+*******************************************
+* CheB-type methylesterase domain profile *
+*******************************************
+
+The response  regulator  CheB functions within the bacterial chemotaxis system
+together with  the  methyltransferase  CheR  (see  <PDOC50123>) to control the
+level of  chemoreceptor  methylation,  influencing the signaling activities of
+the receptors.  Like many members of the response regulator family, CheB has a
+multidomain architecture.   It  consists  of  an  N-terminal  phosphoaccepting
+regulatory domain   with   a   conserved   fold   containing   the   site   of
+phosphorylation, a single conserved aspartate residue (see <PDOC50110>), and a
+C-terminal effector domain joined by a linker region. The effector domain is a
+methylesterase (EC  3.1.1.61)  that catalyses the hydrolysis of gamma-carboxyl
+glutamyl methyl esters in the cytoplasmic domain of chemoreceptor proteins [1,
+2]. The  CheB  methylesterase domain belongs to the class of serine hydrolases
+that contain  active site catalytic triads consisting of serine, histidine and
+aspartate residues  [3].  Inhibition  of  methylesterase  activity  in  intact
+unphosphorylated CheB  is  due  to partial occlusion of the active site by the
+regulatory domain, thereby restricting access of the substrate chemoreceptors.
+The phosphorylation  of the regulatory domain results in reorganization of the
+domain interface,  allowing  exposure  of  the  active  site  to  the receptor
+substrate [4,5].
+
+The crystal  structure  of  the Salmonella typhimurium CheB methylesterase has
+been solved.  The  structure  of the CheB methylesterase domain is composed of
+six alpha-helices and nine beta-strands with an overall alpha/beta fold common
+for globular proteins that can be classified as a slight variation of a doubly
+wound alpha/beta  domain.  The  core  of  the  molecules  consists of a seven-
+stranded parallel beta-sheet and is flanked by three alpha-helices on one side
+and three  alpha-helices  plus  an  antiparallel  beta-hairpin  motif  on  the
+opposite side of the sheet [3,4].
+
+The profile we developed covers the entire CheB methylesterase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Simms S.A., Keane M.G., Stock J.
+     "Multiple forms of the CheB methylesterase in bacterial
+     chemosensing."
+     J. Biol. Chem. 260:10161-10168(1985).
+     PubMed=2991277
+[ 2] Lupas A., Stock J.
+     "Phosphorylation of an N-terminal regulatory domain activates the CheB
+     methylesterase in bacterial chemotaxis."
+     J. Biol. Chem. 264:17337-17342(1989).
+     PubMed=2677005
+[ 3] West A.H., Martinez-Hackert E., Stock A.M.
+     "Crystal structure of the catalytic domain of the chemotaxis receptor
+     methylesterase, CheB."
+     J. Mol. Biol. 250:276-290(1995).
+     PubMed=7608974
+[ 4] Djordjevic S., Goudreau P.N., Xu Q., Stock A.M., West A.H.
+     "Structural basis for methylesterase CheB regulation by a
+     phosphorylation-activated domain."
+     Proc. Natl. Acad. Sci. U.S.A. 95:1381-1386(1998).
+     PubMed=9465023
+[ 5] Anand G.S., Goudreau P.N., Stock A.M.
+     "Activation of methylesterase CheB: evidence of a dual role for the
+     regulatory domain."
+     Biochemistry 37:14038-14047(1998).
+     PubMed=9760239; DOI=10.1021/bi980865d
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

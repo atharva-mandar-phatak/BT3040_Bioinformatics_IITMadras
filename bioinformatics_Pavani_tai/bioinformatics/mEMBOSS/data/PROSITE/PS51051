@@ -1,0 +1,75 @@
+**********************
+* DSL domain profile *
+**********************
+
+The  about  50  amino  acids  DSL  (Delta  /  Serrate  /  Lag-2)  domain is an
+extracellular  domain  essential  to  activate  members  of  the  Lin-12/Notch
+receptors  family. The DSL domain may mediates oligomerization of DSL proteins
+to  form  an  active  ligand  and  mediates interaction with the extracellular
+domain  of  Lin-12/Notch proteins involved in cell-cell signaling interactions
+[1,2,3].  The  DSL  domain  is found followed by a variable number of tandemly
+repeated  copies  of EGF motifs (see <PDOC00021>). Like EGF motifs this domain
+contains   six   conserved  cysteines  spanning  different  sequence  lengths.
+Furthermore, the DSL domain contains a conserved YYG motif not present in  the
+EGF motifs.
+
+The DSL  domain  has  clear  structural  similarities to an EGF domain, with a
+double-stranded antiparallel     beta-sheet    immediately    preceding    the
+characteristic loop between the final disulfide-bonded cysteines residues (see
+<PDB:2VJ2>). However, the DSL domain adopts a fold with a different disulfide-
+bonded pattern  (C1-C2,  C3-C4,  C5-C6). On the basis of the structure, it has
+been proposed  that  the  DSL domain may have evolved from a truncation of two
+tandem short EGF domains [4].
+
+Proteins currently known to contain a DSL domain are:
+
+ - The  mammalian  Serrate  proteins,  which  are ligands  for Notch receptors
+   essential for the differenciation of certain tissues.
+ - The  human  JAG1  and  the Drosophila Delta  proteins. They are ligands for
+   multiple  Notch  receptors and  are  involved  in  the  mediation  of Notch
+   signaling [5].
+ - The  Caenorhabditis elegans lag-2/Apx1 proteins which are signaling ligands
+   for the glp-1 and lin-12 receptors [3].
+
+The profile we developed covers the entire DSL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2011 / Text revised.
+
+[ 1] Artavanis-Tsakonas S., Matsuno K., Fortini M.E.
+     Science 268:225-232(1995).
+[ 2] Fitzgerald K., Greenwald I.
+     "Interchangeability of Caenorhabditis elegans DSL proteins and
+     intrinsic signalling activity of their extracellular domains in
+     vivo."
+     Development 121:4275-4282(1995).
+     PubMed=8575327
+[ 3] Henderson S.T., Gao D., Lambie E.J., Kimble J.
+     "lag-2 may encode a signaling ligand for the GLP-1 and LIN-12
+     receptors of C. elegans."
+     Development 120:2913-2924(1994).
+     PubMed=7607081
+[ 4] Cordle J., Johnson S., Tay J.Z.Y., Roversi P., Wilkin M.B.,
+     Hernandez de Madrid B., Shimizu H., Jensen S., Whiteman P., Jin B.,
+     Redfield C., Baron M., Lea S.M., Handford P.A.
+     "A conserved face of the Jagged/Serrate DSL domain is involved in
+     Notch trans-activation and cis-inhibition."
+     Nat. Struct. Mol. Biol. 15:849-857(2008).
+     PubMed=18660822; DOI=10.1038/nsmb.1457
+[ 5] Yuan Z.R., Okaniwa M., Nagata I., Tazawa Y., Ito M., Kawarazaki H.,
+     Inomata Y., Okano S., Yoshida T., Kobayashi N., Kohsaka T.
+     "The DSL domain in mutant JAG1 ligand is essential for the severity of
+     the liver defect in Alagille syndrome."
+     Clin. Genet. 59:330-337(2001).
+     PubMed=11359464
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

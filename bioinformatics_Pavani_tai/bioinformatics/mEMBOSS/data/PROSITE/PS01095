@@ -1,0 +1,81 @@
+************************************
+* Chitinases family 18 active site *
+************************************
+
+Chitinases (EC 3.2.1.14) [1] are enzymes that  catalyze the  hydrolysis of the
+beta-1,4-N-acetyl-D-glucosamine  linkages in  chitin polymers.  From  the view
+point of sequence similarity  chitinases  belong to either  family 18 or 19 in
+the classification  of  glycosyl  hydrolases  [2,E1].  Chitinases of family 18
+(also known as classes III or V) groups a variety of proteins:
+
+ a) Chitinases from:
+
+ - Prokaryotes such as Alteromonas, Bacillus, Serratia, Streptomyces, etc.
+ - Plants such as Arabidopsis, cucumber, bean, tobacco, etc.
+ - Fungi such as Aphanocladium, Rhizopus, Saccharomyces, etc.
+ - Nematode (Brugia malayi).
+ - Insects (Manduca sexta).
+ - Baculoviruses (Autographa Californica Nuclear Polyhedrosis virus).
+
+ b) Other proteins:
+
+ - Hevamine, a rubber tree protein with chitinase and lysozyme activities.
+ - Kluyveromyces lactis killer toxin alpha subunit, which acts as a chitinase.
+ - Flavobacterium and Streptomyces endo-beta-N-acetylglucosaminidases (EC 3.2.
+   1.96).
+ - Mammalian  di-N-acetylchitobiase  which  is  involved in the degradation of
+   asparagine-linked glycoproteins.
+ - Human cartilage glycoprotein Gp-39.
+ - Jack  bean  concanavalin  B  (conB),  a protein that has lost its catalytic
+   activity.
+
+Site directed mutagenesis experiments [3] and crystallographic data [4,5] have
+shown that  a  conserved  glutamate is involved in the catalytic mechanism and
+probably acts as a proton donor. This  glutamate is  at  the  extremity of the
+best conserved region in these proteins.
+
+-Consensus pattern: [LIVMFY]-[DN]-G-[LIVMF]-[DN]-[LIVMF]-[DN]-x-E
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for conB which has a Gln instead of the active site Glu.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Neuhaus J.-M.; jean-marc.neuhaus@bota.unine.ch
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Flach J., Pilet P.-E., Jolles P.
+     "What's new in chitinase research?"
+     Experientia 48:701-716(1992).
+     PubMed=1516675
+[ 2] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 3] Manya H., Aoki J., Watanabe M., Adachi T., Asou H., Inoue Y., Arai H.,
+     Inoue K.
+     "Switching of platelet-activating factor acetylhydrolase catalytic
+     subunits in developing rat brain."
+     J. Biol. Chem. 273:18567-18572(1998).
+     PubMed=9660828
+[ 4] Perrakis A., Tews I., Dauter Z., Oppenheim A.B., Chet I., Wilson K.S.,
+     Vorgias C.E.
+     "Crystal structure of a bacterial chitinase at 2.3 A resolution."
+     Structure 2:1169-1180(1994).
+     PubMed=7704527
+[ 5] van Scheltinga A.C.T., Kalk K.H., Beintema J.J., Dijkstra B.W.
+     Structure 2:1181-1189(1994).
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

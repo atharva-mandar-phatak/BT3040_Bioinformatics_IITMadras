@@ -1,0 +1,119 @@
+*********************************************************************
+* Lipoxygenase iron-binding catalytic domain signatures and profile *
+*********************************************************************
+
+Lipoxygenases (EC 1.13.11.-) are a class of iron-containing dioxygenases which
+catalyzes   the   hydroperoxidation   of  lipids,  containing  a  cis,cis-1,4-
+pentadiene  structure. The primary products are hydroperoxy fatty acids, which
+usually  are  rapidly reduced to hydroxy derivatives. Lipoxygenases are common
+in  plants  where they may be involved in a number of diverse aspects of plant
+physiology  including  growth and development, pest resistance, and senescence
+or  responses  to  wounding [1]. In mammals a number of lipoxygenases isozymes
+are  involved  in  the  metabolism  of  prostaglandins  and  leukotrienes [2].
+Lipoxygenases are also common in primitive animals such as coral [3] and occur
+in  some  bacteria  [4,5]. The N-terminal part of the eukaryotic lipoxygenases
+contains   a   PLAT   domain   (see  <PDOC50095>)  that  may  be  involved  in
+membrane-binding  or  substrate  acquisition, while the iron-binding catalytic
+domain forms the C-terminal part.
+
+The  3D structure of the catalytic domain is mainly alpha-helical with an iron
+in  the active site (see <PDB:1F8N>). The center of the domain consists of two
+long  helices, which contain four of the iron-binding residues (at least three
+of  which  are  histidines).  A  fifth  residue  that coordinates the non-heme
+catalytic  iron is the carboxylate of the C-terminal isoleucine. The mammalian
+catalytic  domain  has a length of ~550-600 residues, which is shorter than in
+the  plant  lipoxygenases and forms a more compact structure as the additional
+100-150 amino acids in plant enzymes form extra loops [3,6,7].
+
+Some proteins known to contain a lipoxygenase iron-binding catalytic domain:
+
+ - Plant lipoxygenases (EC 1.13.11.12). Plants express a variety  of cytosolic
+   isozymes as well as what seems [8] to be a chloroplast isozyme.
+ - Mammalian arachidonate 5-lipoxygenase (EC 1.13.11.34).
+ - Mammalian arachidonate 12-lipoxygenase (EC 1.13.11.31).
+ - Mammalian erythroid cell-specific 15-lipoxygenase (EC 1.13.11.33).
+ - Coral  (Plexaura  homomalla)  allene oxide synthase-lipoxygenase protein, a
+   bifunctional   enzyme   including   both   a  peroxidase  and  arachidonate
+   8-lipoxygenase (EC 1.13.11.40).
+ - Pseudomonas   aeruginosa   oleic   acid   lipoxygenase   and   arachidonate
+   15-lipoxygenase (EC 1.13.11.33).
+
+Six  histidines are strongly conserved in lipoxygenase sequences, five of them
+are  found  clustered in a stretch of 40 amino acids. This region contains two
+of  the  three  iron-ligands;  the  other histidines have been shown [9] to be
+important  for the activity of lipoxygenases. As signatures for this family of
+enzymes  we have selected two patterns in the region of the histidine cluster.
+The first pattern contains the first three conserved histidines and the second
+pattern  includes  the  fourth and the fifth. We also developed a profile that
+covers the entire lipoxygenase iron-binding catalytic domain.
+
+-Consensus pattern: [HQ]-[EQ]-x(3)-H-x-[LMA]-[NEQHRCS]-[GSTA]-H-[LIVMSTAC](2)-
+                    x-E
+                    [The second and third H's bind iron]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMACST]-H-P-[LIVM]-x-[KRQV]-[LIVMF](2)-x-[AP]-H
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: July 2008 / Text revised; profile added.
+
+[ 1] Vick B.A., Zimmerman D.C.
+     (In) Biochemistry of plants: A comprehensive treatise, Stumpf P.K.,
+     Ed., Vol. 9, pp.53-90, Academic Press, New-York, (1987).
+[ 2] Needleman P., Turk J., Jakschik B.A., Morrison A.R., Lefkowith J.B.
+     "Arachidonic acid metabolism."
+     Annu. Rev. Biochem. 55:69-102(1986).
+     PubMed=3017195; DOI=10.1146/annurev.bi.55.070186.000441
+[ 3] Oldham M.L., Brash A.R., Newcomer M.E.
+     "Insights from the X-ray crystal structure of coral 8R-lipoxygenase:
+     calcium activation via a C2-like domain and a structural basis of
+     product chirality."
+     J. Biol. Chem. 280:39545-39552(2005).
+     PubMed=16162493; DOI=10.1074/jbc.M506675200
+[ 4] Busquets M., Deroncele V., Vidal-Mas J., Rodriguez E., Guerrero A.,
+     Manresa A.
+     "Isolation and characterization of a lipoxygenase from Pseudomonas
+     42A2 responsible for the biotransformation of oleic acid into ( S )-(
+     E )-10-hydroxy-8-octadecenoic acid."
+     Antonie Van Leeuwenhoek 85:129-139(2004).
+     PubMed=15028873; DOI=10.1023/B:ANTO.0000020152.15440.65
+[ 5] Zheng Y., Boeglin W.E., Schneider C., Brash A.R.
+     "A 49-kDa mini-lipoxygenase from Anabaena sp. PCC 7120 retains
+     catalytically complete functionality."
+     J. Biol. Chem. 283:5138-5147(2008).
+     PubMed=18070874; DOI=10.1074/jbc.M705780200
+[ 6] Boyington J.C., Gaffney B.J., Amzel L.M.
+     "The three-dimensional structure of an arachidonic acid
+     15-lipoxygenase."
+     Science 260:1482-1486(1993).
+     PubMed=8502991
+[ 7] Gillmor S.A., Villasenor A., Fletterick R., Sigal E., Browner M.F.
+     "The structure of mammalian 15-lipoxygenase reveals similarity to the
+     lipases and the determinants of substrate specificity."
+     Nat. Struct. Biol. 4:1003-1009(1997).
+     PubMed=9406550
+[ 8] Peng Y.L., Shirano Y., Ohta H., Hibino T., Tanaka K., Shibata D.
+     "A novel lipoxygenase from rice. Primary structure and specific
+     expression upon incompatible infection with rice blast fungus."
+     J. Biol. Chem. 269:3755-3761(1994).
+     PubMed=7508918
+[ 9] Steczko J., Donoho G.P., Clemens J.C., Dixon J.E., Axelrod B.
+     "Conserved histidine residues in soybean lipoxygenase: functional
+     consequences of their replacement."
+     Biochemistry 31:4053-4057(1992).
+     PubMed=1567851
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

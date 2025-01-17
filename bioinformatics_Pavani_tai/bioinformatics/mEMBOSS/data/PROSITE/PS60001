@@ -1,0 +1,77 @@
+*****************************************
+* Nitric oxide synthase (NOS) signature *
+*****************************************
+
+Nitric oxide  synthase (EC 1.14.13.39) (NOS) enzymes produce nitric oxide (NO)
+by  catalyzing a five-electron oxidation of a guanidino nitrogen of L-arginine
+(L-Arg).  Oxidation  of  L-Arg  to  L-citrulline  occurs  via  two  successive
+monooxygenation   reactions   producing   N(omega)-hydroxy-L-arginine   as  an
+intermediate.  2  mol of O(2) and 1.5 mol of NADPH are consumed per mole of NO
+formed [1,E1].
+
+Arginine-derived  NO  synthesis  has  been identified in mammals, fish, birds,
+invertebrates, plants, and bacteria [1]. Best studied are mammals, where three
+distinct  genes  encode  NOS  isozymes:  neuronal  (nNOS  or NOS-1), cytokine-
+inducible  (iNOS  or NOS-2) and endothelial (eNOS or NOS-3) [2]. iNOS and nNOS
+are  soluble  and  found  predominantly in the cytosol, while eNOS is membrane
+associated.  The  enzymes  exist as homodimers, each monomer consisting of two
+major  domains:  an N-terminal oxygenase domain, which belongs to the class of
+heme-thiolate proteins, and a C-terminal reductase domain, which is homologous
+to  NADPH:P450  reductase  (EC  1.6.2.4).  The  interdomain linker between the
+oxygenase  and reductase domains contains a calmodulin (CaM)-binding sequence.
+NOSs are   the  only  enzymes  known  to  simultaneously  require  five  bound
+cofactors/prosthetic groups: FAD, FMN, heme, tetrahydrobiopterin and Ca2+-CaM.
+The animal  NOS  isozymes are catalytically self-sufficient. The electron flow
+in the NO synthase reaction is: NADPH --> FAD --> FMN --> heme --> O(2).
+
+eNOS  localisation  to  endothelial  membranes  is mediated by cotranslational
+N-terminal myristoylation    (see    <PDOC00008>)    and    post-translational
+palmitoylation [3]. The subcellular localisation of nNOS in skeletal muscle is
+mediated by  anchoring  of  nNOS to dystrophin. nNOS contains an additional N-
+terminal domain, the PDZ domain (see <PDOC50106>) [4].
+
+Some  bacteria,  like  Bacillus  halodurans,  Bacillus subtilis or Deinococcus
+radiodurans, contain homologs of NOS oxygenase domain.
+
+The pattern is directed against the N-terminal heme binding site.
+
+-Consensus pattern: [GR]-C-[IV]-G-R-[ILS]-x-W
+                    [C is the heme iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Degtyarenko K.N.; kirill@ebi.ac.uk
+
+-Last update: December 2001 / First entry.
+
+[ 1] Liu Q., Gross S.S.
+     "Binding sites of nitric oxide synthases."
+     Methods Enzymol. 268:311-324(1996).
+     PubMed=8782597
+[ 2] Knowles R.G., Moncada S.
+     "Nitric oxide synthases in mammals."
+     Biochem. J. 298:249-258(1994).
+     PubMed=7510950
+[ 3] Liu J., Hughes T.E., Sessa W.C.
+     "The first 35 amino acids and fatty acylation sites determine the
+     molecular targeting of endothelial nitric oxide synthase into the
+     Golgi region of cells: a green fluorescent protein study."
+     J. Cell Biol. 137:1525-1535(1997).
+     PubMed=9199168
+[ 4] Ponting C.P., Phillips C.
+     "DHR domains in syntrophins, neuronal NO synthases and other
+     intracellular proteins."
+     Trends Biochem. Sci. 20:102-103(1995).
+     PubMed=7535955
+[E1] http://www.apnet.com/no/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

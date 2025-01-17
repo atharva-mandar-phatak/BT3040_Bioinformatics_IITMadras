@@ -1,0 +1,90 @@
+**********************
+* WH1 domain profile *
+**********************
+
+The  WH1  (WASP-Homology  1,  or Wiskott-Aldrich homology 1) or EVH1 (Ena/VASP
+homology  1,  or  Enabled/Vasodilator-stimulated  phosphoprotein  homology  1)
+domain is an ~110 amino acids protein-protein interaction module. WH1 proteins
+occur  in  eukaryotes  from  yeast to mammals and play a role in signaling and
+regulation  of  the  cytoskeleton.  The  WH1  domain is usually located in the
+N-terminal  part.  A  CRIB  domain  (see  <PDOC50108>)  or  a  WH2 domain (see
+<PDOC51082>)  can  occur  C-terminal  to the WH1 domain. Most WH1 domains bind
+proline-rich  sequences: the WASP and the Enabled/VASP families bind to LPPPEP
+and  to  FPPPP  peptides,  respectively,  while the Homer/Vesl family binds to
+PPXXF motifs, and less proline-rich peptides could be ligands as well [1-5].
+
+Tertiary  structures of the WH1 domains from different proteins show structure
+similarities  with  the  pleckstrin homology (PH) domain (see <PDOC50003>) and
+with  the  WH1-related  Ran  binding  domain (see <PDOC50196>). The WH1 domain
+comprises  two  beta-sheets  (B1-B7)  that  form  a beta-sandwich, capped by a
+C-terminal   alpha-helix  (see  <PDB:1XOD>).  The  principal  peptide  binding
+activity is formed by a groove between the strands B1, B2, B6 and B7. Proteins
+which  can  bind  to  WH1  domains  are e.g. Zyxin, Vinculin, WASP interacting
+protein (WIP), metabotropic glutamate receptors and the Listeria monocytogenes
+ActA protein [4,5].
+
+Some proteins known to contain a WH1 domain:
+
+ - Mammalian  vasodilator-stimulated  phosphoprotein  (VASP),  an  actin-  and
+   profilin-binding  microfilament-associated protein. May act in concert with
+   profilin to convey signal transduction to actin filament production.
+ - Mammalian  Wiskott-Aldrich syndrome protein (WASP), a possible regulator of
+   lymphocyte and platelet function. Defects in WASP are the cause of Wiskott-
+   Aldrich    syndrome   (WAS),   an   X-linked   recessive   immunodeficiency
+   characterized by eczema, thrombocytopenia, recurrent infections, and bloody
+   diarrhea.
+ - Mammalian  enable  protein  (Mena),  an  adapter  protein implicated in the
+   spatial control of actin assembly.
+ - Mammalian  homer/vesl  proteins, postsynaptic density scaffolding proteins.
+   Homer  protein  binds  to  metabotropic  glutamate  receptors  and inositol
+   trisphosphate  receptors,  involved  in  intracellular calcium signaling in
+   neurons.
+ - Metazoan  Sprouty-related,  EVH1  domain  containing  (Spred)1-3  proteins,
+   Ras-dependent   inhibitors   of   extracellular   signal-regulated   kinase
+   signaling, induced by various growth factors.
+ - Fruit  fly  still  life protein type 1 (SIF1) protein, which interacts with
+   Rho-like   GTPases   and   participates   in   the  organization  of  actin
+   cytoskeleton.
+
+The profile we developed covers the entire WH1 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2005 / First entry.
+
+[ 1] Prehoda K.E., Lee D.J., Lim W.A.
+     "Structure of the enabled/VASP homology 1 domain-peptide complex: a
+     key component in the spatial control of actin assembly."
+     Cell 97:471-480(1999).
+     PubMed=10338211
+[ 2] Zettl M., Way M.
+     "The WH1 and EVH1 domains of WASP and Ena/VASP family members bind
+     distinct sequence motifs."
+     Curr. Biol. 12:1617-1622(2002).
+     PubMed=12372256
+[ 3] Callebaut I.
+     "An EVH1/WH1 domain as a key actor in TGFbeta signalling."
+     FEBS Lett. 519:178-180(2002).
+     PubMed=12023040
+[ 4] Krause M., Dent E.W., Bear J.E., Loureiro J.J., Gertler F.B.
+     "Ena/VASP proteins: regulators of the actin cytoskeleton and cell
+     migration."
+     Annu. Rev. Cell Dev. Biol. 19:541-564(2003).
+     PubMed=14570581; DOI=10.1146/annurev.cellbio.19.050103.103356
+[ 5] Harmer N.J., Sivak J.M., Amaya E., Blundell T.L.
+     "1.15 A crystal structure of the X. tropicalis Spred1 EVH1 domain
+     suggests a fourth distinct peptide-binding mechanism within the EVH1
+     family."
+     FEBS Lett. 579:1161-1166(2005).
+     PubMed=15710406; DOI=10.1016/j.febslet.2004.11.114
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,22 @@
+MELIBIASE
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 27 encompasses alpha-galactosidases (melibiase) and
+alpha-N-acetylgalactosaminidases.
+
+Melibiase catalyses the hydrolysis of melibiose into galactose and glucose
+[5]. In man, deficiency in the enzyme results in Fabry's disease (X-linked
+sphingolipidosis).  
+
+MELIBIASE is an 8-element fingerprint that provides a signature for
+melibiases. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the
+central and C-terminal portions of the alignment. Two iterations on OWL29.3
+were required to reach convergence, at which point a true set comprising 8
+sequences was identified. A single partial match was also found, S79400, a
+related sequence that matches only motifs 1 and 4.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

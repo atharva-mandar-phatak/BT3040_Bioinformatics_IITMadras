@@ -1,0 +1,29 @@
+PHPHLIPASEC
+Phosphoinositide-specific phospholipase C (PLC) mediates the cellular
+actions of a variety of hormones, neurotransmitters and growth factors
+[1]. Agonist-dependent activation of PLC causes hydrolysis of membrane 
+phosphatidylinositol 4,5-bisphosphate (PIP2), generating the second
+messengers inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG).
+IP3 binds specific intracellular receptors to trigger Ca2+ mobilisation,
+while DAG mediates activation of a family of protein kinase C isozymes.
+
+Based on molecular size, immunoreactivity and amino acid sequence, several
+subtypes have been classified [1]. Overall, sequence identity between sub-
+types is low, yet all isoforms share 2 conserved domains, designated X and
+Y: region X spans around 170 residues, and region Y about 260. In PLC-beta
+subtypes, X and Y domains are separated by a stretch of 70-120 amino acids
+rich in Ser, Thr and acidic residues, while their C-terminal 450 residues
+are rich in basic residues. In PLC-gammas, there is an insert of more than
+400 residues containing an SH3 and 2 SH2 domains. PLCs show little
+similarity in the 300-residue N-terminal region preceding the X-domain.
+
+PHPHLIPASEC is a 6-element fingerprint that provides a signature for
+the phospholipase C family of proteins. The fingerprint was derived from
+an initial alignment of 12 sequences: motifs 1-3 were drawn from the
+X-domain and motifs 4-6 from the Y-domain. Three iterations on OWL26.0
+were required to reach convergence, at which point a true set comprising
+33 sequences was identified. A single partial match was also found, a
+phosphoinositide-specific phospholipase C lacking the first 2 motifs. 
+
+An update on SPTR37_9f identified a true set of 53 sequences, and 2
+partial matches.

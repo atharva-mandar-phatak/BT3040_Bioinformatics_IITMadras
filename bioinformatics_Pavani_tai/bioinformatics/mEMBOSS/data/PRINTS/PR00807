@@ -1,0 +1,31 @@
+AMBALLERGEN
+Two of the major allergens in the pollen of short ragweed (Ambrosia 
+artemisiifolia) are Amb aI and Amb aII. The primary structure of Amb aII
+has been deduced and has been shown to share ~65% sequence identity with
+the Amb alpha I multigene family of allergens [1]. Members of the Amb aI/aII
+family include tobacco pectate lyase, which is similar to the deduced amino
+acid sequences of two pollen-specific pectate lyase genes identified in
+tomato [2]; Cry jI, a major allergenic glycoprotein of Cryptomeria japonica 
+(Japanese cedar) - the most common pollen allergen in Japan [3]; and P56
+and P59, which share sequence similarity with pectate lyases of plant 
+pathogenic bacteria [4]. 
+
+Pectate lyase is responsible for the eliminative cleavage of pectate,
+yielding oligosaccharides with 4-deoxy-alpha-D-mann-4-enuronosyl groups
+at their non-reducing ends. The protein is maximally expressed late in
+pollen development. It has been suggested that the pollen expression of 
+pectate lyase genes might relate to a requirement for pectin degradation
+during pollen tube growth [4]. 
+
+AMBALLERGEN is an 8-element fingerprint that provides a signature for
+the pollen allergen AMB family. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length - motif 5 includes
+a putative active site arginine residue. Two iterations on OWL29.6 were
+required to reach convergence, at which point a true set comprising 22
+sequences was identified. Several partial matches were also found, all of
+which are fragments and related pectate lyase sequences that match motifs
+4 and 5 (many of these are from the Erwinia/bacterial pectate lyase family).
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 21
+partial matches.

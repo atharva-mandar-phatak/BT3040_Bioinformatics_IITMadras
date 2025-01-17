@@ -1,0 +1,75 @@
+************************************
+* MCM family signature and profile *
+************************************
+
+Proteins shown to be required for the initiation of eukaryotic DNA replication
+share a highly conserved domain of about 210 amino-acid residues [1,2,3].  The
+latter shows some similarities [4] with that of various other families of DNA-
+dependent ATPases.  Eukaryotes  seem  to possess a family of six proteins that
+contain this  domain.  They  were first identified in yeast where most of them
+have a  direct  role  in  the  initiation  of  chromosomal  DNA replication by
+interacting directly  with autonomously replicating sequences (ARS). They were
+thus called  'minichromosome  maintenance proteins' with gene symbols prefixed
+by MCM. These six proteins are:
+
+ - MCM2, also known as cdc19 (in S.pombe) [E1].
+ - MCM3, also known as DNA polymerase alpha holoenzyme-associated  protein P1,
+   RLF beta subunit or ROA.
+ - MCM4, also known as CDC54, cdc21 (in S.pombe) or dpa (in Drosophila).
+ - MCM5, also known as CDC46 or nda4 (in S.pombe).
+ - MCM6, also known as mis5 (in S.pombe).
+ - MCM7, also known as CDC47 or Prolifera (in A.thaliana).
+
+This family  is  also  present  in  archebacteria. In Methanococcus jannaschii
+there are four members: MJ0363, MJ0961, MJ1489 and MJECL13.
+
+The presence of a putative ATP-binding  domain implies that these proteins may
+be involved in an ATP-consuming step in  the  initiation of DNA replication in
+eukaryotes.
+
+As a  signature  pattern,  we  selected  a  perfectly  conserved  region  that
+represents a special version of the B motif found in ATP-binding proteins.
+
+-Consensus pattern: G-[IVT]-[LVAC](2)-[IVT]-D-[DE]-[FL]-[DNST]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Koonin E.V.; koonin@ncbi.nlm.nih.gov
+
+-Last update: November 1997 / Pattern and text revised; profile added.
+
+[ 1] Coxon A., Maundrell K., Kearsey S.E.
+     "Fission yeast cdc21+ belongs to a family of proteins involved in an
+     early step of chromosome replication."
+     Nucleic Acids Res. 20:5571-5577(1992).
+     PubMed=1454522
+[ 2] Hu B., Burkhart R., Schulte D., Musahl C., Knippers R.
+     "The P1 family: a new class of nuclear mammalian proteins related to
+     the yeast Mcm replication proteins."
+     Nucleic Acids Res. 21:5289-5293(1993).
+     PubMed=8265339
+[ 3] Tye B.-K.
+     "The MCM2-3-5 proteins: are they replication licensing factors?"
+     Trends Cell Biol. 4:160-166(1994).
+     PubMed=14731643
+[ 4] Koonin E.V.
+     "A common set of conserved motifs in a vast variety of putative
+     nucleic acid-dependent ATPases including MCM proteins involved in the
+     initiation of eukaryotic DNA replication."
+     Nucleic Acids Res. 21:2541-2547(1993).
+     PubMed=8332451
+[E1] http://flosun.salk.edu/users/forsburg/lab.html#cdc19
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

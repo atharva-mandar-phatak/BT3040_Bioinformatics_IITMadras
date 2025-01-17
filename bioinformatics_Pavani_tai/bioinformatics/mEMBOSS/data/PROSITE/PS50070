@@ -1,0 +1,85 @@
+****************************************
+* Kringle domain signature and profile *
+****************************************
+
+Kringles [1,2,3]  are triple-looped, disulfide cross-linked domains found in a
+varying number  of  copies,  in some serine proteases and plasma proteins. The
+kringle domain has been found in the following proteins:
+
+ - Apolipoprotein A (38 copies).
+ - Blood coagulation factor XII (Hageman factor) (1 copy).
+ - Hepatocyte growth factor (HGF) (4 copies).
+ - Hepatocyte growth factor like protein (4 copies) [4].
+ - Hepatocyte growth factor activator [1] (once) [5].
+ - Plasminogen (5 copies).
+ - Thrombin (2 copies).
+ - Tissue plasminogen activator (TPA) (2 copies).
+ - Urokinase-type plasminogen activator (1 copy).
+
+The schematic  representation  of the structure of a typical kringle domain is
+shown below:
+
+          +---------------------------------------+
+          |                                       |
+         xCxxxxxxxxxxxCxxxxxxxxxxCxxxxxCxxxxxxCxxxCx
+                      |          |     |      |
+                      +----------|-----+      |
+                                 +------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+Kringle domains  are thought to  play a  role  in  binding  mediators, such as
+membranes, other   proteins   or  phospholipids,  and  in  the  regulation  of
+proteolytic activity.   As a  signature pattern  for this type  of domain,  we
+selected a  conserved  sequence that contains two of the cysteines invovled in
+disulfide bonds.
+
+-Consensus pattern: [FY]-C-[RH]-[NS]-x(7,8)-[WY]-C
+                    [The 2 C's are involved in a disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ikeo K.; kikeo@genes.nig.ac.jp
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Castellino F.J., Beals J.M.
+     "The genetic relationships between the kringle domains of human
+     plasminogen, prothrombin, tissue plasminogen activator, urokinase, and
+     coagulation factor XII."
+     J. Mol. Evol. 26:358-369(1987).
+     PubMed=3131537
+[ 2] Patthy L.
+     "Evolution of the proteases of blood coagulation and fibrinolysis by
+     assembly from modules."
+     Cell 41:657-663(1985).
+     PubMed=3891096
+[ 3] Ikeo K., Takahashi K., Gojobori T.
+     "Evolutionary origin of numerous kringles in human and simian
+     apolipoprotein(a)."
+     FEBS Lett. 287:146-148(1991).
+     PubMed=1879523
+[ 4] Friezner Degen S.J., Stuart L.A., Han S., Jamison C.S.
+     Biochemistry 30:9781-9791(1991).
+[ 5] Miyazawa K., Shimomura T., Kitamura A., Kondo J., Morimoto Y.,
+     Kitamura N.
+     "Molecular cloning and sequence analysis of the cDNA for a human
+     serine protease reponsible for activation of hepatocyte growth factor.
+     Structural similarity of the protease precursor to blood coagulation
+     factor XII."
+     J. Biol. Chem. 268:10024-10028(1993).
+     PubMed=7683665
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

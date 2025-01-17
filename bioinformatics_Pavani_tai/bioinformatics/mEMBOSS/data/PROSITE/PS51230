@@ -1,0 +1,74 @@
+**********************************************
+* EB1-like C-terminal (EB1-C) domain profile *
+**********************************************
+
+A group  of  microtubule-associated  proteins  called +TIPs (plus end tracking
+proteins), including  EB1  (end-binding  protein  1)  family  proteins,  label
+growing microtubules ends specifically in diverse organisms and are implicated
+in spindle dynamics, chromosome segregation, and directing microtubules toward
+cortical sites.  EB1  members  have a bipartite composition: the N-terminal CH
+domain (see  <PDOC50021>)  mediates microtubule plus end localization and a C-
+terminal cargo   binding   domain   (EB1-C)   that   captures   cell  polarity
+determinants. The EB1-C domain comprises a unique EB1-like sequence motif that
+acts as  a binding site for other +TIP proteins. It interacts with the carboxy
+terminus of  the  adenomatous  polyposis  coli  (APC) tumor suppressor, a well
+conserved +TIP   phosphoprotein   with   a  pivotal  function  in  cell  cycle
+regulation. Another  binding partner of the EB1-C domain is the well conserved
++TIP  protein dynactin,  a  component of the large cytoplasmic dynein/dynactin
+complex [1-3].
+
+The ~80-residue  EB1-C  domain  starts  with  a  long  smoothly  curved  helix
+(alpha1), which  is followed by a hairpin connection leading to a short second
+helix (alpha2)  running  antiparallel  to  alpha1  (see  <PDB:1WU9>).  The two
+parallel alpha1  helices of the EB1-C domain dimer wrap around each other in a
+slightly left-handed  supercoil.  The  two  alpha2 helices run antiparallel to
+helices alpha1 and form a similar fork in the opposite orientation and rotated
+by 90°.  As a result, two helical segments from each monomer form a four-helix
+bundle. The  side chain forming the hydrophobic core of this bundle are highly
+conserved [2-4].
+
+Some protein known to contain a EB1-C domain are listed below:
+
+ - Yeast protein BIM1.
+ - Fission yeast microtubule integrity protein mal3.
+ - Vertebrate microtubule-associated protein RP/EB family member 1 (EB1).
+ - Vertebrate  microtubule-associated  protein  RP/EB  family member 2 (EB2 or
+   RP1).
+ - Vertebrate microtubule-associated protein RP/EB family member 3 (EBF3).
+
+The profile we developed covers the entire EB1-C domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2006 / First entry.
+
+[ 1] Mathur J., Mathur N., Kernebeck B., Srinivas B.P., Huelskamp M.
+     "A novel localization pattern for an EB1-like protein links
+     microtubule dynamics to endomembrane organization."
+     Curr. Biol. 13:1991-1997(2003).
+     PubMed=14614826
+[ 2] Slep K.C., Rogers S.L., Elliott S.L., Ohkura H., Kolodziej P.A.,
+     Vale R.D.
+     "Structural determinants for EB1-mediated recruitment of APC and
+     spectraplakins to the microtubule plus end."
+     J. Cell Biol. 168:587-598(2005).
+     PubMed=15699215; DOI=10.1083/jcb.200410114
+[ 3] Honnappa S., John C.M., Kostrewa D., Winkler F.K., Steinmetz M.O.
+     "Structural insights into the EB1-APC interaction."
+     EMBO J. 24:261-269(2005).
+     PubMed=15616574; DOI=10.1038/sj.emboj.7600529
+[ 4] Hayashi I., Wilde A., Mal T.K., Ikura M.
+     "Structural basis for the activation of microtubule assembly by the
+     EB1 and p150Glued complex."
+     Mol. Cell 19:449-460(2005).
+     PubMed=16109370; DOI=10.1016/j.molcel.2005.06.034
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,48 @@
+DOPAMINED4R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+Dopamine neurons in the vertebrate central nervous system are involved in
+the initiation and execution of movement, the maintenance of emotional
+stability, and the regulation of pituitary function [6]. Various human
+neurological diseases (e.g., Parkinson disease and schizophrenia), are
+believed to be manifestations of dopamine and dopamine receptor imbalance.
+The receptors have been divided into several different subtypes (designated
+D1-D5), which may be distinguished by their G protein coupling, ligand
+specificity, anatomical distribution and physiological effects.
+
+D4 receptors have a similar pharmacological profile to D2 receptors. They
+are expressed in the brain, predominantly in the medulla, amgdala, midbrain
+and frontal cortex; lower levels are found in the striatum and olfactory
+tubercle [7]. D4 receptor mRNA has also been detected in peripheral tissues,
+and the protein appears to be expressed preferentially in the cardiovascular
+system in the rat [7]. They inhibit adenylyl cyclase through a pertussis-
+toxin-sensitive G protein, probably belonging to the Gi/Go class [7]. 
+
+DOPAMINED4R is a 3-element fingerprint that provides a signature for the
+dopamine D4 receptors. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved sections,
+focusing on those areas of the alignment that characterise the D4 receptors
+but distinguish them from the rest of the rhodopsin-like superfamily - 
+motif 1 lies in the first extracellular loop; motif 2 resides in the second
+extracellular loop; and motif 3 lies in the third cytoplasmic loop. Two
+iterations on SPTR57_40f were required to reach convergence, at which point 
+a true set comprising 13 sequences was identified. Two partial matches were
+also found, O42321_CYPCA and Q5DJ15_DANRE, which are translated carp and
+zebrafish mRNAs that fail to make signficant matches with motif 1 and with
+motif 3, respectively.

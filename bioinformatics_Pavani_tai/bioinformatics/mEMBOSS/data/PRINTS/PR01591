@@ -1,0 +1,39 @@
+DNABINDNGFIS
+Transcriptional regulators of prokaryotes play an important role in the 
+production of several proteins, and in the growth of the cell [1]. By 
+regulating gene expression, activation or repression of transcription of a 
+variety of genes can be achieved [1]. 
+
+The Factor for Inversion Stimulation (FIS) protein is a regulator of
+bacterial functions, and binds specifically to weakly related DNA sequences 
+[1,2]. It activates ribosomal RNA transcription, and is involved in upstream
+activation of rRNA promoters. Found in gamma proteobacterial microbes, the
+protein has been shown to play a part in the regulation of virulence factors
+in both Salmonella typhimurium and Esherichia coli [2,3]. Some of its
+functions include inhibition of the initiation of DNA replication from the
+OriC site, and promotion of Hin-mediated DNA inversion [3].
+
+In its C-terminal extremity, FIS encodes a helix-turn-helix (HTH) DNA-
+binding motif, which shares a high degree of similarity with other HTH
+motifs of more primitive bacterial transcriptional regulators, such as the
+nitrogen assimilation regulatory proteins (NtrC) from species like Azobacter,
+Rhodobacter and Rhizobium. This has led to speculation that both evolved
+from a single common ancestor [4]. 
+
+Recently, the crystal structure of wild-type Escherichia coli FIS was 
+resolved, together with six mutants [5] - the first crystal structure was
+solved in 1991 [6]. From the most recent 2.0A structure [6] of wild-type
+FIS, the protein was observed to exist as a homodimer in the bacterial
+cytoplasm. By comparison with the structures of FIS mutants, it was deduced
+that arginine-71 is critical for the binding of FIS to RNA polymerase, while
+glycine-72 stabilises the tertiary structure [6].
+
+DNABINDNGFIS is a 4-element fingerprint that provides a signature for the 
+DNA-binding protein FIS. The fingerprint was derived from an initial 
+alignment of 7 sequences: the motifs were drawn from conserved regions 
+spanning the N-terminal portion of the alignment, prior to the HTH motif -
+motif 2 encodes alpha helix 1; and motifs 3 and 4 span helix 2. A single
+iteration on SPTR39.22_17.3f was required to reach convergence, no further
+sequences being identified beyond the starting set. Two partial matches were
+found, both of which are DNA-binding proteins that fail to make significant
+matches with one or more motifs.

@@ -1,0 +1,64 @@
+**************************************
+* Response regulatory domain profile *
+**************************************
+
+Most prokaryotic signal-transduction systems and a few eukaryotic pathways use
+phosphotransfer schemes   involving  two  conserved  components,  a  histidine
+protein kinase  (HK)  (see <PDOC50109>) and a response regulator protein (RR).
+The HK,  which  is regulated by environmental stimuli, autophosphorylates at a
+histidine residue,   creating   a   high-energy   phosphoryl   group  that  is
+subsequently transferred  to  an aspartate residue in the RR. Most RRs consist
+of two  domains:  a  conserved  N-terminal regulatory domain and a variable C-
+terminal effector  domain.  Phosphorylation of the regulatory domain induces a
+conformational change  that results in activation of an associated domain that
+effects the  response.  The  regulatory  domains of RRs have three activities.
+First they  interact  with  phosphorylated  HKs  and  catalyze  transfer  of a
+phosphoryl group  to  one  of  their  own  Asp residues. Second, they catalyze
+autodephosphorylation. And  finally  they  regulate  the  activities  of their
+associated effector   domains   in  a  phosphorylation-dependent  manner.  The
+regulatory domains,  often  called  receiver domains, can also be found within
+hybrid histidine kinases or as isolated proteins within phosphorelay pathways.
+In these  contexts,  the  receiver  domains  are  not  physically connected to
+effector domains  and  play  no  direct  role  in  regulating  effector domain
+function.
+
+The RR  domain  has a doubly wound five-stranded alpha/beta fold consisting of
+about 125  residues  (see  <PDB:2CHY>).  This  fold  consists  a central five-
+stranded parallel  beta  sheet flanked on both faces by five amphipathic alpha
+helices. Residues that are highly conserved in all RR domains are clustered in
+two regions:  an  active-site  cleft  formed  by loops that extend from the C-
+terminal ends  of  beta strands 1, 3 and 5, and a pair of residues that form a
+diagonal path  extending  across the molecule from the active site. The active
+site is  a conserved acidic pocket and contains the phosphorylatable aspartate
+residue [1,2,3].
+
+The profile we developed covers the entire RR domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / First entry.
+
+[ 1] Stock A.M., Robinson V.L., Goudreau P.N.
+     "Two-component signal transduction."
+     Annu. Rev. Biochem. 69:183-215(2000).
+     PubMed=10966457; DOI=10.1146/annurev.biochem.69.1.183
+[ 2] West A.H., Stock A.M.
+     "Histidine kinases and response regulator proteins in two-component
+     signaling systems."
+     Trends Biochem. Sci. 26:369-376(2001).
+     PubMed=11406410
+[ 3] Foussard M., Cabantous S., Pedelacq J.-D., Guillet V., Tranier S.,
+     Mourey L., Birck C., Samama J.-P.
+     "The molecular puzzle of two-component signaling cascades."
+     Microbes Infect. 3:417-424(2001).
+     PubMed=11369279
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

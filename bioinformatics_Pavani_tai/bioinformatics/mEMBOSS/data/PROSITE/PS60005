@@ -1,0 +1,147 @@
+*********************************
+* Conotoxin families signatures *
+*********************************
+
+Cone snail toxins, conotoxins, are small peptides with disulfide connectivity,
+that target  ion-channels  or G-protein coupled receptors. Based on the number
+and pattern  of  disulfide  bonds and biological activities, conotoxins can be
+classified into  several  families  [1].  Omega,  delta  and kappa families of
+conotoxins have  a  knottin  or  inhibitor  cystine knot scaffold. The knottin
+scaffold is a very special disulfide through disulfide knot, in which the III-
+VI disulfide  bond  crosses the macrocycle formed by two other disulfide bonds
+(I-IV and   II-V)  and  the  interconnecting  backbone  segments,  where  I-VI
+indicates the six cysteine residues starting from the N-terminus [2,E1].
+
+Conotoxins represent   a   unique  arsenal  of  neuropharmacologically  active
+peptides that  have  been  evolutionarily tailored to afford unprecedented and
+exquisite selectivity  for  a wide variety of ion-channel subtypes. The toxins
+derived from cone snails are currently being investigated for the treatment of
+chronic pain,  epilepsy,  cardiovascular  diseases,  psychiatric  and movement
+disorders, spasticity,  cancer, stroke as well as an anesthetic agent. Several
+potential analgesic  and  anti-inflammatory  peptides  from conotoxin families
+have been identified and patented [3,4]:
+
+ - Conus magus omega-conotoxin MVIIa (Ziconotide) is used for the treatment of
+   chronic pain.
+ - Conus  catus  omega-conotoxin  CVID is tested for treating severe morphine-
+   resistant pain stress.
+ - Conus  geographus  omega-conotoxin  GVIA  may  exert  antagonistic  effects
+   against beta-endorphin induced anti-nociception.
+
+The disulfide  bonding  network  as  well  as  specific  amino acids in inter-
+cysteine loops provide specificity of conotoxins [5]. The cysteine arrangement
+[C-C-CC-C-C] is  the same for omega and delta families, which belong to the O-
+superfamily. The  omega conotoxins are calcium channel blockers, whereas delta
+conotoxins delay the inactivation of sodium channels [1]. The M-superfamily Mu
+conotoxins have   two   types   of   cysteine   arrangement   [CC-C-C-CC]  and
+[CC-C-C-C-C], but  knottin  scaffold is not observed. Mu conotoxins target the
+voltage-gated sodium  channels  [1]  and  are  useful probes for investigating
+voltage-dependent sodium  channels  of excitable tissues [6]. Alpha conotoxins
+belong to  the  A-superfamily  and  have  two  types  of  cysteine arrangement
+[CC-C-C] and  [CCC-C-C-C]  [7].  Alpha  conotoxins  are  competitive nicotinic
+acetylcholine receptor   antagonists.   The  I-superfamily  of  conotoxins  is
+characterized by a pattern of eight cysteine residues that form four disulfide
+bridges. The  arrangement  of  cysteine residues is similar to the Janus-faced
+atracotoxin peptides characterized from spider venoms (see <PDOC60020>) [8,9].
+
+Three signature  patterns  were  developed  for  omega, delta and mu conotoxin
+families. The  patterns  each  include  six  conserved cysteines thought to be
+important for  the maintenance of the tertiary structure of the conotoxins. We
+have defined  a  pattern  for  the  common  part  of  the cysteine arrangement
+[CC-C-C] in  all  members of alpha conotoxin family. The pattern includes four
+conserved cysteines  thought  to  be  important  for  the  maintenance  of the
+tertiary structure  of  alpha  conotoxins.  The  pattern for the I-superfamily
+conotoxin covers the eight conserved cysteines.
+
+-Consensus pattern: C-[SREYKLIMQVN]-x(2)-[DGWET]-x-[FYSPKV]-C-[GNDSRHTP]-
+                    x(1,5)-[NPGSMTAHF]-[GWPNIYRSKLQ]-x-C-C-[STRHGD]-x(0,2)-
+                    [NFLWSRYIT]-C-x(0,3)-[VFGAITSNRKL]- [FLIKRNGH]-[VWIARKF]-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-x(2)-[EPSAGT]-x(3)-C-[GSNDL]-x(0,3)-[PILV]-x-[FPNDSG]-
+                    [GQ]-x-C-C-x(3,4)-C-[FLVIA]-x(1,2)-[FVIWA]-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-C-[TGN]-[PFG]-[PRG]-x(0,2)-C-[KRS]-[DS]-[RK]-[RQW]-C-
+                    [KR]-[PD]-[MLQH]-x(0,1)-[KR]-C-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-C-[SHYN]-x(0,1)-[PRG]-[RPATV]-C-[ARMFTNHG]-x(0,4)-
+                    [QWHDGENFYVP]-[RIVYLGSDW]-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: C-{C}(6)-C-{C}(5)-C-C-x(1,3)-C-C-x(2,4)-C-x(3,10)-C
+                    [The 8 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: October 2006 / Pattern for the I-superfamily revised.
+
+[ 1] McIntosh J.M., Jones R.M.
+     "Cone venom--from accidental stings to deliberate injection."
+     Toxicon 39:1447-1451(2001).
+     PubMed=11478951
+[ 2] Gelly J.-C., Gracy J., Kaas Q., Le-Nguyen D., Heitz A., Chiche L.
+     "The KNOTTIN website and database: a new information system dedicated
+     to the knottin scaffold."
+     Nucleic Acids Res. 32:D156-D159(2004).
+     PubMed=14681383; DOI=10.1093/nar/gkh015
+[ 3] Jones R.M., Bulaj G.
+     "Conotoxins - new vistas for peptide therapeutics."
+     Curr. Pharm. Des. 6:1249-1285(2000).
+     PubMed=10903392
+[ 4] Rajendra W., Armugam A., Jeyaseelan K.
+     "Toxins in anti-nociception and anti-inflammation."
+     Toxicon 44:1-17(2004).
+     PubMed=15225557; DOI=10.1016/j.toxicon.2004.04.014
+[ 5] Balaji R.A., Ohtake A., Sato K., Gopalakrishnakone P., Kini R.M.,
+     Seow K.T., Bay B.-H.
+     "Lambda-conotoxins, a new family of conotoxins with unique disulfide
+     pattern and protein folding. Isolation and characterization from the
+     venom of Conus marmoreus."
+     J. Biol. Chem. 275:39516-39522(2000).
+     PubMed=10988292; DOI=10.1074/jbc.M006354200
+[ 6] Cruz L.J., Gray W.R., Olivera B.M., Zeikus R.D., Kerr L.,
+     Yoshikami D., Moczydlowski E.
+     "Conus geographus toxins that discriminate between neuronal and muscle
+     sodium channels."
+     J. Biol. Chem. 260:9280-9288(1985).
+     PubMed=2410412
+[ 7] Ramilo C.A., Zafaralla G.C., Nadasdi L., Hammerland L.G.,
+     Yoshikami D., Gray W.R., Kristipati R., Ramachandran J., Miljanich G.,
+     Olivera B.M.
+     "Novel alpha- and omega-conotoxins from Conus striatus venom."
+     Biochemistry 31:9919-9926(1992).
+     PubMed=1390774
+[ 8] Jimenez E.C., Shetty R.P., Lirazan M., Rivier J., Walker C.,
+     Abogadie F.C., Yoshikami D., Cruz L.J., Olivera B.M.
+     "Novel excitatory Conus peptides define a new conotoxin superfamily."
+     J. Neurochem. 85:610-621(2003).
+     PubMed=12694387
+[ 9] Kauferstein S., Huys I., Kuch U., Melaun C., Tytgat J., Mebs D.
+     "Novel conopeptides of the I-superfamily occur in several clades of
+     cone snails."
+     Toxicon 44:539-548(2004).
+     PubMed=15450929; DOI=10.1016/j.toxicon.2004.07.006
+[E1] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

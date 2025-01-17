@@ -1,0 +1,83 @@
+*****************************************************
+* CBM6 (carbohydrate binding type-6) domain profile *
+*****************************************************
+
+Carbohydrate-binding  modules  (CBM)  have  been  classified into more than 40
+families  according  to  sequence  homology [E1]. Several cellulolytic enzymes
+share  a  conserved  region  of about 120 amino acid residues, the CBM6 domain
+[1].  The CBM6 domain is distinct from others CBMs in that this protein module
+contains  multiple  distinct  ligand  binding  sites.  CBM6  domains  bind  to
+amorphous  cellulose,  xylan,  mixed beta-(1,3)(1,4)glucan and beta-1,3-glucan
+[1,2,3].
+
+The  CBM6  domain  is  mainly  found C-terminal to the catalytic domain, which
+corresponds to a wide range of bacterial glycosyl hydrolases such as family 16
+(see <PDOC00794>), or family 10 (see <PDOC00510>).
+
+The  crystal structure of CBM6 domain has been solved (see <PDB:1GMM>) [4]. It
+adopts a classic lectin-like beta-jelly roll fold, predominantly consisting of
+five  antiparallel beta-strands on one face and four antiparallel beta-strands
+on  the  other  face.  It  contains  two potential ligand binding sites, named
+respectively  cleft  A and B. These clefts include aromatic residues which are
+probably  involved  in  the  substrate  binding. The cleft B is located on the
+concave  surface of one beta-sheet, and the cleft A on one edge of the protein
+between  the  loop  that connects the inner and outer beta-sheets of the jelly
+roll  fold  [4].  The  multiple  binding  clefts confer the extensive range of
+specificities displayed by the domain [1,2,3].
+
+Some proteins known to contain a CBM6 domain are listed below:
+
+ - The  bacterial  Endo-1,4-beta-xylanase A, B, C, E, J, U, V, Y and Z  (xynA,
+   xynB, xynC, xynE, xynJ, xynU, xynV, xynY, and xynZ). They are  involved  in
+   the  endohydrolysis  of 1,4-beta-D-xylosidic linkages in xylans (EC 3.2.1.8
+   and EC 3.2.1.55).
+ - The  Piromyces sp. Mannan endo-1,4-beta-mannosidase A (manA) (EC 3.2.1.78).
+
+The profile we developed covers the whole CBM6 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  CBM6  domain  is also known as  cellulose-binding domain family VI
+ (CBD VI).
+
+-Last update: December 2005 / First entry.
+
+[ 1] van Bueren A.L., Morland C., Gilbert H.J., Boraston A.B.
+     "Family 6 carbohydrate binding modules recognize the non-reducing end
+     of beta-1,3-linked glucans by presenting a unique ligand binding
+     surface."
+     J. Biol. Chem. 280:530-537(2005).
+     PubMed=15501830; DOI=10.1074/jbc.M410113200
+[ 2] Henshaw J.L., Bolam D.N., Pires V.M.R., Czjzek M., Henrissat B.,
+     Ferreira L.M.A., Fontes C.M.G.A., Gilbert H.J.
+     "The family 6 carbohydrate binding module CmCBM6-2 contains two
+     ligand-binding sites with distinct specificities."
+     J. Biol. Chem. 279:21552-21559(2004).
+     PubMed=15004011; DOI=10.1074/jbc.M401620200
+[ 3] Pires V.M.R., Henshaw J.L., Prates J.A.M., Bolam D.N., Ferreira L.M.A.,
+     Fontes C.M.G.A., Henrissat B., Planas A., Gilbert H.J., Czjzek M.
+     "The crystal structure of the family 6 carbohydrate binding module
+     from Cellvibrio mixtus endoglucanase 5a in complex with
+     oligosaccharides reveals two distinct binding sites with different
+     ligand specificities."
+     J. Biol. Chem. 279:21560-21568(2004).
+     PubMed=15010454; DOI=10.1074/jbc.M401599200
+[ 4] Czjzek M., Bolam D.N., Mosbah A., Allouch J., Fontes C.M.G.A.,
+     Ferreira L.M.A., Bornet O., Zamboni V., Darbon H., Smith N.L.,
+     Black G.W., Henrissat B., Gilbert H.J.
+     "The location of the ligand-binding site of carbohydrate-binding
+     modules that have evolved from a common sequence is not conserved."
+     J. Biol. Chem. 276:48580-48587(2001).
+     PubMed=11673472; DOI=10.1074/jbc.M109142200
+[E1] http://www.cazy.org/fam/CBM6.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

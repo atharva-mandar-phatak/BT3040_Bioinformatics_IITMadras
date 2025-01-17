@@ -1,0 +1,87 @@
+************************
+* Thiolases signatures *
+************************
+
+Two different  types  of thiolase [1,2,3] are found  both in eukaryotes and in
+prokaryotes: acetoacetyl-CoA thiolase (EC 2.3.1.9) and 3-ketoacyl-CoA thiolase
+(EC 2.3.1.16).  3-ketoacyl-CoA thiolase (also called thiolase I)  has  a broad
+chain-length specificity  for  its substrates and is involved   in degradative
+pathways  such as  fatty acid  beta-oxidation.  Acetoacetyl-CoA thiolase (also
+called thiolase  II)  is  specific  for  the  thiolysis of acetoacetyl-CoA and
+involved in biosynthetic pathways such  as poly beta-hydroxybutyrate synthesis
+or steroid biogenesis.
+
+In eukaryotes, there are two forms of 3-ketoacyl-CoA thiolase: one  located in
+the mitochondrion and the other in peroxisomes.
+
+There are two conserved cysteine residues important for thiolase activity. The
+first located  in  the  N-terminal  section  of the enzymes is involved in the
+formation of an acyl-enzyme intermediate; the second located at the C-terminal
+extremity is   the   active   site  base  involved  in  deprotonation  in  the
+condensation reaction.
+
+Mammalian nonspecific  lipid-transfer  protein (nsL-TP)  (also known as sterol
+carrier protein 2) is a protein which seems  to exist  in two different forms:
+a 14  Kd  protein  (SCP-2)  and  a larger 58 Kd protein (SCP-x). The former is
+found in the cytoplasm or the mitochondria and is involved in lipid transport;
+the latter is found in peroxisomes.  The C-terminal part of SCP-x is identical
+to SCP-2  while  the  N-terminal  portion is evolutionary related to thiolases
+[4].
+
+We developed  three  signature  patterns  for  this family of proteins, two of
+which are  based  on  the regions around the biologically important cysteines.
+The third  is  based  on  a  highly conserved region in the C-terminal part of
+these proteins.
+
+-Consensus pattern: [LIVM]-[NST]-{T}-x-C-[SAGLI]-[ST]-[SAG]-[LIVMFYNS]-x-
+                    [STAG]-[LIVM]-x(6)-[LIVM]
+                    [C is involved in formation of acyl-enzyme intermediate]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Consensus pattern: N-x(2)-G(2)-x-[LIVM]-[SA]-x-G-H-P-x-[GAS]-x-[ST]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [AG]-[LIVMA]-[STAGCLIVM]-[STAG]-[LIVMA]-C-{Q}-[AG]-x-[AG]-
+                    x-[AG]-x-[SAG]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for nsL-TP.
+-Other sequence(s) detected in Swiss-Prot: 8.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Peoples O.P., Sinskey A.J.
+     "Poly-beta-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16.
+     Characterization of the genes encoding beta-ketothiolase and
+     acetoacetyl-CoA reductase."
+     J. Biol. Chem. 264:15293-15297(1989).
+     PubMed=2670935
+[ 2] Yang S.-Y., Yang X.-Y.H., Healy-Louie G., Schulz H., Elzinga M.
+     "Nucleotide sequence of the fadA gene. Primary structure of
+     3-ketoacyl-coenzyme A thiolase from Escherichia coli and the
+     structural organization of the fadAB operon."
+     J. Biol. Chem. 265:10424-10429(1990).
+     PubMed=2191949
+[ 3] Igual J.C., Gonzalez-Bosch C., Dopazo J., Perez-Ortin J.E.
+     "Phylogenetic analysis of the thiolase family. Implications for the
+     evolutionary origin of peroxisomes."
+     J. Mol. Evol. 35:147-155(1992).
+     PubMed=1354266
+[ 4] Baker M.E., Billheimer J.T., Strauss J.F. III
+     "Similarity between the amino-terminal portion of mammalian 58-kD
+     sterol carrier protein (SCPx) and Escherichia coli acetyl-CoA
+     acyltransferase: evidence for a gene fusion in SCPx."
+     DNA Cell Biol. 10:695-698(1991).
+     PubMed=1755959
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

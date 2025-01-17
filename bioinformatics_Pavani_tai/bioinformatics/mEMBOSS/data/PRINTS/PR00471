@@ -1,0 +1,22 @@
+ACETATEKNASE
+Acetate kinase, which is predominantly found in micro-organisms, facilitates
+the production of acetyl-CoA by phosphorylating acetate in the presence of
+ATP and a divalent cation [1,2]. The enzyme is important in the process of
+glycolysis, enzyme levels being increased in the presence of excess glucose
+[1]. The growth of a bacterial mutant lacking acetate kinase has been shown
+to be inhibited by glucose, suggesting that the enzyme is involved in
+excretion of excess carbohydrate [1]. A related enzyme, butyrate kinase,
+facilitates the formation of butyryl-CoA by phosphorylating butyrate in the
+presence of ATP to form butyryl phosphate [2].
+
+ACETATEKNASE is a 6-element fingerprint that provides a signature for the
+acetate kinase family. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning
+virtually the alignment length, motifs 1 and 3 including the regions
+encoded by PROSITE patterns ACETATE_KINASE_1 (PS01075) and ACETATE_KINASE_2
+(PS01076), both of which may be involved in substrate or ATP-binding. Two
+iterations on OWL27.0 were required to reach convergence, at which point a
+true set comprising 8 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 20 sequences, and 3
+partial matches.

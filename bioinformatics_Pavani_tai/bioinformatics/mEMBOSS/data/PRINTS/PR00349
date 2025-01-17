@@ -1,0 +1,33 @@
+VIRIONINFFCT
+The virion infectivity factor (vif) of human immunodeficiency virus
+type 1 affects the infectivity of virus particles [1] (in some cases
+increasing the infectivity of HIV-1 particles by 100- to 1000-fold), 
+but has no direct effect on transcription, translation or virus release.
+Vif antibodies are found in the sera of patients at all levels of HIV-1
+infection, indicating that vif is expressed in natural infections in vivo.
+Other lentiviruses, including simian immunodeficiency virus, visna virus,
+and feline immunodeficiency virus, have vif open reading frames, suggesting
+vif plays an essential role during natural infections [2].
+
+The expression of vif in BHK-21 cells has been shown to be linked to a
+modification of the C-terminus of gp41env, which modification is
+inhibited by trans-epoxysuccinyl-L-leucylamido-(4-guanidio)butane (E64),
+a specific inhibitor of cysteine proteases [3]. Coupled with sequence
+analysis and the effects of point mutations in vif, it has been suggested
+that vif could be a cysteine protease.
+
+VIRIONINFFCT is a 7-element fingerprint that provides a signature for vif
+proteins. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length, motif 6 including the conserved Cys thought to be similar
+to that of the thiol proteases (a His, also suggested by Guy et al. to be
+similar to the thiol proteases, was not conserved in the vif alignment).
+Two iterations on OWL22.1 were required to reach convergence, at which
+point a true set comprising 45 sequences was identified. Three partial
+matches were also found, all of which are vif proteins. No thiol proteases
+were identified. In this respect, we concur with Henikoff and Henikoff, who
+find insufficient similarity between thiol protease blocks and various vif
+sequences to draw conclusions about a relationship between the families [4].
+
+An update on SPTR37_9f identified a true set of 438 sequences, and 24
+partial matches.

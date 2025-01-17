@@ -1,0 +1,103 @@
+****************************
+* Insulin family signature *
+****************************
+
+The insulin  family  of  proteins [1] groups a number of active peptides which
+are evolutionary related. This family currently consists of:
+
+ - Insulin.
+ - Relaxin.
+ - Insulin-like growth factors I and II (IGFs or somatomedins) [2].
+ - Mammalian Leydig cell-specific insulin-like peptide (Ley-I-L)  (gene INSL3)
+   [3].
+ - Mammalian early placenta insulin-likepeptide (ELIP) (gene INSL4) [4].
+ - Insulin-like peptide 5 (gene INSL5).
+ - Insect prothoracicotropic hormone (PTTH) (bombyxin) [5].
+ - Locust insulin-related peptide (LIRP) [6].
+ - Molluscan insulin-related peptides 1 to 5 (MIP) [7].
+ - Caenorhabditis elegans insulin-like peptides [8].
+
+Structurally, all  these peptides consist of two polypeptide  chains (A and B)
+linked by two disulfide bonds.
+
+        B chain         xxxxxxCxxxxxxxxxxxxCxxxxxxxxx
+                              |            |
+        A chain         xxxxxCCxxxCxxxxxxxxCx
+                             ***************
+                             |    |
+                             +----+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As  shown in the  schematic representation above,  they  all share a conserved
+arrangement of four cysteines in their A  chain.  The first of these cysteines
+is  linked by a  disulfide bond to  the third  one  and  the second and fourth
+cysteines  are linked  by interchain  disulfide bonds to  cysteines  in  the B
+chain.   As  a  pattern  for this family of  proteins, we have used the region
+which includes the four conserved cysteines in the A chain.
+
+-Consensus pattern: C-C-{P}-{P}-x-C-[STDNEKPI]-x(3)-[LIVMFS]-x(3)-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for what was thought to be a sponge insulin [9], but which originates from an
+ unidentified rodent and which contains  sequencing errors and lacks the first
+ cysteine of the A chain.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Blundell T.L., Humbel R.E.
+     "Hormone families: pancreatic hormones and homologous growth
+     factors."
+     Nature 287:781-787(1980).
+     PubMed=6107857
+[ 2] Humbel R.E.
+     "Insulin-like growth factors I and II."
+     Eur. J. Biochem. 190:445-462(1990).
+     PubMed=2197088
+[ 3] Adham I.M., Burkhardt E., Benahmed M., Engel W.
+     "Cloning of a cDNA for a novel insulin-like peptide of the testicular
+     Leydig cells."
+     J. Biol. Chem. 268:26668-26672(1993).
+     PubMed=8253799
+[ 4] Chassin D., Laurent A., Janneau J.-L., Berger R., Bellet D.
+     "Cloning of a new member of the insulin gene superfamily (INSL4)
+     expressed in human placenta."
+     Genomics 29:465-470(1995).
+     PubMed=8666396
+[ 5] Nagasawa H., Kataoka H., Isogai A., Tamura S., Suzuki A., Mizoguchi A.,
+     Fujiwara Y., Suzuki A., Takahashi S.Y., Ishizaki H.
+     Proc. Natl. Acad. Sci. U.S.A. 83:5480-5483(1986).
+[ 6] Lagueux M., Lwoff L., Meister M., Goltzene F., Hoffmann J.A.
+     "cDNAs from neurosecretory cells of brains of Locusta migratoria
+     (Insecta, Orthoptera) encoding a novel member of the superfamily of
+     insulins."
+     Eur. J. Biochem. 187:249-254(1990).
+     PubMed=1688797
+[ 7] Smit A.B., Geraerts W.P.M., Meester I., van Heerikhuizen H., Joosse J.
+     "Characterization of a cDNA clone encoding molluscan insulin-related
+     peptide II of Lymnaea stagnalis."
+     Eur. J. Biochem. 199:699-703(1991).
+     PubMed=1868853
+[ 8] Duret L., Guex N., Peitsch M.C., Bairoch A.
+     "New insulin-like proteins with atypical disulfide bond pattern
+     characterized in Caenorhabditis elegans by comparative sequence
+     analysis and homology modeling."
+     Genome Res. 8:348-353(1998).
+     PubMed=9548970
+[ 9] Robitzki A., Schroder H.C., Ugarkovic D., Pfeifer K., Uhlenbruck G.,
+     Muller W.E.G.
+     "Demonstration of an endocrine signaling circuit for insulin in the
+     sponge Geodia cydonium."
+     EMBO J. 8:2905-2909(1989).
+     PubMed=2531072
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

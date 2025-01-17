@@ -1,0 +1,57 @@
+DESMOGLEIN
+Cadherins, first discovered in mouse teratocarcinoma cells [1], are 
+structurally and functionally similar molecules [2] that take part in 
+selective calcium-dependent adhesion interactions between cell surfaces
+[3]. There are a number of different isoforms distributed in a tissue-
+specific manner in a wide variety of organisms. Cells containing different 
+cadherins tend to segregate in vitro, while those that contain the same 
+cadherins tend to preferentially aggregate together. This observation is 
+linked to the finding that cadherin expression causes morphological changes
+involving the positional segregation of cells into layers, suggesting they 
+may play an important role in the sorting of different cell types during 
+morphogenesis, histogenesis and regeneration. They may also be involved in 
+the regulation of tight and gap junctions, and in the control of 
+intercellular spacing.
+
+Structurally, cadherins comprise a number of domains: these include a
+signal sequence; a propeptide of ~130 residues; an extracellular domain of
+~600 residues; a single transmembrane (TM) domain; and a well-conserved
+C-terminal cytoplasmic domain of ~150 residues. The extracellular domain 
+can be subdivided into 5 parts, 4 of which are repeats of ~110 residues, 
+and the fifth contains 4 conserved cysteines. The calcium-binding region
+of cadherins is thought to be located in the extracellular domain.
+
+Desmosomes are localised junctions that hold cells tightly together, common 
+in tissues subject to mechanical strain (e.g., epithelia). Desmosomal   
+cadherins are TM protein components of desmosomes (for review, see [4-6]),
+whose extracellular cadherin repeats are responsible for adhesion and whose
+intracellular regions interact with intermediate filaments via desmosomal
+plaque proteins plakoglobin, plakobilin and desmoplakin [7]. They are 
+believed to play a wider role in regulation of epithelial differentiation
+[5]. Two sub-families of desmosomal cadherin have been identified,
+desmocollin (DSC) and desmoglein (DSG). 
+
+For each subfamily, three subtypes have been identified, expressed in a
+cell-type and differentiation-specific manner [7]. Studies in normally      
+desmosome-free cells have shown that expression of at least one DSC and     
+one DSG in combination with plakoglobin is required to promote adhesion [8].
+Little is known about functional differences between the DSG or DSC sub-    
+families. In sequence, however, DSG differs from DSC in having a longer
+cytoplasmic region containing DSG repeats. 
+
+Desmogleins have been implicated in autoimmune blistering skin lesion       
+diseases. DSG1 has been shown to be a target antigen in pemphigus 
+foliaceous, and DSG3 in pemphigus vulgaris [9]. DSG1 is also the target 
+of the Staphylococcus aureus blister-causing toxin A [10]. Mutations in DSG1
+resulting in reduced levels [11] or extracellularly truncated proteins [12] 
+are the cause of hepatokeratotic bands on palms and soles, a dominant      
+inherited disease termed palmoplantar keratoderma. 
+
+DESMOGLEIN is a 4-element fingerprint that provides a signature for the
+desmogleins. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length, focusing on those sections that characterise
+desmogleins but distinguish them from other desmosomal cadherins - motif 1-4 
+lie in the C-terminal intracellular domain. Two iterations on SPTR40_20f 
+were required to reach convergence, at which point a true set comprising 5 
+sequences was identified. 

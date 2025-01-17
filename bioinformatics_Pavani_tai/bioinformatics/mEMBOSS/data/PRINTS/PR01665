@@ -1,0 +1,42 @@
+NACHANNEL4
+Voltage-dependent sodium channels are transmembrane (TM) proteins
+responsible for the depolarising phase of the action potential in most
+electrically excitable cells [1]. They may exist in 3 states [3]: the
+resting state, where the channel is closed; the activated state, where the
+channel is open; and the inactivated state, where the channel is closed
+and refractory to opening. Several different structurally and functionally
+distinct isoforms are found in mammals, coded for by a multigene family
+[4], these being responsible for the different types of sodium ion currents
+found in excitable tissues.
+                
+The structure of sodium channels is based on 4 internal repeats of a 6-helix
+bundle [2] (in which 5 of the membrane-spanning segments are hydrophobic and
+the other is positively charged), forming a 24-helical bundle. The charged
+segments are believed to be localised within clusters formed by their 5
+hydrophobic neighbours: it is postulated that the charged domain may be the
+voltage sensor region, possibly moving outward on depolarisation, causing a
+conformational change. This model, proposed by Noda et al. [2], contrasts
+with that of Sato and Matsumoto [5], in which the TM segments are juxtaposed
+octagonally. The basic structural motif (the 6-helix bundle) is also found
+in potassium and calcium channel alpha subunits.
+
+The SCN4A gene belongs to the Nav1 family, which also includes SCN1A, SCN2A,
+SCN3A, SCN5A and SCN8A. This family is typically expressed in the brain,
+spinal cord, skeletal muscle, cardiac muscle and peripheral neurons [6].
+Mutations in SCN4A are associated with hyperkalaemic periodic paralysis,
+paramyotonia congenita and a diverse group of disorders collectively known
+as potassium-aggravated myotonia. These are characterised by skeletal muscle
+hyperexcitability or muscle weakness, which is exacerbated by exposure to
+cold temperature [7].
+
+NACHANNEL4 is a 4-element fingerprint that provides a signature for the
+voltage-gated Na+ channel alpha 4 subunit. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved 
+regions spanning the N-terminal third of the alignment, focusing on those
+sections that characterise the alpha 4 subunits but distinguish them from
+the rest of the voltage-gated Na+ channel superfamily - motif 1 resides at
+the N-terminus; motifs 2 and 3 span the loop between the first and second 
+repeat; and motif 4 lies in the loop between TM domain 6 of the first repeat
+and TM domain 1 of the second repeat. Two iterations on SPTR40_18f were
+required to reach convergence, at which point a true set comprising 5
+sequences was identified.

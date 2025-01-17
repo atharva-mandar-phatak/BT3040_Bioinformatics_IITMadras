@@ -1,0 +1,55 @@
+HGRDTASE
+Proteins that transport heavy metals in micro-organisms and mammals share
+similarities in their sequences and structures. These proteins provide an
+important focus for research, some being involved in bacterial resistance
+to toxic metals, such as lead and cadmium, while others are involved in
+inherited human syndromes, such as Wilson and Menkes diseases [1].
+
+A conserved 30-residue domain has been found in a number of these heavy
+metal transport or detoxification proteins [1]. The domain, which has been
+termed Heavy-Metal-Associated (HMA), contains two conserved cysteines that
+are probably involved in metal binding. 
+
+The HMA domain has been identified in the N-terminal regions of a variety
+of cation transporting ATPases, and in other ATPases such as fixI from 
+Rhizobium meliloti; pacS from Synechococcus strain PCC 7942; Mycobacterium 
+leprae ctpA and ctpB; and Escherichia coli hypothetical protein yhhO. In
+addition, the domain has been found in bacterial mercuric reductase; the
+copP copper-binding protein of Helicobacter pylori; and in the N-terminal 
+regions of mercuric transport protein periplasmic component (gene merP) and
+plasmids carried by mercury-resistant Gram-negative bacteria, where it seems
+to be a mercury scavenger that specifically binds to one Hg(2+) ion, passing
+this to mercuric reductase via the merT protein. 
+
+The structure of the mercuric ion-binding protein MerP from Shigella
+flexneri has been determined. The fold has been classed as a ferredoxin-like
+alpha-beta sandwich, having a beta-alpha beta-beta alpha-beta architecture,
+with the two alpha-helices overlaying a four-stranded anti-parallel beta-
+sheet [2]. Structural differences between the reduced and mercury-bound 
+forms of merP are localised to the metal-binding loop containing the 
+consensus sequence GMTCXXC, the two cysteines of which are involved in
+bi-coordination of Hg(2+) [2].
+
+Mercuric reductase, which contains a single copy of the HMA domain, is
+involved in a specialised system that confers resistance to Hg(2+) on 
+bacteria. The merA protein is responsible for volatilising mercury, 
+catalysing the reaction:
+
+ Hg + NADP(+) + H(+) = Hg(2+) + NADPH
+
+The protein functions as a homodimer, with an FAD flavoprotein; its active
+site is a redox-active disulphide bond. 
+
+HGRDTASE is an 8-element fingerprint that provides a signature for class II
+mercuric reductases. The fingerprint was derived from an initial alignment
+of 5 sequences: the motifs were drawn from conserved regions spanning
+the N-terminal half of the alignment - motif 1, which lies in the HMA 
+domain, encodes the first alpha-helix, and includes the second metal-
+binding cysteine; and motif 2 lies in the putative FAD binding domain. 
+Two iterations on OWL30.2 were required to reach convergence, at which 
+point a true set comprising 19 sequences was identified. Several partial 
+matches were also found, all of which are mercuric reductases or related 
+enzymes that fail to match one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 11
+partial matches.

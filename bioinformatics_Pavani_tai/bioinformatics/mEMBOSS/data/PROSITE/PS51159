@@ -1,0 +1,71 @@
+*******************************************************
+* CBM21 (carbohydrate binding type-21) domain profile *
+*******************************************************
+
+The  carbohydrate  binding  type-21  or  CBM21  domain  is a 90-130 amino acid
+carbohydrate  binding domain. The domain is named after proteins classified in
+carbohydrate-binding   module   (CBM)   family  21  and  is  sometimes  called
+starch-binding  domain  (SBD)  [E1,1].  The  CBM21  domain  occurs  in several
+eukaryotic  proteins  implicated in glycogen metabolism. A glucoamylase active
+site  region (see <PDOC00646>) [E2] or alpha amylase catalytic domain [E3] can
+occur  C-terminal  to  the  CBM21  domain. The CBM21 domain of Rhizopus oryzae
+glucoamylase  can bind to raw starch. Most conserved residues are located in a
+region  with  a length of 35 in the N-terminal part [2] and in a 15-25 residue
+motif II at the C-terminus of the domain [2-4].
+
+Some proteins known to contain a CBM21 domain:
+
+ - Mammalian protein phosphatase 1 (PP1) regulatory subunit 3A, which seems to
+   target PP1 to glycogen.
+ - Mammalian  protein phosphatase 1 binding protein PTG, which binds the 3 key
+   enzymes  for  the  regulation of glycogen metabolism: phosphorylase kinase,
+   phosphorylase A and glycogen synthase.
+ - Yeast  protein  phosphatase  1 regulatory subunits GAC1 and PIG1, which are
+   regulators of glycogen synthase.
+ - Yeast GLC7-interacting protein 2 (GIP2), which interacts with the catalytic
+   subunit (GLC7) of PP1.
+ - Yeast protein 2 interacting with GSY2 (PIG2), which interacts with glycogen
+   synthase 2 (GSY2), a nutritionally regulated form.
+ - Rhizopus  oryzae  glucoamylase, which binds and hydrolyzes granular starch.
+   R.  oryzae  is  a  fungus  from  e.g.  decaying  vegetables  and  it causes
+   mucormycosis.
+
+The  profile we developed covers the entire CBM21 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2005 / First entry.
+
+[ 1] Rodriguez-Sanoja R., Oviedo N., Sanchez S.
+     "Microbial starch-binding domain."
+     Curr. Opin. Microbiol. 8:260-267(2005).
+     PubMed=15939348; DOI=10.1016/j.mib.2005.04.013
+[ 2] Cheng C., Huang D., Roach P.J.
+     "Yeast PIG genes: PIG1 encodes a putative type 1 phosphatase subunit
+     that interacts with the yeast glycogen synthase Gsy2p."
+     Yeast 13:1-8(1997).
+     PubMed=9046081; DOI=10.1002/(SICI)1097-0061(199701)13:1<1::AID-YEA49>3.0.CO;2-F
+[ 3] Printen J.A., Brady M.J., Saltiel A.R.
+     "PTG, a protein phosphatase 1-binding protein with a role in glycogen
+     metabolism."
+     Science 275:1475-1478(1997).
+     PubMed=9045612
+[ 4] Machovic M., Svensson B., Ann Macgregor E., Janecek S.
+     "A new clan of CBM families based on bioinformatics of starch-binding
+     domains from families CBM20 and CBM21."
+     FEBS J. 272:5497-5513(2005).
+     PubMed=16262690; DOI=10.1111/j.1742-4658.2005.04942.x
+[E1] http://www.cazy.org/fam/CBM21.html
+[E2] http://www.cazy.org/fam/GH13.html
+[E3] http://www.cazy.org/fam/GH15.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

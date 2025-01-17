@@ -1,0 +1,69 @@
+5HT1BRECEPTR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+5-Hydroxytryptamine (or serotonin) is ubiquitous in plants and animals.
+It is an important neurotransmitter and local hormone in the CNS and
+instestine, and is implicated in a vast array of physiological and patho-
+physiological pathways [6]. In the periphery, 5HT contracts a number of
+smooth muscles, and induces endothelium-dependent vasodilation through
+the formation of NO [6]. It is a mediator of peristalsis, and may be
+involved in platelet aggregation and homeostasis. In the CNS, 5HT is
+believed to be involved in a wide range of functions, including the
+control of appetite, mood, anxiety, hallucinations, sleep, vomiting and
+pain perception [6]. 5HT receptor ligands are of clinical use in the
+treatment of depression, migraine and post-operative vomiting.
+
+Numerous receptor subtypes have been classified according to their
+antagonist susceptibilities and their affinities for 5HT. Five 5HT1
+subtypes and at least three 5HT2 subtypes have now been identified, in
+addition to subtypes 5HT3-7 [6]. All share a high degree of sequence
+similarity, and have overlapping pharmacological specificities.
+
+5HT1-like receptors were originally classified according to their nano-
+molar affinity for 5HT, susceptibility to antagonism by methiothepin and/or
+methysegide, resistance to antagonism by 5HT2 and 5HT3 antagonists, and
+high affinity for the agonist 5-carboxamidotryptamine [6]. Five subtypes
+of 5HT1-like receptors have now been identified - these do not fit all the
+above criteria, and 5HT1C has been re-classified 5HT2C [6]. All are linked
+to the inhibition of adenylyl cyclase, share a high degree of sequence
+similarity, and have overlapping pharmacological specificities.
+
+The 5HT1B receptor was first identified in rats, where it has a distinct
+pharmacological profile [6]. In humans, however, it shares an almost
+identical pharmacology with the 5HT1D receptor. In the CNS, the receptor
+is found in the striatum, medulla, hippocampus, frontal cortex and
+amygdala. In the periphery, it is found in vascular smooth muscle [6].
+The 5HT1B/5HT1D receptor may be the therapeutic substrate of the anti-
+migraine drug, sumatriptan; these sites are also implicated in feeding
+behaviour, anxiety, depression, cardiac function and movement [6].
+
+5HT1BRECEPTR is a 5-element fingerprint that provides a signature for the
+5HT1B receptors. The fingerprint was derived from an initial alignment of
+5 sequences: the motifs were drawn from conserved sections within either
+loop or N-terminal regions, focusing on those areas of the alignment that
+characterise the 5HT1B receptors but distinguish them from the rest of the
+5HT family - motifs 1 and 2 lie at the N-terminus; and motifs 3-5 lie in the
+third cytoplasmic loop. Two iterations on OWL28.0 were required to reach 
+convergence, at which point a true set comprising 7 sequences was identified. 
+A single partial match was also found (5H1D_RAT), a 5HT1D receptor that
+matches motifs 3 and 5.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 1
+partial match.

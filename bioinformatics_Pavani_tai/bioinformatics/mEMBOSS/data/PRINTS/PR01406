@@ -1,0 +1,39 @@
+BBOXZNFINGER
+A number of eukaryotic and viral proteins contain a conserved 40-60 residue 
+cysteine-rich domain, variously termed a C3HC4 zinc-finger or 'RING' finger
+[1-3]. The finger binds two atoms of zinc, and is probably involved in
+mediating protein-protein interactions. The 3D structure [2,3] of the zinc
+ligation system is unique to the RING domain and is referred to as the
+"cross-brace" motif, illustrated schematically below:
+
+                             x x x     x x x
+                            x      x x      x
+                           x        x        x
+                          x        x x        x
+                         C        C   C        C
+                        x  \    / x   x \    /  x
+                        x    Zn   x   x   Zn    x
+                         C /    \ C   H /    \ C
+                         x         x x         x
+                x x x x x x         x         x x x x x x
+
+Several proteins that contain RING fingers also contain a well-conserved
+40-residue cysteine-rich domain termed a B-box zinc finger. Often, one or 
+two copies of the B-box are associated with a coiled coil domain in addition
+to the ring finger, forming a tripartite motif. The tripartite motif is 
+found in transcription factors, ribonucleoproteins and proto-oncoproteins, 
+but no function has yet been ascribed to the domain [4]. 
+
+The solution structure of the B-box motif has been determined by NMR [5]. 
+The protein is a monomer, with 2 beta-strands, 2 helical turns and 3
+extended loop regions packed in a novel topology [5]. Of 7 potential zinc
+ligands, only 4 are used, binding a single zinc atom in a C2-H2 tetrahedral 
+arrangement [5]. The B-box structure differs in tertiary fold from all
+other known zinc-binding motifs.
+
+BBOXZNFINGER is a 2-element fingerprint that provides a signature for 
+B-box zinc finger proteins. The fingerprint was derived from an initial 
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning the full length of the finger domain. Five iterations on SPTR37_10f
+were required to reach convergence, at which point a true set comprising 33 
+sequences was identified. 

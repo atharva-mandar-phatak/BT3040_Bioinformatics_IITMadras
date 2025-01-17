@@ -1,0 +1,64 @@
+*************************************************
+* Sodium:galactoside symporter family signature *
+*************************************************
+
+It has  been shown [1] that integral membrane proteins that mediate the intake
+of a  wide  variety  of  molecules  with the concomitant uptake of sodium ions
+(sodium symporters)  can  be  grouped, on the basis of sequence and functional
+similarities into  a  number  of  distinct  families. One of these families is
+known as the  sodium:galactoside symporter family (SGF) and currently consists
+of the following proteins:
+
+ - The  melibiose  carrier  (gene melB) from a variety of enterobacteria. This
+   protein is  responsible  for  melibiose  transport  and is capable of using
+   hydrogen, sodium, and lithium cations as coupling cations for cotransport.
+ - The  lactose  permease from Lactobacillus (gene lacS or lacY). This protein
+   is responsible  for  the transport of beta-galactosides into the cell, with
+   the concomitant   export  of  a  proton.  It  consists of two domains; a N-
+   terminal SGF  domain  and a C-terminal domain that resembles that of enzyme
+   IIA of the PEP:sugar phosphotransferase system.
+ - The raffinose permease from Pediococcus pentosaceus.  It also consists of a
+   N-terminal SGF domain and a C-terminal IIA domain.
+ - The glucuronide carrier (gene gusB or uidP) from Escherichia coli.
+ - The xylose transporter (gene xylP) from Lactobacillus pentosus.
+ - Escherichia coli hypothetical protein yagG.
+ - Escherichia coli hypothetical protein yicJ.
+ - Escherichia coli hypothetical protein yihO.
+ - Escherichia coli hypothetical protein yihP.
+ - Bacillus subtilis hypothetical protein yjmB.
+ - Bacillus subtilis hypothetical protein ynaJ.
+
+Like sugar transport  proteins, these integral membrane proteins are predicted
+to comprise    twelve  membrane  spanning  domains.  As a signature pattern we
+selected a  highly  conserved  region  which  is located in a cytoplasmic loop
+between  the second  and third transmembrane regions.  This region starts with
+a conserved  aspartate which has been shown [2], in melB, to  be important for
+the activity of the protein.
+
+-Consensus pattern: [DG]-x(3)-G-x(3)-[DN]-x(6,8)-[GA]-[KRHQ]-[FSAR]-[KRL]-
+                    [PT]-[FYW]-[LIVMWQ]-[LIV]-x(0,1)-[GAFV]-[GSTA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Reizer J., Reizer A., Saier M.H. Jr.
+     "A functional superfamily of sodium/solute symporters."
+     Biochim. Biophys. Acta 1197:133-166(1994).
+     PubMed=8031825
+[ 2] Pourcher T., Deckert M., Bassilana M., Leblanc G.
+     "Melibiose permease of Escherichia coli: mutation of aspartic acid 55
+     in putative helix II abolishes activation of sugar binding by Na+
+     ions."
+     Biochem. Biophys. Res. Commun. 178:1176-1181(1991).
+     PubMed=1872836
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

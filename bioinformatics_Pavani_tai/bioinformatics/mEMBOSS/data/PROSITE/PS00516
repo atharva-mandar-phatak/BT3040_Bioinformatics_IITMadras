@@ -1,0 +1,56 @@
+****************************************************
+* Alkylbase DNA glycosidases alkA family signature *
+****************************************************
+
+Alkylbase DNA glycosidases [1] are  DNA repair  enzymes  that   hydrolyzes the
+deoxyribose N-glycosidic bond to excise various alkylated bases from a damaged
+DNA polymer.
+
+In Escherichia coli there  are  two alkylbase DNA glycosidases: one (gene tag)
+which is constitutively expressed and  which is specific for the removal of 3-
+methyladenine (EC 3.2.2.20),  and  one (gene alkA)  which  is  induced  during
+adaptation to alkylation and which can remove a variety of alkylation products
+(EC 3.2.2.21). Tag and alkA do not share any region of sequence similarity.
+
+In yeast there is  an alkylbase DNA glycosidase (gene MAG1) [2,3],  which  can
+remove 3-methyladenine or 7-methyladenine and which is structurally related to
+alkA.
+
+MAG and alkA are both proteins of about 300 amino acid residues.  While the C-
+and N-terminal ends appear to be unrelated, there is a central region of about
+130 residues which is well conserved.  As a signature pattern we have selected
+part of this region.
+
+-Consensus pattern: G-[IV]-[GK]-x-W-[ST]-[AVI]-x-[LIVMFY](2)-x-[LIVM]-x(8)-
+                    [MF]-x(2)-[ED]-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Lindahl T., Sedgwick B., Sekiguchi M., Nakabeppu Y.
+     "Regulation and expression of the adaptive response to alkylating
+     agents."
+     Annu. Rev. Biochem. 57:133-157(1988).
+     PubMed=3052269; DOI=10.1146/annurev.bi.57.070188.001025
+[ 2] Berdal K.G., Bjoras M., Bjelland S., Seeberg E.C.
+     "Cloning and expression in Escherichia coli of a gene for an alkylbase
+     DNA glycosylase from Saccharomyces cerevisiae; a homologue to the
+     bacterial alkA gene."
+     EMBO J. 9:4563-4568(1990).
+     PubMed=2265619
+[ 3] Chen J., Derfler B., Samson L.
+     "Saccharomyces cerevisiae 3-methyladenine DNA glycosylase has homology
+     to the AlkA glycosylase of E. coli and is induced in response to DNA
+     alkylation damage."
+     EMBO J. 9:4569-4575(1990).
+     PubMed=2265620
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

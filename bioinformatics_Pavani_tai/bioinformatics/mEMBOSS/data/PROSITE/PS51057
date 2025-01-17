@@ -1,0 +1,104 @@
+***************************************
+* Paired domain signature and profile *
+***************************************
+
+The  paired  domain is a ~126 amino acid DNA-binding domain, which is found in
+eukaryotic  transcription  regulatory  proteins involved in embryogenesis. The
+domain  was originally described as the 'paired box' in the Drosophila protein
+paired  (prd)  [1,2]. The paired domain is generally located in the N-terminal
+part.  An  octapeptide  [3]  and/or  a homeodomain (see <PDOC00027>) can occur
+C-terminal  to  the  paired  domain, as well as a Pro-Ser-Thr-rich C-terminus.
+Paired domain proteins can function as transcription repressors or activators.
+The paired domain contains three subdomains, which show functional differences
+in DNA-binding.
+
+The  crystal structures of prd and Pax proteins show that the DNA-bound paired
+domain  is bipartite, consisting of an N-terminal subdomain (PAI or NTD) and a
+C-terminal subdomain (RED or CTD), connected by a linker (see <PDB:1K78>). PAI
+and  RED  each  form  a  three-helical  fold, with the most C-terminal helices
+comprising  a helix-turn-helix (HTH) motif that binds the DNA major groove. In
+addition,   the   PAI   subdomain  encompasses  an  N-terminal  beta-turn  and
+beta-hairpin,  also named 'wing', participating in DNA-binding. The linker can
+bind into the DNA minor groove. Different Pax proteins and their alternatively
+spliced  isoforms  use  different  (sub)domains for DNA-binding to mediate the
+specificity of sequence recognition [4,5].
+
+Some proteins known to contain a paired domain:
+
+ - Drosophila paired (prd), a segmentation pair-rule class protein.
+ - Drosophila  gooseberry  proximal  (gsb-p)  and  gooseberry  distal (gsb-d),
+   segmentation polarity class proteins.
+ - Drosophila Pox-meso and Pox-neuro proteins.
+
+ The Pax proteins:
+ - Mammalian protein Pax1, which may play a role in the formation of segmented
+   structures in the embryo. In mouse, mutations in Pax1 produce the undulated
+   phenotype, characterized   by  vertebral  malformations  along  the  entire
+   rostro-caudal axis.
+ - Mammalian  protein  Pax2,  a  probable transcription factor that may have a
+   role in kidney cell differentiation.
+ - Mammalian  protein  Pax3.  Pax3  is expressed during early neurogenesis. In
+   Man, defects  in  Pax3  are  the  cause  of Waardenburg's syndrome (WS), an
+   autosomal dominant combination of deafness and pigmentary disturbance.
+ - Mammalian  protein Pax5, also known as B-cell specific transcription factor
+   (BSAP).  Pax5  is  involved in the regulation of the CD19 gene. It plays an
+   important  role in B-cell differentiation as well as neural development and
+   spermatogenesis.
+ - Mammalian  protein Pax6 (oculorhombin). Pax6 is a transcription factor with
+   important  functions  in eye and nasal development. In Man, defects in Pax6
+   are  the  cause  of  aniridia type II (AN2), an autosomal dominant disorder
+   characterized by complete or partial absence of the iris.
+ - Mammalian protein Pax8, required in thyroid development.
+ - Mammalian protein Pax9. In man, defects in Pax9 cause oligodontia.
+ - Zebrafish proteins Pax[Zf-a] and Pax[Zf-b].
+
+We  use  the  region  spanning  positions  34  to 50 of the paired domain as a
+signature  pattern. This conserved region spans the DNA-binding HTH located in
+the  N-terminal  subdomain. We also developed a profile that covers the entire
+paired  domain,  including  the PAI and RED subdomains and which allows a more
+sensitive detection.
+
+-Consensus pattern: R-P-C-x(11)-C-V-S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2005 / Text revised; profile added.
+
+[ 1] Bopp D., Burri M., Baumgartner S., Frigerio G., Noll M.
+     "Conservation of a large protein domain in the segmentation gene
+     paired and in functionally related genes of Drosophila."
+     Cell 47:1033-1040(1986).
+     PubMed=2877747
+[ 2] Baumgartner S., Bopp D., Burri M., Noll M.
+     "Structure of two genes at the gooseberry locus related to the paired
+     gene and their spatial expression during Drosophila embryogenesis."
+     Genes Dev. 1:1247-1267(1987).
+     PubMed=3123319
+[ 3] Eberhard D., Jimenez G., Heavey B., Busslinger M.
+     "Transcriptional repression by Pax5 (BSAP) through interaction with
+     corepressors of the Groucho family."
+     EMBO J. 19:2292-2303(2000).
+     PubMed=10811620; DOI=10.1093/emboj/19.10.2292
+[ 4] Underhill D.A.
+     "Genetic and biochemical diversity in the Pax gene family."
+     Biochem. Cell Biol. 78:629-638(2000).
+     PubMed=11103953
+[ 5] Apuzzo S., Abdelhakim A., Fortin A.S., Gros P.
+     "Cross-talk between the paired domain and the homeodomain of Pax3: DNA
+     binding by each domain causes a structural change in the other domain,
+     supporting interdependence for DNA Binding."
+     J. Biol. Chem. 279:33601-33612(2004).
+     PubMed=15148315; DOI=10.1074/jbc.M402949200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

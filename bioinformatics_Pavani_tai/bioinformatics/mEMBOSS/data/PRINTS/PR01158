@@ -1,0 +1,50 @@
+TOPISMRASEII
+Topoisomerases catalyse the interconversion of topological isomers of DNA
+and play a key role in DNA metabolism [1]. Topoisomerase I catalyses an ATP-
+independent reaction, while topoisomerase II catalyses an ATP-dependent
+reaction, resulting in the formation of DNA supercoils [1-3]. The supercoil
+is formed by transient cleavage in both strands of double-stranded DNA,
+followed by the passage of a segment of DNA through the break, and break
+ligation [3]. Eukaryotic enzymes can form both positive and negative
+supercoils, while prokaryotic enzymes form only negative supercoils.
+
+Eukaryotic topoisomerase II exists as a homodimer; in bacteriophage T4 it 
+consists of 3 heterologous subunits; in prokaryotes it exists as a tetramer
+of 2 subunits (2 each of gyrA and gyrB); and in E.coli, a second type II
+topoisomerase, involved in chromosome segregation (topoisomerase IV),
+consists of 2 subunits (parC and parE). GyrB, parE, and the product of 
+bacteriophage T4 gene 39, are all similar to the eukaryotic proteins [1-3].
+
+Human cells express two distinct type II topoisomerase isozymes, designated
+topoisomerase II alpha (170kDa form) and topoisomerase II beta (180kDa form)
+[4]. The predicted topoisomerase II beta protein sequence shares a high
+level of similarity (72% identical residues) to that of the human alpha
+isozyme, and is similar to topoisomerase II from Drosophila, yeast and
+bacteria. Regions of greatest sequence divergence lie at the extreme 
+N-terminus and over a C-terminal domain comprising approximately 25% of the
+total protein [4]. 
+
+The crystal structure of a fragment of yeast topoisomerase II reveals a
+heart-shaped dimeric protein with a large central cavity [5]. It provides a
+molecular model of the enzyme as an ATP-modulated clamp, with two sets of
+jaws at opposite ends, connected by multiple joints [5]. An enzyme with 
+bound DNA can admit a second DNA duplex through one set of jaws, transport
+it through the cleaved first duplex, and expel it through the other set of
+jaws [5]. 
+
+TOPISMRASEII is an 11-element fingerprint that provides a signature for
+DNA topoisomerase II. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those regions 
+that characterise topoisomerase II but distinguish it from other closely 
+related members of the topoisomerase II family - motif 2 encodes beta strand
+2; motif 3 spans helix 3; motif 4 spans helices 4 and 5; motif 5 spans
+strand 4 and the N-terminal portion of strand 5; motif 6 encodes the 
+N-terminus of helix 8; motif 7 spans strand 9, helix 11 and the N-terminus
+of helix 12; motif 8 spans helix 13 and strand 9; motif 9 includes helix 15;
+motif 10 spans the C-terminus of strand 15 and the N-terminus of helix 18;
+and motif 11 spans strand 21 and the N-terminus of helix 21. Two iterations
+on SPTR37_9f were required to reach convergence, at which point a true set
+comprising 29 sequences was identified. Several partial matches were also 
+found, all of which are topoisomerase II sequences that fail to match one
+or more motifs.

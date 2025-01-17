@@ -1,0 +1,94 @@
+*******************************************
+* FYR domain FYRN and FYRC motif profiles *
+*******************************************
+
+The FYRN  and FYRC sequence motifs are two poorly characterized phenylalanine/
+tyrosine-rich regions of around 50 and 100 amino acids, respectively, that are
+found in  a  variety  of  chromatin-associated  proteins  [1,2,3,4].  They are
+particularly common  in  histone  H3K4  methyltransferases  most  notably in a
+family of  proteins  that  includes human mixed lineage leukemia (MLL) and the
+Drosophila melanogaster  protein  trithorax.  Both of these enzymes play a key
+role in  the  epigenetic regulation of gene expression during development, and
+the gene  coding  for  MLL  is  frequently  rearranged in infant and secondary
+therapy-related acute  leukemias.  They  are also found in transforming growth
+factor beta  regulator 1 (TBRG1), a growth inhibitory protein induced in cells
+undergoing arrest  in  response  to  DNA damage and transforming growth factor
+(TGF)-beta1. As  TBRG1  has  been  shown  to bind to both the tumor suppressor
+p14ARF and  MDM2,  a  key  regulator  of  p53,  it  is  also  known as nuclear
+interactor of ARF and MDM2 (NIAM). In most proteins, the FYRN and FYRC regions
+are closely  juxtaposed,  however,  in  MLL  and  its  homologues they are far
+distant. To  be  fully  active,  MLL  must  be  proteolytically  processed  by
+taspase1, which cleaves the protein between the FYRN and FYRC regions [5]. The
+N-terminal and   C-terminal  fragments  remain  associated  after  proteolysis
+apparently as  a  result  of an interaction between the FYRN and FYRC regions.
+How proteolytic  processing  regulates  the  activity  of  MLL  is  not known.
+Intriguingly, the  FYRN  and  FYRC  motifs  of a second family of histone H3K4
+methyltransferases, represented  by  MLL2  and  MLL4  in  humans  and  TRR  in
+Drosophila melanogaster,  are  closely  juxtaposed.  FYRN  and FYRC motifs are
+found in   association   with   modules   that  create  or  recognize  histone
+modifications in  proteins  from  a wide range of eukaryotes, and it is likely
+that in  these  proteins  they have a conserved role related to some aspect of
+chromatin biology [4].
+
+The FYRN  and  FYRC regions are not separate independently folded domains, but
+are components  of  a  distinct  protein module, The FYRN and FYRC motifs both
+form part  of  a single folded module (the FYR domain), which adopts an alpha+
+beta fold  consisting  of  a  six-stranded antiparallel beta-sheet followed by
+four consecutive  alpha-helices  (see <PDB:2WZO>). The FYRN region corresponds
+to beta-strands 1–4 and their connecting loops, whereas the FYRC motif maps to
+beta-strand 5,  beta-strand  6  and  helices  alpha1  to  alpha4.  Most of the
+conserved tyrosine  and  phenylalanine  residues, after which these motifs are
+named are  involved  in interactions that stabilize the fold. Proteins such as
+MLL, in  which  the  FYRN  and FYRC regions are separated by hundreds of amino
+acids, are  expected to contain FYR domains with a large insertion between two
+of the strands of the beta-sheet (strands 4 and 5) [4].
+
+The profiles we developed cover the entire FYRN and FYRC motifs.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: July 2011 / First entry.
+
+[ 1] Prasad R., Zhadanov A.B., Sedkov Y., Bullrich F., Druck T.,
+     Rallapalli R., Yano T., Alder H., Croce C.M., Huebner K., Mazo A.,
+     Canaani E.
+     "Structure and expression pattern of human ALR, a novel gene with
+     strong homology to ALL-1 involved in acute leukemia and to Drosophila
+     trithorax."
+     Oncogene 15:549-560(1997).
+     PubMed=9247308; DOI=10.1038/sj.onc.1201211
+[ 2] Balciunas D., Ronne H.
+     "Evidence of domain swapping within the jumonji family of
+     transcription factors."
+     Trends Biochem. Sci. 25:274-276(2000).
+     PubMed=10838566
+[ 3] Doerks T., Copley R.R., Schultz J., Ponting C.P., Bork P.
+     "Systematic identification of novel protein domain families associated
+     with nuclear functions."
+     Genome Res. 12:47-56(2002).
+     PubMed=11779830; DOI=10.1101/
+[ 4] Garcia-Alai M.M., Allen M.D., Joerger A.C., Bycroft M.
+     "The structure of the FYR domain of transforming growth factor beta
+     regulator 1."
+     Protein Sci. 19:1432-1438(2010).
+     PubMed=20506279; DOI=10.1002/pro.404
+[ 5] Hsieh J.J., Ernst P., Erdjument-Bromage H., Tempst P., Korsmeyer S.J.
+     "Proteolytic cleavage of MLL generates a complex of N- and C-terminal
+     fragments that confers protein stability and subnuclear
+     localization."
+     Mol. Cell. Biol. 23:186-194(2003).
+     PubMed=12482972
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

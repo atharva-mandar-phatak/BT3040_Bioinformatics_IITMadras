@@ -1,0 +1,30 @@
+SPECTRINPH
+Spectrin is the major constituent of the cytoskeletal network underlying 
+the erythrocyte plasma membrane; it associates with band 4.1 and actin to 
+form the cytoskeletal super-structure. The native spectrin molecule is a
+tetramer comprising two anti-parallel heterodimers joined head to head,
+such that the C-terminus of the alpha-subunit and the N-terminus of the
+beta-subunit are included within the same molecule.
+
+Spectrin is similar to alpha-actinin and dystrophin, and contains a
+pleckstrin homology (PH) domain. The exact function of the PH domain is
+unknown, but evidence suggests that it contains an electrostatically-
+polarised pocket that facilitates binding of a ligand (e.g., a peptide).
+The PH domain contains a number of hydrophobic residues that form a
+hydrophobic core responsible for protein stability. The spectrin PH
+domain [1], which has the familiar 7-stranded anti-parallel up and down
+beta-barrel capped by a C-terminal amphiphilic alpha helical cap [2],
+contains insertions that confer 2 additional turns of alpha-helix in the
+loop between strands 3 and 4. The C-terminal helix is packed into a gorge
+between strands 1 and 2, and lies parallel to strand 7 [3].
+
+SPECTRINPH is a 4-element fingerprint that provides a signature for the
+spectrin PH domain. The fingerprint was derived from an initial alignment
+of 6 sequences: motif 1 encodes strand 1; motif 2 spans strands 2, 3 and
+part of the additional alpha-helix; motif 3 spans strands 5 and 6; and
+motif 4 spans strand 7 and part of the C-terminal helix. Two iterations
+on OWL 28.3 were required to reach convergence, at which point a true set
+comprising 8 sequences was identified. A single partial matches was also
+found, HSTYL, a human TYL gene product that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

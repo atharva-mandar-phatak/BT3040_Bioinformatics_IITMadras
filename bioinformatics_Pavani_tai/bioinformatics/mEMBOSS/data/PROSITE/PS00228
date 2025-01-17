@@ -1,0 +1,36 @@
+*******************************************
+* Tubulin-beta mRNA autoregulation signal *
+*******************************************
+
+The stability of beta-tubulin mRNAs are autoregulated by their own translation
+product [1].  Unpolymerized  tubulin  subunits  bind  directly  (or activate a
+factor(s) which binds  co-translationally)  to the nascent N-terminus of beta-
+tubulin. This binding is transduced through the adjacent ribosomes to activate
+an RNAse that degrades the polysome-bound mRNA.    The recognition element has
+been shown to be  the first four amino acids of beta-tubulin: Met-Arg-Glu-Ile.
+Mutations to this sequence abolish the  autoregulation effect  (except for the
+replacement of Glu by Asp);  transposition of  this sequence  to  an  internal
+region of a polypeptide also suppresses the autoregulatory effect.
+
+-Consensus pattern: <M-R-[DE]-[IL]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for soybean beta-2 tubulin which has Ser in the last position of the pattern.
+-Other sequence(s) detected in Swiss-Prot: a number of alpha-tubulins, as well
+ as 26 other proteins.
+-Last update: May 1991 / Pattern and text revised.
+
+[ 1] Cleveland D.W.
+     "Autoregulated instability of tubulin mRNAs: a novel eukaryotic
+     regulatory mechanism."
+     Trends Biochem. Sci. 13:339-343(1988).
+     PubMed=3072712
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

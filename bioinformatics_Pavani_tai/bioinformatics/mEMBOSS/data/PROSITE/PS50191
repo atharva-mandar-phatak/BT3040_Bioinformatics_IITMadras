@@ -1,0 +1,83 @@
+******************************************
+* CRAL-TRIO lipid binding domain profile *
+******************************************
+
+The CRAL-TRIO  domain  is  a structurally conserved element of about 170 amino
+acids, which  constitute  a  hydrophobic  lipid  binding pocket. The CRAL-TRIO
+domain is  found  in  GTPase-activating  proteins  (GAPs),  guanine nucleotide
+exchange factors  (GEFs)  and a family of hydrophobic ligand binding proteins,
+including the  yeast  SEC14  protein  and  mammalian retinaldehyde- and alpha-
+tocopherol-binding proteins. The CRAL-TRIO domain may either constitute all of
+the protein or only part of it [1,2,3,4,5].
+
+The resolution of the crystal structure of SEC14 has revealed the structure of
+the CRAL-TRIO  lipid  binding  domain  (see  <PDB:1AUA>).  The CRAL-TRIO lipid
+binding domain  is  an  alpha/beta  domain,  which  forms  a large hydrophobic
+pocket. The  pocket  floor is constituted by six beta-strands and the sides of
+the cavity are formed by alpha-helices [3].
+
+Some proteins known to contain a CRAL-TRIO domain are listed below:
+
+ - Yeast  phosphatidylinositol-transfer  protein  (SEC14).  It is required for
+   transport of  secretory  proteins  from  the  golgi  complex in vivo and it
+   catalyzes the  transfer  of  phosphatidylinositol  and  phosphatidylcholine
+   between membranes in vitro.
+ - Animal retinal-binding protein.
+ - Animal  neurofibromin  (protein  NF-1).  In  human, defects in NF-1 are the
+   cause of  type  1  neurofibromatosis  (NF-1),  one  of  the  most  frequent
+   autosomal dominant diseases.
+ - Mammalian BCL2/adenovirus E1B 19 kDa  protein-interacting protein 2 (NIP2).
+   NIP2 is an apoptosis regulator.
+ - Mammalian guanine nucleotide exchange factor DBS (DBL's big sister).
+ - Mammalian  cellular  retinol  retinaldehyde-binding  protein  (CRALBP).  It
+   carries 11-cis-retinol  and  11-cis-retinaldehyde as endogenous ligands and
+   may be a functional component of the visual cycle.
+ - Mammalian  alpha-tocopherol  transfer  protein (alpha-TTP). It binds alpha-
+   tocopherol and enhances its transfer between separate membranes.
+ - Mammalian alpha-tocopherol-associated protein (TAP).
+
+The profile we developed covers the entire CRAL-TRIO domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2002 / First entry.
+
+[ 1] Salama S.R., Cleves A.E., Malehorn D.E., Whitters E.A.,
+     Bankaitis V.A.
+     "Cloning and characterization of Kluyveromyces lactis SEC14, a gene
+     whose product stimulates Golgi secretory function in Saccharomyces
+     cerevisiae."
+     J. Bacteriol. 172:4510-4521(1990).
+     PubMed=2198263
+[ 2] Sato Y., Arai H., Miyata A., Tokita S., Yamamoto K., Tanabe T.,
+     Inoue K.
+     "Primary structure of alpha-tocopherol transfer protein from rat
+     liver. Homology with cellular retinaldehyde-binding protein."
+     J. Biol. Chem. 268:17705-17710(1993).
+     PubMed=8349655
+[ 3] Sha B., Phillips S.E., Bankaitis V.A., Luo M.
+     "Crystal structure of the Saccharomyces cerevisiae
+     phosphatidylinositol-transfer protein."
+     Nature 391:506-510(1998).
+     PubMed=9461221; DOI=10.1038/35179
+[ 4] Aravind L., Neuwald A.F., Ponting C.P.
+     "Sec14p-like domains in NF1 and Dbl-like proteins indicate lipid
+     regulation of Ras and Rho signaling."
+     Curr. Biol. 9:R195-R197(1999).
+     PubMed=10209105
+[ 5] Zimmer S., Stocker A., Sarbolouki M.N., Spycher S.E., Sassoon J.,
+     Azzi A.
+     "A novel human tocopherol-associated protein: cloning, in vitro
+     expression, and characterization."
+     J. Biol. Chem. 275:25672-25680(2000).
+     PubMed=10829015; DOI=10.1074/jbc.M000851200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,86 @@
+********************************************************
+* Chitin-binding type R&R domain signature and profile *
+********************************************************
+
+Insect cuticle is composed of proteins and chitin. The cuticular proteins seem
+to be specific to the type of cuticle (flexible or stiff) that occur at stages
+of the insect development. The proteins found in the flexible cuticle of larva
+and pupa of different insects share a conserved C-terminal section [1]; such a
+region is  also found in the soft endocuticle of adults insects [2] as well as
+in other  cuticular  proteins including in arachnids [3]. This conserved motif
+of 35-36  amino  acids  is  known  as  the  R&R  consensus  since it was first
+recognized by Rebers and Riddiford. N-terminal to the consensus is a region of
+hydrophilic amino  acids.  The  two  regions  together  have  been  called the
+extended R&R  consensus and form an about 70 amino acids chitin-binding domain
+[4,5].
+
+The R&R  chitin-binding  domain  has  been proposed to constitute antiparallel
+beta-pleaated sheets [6].
+
+Some proteins known to contain a R&R chitin-binding domain are listed below:
+
+ - Locust  cuticle  proteins  7  (LM-7),  8 (LM-8), 19 (LM-19) and endocuticle
+   structural glycoprotein ABD-4.
+ - Hyalophora cecropia cuticle proteins 12 and 66.
+ - Drosophila larval cuticles proteins I, II, III and IV (LCP1 to LCP4).
+ - Drosophila pupal cuticle protein (PCP).
+ - Drosophila pupal cuticle proteins EDG-78E and EDG-84E.
+ - Manduca sexta cuticle protein LCP-14.
+ - Tenebrio molitor cuticle proteins ACP-20, A1A, A2B and A3A.
+ - Araneus  diadematus (spider) cuticle proteins ACP 11.9, ACP 12.4, ACP 12.6,
+   ACP 15.5 and ACP 15.7.
+
+We have  developed  both  a  pattern  and a profile for the R&R chitin-binding
+domain. The  pattern  covers the R&R consensus, whereas the profile covers the
+entire R&R chitin-binding domain.
+
+-Consensus pattern: G-x(7)-[DEN]-G-x(6)-[FY]-x-A-[DNG]-x(2,3)-G-[FY]-x-[APV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Rebers J.E., Riddiford L.M.
+     "Structure and expression of a Manduca sexta larval cuticle gene
+     homologous to Drosophila cuticle genes."
+     J. Mol. Biol. 203:411-423(1988).
+     PubMed=2462055
+[ 2] Talbo G., Hoejrup P., Rahbek-Nielsen H., Andersen S.O., Roepstorff P.
+     "Determination of the covalent structure of an N- and C-terminally
+     blocked glycoprotein from endocuticle of Locusta migratoria. Combined
+     use of plasma desorption mass spectrometry and Edman degradation to
+     study post-translationally modified proteins."
+     Eur. J. Biochem. 195:495-504(1991).
+     PubMed=1997327
+[ 3] Norup T., Berg T., Stenholm H., Andersen S.O., Hoejrup P.
+     "Purification and characterization of five cuticular proteins from the
+     spider Araneus diadematus."
+     Insect Biochem. Mol. Biol. 26:907-915(1996).
+     PubMed=9014336
+[ 4] Rebers J.E., Willis J.H.
+     "A conserved domain in arthropod cuticular proteins binds chitin."
+     Insect Biochem. Mol. Biol. 31:1083-1093(2001).
+     PubMed=11520687
+[ 5] Togawa T., Nakato H., Izumi S.
+     "Analysis of the chitin recognition mechanism of cuticle proteins from
+     the soft cuticle of the silkworm, Bombyx mori."
+     Insect Biochem. Mol. Biol. 34:1059-1067(2004).
+     PubMed=15475300; DOI=10.1016/j.ibmb.2004.06.008
+[ 6] Hamodrakas S.J., Willis J.H., Iconomidou V.A.
+     "A structural model of the chitin-binding domain of cuticle
+     proteins."
+     Insect Biochem. Mol. Biol. 32:1577-1583(2002).
+     PubMed=12530225
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

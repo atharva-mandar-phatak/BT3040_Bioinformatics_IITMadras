@@ -1,0 +1,60 @@
+*********************
+* Cyclins signature *
+*********************
+
+Cyclins [1,2,3]  are  eukaryotic   proteins  which  play  an  active  role  in
+controlling  nuclear  cell  division cycles.  Cyclins, together  with  the p34
+(cdc2)  or cdk2 kinases, form the Maturation Promoting Factor (MPF). There are
+two main groups of cyclins:
+
+ - G2/M  cyclins,  essential  for  the  control of the  cell cycle at the G2/M
+   (mitosis) transition.   G2/M cyclins  accumulate steadily during G2 and are
+   abruptly destroyed as cells exit from mitosis (at the end of the M-phase).
+ - G1/S  cyclins,  essential  for  the   control of the cell cycle at the G1/S
+   (start) transition.
+
+In most species, there are multiple  forms of  G1 and G2 cyclins. For example,
+in vertebrates,  there  are  two G2 cyclins, A and B,  and  at least  three G1
+cyclins, C, D, and E.
+
+A cyclin homolog has also been found in herpesvirus saimiri [4].
+
+The best conserved region is in the central  part  of  the cyclins' sequences,
+known as the 'cyclin-box', from which we have derived a 32 residue pattern.
+
+-Consensus pattern: R-x(2)-[LIVMSA]-x(2)-[FYWS]-[LIVM]-x(8)-[LIVMFC]-x(4)-
+                    [LIVMFYA]-x(2)-[STAGC]-[LIVMFYQ]-x-[LIVMFYC]-[LIVMFY]-D-
+                    [RKH]-[LIVMFYW]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for G1/S  cyclins  C  from  human and Drosophila, puc1 and mcs2 from  fission
+ yeast and CLG1, PCL1 (HCS26) and PCL2 (CLN4) from budding yeast.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Nurse P.
+     "Universal control mechanism regulating onset of M-phase."
+     Nature 344:503-508(1990).
+     PubMed=2138713
+[ 2] Norbury C., Nurse P.
+     "Cyclins and cell cycle control."
+     Curr. Biol. 1:23-24(1991).
+     PubMed=15336197
+[ 3] Lew D.J., I  Reed S.
+     "A proliferation of cyclins."
+     Trends Cell Biol. 2:77-81(1992).
+     PubMed=14731948
+[ 4] Nicholas J., Cameron K.R., Honess R.W.
+     "Herpesvirus saimiri encodes homologues of G protein-coupled receptors
+     and cyclins."
+     Nature 355:362-365(1992).
+     PubMed=1309943; DOI=10.1038/355362a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,63 @@
+*************************
+* Histone H3 signatures *
+*************************
+
+Histone H3  is  one  of  the  four histones, along with H2A, H2B and H4, which
+forms the  eukaryotic nucleosome core. It is a highly conserved protein of 135
+amino acid residues [1,2,E1].
+
+The following proteins have been found to contain a C-terminal H3-like domain:
+
+ - Mammalian  centromeric  protein  CENP-A  [3].  Could  act as a core histone
+   necessary for the assembly of centromeres.
+ - Yeast chromatin-associated protein CSE4 [4].
+ - Caenorhabditis  elegans  chromosome III encodes two highly related proteins
+   (F54C8.2 and  F58A4.3)  whose C-terminal section is evolutionary related to
+   the last  100  residues  of  H3.  The function of these proteins is not yet
+   known.
+
+We developed  two signature patterns, The first one corresponds to a perfectly
+conserved heptapeptide in the N-terminal part of H3. The second one is derived
+from a conserved region in the central section of H3.
+
+-Consensus pattern: K-A-P-R-K-[QH]-[LI]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the H3-like proteins and some protozoan H3.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-F-x-[RA]-L-[VA]-[KRQ]-[DEG]-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Wells D.E., Brown D.
+     "Histone and histone gene compilation and alignment update."
+     Nucleic Acids Res. 19:2173-2188(1991).
+     PubMed=2041803
+[ 2] Thatcher T.H., Gorovsky M.A.
+     "Phylogenetic analysis of the core histones H2A, H2B, H3, and H4."
+     Nucleic Acids Res. 22:174-179(1994).
+     PubMed=8121801
+[ 3] Sullivan K.F., Hechenberger M., Masri K.
+     "Human CENP-A contains a histone H3 related histone fold domain that
+     is required for targeting to the centromere."
+     J. Cell Biol. 127:581-592(1994).
+     PubMed=7962047
+[ 4] Stoler S., Keith K.C., Curnick K.E., Fitzgerald-Hayes M.
+     "A mutation in CSE4, an essential gene encoding a novel
+     chromatin-associated protein in yeast, causes chromosome
+     nondisjunction and cell cycle arrest at mitosis."
+     Genes Dev. 9:573-586(1995).
+     PubMed=7698647
+[E1] http://research.nhgri.nih.gov/histones/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

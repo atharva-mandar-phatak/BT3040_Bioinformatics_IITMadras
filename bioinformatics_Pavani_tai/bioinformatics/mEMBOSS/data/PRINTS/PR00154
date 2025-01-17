@@ -1,0 +1,21 @@
+AMPBINDING
+A number of prokaryotic and eukaryotic enzymes, which appear to act via an
+ATP-dependent covalent binding of AMP to their substrate, share a region
+of sequence similarity [1-3] - this region is a Ser/Thr/Gly-rich domain 
+that is further characterised by a conserved Pro-Lys-Gly triplet. The 
+family of enzymes includes luciferase, long chain fatty acid Co-A ligase, 
+acetyl-CoA synthetase and various other closely related synthetases.
+
+AMPBINDING is a 2-element fingerprint that provides a signature for the
+STG-rich domain of AMP-binding proteins. The fingerprint was derived from
+an initial alignment of 7 sequences: the motifs span the STG-rich domain,
+motif 2 including the PKG triplet (cf. PROSITE pattern AMP_BINDING
+(PS00455)). Two iterations on OWL11.0 were required to reach convergence,
+at which point a true set comprising 13 sequences was identified, including
+the ORA octapeptide-repeat antigen, and angR, a Vibrio anguillarum protein
+believed to be a transcriptional activator [4]. On the basis of the
+presence of this AMP-binding domain, however, together with other
+indicators, it is thought that angR may be an enzyme involved in
+anguibactin biosynthesis (see PROSITE pattern AMP_BINDING).
+
+An update on SPTR37_9f identified a true set of 157 sequences.

@@ -1,0 +1,31 @@
+MECHCHANNEL
+Mechano-sensitive channels are ion channels that are directly activated by
+stretch forces in the membrane lipid bilayer. Such channels have been
+detected in neurones, heart, lens, muscle and blood cells of animals.
+They are also present in plant cells, yeast and bacteria. Following
+solubilisation and purification, a bacterial envelope protein thought to be
+a mechano-sensitive channel was isolated from E.coli. This was partially
+sequenced and used to identify and clone the corresponding gene (mscL).
+Subsequent experiments demonstrated that expression of this gene alone is
+sufficient to produce a large-conductance mechano-sensitive channel with
+similar properties to those found for mechano-sensitive channels in native 
+bacterial membranes [1].
+
+mscL encodes a protein of 136 amino acid residues. The first ~3/4 of the
+sequence is highly hydrophobic and is thought to contain two transmembrane
+(TM) domains. mscL homologues have also been identified in a number of 
+Gram-positive bacteria. They do not show significant sequence similarity to
+other ion channel subunits that are predicted to contain 2 TM domains, such
+as the P2X receptors and the extended epithelial sodium channel family [2].
+
+MECHCHANNEL is a 3-element fingerprint that provides a signature for
+bacterial mechano-sensitive ion channels. The fingerprint was derived from
+an initial alignment of 9 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal 3/4 of the alignment - motif 1 spans the end
+of the putative cytoplasmic N-terminus, and the start of the following
+TM domain; motif 2 lies in the second TM domain; and motif 3 spans the end
+of the second TM domain and the start of the putative cytoplasmic C-terminus.
+A single iteration on SPTR37_10f was required to reach convergence, no
+further sequences being identified beyond the starting set. A single partial
+match was found, Q9Z5G4, a Mycobacterium leprae sequence that is presumed
+to be a mechano-sensitive ion channel.

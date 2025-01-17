@@ -1,0 +1,142 @@
+*********************************************
+* Calcium-binding EGF-like domain signature *
+*********************************************
+
+A sequence  of  about  forty amino-acid residues long found in the sequence of
+epidermal growth  factor  (EGF)  has been shown [1-6] to be present in a large
+number of  membrane-bound  and  extracellular,  mostly  animal  proteins  (see
+<PDOC00021>). Many  of  these  proteins  require  calcium for their biological
+function and  a  calcium-binding  site  has  been  found  to be located at the
+N-terminus of  some  EGF-like  domains [8]. Calcium-binding may be crucial for
+numerous protein-protein  interactions.  Proteins that are  known  or that are
+predicted to contain calcium-binding EGF-like domains are listed below.
+
+ - Bone morphogenic protein 1 (BMP-1), a  protein which induces cartilage  and
+   bone formation  and  which  expresses  metalloendopeptidase  activity  (1-2
+   copies). Homologous proteins are found in sea urchin - suBMP (1 copy) - and
+   in Drosophila - the dorsal-ventral patterning protein tolloid (2 copies).
+ - Caenorhabditis  elegans  developmental proteins lin-12 (2 out of 13 copies)
+   and glp-1 (10 copies).
+ - Calcium-dependent serine proteinase (CASP) which degrades the extracellular
+   matrix proteins type I and IV collagen and fibronectin (1 copy).
+ - Cartilage oligomeric matrix protein COMP (2 out of 4 copies).
+ - Coagulation factors VII, IX, and X (1 out of 2 copies).
+ - Complement C1r components (1 copy).
+ - Complement C1s components (1 copy).
+ - Complement-activating component of Ra-reactive factor (RARF) (1 copy).
+ - Crumbs,  an  epithelial  development  protein from Drosophila (12 out of 29
+   copies).
+ - Epidermal growth factor precursor (3 out of 9 copies).
+ - Fibrillin 1 and fibrillin 2 (43 out of 47 copies).
+ - Fibropellins  IA  (8 out of 21 copies) and III (6 out of 8 copies) from the
+   apical lamina - a component of the  extracellular matrix - of sea urchin.
+ - Fibulin-1  (8  out  of  9  copies)  and  fibulin-2 (9-10 out of 10-11), two
+   extracellular matrix proteins.
+ - Leucocyte antigen CD97 (2 out of 3 copies), cell surface  glycoprotein EMR1
+   (5 out of 6 copies) and cell surface glycoprotein F4/80 (6 out 7 copies).
+ - LDL  receptors, which bind and transport low-density lipoproteins (1 out of
+   3 copies).
+ - Neurogenic  proteins  Notch  (21-22 out of 36), Xotch (21 out of 36), Motch
+   (16 out  of 34) and the human homolog Tan-1 (18 out of 36), Delta (2 out of
+   9 copies),  Drosophila  Serrate  (5  out of 14 copies) and Slit (2 out of 7
+   copies).
+ - Nidogen (also called entactin), a basement membrane protein from sea squirt
+   (0 out of 2) and mammals (2 out of 6).
+ - Proteoglycans  versican  (1  out  of  2  copies)  and  chondroitin  sulfate
+   proteoglycan (gene PG-M) (1 out of 2 copies).
+ - S1-5,  a  human  extracellular  protein whose ultimate activity is probably
+   modulated by the environment (5 copies).
+ - Thrombomodulin   (fetomodulin),  which  together  with  thrombin  activates
+   protein C (2 out of 6 copies).
+ - Thrombospondins  1 and 2  (1 out of 3 copies), 3 and 4 (2 out of 4 copies),
+   adhesive  glycoproteins  that mediate   cell-to-cell   and   cell-to-matrix
+   interactions.
+ - Thyroid peroxidase 1 (EC 1.11.1.8) (1 copy).
+ - Transforming  growth  factor  beta-1 binding protein (TGF-B1-BP) (14 out of
+   16 or 18 copies).
+ - Uromodulin (Tamm-horsfall urinary glycoprotein) (THP) (2 out of 3 copies).
+ - Vitamin K-dependent anticoagulant protein S (3 out of 4 copies).
+ - 63 Kd sperm flagellar membrane protein from sea urchin (1 out of 3 copies).
+ - 93 Kd protein (gene nel) from chicken (2 out of 5 copies).
+ - Hypothetical   337.6  Kd  protein  T20G5.3  from  Caenorhabditis elegans (1
+   out of 44 copies).
+
+For human coagulation factor IX it has been shown [7] that the calcium-ligands
+form a pentagonal bipyramid.  The first, third and fourth conserved negatively
+charged or   polar  residues  are  side  chain  ligands.  Latter  is  possibly
+hydroxylated (see  <PDOC00010>)  [8].  A conserved aromatic residue as well as
+the second   conserved   negative  residue  are  thought  to  be  involved  in
+stabilizing the calcium-binding site.
+
+Like in non-calcium binding EGF-like domains there are six conserved cysteines
+and the  structure  of  both  types is very similar as calcium-binding induces
+only strictly local structural changes [8].
+
+                             +------------------+        +---------+
+                             |                  |        |         |
+               nxnnC-x(3,14)-C-x(3,7)-CxxbxxxxaxC-x(1,6)-C-x(8,13)-Cx
+               ****|******************|**********
+                   +------------------+
+
+'n': negatively charged or polar residue [DEQN]
+'b': possibly beta-hydroxylated residue [DN]
+'a': aromatic amino acid
+'C': cysteine, involved in disulfide bond
+'x': any amino acid
+'*': position of patterns.
+
+We have  used the N-terminal part of the EGF domain as a consensus pattern. It
+includes the negative N-terminus and the possible hydroxylation site.
+
+-Consensus pattern: [DEQN]-x-[DEQN](2)-C-x(3,14)-C-x(3,7)-C-x-[DN]-x(4)-[FY]-
+                    x-C
+                    [The 4 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Downing A.K.; kristy@bioch.ox.ac.uk
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Davis C.G.
+     "The many faces of epidermal growth factor repeats."
+     New Biol. 2:410-419(1990).
+     PubMed=2288911
+[ 2] Blomquist M.C., Hunt L.T., Barker W.C.
+     "Vaccinia virus 19-kilodalton protein: relationship to several
+     mammalian proteins, including two growth factors."
+     Proc. Natl. Acad. Sci. U.S.A. 81:7363-7367(1984).
+     PubMed=6334307
+[ 3] Barker W.C., Johnson G.C., Hunt L.T., George D.G.
+     Protein Nucl. Acid Enz. 29:54-68(1986).
+[ 4] Doolittle R.F., Feng D.F., Johnson M.S.
+     "Computer-based characterization of epidermal growth factor
+     precursor."
+     Nature 307:558-560(1984).
+     PubMed=6607417
+[ 5] Appella E., Weber I.T., Blasi F.
+     "Structure and function of epidermal growth factor-like regions in
+     proteins."
+     FEBS Lett. 231:1-4(1988).
+     PubMed=3282918
+[ 6] Campbell I.D., Bork P.
+     Curr. Opin. Struct. Biol. 3:385-392(1993).
+[ 7] Rao Z., Handford P., Mayhew M., Knott V., Brownlee G.G., Stuart D.
+     "The structure of a Ca(2+)-binding epidermal growth factor-like
+     domain: its role in protein-protein interactions."
+     Cell 82:131-141(1995).
+     PubMed=7606779
+[ 8] Selander-Sunnerhagen M., Ullner M., Persson E., Teleman O., Stenflo J.,
+     Drakenberg T.
+     J. Biol. Chem. 267:19642-19649(1992).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

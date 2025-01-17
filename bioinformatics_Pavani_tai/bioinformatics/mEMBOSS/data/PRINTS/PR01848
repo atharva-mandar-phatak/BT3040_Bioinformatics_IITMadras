@@ -1,0 +1,28 @@
+U2AUXFACTOR
+The U2 small nuclear ribonucleoprotein auxiliary factor (U2AF) is a
+heterodimeric splicing factor composed of a large and a small subunit. The
+large U2AF subunit recognises the intronic polypyrimidine tract, a
+sequence located adjacent to the 3' splice site that serves as an important
+signal for both constitutive and regulated pre-mRNA splicing. The small
+subunit interacts with the 3' splice site dinucleotide AG and is essential
+for regulated splicing. The subunits shuttle continuously between the
+nucleus and the cytoplasm via a mechanism that involves carrier receptors 
+and is independent of binding to mRNA. Both subunits contain an arginine/
+serine-rich (RS) domain, which acts as a nuclear localisation signal.
+Furthermore, the presence of an RS domain on either subunit is sufficient 
+to trigger the nucleocytoplasmic import of the heterodimeric complex [1].
+
+The human form of the U2 auxilliary factor small subunit, hU2AF35, contains
+a degenerate RNA recognition motif (RRM) and a C-terminal RS domain. The
+murine form has been shown to be genomically imprinted with monoallelic
+expression from the paternal allele [2]. However, this is not the case in
+humans [3].
+
+U2AUXFACTOR is a 6-element fingerprint that provides a signature for the U2
+auxiliary factor small subunit proteins. The fingerprint was derived from an
+initial alignment of 17 sequences: the motifs were drawn from the C-terminal
+portion of the alignment, motifs 2-5 spanning the RNA-binding domain. Two
+iterations on SPTR40_20f were required to reach convergence, at which point
+a true set comprising 22 sequences was identified. A single partial match 
+was also found, a human hypothetical 22.0kDa protein that matches motifs
+1 and 4.

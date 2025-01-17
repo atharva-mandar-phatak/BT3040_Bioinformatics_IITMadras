@@ -1,0 +1,93 @@
+*****************************************
+* Arginase family signature and profile *
+*****************************************
+
+Arginase   family   proteins   are  ureohydrolases  with  important  roles  in
+arginine/agmatine metabolism, the urea cycle, histidine degradation, and other
+pathways. The family includes arginase and evolutionary related [1] enzymes of
+about  300 amino acids that typically contain two manganese ions in the active
+site.
+
+Some proteins that belong to the arginase family are listed below:
+
+ - Arginase  (EC 3.5.3.1), a ubiquitous enzyme which catalyzes the degradation
+   of arginine to ornithine and urea [2]. Two isoenzymes are found in mammals.
+   Arginase-1  catalyzes  the final cytosolic step of the urea cycle in liver,
+   but  it is also found in non-hepatic tissues. Arginase-2 is a mitochondrial
+   enzyme  that  functions  in  arginine  homeostasis  in  nonhepatic tissues.
+   Deficiency  of arginase can lead to diseases related to the accumulation of
+   arginine or ammonia.
+ - Agmatinase (EC 3.5.3.11)  (agmatine  ureohydrolase), a  prokaryotic  enzyme
+   (gene speB) that catalyzes the  hydrolysis of  agmatine into putrescine and
+   urea.
+ - Formiminoglutamase   (EC  3.5.3.8)    (formiminoglutamate    hydrolase),  a
+   prokaryotic enzyme  (gene  hutG) that hydrolyzes N-formimino-glutamate into
+   glutamate and formamide.
+ - Proclavaminate    amidinohydrolase    (EC   3.5.3.22)   from   Streptomyces
+   clavuligerus  (gene  pah), an enzyme involved in antibiotic clavulanic acid
+   biosynthesis.
+ - Guanidinobutyrase  (EC 3.5.3.7) from Arthrobacter sp. (gene gbh), an enzyme
+   that  hydrolyzes  guanidinobutanoate  into aminobutanoate and urea and that
+   requires one zinc ion instead of manganese.
+ - Hypothetical proteins from methanogenic archaebacteria.
+
+Known  3-D  structures  of  such enzymes show trimeric or hexameric structures
+[3-6].  Each monomer forms a conserved alpha/beta fold with a central parallel
+beta-sheet flanked on both sides by several alpha-helices (see <PDB:1RLA; B>).
+Three  conserved  regions  that contain charged residues which are involved in
+the  binding  of the two manganese ions in the active site are located in loop
+segments  of  the  central beta-sheet [3-6]. We have used one of these regions
+for  a  signature pattern and we have also developed a profile that covers the
+entire arginase structure.
+
+-Consensus pattern: [ST]-[LIVMFY]-D-[LIVM]-D-x(3)-[PAQ]-x(3)-P-[GSA]-x(7)-G
+                    [The 2 D's bind manganese]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ouzounis C.; ouzounis@ebi.ac.uk
+
+-Last update: November 2008 / Text revised; profile added; patterns deleted.
+
+[ 1] Ouzounis C.A., Kyrpides N.C.
+     "On the evolution of arginases and related enzymes."
+     J. Mol. Evol. 39:101-104(1994).
+     PubMed=8064866
+[ 2] Jenkinson C.P., Grody W.W., Cederbaum S.D.
+     "Comparative properties of arginases."
+     Comp. Biochem. Physiol. 114B:107-132(1996).
+     PubMed=8759304
+[ 3] Kanyo Z.F., Scolnick L.R., Ash D.E., Christianson D.W.
+     "Structure of a unique binuclear manganese cluster in arginase."
+     Nature 383:554-557(1996).
+     PubMed=8849731
+[ 4] Elkins J.M., Clifton I.J., Hernandez H., Doan L.X., Robinson C.V.,
+     Schofield C.J., Hewitson K.S.
+     "Oligomeric structure of proclavaminic acid amidino hydrolase:
+     evolution of a hydrolytic enzyme in clavulanic acid biosynthesis."
+     Biochem. J. 366:423-434(2002).
+     PubMed=12020346; DOI=10.1042/BJ20020125
+[ 5] Ahn H.J., Kim K.H., Lee J., Ha J.Y., Lee H.H., Kim D., Yoon H.J.,
+     Kwon A.R., Suh S.W.
+     "Crystal structure of agmatinase reveals structural conservation and
+     inhibition mechanism of the ureohydrolase superfamily."
+     J. Biol. Chem. 279:50505-50513(2004).
+     PubMed=15355972; DOI=10.1074/jbc.M409246200
+[ 6] Dowling D.P., Di Costanzo L., Gennadios H.A., Christianson D.W.
+     "Evolution of the arginase fold and functional diversity."
+     Cell. Mol. Life Sci. 65:2039-2055(2008).
+     PubMed=18360740; DOI=10.1007/s00018-008-7554-z
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

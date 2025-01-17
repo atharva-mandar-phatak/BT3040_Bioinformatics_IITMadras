@@ -1,0 +1,27 @@
+BCTERIALGSPD
+The general (type II) secretion pathway (GSP) within Gram-negative bacteria
+is a signal sequence-dependent process repsonsible for protein export [1-3].
+The process has two stages: exoproteins are first translocated across the
+inner membrane by the general signal-dependent export pathway (GEP), and 
+then across the outer membrane by a species-specific accessory mechanism. 
+
+A number of proteins are involved in the GSP; one of these is known as 
+protein D (GSPD protein), the most probable location of which is the outer
+membrane [4]. This suggests that protein D constitutes the apparatus of the 
+accessory mechanism, and is thus involved in transporting exoproteins from
+the periplasm, across the outer membrane, to the extracellular environment.
+
+BCTERIALGSPD is a 5-element fingerprint that provides a signature for 
+general secretion pathway protein D. The fingerprint was derived from
+an initial alignment of 9 sequences: the motifs were drawn from conserved
+regions within the C-terminal portion of the alignment - motif 4 includes
+part of the region encoded by PROSITE pattern T2SP_D (PS00875), which
+includes two conserved proline residues. Two iterations on OWL30.0 were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified. Several partial matches were also found: those
+matching 3 motifs are related gene IV and fimbrial assembly proteins, most
+of which match motifs 1, 2 and 4; those matching 2 motifs are related
+secretion proteins. 
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 18
+partial matches.

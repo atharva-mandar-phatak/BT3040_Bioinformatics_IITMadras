@@ -1,0 +1,31 @@
+NCTRNSLOCATR
+The Ah (dioxin) receptor binds, and mediates the carcinogenic effects of, a
+variety of environmental pollutants, including 2,3,7,8-tetrachlorodibenzo-
+p-dioxin and polycyclic aromatic hydrocarbons [1]. The ligand-bound receptor
+activates Cyp 1a1 gene transcription through interaction with specific DNA
+sequences, so-called xenobiotic responsive elements (XREs). The Ah receptor 
+nuclear translocator protein (Arnt) is required for Ah receptor function 
+[1]. Arnt is a structural component of the XRE-binding form of the Ah
+receptor [1]; it contains a basic helix-loop-helix (HLH) motif, which may
+be  responsible for interacting with both the XRE and the ligand-binding
+subunit [1]. 
+
+The activated Ah receptor and Arnt protein bind DNA as a heterodimer. Both
+proteins contain PAS homology regions, which in Drosophila PER and SIM
+proteins function as dimerisation domains [2].
+
+NCTRNSLOCATR is a 9-element fingerprint that provides a signature for
+nuclear translocator proteins. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal portion of the alignment preceding the
+glutamine-rich domain - motifs 1 and 2 span the HLH motif, motif 2
+including the amphipathic helix encoded by PROSITE pattern HELIX_LOOP_HELIX
+(PS00038); motifs 4 and 5 span the first PAS domain; and motif 9 includes
+the N-terminus of the second PAS domain. Two iterations on OWL29.4 were 
+required to reach convergence, at which point a true set comprising 18
+sequences was identified. Several partial matches were also found, all
+of which are fragments and family members that fail to make significant
+matches with one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 39
+partial matches.

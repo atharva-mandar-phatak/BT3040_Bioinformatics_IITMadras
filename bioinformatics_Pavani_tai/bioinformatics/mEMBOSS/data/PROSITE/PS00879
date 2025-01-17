@@ -1,0 +1,72 @@
+**************************************************
+* Orn/DAP/Arg decarboxylases family 2 signatures *
+**************************************************
+
+Pyridoxal-dependent decarboxylases  acting  on ornithine, lysine, arginine and
+related substrates  can be classified into two different families on the basis
+of sequence similarities [1,2,3]. The second family consists of:
+
+ - Eukaryotic  ornithine decarboxylase (EC 4.1.1.17) (ODC).  ODC catalyzes the
+   transformation of ornithine into putrescine.
+ - Prokaryotic  diaminopimelic acid decarboxylase (EC 4.1.1.20) (DAPDC). DAPDC
+   catalyzes the conversion of diaminopimelic acid into lysine; the last  step
+   in the biosynthesis of lysine.
+ - Pseudomonas syringae pv. tabaci protein tabA. tabA  is probably involved in
+   the biosynthesis of tabtoxin and is highly similar to DAPDC.
+ - Bacterial  and  plant  biosynthetic  arginine  decarboxylase  (EC 4.1.1.19)
+   (ADC). ADC  catalyzes  the  transformation  of  arginine into agmatine, the
+   first step in the biosynthesis of putrescine from arginine.
+
+The above  proteins,  while  most  probably evolutionary related, do not share
+extensive regions  of sequence similarities.  We selected two of the conserved
+regions as  signature  patterns. The first pattern contains a conserved lysine
+residue which is known, in mouse ODC [4], to be the site  of attachment of the
+pyridoxal-phosphate group.  The  second  pattern  contains a  stretch of three
+consecutive glycine residues and has  been proposed to be part of a substrate-
+binding region [5].
+
+These enzymes are collectively known as group IV decarboxylases [3].
+
+-Consensus pattern: [FY]-[PA]-x-K-[SACV]-[NHCLFW]-x(4)-[LIVMF]-[LIVMTA]-x(2)-
+                    [LIVMA]-x(3)-[GTE]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSA]-x(2,6)-[LIVMSCP]-x-{N}-[LIVMF]-[DNS]-[LIVMCA]-G(3)-
+                    [LIVMFY]-[GSTPCEQ]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1993).
+[ 2] Martin C., Cami B., Yeh P., Stragier P., Parsot C., Patte J.-C.
+     Mol. Biol. Evol. 5:549-559(1988).
+[ 3] Sandmeier E., Hale T.I., Christen P.
+     "Multiple evolutionary origin of pyridoxal-5'-phosphate-dependent
+     amino acid decarboxylases."
+     Eur. J. Biochem. 221:997-1002(1994).
+     PubMed=8181483
+[ 4] Poulin R., Lu L., Ackermann B., Bey P., Pegg A.E.
+     "Mechanism of the irreversible inactivation of mouse ornithine
+     decarboxylase by alpha-difluoromethylornithine. Characterization of
+     sequences at the inhibitor and coenzyme binding sites."
+     J. Biol. Chem. 267:150-158(1992).
+     PubMed=1730582
+[ 5] Moore R.C., Boyle S.M.
+     "Nucleotide sequence and analysis of the speA gene encoding
+     biosynthetic arginine decarboxylase in Escherichia coli."
+     J. Bacteriol. 172:4631-4640(1990).
+     PubMed=2198270
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

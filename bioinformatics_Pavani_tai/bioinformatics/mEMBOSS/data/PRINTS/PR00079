@@ -1,0 +1,22 @@
+G6PDHDRGNASE
+Glucose-6-phosphate dehydrogenase (G6PDH) is a ubiquitous protein, present
+in bacteria and all eukaryotic cell types [1]. The enzyme catalyses the
+the first step in the pentose pathway, i.e. the conversion of glucose-6-
+phosphate to gluconolactone 6-phosphate in the presence of NADP, producing
+NADPH [1]. The ubiquitous expression of the enzyme gives it a major role
+in the production of NADPH for the many NADPH-mediated reductive processes 
+in all cells [1,2]. Deficiency of G6PDH is a common genetic abnormality 
+affecting millions of people worldwide [2]: many sequence variants, most
+caused by single point mutations, are known, exhibiting a wide variety of 
+phenotypes [2].
+
+G6PDHDRGNASE is a 5-element fingerprint that provides a signature for 
+glucose-6-phosphate dehydrogenases. The fingerprint was derived from an
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions within the central portion of the alignment, motif 2 including the
+region encoded by PROSITE pattern G6P_DEHYDROGENASE (PS00069), a totally
+conserved heptapeptide which contains the active lysine. Two iterations
+on OWL25.1 were required to reach convergence, at which point a true set
+comprising 24 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 57 sequences.

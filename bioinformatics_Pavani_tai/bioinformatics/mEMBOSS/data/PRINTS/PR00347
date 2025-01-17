@@ -1,0 +1,35 @@
+THAUMATIN
+Pathogenesis related (PR) proteins, which are induced by various agents 
+ranging from ethylene to pathogens, are structurally diverse and apparently
+ubiquitous in plants [1]: they include thaumatin, osmotin, tobacco major
+and minor PR proteins, alpha-amylase/trypsin inhibitor, and P21 and PWIR2
+soybean and wheat leaf proteins. The proteins are involved in systematically
+acquired resistance and stress response in plants, although their precise
+role is unknown [1]. Thaumatin is an intensely sweet tasting protein
+(about 100,000 times sweeter than sucrose [2]) found in the West African
+shrub Thaumatacoccus danielli: it is induced by attack by viroids, which
+are single-stranded unencapsulated RNA molecules that do not code for 
+protein. Like other PR proteins, thaumatin is predicted to have a mainly
+beta structure, with a high content of beta-turns and little helix [1].
+
+Tobacco cells exposed to gradually increased salt concentrations develop a
+greatly increased tolerance to salt, due to the expression of osmotin [3],
+a member of the PR protein family. Wheat plants attacked by barley powdery
+mildew express a PR protein (PWIR2), which results in resistance against
+that infection [4]. The similarity between this and other PR proteins to
+the maize alpha-amylase/trypsin inhibitor has suggested that PR proteins
+may act as some form of inhibitor [4].
+
+THAUMATIN is a 6-element fingerprint that provides a signature for
+thaumatin and pathogenesis-related proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length, motif 4 including the
+region encoded by PROSITE pattern THAUMATIN (PS00316), which contains 3
+Cys residues known to be involved in disulphide bond formation. Two
+iterations on OWL22.1 were required to reach convergence, at which point
+a true set comprising 22 sequences was identified. Two partial matches
+were also found, both of which are osmotin-like proteins that fail to make
+significant matches with motifs 2 and 4.
+
+An update on SPTR37_9f identified a true set of 32 sequences, and 22
+partial matches.

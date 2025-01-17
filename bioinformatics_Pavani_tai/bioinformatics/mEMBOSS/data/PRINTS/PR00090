@@ -1,0 +1,24 @@
+RNGDIOXGNASE
+Ring hydroxylating dioxygenases are multicomponent 1,2-dioxygenase complexes
+that convert closed-ring structures to non-aromatic cis-diols [1]. The
+complex has both hydroxylase (containing alpha- and beta-subunits) and
+electron transfer components [1]. Sequence analysis of hydroxylase subunits
+of ring hydroxylating systems (including toluene, benzene and napthalene
+1,2-dioxygenases) suggests they are derived from a common ancestor [1]. The
+alpha-subunit binds both a Rieske-like 2Fe-2S cluster and an iron atom:
+conserved Cys and His residues in the N-terminal region may provide 2Fe-2S
+ligands, while conserved His and Tyr residues may coordinate the iron [1].
+The beta subunit may be responsible for the substrate specifcity of the
+dioxygenase system [1].
+
+RNGDIOXGNASE is a 6-element fingerprint that provides a signature for the
+dioxygenase system hydroxylase alpha-subunits. The fingerprint was derived
+from an initial alignment of 5 sequences: the motifs were drawn from the
+conserved N-terminal half of the alignment, motifs 3 and 4 spanning the
+region encoded by PROSITE pattern RING_HYDROXYL_ALPHA (PS00570), which
+contains the 2 Cys and 2 His residues implicated in 2Fe-2S cluster binding.
+Two iterations on OWL25.1 were required to reach convergence, at which
+point a true set comprising 16 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 48 sequences, and 9
+partial matches.

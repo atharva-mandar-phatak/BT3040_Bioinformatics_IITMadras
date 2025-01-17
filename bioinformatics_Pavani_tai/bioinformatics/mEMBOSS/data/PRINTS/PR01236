@@ -1,0 +1,39 @@
+TNFBETA
+Tumor necrosis factor (TNF) (or cachectin) is a monocyte-derived cytotoxin
+that has been implicated in tumour regression, septic shock and cachexia
+[1,2]. The protein is synthesised as a prohormone with an unusually long 
+and atypical signal sequence, which is absent from the mature secreted
+cytokine [3]. A short hydrophobic stretch of amino acids serves to anchor 
+the prohormone in lipid bilayers [4]. Both the mature protein and a 
+partially-processed form of the hormone are secreted after cleavage of the
+propeptide [4]. 
+
+Lymphotoxin-alpha (LT-alpha or TNF-beta) and lymphotoxin-beta (LT-beta) are
+related cytokines produced by lymphocytes. The proteins are cytotoxic for a
+wide range of tumour cells in vitro and in vivo.
+
+The structure of TNF-beta has been determined to 1.9A using X-ray 
+crystallography and phase determination via molecular replacement using 
+TNF-alpha [5]. Like TNF-alpha, lymphotoxin folds to form a 'jellyroll' beta-
+sheet sandwich. Three-fold related LT subunits form a trimer primarily
+stabilised by hydrophobic interactions [5]. A cluster of 6 basic residues 
+around the 3-fold axis is thought to account for the acid lability of the
+trimer. Although the structural cores of TNF-alpha and LT are similar,
+insertions and deletions relative to TNF-alpha occur in loops at the "top"
+of the LT trimer, significantly altering the local structure [5]. The
+sites of two mutations (Asp-50 and Tyr-108) that abolish the cytotoxicity 
+of LT are contained within poorly-ordered loops that flank the cleft between
+neighboring subunits at the base of the molecule, suggesting that the
+receptor recognises an intersubunit binding site [5].
+
+TNFBETA is a 7-element fingerprint that provides a signature for tumour 
+necrosis factor beta. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise TNF-beta but distinguish it from the rest of the TNF
+family - motifs 1-2 were drawn from the N-terminus; motif 3 encodes beta-
+strands 2 and 3; motif 4 spans strands 4, 5 and the N-terminus of strand 6;
+motif 5 encodes helix 1 and strand 7; motif 6 spans strand 8 and the 
+N-terminus of strand 9; and motif 7 spans strand 10 and helix 2. A single
+iteration on SPTR37_10f was required to reach convergence, no further 
+sequences being identified beyond the starting set.

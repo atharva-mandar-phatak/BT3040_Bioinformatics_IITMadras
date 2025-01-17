@@ -1,0 +1,79 @@
+********************************************
+* HlyD family secretion proteins signature *
+********************************************
+
+Gram-negative bacteria  produce  a  number of proteins which are secreted into
+the growth medium by a mechanism that  does  not  require a cleaved N-terminal
+signal sequence. These proteins, while having different functions, require the
+help of two or more proteins  for  their  secretion  across the cell envelope.
+Amongst which a  protein  belonging  to  the  ABC transporters family (see the
+relevant entry  <PDOC00185>)  and  a  protein  belonging  to a family which is
+currently composed [1 to 5] of the following members:
+
+ Gene  Species                  Protein which is exported
+ ----  ----------------------   --------------------------------------------
+ hlyD  Escherichia coli         Hemolysin
+ appD  A.pleuropneumoniae       Hemolysin
+ lcnD  Lactococcus lactis       Lactococcin A
+ lktD  A.actinomycetemcomitans  Leukotoxin
+       Pasteurella haemolytica
+ rtxD  A.pleuropneumoniae       Toxin-III
+ cyaD  Bordetella pertussis     Calmodulin-sensitive adenylate cyclase-
+                                hemolysin (cyclolysin)
+ cvaA  Escherichia coli         Colicin V
+ prtE  Erwinia chrysanthemi     Extracellular proteases B and C
+ aprE  Pseudomonas aeruginosa   Alkaline protease
+ emrA  Escherichia coli         Drugs and toxins
+ yjcR  Escherichia coli         Unknown
+
+These proteins  are  evolutionary related and consist of from 390 to 480 amino
+acid residues. They  seem to be anchored in the inner membrane by a N-terminal
+transmembrane region.  Their  exact  role in the  secretion process is not yet
+known.
+
+The C-terminal section of these proteins is the best conserved region; we have
+derived a signature pattern from that region.
+
+-Consensus pattern: [LIVM]-x(2)-G-[LM]-x(3)-[STGAV]-x-[LIVMT]-x-[LIVMTK]-[GE]-
+                    x-[KR]-x-[LIVMFYW](2)-x-[LIVMFYW](2)-[LIVMFYWK]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for emrA and yjcR.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Gilson L., Mahanty H.K., Kolter R.
+     "Genetic analysis of an MDR-like export system: the secretion of
+     colicin V."
+     EMBO J. 9:3875-3894(1990).
+     PubMed=2249654
+[ 2] Letoffe S., Delepelaire P., Wandersman C.
+     "Protease secretion by Erwinia chrysanthemi: the specific secretion
+     functions are analogous to those of Escherichia coli
+     alpha-haemolysin."
+     EMBO J. 9:1375-1382(1990).
+     PubMed=2184029
+[ 3] Stoddard G.W., Petzel J.P., van Belkum M.J., Kok J., McKay L.L.
+     "Molecular analyses of the lactococcin A gene cluster from Lactococcus
+     lactis subsp. lactis biovar diacetylactis WM4."
+     Appl. Environ. Microbiol. 58:1952-1961(1992).
+     PubMed=1622271
+[ 4] Duong F., Lazdunski A., Cami B., Murgier M.
+     "Sequence of a cluster of genes controlling synthesis and secretion of
+     alkaline protease in Pseudomonas aeruginosa: relationships to other
+     secretory pathways."
+     Gene 121:47-54(1992).
+     PubMed=1427098
+[ 5] Lewis K.
+     "Multidrug resistance pumps in bacteria: variations on a theme."
+     Trends Biochem. Sci. 19:119-123(1994).
+     PubMed=8203018
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

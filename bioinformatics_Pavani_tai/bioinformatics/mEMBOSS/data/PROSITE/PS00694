@@ -1,0 +1,49 @@
+***************************************************************
+* Enterobacterial virulence outer membrane protein signatures *
+***************************************************************
+
+A number  of enterobacterial outer  membrane  proteins  which  are involved in
+virulence and seem to promote  the invasion of bacteria into  eukaryotic cells
+have been  shown [1,2]  to be structurally related.  These proteins are listed
+below.
+
+ - Escherichia  coli  and  Enterobacter cloacae outer membrane protein X (gene
+   ompX).
+ - Salmonella typhimurium virulence membrane protein pagC.
+ - Yersinia enterocolitica attachment invasion locus protein (gene ail).
+ - Bacteriophage lambda outer membrane protein lom.  Lom  is  expressed during
+   lysogeny in Escherichia coli.
+
+These outer membrane  proteins  have from 150 to 170  amino  acid residues and
+their sequences are well conserved.  We selected the two most highly conserved
+regions as signature patterns. The  first pattern is located in the N-terminal
+section of these proteins; the second is located at the C-terminal extremity.
+
+-Consensus pattern: G-[LIVMFY]-N-[LIVM]-K-Y-R-Y-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FYW]-x(2)-G-x-G-Y-[KR]-F>
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: November 1995 / Text revised.
+
+[ 1] van de Klundert J.A.M.
+     J. Bacteriol. 173:156-160(1991).
+[ 2] Pulkkinen W.S., Miller S.I.
+     "A Salmonella typhimurium virulence protein is similar to a Yersinia
+     enterocolitica invasion protein and a bacteriophage lambda outer
+     membrane protein."
+     J. Bacteriol. 173:86-93(1991).
+     PubMed=1846140
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

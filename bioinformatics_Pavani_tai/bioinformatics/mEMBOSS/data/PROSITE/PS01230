@@ -1,0 +1,51 @@
+************************************************
+* RNA methyltransferase trmA family signatures *
+************************************************
+
+In Escherichia coli, the trmA protein  is a tRNA (uracil-5-)-methyltransferase
+(EC 2.1.1.35) that catalyzes the S-adenosylmethionine dependent methylation of
+U54 in  all  tRNAs. Orthologs of trmA are found in many eubacterial species. A
+number of uncharacterized homologs of trmA have been found [1]:
+
+ - Escherichia  coli  hypothetical protein ygcA and HI0333,  the corresponding
+   Haemophilus influenzae protein.
+ - Haemophilus influenzae hypothetical protein HI0958.
+ - Chlamydia trachomatis protein HOM1.
+ - Fission yeast hypothetical protein SpAC4G8.07c.
+
+It is  probable  that  ygcA/HI0333 and HI0958 are probably responsible for the
+methylation of  U747  and  U1939  in 23S rRNA. In trmA, a cysteine is known to
+participate in  the  catalytic mechanism by forming a covalent adduct to C6 of
+uracil.
+
+We selected  two  conserved  regions as signature patterns, the first includes
+the active  site  cysteine  and the second one, located at the C-terminal end,
+contains a conserved histidine.
+
+-Consensus pattern: [DN]-P-[PAS]-R-x-G-x(14,19)-[LIVMAF]-[LIVMCAFT]-[YAHG]-x-
+                    [SAG]-C-[NAMDSYHKGQ]-x(1,2)-[TNKSI]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMF]-[DN]-x-F-P-[QHYWM]-[ST]-x-[HR]-[LIVMFYT]-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Gustafsson C., Reid R., Greene P.J., Santi D.V.
+     "Identification of new RNA modifying enzymes by iterative genome
+     search using known modifying enzymes as probes."
+     Nucleic Acids Res. 24:3756-3762(1996).
+     PubMed=8871555
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

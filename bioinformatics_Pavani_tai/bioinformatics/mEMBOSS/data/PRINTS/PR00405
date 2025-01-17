@@ -1,0 +1,19 @@
+REVINTRACTNG
+The Rev protein of human immunodeficiency virus type 1 (HIV-1) facilitates
+nuclear export of unspliced and partly-spliced viral RNAs [1]. Rev contains
+an RNA-binding domain and an effector domain; the latter is believed to 
+interact with a cellular cofactor required for the Rev response and hence
+HIV-1 replication [1]. Human Rev interacting protein (hRIP) specifically
+interacts with the Rev effector. The amino acid sequence of hRIP is 
+characterised by an N-terminal, C-4 class zinc finger motif.
+
+REVINTRACTNG is a 3-element fingerprint that provides a signature for the
+hRIP family of zinc finger proteins. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs span the full zinc finger
+domain. Two iterations on OWL26.3 were required to reach convergence, at
+which point a true set comprising 12 sequences was identified. Three
+partial matches were also found, all of which match motif 2, but fail to
+make significant matches with either motifs 1 or 3.
+
+An update on SPTR37_9f identified a true set of 29 sequences, and 1
+partial match.

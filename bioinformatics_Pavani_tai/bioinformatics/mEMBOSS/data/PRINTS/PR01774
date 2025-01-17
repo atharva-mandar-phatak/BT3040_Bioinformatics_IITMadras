@@ -1,0 +1,55 @@
+EXFOLTOXIN
+The prokaryote Staphylococcus aureus is a well-characterised and specialised
+human pathogen, expressing a variety of virulence factors to enable
+successful infection of the host [1]. Symptoms usually manifest in cases of 
+food poisoning, pyrogenic fever and toxic shock syndrome, and can prove 
+lethal in immunocompromised patients [1]. Of all the exotoxins secreted from 
+the bacterial cell, superantigens and hemolysins are amongst the most 
+studied [1]. 
+
+Of these, the former are well characterised, and several S.aureus super-
+antigenic enterotoxins exist that trigger excessive and aberrant T-cell
+activation in the host. Homologues of these S.aureus proteins have been 
+found in Streptococcus pyogenes, and cause similar effects [2]. In 
+conventional Major Histocompatibility Complex (MHC)-II-restricted antigen 
+processing, a peptide epitope is presented to a specific T-cell receptor 
+(TCR) by the antigen presenting cell, and up to 0.0001% of the host T-cell 
+repertoire is activated [2]. By contrast, a bacterial superantigen (SAg) can 
+bypass this process, binding non-specifically to constant regions on both 
+the MHC-II and TCR [2]. This results in up to 25% of the total host T-cell 
+population being activated, with a consequent massive release of 
+inflammatory cytokines. 
+
+A recent study into the origins and functions of the S.aureus and S.pyogenes
+superantigens has identified distinct protein domains that are responsible 
+for the slightly different actions of each protein subgroup [3]. Based on 
+these criteria, the staphylococcal and streptococcal entero-/exotoxins 
+discovered so far can be placed into several groups/subfamilies [3]. The 
+EXFOL group contains those superantigens that cause exfoliative skin 
+diseases in the human host, and shows some similarity to staphylococcal
+serine proteases [4]. Although these proteins show no significant sequence
+similarity to the more "conventional" SAgs, they do function in the same 
+way, binding both TCR and MHC-II molecules [4]. 
+
+The EXFOL group of exotoxins also possess potent serine protease activity, 
+and contain a functional domain found in other S.aureus serine proteases 
+[4]. To date, two distinct members of the subfamily have been characterised, 
+both from S.aureus, and designated Exfoliative toxin A and B (Eta and Etb) 
+[4]. The tertiary structure of Eta has been resolved to 1.7A using X-ray
+crystallography [5]. This reveals that Eta contains unique "ETA-surface
+loops", no cysteine bridges, and a specific N-terminal helix that is 
+crucial for substrate hydrolysis [5]. 
+
+EXFOLTOXIN is a 6-element fingerprint that provides a signature for the
+exfoliative toxins. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motif 1 spans alpha-helix 4 and beta-
+strands 2 and 3; motif 2 spans strands 4 and 5 and helices 5 and 6, and 
+includes the active site histidine; motif 3 includes strand 8; motif 4 spans
+strand 9 and helix 8, and includes the active site aspartic acid; motif 5 
+spans helix 9 and strand 11; and motif 6 spans the C-terminus of strand 13,
+helix 11, strand 14 and the N-terminus of strand 15, and contains the active
+site serine. A single iteration on SPTR40_20f was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Several partial matches were found, all serine proteases that match motifs
+2, 4 and 6, which contain the catalytic triad residues. 

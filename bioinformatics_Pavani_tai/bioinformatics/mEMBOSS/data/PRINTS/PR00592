@@ -1,0 +1,58 @@
+CASENSINGR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The metabotropic glutamate receptors are functionally and pharmacologically
+distinct from the ionotropic glutamate receptors. They are coupled to G-
+proteins and stimulate the inositol phosphate/Ca2+ intracellular signalling 
+pathway [2-5]. The amino acid sequences of the receptors contain high
+proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+and receptors of the rhodopsin-type family: the metabotropic glutamate
+receptors thus bear their own distinctive '7TM' signature. 
+
+The calcium-sensing receptor (CaSR) is an integral membrane protein that
+senses changes in the extracellular concentration of calcium ions. The 
+activity of the receptor is mediated by a G protein that activates a 
+phosphatidyl-inositol-calcium second messenger system. The sequences of the
+receptors show a high degree of similarity to the TM signature that
+characterises the metabotropic glutamate receptors. In addition, the
+sequences contain a large extracellular domain that includes clusters of
+acidic amino acid residues, which may be involved in calcium binding [6].
+
+Defects in CaSR that result in reduced activity of the receptor cause
+familial hypocalciuric hypercalcemia (FHH) and neonatal severe hyperpara-
+thyroidism (NSHPT), inherited conditions characterised by altered calcium
+homeostasis [7,8]. FHH-affected individuals exhibit mild or modest hyper-
+calcemia, relative hypocalciuria and inappropriately normal PTH levels. By
+contrast, NSHPT is a rare autosomal recessive life-threatening disorder 
+characterised by high serum calcium concentrations, skeletal demineral-
+isation and parathyroid hyperplasia. In addition, defects resulting from
+receptor activation at subnormal Ca(2+) levels cause autosomal dominant
+hypocalcemia [9].
+
+CASENSINGR is a 13-element fingerprint that provides a signature for the 
+calcium-sensing receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, focusing on those sections that
+characterise the calcium-sensing receptors but distinguish them from the
+rest of the metabotropic receptor superfamily - motifs 1-11 lie in the
+N-terminal extracellular domain; motif 12 resides in the second cytoplasmic
+loop, between putative TM domains 3 and 4; and motif 13 lies in the 
+C-terminal cytoplasmic domain. A single iteration on OWL31.1 was required 
+to reach convergence, no further sequences being identified beyond the 
+starting set. Several partial matches were found, all of which are fragments
+and calcium-sensing receptor homologues that match 2 motifs.
+
+An update on SPTR37_9f identified a true set of 4 sequences, and 5
+partial matches.

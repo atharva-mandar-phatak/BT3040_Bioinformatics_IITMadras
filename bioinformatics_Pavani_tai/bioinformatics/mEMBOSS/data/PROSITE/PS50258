@@ -1,0 +1,73 @@
+*************************************
+* LNR (Lin-12/Notch) repeat profile *
+*************************************
+
+The  Lin-12/Notch  proteins  act  as transmembrane receptors for intercellular
+signals  that  specify  cell  fates  during animal development. In response to
+ligand, proteolytic cleavages release the intracellular domain of Notch, which
+then  gains  access  to the nucleus and acts as a transcriptional co-activator
+[1].  The  Lin-12/Notch repeat (LNR) is a region present only in Notch related
+proteins.  The  LNR  is  supposed  to  negatively  regulates  the Lin-12/Notch
+proteins activity, and participates in maintaining the receptor in its resting
+conformation  prior  to ligand binding. It is a triplication of an about 35-40
+amino  acid  module  present  on the extracellular part of the protein [2, 3].
+Each  module  contains  six cysteine residues engaged in three disulfide bonds
+and  three  conserved  aspartate  and asparagine residues [1]. The biochemical
+characterization  of  a recombinantly expressed LIN-12.1 module from the human
+Notch1  receptor  indicates  that  the  disulfide bonds are formed between the
+first  and  fifth,  second  and fourth, and third and sixth cysteines (see the
+schematic representation below).
+
+                    +------------+
+            +-------|------------|----+
+            |       |            |    |
+            CxxxxxxxCxxxxxxxxCxxxCxxxxCxxxxxxC
+                             |               |
+                             +---------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+The  formation  of this particular disulfide isomer is favored by the presence
+of  Ca++,  which  is also required to maintain the structural integrity of the
+rLIN-12.1  module.  The  structure  of  a  human LNR  has  been  solved by NMR
+(see  <PDB:1PB5>). It shows that the LNR is composed of two alpha-helices [4].
+The  conserved  aspartate  and  asparagine  residues  are  important  for Ca++
+binding, and thereby contribute to the native fold [1,4].
+
+The  profile  we  developed  covers  the LNR domain from the first to the last
+conserved cysteine.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2006 / First entry.
+
+[ 1] Aster J.C., Simms W.B., Zavala-Ruiz Z., Patriub V., North C.L.,
+     Blacklow S.C.
+     "The folding and structural integrity of the first LIN-12 module of
+     human Notch1 are calcium-dependent."
+     Biochemistry 38:4736-4742(1999).
+     PubMed=10200161; DOI=10.1021/bi982713o
+[ 2] Greenwald I.
+     "LIN-12/Notch signaling: lessons from worms and flies."
+     Genes Dev. 12:1751-1762(1998).
+     PubMed=9637676
+[ 3] Greenwald I.
+     "Structure/function studies of lin-12/Notch proteins."
+     Curr. Opin. Genet. Dev. 4:556-562(1994).
+     PubMed=7950324
+[ 4] Vardar D., North C.L., Sanchez-Irizarry C., Aster J.C., Blacklow S.C.
+     "Nuclear magnetic resonance structure of a prototype Lin12-Notch
+     repeat module from human Notch1."
+     Biochemistry 42:7061-7067(2003).
+     PubMed=12795601; DOI=10.1021/bi034156y
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

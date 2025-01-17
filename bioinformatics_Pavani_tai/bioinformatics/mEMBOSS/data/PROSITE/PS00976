@@ -1,0 +1,37 @@
+***********************************************************
+* Myristoyl-CoA:protein N-myristoyltransferase signatures *
+***********************************************************
+
+Myristoyl-CoA:protein N-myristoyltransferase  (EC 2.3.1.97)  (Nmt) [1]  is the
+enzyme responsible  for  transferring  a  myristate  group  on  the N-terminal
+glycine of a number of cellular eukaryotics and viral proteins.
+
+Nmt is  a  monomeric protein of about 50 to 60 Kd whose sequence appears to be
+well conserved.  We  used  two highly conserved regions as signature patterns.
+The first  one is located in the central section, the second in the C-terminal
+part.
+
+-Consensus pattern: [DEK]-[IV]-N-[FS]-L-C-x-H-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: K-F-G-x-G-D-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Rudnick D.A., McWherter C.A., Gokel G.W., Gordon J.I.
+     "MyristoylCoA:protein N-myristoyltransferase."
+     Adv. Enzymol. Relat. Areas Mol. Biol. 67:375-430(1993).
+     PubMed=8322618
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

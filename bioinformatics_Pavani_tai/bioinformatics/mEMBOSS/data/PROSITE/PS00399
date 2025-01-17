@@ -1,0 +1,85 @@
+*******************************************************
+* ATP-citrate lyase / succinyl-CoA ligases signatures *
+*******************************************************
+
+Four different enzymes  share a similar catalytic mechanism which involves the
+phosphorylation  by ATP (or GTP) of a specific histidine residue in the active
+site. These enzymes are:
+
+ - ATP citrate-lyase (EC 2.3.3.8) [1], the primary  enzyme responsible for the
+   synthesis of cytosolic acetyl-CoA  in many tissues, catalyzes the formation
+   of acetyl-CoA  and oxaloacetate from citrate and CoA  with the  concomitant
+   hydrolysis of ATP to ADP and phosphate.  ATP-citrate lyase is a tetramer of
+   identical subunits.
+ - Succinyl-CoA ligase  (GDP-forming)  (EC 6.2.1.4)  [2]  is  a  mitochondrial
+   enzyme  that  catalyzes  the substrate  level  phosphorylation  step of the
+   tricarboxylic acid cycle: the formation of succinyl-CoA from succinate with
+   a concomitant  hydrolysis  of  GTP to GDP and phosphate.   This enzyme is a
+   dimer composed of an alpha and a beta subunits.
+ - Succinyl-CoA ligase (ADP-forming) (EC 6.2.1.5) [3]  is  a  bacterial enzyme
+   that during aerobic metabolism functions in the citric acid cycle, coupling
+   the  hydrolysis  of  succinyl-CoA to  the synthesis  of ATP.  It  can  also
+   function in the  other  direction  for anabolic purposes.  This enzyme is a
+   tetramer composed of two alpha and two beta subunits.
+ - Malate-CoA   ligase (EC 6.2.1.9) (malyl-CoA synthetase) [4], is a bacterial
+   enzyme that  forms  malyl-CoA  from  malate  and  CoA  with the concomitant
+   hydrolysis of   ATP  to ADP and phosphate. Malate-CoA ligase is composed of
+   two different subunits.
+
+We developed three signature patterns for these enzymes, the first corresponds
+to a glycine-rich conserved region, located in the second half of ATP  citrate
+lyase and in the alpha subunits of succinyl-CoA ligases and malate-CoA ligase.
+The second pattern, which is located some 50 residues to the C-terminal of the
+first one, includes the active site phosphorylated histidine residue. The last
+pattern corresponds  to  a  conserved  region located in the first half of ATP
+citrate lyase  and in the beta subunits of succinyl-CoA ligases and malate-CoA
+ligase.
+
+-Consensus pattern: S-[KR]-S-G-[GT]-[LIVM]-[GST]-x-[EQ]-x(8,10)-G-x(4)-[LIVM]-
+                    [GA]-[LIVM]-G-G-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x(2)-A-x(4,7)-[RQT]-[LIVMF]-G-H-[AS]-[GH]
+                    [H is the phosphorylated active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x-[IVT]-x(2)-[LIVMF]-x-[NAK]-[GS]-[GA]-G-[LMAI]-[STAV]-
+                    x(4)-[DN]-x-[LIVM]-x(3,4)-[GD]-[GREAK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Elshourbagy N.A., Near J.C., Kmetz P.J., Wells T.N., Groot P.H.,
+     Saxty B.A., Hughes S.A., Franklin M., Gloger I.S.
+     "Cloning and expression of a human ATP-citrate lyase cDNA."
+     Eur. J. Biochem. 204:491-499(1992).
+     PubMed=1371749
+[ 2] Bailey D.L., Wolodko W.T., Bridger W.A.
+     "Cloning, characterization, and expression of the beta subunit of pig
+     heart succinyl-CoA synthetase."
+     Protein Sci. 2:1255-1262(1993).
+     PubMed=8401211
+[ 3] Buck D., Spencer M.E., Guest J.R.
+     "Primary structure of the succinyl-CoA synthetase of Escherichia
+     coli."
+     Biochemistry 24:6245-6252(1985).
+     PubMed=3002435
+[ 4] Chistoserdova L.V., Lidstrom M.E.
+     "Genetics of the serine cycle in Methylobacterium extorquens AM1:
+     identification, sequence, and mutation of three new genes involved in
+     C1 assimilation, orf4, mtkA, and mtkB."
+     J. Bacteriol. 176:7398-7404(1994).
+     PubMed=7961516
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

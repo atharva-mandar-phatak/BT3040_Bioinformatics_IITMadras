@@ -1,0 +1,47 @@
+*****************************************
+* BCCT family of transporters signature *
+*****************************************
+
+The following prokaryotic transport proteins are evolutionary related [1]:
+
+ - Escherichia coli high-affinity choline transport protein betT.
+ - Escherichia coli carnitine transport protein caiT.
+ - Bacillis subtilis glycine betaine transporter opuD.
+ - Corynebacterium glutamicum glycine betaine transporter betP.
+ - Escherichia coli hypothetical protein yeaV.
+ - Haemophilus influenzae hypothetical protein HI1706.
+ - Mycobacterium tuberculosis hypothetical protein MtCY21C12.11.
+
+These transport  proteins  belong  to  a  family  known as BCCT (for Betaine /
+Carnitine /  Choline Transporters) which are specific for compounds containing
+a quaternary  nitrogen  atom. These proteins contains 12 transmembrane regions
+and are  energized  by proton symport. They contains a concerved region with 4
+tryptophans in  their  central  region.  We  use  this  region  as a signature
+pattern.
+
+-Consensus pattern: [GSDNA]-W-T-[LIVM]-x-[FY]-W-x-W-W
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These  proteins  belongs  to  family  TC 2.33 in  the classification of
+ transporters [2].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Kappes R.M., Kempf B., Bremer E.
+     "Three transport systems for the osmoprotectant glycine betaine
+     operate in Bacillus subtilis: characterization of OpuD."
+     J. Bacteriol. 178:5071-5079(1996).
+     PubMed=8752321
+[ 2] Saier M.H. Jr.
+     Adv. Microbiol. Physiol. 40:81-136(1998).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

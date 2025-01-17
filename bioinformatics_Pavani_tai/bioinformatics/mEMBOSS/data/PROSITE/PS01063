@@ -1,0 +1,83 @@
+********************************************
+* Sigma-70 factors ECF subfamily signature *
+********************************************
+
+Sigma factors [1] are bacterial transcription initiation factors  that promote
+the attachment of the core RNA polymerase to specific initiation sites and are
+then released.  They  alter  the  specificity  of  promoter  recognition. Most
+bacteria express  a multiplicity of sigma factors.  With regards  to  sequence
+similarity, sigma  factors  can be grouped into two classes: the  sigma-54 and
+sigma-70 families.  The  sigma-70  family includes, in addition to the primary
+sigma factor, a wide variety  of sigma factors.  It also  includes a divergent
+subfamily [2] that regulates  gene encoding for proteins with extracytoplasmic
+function. The proteins that are currently known to belong to this sigma factor
+subfamily, known as ECF, are:
+
+ - algU, from Pseudomonas aeruginosa, which regulates genes  for extracellular
+   alginate biosynthesis.
+ - carQ, from Myxococcus xanthus, which  is involved  in the regulation of the
+   light induced biosynthesis of membrane-localized carotenoids.
+ - cnrH, from  Alcaligenes eutrophus plasmid pMOL28, which regulates the genes
+   for a membrane-located efflux  system that confers resistance to nickel and
+   cobalt.
+ - fecI, from Escherichia coli,  which regulates the fec genes for periplasmic
+   iron dicitrate transport.
+ - hrpL,  from  Pseudomonas  syringae,  which is involved in the activation of
+   hrp loci genes which are involved in plant pathogenicity.
+ - rpoE,   from  Escherichia  coli,  Salmonella  typhimurium  and  Haemophilus
+   influenzae. RpoE  is  involved in heat shock and oxidative stress response;
+   it is  believed  to  control  protein  processing  in  the extracytoplasmic
+   compartment.
+ - rfaY, from Xanthomonas campestris,  which is involved in lipopolysaccharide
+   biosynthesis and pathogenicity.
+ - sigE, from Streptococcus coelicolor, which is involved in the transcription
+   of the dagA gene coding for an extracellular agar-degrading enzyme.
+ - sigV, a Bacillus subtilis sigma factor.
+ - sigX, a Bacillus subtilis sigma factor.
+ - sigY, a Bacillus subtilis sigma factor.
+ - sigZ, a Bacillus subtilis sigma factor.
+ - HI1459, a hypothetical Haemophilus influenzae sigma factor.
+
+As a  signature  pattern  for  the  ECF  subfamily  we  chose  the region that
+corresponds to  subdomain  2.2  in classical sigma-70 factors [3]; this region
+seems to  be  involved  in  the  binding  of  the sigma factor to the core RNA
+polymerase.
+
+-Consensus pattern: [STAIV]-[PQDEL]-[DE]-[LIV]-[LIVTA]-Q-x-[STAV]-[LIVMFYC]-
+                    [LIVMAK]-x-[GSTAIV]-[LIMFYWQ]-x(12,14)-[STAP]-[FYW]-[LIF]-
+                    x(2)-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: See also the general entry on sigma-70 factors <PDOC00592>.
+
+-Expert(s) to contact by email:
+           Rudd K.E.; rudd@molbio.med.miami.edu
+
+-Last update: July 1998 / Pattern and text revised.
+
+[ 1] Helmann J.D., Chamberlin M.J.
+     "Structure and function of bacterial sigma factors."
+     Annu. Rev. Biochem. 57:839-872(1988).
+     PubMed=3052291; DOI=10.1146/annurev.bi.57.070188.004203
+[ 2] Lonetto M.A., Brown K.L., Rudd K.E., Buttner M.J.
+     "Analysis of the Streptomyces coelicolor sigE gene reveals the
+     existence of a subfamily of eubacterial RNA polymerase sigma factors
+     involved in the regulation of extracytoplasmic functions."
+     Proc. Natl. Acad. Sci. U.S.A. 91:7573-7577(1994).
+     PubMed=8052622
+[ 3] Lonetto M.A., Gribskov M., Gross C.A.
+     "The sigma 70 family: sequence conservation and evolutionary
+     relationships."
+     J. Bacteriol. 174:3843-3849(1992).
+     PubMed=1597408
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

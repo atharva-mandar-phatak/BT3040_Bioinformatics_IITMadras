@@ -1,0 +1,27 @@
+ENTEROTOXINA
+E.coli heat-labile enterotoxin is a bacterial protein toxin with an AB5
+multimer structure, in which the B pentamer has a membrane-binding function
+and the A subunit is needed for enzymatic activity [1]. The B subunits are
+arranged as a donut-shaped pentamer, each subunit participating in ~30
+hydrogen bonds and 6 salt bridges with its two neighbours [1]. 
+
+The A subunit has a less well-defined secondary structure. It predominantly
+interacts with the pentamer via the C-terminal A2 fragment, which runs
+through the charged central pore of the B subunits. A putative catalytic
+residue in the A1 fragment (Glu112) lies close to a hydrophobic region,
+which packs two loops together. It is thought that this region might be
+important for catalysis and membrane translocation [1]. 
+
+ENTEROTOXINA is an 8-element fingerprint that provides a signature for
+heat labile enterotoxin A chains. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the full alignment length - motif 1 spans strands 1 and 2 
+and helix 1; motif 2 includes helix 2; motif 3 spans strand 3 and helix 3;
+motif 4 spans strand 5 and helices 4-6; motif 5 spans strands 7 and 8 and
+helix 7; motif 6 includes helices 9 and 10; and motif 7 encodes helix 11.
+A single iteration on OWL29.4 was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match
+was found, A61345, an E.coli sequence that comprises heat-labile enterotoxin
+A chain precursor fragments.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

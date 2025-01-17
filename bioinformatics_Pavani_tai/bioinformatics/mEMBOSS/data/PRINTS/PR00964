@@ -1,0 +1,32 @@
+MOVEMENT
+The 30K protein of tobacco mosaic virus (TMV) appears to be involved in
+transport of the virus from initially infected cells to adjacent cells,
+possibly by modifying the function of the plasmodesmata. The protein binds
+to single-stranded nucleic acid.
+
+Comparison of the TMV 30K protein with the corresponding gene product of 
+cucumber green mottle mosaic virus (CGMMV), and other tobamoviruses, reveals 
+a protein of ~264 amino acids, with a conserved N-terminal two-thirds and 
+a less-conserved C-terminal third [1]. The N-terminal portion contains two
+particularly well-conserved regions, substitutions in one of which result
+in temperature-sensitive cell-to-cell movement [1]. The C-terminal region
+contains three sub-regions characterised by their distributions of charged
+amino acid residues [1]. 
+
+Patterns of amino acid changes within the movement gene products of a 
+number of resistance-breaking strains of tomato mosaic virus indicate a 
+predominance of substitutions involving a change in local charge [2]. These
+findings suggest that an electrostatic interaction between a host factor 
+and the 30K protein may be intrinsic to the function of the movement gene 
+and/or resistance breakage [2]. 
+
+MOVEMENT is a 6-element fingerprint that provides a signature for viral
+cell-cell transport proteins. The fingerprint was derived from an initial
+alignment of 20 sequences: the motifs were drawn from short conserved
+regions spanning the N-terminal two-thirds of the alignment. Two iterations
+on OWL30.2 were required to reach convergence, at which point a true set 
+comprising 22 sequences was identified. A single partial match was also
+found, MOVP_TMVCO, a TMV movement protein that matches motifs 1,3 and 4.
+
+An update on SPTR37_9f identified a true set of 25 sequences, and 2
+partial matches.

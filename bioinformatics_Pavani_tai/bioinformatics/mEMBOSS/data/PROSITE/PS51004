@@ -1,0 +1,78 @@
+***********************
+* Sema domain profile *
+***********************
+
+The 500  amino  acid Sema domain is a receptor recognition and binding module,
+which is found near the N-terminus of the eukaryotic and viral proteins:
+
+ - Semaphorins,  a  large  group  of  secreted,  transmembrane,  or GPI-linked
+   proteins, some  of  which  are known to act as repulsive axon guidance cues
+   during development or to be involved in immune function,
+ - Plexins, receptors for multiple classes of semaphorins,
+ - MET-hepatocyte growth factor (or scatter-factor) receptor.
+
+The Sema  domain  can be found associated with other domains such as PSI, IPT,
+Ig-like and TSP1 (see <PDOC50092>) [1,2].
+
+The Sema  domain  is  characterized  by  a conserved set of cysteine residues,
+which form  four  disulfide  bonds to stabilize the structure. The Sema domain
+fold is a variation of the beta propeller topology, with seven blades radially
+arranged around  a  central axis (see <PDB:1Q47>). Each blade contains a four-
+stranded (strands  A  to  D) antiparallel beta sheet. The inner strand of each
+blade (A) lines the channel at the center of the propeller, with strands B and
+C of  the  same  repeat  radiating  outward,  and  strand D of the next repeat
+forming the  outer edge of the blade. The large size of the Sema domain is not
+due to  a  single inserted domain but results from the presence of additionnal
+secondary structure  elements  inserted in most of the blades. The Sema domain
+uses a  'loop  and  hook' system to close the circle between the first and the
+last blades.  The blades are constructed sequentially with an N-terminal beta-
+strand closing the circle by providing the outermost strand (D) of the seventh
+(C-terminal) blade.  The  beta-propeller is further stabilized by an extension
+of the  N-terminus,  providing  an  additional, fifth beta-strand on the outer
+edge of blade 6 [3,4,5].
+
+The profile we developed covers the entire Sema domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2004 / First entry.
+
+[ 1] Xu X., Ng S., Wu Z.-L., Nguyen D., Homburger S., Seidel-Dugan C.,
+     Ebens A., Luo Y.
+     "Human semaphorin K1 is glycosylphosphatidylinositol-linked and
+     defines a new subfamily of viral-related semaphorins."
+     J. Biol. Chem. 273:22428-22434(1998).
+     PubMed=9712866
+[ 2] Winberg M.L., Noordermeer J.N., Tamagnone L., Comoglio P.M.,
+     Spriggs M.K., Tessier-Lavigne M., Goodman C.S.
+     "Plexin A is a neuronal semaphorin receptor that controls axon
+     guidance."
+     Cell 95:903-916(1998).
+     PubMed=9875845
+[ 3] Antipenko A., Himanen J.-P., van Leyen K., Nardi-Dei V., Lesniak J.,
+     Barton W.A., Rajashankar K.R., Lu M., Hoemme C., Puschel A.W.,
+     Nikolov D.B.
+     "Structure of the semaphorin-3A receptor binding module."
+     Neuron 39:589-598(2003).
+     PubMed=12925274
+[ 4] Love C.A., Harlos K., Mavaddat N., Davis S.J., Stuart D.I.,
+     Jones E.Y., Esnouf R.M.
+     "The ligand-binding face of the semaphorins revealed by the
+     high-resolution crystal structure of SEMA4D."
+     Nat. Struct. Biol. 10:843-848(2003).
+     PubMed=12958590; DOI=10.1038/nsb977
+[ 5] Stamos J., Lazarus R.A., Yao X., Kirchhofer D., Wiesmann C.
+     "Crystal structure of the HGF beta-chain in complex with the Sema
+     domain of the Met receptor."
+     EMBO J. 23:2325-2335(2004).
+     PubMed=15167892; DOI=10.1038/sj.emboj.7600243
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

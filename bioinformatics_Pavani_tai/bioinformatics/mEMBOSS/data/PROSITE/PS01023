@@ -1,0 +1,68 @@
+*********************************************************
+* PTR2 family proton/oligopeptide symporters signatures *
+*********************************************************
+
+A family  of  eukaryotic  and  prokaryotic  proteins  that  seem  to be mainly
+involved in  the  intake  of  small  peptides with the concomitant uptake of a
+proton has  been  recently  characterized  [1,2]. Proteins that belong to this
+family are:
+
+ - Fungal peptide transporter PTR2.
+ - Mammalian intestine proton-dependent oligopeptide transporter PeptT1.
+ - Mammalian kidney proton-dependent oligopeptide transporter PeptT2.
+ - Drosophila opt1.
+ - Arabidopsis thaliana  peptide transporters PTR2-A and PTR2-B (also known as
+   the histidine transporting protein NTR1).
+ - Arabidopsis thaliana proton-dependent nitrate/chlorate transporter CHL1.
+ - Lactococcus proton-dependent di- and tri-peptide transporter dtpT.
+ - Caenorhabditis elegans hypothetical protein C06G8.2.
+ - Caenorhabditis elegans hypothetical protein F56F4.5.
+ - Caenorhabditis elegans hypothetical protein K04E7.2.
+ - Escherichia coli hypothetical protein ybgH.
+ - Escherichia coli hypothetical protein ydgR.
+ - Escherichia coli hypothetical protein yhiP.
+ - Escherichia coli hypothetical protein yjdL.
+ - Bacillus subtilis hypothetical protein yclF.
+
+These integral   membrane   proteins   are   predicted   to   comprise  twelve
+transmembrane regions.  As  signature  patterns,  we  selected two of the best
+conserved regions. The first is a region that includes the end of  the  second
+transmembrane  region,  a cytoplasmic  loop as well as the third transmembrane
+region.  The second pattern corresponds to the core of the fifth transmembrane
+region.
+
+-Consensus pattern: [GA]-[GAS]-[LIVMFYWA]-[LIVM]-[GAS]-D-x-[LIVMFYWT]-
+                    [LIVMFYW]-G-x(3)-[TAV]-[IV]-x(3)-[GSTAV]-x-[LIVMF]-x(3)-
+                    [GA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FYT]-x(2)-[LMFY]-[FYV]-[LIVMFYWA]-x-[IVG]-N-[LIVMAG]-G-
+                    [GSA]-[LIMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Steiner H.-Y.; steinerh@am.abru.cg.com
+           Becker J.M.; jbecker@utkvx.utk.edu
+
+-Last update: November 1997 / Patterns and text revised.
+
+[ 1] Paulsen I.T., Skurray R.A.
+     "The POT family of transport proteins."
+     Trends Biochem. Sci. 19:404-404(1994).
+     PubMed=7817396
+[ 2] Steiner H.-Y., Naider F., Becker J.M.
+     "The PTR family: a new group of peptide transporters."
+     Mol. Microbiol. 16:825-834(1995).
+     PubMed=7476181
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

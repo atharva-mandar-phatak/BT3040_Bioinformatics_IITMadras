@@ -1,0 +1,144 @@
+***************************************************
+* J-protein family domains signature and profiles *
+***************************************************
+
+The  hsp70  chaperone machine (see <PDOC00269>) performs many diverse roles in
+the cell, including folding of nascent proteins, translocation of polypeptides
+across  organelle  membranes,  coordinating responses to stress, and targeting
+selected  proteins  for  degradation.  DnaJ is a member of the hsp40 family of
+molecular  chaperones,  which is also called the J-protein family, the members
+of  which  regulate the activity of hsp70s. DnaJ (hsp40) binds to dnaK (hsp70)
+and  stimulates  its  ATPase activity, generating the ADP-bound state of dnaK,
+which  interacts  stably  with  the  polypeptide substrate [1,2].
+
+DnaJ  consists  of an N-terminal conserved domain (called 'J' domain) of about
+70  amino  acid  residues,  a  glycine  and  phenylalanine-rich  domain ('G/F'
+domain),  a central cysteine rich domain (CR-type zinc finger) containing four
+repeats  of  a  CXXCXGXG  motif  which  can  coordinate  two  zinc  atom and a
+C-terminal domain (CTD) [2].
+
+Such a structure is shown in the following schematic representation:
+
+    +------------+-+-----------+-----+-----------+-------------+
+    |  J-domain  | | Gly/Phe-R |     | CXXCXGXG  |     CTD     |
+    +------------+-+-----------+-----+-----------+-------------+
+
+The  structures  of  the  'J' domain (see <PDB:1XBL>) and the 'CR' domain (see
+<PDB:1EXK>) have been solved [3,4]. The J domain consists of four helices, the
+second  of  which  has a charged surface that includes basic residues that are
+essential  for  interaction  with  the ATPase domain of hsp70 [5]. The CR-type
+zinc  finger  has  an  overall V-shaped extended beta-hairpin topology and two
+symmetrical  zinc  binding  sites, designated as Zn1 and Zn2: Zn1 is formed by
+the two cysteine motifs that are furthest apart in the primary sequence, while
+Zn2  is  formed  by the two central, adjacent cysteine motifs [4]. It has been
+shown  that  Zn1  is  important for the autonomous, dnaK-independent chaperone
+activity,  while Zn2 is a necessary interaction site with dnaK, which seems to
+be crucial for in vivo function in the dnaJ/dnaK system [6].
+
+J-protein family are classified in three classes [2]:
+
+The  type  1 contains proteins with a J-domain, a G/F domain, a CR zinc finger
+and a CTD domain (true homologues of dnaJ):
+
+ - Yeast   protein   MAS5/YDJ1   that  is  involved  in  protein  folding  and
+   mitochondrial protein import.
+ - Yeast    protein MDJ1 that is involved in protein folding and mitochondrial
+   protein import.
+ - Yeast  protein SCJ1 that is involved in protein folding in the lumen of the
+   endoplasmic reticulum.
+ - Yeast protein APJ1/YNL077w, that might modulate folding reaction.
+ - Cucumber dnaJ homolog anchored at the glyoxysomal membrane.
+ - Yeast protein XDJ1.
+ - Human protein HDJ2.
+
+The type 2 contains proteins with a J-domain, a G/F domain and a CTD domain:
+
+ - Rhizobium  fredii  nolC, a protein involved in cultivar-specific nodulation
+   of soybean.
+ - Escherichia coli cbpA, a protein that binds curved DNA.
+ - Yeast protein SIS1, required for nuclear migration during mitosis.
+ - Yeast protein CAJ1.
+ - Yeast hypothetical protein YFR041c.
+ - Yeast hypothetical protein YIR004w.
+ - Yeast hypothetical protein YJL162c.
+ - Plasmodium falciparum  ring-infected  erythrocyte  surface  antigen (RESA).
+   RESA, whose function is not known, is associated with the membrane skeleton
+   of newly invaded erythrocytes.
+ - Human HDJ1.
+ - Human HSJ1, a neuronal protein.
+ - Drosophila cysteine-string protein (csp).
+
+The type 3 subgroup contains proteins that have only the J-domain:
+
+ - Yeast  protein SEC63/NPL1. It is important  for  protein  assembly into the
+   endoplasmic reticulum and the nucleus.
+ - Eukaryotic  Tim14  protein.  An  essential  component of the PAM complex, a
+   complex  required  for  the  translocation  of  transit  peptide-containing
+   proteins  from  the  inner  membrane  into  the  mitochondrial matrix in an
+   ATP-dependent  manner. In the complex, it is required to stimulate activity
+   of mtHSP70 (SSC1).
+ - Yeast  Jac1  protein  and  HscB  eukaryotic  homologues.  They  may  act as
+   co-chaperones in iron-sulfur cluster assembly in mitochondria.
+ - Yeast  Zuo1 protein. Zuo1 and Ssz1 (hsp70) are targeted to ribosomes, where
+   they form the functionally active RAC complex.
+ - Yeast Jjj1 to 3, Erj5 and Jid1 proteins of unknown function.
+
+We  developed  a  signature  pattern  for  the  'J' domain, based on conserved
+positions  in  the  C-terminal  half  of  this  domain.  We also developed two
+profiles,  one which covers the entire 'J' domain and the other that spans the
+whole CR-type zinc finger.
+
+-Consensus pattern: [FY]-{GL}-x-[LIVMA]-{IP}-x(2)-[FYWHNT]-[DENQSA]-x-L-x-
+                    [DN]-x(3)-[KR]-x(2)-[FYI]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Kelley W.; kelley@medecine.unige.ch
+
+-Last update: April 2006 / Text revised; profiles added; pattern deleted.
+
+[ 1] Frydman J.
+     "Folding of newly translated proteins in vivo: the role of molecular
+     chaperones."
+     Annu. Rev. Biochem. 70:603-647(2001).
+     Pubmed=11395418
+[ 2] Walsh P., Bursac D., Law Y.C., Cyr D., Lithgow T.;
+     "The J-protein family: modulating protein assembly, disassembly and
+     translocation."
+     EMBO Rep. 5:567-571(2004).
+[ 3] Pellecchia M., Szyperski T., Wall D., Georgopoulos C., Wuthrich K.
+     "NMR structure of the J-domain and the Gly/Phe-rich region of the
+     Escherichia coli DnaJ chaperone."
+     J. Mol. Biol. 260:236-250(1996).
+     PubMed=8764403; DOI=10.1006/jmbi.1996.0395
+[ 4] Martinez-Yamout M., Legge G.B., Zhang O., Wright P.E., Dyson H.J.
+     "Solution structure of the cysteine-rich domain of the Escherichia
+     coli chaperone protein DnaJ."
+     J. Mol. Biol. 300:805-818(2000).
+     PubMed=10891270
+[ 5] Genevaux P., Schwager F., Georgopoulos C., Kelley W.L.
+     "Scanning mutagenesis identifies amino acid residues essential for the
+     in vivo activity of the Escherichia coli DnaJ (Hsp40) J-domain."
+     Genetics 162:1045-1053(2002).
+     PubMed=12454054
+[ 6] Linke K., Wolfram T., Bussemer J., Jakob U.
+     "The roles of the two zinc binding sites in DnaJ."
+     J. Biol. Chem. 278:44457-44466(2003).
+     PubMed=12941935
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

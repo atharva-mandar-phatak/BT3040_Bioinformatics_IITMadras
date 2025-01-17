@@ -1,0 +1,91 @@
+*******************************************
+* Type-1 copper (blue) proteins signature *
+*******************************************
+
+Blue or 'type-1'  copper  proteins  are   small proteins which  bind  a single
+copper atom and which are characterized  by  an intense  electronic absorption
+band near 600 nm [1,2]. The most well known members of  this class of proteins
+are the  plant   chloroplastic   plastocyanins, which exchange  electrons with
+cytochrome  c6, and the  distantly  related bacterial  azurins, which exchange
+electrons with cytochrome  c551. This family of proteins also includes all the
+proteins listed below  (references  are  only provided for recently determined
+sequences).
+
+ - Amicyanin from bacteria such as Methylobacterium extorquens or Thiobacillus
+   versutus that can grow on methylamine.  Amicyanin appears to be an electron
+   receptor for methylamine dehydrogenase.
+ - Auracyanins A and B  from Chloroflexus aurantiacus [3].  These proteins can
+   donate electrons to cytochrome c-554.
+ - Blue copper protein from Alcaligenes faecalis.
+ - Cupredoxin (CPC) from cucumber peelings [4].
+ - Cusacyanin (basic blue protein; plantacyanin, CBP) from cucumber.
+ - Halocyanin from Natrobacterium pharaonis [5], a membrane associated copper-
+   binding protein.
+ - Pseudoazurin from Pseudomonas.
+ - Rusticyanin  from  Thiobacillus ferrooxidans.  Rusticyanin is  an  electron
+   carrier from cytochrome c-552 to the a-type oxidase [6].
+ - Stellacyanin from the Japanese lacquer tree.
+ - Umecyanin from horseradish roots.
+
+ - Allergen Ra3 from ragweed.  This pollen protein  is evolutionary related to
+   the above proteins, but seems to have lost the ability to bind copper.
+
+Although there is an appreciable amount of divergence  in the  sequence of all
+these proteins, the copper ligand sites are  conserved and we have developed a
+pattern which includes two of the ligands: a cysteine and a histidine.
+
+-Consensus pattern: [GA]-x(0,2)-[YSA]-x(0,1)-[VFY]-{SEDT}-C-x(1,2)-[PG]-
+                    x(0,1)-H-x(2,4)-[MQ]
+                    [C and H are copper ligands]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for allergen Ra3 and three other sequences.
+-Other sequence(s) detected in Swiss-Prot: 32.
+
+-Note: In position 5 of the pattern, only the Alcaligenes  protein  has a Val;
+ all other proteins have either Phe or Tyr. In  position 9  only  CPC has Gly,
+ all others have Pro.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Garret T.P.J., Clingeleffer D.J., Guss J.M., Rogers S.J., Freeman H.C.
+     J. Biol. Chem. 259:2822-2825(1984).
+[ 2] Ryden L.G., Hunt L.T.
+     "Evolution of protein complexity: the blue copper-containing oxidases
+     and related proteins."
+     J. Mol. Evol. 36:41-66(1993).
+     PubMed=8433378
+[ 3] McManus J.D., Brune D.C., Han J., Sanders-Loehr J., Meyer T.E.,
+     Cusanovich M.A., Tollin G., Blankenship R.E.
+     "Isolation, characterization, and amino acid sequences of auracyanins,
+     blue copper proteins from the green photosynthetic bacterium
+     Chloroflexus aurantiacus."
+     J. Biol. Chem. 267:6531-6540(1992).
+     PubMed=1313011
+[ 4] Mann K., Schafer W., Thoenes U., Messerschmidt A., Mehrabian Z.,
+     Nalbandyan R.
+     "The amino acid sequence of a type I copper protein with an unusual
+     serine-and hydroxyproline-rich C-terminal domain isolated from
+     cucumber peelings."
+     FEBS Lett. 314:220-223(1992).
+     PubMed=1468551
+[ 5] Mattar S., Scharf B., Kent S.B.H., Rodewald K., Oesterhelt D.,
+     Engelhard M.
+     "The primary structure of halocyanin, an archaeal blue copper protein,
+     predicts a lipid anchor for membrane fixation."
+     J. Biol. Chem. 269:14939-14945(1994).
+     PubMed=8195126
+[ 6] Yano T., Fukumori Y., Yamanaka T.
+     "The amino acid sequence of rusticyanin isolated from Thiobacillus
+     ferrooxidans."
+     FEBS Lett. 288:159-162(1991).
+     PubMed=1879547
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

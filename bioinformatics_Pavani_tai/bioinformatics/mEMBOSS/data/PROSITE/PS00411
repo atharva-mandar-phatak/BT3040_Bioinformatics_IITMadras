@@ -1,0 +1,96 @@
+**********************************************
+* Kinesin motor domain signature and profile *
+**********************************************
+
+Kinesin [1,2,3] is a  microtubule-associated  force-producing protein that may
+play a role in organelle transport.  Kinesin is an oligomeric complex composed
+of two  heavy  chains  and  two  light  chains.  The kinesin motor activity is
+directed toward the microtubule's plus end.
+
+The heavy  chain is  composed of three structural domains: a large globular N-
+terminal domain  which is responsible for the motor activity of kinesin (it is
+known to  hydrolyze  ATP,  to bind and move on microtubules), a central alpha-
+helical coiled  coil  domain that mediates the heavy chain dimerization; and a
+small globular  C-terminal domain which interacts with other proteins (such as
+the kinesin light chains), vesicles and membranous organelles.
+
+A number of proteins have been  recently  found that contain a  domain similar
+to that of the kinesin 'motor' domain [1,4,E1]:
+
+ - Drosophila claret segregational protein (ncd).   Ncd is required for normal
+   chromosomal  segregation  in  meiosis, in females,  and  in  early  mitotic
+   divisions of the embryo.  The  ncd  motor  activity  is directed toward the
+   microtubule's minus end.
+ - Drosophila kinesin-like protein (nod). Nod is required for the distributive
+   chromosome segregation of nonexchange chromosomes during meiosis.
+ - Human CENP-E [4]. CENP-E is a protein  that  associates  with  kinetochores
+   during   chromosome  congression,  relocates  to  the   spindle  midzone at
+   anaphase, and is quantitatively discarded at the end of the cell division.
+   CENP-E is probably an important  motor molecule in chromosome movement and/
+   or spindle elongation.
+ - Human  mitotic  kinesin-like  protein-1  (MKLP-1),  a  motor  protein whose
+   activity is directed toward the microtubule's plus end.
+ - Yeast KAR3 protein,  which  is  essential  for  yeast nuclear fusion during
+   mating. KAR3 may  mediate  microtubule  sliding  during  nuclear fusion and
+   possibly mitosis.
+ - Yeast  CIN8  and  KIP1  proteins which are required for the assembly of the
+   mitotic spindle.  Both proteins  seem to interact with spindle microtubules
+   to produce an outwardly directed force acting upon the poles.
+ - Fission yeast cut7 protein, which is essential for spindle body duplication
+   during mitotic division.
+ - Emericella  nidulans  bimC,  which  plays  an  important  role  in  nuclear
+   division.
+ - Emericella nidulans klpA.
+ - Caenorhabditis elegans unc-104, which may  be required for the transport of
+   substances needed for neuronal cell differentiation.
+ - Caenorhabditis elegans osm-3.
+ - Xenopus Eg5, which may be involved in mitosis.
+ - Arabidopsis thaliana KatA, KatB and katC.
+ - Chlamydomonas reinhardtii FLA10/KHP1 and KLP1. Both proteins seem to play a
+   role in the rotation or twisting of the microtubules of the flagella.
+ - Caenorhabditis elegans hypothetical protein T09A5.2.
+
+The kinesin motor  domain  is  located  in  the N-terminal part of most of the
+above proteins,  with the exception of KAR3, klpA, and ncd where it is located
+in the C-terminal section.
+
+The kinesin motor domain contains about  330 amino acids. An ATP-binding motif
+of type A is found  near position 80 to 90,  the C-terminal half of the domain
+is involved in microtubule-binding.  The  signature pattern for that domain is
+derived from a conserved decapeptide inside the microtubule-binding part.
+
+-Consensus pattern: [GSAT]-[KRHPSTQVME]-[LIVMFY]-x-[LIVMF]-[IVC]-[DN]-[LS]-
+                    [AH]-G-[SAN]-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bloom G.S., Endow S.A.
+     Protein Prof. 2:1109-1171(1995).
+[ 2] Vallee R.B., Shpetner H.S.
+     "Motor proteins of cytoplasmic microtubules."
+     Annu. Rev. Biochem. 59:909-932(1990).
+     PubMed=2142876; DOI=10.1146/annurev.bi.59.070190.004401
+[ 3] Brady S.T.
+     "A kinesin medley: biochemical and functional heterogeneity."
+     Trends Cell Biol. 5:159-164(1995).
+     PubMed=14732151
+[ 4] Endow S.A.
+     "The emerging kinesin family of microtubule motor proteins."
+     Trends Biochem. Sci. 16:221-225(1991).
+     PubMed=1832505
+[E1] http://www.proweb.org/kinesin/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

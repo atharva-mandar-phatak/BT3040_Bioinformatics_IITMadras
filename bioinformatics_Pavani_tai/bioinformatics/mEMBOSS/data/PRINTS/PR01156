@@ -1,0 +1,59 @@
+PACAPRECEPTR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that   
+encompasses a wide range of functions (including various autocrine, para-   
+crine and endocrine processes). They show considerable diversity at the   
+sequence level, on the basis of which they can be separated into distinct   
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,   
+but between which there is no statistically significant similarity in   
+sequence [1]. The currently known clan members include the rhodopsin-like   
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating   
+pheromone receptors, and the metabotropic glutamate receptor family.       
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid   
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-   
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+families: the secretin-like receptors thus bear their own unique '7TM'
+signature.      
+
+Vasoactive intestinal polypeptide (VIP) has a wide physiological profile.
+In the periphery, it induces relaxation in smooth muscle; inhibits
+secretion in certain tissues, but stimulates secretion in others; and
+modulates activity of cells in the immune system [6]. In the CNS, it has a
+range of both excitatory and inhibitory actions. VIP receptors are
+distributed widely in the periphery, and occur throughout the gastro-
+intestinal tract and genitourinary system, other smooth muscles and
+secretory glands. In the CNS, they are found abundantly in, e.g. the cortex,
+hippocampus and thalamus [6]. All VIP receptors activate adenylyl cyclase.
+
+There are two structurally distinct receptors that recognise pituitary
+adenylate cyclase activating polypeptide (PACAP) and VIP peptides with
+similar affinities (PACAP/VIPR-1, PACAP/VIPR-2), as well as a specific
+receptor for the PACAP peptide (PACAP-1) [7]. PACAP type I receptors are
+present in the hypothalamus and anterior pituitary, where they regulate the 
+release of adrenocorticotropin, luteinising hormone, growth hormone and
+prolactin, and in the adrenal medulla, where they regulate the release of
+epinephrine [8]. The receptors are also found in high concentrations in 
+testicular germ cells, where they may regulate spermatogenesis, and in some
+transformed cell lines, such as the rat pancreatic acinar carcinoma cell
+AR4-2J [8].
+
+PACAPRECEPTR is a 10-element fingerprint that provides a signature for 
+pituitary adenylate cyclase activating polypeptide receptors. The 
+fingerprint was derived from an initial alignment of 4 sequences: the motifs
+were drawn from conserved regions spanning the full alignment length,
+focusing on those areas that characterise the type 1 PACAP receptors but
+distinguish them from the rest of the VIP receptor family - motifs 1-5 lie
+in the N-terminal region immediately preceding TM domain 1; motif 6 lies in
+the loop between TM domains 2 and 3; motif 7 spans the loop between TM
+domains 6 and 7; and motifs 8-10 reside at the C-terminus. A single
+iteration on SPTR37_9f was required to reach convergence, no further 
+sequences being identified beyond the starting set. Two partial matches
+were found: O73769 is a goldfish PACAP type 1 receptor that matches motifs
+6-10; and VIPR_CARAU is a goldfish type 1 VIP receptor that matches motifs
+7 and 9.

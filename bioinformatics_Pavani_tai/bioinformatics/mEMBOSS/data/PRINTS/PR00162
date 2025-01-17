@@ -1,0 +1,37 @@
+RIESKE
+Ubiquinol-cytochrome c reductase (bc1 complex or complex III) is an enzyme
+complex of bacterial and mitochondrial oxidative phosphorylation systems
+[1]: it catalyses the oxidoreduction of the mobile redox components
+ubiquinol and cytochrome c, generating an electrochemical potential, which
+is linked to ATP synthesis [2]. The complex consists of 3 subunits in most
+bacteria, and 9 in mitochondria: both bacterial and mitochondrial complexes
+contain cytochrome b and cytocrhome c1 subunits, and an iron-sulphur
+'Rieske' subunit, which contains a high potential 2Fe-2S cluster [3]. The
+mitochondrial form also includes 6 other subunits that do not possess redox
+centres [1].
+
+Plastoquinone-plastocyanin reductase (b6f complex), present in cyanobacteria
+and the chloroplasts of plants, catalyses the oxidoreduction of plastoquinol
+and cytochrome f. This complex, which is functionally similar to ubiquinol-
+cytochrome c reductase, comprises cytochrome b6, cytochrome f and Rieske
+subunits [4].
+
+The Rieske subunit acts by binding either a ubiquinol or plastoquinol
+anion, transferring an electron to the 2Fe-2S cluster, then releasing the
+electron to the cytochrome c or cytochrome f haem iron [1,4]. The 2Fe-2S
+cluster is bound in the highly conserved C-terminal region of the Rieske
+subunit, where there are 4 Cys and 2 His residues, some of which take part
+in the binding process.
+
+RIESKE is a 3-element fingerprint that provides a signature for Rieske
+subunits. The fingerprint was derived from an initial alignment of 5
+sequences: motifs 1 and 2 include regions encoded by PROSITE patterns
+RIESKE_1 (PS00199) and RIESKE_2 (PS00200), each of which contains 1 His and
+2 Cys residues (4 of these 6 residues are thought to bind the 2Fe-2S
+cluster); motif 3 contains charged residues thought to interact with the
+cytochrome subunits of the complex. Two iterations on OWL21.1 were required
+to reach convergence, at which point a true set comprising 26 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 7
+partial matches.

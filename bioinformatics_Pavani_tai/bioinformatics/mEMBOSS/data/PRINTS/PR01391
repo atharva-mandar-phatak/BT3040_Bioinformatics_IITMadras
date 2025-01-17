@@ -1,0 +1,64 @@
+BINARYTOXINB
+A large group of bacterial exotoxins are referred to as "A/B toxins", 
+essentially because they are formed from two subunits [1]. The "A" subunit
+possesses enzyme activity, and is transferred to the host cell following
+a conformational change in the membrane-bound transport "B" subunit [1].
+
+Clostridial species are one of the major causes of food poisoning/gastro-
+intestinal illnesses. They are Gram-positive, spore-forming rods that occur
+naturally in the soil [1]. Included in the family are: C.botulinum, which
+produces one of the most potent toxins in existance; C.tetani, causative
+agent of tetanus; and C.perfringens, commonly found in wound infections
+and diarrhoea cases. 
+
+Among the toxins produced by certain Clostridium spp. are the binary 
+exotoxins. These proteins consist of two independent polypeptides, which
+correspond to the A/B subunit moieties. The enzyme component (A) enters 
+the cell through endosomes produced by the oligomeric binding/translocation
+protein (B), and prevents actin polymerisation through ADP-ribosylation of 
+monomeric G-actin [1-3].
+
+Members of the "B" binary toxin family include C.perfringens iota toxin Ib
+[1], C.botulinum C2 toxin CII [2], and C.difficile ADP-ribosyltransferase 
+[3]. The Bacillus anthracis protective antigen (PA) protein also shares a
+high degree of similarity with this family [1], and similar proteins have 
+been found in C.spiroforme [2,3].
+
+Bacillus anthracis, a large Gram-positive spore-forming rod, is the 
+causative agent of anthrax [4]. Its two virulence factors are the 
+poly-D-glutamate polypeptide capsule, and the actual anthrax exotoxin [5].
+The toxin comprises three factors: the protective antigen (PA); the oedema
+factor (EF) [4]; and the lethal factor (LF) [6]. Each is a thermolabile 
+protein of ~80kDa. PA forms the "B" part of the exotoxin and allows passage
+of the "A" moiety (consisting of EF and LF) into target cells.
+
+PA protein forms the central part of the complete anthrax toxin, and 
+translocates the B moiety into host cells after assembling as a heptamer in
+the membrane [5,7]. Each monomer consists of 47 beta-strands and 14 alpha-
+helices, which are arranged into 4 separate domains. The first monomer binds
+the A moiety before insertion into the host cell. Several proteins with
+similar functions have been identified: these include the actin-specific
+ADP-ribosyltransferase binary and iota toxins from several Clostridial spp.,
+and the C.difficile C2 toxin.
+
+The crystal structure of monomeric PA has been determined to 2.1A resolution
+and the water-soluble heptamer to 4.5A resolution [8]. The monomer mainly 
+contains anti-parallel beta-sheets and has 4 domains: an N-terminal domain
+containing 2 calcium ions and the cleavage site for activating proteases;
+a heptamerisation domain containing a large flexible loop implicated in
+membrane insertion; a small domain of unknown function; and a C-terminal
+receptor-binding domain [8]. Removal of a 20K N-terminal fragment from 
+the N-terminal domain allows assembly of the heptamer, a ring-shaped 
+structure with a negatively charged lumen, and exposes a large hydrophobic 
+surface for binding the toxic enzymes [8]. A model of pH-dependent membrane
+insertion involving the formation of a porin-like, membrane-spanning 
+beta-barrel has been proposed [8].
+
+BINARYTOXINB is a 12-element fingerprint that provides a signature for 
+binary toxin B protein family. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning the N-terminal half of the alignment length - motifs 1-5 span the
+PA protein calcium-binding domain; motifs 6-11 span the heptamerisation
+domain; and motif 12 resides in the C-terminal domain. Two iterations on
+SPTR39_15f were required to reach convergence, at which point a true set
+comprising 8 sequences was identified.

@@ -1,0 +1,45 @@
+LEUZIPPRJUN
+AP-1 (activator protein 1), also known as c-jun, is the cellular homologue 
+of the the avian sarcoma virus oncogene v-jun, and as such can be referred 
+to as a proto-oncogene. Implicit in the growth regulatory functions of all 
+proto-oncogenes is the potential to induce abnormal cell growth and cancer 
+as a result of alterations in gene expression [1]. This may be a quali-
+tative or quantitative alteration, the viral oncogenes activating this 
+potential by transducing a truncated or mutated form of the protein 
+product, or by increasing transcription of the proto-oncogene by the 
+integration of a viral promoter and enhancer sequence in its vicinity.
+
+The jun gene encodes a protein that is structurally and funtionally 
+identical to the transcription factor AP-1, which is itself identical to 
+yeast transcriptional activator GCN4 [2]. Such similarities imply that the
+jun product acts in the nucleus as a transcription factor, the high 
+structural identity with GCN4 suggesting that the 2 proteins may recognise 
+similar DNA sequences (GCN4 binds to the 5'-TGA(C/G)TCA-3' consensus
+sequence). It has been proposed that the highly basic region in the
+C-terminus of the protein may be the DNA-binding domain [3]. The gene 
+products of jun and fos can come together as a dimer to bind DNA via
+a leucine zipper, which occurs just after the DNA-binding site. 
+
+The 'leucine zipper' is a structure that is believed to mediate the
+function of several eukaryotic gene regulatory proteins. The zipper
+consists of a periodic repetition of leucine residues at every seventh
+position, and regions containing them appear to span 8 turns of alpha-
+helix. The leucine side chains that extend from one helix interact with
+those from a similar helix, hence facilitating dimerisation in the form
+of a coiled-coil. Leucine zippers are present in many gene regulatory
+proteins, including the CREB proteins, Jun/AP1 transcription factors,
+fos oncogene and fos-related proteins, C-myc, L-myc and N-myc oncogenes,
+and so on.
+
+LEUZIPPRJUN is a 5-element fingerprint that provides a signature for the 
+leucine zipper and DNA-binding domains characteristic of jun/AP1 tran-
+scription factors. The fingerprint was derived from an initial alignment 
+of 6 sequences: motifs 1 and 2 span the highly basic DNA-binding domain,
+while motifs 3 and 4 encode the leucine zipper region (cf. PROSITE patterns
+FOS_JUN_BASIC (PS00036) and LEUCINE_ZIPPER (PS00029)). Two iterations on
+OWL19.1 were required to reach convergence, at which point a true set
+comprising 17 sequences was identified. Several partial matches were also
+found: these include the GCN4 protein, which lacks the portion of sequence
+bearing the last motif, and various CREB proteins.
+
+An update on SPTR37_9f identified a true set of 17 sequences.

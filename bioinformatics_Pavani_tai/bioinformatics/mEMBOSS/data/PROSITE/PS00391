@@ -1,0 +1,74 @@
+*********************************************************
+* Sodium and potassium ATPases beta subunits signatures *
+*********************************************************
+
+The sodium pump (Na+,K+ ATPase), located in the plasma membrane of  all animal
+cells [1],  is  an  heterotrimer  of  a  catalytic  subunit  (alpha  chain), a
+glycoprotein subunit  of  about  34  Kd  (beta  chain) and a small hydrophobic
+protein of  about  6 Kd.   The beta subunit seems [2] to regulate, through the
+assembly  of alpha/beta   heterodimers, the number of sodium pumps transported
+to the plasma membrane.
+
+Structurally the beta subunit is composed of a charged  cytoplasmic  domain of
+about 35   residues,  followed  by  a  transmembrane    region,  and  a  large
+extracellular  domain that contains three disulfide  bonds  and  glycosylation
+sites. This structure is schematically represented in the figure below.
+
+                                +----+ +--+       +-----------+
+                                |    | |  |       |           |
+        xxxxxxxxxxxxxxxxxxxxxxxxCxxxxCxCxxCxxxxxxxCxxxxxxxxxxxCxxxx
+           ****                      ****
+        <-Cyt-><TM><------------Extracellular--------------------->
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the patterns.
+
+Four isoforms of the beta subunit (beta-1 to beta-4) are currently known.
+
+Gastric (K+,  H+)  ATPase (proton pump) responsible for acid production in the
+stomach consist  of  two subunits [3]; the beta chain is highly similar to the
+sodium pump beta subunits.
+
+We developed two signature patterns for beta subunits. The first is located in
+the cytoplasmic domain, while the second is found in the extracellular  domain
+and contains two of the cysteines involved in disulfide bonds.
+
+-Consensus pattern: [FYWMV]-x(2)-[FYWM]-x-[FYW]-[DN]-x(6)-[LIVMF]-[GA]-R-T-
+                    x(3)-[WRL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [RK]-x(2)-C-[RKQWI]-x(5)-L-x(2)-C-[SA]-G
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the beta subunit of the  sodium pump  of  brine shrimp  whose sequence is
+ highly divergent in that region.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Horisberger J.D., Lemas V., Kraehenbuhl J.P., Rossier B.C.
+     "Structure-function relationship of Na,K-ATPase."
+     Annu. Rev. Physiol. 53:565-584(1991).
+     PubMed=1645948; DOI=10.1146/annurev.ph.53.030191.003025
+[ 2] McDonough A.A., Geering K., Farley R.A.
+     "The sodium pump needs its beta subunit."
+     FASEB J. 4:1598-1605(1990).
+     PubMed=2156741
+[ 3] Toh B.-H., Gleeson P.A., Simpson R.J., Moritz R.L., Callaghan J.M.,
+     Goldkorn I., Jones C.M., Martinelli T.M., Mu F.-T., Humphris D.C.
+     "The 60- to 90-kDa parietal cell autoantigen associated with
+     autoimmune gastritis is a beta subunit of the gastric H+/K(+)-ATPase
+     (proton pump)."
+     Proc. Natl. Acad. Sci. U.S.A. 87:6418-6422(1990).
+     PubMed=1974721
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

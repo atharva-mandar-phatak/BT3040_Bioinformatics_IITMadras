@@ -1,0 +1,86 @@
+***********************************************************
+* Pumilio RNA-binding repeat and homology domain profiles *
+***********************************************************
+
+Members  of the Pumilio family of proteins (Puf) regulate translation and mRNA
+stability  in a wide variety of eukaryotic organisms including mammals, flies,
+worms,  slime mold, and yeast [1]. Pumilio family members are characterized by
+the  presence of eight tandem copies of an imperfectly repeated 36 amino acids
+sequence  motif,  the  Pumilio repeat, surrounded by a short N- and C-terminal
+conserved region. The eight repeats and the N- and C-terminal regions form the
+Pumilio homology domain (PUM-HD). The PUM-HD domain is a sequence-specific RNA
+binding  domain.  Several  Puf  members  have  been shown to bind specific RNA
+sequences  mainly  found  in  the 3' UTR of mRNA and repress their translation
+[2].  Frequently,  Puf  proteins  function  asymmetrically  to  create protein
+gradients,  thus  causing  asymmetric  cell  division and regulating cell fate
+specification [3].
+
+Crystal structure of Pumilio repeats has been solved (see <PDB:1IB2>) [4]. The
+PUM  repeat  with  the  N-  and  C-terminal  regions  pack  together to form a
+right-handed superhelix that approximates a half doughnut structurally similar
+to  the  Armadillo  (ARM)  repeat proteins (see <PDOC50176>), beta-catenin and
+karyopherin  alpha.  The  RNA binds the concave surface of the molecule, where
+each  of  the protein's eight repeats makes contacts with a different RNA base
+via three amino acid side chains at conserved positions [5].
+
+Some of the proteins known to contain Pumilio repeats are listed below:
+
+ - Drosophila  Pumilio  protein. It is a sequence-specific RNA-binding protein
+   that  binds  to  the  Nanos Response Element (NRE), a 16 bp sequence in the
+   hunchback mRNA 3'UTR.
+ - Xenopus Pumilio. It also interacts with a Nanos protein, Xcat-2.
+ - Human  PUM1 and PUM2. They have an important role in cell development, fate
+   specification and differentiation.
+ - Yeast   PUF3  protein.  It  is  a  transcript-specific  regulator  of  mRNA
+   degradation and binds the 3'UTR of the COX17 protein.
+ - Dictyostelium  PufA  protein.  It  represses expression of protein kinase A
+   mRNA, and appears to be a key developmental regulator in that organism.
+ - Caenorhabditis  elegans  fbf-1  and  fbf-2.  They  mediate the sperm/oocyte
+   switch in  hermaphrodites  by  binding  the  3'  UTR  of the fem-3 mRNA and
+   repressing its expression.
+
+Two  profiles were developed for this conserved region, the first one picks up
+pumilio repeat units while the second one detects the whole PUM-HD domain.
+
+-Sequences known to belong to this class detected by the profile: ALL pumillio
+ repeats.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL   PUM-HD
+ domains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2004 / First entry.
+
+[ 1] Parisi M., Lin H.
+     "Translational repression: a duet of Nanos and Pumilio."
+     Curr. Biol. 10:R81-R83(2000).
+     PubMed=10662662
+[ 2] Spassov D.S., Jurecic R.
+     "The PUF family of RNA-binding proteins: does evolutionarily conserved
+     structure equal conserved function?"
+     IUBMB Life 55:359-366(2003).
+     PubMed=14584586
+[ 3] Barker D.D., Wang C., Moore J., Dickinson L.K., Lehmann R.
+     "Pumilio is essential for function but not for distribution of the
+     Drosophila abdominal determinant Nanos."
+     Genes Dev. 6:2312-2326(1992).
+     PubMed=1459455
+[ 4] Wang X., Zamore P.D., Hall T.M.
+     "Crystal structure of a Pumilio homology domain."
+     Mol. Cell 7:855-865(2001).
+     PubMed=11336708
+[ 5] Wang X., McLachlan J., Zamore P.D., Hall T.M.
+     "Modular recognition of RNA by a human pumilio-homology domain."
+     Cell 110:501-512(2002).
+     PubMed=12202039
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

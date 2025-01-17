@@ -1,0 +1,31 @@
+CARBMTKINASE
+The arginine dihydrolase (AD) pathway is found in many prokaryotes and some
+primitive eukaryotes, an example of the latter being Giardia [1}. The three- 
+enzyme anaerobic pathway breaks down L-arginine to form 1 mol of ATP, carbon 
+dioxide and ammonia. In simpler bacteria, the first enzyme, arginine 
+deiminase, can account for up to 10% of total cell protein [1].
+
+Carbamate kinase is involved in the last step of the AD pathway, converting
+carbamoyl phosphate and ADP into ammonia, carbon dioxide and ATP [2]. The
+second step of the pathway involves the degradation of L-citrulline to 
+carbamoyl phosphate and L-ornithine, using ornithine carbamoyltransferase [3].
+
+The crystal structure of Enterococcus (Streptococcus) faecium carbamate
+kinase has been determined to 2.8A resolution [4]. The enzyme exists as a
+homodimer of two 33kDa subunits. The hallmark of the dimer is a 16-stranded
+beta-sheet, surrounded by alpha-helices [4]. Each subunit contains an active
+site within a large crevice.
+
+CARBMTKINASE is a 7-element fingerprint that provides a signature for the
+bacterial carbamate kinases. The fingerprint was derived from an initial 
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length (~220 amino acids) - motif 1 spans beta-
+strand 3 and the N-terminus of alpha-helix 3 of the E.faecium carbamate
+kinase structure; motif 2 encodes the N-terminus of helix 4; motif 3 spans
+the C-terminus of strand 4, strand 5 and helix 5; motif 4 spans the 
+C-terminus of strand 8, strand 9 and the N-terminus of helix 7; motif 5 
+spans strands 10 and 11, and helix 8; motif 6 encodes helix 9; and motif
+7 encodes helix 11. Two iterations on SPTR37_10f were required to reach
+convergence, at which point a true set comprising 17 sequences was
+identified. A single partial match was also found, ARGB_BACST, a Bacillus
+stearothermophilus acetylglutamate kinase that matched motifs 1 and 7.  

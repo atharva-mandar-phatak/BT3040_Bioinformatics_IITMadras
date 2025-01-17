@@ -1,0 +1,62 @@
+****************************************
+* Urease domain signatures and profile *
+****************************************
+
+Urease  (EC  3.5.1.5) is a nickel-binding enzyme that catalyzes the hydrolysis
+of  urea  to  carbon  dioxide  and ammonia [1]. Historically, it was the first
+enzyme  to  be  crystallized  (in  1926).  It  is mainly found in plant seeds,
+microorganisms  and invertebrates. In plants, urease is a hexamer of identical
+chains. In bacteria [2], it consists of either two or three different subunits
+(alpha, beta and gamma).
+
+Urease  binds  two nickel ions per subunit; four histidine, an aspartate and a
+carbamated-lysine serve as ligands to these metals; an additional histidine is
+involved  in  the  catalytic  mechanism [3]. The urease domain forms an (alpha
+beta)(8) barrel structure (see <PDB:2KAU>) with structural similarity to other
+metal-dependent   hydrolases,   such  as  adenosine  and  AMP  deaminase  (see
+<PDOC00419>) and phosphotriesterase (see <PDOC01026>).
+
+As  signatures  for  this  enzyme,  we  selected  a  region  that contains two
+histidines  that bind one of the nickel ions and the region of the active site
+histidine. We also developed a profile that covers the whole urease domain.
+
+-Consensus pattern: T-[AY]-[GA]-[GATR]-[LIVMF]-D-x-H-[LIVM]-H-x(3)-[PA]
+                    [The 2 H's bind nickel]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM](2)-[CT]-H-[HNG]-L-x(3)-[LIVM]-x(2)-D-[LIVM]-x-F-
+                    [AS]
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2008 / Text revised; profile added.
+
+[ 1] Takishima K., Suga T., Mamiya G.
+     "The structure of jack bean urease. The complete amino acid sequence,
+     limited proteolysis and reactive cysteine residues."
+     Eur. J. Biochem. 175:151-165(1988).
+     PubMed=3402446
+[ 2] Mobley H.L.T., Hausinger R.P.
+     "Microbial ureases: significance, regulation, and molecular
+     characterization."
+     Microbiol. Rev. 53:85-108(1989).
+     PubMed=2651866
+[ 3] Jabri E., Carr M.B., Hausinger R.P., Karplus P.A.
+     "The crystal structure of urease from Klebsiella aerogenes."
+     Science 268:998-1004(1995).
+     PubMed=7754395
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

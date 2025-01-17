@@ -1,0 +1,81 @@
+**********************************************************************
+* Regulator of chromosome condensation (RCC1) signatures and profile *
+**********************************************************************
+
+The regulator of chromosome condensation (RCC1) [1]  is  a  eukaryotic protein
+which binds  to  chromatin  and  interacts  with  ran,  a  nuclear GTP-binding
+protein (see <PDOC00859>),  to promote the loss of bound GDP and the uptake of
+fresh GTP,  thus  acting as a guanine-nucleotide dissociation stimulator (GDS)
+[2]. The  interaction of RCC1 with ran probably plays an important role in the
+regulation of gene expression.
+
+RCC1, known  as    PRP20  or  SRM1  in yeast, pim1 in fission yeast and BJ1 in
+Drosophila, is  a  protein  that  contains seven tandem repeats of a domain of
+about 50   to   60   amino   acids.   As  shown  in  the  following  schematic
+representation, the  repeats  make  up  the  major  part  of the length of the
+protein. Outside the repeat region, there is just a small N-terminal domain of
+about 40  to  50  residues  and,  in the Drosophila protein only, a C-terminal
+domain of about 130 residues.
+
+  +----+-------+-------+-------+-------+-------+-------+-------+-------------+
+  |N-t.|Rpt. 1 |Rpt. 2 |Rpt. 3 |Rpt. 4 |Rpt. 5 |Rpt. 6 |Rpt. 7 | C-terminal  |
+  +----+-------+-------+-------+-------+-------+-------+-------+-------------+
+                                                                 In Drosophila
+
+RCC1 repeats are also found in the following proteins:
+
+ - Mammalian  retinitis  pigmentosa  GTPase regulator (RPGR) [3]. Mutations in
+   the RPGR  gene  cause X-linked retinitis pigmentosa type 3 (RP3), a severe,
+   progressive and  degenerative  retinal   dystrophy  eventually  leading  to
+   complete blindness.
+ - Mammalian HERC2 protein. A putative guanine nucleotide exchange factor that
+   could be involved in protein trafficking.
+
+We developed  two  signature patterns for RCC1.  The  first is found in the N-
+terminal part  of  the second repeat; this is the most conserved part of RCC1.
+The second  is derived from conserved positions in the C-terminal part of each
+repeat and detects up to five copies of the repeated domain. We also developed
+a profile that covers the whole repeat.
+
+-Consensus pattern: G-x-N-D-x(2)-[AV]-L-G-R-x-T
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFA]-[STAGC](2)-G-x-{TAV}-H-[STAGLI]-[LIVMFA]-{KI}-
+                    [LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 65, in which  the pattern  is found
+ only ONCE,  while   it is found from two to five times in the members of this
+ family.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Dasso M.
+     "RCC1 in the cell cycle: the regulator of chromosome condensation
+     takes on new roles."
+     Trends Biochem. Sci. 18:96-101(1993).
+     PubMed=8480369
+[ 2] Boguski M.S., McCormick F.
+     "Proteins regulating Ras and its relatives."
+     Nature 366:643-654(1993).
+     PubMed=8259209; DOI=10.1038/366643a0
+[ 3] Roepman R., van Duijnhoven G., Rosenberg T., Pinckers A.J.L.G.,
+     Bleeker-Wagemakers L.M., Bergen A.A.B., Post J., Beck A., Reinhardt R.,
+     Ropers H.-H., Cremers F.P., Berger W.
+     "Positional cloning of the gene for X-linked retinitis pigmentosa 3:
+     homology with the guanine-nucleotide-exchange factor RCC1."
+     Hum. Mol. Genet. 5:1035-1041(1996).
+     PubMed=8817343
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

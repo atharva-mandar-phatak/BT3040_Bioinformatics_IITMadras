@@ -1,0 +1,38 @@
+SECFTRNLCASE
+Secretion across the inner membrane in some Gram-negative bacteria occurs 
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component. [1]. From there, the mature proteins are either
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome. 
+
+The translocase itself comprises 7 proteins, including a chaperone (SecB), 
+ATPase (SecA), an integral membrane complex (SecY, SecE and SecG), and two 
+additional membrane proteins that promote the release of the mature peptide 
+into the periplasm (SecD and SecF) [1]. The latter stabilises the SecYEG 
+complex in the membrane, as well as interacting with SecD in the periplasm
+[2]. In Gram-positive microbes, the homologue of SecD and SecF is expressed 
+as a SecDF fusion protein, and interacts directly with the SecB chaperone 
+and SecYEG complex in the cell cytoplasm [3]. In both Gram-negative and 
+-positive pathogens, the preprotein translocase is essential for virulence
+[3].
+
+Recently, the precise interactions between the E.coli SecYEG complex, 
+SecD, SecF, and two other essential membrane proteins, YajC and YidC, have 
+been researched [4]. Rather than acting individually, the four proteins form 
+a heterotetrameric complex and associate with the SecYEG heterotrimeric 
+complex [4]. The SecF and YajC subunits link the complex to the integral
+membrane translocase. 
+
+SECFTRNLCASE is a 4-element fingerprint that provides a signature for the
+bacterial translocase SecF protein family. The fingerprint was derived from
+an initial alignment of 9 sequences: the motifs were drawn from conserved
+regions spanning the C-terminal portion of the alignment (~220 amino acids)
+- motif 1 lies in the loop following putative transmembrane (TM) domain 1;
+motif 2 encodes the C-terminal residues of putative TM domain 2 and the
+following loop; motif 3 encodes the C-terminal portion of TM domain 4; and
+motif 4 includes the N-terminal residues of predicted TM domain 5. Four
+iterations on SPTR40_20f were required to reach convergence, at which point 
+a true set comprising 45 sequences was identified. Two partial matches were
+also found, Q9WXE9 and SECF_BORBU, bacterial SecF homologues that fail
+to match motifs 1 or 2.

@@ -1,0 +1,95 @@
+**************************************
+* Annexins repeated domain signature *
+**************************************
+
+Annexins [1  to 6]  are a   group  of calcium-binding  proteins that associate
+reversibly  with membranes.   They  bind   to  phospholipid   bilayers  in the
+presence  of micromolar free calcium  concentration.   The binding is specific
+for calcium and for acidic phospholipids.  Annexins  have  been  claimed to be
+involved in cytoskeletal interactions, phospholipase inhibition, intracellular
+signalling, anticoagulation, and membrane fusion.
+
+Each of these  proteins  consist  of  an  N-terminal domain of variable length
+followed by four or eight copies of a conserved segment of sixty one residues.
+The repeat (sometimes known  as  an 'endonexin fold')  consists of five alpha-
+helices that are wound into a right-handed superhelix [7].
+
+The proteins known to belong to the annexin family are listed below:
+
+ - Annexin I (Lipocortin 1) (Calpactin 2) (p35) (Chromobindin 9).
+ - Annexin II (Lipocortin 2) (Calpactin 1) (Protein I) (p36) (Chromobindin 8).
+ - Annexin III (Lipocortin 3) (PAP-III).
+ - Annexin IV (Lipocortin 4) (Endonexin I) (Protein II) (Chromobindin 4).
+ - Annexin V (Lipocortin 5) (Endonexin 2) (VAC-alpha) (Anchorin CII) (PAP-I).
+ - Annexin VI (Lipocortin 6) (Protein III) (Chromobindin 20) (p68) (p70). This
+   is the only known annexin that contains 8 (instead of 4) repeats.
+ - Annexin VII (Synexin).
+ - Annexin VIII (Vascular anticoagulant-beta) (VAC-beta).
+ - Annexin IX from Drosophila.
+ - Annexin X from Drosophila.
+ - Annexin XI (Calcyclin-associated annexin) (CAP-50).
+ - Annexin XII from Hydra vulgaris.
+ - Annexin XIII (Intestine-specific annexin) (ISA).
+
+The signature  pattern for this  domain spans  positions 9 to 61 of the repeat
+and includes the only perfectly conserved residue (an arginine in position 22).
+
+-Consensus pattern: [TG]-[STV]-x(8)-[LIVMF]-x(2)-R-x(3)-[DEQNH]-x(2)-{S}-x(4)-
+                    [IFY]-x(7)-[LIVMF]-x(3)-[LIVMF]-x(5)-{I}-x(5)-[LIVMFA]-
+                    x(2)-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL. But the
+ pattern will miss some of the repeats of annexin IX, X, XI, and XII.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Note: A  sequence  similar  to  the  annexin  domain  has  been  found in the
+ N-terminal of alpha-giardins of Giardia lamblia [8].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Raynal P., Pollard H.B.
+     "Annexins: the problem of assessing the biological role for a gene
+     family of multifunctional calcium- and phospholipid-binding
+     proteins."
+     Biochim. Biophys. Acta 1197:63-93(1994).
+     PubMed=8155692
+[ 2] Barton G.J., Newman R.H., Freemont P.S., Crumpton M.J.
+     "Amino acid sequence analysis of the annexin super-gene family of
+     proteins."
+     Eur. J. Biochem. 198:749-760(1991).
+     PubMed=1646719
+[ 3] Burgoyne R.D., Geisow M.J.
+     "The annexin family of calcium-binding proteins. Review article."
+     Cell Calcium 10:1-10(1989).
+     PubMed=2659190
+[ 4] Haigler H.T., Fitch J.M., Jones J.M., Schlaepfer D.D.
+     "Two lipocortin-like proteins, endonexin II and anchorin CII, may be
+     alternate splices of the same gene."
+     Trends Biochem. Sci. 14:48-50(1989).
+     PubMed=2539661
+[ 5] Klee C.B.
+     "Ca2+-dependent phospholipid- (and membrane-) binding proteins."
+     Biochemistry 27:6645-6653(1988).
+     PubMed=2973805
+[ 6] Smith P.D., Moss S.E.
+     "Structural evolution of the annexin supergene family."
+     Trends Genet. 10:241-246(1994).
+     PubMed=8091504
+[ 7] Huber R., Roemisch J., Paques E.-P.
+     "The crystal and molecular structure of human annexin V, an
+     anticoagulant protein that binds to calcium and membranes."
+     EMBO J. 9:3867-3874(1990).
+     PubMed=2147412
+[ 8] Fiedler K., Simons K.
+     "Annexin homologues in Giardia lamblia."
+     Trends Biochem. Sci. 20:177-178(1995).
+     PubMed=7610478
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

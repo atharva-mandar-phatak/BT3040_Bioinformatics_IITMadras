@@ -1,0 +1,65 @@
+*********************************************************
+* Sodium:solute symporter family signatures and profile *
+*********************************************************
+
+It has    been  shown  [1,2]  that integral membrane proteins that mediate the
+intake of a wide variety  of  molecules  with the concomitant uptake of sodium
+ions (sodium  symporters)  can  be  grouped,  on  the  basis  of  sequence and
+functional similarities  into  a  number  of  distinct  families. One of these
+families is  known as the  sodium:solute  symporter family (SSF) and currently
+consists of the following proteins:
+
+ - Mammalian Na+/glucose co-transporter.
+ - Mammalian Na+/myo-inositol co-transporter.
+ - Mammalian Na+/nucleoside co-transporter.
+ - Mammalian Na+/neutral amino acid co-transporter.
+ - Mammalian Na+/iodide co-transporter.
+ - Mammalian Na+/multivitamin co-transporter.
+ - Escherichia coli Na+/proline symporter (gene putP).
+ - Escherichia coli Na+/pantothenate symporter (gene panF).
+ - Escherichia coli hypothetical protein yidK.
+ - Escherichia coli hypothetical protein yjcG.
+ - Bacillus subtilis hypothetical protein ywcA (ipa-31R).
+
+These integral  membrane  proteins  are  predicted  to  comprise  at least ten
+membrane spanning  domains.  As  signature  patterns we selected two conserved
+regions; the  first  one is located in the fourth transmembrane region and the
+second one  in a loop between two transmembrane regions in the C-terminal part
+of these proteins.
+
+-Consensus pattern: [GS]-x(2)-[LIY]-x(3)-[LIVMFYWSTAG](7)-x(3)-[LIY]-[STAV]-
+                    x(2)-G-G-[LMF]-x-[SAP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [GAST]-[LIVM]-x(3)-[KR]-x(4)-G-A-x(2)-[GAS]-[LIVMGS]-
+                    [LIVMW]-[LIVMGAT]-G-x-[LIVMGA]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for E.coli yidK.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised; profile added.
+
+[ 1] Reizer J., Reizer A., Saier M.H. Jr.
+     "The Na+/pantothenate symporter (PanF) of Escherichia coli is
+     homologous to the Na+/proline symporter (PutP) of E. coli and the
+     Na+/glucose symporters of mammals."
+     Res. Microbiol. 141:1069-1072(1990).
+     PubMed=1965458
+[ 2] Reizer J., Reizer A., Saier M.H. Jr.
+     "A functional superfamily of sodium/solute symporters."
+     Biochim. Biophys. Acta 1197:133-166(1994).
+     PubMed=8031825
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

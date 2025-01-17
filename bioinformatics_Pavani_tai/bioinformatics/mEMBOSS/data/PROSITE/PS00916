@@ -1,0 +1,105 @@
+****************************************************************
+* Phosphatidylinositol 3- and 4-kinases signatures and profile *
+****************************************************************
+
+Phosphatidylinositol 3-kinase  (PI3-kinase)  (EC 2.7.1.137)  [1] is  an enzyme
+that phosphorylates  phosphoinositides on the 3-hydroxyl group of the inositol
+ring. The  exact  function  of  the  three  products  of  PI3-kinase - PI-3-P,
+PI-3,4-P(2) and PI-3,4,5-P(3) - is not yet known, although it is proposed that
+they function  as second messengers in cell signalling. Currently, three forms
+of PI3-kinase are known:
+
+ - The  mammalian  enzyme  which is a heterodimer  of a 110 Kd catalytic chain
+   (p110) and  an 85  Kd  subunit  (p85)  which allows it to bind to activated
+   tyrosine protein kinases.  There are at  least  two different types of p100
+   subunits (alpha and beta).
+ - Yeast    TOR1/DRR1  and  TOR2/DRR2 [2], PI3-kinases required for cell cycle
+   activation. Both are proteins of about 280 Kd.
+ - Yeast VPS34 [3], a PI3-kinase involved in vacuolar sorting and segregation.
+   VPS34 is a protein of about 100 Kd.
+ - Arabidopsis thaliana and soybean VPS34 homologs.
+
+Phosphatidylinositol 4-kinase    (PI4-kinase)  (EC 2.7.1.67) [4] is  an enzyme
+that acts  on  phosphatidylinositol  (PI)  in the  first committed step in the
+production of  the  second  messenger inositol-1,4,5,-trisphosphate. Currently
+the following forms of PI4-kinases are known:
+
+ - Human PI4-kinase alpha.
+ - Yeast PIK1, a nuclear protein of 120 Kd.
+ - Yeast STT4, a protein of 214 Kd.
+
+The PI3- and PI4-kinases  share  a  well  conserved domain at their C-terminal
+section; this domain  seems to be distantly related to the catalytic domain of
+protein kinases  [2].  We  developed  two  signature  patterns  from  the best
+conserved parts of this domain.
+
+Four additional proteins belong to this family:
+
+ - Mammalian FKBP-rapamycin associated protein (FRAP) [5],  which  acts as the
+   target for  the  cell-cycle  arrest  and  immunosuppressive  effects of the
+   FKBP12-rapamycin complex.
+ - Yeast  protein  ESR1  [6] which is required for cell growth, DNA repair and
+   meiotic recombination.
+ - Yeast protein TEL1 which is involved in controlling telomere length.
+ - Yeast  hypothetical protein YHR099w, a  distantly  related  member  of this
+   family.
+ - Fission yeast hypothetical protein SpAC22E12.16C.
+
+A profile was also developed that spans the complete C-terminal domain.
+
+-Consensus pattern: [LIVMFAC]-K-x(1,3)-[DEA]-[DE]-[LIVMCP]-R-Q-[DE]-x(4)-Q
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast YHR099w.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GSET]-x-[AVE]-x(3)-[LIVM]-x(2)-[FYHW]-[LIVM](2)-x-
+                    [LIVMFN]-x-D-R-[HNG]-x(2)-N
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast YHR099w.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Hiles I.D., Otsu M., Volinia S., Fry M.J., Gout I., Dhand R.,
+     Panayotou G., Ruiz-Larrea F., Thompson A., Totty N.F.
+     "Phosphatidylinositol 3-kinase: structure and expression of the 110 kd
+     catalytic subunit."
+     Cell 70:419-429(1992).
+     PubMed=1322797
+[ 2] Kunz J., Henriquez R., Schneider U., Deuter-Reinhard M., Movva N.R.,
+     Hall M.N.
+     "Target of rapamycin in yeast, TOR2, is an essential
+     phosphatidylinositol kinase homolog required for G1 progression."
+     Cell 73:585-596(1993).
+     PubMed=8387896
+[ 3] Schu P.V., Takegawa K., Fry M.J., Stack J.H., Waterfield M.D., Emr S.D.
+     "Phosphatidylinositol 3-kinase encoded by yeast VPS34 gene essential
+     for protein sorting."
+     Science 260:88-91(1993).
+     PubMed=8385367
+[ 4] Garcia-Bustos J.F., Marini F., Stevenson I., Frei C., Hall M.N.
+     EMBO J. 13:2352-2361(1994).
+[ 5] Brown E.J., Albers M.W., Shin T.B., Ichikawa K., Keith C.T.,
+     Lane W.S., Schreiber S.L.
+     "A mammalian protein targeted by G1-arresting rapamycin-receptor
+     complex."
+     Nature 369:756-758(1994).
+     PubMed=8008069; DOI=10.1038/369756a0
+[ 6] Kato R., Ogawa H.
+     "An essential gene, ESR1, is required for mitotic cell growth, DNA
+     repair and meiotic recombination in Saccharomyces cerevisiae."
+     Nucleic Acids Res. 22:3104-3112(1994).
+     PubMed=8065923
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

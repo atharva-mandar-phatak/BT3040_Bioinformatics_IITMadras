@@ -1,0 +1,53 @@
+MCRFAMILY
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Adrenocorticotrophin (ACTH), melanocyte-stimulating hormones (MSH) and
+beta-endorphin are peptide products of pituitary pro-opiomelanocortin.
+ACTH regulates synthesis and release of glucocorticoids and aldosterone
+in the adrenal cortex; it also has a trophic action on these cells [6]. 
+ACTH and beta-endorphin are synthesised and released in response to 
+corticotrophin-releasing factor at times of stress (heat, cold, infections,
+etc.) - their release leads to increased metabolism and analgesia res..
+MSH has a trophic action on melanocytes, and regulates pigment production
+in fish and amphibia [6]. The ACTH receptor is found in high levels in
+the adrenal cortex - binding sites are present in lower levels in the
+CNS. The MSH receptor is expressed in high levels in melanocytes, 
+melanomas and their derived cell lines [6]. Receptors are found in low
+levels in the CNS. MSH regulates temperature control in the septal region
+of the brain and releases prolactin from the pituitary.
+
+MCRFAMILY is a 7-element fingerprint that provides a signature for the
+melanocortin receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved sections   
+within either loop or TM regions, focusing on those areas of the 
+alignment that characterise the melanocortin receptors but distinguish them
+from the rest of the rhodopsin-like superfamily - motif 1 spans the first
+cytoplasmic loop; motif 2 spans part of the first external loop leading
+into TM domain 3; motif 3 lies in the second cytoplasmic loop; motif 4
+encodes the N-terminus of TM domain 6; motif 5 lies in the third external
+loop; motif 6 was drawn from the N-terminus of TM domain 7; and motif 7
+resides in the C-terminal region following TM domain 7. Two iterations on
+OWL27.1 were required to reach convergence, at which point a true set
+comprising 20 sequences was identfied. Several partial matches were also
+found: those matching 4 or 5 motifs are largely melanocortin receptor
+fragments; while those matching just 2 motifs are members of the wider
+rhodopsin-like superfamily.
+
+An update on SPTR37_9f identified a true set of 32 sequences.

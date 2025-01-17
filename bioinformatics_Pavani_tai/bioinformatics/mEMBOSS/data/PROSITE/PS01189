@@ -1,0 +1,42 @@
+************************************
+* Ribosomal protein S12e signature *
+************************************
+
+A number  of  eukaryotic  ribosomal  proteins  can  be grouped on the basis of
+sequence similarities. One of these families consists of:
+
+ - Vertebrate S12 [1].
+ - Trypanosoma brucei S12 [2].
+ - Caenorhabditis elegans S12 (F54E7.2).
+ - Drosophila S12.
+ - Fungi S12.
+
+These proteins  have  130  to  150  amino  acids.  As  a signature pattern, we
+selected a conserved region in the N-terminal part of these proteins.
+
+-Consensus pattern: [AS]-[LI]-[KREQP]-x(2)-[LIVM]-x(2)-[SA]-x(3)-[DNG]-G-
+                    [LIV]-x(2)-G-[LIV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Lin A., Chan Y.-L., Jones R., Wool I.G.
+     "The primary structure of rat ribosomal protein S12. The relationship
+     of rat S12 to other ribosomal proteins and a correlation of the amino
+     acid sequences of rat and yeast ribosomal proteins."
+     J. Biol. Chem. 262:14343-14351(1987).
+     PubMed=3308890
+[ 2] Marchal C., Ismaili N., Pays E.
+     "A ribosomal S12-like gene of Trypanosoma brucei."
+     Mol. Biochem. Parasitol. 57:331-334(1993).
+     PubMed=8433721
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

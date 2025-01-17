@@ -1,0 +1,70 @@
+**************************
+* Wnt-1 family signature *
+**************************
+
+Wnt-1 (previously  known  as  int-1)  [1]  is  a proto-oncogene induced by the
+integration of  the mouse mammary tumor virus. It is thought to play a role in
+intercellular communication and seems to be a signalling molecule important in
+the development  of the central nervous system (CNS). The sequence of wnt-1 is
+highly conserved in mammals, fish, and amphibians.
+
+Wnt-1 is  a  member of a large family of related proteins [2,3,4] that are all
+thought to  be  developmental  regulators.  These  proteins are known as wnt-2
+(also known as irp), wnt-3 up to wnt-15. At least four members of  this family
+are present  in  Drosophila;  one  of  them,  wingless  (wg), is implicated in
+segmentation polarity.
+
+All these  proteins  share the following features characteristics of secretory
+proteins: a  signal  peptide,  several  potential N-glycosylation sites and 22
+conserved cysteines  that  are  probably  involved in disulfide bonds. The Wnt
+proteins seem  to adhere to the plasma membrane of the secreting cells and are
+therefore likely to signal over only few cell diameters.
+
+Signal transduction by the Wnt family of ligands is mediated by the binding to
+the extracellular  domain  fz of Frizzled receptors. It can lead to either the
+activation of   dishvelled  proteins,  inhibition  of  GSK-3  kinase,  nuclear
+accumulation of  beta-catenin and activation of Wnt target genes or be coupled
+to the inositol signaling pathway and PKC activation, depending on the type of
+Frizzled receptor [5,6].
+
+We selected a highly conserved region including three cysteines as a signature
+for this family of proteins.
+
+-Consensus pattern: C-[KR]-C-H-G-[LIVMT]-S-G-x-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Nusse R.
+     "The int genes in mammary tumorigenesis and in normal development."
+     Trends Genet. 4:291-295(1988).
+     PubMed=3076290
+[ 2] Nusse R., Varmus H.E.
+     "Wnt genes."
+     Cell 69:1073-1087(1992).
+     PubMed=1617723
+[ 3] McMahon A.P.
+     Trends Genet. 8:1-5(1992).
+[ 4] Moon R.T.
+     "In pursuit of the functions of the Wnt family of developmental
+     regulators: insights from Xenopus laevis."
+     BioEssays 15:91-97(1993).
+     PubMed=8471061
+[ 5] Dale T.C.
+     "Signal transduction by the Wnt family of ligands."
+     Biochem. J. 329:209-223(1998).
+     PubMed=9425102
+[ 6] Seidensticker M.J., Behrens J.
+     "Biochemical interactions in the wnt pathway."
+     Biochim. Biophys. Acta 1495:168-182(2000).
+     PubMed=10656974
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

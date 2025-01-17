@@ -1,0 +1,110 @@
+**********************************************************************
+* Pancreatic trypsin inhibitor (Kunitz) family signature and profile *
+**********************************************************************
+
+The pancreatic  trypsin  inhibitor (Kunitz)  family [1,2,3]  is   one  of  the
+numerous families of serine proteinase  inhibitors.   The  basic  structure of
+such a type of inhibitor is shown in the following schematic representation:
+
+            +-----------------------+
+            |  +--------+           |
+            |  |      **|*******    |
+          xxCxxC#xxxCxxxCxxxxxxCxxxxCxx
+                    |          |
+                    +----------+
+
+            <------50 residues------>
+
+'C': conserved cysteine involved in a disulfide bond.
+'#': active site residue.
+'*': position of the pattern.
+
+In addition to the prototype sequence  for this type of inhibitor - the bovine
+pancreatic  trypsin  inhibitor (BPTI)  (also known as basic protease inhibitor
+(BPI)) -  this family also includes many other members which are  listed below
+(references are only provided for recently determined sequences):
+
+ - Mammalian  inter-alpha-trypsin  inhibitors  (ITI).    ITI's   contain   two
+   inhibitory domains.
+ - Tissue  factor  pathway  inhibitor  precursor  (TFPI)  (previously known as
+   lipoprotein-associated coagulation inhibitor (LACI)), which inhibits factor
+   X (Xa) directly and, in a Xa-dependent way,  inhibits VIIa / Tissue  factor
+   activity. TFPI contains three inhibitory domains.
+ - TFPI-2  [4]  (also  known  as placental protein 5), a protein that contains
+   two inhibitory domains.
+ - Bovine colostrum, serum and spleen trypsin inhibitors.
+ - Trypstatin, a rat mast cell inhibitor of trypsin.
+ - A number of venom basic protease  inhibitors  (including dendrotoxins) from
+   snakes.
+ - Isoinhibitor K from garden snail.
+ - Protease inhibitor from the hemocytes of horseshoe crab.
+ - Basic protease inhibitor from red sea turtle.
+ - Sea anemone protease inhibitor 5 II.
+ - Chymotrypsin inhibitors SCI-I,- II, and -III from silk moth.
+ - Trypsin inhibitors A and B from the hemolymph of the tobacco hornworm.
+ - Trypsin inhibitor from the hemolymph of the flesh fly [5].
+ - Acrosin inhibitor from the male accessory gland of Drosophila.
+
+ - A domain found in  one of the alternatively spliced  forms  of  Alzheimer's
+   amyloid beta-protein (APP) (also known as protease nexin II) as well as the
+   closely related amyloid-like protein 2 (or APPH).
+ - A domain at the C-terminal  extremity  of  the  alpha(3)  chain  of type VI
+   collagen.
+ - A domain at the C-terminal  extremity  of  the  alpha(1)  chain of type VII
+   collagen.
+
+We developed a  pattern  which  will only  pick up sequences belonging to this
+family of  inhibitors. It spans a region starting after the third cysteine and
+ending with the fifth one. We also developed a profile that spans the complete
+domain.
+
+-Consensus pattern: F-x(2)-{I}-G-C-x(6)-[FY]-x(5)-C
+                    [The 2 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for trypsin inhibitor IV from the sea anemone Radianthus macrodactylus  which
+ has Asp instead of Phe/Tyr.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ikeo K.; kikeo@genes.nig.ac.jp
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Laskowski M. Jr., Kato I.
+     "Protein inhibitors of proteinases."
+     Annu. Rev. Biochem. 49:593-626(1980).
+     PubMed=6996568; DOI=10.1146/annurev.bi.49.070180.003113
+[ 2] Salier J.-P.
+     "Inter-alpha-trypsin inhibitor: emergence of a family within the
+     Kunitz-type protease inhibitor superfamily."
+     Trends Biochem. Sci. 15:435-439(1990).
+     PubMed=1703675
+[ 3] Ikeo K., Takahashi K., Gojobori T.
+     "Evolutionary origin of a Kunitz-type trypsin inhibitor domain
+     inserted in the amyloid beta precursor protein of Alzheimer's
+     disease."
+     J. Mol. Evol. 34:536-543(1992).
+     PubMed=1593645
+[ 4] Sprecher C.A., Kisiel W., Mathewes S., Foster D.C.
+     "Molecular cloning, expression, and partial characterization of a
+     second human tissue-factor-pathway inhibitor."
+     Proc. Natl. Acad. Sci. U.S.A. 91:3353-3357(1994).
+     PubMed=8159751
+[ 5] Papayannopoulos I.A., Biemann K.
+     "Amino acid sequence of a protease inhibitor isolated from Sarcophaga
+     bullata determined by mass spectrometry."
+     Protein Sci. 1:278-288(1992).
+     PubMed=1304909
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

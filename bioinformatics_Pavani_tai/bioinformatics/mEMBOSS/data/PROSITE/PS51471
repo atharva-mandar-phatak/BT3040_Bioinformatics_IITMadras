@@ -1,0 +1,112 @@
+****************************************************
+* Fe(2+) 2-oxoglutarate dioxygenase domain profile *
+****************************************************
+
+Enzymes  with the Fe(2+) and 2-oxoglutarate (2OG)-dependent dioxygenase domain
+typically  catalyse  the  oxidation  of  an organic substrate using a dioxygen
+molecule,  mostly by using ferrous iron as the active site cofactor and 2OG as
+a  cosubstrate  which  is  decarboxylated  to  succinate and CO2 [1]. Iron 2OG
+dioxygenase  domain  proteins are widespread among eukaryotes and bacteria. In
+metazoans, prolyl hydroxylases containing the domain act as oxygen sensors and
+catalyse  the  hydroxylation of conserved prolyl residues in hypoxia-inducible
+transcription  factor  (HIF)  alpha  [2,3].  In plants, Fe(II) 2OG dioxygenase
+domain  enzymes  catalyse  the  formation of plant hormones, such as ethylene,
+gibberellins,  anthocyanidins  and  pigments such as flavones. In bacteria and
+fungi Fe(II) 2OG dioxygenase domain enzymes participate in the biosynthesis of
+antibiotics  such  as  penicillin  and  cephalosporin  (see  <PDOC00165>). The
+eukaryotic  and  bacterial protein AlkB that also shows this structural domain
+is involved in DNA-repair [1,4].
+
+The  Fe(2+)  2OG dioxygenase domain has a conserved beta-barrel structure (see
+<PDB:2G19>) [2], which forms a double-stranded beta-helix core fold that forms
+the predominant class of the cupin superfamily ('cupa' means a small barrel in
+Latin) [5]. Two histidines and an aspartate residue catalytically bind a metal
+ion,  in  general  iron  but in some cases another metal, directly involved in
+catalysis.  A conserved arginine or lysine residue further near the C-terminal
+part acts as the basic residue that interacts with the acidic substrate, which
+for most of these enzymes is 2OG, but e.g. not for IPNS.
+
+Some proteins known to contain a Fe(2+) 2OG dioxygenase domain:
+
+ - Eukaryotic  prolyl  4-hydroxylase  subunit  alpha-2  (EC  1.14.11.2), which
+   catalyses the post-translational formation of 4-hydroxyproline in collagens
+   and other proteins.
+ - Metazoan  procollagen-lysine,2-oxoglutarate  5-dioxygenase  (EC 1.14.11.4),
+   which forms hydroxylysine residues in collagen type IV (see <PDOC01028>).
+ - Eukaryotic and bacterial alpha-ketoglutarate-dependent dioxygenase AlkB (EC
+   1.14.11.-),  a  DNA  repair  enzyme  that  repairs  alkylated  DNA  and RNA
+   containing 1-methyladenine and 3-methylcytosine by oxidative demethylation.
+ - Vertebrate  prolyl  3-hydroxylases  (EC  1.14.11.7) of the leprecan family,
+   which  catalyse  the  post-translational  formation  of 3-hydroxyproline in
+   collagens.
+ - Actinobacterial  and  fungal isopenicillin N synthase (IPNS) (EC 1.21.3.1),
+   implicated in antibiotic biosynthesis (see <PDOC00165>).
+ - Actinobacterial    and fungal deacetoxycephalosporin C synthase (DAOCS) (EC
+   1.14.20.1) and deacetoxycephalosporin C hydroxylase (DACS) (EC 1.14.11.26),
+   which are implicated in antibiotic biosynthesis (see <PDOC00165>).
+ - Enterobacterial  PKHD  (prolyl/lysyl hydroxylase)-type hydroxylase ybiX (EC
+   1.14.11.-).
+ - Viral RNA-directed RNA polymerase (EC 2.7.7.48).
+ - Plant   gibberellin   2-beta-dioxygenases  (EC  1.14.11.13)  of  the  GA2OX
+   subfamily of gibberellin (GAs) catabolic enzymes, which play a central role
+   in plant development.
+ - Plant   gibberellin   3-beta-dioxygenases  (EC  1.14.11.15)  of  the  GA3OX
+   subfamily.
+ - Plant   flavone   synthase  (EC  1.14.11.22),  flavonol  synthase/flavanone
+   3-hydroxylase  (EC  1.14.11.23, EC 1.14.11.9) and naringenin,2-oxoglutarate
+   3-dioxygenase (EC 1.14.11.9).
+ - Plant   leucoanthocyanidin   dioxygenase   (LDOX)   (EC   1.14.11.19)   and
+   deacetoxyvindoline 4-hydroxylase (EC 1.14.11.20).
+ - Plant  2'-deoxymugineic-acid  2'-dioxygenase (EC 1.14.11.24), mugineic-acid
+   3-dioxygenase   (EC   1.14.11.25)   and   hyoscyamine   6-dioxygenase   (EC
+   1.14.11.11).
+ - Plant   1-aminocyclopropane-1-carboxylate   oxidases   (ACC  oxidases)  (EC
+   1.14.17.4), which are ethylene-forming enzymes.
+ - Plant  S-norcoclaurine  synthase  1 (CjNCS1) (EC 4.2.1.78), involved in the
+   biosynthesis  of  the  common precursor of all benzylisoquinoline alkaloids
+   such as morphine, sanguinarine, codeine or berberine.
+
+The profile we developed covers the entire Fe(2+) 2OG dioxygenase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2009 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "The DNA-repair protein AlkB, EGL-9, and leprecan define new families
+     of 2-oxoglutarate- and iron-dependent dioxygenases."
+     Genome Biol. 2:RESEARCH0007-RESEARCH0007(2001).
+     PubMed=11276424
+[ 2] McDonough M.A., Li V., Flashman E., Chowdhury R., Mohr C.,
+     Lienard B.M., Zondlo J., Oldham N.J., Clifton I.J., Lewis J.,
+     McNeill L.A., Kurzeja R.J., Hewitson K.S., Yang E., Jordan S.,
+     Syed R.S., Schofield C.J.
+     "Cellular oxygen sensing: Crystal structure of hypoxia-inducible
+     factor prolyl hydroxylase (PHD2)."
+     Proc. Natl. Acad. Sci. U.S.A. 103:9814-9819(2006).
+     PubMed=16782814; DOI=10.1073/pnas.0601283103
+[ 3] Webb J.D., Coleman M.L., Pugh C.W.
+     "Hypoxia, hypoxia-inducible factors (HIF), HIF hydroxylases and oxygen
+     sensing."
+     Cell. Mol. Life Sci. 0:0-0(2009).
+     PubMed=19756382; DOI=10.1007/s00018-009-0147-7
+[ 4] van den Born E., Bekkelund A., Moen M.N., Omelchenko M.V.,
+     Klungland A., Falnes P.O.
+     "Bioinformatics and functional analysis define four distinct groups of
+     AlkB DNA-dioxygenases in bacteria."
+     Nucleic Acids Res. 0:0-0(2009).
+     PubMed=19786499; DOI=10.1093/nar/gkp774
+[ 5] Dunwell J.M., Purvis A., Khuri S.
+     "Cupins: the most functionally diverse protein superfamily?"
+     Phytochemistry 65:7-17(2004).
+     PubMed=14697267
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

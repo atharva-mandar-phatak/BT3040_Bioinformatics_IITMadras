@@ -1,0 +1,76 @@
+***************************
+* SOCS box domain profile *
+***************************
+
+The SOCS  box domain was first identified in SH2-domain-containing proteins of
+the suppressor  of  cytokines  signaling (SOCS) family [1] but was latter also
+found in:
+
+ - The WSB (WD-40-repeat-containing proteins with a SOCS box) family,
+ - The SSB (SPRY domain-containing proteins with a SOCS box) family,
+ - The ASB (Ankyrin-repeat-containing proteins with a SOCS box) family,
+ - The RAR (GTPase domain and SOCS box-containing proteins) family [2].
+
+The SOCS  box found in these proteins is a C-terminal domain of about 50 amino
+acids composed of two blocks of well-conserved residues separated by between 2
+to 10    nonconserved    residues  [2].  The  C-terminal conserved region is a
+Leu/Pro-rich sequence  of  unknown  function, whereas the N-terminal conserved
+region is called a 'BC box' [3] and binds to the elongin BC complex [3,4].  It
+has been  proposed  that  this  association could couple bound proteins to the
+ubiquitination or proteasomal compartments [4].
+
+Some proteins known to contain a SOCS box domain are listed below:
+
+ - Mammalian  cytokine-inducible  SH2-containing  (CIS)  protein. This protein
+   belongs to  the  SOCS  family and inhibits erythropoietin and interleukin 3
+   receptor signaling  by competing with signaling molecules such as STATs for
+   binding to phosphorylated receptor cytoplasmic domains.
+ - Mammalian   SOCS-1  protein.  This  protein  is  a  negative  regulator  of
+   interleukin 6 signaling. It acts by binding to and inhibiting the catalytic
+   activity of members of the JAK family of cytoplasmic kinases.
+ - Vertebrate WSB-1.
+
+The profile we developed covers the entire SOCS box domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Starr R., Willson T.A., Viney E.M., Murray L.J.L., Rayner J.R.,
+     Jenkins B.J., Gonda T.J., Alexander W.S., Metcalf D., Nicola N.A.,
+     Hilton D.J.
+     "A family of cytokine-inducible inhibitors of signalling."
+     Nature 387:917-921(1997).
+     PubMed=9202125; DOI=10.1038/43206;
+[ 2] Hilton D.J., Richardson R.T., Alexander W.S., Viney E.M.,
+     Willson T.A., Sprigg N.S., Starr R., Nicholson S.E., Metcalf D.,
+     Nicola N.A.
+     "Twenty proteins containing a C-terminal SOCS box form five structural"
+     Proc. Natl. Acad. Sci. U.S.A. 95:114-119(1998).
+     PubMed=9419338;
+[ 3] Kamura T., Sato S., Haque D., Liu L., Kaelin W.G. Jr., Conaway R.C.,
+     Conaway J.W.
+     "The Elongin BC complex interacts with the conserved SOCS-box motif
+     present in members of the SOCS, ras, WD-40 repeat, and ankyrin repeat
+     families."
+     Genes Dev. 12:3872-3881(1998).
+     PubMed=9869640;
+[ 4] Zhang J.G., Farley A., Nicholson S.E., Willson T.A., Zugaro L.M.,
+     Simpson R.J., Moritz R.L., Cary D., Richardson R., Hausmann G.,
+     Kile B.J., Kent S.B.H., Alexander W.S., Metcalf D., Hilton D.J.,
+     Nicola N.A., Baca M.
+     "The conserved SOCS box motif in suppressors of cytokine signaling
+     binds to elongins B and C and may couple bound proteins to proteasomal
+     degradation."
+     Proc. Natl. Acad. Sci. U.S.A. 96:2071-2076(1999).
+     PubMed=10051596;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

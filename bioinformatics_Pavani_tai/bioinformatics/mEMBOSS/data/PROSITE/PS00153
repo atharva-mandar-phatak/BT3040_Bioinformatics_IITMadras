@@ -1,0 +1,47 @@
+****************************************
+* ATP synthase gamma subunit signature *
+****************************************
+
+ATP synthase (proton-translocating ATPase) (EC 3.6.3.14) [1,2]  is a component
+of the cytoplasmic membrane of eubacteria, the inner membrane of mitochondria,
+and the thylakoid membrane of chloroplasts.  The ATPase complex is composed of
+an oligomeric transmembrane sector, called CF(0), and a catalytic core, called
+coupling factor  CF(1).  The  former  acts  as a proton channel; the latter is
+composed of  five  subunits,  alpha,  beta,  gamma, delta and epsilon. Subunit
+gamma is believed to be important in regulating  ATPase  activity and the flow
+of protons  through the CF(0) complex.  The best conserved region of the gamma
+subunit [3] is its C-terminus  which  seems  to  be essential for assembly and
+catalysis.  As a  signature pattern to detect ATPase gamma subunits, we used a
+14 residue conserved segment  where the last  amino acid is found one to three
+residues from the C-terminal extremity.
+
+-Consensus pattern: [IV]-T-x-E-x(2)-[DE]-x(3)-G-A-x-[SAKR]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for pea chloroplast gamma and two Bacillus species gamma.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Futai M., Noumi T., Maeda M.
+     "ATP synthase (H+-ATPase): results by combined biochemical and
+     molecular biological approaches."
+     Annu. Rev. Biochem. 58:111-136(1989).
+     PubMed=2528322; DOI=10.1146/annurev.bi.58.070189.000551
+[ 2] Senior A.E.
+     "ATP synthesis by oxidative phosphorylation."
+     Physiol. Rev. 68:177-231(1988).
+     PubMed=2892214
+[ 3] Miki J., Maeda M., Mukohata Y., Futai M.
+     "The gamma-subunit of ATP synthase from spinach chloroplasts. Primary
+     structure deduced from the cloned cDNA sequence."
+     FEBS Lett. 232:221-226(1988).
+     PubMed=2896606
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

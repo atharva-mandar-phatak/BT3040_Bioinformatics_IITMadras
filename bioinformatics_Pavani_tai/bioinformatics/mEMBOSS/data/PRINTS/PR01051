@@ -1,0 +1,49 @@
+MTABOTROPC1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The metabotropic glutamate receptors are functionally and pharmacologically
+distinct from the ionotropic glutamate receptors. They are coupled to G-
+proteins and stimulate the inositol phosphate/Ca2+ intracellular signalling 
+pathway [2-5]. The amino acid sequences of the receptors contain 2 domains:
+a large extracellular domain, and a membrane-associated domain that contains
+high proportions of hydrophobic residues grouped into 7 regions, in a manner
+reminiscent of the rhodopsins and other receptors believed to interact with
+G proteins. However, while a similar 3D framework has been proposed to
+account for this, there is no significant sequence identity between these
+and receptors of the rhodopsin-type family: the metabotropic glutamate
+receptors thus bear their own distinctive '7TM' signature. This 7TM
+signature is also shared by the calcium-sensing receptors.
+
+At least eight sub-types of metabotropic receptor (MGR1-8) have been 
+identified in cloning studies. The sub-types differ in their agonist 
+pharmacology and signal transduction pathways [6]. mRNA for MGR1 is
+widespread in the brain and is abundant in neuronal cells in hippocampal
+dentate gyrus and CA2-3 regions, cerebellum Purkinje cells, olfactory bulb
+and thalamic nuclei [6]. MGR1 activates the phosphoinositide pathway,
+probably via a G protein of the Gq/G11 class; pertussis toxin partially
+inhibits the response to MGR1, but not to MGR5 [6].
+
+MTABOTROPC1R is a 9-element fingerprint that provides a signature for the
+metabotropic glutamate receptor 1 precursor. The fingerprint was derived
+from an initial alignment of 2 sequences: the motifs were drawn from short
+conserved regions spanning the full alignment length, focusing on those
+sections that characterise the metabotropic glutamate type 1 receptors but 
+distinguish them from the rest of the metabotropic glutamate receptor family
+- motifs 1-5 reside in the N-terminal extracellular domain; and motifs 6-9 
+lie in the C-terminal cytoplasmic domain. A single iteration on OWL31.1 was 
+required to reach convergence, no further sequences being identified beyond
+the starting set. Several partial matches were found: HSU31216, HUMMGLUB 
+and S71376 are type 1 receptor homologues that fail to match 3 motifs; and 
+JC2132, MGR5_HUMAN and MGR5_RAT are type 5 receptors that match two motifs.
+
+An update on SPTR37_9f identified a true set of 2 sequences, and 2
+partial matches.

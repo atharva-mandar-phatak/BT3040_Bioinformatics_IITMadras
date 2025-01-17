@@ -1,0 +1,54 @@
+***********************************************
+* ATP synthase delta (OSCP) subunit signature *
+***********************************************
+
+ATP synthase (proton-translocating ATPase) (EC 3.6.3.14) [1,2]  is a component
+of the cytoplasmic membrane of eubacteria, the inner membrane of mitochondria,
+and the thylakoid membrane of chloroplasts.  The ATPase complex is composed of
+an oligomeric  transmembrane  sector, called CF(0),  which acts  as  a  proton
+channel, and a catalytic core, termed coupling factor CF(1).
+
+One of  the subunits of the ATPase complex, known as subunit delta in bacteria
+and chloroplasts  or  the  Oligomycin  Sensitivity Conferral Protein (OSCP) in
+mitochondria, seems  to  be  part  of  the stalk that links CF(0) to CF(1). It
+either transmits  conformational  changes from CF(0) into CF(1) or is involved
+in proton conduction [3].
+
+The different delta/OSCP subunits are proteins of approximately 200 amino-acid
+residues -  once  the  transit peptide has been removed in the chloroplast and
+mitochondrial forms - which show only moderate sequence homology.
+
+The signature pattern used to detect ATPase delta/OSCP subunits is  based on a
+conserved region in the C-terminal section of these proteins.
+
+-Consensus pattern: [LIVM]-x-[LIVMFYT]-x(3)-[LIVMT]-[DENQK]-x-{G}-[LIVM]-x-
+                    [GSA]-G-[LIVMFYGA]-{S}-[LIVM]-[KRHENQ]-x-[GSEN]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ 3 sequences.
+-Other sequence(s) detected in Swiss-Prot: 3.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Futai M., Noumi T., Maeda M.
+     "ATP synthase (H+-ATPase): results by combined biochemical and
+     molecular biological approaches."
+     Annu. Rev. Biochem. 58:111-136(1989).
+     PubMed=2528322; DOI=10.1146/annurev.bi.58.070189.000551
+[ 2] Senior A.E.
+     "ATP synthesis by oxidative phosphorylation."
+     Physiol. Rev. 68:177-231(1988).
+     PubMed=2892214
+[ 3] Engelbrecht S., Junge W.
+     "Subunit delta of H(+)-ATPases: at the interface between proton flow
+     and ATP synthesis."
+     Biochim. Biophys. Acta 1015:379-390(1990).
+     PubMed=2154253
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

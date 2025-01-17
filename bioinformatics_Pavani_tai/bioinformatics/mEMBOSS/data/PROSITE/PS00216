@@ -1,0 +1,108 @@
+***************************************
+* Sugar transport proteins signatures *
+***************************************
+
+In mammalian  cells  the uptake of glucose is  mediated by a family of closely
+related transport  proteins which are called the glucose transporters [1,2,3].
+At least  seven of these transporters are  currently  known to exist (in Human
+they are encoded by the GLUT1 to GLUT7 genes).
+
+These integral membrane proteins  are  predicted  to  comprise twelve membrane
+spanning domains.  The  glucose  transporters show sequence similarities [4,5]
+with a number of other sugar or  metabolite transport  proteins  listed  below
+(references are only provided for recently determined sequences).
+
+ - Escherichia coli arabinose-proton symport (araE).
+ - Escherichia coli galactose-proton symport (galP).
+ - Escherichia coli and  Klebsiella pneumoniae  citrate-proton  symport  (also
+   known as citrate utilization determinant) (gene cit).
+ - Escherichia coli alpha-ketoglutarate permease (gene kgtP).
+ - Escherichia coli proline/betaine transporter (gene proP) [6].
+ - Escherichia coli xylose-proton symport (xylE).
+ - Zymomonas mobilis glucose facilitated diffusion protein (gene glf).
+ - Yeast high and low affinity glucose transport proteins (genes SNF3, HXT1 to
+   HXT14).
+ - Yeast galactose transporter (gene GAL2).
+ - Yeast maltose permeases (genes MAL3T and MAL6T).
+ - Yeast myo-inositol transporters (genes ITR1 and ITR2).
+ - Yeast carboxylic acid transporter protein homolog JEN1.
+ - Yeast inorganic phosphate transporter (gene PHO84).
+ - Kluyveromyces lactis lactose permease (gene LAC12).
+ - Neurospora crassa quinate transporter (gene Qa-y),  and Emericella nidulans
+   quinate permease (gene qutD).
+ - Chlorella hexose carrier (gene HUP1).
+ - Arabidopsis thaliana glucose transporter (gene STP1).
+ - Spinach sucrose transporter.
+ - Leishmania donovani transporters D1 and D2.
+ - Leishmania enriettii probable transport protein (LTP).
+
+ - Yeast hypothetical proteins YBR241c, YCR98c and YFL040w.
+ - Caenorhabditis elegans hypothetical protein ZK637.1.
+ - Escherichia coli hypothetical proteins yabE, ydjE and yhjE.
+ - Haemophilus influenzae hypothetical proteins HI0281 and HI0418.
+ - Bacillus subtilis hypothetical proteins yxbC and yxdF.
+
+It has been suggested [4]  that these transport proteins have evolved from the
+duplication of  an  ancestral  protein  with  six  transmembrane regions, this
+hypothesis is based on the conservation of two G-R-[KR] motifs.  The first one
+is located  between  the second and third transmembrane domains and the second
+one between transmembrane domains 8 and 9.
+
+We have developed  two patterns  to  detect this family of proteins. The first
+pattern is based on the G-R-[KR] motif; but because this motif is too short to
+be  specific to  this  family  of  proteins, we  have derived a pattern from a
+larger region  centered on the  second copy of this motif.  The second pattern
+is based on a number of conserved residues which are located at the end of the
+fourth transmembrane  segment  and in the short loop region between the fourth
+and fifth segments.
+
+-Consensus pattern: [LIVMSTAG]-[LIVMFSAG]-{SH}-{RDE}-[LIVMSA]-[DE]-{TD}-
+                    [LIVMFYWA]-G-R-[RK]-x(4,6)-[GSTA]
+-Sequences known to belong to this class detected by the pattern: the majority
+ of transporters with 23 exceptions.
+-Other sequence(s) detected in Swiss-Prot: 53.
+
+-Consensus pattern: [LIVMF]-x-G-[LIVMFA]-{V}-x-G-{KP}-x(7)-[LIFY]-x(2)-[EQ]-
+                    x(6)-[RK]
+-Sequences known to belong to this class detected by the pattern: the majority
+ of transporters with 20 exceptions.
+-Other sequence(s) detected in Swiss-Prot: 67.
+
+-Last update: April 2006 / Patterns revised.
+
+[ 1] Silverman M.
+     "Structure and function of hexose transporters."
+     Annu. Rev. Biochem. 60:757-794(1991).
+     PubMed=1883208; DOI=10.1146/annurev.bi.60.070191.003545
+[ 2] Gould G.W., Bell G.I.
+     "Facilitative glucose transporters: an expanding family."
+     Trends Biochem. Sci. 15:18-23(1990).
+     PubMed=2180146
+[ 3] Baldwin S.A.
+     "Mammalian passive glucose transporters: members of an ubiquitous
+     family of active and passive transport proteins."
+     Biochim. Biophys. Acta 1154:17-49(1993).
+     PubMed=8507645
+[ 4] Maiden M.C.J., Davis E.O., Baldwin S.A., Moore D.C.M., Henderson P.J.F.
+     "Mammalian and bacterial sugar transport proteins are homologous."
+     Nature 325:641-643(1987).
+     PubMed=3543693; DOI=10.1038/325641a0
+[ 5] Henderson P.J.F.
+     Curr. Opin. Struct. Biol. 1:590-601(1991).
+[ 6] Culham D.E., Lasby B., Marangoni A.G., Milner J.L., Steer B.A.,
+     van Nues R.W., Wood J.M.
+     "Isolation and sequencing of Escherichia coli gene proP reveals
+     unusual structural features of the osmoregulatory proline/betaine
+     transporter, ProP."
+     J. Mol. Biol. 229:268-276(1993).
+     PubMed=8421314
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

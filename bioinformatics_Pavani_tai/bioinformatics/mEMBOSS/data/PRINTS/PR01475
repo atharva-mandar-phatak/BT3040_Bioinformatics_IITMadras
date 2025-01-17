@@ -1,0 +1,28 @@
+PARKIN
+Parkinson's disease (PD) is a common neurodegenerative disorder with complex
+clinical features and a poorly understood aetiology. PD is accompanied by a
+progressive loss of dopamine-containing neurons in the substantia nigra,
+with patients suffering from rigidity, slowness of movement, tremour and
+disturbances of balance. Autosomal recessive juvenile parkinsonism (AR-JP)
+is a rare form of familial PD mapped to chromosome 6 and linked strongly to
+a pair of markers. One of these markers has been cloned, yielding a sequence
+that encodes a protein, 465 amino acids long [1]. The protein sequence,
+named parkin, shows moderate similarity with ubiquitin at the N-terminus and
+a ring-finger domain at the C-terminus.
+
+In normal individuals, parkin binds to the E2 ubiquitin-conjugating human
+enzyme 8 (UbcH8) through the C-terminal ring-finger domain. In the presence
+of UbcH8, parkin has ubiquitin-protein ligase activity and even catalyses 
+its own ubiquitination. Furthermore, parkin appears to target the synaptic
+vesicle-associated protein CDCrel-1 for ubiquitination and thus promotes its
+degradation. The mutated forms of parkin implicated in AR-JP appear to be
+defective in terms of UbcH8 binding, E3 ubiquitin protein-ligase activity,
+self-ubiquitination, and CDCrel-1 binding and ubiquitination [2].
+
+PARKIN is a 9-element fingerprint that provides a signature for parkin and
+parkin-like proteins. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length, but largely avoiding the N- and 
+C-terminal ubiquitin-like and ring-finger domains respectively. A single
+iteration on SPTR39_15f was required to reach convergence, no further
+sequences being identified beyond the starting set.

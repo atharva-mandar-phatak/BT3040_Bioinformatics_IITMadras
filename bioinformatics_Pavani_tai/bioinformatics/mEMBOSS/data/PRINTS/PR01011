@@ -1,0 +1,41 @@
+GLUTPROXDASE
+Glutathione peroxidase (GSHPx), an enzyme whose principal function is to
+protect against damage from endogenously-formed hydroxyperoxides, catalyses
+the reduction of hydroxyperoxides by glutathione [1,2]:
+
+2 Glutathione + H(2)O(2) = oxidised Glutathione + 2H(2)O
+
+In higher vertebrates, several forms of GSHPx are known, including: a
+ubiquitous cytosolic form (GSHPx-1); a gastrointestinal cytosolic form
+(GSHPx-GI); a plasma secreted form (GSHPx-P); and an epididymal secretory
+form (GSHPx-EP). 
+
+In filarial nematode parasites, the major soluble cuticular protein (gp29)
+is a secreted GSHPx, which may provide a mechanism of resistance to the 
+immune reaction of the mammalian host by neutralising the products of the
+oxidative burst of leukocytes [3].
+
+The E.coli protein btuE, a periplasmic protein involved in vitamin B12
+transport, is evolutionarily related to GSHPxs, although the significance
+of this relationship is unclear.
+
+The structure of bovine seleno-glutathione peroxidase has been determined
+[4]. The protein belongs to the alpha-beta class, with a 3-layer(aba)
+sandwich architecture. 
+
+GLUTPROXDASE is a 3-element fingerprint that provides a signature for the
+glutathione peroxidase family. The fingerprint was derived from an initial
+alignment of 19 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif 1 spans the C-terminal end of
+helix 2, strand 3 and the N-terminus of helix 3, and includes the region
+encoded by PROSITE pattern GLUTATHIONE_PEROXID_1 (PS00460), which contains
+the catalytic cysteine; motif 2 encompasses strand 4 and the N-terminus of
+the following loop, and includes the region encoded by PROSITE pattern 
+GLUTATHIONE_PEROXID_2 (PS00763); and motif 3 spans strand 6 and half of 
+the preceding loop. Three iterations on OWL30.2 were required to reach 
+convergence, at which point a true set comprising 66 sequences was
+identified. Several partial matches were also found, all of which are
+fragments or homologues that fail to match one of the motifs.
+
+An update on SPTR37_9f identified a true set of 63 sequences, and 2
+partial matches.

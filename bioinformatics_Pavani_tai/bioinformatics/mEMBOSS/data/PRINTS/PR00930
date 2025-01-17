@@ -1,0 +1,38 @@
+HIGHMOBLTYIY
+Members of the high mobility group HMG-I(Y) family of mammalian non-histone
+proteins have been shown to bind specifically to the minor groove of 
+A.T-rich sequences and to function as gene transcriptional regulatory 
+proteins in vivo [1,2]. The human HMG-I(Y) gene has several potential 
+promoter/enhancer regions, a number of different transcription start sites
+and numerous alternatively-spliced exons, making it one of the most complex
+non-histone chromatin protein-encoding genes reported to date [2]. 
+
+Sequence analysis has shown that alternative splicing of precursor mRNAs
+gives rise to the major HMG-I and HMG-Y isoforms found in human cells. Each
+of the three different DNA-binding domain peptides present in an individual
+HMG-I(Y) protein is coded for by sequences present on separate exons, 
+suggesting exon 'shuffling' of these functional domains during evolution 
+[2]. The gene has been localised to the short arm of chromosome 6 in a 
+region known to be involved in rearrangements, translocations and other 
+abnormalities associated with human cancers [2]. 
+
+HMG-I and HMG-Y are relatively short alternatively spliced forms containing
+~100 residues (HMG-Y differs from HMG-I by the internal deletion of 11 amino
+acids). The proteins preferentially bind to double-stranded DNA via an
+11-residue domain known as an A.T-hook [1]. The hook domain is repeated
+three times in the sequence of HMG-I/Y.
+
+HIGHMOBLTYIY is a 5-element fingerprint that provides a signature for the
+HMG-I/HMG-Y family of high mobility group proteins. The fingerprint was
+derived from an initial alignment of 7 sequences: the motifs were drawn
+from short conserved regions spanning virtually the full alignment length -
+motif 1 encodes the first hook domain; motifs 2 and 3 span the second hook
+region; motif 4 spans the third hook domain and includes the region encoded
+by PROSITE pattern HMGI_Y (PS00354); and motif 5 encodes a C-terminal
+acidic region. A single iteration on OWL30.2 was required to reach 
+convergence, no further sequences being identified beyond the starting set.
+Several partial matches were also found, all of which are HMG homologues or
+DNA-binding proteins that match the hook domains. 
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 9
+partial matches.

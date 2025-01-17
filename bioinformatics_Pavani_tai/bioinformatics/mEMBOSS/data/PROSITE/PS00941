@@ -1,0 +1,117 @@
+***************************************
+* Carboxylesterases type-B signatures *
+***************************************
+
+Higher eukaryotes  have many distinct esterases. Among the different types are
+those which  act  on  carboxylic esters (EC 3.1.1.-). Carboxyl-esterases  have
+been classified   into  three  categories  (A,  B  and  C)  on  the  basis  of
+differential patterns  of  inhibition  by  organophosphates. The sequence of a
+number of  type-B  carboxylesterases  indicates  [1,2,3] that the majority are
+evolutionary related.   This   family  currently  consists  of  the  following
+proteins:
+
+ - Acetylcholinesterase   (EC   3.1.1.7)  (AChE)  from  vertebrates  and  from
+   Drosophila.
+ - Mammalian cholinesterase II (butyryl cholinesterase) (EC 3.1.1.8).
+   Acetylcholinesterase and cholinesterase II are closely related enzymes that
+   hydrolyze choline esters [4].
+ - Mammalian liver microsomal carboxylesterases (EC 3.1.1.1).
+ - Drosophila  esterase  6,  produced  in the anterior ejaculatory duct of the
+   male insect  reproductive  system  where it plays an important  role in its
+   reproductive biology.
+ - Drosophila esterase P.
+ - Culex pipiens (mosquito) esterases B1 and B2.
+ - Myzus persicae (peach-potato aphid) esterases E4 and FE4.
+ - Mammalian bile-salt-activated  lipase (BAL) [5], a  multifunctional  lipase
+   which catalyzes fat and vitamin absorption. It  is  activated by bile salts
+   in infant intestine where it helps to digest milk fats.
+ - Insect juvenile hormone esterase (JH esterase) (EC 3.1.1.59).
+ - Lipases (EC 3.1.1.3) from the fungi Geotrichum candidum and Candida rugosa.
+ - Caenorhabditis gut esterase (gene ges-1).
+ - Duck acyl-[acyl-carrier protein] hydrolase, medium  chain (EC 3.1.2.14), an
+   enzyme that may be  associated with peroxisome proliferation and may play a
+   role in the production of 3-hydroxy fatty acid diester pheromones.
+ - Membrane enclosed crystal  proteins from slime mold.  These  proteins  are,
+   most probably  esterases;  the vesicles where they are found have therefore
+   been termed esterosomes.
+
+So far two bacterial proteins have been found to belong to this family:
+
+ - Phenmedipham hydrolase (phenylcarbamate hydrolase), an Arthrobacter oxidans
+   plasmid-encoded enzyme   (gene   pcd)  that  degrades  the  phenylcarbamate
+   herbicides phenmedipham   and  desmedipham  by  hydrolyzing  their  central
+   carbamate linkages.
+ - Para-nitrobenzyl esterase from Bacillus subtilis (gene pnbA).
+
+The following proteins, while having lost their catalytic activity,  contain a
+domain evolutionary related to that of carboxylesterases type-B:
+
+ - Thyroglobulin (TG), a glycoprotein specific to the thyroid gland,  which is
+   the precursor of the iodinated thyroid hormones thyroxine (T4)  and triiodo
+   thyronine (T3).
+ - Drosophila  protein  neurotactin  (gene  nrt) which may mediate or modulate
+   cell adhesion between embryonic cells during development.
+ - Drosophila protein glutactin (gene glt), whose function is not known.
+
+As is  the  case  for lipases and serine proteases, the catalytic apparatus of
+esterases involves three residues (catalytic triad): a serine, a glutamate  or
+aspartate and  a histidine. The sequence around the active site serine is well
+conserved and  can  be  used  as  a  signature  pattern. As a second signature
+pattern, we selected a  conserved region located in the N-terminal section and
+which contains a cysteine involved in a disulfide bond.
+
+-Consensus pattern: F-[GR]-G-x(4)-[LIVM]-x-[LIV]-x-G-x-S-[STAG]-G
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL  members
+ of this family with a catalytic activity.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [EDA]-[DG]-C-L-[YTF]-[LIVT]-[DNS]-[LIV]-[LIVFYW]-x-[PQR]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for mosquito and peach-potato aphid esterases and juvenile hormone esterases.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Human esterase-D, also  a type-B carboxylesterase,  does not seem to be
+ evolutionary related.
+
+-Expert(s) to contact by email:
+           Sussman J.; csjoel@weizmann.weizmann.ac.il
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Myers M., Richmond R.C., Oakeshott J.G.
+     "On the origins of esterases."
+     Mol. Biol. Evol. 5:113-119(1988).
+     PubMed=3163407
+[ 2] Krejci E., Duval N., Chatonnet A., Vincens P., Massoulie J.
+     "Cholinesterase-like domains in enzymes and structural proteins:
+     functional and evolutionary relationships and identification of a
+     catalytically essential aspartic acid."
+     Proc. Natl. Acad. Sci. U.S.A. 88:6647-6651(1991).
+     PubMed=1862088
+[ 3] Cygler M., Schrag J.D., Sussman J.L., Harel M., Silman I.,
+     Gentry M.K., Doctor B.P.
+     "Relationship between sequence conservation and three-dimensional
+     structure in a large family of esterases, lipases, and related
+     proteins."
+     Protein Sci. 2:366-382(1993).
+     PubMed=8453375
+[ 4] Lockridge O.
+     "Structure of human serum cholinesterase."
+     BioEssays 9:125-128(1988).
+     PubMed=3067729
+[ 5] Wang C.-S., Hartsuck J.A.
+     "Bile salt-activated lipase. A multiple function lipolytic enzyme."
+     Biochim. Biophys. Acta 1166:1-19(1993).
+     PubMed=8431483
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

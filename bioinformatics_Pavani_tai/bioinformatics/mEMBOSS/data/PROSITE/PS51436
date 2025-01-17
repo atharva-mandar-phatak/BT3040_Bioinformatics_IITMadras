@@ -1,0 +1,61 @@
+***************************************************
+* Potyvirus NIa protease (NIa-pro) domain profile *
+***************************************************
+
+Tobacco etch  virus  (TEV),  tomato  vein  mottling virus (TVMV), and plum pox
+virus (PPV)  are  members of the Potyviridae family [E1]. The potyvirus genome
+is a  (+)  stranded  RNA  and  is  translated  into  a single polyprotein upon
+infection, which is processed by the virally encoded proteases P1, HC-Pro, and
+NIa. Most  of  the  cleavage  events  are  performed by NIa (nuclear inclusion
+protein a)  protease  (NIa-pro).  NIa-pro processes seven sites present in the
+potyvirus polyprotein,  named  as  A,  B, C, D, V, E, and F. NIa-pros obtained
+from potyviruses  have similar structures and functions. The potyvirus NIa-pro
+has a  His-Asp-Cys  catalytic  triad,  which is homologous to the trypsin-like
+proteases (see  <PDOC00124>)  except  for Cys replacing Ser. NIa-pros obtained
+from potyviruses  share  certain  sequence  identities; however they recognize
+distinct amino  acid  sequences  at each recognition sites. Consequently, they
+cannot recognize  the  cleavage  sites  of each other efficiently [1]. Nia-pro
+belongs to  peptidase  family  C4  [E2]. In addition to the catalytic activity
+NIa-pro possesses  also  sequence  non-specific  RNA-binding  activity and RNA
+polymerase (NIb) binding activity [3].
+
+The potyvirus  NIa  protein contains the following two domains; the VPg domain
+at the  N-terminus  and  the NIa-pro domain at the C-terminus [1,2]. The ~250-
+amino acid  NIaPro  domain  adopts  the characteristic two-domain antiparallel
+beta-barrel fold  that  is the hallmark of trypsin-like serine proteases, with
+the catalytic  triad  residues  His,  Asp,  and  Cys  located at the interface
+between domains (see <PDB:1LVM>) [3].
+
+The profile we developed covers the entire potyvirus NIa-pro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2011 / First entry.
+
+[ 1] Zheng N., Perez J. de J., Zhang Z., Dominguez E., Garcia J.A., Xie Q.
+     "Specific and efficient cleavage of fusion proteins by recombinant
+     plum pox virus NIa protease."
+     Protein Expr. Purif. 57:153-162(2008).
+     PubMed=18024078; DOI=10.1016/j.pep.2007.10.008
+[ 2] Daros J.-A., Carrington J.C.
+     "RNA binding activity of NIa proteinase of tobacco etch potyvirus."
+     Virology 237:327-336(1997).
+     PubMed=9356344; DOI=10.1006/viro.1997.8802
+[ 3] Phan J., Zdanov A., Evdokimov A.G., Tropea J.E., Peters H.K. III,
+     Kapust R.B., Li M., Wlodawer A., Waugh D.S.
+     "Structural basis for the substrate specificity of tobacco etch virus
+     protease."
+     J. Biol. Chem. 277:50564-50572(2002).
+     PubMed=12377789; DOI=10.1074/jbc.M207224200
+[E1] http://www.expasy.org/viralzone/all_by_species/48.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=C4
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

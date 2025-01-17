@@ -1,0 +1,97 @@
+*******************************************
+* Enoyl-CoA hydratase/isomerase signature *
+*******************************************
+
+Enoyl-CoA hydratase  (EC 4.2.1.17)   (ECH)  [1]  and D3,D2-enoyl-CoA isomerase
+(EC 5.3.3.8) (ECI) [2] are two enzymes involved in fatty acid metabolism.  ECH
+catalyzes the hydratation of 2-trans-enoyl-CoA into 3-hydroxyacyl-CoA  and ECI
+shifts the 3- double  bond  of  the  intermediates  of  unsaturated fatty acid
+oxidation to the 2-trans position.
+
+Most eukaryotic cells have two fatty-acid  beta-oxidation systems, one located
+in mitochondria and the other in peroxisomes. In mitochondria, ECH and ECI are
+separate yet structurally related monofunctional enzymes.  Peroxisomes contain
+a trifunctional  enzyme [3] consisting of an N-terminal domain that bears both
+ECH and  ECI  activity, and a C-terminal domain responsible for 3-hydroxyacyl-
+CoA dehydrogenase (HCDH) activity.
+
+In Escherichia coli (gene fadB) and Pseudomonas fragi (gene faoA), ECH and ECI
+are also  part  of  a multifunctional  enzyme which contains both a HCDH and a
+3-hydroxybutyryl-CoA epimerase domain [4].
+
+A number  of other proteins  have been found to be evolutionary related to the
+ECH/ECI enzymes or domains:
+
+ - 3-hydroxbutyryl-coa  dehydratase  (EC  4.2.1.55)  (crotonase),  a bacterial
+   enzyme involved in the butyrate/butanol-producing pathway.
+ - Naphthoate  synthase  (EC  4.1.3.36)  (DHNA  synthase)  (gene  menB) [5], a
+   bacterial enzyme  involved in the biosynthesis of menaquinone (vitamin K2).
+   DHNA synthase converts O-succinyl-benzoyl-CoA (OSB-CoA) to 1,4-dihydroxy-2-
+   naphthoic acid (DHNA).
+ - 4-chlorobenzoate dehalogenase (EC 3.8.1.6) [6], a  Pseudomonas enzyme which
+   catalyzes the conversion of 4-chlorobenzoate-CoA to 4-hydroxybenzoate-CoA.
+ - A Rhodobacter capsulatus protein of unknown function (ORF257) [7].
+ - Bacillus subtilis putative polyketide biosynthesis proteins pksH and pksI.
+ - Escherichia coli carnitine racemase (gene caiD) [8].
+ - Escherichia coli hypothetical protein ygfG.
+ - Yeast hypothetical protein YDR036c.
+
+As a signature pattern for these enzymes, we selected  a conserved region rich
+in glycine and hydrophobic residues.
+
+-Consensus pattern: [LIVM]-[STAG]-x-[LIVM]-[DENQRHSTA]-G-x(3)-[AG](3)-x(4)-
+                    [LIVMST]-x-[CSTA]-[DQHP]-[LIVMFYA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 5.
+
+-Expert(s) to contact by email:
+           Hofmann K.; kay.hofmann@memorec.com
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Minami-Ishii N., Taketani S., Osumi T., Hashimoto T.
+     Eur. J. Biochem. 185:73-78(1989).
+[ 2] Mueller-Newen G., Stoffel W.
+     Biol. Chem. Hoppe-Seyler 372:613-624(1991).
+[ 3] Palosaari P.M., Hiltunen J.K.
+     "Peroxisomal bifunctional protein from rat liver is a trifunctional
+     enzyme possessing 2-enoyl-CoA hydratase, 3-hydroxyacyl-CoA
+     dehydrogenase, and delta 3, delta 2-enoyl-CoA isomerase activities."
+     J. Biol. Chem. 265:2446-2449(1990).
+     PubMed=2303409
+[ 4] Nakahigashi K., Inokuchi H.
+     "Nucleotide sequence of the fadA and fadB genes from Escherichia
+     coli."
+     Nucleic Acids Res. 18:4937-4937(1990).
+     PubMed=2204034
+[ 5] Driscoll J.R., Taber H.W.
+     "Sequence organization and regulation of the Bacillus subtilis menBE
+     operon."
+     J. Bacteriol. 174:5063-5071(1992).
+     PubMed=1629163
+[ 6] Babbitt P.C., Kenyon G.L., Martin B.M., Charest H., Slyvestre M.,
+     Scholten J.D., Chang K.-H., Liang P.-H., Dunaway-Mariano D.
+     "Ancestry of the 4-chlorobenzoate dehalogenase: analysis of amino acid
+     sequence identities among families of acyl:adenyl ligases, enoyl-CoA
+     hydratases/isomerases, and acyl-CoA thioesterases."
+     Biochemistry 31:5594-5604(1992).
+     PubMed=1351742
+[ 7] Beckman D.L., Kranz R.G.
+     "A bacterial homolog to the mitochondrial enoyl-CoA hydratase."
+     Gene 107:171-172(1991).
+     PubMed=1743516
+[ 8] Eichler K., Bourgis F., Buchet A., Kleber H.-P., Mandrand-Berthelot M.-A.
+     "Molecular characterization of the cai operon necessary for carnitine
+     metabolism in Escherichia coli."
+     Mol. Microbiol. 13:775-786(1994).
+     PubMed=7815937
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

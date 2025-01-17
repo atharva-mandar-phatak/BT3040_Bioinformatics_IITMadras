@@ -1,0 +1,41 @@
+********************************************************
+* Undecaprenyl pyrophosphate synthase family signature *
+********************************************************
+
+Undecaprenyl pyrophosphate synthase (EC 2.5.1.31) (UPP synthase) [1] generates
+undecaprenyl pyrophosphate  (UPP)  from  isopentenyl pyrophosphate (IPP). This
+bacterial enzyme  is  also  found in archaebacteria; it is also related to the
+following uncharacterized proteins:
+
+ - Yeast chromosome II hypothetical protein YBR002c.
+ - Yeast chromosome XIII hypothetical protein YMR101c.
+ - Schizosaccharomyces pombe hypothetical protein SpAC4D7.04c.
+ - Mycobacterium tuberculosis hypothetical protein Rv1086.
+ - A Corynebacterium glutamicum hypothetical protein in aroF 3'region.
+ - A Streptomyces fradiae hypothetical protein in transposon Tn4556.
+
+These are  proteins  of  about  26  to  40  Kd  whose  central  region is well
+conserved. They can be picked up in the database by the following pattern.
+
+-Consensus pattern: [DEH]-[LIVMF]-[LIVMFC]-[LIVMF]-R-[STPV]-[SGAC]-[GEN]-
+                    x(1,2)-R-x-S-x-[FY]-[LMFV]-[LIPMVT]-[YWL]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Apfel C.M., Takacs B., Fountoulakis M., Stieger M., Keck W.
+     "Use of genomics to identify bacterial undecaprenyl pyrophosphate
+     synthetase: cloning, expression, and characterization of the essential
+     uppS gene."
+     J. Bacteriol. 181:483-492(1999).
+     PubMed=9882662
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

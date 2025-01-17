@@ -1,0 +1,60 @@
+********************************
+* Zinc finger DNL-type profile *
+********************************
+
+Mitochondrial functions  rely  on  the  correct transport of resident proteins
+synthesized in  the  cytosol to mitochondria. Protein import into mitochondria
+is mediated by membrane protein complexes, protein translocators, in the outer
+and inner   mitochondrial  membranes,  in  cooperation  with  their  assistant
+proteins in  the cytosol, intermembrane space and matrix. Proteins destined to
+the mitochondrial  matrix  cross  the outer membrane with the aid of the outer
+membrane translocator, the tOM40 complex, and then the inner membrane with the
+aid of  the  inner  membrane  translocator,  the  TIM23  complex,  and finally
+mitochondrial motor and chaperone (MMC) proteins including mitochondrial heat-
+shock protein  70  (mtHsp70),  and  translocase  in  the  inner  mitochondrial
+membrane (Tim)15,  which is also known as zinc finger motif (Zim)17 or mtHsp70
+escort protein  (Hep)1 in the matrix. Tim15 contains a zinc-finger motif (CXXC
+and CXXC)  of ~100 residues, which has been named DNL after a short C-terminal
+motif of D(N/H)L [1,2,3].
+
+The DNL-type  zinc  finger  is  an L-shaped molecule (see <PDB:2E2Z>). The two
+CXXC motifs  are  located  at  the  end  of  the L, and are sandwiched by two-
+stranded antiparallel  beta-sheets. Two short alpha-helices constitute another
+leg of  the  L.  The  outer  (convex) face of the L has a large acidic groove,
+which is  lined with five acidic residues, whereas the inner (concave) face of
+the L has two positively charged residues, next to the CXXC motifs [3].
+
+The profile we developed covers the entire DNL-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2007 / First entry.
+
+[ 1] Burri L., Vascotto K., Fredersdorf S., Tiedt R., Hall M.N.,
+     Lithgow T.
+     "Zim17, a novel zinc finger protein essential for protein import into
+     mitochondria."
+     J. Biol. Chem. 279:50243-50249(2004).
+     PubMed=15383543; DOI=10.1074/jbc.M409194200
+[ 2] Yamamoto H., Momose T., Yatsukawa Y., Ohshima C., Ishikawa D.,
+     Sato T., Tamura Y., Ohwa Y., Endo T.
+     "Identification of a novel member of yeast mitochondrial
+     Hsp70-associated motor and chaperone proteins that facilitates protein
+     translocation across the inner membrane."
+     FEBS Lett. 579:507-511(2005).
+     PubMed=15642367; DOI=10.1016/j.febslet.2004.12.018
+[ 3] Momose T., Ohshima C., Maeda M., Endo T.
+     "Structural basis of functional cooperation of Tim15/Zim17 with yeast
+     mitochondrial Hsp70."
+     EMBO. Rep. 8:664-670(2007).
+     PubMed=17571076; DOI=10.1038/sj.embor.7400990
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,51 @@
+******************************************************************
+* Aminotransferases class-II pyridoxal-phosphate attachment site *
+******************************************************************
+
+Aminotransferases  share certain mechanistic features with   other  pyridoxal-
+phosphate dependent enzymes, such as  the  covalent  binding of the pyridoxal-
+phosphate group  to  a  lysine  residue.  On the basis of sequence similarity,
+these various  enzymes  can  be  grouped [1]  into subfamilies.  One of these,
+called class-II, currently consists of the following enzymes:
+
+ - Glycine C-acetyltransferase (EC 2.3.1.29), which  catalyzes the addition of
+   acetyl-CoA to glycine to form 2-amino-3-oxobutanoate (gene kbl).
+ - 5-aminolevulinic acid  synthase (EC 2.3.1.37) (delta-ALA  synthase),  which
+   catalyzes the  first  step  in  heme  biosynthesis  via  the Shemin (or C4)
+   pathway, i.e.   the   addition  of  succinyl-CoA  to  glycine  to  form  5-
+   aminolevulinate.
+ - 8-amino-7-oxononanoate synthase (EC 2.3.1.47) (7-KAP synthase), a bacterial
+   enzyme (gene bioF) which catalyzes an intermediate step in the biosynthesis
+   of biotin:  the  addition  of  6-carboxy-hexanoyl-CoA to alanine to form 8-
+   amino-7-oxononanoate.
+ - Histidinol-phosphate  aminotransferase (EC 2.6.1.9),  which  catalyzes  the
+   eighth step in histidine  biosynthetic  pathway:  the  transfer of an amino
+   group from 3-(imidazol-4-yl)-2-oxopropyl phosphate to glutamic acid to form
+   histidinol phosphate and 2-oxoglutarate.
+ - Serine  C-palmitoyltransferase  (EC  2.3.1.50)  from  yeast (genes LCB1 and
+   LCB2), which catalyzes the condensation of palmitoyl-CoA and serine to form
+   3-ketosphinganine.
+
+The sequence around the pyridoxal-phosphate  attachment site  of this class of
+enzyme is sufficiently conserved to allow the creation of a specific pattern.
+
+-Consensus pattern: T-[LIVMFYW]-[STAG]-K-[SAG]-[LIVMFYWR]-[SAG]-{ENKR}-{TNDR}-
+                    [SAG]
+                    [K is the pyridoxal-P attachment site]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for yeast LCB1.
+-Other sequence(s) detected in Swiss-Prot: 41.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Bairoch A.
+     Unpublished observations (1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

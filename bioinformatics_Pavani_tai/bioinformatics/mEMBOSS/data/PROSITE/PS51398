@@ -1,0 +1,49 @@
+**********************
+* PAW domain profile *
+**********************
+
+The PAW  domain  (present  in  PNGases  and other worm proteins) is found as a
+single copy  at the C-terminus of metazoan peptide:N-glycanase (PNGase) and in
+multiple copies  in  hypothetical  Caenorhabditis  elegans proteins peptide:N-
+glycanases (PNGases)  [1].  The  C-terminal  PAW domain of PNGase binds to the
+mannose moieties of N-linked oligosaccharide chains [2].
+
+The PAW  domain  is a slightly elongated molecule and displays a beta-sandwich
+architecture, which  is  composed  of  two  layers,  containing nine and eight
+antiparallel beta-strands,  respectively,  and  three additional short helices
+(see <PDB:2G9G>) [2].
+
+Some proteins known to contain a PAW domain are listed below:
+
+ - Animal   peptide:N-glycanase   (PNGase)   (EC   3.5.1.52),   catalyzes  the
+   deglycosylation of several misfolded N-linked glycoproteins by cleaving the
+   bulky glycan chain before the proteins are degraded by the proteasome.
+ - Caenorhabditis elegans putative uncharacterized protein C17B7.5.
+
+The profile we developed covers the entire PAW domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 2008 / First entry.
+
+[ 1] Doerks T., Copley R.R., Schultz J., Ponting C.P., Bork P.
+     "Systematic identification of novel protein domain families associated
+     with nuclear functions."
+     Genome Res. 12:47-56(2002).
+     PubMed=11779830; DOI=10.1101/
+[ 2] Zhou X., Zhao G., Truglio J.J., Wang L., Li G., Lennarz W.J.,
+     Schindelin H.
+     "Structural and biochemical studies of the C-terminal domain of mouse
+     peptide-N-glycanase identify it as a mannose-binding module."
+     Proc. Natl. Acad. Sci. U.S.A. 103:17214-17219(2006).
+     PubMed=17088551; DOI=10.1073/pnas.0602954103
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

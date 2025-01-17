@@ -1,0 +1,67 @@
+**************************************
+* Coenzyme A transferases signatures *
+**************************************
+
+Coenzyme A  (CoA)  transferases are enzymes catalyzing the reversible transfer
+of CoA from one carboxylic acid to another.  They have been identified in many
+prokaryotes and in mammalian tissues. They belong to an evolutionary conserved
+[1,2] family of proteins that consist of:
+
+ - Succinyl  CoA:3-oxoacid  CoA  transferase  (EC  2.8.3.5)  (SCOT),  which is
+   responsible for  the  formation  of  acetoacetyl  CoA  by transfer of a CoA
+   moiety from  succinyl-CoA  to a 3-oxoacid, usually acetoacetate.  In higher
+   eukaryotes it  is  a  mitochondrial  enzyme  which  plays a crucial role in
+   ketone body metabolism. It has also been found in bacteria.
+ - Bacterial 3-oxoadipate CoA-transferase  (EC 2.8.3.6) which  carries out the
+   penultimate  step in the  conversion of benzoate  and 4-hydroxybenzoate  to
+   tricarboxylic acid  cycle  intermediates  in  bacteria  utilizing the beta-
+   ketoadipate pathway.
+ - Bacterial acetate CoA-transferase (EC 2.8.3.8).
+ - Clostridial  butyrate-acetoacetate CoA-transferase (EC 2.8.3.9), which acts
+   mainly to detoxify the medium by removing the acetate and butyrate excreted
+   earlier in the fermentation.
+
+The bacterial enzymes are heterodimer of two subunits (A and B) of about 25 Kd
+each while  eukaryotic  SCOT  consist of a single chain which is colinear with
+the two bacterial subunits.
+
+We developed  two  signature patterns for these enzymes. The first corresponds
+to a region in  the N-terminal of  the A subunit that may be implicated in the
+binding of  CoA  to  the  enzyme. The second corresponds to a region in the N-
+terminal of  the  B  subunit  and contains a glutamate that is involved in the
+catalytic mechanism [3].
+
+-Consensus pattern: [DN]-[GN]-x(2)-[LIVMFA](3)-G-G-F-x(3)-G-x-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LF]-[HQ]-S-E-N-G-[LIVF](2)-[GA]
+                    [E is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / First entry.
+
+[ 1] Parales R.E., Harwood C.S.
+     "Characterization of the genes encoding beta-ketoadipate:
+     succinyl-coenzyme A transferase in Pseudomonas putida."
+     J. Bacteriol. 174:4657-4666(1992).
+     PubMed=1624453
+[ 2] Corthesy-Theulaz I.E., Bergonzelli G.E., Henry H., Bachmann D.,
+     Schorderet D.F., Blum A.L., Ornston L.N.
+     J. Biol. Chem. 272:25659-25667(1997).
+[ 3] Rochet J.C., Bridger W.A.
+     "Identification of glutamate 344 as the catalytic residue in the
+     active site of pig heart CoA transferase."
+     Protein Sci. 3:975-981(1994).
+     PubMed=7915164
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,58 @@
+GALANIN1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+paracrine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family. 
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Galanin is a neurotransmitter in the peripheral and central nervous systems
+with a wide spectrum of activity [6]. In the periphery, galanin inhibits
+glucose-induced insulin release and may be the sympathetic mediator of this
+effect during stress. In the CNS, it inhibits firing of locus coeruleus
+cells, is synergistic with opiates in inducing analgesia at the level of the
+spinal cord, and stimulates feeding behaviour and release of growth hormone
+[6]. Its ability to inhibit acetylcholine release in the hippocampus has led
+to the suggestion that galanin antagonists may be of use in the treatment of
+Alzheimer's disease. 
+
+Galanin receptors are expressed abundantly in a wide range of CNS and
+peripheral tissues, mirroring the distribution of galanin. Three receptor
+subtypes have been identified, differing from one another in terms of their
+expression patterns, affinity for various peptide analogues and G protein-
+coupling specificity [7]. All are capable of activating K+ channels by
+coupling to G proteins of the Gi/Go class [8].	
+
+The galanin 1 receptor subtype is expressed at significant levels in regions
+of the brain and spinal cord including the hypothalamus, amygdala,
+hippocampus, thalamus and brainstem. It has also been detected throughout
+the length of the human gastro-intestinal tract [8]. Activation of the
+receptor by galanin leads to decreased cAMP levels, opening of inwardly
+rectifying K+ channels and stimulation of MAP kinase activity, indicating
+coupling to a Gi-protein. The receptor does not appear to couple to Go-, Gq-
+or Gs-proteins [7].
+
+GALANIN1R is a 6-element fingerprint that provides a signature for the
+galanin 1 receptor. The fingerprint was derived from an initial alignment of
+3 sequences: the motifs were drawn from conserved sections within N-, 
+C-terminal or loop regions, focusing on those areas of the alignment that
+characterise the galanin 1 receptors but distinguish them from the rest of 
+the galanin receptor family - motifs 1 and 2 span the N-terminus; motifs 3
+and 4 encompass the second external loop; motif 5 spans the third 
+cytoplasmic loop; and motif 6 resides within the C-terminus. A single
+iteration on SPTR39_14f was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match 
+was found, Q62828, a rat galanin receptor N-terminal fragment that
+matches only motifs 1 and 2.

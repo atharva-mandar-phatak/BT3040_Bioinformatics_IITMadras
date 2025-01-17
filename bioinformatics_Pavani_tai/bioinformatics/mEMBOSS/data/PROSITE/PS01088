@@ -1,0 +1,47 @@
+**************************
+* CAP protein signatures *
+**************************
+
+In budding  and fission yeasts the CAP protein is a bifunctional protein whose
+N-terminal domain  binds  to adenylyl cyclase, thereby enabling that enzyme to
+be activated  by upstream regulatory signals, such as Ras. The function of the
+C-terminal domain  is  less  clear,  but  it  is  required for normal cellular
+morphology and  growth  control  [1].  CAP  is  conserved in higher eukaryotic
+organisms where its function is not yet clear [2].
+
+Structurally, CAP  is  a  protein  of 474 to 551 residues which consist of two
+domains separated  by  a  proline-rich  hinge. We have developed two signature
+patterns, one  corresponds  to  a conserved region in the N-terminal extremity
+and the other to a C-terminal region.
+
+-Consensus pattern: [LIVM](2)-x-R-L-[DE]-x(4)-R-L-E
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: D-[LIVMFY]-x-E-x-[PA]-x-P-E-Q-[LIVMFY]-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Kawamukai M., Gerst J., Field J., Riggs M., Rodgers L., Wigler M.,
+     Young D.
+     "Genetic and biochemical analysis of the adenylyl cyclase-associated
+     protein, cap, in Schizosaccharomyces pombe."
+     Mol. Biol. Cell 3:167-180(1992).
+     PubMed=1550959
+[ 2] Yu G., Swiston J., Young D.
+     "Comparison of human CAP and CAP2, homologs of the yeast adenylyl
+     cyclase-associated proteins."
+     J. Cell Sci. 107:1671-1678(1994).
+     PubMed=7962207
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

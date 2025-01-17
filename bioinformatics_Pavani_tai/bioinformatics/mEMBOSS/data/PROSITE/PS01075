@@ -1,0 +1,51 @@
+**************************************************
+* Acetate and butyrate kinases family signatures *
+**************************************************
+
+The following enzymes have been shown [1,2] to be evolutionary related:
+
+ - Acetate  kinase  (EC  2.7.2.1)  (acetokinase) (gene ackA) from bacteria and
+   archaebacteria. This enzyme  is  involved in the interconversion of acetate
+   and acetyl-CoA  via  the acetyl phosphate intermediate. In anaerobic growth
+   it provides ATP by catabolyzing acetate phosphate into acetate.
+ - Butyrate  kinase  (EC  2.7.2.7) (gene buk). This enzyme  is involved in the
+   interconversion of  butyrate  and  butyryl-CoA  via  the  butyryl phosphate
+   intermediate.  Butyrate kinase  is  involved  in  the  acidogenic  phase of
+   fermentation.
+ - Propionate kinase (EC 2.7.2,.) (gene tdcD) from Escherichia coli.
+
+We have developed two signature  patterns for these enzymes;  the first one is
+located in the N-terminal section and the second in the central section.  Both
+of them are glycine-rich and could be involved in substrate or ATP-binding.
+
+-Consensus pattern: [LIVMFANT]-[LIVM]-x-[LIVMA]-N-x-G-S-[ST](2)-x-[KE]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFATQ]-[LIVMA]-x(2)-H-x-G-x-[GT]-x-[ST]-[LIVMA]-x-
+                    [TAVC]-x(3)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Grundy F.J., Waters D.A., Allen S.H.G., Henkin T.M.
+     "Regulation of the Bacillus subtilis acetate kinase gene by CcpA."
+     J. Bacteriol. 175:7348-7355(1993).
+     PubMed=8226682
+[ 2] Oultram J.D., Burr I.D., Elmore M.J., Minton N.P.
+     "Cloning and sequence analysis of the genes encoding
+     phosphotransbutyrylase and butyrate kinase from Clostridium
+     acetobutylicum NCIMB 8052."
+     Gene 131:107-112(1993).
+     PubMed=8396545
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

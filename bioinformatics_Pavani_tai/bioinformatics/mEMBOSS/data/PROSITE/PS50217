@@ -1,0 +1,96 @@
+************************************************************
+* Basic-leucine zipper (bZIP) domain signature and profile *
+************************************************************
+
+The  bZIP  superfamily  [1,2]  of eukaryotic DNA-binding transcription factors
+groups  together  proteins  that  contain  a  basic region mediating sequence-
+specific  DNA-binding  followed by a leucine zipper (see <PDOC00029>) required
+for  dimerization. bZIP domains usually bind a pallindromic 6 nucleotide site,
+but the specificity can be altered by interaction with accessory factor [3].
+
+Several  structure  of bZIP have been solved (see for example <PDB:1AN2>) [4].
+The  basic  region and the leucine zipper form a contiguous alpha helice where
+the  four hydrophobic residues of the leucine zipper are oriented on one side.
+This  conformation allows dimerization in parallel and it bends the helices so
+that the newly functional dimer forms a flexible fork where the basic domains,
+at the N-terminal open end, can then interact with DNA. The two leucine zipper
+are therefore oriented perpendicular to the DNA [4,5].
+
+This family is quite large and we only list here some representative members.
+
+ - Transcription factor AP-1, which binds  selectively to enhancer elements in
+   the cis control regions of SV40 and metallothionein IIA.   AP-1, also known
+   as c-jun, is  the  cellular  homolog  of the avian sarcoma virus 17 (ASV17)
+   oncogene v-jun.
+ - Jun-B and jun-D,  probable transcription factors which  are  highly similar
+   to jun/AP-1.
+ - The fos protein, a  proto-oncogene  that  forms  a  non-covalent dimer with
+   c-jun.
+ - The fos-related proteins fra-1, and fos B.
+ - Mammalian  cAMP  response element (CRE) binding proteins CREB, CREM, ATF-1,
+   ATF-3, ATF-4, ATF-5, ATF-6 and LRF-1.
+ - Maize  Opaque  2,  a trans-acting transcriptional activator involved in the
+   regulation of the production of zein proteins during endosperm.
+ - Arabidopsis G-box binding factors  GBF1 to GBF4,  Parsley CPRF-1 to CPRF-3,
+   Tobacco TAF-1 and wheat EMBP-1. All these  proteins bind the G-box promoter
+   elements of many plant genes.
+ - Drosophila  protein  Giant,  which  represses  the  expression  of both the
+   kruppel and knirps segmentation gap genes.
+ - Drosophila Box B binding factor 2 (BBF-2), a transcriptional activator that
+   binds to  fat  body-specific  enhancers  of  alcohol dehydrogenase and yolk
+   protein genes.
+ - Drosophila segmentation protein cap'n'collar (gene cnc),  which is involved
+   in head morphogenesis.
+ - Caenorhabditis  elegans skn-1, a developmental protein involved in the fate
+   of ventral blastomeres in the early embryo.
+ - Yeast GCN4 transcription factor, a component of  the general control system
+   that  regulates  the  expression of  amino  acid-synthesizing   enzymes  in
+   response to amino acid  starvation, and the related Neurospora crassa cpc-1
+   protein.
+ - Neurospora crassa cys-3 which turns on  the expression  of structural genes
+   which encode sulfur-catabolic enzymes.
+ - Yeast MET28, a transcriptional activator of sulfur amino acids metabolism.
+ - Yeast  PDR4  (or  YAP1),  a transcriptional activator of the genes for some
+   oxygen detoxification enzymes.
+ - Epstein-Barr virus trans-activator protein BZLF1.
+
+The  pattern  we  developped  is  directed  against  the basic region. We also
+developed a profile that covers the whole domain.
+
+-Consensus pattern: [KR]-x(1,3)-[RKSAQ]-N-{VL}-x-[SAQ](2)-{L}-[RKTAENQ]-x-R-
+                    {S}-[RK]
+-Sequences known to belong to this class detected by the profile: the    large
+ majority.
+-Other sequence(s) detected in Swiss-Prot: 18.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Hurst H.C.
+     Protein Prof. 2:105-168(1995).
+[ 2] Ellenberger T.
+     Curr. Opin. Struct. Biol. 4:12-21(1994).
+[ 3] Baranger A.M.
+     "Accessory factor-bZIP-DNA interactions."
+     Curr. Opin. Chem. Biol. 2:18-23(1998).
+     PubMed=9667910
+[ 4] Ferre-D'amare A.R., Prendergast G.C., Ziff E.B., Burley S.K.
+     Nature 363:38-45(1993).
+[ 5] Ellenberger T.E., Brandl C.J., Struhl K., Harrison S.C.
+     "The GCN4 basic region leucine zipper binds DNA as a dimer of
+     uninterrupted alpha helices: crystal structure of the protein-DNA
+     complex."
+     Cell 71:1223-1237(1992).
+     PubMed=1473154
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

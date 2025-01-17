@@ -1,0 +1,84 @@
+*************************************
+* Link domain signature and profile *
+*************************************
+
+The Link  domain [1] is a hyaluronan(HA)-binding  region  found in proteins of
+vertebrates that  are  involved  in the assembly of extracellular matrix, cell
+adhesion, and  migration. It is about 100 amino acids in length. The structure
+has been  shown [2]  to consist of two alpha helices and two antiparallel beta
+sheets  arranged  around  a large  hydrophobic  core similar to that of C-type
+lectin <See  PDOC00537>.  As shown in the schematic representation this domain
+contains four conserved cysteines involved in two disulfide bonds.
+
+                              +----------+
+                              |          |
+                  ************|***********
+              xxxxCxxxxxxxxxxxCxxxxxxxxxxCxxxxxxxxxxxxxxxCxxxxx
+                  |                                      |
+                  +--------------------------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+The Link  domain has also been termed HABM [1] (HA binding module) and PTR [3]
+(proteoglycan tandem repeat). Proteins with such a domain are listed below:
+
+ - The cartilage link protein (LP), a proteoglycan that togethers with HA  and
+   aggrecan forms  multimolecular aggregates. It consists of an Ig-like V-type
+   domain and two copies of the Link domain.
+ - The  proteoglycans  aggrecan,  brevican,  neurocan  and versican, which are
+   expressed in  the  CNS.  These  proteins  are composed of an Ig-like V-type
+   region, two  or  four  (only  in aggrecan) Link domains, up to two EGF-like
+   repeats, a variable length domain containing the site of attachments of the
+   sugars, followed, in the C-terminal by a C-type lectin and a Sushi domain.
+ - CD44  antigen. The main cell surface receptor for HA. CD44 is known by many
+   different names  and  also  exists in many different forms due to extensive
+   alternative splicing  of its 19 exons. It contains a single N-terminal Link
+   domain, which has been shown to be involved in HA-binding [4].
+ - Tumor  necrosis  factor-inducible protein TSG-6. It is possibly involved in
+   cell-cell and    cell-matrix    interactions    during   inflammation   and
+   tumorgenesis. It contains a Link domain and a CUB domain.
+
+We developed  a  signature  pattern  for  this domain, which is located in the
+middle of the sequence and covers the first three conserved cysteines. We also
+developed a profile, which covers the entire Link domain.
+
+-Consensus pattern: C-x(15)-A-x(3,4)-[GK]-x(3)-C-x(2)-G-x(8,9)-P-x(7)-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ the 4th  link domain of human aggrecan, which lacks a leucine between the 1st
+ cysteine and the conserved alanine in comparision with other link domains.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Barta E., Deak F., Kiss I.
+     "Evolution of the hyaluronan-binding module of link protein."
+     Biochem. J. 292:947-949(1993).
+     PubMed=8318021
+[ 2] Kohda D., Morton C.J., Parkar A.A., Hatanaka H., Inagaki F.M.,
+     Campbell I.D., Day A.J.
+     "Solution structure of the link module: a hyaluronan-binding domain
+     involved in extracellular matrix stability and cell migration."
+     Cell 86:767-775(1996).
+     PubMed=8797823
+[ 3] Brisset N.C., Perkins S.J.
+     FEBS Lett. 388:211-216(1996).
+[ 4] Peach R.J., Hollenbaugh D., Stamenkovic I., Aruffo A.
+     "Identification of hyaluronic acid binding sites in the extracellular
+     domain of CD44."
+     J. Cell Biol. 122:257-264(1993).
+     PubMed=8314845
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

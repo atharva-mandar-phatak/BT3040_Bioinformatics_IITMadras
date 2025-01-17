@@ -1,0 +1,20 @@
+KUPTAKETRKA
+The NAD(+)-binding protein TrkA is a component of a low-affinity K+
+uptake system in E.coli [1]. Sequence analysis reveals that the protein
+consists of 2 tandemly arrayed halves that are 22% identical, a situation 
+that might have arisen through gene duplication. TrkA also exhibits
+similarity to other E.coli proteins [2], in particular KefC, a glutathione-
+regulated efflux protein [3], and to various dehydrogenase proteins that
+possess NAD+ binding sites.
+
+KUPTAKETRKA is a 5-element fingerprint that provides a signature for TrkA
+and related proteins. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs correspond to conserved regions spanning an 
+80-residue domain, which includes the predicted N-terminal NAD+/NADH
+binding site (motif 1). Two iterations on OWL24.0 were required to reach
+convergence, at which point a true set comprising 4 sequences was
+identified. Two partial matches were also found (DHL2_LACCO and A49337),
+both of which are dehydrogenases possessing NAD+/NADH binding sites. 
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 7
+partial matches.

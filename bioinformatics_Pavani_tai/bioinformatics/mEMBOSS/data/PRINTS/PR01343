@@ -1,0 +1,28 @@
+YEASTERF
+Elongation factors belong to a family of proteins that promote the GTP-
+dependent binding of aminoacyl tRNA to the A site of ribosomes during
+protein biosynthesis, and catalyse the translocation of the synthesised
+protein chain from the A to the P site. The proteins are all relatively
+similar in the vicinity of their C-termini, and are also highly similar
+to a range of proteins that includes the nodulation Q protein from 
+Rhizobium meliloti, bacterial tetracycline resistance proteins [1]
+and yeast elongation factors.
+
+Although the yeast elongation factors, or omnipotent suppressor proteins,
+share a large degree of similarity with other eukaryotic elongation factors,
+the chief difference is that they possess an N-terminal extension rich in 
+repetitive, glutamine-rich elements, and a central charged unit.
+Saccharomyces cerevisiae ERF2 expression has been shown to cause non-
+mendelian (all progeny to the first and second generation exhibit the
+phenotype) inheritance of nonsense suppression (stop-codon read-through),
+mediated by the N-terminal and charged regions. This observation has led to
+the hypothesis that the yeast elongation factors are 'yeast prions',
+showing the same properties as those theorised to exist in mammalian
+prions [2].
+
+YEASTERF is a 5-element fingerprint that provides a signature for the yeast
+eukaryotic release factors. The fingerprint was derived from an initial
+alignment of 4 sequences: motif 1 was drawn from the central, charge-rich
+region; and motifs 2-5 reside at the C-terminus. Three iterations on
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 5 sequences was identified. 

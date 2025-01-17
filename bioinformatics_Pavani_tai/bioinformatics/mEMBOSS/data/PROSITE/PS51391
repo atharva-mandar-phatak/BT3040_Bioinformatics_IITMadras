@@ -1,0 +1,50 @@
+**********************
+* CID domain profile *
+**********************
+
+The C-terminal  domain  (CTD)  of  the large subunit of RNA polymerase II is a
+platform for  mRNA  processing  factors  and  links gene transcription to mRNA
+capping, splicing  and  polyadenylation.  CTD  recognition is dependent on the
+phosphorylation state  of  the  CTD  itself, which varies during the course of
+transcription but has also been linked to the isomerization state of the CTD's
+proline residues. Several RNA-processing factors recognize the CTD by means of
+a conserved CTD-interacting domain (CID). Factors with CID domains include the
+serine/arginine-rich-like factors  SCAF4  and SCAF8, Nrd1 (which is implicated
+in polyadenylation-independent  RNA  3'-end  formation)  and Pcf11. Pcf11 is a
+conserved and  essential  subunit  of  the  yeast cleavage factor 1A, which is
+required for 3'-RNA processing and transcription termination [1,2].
+
+The CID  domain  is a right-handed superhelix of eight alpha-helices forming a
+compact domain  (see  <PDB:1SZ9>).  The CID fold closely resembles that of VHS
+domains (see  <PDOC50179>)  and  is  related to armadillo-repeat proteins (see
+(<PDOC50176>), except  for the two amino-terminal helices. Amino acid residues
+in the  hydrophobic core of the domain are highly conserved across CID domains
+[1,2].
+
+The profile we developed covers the entire CID domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2008 / First entry.
+
+[ 1] Meinhart A., Cramer P.
+     "Recognition of RNA polymerase II carboxy-terminal domain by
+     3'-RNA-processing factors."
+     Nature 430:223-226(2004).
+     PubMed=15241417; DOI=10.1038/nature02679
+[ 2] Noble C.G., Hollingworth D., Martin S.R., Ennis-Adeniran V.,
+     Smerdon S.J., Kelly G., Taylor I.A., Ramos A.
+     "Key features of the interaction between Pcf11 CID and RNA polymerase
+     II CTD."
+     Nat. Struct. Mol. Biol. 12:144-151(2005).
+     PubMed=15665873; DOI=10.1038/nsmb887
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

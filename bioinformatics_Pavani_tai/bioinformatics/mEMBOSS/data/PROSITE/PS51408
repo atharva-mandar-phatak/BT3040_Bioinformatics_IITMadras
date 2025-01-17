@@ -1,0 +1,149 @@
+**************************************************
+* Transferrin-like domain signatures and profile *
+**************************************************
+
+The transferrin  family  is  a  group  of  glycosylated proteins found in both
+vertebrates and  invertebrates.  Included in this group are molecules known to
+bind iron,  including  serotransferrin,  ovotransferrin, lactotransferrin, and
+melanotransferrin (MTF).  Additional  members of this family include inhibitor
+of carbonic  anhydrase  (ICA;  mammals),  major  yolk  protein  (sea urchins),
+saxiphilin (frog),  pacifastin  (crayfish),  and  TTF-1  (algae).  Most family
+members contain  two  transferrin-like  domains of around 340 amino acids, the
+result of an ancient duplication event [1]. Each of the duplicated domains can
+be further  divided  into two subdomains that form a cleft inside of which the
+iron atom  is bound in iron-transporting transferrin (see <PDB:1LFH>) [2]. The
+iron-coordinating residues  consist  of  an aspartic acid, two tyrosines and a
+histidine, as  well  as  an  arginine  that  coordinates a requisite anion. In
+addition to  iron  and  anion  liganding residues, the transferrin-like domain
+contains conserved cysteine residues involved in disulfide bond formation.
+
+Some proteins known to contain a transferrin-like domain are listed below:
+
+ - Mammalian  blood  serotransferrin  (siderophilin).  It functions to deliver
+   iron to  cells  via a receptor-mediated endocytic process as well to remove
+   toxic free  iron  from the blood and to provide an anti-bacterial, low-iron
+   environment.
+ - Mammalian   milk   lactotransferrin  (lactoferrin).  It  has  antimicrobial
+   activity and contributes to innate immunity by limiting the availability of
+   iron to  pathogenic  organisms.  In  addition,  lactoferrin appears to be a
+   serine protease  of  the peptidase S60 family [E1] with an active site that
+   may consist  of  a Ser-Lys catalytic dyad. Lactoferrin cleaves the putative
+   Haemophilus influenzae  colonization  factors IgA1 protease and Hap adhesin
+   at homologous arginine-rich sequences [3].
+ - Vertebrate  egg  white  ovotransferrin  (conalbumin). Its major function is
+   thought to  be  keeping  the  iron  concentration  low  in bodily fluids to
+   prevent invading bacteria from acquiring iron.
+ - Mammalian membrane-associated melanotransferrin. It was first identified in
+   human skin  cells  but now is known to be expressed across a broad range of
+   tissue types,  and  is of unknown function. It has only a single functional
+   iron binding site located in its N-terminal domain.
+ - Porcine  inhibitor  of  carbonic anhydrase (ICA). It specifically binds and
+   inhibits carbonic  anhydrase  2  with  nanomolar affinity but does not bind
+   iron with high affinity [4].
+ - Bull  frog  saxiphilin,  a  plasma  protein  that  binds saxitoxin (STX), a
+   causative agent   of  paralytic  shellfish  poisoning.  STX  binds  to  the
+   C-terminal transferrin-like    domain   of   saxiphilin.   The   N-terminal
+   transferrin-like domain  includes  an  insert  that  represent  two  tandem
+   thyroglobulin domains.  Unlike  transferrins, saxiphilin does not bind iron
+   [5].
+ - Sea  urchin  toposome  or  major  yolk  protein  (MYP), a modified calcium-
+   binding, iron-less transferrin essential for cell adhesion and development.
+   The protein lacks most of the five iron-binding amino acids D, Y, R, Y, and
+   H present at specific positions in iron-transporting transferrins, which is
+   consistent with  the  Ca(2+)-binding  function  of  the  toposome  in  cell
+   adhesion rather  than  transport.  The  toposome  polypeptide  contains  an
+   insertion of some 280 amino acids in the second transferrin-like [6].
+ - Crayfish  pacifastin,  an  iron-binding  serine  proteinase inhibitor. This
+   protein is a heterodimeric protein, consisting of one proteinase inhibitory
+   light chain,  and  one  heavy chain related to transferrins. The pacifastin
+   heavy chain  contains  three transferrin-like domains, two of which seem to
+   be active for iron binding [7].
+ - Green  algae  Dunaliella  salina  TTF-1.  The  membrane associated TTF-1 is
+   distinctly different  in  encompassing three, rather than two, transferrin-
+   like domains [8].
+
+We have   developed   three  different  signature  patterns  for  iron-binding
+transferrin-like domains.  Each of them is centered on one of the iron-binding
+residue, respectively the two tyrosines and the histidine. We also developed a
+profile which covers the entire transferrin-like domain.
+
+-Consensus pattern: Y-x(0,1)-[VAS]-V-[IVAC]-[IVA]-[IVA]-[RKH]-[RKS]-[GDENSA]
+                    [Y is an iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Consensus pattern: [YI]-x-G-A-[FLI]-[KRHNQS]-C-L-x(3,4)-G-[DENQ]-V-[GAT]-
+                    [FYW]
+                    [Y is an iron ligand]
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DENQK]-[YF]-x-[LY]-L-C-x-[DN]-x(5,8)-[LIV]-x(4,5)-C-x(2)-
+                    A-x(4)-[HQR]-x-[LIVMFYW]-[LIVM]
+                    [H is an iron ligand]
+                    [The 2 C's are linked by a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: February 2009 / Text revised.
+
+[ 1] Lambert L.A., Perri H., Meehan T.J.
+     "Evolution of duplications in the transferrin family of proteins."
+     Comp. Biochem. Physiol. 140B:11-25(2005).
+     PubMed=15621505; DOI=10.1016/j.cbpc.2004.09.012
+[ 2] Anderson B.F., Baker H.M., Norris G.E., Rice D.W., Baker E.N.
+     "Structure of human lactoferrin: crystallographic structure analysis
+     and refinement at 2.8 A resolution."
+     J. Mol. Biol. 209:711-734(1989).
+     PubMed=2585506
+[ 3] Hendrixson D.R., Qiu J., Shewry S.C., Fink D.L., Petty S., Baker E.N.,
+     Plaut A.G., St. Geme J.W. III
+     "Human milk lactoferrin is a serine protease that cleaves Haemophilus
+     surface proteins at arginine-rich sites."
+     Mol. Microbiol. 47:607-617(2003).
+     PubMed=12535064
+[ 4] Wuebbens M.W., Roush E.D., Decastro C.M., Fierke C.A.
+     "Cloning, sequencing, and recombinant expression of the porcine
+     inhibitor of carbonic anhydrase: a novel member of the transferrin
+     family."
+     Biochemistry 36:4327-4336(1997).
+     PubMed=9100029; DOI=10.1021/bi9627424
+[ 5] Krishnan G., Morabito M.A., Moczydlowski E.
+     "Expression and characterization of Flag-epitope- and
+     hexahistidine-tagged derivatives of saxiphilin for use in detection
+     and assay of saxitoxin."
+     Toxicon 39:291-301(2001).
+     PubMed=10978747
+[ 6] Noll H., Alcedo J., Daube M., Frei E., Schiltz E., Hunt J.,
+     Humphries T., Matranga V., Hochstrasser M., Aebersold R., Lee H.,
+     Noll M.
+     "The toposome, essential for sea urchin cell adhesion and development,
+     is a modified iron-less calcium-binding transferrin."
+     Dev. Biol. 310:54-70(2007).
+     PubMed=17707791; DOI=10.1016/j.ydbio.2007.07.016
+[ 7] Liang Z., Sottrup-Jensen L., Aspan A., Hall M., Soederhaell K.
+     "Pacifastin, a novel 155-kDa heterodimeric proteinase inhibitor
+     containing a unique transferrin chain."
+     Proc. Natl. Acad. Sci. U.S.A. 94:6682-6687(1997).
+     PubMed=9192625
+[ 8] Fisher M., Gokhman I., Pick U., Zamir A.
+     "A structurally novel transferrin-like protein accumulates in the
+     plasma membrane of the unicellular green alga Dunaliella salina grown
+     in high salinities."
+     J. Biol. Chem. 272:1565-1570(1997).
+     PubMed=8999829
+[E1] http://merops.sanger.ac.uk/cgi-bin/make_frame_file?id=S60
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

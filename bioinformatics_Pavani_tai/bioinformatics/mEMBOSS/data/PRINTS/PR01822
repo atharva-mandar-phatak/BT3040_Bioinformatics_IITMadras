@@ -1,0 +1,51 @@
+CCYSTOKININR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine,
+para-crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+   
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Cholecystokinins (CCKs) and gastrins are naturally-occurring peptides that
+share a common C-terminal sequence, GWMDF; full biological activity resides
+in this region [6]. In the periphery, the principal physiological actions of
+CCK include gall bladder contraction, pancreatic enzyme secretion and
+regulation of secretion/absorption in the gastrointestinal tract [6]. In the
+CNS, CCK induces analgesia, satiety and a decrease in exploratory behaviour.
+In mesolimbic and mesocortical neurons, CCK coexists with dopamine [6]. It
+is found throughout the digestive tract, with high concentrations in the
+duodenum and jejunum. It is also found in peripheral nerves to other smooth
+muscles and to secretory glands, and is one of the most abundant peptides in
+the brain [6]. The principal physiological role of gastrin is to stimulate
+acid secretion in the stomach; it also has trophic effects on gastric mucosa
+[6]. It is found predominantly in the stomach and intestine, but also in
+vagal nerves [6].
+
+CCYSTOKININR is an 8-element fingerprint that provides a signature for the
+cholecystokinin receptor family. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved sections
+within loop, TM and C-terminal regions, focusing on those areas of the
+alignment that characterise the cholecystokinin receptors but distinguish
+them from the rest of the rhodopsin-like superfamily - motif 1 encodes the
+first external loop and adjacent sections of TM domains 2 and 3; motif 2
+spans the second cytoplasmic loop; motifs 3-5 reside in the N-terminal, 
+central and C-terminal portions of the third cytoplasmic loop, respectively;
+motif 6 is located at the C-terminus of TM domain 6; motif 7 spans the third
+external loop; and motif 8 lies at the C-terminus. Two iterations on
+SPTR40_20f were required to reach convergence, at which point a true set
+comprising 18 sequences was identified. Three partial matches were also
+found: these are closely related receptors from D.melanogaster (Q9VWQ9 and
+Q9VWR3) and C.elegans (P91487) that may be members of the cholecystokinin 
+receptor family.

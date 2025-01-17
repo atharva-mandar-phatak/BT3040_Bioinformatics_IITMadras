@@ -1,0 +1,64 @@
+***********************
+* LCCL domain profile *
+***********************
+
+The LCCL domain has been named after the best characterized proteins that were
+found  to  contain  it,  namely  Limulus factor C, Coch-5b2 and Lgl1. It is an
+about 100 amino acids domain whose C-terminal part contains a highly conserved
+histidine  in  a conserved motif YxxxSxxCxAAVHxGVI. The LCCL module is thought
+to  be  an autonomously folding domain that has been used for the construction
+of  various  modular  proteins  through  exon-shuffling.  It has been found in
+various  metazoan  proteins  in  association  with  complement B-type domains,
+C-type  lectin  domains  (see <PDOC00537>), von Willebrand type A domains (see
+<PDOC50234>),  CUB  domains (see <PDOC00908>), discoidin lectin domains or CAP
+domains.  It  has  been  proposed  that  the  LCCL domain could be involved in
+lipopolysaccharide (LPS) binding [1,2,E1].
+
+Secondary structure prediction suggests that the LCCL domain contains six beta
+strands and two alpha helices [1].
+
+Some proteins known to contain a LCCL domain are listed below:
+
+ - Limulus  factor  C, a LPS endotoxin-sensitive trypsin type serine protease,
+   which serves to protect the organism from bacterial infection.
+ - Vertebrate  cochlear  protein  cochlin  or  coch-5b2. Cochlin is probably a
+   secreted protein. Mutations affecting the LCCL domain of coch-5b2 cause the
+   deafness disorder  DFNA9 in humans.
+ - Mammalian  late  gestation lung protein Lgl1, contains two tandem copies of
+   the LCCL domain [3].
+
+The profile we have developed covers the entire LCCL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / First entry.
+
+[ 1] Trexler M., Banyai L., Patthy L.
+     "The LCCL module."
+     Eur. J. Biochem. 267:5751-5757(2000).
+     PubMed=10971586
+[ 2] Robertson N.G., Lu L., Heller S., Merchant S.N., Eavey R.D.,
+     McKenna M., Nadol J.B. Jr., Miyamoto R.T., Linthicum F.H. Jr.,
+     Lubianca Neto J.F., Hudspeth A.J., Seidman C.E., Morton C.C.,
+     Seidman J.G.
+     "Mutations in a novel cochlear gene cause DFNA9, a human nonsyndromic
+     deafness with vestibular dysfunction."
+     Nat. Genet. 20:299-303(1998).
+     PubMed=9806553; DOI=10.1038/3118
+[ 3] Kaplan F., Ledoux P., Kassamali F.Q., Gagnon S., Post M., Koehler D.,
+     Deimling J., Sweezey N.B.
+     "A novel developmentally regulated gene in lung mesenchyme: homology
+     to a tumor-derived trypsin inhibitor."
+     Am. J. Physiol. 276:L1027-L1036(1999).
+     PubMed=10362728
+[E1] http://www.expasy.org/spotlight/back_issues/sptlt004.shtml
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

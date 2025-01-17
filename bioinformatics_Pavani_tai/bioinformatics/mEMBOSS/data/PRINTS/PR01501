@@ -1,0 +1,42 @@
+TOXICSSTOXIN
+Staphylococcus aureus is a Gram-positive coccus that grows in clusters or
+pairs, and is the major cause of nosocomial infections due to its multiple 
+antibiotic resistant nature [1]. Patients who are immunocompromised (e.g., 
+those suffering from third degree burns or chronic illness) are at risk 
+from deep staphylococcal infections, such as osteomyelitis and pneumonia.
+Most skin infections are also caused by this bacterium [1].
+
+Many virulence mechanisms are employed by Staphylococci to induce 
+pathogenesis: these can include polysaccharide capsules and exotoxins [1].
+One of the major virulence exotoxins is toxic shock syndrome toxin (TSST),
+which is secreted by the organism upon successful invasion. It causes a
+major inflammatory response in the host via superantigenic properties [2],
+and is the causative agent of toxic shock syndrome.
+
+The structure of the TSST protein was originally determined to 2.5A by means
+of X-ray crystallography [2]. The N- and C-terminal domains both contain
+regions involved in MHC class II association; the C-terminal domain is also
+implicated in binding the T-cell receptor [2]. Overall, the structure 
+resembles that of Staphylococcal enterotoxin B (SEB) [3], but differs in its
+N-terminus and in the degree to which a long central helix is covered by 
+surface loops [3]. The region around the carboxyl end of this helix is 
+proposed to govern the superantigenic properties of TSST [3]. An adjacent
+region along this helix is thought to be critical in the ability of TSST
+to induce toxic shock syndrome [3]. Most recently, the structures of five 
+mutants of TSST have been determined to 1.95A [4]. The mutations are in 
+the central alpha-helix, and allow mapping of portions of TSST involved in
+superantigenicity and lethality [4].
+
+TOXICSSTOXIN is a 9-element fingerprint that provides a signature for 
+Staphylococcal toxic shock syndrome toxin-1. The fingerprint was derived
+from an initial alignment of 3 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length (~220 amino acids) - 
+motif 2 encodes alpha-helix 1 of the 1.9A resolved structure; motif 3 spans
+beta-strands 1 and 2; motif 4 encodes strands 4 and 5; motif 5 spans strands
+6-8; motif 6 spans the N-terminus of strand 9 and strands 10 and 11; motif 7
+encodes the bulk of helix 2 and the N-terminal residues of strand 13; motif
+8 spans the C-terminus of strand 13 and strand 14; and motif 9 spans strand
+15 and helix 4. A single iteration on SPTR37_10f was required to reach 
+convergence, no further sequences being identified beyond the starting set.
+Four partial matches were found (Q9ZFS4, Q9ZFS6, Q9ZFS5 and Q9RN32) all of
+which are Staphyloccocal exotoxins that match motifs 2, 7, 8 and/or 9.

@@ -1,0 +1,92 @@
+*****************************************
+* Cadherin domain signature and profile *
+*****************************************
+
+Cadherins [1,2] are a family of animal glycoproteins responsible for  calcium-
+dependent  cell-cell   adhesion.    Cadherins  preferentially   interact  with
+themselves in  a  homophilic  manner  in connecting cells; thus acting as both
+receptor and  ligand.  A wide number of tissue-specific forms of cadherins are
+known, for example:
+
+ - Epithelial (E-cadherin) (CDH1).
+ - Neural (N-cadherin) (CDH2).
+ - Placental (P-cadherin) (CDH3).
+ - Retinal (R-cadherin) (CDH4).
+ - Vascular endothelial (VE-cadherin) (CDH5).
+ - Kidney (K-cadherin) (CDH6).
+ - Cadherin-8 (CDH8).
+ - Cadherin-9 (CDH9).
+ - Osteoblast (OB-cadherin) (CDH11).
+ - Brain (BR-cadherin) (CDH12).
+ - T-cadherin (truncated cadherin) (CDH13).
+ - Muscle (M-cadherin) (CDH15).
+ - Kidney (Ksp-cadherin) (CDH16).
+ - Liver-intestine (LI-cadherin) (CDH17).
+
+Structurally, cadherins are built of the following domains: a signal sequence,
+followed by a propeptide  of about 130 residues,  then an extracellular domain
+of around 600 residues, then a transmembrane region,  and finally a C-terminal
+cytoplasmic domain of about 150 residues. The extracellular domain can be sub-
+divided into five parts: there are four repeats of about 110 residues followed
+by a region that contains four conserved cysteines.   It is suggested that the
+calcium-binding region of cadherins is located in the extracellular repeats.
+
+Cadherins are  evolutionary  related to the desmogleins which are component of
+intercellular desmosome  junctions  involved  in  the  interaction  of  plaque
+proteins:
+
+ - Desmoglein 1 (desmosomal glycoprotein I).
+ - Desmoglein 2.
+ - Desmoglein 3 (Pemphigus vulgaris antigen).
+
+Other proteins that include cadherin domains are:
+
+ - Drosophila  fat  protein  [3], a huge protein of over 5000 amino acids that
+   contains 34  cadherin-like repeats in its extracellular domain. Homologs of
+   fat are found in mammals.
+ - Protocadherins (6 copies).
+ - Proto-oncogene tyrosine-protein kinase receptor ret (1 copy).
+
+The signature pattern we have developed for the  repeated domain is located in
+it the  C-terminal extremity which is its best conserved region.  The  pattern
+includes two  conserved    aspartic  acid residues as well as two asparagines;
+these residues  could  be  implicated  in the binding of calcium. We have also
+developed a profile that spans the complete domain.
+
+-Consensus pattern: [LIV]-x-[LIV]-x-D-x-N-D-[NH]-x-P
+                    [The 2 D's and the N are involved in calcium binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Note: This pattern is found  in the first,  second, and fourth  copies of the
+ repeated domain.   In the third copy there is a deletion of one residue after
+ the second conserved Asp.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Takeichi M.
+     "Cadherins: a molecular family important in selective cell-cell
+     adhesion."
+     Annu. Rev. Biochem. 59:237-252(1990).
+     PubMed=2197976; DOI=10.1146/annurev.bi.59.070190.001321
+[ 2] Takeichi M.
+     Trends Genet. 3:213-217(1987).
+[ 3] Mahoney P.A., Weber U., Onofrechuk P., Biessmann H., Bryant P.J.,
+     Goodman C.S.
+     "The fat tumor suppressor gene in Drosophila encodes a novel member of
+     the cadherin gene superfamily."
+     Cell 67:853-868(1991).
+     PubMed=1959133
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

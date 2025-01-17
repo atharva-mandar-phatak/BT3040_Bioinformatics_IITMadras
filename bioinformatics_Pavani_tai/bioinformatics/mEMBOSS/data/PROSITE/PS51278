@@ -1,0 +1,105 @@
+****************************************************
+* Glutamine amidotransferase type 2 domain profile *
+****************************************************
+
+A  large group of biosynthetic enzymes are able to catalyze the removal of the
+ammonia group from glutamine and then to transfer this group to a substrate to
+form  a  new  carbon-nitrogen  group.  This  catalytic  activity  is  known as
+glutamine amidotransferase (GATase) (EC 2.4.2.-) [1]. The GATase domain exists
+either  as  a separate polypeptidic subunit or as part of a larger polypeptide
+fused  in  different  ways  to  a  synthase  domain.  On the basis of sequence
+similarities two classes of GATase domains have been identified [2,3]: class-I
+(also  known as trpG-type or triad) (see <PDOC00405>) and class-II (also known
+as  purF-type  or Ntn). Class-II (or type 2) GATase domains have been found in
+the following enzymes:
+
+ - Amido   phosphoribosyltransferase  (glutamine   phosphoribosylpyrophosphate
+   amidotransferase) (EC 2.4.2.14).  An enzyme which  catalyzes the first step
+   in purine biosynthesis,  the transfer  of the ammonia group of glutamine to
+   PRPP to form 5-phosphoribosylamine (gene purF in bacteria, ADE4 in yeast).
+ - Glucosamine--fructose-6-phosphate  aminotransferase   (EC 2.6.1.16).   This
+   enzyme catalyzes a  key reaction in amino sugar synthesis, the formation of
+   glucosamine 6-phosphate from fructose 6-phosphate and glutamine  (gene glmS
+   in Escherichia coli, nodM in Rhizobium, GFA1 in yeast).
+ - Asparagine synthetase (glutamine-hydrolyzing) (EC 6.3.5.4).  This enzyme is
+   responsible for the synthesis of asparagine from aspartate and glutamine.
+ - Glutamate  synthase  (gltS),  an  enzyme  which participates in the ammonia
+   assimilation   process  by  catalyzing  the  formation  of  glutamate  from
+   glutamine  and  2-oxoglutarate.  Glutamate  synthase  is  a  multicomponent
+   iron-sulfur  flavoprotein  and  three  types  occur  which  use a different
+   electron   donor:   NADPH-dependent   gltS  (large  chain)   (EC 1.4.1.13),
+   ferredoxin-dependent   gltS   (EC 1.4.7.1)  and   NADH-dependent  gltS  (EC
+   1.4.1.14) [4].
+
+The active site is formed by a cysteine present at the N-terminal extremity of
+the  mature form of all these enzymes [5-8]. Two other conserved residues, Asn
+and  Gly,  form  an  oxyanion hole for stabilization of the formed tetrahedral
+intermediate.  An  insert  of  ~120  residues  can occur between the conserved
+regions  [4].  In  some  class-II GATases (for example in Bacillus subtilis or
+chicken  amido  phosphoribosyltransferase)  the  enzyme  is synthesized with a
+short  propeptide  which  is  cleaved  off  post-translationally by a proposed
+autocatalytic  mechanism.  Nuclear-encoded  Fd-dependent  gltS  have  a longer
+propeptide which may contain a chloroplast-targeting peptide in additon to the
+propeptide that is excised on enzyme activation [4].
+
+The   3-D   structure  of  the  GATase  type  2  domain  forms  a  four  layer
+alpha/beta/beta/alpha  architecture  (see <PDB:1LM1>) which consists of a fold
+similar  to  the  N-terminal  nucleophile  (Ntn)  hydrolases.  These  have the
+capacity   for  nucleophilic  attack  and  the  possibility  of  autocatalytic
+processing.  The  N-terminal  position  and  the  folding of the catalytic Cys
+differ  strongly  from  the  Cys-His-Glu  triad which forms the active site of
+GATases of type 1 (see <PDOC00405>).
+
+The profile we developed covers the entire GATase type 2 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2006 / Pattern removed, profile added and text revised.
+
+[ 1] Buchanan J.M.
+     "The amidotransferases."
+     Adv. Enzymol. Relat. Areas Mol. Biol. 39:91-183(1973).
+     PubMed=4355768
+[ 2] Weng M.L., Zalkin H.
+     "Structural role for a conserved region in the CTP synthetase
+     glutamine amide transfer domain."
+     J. Bacteriol. 169:3023-3028(1987).
+     PubMed=3298209
+[ 3] Nyunoya H., Lusty C.J.
+     "Sequence of the small subunit of yeast carbamyl phosphate synthetase
+     and identification of its catalytic domain."
+     J. Biol. Chem. 259:9790-9798(1984).
+     PubMed=6086650
+[ 4] Vanoni M.A., Curti B.
+     "Glutamate synthase: a complex iron-sulfur flavoprotein."
+     Cell. Mol. Life Sci. 55:617-638(1999).
+     PubMed=10357231
+[ 5] Vollmer S.J., Switzer R.L., Hermodson M.A., Bower S.G., Zalkin H.
+     "The glutamine-utilizing site of Bacillus subtilis glutamine
+     phosphoribosylpyrophosphate amidotransferase."
+     J. Biol. Chem. 258:10582-10585(1983).
+     PubMed=6411716
+[ 6] Van Heeke G., Schuster S.M.
+     "The N-terminal cysteine of human asparagine synthetase is essential
+     for glutamine-dependent activity."
+     J. Biol. Chem. 264:19475-19477(1989).
+     PubMed=2573597
+[ 7] Massiere F., Badet-Denisot M.A.
+     "The mechanism of glutamine-dependent amidotransferases."
+     Cell. Mol. Life Sci. 54:205-222(1998).
+     PubMed=9575335
+[ 8] van den Heuvel R.H.H., Curti B., Vanoni M.A., Mattevi A.
+     "Glutamate synthase: a fascinating pathway from L-glutamine to
+     L-glutamate."
+     Cell. Mol. Life Sci. 61:669-681(2004).
+     PubMed=15052410; DOI=10.1007/s00018-003-3316-0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

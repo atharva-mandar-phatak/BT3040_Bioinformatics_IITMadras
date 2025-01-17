@@ -1,0 +1,21 @@
+GDHRDH
+Glucose dehydrogenase catalyses the oxidation of D-glucose without prior
+phosphorylation to D-beta-gluconolactone using NAD or NADP as a coenzyme.
+The enzyme is a tetrameric protein, each of the 4 identical subunits
+containing 262 amino acid residues.
+
+GDHRDH is a 6-element fingerprint that provides a signature for a family 
+of closely related dehydrogenases, dehydroxylases and reductases. The 
+fingerprint was derived from an initial alignment of 11 glucose and 
+ribitol dehydrogenases: motif 2 spans a highly conserved NNAGI sequence;
+motif 4 includes the conserved YSASK sequence encoded by PROSITE pattern
+ADH_SHORT (PS00061), which contains conserved Tyr and Lys residues, of
+which the former is important for subunit binding in glucose dehyrogenase
+[1]. Four iterations on OWL11.0 were required to reach convergence, at
+which point a true set comprising 23 sequences was identified. In addition,
+subfamilies emerged that lacked the full complement of motifs, most
+notable amongst which is the group of insect alcohol dehydrogenases 
+matching motifs 2, 3, 4 and 5. 
+
+An update on SPTR37_9f identified a true set of 197 sequences, and 398
+partial matches.

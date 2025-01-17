@@ -1,0 +1,57 @@
+***********************************
+* Bacterial rhodopsins signatures *
+***********************************
+
+Bacterial rhodopsins [1,2,3] are a family of retinal-containing proteins found
+in extremely  halophilic  bacteria which provide light-dependent ion transport
+and sensory functions for these organisms.   Bacterial rhodopsins are integral
+membrane proteins  with seven transmembrane regions.  The retinal choromophore
+is covalently  linked,  via  a  Schiff's base, to the epsilon-amino group of a
+conserved lysine residue in the middle of the last transmembrane helix (called
+helix G). There are at least three types of bacterial rhodopsins:
+
+ - Bacteriorhodopsin (bop) , and archaerhodopsins 1 and 2, light-driven proton
+   pumps.
+ - Halorhodopsin (hop), a light-driven chloride pump.
+ - Sensory rhodopsin (sop), which mediates  both  photoattractant (in the red)
+   and photophobic (in the near UV) responses.
+
+We developed  two  patterns  which  allow  the specific detection of bacterial
+rhodopsins. The first  pattern  corresponds  to the third transmembrane region
+(called helix  C) and includes an arginine residue which seems involved in the
+release of  a  proteon from the Schiff's base to the extracellular medium. The
+second pattern includes the retinal binding lysine.
+
+-Consensus pattern: R-Y-x-[DT]-W-x-[LIVMF]-[ST]-[TV]-P-[LIVM]-[LIVMNQ]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [FYIV]-{ND}-[FYVG]-[LIVM]-D-[LIVMF]-x-[STA]-K-x-{K}-[FY]
+                    [K is the retinal binding site]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 4.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Osterhelt D., Tittor J.
+     Trends Biochem. Sci. 14:57-61(1989).
+[ 2] Soppa J., Duschl J., Oesterhelt D.
+     "Bacterioopsin, haloopsin, and sensory opsin I of the halobacterial
+     isolate Halobacterium sp. strain SG1: three new members of a growing
+     family."
+     J. Bacteriol. 175:2720-2726(1993).
+     PubMed=8478333
+[ 3] Kuan G., Saier M.H. Jr.
+     "Phylogenetic relationships among bacteriorhodopsins."
+     Res. Microbiol. 145:273-285(1994).
+     PubMed=7997641
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

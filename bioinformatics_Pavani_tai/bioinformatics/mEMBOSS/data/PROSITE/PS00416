@@ -1,0 +1,80 @@
+************************
+* Synapsins signatures *
+************************
+
+Synapsins [1,2] are neuronal phosphoproteins that coat synaptic vesicles, bind
+to several elements of  the cytoskeleton (including actin filaments),  and are
+believed to function in the regulation of neurotransmitter release.
+
+The synapsin family currently includes  the highly related  synapsin I and II.
+Both synapsins exists in  two  alternatively spliced variants: IA and IB;  IIA
+and IIB, which only differ in their carboxy-termini. It also includes synapsin
+III.
+
+Structurally synapsin IA/IB consist of a small N-terminal domain  (referred to
+as the 'A' domain) that contains a  serine residue which serves as an acceptor
+site for phosphorylation by both cyclic AMP-dependent protein kinase and Ca2+,
+calmodulin-dependent protein kinase I.  The 'A' domain is followed by a linker
+domain ('B') of some 80 residues.  The third domain ('C'), which  contains 300
+amino acids, is  implicated  in the binding to actin and to synaptic vesicles.
+The fourth domain 'D' is proline-rich and contains about 250 residues. Finally
+the C-terminal spliced  domain  is known as 'E' (in IA), or 'F' (in IB).   The
+structure of synapsin IIA/IIB also consists of  the 'A', 'B', and 'C' domains,
+the 'D' domain is replaced by smaller  proline-rich region ('G'). Synapsin IIB
+ends  with a small domain ('I'),  while the  larger C-terminal of synapsin IIA
+consist of two  domains: 'H'  and 'E' (homologous to the 'E' of IA). A diagram
+of the domains structure of the four synapsins is shown below.
+
+ 1        100       200       300       400       500       600       700
+ |........|.........|.........|.........|.........|.........|.........|.
+ +-+-------+------------------------------+------------------------+---+
+ |A|   B   |               C              |              D         | E |  IA
+ +-+-------+------------------------------+------------------------+---+
+
+ +-+-------+------------------------------+------------------------+-+
+ |A|   B   |               C              |              D         |F|    IB
+ +-+-------+------------------------------+------------------------+-+
+
+ +-+-------+------------------------------+---+-------+---+
+ |A|   B   |               C              | G |   H   | E |               IIA
+ +-+-------+------------------------------+---+-------+---+
+
+ +-+-------+------------------------------+---+-+
+ |A|   B   |               C              | G |I|                         IIB
+ +-+-------+------------------------------+---+-+
+
+We have  selected  two  conserved regions as signature patterns for synapsins.
+The  first  one  is a conserved  octapeptide  in domain 'A' which contains the
+phosphorylated  serine residue;    the  second  pattern  is a highly conserved
+stretch of 11 residues located in the center of the 'C' domain.
+
+-Consensus pattern: L-R-R-R-L-S-D-S
+                    [The first S is phosphorylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-H-A-H-[SA]-G-M-G-K-[IV]-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Bahler M., Benfenati F., Valtorta F., Greengard P.
+     "The synapsins and the regulation of synaptic function."
+     BioEssays 12:259-263(1990).
+     PubMed=2117454
+[ 2] Kao H.T., Porton B., Hilfiker S., Stefani G., Pieribone V.A.,
+     DeSalle R., Greengard P.
+     "Molecular evolution of the synapsin gene family."
+     J. Exp. Zool. 285:360-377(1999).
+     PubMed=10578110; DOI=10.1002/(SICI)1097-010X(19991215)285:4<360::AID-JEZ4>3.0.CO;2-3
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

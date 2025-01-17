@@ -1,0 +1,32 @@
+SIGMA70FCT
+RNA polymerase holoenzymes of bacteria contain the major sigma factors that
+play a central role in the initiation of transcription [1]. These sigma 
+factors are important both in selective binding of RNA polymerase to 
+promoters, and in the efficient initiation of transcription [2]: the 
+sigma factor interacts with several subunits of the core polymerase, with 
+DNA in the promoter region, with short nascent RNA, and perhaps weakly with
+rifampicin bound to the core polymerase beta subunit [2]. The major factor 
+can also be substituted with other factors in specialised conditions, such 
+as heat shock, to allow the activation of transcription of genes required 
+in these situations.
+
+Most bacteria express a multiplicity of sigma factors. Two of these,
+sigma-70 (generally known as the major or primary sigma factor) and 
+sigma-54, direct the transcription of a wide variety of genes: the others
+(known as alternative sigma factors) are required for the transcription of 
+specific subsets of genes. 
+
+SIGMA70FCT is a 5-element fingerprint that provides a signature for the 
+sigma-70 proteins. The fingerprint was derived from an initial alignment
+of 10 sequences: motif 1 spans a conserved region whose exact function is
+unknown, but which may be involved in binding of the sigma factor to the
+core RNA polymerase (cf. PROSITE pattern SIGMA70_1 (PS00715)); motifs 4
+and 5 encompass a conserved region that appears to harbour a DNA-binding
+helix-turn-helix motif, which is involved in binding the conserved region
+of promoters recognised by the major sigma factors (cf. PROSITE pattern
+SIGMA70_2 (PS00716)). Five iterations on OWL20.0 were required to reach
+convergence, at which point a true set comprising 46 sequences was
+identified. Several partial matches were also found.
+
+An update on SPTR37_9f identified a true set of 155 sequences, and 51
+partial matches.

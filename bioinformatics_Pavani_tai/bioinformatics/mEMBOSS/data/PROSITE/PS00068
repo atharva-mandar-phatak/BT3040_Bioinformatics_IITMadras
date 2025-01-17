@@ -1,0 +1,59 @@
+**********************************************
+* Malate dehydrogenase active site signature *
+**********************************************
+
+Malate dehydrogenase (EC 1.1.1.37) (MDH)  [1,2] catalyzes  the interconversion
+of malate to  oxaloacetate utilizing the NAD/NADH  cofactor system. The enzyme
+participates in the citric acid cycle and exists in all aerobics organisms.
+
+While prokaryotic organisms contains a single form of MDH, in eukaryotic cells
+there are  two  isozymes: one which is located in the mitochondrial matrix and
+the other in the cytoplasm.  Fungi  and  plants also harbor a glyoxysomal form
+which  functions in the glyoxylate pathway. In plants chloroplast there is an
+additional  NADP-dependent form of  MDH (EC 1.1.1.82)  which  is essential for
+both the universal  C3 photosynthesis (Calvin)  cycle and the more specialized
+C4 cycle.
+
+As a signature pattern  for  this enzyme we have chosen a region that includes
+two residues  involved in the catalytic mechanism [3]:  an aspartic acid which
+is involved  in a  proton relay  mechanism,  and  an  arginine which binds the
+substrate.
+
+-Consensus pattern: [LIVM]-T-[TRKMN]-L-D-x(2)-R-[STA]-x(3)-[LIVMFY]
+                    [D and R are the active site residues]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: MDH  from  archaebacteria  do  not belong to the above family; they are
+ evolutionary related to lactate dehydrogenases [4].
+
+-Last update: November 1995 / Text revised.
+
+[ 1] McAlister-Henn L.
+     Trends Biochem. Sci. 13:178-181(1988).
+[ 2] Gietl C.
+     "Malate dehydrogenase isoenzymes: cellular locations and role in the
+     flow of metabolites between the cytoplasm and cell organelles."
+     Biochim. Biophys. Acta 1100:217-234(1992).
+     PubMed=1610875
+[ 3] Birktoft J.J., Rhodes G., Banaszak L.J.
+     "Refined crystal structure of cytoplasmic malate dehydrogenase at
+     2.5-A resolution."
+     Biochemistry 28:6065-6081(1989).
+     PubMed=2775751
+[ 4] Cendrin F., Chroboczek J., Zaccai G., Eisenberg H., Mevarech M.
+     "Cloning, sequencing, and expression in Escherichia coli of the gene
+     coding for malate dehydrogenase of the extremely halophilic
+     archaebacterium Haloarcula marismortui."
+     Biochemistry 32:4308-4313(1993).
+     PubMed=8476859
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

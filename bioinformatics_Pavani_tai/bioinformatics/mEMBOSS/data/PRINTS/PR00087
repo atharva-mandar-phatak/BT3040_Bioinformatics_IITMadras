@@ -1,0 +1,26 @@
+LIPOXYGENASE
+Lipoxygenases are iron-containing dioxygenases that catalyse the hydro-
+peroxidation of lipids containing a cis,cis-1,4-pentadiene structure. They
+are common in plants, where they are involved in such diverse aspects of 
+plant physiology as growth and development, pest resistance and senescence 
+or responses to wounding [1]. In mammals, a number of lipoxygenase isozymes
+are involved in the metabolism of prostaglandins and leukotrienes [2].
+
+The iron atom in lipoxygenases is bound by 4 ligands, 3 of which are
+His residues [3]. In fact there are 6 histidines conserved in all lipoxy-
+genases, 5 of which are clustered in a stretch of 40 amino acids. This
+region contains 2 of the 3 His ligands: the other histidines are believed
+to be important for lipoxygenase activity [4].
+
+LIPOXYGENASE is a 3-element fingerprint that provides a signature for the
+lipoxygenases. The fingerprint was derived from an initial alignment of
+4 sequences: the motifs span conserved regions in the vicinity of the
+clustered histidines - motif 2 includes the first 3 His residues and
+corresponds to PROSITE pattern LIPOXYGENASE_1 (PS00711), while motif 3
+includes the 4th and 5th His residues and corresponds to PROSITE pattern
+LIPOXYGENASE_2 (PS00081). Two iterations on OWL22.0 were required to reach
+convergence, at which point a true set comprising 25 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 70 sequences, and 1
+partial match.

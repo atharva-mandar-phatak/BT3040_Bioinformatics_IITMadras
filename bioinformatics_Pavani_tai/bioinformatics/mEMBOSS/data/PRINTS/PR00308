@@ -1,0 +1,30 @@
+ANTIFREEZEI
+Marine teleosts from polar oceans can be protected from freezing in icy
+sea-water by serum antifreeze proteins (AFPs) or glycoproteins (AFGPs) [1]:
+these function by binding to, and preventing the growth of, ice crystals
+within the fish. Despite functional similarity, antifreeze proteins are
+structurally diverse and include glycosylated and at least 3 non-
+glycosylated forms: the AFGP of nototheniids and cods are polymers of a
+tripeptide repeat, Ala-Ala-Thr, with a disaccharide attached to the
+threonine residue; type I AFPs are Ala-rich, alpha-helical peptides found
+in flounder and sculpin; type II AFPs of sea-raven, smelt and herring are
+Cys-rich proteins; and type III AFPs, found in eel pouts, are rich in
+beta-structure.
+
+Type I AFPs are Ala-rich, amphiphilic, alpha-helical proteins [2]. Based
+on the energy-minimised structure [3], a model has been proposed to
+describe the binding of the protein to ice crystals, whereby the protein
+binds to an ice nucleation structure, in a zipper-like fashion, via
+hydrogen bonding of threonine side chains (with an 11-residue period) to
+oxygen atoms in the ice lattice. The growth of ice crystals is thus
+stopped, or retarded, and the freezing point depressed. 
+
+ANTIFREEZEI is a 3-element fingerprint that provides a signature for type I
+antifreeze proteins. The fingerprint was derived from an initial alignment
+of 2 sequences: the motifs span the full Ala-rich sequence, each motif
+encoding at least one conserved Thr residue. Two iterations on OWL24.0
+were required to reach convergence, at which point a true set comprising
+10 sequences was identified. A single partial match was also found, an
+antifreeze protein that fails to make a significant match with motif 2.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

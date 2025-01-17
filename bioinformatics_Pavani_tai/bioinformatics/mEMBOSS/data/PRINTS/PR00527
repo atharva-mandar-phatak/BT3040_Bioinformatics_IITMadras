@@ -1,0 +1,47 @@
+GASTRINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Gastrins and cholecystokinins (CCKs) are naturally-occurring peptides that
+share a common C-terminal sequence, GWMDF; full biological activity resides
+in this region [6]. The principal physiological role of gastrin is to 
+stimulate acid secretion in the stomach; it also has trophic effects on
+gastric mucosa [6]. Gastrin is produced from a single gene transcript, and
+is found predominantly in the stomach and intestine, but also in vagal
+nerves. The CCKB receptor has a widespread distribution in the CNS and
+has been implicated in the pathogenesis of panic-anxiety attacks caused
+by CCK-related peptides [6]. It has a more limited distribution in the
+periphery, where it is found in smooth muscle and secretory glands.
+
+GASTRINR is a 9-element fingerprint that provides a signature for the
+gastrin (CCKB) receptors. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the gastrin receptors but distinguish
+them from the rest of the rhodopsin-like superfamily - motifs 1 and 2 lie
+at the N-terminus; motif 3 spans the first external loop; motif 4 spans the
+second cytoplasmic loop; motifs 5 and 6 span the second external loop;
+motifs 7 and 8 spans the third cytoplasmic loop; and motif 9 lies at the
+C-terminus. Two iterations on OWL28.0 were required to reach convergence,
+at which point a true set comprising 7 sequences was identified. Several
+partial matches were also found, all of which are either gastrin fragments,
+or members of the cholecystokinin type A receptor family.
+
+An update on SPTR37_9f identified a true set of 7 sequences, and 6
+partial matches.

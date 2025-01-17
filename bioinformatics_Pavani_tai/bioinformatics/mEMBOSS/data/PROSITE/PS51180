@@ -1,0 +1,77 @@
+***********************
+* BRO1 domain profile *
+***********************
+
+Vesicular  trafficking  pathways  sort  transmembrane proteins and lipids into
+small  vesicles  that  invaginate  into the endosome. Endosomes coordinate the
+transport  of  endocytic,  biosynthetic  and recycling cargoes. Multivesicular
+bodies  (MVBs)  are  late  endosomes  which  contain lumenal vesicles that are
+sorted  for  delivery either in the lysosome in metazoans, or into the vacuole
+in  yeast  or  may  be  targeted for extracellular release. MVBs fuse with the
+vacuole/lysosome  where  the  vesicles  and  their  contents  are  degraded by
+hydrolases.  The  sorting  of  MVB  cargo and budding of vesicles into the MVB
+lumen  require  the  endosomal  sorting complex required for transport (ESCRT)
+complexes I, II and III. The ESCRT-III complex of yeast assembles on endosomal
+membranes for the formation of a new vesicle within the MVB cargo.
+
+The  BRO1  domain  is a ~390 residue domain, present in proteins such as yeast
+BRO1  and  human  PDCD6IP/Alix  that  are involved in protein targeting to the
+vacuole  or  lysosome.  The BRO1 domain of fungal and mammalian proteins binds
+with  multivesicular  body  components (ESCRT-III proteins) such as yeast Snf7
+and  mammalian  CHMP4b,  and  can  function  to  target BRO1 domain-containing
+proteins to endosomes [1-3].
+
+The 3D structure of the BRO1 domain has a boomerang shape composed of 14 alpha
+helices   and   3  beta  sheets  (see  <PDB:1ZB1>)  and  contains  a  TPR-like
+substructure (see <PDOC50005>) in the central part [1]. The C-terminus is less
+conserved.
+
+Some proteins known to contain a BRO1 domain:
+
+ - Fungal  vacuolar protein-sorting protein BRO1 involved in concentration and
+   sorting of  cargo  proteins  of the MVB for incorporation into intralumenal
+   vesicles.
+ - Mammalian  programmed  cell  death  6-interacting protein (PDCD6IP), a BRO1
+   homolog. Human PDCD6IP is also required for HIV budding.
+ - Mammalian  tyrosine-protein  phosphatase  non-receptor  type  23  (PTPN23).
+ - Vertebrate rhophilin, a GTP-Rho binding protein.
+ - Fungal  pH-response  regulator  proteins  RIM20/palA  and  palC,  which are
+   required  for the proteolytic activation of the transcription factor RIM101
+   in response to alkaline ambient pH [3].
+ - Caenorhabditis   elegans  apoptosis-linked  gene  2-interacting protein X 1
+   (alx-1),  a  BRO1 homolog, involved in post-internalization trafficking and
+   degradation.
+
+The  profile  we developed covers the entire BRO1 domain and has been manually
+adapted to detect the less conserved C-terminal parts.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2006 / First entry.
+
+[ 1] Kim J., Sitaraman S., Hierro A., Beach B.M., Odorizzi G., Hurley J.H.
+     "Structural basis for endosomal targeting by the Bro1 domain."
+     Dev. Cell 8:937-947(2005).
+     PubMed=15935782; DOI=10.1016/j.devcel.2005.04.001
+[ 2] Peck J.W., Bowden E.T., Burbelo P.D.
+     "Structure and function of human Vps20 and Snf7 proteins."
+     Biochem. J. 377:693-700(2004).
+     PubMed=14583093; DOI=10.1042/BJ20031347
+[ 3] Tilburn J., Sanchez-Ferrero J.C., Reoyo E., Arst H.N. Jr.,
+     Penalva M.A.
+     "Mutational analysis of the pH signal transduction component PalC of
+     Aspergillus nidulans supports distant similarity to BRO1 domain family
+     members."
+     Genetics 171:393-401(2005).
+     PubMed=15944343; DOI=10.1534/genetics.105.044644
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

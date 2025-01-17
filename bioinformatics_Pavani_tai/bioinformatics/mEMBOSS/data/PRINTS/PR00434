@@ -1,0 +1,28 @@
+INTERLEUKIN6
+Interleukin-6 (IL6), also refered to as B-cell differentiation factor-2
+(BSF-2) and interferon beta-2, is a cytokine involved in a wide variety of
+biological functions [1]: it induces the final maturation of B-cells into
+immunoglobulin-producing cells [1]; and it induces nerve cell
+differentiation, and myeloma and plasmacytoma growth [1,2].
+
+IL6 has a compact, globular fold (similar to other cytokines), stablised by
+2 disulphide bonds [3]. One half of the structure is dominated by a 4 alpha-
+helix bundle with a left-handed twist [4]; the helices are anti-parallel,
+with 2 overhand connections, which fall into a 2-stranded anti-parallel beta-
+sheet. The fourth alpha-helix is important to the biological activity of 
+the molecule [2].
+
+INTERLEUKIN6 is a 4-element fingerprint that provides a signature for the
+interleukin-6 cytokines. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 encodes the first
+alpha helix; motif 2 encodes part of the first beta strand; motif 3 spans
+part of the first beta strand and the second helix, and corresponds to
+the region encoded by PROSITE pattern INTERLEUKIN_6 (PS00254), the 2 Cys
+residues of which form a disulphide bond; and motif 4 spans the fourth
+helix. Two iterations on OWL26.3 were required to reach convergence, at
+which point a true set comprising 14 sequences was identified. A single
+partial match (MGF_CHICK) was also found, a myelomonocytic growth factor
+that matches motifs 3 and 4.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

@@ -1,0 +1,47 @@
+**********************
+* ABL domain profile *
+**********************
+
+The Rcs  signaling  pathway controls a variety of physiological functions like
+capsule synthesis,   cell   division  or  motility  in  prokaryotes.  The  Rcs
+regulatory pathway  is  a  complex modification of the standard bacterial two-
+component signaling  systems.  The  Rcs regulatory cascade, involving a multi-
+step phosphorelay  between  the  two membrane bound hybrid sensor kinases RcsC
+and RcsD  and  the  global  regulator  RcsB,  is,  up  to now, one of the most
+complicated regulatory  systems  in bacteria. This signal transfer is mediated
+by a   RcsC/RcsD/RcsB  phosphorelay  cascade  involving  conserved  integrated
+phosphate shuttle domains [1].
+
+The ABL  (Alpha/Beta/Loop) domain is found between the histidine kinase domain
+(see <PDOC50109>)  and the response regulatory domain (see <PDOC50110>) of all
+RcsC sequences  of all enterobacteria sequenced so far. The central element of
+the ABL  domain  structure  is  a  five-stranded  parallel  beta-sheet. Packed
+against one  side  of  this  sheet  are  two alpha helices while the remaining
+connection between the individual beta-strands is provided by three loops, all
+located on  the  opposite  side  of  the beta-sheet (see <PDB:2AYY>). It shows
+a structural  similarity  to  the  response  regulatory  domain and contains a
+conserved aspartate  residue in a location that corresponds to the active site
+in the  response  regulatory domain. However the ABL domain does not appear to
+play a direct role in the phosphoryl transfer [1].
+
+The profile we developed covers the entire ABL domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2009 / First entry.
+
+[ 1] Rogov V.V., Rogova N.Y., Bernhard F., Koglin A., Lohr F., Dotsch V.
+     "A new structural domain in the Escherichia coli RcsC hybrid sensor
+     kinase connects histidine kinase and phosphoreceiver domains."
+     J. Mol. Biol. 364:68-79(2006).
+     PubMed=17005198; DOI=10.1016/j.jmb.2006.07.052
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

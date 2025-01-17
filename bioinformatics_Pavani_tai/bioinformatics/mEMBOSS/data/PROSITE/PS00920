@@ -1,0 +1,60 @@
+*********************************************
+* Nitrilases / cyanide hydratase signatures *
+*********************************************
+
+Nitrilases  (EC 3.5.5.1)   are   enzymes  that  convert  nitriles  into  their
+corresponding acids and ammonia. They are widespread in microbes as well as in
+plants where    they    convert indole-3-acetonitrile to the hormone indole-3-
+acetic acid.  A  conserved   cysteine has been shown [1,2] to be essential for
+enzyme activity;  it  seems  to  be  involved  in a nucleophilic attack on the
+nitrile carbon atom.
+
+Cyanide hydratase (EC  4.2.1.66) converts HCN to formamide. In phytopathogenic
+fungi, it  is  used  to  avoid the toxic effect of cyanide released by wounded
+plants [3].  The sequence of cyanide hydrolase is evolutionary related to that
+of nitrilases.
+
+Yeast hypothetical proteins YIL164c and YIL165c also belong to this family.
+
+As signature  patterns for  these  enzymes, we selected two conserved regions.
+The first  is  located  in  the  N-terminal  section  while  the second, which
+contains the active site cysteine, is located in the central section.
+
+-Consensus pattern: G-x(2)-[LIVMFY](2)-x-[IF]-x-E-x(2)-[LIVM]-x-G-Y-P
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-[GAQ]-x(2)-C-[WA]-E-[NH]-x(2)-[PST]-[LIVMFYS]-x-[KR]
+                    [C is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 1995 / Patterns and text revised.
+
+[ 1] Kobayashi M., Izui H., Nagasawa T., Yamada H.
+     "Nitrilase in biosynthesis of the plant hormone indole-3-acetic acid
+     from indole-3-acetonitrile: cloning of the Alcaligenes gene and
+     site-directed mutagenesis of cysteine residues."
+     Proc. Natl. Acad. Sci. U.S.A. 90:247-251(1993).
+     PubMed=8419930
+[ 2] Kobayashi M., Komeda H., Yanaka N., Nagasawa T., Yamada H.
+     "Nitrilase from Rhodococcus rhodochrous J1. Sequencing and
+     overexpression of the gene and identification of an essential cysteine
+     residue."
+     J. Biol. Chem. 267:20746-20751(1992).
+     PubMed=1400390
+[ 3] Wang P., VanEtten H.D.
+     "Cloning and properties of a cyanide hydratase gene from the
+     phytopathogenic fungus Gloeocercospora sorghi."
+     Biochem. Biophys. Res. Commun. 187:1048-1054(1992).
+     PubMed=1382413
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

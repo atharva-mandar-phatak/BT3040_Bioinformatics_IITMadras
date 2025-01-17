@@ -1,0 +1,44 @@
+***********************************
+* Ribosomal protein S4e signature *
+***********************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Mammalian S4 [1].  Two  highly similar isoforms of this protein exist : one
+   coded by a gene on chromosome Y, and the other on chromosome X.
+ - Plant cytoplasmic S4 [2]
+ - Yeast S7 (YS6).
+ - Archebacterial S4e.
+
+These proteins  have  233  to  264  amino  acids.  As  a signature pattern, we
+selected a  highly  conserved  stretch  of  15  residues  in  their N-terminal
+section. Four positions in this region are positively charged residues.
+
+-Consensus pattern: H-x-K-R-[LIVMF]-[SANK]-x-P-x(2)-[WY]-x-[LIVM]-x-[KRP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Fisher E.M., Beer-Romero P., Brown L.G., Ridley A., McNeil J.A.,
+     Lawrence J.B., Willard H.F., Bieber F.R., Page D.C.
+     "Homologous ribosomal protein genes on the human X and Y chromosomes:
+     escape from X inactivation and possible implications for Turner
+     syndrome."
+     Cell 63:1205-1218(1990).
+     PubMed=2124517
+[ 2] Braun H.P., Emmermann M., Mentzel H., Schmitz U.K.
+     "Primary structure and expression of a gene encoding the cytosolic
+     ribosomal protein S4 from potato."
+     Biochim. Biophys. Acta 1218:435-438(1994).
+     PubMed=8049269
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

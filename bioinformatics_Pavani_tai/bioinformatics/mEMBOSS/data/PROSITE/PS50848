@@ -1,0 +1,75 @@
+************************
+* START domain profile *
+************************
+
+The StAR-related  lipid-transfer  (START)  domain  is an about 200-210 residue
+lipid-binding motif,  which  is  primarily  involved  in  eukaryotic signaling
+mediated by  lipid  binding.  Representatives  of the START domain family have
+been shown  to  bind  different  ligands  such  as  sterols (StAR protein) and
+phosphatidylcholine (PC-TP).  Ligand  binding  by  the  START  domain can also
+regulate the  activities  of other domains that co-occur with the START domain
+in multidomain  proteins  such  as Rho-GAP, the homeodomain (see <PDOC00027>),
+and the thioesterase domain [1,2].
+
+The crystal structure of START domain of human MLN64 (see <PDB:1EM2>) shows an
+alpha/beta fold   built   around  an  U-shaped  incomplete  beta-barrel.  Most
+importantly, the  interior of the protein encompasses a 26 x 12 x 11 Angstroms
+hydrophobic tunnel   that   is  apparently  large  enough  to  bind  a  single
+cholesterol molecule  [3,4]. The START domain structure revealed an unexpected
+similarity to  that  of  the  birch  pollen  allergen Bet v 1 and to bacterial
+polyketide cyclases/aromatases [2,3].
+
+Some proteins known to contain a START domain are listed below:
+
+ - Mammalian  steroidogenic  acute regulatory protein (StAR) orthologues. StAR
+   can somehow   mediate  cholesterol  transfer  to  the  inner  mitochondrial
+   membrane. In  human,  mutations  in  the  gene  that  encodes  StAR  causes
+   congenital adrenal hyperplasia (lipoid CAH).
+ - Mammalian phosphatidylcholine transfer protein (PC-TP).
+ - Mammalian RHOA-specific GTPase-activating protein (RhoGAP).
+ - Mammalian Goodpasture antigen binding protein.
+ - Vertebrate acyl-CoA thioesterase.
+ - Plant proteins from the Glabra2 (Gla2) family. The Gla2 homeodomain protein
+   is involved in regulating trichome morphogenesis and root-hair development.
+ - Dictyostelium  discoideum  CheaterA  (ChtA)  protein. Mutations in the gene
+   that encodes  ChtA  induce the preferential formation of spores rather than
+   stalk.
+ - Pseudomonas aeruginosa hypothetical protein PA1579. This protein is closely
+   related to  the  animal  PC-binding  proteins,  which  suggests  horizontal
+   acquisition from  animals.  It  seems  likely that the START domain of this
+   protein plays a role in the interaction of the bacterium with animal cells.
+
+The profile we developed covers the entire START domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Ponting C.P., Aravind L.
+     "START: a lipid-binding domain in StAR, HD-ZIP and signalling
+     proteins."
+     Trends Biochem. Sci. 24:130-132(1999).
+     PubMed=10322415
+[ 2] Iyer L.M., Koonin E.V., Aravind L.
+     "Adaptations of the helix-grip fold for ligand binding and catalysis
+     in the START domain superfamily."
+     Proteins 43:134-144(2001).
+     PubMed=11276083
+[ 3] Tsujishita Y., Hurley J.H.
+     "Structure and lipid transport mechanism of a StAR-related domain."
+     Nat. Struct. Biol. 7:408-414(2000).
+     PubMed=10802740; DOI=10.1038/75192
+[ 4] Stocco D.M.
+     "StARTing to understand cholesterol transfer."
+     Nat. Struct. Biol. 7:445-447(2000).
+     PubMed=10881186; DOI=10.1038/75834
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

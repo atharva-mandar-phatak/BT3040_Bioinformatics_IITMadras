@@ -1,0 +1,26 @@
+ATPASEC
+ATP synthase (proton-translocating ATPase) is a component of the cyto-
+plasmic membrane of eubacteria, the inner membrane of mitochondria, and
+the thylakoid membrane of chloroplasts [1,2]. The ATPase complex contains
+an oligomeric transmembrane portion (CF0), which acts as a proton channel,
+and a catalytic core (coupling factor CF1).
+
+The c-subunit of CF0 is a hydrophobic protein that has been implicated
+in the ATPase proton-conducting activity. It contains N- and C-terminal
+hydrophobic regions (presumed to be membrane spanning), linked by a
+central hydrophilic domain. N,N'-dicyclohexylcarbodiimide (DCCD) can
+bind covalently to a Glu or Asp residue near the centre of the C-terminal
+TM region, abolishing ATPase activity.
+
+ATPASEC is a 3-element fingerprint that provides a signature for ATP
+synthase c-subunits. The fingerprint was derived from an initial alignment
+of 9 sequences: the motifs were drawn from the transmembrane and loop
+regions, motifs 2 and 3 spanning the region encoded by PROSITE pattern
+ATPASE_C (PS00605), which includes the DCCD-binding acidic residue. Two
+iterations on OWL24.0 were required to reach convergence, at which point a
+true set comprising 65 sequences was identified. Five partial matches were
+also found, each of which fails to make a significant match with one of the
+motifs - ATPL_VIBAL matches well only with motif 2.  
+
+An update on SPTR37_9f identified a true set of 102 sequences, and 11
+partial matches.

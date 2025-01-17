@@ -1,0 +1,51 @@
+MCMPROTEIN2
+Mini-chromosome maintenance (MCM) proteins are a family of eukaryotic
+replication factors required for the initiation of DNA replication. All
+eukaryotes contain six orthologous MCM proteins, designated MCM2-7. Studies 
+in Xenopus eggs have showed them to form hexamers, where each class is
+present in equal stoichiometry [1]. The initiation of DNA synthesis in
+eukaryotes requires the binding of origin recognition complex (ORC) - a
+complex of six subunits - to the autonomously replicating sequences (ARS)
+of replication origins [2], the recruitment of CDC6 and binding of the MCM
+protein complex to the ARS to form the prereplicative complex (pre-RC) [3].
+DNA synthesis is subsequently initiated by the activation of pre-RC by CDC7
+and CDC28 protein kinases [4].
+
+MCM proteins associate with chromatin during G1 phase and dissociate again
+during S phase, remaining unbound until the end of mitosis [5]. Periodic
+chromatin association of the MCM complex ensures that DNA synthesis from 
+replication origins is initiated only once during the cell cycle, avoiding
+over-replication of parts of the genome. Elongation of replication forks 
+away from individual replication origins results in displacement of the
+MCM-containing complex from chromatin. Budding yeast MCM proteins are
+translocated in and out of the nucleus during each cell cycle. However,
+fission yeast MCMs, like those in metazoans, are constitutively nuclear.
+
+The six classes of MCM protein together share a conserved 200 amino acid 
+residue domain, while sequences within the same class show more extensive
+similarity outside this region. The conserved central domain is similar to
+the A motif of the Walker-type NTP-binding domain; it also shares similarity
+with ATPase domains of prokaryotic NtrC-related transcription regulators.
+The ATP-binding motif is thought to mediate ATP-dependent opening of double-
+stranded DNA at replication origins. In addition to the central region, MCM2,
+4, 6 and 7 contain a zinc-finger-type motif thought to have a role in
+mediating protein-protein interactions [6]. Moreover, a conserved alpha-
+helical structure in the C-terminal region has been noted; this comprises a
+conserved heptad repeat and a putative four-helix bundle. Most of the MCM
+proteins contain acidic regions, or alternately repeated clusters of acidic
+and basic residues.
+
+In addition to its role in initiation of DNA replication, MCM2 is able to
+inhibit the MCM4,6,7 helicase. Studies on murine MCM2 indicate that its
+C-terminus is required for interaction with MCM4, as well as for inhibition
+of the DNA helicase activity of the MCM4,6,7 complex. The N-terminal region,
+which contains an H3-binding domain and a region required for nuclear
+localisation, is required for the phosphorylation by CDC7 kinase [7].
+
+MCMPROTEIN2 is a 5-element fingerprint that provides a signature for the 
+mini-chromosome maintenance (MCM) protein 2. The fingerprint was derived
+from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the full alignment length, focusing on those 
+sections that characterise the MCM2 proteins but distinguish them from the 
+rest of the MCM family. Two iterations on SPTR40_18f were required to reach
+convergence, at which point a true set comprising 14 sequences was identified.

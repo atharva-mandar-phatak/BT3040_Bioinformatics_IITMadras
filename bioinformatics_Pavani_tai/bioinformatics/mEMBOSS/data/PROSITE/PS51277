@@ -1,0 +1,70 @@
+***********************
+* BURP domain profile *
+***********************
+
+The BURP  domain  is  a ~230-residue module, which has been named for the four
+members of the group initially identified, BNM2, USP, RD22, and PG1beta. It is
+found in  the  C-terminal  part of a number of plant cell wall proteins, which
+are defined not only by the BURP domain, but also by the overall similarity in
+their modular  construction. The BURP domain proteins consists of either three
+or four  modules: (i) an N-terminal hydrophobic domain - a presumptive transit
+peptide, joined  to  (ii)  a  short  conserved segment or other short segment,
+(iii) an optional segment consisting of repeated units which is unique to each
+member, and (iv) the C-terminal BURP domain. Although the BURP domain proteins
+share primary   structural   features,   their  expression  patterns  and  the
+conditions under  which  they  are  expressed  differ.  The  presence  of  the
+conserved BURP  domain  in  diverse  plant  proteins suggests an important and
+fundamental functional  role for this domain [1]. It is possible that the BURP
+domain represents a general motif for localization of proteins within the cell
+wall matrix.  The  other  structural  domains  associated with the BURP domain
+may specify other target sites for intermolecular interactions [2].
+
+Some proteins known to contain a BURP domain are listed below [1-3]:
+
+ - Brassica  napus BNM2, which is expressed during the induction of microspore
+   embryogenesis.
+ - Field bean USPs, abundant non-storage seed proteins with unknown function.
+ - Soybean  USP-like  proteins  ADR6  (or  SALI5-4A),  an  auxin -repressible,
+   aluminium-inducible protein  and SALI3-2, a protein that is up-regulated by
+   aluminium.
+ - Soybean seed coat BURP-domain protein 1 (SCB1). It might play a role in the
+   differenciation of the seed coat parenchyma cells.
+ - Arabidopsis thaliana RD22 drought induced protein.
+ - Maize ZRP2, a protein of unknown function in cortex parenchyma.
+ - Tomato  PG1beta,  the  beta-subunit  of  polygalacturonase isozyme 1 (PG1),
+   which is expressed in ripening fruits.
+ - Cereal  RAFTIN.  It  is  essential specifically for the maturation phase of
+   pollen development.
+
+The profile we developed covers the entire BURP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 2006 / First entry.
+
+[ 1] Hattori J., Boutilier K.A., van Lookeren Campagne M.M., Miki B.L.A.
+     "A conserved BURP domain defines a novel group of plant proteins with
+     unusual primary structures."
+     Mol. Gen. Genet. 259:424-428(1998).
+     PubMed=9790599
+[ 2] Batchelor A.K., Boutilier K.A., Miller S.S., Hattori J., Bowman L.A.,
+     Hu M., Lantin S., Johnson D.A., Miki B.L.A.
+     "SCB1, a BURP-domain protein gene, from developing soybean seed
+     coats."
+     Planta 215:523-532(2002).
+     PubMed=12172833; DOI=10.1007/s00425-002-0798-1
+[ 3] Wang A., Xia Q., Xie W., Datla R., Selvaraj G.
+     "The classical Ubisch bodies carry a sporophytically produced
+     structural protein (RAFTIN) that is essential for pollen development."
+     Proc. Natl. Acad. Sci. U.S.A. 100:14487-14492(2003).
+     PubMed=14612572; DOI=10.1073/pnas.2231254100
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

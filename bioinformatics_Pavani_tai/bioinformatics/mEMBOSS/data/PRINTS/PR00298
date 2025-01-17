@@ -1,0 +1,54 @@
+CHAPERONIN60
+The assembly of proteins has been thought to be the sole result of 
+properties inherent in the primary sequence of polypeptides themselves. 
+In some cases, however, structural information from other protein molecules
+is required for correct folding and subsequent assembly into oligomers [1].
+These 'helper' molecules are referred to as molecular chaperones, a 
+subfamily of which are the chaperonins [2], which include 10kDa and 60kDa
+proteins. These are required for normal cell growth (as demonstrated 
+by the fact that no temperature sensitive mutants for the chaperonin genes 
+can be found in the temperature range 20 to 43 degrees centigrade [1]), 
+and are stress-induced, acting to stabilise or protect disassembled 
+polypeptides under heat-shock conditions [2].
+
+The 10kDa chaperonin (cpn10 - or groES in bacteria) exists as a ring-
+shaped oligomer of between 6 to 8 identical subunits, whereas the 60kDa 
+chaperonin (cpn60 - or groEL in bacteria) forms a structure comprising 2 
+stacked rings, each ring containing 7 identical subunits [1]. These ring 
+structures assemble by self-stimulation in the presence of Mg2+-ATP. The 
+cpn10 and cpn60 oligomers also require Mg2+-ATP in order to interact to 
+form a functional complex, although the mechanism of this interaction is 
+as yet unknown [3]. This chaperonin complex is essential for the correct 
+folding and assembly of polypeptides into oligomeric structures, of which 
+the chaperonins themselves are not a part [2]. The binding of cpn10 to 
+cpn60 inhibits the weak ATPase activity of cpn60.
+
+The 60kDa form of chaperonin is the immunodominant antigen of patients
+with Legionnaire's disease [4], and is thought to play a role in the
+protection of the legionella bacteria from oxygen radicals within macro-
+phages. This hypothesis is based on the finding that the cpn60 gene is
+upregulated in response to hydrogen peroxide, a source of oxygen radicals.
+Cpn60 has also been found to display strong antigenicity in many bacterial
+species [5], and has the potential for inducing immune protection against
+unrelated bacterial infections. The RuBisCO subunit binding protein (which
+has been implicated in the assembly of RuBisCO) and cpn60 have been found 
+to be evolutionary homologues, the RuBisCO subunit binding protein having
+the C-terminal Gly-Gly-Met repeat found in all bacterial cpn60 sequences.
+Although the precise function of this repeat is unknown, it is thought to 
+be important as it is also found in 70kDa heat-shock proteins [4]. The
+crystal structure of E.coli GroEL has been resolved to 2.8A [6].
+
+CHAPERONIN60 is a 5-element fingerprint that provides a signature for the
+60kDa chaperonins. The fingerprint was derived from an initial alignment
+of 10 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length, motif 5 including the C-terminal region
+encoded by PROSITE pattern CHAPERONINS_CPN60 (PS00296), and motif 2
+containing a highly-conserved Asp residue (Asp-87 in E.coli GroEL) that is
+essential for ATP hydrolysis and polypeptide release [7]. Two iterations on
+OWL19.0 were required to reach convergence, at which point a true set
+comprising 51 sequences was identified. Several partial matches were also
+found: these include a cpn60 fragment; a RuBisCO binding protein fragment;
+and a subfamily of 9 TCP-1 chaperonins [8], which match just 2 motifs.
+
+An update on SPTR37_9f identified a true set of 142 sequences, and 24
+partial matches.

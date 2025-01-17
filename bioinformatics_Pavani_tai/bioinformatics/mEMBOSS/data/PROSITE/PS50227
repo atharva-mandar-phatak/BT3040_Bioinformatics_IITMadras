@@ -1,0 +1,105 @@
+****************************************************************
+* G-protein coupled receptors family 2 signatures and profiles *
+****************************************************************
+
+A number  of  peptide hormones bind to G-protein coupled receptors that, while
+structurally similar  to  family  1  of G-protein coupled receptors (R7G) (see
+<PDOC00210>), do  not show any similarity at the level of their sequence, thus
+representing a new family whose current known members [1,2] are listed below:
+
+ - Calcitonin receptor.
+ - Calcitonin gene-related peptide receptor.
+ - Corticotropin releasing factor receptor types 1 and 2.
+ - Gastric inhibitory polypeptide receptor.
+ - Glucagon receptor.
+ - Glucagon-like peptide 1 receptor.
+ - Growth hormone-releasing hormone receptor.
+ - Parathyroid hormone / parathyroid hormone-related peptide types 1 and 2.
+ - Pituitary adenylate cyclase activating polypeptide receptor.
+ - Secretin receptor.
+ - Vasoactive intestinal peptide receptor types 1 and 2.
+ - Insects diuretic hormone receptor.
+
+In addition to the above characterized receptors, this family also includes:
+
+ - Caenorhabditis elegans putative receptor C13B9.4.
+ - Caenorhabditis elegans putative receptor ZK643.3.
+
+ - Leucocyte antigen CD97, a protein that contains, in its N-terminal section,
+   3 EGF-like domains (see <PDOC00021>).
+ - Cell  surface glycoprotein EMR1, a protein that contains, in its N-terminal
+   section, 6 to 7 EGF-like domains (see <PDOC00021>).
+
+All the  characterized receptors are coupled to G-proteins which activate both
+adenylyl cyclase and the phosphatidylinositol-calcium pathway.
+
+Like family  1  R7G  they  seem  to contain seven transmembrane regions. Their
+N-terminus is probably located on the extracellular side of the  membrane  and
+potentially glycosylated, while their C-terminus is probably cytoplasmic.
+
+Every receptor  gene  in this family is encoded on multiple exons, and several
+of these  genes  are  alternatively  spliced  to  yield  functionally distinct
+products.
+
+Family two  G  protein  coupled  receptors  contain a long conserved region in
+their N  terminal extracellular part which allow the binding of large peptidic
+ligand such  as  glucagon,  secretin,  VIP and PACAP [3]. This region contains
+five conserved  cysteines residues which could be involved in disulfide bonds;
+we have  developed  a  pattern  in  the  region  that  spans  the  first three
+cysteines. We  also  developed  a  profile that covers the whole extracellular
+domain.
+
+One of the most highly conserved regions spans the C-terminal part of the last
+transmembrane  region and the  beginning of the adjacent intracellular region.
+We  have  used  this region as a second signature pattern. We also developed a
+profile that spans the seven transmembrane regions.
+
+-Consensus pattern: C-x(3)-[FYWLIV]-D-x(3,4)-C-[FW]-x(2)-[STAGV]-x(8,9)-C-[PF]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the  CD97/EMR1 subfamily members whose N-terminal region does not contain
+ this domain.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [QL]-G-[LMFCAV]-[LIVMFTA]-[LIV]-x-[LIVFSTM]-[LIFHV]-
+                    [VFYHLG]-C-[LFYAVI]-x-[NKRQDS]-x(2)-[VAI]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the first profile:   ALL,
+ except for  the  CD97/EMR1 subfamily members whose N-terminal region does not
+ contain this domain.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Kolakowski L.F. Jr.; kolakowski@uthsca.edu
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Jueppner H., Abou-Samra A.-B., Freeman M., Kong X.-F., Schipani E.,
+     Richards J., Kolakowski L.F. Jr., Hock J., Potts J.T. Jr.,
+     Kronenberg H.M., Segre G.V.
+     Science 254:1024-1026(1991).
+[ 2] Hamann J., Hartmann E., van Lier R.A.W.
+     "Structure of the human CD97 gene: exon shuffling has generated a new
+     type of seven-span transmembrane molecule related to the secretin
+     receptor superfamily."
+     Genomics 32:144-147(1996).
+     PubMed=8786105
+[ 3] Bockaert J., Pin J.P.
+     "Molecular tinkering of G protein-coupled receptors: an evolutionary
+     success."
+     EMBO J. 18:1723-1729(1999).
+     PubMed=10202136; DOI=10.1093/emboj/18.7.1723
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

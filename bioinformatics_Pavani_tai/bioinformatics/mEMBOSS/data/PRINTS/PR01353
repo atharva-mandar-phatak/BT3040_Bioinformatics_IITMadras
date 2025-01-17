@@ -1,0 +1,57 @@
+GLUCAGNFAMLY
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The secretin-like GPCRs include secretin [2], calcitonin [3], parathyroid
+hormone/parathyroid hormone-related peptides [4] and vasoactive intestinal
+peptide [5], all of which activate adenylyl cyclase and the phosphatidyl-
+inositol-calcium pathway. The amino acid sequences of the receptors contain
+high proportions of hydrophobic residues grouped into 7 domains, in a
+manner reminiscent of the rhodopsins and other receptors believed to inter-
+act with G proteins. However, while a similar 3D framework has been
+proposed to account for this, there is no significant sequence similarity
+between these families: the secretin-like receptors thus bear their own
+unique '7TM' signature.
+
+The glucagon receptor (GR) plays a central role in regulating the level of
+blood glucose by controlling the rate of hepatic glucose production and 
+insulin secretion [6]. GR is expressed predominantly in liver, kidney, 
+adrenal, lung and stomach, with lower levels of expression detected in
+brown and white adipose tissue, cerebellum, duodenum and heart [6]. Their
+role in the control of blood glucose concentrations makes glucagon and GR
+especially important to studies of diabetes, in which the loss of control
+over blood glucose concentrations clinically defines the disease [7]. GR is
+similar to the secretin-like receptor superfamily. It can transduce signals
+leading to the accumulation of two different second messengers - i.e., both
+cAMP and calcium [7]. 
+
+Glucagon-like peptide-1 (GLP-1), which is encoded by the glucagon gene and
+released from the gut in response to nutrients, is a potent stimulator of
+glucose-induced insulin secretion and proinsulin gene expression of
+pancreatic beta-cells [8,9]. In humans, GLP-I exerts its physiological
+effect as an incretin. Patients with insulinoma tumors show uncontrolled 
+insulin hypersecretion [8]. The GLP-I receptor binds GLP-1 with high 
+affinity and couples to activation of adenylate cyclase [10]. The receptor
+specifically binds GLP-1 and not peptides of related structure and function,
+such as glucagon, gastric inhibitory peptide, VIP or secretin [10]. It is
+thought that GLP-I might have effects beyond the pancreas, including the 
+cardiovascular and central nervous systems, where a receptor with the same
+ligand-binding specificity is found [9].  
+
+GLUCAGNFAMLY is a 4-element fingerprint that provides a signature for the
+glucagon family of secretin-like GPCRs. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the glucagon receptor family but distinguish
+them from the rest of the secretin-like GPCR superfamily - motifs 1-3 span
+the N-terminal putative extracellular domain; and motif 4 spans the third
+extracellular loop. A single iteration on SPTR37_10f was required to reach
+convergence, no further sequences being identified beyond the starting set.

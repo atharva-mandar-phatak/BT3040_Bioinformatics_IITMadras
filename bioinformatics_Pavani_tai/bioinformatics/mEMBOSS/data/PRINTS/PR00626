@@ -1,0 +1,28 @@
+CALRETICULIN
+Calreticulin is a high-capacity calcium-binding protein found in most
+tissues [1]. It is located at the periphery of the endoplasmic and 
+sarcoplamic reticulum membranes, where it is thought to play a role in
+lumenal calcium storage. The protein contains ~400 amino acid residues,
+distributed between 3 domains: an N-terminal, possibly globular, 180-
+residue 'N-domain'; a central ~70-residue 'P-domain', containing 3 repeats
+of a 17-residue acidic motif that binds calcium with a low-capacity but
+high-affinity; and a C-terminal 'C-domain' (rich in both acidic residues
+and lysine) that binds calcium with a high-capacity but low-affinity.
+
+Calreticulin is evolutionarily related to several other calcium-binding 
+proteins, including Onchocerca volvulus antigen RAL-1, calnexin [2] and
+calmegin [3].
+
+CALRETICULIN is a 6-element fingerprint that provides a signature for the
+calreticulins. The fingerprint was derived from an initial alignment of
+8 sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length - motifs 1 and 2 lie in the N-domain
+and include the regions encoded by PROSITE patterns CALRETICULIN_1 (PS00803)
+and CALRETICULIN_2 (PS00804); motifs 3 and 4 lie in the P-domain, and
+include the repeat region encoded by PROSITE pattern CALRETICULIN_3
+(PS00805); and motif 5 lies at the end of this region, just prior to the
+C-domain. Two iterations on OWL29.0 were required to reach convergence,
+at which point a true set comprising 43 sequences was identified. Several
+partial matches were also found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 43 sequences.

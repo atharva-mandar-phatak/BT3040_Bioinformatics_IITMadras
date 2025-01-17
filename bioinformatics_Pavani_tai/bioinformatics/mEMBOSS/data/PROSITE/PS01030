@@ -1,0 +1,52 @@
+************************************************
+* RNA polymerases M / 15 Kd subunits signature *
+************************************************
+
+In eukaryotes,   there   are   three  different  forms  of  DNA-dependent  RNA
+polymerases (EC 2.7.7.6)  transcribing  different sets of genes. Each class of
+RNA polymerase  is  an assemblage of ten to twelve different polypeptides.  In
+archaebacteria, there  is generally a single form of RNA polymerase which also
+consist of an oligomeric assemblage of 10 to 13 polypeptides.
+
+It has  recently been shown [1,2] that small subunits of about 15 Kd, found in
+polymerase types  I  and II, are highly conserved. Subunits known to belong to
+this family are:
+
+ - Yeast RPA12 subunit from RNA polymerases I.
+ - Yeast RPB9 subunit from RNA polymerase II.
+ - Yeast RPC11 subunit from RNA polymerase III.
+ - Mammalian RPB14.5 (gene POLR2I) from RNA polymerase II.
+ - Drosophila RpII15 from RNA polymerase II.
+ - Archebacterial RNA polymerase subunit M (gene rpoM).
+
+These proteins  contain  a probable zinc finger in their N-terminal region and
+a C-terminal  zinc ribbon domain (see <PDOC00383>). As a signature pattern for
+these subunits, we selected the region that contains the zinc finger.
+
+-Consensus pattern: [FY]-C-x-[DEKSTG]-C-[GNK]-[DNSA]-[LIVMHG]-[LIVM]-x(8,14)-
+                    C-x(1,2)-C
+                    [The four C's are putative zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Acker J., Wintzerith M., Vigneron M., Kedinger C.
+     "Structure of the gene encoding the 14.5 kDa subunit of human RNA
+     polymerase II."
+     Nucleic Acids Res. 21:5345-5350(1993).
+     PubMed=8265347
+[ 2] Nogi Y., Yano R., Dodd J., Carles C., Nomura M.
+     "Gene RRN4 in Saccharomyces cerevisiae encodes the A12.2 subunit of
+     RNA polymerase I and is essential only at high temperatures."
+     Mol. Cell. Biol. 13:114-122(1993).
+     PubMed=8417319
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

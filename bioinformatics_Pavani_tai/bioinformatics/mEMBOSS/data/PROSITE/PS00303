@@ -1,0 +1,94 @@
+******************************************************
+* S-100/ICaBP type calcium binding protein signature *
+******************************************************
+
+S-100 are small dimeric acidic calcium and zinc-binding  proteins [1] abundant
+in the  brain.   They have two different types of calcium-binding sites: a low
+affinity one  with  a  special  structure  and  a  'normal'  EF-hand type high
+affinity site. The vitamin-D  dependent  intestinal  calcium-binding  proteins
+(ICaBP or calbindin 9 Kd) also belong to this family  of proteins, but it does
+not form  dimers.  In the past years the sequences of many new members of this
+family have  been  determined  (for  reviews  see  [2,3,4]); in most cases the
+function of  these  proteins  is  not yet known, although it is becoming clear
+that they  are  involved  in  cell  growth  and  differentiation,  cell  cycle
+regulation and metabolic control. These proteins are:
+
+ - Calcyclin  (Prolactin  receptor  associated  protein (PRA); clatropin; 2a9;
+   5B10; S100A6).
+ - Calpactin I light chain (p10; p11; 42c; S100A10).
+ - Calgranulin A (cystic fibrosis antigen (CFAg);  MIF related protein 8 (MRP-
+   8); p8; S100A8).
+ - Calgranulin B (MIF related protein 14 (MRP-14); p14; S100A9).
+ - Calgranulin C.
+ - Calgizzarin (S100C).
+ - Placental  calcium-binding  protein  (CAPL)  (18a2;  peL98; 42a; p9K; MTS1;
+   metastatin; S100A4).
+ - Protein S-100D (S100A5).
+ - Protein S-100E (S100A3).
+ - Protein S-100L (CAN19; S100A2).
+ - Placental protein S-100P (S100E).
+ - Psoriasin (S100A7).
+ - Chemotactic cytokine CP-10 [5].
+ - Protein MRP-126 [6].
+ - Trichohyalin  [7]. This is a large intermediate filament-associated protein
+   that associates with keratin intermediate filaments (KIF); it contains a S-
+   100 type domain in its N-terminal extremity.
+
+A number of these proteins are known to bind calcium while others are not (p10
+for example).  Our  EF-hand  detecting  pattern (see <PDOC00018>) will fail to
+pick those  proteins  which  have  lost  their  calcium-binding properties. We
+developed a  pattern  which  unambiguously picks up proteins belonging to this
+family. This pattern spans the region of the EF-hand high  affinity  site  but
+makes no assumptions on the calcium-binding properties of this site.
+
+-Consensus pattern: [LIVMFYW](2)-x(2)-[LKQ]-D-x(3)-[DN]-x(3)-[DNSG]-[FY]-x-
+                    [ES]-[FYVC]-x(2)-[LIVMFS]-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 5 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Cox J.A.; cox@sc2a.unige.ch
+           Kretsinger R.H.; rhk5i@virginia.edu
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Baudier J.
+     (In) Calcium and Calcium Binding proteins, Gerday C., Bollis L.,
+     Giller R., Eds., pp102-113, Springer Verlag, Berlin, (1988).
+[ 2] Moncrief N.D., Kretsinger R.H., Goodman M.
+     J. Mol. Evol. 30:522-562(1990).
+[ 3] Kligman D., Hilt D.C.
+     "The S100 protein family."
+     Trends Biochem. Sci. 13:437-443(1988).
+     PubMed=3075365
+[ 4] Schaefer B.W., Wicki R., Engelkamp D., Mattei M.-G., Heizmann C.W.
+     Genomics 25:638-643(1995).
+[ 5] Lackmann M., Cornish C.J., Simpson R.J., Moritz R.L., Geczy C.L.
+     "Purification and structural analysis of a murine chemotactic cytokine
+     (CP-10) with sequence homology to S100 proteins."
+     J. Biol. Chem. 267:7499-7504(1992).
+     PubMed=1559987
+[ 6] Nakano T., Graf T.
+     "Identification of genes differentially expressed in two types of
+     v-myb-transformed avian myelomonocytic cells."
+     Oncogene 7:527-534(1992).
+     PubMed=1549365
+[ 7] Lee S.-C., Kim I.-G., Marekov L.N., O'Keefe E.J., Parry D.A.D.,
+     Steinert P.M.
+     "The structure of human trichohyalin. Potential multiple roles as a
+     functional EF-hand-like calcium-binding protein, a cornified cell
+     envelope precursor, and an intermediate filament-associated
+     (cross-linking) protein."
+     J. Biol. Chem. 268:12164-12176(1993).
+     PubMed=7685034
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

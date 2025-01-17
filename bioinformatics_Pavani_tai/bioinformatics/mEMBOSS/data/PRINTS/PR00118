@@ -1,0 +1,29 @@
+BLACTAMASEA
+Beta-lactamase catalyses the opening and hydrolysis of the beta-lactam ring
+of beta-lactam antibiotics such as penicillins and cephalosporins [1]. There
+are four groups, classed A, B, C and D according to sequence, substrate
+specificity, and kinetic behaviour: class A (penicillinase-type) is the
+most common [1]. The genes for class A beta-lactamases are widely 
+distributed in bacteria, frequently located on transmissable plasmids in
+Gram-negative organisms, although an equivalent chromosomal gene has been 
+found in a few species [2].
+
+Class A, C and D beta-lactamases are serine-utilising hydrolases - class
+B enzymes utilise a catalytic zinc centre instead. The 3 classes of serine
+beta-lactamase are evolutionarily related and belong to a superfamily that
+also includes DD-peptidases and other penicillin-binding proteins [3]. All
+these proteins contain an S-x-x-K motif, the Ser being the active site
+residue. Although clearly related, however, the sequences of the 3 classes
+of serine beta-lactamases vary considerably outside the active site. 
+
+BLACTAMASEA is a 7-element fingerprint that provides a signature for the
+class A beta-lactamases. The fingerprint was derived from an initial
+alignment of 15 sequences: the motifs line the active site of the enzyme,
+motif 2 including the region encoded by PROSITE pattern BETA_LACTAMASE_A
+(PS00146), which contains the catalytic serine. Two iterations on OWL21.1
+were required to reach convergence, at which point a true set comprising 51
+sequences was identified. Three partial matches were also found, all of
+which are fragments.
+
+An update on SPTR37_9f identified a true set of 90 sequences, and 11
+partial matches.

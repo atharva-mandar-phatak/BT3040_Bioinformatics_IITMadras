@@ -1,0 +1,124 @@
+********************************************
+* Eukaryotic RNA recognition motif profile *
+********************************************
+
+Many eukaryotic proteins  that are known or  supposed  to bind single-stranded
+RNA contain one or more  copies of a putative  RNA-binding  domain of about 90
+amino acids [1,2]. This domain is known as the RNA recognition motif (RRM).
+
+This region has been found in the following proteins:
+
+   ** Heterogeneous nuclear ribonucleoproteins **
+ - hnRNP A1 (helix destabilizing protein) (twice).
+ - hnRNP A2/B1 (twice).
+ - hnRNP C (C1/C2) (once).
+ - hnRNP E (UP2) (at least once).
+ - hnRNP G (once).
+
+   ** Small nuclear ribonucleoproteins **
+ - U1 snRNP 70 Kd (once).
+ - U1 snRNP A  (once).
+ - U2 snRNP B'' (once).
+
+   ** Pre-RNA and mRNA associated proteins **
+ - Protein synthesis initiation factor  4B (eIF-4B) [3], a  protein  essential
+   for the binding of mRNA to ribosomes (once).
+ - Nucleolin (4 times).
+ - Yeast single-stranded nucleic acid-binding protein (gene SSB1) (once).
+ - Yeast protein NSR1 (twice). NSR1  is  involved  in  pre-rRNA processing; it
+   specifically binds nuclear localization sequences.
+ - Poly(A) binding protein (PABP) (4 times).
+
+   ** Others **
+ - Drosophila sex determination protein Sex-lethal (Sxl) (twice).
+ - Drosophila sex determination protein Transformer-2 (Tra-2) (once).
+ - Drosophila 'elav' protein (3 times), which is  probably involved in the RNA
+   metabolism of neurons.
+ - Human paraneoplastic encephalomyelitis antigen HuD (3 times) [4],  which is
+   highly similar to  elav  and  which  may play a role in neuron-specific RNA
+   processing.
+ - Drosophila 'bicoid' protein (once) [5], a segment-polarity homeobox protein
+   that may also bind to specific mRNAs.
+ - La antigen (once), a protein which  may play a role in the transcription of
+   RNA polymerase III.
+ - The 60 Kd Ro protein (once), a putative RNP complex protein.
+ - A maize protein induced by abscisic acid in response to water stress, which
+   seems to be a RNA-binding protein.
+ - Three  tobacco  proteins,  located  in  the  chloroplast  [6], which may be
+   involved in splicing and/or processing of chloroplast RNAs (twice).
+ - X16 [7], a mammalian protein  which  may  be involved in RNA processing  in
+   relation with cellular proliferation and/or maturation.
+ - Insulin-induced growth response protein Cl-4 from rat (twice).
+ - Nucleolysins  TIA-1  and  TIAR  (3  times)  [8] which possesses nucleolytic
+   activity against  cytotoxic  lymphocyte  target  cells.  may be involved in
+   apoptosis.
+ - Yeast RNA15 protein, which plays a role in mRNA stability  and/or  poly-(A)
+   tail length [9].
+
+Inside the RRM there are two regions which are highly conserved. The first one
+is a  hydrophobic  segment  of six residues (which is called the RNP-2 motif),
+the second  one is an octapeptide motif (which is called RNP-1 or RNP-CS). The
+position of  both  motifs  in  the  domain is shown in the following schematic
+representation:
+
+  xxxxxxx######xxxxxxxxxxxxxxxxxxxxxxxxxxxxx########xxxxxxxxxxxxxxxxxxxxxxxxx
+         RNP-2                              RNP-1
+
+We have developed a profile that spans the RRM domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2004 / Text revised; pattern deleted.
+
+[ 1] Bandziulis R.J., Swanson M.S., Dreyfuss G.
+     "RNA-binding proteins as developmental regulators."
+     Genes Dev. 3:431-437(1989).
+     PubMed=2470643
+[ 2] Dreyfuss G., Swanson M.S., Pinol-Roma S.
+     "Heterogeneous nuclear ribonucleoprotein particles and the pathway of
+     mRNA formation."
+     Trends Biochem. Sci. 13:86-91(1988).
+     PubMed=3072706
+[ 3] Milburn S.C., Hershey J.W.B., Davies M.V., Kelleher K., Kaufman R.J.
+     "Cloning and expression of eukaryotic initiation factor 4B cDNA:
+     sequence determination identifies a common RNA recognition motif."
+     EMBO J. 9:2783-2790(1990).
+     PubMed=2390971
+[ 4] Szabo A., Dalmau J., Manley G., Rosenfeld M., Wong E., Henson J.,
+     Posner J.B., Furneaux H.M.
+     "HuD, a paraneoplastic encephalomyelitis antigen, contains RNA-binding
+     domains and is homologous to Elav and Sex-lethal."
+     Cell 67:325-333(1991).
+     PubMed=1655278
+[ 5] Rebagliati M.
+     "An RNA recognition motif in the bicoid protein."
+     Cell 58:231-232(1989).
+     PubMed=2752425
+[ 6] Li Y.Q., Sugiura M.
+     "Three distinct ribonucleoproteins from tobacco chloroplasts: each
+     contains a unique amino terminal acidic domain and two
+     ribonucleoprotein consensus motifs."
+     EMBO J. 9:3059-3066(1990).
+     PubMed=1698606
+[ 7] Ayane M., Preuss U., Koehler G., Nielsen P.J.
+     "A differentially expressed murine RNA encoding a protein with
+     similarities to two types of nucleic acid binding motifs."
+     Nucleic Acids Res. 19:1273-1278(1991).
+     PubMed=2030943
+[ 8] Kawakami A., Tian Q., Duan X., Streuli M., Schlossman S.F., Anderson P.
+     "Identification and functional characterization of a TIA-1-related
+     nucleolysin."
+     Proc. Natl. Acad. Sci. U.S.A. 89:8681-8685(1992).
+     PubMed=1326761
+[ 9] Minvielle-Sebastia L., Winsor B., Bonneaud N., Lacroute F.
+     Mol. Cell. Biol. 11:3075-3087(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

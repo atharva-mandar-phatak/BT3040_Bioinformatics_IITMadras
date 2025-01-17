@@ -1,0 +1,23 @@
+FIBRILLARIN
+Fibrillarin is a component of a nucleolar small nuclear ribonucleoprotein
+(SnRNP), functioning in vivo in ribosomal RNA processing [1,2]: it is
+associated with U3, U8 and U13 small nuclear RNAs in mammals [1] and is
+similar to the yeast NOP1 protein [3]. Fibrillarin has a well-conserved
+sequence of around 320 amino acids, and contains 3 domains: an N-terminal
+Gly/Arg-rich region; a central domain resembling other RNA-binding
+proteins and containing an RNP-2-like consensus sequence; and a C-terminal
+alpha-helical domain. An evolutionarily related pre-rRNA processing
+protein, which lacks the Gly/Arg-rich domain, has been found in various
+archaebacteria.
+
+FIBRILLARIN is a 7-element fingerprint that provides a signature for 
+fibrillarins and fibrillarin-like proteins. The fingerprint was derived
+from an initial alignment of 6 sequences: motifs 1-6 were drawn from the
+central domain and motif 7 from the C-terminal alpha-helical region -
+motif 4 includes the RNP-2-like consensus sequence encoded by PROSITE
+pattern FIBRILLARIN (PS00566). Two iterations on OWL25.1 were required to
+reach convergence, at which point a true set comprising 10 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 14 sequences, and 1
+partial match.

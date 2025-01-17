@@ -1,0 +1,89 @@
+**********************************************
+* MerR-type HTH domain signature and profile *
+**********************************************
+
+The  merR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain  of  about  70  residues  present in the merR family of transcriptional
+regulators. The family is named after the merR regulator of mercury resistance
+operons  of  Gram-negative  bacteria  found on transposons Tn21 and Tn501 [1].
+MerR-type   regulators  are  present  in  diverse  bacterial  genera,  in  the
+cytoplasm. The helix-turn-helix DNA-binding motif is located in the N-terminal
+part  of  these  transcriptional  regulators  and is followed by a coiled-coil
+region.  The C-terminal part of merR-type regulators contains effector binding
+regions   that  are  specific  to  the  effector  recognized.  Most  merR-type
+transcriptional  regulators  respond  to  environmental  stimuli,  like  heavy
+metals,  oxidative  stress  or antibiotics and a subgroup of metalloregulators
+are bacterial transcription activators that respond to metal ions [2].
+
+Several  structures of merR-type transcriptional regulators have been resolved
+and  their  N-terminal  DNA-binding domains are ascribed to the superfamily of
+winged-helix proteins, containing a four-helix (H) bundle and a three-stranded
+antiparallel   beta-sheet  (B)  in  the  topology:  B1-H1-H2-B2-B3-H3-H4  (see
+<PDB:1JBG>)  [3].  The  helix-turn-helix  motif comprises the first and second
+helices, the second being called the recognition helix. The HTH is involved in
+DNA-binding  into  the  major  groove,  where the recognition helix makes most
+DNA-contacts.  The  second  DNA-binding  element  is  wing W1, composed of the
+second and third beta-strands and their connecting loop. The third DNA-binding
+element,  wing  W2,  is  not a loop like in typical winged-helix proteins, but
+another  H-T-H  motif  formed  by  helices  three  and four. In a typical merR
+regulator,  the  HTH  and  two wings bind the promoter of the regulated operon
+between the -35 and -10 regions in a spacer of 19/20 bp and longer than usual,
+distorting   the   operator   DNA  and  causing  RNA  polymerase  to  initiate
+transcription [2]. Most merR-like transcriptional regulators are dimers.
+
+Some proteins known to contain a merR-type HTH domain:
+
+ - Tn501  merR,  mercuric resistance operon regulatory protein. In the absence
+   of  mercury merR represses transcription by binding tightly, as a dimer, to
+   the  'mer'  operator  region;  when  mercury is present the dimeric complex
+   binds  a  single  ion and becomes a potent transcriptional activator, while
+   remaining bound to the mer site.
+ - Bacillus subtilis bltR, bmrR and mtaN (ywnD), transcriptional activators of
+   the blr and bmr transporters involved in multidrug resistance.
+ - Escherichia  coli  soxR,  responds  to  oxidative stress and autoregulatory
+   controls a superoxide response regulon.
+ - Bradyrhizobium  japonicum nolA, a transcriptional regulator involved in the
+   genotype-specific nodulation of soybeans.
+ - Streptomyces  lividans tipA, a transcriptional activator which binds to and
+   is activated by the antibiotic thiostrepton.
+ - Escherichia coli zntR, a zinc-responsive regulator of zntA ATPase.
+ - Escherichia coli cueR, a regulator of the copper efflux regulon.
+
+The  pattern  we  developed starts at position 2 of the helix-turn-helix motif
+and  extends  three  residues  upstream  of  its C-terminal extremity. We also
+developed  a  profile that covers the entire wHTH, including the first strand,
+H-T-H motif, wings W1 and W2 and which allows a more sensitive detection.
+
+-Consensus pattern: [GSA]-x-[LIVMFA]-[ASM]-x(2)-[STACLIV]-[GSDENQR]-[LIVC]-
+                    [STANHK]-x(3)-[LIVM]-[RHF]-x-[YW]-[DEQ]-x(2,3)-[GHDNQ]-
+                    [LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2003 / Text revised; profile added.
+
+[ 1] Helmann J.D., Wang Y., Mahler I., Walsh C.T.
+     "Homologous metalloregulatory proteins from both gram-positive and
+     gram-negative bacteria control transcription of mercury resistance
+     operons."
+     J. Bacteriol. 171:222-229(1989).
+     PubMed=2492496
+[ 2] Brown N.L., Stoyanov J.V., Kidd S.P., Hobman J.L.
+     "The MerR family of transcriptional regulators."
+     FEMS Microbiol. Rev. 27:145-163(2003).
+     PubMed=12829265
+[ 3] Zheleznova-Heldwein E.E., Brennan R.G.
+     Nature 409:378-382(2001).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

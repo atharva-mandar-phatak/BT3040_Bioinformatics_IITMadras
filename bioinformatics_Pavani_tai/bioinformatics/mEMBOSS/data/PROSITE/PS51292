@@ -1,0 +1,86 @@
+************************************
+* Zinc finger RING-CH-type profile *
+************************************
+
+The RING finger is a well characterized zinc finger which coordinates two zinc
+atoms  in a cross-braced manner (see <PDOC00449>). According to the pattern of
+cysteines  and  histidines  three  different subfamilies of RING finger can be
+defined.  The  classical  RING  finger (RING-HC) has a histidine at the fourth
+coordinating  position  and  a  cysteine at the fifth. In the RING-H2 variant,
+both  the  fourth and fifth positions are occupied by histidines. The RING-CH,
+which is very similar to the classical RING finger, differs from both of these
+variants  in that it has a cys residue in the fourth position and a His in the
+fifth.  Another difference between the RING-CH and the common RING variants is
+a   somewhat   longer   peptide   segment   between   the   fourth  and  fifth
+zinc-coordinating  residues.  The  RING-CH  zinc  finger  has  thus  the  same
+arrangement  of  cysteine  and  histidine  (C4HC3) as the PHD zinc finger (see
+<PDOC50016>)  but  it contains features (spacing between the cysteines and the
+histidine)  characteristic  of  the  genuine  RING-finger  (C3HC4)  [1,2]. The
+RING-CH-type  is an E3 ligase mainly found in proteins associated to membranes
+[3,4].
+
+The solution structure of the RING-CH-type zinc finger of the herpesvirus Mir1
+protein  has shown that it is an outlying relative of the cellular RING finger
+domain family, with its polypeptide backbone much more closely resembling that
+of  RING  domains  than  PHD  domains  (see  <PDB:1VYX>)  [5].  The  only real
+difference  between  the  classic  and  variant  RING  domains, other than the
+alteration  of zinc ligands, is the loss of the small beta-sheet found in RING
+domains  and the replacement of one strand of this sheet with a single turn of
+helix.
+
+Some proteins that contains a RING-CH-type zinc finger are listed below:
+
+ - Yeast  Doa10/SSM4.  An  E3  ligase  essential for the endoplasmic reticulum
+   associated  degradation  (ERAD), an ubiquitin-proteasome system responsible
+   for  the  degradation  of  membrane and lumenal proteins of the endoplasmic
+   reticulum.
+ - Mammalian membrane-associated RING-CH 1 to 9 (MARCH1 to 9) proteins.
+ - Herpesvirus  modulator  of  immune  recognition  1. An E3 ubiquitin-protein
+   ligase  which  promotes  ubiquitination  and subsequent degradation of host
+   MHC-I  and CD1D molecules, presumably to prevent lysis of infected cells by
+   cytotoxic T-lymphocytes.
+
+The profile we developed covers the entire RING-CH-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2007 / First entry.
+
+-Note:  The  RING-CH zinc finger profile is in competition with a profile of a
+ related domain, i.e. RING-type zinc finger (see <PDOC500499>).
+
+[ 1] Swanson R., Locher M., Hochstrasser M.
+     "A conserved ubiquitin ligase of the nuclear envelope/endoplasmic
+     reticulum that functions in both ER-associated and Matalpha2 repressor
+     degradation."
+     Genes Dev. 15:2660-2674(2001).
+     PubMed=11641273; DOI=10.1101/gad.933301
+[ 2] Aravind L., Iyer L.M., Koonin E.V.
+     "Scores of RINGS but no PHDs in ubiquitin signaling."
+     Cell Cycle 2:123-126(2003).
+     PubMed=12695663
+[ 3] Ismail N., Ng D.T.
+     "Have you HRD? Understanding ERAD is DOAble!"
+     Cell 126:237-239(2006).
+     PubMed=16873052; DOI=10.1016/j.cell.2006.07.001
+[ 4] Deng M., Hochstrasser M.
+     "Spatially regulated ubiquitin ligation by an ER/nuclear membrane
+     ligase."
+     Nature 443:827-831(2006).
+     PubMed=17051211; DOI=10.1038/nature05170
+[ 5] Dodd R.B., Allen M.D., Brown S.E., Sanderson C.M., Duncan L.M.,
+     Lehner P.J., Bycroft M., Read R.J.
+     "Solution structure of the Kaposi's sarcoma-associated herpesvirus K3
+     N-terminal domain reveals a Novel E2-binding C4HC3-type RING domain."
+     J. Biol. Chem. 279:53840-53847(2004).
+     PubMed=15465811; DOI=10.1074/jbc.M409662200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

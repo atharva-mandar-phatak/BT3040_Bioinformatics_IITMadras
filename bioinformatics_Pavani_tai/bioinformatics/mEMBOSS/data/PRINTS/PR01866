@@ -1,0 +1,43 @@
+APOPREGMCL1
+Apoptosis, or programmed cell death (PCD), is a common and evolutionarily 
+conserved property of all metazoans [1]. In many biological processes, 
+apoptosis is required to eliminate supernumerary or dangerous (e.g., pre-
+cancerous) cells and to promote normal development. Thus, dysregulation  
+of apoptosis can contribute to the development of many major diseases, 
+including cancer, autoimmunity and neurodegenerative disorders. In most
+cases, proteins of the caspase family execute the genetic programme that
+leads to cell death. Bcl-2 proteins are central regulators of caspase
+activation, and play a key role in cell death by regulating the integrity
+of the mitochondrial and endoplasmic reticulum (ER) membranes [2]. At 
+least 20 Bcl-2 proteins have been reported in mammals, and several
+others have been identified in viruses.
+
+Bcl-2 family proteins fall roughly into three subtypes, which either promote 
+cell survival (anti-apoptotic) or trigger cell death (pro-apoptotic). All 
+members contain at least one of four conserved motifs, termed Bcl-2 Homology
+(BH) domains. Bcl-2 subfamily proteins, which contain at least BH1 and BH2,
+promote cell survival by inhibiting the adapters needed for the activation
+of caspases. Pro-apoptotic members potentially exert their effects by dis-
+placing the adapters from the pro-survival proteins; these proteins belong
+either to the Bax subfamily, which contain BH1-BH3, or to the BH3 subfamily,
+which mostly only feature BH3 [3]. Thus, the balance between antagonistic
+family members is believed to play a role in determining cell fate.
+
+Members of the wider Bcl-2 family, which also includes Bcl-x, Bcl-w and 
+Mcl-1, are described by their similarity to Bcl-2 protein, a member of
+the pro-survival Bcl-2 subfamily [3]. The Mcl-1 subtype appears to have 
+weaker survival activity than Bcl-2, Bcl-x and Bcl-w, and is more divergent
+in sequence, which may indicate additional functionality. Disruption of 
+Mcl-1 in mice revealed that the gene may be required for zygote 
+implantation, suggesting that its role extends beyond apoptosis [4].
+
+APOPREGMCL1 is a 5-element fingerprint that provides a signature for Mcl-1
+(myeloid cell leukaemia 1) apoptosis regulator protein. The fingerprint was 
+derived from an initial alignment of 4 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise Mcl-1 proteins but distinguish them from
+closely-related Bcl-2 family members - motif 1 lies immediately before BH1;
+motif 2 resides within BH1; motif 3 spans the C-terminal portion of BH1, and
+the succeeding sequence; and motifs 4 and 5 are located towards the C-
+terminus. Two iterations on SPTR40_22f were required to reach convergence, 
+at which point a true set comprising 6 sequences was identified.

@@ -1,0 +1,78 @@
+***********************************************************************
+* PpiC-type peptidyl-prolyl cis-trans isomerase signature and profile *
+***********************************************************************
+
+Peptidyl-prolyl cis-trans  isomerase  (EC  5.2.1.8) (PPIase or rotamase) is an
+enzyme that   accelerates   protein   folding   by  catalyzing  the  cis-trans
+isomerization of  proline  imidic  peptide  bonds  in  oligopeptides [1]. Most
+characterized PPiases  belong  to  two  families,  the  cyclophilin-type  (see
+<PDOC00154>) and the the FKBP-type (see <PDOC00426>).  Recently a third family
+has been  discovered  [2,3].  So  far,  the  only  biochemically characterized
+member of  this family is the Escherichia coli protein parvulin (gene ppiC), a
+small (92  residues) cytoplasmic  enzyme that prefers amino acid residues with
+hydrophobic side  chains  like leucine and phenylalanine in the P1 position of
+the peptides  substrates. PpiC is evolutionary related to a number of proteins
+that are also probably PPiases:
+
+ - Escherichia  coli  and  Haemophilus influenzae ppiD. PpiD is a PPIase which
+   contains a  periplasmic ppiC-like domain anchored to the inner membrane and
+   which seems to be involved in the folding of outer membrane proteins.
+ - Escherichia  coli  surA.  SurA  is  a periplasmic protein that contains two
+   ppiC-like domains.
+ - Nitrogen-assimilating  bacteria  protein  nifM  which  is  involved  in the
+   activation and stabilization of the iron-component (nifH) of nitrogenase.
+ - Bacillus  subtilis  protein  prsA, a membrane-bound lipoprotein involved in
+   protein export.
+ - Lactococcus and lactobacillus protease maturation protein prtM, a membrane-
+   bound lipoprotein   involved   in  the  maturation  of  a  secreted  serine
+   proteinase.
+ - Yeast protein ESS1/PTF1 (processing/termination factor 1).
+ - Drosophila protein dodo (gene dod).
+ - Mammalian protein PIN1,
+ - Campylobacter jejuni cell binding factor 2 (CBF2), a secreted antigen.
+ - Bacillus subtilis hypothetical protein yacD.
+ - Helicobacter pylori hypothetical protein HP0175.
+ - A hypothetical slime mold protein.
+
+As a  signature pattern, we selected a conserved region that contains a serine
+which could  play  a role in the catalytic mechanism of these enzymes. We also
+developed a profile that spans the complete ppiC domain.
+
+-Consensus pattern: F-[GSADEI]-x-[LVAQ]-A-x(3)-[ST]-x(3,4)-[STQ]-x(3,5)-[GER]-
+                    G-x-[LIVM]-[GS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Rudd K.E.; rudd@molbio.med.miami.edu
+
+-Last update: December 2001 / Text revised; profile added.
+
+[ 1] Fischer G., Schmid F.X.
+     "The mechanism of protein folding. Implications of in vitro refolding
+     models for de novo protein folding and translocation in the cell."
+     Biochemistry 29:2205-2212(1990).
+     PubMed=2186809
+[ 2] Rudd K.E., Sofia H.J., Koonin E.V., Plunkett G. III, Lazar S.,
+     Rouviere P.E.
+     Trends Biochem. Sci. 20:14-15(1995).
+[ 3] Rahfeld J.-U., Rucknagel K.P., Schelbert B., Ludwig B., Hacker J.,
+     Mann K., Fischer G.
+     "Confirmation of the existence of a third family among peptidyl-prolyl
+     cis/trans isomerases. Amino acid sequence and recombinant production
+     of parvulin."
+     FEBS Lett. 352:180-184(1994).
+     PubMed=7925971
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

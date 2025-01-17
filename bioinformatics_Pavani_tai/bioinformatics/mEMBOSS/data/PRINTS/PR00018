@@ -1,0 +1,21 @@
+KRINGLE
+Kringles are autonomous structural domains, found throughout the blood 
+clotting and fibrinolytic proteins. They are believed to play a role in
+binding mediators (e.g., membranes, other proteins or phospholipids), and
+in the regulation of proteolytic activity [1-3]. The kringle domain is 
+characterised by a triple loop, 3-disulphide bridge structure, whose 
+conformation is defined by a number of hydrogen bonds and small pieces of 
+anti-parallel beta-sheet.
+
+KRINGLE is a 4-element fingerprint that provides a signature for the 
+kringle domain. The fingerprint was derived from an initial alignment of 
+7 sequences (after McMullen [1]): the motifs span the full domain length,
+motif 3 including the conserved hexapeptide encoded by PROSITE pattern
+KRINGLE (PS00021). Four iterations on OWL11.0 were required to reach
+convergence, at which point a true set comprising 34 sequences was
+identified. One further sequence was of note: UROK_CHICK is not identified
+unambiguously by the fingerprint - although it matches strongly with motifs
+1 and 3, it fails to match motifs 2 and 4.
+
+An update on SPTR37_9f identified a true set of 53 sequences, and 10
+partial matches.

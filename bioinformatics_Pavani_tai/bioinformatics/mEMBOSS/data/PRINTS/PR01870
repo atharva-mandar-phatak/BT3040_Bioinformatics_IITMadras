@@ -1,0 +1,34 @@
+CD2ANTIGEN
+CD2 is a type-I membrane protein that mediates adhesion between T
+cells and other cell types via interaction through its ectodomain
+with lymphocyte function-associated antigen (LFA-3)/CD58 and CD48/
+BCM1. The protein is also implicated in the triggerring of T cells,
+signal transduction being mediated via its long cytoplasmic tail [1].
+CD2 belongs to a family of immunoglobulin (Ig)-like molecules, having
+both C2-type and V-type Ig-like domains. In particular, it exhibits
+structural and functional similarities to the African swine fever
+virus (ASFV) protein, LMW8-DR, a protein involved in cell-cell
+adhesion and immune response modulation, suggesting a possible role
+in the pathogenesis of ASFV infection [2].
+
+The adhesion domain of human CD2 requires N-linked carbohydrate to
+maintain its native conformation and ability to bind CD58 [3]. By 
+contrast, rat CD2 does not require N-linked carbohydrate, and binds
+to a different ligand, CD48 [3]. The 3D structure of the glycosylated 
+human form of this domain has been determined by NMR spectroscopy [3].
+Overall, the structure resembles the typical beta-barrel of an Ig 
+variable domain. Mutagenesis of all residues in the vicinity of the
+glycan suggests that the glycan is not a component of the CD2-CD58
+interface, but rather, stabilises the protein fold by counterbalancing
+an unfavorable clustering of 5 positive charges centred about Lys-61
+of CD2 [4].
+
+CD2ANTIGEN is a 5-element fingerprint that provides a signature for 
+T-cell surface CD2 antigens. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from the
+N-terminal half of the alignment, focusing on those regions that
+characterise CD2 antigen but distinguish them from closely-
+related members of the Ig-like CD2 family - the motifs span the
+V-type Ig-like extracellular domain. Two iterations on SPTR41_24f
+were required to reach convergence, at which point a true set
+comprising 7 sequences was identified.

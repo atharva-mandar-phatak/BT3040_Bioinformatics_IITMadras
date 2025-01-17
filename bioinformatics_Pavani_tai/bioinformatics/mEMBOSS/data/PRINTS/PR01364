@@ -1,0 +1,28 @@
+VD10PROTEIN
+The complete DNA sequence of the genome of vaccinia virus has been 
+determined [1]. 198 "major" protein-coding regions and 65 overlapping
+"minor" regions have been identified, with a total of 263 potential genes
+[1]. The genes are compactly organised along the genome, with few noncoding
+regions [1]. The function of the majority of proteins encoded by these open
+reading frames is so far undetermined. 
+
+The DNA sequence of the fowlpox virus genome corresponding to the vaccinia
+virus D6-A1 region has been deduced [2]. Translation of the sequence
+reveals fowlpoxvirus gene homologues corresponding to the D6, D7, D9, D10,
+D11, D12, D13 and A1 genes of vaccinia virus [2]. Insertion of a gene
+cartridge comprising the vaccinia virus p7.5 promoter and the lacZ gene
+into the fowlpox virus D8, D9 and D10 genes was carried out in vitro,
+followed by recombination into fowlpox virus [2]. No stable insertion 
+mutants were obtained for D10, suggesting that this gene probably encodes
+a function essential to virus replication [2]. 
+
+D10, like the D9 protein, contains an evolutionarily conserved MutT domain 
+core, which is a characteristic of the NUDIX hydrolase family [3].
+
+VD10PROTEIN is a 6-element fingerprint that provides a signature for viral
+D10 proteins. The fingerprint was derived from an initial alignment of 5
+sequences: the motifs were drawn from conserved regions spanning the N- and
+C-terminal portions of the alignment - motifs 1-4 lie immediately N-terminal
+to the MutT domain, and motifs 5 and 6 immediately C-terminal to it. Two
+iterations on SPTR37_10f were required to reach convergence, at which point
+a true set comprising 8 sequences was identified.

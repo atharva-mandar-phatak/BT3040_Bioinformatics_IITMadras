@@ -1,0 +1,45 @@
+***************************
+* Interleukin-2 signature *
+***************************
+
+Interleukin-2 (IL-2)  [1,2]  is  a  cytokine  produced    by T-helper cells in
+response to  antigenic  or mitogenic stimulation. This protein is required for
+T-cell proliferation  and  other  activities  crucial to the regulation of the
+immune response.
+
+The mature  form  of  IL-2,  after  cleavage  of  the  signal  sequence,  is a
+glycoprotein of about  130 amino acids that  contains a single disulfide bond.
+A schematic representation of this structure is shown below.
+
+                              *******
+        xTxxxxxxxxxxxxxxxxxxxxxxxxCxxxxxxxxxxxxxxxxxxxxxxCxxxxxxxxxxxxxx
+         |                        |                      |
+         Sugar                    +----------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+-Consensus pattern: T-E-[LF]-x(2)-L-x-C-L-x(2)-E-L
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1998 / Pattern and text revised.
+
+[ 1] Smith K.A.
+     "Interleukin-2: inception, impact, and implications."
+     Science 240:1169-1176(1988).
+     PubMed=3131876
+[ 2] Mizel S.B.
+     "The interleukins."
+     FASEB J. 3:2379-2388(1989).
+     PubMed=2676681
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,45 @@
+FERRIBNDNGPP
+Iron is essential for growth in both bacteria and mammals. Controlling the 
+amount of free iron in solution is often used as a tactic by hosts to limit 
+invasion of pathogenic microbes; binding iron tightly within protein 
+molecules can accomplish this. Such iron-protein complexes include haem in 
+blood, lactoferrin in tears/saliva, and transferrin in blood plasma. Some 
+bacteria express surface receptors to capture eukaryotic iron-binding 
+compounds, while others have evolved siderophores (enterobactins) to 
+scavenge iron from iron-binding host proteins [1]. 
+
+The control of such siderophore gene expression in Escherichia coli is under 
+the regulation of the negative repressor protein FUR [2]. When complexed 
+with Fe2+, it down-regulates the transcription not only of the siderophore 
+genes, but also of the moieties that release Fe2+ ions bound to the hydrox-
+amate enterobactin proteins in the microbial cytoplasm [2]. One of these
+codes for FhuD, a ferric hydroxymate binding protein located in the
+bacterial periplasm [3,4]. Homologues of the FhuD gene, first described in 
+E.coli, have been found in other Gram-negative pathogens, such as Yersinia
+pestis and Salmonella spp., as well as in the plant microbe Rhizobium 
+leguminosarum [3,4]. 
+
+Recent mutational studies have shown the FhuD gene to be an essential and 
+integral part of the ferric hydroxymate ABC transport system in E.coli [5]. 
+Mutants lacking the Fhu operon were unable to utilise ferrichrome as an iron 
+source, and showed a lower level of virulence than the wild type bacteria [5].
+
+The structure of E.coli FhuD complexed to gallichrome has been resolved to 
+1.90A using X-ray crystallography [6]. The iron component is held in a 
+shallow binding pocket between two domains separated by a long central 
+alpha-helix [6]. This constitutes a novel fold, and is not found in any 
+other periplasmic binding protein. 
+
+FERRIBNDNGPP is a 6-element fingerprint that provides a signature for the
+bacterial ferrichrome-binding periplasmic proteins. The fingerprint was 
+derived from an initial alignment of 6 sequences: the motifs were drawn from
+conserved regions spanning the C-terminal portion of the alignment - motif 1
+spans beta-strand 2 and alpha-helix 2; motif 2 encodes helix 3 and the 
+N-terminus of strand 4; motif 3 includes the C-terminus of strand 6, strand
+7 and the N-terminus of helix 8; motif 4 spans strand 8 and the N-terminus
+of helix 9; motif 5 encompasses the C-terminus of strand 9, helix 10 and the
+N-terminus of helix 11; and motif 6 spans the N-terminus of helix 13. A 
+single iteration on SPTR40_20f was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match 
+was found, Q8YZR9, an algal periplasmic ABC tranporter iron-compound-
+binding protein that matched motifs 1, 2 and 4.

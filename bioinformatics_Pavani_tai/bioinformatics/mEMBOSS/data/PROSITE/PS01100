@@ -1,0 +1,49 @@
+*********************************************************
+* NNMT/PNMT/TEMT family of methyltransferases signature *
+*********************************************************
+
+The following   cytoplasmic  vertebrate  methyltransferases  are  evolutionary
+related [1,2]:
+
+ - Nicotinamide N-methyltransferase (EC 2.1.1.1) (NNMT). NNMT catalyzes the N-
+   methylation of  nicotinamide  and  other pyridines to form pyridinium ions.
+   This activity  is  important  for  the  biotransformation of many drugs and
+   xenobiotic compounds.
+ - Phenylethanolamine N-methyltransferase (EC 2.1.1.28) (PNMT). PNMT catalyzes
+   the last step in catecholamine biosynthesis, the conversion of noradrenalin
+   to adrenalin.
+ - Indolethylamine N-methyltransferase (EC 2.1.1.49) (INMT).
+ - Thioether  S-methyltransferase  (EC  2.1.1.96)  (TEMT).  TEMT catalyzes the
+   methylation of dimethyl sulfide into trimethylsulfonium.
+
+These enzymes  use  S-adenosyl-L-methionine  as  the  methyl  donor.  They are
+proteins of 30 to 32 Kd. As a signature pattern we selected the most conserved
+region, a  stretch  of 16 residues which are located in the N-terminal section
+of these enzymes.
+
+-Consensus pattern: L-I-D-I-G-S-G-P-T-[IV]-Y-Q-[LV]-L-[SA]-A-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2001 / Pattern and text revised.
+
+[ 1] Aksoy S., Szumlanski C.L., Weinshilboum R.M.
+     "Human liver nicotinamide N-methyltransferase. cDNA cloning,
+     expression, and biochemical characterization."
+     J. Biol. Chem. 269:14835-14840(1994).
+     PubMed=8182091
+[ 2] Thompson M.A., Moon E., Kim U.-J., Xu J., Siciliano M.J.,
+     Weinshilboum R.M.
+     "Human indolethylamine N-methyltransferase: cDNA cloning and
+     expression, gene cloning, and chromosomal localization."
+     Genomics 61:285-297(1999).
+     PubMed=10552930; DOI=10.1006/geno.1999.5960
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

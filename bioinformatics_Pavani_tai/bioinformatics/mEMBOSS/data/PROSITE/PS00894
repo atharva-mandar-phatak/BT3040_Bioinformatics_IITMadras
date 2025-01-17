@@ -1,0 +1,80 @@
+**********************************************
+* DeoR-type HTH domain signature and profile *
+**********************************************
+
+The  deoR-type  HTH  domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  50-60  amino  acids  present  in  transcription  regulators of the deoR
+family, involved in sugar catabolism. This family of prokaryotic regulators is
+named  after  Escherichia  coli  deoR,  a  repressor  of the deo operon, which
+encodes  nucleotide  and  deoxyribonucleotide  catabolic  enzymes.  DeoR  also
+negatively  regulates  the  expression  of nupG and tsx, a nucleoside-specific
+transport protein and a channel-forming protein, respectively.
+
+DeoR-like  transcription repressors occur in diverse bacteria as regulators of
+sugar  and  nucleoside metabolic systems. The effector molecules for deoR-like
+regulators   are   generally  phosphorylated  intermediates  of  the  relevant
+metabolic  pathway. The DNA-binding deoR-type HTH domain occurs usually in the
+N-terminal  part.  The  C-terminal part can contain an effector-binding domain
+and/or  an  oligomerization domain. DeoR occurs as an octamer, whilst glpR and
+agaR are tetramers. Several operators may be bound simultaneously, which could
+facilitate DNA looping [1,2,3].
+
+Some proteins known to contain a deoR-type HTH domain:
+
+ - Escherichia  coli  deoR,  a  transcription  repressor  of  the  operon  for
+   deoxyribose metabolism. The effector is deoxyribose-5-phosphate.
+ - Escherichia coli glpR, a glycerol-3-phosphate regulon repressor.
+ - Lactococcus lactis lacR, a lactose phosphotransferase system repressor.
+ - Agrobacterium tumefaciens plasmid pTiC58 accR, a transcription repressor of
+   agrocinopine catabolism and conjugal transfer.
+ - Escherichia  coli  agaR,  a  repressor  of the aga operon for metabolism of
+   N-acetylgalactosamine  and  galactosamine [3].
+ - Escherichia coli fucR, an activator of operons for L-fucose utilization.
+ - Escherichia coli gatR, a repressor of the galactitol operon.
+ - Escherichia coli srlR (gutR), a glucitol operon repressor.
+ - Bacillus subtilis iolR, a repressor of inositol operons.
+
+The  pattern  we  use to detect these proteins starts fourteen residues before
+the  HTH motif and ends one residue after it. The profile we developed extends
+seventeen  residues  upstream  and  seventeen  residues  downstream of the HTH
+extremities and covers the entire deoR-type HTH DNA-binding domain.
+
+-Consensus pattern: R-{G}-x(2)-[LIVM]-x(3)-[LIVM]-x(16,17)-[STA]-x(2)-T-
+                    [LIVMA]-[RH]-[KRNAQ]-D-[LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  deoR repressor  from Bacillus subtilis, which regulates expression
+ of  the  dra-nupC-pdp operon required for deoxyribonucleoside and deoxyribose
+ utilization,  shows  no  sequence  similarity  to  E.  coli deoR. There is no
+ similarity in the DNA operator sites either and the B. subtilis deoR does not
+ possess a deoR-type HTH domain.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Beck von Bodman S., Hayman G.T., Farrand S.K.
+     "Opine catabolism and conjugal transfer of the nopaline Ti plasmid
+     pTiC58 are coordinately regulated by a single repressor."
+     Proc. Natl. Acad. Sci. U.S.A. 89:643-647(1992).
+     PubMed=1731335;
+[ 2] Bairoch A.
+     Unpublished observations (1993).
+[ 3] Ray W.K., Larson T.J.
+     "Application of AgaR repressor and dominant repressor variants for
+     verification of a gene cluster involved in N-acetylgalactosamine
+     metabolism in Escherichia coli K-12."
+     Mol. Microbiol. 51:813-826(2004).
+     PubMed=14731281;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

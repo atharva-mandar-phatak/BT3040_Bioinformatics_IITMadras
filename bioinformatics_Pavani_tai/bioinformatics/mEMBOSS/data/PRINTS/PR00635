@@ -1,0 +1,54 @@
+ANGIOTENSN1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Angiotensin II is the principal mediator of the renin-angiotensin system;
+it circulates in the bloodstream, stimulating vasoconstriction and
+retention of salt and water [6]. It also stimulates increased fluid intake
+and regulates the neuroendocrine system. Many of its actions are mediated
+by release of hormones from endocrine glands, e.g. vasopressin, catechol-
+amines, aldosterone, growth-hormone, etc.. Molecular cloning studies have
+identifed 2 major receptor subtypes, designated AT1 and AT2. 
+
+AT1 receptors are the major subclass of the angiotensin family. The
+receptors are found in blood vessels, other smooth muscles (e.g., the
+uterus and bladder), and endocrine glands [6]. Receptors are also present
+in the kidney, liver and on presynaptic nerve terminals, where they 
+potentiate release of noradrenaline [6]. They are distributed widely in 
+the CNS and are present in high levels in the hypothalamus and anterior
+pituitary, where they stimulate release of vasopressin and ACTH res. [6].
+AT1 receptors inhibit adenylyl cyclase and activate phosphoinositide
+metabolism via a pertussis-toxin-insensitive G protein, probably of the
+Gq/G11 class [6].
+
+ANGIOTENSN1R is an 8-element fingerprint that provides a signature for the
+AT1 angiotensin II receptors. The fingerprint was derived from an initial
+alignment of 16 sequences: the motifs were drawn from conserved sections
+largely within loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the AT1 receptors but distinguish them
+from the rest of the angiotensin family - motifs 1 and 2 span the N-terminus,
+leading into TM domain 1; motif 3 spans the C-terminus of TM domain 5,
+leading into the third cytoplasmic loop; motif 4 spans the C-terminus of
+the third cytoplasmic loop and part of TM domain 6; motif 5 lies in the
+N-terminal portion of TM domain 7; and motifs 6-8 span the C-terminus. A
+single iteration on OWL29.0 was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match
+was also found, PN0449, a turkey angiotensin II receptor fragment.
+
+An update on SPTR37_9f identified a true set of 15 sequences.

@@ -1,0 +1,40 @@
+**********************************
+* Ribosomal protein S8 signature *
+**********************************
+
+Ribosomal protein S8 is one of the proteins from the  small ribosomal subunit.
+In Escherichia  coli,  S8  is  known to bind directly to 16S ribosomal RNA. It
+belongs to  a  family  of  ribosomal  proteins which, on the basis of sequence
+similarities [1], groups:
+
+ - Eubacterial S8.
+ - Algal and plant chloroplast S8.
+ - Cyanelle S8.
+ - Archaebacterial S8.
+ - Marchantia polymorpha mitochondrial S8.
+ - Mammalian S15A.
+ - Plant S15A.
+ - Yeast S22 (S24).
+
+As a  signature  pattern, we selected the best conserved region located in the
+C-terminal section of these proteins.
+
+-Consensus pattern: [GE]-x(2)-[LIV](2)-[STY]-[ST]-{A}-x-G-[LIVM](2)-x(4)-[AG]-
+                    [KRHAYIL]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for some mitochondrial S8.
+-Other sequence(s) detected in Swiss-Prot: 1.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

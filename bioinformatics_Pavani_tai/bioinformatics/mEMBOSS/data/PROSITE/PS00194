@@ -1,0 +1,100 @@
+***************************************************************
+* Thioredoxin family active site signature and domain profile *
+***************************************************************
+
+Thioredoxins [1 to 4] are small proteins  of  approximately one hundred amino-
+acid residues  which participate in various redox reactions via the reversible
+oxidation of  an active center disulfide bond. They exist in either a  reduced
+form or  an  oxidized  form  where  the two cysteine residues are linked in an
+intramolecular disulfide  bond.  Thioredoxin  is  present  in  prokaryotes and
+eukaryotes and   the  sequence  around the redox-active disulfide bond is well
+conserved.  Bacteriophage T4    also encodes for a thioredoxin but its primary
+structure is not homologous to bacterial, plant and vertebrate thioredoxins.
+
+A  number  of  eukaryotic  proteins  contain  domains  evolutionary related to
+thioredoxin,  most  of  them  are  protein disulfide isomerases (PDI). PDI (EC
+5.3.4.1)  [5,6,7]  is  an  endoplasmic  reticulum  enzyme  that  catalyzes the
+rearrangement of disulfide bonds in various proteins. The various forms of PDI
+which are currently known are:
+
+ - PDI major isozyme; a multifunctional protein that also function as the beta
+   subunit of   prolyl   4-hydroxylase  (EC  1.14.11.2),  as  a  component  of
+   oligosaccharyl transferase (EC 2.4.1.119), as thyroxine deiodinase (EC 3.8.
+   1.4), as glutathione-insulin transhydrogenase (EC 1.8.4.2) and as a thyroid
+   hormone-binding protein !
+ - ERp60 (ER-60; 58 Kd microsomal protein). ERp60 was originally thought to be
+   a phosphoinositide-specific  phospholipase  C  isozyme  and  later  to be a
+   protease.
+ - ERp72.
+ - P5.
+
+All PDI contains two or three (ERp72) copies of the thioredoxin domain.
+
+Bacterial proteins  that  act  as  thiol:disulfide  interchange  proteins that
+allows disulfide  bond  formation  in some periplasmic proteins also contain a
+thioredoxin domain. These proteins are:
+
+ - Escherichia coli dsbA (or prfA) and its orthologs in Vibrio cholerae (tcpG)
+   and Haemophilus influenzae (por).
+ - Escherichia  coli  dsbC (or xpRA) and its orthologs in Erwinia chrysanthemi
+   and Haemophilus influenzae.
+ - Escherichia coli dsbD (or dipZ) and its Haemophilus influenzae ortholog.
+ - Escherichia  coli  dsbE  (or ccmG) and orthologs in Haemophilus influenzae,
+   Rhodobacter capsulatus (helX), Rhiziobiacae (cycY and tlpA).
+
+The  pattern  we developed is directed against the two cysteines that form the
+redox-active bond. We also developed a profile that covers the whole domain.
+
+-Consensus pattern: [LIVMF]-[LIVMSTA]-x-[LIVMFYC]-[FYWSTHE]-x(2)-[FYWGTN]-C-
+                    [GATPLVE]-[PHYWSTA]-C-{I}-x-{A}-x(3)-[LIVMFYWT]
+                    [The 2 C's form the redox-active bond]
+-Sequences known to belong to this class detected by the pattern: ALL.
+ for Haemophilus influenzae dsbC, Escherichia coli dsbG and two others.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2007 / Profile added and text revised.
+
+[ 1] Holmgren A.
+     "Thioredoxin."
+     Annu. Rev. Biochem. 54:237-271(1985).
+     PubMed=3896121; DOI=10.1146/annurev.bi.54.070185.001321
+[ 2] Gleason F.K., Holmgren A.
+     "Thioredoxin and related proteins in procaryotes."
+     FEMS Microbiol. Rev. 4:271-297(1988).
+     PubMed=3152490
+[ 3] Holmgren A.
+     "Thioredoxin and glutaredoxin systems."
+     J. Biol. Chem. 264:13963-13966(1989).
+     PubMed=2668278
+[ 4] Eklund H., Gleason F.K., Holmgren A.
+     "Structural and functional relations among thioredoxins of different
+     species."
+     Proteins 11:13-28(1991).
+     PubMed=1961698
+[ 5] Freedman R.B., Hawkins H.C., Murant S.J., Reid L.
+     "Protein disulphide-isomerase: a homologue of thioredoxin implicated
+     in the biosynthesis of secretory proteins."
+     Biochem. Soc. Trans. 16:96-99(1988).
+     PubMed=3371540
+[ 6] Kivirikko K.I., Myllyla R., Pihlajaniemi T.
+     "Protein hydroxylation: prolyl 4-hydroxylase, an enzyme with four
+     cosubstrates and a multifunctional subunit."
+     FASEB J. 3:1609-1617(1989).
+     PubMed=2537773
+[ 7] Freedman R.B., Hirst T.R., Tuite M.F.
+     "Protein disulphide isomerase: building bridges in protein folding."
+     Trends Biochem. Sci. 19:331-336(1994).
+     PubMed=7940678
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

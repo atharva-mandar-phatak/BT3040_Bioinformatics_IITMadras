@@ -1,0 +1,23 @@
+RCCNDNSATION
+RCC1, the regulator of chromosome condensation, is a eukaryotic protein
+that binds to chromatin. It interacts with the nuclear GTP-binding protein, 
+ran, to promote loss of bound GDP and uptake of fresh GTP, thereby behaving 
+as a guanine-nucleotide dissociation stimulator [1,2]. The interaction of
+RCC1 with ran is thought to play an key role in the regulation of gene 
+expression. The sequence of RCC1 contains 7 tandem repeats of a 50-60 amino 
+acid domain, the repeats constituting the major part of the protein. 
+
+RCCNDNSATION is an 8-element fingerprint that provides a signature for the
+RCC1 family. The fingerprint was derived from an initial alignment of 6 
+sequences: the motifs were drawn from short conserved regions spanning the 
+central tandem repeat region - motif 3 encompasses the area encoded by 
+PROSITE pattern RCC1_1 (PS00625), which is found in the N-terminal portion 
+of the second repeat; motif 5 includes the region encoded by PROSITE 
+pattern RCC1_2 (PS00626), which lies in the C-terminal portion of each 
+repeat. A single iteration on OWL28.3 was required to reach convergence, 
+no further sequences being identified beyond the starting set. Several 
+partial matches were also found, all of which are either fragments or 
+close relatives of the RCC1 family.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 17
+partial matches.

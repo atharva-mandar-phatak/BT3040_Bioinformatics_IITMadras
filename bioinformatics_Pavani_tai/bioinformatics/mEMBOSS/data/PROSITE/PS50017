@@ -1,0 +1,97 @@
+************************
+* Death domain profile *
+************************
+
+The death  domain  [1,2,3,E1] (FAS/TNF cytosolic interaction domain) has first
+been described  as  a region in the cytoplasmic tail of the 75 Kd TNF receptor
+(TNFR-1) (see  <PDOC00561>)  which  is  involved  in  TNF-mediated  cell death
+signaling. A corresponding region is found in the cytoplasmic tail of FAS/APO1
+another surface  receptor  inducing apoptotic cell death. This region mediates
+self-association of  these  receptors,  thus  giving  the signal to downstream
+events leading to apoptosis.
+
+Subsequently, a number of other proteins have  been found to interact with the
+cytoplasmic part of either FAS or the TNF receptor  in the region of the death
+domain. Overexpression  of  these  proteins  usually  leads  to cell death. By
+profile analysis, it has been shown that  a number  of  other proteins contain
+regions with  significant  similarity  to  the  death  domain.  Interestingly,
+several of these proteins also work in the context of cell death signaling.
+
+The following proteins have been found to contain a death domain:
+
+ - Tumor  Necrosis  Factor  type  I  (TNFR-1),  which  induces cell death upon
+   binding of TNF.
+ - FAS/APO1 receptor, which induces cell death upon binding of FAS-ligand.
+ - Low-affinity  nerve  growth factor receptor (LA-NGFR), which is involved in
+   inducing cell death, sensing the absence of it's ligand NGF.
+ - Wsl-1, a receptor that mediates apoptosis.
+ - MORT1/FADD, a human protein that binds to the death  domain of FAS/APO1 and
+   induces apoptosis.
+ - TRADD, a human protein that binds to TNFR-1, signaling cell death and NF-kB
+   activation.
+ - RIP,  a  human  protein that interacts with FAS/APO1 and weakly with TNFR-1
+   and induces  cell  death.  Rip  contains  a protein kinase domain at its N-
+   terminus.
+ - All  known isoforms of ankyrin, this includes the ankyrin-like protein unc-
+   44 from  Caenorhabditis  elegans.    Ankyrin is a protein that attaches the
+   cytoskeleton to the plasma membrane.
+ - Human 'death associated protein kinase' (DAP-kinase), a  mediator of gamma-
+   interferon induced cell death.
+ - p84, a human protein that binds to the N-terminus of the Rb-protein.
+ - MyD88,  a  mouse  macrophage  differentiation  marker  that also contains a
+   TOLL/IL1R-domain.
+ - Unc-5, a Caenorhabditis elegans receptor-type neuronal guidance protein.
+ - Pelle,  a  protein  kinase  from  Drosophila  involved  in  the Toll/Dorsal
+   signaling pathway.
+
+ - Reaper,  a  cell  death  mediating  protein  from Drosophila, has also been
+   reported [4] to contain a death domain. However, rigorous sequence analysis
+   [2] does not statistically confirm the presence of such a domain.
+
+In most  of  these  proteins,  the  death  domain is located at the extreme C-
+terminus. Exceptions  are  ankyrin,  MyD88 and pelle, all protein probably not
+directly involved in cell death signaling. In the case of ankyrin, the isoform
+2.1 is a splice variant which has the death domain located at the C-terminus.
+
+The profile  covers  the  complete  domain  up to the boundaries that define a
+minimally functional  death  domain  in  FAS  and TNF-receptor. This region is
+slightly bigger than the observed sequence conservation.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Hofmann K.; kay.hofmann@memorec.com
+
+-Last update: July 1999 / Text revised.
+
+[ 1] Cleveland J.L., Ihle J.N.
+     "Contenders in FasL/TNF death signaling."
+     Cell 81:479-482(1995).
+     PubMed=7758103
+[ 2] Hofmann K., Tschopp J.
+     "The death domain motif found in Fas (Apo-1) and TNF receptor is
+     present in proteins involved in apoptosis and axonal guidance."
+     FEBS Lett. 371:321-323(1995).
+     PubMed=7556620
+[ 3] Feinstein E., Kimchi A., Wallach D., Boldin M., Varfolomeev E.
+     "The death domain: a module shared by proteins with diverse cellular
+     functions."
+     Trends Biochem. Sci. 20:342-344(1995).
+     PubMed=7482697
+[ 4] Golstein P., Marguet D., Depraetere V.
+     "Homology between reaper and the cell death domains of Fas and
+     TNFR1."
+     Cell 81:185-186(1995).
+     PubMed=7537635
+[E1] http://www.isrec.isb-sib.ch/domains/dd/
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,91 @@
+**********************
+* CUB domain profile *
+**********************
+
+The CUB  domain  [1,2,E1]  is  an  extracellular  domain  of approximately 110
+residues which  is  found  in  functionally  diverse,  mostly  developmentally
+regulated proteins.  Almost  all  CUB domains contain four conserved cysteines
+which probably form two disulfide bridges (C1-C2, C3-C4). The structure of the
+CUB domain  has  been  predicted  to  be  a  beta-barrel  similar  to  that of
+immunoglobulins.
+
+Proteins that have been found to contain the CUB domain are listed below.
+
+ - Mammalian  complement  subcomponents  C1s/C1r.  C1q,  C1s  and C1r form the
+   calcium-dependent complex C1, which is the first component of the classical
+   pathway  of the  complement system.  Both proteins contain two CUB domains,
+   an EGF-like domain, two CCP domains and a trypsin  family  serine  protease
+   domain (see <PDOC00124>).
+ - Hamster  serine protease  Casp. Casp is a heterodimer of a regulatory and a
+   catalytic chain  which  degrades  type I and IV collagen and fibronectin in
+   the presence  of  calcium.  It shows the same modular architecture than C1s
+   and C1r.
+ - Mammalian  complement-activating  component  of  Ra-reactive factor (RARF).
+   This protein,  also  known  as  P100,  is  a  protease  that cleaves the C4
+   component of  complement.  It  shows the same modular architecture than C1s
+   and C1r.
+ - Vertebrate    enteropeptidase  (EC 3.4.21.9), a type II membrane protein of
+   the intestinal  brush  border,  which activates trypsinogen. It consists at
+   least of  a catalytic light chain  and a multidomain  heavy chain which has
+   2 LDL receptor-like domains, a MAM  domain (see <PDOC00604>), a SRCR domain
+   (see <PDOC00348>) and a CUB domain.
+ - Vertebrate  bone  morphogenic  protein  1  (BMP-1), a protein which induces
+   cartilage and  bone  formation  and  which  expresses  metalloendopeptidase
+   activity. The  Drosophila homolog of BMP-1 is the dorsal-ventral patterning
+   protein Tolloid, which is required for normal dorsal development. In purple
+   sea urchin a homolog protein is called SuBMP. All these molecules possess a
+   zinc-metalloprotease domain  (see  <PDOC00129>) and a varying number of CUB
+   (up to 5 in mouse BMP-1 and Tolloid) and EGF-like domains.
+ - Sea    urchins  blastula  proteins  BP10 and SpAN. Both proteins consist of
+   2 CUB domains, an EGF-like domain and a zinc-metalloprotease domain.
+ - Caenorhabditis  elegans  hypothetical  proteins  F42A10.8  and R151.5. Both
+   proteins consist   of   a  CUB  domain,  a  EGF-like  domain  and  a  zinc-
+   metalloprotease domain.
+ - Neuropilin  (A5 antigen), a calcium-independent cell adhesion molecule that
+   function during  the  formation  of certain neuronal circuits. The sequence
+   contains 2 CUB domains,  2 FA58C domains (see <PDOC00988>) and a MAM domain
+   (see <PDOC00604>).
+ - Fibropellins  I  and  III  from  sea urchin. These proteins form the apical
+   lamina, a component of the extracellular matrix. These two proteins contain
+   a CUB  domain,  followed  by a variable number of EGF-like domains and a C-
+   terminal avidin-like domain (see <PDOC00499>).
+ - Mammalian  hyaluronate-binding  protein  TSG-6 (or PS4), a serum and growth
+   factor induced  protein  possibly  involved  in  cell-cell  and cell-matrix
+   interactions during  inflammation and tumorgenesis. TSG-6 contains a 'link'
+   domain followed by a CUB domain.
+ - Mammalian spermadhesins (see <PDOC00758>) which consist of a CUB domain.
+ - Xenopus  embryonic  protein UVS.2,  which is expressed during dorsoanterior
+   development. It contains 2 CUB domains.
+
+For the sensitive  detection of CUB domains, we have developed a profile which
+spans the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Bork P.; bork@embl-heidelberg.de
+
+-Last update: December 2001 / Profile revised.
+
+[ 1] Bork P., Beckmann G.
+     "The CUB domain. A widespread module in developmentally regulated
+     proteins."
+     J. Mol. Biol. 231:539-545(1993).
+     PubMed=8510165
+[ 2] Bork P.
+     "Complement components C1r/C1s, bone morphogenic protein 1 and Xenopus
+     laevis developmentally regulated protein UVS.2 share common repeats."
+     FEBS Lett. 282:9-12(1991).
+     PubMed=2026272
+[E1] http://www.bork.embl-heidelberg.de/Modules/05-cub_modules.gif
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

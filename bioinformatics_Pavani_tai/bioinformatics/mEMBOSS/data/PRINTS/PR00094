@@ -1,0 +1,30 @@
+ADENYLTKNASE
+Adenylate kinases (ADK) are phosphotransferases that catalyse the 
+reversible reaction AMP + MgATP = ADP + MgADP, an essential reaction
+for many processes in living cells. Two ADK isozymes have been identified
+in mammalian cells - these specifically bind AMP and favour binding to ATP 
+over other nucleotide triphosphates (AK1 is cytosolic and AK2 is located
+in the mitochondria). A third ADK has been identified in bovine heart and 
+human cells [1] - this is a mitochondrial GTP:AMP phosphotransferase, also 
+specific for the phosphorylation of AMP, but can only use GTP or ITP as 
+substrate [2]. ADK has also been identified in different bacterial species
+and in yeast [3]. Two further enzymes are known to be related to the ADK 
+family, i.e. yeast uridine monophosphokinase and slime mould UMP-CMP kinase.
+
+Within the ADK family there are several conserved regions, including the 
+ATP-binding domains. One of the most conserved areas includes an Arg
+residue, whose modification inactivates the enzyme, together with an Asp
+that resides in the catalytic cleft of the enzyme and participates in a 
+salt bridge. 
+
+ADENYLTKNASE is a 5-element fingerprint that provides a signature for
+adenylate kinases. The fingerprint was derived from an initial alignment
+of 6 sequences: motif 3 encodes the region containing the conserved Arg
+and Asp residues (cf. PROSITE pattern ADENYLATE_KINASE (PS00113)). Five
+iterations on OWL17.1 were required to reach convergence, at which point a
+true set comprising 25 sequences was identified, including adenylate
+kinases, yeast uridine monophosphokinase, slime mould cytidylate kinase
+and blood fluke nucleoside-phosphate kinase. 
+
+An update on SPTR37_9f identified a true set of 59 sequences, and 10
+partial matches.

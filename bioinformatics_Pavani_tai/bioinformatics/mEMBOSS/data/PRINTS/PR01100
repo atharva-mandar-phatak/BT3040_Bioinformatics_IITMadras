@@ -1,0 +1,31 @@
+SHIKIMTKNASE
+Shikimate kinase (EC 2.7.1.71) catalyses the fifth step in the biosynthesis
+of aromatic amino acids from chorismate (the so-called shikimate pathway) 
+[1]:
+
+	     ATP + shikimate = ADP + shikimate-3-phosphate	     
+
+The protein is found in bacteria, plants and fungi (where it is part of
+a multifunctional enzyme that catalyses five consecutive steps in this 
+pathway).
+
+In 1994, the 3D structure of shikimate kinase was predicted to be very close
+to that of adenylate kinase, suggesting a functional similarity as well as
+an evolutionary relationship [2]. This prediction has since been confirmed
+experimentally [3]. The protein is reported to possess an alpha/beta fold,
+consisting of a central sheet of five parallel beta-strands flanked by
+alpha-helices [3]. Such a topology is very similar to that of adenylate
+kinase [3].
+
+SHIKIMTKNASE is a 5-element fingerprint that provides a signature for the
+shikimate kinase family. The fingerprint was derived from an initial
+alignment of 12 sequences: the motifs were drawn from the central portion of
+the alignment - motifs 3 and 4 span the region encoded by PROSITE pattern 
+SHIKIMATE_KINASE (PS001128), which includes a run of 3 conserved glycines.
+Two iterations on OWL30.2 were required to reach convergence, at which point
+a true set comprising 13 sequences was identified. Several partial matches
+were also found, all of which are related sequences or fragments that fail
+to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 2
+partial matches.

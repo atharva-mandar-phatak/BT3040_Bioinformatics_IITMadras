@@ -1,0 +1,21 @@
+INTFRNREGFCT
+The expression of type I interferon genes (interferons alpha and beta) is 
+induced by many agents, including viral attack [1]. Induction is mediated
+by the binding of interferon regulatory factor 1 (IRF-1) to a region known
+as the interferon consensus sequence (ICS), located upstream of the
+interferon genes [2]. Other factors may also bind to the ICS, including
+IRF-2, which does not function as an activator, but rather suppresses the
+function of IRF-1 under certain circumstances [3]. IRF proteins contain a
+conserved N-terminal region of about 120 amino acids, which folds into a
+structure that binds specifically to the ICS; the remaining parts of the
+sequences vary depending on the precise function of the protein [2]. 
+
+INTFRNREGFCT is a 4-element fingerprint that provides a signature for the 
+ICS-binding region of interferon regulatory factors. The fingerprint was
+derived from an initial alignment of 5 sequences: the motifs were drawn
+from conserved regions spanning virtually the full length of the binding
+domain, motif 4 including the region encoded by PROSITE pattern IRF
+(PS00601). Two iterations on OWL25.1 were required to reach convergence,
+at which point a true set comprising 9 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 29 sequences.

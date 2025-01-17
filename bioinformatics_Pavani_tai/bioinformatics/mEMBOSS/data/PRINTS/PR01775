@@ -1,0 +1,40 @@
+GLFROXRDTASE
+Glucose-fructose oxidoreductase (GFOR) catalyses the formation of D- 
+gluconolactone and D-glucitol from D-glucose and D-fructose [1,2]. It has
+one tightly-bound NADP(H) per enzyme subunit, it exists as a homotetramer, 
+and is one of the pivotal proteins in the sorbitol-gluconate pathway. It is 
+targeted to the periplasm of the Gram-negative cell envelope, and belongs to 
+the GFO/IDH/MOCA superfamily [1,2]. First discovered in Zymomonas mobilis 
+[1,2], homologues have also been found in Caulobacter crescentus and 
+Deinococcus radiodurans. 
+ 
+GFOR is of great interest as its mechanism of secretion into the bacterial 
+periplasm differs from other precursor proteins of the Twin Arginine 
+Translocation (TAT) pathway [3]. Although it exhibits the consensus TAT 
+signal motif (S/T-R-R-x-L-F-K) at its N-terminus, unlike other TAT proteins 
+that can be universally secreted across a number of Gram-negative microbes, 
+GFOR is only translocated in Z.mobilis [3]. However, replacing the Z.mobilis
+signal peptide with one from E.coli restores this function. This observation
+has led to the suggestion that TAT-dependent precursors are optimally 
+adapted only to their particular cognate secretion apparatus [3]. 
+
+Recently, the crystal structure of Z.mobilis GFOR was resolved to 2.5A by 
+means of X-ray crystallography [4]. This revealed that the protein indeed 
+exists as a homotetramer, and has 4 active sites. There are 2 distinct 
+domains: a classical dinucleotide binding fold at the N-terminus and a 9-
+stranded beta-sheet at the C-terminus. NADP(H) is bound to the N-terminus of
+the first alpha-helix [4]. 
+
+GLFROXRDTASE is a 6-element fingerprint that provides a signature for the 
+bacterial glucose-fructose oxidoreductases. The fingerprint was derived from
+an initial alignment of 4 sequences: the motifs were drawn from conserved 
+regions spanning the C-terminal portion of the alignment - motif 1 spans 
+beta-strand 1 and the N-terminus of alpha-helix 2; motif 2 encompasses 
+strand 3 and helix 7; motif 3 spans the C-terminus of helix 10, strand 6, 
+and helix 11; motif 4 encodes helix 8 and the N-terminus of strand 8; motif 
+5 spans the C-terminus of strand 11 and strand 12; and motif 6 encodes the 
+N-terminus of helix 10. A single iteration on SPTR40_20f was required to 
+reach convergence, no further sequences being identified beyond the starting
+set. Two partial matches were found: Q8XQZ2, a Ralstonia solanacearum 
+glucose-fructose oxidoreductase that matches motifs 3 and 6; and Q927C7, a 
+Listeria innocua peptidoglycan-anchored protein that matches motifs 2 and 5.

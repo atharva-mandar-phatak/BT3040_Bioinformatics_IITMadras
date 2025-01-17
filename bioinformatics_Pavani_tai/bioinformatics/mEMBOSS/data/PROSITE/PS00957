@@ -1,0 +1,32 @@
+**************************************************************
+* NAD-dependent glycerol-3-phosphate dehydrogenase signature *
+**************************************************************
+
+NAD-dependent  glycerol-3-phosphate dehydrogenase (EC 1.1.1.8) (GPD) catalyzes
+the reversible   reduction   of   dihydroxyacetone  phosphate  to  glycerol-3-
+phosphate. It is a eukaryotic cytosolic homodimeric protein of about 40 Kd. As
+a signature  pattern  we  selected  a glycine-rich region that is probably [1]
+involved in NAD-binding.
+
+-Consensus pattern: [GSA]-[ATIVS]-[LIVMYCAFST]-K-[DN]-[LIVMA]-[LIVMFYT]-[GA]-
+                    x-[GACKMSIFT]-x-G-[ALIVMF]-x(2)-[SGAQ]-[LIVMYERAKQFS]-
+                    x(0,1)-[TLIVMFYWAQ]-[ETGAS]-x(0,1)-[NDVS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Otto J., Argos P., Rossmann M.G.
+     "Prediction of secondary structural elements in glycerol-3-phosphate
+     dehydrogenase by comparison with other dehydrogenases."
+     Eur. J. Biochem. 109:325-330(1980).
+     PubMed=6773774
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

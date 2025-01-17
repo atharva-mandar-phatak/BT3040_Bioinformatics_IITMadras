@@ -1,0 +1,34 @@
+HEMAGGLUTN12
+The haemagglutinin (HA) glycoprotein of influenza is a trimer containing 
+three structurally distinct regions: a globular head of anti-parallel 
+beta-sheet, which contains the receptor binding site and the variable
+antigenic determinants (antigenic variation in haemagglutinin is
+associated with recurrent epidemics of respiratory diseases in man); a
+triple-stranded, coiled-coil, alpha-helical stalk; and a globular foot of
+anti-parallel beta-sheet [1-4]. 
+
+The structural domains of haemagglutinin are arranged broadly as follows:
+a large globular, hydrophilic, carbohydrate-containing domain resides on 
+the external suface of the membrane; a small, uncharged hydrophobic peptide
+spans the membrane; and a smaller globular, hydrophilic domain resides on
+the inside of the membrane. Each monomer in the structure comprises two
+disulphide-linked chains, HA1 and HA2. The N-terminus of HA1 provides a 
+central strand in the 5-stranded globular foot, the chain then making its
+way to the globular head, where it forms an 8-stranded Swiss-roll. HA2
+provides two alpha-helices, which form part of the fibrous structure
+(three helices, one from each monomer, pack together as the triple-stranded
+coiled-coil that stablises the trimer), its C-terminus providing the
+remaining strands of the 5-stranded globular foot.
+
+HEMAGGLUTN12 is a 6-element fingerprint that provides a signature for
+sequences bearing both haemagglutinin HA1 and HA2 chains. The fingerprint
+was derived from an initial alignment of 6 sequences: motifs 1-3 correspond
+to elements 1, 7 and 8 of the HA1 fingerprint (see HEMAGGLUTN1); and motifs
+4-6 correspond to elements 1, 2 and 4 of the HA2 fingerprint (see
+HEMAGGLUTN2). Two iterations on OWL23.0 were required to reach convergence,
+at which point a true set comprising 141 sequences was identified. Numerous
+partial matches were also found, corresponding to sequences bearing either
+the HA1 or the HA2 chain, but not both. 
+
+An update on SPTR37_9f identified a true set of 173 sequences, and 20
+partial matches.

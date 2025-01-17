@@ -1,0 +1,28 @@
+ECOLIPORIN
+Porins are found in the outer membranes of Gram-negative bacteria,
+mitochondria and chloroplasts, where they form ion-selective channels for 
+small hydrophilic molecules (up to ~600 Da) [1,2]. X-ray structure analyses
+of several bacterial porins [3-5] have revealed a 16-stranded anti-parallel
+beta-barrel structure enclosing the transmembrane pore, by contrast with
+all other integral membrane proteins described to date, which are alpha-
+helical. Three subunits form a trimer; the 3-fold axis is approximately
+parallel to the barrel axes and is assumed to be perpendicular to the
+membrane plane [6].  
+
+From the range of porins now known, similarities have been observed between
+porins from different species, and between porins of different specificity
+within the same species. But most porins cannot be related to each other on
+the basis of sequence alone, and this is reflected in the lengths of the 
+known porin sequences, which range from 282-483 residues/monomer.
+
+ECOLIPORIN is a 6-element fingerprint that provides a signature for porins
+from E.coli, Salmonella, Klebsiella and so on. The fingerprint was derived
+from an initial alignment of 4 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length. Two
+iterations on OWL19.1 were required to reach convergence, at which point
+a true set comprising 12 sequences was identified. The fingerprint is
+selective for this particular family, and there is no cross-reaction with
+porins from Neisseria or with eukaryotic porins.
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 1
+partial match.

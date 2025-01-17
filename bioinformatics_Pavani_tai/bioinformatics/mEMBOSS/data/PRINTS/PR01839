@@ -1,0 +1,32 @@
+RAD23PROTEIN
+Rad23 is a highly conserved protein involved in nucleotide excision repair 
+(NER) [1,2]. It is believed that Rad23 is present in all eukaryotic 
+organisms from yeast to mammals [3], and the NER machinery has been 
+conserved in structure and function from yeast to humans [4]. In humans,  
+defective NER is the underlying cause of the cancer-related disease
+xeroderma pigmentosum [4].
+
+In order to facilitate assembly of the DNA repair complex on UV-damaged
+DNA, Rad23 binds DNA repair factors that play essential roles in NER and 
+specifically interacts with Rad4 [5].
+
+Rad23 possesses an N-terminal ubiquitin-like domain (UBL(R23)) and a 
+C-terminal ubiquitin-associated domain (UBA). UBLs interact with  
+catalytically active 26S proteasomes, while UBAs bind to polyubiquitin  
+chains [1,5,6]. A component of the base subcomplex of the regulatory 
+particle of the proteasome, Rnp1, specifically recognises the UbL domain 
+of Rad23 through its leucine-rich-repeat-like (LRR-like) domain. Thus, UBL  
+mediates the binding of Rad23 to proteasomes, which in turn promotes DNA 
+repair and modulates protein degradation, possibly by delivering 
+ubiquitinylated cargo to proteasomes [7]. The UBA domain is less understood.
+It has been shown that the synergistic action of its UBA domains, allows 
+Rad23 to interact with ubiquitinated cellular proteins [1,5]. Recently, 
+UBA domains have been shown to inhibit 26S proteasome-catalysed proteolysis
+by sequestering lysine 48-linked polyubiquitin chains [6].
+
+RAD23PROTEIN is a 4-element fingerprint that provides a signature for the
+DNA repair Rad23 proteins. The fingerprint was derived from an initial
+alignment of 19 sequences: the motifs were drawn from conserved regions
+toward the C-terminal portion of the alignment - motifs 2-4 span the second
+UBA domain. Two iterations on SPTR40_20f were required to reach convergence,
+at which point a true set comprising 22 sequences was identified.

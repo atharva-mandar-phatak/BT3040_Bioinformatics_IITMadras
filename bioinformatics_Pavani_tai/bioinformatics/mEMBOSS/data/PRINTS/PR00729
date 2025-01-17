@@ -1,0 +1,42 @@
+CDVENDOPTASE
+Proteolytic enzymes that exploit serine in their catalytic activity are
+ubiquitous, being found in viruses, bacteria and eukaryotes [1]. They
+include a wide range of peptidase activity, including exopeptidase, endo-
+peptidase, oligopeptidase and omega-peptidase activity. Over 20 families
+(denoted S1 - S27) of serine protease have been identified, these being
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+similarity and other functional evidence [1]. Structures are known for four
+of the clans (SA, SB, SC and SE): these appear to be totally unrelated,
+suggesting at least four evolutionary origins of serine peptidases and
+possibly many more [1].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and 
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Cattle diarrhoea virus and hog cholera virus belong to the pestiviruses, 
+single-stranded RNA viruses whose genomes encode one large polyprotein [1].
+The p80 endopeptidase resides towards the middle of the polyprotein and is
+responsible for processing all non-structural pestivirus proteins [1,3].
+The p80 enzyme is similar to other proteases in the SA clan and is predicted 
+to have a fold similar to that of chymotrypsin [1,4]. An HDS catalytic triad
+has been identified [4].
+
+CDVENDOPTASE is a 3-element fingerprint that provides a signature for the 
+cattle virus p80 endopeptidase and related peptides (family S31). The 
+fingerprint was derived from an initial alignment of 4 sequences: the motifs 
+were drawn from conserved regions around the active site of the p80 protease
+domain, the central residue of each motif being the active His, Asp and Ser
+respectively. Two iterations on OWL29.3 were required to reach convergence,
+at which point a true set comprising 30 sequences was identified. Three
+partial matches were also found, all of which are fragments that lack one
+of the 3 motifs.
+
+An update on SPTR37_9f identified a true set of 24 sequences.

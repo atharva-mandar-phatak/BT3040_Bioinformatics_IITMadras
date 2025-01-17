@@ -1,0 +1,65 @@
+**********************************************
+* Phosphomannose isomerase type I signatures *
+**********************************************
+
+Phosphomannose isomerase (EC 5.3.1.8) (PMI) [1,2] is the enzyme that catalyzes
+the interconversion   of   mannose-6-phosphate  and  fructose-6-phosphate.  In
+eukaryotes, it is  involved  in  the  synthesis  of     GDP-mannose which is a
+constituent of N- and O-linked glycans as well as GPI anchors. In prokaryotes,
+it is  involved  in  a  variety  of pathways including capsular polysaccharide
+biosynthesis and D-mannose metabolism.
+
+Three classes  of  PMI have been defined on the basis of sequence similarities
+[1]. The first  class comprises all known eukaryotic PMI as well as the enzyme
+encoded by  the  manA gene in enterobacteria such as Escherichia coli. Class I
+PMI's are  proteins  of about  42 to 50 Kd which bind a zinc ion essential for
+their activity.
+
+As signature patterns  for class I PMI, we selected two conserved regions. The
+first one  is  located in the N-terminal section of these proteins, the second
+in the  C-terminal  half.  Both patterns contain a residue involved [3] in the
+binding of the zinc ion.
+
+-Consensus pattern: Y-x-D-x-N-H-K-P-E
+                    [E is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: H-A-Y-[LIVM]-x-G-x(2)-[LIVM]-E-x-M-A-x-S-D-N-x-[LIVM]-R-A-
+                    G-x-T-P-K
+                    [H is a zinc ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Proudfoot A.E.I.; aep6830@ggr.co.uk
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Proudfoot A.E.I., Turcatti G., Wells T.N., Payton M.A., Smith D.J.
+     "Purification, cDNA cloning and heterologous expression of human
+     phosphomannose isomerase."
+     Eur. J. Biochem. 219:415-423(1994).
+     PubMed=8307007
+[ 2] Coulin F., Magnenat E., Proudfoot A.E.I., Payton M.A., Scully P.,
+     Wells T.N.C.
+     "Identification of Cys-150 in the active site of phosphomannose
+     isomerase from Candida albicans."
+     Biochemistry 32:14139-14144(1993).
+     PubMed=8260497
+[ 3] Cleasby A., Wonacott A., Skarzynski T., Hubbard R.E., Davies G.J.,
+     Proudfoot A.E.I., Bernard A.R., Payton M.A., Wells T.N.C.
+     "The x-ray crystal structure of phosphomannose isomerase from Candida
+     albicans at 1.7 angstrom resolution."
+     Nat. Struct. Biol. 3:470-479(1996).
+     PubMed=8612079
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

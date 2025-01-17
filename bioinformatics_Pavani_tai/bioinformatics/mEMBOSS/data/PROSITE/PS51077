@@ -1,0 +1,91 @@
+************************************************************
+* IclR-type HTH and iclR effector binding domains profiles *
+************************************************************
+
+The  iclR-type  HTH  domain  is  a DNA-binding, winged helix-turn-helix (wHTH)
+domain of about 60 amino acids present in transcription regulators of the iclR
+family,  involved  in carbon metabolism in eubacteria and archaea. The domains
+are  named  after  Escherichia  coli  iclR  (isocitrate  lyase  regulator),  a
+repressor   of   the   glyoxylate   bypass  operon  for  acetate  utilization.
+Transcription  regulators  of  the  iclR  family  contain the DNA-binding wHTH
+domain  in  the  N-terminal part. The C-terminal part contains a ~170 residues
+regulatory  domain, termed Effector binding Domain (ED) as it may bind a small
+effector  or  signal  molecule.  Most  iclR-type  transcription regulators are
+repressors  of specific catabolic genes in the absence of specific substrates,
+while excess of a specific effector triggers de-repression. IclR-like proteins
+can  function  as  regulators  for small catabolites and aromatic hydrocarbons
+metabolism, for control of sporulation and of virulence [1-3].
+
+The   structure   of  Thermotoga  maritima  iclR  shows  that  the  N-terminal
+DNA-binding domain is composed of three helices (H) and a beta-hairpin (B1-B2)
+in  the  topology: H1-H2-H3-B1-B2 (see <PDB:1MKM>). The helix-turn-helix motif
+comprises  helices  2  and 3; helix 3 is termed the recognition helix, like in
+other  wHTHs  where  it binds the DNA major groove. The beta-hairpin is called
+the  wing. C-terminal to the DNA-binding domain, helix 4 and a short loop form
+a  linking  region.  The  C-terminal effector binding domain forms a structure
+similar  to  that  of  versatile,  small molecule-binding GAF/PAS domains (see
+<PDB:1TF1>) [4]. IclR-like regulators can form dimers or tetramers and seem
+to recognize a short palindromic operator/promoter [2-4].
+
+Some proteins known to contain an iclR-type HTH and effector binding domain:
+
+ - Escherichia  coli  iclR,  a  repressor  of the aceBAK operon (also known as
+   glyoxylate bypass operon) for acetate utilization.
+ - Streptomyces  coelicolor  gylR,  a  repressor of the gylCABX operon for the
+   glycerol    catabolism    pathway.   GylR   functions   glycerol-inducible,
+   glucose-repressible, and also as a negative autoregulator.
+ - Erwinia   chrysanthemi   kdgR,   a  repressor  of  the  genes  involved  in
+   pectinolysis and in pectinase secretion.
+ - Escherichia  coli  mhpR,  an  activator of the mhpRABCDEF operon coding for
+   components of the 3-hydroxyphenylpropionate degradation pathway.
+ - Acinetobacter strain ADP1 pcaU, a regulator of protocatechuate degradation.
+   PcaU  functions  as  a repressor or an activator depending on the levels of
+   the inducer protocatechuate, and autoregulatory.
+ - Acinetobacter strain ADP1 pobR, a transcription activator of pobA, involved
+   in the degradation of 4-hydroxybenzoate.
+
+The profiles we developed span the entire DNA-binding iclR-type HTH domain and
+the effector binding domain, the latter including the linker region.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Profiles and text revised.
+
+[ 1] Reverchon S., Nasser W., Robert-Baudouy J.
+     "Characterization of kdgR, a gene of Erwinia chrysanthemi that
+     regulates pectin degradation."
+     Mol. Microbiol. 5:2203-2216(1991).
+     PubMed=1840643
+[ 2] Molina-Henares A.J., Krell T., Eugenia Guazzaroni M., Segura A.,
+     Ramos J.L.
+     "Members of the IclR family of bacterial transcriptional regulators
+     function as activators and/or repressors."
+     FEMS Microbiol. Rev. 30:157-186(2006).
+     PubMed=16472303; DOI=10.1111/j.1574-6976.2005.00008.x
+[ 3] Zhang R.G., Kim Y., Skarina T., Beasley S., Laskowski R.,
+     Arrowsmith C., Edwards A., Joachimiak A., Savchenko A.
+     "Crystal structure of Thermotoga maritima 0065, a member of the IclR
+     transcriptional factor family."
+     J. Biol. Chem. 277:19183-19190(2002).
+     PubMed=11877432; DOI=10.1074/jbc.M112171200
+[ 4] Walker J.R., Altamentova S., Ezersky A., Lorca G., Skarina T.,
+     Kudritska M., Ball L.J., Bochkarev A., Savchenko A.
+     "Structural and Biochemical Study of Effector Molecule Recognition by
+     the E.coli Glyoxylate and Allantoin Utilization Regulatory Protein
+     AllR."
+     J. Mol. Biol. 0:0-0(2006).
+     PubMed=16546208; DOI=10.1016/j.jmb.2006.02.034
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

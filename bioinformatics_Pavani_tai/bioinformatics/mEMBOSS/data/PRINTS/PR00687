@@ -1,0 +1,26 @@
+TRPRNAAP
+The mtr operon encodes a presumed RNA-binding regulatory protein that is
+required for attenuation control of the trp operon [1]. The operon consists
+of two structural genes, mtrA and mtrB, predicted to encode 22kDa and 6kDa
+polypeptides respectively [1,2]. MtrB is similar to RegA, an RNA-binding
+regulatory protein of bacteriophage T4. Both mtrA and mtrB have been shown
+to be necessary for regulation of beta-galactosidase production. 
+
+The crystal structure of the Trp RNA-binding attenuation protein of 
+B.subtilis has been solved [3,4]. The protein is an ondecamer of 7-stranded 
+beta-sandwiches. The 11 subunits are stabilised by 11 inter-subunit strands,
+forming a beta-wheel with a large central hole. The binding of L-tryptophan
+in clefts between adjacent strands induces conformational changes in the
+protein [4]. It is possible that, on binding, the mRNA target forms a
+matching circle in which 11 U/GAG repeats are bound to the surface of the
+protein ondecamer modified by the binding of L-tryptophan [4]. 
+
+TRPRNAAP is a 4-element fingerprint that provides a signature for the
+transcription attenuation protein mtrB. The fingerprint was derived from
+an initial alignment of 2 sequences: the motifs span the full alignment
+length - motif 1 spans strands 1 and 2; motif 2 includes strand 3; motif 3
+spans strands 4 and 5; and motif 4 spans strands 6 and 7. A single iteration 
+on OWL29.2 was required to reach convergence, no further sequences being
+identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 2 sequences.

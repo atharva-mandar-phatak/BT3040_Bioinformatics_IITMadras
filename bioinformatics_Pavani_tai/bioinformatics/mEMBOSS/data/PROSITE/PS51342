@@ -1,0 +1,61 @@
+*****************************************
+* Colipase family signature and profile *
+*****************************************
+
+Colipase [1,2,3] is  a  protein   that  functions as a cofactor for pancreatic
+lipase, with  which  it  forms  a stoichiometric complex. It also binds to the
+bile-salt covered triacylglycerol interface thus allowing the enzyme to anchor
+itself to the water-lipid interface.
+
+As shown  in  the  following  schematic  representation,  colipase  is a small
+protein of approximately 100 amino-acid residues with five conserved disulfide
+bonds.
+
+                           +--------+
+                        +--|--+     |    +----------+
+                        |  |  |     |    |   *****  |
+                xxxxxxxxCxxCxCCxxxxxCxxxxCxxxxxCxCxxCxxxxxxxxCxxxx
+                             |                 | |           |
+                             +-----------------+ +-----------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As  a  signature pattern for this family, we chose a region which includes two
+of  the  cysteines  involved  in  disulfide  bonds,  as well as three tyrosine
+residues  which  seem  to  be  involved  in  the  interfacial binding. We also
+developed a profile that covers the whole colipase.
+
+-Consensus pattern: Y-x(2)-Y-Y-x-C-x-C
+                    [The 2 C's are involved in disulfide bonds]
+                    [The 3 Y's are involved in interfacial binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2007 / Text revised; profile added.
+
+[ 1] Erlanson-Albertsson C.
+     "Pancreatic colipase. Structural and physiological aspects."
+     Biochim. Biophys. Acta 1125:1-7(1992).
+     PubMed=1567900
+[ 2] Chapus C., Rovery M., Sarda L., Verger R.
+     "Minireview on pancreatic lipase and colipase."
+     Biochimie 70:1223-1234(1988).
+     PubMed=3147715
+[ 3] van Tilbeurgh H., Sarda L., Verger R., Cambillau C.
+     "Structure of the pancreatic lipase-procolipase complex."
+     Nature 359:159-162(1992).
+     PubMed=1522902; DOI=10.1038/359159a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

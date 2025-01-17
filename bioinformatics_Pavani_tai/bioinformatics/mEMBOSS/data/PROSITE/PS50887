@@ -1,0 +1,57 @@
+************************
+* GGDEF domain profile *
+************************
+
+The GGDEF  domain,  which  has been named after the conserved central sequence
+pattern GG[DE][DE]F  is  widespread in prokaryotes. It is typically present in
+multidomain  proteins  containing  regulatory domains of signaling pathways or
+protein-protein or  protein-ligand  interaction  modules, such as the response
+regulatory domain  (see  <PDOC50110)),  the  EAL domain (see <PDOC50883>), the
+PAS/PAC  domain  (see  <PDOC50112>),  the  HAMP domain  (see <PDOC50885>), the
+GAF  domain,  the  FHA  domain  (see  <PS50006>) or the TPR repeat. However  a
+few single-domain  proteins  are  also known. The GGDEF domain is involved  in
+signal transduction  and  is  likely  to  catalyze  synthesis or hydrolysis of
+cyclic diguanylate  (c-diGMP,  bis(3',5')-cyclic diguanylic acid), an effector
+molecule that consists of two cGMP moieties bound head-to-tail [1,2,3].
+
+Some proteins known to contain a GGDEF domain are listed below:
+
+ - Acetobacter    xylinus    diguanylate    cyclases   (DGCs)   and   c-di-GMP
+   phosphodiesterases A (PDEAs).
+ - Bacillus subtilis hypothetical protein yhcK.
+ - Caulobacter  crescentus  pleD  protein,  a response regulator that controls
+   cell differentiation in the swarmer-to-stalked cell transition.
+ - Rhizobium celR2, a putative response regulator protein.
+ - Salmonella protein adrA.
+
+The profile we developed covers the entire GGDEF domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2003 / Text revised.
+
+[ 1] Galperin M.Y., Nikolskaya A.N., Koonin E.V.
+     "Novel domains of the prokaryotic two-component signal transduction
+     systems."
+     FEMS Microbiol. Lett. 203:11-21(2001).
+     PubMed=11557134
+[ 2] Ausmees N., Mayer R., Weinhouse H., Volman G., Amikam D., Benziman M.,
+     Lindberg M.
+     "Genetic data indicate that proteins containing the GGDEF domain
+     possess diguanylate cyclase activity."
+     FEMS Microbiol. Lett. 204:163-167(2001).
+     PubMed=11682196
+[ 3] Pei J., Grishin N.V.
+     "GGDEF domain is homologous to adenylyl cyclase."
+     Proteins 42:210-216(2001).
+     PubMed=11119645
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

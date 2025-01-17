@@ -1,0 +1,28 @@
+3FE4SFRDOXIN
+In a few bacterial P450-containing systems, the transfer of electrons from
+flavoprotein reductase to P450 is mediated by 3Fe-4S ferredoxins [1-4].
+Despite functional similarity of such ferredoxins to the adrenodoxin
+family, they do not share sequence similarity. On the other hand, 3Fe-4S 
+proteins seem to be similar to some mono-[4Fe-4S] cluster ferredoxins, 
+but lack a fourth cysteine residue conserved in 4Fe-4S sequences [1]. It
+has been shown experimentally that the 4Fe-4S cluster of related
+ferredoxins from archaebacteria easily converts to a 3Fe-4S cluster [5].
+
+3D structures are now known for a number of ferredoxins. The fold belongs
+to the alpha + beta class, with 3 helices and 4 strands forming a barrel-
+like structure, and an extruded loop containing 3 of the 4 cysteinyl
+residues of the iron-sulphur cluster.                    
+
+3FE4SFRDOXIN is a 3-element fingerprint that provides a signature for 
+3Fe-4S ferredoxins. The fingerprint was derived from an initial alignment 
+of 8 sequences: the motifs each contain invariant Cys residues contributing
+to the cluster - motifs 1 and 2 are adjacent, spanning the second invariant
+Cys (in 4Fe-4S ferredoxins that are similar to 3Fe-4S proteins, motif 1
+contains an extra Cys residue contributing to the 4Fe-4S cluster). Three
+iterations on OWL26.0 were required to reach convergence, at which point a
+true set comprising 15 sequences was identified. Nine partial matches were
+also found: these include bacterial 4Fe-4S ferredoxins and a hypothetical
+protein involved in the biosynthesis of candicidin (PABT_STRGR).
+
+An update on SPTR37_9f identified a true set of 26 sequences, and 12
+partial matches.

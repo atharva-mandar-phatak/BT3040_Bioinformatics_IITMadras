@@ -1,0 +1,78 @@
+****************************
+* Transketolase signatures *
+****************************
+
+Transketolase  (EC 2.2.1.1) (TK)   catalyzes  the   reversible  transfer  of a
+two-carbon ketol unit from xylulose 5-phosphate to an aldose receptor, such as
+ribose 5-phosphate, to  form  sedoheptulose  7-phosphate and glyceraldehyde 3-
+phosphate. This enzyme, together with transaldolase, provides  a  link between
+the glycolytic and pentose-phosphate pathways.
+
+TK requires thiamine pyrophosphate as a cofactor. In most sources where TK has
+been purified, it is a homodimer of approximately 70 Kd subunits. TK sequences
+from a  variety  of  eukaryotic  and  prokaryotic  sources [1,2] show that the
+enzyme has been evolutionarily conserved.
+
+In the peroxisomes of    methylotrophic yeast Hansenula polymorpha, there is a
+highly  related  enzyme, dihydroxy-acetone  synthase (DHAS) (EC 2.2.1.3) (also
+known as   formaldehyde   transketolase),   which   exhibits  a  very  unusual
+specificity by including formaldehyde amongst its substrates.
+
+1-deoxyxylulose-5-phosphate synthase  (DXP  synthase)  [3] is an enzyme so far
+found in  bacteria  (gene  dxs)  and  plants  (gene  CLA1) which catalyzes the
+thiamine pyrophosphoate-dependent acyloin condensation reaction between carbon
+atoms 2  and  3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-
+xylulose-5-phosphate (dxp),   a  precursor  in  the  biosynthetic  pathway  to
+isoprenoids, thiamine  (vitamin  B1), and pyridoxol (vitamin B6). DXP synthase
+is evolutionary related to TK.
+
+We selected two regions of TK as signature patterns. The first, located in the
+N-terminal section, contains a histidine residue which appears to  function in
+proton transfer  during  catalysis  [4].  The second, located in  the  central
+section, contains conserved acidic residues  that are part of the active cleft
+and may participate in substrate-binding [4].
+
+-Consensus pattern: R-x(3)-[LIVMTA]-[DENQSTHKF]-x(5,6)-[GSN]-G-H-[PLIVMF]-
+                    [GSTA]-x(2)-[LIMC]-[GS]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Mycoplasma TK and human TK-2.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Consensus pattern: [GP]-[DEQGSANPHVT]-[DN]-G-[PAEQ]-[ST]-[HQ]-x-[PAGM]-
+                    [LIVMYACNQS]-[DEFYWLA]-x(2)-[STAPG]-x(2)-[RGANQS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Abedinia M., Layfield R., Jones S.M., Nixon P.F., Mattick J.S.
+     "Nucleotide and predicted amino acid sequence of a cDNA clone encoding
+     part of human transketolase."
+     Biochem. Biophys. Res. Commun. 183:1159-1166(1992).
+     PubMed=1567394
+[ 2] Fletcher T.S., Kwee I.L., Nakada T., Largman C., Martin B.M.
+     "DNA sequence of the yeast transketolase gene."
+     Biochemistry 31:1892-1896(1992).
+     PubMed=1737042
+[ 3] Sprenger G.A., Schorken U., Wiegert T., Grolle S., de Graaf A.A.,
+     Taylor S.V., Begley T.P., Bringer-Meyer S., Sahm H.
+     "Identification of a thiamin-dependent synthase in Escherichia coli
+     required for the formation of the 1-deoxy-D-xylulose 5-phosphate
+     precursor to isoprenoids, thiamin, and pyridoxol."
+     Proc. Natl. Acad. Sci. U.S.A. 94:12857-12862(1997).
+     PubMed=9371765
+[ 4] Lindqvist Y., Schneider G., Ermler U., Sundstroem M.
+     "Three-dimensional structure of transketolase, a thiamine diphosphate
+     dependent enzyme, at 2.5 A resolution."
+     EMBO J. 11:2373-2379(1992).
+     PubMed=1628611
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

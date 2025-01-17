@@ -1,0 +1,38 @@
+RABGDI
+Rab proteins, a family of small Ras-related GTP-binding proteins, are
+involved in regulation of intracellular vesicle trafficking [1]. Rab GDP 
+dissociation inhibitor (GDI) forms a soluble complex with Rab proteins,
+thereby preventing exchange of GDP for GTP. Rab GDI exists in several
+isoforms, and belongs to the TCD/MRS6 family of GDP dissociation inhibitors.
+
+The crystal structure of the bovine alpha-isoform of Rab GDI has been
+determined to a resolution of 1.81A [2]. The protein is composed of two
+main structural units: a large complex multi-sheet domain I, and a smaller
+alpha-helical domain II.
+
+The structural organisation of domain I is closely related to FAD-containing
+monooxygenases and oxidases [2]. Conserved regions common to GDI and the
+choroideraemia gene product (or Rab escort protein), which delivers Rab to
+catalytic subunits of Rab geranylgeranyltransferase II, are clustered on
+one face of the domain [2]. The two most conserved regions form a compact
+structure at the apex of the molecule; site-directed mutagenesis has shown
+these regions to play a critical role in the binding of Rab proteins [2].
+
+RABGDI is a 9-element fingerprint that provides a signature for Rab GDP
+dissociation inhibitors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from short conserved
+sections spanning the central portion of the alignment, focusing on those
+regions that characterise the RAB GDI proteins but distinguish them from 
+the rest of the GDI/REP family - motif 1 lies in helix 1; motif 2 spans the
+C-terminus of helix 2 and helix 3; motif 3 includes strand 5 and the
+N-terminus of helix 5; motif 4 spans the C-terminus of helix 7 and the N-
+terminus of helix 8; motif 5 encompasses the C-terminus of helix 11 and
+helix 12; motif 6 includes strands 10 and 11; motif 7 encompasses strand 14,
+helices 16 and 17, and the N-terminus of strand 15; motif 8 spans helix 18
+and strand 17; and motif 9 spans strand 18 and helix 20. Two iterations on
+OWL30.2 were required to reach convergence, at which point a true set
+comprising 23 sequences was identified. Three partial match were also found,
+GDIA_MOUSE, HUMGDPDIS and SSZ84059, all of which are fragments that lack one 
+or more motifs. 
+
+An update on SPTR37_9f identified a true set of 23 sequences.

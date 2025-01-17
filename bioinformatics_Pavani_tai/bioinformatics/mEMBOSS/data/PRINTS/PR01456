@@ -1,0 +1,35 @@
+EPMEMPROT3
+The epithelial membrane proteins (EMP-1, -2 and -3), peripheral myelin 
+protein 22 (PMP22), and lens fiber membrane intrinsic protein (LMIP)
+comprise a protein family on the basis of sequence and structural 
+similarities [1]. Each family member is a small hydrophobic membrane
+glycoprotein, ~160-170 amino acids in length, and shares a common predicted
+transmembrane (TM) topology of 4 TM domains, with intracellular N- and 
+C-termini [2]. 
+
+A role for the EMP family members in the control of cell growth has been 
+suggested [1]. EMP-1 is expressed at high levels in proliferating cells, and
+at reduced levels in cells undergoing growth arrest [3]. In contrast, 
+PMP22, which is co-expressed with EMP-1 in a range of tissues, displays an
+inverse pattern of regulation, with high levels of expression in cultured
+cells undergoing growth arrest [3]. It has therefore been proposed that
+these proteins may have reciprocal functions in the control of cell
+quiescence and proliferation.
+
+EMP-3, previously termed YMP, was identified by expressed sequence tag 
+(EST) database searching, pursuing sequences similar to EMP-1 [4]. Mouse,
+human and rat isoforms have been cloned. EMP-3 is expressed in a range of
+tissues, including peripheral blood leukocytes, ovary and intestine [4].
+Although its function has not been elucidated, it has been postulated that
+EMP-3 may be involved in the regulation of cell proliferation on the basis
+of its sequence similarity to EMP-1 [4].
+
+EPMEMPROT3 is a 4-element fingerprint that provides a signature for
+epithelial membrane protein EMP-3. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved TM 
+and loop regions, focusing on those sections that characterise epithelial 
+membrane protein EMP-3 but distinguish it from other family members - motifs
+1 and 2 lie within the first extracellular loop; motif 3 resides within
+TM domain 2; and motif 4 lies in TM domain 3. Two iterations on SPTR39_14f
+were required to reach convergence, at which point a true set comprising 4
+sequences was identified.

@@ -1,0 +1,67 @@
+********************************
+* Assassin bug toxin signature *
+********************************
+
+Assassin bugs  (Arthropoda:Insecta:Hemiptera:Reduviidae),  sometimes  known as
+conenoses or  'kissing  bugs',  are  one  of  the  largest and morphologically
+diverse families  of  true  bugs  feeding  on crickets, caterpillars and other
+insects. Some assassin bug species are bloodsucking parasites of mammals, even
+of human.  They  can  be commonly found throughout most of the world and their
+size varies  from a few millimeters to as much as 3 or 4 centimeters [E1]. The
+toxic saliva  of  the  predatory  assassin  bugs contains a complex mixture of
+small and  large  peptides  for  diverse  uses  such  as immobilizing and pre-
+digesting their  prey, and defense against competitors and predators. Assassin
+bug toxins  are  small  peptides  with disulfide connectivity that target ion-
+channels. They  are  relatively  homologous  to  the  calcium channel blockers
+omega-conotoxins (see  <PDOC60004>)  from marine cone snails and belong to the
+four-loop cysteine scaffold structural class [1,2].
+
+One of  these  small  proteins,  Ptu1,  blocks  reversibly  the N-type calcium
+channels, but at the same time is less specific for the L- or P/Q-type calcium
+channels [1].  Ptu1  is  34  amino acid residues long and is cross-linked by 3
+disulfide bridges.  Ptu1  contains  a beta-sheet region made of 2 antiparallel
+beta-strands and  consists  of a compact disulfide-bonded core from which four
+loops emerge as well as N- and C-termini (see <PDB:1I26; A>) [2].
+
+Some assassin bug toxins are listed below:
+
+ - Agriosphodrus dohrni toxin Ado1.
+ - Isyndus obscurus toxin Iob1.
+ - Peirates turpis toxin Ptu1.
+
+The signature pattern for assassin bug toxins contains six conserved cysteines
+involved in disulfide bonds within a knottin scaffold [E2].
+
+-Consensus pattern: C-[LI]-x(2)-G-[SA]-x-C-x-G-x(2)-K-x-C-C-x(4,5)-C-x(2)-Y-A-
+                    N-[RK]-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Ramakumar S.; ramak@physics.iisc.ernet.in
+
+-Last update: January 2005 / First entry.
+
+[ 1] Corzo G., Adachi-Akahane S., Nagao T., Kusui Y., Nakajima T.
+     "Novel peptides from assassin bugs (Hemiptera: Reduviidae): isolation,
+     chemical and biological characterization."
+     FEBS Lett. 499:256-261(2001).
+     PubMed=11423127
+[ 2] Bernard C., Corzo G., Mosbah A., Nakajima T., Darbon H.
+     "Solution structure of Ptu1, a toxin from the assassin bug Peirates
+     turpis that blocks the voltage-sensitive calcium channel N-type."
+     Biochemistry 40:12795-12800(2001).
+     PubMed=11669615; DOI=10.1021/bi015537j
+[E1] http://www.ivyhall.district96.k12.il.us/4th/kkhp/1insects/assassin
+[E2] http://knottin.cbs.cnrs.fr
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

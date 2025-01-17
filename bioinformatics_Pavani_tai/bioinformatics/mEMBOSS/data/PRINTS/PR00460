@@ -1,0 +1,37 @@
+BPEROXIDASE
+Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+the electron acceptor to catalyse a number of oxidative reactions.
+Most haem peroxidases follow the reaction scheme:
+
+Fe(3+) + H2O2            --> [Fe(4+)=O]R' (Compound I) + H2O
+[Fe(4+)=O]R' + substrate --> [Fe(4+)=O]R (Compound II) + oxidised substrate
+[Fe(4+)=O]R  + substrate -->  Fe(3+) + H2O + oxidised substrate
+
+In this mechanism, the enzyme reacts with one equivalent of H2O2 to give 
+[Fe(4+)=O]R' (compound I). This is a two-electron oxidation/reduction 
+reaction where H2O2 is reduced to water and the enzyme is oxidised. One 
+oxidising equivalent resides on iron, giving the oxyferryl [Fe(4+)=O] 
+intermediate, while in many peroxidases the porphyrin (R) is oxidised to 
+the porphyrin pi-cation radical (R'). Compound I then oxidises an organic 
+substrate to give a substrate radical [1].
+
+Peroxidases are found in bacteria, fungi, plants and animals. In certain
+bacterial species, haemoproteins of 575-745 residues have been found that
+exhibit both peroxidase and catalase (2 H2O2 --> O2 + 2 H2O) activities.
+It is thought that catalase-peroxidase provides protection to cells under
+oxidative stress [2].
+
+Bacterial catalase-peroxidases are approximately twice the size of plant 
+and fungal haem peroxidases. Sequence analysis suggests that this doubling
+in length can be ascribed to gene duplication, whereby each half is similar
+to monomeric plant or fungal peroxidases. However, the C-terminal half does
+not bind haem, so the bacterial enzymes have a single haem per subunit [3].
+
+BPEROXIDASE is a 5-element fingerprint that provides a signature for
+bacterial catalase-peroxidases. The fingerprint was derived from an initial
+alignment of 7 sequences: motif 9 comtains the invariant "proximal" His, 
+which serves the axial ligand of the haem iron. Five iterations on 
+SPTR57_40f were required to reach convergence, at which point a true set 
+comprising 692 sequences was identified. Thirty six partial matches were 
+also found, all of which are family members that fail to make signficant 
+matches with one or more motifs.

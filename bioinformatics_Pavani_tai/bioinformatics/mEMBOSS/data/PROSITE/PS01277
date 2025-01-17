@@ -1,0 +1,35 @@
+*****************************
+* Ribonuclease PH signature *
+*****************************
+
+Prokaryotic ribonuclease  PH  (EC 2.7.7.56) (RNase PH) [1] is a phosphorolytic
+exoribonuclease that  removes  nucleotide residues following the -CCA terminus
+of tRNA  and adds nucleotides to the ends of RNA molecules by using nucleoside
+diphosphates as substrates.
+
+RNase PH  is  a  conserved  protein  of  about  240 amino-acid residues. It is
+evolutionary related to Caenorhabditis elegans hypothetical protein B0564.1.
+
+As a signature pattern, we selected the most highly conserved region which is
+located in the central part of these proteins.
+
+-Consensus pattern: [CA]-[DE]-[LIVM](2)-[NQV]-[GTA]-D-[GA]-[SG]-x(2,3)-
+                    [TAVLC]-[AT]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Kelly K.O., Deutscher M.P.
+     Characterization of Escherichia coli RNase PH."
+     "J. Biol. Chem. 267:17153-17158(1992).
+     PubMed=1512253
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

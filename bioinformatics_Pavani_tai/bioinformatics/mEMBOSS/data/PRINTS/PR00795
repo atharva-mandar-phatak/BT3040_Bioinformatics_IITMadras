@@ -1,0 +1,34 @@
+RYANODINER
+Ryanodine receptors are involved in communication between transverse-tubules
+and the sarcoplamic reticulum of cardiac and skeletal muscle. The proteins 
+function as a Ca2+-release channels following depolarisation of transverse-
+tubules [1]. The function is modulated by Ca2+, Mg2+, ATP and calmodulin.
+
+Deficiency in the ryanodine receptor may be the cause of malignant
+hyperthermia (MH) and of central core disease of muscle (CCD) [2]. MH is
+an autosomal dominant disorder of skeletal muscle and is a principal
+cause of death due to anaesthesia.
+
+Calcium release activity of the receptors resides in the C-terminal region
+of the protein, the remaining part of the molecule forming a 'foot'
+structure that spans the junctional gap between the sarcoplamic reticulum
+and the transverse-tubule. The foot structure may interact with the
+cytoplasmic region of the dihydropyridine receptor.
+
+Analysis of the sequence reveals 10 potential transmembrane (TM) regions
+in the C-terminal fifth of the molecule and 2 further potential TM regions
+nearer to the centre [3]. These may contribute to the formation of the Ca2+ 
+conducting pore. The rest of the sequence is hydrophilic, and presumably
+constitutes the cytoplasmic domain of the protein. 
+
+RYANODINER is a 9-element fingerprint that provides a signature for the
+ryanodine receptors. The fingerprint was derived from an initial alignment
+of 9 sequences: the motifs were drawn from conserved regions spanning the
+N-terminal third of the alignment, i.e. within the cytoplasmic domain. Two
+iterations on OWL29.4 were required to reach convergence, at which point a
+true set comprising 22 sequences was identified. A single partial match was
+also found, CELK11C44, a C.elegans sequence that lacks the portion of
+sequence bearing the first two motifs.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 1
+partial match.

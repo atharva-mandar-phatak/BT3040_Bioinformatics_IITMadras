@@ -1,0 +1,26 @@
+ASNGLNASE
+Asparaginase, which is found in various plant, animal and bacterial cells,
+catalyses the deamination of asparagine to yield aspartic acid and an
+ammonium ion, resulting in a depletion of free circulatory asparagine in
+plasma [1]. The enzyme is effective in the treatment of human malignant
+lymphomas, which have a diminished capacity to produce asparagine
+synthetase: in order to survive, such cells absorb asparagine from blood
+plasma [2,3] - if Asn levels have been depleted by injection of
+asparaginase, the lymphoma cells die. Glutaminase, a similar enzyme,
+catalyses the deaminination of glutamine to glutamic acid and an ammonium
+ion [2]. Both enzymes are homotetramers [1]: two threonine residues in the
+N-terminal half of the proteins are involved in the catalytic activity.
+
+ASNGLNASE is a 3-element fingerprint that provides a signature for the 
+asparaginase/glutaminase family. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, motifs 1 and 2
+including the regions encoded by PROSITE patterns ASN_GLN_ASE_1 (PS00144)
+and ASN_GLN_ASE_2 (PS00917), which contain the 2 catalytically-important
+Thr residues. Two iterations on OWL22.1 were required to reach convergence,
+at which point a true comprising 7 sequences was identified. A single
+partial match was also found, ASG2_YEAST, an asparaginase that fails to
+make a significant match with motif 3.
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 3
+partial matches.

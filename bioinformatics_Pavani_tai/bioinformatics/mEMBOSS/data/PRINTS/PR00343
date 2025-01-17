@@ -1,0 +1,33 @@
+SELECTIN
+Selectins belong to a family of cell surface glycoproteins that has 3 main 
+divisions [1]: (i) endothelial leukocyte adhesion molecules (ELAM-1) -
+these are cytokine inducible endothelial cell surface glycoproteins 
+involved in the adherence of neutrophils; (ii) lymphocyte adhesion molecule
+(Lam-1) and its homologues - these are involved in the movement of lympho-
+cytes between the vascular and lymph systems by selective adherence to the 
+high endothelial venules in peripheral lymph nodes [2]; and (iii) granule 
+membrane protein 140 (GMP-140) - this is stored in platelets and Weibel-
+Palade bodies endothelial cells, and, upon induction by thrombin, is 
+rapidly mobilised to the cell surface where it mediates neutrophil and 
+monocyte adhesion [3]. 
+
+Members of the selectin superfamily have the same domain structure: they
+have an N-terminal lectin domain followed by an EGF repeat; a variable 
+number (between 2 and 9) of complement regulatory elements; a single trans-
+membrane region; and a short cytoplasmic anchor [1]. Some studies have 
+found distinct carbohydrate structures on leukocytes that are adhered to by
+selectins, suggesting that selectins are involved in the selective 
+trafficking of blood-borne components of the immune system [1].
+
+SELECTIN is a 4-element fingerprint that provides a signature for the
+selectin superfamily. The fingerprint was derived from an initial alignment
+of 6 sequences: the motifs were drawn from the complement binding repeat
+region. Two iterations on OWL19.0 were required to reach convergence, at
+which point a true set comprising 15 sequences was identified. Several
+partial matches were also found: these include subsets of complement
+receptor proteins that match just 2 or 3 motifs (3 of these, a serine
+protease and 2 apolipoprotein H sequences, have been shown to contain the
+'sushi' repeats of complement binding proteins).
+
+An update on SPTR37_9f identified a true set of 24 sequences, and 2
+partial matches.

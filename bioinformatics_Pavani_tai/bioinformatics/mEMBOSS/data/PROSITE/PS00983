@@ -1,0 +1,65 @@
+*********************************
+* Ly-6 / u-PAR domain signature *
+*********************************
+
+A variety of GPI-linked cell-surface glycoproteins are composed of one or more
+copies of a conserved domain  of  about  100 amino-acid residues [1,2].  These
+proteins are:
+
+ - Urokinase  plasminogen  activator  surface  receptor  u-PAR, which binds to
+   u-PA and is responsible for its proteolysis-independent signal transduction
+   activation effects.
+ - The mouse family of Ly-6 T-cell antigens (Ly-6A, -6C, -6E, -6F and -6G).
+ - CD59  (MACIF  or  MIRL),  an  inhibitor  of  the complement membrane attack
+   complex action.
+ - Herpesvirus saimiri CD59-related protein (gene 15).
+ - Mouse thymocyte B cell antigen (ThB).
+ - Squid glycoprotein Sgp-2.
+
+U-PAR contains  three  tandem  copies  of the domain, while all the others are
+made up of a single domain.
+
+As shown  in  the  following  schematic,  this  conserved  domain  contains 10
+cysteine residues  involved in five disulfide bonds - in u-PAR, the first copy
+of the domain lacks the fourth disulfide bond.
+
+     +------+     +------------------------+                    +---+
+     |      |     |                        |                    |   |
+ xCxxCxxxxxxCxxxxxCxxxxxCxxxxxxxxxxxxxxxxxxCxxxxCxxxxxxxxxxxxxxCCxxxCxxxxxxxx
+  |                     |                       |              |
+  +---------------------+                       +--------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+
+The signature  pattern  that  detects this domain starts towards its extremity
+and ends at the sixth cysteine.
+
+-Consensus pattern: [EQR]-C-[LIVMFYAH]-x-C-x(5,8)-C-x(3,8)-[EDNQSTV]-C-{C}-
+                    x(5)-C-x(12,24)-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Behrendt N., Ploug M., Patthy L., Houen G., Blasi F., Dano K.
+     "The ligand-binding domain of the cell surface receptor for
+     urokinase-type plasminogen activator."
+     J. Biol. Chem. 266:7842-7847(1991).
+     PubMed=1850423
+[ 2] Ploug M., Kjalke M., Ronne E., Weidle U., Hoyer-Hansen G., Dano K.
+     "Localization of the disulfide bonds in the NH2-terminal domain of the
+     cellular receptor for human urokinase-type plasminogen activator. A
+     domain structure belonging to a novel superfamily of
+     glycolipid-anchored membrane proteins."
+     J. Biol. Chem. 268:17539-17546(1993).
+     PubMed=8394346
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

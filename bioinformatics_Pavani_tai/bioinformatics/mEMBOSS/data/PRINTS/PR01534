@@ -1,0 +1,57 @@
+VOMERONASL1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Pheromones have evolved in all animal phyla, to signal sex and dominance
+status, and are responsible for stereotypical social and sexual behaviour
+among members of the same species. In mammals, these chemical signals are
+believed to be detected primarily by the vomeronasal organ (VNO), a
+chemosensory organ located at the base of the nasal septum [7]. The VNO is
+present in most amphibia, reptiles and non-primate mammals but is absent in
+birds, adult catarrhine monkeys and apes [6]. An active role for the human
+VNO in the detection of pheromones is disputed; the VNO is clearly present 
+in the foetus but appears to be atrophied or absent in adults [6]. Three 
+distinct families of putative pheromone receptors have been identified in 
+the vomeronasal organ (V1Rs, V2Rs and V3Rs). All are G protein-coupled 
+receptors but are only distantly related to the receptors of the main 
+olfactory system, highlighting their different role [7].
+
+The V1 receptors share between 50 and 90% sequence identity but have little
+similarity to other families of G protein-coupled receptors. They appear to
+be distantly related to the mammalian T2R bitter taste receptors [7] and the
+rhodopsin-like GPCRs [8]. In rat, the family comprises 30-40 genes. These
+are expressed in the apical regions of the VNO, in neurons expressing Gi2.
+Coupling of the receptors to this protein mediates inositol trisphosphate
+signalling [7]. A number of human V1 receptor homologues have also been
+found. The majority of these human sequences are pseudogenes [9] but an
+apparently functional receptor has been identified that is expressed in the
+human olfactory system [10].
+
+VOMERONASL1R is an 8-element fingerprint that provides a signature for the
+vomeronasal type 1 receptor family. The fingerprint was derived from an
+initial alignment of 10 sequences: the motifs were drawn from conserved
+sections within the loop and C-terminal regions, focusing on those areas
+of the alignment that characterise the vomeronasal type 1 receptors but
+distinguish them from the rest of the rhodopsin-like GPCR superfamily -
+motif 1 lies in the first cytoplasmic loop; motif 2 spans the first external
+loop; motif 3 encodes the second cytoplasmic loop; motif 4 lies in the
+second external loop; motifs 5 and 6 span the third cytoplasmic loop; motif
+7 encodes the third external loop; and motif 8 resides at the C-terminus.
+Two iterations on SPTR39_15f were required to reach convergence, at which 
+point a true set comprising 12 sequences was identified.

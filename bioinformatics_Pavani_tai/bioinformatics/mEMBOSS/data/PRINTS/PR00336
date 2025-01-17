@@ -1,0 +1,23 @@
+LYSASSOCTDMP
+Lysozyme-associated membrane glycoproteins (LAMP) are integral membrane
+proteins of, as yet, unknown function [1]. Their primary structures
+contain an internal repeat, each containing 4 conserved cysteine residues,
+which are presumably involved in disulphide bridge formation. The two 
+similar domains are separated by a proline-rich hinge region, and at the
+C-terminus is a transmembrane domain with a short cytoplasmic tail.
+
+Macrosialin (macrophage protein CD68) [2] is an integral membrane protein
+that shows some similarity to LAMP sequences. The primary structure
+contains a mucin-like region, followed by a proline-rich hinge, a single
+LAMP-like domain, a transmembrane region and a short cytoplasmic tail. 
+
+LYSASSOCTDMP is a 5-element fingerprint that provides a signature for LAMP
+and LAMP-like membrane glycoproteins. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions in the second domain, and include 3 of the conserved cysteines -
+motifs 1 and 3-5 encompass the regions encoded by PROSITE patterns LAMP_1
+(PS00310) and LAMP_2 (PS00311). Two iterations on OWL24.0 were required
+to reach convergence, at which point a true set comprising 16 sequences
+was identified.
+
+An update on SPTR37_9f identified a true set of 14 sequences.

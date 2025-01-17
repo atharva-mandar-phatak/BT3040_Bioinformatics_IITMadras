@@ -1,0 +1,71 @@
+EDG5RECEPTOR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Lysophospholipids (LPs), such as lysophosphatidic acid (LPA), sphingosine
+1-phosphate (S1P) and sphingosylphosphorylcholine (SPC), have long been
+known to act as signalling molecules in addition to their roles as
+intermediates in membrane biosynthesis [6]. They have roles in the
+regulation of cell growth, differentiation, apoptosis and development, and
+have been implicated in a wide range of pathophysiological conditions,
+including: blood clotting, corneal wounding, subarachinoid haemorrhage,
+inflammation and colitis [7]. A number of G protein-coupled receptors bind
+members of the lysophospholipid family - these include: the cannabinoid
+receptors; platelet activating factor receptor; OGR1, an SPC receptor
+identified in ovarian cancer cell lines; PSP24, an orphan receptor that has
+been proposed to bind LPA; and at least 8 closely related receptors, the EDG
+family, that bind LPA and S1P [6].
+
+S1P is released from activated platelets and is also produced by a number of
+other cell types in response to growth factors and cytokines [8]. It is
+proposed to act both as an extracellular mediator and as an intracellular
+second messenger. The cellular effects of S1P include growth related
+effects, such as proliferation, differentiation, cell survival and
+apoptosis, and cytoskeletal effects, such as chemotaxis, aggregation,
+adhesion, morphological change and secretion. The molecule has been
+implicated in control of angiogenesis, inflammation, heart-rate and tumour
+progression, and may play an important role in a number of disease states,
+such as atherosclerosis, and breast and ovarian cancer [8]. Recently, 5
+G protein-coupled receptors have been identified that act as high affinity
+receptors for S1P, and also as low affinity receptors for the related
+lysophospholipid, SPC [6]. EDG-1, EDG-3, EDG-5 and EDG-8 share a high degree
+of similarity, and are also referred to as lpB1, lpB3, lpB2 and lpB4,
+respectively. EDG-6 is referred to as lpC1, reflecting its more distant
+relationship to the other S1P receptors[6].
+
+EDG-5 is expressed abundantly in the heart and lung and at lower levels in
+the adult brain. It is also expressed strongly in the embryonic brain [6,9].
+Binding of S1P to EDG-5 activates G proteins of the Gi and Gq classes. G12
+and G13 proteins are also constitutively activated by the receptor. These
+couplings produce a wide range of cellular effects, including: increased
+cyclic AMP and calcium levels, activation of MAP kinases and actin
+rearrangement [6,8]. The receptor may have a role in neuronal development
+and, in zebrafish, has been found to be involved in the control of cell
+migration during development and organogenesis of the heart [10].
+
+EDG5RECEPTOR is a 7-element fingerprint that provides a signature for the
+EDG-5 sphingosine 1-phosphate receptor. The fingerprint was derived from an
+initial alignment of 3 sequences: the motifs were drawn from conserved
+sections within N- and C-terminal and cytoplasmic loop regions, focusing
+on those areas of the alignment that characterise the EDG-5 receptors but
+distinguish them from the rest of the sphingosine 1-phosphate receptor
+family - motifs 1 and 2 lie at the N-terminus; motif 3 spans the second
+cytoplasmic loop; motif 4 encodes the third cytoplasmic loop; and motifs 5-7
+span the C-terminus. A single iteration on SPTR39_15f was required to reach
+convergence, no further sequences being identified beyond the starting set.

@@ -1,0 +1,57 @@
+DADACBPTASE1
+Proteolytic enzymes that exploit serine in their catalytic activity are
+ubiquitous, being found in viruses, bacteria and eukaryotes [1]. They 
+include a wide range of peptidase activity, including exopeptidase, endo-
+peptidase, oligopeptidase and omega-peptidase activity. Over 20 families
+(denoted S1 - S27) of serine protease have been identified, these being
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+similarity and other functional evidence [1]. Structures are known for four
+of the clans (SA, SB, SC and SE): these appear to be totally unrelated,
+suggesting at least four evolutionary origins of serine peptidases and
+possibly many more [1].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and 
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Bacterial cell walls are complex structures containing amino acids and 
+amino sugars, with alternating chains of N-acetylglucosamine and N-acetyl-
+muramic acid units linked by short peptides [1]: the link peptide in E.coli
+is L-alanyl-D-isoglutamyl-L-meso-diaminopimelyl-D-alanine [1]. The chains
+are usually cross-linked between the carboxyl of D-alanine and the free
+amino group of diaminopimelate [1]. During the synthesis of peptidoglycan,
+the precursor has the described tetramer sequence with an added C-terminal
+D-alanine [1].
+
+D-Ala-D-Ala carboxypeptidase is involved in the metabolism of cell 
+components [3]; it is synthesised with a leader peptide to target it to 
+the cell membrane [1]. After cleavage of the leader peptide, the enzyme is 
+retained in the membrane by a C-terminal anchor [1]. There are three
+families of serine-type D-Ala-D-Ala peptidase, which are also known as
+low molecular weight penicillin-binding proteins [1].
+
+Family S11 contains only D-Ala-D-Ala peptidases, unlike families S12 and S13,
+which contain other enzymes, such as class C beta-lactamases and D-amino-
+peptidases [1]. Although these enzymes are serine proteases, some members
+of family S11 are partially inhibited by thiol-blocking agents [4].
+
+DADACBPTASE1 is a 3-element fingerprint that provides a signature for the
+D-Ala-D-Ala carboxypeptidase 1 (S11) family of serine proteases. The 
+fingerprint was derived from an initial alignment of 8 sequences: the motifs
+were largely drawn from conserved regions surrounding the active site -
+motif 1 contains the catalytic Ser and Lys residues; and motif 2 includes
+a Ser residue that has been implicated in catalysis in the related protein
+beta-lactamase A. Three iterations on OWL29.2 were required to reach
+convergence, at which point a true set comprising 21 sequences was
+identified. A single partial match was also found, CPDACF, a fragment 
+lacking the portion of sequence bearing motif 1.
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 1
+partial match.

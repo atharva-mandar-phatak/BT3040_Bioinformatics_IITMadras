@@ -1,0 +1,31 @@
+RHODOPSNTAIL
+Visual pigments are the light-absorbing molecules that mediate vision [1,2].
+They comprise an apoprotein (opsin), covalently linked to the chromophore
+cis-retinal. Vision is effected through the absorption of a photon by the
+chromophore, which is isomerised to the all-trans form, promoting a
+conformational change in the protein.
+
+Opsins are integral membrane proteins that belong to a superfamily of 
+G protein-coupled receptors. The activating ligands of the different super-
+family members vary widely in structure and character, yet the proteins
+appear faithfully to have conserved a basic structural framework, believed
+to consist of 7 transmembrane (TM) helices. Although the sequences of these
+proteins are very diverse, reflecting to some extent this broad range of
+activating ligands, nevertheless, motifs have been identified in the TM
+regions that are characteristic of virtually the entire superfamily [3,4]. 
+
+The sequences of the molluscan rhodopsins depart from those of other
+rhodopsins by virtue of bearing intra-cellular C-terminal tails, which are
+characterised by a repetitive Gln/Pro-rich motif [5,6]. Although the 
+precise function of the tail is unknown, it may be involved in the
+immobilisation of the protein in the membrane, or may be important in
+confering the high degree of order found in the microvilli of the 
+receptors (which itself may play a role in the detection of plane
+polarised light).
+
+RHODOPSNTAIL is a 3-element fingerprint that provides a signature for the
+C-terminal Pro/Gln-rich repeats of molluscan rhodopins. The fingerprint
+was derived from an initial alignment of 3 sequences: the motifs were drawn
+exclusively from the C-terminal repeat region. Two iterations on SPTR57_40f
+were required to reach convergence, at which point a true set comprising 6
+sequences was identified.

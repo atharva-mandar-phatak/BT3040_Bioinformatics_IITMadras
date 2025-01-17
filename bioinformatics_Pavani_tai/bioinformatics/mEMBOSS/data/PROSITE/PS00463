@@ -1,0 +1,116 @@
+*****************************************************************
+* Zn(2)-C6 fungal-type DNA-binding domain signature and profile *
+*****************************************************************
+
+A number of fungal transcriptional activator proteins contain a  cysteine-rich
+region that  binds  DNA  in  a zinc-dependent fashion. It has been shown [1,2]
+that this  region forms a binuclear zinc cluster where six conserved cysteines
+bind two zinc cations. Some proteins known to contain such a domain are listed
+below [3].
+
+  Gene name(s)      Biological source        Scope of activatory action
+  ---------------   ---------------------    ---------------------------------
+  aflR              Aspergillus              Aflatoxin biosynthesis
+  amdR or intA      Emericella nidulans      Amides catabolism
+  ARGR2 or ARG81    Yeast                    Arginine metabolism
+  CAT8 or MSP8      Yeast                    Gluconeogenic enzymes
+  CBF3B or CEP3     Yeast                    Chromosome segregation
+  CHA4              Yeast                    L-serine dehydratase
+  CYP1 or HAP1      Yeast                    Iso-1 and iso-2 cytochrome c
+  CZF1              Candida albicans         Unknown
+  GAL4              Yeast                    Galactose metabolism
+  LAC9              Kluyveromyces lactis     Galactose metabolism
+  LEU3              Yeast                    Leucine biosynthesis
+  LYS14             Yeast                    Lysine biosynthesis
+  MAL1R or MAL13    Yeast                    Maltose metabolism
+  MAL3R or MAL33    Yeast                    Maltose metabolism
+  MAL6R or MAL63    Yeast                    Maltose metabolism
+  nirA              Emericella nidulans      Nitrate assimilation
+  nit-4             Neurospora crassa        Nitrate assimilation
+  PDR1 or CYH3      Yeast                    Permeability
+  PDR3              Yeast                    Permeability ?
+  PIP2              Yeast                    Peroxisome proliferation
+  PPR1              Yeast                    Pyrimidine metabolism
+  PUT3              Yeast                    Proline metabolism
+  qa-1f             Neurospora crassa        Quinate metabolism
+  qutA              Emericella nidulans      Quinate metabolism
+  SEF1              Yeast & K.lactis         ?
+  SIP4              Yeast                    Unknown
+  STB5              Yeast                    Unknown
+  SUC1              Candida albicans         Sucrose utilization
+  TEA1              Yeast                    Ty1 enhancer binding
+  thi1 or ntf1      Fission yeast            Thiamine repressible genes
+  THI2              Yeast                    Thiamine biosynthesis
+  uaY               Emericella nidulans      Purine utilization
+  UGA3              Yeast                    GABA catabolism
+  UGA35 or DAL81    Yeast                    GABA, urea, arginine, allantoin
+                                             and catabolism
+  UME6              Yeast                    Many genes such as arginase,
+                                             sporulation genes, etc.
+
+  YAL051w           Yeast                    ? (Chromosome I)
+  YBR033w           Yeast                    ? (Chromosome II)
+  YBR150c           Yeast                    ? (Chromosome II)
+  YBR239c           Yeast                    ? (Chromosome II)
+  YCR106w           Yeast                    ? (Chromosome III)
+  YDR213c           Yeast                    ? (Chromosome IV)
+  YDR303c           Yeast                    ? (Chromosome IV)
+  YDR421w           Yeast                    ? (Chromosome IV)
+  YDR520c           Yeast                    ? (Chromosome IV)
+  YER184c           Yeast                    ? (Chromosome V)
+  YFL052w           Yeast                    ? (Chromosome VI)
+  YHR056c           Yeast                    ? (Chromosome VIII)
+  YIL130w           Yeast                    ? (Chromosome IX)
+  YJL103c           Yeast                    ? (Chromosome X)
+  YJL206c           Yeast                    ? (Chromosome X)
+  YKL038w           Yeast                    ? (Chromosome XI)
+  YKL222c           Yeast                    ? (Chromosome XI)
+  YKR064w           Yeast                    ? (Chromosome XI)
+  YLR278c           Yeast                    ? (Chromosome XII)
+  YML076c           Yeast                    ? (Chromosome XIII)
+  YMR019w           Yeast                    ? (Chromosome XIII)
+  YNR063w           Yeast                    ? (Chromosome XIV)
+  YPL133c           Yeast                    ? (Chromosome XVI)
+
+The spacing of the cysteines in this  type of domain is C-x(2)-C-x(6)-C-x(5 to
+12)-C-x(2)-C-x(6 to 8)-C.  There  are also a number of other conserved residues
+in the loop regions  between the cysteines  which can be used to help define a
+specific pattern  for  such  a  domain. This domains is generally found in the
+N-terminal section  of  these  proteins with the exception of UME6 where it is
+found in the C-terminal section.
+
+-Consensus pattern: [GASTPV]-C-x(2)-C-[RKHSTACW]-x(2)-[RKHQ]-x(2)-C-x(5,12)-C-
+                    x(2)-C-x(6,8)-C
+                    [The 6 C's are zinc ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: human ultra high-sulfur keratin.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2005 / Text revised.
+
+[ 1] Pan T., Coleman J.E.
+     "GAL4 transcription factor is not a 'zinc finger' but forms a
+     Zn(II)2Cys6 binuclear cluster."
+     Proc. Natl. Acad. Sci. U.S.A. 87:2077-2081(1990).
+     PubMed=2107541
+[ 2] Marmorstein R., Carey M., Ptashne M., Harrison S.C.
+     "DNA recognition by GAL4: structure of a protein-DNA complex."
+     Nature 356:408-414(1992).
+     PubMed=1557122; DOI=10.1038/356408a0
+[ 3] Schjerling P., Holmberg S.
+     "Comparative amino acid sequence analysis of the C6 zinc cluster
+     family of transcriptional regulators."
+     Nucleic Acids Res. 24:4599-4607(1996).
+     PubMed=8967907
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,35 @@
+SECETRNLCASE
+Secretion across the inner membrane in some Gram-negative bacteria occurs
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component. [1]. From there, the mature proteins are either 
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome.
+
+The translocase itself comprises 7 proteins, and consists of a chaperone 
+(SecB), an ATPase (SecA), an integral membrane complex (SecY, SecE and SecG),
+and two additional membrane proteins that promote the release of the mature
+peptide into the periplasm (SecD and SecF) [1]. SecE, part of the main 
+SecYEG translocase complex, is ~106 residues in length, and spans the 
+inner membrane of the Gram-negative bacterial envelope [2]. Together with
+SecY and SecG, SecE forms a multimeric channel through which preproteins
+are translocated, using both proton motive forces and ATP-driven secretion
+[3]. The latter is mediated by SecA. 
+
+Recently, using cysteine scanning mutatgenesis, it has been found that the 
+seventh transmembrane (TM) segment of SecY interacts with the third TM 
+segment of SecE [4]. This alpha-helical cross-linking shows that SecY and 
+SecE exist in a 1:1 stoichiometry in the complex. The SecE protein itself 
+remains unaltered during preprotein insertion into the translocase pore,
+retaining its tertiary structure [4].
+
+SECETRNLCASE is a 4-element fingerprint that provides a signature for the
+bacterial translocase SecE family. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved 
+regions spanning the C-terminal portion of the alignment - motif 1 encodes
+putative TM domain 2; motif 2 spans the following cytoplasmic loop; motif 3
+encodes putative TM domain 3; and motif 4 resides at the periplasmic
+C-terminus. Two iterations on SPTR40_18f were required to reach convergence,
+at which point a true set comprising 7 sequences was identified. A single
+partial match was also found, Q9HWC3, a Pseudomonas aeruginosa SecE 
+homologue that fails to make a significant match with motif 4.

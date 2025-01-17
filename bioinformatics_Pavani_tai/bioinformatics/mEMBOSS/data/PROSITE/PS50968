@@ -1,0 +1,80 @@
+**********************************
+* Biotinyl/lipoyl domain profile *
+**********************************
+
+Biotin  and lipoic acid moieties are the covalently bound cofactors of several
+multicomponent  enzyme  complexes  that catalyze key metabolic reactions. They
+are  attached to a lysine residue, via an amide bond, by specific biotinyl and
+lipoyl  protein  ligases. The lipoyl-lysine and biotinyl-lysine residues serve
+as  swinging  arms, ferrying substrate between the three active sites in their
+relevant   enzyme   complexes   [1].   The   80   residues   surrounding   the
+biotinyl-binding  lysine  residue  (see  <PDOC00167>)  display  some  sequence
+similarity   to   that   around   the   lipoyl-binding   lysine  residue  (see
+<PDOC00168>).
+
+The  lipoyl  domains of 2-oxo acid dehydrogenase multienzyme complexes and the
+biotinyl  domains  of biotin-dependent enzymes have been solved [2,3] (see for
+example  <PDB:1PMR>).  They have homologous structures (a flattened 8-stranded
+-barrel)   with   their   target  lysine  residues  positioned  in  comparable
+beta-turns.   Several   residues  important  for  the  specificity  have  been
+identified,  most  notably the conserved methionine flanking the target lysine
+is  essential  for  the  recognition  of  the  biotinyl domain by the biotinyl
+protein ligase [4].
+
+Enzymes that contain a biotinyl domain are listed below:
+
+ - Pyruvate carboxylase (EC 6.4.1.1).
+ - Acetyl-CoA carboxylase (EC 6.4.1.2).
+ - Propionyl-CoA carboxylase (EC 6.4.1.3).
+ - Methylcrotonyl-CoA carboxylase (EC 6.4.1.4).
+ - Geranoyl-CoA carboxylase (EC 6.4.1.5).
+ - Urea carboxylase (EC 6.3.4.6).
+ - Oxaloacetate decarboxylase (EC 4.1.1.3).
+ - Methylmalonyl-CoA decarboxylase (EC 4.1.1.41).
+ - Glutaconyl-CoA decarboxylase (EC 4.1.1.70).
+ - Methylmalonyl-CoA carboxyl-transferase (EC 2.1.3.1) (transcarboxylase).
+
+Enzymes that contain a lipoyl domain are listed below:
+
+ - Pyruvate dehydrogenase complex (PDC).
+ - 2-oxoglutarate dehydrogenase complex (OGDC).
+ - Branched-chain 2-oxo acid dehydrogenase complex (BCOADC).
+
+The profile we developed covers the whole biotinyl/lipoyl domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2004 / First entry.
+
+[ 1] Perham R.N., Reche P.A.
+     "Swinging arms in multifunctional enzymes and the specificity of
+     post-translational modification."
+     Biochem. Soc. Trans. 26:299-303(1998).
+     PubMed=9765868
+[ 2] Ricaud P.M., Howard M.J., Roberts E.L., Broadhurst R.W., Perham R.N.
+     "Three-dimensional structure of the lipoyl domain from the
+     dihydrolipoyl succinyltransferase component of the 2-oxoglutarate
+     dehydrogenase multienzyme complex of Escherichia coli."
+     J. Mol. Biol. 264:179-190(1996).
+     PubMed=8950276
+[ 3] Athappilly F.K., Hendrickson W.A.
+     "Structure of the biotinyl domain of acetyl-coenzyme A carboxylase
+     determined by MAD phasing."
+     Structure 3:1407-1419(1995).
+     PubMed=8747466
+[ 4] Reche P.A., Howard M.J., Broadhurst R.W., Perham R.N.
+     "Heteronuclear NMR studies of the specificity of the
+     post-translational modification of biotinyl domains by biotinyl
+     protein ligase."
+     FEBS Lett. 479:93-98(2000).
+     PubMed=10981714
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

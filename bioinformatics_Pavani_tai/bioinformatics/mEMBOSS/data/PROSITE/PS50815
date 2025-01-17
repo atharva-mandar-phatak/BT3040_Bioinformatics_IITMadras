@@ -1,0 +1,49 @@
+************************
+* HORMA domain profile *
+************************
+
+The  HORMA  domain (for HOP1, REV7 and MAD2)  is an  about 180-240 amino acids
+region  containing  several  conserved  motifs.  Whereas the MAD2 and the REV7
+proteins  are almost entirely made up of HORMA domains,  HOP1 contains a HORMA
+domain  in  its  N-terminal  region  and  a  Zn-finger  domain,  whose general
+arrangement  of metal-chelating residues is similar to that of the PHD finger,
+in  the  C-terminal  region.  The  HORMA domain is found in proteins showing a
+direct  association  with chromatin of all crown group eukaryotes. It has been
+suggested  that  the HORMA domain recognizes chromatin states that result from
+DNA  adducts, double-stranded breaks or non-attachment to the spindle and acts
+as an adaptor that recruits other proteins involved in repair [1].
+
+Secondary  structure prediction suggests that the HORMA domain is globular and
+could  potentially  form a complex beta-sheet(s) with associated alpha-helices
+[1].
+
+Some proteins known to contain a HORMA domain are listed below:
+
+ - Eukaryotic  HOP1,  a   conserved  protein  that  is  involved  in  meiotic-
+   synaptonemal-complex assembly.
+ - Eukaryotic  mitotic-arrest-deficient  2  protein (MAD2), a key component of
+   the mitotic-spindle-assembly checkpoint.
+ - Eukaryotic  REV7,  a subunit of the DNA polymerase zeta that is involved in
+   translesion, template-independent DNA synthesis.
+
+We have developed a profile that covers the entire HORMA domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2003 / First entry.
+
+[ 1] Aravind L., Koonin E.V.
+     "The HORMA domain: a common structural denominator in mitotic
+     checkpoints, chromosome synapsis and DNA repair."
+     Trends Biochem. Sci. 23:284-286(1998).
+     PubMed=9757827
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

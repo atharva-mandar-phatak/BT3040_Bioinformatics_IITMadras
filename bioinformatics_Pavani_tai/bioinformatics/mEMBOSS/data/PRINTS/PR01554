@@ -1,0 +1,40 @@
+FIMREGULATRY
+The Gram-negative pathogen Escherichia coli causes several common bacterial 
+illnesses in humans, including diarrhoea, neonatal meningitidis and urinary 
+tract infections. Attachment to host tissues is essential for successful 
+invasion, and requires interaction between a bacterial adhesive protein and 
+its target receptor. This protein is usually supported on a larger structure 
+made up of heteropolymeric fibres [1]. Pyelonephritogenic E.coli
+specifically invade the uroepithelium by expressing between 100 and 300 
+pili on their cell surface. Pili are macromolecular structures that allow 
+binding to a digalactoside receptor in the urinary tract. Control of  
+transcription of these moieties is carried out by a regulatory protein, 
+situated adjacent to the pili genes on the host genome.
+
+P pili, or fimbriae, are ~68A in diameter and 1 micron in length, the
+bulk of which is a fibre composed of the main structural protein PapA [1].
+At its tip, the pilus is terminated by a fibrillum consisting of repeating
+units of the PapE protein. This, in turn, is topped by the adhesins, PapF
+and PapG, both of which are needed for receptor binding. The tip fibrillum
+is anchored to the main PapA fibre by the PapK pilus-adaptor protein. PapH,
+an outer membrane protein, then anchors the entire rod in the bacterial
+envelope [2]. A cytoplasmic chaperone (PapD) assists in assembling the 
+monomers of the macromolecule in the membrane. 
+
+All of the functional pap genes are arranged in a cluster (operon) on the 
+Escherichia genome. It is believed that selective pressure exerted by the 
+host's urinal and intestinal tract isoreceptors forced the spread of this 
+operon to other strains via lateral transfer [3]. PapB, encoded within the 
+cluster, acts as a transcriptional regulator of the functional pap genes
+and is located in the bacterial cytoplasm [4]. Its mechanism involves
+differential binding to separate sites in the cluster, suggesting that 
+this protein is both an activator and repressor of pilus-adhesion 
+transcription. The protein shares similarity with other E.coli fimbrial-
+adhesion transcription regulators, such as AfaA, DaaA and FanB.
+
+FIMREGULATRY is a 3-element fingerprint that provides a signature for 
+the Escherichia coli P pili regulatory PapB protein family. The fingerprint 
+was derived from an initial alignment of 12 sequences: the motifs were 
+drawn from conserved regions spanning the full alignment length (~100 
+amino acids). A single iteration on SPTR39_14f was required to reach 
+convergence, no further sequences being identified beyond the starting set.

@@ -1,0 +1,101 @@
+******************************************
+* UvrD-like DNA helicase domain profiles *
+******************************************
+
+Helicases  have  been  classified in 5 superfamilies (SF1-SF5) [1]. All of the
+proteins  bind ATP and, consequently, all of them carry the classical Walker A
+(phosphate-binding   loop   or   P-loop)   (see   <PDOC00017>)  and  Walker  B
+(Mg2+-binding  aspartic acid) motifs [1]. For the two largest groups, commonly
+referred  to  as SF1 and SF2, a total of seven characteristic motifs have been
+identified   [2]  which  are  distributed  over  two  structural  domains,  an
+N-terminal ATP-binding domain and a C-terminal domain. UvrD-like DNA helicases
+belong  to  SF1, but they differ from classical SF1/SF2 (see <PDOC51192>) by a
+large  insertion  in  each  domain.  UvrD-like DNA helicases unwind DNA with a
+3'-5' polarity [3].
+
+Crystal  structures  of  several uvrD-like DNA helicases have been solved (see
+for  example <PDB:1UAA>) [4,5,6]. They are monomeric enzymes consisting of two
+domains  with  a  common  alpha-beta  RecA-like  core. The ATP-binding site is
+situated  in  a cleft between the N-terminus of the ATP-binding domain and the
+beginning  of  the C-terminal domain. The enzyme crystallizes in two different
+conformations (open and closed). The conformational difference between the two
+forms  comprises  a  large  rotation  of  the  end of the C-terminal domain by
+approximately  130°.  This  "domain swiveling" was proposed to be an important
+aspect of the mechanism of the enzyme [5].
+
+Some  proteins  that  belong  to  the uvrD-like DNA helicase family are listed
+below:
+
+ - Bacterial  UvrD  helicase.  It  is  involved in the post-incision events of
+   nucleotide  excision repair and methyl-directed mismatch repair. It unwinds
+   DNA  duplexes  with  3'-5'  polarity  with  respect to the bound strand and
+   initiates  unwinding  most  effectively  when  a  single-stranded region is
+   present.
+ - Gram-positive  bacterial pcrA helicase, an essential enzyme involved in DNA
+   repair  and  rolling  circle  replication.  The  Staphylococcus aureus pcrA
+   helicase has both 5'-3' and 3'-5' helicase activities.
+ - Bacterial  rep proteins, a single-stranded DNA-dependent ATPase involved in
+   DNA replication which can initiate unwinding at a nick in the DNA. It binds
+   to  the single-stranded DNA and acts in a progressive fashion along the DNA
+   in the 3' to 5' direction.
+ - Bacterial  helicase  IV  (helD gene product). It catalyzes the unwinding of
+   duplex DNA in the 3'-5' direction.
+ - Bacterial  recB  protein.  RecBCD is a multi-functional enzyme complex that
+   processes DNA ends resulting from a double-strand break. RecB is a helicase
+   with a 3'-5' directionality.
+ - Fungal  srs2 proteins, an ATP-dependent DNA helicase involved in DNA repair.
+   The polarity of the helicase activity was determined to be 3'-5'.
+
+To recognize uvrD-like DNA helicases we have developed two profiles. The first
+one  recognizes  the  ATP-binding  domain,  whereas the second one is directed
+against the C-terminal domain.
+
+-Sequences known to belong to this class detected by the first profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the second profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2006 / First entry.
+
+[ 1] Gorbalenya A.E., and Koonin E.V. .
+     "Helicases: amino acid sequence comparisons and structure-function
+     relationships."
+     Curr. Opin. Struct. Biol. 3:419-429(1993).
+[ 2] Gorbalenya A.E., Koonin E.V., Donchenko A.P., Blinov V.M.
+     "Two related superfamilies of putative helicases involved in
+     replication, recombination, repair and expression of DNA and RNA
+     genomes."
+     Nucleic Acids Res. 17:4713-4730(1989).
+     PubMed=2546125
+[ 3] Soultanas P., Wigley D.B.
+     "DNA helicases: 'inching forward'."
+     Curr. Opin. Struct. Biol. 10:124-128(2000).
+     PubMed=10679457
+[ 4] Korolev S., Hsieh J., Gauss G.H., Lohman T.M., Waksman G.
+     "Major domain swiveling revealed by the crystal structures of
+     complexes of E. coli Rep helicase bound to single-stranded DNA and
+     ADP."
+     Cell 90:635-647(1997).
+     PubMed=9288744
+[ 5] Velankar S.S., Soultanas P., Dillingham M.S., Subramanya H.S.,
+     Wigley D.B.
+     "Crystal structures of complexes of PcrA DNA helicase with a DNA
+     substrate indicate an inchworm mechanism."
+     Cell 97:75-84(1999).
+     PubMed=10199404
+[ 6] Singleton M.R., Dillingham M.S., Gaudier M., Kowalczykowski S.C.,
+     Wigley D.B.
+     "Crystal structure of RecBCD enzyme reveals a machine for processing
+     DNA breaks."
+     Nature 432:187-193(2004).
+     PubMed=15538360; DOI=10.1038/nature02988
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

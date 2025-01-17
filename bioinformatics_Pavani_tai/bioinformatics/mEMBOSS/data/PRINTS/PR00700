@@ -1,0 +1,36 @@
+PRTYPHPHTASE
+Tyrosine specific protein phosphatases (PTPase) catalyse the removal of 
+phosphate groups attached to tyrosine residues [1-5]. The enzymes play an
+important role in the control of cell growth, proliferation, differentiation
+and transformation. Multiple forms of PTPase have been characterised and can
+be classified into 2 groups: soluble PTPases and transmembrane (TM) receptor
+proteins that contain PTPase domains.
+
+The structures of receptor PTPases comprise a variable length extracellular
+domain, followed by a TM region and a cytoplasmic C-terminal catalytic
+domain. The extracellular regions of some receptor PTPases house fibronectin
+type III repeats, immunoglobulin-like domains, MAM domains or carbonic
+anhydrase-like domains. The cytoplasmic region generally contains 2 copies
+of the PTPAse domain: the first of these is enzymatically active; the second
+is inactive, but appears to affect substrate specificity in the first. 
+
+PTPase domains contain ~300 residues. The domain includes 2 conserved
+cysteines, the second of which is required for activity. Other conserved
+residues in its immediate vicinity are also catalytically important.
+
+PRTYPHPHTASE is a 6-element fingerprint that provides a signature for
+protein tyrosine phosphatases. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length - motif 1 spans the 
+first strand; motif 2 spans part of strand 2 and helices 3 and 4; motif 3
+encompasses strand 7 and the following loop; motif 4 spans strand 8 and
+most of helix 9, and includes the region encoded by PROSITE pattern 
+TYR_PHOSPHATASE (PS00383), which includes the active cysteine; motif 5
+encompasses helix 11; and motif 6 spans part of helix 12. Five iterations
+on OWL29.2 were required to reach convergence, at which point a true set
+comprising 196 sequences was identified. Numerous partial matches were
+also found, all of which are fragments and/or family members that fail
+to make significant matches with one or more motifs.
+
+An update on SPTR37_9f identified a true set of 170 sequences, and 49
+partial matches.

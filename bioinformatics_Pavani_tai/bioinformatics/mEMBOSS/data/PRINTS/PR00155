@@ -1,0 +1,31 @@
+AMICYANIN
+Type I blue copper proteins are found in methylothropic bacteria, where
+they appear to function as the electron acceptor to methylamine dehydro-
+genase [1]. They bind a single copper atom and are characterised by an
+intense electronic absorption band near 600nm [2]. Several subclasses of
+the blue copper proteins, such as the azurins and plastocyanins, have been
+identified. Based on their primary sequences and their unique metabolic
+role, amicyanins are considered as a distinct subclass of cupredoxins,
+although they appear to be closely related to the plant plastocyanins.
+
+The structure of amicyanin is a beta-sandwich, built from 9 beta-strands.
+The copper atom is located between 3 loops on one end of the molecule.
+Two of these loops contribute the copper ligands. The other 3 ligands are 
+located on the loop between strands 8 and 9. The structure departs from
+the general cupredoxin fold in having a 21-residue N-terminal extension,
+which forms an extra beta-strand, and it shows significant differences
+between strands 5 and 7 (this forms a helix in azurin and an acidic
+patch in plastocyanin).  
+
+AMICYANIN is a 5-element fingerprint that provides a signature for the
+amicyanins and pseudoazurins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 5 including the region
+encoded by PROSITE pattern COPPER_BLUE (PS00196), which contains conserved
+Cys and His residues involved in copper binding. Two iterations on OWL25.1
+were required to reach convergence, at which point a true set comprising
+12 sequences was identified. Thirteen partial matches were also found,
+virtually all of which are closely related plastocyanins.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 2
+partial matches.

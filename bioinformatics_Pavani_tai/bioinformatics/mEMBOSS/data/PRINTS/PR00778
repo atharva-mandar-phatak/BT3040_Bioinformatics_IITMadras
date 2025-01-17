@@ -1,0 +1,32 @@
+HTHARSR
+Bacterial transcription regulatory proteins that bind DNA via a helix-turn-
+helix (HTH) motif can be grouped into families on the basis of sequence 
+similarities. One such group, termed arsR, includes several proteins that
+appear to dissociate from DNA in the presence of metal ions: arsR, which
+functions as a transcriptional repressor of an arsenic resistance operon;
+smtB from Synechococcus, which acts as a transcriptional repressor of the
+smtA gene that codes for a metallothionein; cadC, a protein required for
+cadmium-resistance; and hypothetical protein yqcJ from Bacillus subtilis.
+
+The HTH motif is thought to be located in the central part of these
+proteins [1]. The motif is characterised by a number of well-conserved
+residues: at its N-terminal extremity is a cysteine residue; a second Cys
+is found in arsR and cadC, but not in smtA; and at the C-terminus lie one
+or two histidines. These residues may be involved in metal-binding (Zn in
+smtB; metal-oxyanions such as arsenite, antimonite and arsenate for arsR;
+and cadmium for cadC) [2]. It is believed that binding of a metal ion could
+induce a conformational change that would prevent the protein from binding
+DNA [2]. 
+
+HTHARSR is a 4-element fingerprint that provides a signature for the
+bacterial regulatory protein arsR family. The fingerprint was derived from
+an initial alignment of 13 sequences: the motifs were drawn from short
+conserved regions spanning the full alignment length - motifs 2 and 3
+span the region encoded by PROSITE pattern HTH_ARSR_FAMILY (PS00846), which
+includes the complete HTH motif. Two iterations on OWL29.4 were required
+to reach convergence, at which point a true set comprising 21 sequences
+was identified. Several partial matches were also found, all of which
+appear to be related DNA-binding proteins that contain an HTH motif.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 27
+partial matches.

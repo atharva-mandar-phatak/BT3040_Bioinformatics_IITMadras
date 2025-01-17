@@ -1,0 +1,55 @@
+********************************************
+* Eukaryotic mitochondrial porin signature *
+********************************************
+
+The major  protein  of the outer  mitochondrial  membrane  of  eukaryotes is a
+porin  that  forms a  voltage-dependent  anion-selective  channel (VDAC)  that
+behaves as a general diffusion pore for  small hydrophilic molecules [1 to 4].
+The channel adopts an open conformation at low  or zero membrane potential and
+a closed conformation at potentials above 30-40 mV.
+
+This protein  contains  about  280 amino acids and its sequence is composed of
+between 12  to  16  beta-strands  that  span the mitochondrial outer membrane.
+Yeast  contains two members of this family (genes POR1 and POR2);  vertebrates
+have at least three members (genes VDAC1, VDAC2 and VDAC3) [5].
+
+As a  signature  pattern  we  selected  a  conserved  region located at the C-
+terminal part of these proteins.
+
+-Consensus pattern: [YH]-x(2)-D-[SPCAD]-x-[STA]-x(3)-[TAG]-[KR]-[LIVMF]-
+                    [DNSTA]-[DNS]-x(4)-[GSTAN]-[LIVMA]-x-[LIVMY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Benz R.
+     "Permeation of hydrophilic solutes through mitochondrial outer
+     membranes: review on mitochondrial porins."
+     Biochim. Biophys. Acta 1197:167-196(1994).
+     PubMed=8031826
+[ 2] Manella C.A.
+     Trends Biochem. Sci. 17:315-320(1992).
+[ 3] Dihanich M.
+     "The biogenesis and function of eukaryotic porins."
+     Experientia 46:146-153(1990).
+     PubMed=1689252
+[ 4] Forte M., Guy H.R., Mannella C.A.
+     "Molecular genetics of the VDAC ion channel: structural model and
+     sequence analysis."
+     J. Bioenerg. Biomembr. 19:341-350(1987).
+     PubMed=2442148
+[ 5] Sampson M.J., Lovell R.S., Davison D.B., Craigen W.J.
+     "A novel mouse mitochondrial voltage-dependent anion channel gene
+     localizes to chromosome 8."
+     Genomics 36:192-196(1996).
+     PubMed=8812436
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

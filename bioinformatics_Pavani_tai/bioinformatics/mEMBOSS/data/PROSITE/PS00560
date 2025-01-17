@@ -1,0 +1,110 @@
+******************************************
+* Serine carboxypeptidases, active sites *
+******************************************
+
+All  known  carboxypeptidases  are either  metallo carboxypeptidases or serine
+carboxypeptidases  (EC 3.4.16.5  and  EC 3.4.16.6).  The catalytic activity of
+the serine   carboxypeptidases,   like  that  of  the  trypsin  family  serine
+proteases, is  provided  by  a  charge relay system involving an aspartic acid
+residue hydrogen-bonded to a histidine, which is itself  hydrogen-bonded  to a
+serine [1]. Proteins known to be serine carboxypeptidases are:
+
+ - Barley and wheat serine carboxypeptidases I, II, and III [2].
+ - Yeast carboxypeptidase Y (YSCY) (gene PRC1), a  vacuolar  protease involved
+   in degrading small peptides.
+ - Yeast  KEX1  protease,  involved in killer toxin and alpha-factor precursor
+   processing.
+ - Fission  yeast  sxa2,  a probable carboxypeptidase involved in degrading or
+   processing mating pheromones [3].
+ - Penicillium janthinellum carboxypeptidase S1 [4].
+ - Aspergullus niger carboxypeptidase pepF.
+ - Aspergullus satoi carboxypeptidase cpdS.
+ - Vertebrate protective protein / cathepsin A [5], a  lysosomal protein which
+   is not only a carboxypeptidase but also  essential for the activity of both
+   beta-galactosidase and neuraminidase.
+ - Mosquito vitellogenic carboxypeptidase (VCP) [6].
+ - Naegleria fowleri virulence-related protein Nf314 [7].
+ - Yeast hypothetical protein YBR139w.
+ - Caenorhabditis elegans hypothetical proteins C08H9.1, F13D12.6, F32A5.3,
+   F41C3.5 and K10B2.2.
+
+This family also includes:
+
+ - Sorghum   (s)-hydroxymandelonitrile  lyase  (EC  4.1.2.11)  (hydroxynitrile
+   lyase) (HNL) [8], an enzyme involved in plant cyanogenesis.
+
+The sequences  surrounding  the  active site serine and histidine residues are
+highly conserved in all these serine carboxypeptidases.
+
+-Consensus pattern: [LIVM]-x-[GSTA]-E-S-Y-[AG]-[GS]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for HNL.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Consensus pattern: [LIVF]-x(2)-[LIVSTA]-x-[IVPST]-x-[GSDNQL]-[SAGV]-[SG]-H-x-
+                    [IVAQ]-P-x(3)-[PSA]
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family S10 in the classification of peptidases
+ [9,E1].
+
+-Last update: February 2003 / Patterns and text revised.
+
+[ 1] Liao D.I., Remington S.J.
+     "Structure of wheat serine carboxypeptidase II at 3.5-A resolution. A
+     new class of serine proteinase."
+     J. Biol. Chem. 265:6528-6531(1990).
+     PubMed=2324088
+[ 2] Sorensen S.B., Svendsen I., Breddam K.
+     "Primary structure of carboxypeptidase III from malted barley."
+     Carlsberg Res. Commun. 54:193-202(1989).
+     PubMed=2639682
+[ 3] Imai Y., Yamamoto M.
+     "Schizosaccharomyces pombe sxa1+ and sxa2+ encode putative proteases
+     involved in the mating response."
+     Mol. Cell. Biol. 12:1827-1834(1992).
+     PubMed=1549128
+[ 4] Svendsen I., Hofmann T., Endrizzi J., Remington S.J., Breddam K.
+     "The primary structure of carboxypeptidase S1 from Penicillium
+     janthinellum."
+     FEBS Lett. 333:39-43(1993).
+     PubMed=8224168
+[ 5] Galjart N.J., Morreau H., Willemsen R., Gillemans N., Bonten E.J.,
+     d'Azzo A.
+     "Human lysosomal protective protein has cathepsin A-like activity
+     distinct from its protective function."
+     J. Biol. Chem. 266:14754-14762(1991).
+     PubMed=1907282
+[ 6] Cho W.L., Deitsch K.W., Raikhel A.S.
+     "An extraovarian protein accumulated in mosquito oocytes is a
+     carboxypeptidase activated in embryos."
+     Proc. Natl. Acad. Sci. U.S.A. 88:10821-10824(1991).
+     PubMed=1961751
+[ 7] Hu W.N., Kopachik W., Band R.N.
+     "Cloning and characterization of transcripts showing virulence-related
+     gene expression in Naegleria fowleri."
+     Infect. Immun. 60:2418-2424(1992).
+     PubMed=1587609
+[ 8] Wajant H., Mundry K.W., Pfizenmaier K.
+     "Molecular cloning of hydroxynitrile lyase from Sorghum bicolor (L.).
+     Homologies to serine carboxypeptidases."
+     Plant Mol. Biol. 26:735-746(1994).
+     PubMed=7948927
+[ 9] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

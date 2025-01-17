@@ -1,0 +1,67 @@
+**************************************************
+* Extradiol ring-cleavage dioxygenases signature *
+**************************************************
+
+Dioxygenases catalyze the incorporation of both atoms of molecular oxygen into
+substrates.  Cleavage of  aromatic rings is one of the most important function
+of  dioxygenases.   The  substrates  of  ring-cleavage   dioxygenases  can  be
+classified into two groups  according to the mode  of scission of the aromatic
+ring. Intradiol enzymes  cleave the aromatic ring between two hydroxyl groups,
+whereas  extradiol  enzymes cleave  the aromatic  ring between  a hydroxylated
+carbon and another adjacent nonhydroxylated carbon. Extradiol dioxygenases are
+usually homomultimeric,  bind  one  atom of ferrous ion per subunit and have a
+subunit size  of about 33 Kd. It has been shown [1,2] that the known extradiol
+dioxygenases are  evolutionary related. The enzymes that belong to this family
+are:
+
+ - Catechol 2,3-dioxygenase  (EC 1.13.11.2)  (metapyrocatechase)  (genes nahH,
+   xylE, dmpB, mcpII, and pheB).
+ - 3-methylcatechol 2,3-dioxygenase (EC 1.13.11.-) (gene todE).
+ - Biphenyl-2,3-diol  1,2-dioxygenase  (EC  1.13.11.39) (DHBD) (gene bphC). It
+   should be noted that in Rhodococcus globerulus, three different isozymes of
+   DHBD have been found (genes bphC1 to bphC3). bphC1 is a classical extradiol
+   dioxygenase, but bphC2 and bphC3 are smaller proteins (189 residues).
+ - 1,2-dihydroxynaphthalene dioxygenase (EC 1.13.11.-) (gene nahC).
+ - 2,2',3-trihydroxybiphenyl dioxygenase (EC 1.13.11.-) (gene dbfB).
+
+As a signature pattern for  these enzymes  we  selected a region that includes
+four conserved  residues.  Among them is a glutamate which has been shown [3],
+in bphC, to be implicated in the binding of the ferrous iron atom.
+
+-Consensus pattern: [GNTIV]-x-H-x(5,7)-[LIVMF]-Y-x(2)-[DENTA]-P-x-[GP]-x(2,3)-
+                    E
+                    [E is an iron ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Expert(s) to contact by email:
+           Harayama S.; sharayam@ddbj.nig.ac.jp
+
+-Last update: November 1995 / Pattern and text revised.
+
+[ 1] Harayama S., Rekik M.
+     "Bacterial aromatic ring-cleavage enzymes are classified into two
+     different gene families."
+     J. Biol. Chem. 264:15328-15333(1989).
+     PubMed=2670937
+[ 2] Asturias J.A., Eltis L.D., Prucha M., Timmis K.N.
+     "Analysis of three 2,3-dihydroxybiphenyl 1,2-dioxygenases found in
+     Rhodococcus globerulus P6. Identification of a new family of extradiol
+     dioxygenases."
+     J. Biol. Chem. 269:7807-7815(1994).
+     PubMed=8126007
+[ 3] Han S., Eltis L.D., Timmis K.N., Muchmore S.W., Bolin J.T.
+     "Crystal structure of the biphenyl-cleaving extradiol dioxygenase from
+     a PCB-degrading pseudomonad."
+     Science 270:976-980(1995).
+     PubMed=7481800
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

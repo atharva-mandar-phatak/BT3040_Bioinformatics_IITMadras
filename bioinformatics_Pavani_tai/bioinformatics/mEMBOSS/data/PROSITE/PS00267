@@ -1,0 +1,82 @@
+*******************************
+* Tachykinin family signature *
+*******************************
+
+Tachykinins [1,2,3] are  a group of biologically active peptides  which excite
+neurons, evoke behavioral  responses, are potent vasodilatators  and  contract
+(directly or  indirectly) many smooth muscles. Peptides known to belong to the
+tachykinin family are listed below:
+
+ - Substance P from mammals, birds and fish.
+ - Neurokinin A (substance K or neuromedin L) from mammals, birds and fish.
+ - Neurokinin B (neuromedin K) from mammals and frogs.
+ - Kassinin from frogs.
+ - Hylambatin from frogs.
+ - Phyllomedusin from a frog.
+ - Physalaemin from a frog.
+ - Ranamargarin from a Chinese frog.
+ - Uperolein from frogs.
+ - Ranatachykinins A to D from frogs [4].
+ - Scyliorhinins from dogfish.
+ - Carassin from goldfish [5].
+ - Eledoisin from octopus.
+
+Tachykinins,  like  most  other  active  peptides, are  synthesized  as larger
+protein  precursors that  are  enzymatically  converted to their mature forms.
+Tachykinins  are  from ten  to  twelve residues  long.  We use, as a signature
+pattern, the last five residues of the C-terminal, which are conserved and are
+essential to the biological activity.
+
+-Consensus pattern: F-[IVFY]-G-[LM]-M-[G>]
+                    [See the note]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for ranatachykinin D from Rana catesbeiana which  has Ala-Pro instead of Gly-
+ Leu/Met.
+-Other sequence(s) detected in Swiss-Prot: 10.
+
+-Note: If the  sequence  is  processed,  the  peptide  ends  with a C-terminal
+ amidated Met while  in a precursor  sequence  it  is always followed by a Gly
+ which subsequently provides the amide group.
+-Note: Locust myotropic peptides locustatachykinin I and II [6] are  distantly
+ related to the tachykinin family  but  their C-terminal sequence is different
+ (Val-Arg instead of Leu/Met-Met). Thus, they  are  not  detected by the above
+ pattern.
+
+-Last update: November 1995 / Text revised.
+
+[ 1] Maggio J.E.
+     "Tachykinins."
+     Annu. Rev. Neurosci. 11:13-28(1988).
+     PubMed=3284438; DOI=10.1146/annurev.ne.11.030188.000305
+[ 2] Helke C.J., Krause J.E., Mantyh P.W., Couture R., Bannon M.J.
+     "Diversity in mammalian tachykinin peptidergic neurons: multiple
+     peptides, receptors, and regulatory mechanisms."
+     FASEB J. 4:1606-1615(1990).
+     PubMed=1969374
+[ 3] Avanov A.Y.
+     Mol. Biol. (Mosk) 26:5-24(1992).
+[ 4] Kozawa H., Hino J., Minamino N., Kangawa K., Matsuo H.
+     "Isolation of four novel tachykinins from frog (Rana catesbeiana)
+     brain and intestine."
+     Biochem. Biophys. Res. Commun. 177:588-595(1991).
+     PubMed=2043143
+[ 5] Conlon J.M., O'Harte F., Peter R.E., Kah O.
+     "Carassin: a tachykinin that is structurally related to
+     neuropeptide-gamma from the brain of the goldfish."
+     J. Neurochem. 56:1432-1436(1991).
+     PubMed=2002352
+[ 6] Schoofs L., Holman G.M., Hayes T.K., Nachman R.J., De Loof A.
+     "Locustatachykinin I and II, two novel insect neuropeptides with
+     homology to peptides of the vertebrate tachykinin family."
+     FEBS Lett. 261:397-401(1990).
+     PubMed=2311766
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

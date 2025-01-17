@@ -1,0 +1,117 @@
+*********************
+* PH domain profile *
+*********************
+
+The 'pleckstrin  homology'  (PH) domain is a domain of about 100 residues that
+occurs in  a  wide range of proteins involved in intracellular signaling or as
+constituents of the cytoskeleton [1 to 7].
+
+The function of this domain is not clear, several putative functions have been
+suggested:
+
+ - binding to the beta/gamma subunit of heterotrimeric G proteins,
+ - binding to lipids, e.g. phosphatidylinositol-4,5-bisphosphate,
+ - binding to phosphorylated Ser/Thr residues,
+ - attachment to membranes by an unknown mechanism.
+
+It is  possible  that  different  PH  domains  have  totally  different ligand
+requirements.
+
+The 3D  structure  of  several  PH  domains has been determined [8]. All known
+cases have  a  common  structure consisting of two perpendicular anti-parallel
+beta sheets,  followed by a C-terminal amphipathic helix. The loops connecting
+the beta-strands  differ  greatly  in  length, making the PH domain relatively
+difficult to  detect.  There  are  no totally invariant residues within the PH
+domain.
+
+Proteins reported  to  contain  one  more  PH  domains belong to the following
+families:
+
+ - Pleckstrin, the protein where this domain was first detected, is  the major
+   substrate of protein kinase C in platelets. Pleckstrin  is  one of the rare
+   proteins to contains two PH domains.
+ - Ser/Thr protein  kinases such as the Act/Rac  family,  the  beta-adrenergic
+   receptor kinases, the mu isoform of PKC and the trypanosomal NrkA family.
+ - Tyrosine protein kinases belonging to the Btk/Itk/Tec subfamily.
+ - Insulin Receptor Substrate 1 (IRS-1).
+ - Regulators  of  small  G-proteins  like guanine nucleotide releasing factor
+   GNRP (Ras-GRF) (which contains 2 PH domains), guanine  nucleotide  exchange
+   proteins like  vav,  dbl,  SoS  and yeast CDC24, GTPase activating proteins
+   like rasGAP and BEM2/IPL2, and the human break point cluster protein bcr.
+ - Cytoskeletal  proteins  such  as  dynamin (see <PDOC00362>), Caenorhabditis
+   elegans kinesin-like  protein  unc-104  (see  <PDOC00343>),  spectrin beta-
+   chain, syntrophin (2 PH domains) and yeast nuclear migration protein NUM1.
+ - Mammalian  phosphatidylinositol-specific  phospholipase  C  (PI-PLC)   (see
+   <PDOC50007>) isoforms  gamma  and  delta.  Isoform  gamma  contains  two PH
+   domains, the  second  one  is  split  into two parts separated by about 400
+   residues.
+ - Oxysterol binding proteins (OSBPs).
+ - Mouse  protein  citron,  a putative rho/rac effector that binds to the GTP-
+   bound forms of rho and rac,
+ - Several yeast proteins involved in cell cycle  regulation and bud formation
+   like BEM2,  BEM3,  BUD4  and the BEM1-binding proteins BOI2 (BEB1) and BOI1
+   (BOB1).
+ - Caenorhabditis elegans protein mig-10.
+ - Caenorhabditis elegans hypothetical proteins C04D8.1, K06H7.4 and ZK632.12.
+ - Yeast hypothetical proteins YBR129c and YHR155w.
+
+The profile for the PH domain, which has been developed by  Toby Gibson at the
+EMBL, covers  the  total  length  of  domain.  Several  proteins contain large
+insertions in  the  PH  domain  and  are  thus  difficult  to detect with this
+profile. In  some of these cases,  the  profile will align only to one half of
+the PH domain.
+
+-Sequences known to belong to this class detected by the pattern: ALL.  But it
+ should be  noted that while all sequences containing PH domains are detected,
+ not all  PH  domains  are.  Some  of  the  split domains lie below the cutoff
+ threshold.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Gibson T.J.; gibson@embl-heidelberg.de
+
+-Last update: March 2002 / Text revised.
+
+[ 1] Mayer B.J., Ren R., Clark K.L., Baltimore D.
+     "A putative modular domain present in diverse signaling proteins."
+     Cell 73:629-630(1993).
+     PubMed=8500161
+[ 2] Haslam R.J., Koide H.B., Hemmings B.A.
+     "Pleckstrin domain homology."
+     Nature 363:309-310(1993).
+     PubMed=8497315; DOI=10.1038/363309b0
+[ 3] Musacchio A., Gibson T.J., Rice P., Thompson J., Saraste M.
+     "The PH domain: a common piece in the structural patchwork of
+     signalling proteins."
+     Trends Biochem. Sci. 18:343-348(1993).
+     PubMed=8236453
+[ 4] Gibson T.J., Hyvonen M., Musacchio A., Saraste M., Birney E.
+     "PH domain: the first anniversary."
+     Trends Biochem. Sci. 19:349-353(1994).
+     PubMed=7985225
+[ 5] Pawson T.
+     "Protein modules and signalling networks."
+     Nature 373:573-580(1995).
+     PubMed=7531822; DOI=10.1038/373573a0
+[ 6] Ingley E., Hemmings B.A.
+     "Pleckstrin homology (PH) domains in signal transduction."
+     J. Cell. Biochem. 56:436-443(1994).
+     PubMed=7890802
+[ 7] Saraste M., Hyvonen M.
+     "Pleckstrin homology domains: a fact file."
+     Curr. Opin. Struct. Biol. 5:403-408(1995).
+     PubMed=7583640
+[ 8] Riddihough G.
+     "More meanders and sandwiches."
+     Nat. Struct. Biol. 1:755-757(1994).
+     PubMed=7634082
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

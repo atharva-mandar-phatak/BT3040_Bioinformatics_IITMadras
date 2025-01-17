@@ -1,0 +1,94 @@
+***************************************************************************
+* Soybean trypsin inhibitor (Kunitz) protease inhibitors family signature *
+***************************************************************************
+
+The soybean trypsin  inhibitor (Kunitz)  family  [1]  is one  of  the numerous
+families of  proteinase  inhibitors.  It  comprise  plant  proteins which have
+inhibitory activity against serine proteinases from the trypsin and subtilisin
+families, thiol proteinases and aspartic proteinases as well  as some proteins
+that are  probably involved in seed storage. This family is currently known to
+group the following proteins:
+
+ - Trypsin inhibitors A, B, C, KTI1, and KTI2 from soybean.
+ - Trypsin inhibitor DE3 from coral beans (Erythrina sp.).
+ - Trypsin inhibitor DE5 from sandal bead tree.
+ - Trypsin inhibitors 1A (WTI-1A), 1B (WTI-1B), and 2 (WTI-2) from goa bean.
+ - Trypsin inhibitor from Acacia confusa.
+ - Trypsin inhibitor from silk tree.
+ - Chymotrypsin inhibitor 3 (WCI-3) from goa bean.
+ - Cathepsin D  inhibitors  PDI  and  NDI from  potato [2], which inhibit both
+   cathepsin D (aspartic proteinase) and trypsin.
+ - Alpha-amylase/subtilisin inhibitors from barley and wheat.
+ - Albumin-1 (WBA-1) from goa bean seeds [3].
+ - Miraculin from Richadella dulcifica [4], a sweet taste protein.
+ - Sporamin from sweet potato [5], the major tuberous root protein.
+ - Thiol proteinase inhibitor PCPI 8.3 (P340) from potato tuber [6].
+ - Wound responsive protein gwin3 from poplar tree [7].
+ - 21 Kd seed protein from cocoa [8].
+
+All these proteins contain from 170 to 200 amino acid residues  and one or two
+intrachain disulfide  bonds.  The  best  conserved region is found in their N-
+terminal section and is used as a signature pattern.
+
+-Consensus pattern: [LIVM]-x-D-{EK}-[EDNTY]-[DG]-[RKHDENQ]-x-[LIVM]-x-{E}-{Q}-
+                    x(2)-Y-x-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for 2 sequences.
+-Other sequence(s) detected in Swiss-Prot: 20.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Laskowski M. Jr., Kato I.
+     "Protein inhibitors of proteinases."
+     Annu. Rev. Biochem. 49:593-626(1980).
+     PubMed=6996568; DOI=10.1146/annurev.bi.49.070180.003113
+[ 2] Ritonja A., Krizaj I., Mesko P., Kopitar M., Lucovnik P., Strukelj B.,
+     Pungercar J., Buttle D.J., Barrett A.J., Turk V.
+     "The amino acid sequence of a novel inhibitor of cathepsin D from
+     potato."
+     FEBS Lett. 267:13-15(1990).
+     PubMed=2365079
+[ 3] Kortt A.A., Strike P.M., De Jersey J.
+     "Amino acid sequence of a crystalline seed albumin (winged bean
+     albumin-1) from Psophocarpus tetragonolobus (L.) DC. Sequence
+     similarity with Kunitz-type seed inhibitors and 7S storage
+     globulins."
+     Eur. J. Biochem. 181:403-408(1989).
+     PubMed=2653830
+[ 4] Theerasilp S., Hitotsuya H., Nakajo S., Nakaya K., Nakamura Y.,
+     Kurihara Y.
+     "Complete amino acid sequence and structure characterization of the
+     taste-modifying protein, miraculin."
+     J. Biol. Chem. 264:6655-6659(1989).
+     PubMed=2708331
+[ 5] Hattori T., Yoshida N., Nakamura K.
+     "Structural relationship among the members of a multigene family
+     coding for the sweet potato tuberous root storage protein."
+     Plant Mol. Biol. 13:563-572(1989).
+     PubMed=2491673
+[ 6] Krizaj I., Drobnic-Kosorok M., Brzin J., Jerala R., Turk V.
+     "The primary structure of inhibitor of cysteine proteinases from
+     potato."
+     FEBS Lett. 333:15-20(1993).
+     PubMed=8224155
+[ 7] Bradshaw H.D. Jr., Hollick J.B., Parsons T.J., Clarke H.R.G., Gordon M.P.
+     "Systemically wound-responsive genes in poplar trees encode proteins
+     similar to sweet potato sporamins and legume Kunitz trypsin
+     inhibitors."
+     Plant Mol. Biol. 14:51-59(1990).
+     PubMed=2101311
+[ 8] Tai H., McHenry L., Fritz P.J., Furtek D.B.
+     "Nucleic acid sequence of a 21 kDa cocoa seed protein with homology to
+     the soybean trypsin inhibitor (Kunitz) family of protease
+     inhibitors."
+     Plant Mol. Biol. 16:913-915(1991).
+     PubMed=1859871
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,20 @@
+BCTRLSENSOR
+The term sensor refers to a family of proteins that respond to extra-
+cytoplasmic stimuli in bacteria [1-3]. Sensors are usually linked to a 
+2-component regulatory system consisting of the sensor and a cytoplasmic 
+regulator protein [1,3]. The cytoplasmic C-terminal portions of the sensor 
+proteins show marked sequence similarity and are responsible for kinase 
+activity [1,3]. Some sensor proteins are cytoplasmic and may respond to 
+several external stimuli [3]. Sensors also show similarity to some 
+regulatory proteins [3].
+
+BCTRLSENSOR is a 4-element fingerprint that provides a signature for the
+bacterial sensor proteins. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs were drawn from conserved regions in
+the C-terminal portion of the alignment. Four iterations on OWL11.0 were
+required to reach convergence, at which point a true set comprising 33
+sequences was identified. Two partial matches were also found, both
+regulatory proteins that fail to match the final motif.
+
+An update on SPTR37_9f identified a true set of 139 sequences, and 215
+partial matches.

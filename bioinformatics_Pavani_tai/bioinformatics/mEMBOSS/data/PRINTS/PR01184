@@ -1,0 +1,16 @@
+ORNATIN
+Ornatin is a potent glycoprotein IIb-IIIa (GP IIb-IIIa) antagonist and
+platelet aggregation inhibitor [1]. The protein is 41-52 residues in length
+and contains the RGD recognition motif common in adhesion proteins, and
+6 conserved cysteine residues. The sequences of ornatin isoforms B, C, D 
+and E are highly similar, while isoforms A2 and A3 are less similar, lacking
+the N-terminal 9 residues [1]. Ornatins share ~40% identity with decorsin,
+a GP IIb-IIIa antagonist isolated from the leech Macrobdella decora [1].
+
+ORNATIN is a 4-element fingerprint that provides a signature for ornatins.
+The fingerprint was derived from an initial alignment of 5 sequences: the
+motifs were drawn from short conserved regions spanning virtually the full
+alignment length - motif 4 contains the RGD cell-attachment site. A single
+iteration on SPTR37_10f was required to reach convergence, no further
+sequences being identified beyond the starting set. Note: motif 4 alone
+matches DECO_MACDE, the leech Macrobdella decora decorsin.

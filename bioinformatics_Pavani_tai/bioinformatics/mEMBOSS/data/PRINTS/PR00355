@@ -1,0 +1,29 @@
+ADRENODOXIN
+Adrenodoxin, putidaredoxin and terpredoxin are soluble 2Fe-2S iron-sulphur
+proteins that act as single electron carriers. In mitochondrial 
+monooxygenase systems, adrenodoxin transfers an electron from 
+NADPH:adrenodoxin reductase to membrane-bound P450 [1]. In bacteria, 
+putidaredoxin and terpredoxin serve as electron carriers between 
+corresponding NADH-dependent ferredoxin reductases and soluble P450 [2,3]. 
+The exact functions of other members of this family are not known.
+
+The 3D structure of putidaredoxin has been solved by NMR [4]. Despite low
+sequence similarity between putidaredoxin and 2Fe-2S ferredoxins,
+putidaredoxin retains a similar folding topology to structurally 
+characterised 2Fe-2S ferredoxins. The fold belongs to the alpha + beta
+class, with 3 helices and 6 strands forming a barrel-like structure, and an
+extruded loop containing 3 of the 4 cysteinyl residues of the iron-sulphur
+cluster.
+
+ADRENODOXIN is a 3-element fingerprint that provides a signature for the
+adrenodoxins. The fingerprint was derived from an initial alignment of 13
+sequences: motif 1 includes the region encoded by PROSITE pattern ADX
+(PS00814), the 3 conserved cysteines of which are 2Fe-2S ligands; motif 2
+contains a cluster of negatively charged residues, which is essential for
+binding both the reductase and P450 [5]; and motif 3 includes the fourth
+conserved Cys of the 2Fe-2S cluster. Two iterations on OWL25.1 were
+required to reach convergence, at which point a true set comprising 15
+sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 2
+partial matches.

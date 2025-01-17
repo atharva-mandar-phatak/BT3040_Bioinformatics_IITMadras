@@ -1,0 +1,84 @@
+*******************************************************
+* Heavy-metal-associated domain signature and profile *
+*******************************************************
+
+A conserved  domain  of  about  70 amino acid residues has been found [1] in a
+number of    proteins  that  transport  or  detoxify heavy metals. This domain
+contains two  conserved  cysteines  that  could  be involved in the binding of
+these metals. The domain has been termed Heavy-Metal-Associated (HMA).
+
+Solution  structure of the fourth HMA domain of the Menkes copper-transporting
+ATPase  shows a well defined structure comprising a four-stranded antiparallel
+beta-sheet  and  two  alpha helices  packed  in  an  alpha-beta  sandwich fold
+(see  <PDB:1AW0>)  [2]. This fold is common to other domains and is classified
+as "ferredoxin-like".
+
+Some of the proteins containing an HMA domain are listed below.
+
+ - A  variety  of  cation transport ATPases (E1-E2 ATPases) (see <PDOC00139>).
+   The human copper ATPAses ATP7A and ATP7B which are respectively involved in
+   Menke's and Wilson's diseases. ATP7A and ATP7B both contain 6 tandem copies
+   of the  HMA  domain.  The copper ATPases CCC2 from budding yeast, copA from
+   Enterococcus faecalis  and  synA from Synechococcus contain one copy of the
+   HMA domain.  The cadmium ATPases cadA from Bacillus firmus and from plasmid
+   pI258 from  Staphylococcus  aureus  also contain a single HMA domain, while
+   a chromosomal  Staphylococcus  aureus cadA contains two copies. Other, less
+   characterized ATPases  that contain the HMA domain are: fixI from Rhizobium
+   meliloti, pacS  from  Synechococcus strain  PCC 7942), Mycobacterium leprae
+   ctpA and  ctpB and Escherichia coli hypothetical protein yhhO. In all these
+   ATPases the HMA domain(s) are located in the N-terminal section.
+ - Mercuric reductase (EC 1.16.1.1) (gene merA)  which is generally encoded by
+   plasmids carried  by  mercury-resistant  Gram-negative  bacteria.  Mercuric
+   reductase is a class-1 pyridine  nucleotide-disulphide  oxidoreductase (see
+   <PDOC00073>). There  is  generally  one HMA domain (with the exception of a
+   chromosomal merA  from  Bacillus  strain  RC607  which  has  two) in the N-
+   terminal part of merA.
+ - Mercuric  transport protein periplasmic component (gene merP), also encoded
+   by plasmids  carried  by mercury-resistant Gram-negative bacteria. It seems
+   to be  a  mercury  scavenger  that specifically binds to one Hg(2+) ion and
+   which passes  it  to  the  mercuric  reductase via the merT protein. The N-
+   terminal half of merP is a HMA domain.
+ - Helicobacter pylori copper-binding protein copP.
+ - Yeast   protein   ATX1  [3],  which  could  act  in  the  transport  and/or
+   partitioning of copper.
+
+The profile we developed spans the complete domain. The pattern is centered on
+the two metal-binding residues.
+
+-Consensus pattern: [LIVNS]-x-{L}-[LIVMFA]-x-C-x-[STAGCDNH]-C-x(3)-[LIVFG]-
+                    {LV}-x(2)-[LIV]-x(9,11)-[IVA]-x-[LVFYS]
+                    [The 2 C's may bind metals]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Bull P.C., Cox D.W.
+     "Wilson disease and Menkes disease: new handles on heavy-metal
+     transport."
+     Trends Genet. 10:246-252(1994).
+     PubMed=8091505
+[ 2] Gitschier J., Moffat B., Reilly D., Wood W.I., Fairbrother W.J.
+     "Solution structure of the fourth metal-binding domain from the Menkes
+     copper-transporting ATPase."
+     Nat. Struct. Biol. 5:47-54(1998).
+     PubMed=9437429
+[ 3] Lin S.-J., Culotta V.C.
+     "The ATX1 gene of Saccharomyces cerevisiae encodes a small metal
+     homeostasis factor that protects cells against reactive oxygen
+     toxicity."
+     Proc. Natl. Acad. Sci. U.S.A. 92:3784-3788(1995).
+     PubMed=7731983
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

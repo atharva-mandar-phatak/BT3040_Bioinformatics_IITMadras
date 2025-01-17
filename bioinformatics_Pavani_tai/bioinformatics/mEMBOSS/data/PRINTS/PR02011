@@ -1,0 +1,47 @@
+RCMTNCL1
+RNA (C5-cytosine) methyltransferases (RCMTs) catalyse the transfer of a 
+methyl group to the 5th carbon of a cytosine base in RNA sequences to 
+produce C5-methylcytosine. RCMTs use the cofactor S-adenosyl-L-methionine 
+(SAM) as a methyl donor [1]. The catalytic mechanism of RCMTs involves an
+attack by the thiolate of a Cys residue on position 6 of the target cytosine
+base to form a covalent link, thereby activating C5 for methyl-group 
+transfer. Following the addition of the methyl group, a second Cys residue
+acts as a general base in the beta-elimination of the proton from the 
+methylated cytosine ring. The free enzyme is restored and the methylated
+product is released [2].
+
+Numerous putative RCMTs have been identified in archaea, bacteria and
+eukaryota [3,4]; most are predicted to be nuclear or nucleolar proteins [5].
+The Escherichia coli Ribosomal RNA Small-subunit Methyltransferase Beta
+(RSMB) FMU (FirMicUtes) represents the first protein identified and
+characterised as a cytosine-specific RNA methyltransferase. RSMB was
+reported to catalyse the formation of C5-methylcytosine at position 967 of
+16S rRNA [6,7].
+
+A classification of RCMTs has been proposed on the basis of sequence
+similarity [3]. According to this classification, RCMTs are divided into
+8 distinct subfamilies [3]. Recently, a new RCMT subfamily, termed RCMT9,
+was identified [4]. Members of the RCMT contain a core domain, responsible
+for the cytosine-specific RNA methyltransferase activity. This 'catalytic'
+domain adopts the Rossmann fold for the accommodation of the cofactor SAM
+[8]. The RCMT subfamilies are also distinguished by N-terminal and
+C-terminal extensions, variable both in size and sequence [3].    
+
+The prototypical member of the Nuclear protein 1 RCMT subfamily, the
+S.cerevisiae NCL1, has been demonstrated to methylate cytosine to 
+C5-methylcytosine at positions 34, 40, 48 and 49 in different intron-
+containing tRNAs and tRNA precursors [9]. Its human homologue, MISU/NSUN2,
+was found to catalyse the formation of C5-methylcytosine at position 34 of 
+intron-containing pre-tRNAs [10]; it was not able to modify tRNAs at 
+positions 48 or 49. It was also shown to be involved in Myc-mediated 
+proliferation of cancer cells [11].
+
+RCMTNCL1 is an 3-element fingerprint that provides a signature for the RNA
+(C5-cytosine) methyltransferase NCL1 subfamily. The fingerprint was derived
+from an initial alignment of 23 sequences: the motifs were drawn from
+conserved regions spanning virtually the full alignment length - motif 1 
+resides at the N-terminus; motif 2 lies in the core 'catalytic' region; and
+motif 3 resides at the C-terminus. Two iterations on SPTR57.15_40.15f were 
+required to reach convergence, at which point a true set comprising 119
+sequences was identified. Twenty seven partial matches were also found, all
+of which are related to the RCMT NCL1 subfamily.

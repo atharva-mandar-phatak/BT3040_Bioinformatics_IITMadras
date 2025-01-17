@@ -1,0 +1,76 @@
+********************************************************
+* Crystallins beta and gamma 'Greek key' motif profile *
+********************************************************
+
+Crystallins are  the dominant structural components of the eye lens. Among the
+different type of crystallins, the beta and gamma crystallins form a family of
+related  proteins [1,2]. Structurally, beta and gamma crystallins are composed
+of two similar domains which, in turn, are each composed of two similar motifs
+with the  two domains  connected  by  a  short connecting peptide. Each motif,
+which  is about  forty  amino  acid  residues long, is folded in a distinctive
+'Greek key'  motif, composed of four antiparallel beta-strands: a, b, c, and d
+(see <PDB:1A45>).
+
+Apart from  the different types  of  beta and  gamma crystallins, this  family
+also includes the following proteins:
+
+ - Two related proteins  from  the  sporulating  bacterium Myxococcus xanthus:
+   protein S, a calcium-binding protein  that  forms a major part of the spore
+   coat, and a close homolog of protein S.
+ - Spherulin 3a from the slime mold  Physarum polycephalum.  Spherulin 3a is a
+   development specific  protein  synthesized in  response to various kinds of
+   stress leading to encystment and dormancy.  The  sequence  of  Spherulin 3a
+   consists of two 'Greek key' motifs [3].
+ - Epidermis  differenciation-specific protein (EDSP or ep37) of the amphibian
+   Cynops pyrrhogaster.
+ - Mammalian  absent  in melanoma 1 protein (AIM1). It contains 12 'Greek key'
+   motifs.
+
+Beta/gamma 'Greek  key'  motifs  may  be  further  classified as A- or B-type.
+Vertebrate members  of  the  beta/gamma  superfamily  conform to an ABAB motif
+pattern. B-type  motifs  are  the  most  highly conserved and form most of the
+contacts between  domains.  In  protein  S, the order of motifs is reversed to
+BABA, suggesting a separate history of duplication events [4].
+
+The profile  we developed for this family of proteins covers the entire 'Greek
+key' motif.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Wistow G.; graeme@helix.nih.gov
+
+-Last update: July 2003 / Pattern removed, profile added and text revised.
+
+[ 1] Lubsen N.H., Aarts H.J.M., Schoenmakers J.G.
+     "The evolution of lenticular proteins: the beta- and gamma-crystallin
+     super gene family."
+     Prog. Biophys. Mol. Biol. 51:47-76(1988).
+     PubMed=3064189
+[ 2] Wistow G.J., Piatigorsky J.
+     "Lens crystallins: the evolution and expression of proteins for a
+     highly specialized tissue."
+     Annu. Rev. Biochem. 57:479-504(1988).
+     PubMed=3052280; DOI=10.1146/annurev.bi.57.070188.002403
+[ 3] Wistow G.
+     "Evolution of a protein superfamily: relationships between vertebrate
+     lens crystallins and microorganism dormancy proteins."
+     J. Mol. Evol. 30:140-145(1990).
+     PubMed=2107329
+[ 4] Ray M.E., Wistow G., Su Y.A., Meltzer P.S., Trent J.M.
+     "AIM1, a novel non-lens member of the betagamma-crystallin
+     superfamily, is associated with the control of tumorigenicity in human
+     malignant melanoma."
+     Proc. Natl. Acad. Sci. U.S.A. 94:3229-3234(1997).
+     PubMed=9096375
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

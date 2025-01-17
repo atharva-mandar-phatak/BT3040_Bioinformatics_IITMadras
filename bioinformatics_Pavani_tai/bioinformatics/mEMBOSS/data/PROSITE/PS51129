@@ -1,0 +1,94 @@
+*****************************************
+* PdxS/SNZ family signature and profile *
+*****************************************
+
+The term  vitamin  B6 is used to refer collectively to the compound pyridoxine
+and its  vitameric  forms,  pyridoxal,  pyridoxamine, and their phosphorylated
+derivatives. Vitamin  B6  is  required by all organisms and plays an essential
+role as   a  co-factor  for  enzymatic  reactions.  Plants,  fungi,  bacteria,
+archaebacteria, and  protists  synthetize  vitamin B6. Animals and some highly
+specialized obligate  pathogens  obtain  it  nutritionally. Vitamin B6 has two
+distinct biosynthetic  pathways,  which  do  not  coexist in any organism. The
+pdxA/pdxJ pathway,  that  has  been  extensively  characterized in Escherichia
+coli, is  found  in  the  gamma  subdivision  of  the proteobacteria. A second
+pathway of  vitamin  B6  synthesis  involving  the  pdxS/SNZ and pdxT/SNO (see
+<PDOC00950>) protein  families,  which are completely unrelated in sequence to
+the pdxA/pdxJ  proteins,  is found in plants, fungi, protists, archaebacteria,
+and most bacteria.
+
+PdxS/SNZ and  pdxT/SNO  proteins  form  a  complex which serves as a glutamine
+amidotransferase to supply ammonia as a source of the ring nitrogen of vitamin
+B6 [1].  PdxT/SNO  and  pdxS/SNZ appear to encode respectively the glutaminase
+subunit, which  produces  ammonia  from  glutamine,  and the synthase subunit,
+which combines  ammonia  with  five-  and  three-carbon  phosphosugars to form
+vitamin B6 [2].
+
+Proteins belonging  to the pdxS/SNZ family occur in organisms in four kingdoms
+and form one of the most highly conserved family [3]. PdxS/SNZ proteins have a
+classic (beta/alpha)8-barrel  fold,  consisting of eight parallel beta-strands
+alternating with eight alpha helices (see <PDB:1ZNN>) [4].
+
+Some proteins belonging to the pdxS/SNZ family are listed below:
+
+ - Bacillus subtilis pyridoxine biosynthesis protein pdxS.
+ - Haemophilus influenzae pyridoxine biosynthesis protein pdxS.
+ - Mycobacterium leprae pyridoxine biosynthesis protein pdxS.
+ - Mycobacterium tuberculosis pyridoxine biosynthesis protein pdxS.
+ - Archaeoglobus fulgidus pyridoxine biosynthesis protein pdxS.
+ - Methanococcus jannaschii pyridoxine biosynthesis protein pdxS.
+ - Methanococcus vannielii pyridoxine biosynthesis protein pdxS.
+ - Methanobacterium thermoautotrophicum pyridoxine biosynthesis protein pdxS.
+ - Cercospora  nicotianae  pyridoxine  biosynthesis  protein  PDX1  or singlet
+   oxygen resistance protein 1 (SOR1).
+ - Yeast pyridoxin biosynthesis protein SNZ1 (PDX1 homolog 1).
+ - Yeast probable pyridoxin biosynthesis protein SNZ2 (PDX1 homolog 2).
+ - Yeast probable pyridoxin biosynthesis protein SNZ3 (PDX1 homolog 3).
+ - Fission yeast probable pyridoxin biosynthesis PDX1-like protein.
+ - Hevea  brasiliensis  probable  pyridoxin  biosynthesis  protein  ER1  (PDX1
+   homolog) (ethylene-inducible protein HEVER).
+ - Stellaria longipes probable pyridoxin biosynthesis H47 (PDX1 homolog).
+
+These are  hydrophilic  proteins  of about 32 Kd. They can be picked up in the
+database by  the  following pattern. We also developed a profile for the pdxS/
+SNZ family.
+
+-Consensus pattern: [LV]-P-[VI]-[VTPI]-[NQLHT]-[FL]-[ATVS]-[AS]-G-G-[LIV]-
+                    [AT]-T-P-[AQS]-D-[AGVS]-[AS]-[LM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: June 2005 / Text revised; profile added.
+
+[ 1] Dong Y.-X., Sueda S., Nikawa J.-I., Kondo H.
+     "Characterization of the products of the genes SNO1 and SNZ1 involved
+     in pyridoxine synthesis in Saccharomyces cerevisiae."
+     Eur. J. Biochem. 271:745-752(2004).
+     PubMed=14764090
+[ 2] Belitsky B.R.
+     "Physical and enzymological interaction of Bacillus subtilis proteins
+     required for de novo pyridoxal 5'-phosphate biosynthesis."
+     J. Bacteriol. 186:1191-1196(2004).
+     PubMed=14762015
+[ 3] Ehrenshaft M., Bilski P., Li M.Y., Chignell C.F., Daub M.E.
+     "A highly conserved sequence is a novel gene involved in de novo
+     vitamin B6 biosynthesis."
+     Proc. Natl. Acad. Sci. U.S.A. 96:9374-9378(1999).
+     PubMed=10430950
+[ 4] Zhu J., Burgner J.W., Harms E., Belitsky B.R., Smith J.L.
+     "A new arrangement of (beta /alpha )8 barrels in the synthase subunit
+     of PLP synthase."
+     J. Biol. Chem. 280:0-0(2005).
+     PubMed=15911615; DOI=10.1074/jbc.M503642200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

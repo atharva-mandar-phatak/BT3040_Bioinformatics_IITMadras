@@ -1,0 +1,21 @@
+SSDNABINDING
+The sequence-specific single-strand DNA-binding protein (SSDP) family is
+thought to be involved in transciption regulation. SSDP specifically binds
+single-stranded pyrimidine-rich mirror repeat elements commonly found in
+promoter regions, and is believed to regulate alpha-2(I) collagen [1]. It
+has been identified as a target for unbalanced translocations and deletions
+in acute myelogenous leukemia cells, implying a role as a tumour suppressor
+gene [2]. It is expressed in spleen, lymph node, peripheral blood, bone
+marrow, thymus and foetal liver [2]. Family members have been identified in
+chicken, human, rat, mouse and Drosophila. The highest sequence identity is
+observed in the first 100 N-terminal residues, which contains a tryptophan-
+rich region in its centre. The C-terminus is more viariable, with glycine/
+proline-rich low complexity regions.
+
+SSDNABINDING is a 5-element fingerprint that provides a signature for the
+single-strand DNA-binding proteins. The fingerprint was derived from an
+initial alignment of 6 sequences: the motifs were drawn from the conserved
+N-terminal region. Two iterations on SPTR40_20f were required to reach 
+convergence, at which point a true set comprising 18 sequences was
+identified. A single partial match was also found, Q9P038, a human protein
+that lacks the N-terminal residues characteristic of other family members.

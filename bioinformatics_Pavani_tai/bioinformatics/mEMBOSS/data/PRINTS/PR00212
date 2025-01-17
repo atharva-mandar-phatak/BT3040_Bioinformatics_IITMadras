@@ -1,0 +1,22 @@
+MYELINMBP
+The myelin sheath is a multi-layered membrane, unique to the nervous system,
+that functions as an insulator to greatly increase the velocity of axonal
+impulse conduction [1]. Myelin basic protein (MBP) is a hydrophilic protein
+that may function to maintain the correct structure of myelin, interacting
+with the lipids in the myelin membrane by electrostatic and hydrophobic
+interactions. In mammals, the alternative splicing of the myelin MBP gene
+results in the production of several forms of the protein, which differ by
+the presence or absence of various short stretches of the sequence. 
+
+MYELINMBP is a 3-element fingerprint that provides a signature for the 
+myelin basic proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length, motif 3 including the area encoded
+by PROSITE pattern MYELIN_MBP (PS00569), which contains a characteristic
+conserved pentapeptide. Two iterations on OWL23.2 were required to reach
+convergence, at which point a true set comprising 18 sequences was
+identified. Two partial matches were also found, S25122 and HUMRNAMBPE, 
+both of which are myelin MBP proteins lacking the third motif.
+
+An update on SPTR37_9f identified a true set of 13 sequences, and 2
+partial matches.

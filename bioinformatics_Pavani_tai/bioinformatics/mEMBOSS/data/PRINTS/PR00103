@@ -1,0 +1,35 @@
+CAMPKINASE
+Cyclic AMP (cAMP) is a key intracellular regulator of cell function in both
+prokaryotes and eukaryotes. One of the ways in which it regulates enzymes
+is by binding to and causing activation of cAMP-dependent protein kinases,
+which in turn activate or deactivate other enzymes by phosphorylating them.
+
+There are 2 types of cAMP-dependent protein kinase, designated I and II. 
+Both perform the same function and have the same substrate, but type I is 
+found predominantly in skeletal tissue, and type II in cardiac tissue. 
+The enzyme is a dimer, each subunit of which contains both a regulatory 
+domain and a catalytic domain connected by a hinge region. In type II 
+enzymes, the hinge region can be autophosphorylated by interaction of the 
+catalytic domain of one subunit and a region of the other subunit 
+immediately preceding the cAMP binding domain, resulting in the 
+inactivation of the enzyme [1]. Type I does not undergo such autophospho-
+rylation, but it can be phosphorylated slowly in vitro by cGMP-dependent 
+protein kinases [2].
+
+cAMP-Dependent protein kinases are activated by the binding of 2 cAMP
+molecules to specific areas at the C-terminus of each regulatory subunit of
+the enzyme, which contains 2 repeats of a similar sequence. This causes 
+in a conformational change in the structure, resulting in dissociation of
+the active catalytic domain from the regulatory domains.
+
+CAMPKINASE is a 5-element fingerprint that provides a signature for the 
+cAMP-dependent protein kinases. The fingerprint was derived from an 
+initial alignment of 5 sequences: the motifs were drawn from the second 
+cAMP binding domain (after Jahnsen et al. [3]). Three iterations on
+OWL11.0 were required to reach convergence, at which point a true set 
+comprising 19 sequences was identified. Several partial matches were also
+found, including a fragment (NRL_2APK), and a subfamily of cGMP-dependent
+protein kinases that match the first 3 motifs.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 4
+partial matches.

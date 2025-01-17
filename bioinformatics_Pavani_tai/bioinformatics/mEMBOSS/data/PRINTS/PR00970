@@ -1,0 +1,28 @@
+RIBTRNSFRASE
+Mono-ADP-ribosylation is a post-translational modification of proteins in 
+which the ADP-ribose moiety of NAD is transferred to proteins; this process
+is responsible for the toxicity of some bacterial toxins (e.g., cholera and
+pertussis toxins) [1]. A family of mono(ADP-ribosyl)transferases exists in
+vertebrates that transfer ADP-ribose to arginine [1]:
+
+	NAD(+) + L-arginine = nicotinamide + N2-(ADP-D-ribosyl)-L-arginine
+
+At least five forms of the enzyme have been characterised to date, some
+of which are attached to the membrane via glycosylphosphatidylinositol (GPI)
+anchors, while others appear to be secreted. The enzymes contain ~250-300 
+residues, which encode putative signal sequences and carbohydrate attachment
+sites. In addition, the N- and C-termini are predominantly hydrophobic, a
+characteristic of GPI-anchored proteins [2].
+
+RIBTRNSFRASE is a 7-element fingerprint that provides a signature for
+ADP-ribosyltransferases. The fingerprint was derived from an initial
+alignment of 12 sequences: the motifs were drawn from short conserved
+regions spanning virtually the full alignment length - motif 4 includes
+the region encoded by PROSITE pattern ART (PS01291); and motif 7 includes
+the active site glutamate. Two iterations on OWL30.2 were required to reach
+convergence, at which point a true set comprising 18 sequences was 
+identified. Three partial matches were also found, all of which are 
+fragments or homologues that fail to match one or more motifs. 
+
+An update on SPTR37_9f identified a true set of 15 sequences, and 1
+partial match.

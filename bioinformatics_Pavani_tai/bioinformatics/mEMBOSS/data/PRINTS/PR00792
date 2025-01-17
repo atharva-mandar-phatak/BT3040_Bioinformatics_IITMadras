@@ -1,0 +1,41 @@
+PEPSIN
+Crystallographic studies have shown that enzymes of the pepsin family exist
+as monomeric bi-lobed molecules, in which the active site lies between the
+two lobes [1,2]. The lobes are homologous, having arisen by gene
+duplication of a single-lobed molecule, possibly similar to the single-
+lobed retropepsin (A2) family [2]. In each of the lobes, the catalytic
+aspartate is located in an Asp-Ser/Thr-Gly motif [3].
+
+Cysteine residues are well conserved within the pepsin family, pepsin
+itself containing 3 disulphide loops. The first loop is found in all but
+the fungal enzymes, and is usually around five residues in length, but is
+longer in barrierpepsin and candidapepsin; the second loop is also small
+and found only in the animal enzymes; and the third loop is the largest,
+found in all members of the family, except for the cysteine-free
+polyporopepsin [3]. The loops are spread unequally throughout the two
+lobes, suggesting that they formed after the initial gene duplication and
+fusion event [3].
+
+Most members of the pepsin family specifically cleave bonds in peptides
+that are at least 6 residues in length, with hydrophobic residues in both
+the P1 and P1' positions [3]. Crystallography has shown the active site to
+form a groove across the junction of the two lobes, with an extended loop 
+projecting over the cleft to form an 11-residue flap, which encloses
+substrates and inhibitors within the active site [3]. Specificity is
+determined by several hydrophobic residues surrounding the catalytic
+asparagines, and by three residues in the flap [3].
+
+PEPSIN is a 4-element fingerprint that provides a signature for the pepsin
+(A1) family of aspartate proteases. The fingerprint was derived from an 
+initial alignment of 23 sequences: the motifs were drawn from conserved
+regions within the central portion of the alignment - motif 1 contains the
+catalytic residues of the first domain; motif 3 includes the region encoded
+by PROSITE pattern ASP_PROTEASE (PS00141), which describes the active site
+of the second catalytic domain. Five iterations on OWL29.3 were required to
+reach convergence, at which point a true set comprising 145 sequences was
+identified. Thirteen partial matches were also found: of these, CAASPPRO is
+an aspartic protease from Candida albicans that lacks an appreciable match
+with motif 2; the remaining 12 are fragments.
+
+An update on SPTR37_9f identified a true set of 157 sequences, and 24
+partial matches.

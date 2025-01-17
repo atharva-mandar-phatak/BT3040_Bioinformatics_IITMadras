@@ -1,0 +1,49 @@
+MUSCRINICM2R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+The muscarinic acetylcholine receptors, present in the central nervous
+system, spinal cord motoneurons and autonomic preganglia, modulate a
+variety of physiological functions, including airway, eye and intestinal
+smooth muscle contractions; heart rate; and glandular secretions. The
+receptors mediate adenylate cyclase attenuation, calcium and potassium
+channel activation, and phosphatidyl inositol turnover [6]. This diversity
+may result from the occurrence of multiple receptor subtypes (of which 5
+are currently known, designated M1 to M5), which have been classified
+based on observed differences in ligand binding to receptors in membranes
+from several tissues.
+
+The M2 receptor is found in low levels in the CNS, where it has a limited
+distribution [7]. By contrast, M2 receptors are expressed in high density
+in the heart, where they induce a decrease in inotropy and bradycardia [7].
+They are also found in smooth muscle. No selective agonist has been
+described [7].
+
+MUSCRINICM2R is a 7-element fingerprint that provides a signature for the
+muscarinic M2 receptors. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved sections
+within either loop or N-terminal regions, focusing on those areas of the
+alignment that characterise the M2 receptors but distinguish them from the
+rest of the muscarinic receptor family - motif 1 lies at the N-terminus,
+and motifs 2-7 span the third cytoplasmic loop. Two iterations on OWL28.0
+were required to reach convergence, at which point a true set comprising 5
+sequences was identified. A single partial match was also found,
+ACM2_BOVIN, an M2 receptor fragment.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

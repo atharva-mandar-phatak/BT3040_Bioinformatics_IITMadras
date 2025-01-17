@@ -1,0 +1,44 @@
+ALARACEMASE
+Alanine racemase catalyses the pyridoxal-dependent conversion of L-alanine
+into D-alanine, a key component of bacterial peptidoglycan [1]. In E.coli
+and S.typhimurium, there are two alanine racemase isoforms: alr is a
+biosynthetic form required for cell wall formation; and dadB functions in
+L-alanine catabolism. By contrast with dadB and alr, both of which are
+monomeric enzymes, the alanine racemase of Bacillaceae are homodimers. In 
+P.putida, a broad-specificity amino acid racemase is structurally and
+functionally related to alanine racemase.
+
+The 3D-structure of the dimeric alanine racemase from B.stearothermophilus 
+has been determined to a resolution of 1.9A [2]. Each monomer comprises
+two domains, with an eight-stranded alpha/beta barrel at the N-terminus, and
+a C-terminal beta-strand domain [2]. In the dimer, the mouth of the alpha/
+beta barrel of one monomer faces the second domain of the other monomer. 
+The pyridoxal 5'-phosphate (PLP) cofactor lies in and above the barrel mouth
+and is covalently linked via an aldimine linkage to Lys39 [2]. 
+
+Several other residues are involved in anchoring the PLP: for example, 
+Arg219 forms a hydrogen bond with the pyridine nitrogen of the cofactor, 
+which is assumed to influence electron delocalisation in PLP-alanine
+intermediates; Arg136 donates a hydrogen bond to the phenolic oxygen of PLP,
+and may be involved in substrate binding and stabilisation of intermediates;
+and Tyr265' is postulated to be a 2 proton donor to the carbanion 
+intermediate [2]. 
+
+ALARACEMASE is a 9-element fingerprint that provides a signature for alanine
+racemase. The fingerprint was derived from an initial alignment of 10 
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motif 1 spans strand 2 and helix 2, and includes
+the region encoded by PROSITE pattern ALANINE_RACEMASE (PS00395), which 
+contains the pyridoxal-P attachment site; motif 2 includes helix 4 and 
+strand 4; motifs 3 and 4 encode the C-termini of strands 6 and 7 res., motif
+3 including the conserved Arg136; motif 5 spans helices 10-12 and strand 9,
+and includes Arg219; motif 6 spans strands 12-13 and helix 14, and includes
+Tyr265; motif 7 encodes the C-terminal portion of strand 14, helix 15 and
+the N-terminus of helix 16; motif 8 spans strands 15 and 16; and motif 9
+encodes helix 18. Three iterations on OWL30.2 were required to reach 
+convergence, at which point a true set comprising 19 sequences was 
+identified. Several partial matches were also found, all of which are 
+homologues or fragments that fail to match three or more motifs.
+
+An update on SPTR37_9f identified a true set of 18 sequences, and 3
+partial matches.

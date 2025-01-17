@@ -1,0 +1,33 @@
+EXPANSNFAMLY
+Expansins are unusual proteins that mediate cell wall extension in plants
+[1]. They are believed to act as a sort of chemical grease, allowing
+polymers to slide past one another by disrupting non-covalent hydrogen
+bonds that hold many wall polymers to one another. This process is not
+degradative and hence does not weaken the wall, which could otherwise
+rupture under internal pressure during growth.
+
+Sequence comparisons indicate at least four distinct expansin cDNAs in
+rice and at least six in Arabidopsis. The proteins are highly conserved in
+size and sequence (75-95% amino acid sequence similarity between any 
+pairwise comparison), and phylogenetic trees indicate that this multigene
+family formed before the evolutionary divergence of monocotyledons and 
+dicotyledons [1]. Sequence and motif analyses show no similarities to known
+functional domains that might account for expansin action on wall extension
+[1]. It is thought that several highly-conserved tryptophans may function 
+in expansin binding to cellulose, or other glycans. The high conservation 
+of the family indicates that the mechanism by which expansins promote wall
+extensin tolerates little variation in protein structure. 
+
+Grass pollens, such as pollen from timothy grass, represent a major cause
+of type I allergy [2]. Interestingly, expansins share a high degree of
+sequence similarity with the Lol p I family of allergens.
+
+EXPANSNFAMLY is a 6-element fingerprint that provides a signature for the
+expansin/Lol p I family of proteins. The fingerprint was derived from an 
+initial alignment of 9 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 5 includes the
+conserved tryptophans thought to mediate binding to cellulose. Three 
+iterations on SPTR37_10f were required to reach convergence, at which point 
+a true set comprising 40 sequences was identified. Several partial matches 
+were also found, all of which are related sequences that fail to match one 
+or more motifs.

@@ -1,0 +1,158 @@
+************************************************************************
+* Coagulation factors 5/8 type C domain (FA58C) signatures and profile *
+************************************************************************
+
+Blood  coagulation  factors  V  and VIII contain a C-terminal, twice repeated,
+domain of about 150 amino acids, which is called F5/8 type C, FA58C, or C1/C2-
+like  domain.  A distant sequence similarity has been noted between the C1 /C2
+domains  of  Factors  V  and VIII and the discoidin proteins, which comprise a
+family of phospholipid-binding lectins and other proteins involved in adhesive
+interactions [1].
+
+In coagulation  factors  V  and  VIII the  repeated  domains compose part of a
+larger functional  domain  which  promotes binding to anionic phospholipids on
+the surface  of  platelets and endothelial cells [2]. The C-terminal domain of
+the second   FA58C repeat (C2) of coagulation factor VIII has been shown to be
+responsible for phosphatidylserine-binding and essential for activity [3,4].
+
+The   crystal  structure  of  the  FA58C  domain  has  been  solved  [5]  (see
+<PDB:1CZS>).  It exhibits a distorted jelly-roll beta-barrel motif, consisting
+of  eight  antiparallel strands arranged in two beta-sheets. The lower part of
+the  beta-barrel  is  characterized  by  a preponderance of basic residues and
+three  adjacent  protruding  loops  that play a key role in lipid binding. The
+galactose  binding  domain  of  fungal  galactose  oxidase exhibits structural
+similarity to FA58C. The three adjacent loops are conserved and localized in a
+region which has been predicted to anchor the enzyme to plant cell walls. This
+may indicate a common binding role for the loop region.
+
+Similar  domains  have  been  detected  in  other  extracellular  and membrane
+proteins [6-8] which are listed below:
+
+ - Mammalian  milk fat globule-EGF factor 8 (MFGM), which is expressed in milk
+   and sperm.  It  is probably involved in phospholipid-binding. It contains 2
+   EGF-like repeats followed by 2 copies of FA58C.
+ - Neuropilin  (A5 antigen), a calcium-independent cell adhesion molecule that
+   function during  the  formation  of certain neuronal circuits. The sequence
+   contains 2   CUB domains (see <PDOC00908>, 2 FA58C domains and a MAM domain
+   (see <PDOC00604>).
+ - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+   mechanism. It  is  composed of 2 FA58C domains, a C-type lectin domain (see
+   <PDOC00537>), 2 VWFC domains (see <PDOC00928>) and a CTCK (see <PDOC00912>).
+ - Human  AEBP1,  a  transcriptional repressor  with carboxypeptidase activity
+   that is  probably  involved  in  the  regulation  of the differentiation of
+   osteoblasts. AEBP1  contains a single copy of FA58C. Mouse AEBP1 is shorter
+   in its N-terminal and lacks part of the FA58C domain.
+ - Bovine  Sco-spondin,  which  is  secreted  by  the  subcommissural organ in
+   embryos and  is  involved  in  the  modulation  of neuronal aggregation. It
+   contains at least 2 EGF-like domains, one FA58C, and 3 LDLRA domains.
+ - Drosophila  neurexin  IV  which is required for septate junction and blood-
+   nerve barrier  formation  and function. In comparision to neurexins I-alpha
+   and III-alpha, which are composed of 6 LamG domains and 3 EGF-like repeats,
+   the N-terminal LamG has been substituted by a FA58C domain in neurexin IV.
+ - Mammalian  contactin  associated  proteins (CASPR), which are implicated in
+   protein-protein interactions.
+ - Mammalian  tyrosine-protein  kinase  receptors EDDR1 (CAK, DDR1, TRKE, etc)
+   and NTRK3 (TKT or TYRO10) which all contain one copy of the FA58C domain.
+ - Caenorhabditis  elegans  putative tyrosine-protein kinases G01D9.2, F11D5.3
+   and C25F6.4.
+
+FA58C contains  two  conserved  cysteines  in  most  proteins,  which link the
+extremities of    the  domain  by a disulfide bond [9-11]. A further disulfide
+bond is located near the C-terminal of the second FA58C domain in MFGM [11].
+
+  +------------------------------------------------------------------------+
+  |                                                               +-+      |
+  |                                                               | |      |
+  CxPLGxxQITASxxxxxRLxxxWxxxxWxxxxxxQGxxxxxxxxxxxxGNxxxxxxxxxxRxPxcxcLRxExGC
+                        **************                          ************
+
+ 'C': conserved cysteine involved in a disulfide bond.
+ 'c': cysteine involved in a disulfide bond in MFGM.
+ 'x': any amino acid.
+ '*': position of the patterns.
+ Upper case letters: conserved residues.
+
+We  have  developed two patterns for FA58C. The first is located in the middle
+of  the  domain  and  the  second  covers  the  C-terminal  extremity. We also
+developed  a  profile that spans the whole domain. The profile also recognizes
+fungal galactose oxidase and some bacterial hyaluronidase and sialidase, three
+protein  families  that contain a conserved region related to the FA58C domain
+[1].
+
+-Consensus pattern: [GASP]-W-x(7,15)-[FYW]-[LIV]-x-[LIVFA]-[GSTDEN]-x(6)-
+                    [LIVF]-x(2)-[IV]-x-[LIVT]-[QKMT]-G
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: P-x(8,10)-[LM]-R-x-[GE]-[LIVP]-x-G-C
+                    [C is involved in a disulfide bond]
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ discoidins and G01D9.2 which lack the C-terminal cysteine of the domain.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: fungal galactose oxidase.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Baumgartner S., Hofmann K., Chiquet-Ehrismann R., Bucher P.
+     "The discoidin domain family revisited: new members from prokaryotes
+     and a homology-based fold prediction."
+     Protein Sci. 7:1626-1631(1998).
+     PubMed=9684896
+[ 2] Kane W.H., Davie E.W.
+     "Blood coagulation factors V and VIII: structural and functional
+     similarities and their relationship to hemorrhagic and thrombotic
+     disorders."
+     Blood 71:539-555(1988).
+     PubMed=3125864
+[ 3] Foster P.A., Fulcher C.A., Houghten R.A., Zimmerman T.S.
+     "Synthetic factor VIII peptides with amino acid sequences contained
+     within the C2 domain of factor VIII inhibit factor VIII binding to
+     phosphatidylserine."
+     Blood 75:1999-2004(1990).
+     PubMed=2110840
+[ 4] Ortel T.L., Quinn-Allen M.A., Keller F.G., Peterson J.A., Larocca D.,
+     Kane W.H.
+     "Localization of functionally important epitopes within the second
+     C-type domain of coagulation factor V using recombinant chimeras."
+     J. Biol. Chem. 269:15898-15905(1994).
+     PubMed=7515064
+[ 5] Macedo-Ribeiro S., Bode W., Huber R., Quinn-Allen M.A., Kim S.W.,
+     Ortel T.L., Bourenkov G.P., Bartunik H.D., Stubbs M.T., Kane W.H.,
+     Fuentes-Prior P.
+     Nature 402:434-439(1999).
+[ 6] Kane W.H., Davie E.W.
+     "Cloning of a cDNA coding for human factor V, a blood coagulation
+     factor homologous to factor VIII and ceruloplasmin."
+     Proc. Natl. Acad. Sci. U.S.A. 83:6800-6804(1986).
+     PubMed=3092220
+[ 7] Johnson J.D., Edman J.C., Rutter W.J.
+     "A receptor tyrosine kinase found in breast carcinoma cells has an
+     extracellular discoidin I-like domain."
+     Proc. Natl. Acad. Sci. U.S.A. 90:5677-5681(1993).
+     PubMed=8390675
+[ 8] Couto J.R., Taylor M.R., Godwin S.G., Ceriani R.L., Peterson J.A.
+     "Cloning and sequence analysis of human breast epithelial antigen BA46
+     reveals an RGD cell adhesion sequence presented on an epidermal growth
+     factor-like domain."
+     DNA Cell Biol. 15:281-286(1996).
+     PubMed=8639264
+[ 9] Xue J., Kalafatis M., Mann K.G.
+     "Determination of the disulfide bridges in factor Va light chain."
+     Biochemistry 32:5917-5923(1993).
+     PubMed=8504111
+[10] McMullen B.A., Fujikawa K., Davie E.W., Hedner U., Ezbahn E.
+     Protein Sci. 4:740-746(1995).
+[11] Hvarregaard J., Andersen M.H., Berglund L., Rasmussen J.T., Petersen T.E.
+     Eur. J. Biochem. 240:628-636(1996).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

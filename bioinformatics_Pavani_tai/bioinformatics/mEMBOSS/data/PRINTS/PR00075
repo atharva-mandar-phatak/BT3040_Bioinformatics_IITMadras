@@ -1,0 +1,30 @@
+FACDDSATRASE
+Fatty acid desaturases are enzymes that insert double bonds in the delta
+position of saturated fatty acids. There are 2 distinct enzyme families:
+the first contains stearoyl-CoA desaturase (SCD); the second includes plant
+stearoyl-acyl-carrier protein and cyanobacteria desA protein. SCD is an
+essential enzyme in the synthesis of unsaturated fatty acids [1]: in
+association with cytochrome b5 and NADP-dependent cytochrome b5 reductase,
+it constitutes part of a microsomal membrane-bound 3-component system in
+animals and fungi [1]. SCD contains 4 putative transmembrane (TM) regions
+that anchor it in the microsomal membrane. 
+
+The enzyme uses oxygen and electrons from reduced cytochrome b5 [2,3] to 
+catalyse the insertion of a double bond between carbons 9 and 10 of a 
+spectrum of fatty acids [1-3]. The preferred substrates of SCD are
+palmitoyl-CoA and stearoyl-CoA, which are converted to palmitoleic (16:1)
+and oleic (18:1) acids respectively [1,3]. These unsaturated molecules
+are the major storage form of fatty acids (as triacylglycerols) in
+adipocytes [1].
+
+FACDDSATRASE is a 7-element fingerprint that provides a signature for
+fatty acid desaturase family 1. The fingerprint was derived from an initial
+alignment of 4 sequences: motifs 1, 2, 5 and 6 were drawn from the 4
+putative TM regions, and motif 7 includes the region encoded by PROSITE
+pattern FATTY_ACID_DESATUR_1 (PS00476), which spans a C-terminal aromatic/
+His-rich domain. Two iterations on OWL25.1 were required to reach
+convergence, at which point a true set comprising 7 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 19 sequences, and 12
+partial matches.

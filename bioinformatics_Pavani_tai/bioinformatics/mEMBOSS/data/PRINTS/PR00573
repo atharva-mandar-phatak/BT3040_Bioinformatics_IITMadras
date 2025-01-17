@@ -1,0 +1,52 @@
+INTRLEUKN8BR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Interleukin-8 (IL8) is a pro-inflammatory cytokine involved in the cellular
+response to inflammation, being a powerful chemoattractant for neutrophils
+[6]. There are 2 similar cell surface receptors for IL8: type 1 (IL-8RA) is
+a high affinity receptor for IL8 alone; while type 2 (IL-8RB) is a high
+affinity receptor for IL8, growth related gene (GRO) and neutrophil-
+activating protein-2 (NAP-2). The affinity of type 1 receptors for IL8 is
+higher than that of type 2 receptors [6,7]. The receptors are coupled to
+Bordetella pertussis toxin-sensitive GTP-binding proteins [8]. Signal
+transduction depends on the activation of a phospholipase C specific for
+phosphatidylinositol-4,5-bisphosphate, producing 2 second messengers:
+inositol triphosphate and diacylglycerol [8]. Inositol triphosphate induces
+a rise in the levels of cytosolic free calcium, while diacylglycerol
+activates protein kinase C, leading to activation of neutrophils [8].
+
+IL8RB receptors are found in high density in neutrophils, monocytes, 
+basophils, and melanoma cells, and in lower density in T-cells [9]. IL8
+has been reported to stimulate the phosphoinositide pathway through an
+uncharacterised G protein; pertussis toxin also inhibits several of its
+actions [9]. The IL8RB receptor shares around 80% similarity with the
+IL8RA receptor.
+
+INTRLEUKN8AR is a 4-element fingerprint that provides a signature for the
+interleukin 8B receptors. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved sections
+within both N- and C-terminal regions, focusing on those areas of the
+alignment that characterise the interleukin 8B receptors but distinguish
+them from the rest of the rhodopsin-like superfamily - motifs 1 and 2 lie
+at the N-terminus; and motifs 3 and 4 lie at the C-terminus. A single
+iteration on OWL28.1 was required to reach convergence, no further
+sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 4 sequences.

@@ -1,0 +1,53 @@
+********************************************
+* ADP-glucose pyrophosphorylase signatures *
+********************************************
+
+ADP-glucose  pyrophosphorylase (glucose-1-phosphate adenylyltransferase) [1,2]
+(EC 2.7.7.27)  catalyzes  a  very  important  step   in  the  biosynthesis  of
+alpha 1,4-glucans  (glycogen  or  starch) in bacteria and plants: synthesis of
+the activated glucosyl donor, ADP-glucose, from glucose-1-phosphate and ATP.
+
+ADP-glucose pyrophosphorylase is a tetrameric allosterically regulated enzyme.
+It is a homotetramer in bacteria while in plant  chloroplasts and amyloplasts,
+it is a heterotetramer of two different, yet evolutionary related, subunits.
+
+There are a number of  conserved  regions in  the  sequence  of  bacterial and
+plant ADP-glucose  pyrophosphorylase  subunits.  We  selected  three  of these
+regions as  signature  patterns.  The  first  two are N-terminal and have been
+proposed to  be  part  of the allosteric and/or substrate-binding sites in the
+Escherichia coli  enzyme  (gene  glgC).  The  third  pattern  corresponds to a
+conserved region in the central part of the enzymes.
+
+-Consensus pattern: [AG]-G-G-x-G-[STKA]-x-L-x(2)-L-[TA]-x(3)-[AST]-x-P-[AS]-
+                    [LV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: W-[FY]-x-G-[ST]-[AS]-[DNSH]-[AS]-[LIVMFYW]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [APV]-[GS]-M-G-[LIVMN]-Y-[IVC]-[LIVMFY]-x(2)-[DENPHKRQS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Nakata P.A., Greene T.W., Anderson J.M., Smith-White B.J., Okita T.W.,
+     Preiss J.
+     "Comparison of the primary sequences of two potato tuber ADP-glucose
+     pyrophosphorylase subunits."
+     Plant Mol. Biol. 17:1089-1093(1991).
+     PubMed=1657244;
+[ 2] Preiss J., Ball K., Hutney J., Smith-White B.J., Li. L., Okitsa T.W.
+     Pure Appl. Chem. 63:535-544(1991).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

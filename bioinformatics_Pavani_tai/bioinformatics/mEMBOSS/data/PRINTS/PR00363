@@ -1,0 +1,31 @@
+CYTOCHROMEB5
+Cytochromes b5 (cyt b5) are ubiquitous electron transport proteins found in
+animals, plants and yeasts [1,2]. The microsomal and mitochondrial variants
+are membrane-bound, while those from erythrocytes and other animal tissues
+are water-soluble [3,4]. The 3D structure of bovine cyt b5 is known, the 
+fold belonging to the alpha+beta class, with 5 strands and 5 short helices
+forming a framework for supporting a central haem group [5]. The haem
+domain is similar to that of a number of oxidoreductases, such as plant
+and fungal nitrate reductases [6], sulphite oxidase [7], yeast 
+flavocytochrome b2 (L-lactate dehydrogenase) [8] and plant cyt b5/acyl 
+lipid desaturase fusion protein [9]. Within this domain, 2 conserved His 
+residues serve as axial ligands for the haem [5,8]. 
+
+CYTOCHROMEB5 is a 4-element fingerprint that provides a signature for 
+cyt b5 and cyt b5-like domains. The fingerprint was derived from an initial
+alignment of 24 sequences: motifs 1 and 2 are adjacent, spanning the first
+invariant His, which provides one of the haem ligands - within the 
+structure, they correspond to beta-strand 4 (32-35) and helix 2 (48-51) of 
+bovine cyt b5 [5]; motif 3 spans helix 3 (59-64); and motif 4 spans the
+greater part of helix 4 (69-75) and beta-strand 6 (79-83). The second
+His residue, which serves as an axial haem ligand, is situated in the
+loop of variable length between helices 3 and 4. Two iterations on OWL28.1
+were required to reach convergence, at which point a true set comprising 79
+sequences was identified. Five partial matches were also found, all of 
+which fail to make significant matches with motifs 3 or 4: they include 
+sunflower cyt b5/acyl lipid desaturase fusion protein (HACYTB5RN) [9], 
+rape expressed sequence tag (PQ0816), and 3 yeast hypothetical proteins 
+(S54484, SPAC1F129, S52833).
+
+An update on SPTR37_9f identified a true set of 66 sequences, and 24
+partial matches.

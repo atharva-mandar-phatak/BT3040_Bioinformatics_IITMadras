@@ -1,0 +1,88 @@
+*****************************************
+* PdxT/SNO family signature and profile *
+*****************************************
+
+The term  vitamin  B6 is used to refer collectively to the compound pyridoxine
+and its  vitameric  forms,  pyridoxal,  pyridoxamine, and their phosphorylated
+derivatives. Vitamin  B6  is  required by all organisms and plays an essential
+role as   a  co-factor  for  enzymatic  reactions.  Plants,  fungi,  bacteria,
+archaebacteria, and  protists  synthetize  vitamin B6. Animals and some highly
+specialized obligate  pathogens  obtain  it  nutritionally. Vitamin B6 has two
+distinct biosynthetic  pathways,  which  do  not  coexist in any organism. The
+pdxA/pdxJ pathway,  that  has  been  extensively  characterized in Escherichia
+coli, is  found  in  the  gamma  subdivision  of  the proteobacteria. A second
+pathway of  vitamin  B6 synthesis involving the pdxS/SNZ (see <PDOC00949>) and
+pdxT/SNO protein  families,  which are completely unrelated in sequence to the
+pdxA/pdxJ proteins,  is  found in plants, fungi, protists, archaebacteria, and
+most bacteria.
+
+PdxS/SNZ and  pdxT/SNO  proteins  form  a  complex which serves as a glutamine
+amidotransferase to supply ammonia as a source of the ring nitrogen of vitamin
+B6 [1].  PdxT/SNO  and  pdxS/SNZ appear to encode respectively the glutaminase
+subunit, which  produces  ammonia  from  glutamine,  and the synthase subunit,
+which combines  ammonia  with  five-  and  three-carbon  phosphosugars to form
+vitamin B6 [2].
+
+The pdxT/SNO  family  belongs  to  the  triad glutamine aminotransferase fold,
+characterized by  a  conserved  Cys-His-Glu  active  site [3]. Two regions are
+highly conserved across all taxa, the PGGEST motif and the FHPE(LT) motif [4].
+PdxT/SNO proteins  are  an alpha/beta three-layer sandwich containing a seven-
+stranded twisted  mixed  parallel beta-sheet flanked by a six alpha-helices on
+the N-terminal  stretch  of  the  sheet, four on one side and two on the other
+(see <PDB:1R9G>) [3].
+
+Some proteins belonging to the pdxT/SNO family are listed below:
+
+ - Bacillus subtilis glutamine amidotransferase subunit pdxT (EC 2.6.-.-).
+ - Haemophilus    influenzae    glutamine    amidotransferase   subunit   pdxT
+   (EC 2.6.-.-).
+ - Methanococcus    jannaschii   glutamine   amidotransferase   subunit   pdxT
+   (EC 2.6.-.-).
+ - Yeast probable glutamine amidotransferase SNO1 (EC 2.6.-.-).
+ - Yeast probable glutamine amidotransferase SNO2 (EC 2.6.-.-).
+ - Yeast probable glutamine amidotransferase SNO3 (EC 2.6.-.-).
+
+These are hydrophilic proteins of about 19 to 25 Kd.
+
+The pattern  we  developed for the pdxT/SNO family covers the PGGEST motif. We
+also developed a profile for the pdxT/SNO family.
+
+-Consensus pattern: [GARVS]-[LVI]-[ILAV]-[LIVF]-P-G-G-E-S-[TS]-[STAV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Dong Y.-X., Sueda S., Nikawa J.-I., Kondo H.
+     "Characterization of the products of the genes SNO1 and SNZ1 involved
+     in pyridoxine synthesis in Saccharomyces cerevisiae."
+     Eur. J. Biochem. 271:745-752(2004).
+     PubMed=14764090
+[ 2] Belitsky B.R.
+     "Physical and enzymological interaction of Bacillus subtilis proteins
+     required for de novo pyridoxal 5'-phosphate biosynthesis."
+     J. Bacteriol. 186:1191-1196(2004).
+     PubMed=14762015
+[ 3] Bauer J.A., Bennett E.M., Begley T.P., Ealick S.E.
+     "Three-dimensional structure of YaaE from Bacillus subtilis, a
+     glutaminase implicated in pyridoxal-5'-phosphate biosynthesis."
+     J. Biol. Chem. 279:2704-2711(2004).
+     PubMed=14585832; DOI=10.1074/jbc.M310311200
+[ 4] Ehrenshaft M., Daub M.E.
+     "Isolation of PDX2, a second novel gene in the pyridoxine biosynthesis
+     pathway of eukaryotes, archaebacteria, and a subset of eubacteria."
+     J. Bacteriol. 183:3383-3390(2001).
+     PubMed=11344146; DOI=10.1128/JB.183.11.3383-3390.2001
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

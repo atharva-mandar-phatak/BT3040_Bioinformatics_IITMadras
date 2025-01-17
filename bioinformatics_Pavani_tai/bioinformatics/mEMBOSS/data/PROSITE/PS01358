@@ -1,0 +1,95 @@
+*************************************************
+* Zinc finger RanBP2-type signature and profile *
+*************************************************
+
+Nucleocytoplasmic  transport  is  mediated  by large supramolecular structures
+that span the nuclear envelope called nuclear pore complexes (NPC). The export
+as well as the import pathway require three major component, the substrate, an
+adaptor  complex  and  a  receptor.  The adaptor complex and the receptor pass
+through the NPC with the substrate. The nuclear transport is also dependent on
+the  GTPase  cycle of the small GTPase protein Ran and a number of Ran-binding
+proteins (RanBP) [1,2].
+
+RanBP2  is one of these proteins located in the NPC on the cytoplasmic side of
+the ring. The function of RanBP2 is not yet well understood. It could function
+in  coupling  RanGTP  hydrolysis  to NPC translocation through its Ran binding
+domain  (RanBD1) (see <PDOC50196>) [3,4].  RanBP2  contains  also a cluster of
+zinc fingers,  the  RanBP2  zinc  fingers.  It  has been shown that these zinc
+fingers bind  RanGDP  (but   not  RanGTP)  [5]  and  the exportin-1 protein (a
+receptor of the export pathway) [6].
+
+The RanBP2  zinc  finger  is  also found in different proteins that are mainly
+involved in  nuclear  transport  or localized to the nuclear envelope. Some of
+the proteins containing such a domain are listed below.
+
+ - Mammalian  RanBP2/Nup358  protein.  Implicated in nuclear import and export
+   processes (8 copies).
+ - Human MDM2, play a central role in P53 regulation. MDM2 binds to P53 in the
+   nucleus and  the  complexe  is transported to the cytoplasm via a signal in
+   MDM2 (1 copy).
+ - Human  EWS  protein.  May  play  a  role in the tumorigenic process. It may
+   disturb  gene  expression  by  mimicking,  or  interfering  with the normal
+   function of CTD-polII within the transcription initiation complex (1 copy).
+ - FUS, probable RNA-binding protein. Exhibits diffuse staining throughout the
+   nucleus (excluding  nucleoli),  together  with  a small number of intensely
+   stained focal  points, or granules, and punctate staining along the nuclear
+   envelope (1 copy).
+ - Human  nuclear pore complex protein Nup153. Possible DNA-binding subunit of
+   the nuclear  pore  complex  (NPC).  Located  to the terminal ring structure
+   of nucleoplasmic cage (4 copies).
+ - Yeast  asparagine-rich  protein  1  (ARP1).  Protein  of  unknown  function
+   (2 copies).
+
+The  RanBP2  zinc  finger  contains  4  cysteines  and  a conserved tryptophan
+upstream  of  the  zinc  finger.  Our  pattern starts with this tryptophan and
+includes  the  4  cysteines.  We  have  also developed a profile that covers a
+region slightly bigger than the zinc finger.
+
+-Consensus pattern: W-x-C-x(2,4)-C-x(3)-N-x(6)-C-x(2)-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: May 2002 / Text revised.
+
+[ 1] Mattaj I.W., Englmeier L.
+     "Nucleocytoplasmic transport: the soluble phase."
+     Annu. Rev. Biochem. 67:265-306(1998).
+     PubMed=9759490; DOI=10.1146/annurev.biochem.67.1.265
+[ 2] Melchior F., Gerace L.
+     "Two-way trafficking with Ran."
+     Trends Cell Biol. 8:175-179(1998).
+     PubMed=9695834
+[ 3] Matunis M.J., Coutavas E., Blobel G.
+     "A novel ubiquitin-like modification modulates the partitioning of the
+     Ran-GTPase-activating protein RanGAP1 between the cytosol and the
+     nuclear pore complex."
+     J. Cell Biol. 135:1457-1470(1996).
+     PubMed=8978815
+[ 4] Mahajan R., Delphin C., Guan T., Gerace L., Melchior F.
+     "A small ubiquitin-related polypeptide involved in targeting RanGAP1
+     to nuclear pore complex protein RanBP2."
+     Cell 88:97-107(1997).
+     PubMed=9019411
+[ 5] Yaseen N.R., Blobel G.
+     "Two distinct classes of Ran-binding sites on the nucleoporin
+     Nup-358."
+     Proc. Natl. Acad. Sci. U.S.A. 96:5516-5521(1999).
+     PubMed=10318915
+[ 6] Singh B.B., Patel H.H., Roepman R., Schick D., Ferreira P.A.
+     "The zinc finger cluster domain of RanBP2 is a specific docking site
+     for the nuclear export factor, exportin-1."
+     J. Biol. Chem. 274:37370-37378(1999).
+     PubMed=10601307
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

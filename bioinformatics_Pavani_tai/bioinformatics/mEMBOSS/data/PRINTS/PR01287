@@ -1,0 +1,51 @@
+NURRNUCRCPTR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+A rat orphan nuclear hormone receptor, designated Nurr1 (Nur-related factor
+1), has been isolated from a brain cortex cDNA library [4,5]. The protein
+contains 598 amino acids and has a predicted molecular mass of 65kDa. The
+deduced sequence shows strong similarity to the mouse Nurr1 and human NOT1
+orphan nuclear hormone receptors of the NGFI-B/Nur77/NAK1 gene subfamily [4]. 
+
+Rat nurr1 is thought to be an immediate-early gene that is differentially
+induced by electroconvulsive seizure vs. kindled seizures [4]. As Nurr1 
+appears to be predominantly located in brain tissue, it may have a role 
+in regulation of gene expression in the central nervous system [5]. 
+Moreover, given that Nurr1 is prominently expressed in specific brain sites 
+associated with memory acquisition and consolidation, it may be involved
+in memory processing [4].
+
+NURRNUCRCPTR is a 12-element fingerprint that provides a signature for the
+Nurr orphan nuclear receptors. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections
+that characterise the Nurr nuclear receptors but distinguish them from the
+rest of the nuclear receptor family - motifs 1-9 lie N-terminal to the zinc
+finger domain; motifs 10 and 11 span a proline-rich region following the 
+zinc fingers; and motif 12 resides at the C-terminus. A single iteration on 
+SPTR37_10f was required to reach convergence, no further sequences being 
+identified beyond the starting set. Several partial matches were found: 
+Q16311 is a beta-type transcription factor homologue that lacks the first
+motif; the rest are NOR nuclear receptors that match motifs 2 and 10. 

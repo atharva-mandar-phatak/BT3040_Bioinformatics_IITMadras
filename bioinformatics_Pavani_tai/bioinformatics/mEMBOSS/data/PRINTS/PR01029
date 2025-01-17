@@ -1,0 +1,45 @@
+PENKAPRCRSR
+Vertebrate endogenous opioid neuropeptides are released by post-transla-
+tional proteolytic cleavage of precursor proteins. The precursors consist of
+the following components: a signal sequence that precedes a conserved region
+of about 50 residues; a variable-length region; and the sequence of the 
+neuropeptide itself. Three types of precursor are known: preproenkephalin A 
+(gene PENK), which is processed to produce 6 copies of Met-enkephalin, plus
+Leu-enkephalin; preproenkephalin B (gene PDYN), which is processed to
+produce neoendorphin, dynorphin, leumorphin, rimorphin and Leu-enkephalin;
+and prepronocipeptin (gene PNOC), whose processing produces nociceptin
+(orphanin FQ) and two other potential neuropeptides.
+
+Sequence analysis reveals that the conserved N-terminal region of the
+precursors contains 6 cysteines, which are probably involved in disulphide
+bond formation. It is speculated that this region might be important for 
+neuropeptide processing [1].
+
+The primary structure of rat preproenkephalin is highly similar to those of
+bovine and human preproenkephalins, and contains four copies of Met-
+enkephalin, one of Leu-enkephalin, one of Met-enkephalin-Arg6-Gly7-Leu8,
+and one of Met-enkephalin-Arg6-Phe7 [3,4]. Rat preproenkephalin contains
+269 amino acid residues, making it larger than the human (267 residues) 
+and bovine (263 residues) precursors [3,4]. 
+
+PENKAPRCRSR is a 10-element fingerprint that provides a signature for the
+proenkephalin A precursor. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from short conserved regions 
+spanning the full alignment length, focusing on those regions that 
+characterise the proenkephalin A precursors but distinguish them from the
+rest of the opioid neuropeptide precursor family - motif 1 spans the signal
+sequence; motifs 2 and 3 reside within the N-terminal Cys-rich region 
+encoded by PROSITE pattern OPIOIDS_PRECURSOR (PS01252), falling between the
+third and fourth, and fifth and sixth conserved Cys residues respectively;
+motifs 4 and 5 lie within the variable region, motif 5 lying immediately 
+N-terminal to the first Met-enkephalin; motif 6 spans an acidic region that
+precedes the third Met-enkephalin; motif 8 includes the C-terminal residues 
+of Met-enkephalin-Arg-Gly-Leu; motif 9 spans the region just preceding the
+Leu-enkephalin peptide; and motif 10 spans an acidic region that lies
+N-terminal to Met-enkephalin-Arg-Phe. Two iterations on OWL30.2 were 
+required to reach convergence, at which point a true set comprising 6
+sequences was identified. Several partial matches were also found, all of
+which are family members and fragments that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 1
+partial match.

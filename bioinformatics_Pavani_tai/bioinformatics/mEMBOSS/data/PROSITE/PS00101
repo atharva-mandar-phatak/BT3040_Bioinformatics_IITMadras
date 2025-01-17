@@ -1,0 +1,90 @@
+********************************************************
+* Hexapeptide-repeat containing-transferases signature *
+********************************************************
+
+On the  basis  of  sequence  similarity,  a  number  of transferases have been
+proposed [1,2,3,4] to belong to a single family. These proteins are:
+
+ - Serine  O-acetyltransferase  (EC  2.3.1.30)  (SAT)  (gene cysE),  an enzyme
+   involved in cysteine biosynthesis.
+ - Azotobacter  chroococcum  nitrogen  fixation  protein  nifP.  NifP  is most
+   probably a SAT involved in the optimization of nitrogenase activity.
+ - Escherichia coli  thiogalactoside   acetyltransferase  (EC 2.3.1.18)  (gene
+   lacA), an enzyme involved in the biosynthesis of lactose.
+ - UDP-N-acetylglucosamine  acyltransferase   (EC 2.3.1.129)  (gene  lpxA), an
+   enzyme involved in the biosynthesis of lipid A, a phosphorylated glycolipid
+   that anchors the lipopolysaccharide to the outer membrane of the cell.
+ - UDP-3-O-[3-hydroxymyristoyl]  glucosamine  N-acyltransferase  (EC  2.3.1.-)
+   (gene lpxD or firA), which is also involved in the biosynthesis of lipid A.
+ - Chloramphenicol O-acetyltransferase (CAT) (EC 2.3.1.28) from  Agrobacterium
+   tumefaciens,  Bacillus sphaericus,  Escherichia coli  plasmid  IncFII NR79,
+   Pseudomonas aeruginosa, Staphylococcus aureus plasmid pIP630. These CAT are
+   not evolutionary related to the main family of CAT (see <PDOC00093>).
+ - Rhizobium nodulation protein nodL. NodL is an acetyltransferase involved in
+   the O-acetylation of Nod factors.
+ - Bacterial maltose O-acetyltransferase (EC 2.3.1.79).
+ - Bacterial tetrahydrodipicolinate N-succinyltransferase (EC 2.3.1.117) (gene
+   dapD) which   catalyzes   the   fourth   step   in   the   biosynthesis  of
+   diaminopimelate and lysine from aspartate semialdehyde.
+ - Bacterial  N-acetylglucosamine-1-phosphate  uridyltransferase (EC 2.7.7.23)
+   (gene glmU  or  gcaD  or  tms),    an  enzyme involved in peptidoglycan and
+   lipopolysaccharide biosynthesis.
+ - Staphylococcus  aureus  protein  capG  which is involved in biosynthesis of
+   type 1 capsular polysaccharide.
+ - Yeast  hypothetical protein YJL218w, which is highly similar to Escherichia
+   coli lacA.
+ - Fission yeast hypothetical protein SpAC18B11.09c.
+ - Methanococcus jannaschii hypothetical protein MJ1064.
+
+These proteins have been shown [3,4] to contain a repeat structure composed of
+tandem repeats  of a [LIV]-G-x(4) hexapeptide which, in the tertiary structure
+of lpxA  [5],  has  been shown to form a left-handed parallel beta helix.  Our
+signature pattern is based on a fourfold repeat of this hexapeptide.
+
+-Consensus pattern: [LIV]-[GAED]-x(2)-[STAV]-x-[LIV]-x(3)-[LIVAC]-x-[LIV]-
+                    [GAED]-x(2)-[STAVR]-x-[LIV]-[GAED]-x(2)-[STAV]-x-[LIV]-
+                    x(3)-[LIV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Expert(s) to contact by email:
+           Roy P.H.; proy@rsvs.ulaval.ca
+
+-Last update: July 1998 / Text revised.
+
+[ 1] Downie J.A.
+     "The nodL gene from Rhizobium leguminosarum is homologous to the
+     acetyl transferases encoded by lacA and cysE."
+     Mol. Microbiol. 3:1649-1651(1989).
+     PubMed=2615659
+[ 2] Parent R., Roy P.H.
+     "The chloramphenicol acetyltransferase gene of Tn2424: a new breed of
+     cat."
+     J. Bacteriol. 174:2891-2897(1992).
+     PubMed=1314803
+[ 3] Vaara M.
+     "Eight bacterial proteins, including UDP-N-acetylglucosamine
+     acyltransferase (LpxA) and three other transferases of Escherichia
+     coli, consist of a six-residue periodicity theme."
+     FEMS Microbiol. Lett. 76:249-254(1992).
+     PubMed=1427014
+[ 4] Vuorio R., Haerkonen T., Tolvanen M., Vaara M.
+     "The novel hexapeptide motif found in the acyltransferases LpxA and
+     LpxD of lipid A biosynthesis is conserved in various bacteria."
+     FEBS Lett. 337:289-292(1994).
+     PubMed=8293817
+[ 5] Raetz C.R.H., Roderick S.L.
+     "A left-handed parallel beta helix in the structure of
+     UDP-N-acetylglucosamine acyltransferase."
+     Science 270:997-1000(1995).
+     PubMed=7481807
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

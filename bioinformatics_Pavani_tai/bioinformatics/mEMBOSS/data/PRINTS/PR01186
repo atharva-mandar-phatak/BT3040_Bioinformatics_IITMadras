@@ -1,0 +1,41 @@
+INTEGRINB
+Integrins constitute a large family of cell surface receptors that mediate
+both cell-cell and cell-matrix adhesion [1,2]. They are widely expressed and
+have a number of other roles that make them important therapeutic targets in
+conditions such as atherosclerosis, thrombosis, cancer and asthma.
+
+Structurally, integrins are heterodimeric associations of alpha and beta 
+chains. No crystallographic data exist for the heterodimer as a whole, but
+images of the gross overall structure have been obtained using electron
+microscopy. Each subunit has a large globular N-terminal extracellular
+domain, a single transmembrane (TM) domain, and a short C-terminal 
+cytoplasmic region. The exact pairing of alpha- and beta-subunits determines
+ligand specificity, localisation and function. Integrins interact with a
+variety of extra-cellular matrix (ECM) proteins (such as fibronectin, 
+collagen, laminin and fibrinogen) via RGD motifs in the ECM protein ligands.
+
+At the N-terminus of the beta subunit is a cysteine-containing domain
+reminiscent of that found in presenillins and semaphorins, which has hence
+been termed the PSI domain. C-terminal to the PSI domain is an A-domain,
+which has been predicted to adopt a Rossmann fold similar to that of the
+alpha subunit, but with additional loops between the second and third
+beta strands [3]. The murine gene Pactolus shares significant similarity
+with the beta subunit [4], but lacks either one or both of the inserted 
+loops. 
+
+The C-terminal portion of the beta subunit extracellular domain contains
+an internally disulphide-bonded cysteine-rich region, while the intra-
+cellular tail contains putative sites of interaction with a variety of
+intracellular signalling and cytoskeletal proteins, such as focal adhesion
+kinase and alpha-actinin respectively [5].
+
+INTEGRINB is a 14-element fingerprint that provides a signature for integrin
+beta subunits. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from short conserved regions spanning the
+full alignment length - motifs 1-11 reside within the N-terminal extra-
+cellular domain, motif 11 falling in the cysteine-rich region; motifs 12 
+and 13 span the putative TM domain; and motif 14 lies in the cytoplasmic 
+domain. Four iterations on SPTR37_10f were required to reach convergence,
+at which point a true set comprising 27 sequences was identified. Several
+partial matches were also found, all of which are integrin beta subunits 
+and homologues that fail to match one or more motifs.

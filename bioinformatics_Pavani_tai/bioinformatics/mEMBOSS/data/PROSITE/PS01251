@@ -1,0 +1,57 @@
+*************************************************
+* Proliferating cell nuclear antigen signatures *
+*************************************************
+
+Proliferating cell  nuclear  antigen (PCNA) [1,2] is a protein involved in DNA
+replication  by  acting  as a    cofactor    for    DNA  polymerase delta, the
+polymerase responsible for lagging strand DNA replication.
+
+A similar protein exists  in  yeast (gene POL30) [3]  and is  associated  with
+polymerase III, the yeast analog of polymerase delta.   In  baculoviruses  the
+ETL protein has  been shown [4] to  be highly related  to PCNA and is probably
+associated with the viral encoded DNA polymerase. An homolog  of  PCNA is also
+found in archebacteria.
+
+As signatures for this family of proteins, we selected a two conserved regions
+located in  the  N-terminal  section. The second one has been proposed to bind
+DNA.
+
+-Consensus pattern: [GSTA]-[LIVMF]-x-[LIVMAS]-x-[GSAVI]-[LIVM]-[DS]-x-[NSAED]-
+                    [HKRNS]-[VIT]-x-[LMYF]-[VIGAL]-x-[LIVMF]-x-[LIVM]-x(4)-F
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [RKA]-C-[DE]-[RH]-x(3)-[LIVMF]-x(3)-[LIVM]-x-[SGAN]-
+                    [LIVMF]-x-K-[LIVMF](2)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for archaebacterial PCNA homologs.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: January 2012 / Text revised.
+
+[ 1] Bravo R., Frank R., Blundell P.A., Mcdonald-Bravo H.
+     "Cyclin/PCNA is the auxiliary protein of DNA polymerase-delta."
+     Nature 326:515-517(1987).
+     PubMed=2882423; DOI=10.1038/326515a0
+[ 2] Suzuka I., Hata S., Matsuoka M., Kosugi S., Hashimoto J.
+     "Highly conserved structure of proliferating cell nuclear antigen (DNA
+     polymerase delta auxiliary protein) gene in plants."
+     Eur. J. Biochem. 195:571-575(1991).
+     PubMed=1671766
+[ 3] Bauer G.A., Burgers P.M.J.
+     "Molecular cloning, structure and expression of the yeast
+     proliferating cell nuclear antigen gene."
+     Nucleic Acids Res. 18:261-265(1990).
+     PubMed=1970160
+[ 4] O'Reilly D.R., Crawford A.M., Miller L.K.
+     Nature 337:606-606(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

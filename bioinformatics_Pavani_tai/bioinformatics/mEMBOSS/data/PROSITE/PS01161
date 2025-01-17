@@ -1,0 +1,50 @@
+**************************************************************
+* Glucosamine/galactosamine-6-phosphate isomerases signature *
+**************************************************************
+
+Glucosamine-6-phosphate isomerase (EC 3.5.99.6) (or Glc-6-P deaminase) is  the
+enzyme responsible for the conversion of glucosamine 6-phosphate into fructose
+6 phosphate [1].  It  is  the  last  specific  step  in  the  pathway  for  N-
+acetylglucosamine (GlcNAC)  utilization  in  bacteria such as Escherichia coli
+(gene nagB) or in fungi such as Candida albicans (gene NAG1).
+
+Glc-6-P isomerase is evolutionary related to:
+
+ - A putative Escherichia coli galactosamine-6-phosphate isomerase (gene agaI)
+   [2].
+ - Escherichia coli hypothetical protein yieK.
+ - Bacillus subtilis hypothetical protein ybfT.
+
+As a  signature  pattern we selected a conserved region located in the central
+part  of these enzymes.  This region  contains a conserved histidine which has
+been shown [1], in nagB, to be important for the pyranose ring-opening step of
+the catalytic mechanism.
+
+-Consensus pattern: [LIVM]-x(3)-[GNH]-x(0,1)-[LITCRV]-x-[LIVWF]-x-[LIVMF]-x-
+                    [GS]-[LIVM]-G-x-[DENV]-G-[HN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Oliva G., Fontes M.R.M., Garratt R.C., Altamirano M.M., Calcagno M.L.,
+     Horjales E.
+     "Structure and catalytic mechanism of glucosamine 6-phosphate
+     deaminase from Escherichia coli at 2.1 A resolution."
+     Structure 3:1323-1332(1995).
+     PubMed=8747459
+[ 2] Reizer J., Ramseier T.M., Reizer A., Charbit A., Saier M.H. Jr.
+     "Novel phosphotransferase genes revealed by bacterial genome
+     sequencing: a gene cluster encoding a putative N-acetylgalactosamine
+     metabolic pathway in Escherichia coli."
+     Microbiology 142:231-250(1996).
+     PubMed=8932697
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

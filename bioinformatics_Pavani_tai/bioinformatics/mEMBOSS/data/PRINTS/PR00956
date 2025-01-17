@@ -1,0 +1,32 @@
+FLGMOTORFLIN
+The flagellar motor switch in E.coli and S.typhimurium regulates the 
+direction of flagellar rotation and hence controls swimming behaviour [1].
+The switch is a complex apparatus that responds to signals transduced by the
+chemotaxis sensory signalling system during chemotactic behaviour [1]. CheY,
+the chemotaxis response regulator, is believed to act directly on the switch
+to induce tumbles in the swimming pattern, but no physical interactions of 
+CheY and switch proteins have yet been demonstrated. 
+
+The switch complex comprises at least three proteins - FliG, FliM and FliN.
+It has been shown that FliG interacts with FliM, FliM interacts with itself,
+and FliM interacts with FliN [2]. Several residues within the middle third
+of FliG appear to be strongly involved in the FliG-FliM interaction, with
+residues near the N- or C-termini being less important [2]. Such clustering
+suggests that FliG-FliM interaction plays a central role in switching. 
+
+Analysis of the FliG, FliM and FliN sequences shows that none are especially
+hydrophobic or appear to be integral membrane proteins [3]. This result is
+consistent with other evidence suggesting that the proteins may be 
+peripheral to the membrane, possibly mounted on the basal body M ring [3,4]. 
+
+FLGMOTORFLIN is a 4-element fingerprint that provides a signature for
+flagellar motor switch FliN proteins. The fingerprint was derived from
+an initial alignment of 11 sequences: the motifs were drawn from short
+conserved regions spanning the C-terminal portion of the alignment. Two 
+iterations on OWL30.2 were required to reach convergence, at which point 
+a true set comprising 13 sequences was identified. Several partial matches 
+were also found, all of which are FliN homologues that fail to match one or
+more motifs.    
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 2
+partial matches.

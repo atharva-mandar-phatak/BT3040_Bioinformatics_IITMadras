@@ -1,0 +1,69 @@
+APYRASEFAMLY
+Many pathogens are transmitted by arthropod vectors to vertebrate hosts
+through salivary secretions that occur while the vectors are feeding on
+blood. Since hematophagy has arisen independently several times in insects,
+a large variety of different molecules have evolved to accomplish the same
+or similar function.
+
+When vascular tissue is damaged, the disrupted cells release ATP and ADP at
+high concentration into the extracellular environment, where ADP promotes
+platelet activation and aggregation. The activated platelets may in turn 
+release in the medium their ADP-containing granules, recruiting additional
+platelets to the site of injury. One of the ADP-platelet dependent anti-
+aggregation components, required for efficient feeding, is an apyrase with 
+ATP-diphosphohydrolase activity [1]. Apyrase acts as an allergen, and its 
+function is to inhibit the ADP-induced platelet recruitment and aggregation
+by hydrolysing ADP to AMP and inorganic phosphate: 
+
+		ATP + 2H2O = AMP + 2PHOSPHATE
+
+In addition, levels of apyrase activity correlate positively with decreased
+probing time during feeding, leading investigators to suggest that the
+enzyme facilitates the speed of locating blood.
+
+The gene Apyrase is expressed specifically in the adult female salivary
+glands of the mosquito A.aegypti. Expression of this gene is confined to
+those lobes of the salivary glands that secrete female-enriched products.
+Apyrase protein levels increase after adult emergence, and are not affected
+greatly by bloodfeeding [1]. In animals, Apyrase has been found in the
+bovine aorta, rat uterus and mammary glands, and human placenta. The enzyme
+has been implicated as an inhibitor of platelet aggregation [1]. 
+
+Sequence comparisons indicate similarities with a ubiquitous family of
+5'-nucleotidases. However, the mosquito protein differs from other members
+of the family in lacking a C-terminal hydrophobic domain. This is consistent
+with the fact that mosquito apyrase is a secreted salivary protein [2]. 
+
+The observation that apyrase is similar to 5'-nucleotidase extends earlier
+suggestions that the evolutionary history of the nucleotidase family has
+been characterised by substrate specification. An example of the ancestral
+state is represented by a bacterial enzyme that combines 5'-nucleotidase,
+UDP-sugar hydrolase, and apyrase activities, including an identical region
+of 6 amino acid residues, GKYVGR. Accordingly, it has been proposed that
+duplications of the broad substrate spectrum ancestral gene were followed 
+by divergent selection to produce apyrases, 5'-nucleotidases and UDP-sugar 
+hydrolases. It is possible that a gene for a single enzyme such as the 
+5'-nucleotidase is the common progenitor for salivary apyrases in the 
+various arthropod taxa. The apparent conversion of a gene encoding an 
+enzyme involved in a common metabolic event at the cellular level to a gene
+involved in the anti-haemostatic response, illustrates one way that this
+particular insect has adapted to the challenges of bloodfeeding [2,3].
+
+The crystal structure of 5'-nucleotidase from E.coli has been determined 
+to 1.7A resolution [4]. The structure sequesters two zinc ions within a 
+cleft between two domains, so forming the active site. The dimetal center
+and a catalytic Asp-His dyad are the principal components of the catalytic
+mechanism [4]. Structure-based sequence comparisons indicate that this
+structure provides a model for animal 5'-nucleotidases and related proteins. 
+
+APYRASEFAMLY is a 6-element fingerprint that provides a signature for the 
+apyrase family. The fingerprint was derived from an initial alignment of 16
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length - motif 1 encompasses beta-strand 1; motif 2 spans
+strand 10 and alpha-helix 7; motif 3 spans the C-terminus of helix 8 and
+strands 11 and 12; motif 4 encodes strands 15 and 16; motif 5 encompasses
+strands 20 and 21, and helix 13; and motif 6 spans strand 26 and helix 15.
+Six iterations on SPTR40_18f were required to reach convergence, at which
+point a true set comprising 51 sequences was identified. Several partial 
+matches were also found, all of which are family members that fail to make
+significant matches with one or more motifs.

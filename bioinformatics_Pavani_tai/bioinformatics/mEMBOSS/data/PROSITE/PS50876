@@ -1,0 +1,53 @@
+**************************************
+* Zinc finger integrase-type profile *
+**************************************
+
+The  retroviral integrase is the enzyme responsible for the insertion of a DNA
+copy  of  the viral genome into host DNA, an essential step in the replication
+cycle  of  viruses  [1].  Integrases  comprise three functional and structural
+domains:  the  central  core  domain,  which  contains  the catalytic site, an
+N-terminal  zinc  finger  and  a  C-terminal  DNA binding domain [2]. The zinc
+finger has the signature of zinc-binding residues H-x(3)-H-x(23)-C-x(2)-C. The
+function  of  this  domain is unclear; however, it is required for integration
+activity  and  enhances  tetramerization  in  the  context  of the full-length
+integrase [3].
+
+The  structure  of  this domain has been solved [3], it comprises four helices
+(see  <PDB:1WJA>).  The  fold  is  very similar to that of a number of HTH DNA
+binding  motifs,  with  helices  2  and 3 corresponding to the HTH motif . The
+third helice is used for dimerization, whereas in the HTH motif it binds DNA.
+
+The profile we developed covers the whole domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Frankel A.D., Young J.A.
+     "HIV-1: fifteen proteins and an RNA."
+     Annu. Rev. Biochem. 67:1-25(1998).
+     PubMed=9759480; DOI=10.1146/annurev.biochem.67.1.1
+[ 2] Esposito D., Craigie R.
+     "HIV integrase structure and function."
+     Adv. Virus. Res. 52:319-333(1999).
+     PubMed=10384240
+[ 3] Zheng R., Jenkins T.M., Craigie R.
+     "Zinc folds the N-terminal domain of HIV-1 integrase, promotes
+     multimerization, and enhances catalytic activity."
+     Proc. Natl. Acad. Sci. U.S.A. 93:13659-13664(1996).
+     PubMed=8942990
+[ 4] Cai M., Zheng R., Caffrey M., Craigie R., Clore G.M., Gronenborn A.M.
+     "Solution structure of the N-terminal zinc binding domain of HIV-1
+     integrase."
+     Nat. Struct. Biol. 4:567-577(1997).
+     PubMed=9228950
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

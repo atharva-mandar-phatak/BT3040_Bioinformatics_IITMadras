@@ -1,0 +1,21 @@
+AROAAPRMEASE
+Aromatic amino acids are concentrated in the cytoplasm of E.coli by 4 
+distinct transport systems: a general aromatic amino acid permease, and a
+specific permease for each of the 3 types (Phe, Tyr and Trp) [1]. All these
+permeases are located in the cytoplasmic membrane and, like bacterial
+sugar/cation transporters, are thought to contain 12 transmembrane (TM)
+regions [1] - hydropathy analysis, however, is inconclusive, suggesting the
+possibility of 10 to 12 membrane-spanning domains [2].
+
+AROAAPRMEASE is a 9-element fingerprint that provides a signature for the 
+aromatic amino acid permeases. The fingerprint was derived from an initial
+alignment of 4 sequences, the motifs being drawn largely from the putative
+transmembrane (TM) domains: motifs 1-3 correspond to TM regions 1-3; motifs 
+4-6 to TM domains 5-7; and 8 and 9 to domains 9 and 10 - motif 7 includes 
+the region encoded by PROSITE pattern AROMATIC_AA_PERMEASE (PS00594). A 
+single iteration on OWL 23.2 was required to reach convergence, no further
+sequences being identified beyond the starting set. Several partial matches
+were also found, most of which are also bacterial transport proteins.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 5
+partial matches.

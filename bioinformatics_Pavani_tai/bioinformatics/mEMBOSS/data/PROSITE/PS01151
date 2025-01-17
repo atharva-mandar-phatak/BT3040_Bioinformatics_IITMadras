@@ -1,0 +1,77 @@
+**************************************************************
+* Fimbrial biogenesis outer membrane usher protein signature *
+**************************************************************
+
+In Gram-negative bacteria the biogenesis of fimbriae (or pili) requires a two-
+component assembly  and  transport  system  which is composed of a periplasmic
+chaperone (see  <PDOC00552>)  and  an  outer  membrane  protein which has been
+termed a  molecular  'usher'  [1,2,3]. The protein is rather large (from 86 to
+100 Kd) and seems to be mainly composed  of  membrane-spanning  beta-sheets, a
+structure reminiscent  of  porins.  Known  members  of  this family are listed
+below:
+
+ - Escherichia coli papC for P pili.
+ - Escherichia coli afaC for AFA-III adhesin.
+ - Escherichia coli aggC for AAF/I fimbriae.
+ - Escherichia coli cssD for CS6 antigen.
+ - Escherichia coli faeD for K88 pili.
+ - Escherichia coli fanD for K99 pili.
+ - Escherichia coli fasD for 987P fimbria.
+ - Escherichia coli fimD for type 1 fimbriae.
+ - Escherichia coli focD for F1C fimbriae.
+ - Escherichia coli htrE for a yet unknown pilin.
+ - Escherichia coli CS3-2 for CS3 pili.
+ - Bordetella  pertussis  fhaA  (or  fimC)  for  filamentous hemagglutinin and
+   fimbria.
+ - Haemophilus influenzae hifC for type b pili.
+ - Klebsiella pneumoniae mrkC for type 3 pili.
+ - Proteus mirabilis pmfC for PMF fimbriae.
+ - Salmonella enteritidis sefC for sef14 fimbriae.
+ - Salmonella typhimurium lpfC for long polar fimbriae.
+ - Yersinia enterocolitica myfC for myf fimbriae.
+ - Yersinia pestis caf1A for F1 capsule antigen.
+ - Escherichia coli hypothetical protein ybgQ.
+ - Escherichia coli hypothetical protein ycbS.
+ - Escherichia coli hypothetical protein yehB.
+ - Escherichia coli hypothetical protein yfcU.
+ - Escherichia coli hypothetical protein yhcD.
+ - Escherichia coli hypothetical protein yqiG.
+ - Escherichia coli hypothetical protein yraJ.
+
+The degree of sequence similarity of these proteins is not very high.  However
+they  share a number of characteristics. One them is the presence of two pairs
+of cysteines, the first one  is  located in the N-terminal part and the second
+at the  C-terminal  extremity.  They are probably involved in disulfide bonds.
+The best conserved region is located in the central part of these proteins and
+can be used as a signature pattern.
+
+-Consensus pattern: [VL]-[PASQ]-[PAS]-G-[PAD]-[FY]-x-[LI]-[DNQSTAP]-[DNH]-
+                    [LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for cssD and sefC.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Schifferli D.M.; dmschiff@pobox.upenn.edu
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Jacob-Dubuisson F., Striker R., Hultgren S.J.
+     J. Biol. Chem. 269:12447-12455(1994).
+[ 2] Schifferli D.M., Alrutz M.A.
+     "Permissive linker insertion sites in the outer membrane protein of
+     987P fimbriae of Escherichia coli."
+     J. Bacteriol. 176:1099-1110(1994).
+     PubMed=7906265
+[ 3] van Rosmalen M., Saier M.H. Jr.
+     Res. Microbiol. 144:507-527(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,30 @@
+FLGBIOSNFLIP
+The fliL operon of Escherichia coli contains seven genes (including fliO,
+fliP, fliQ and fliR) involved in the biosynthesis and functioning of the
+flagellar organelle [1]. The fliO, fliP, fliQ and fliR genes encode highly
+hydrophobic polypeptides. On the basis of DNA sequence analysis and in vivo
+protein expression, the fliP gene product appears to be synthesised as a 
+precursor, with an N-terminal signal peptide of 21 amino acids [1]. The FliP
+protein shows similarity to proteins encoded by a DNA sequence upstream of
+the flaA gene of Rhizobium meliloti, to a gene involved in pathogenicity in
+Xanthomonas campestris pv. glycines and to the spa24 gene of the Shigella
+flexneri [1]. The gene products of the latter two appear to be involved in
+protein translocation, suggesting a similar function in FliP [1]. 
+
+FliP is an ~30kDa protein containing three or four transmembrane (TM) regions.
+Proteins sharing an evolutionary relationship with FliP have been found in 
+a wide range of bacteria and are involved in a variety of signal-peptide 
+independent secretion systems (e.g., mopC, hrcR, hrpW, spaP, yscR).
+
+FLGBIOSNFLIP is a 6-element fingerprint that provides a signature for
+the flagellar biosynthetic FliP proteins. The fingerprint was derived from
+an initial alignment of 8 sequences: the motifs were drawn from short 
+conserved regions spanning virtually the full alignment length, focusing
+on those sections that characterise the Flip proteins but distinguish 
+them from the type III secretion system inner membrane P protein family - 
+motif 1 spans the N-terminus of putative TM domain 1; motif 2 spans the
+C-terminus of TM domain 2 and part of the following loop; and motifs 3 and
+4 reside in the loop between TM domains 2 and 3. Two iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set 
+comprising 9 sequences was identified. Several partial matches were also 
+found, all of which are FliP proteins that fail to match one or more motifs.

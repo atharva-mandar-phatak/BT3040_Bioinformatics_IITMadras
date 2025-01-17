@@ -1,0 +1,38 @@
+LANCEUKARYTE
+The LanC-like protein superfamily encompasses a highly divergent group of
+peptide-modifying enzymes, including the eukaryotic and bacterial 
+lanthionine synthetase C-like proteins (LanC) [1-3]; subtilin biosynthesis
+protein SpaC from Bacillus subtilis [4,5]; epidermin biosynthesis protein
+EpiC from Staphylococcus epidermidis [6]; nisin biosynthesis protein NisC 
+from Lactoccocus lactis [7-9]; GCR2 from Arabidopsis thaliana [10]; and
+many others.  
+
+The 3D structure of the lantibiotic cyclase from L.lactis has been
+determined by X-ray crystallography to 2.5A resolution [11]. The globular
+structure is characterised by an all-alpha fold, in which an outer ring
+of helices envelops an inner toroid composed of 7 shorter, hydrophobic 
+helices. This 7-fold hydrophobic periodicity has led several authors to 
+claim various members of the family, including eukaryotic LanC-1 and GCR2,
+to be novel G protein-coupled receptors [10,12]; some of these claims have
+since been corrected [2,13,14].
+
+The eukaryotic lanthionine synthetase C-like proteins 1-3, are relatives of
+the bacterial lanthionine synthetase components C (LanC) [1-3]. They are
+ubiquitous in nature, being variously expressed in brain, spinal chord,
+pituitary gland, kidney, heart, skeletal muscle, pancreas, ovary and
+testis. LanC-like protein 2 is a bystander gene coamplified and over-
+expressed with epidermal growth factor receptor (EGFR) in 20% of
+glioblastomas; its exogenous expression in a sarcoma cell line decreases
+the expression of ABCB1 (P-glycoprotein 1) and increases cellular
+sensitivity to the anticancer drug adriamycin [3].
+
+LANCEUKARYTE is a 7-element fingerprint that provides a signature for the
+eukaryotic LanC-like protein family. The fingerprint was derived from an
+initial alignment of 10 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length, focusing on those
+sections that characterise the eukaryotic LanC proteins but distinguish 
+them from closely related members of the LanC-like protein superfamily.
+Four iterations on SPTR55_38f were required to reach convergence, at which
+point a true set comprising 24 sequences was identified. Numerous partial 
+matches were also found, all of which are members of the LanC-like 
+superfamily that fail to make significant matches with one or more motifs.

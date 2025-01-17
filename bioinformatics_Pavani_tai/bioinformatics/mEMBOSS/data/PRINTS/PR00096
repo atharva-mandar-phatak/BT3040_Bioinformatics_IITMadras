@@ -1,0 +1,24 @@
+GATASE
+Glutamine amidotransferase activity involves the removal of the ammonia 
+group from a glutamate molecule and its subsequent transfer to a specific 
+substrate, thus creating a new carbon-nitrogen group on the substrate. This
+activity is found in a range of biosynthetic enzymes, including glutamine 
+amidotransferase, anthranilate synthase component II, p-aminobenzoate, and 
+glutamine-dependent carbamoyl-transferase (CPSase). Glutamine amidotrans-
+ferase (GATase) domains can occur either as single polypeptides, as in
+glutamine amidotransferases, or as domains in a much larger multifunctional
+synthase protein, such as CPSase.
+
+GATASE is a 3-element fingerprint that provides a signature for the super-
+family of enzymes that have glutamine amidotransferase activity. The 
+fingerprint was derived from an initial alignment of 6 sequences: motif 1
+encodes an area that is well conserved in all GATases, and motif 2 spans
+the glutamine binding site (cf. PROSITE pattern GATASE_TYPE_I (PS00442)).
+Three iterations on OWL17.1 were required to reach convergence, at which
+point a true set comprising 47 sequences was identified. Fifteen partial
+matches were also found: these include amidotransferase HisH; GMP synthase;
+CTP synthase and ammonia-dependent CPSase proteins; as well as anthranilate
+synthase component II fragments.
+
+An update on SPTR37_9f identified a true set of 119 sequences, and 55
+partial matches.

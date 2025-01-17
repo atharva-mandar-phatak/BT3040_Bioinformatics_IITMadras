@@ -1,0 +1,69 @@
+*********************************
+* Chaperonins clpA/B signatures *
+*********************************
+
+A number  of  ATP-binding  proteins that are are thought to protect cells from
+extreme stress  by  controlling  the  aggregation  of  denaturation  of  vital
+cellular structures  have  been  shown [1,2] to be evolutionary related. These
+proteins are listed below.
+
+ - Escherichia  coli  clpA,  which acts as the  regulatory subunit of the ATP-
+   dependent protease clp.
+ - Rhodopseudomonas blastica clpA homolog.
+ - Escherichia coli heat shock protein clpB and homologs in other bacteria.
+ - Bacillus subtilis protein mecB.
+ - Yeast heat shock protein 104 (gene HSP104), which is vital for tolerance to
+   heat, ethanol and other stresses.
+ - Neurospora heat shock protein hsp98.
+ - Yeast mitochondrial heat shock protein 78 (gene HSP78) [3].
+ - CD4A  and CD4b, two highly related  tomato proteins that seem to be located
+   in the chloroplast.
+ - Trypanosoma brucei protein clp.
+ - Porphyra purpurea chloroplast encoded clpC.
+
+The size  of  these proteins range from 84 Kd (clpA) to slightly more than 100
+Kd (HSP104).  They  all  share  two conserved regions of about 200 amino acids
+that each contains an ATP-binding site. In addition  to  the ATP-binding A and
+B motifs there are many parts in these two domains that are also conserved. We
+have selected two of these regions as signature patterns.  The first signature
+is located  in  the  first  domain, some ten residues to the C-terminal of the
+ATP-binding B  motif.  The second  pattern is located in the second domain in-
+between the ATP-binding A and B motifs.
+
+-Consensus pattern: [DA]-[AI]-[SGA]-[NQS]-[LIVMF](2)-K-[PT]-x-[LM]-x(2)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [RGT]-[LIVMFY]-[DN]-x-[ST]-E-[LIVMFY]-x-[ED]-[KRQEAS]-x-
+                    [STA]-x-[STAD]-[KRS]-[LIVM]-x-G-[STAP]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gottesman S., Squires C., Pichersky E., Carrington M., Hobbs M.,
+     Mattick J.S., Dalrymple B., Kuramitsu H., Shiroza T., Foster T.
+     "Conservation of the regulatory subunit for the Clp ATP-dependent
+     protease in prokaryotes and eukaryotes."
+     Proc. Natl. Acad. Sci. U.S.A. 87:3513-3517(1990).
+     PubMed=2185473
+[ 2] Parsell D.A., Sanchez Y., Stitzel J.D., Lindquist S.
+     "Hsp104 is a highly conserved protein with two essential
+     nucleotide-binding sites."
+     Nature 353:270-273(1991).
+     PubMed=1896074; DOI=10.1038/353270a0
+[ 3] Leonhardt S.A., Fearson K., Danese P.N., Mason T.L.
+     "HSP78 encodes a yeast mitochondrial heat shock protein in the Clp
+     family of ATP-dependent proteases."
+     Mol. Cell. Biol. 13:6304-6313(1993).
+     PubMed=8413229
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

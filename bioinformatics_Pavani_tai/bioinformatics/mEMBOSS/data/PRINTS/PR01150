@@ -1,0 +1,48 @@
+MELATONIN1CR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Melatonin is secreted by the pineal gland during darkness [6]. It regulates
+a variety of neuroendocrine functions and is thought to play an essential
+role in circadian rhythms [6]. Drugs that modify the action of melatonin,
+and hence influence circadian cycles, are of clinical interest (for example,
+in the treatment of jet-lag) [6]. Melatonin receptors are found in the 
+retina, in the pars tuberalis of the pituitary, and in discrete areas of 
+the brain. The receptor inhibits adenylyl cyclase via a pertussis-toxin-
+sensitive G protein, probably of the Gi/Go class [6]. 
+
+Three sub-types have been cloned, designated Mel1a, Mel1b and Mel1c,
+together with a closely related orphan receptor, termed Mel1x. Chick brain
+and Xenopus Mel1c receptors are 80% identical and are distinct from the 
+Mel1a and Mel1b subtypes [7]. Similar ligand binding and functional 
+characteristics are observed in expressed Mel1a and Mel1c receptors [7].
+The widespread distribution of Mel1a and Mel1c mRNA in brain provides a
+molecular substrate for the profound actions of melatonin in birds [7]. 
+
+MELATONIN1CR is a 5-element fingerprint that provides a signature for the
+melatonin 1C receptors. The fingerprint was derived from an initial 
+alignment of 4 sequences: the motifs were drawn from conserved regions 
+spanning the full alignment length, focusing on those areas of the alignment
+that characterise the melatonin 1C receptors but distinguish them from the
+rest of the melatonin receptor family - motif 1 resides at the N-terminus;
+motif 2 lies in the N-terminal portion of TM domain 1; motif 3 spans the 
+third cytoplasmic loop; and motifs 4 and 5 reside at the C-terminus. A 
+single iteration on SPTR37_9f was required to reach convergence, no further
+sequences being identified beyond the starting set. A single partial match
+was found, a melatonin 1A receptor that matches motifs 2 and 5.

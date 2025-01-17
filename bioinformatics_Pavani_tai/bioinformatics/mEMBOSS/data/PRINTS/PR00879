@@ -1,0 +1,40 @@
+ACHEFISH
+Acetylcholine is involved in the transfer of messages across a variety of
+synapses in vertebrates and invertebrates. The diverse physiological effects
+attributable to this molecule arise from the presence of specific receptors
+in the postsynaptic cell membranes. Several classes of receptor are known, 
+most of which translate the binding of acetylcholine into the opening of 
+channels for the passage of ions, such as sodium and potassium.
+
+Acetylcholinesterase is an enzyme that catalyses the hydrolysis of 
+acetylcholine to choline and acetate:
+
+     Acetylcholine + H(2)O -> Choline + Acetate 	     
+
+The enzyme also acts on a variety of acetic esters and catalyses trans-
+acetylations. It is found in, or attached to, cellular or basement membranes
+of presynaptic cholinergic neurons and postsynaptic cholinoceptive cells.
+To prevent continuous firing of nerve impulses, acetylcholinesterase has a
+high K(cat) (~14000/s), to ensure that acetylcholine is broken down quickly.
+
+Cholinesterases constitute a family of enzymes that fall into two main
+types, depending on their substrate preference: enzymes that preferentially
+hydrolyse acetyl esters are termed acetylcholinesterase (AChE) (EC 3.1.1.7); 
+and those that prefer other types of ester, such as butyrylcholine are 
+termed butyrylcholinesterase (BChE) (EC 3.1.1.8). 
+
+The 3D structure of acetylcholinesterase from the electric ray has been
+determined. The fold belongs to the alpha/beta class, with a 3-layer
+alpha-beta-alpha sandwich architecture.
+
+ACHEFISH is a 4-element fingerprint that provides a signature for fish
+acetylcholinesterases. The fingerprint was derived from an initial alignment
+of 4 sequences: the motifs were drawn from short conserved regions within
+the central portion of the alignment - motif 1 spans the N-terminus of 
+helix 12 and part of the preceding loop; motif 2 includes the N-terminal
+end of helix 14 and part of its preceding loop; motif 3 encompasses the 
+N-terminus of helix 18 and part of the preceding loop; and motif 4 encodes
+most of helix 19. Two iterations on OWL30.2 were required to reach
+convergence, at which point a true set comprising 6 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 3 sequences.

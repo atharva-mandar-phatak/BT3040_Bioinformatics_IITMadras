@@ -1,0 +1,40 @@
+CALPAIN
+Cysteine protease activity is dependent on an active dyad of cysteine and
+histidine, the order and spacing of these residues varying in the 20 or so
+known families. Families C1, C2 and C10 are loosely termed papain-like, and 
+nearly half of all cysteine proteases are found exclusively in viruses [1].
+
+Calpain is an intracellular protease involved in many important cellular
+functions that are regulated by calcium [2]. The protein is a complex of 2
+polypeptide chains (light and heavy), with three known forms in mammals 
+[1,3]: a highly calcium-sensitive (i.e., micro-molar range) form known as
+mu-calpain, mu-CANP or calpain I; a form sensitive to calcium in the
+milli-molar range, known as m-calpain, m-CANP or calpain II; and a third
+form, known as p94, which is found in skeletal muscle only [3]. 
+
+All three forms have identical light but different heavy chains [1,2].
+The heavy chain comprises four domains: domain 2 contains the catalytic
+region; domain 4 binds calcium and regulates activity [1]. Domain 2 shows
+low levels of sequence similarity to papain; although the catalytic His has
+not been located by biochemical means, it is likely that calpain and papain
+are related [1]. Domain 4 has four EF hand calcium-binding regions and is
+simmilar to sorcin and the Ca2+-binding region of calpain light chain [1]. 
+
+Calpain shows preferential cleavage for Tyr-|-XAA, Met-|-XAA and Arg-|-XAA
+with leucine or valine as the P2 residue. The product of the Drosophila
+gene sol has also been shown to be similar to calpain [1].
+
+CALPAIN is a 9-element fingerprint that provides a signature for the 
+heavy chain of the calpain cysteine protease (C2) family. The fingerprint
+was derived from an initial alignment of 11 sequences: the motifs were
+drawn from conserved regions spanning virtually the full alignment length -
+motifs 2 and 3 span the region encoded by PROSITE pattern THIOL_PROTEASE_CYS
+(PS00139), which contains the catalytic Cys. Two iterations on OWL30.0 were
+required to reach convergence, at which point a true set comprising 33 
+sequences was identified. Several partial matches were also found: S57195,
+CAN3_PIG, CAN2_RABIT, SSU23954 and CAN1_PIG are calpain fragments that lack
+portions of sequence bearing one or more motifs; SOL_DROME is a Drosophila
+optic lobe protein that matches motifs 1, 3, 4, 6 and 7.
+
+An update on SPTR37_9f identified a true set of 30 sequences, and 11
+partial matches.

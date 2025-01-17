@@ -1,0 +1,26 @@
+MYELINPLP
+The myelin sheath is a multi-layered membrane, unique to the nervous system,
+that functions as an insulator to greatly increase the velocity of axonal
+impulse conduction [1]. Myelin proteolipid protein (PLP) is the major
+protein found in the sheath of central nervous system nerves [2]. It spans
+the membrane 4 times [3] and is thought to play a role in the formation or
+maintenance of the multi-lamellar structure. The protein contains several
+cysteine residues, some involved in the formation of disulphide bonds,
+others being palmitoylated [2]. Mutations in PLP result in neurological
+disorders, such as Pelizaeus-Merzbacher disease in humans, 'jimpy' in
+mice, and 'shaking pup' in dogs.
+
+MYELINPLP is a 7-element fingerprint that provides a signature for myelin 
+proteolipid proteins. The fingerprint was derived from an initial alignment
+of 4 sequences: motifs 1, 2, 5 and 7 encode the 4 transmembrane (TM)
+domains - motif 4 includes the region encoded by PROSITE pattern MYELIN_
+PLP_1 (PS00575), which is located between the second and third TM segments
+and contains 2 Cys residues that are palmitoylated; motif 7 includes part
+of the region encoded by PROSITE pattern MYELIN_PLP_2 (PS01004). Two
+iterations on OWL23.2 were required to reach convergence, at which point a
+true set comprising 9 sequences was identified. Several partial matches
+were also found, all of which are either deletion mutants or myelin PLP
+fragments.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 9
+partial matches.

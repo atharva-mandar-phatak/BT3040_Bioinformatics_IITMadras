@@ -1,0 +1,39 @@
+******************************************************
+* Imidazoleglycerol-phosphate dehydratase signatures *
+******************************************************
+
+Imidazoleglycerol-phosphate dehydratase  (EC 4.2.1.19)   is  the  enzyme  that
+catalyzes the seventh step in the biosynthesis of histidine in bacteria, fungi
+and plants.  In  most  organisms it is a monofunctional protein of about 22 to
+29 Kd.  In  some bacteria such as Escherichia coli it is the C-terminal domain
+of a bifunctional protein that include a histidinol-phosphatase domain [1].
+
+We developed   two  signature  patterns  that  each  include  two  consecutive
+histidine residues.
+
+-Consensus pattern: [LIVMY]-[DE]-x-H-H-x(2)-E-x(2)-[GCA]-[LIVM]-[STAVCL]-
+                    [LIVMF]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [GW]-x-[DNIE]-x-H(2)-x(2)-E-[STAGC]-x-[VMFYHS]-K
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Carlomagno M.S., Chiariotti L., Alifano P., Nappo A.G., Bruni C.B.
+     "Structure and function of the Salmonella typhimurium and Escherichia
+     coli K-12 histidine operons."
+     J. Mol. Biol. 203:585-606(1988).
+     PubMed=3062174
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

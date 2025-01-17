@@ -1,0 +1,81 @@
+************************************
+* CobBQ-type GATase domain profile *
+************************************
+
+Vitamin  B12  (cobalamin)  is an essential nutrient that serves as a co-factor
+for  enzymatic  reactions.  The  biosynthesis  of  this  coenzyme is a complex
+process  that  is  confined  to  certain  prokaryotes  and  requires  circa 25
+different enzymes. During the assembly, six amide groups are introduced at the
+a,  b,  c,  d, e and g carboxylates. In the aerobic and anaerobic biosynthetic
+pathways,  the  six  amidation  steps are carried out by two seperate enzymes.
+Cobyrinic  acid a,c-diamide synthethase (cbiA and cobB) is responsible for the
+introduction  of  the  two  amide  groups  at  the a and c positions in either
+cobyrinic  acid  or  hydrogenobrynic acid. The amidation of the b, d, e, and g
+carboxylate  groups  in adenosyl-Cob(I)yrinic acid a,c-diamide is catalyzed by
+cobyric  acid  synthetase (cbiP and cobQ). Many of the enzymatic reactions for
+the aerobic biosynthesis of cobalamin are known for Pseudomonas denitrificans.
+The  anaerobic  pathway  is  found  in  other  bacteria  and  archaea, such as
+Salmonella  typhimurium,  Bacillus  megaterium,  Methanococcus  jannaschii and
+Propionibacterium freudenreichii [1].
+
+The  cobB  and  cobQ  family proteins contain two separate domains involved in
+cobalamin  biosynthesis, i.e. a synthetase domain including ATP-binding motifs
+in the N-terminal part and a glutamine amidotransferase (GATase) domain in the
+C-terminal   part.  The  GATase  domain  is  involved  in  glutamine  binding,
+hydrolysis  and  transfer of the resulting ammonia to an acceptor. This domain
+resembles  the  GATases  of  class  I,  which are characterized by a conserved
+Cys-His-Glu active site (see <PDOC00405>), but the cobBQ-type GATases lack the
+Glu  residue  in this typical triad [2, 3]. The cobBQ-type GATase domain shows
+also similarity to other GATase type 1 related domains/families, like PdxT/SNO
+(see   <PDOC00950>),  gamma-glutamyl  hydrolase  (see  <PDOC51275>)  and  PfpI
+endopeptidase (see <PDOC51276>).
+
+Some proteins known to contain a cobBQ-type GATase domain:
+
+ - Salmonella typhimurium cobyrinic acid a,c-diamide synthase (cbiA), which is
+   responsible  for the amidation of carboxylic groups at positions a and c of
+   either cobyrinic acid or hydrogenobrynic acid.
+ - Pseudomonas denitrificans cobyrinic acid a,c-diamide synthase (cobB), which
+   is  responsible for the amidation of carboxylic groups at positions a and c
+   of either cobyrinic acid or hydrogenobrynic acid.
+ - Salmonella  typhimurium  cobyric  acid  synthase  (cbiP),  which  catalyzes
+   amidations at positions b, d, e, and g on adenosylcobyrinic a,c-diamide.
+ - Pseudomonas  denitrificans  cobyric  acid  synthase (cobQ), which catalyzes
+   amidations at positions b, d, e, and g on adenosylcobyrinic a,c-diamide.
+
+The profile we developed covers the entire cobBQ-type GATase domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The cobBQ-type GATase domain profile is in competition with profiles of
+ related  domains,  which include GATase type 1 (see <PDOC00405>) and pdxT/SNO
+ (see <PDOC00950>).
+
+-Last update: December 2006 / First entry.
+
+[ 1] Fresquet V., Williams L., Raushel F.M.
+     "Mechanism of cobyrinic acid a,c-diamide synthetase from Salmonella
+     typhimurium LT2."
+     Biochemistry 43:10619-10627(2004).
+     PubMed=15311923; DOI=10.1021/bi048972x
+[ 2] Massiere F., Badet-Denisot M.A.
+     "The mechanism of glutamine-dependent amidotransferases."
+     Cell. Mol. Life Sci. 54:205-222(1998).
+     PubMed=9575335
+[ 3] Galperin M.Y., Grishin N.V.
+     "The synthetase domains of cobalamin biosynthesis amidotransferases
+     cobB and cobQ belong to a new family of ATP-dependent amidoligases,
+     related to dethiobiotin synthetase."
+     Proteins 41:238-247(2000).
+     PubMed=10966576; DOI=10.1002/1097-0134(20001101)41:2<238::AID-PROT80>3.0.CO;2-L
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

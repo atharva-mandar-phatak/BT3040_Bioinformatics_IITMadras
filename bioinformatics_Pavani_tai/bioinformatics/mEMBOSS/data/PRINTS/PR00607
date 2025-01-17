@@ -1,0 +1,32 @@
+CYTCHROMECIE
+Cytochromes c (cyt c) can be defined as electron-transfer proteins having
+one or several haem c groups, bound to the protein by one or, more
+generally, two thioether bonds involving sulphydryl groups of cysteine
+residues. The fifth haem iron ligand is always provided by a histidine
+residue. Cyt c possess a wide range of properties and function in a large
+number of different redox processes [1].
+
+Ambler [2] recognised four classes of cyt c. Class I includes the low-spin
+soluble cyt c of mitochondria and bacteria, with the haem-attachment site
+towards the N-terminus, and the sixth ligand provided by a methionine
+residue about 40 residues further on towards the C-terminus. On the basis
+of sequence similarity, class I cyt c were further subdivided into five
+classes, IA to IE. Class IE includes such bacterial proteins as cyt c5, 
+cyt c-555 and Ectothiorhodospira spp. cyt c-551. The 3D structure of cyt c5
+from Azotobacter vinelandii has been determined [3]. The protein consists 
+of 5 alpha-helices; three "core" helices form a "basket" around the haem 
+group, with one haem edge exposed to the solvent.
+
+CYTCHROMECIE is a 4-element fingerprint that provides a signature for class
+IE cyt c. The fingerprint was derived from an initial alignment of 6
+sequences: motifs 1 and 2 are adjacent, motif 1 including helix 2, two
+invariant Cys residues of which covalently bind the haem group, and a His 
+residue providing the fifth haem iron ligand (cf. PROSITE pattern
+CYTOCHROME_C); motif 2 includes an invariant Trp residue; motif 3 lies 
+between helices 4 and 5, and includes an invariant Met, which provides the
+sixth haem iron ligand. A single iteration on OWL28.0 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Eight partial matches were also found, all of which are class IC cyt c (cyt
+c6) that match motifs 1 and 3.
+
+An update on SPTR37_9f identified a true set of 8 sequences.

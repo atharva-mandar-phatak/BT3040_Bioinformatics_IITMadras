@@ -1,0 +1,49 @@
+ALYTICPTASE
+Proteolytic enzymes that use serine in their catalytic machinery are 
+widespread and numerous, being found in viruses, bacteria and eukaryotes
+[1]. They encompass a range of peptidase activity, including exopeptidase,
+endopeptidase, oligopeptidase and omega-peptidase. More than 20 serine
+protease families (denoted S1 - S27) have been identified, which have been
+grouped into 6 clans (SA, SB, SC, SE, SF and SG) on the basis of structural
+and functional similarities [1]. Structures from four clans have been
+examined (SA, SB, SC and SE): these appear to be unrelated, suggesting at 
+least four evolutionary origins of serine peptidase, and possibly many more
+[1]. Since that examination, structural representations from the other two 
+clan members (SF, SG) have been determined [3].
+
+Notwithstanding their different evolutionary origins, there are similarities
+in the reaction mechanisms of several peptidases. Chymotrypsin, subtilisin
+and carboxypeptidase C clans have a catalytic triad of serine, aspartate and
+histidine in common: serine acts as a nucleophile, aspartate as an
+electrophile, and histidine as a base [1]. The geometric orientations of
+the catalytic residues are similar between families, despite different 
+protein folds [1]. The linear arrangements of the catalytic residues
+commonly reflect clan relationships. For example the catalytic triad in 
+the chymotrypsin clan (SA) is ordered HDS, but is ordered DHS in the
+subtilisin clan (SB) and SDH in the carboxypeptidase clan (SC) [1,2].
+
+Alpha-lytic endopeptidases belong to the chymotrypisin (SA) clan, within
+which they have been assigned to subfamily A of the S2 family (S2A) [2,3].
+Since the original classification, the S2 family has been split into three
+subfamilies [3] on the basis of sequence similarity [1,2]. S2 proteases
+are only known to be expressed in bacteria, from which they are secreted to
+act externally [1]. These proteases have endopeptidase activity, which is
+specific for basic, hydrophobic or alanine P1 residues. The alpha-lytic 
+endopeptidase family also contains members that can cleave glutamyl
+bonds [1]. 
+
+ALYTICPTASE is a 5-element fingerprint that provides a signature for the
+alpha-lytic endopeptidase (S2A) family of serine proteases. The fingerprint
+was derived from an initial alignment of 13 sequences: the motifs were drawn
+from conserved regions around the active site residues - motif 1 spans the 
+C-terminus of the fourth beta-strand, helix 1 and the N-terminus of the 
+fifth strand (it includes the region encoded by the PROSITE pattern 
+TRYPSIN_HIS (PS00135), which contains the catalytic histidine); motif 2 
+spans strands 10, 11 and the N-terminus of strand 12; motif 3 encodes the 
+remainder of strand 12; motif 4 spans strands 13 and 14, and includes the 
+region encoded by the PROSITE pattern TRYPSIN_SER (PS00135), which contains
+the catalytic serine; and motif 5 encodes strand 15. Two iterations on 
+OWL30.0 were required to reach convergence, at which point a true set
+comprising 22 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 18 sequences.

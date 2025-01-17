@@ -1,0 +1,88 @@
+*****************************************************************
+* Eukaryotic and viral aspartyl proteases signature and profile *
+*****************************************************************
+
+Aspartyl  proteases, also  known as acid proteases, (EC 3.4.23.-) are a widely
+distributed family   of   proteolytic   enzymes  [1,2,3]  known  to  exist  in
+vertebrates, fungi, plants, retroviruses and some plant viruses.     Aspartate
+proteases of  eukaryotes are  monomeric  enzymes which consist of two domains.
+Each domain contains an  active site centered on a catalytic aspartyl residue.
+The two  domains  most  probably  evolved from the duplication of an ancestral
+gene encoding   a  primordial  domain.  Currently  known  eukaryotic  aspartyl
+proteases are:
+
+ - Vertebrate gastric pepsins A and C (also known as gastricsin).
+ - Vertebrate  chymosin  (rennin),  involved  in digestion and used for making
+   cheese.
+ - Vertebrate lysosomal cathepsins D (EC 3.4.23.5) and E (EC 3.4.23.34).
+ - Mammalian renin (EC 3.4.23.15) whose function  is to generate angiotensin I
+   from angiotensinogen in the plasma.
+ - Fungal proteases such as aspergillopepsin A (EC 3.4.23.18),   candidapepsin
+   (EC 3.4.23.24), mucoropepsin (EC 3.4.23.23) (mucor rennin),  endothiapepsin
+   (EC 3.4.23.22),   polyporopepsin    (EC 3.4.23.29),    and   rhizopuspepsin
+   (EC 3.4.23.21).
+ - Yeast saccharopepsin (EC 3.4.23.25)  (proteinase A)  (gene PEP4).   PEP4 is
+   implicated in posttranslational regulation of vacuolar hydrolases.
+ - Yeast  barrierpepsin  (EC 3.4.23.35)  (gene BAR1);  a protease that cleaves
+   alpha-factor and thus acts as an antagonist of the mating pheromone.
+ - Fission  yeast sxa1 which is involved in degrading or processing the mating
+   pheromones.
+
+Most retroviruses and some plant  viruses, such as badnaviruses, encode for an
+aspartyl protease  which  is an homodimer of  a chain of about 95 to 125 amino
+acids. In  most  retroviruses, the  protease  is  encoded  as  a  segment of a
+polyprotein which  is  cleaved  during the maturation process of the virus. It
+is generally  part  of  the  pol  polyprotein  and,  more  rarely,  of the gag
+polyprotein.
+
+Conservation of  the sequence around the two aspartates of eukaryotic aspartyl
+proteases and  around  the single active site of the viral proteases allows us
+to  develop a single signature pattern for both groups of protease.  A profile
+was developed  to  specifically  detect  viral  aspartyl  proteases, which are
+missed by the pattern.
+
+-Consensus pattern: [LIVMFGAC]-[LIVMTADN]-[LIVFSA]-D-[ST]-G-[STAV]-[STAPDENQ]-
+                    {GQ}-[LIVMFSTNC]-{EGK}-[LIVMFGTA]
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 37.
+
+-Sequences known to belong to this class detected by the profile: ALL viral-
+ type proteases.
+-Other sequence(s) detected in Swiss-Prot: 3.
+
+-Note: These  proteins  belong  to families A1 and A2 in the classification of
+ peptidases [4,E1].
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Foltmann B.
+     "Gastric proteinases--structure, function, evolution and mechanism of
+     action."
+     Essays Biochem. 17:52-84(1981).
+     PubMed=6795036
+[ 2] Davies D.R.
+     "The structure and function of the aspartic proteinases."
+     Annu. Rev. Biophys. Biophys. Chem. 19:189-215(1990).
+     PubMed=2194475
+[ 3] Rao J.K.M., Erickson J.W., Wlodawer A.
+     "Structural and evolutionary relationships between retroviral and
+     eucaryotic aspartic proteinases."
+     Biochemistry 30:4663-4671(1991).
+     PubMed=1851433
+[ 4] Rawlings N.D., Barrett A.J.
+     "Families of aspartic peptidases, and those of unknown catalytic
+     mechanism."
+     Methods Enzymol. 248:105-120(1995).
+     PubMed=7674916
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

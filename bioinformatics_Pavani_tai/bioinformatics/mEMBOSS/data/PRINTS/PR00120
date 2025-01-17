@@ -1,0 +1,30 @@
+HATPASE
+H+-Transporting ATPases (proton pumps) are the main ion pumps in the plasma
+membrane and play a central role [1] in the physiology and bioenergetics of
+plant cells. They are the primary active transporters of the plasma 
+membrane and are responsible for generating the membrane potential that 
+drives translocation of cations, amino-acids, sugars, and hormones, whilst
+also contributing to the maintenance of intracellular and extracellular 
+pH and cell turgor [2]. 
+
+Proton pumps are members of the P-type (or E1-E2-type) cation-transporting
+ATPase superfamily, which has evolved from a common ancestral gene [3]. The
+sequences are believed to contain 8-10 transmembrane helices, some of which
+are well conserved throughout the superfamily. They may thus all operate via
+a similar mechanism, with an aspartylphosphoryl enzyme intermediate [4]
+being formed during the catalytic cycle. 
+
+HATPASE is a 5-element fingerprint that provides a signature for the 
+H+-transporting ATPases. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved regions in
+the C-terminal half of the alignment. Two iterations on OWL19.1 were 
+required to reach convergence, at which point a true set comprising 20 
+sequences was identified. Several partial matches were also found, largely
+subsets of other cation-transporting ATPases: calcium-transporting ATPases
+in general match only motifs 2-4, and sodium/potassium-transporting ATPases
+tend to match motifs 2 and 3 (various potassium-transporting, magnesium-
+transporting, and plasma membrane isoforms of calcium-transporting ATPases
+also match just 2 motifs).
+
+An update on SPTR37_9f identified a true set of 40 sequences, and 5
+partial matches.

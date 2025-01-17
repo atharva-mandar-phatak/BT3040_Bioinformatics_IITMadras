@@ -1,0 +1,31 @@
+GLIADIN
+Gluten is the protein component of wheat flour. It consists of numerous
+proteins, which are of 2 different types responsible for different physical
+properties of dough [1]: the glutenins, which are primarily responsible for
+the elasticity, and the gliadins, which contribute to the extensibility.
+The gliadins themselves are of different types (e.g., alpha/beta or gamma) 
+and, like the glutenins, contain repetitive sequences [2] that form loose 
+helical structures, but they are usually associated with more extensive 
+non-repetitive regions, which are compact and globular [3]. 
+
+GLIADIN is a 9-element fingerprint that provides a signature for the 
+alpha/beta gliadins. The fingerprint was derived from an initial align-
+ment of 5 sequences: motifs 2 and 3 encode the Gln/Pro-rich tandem repeats.
+Two iterations on OWL18.0 were required to reach convergence, at which 
+point a true set comprising 14 sequences was identified. Several partial 
+matches were also found: 3 of these are alpha/beta gliadin fragments: 
+GDA1_WHEAT and B22364 both lack the C-terminal part of the sequence bearing
+the last 2 motifs, and GDA8_WHEAT lacks the N-terminal part of the sequence
+bearing the first 3 motifs.
+
+In addition to the alpha/beta gliadin fragments, a number of other partial 
+matches were identified: these included gamma-gliadins, low molecular 
+weight glutenins, avenins, secalins, and so on. Most of these fail to 
+match, or at least match only poorly, those motifs that encode the tandem 
+repeats - clearly they are characterised by their own distinctive 
+signatures in this region. The fingerprint thus provides reasonable 
+discrimination between the alpha/beta type gliadins and the gamma type and 
+related proteins.
+
+An update on SPTR37_9f identified a true set of 16 sequences, and 25
+partial matches.

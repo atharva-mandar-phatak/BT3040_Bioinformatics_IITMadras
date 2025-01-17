@@ -1,0 +1,70 @@
+*************************************
+* DNA polymerase family X signature *
+*************************************
+
+DNA polymerases (EC  2.7.7.7) can  be  classified,  on  the  basis of sequence
+similarity [1],  into  at  least  four  different  groups:  A, B, C and X. DNA
+polymerases that belong to family X are listed below [2]:
+
+ - Vertebrate polymerase beta, involved in DNA repair.
+ - Yeast polymerase IV (POL4) [3], an  enzyme with similar characteristics  to
+   that of the mammalian polymerase beta.
+ - Terminal deoxynucleotidyltransferase   (TdT)  (EC 2.7.7.31).  TdT catalyzes
+   the elongation of polydeoxynucleotide chains by terminal addition.   One of
+   the functions of this enzyme is the addition of nucleotides at the junction
+   of rearranged Ig heavy chain and T cell receptor gene segments during the
+   maturation of B and T cells.
+ - African Swine Fever virus protein O174L [4].
+ - Fission yeast hypothetical protein SpAC2F7.06c.
+
+These enzymes  are  small  (about  40  Kd) compared with other polymerases and
+their reaction    mechanism  operates  via  a  distributive  mode,  i.e.  they
+dissociate from the template-primer after addition of each nucleotide.
+
+As a  signature  pattern  for  this  family  of DNA polymerases, we selected a
+highly conserved  region  that contains a conserved arginine and two conserved
+aspartic acid  residues. The latter together with the arginine have been shown
+[5] to be involved in primer binding in polymerase beta.
+
+-Consensus pattern: G-[SG]-[LFY]-x-R-[GE]-x(3)-[SGCL]-x-D-[LIVM]-D-
+                    [LIVMFY](3)-x(2)-[SAP]
+                    [The 2 D's and the R are involved in ssDNA binding]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Ito J., Braithwaite D.K.
+     "Compilation and alignment of DNA polymerase sequences."
+     Nucleic Acids Res. 19:4045-4057(1991).
+     PubMed=1870963
+[ 2] Matsukage A., Nishikawa K., Ooi T., Seto Y., Yamaguchi M.
+     "Homology between mammalian DNA polymerase beta and terminal
+     deoxynucleotidyltransferase."
+     J. Biol. Chem. 262:8960-8962(1987).
+     PubMed=3597402
+[ 3] Prasad R., Widen S.G., Singhal R.K., Watkins J., Prakash L., Wilson S.H.
+     "Yeast open reading frame YCR14C encodes a DNA beta-polymerase-like
+     enzyme."
+     Nucleic Acids Res. 21:5301-5307(1993).
+     PubMed=8265341
+[ 4] Yanez R.J., Rodriguez J.M., Nogal M.L., Yuste L., Enriquez C.,
+     Rodriguez J.F., Vinuela E.
+     "Analysis of the complete nucleotide sequence of African swine fever
+     virus."
+     Virology 208:249-278(1995).
+     PubMed=11831707
+[ 5] Date T., Yamamoto S., Tanihara K., Nishimoto Y., Matsukage A.
+     "Aspartic acid residues at positions 190 and 192 of rat DNA polymerase
+     beta are involved in primer binding."
+     Biochemistry 30:5286-5292(1991).
+     PubMed=2036395
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

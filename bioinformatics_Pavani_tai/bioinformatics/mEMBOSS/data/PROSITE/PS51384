@@ -1,0 +1,104 @@
+********************************************************
+* Ferredoxin reductase-type FAD-binding domain profile *
+********************************************************
+
+Flavoenzymes  have  the  ability  to  catalyse  a  wide  range  of biochemical
+reactions.   They  are  involved  in  the  dehydrogenation  of  a  variety  of
+metabolites,  in  electron  transfer  from  and  to  redox  centres,  in light
+emission,  in  the  activation  of  oxygen  for  oxidation  and  hydroxylation
+reactions  [1,2].  About  1%  of  all  eukaryotic and prokaryotic proteins are
+predicted  to  encode  a flavin adenine dinucleotide (FAD)-binding domain [3].
+According   to   structural   similarities   and  conserved  sequence  motifs,
+FAD-binding  domains  have  been  grouped  in  three  main  families:  (i) the
+ferredoxin  reductase  (FR)-type  FAD-binding  domain,  (ii)  the FAD-binding
+domains  that adopt a Rossmann fold and (iii) the PCMH-type FAD-binding domain
+[4].
+
+The  FAD  cofactor  consists of adenosine monophosphate (AMP) linked to flavin
+mononucleotide  (FMN)  by  a pyrophosphate bond. The AMP moiety is composed of
+the  adenine  ring bonded to a ribose that is linked to a phosphate group. The
+FMN  moiety  is composed of the isoalloxazine-flavin ring linked to a ribitol,
+which  is  connected  to  a  phosphate group. The flavin functions mainly in a
+redox  capacity,  being  able  to take up two electrons from one substrate and
+release  them two at a time to a substrate or coenzyme, or one at a time to an
+electron  acceptor.  The  catalytic function of the FAD is concentrated in the
+isoalloxazine  ring,  whereas  the ribityl phosphate and the AMP moiety mainly
+stabilize cofactor binding to protein residues [1,2].
+
+The  structural  core  of  all  FR  family  members  is  well  conserved.  The
+FAD-binding  fold characteristic of the FR family is a cylindrical beta-domain
+with  a  flattened  six-stranded  antiparallel  beta-barrel organized into two
+orthogonal  sheets  (B1-B2-B5  and B4-B3-B6) separated by one alpha-helix (see
+for  example  <PDB:IA8P>)  [5]. The cylinder is open between strands B4 and B5
+which  makes  space for the isoalloxazine and ribityl moieties of the FAD. One
+end  of  the  cylinder  is  covered  by the only helix of the domain, which is
+essential  for  the  binding  of  the  pyrophosphate groups of the FAD. The FR
+family contains two conserved motifs, one (R-x-Y-[ST]) located in B4 where the
+invariant  positively  charge Arg residue forms hydrogen bonds to the negative
+pyrophosphate   oxygen   atom.   The   other   conserved   sequence  motif  is
+G-x(2)-[ST]-x(2)-L-x(5)-G-x(7)-P-x-G,  which  is part of H1-B6 and is known as
+the phosphate-binding motif [4,5].
+
+Some  proteins known to contain a FR-type FAD-binding domain are listed below:
+
+ - Eukaryotic NADH-cytochrome b5 reductase. It is a membrane-bound hemoprotein
+   which acts as an electron carrier for several membrane-bound oxygenases.
+ - Eukaryotic  NADPH-cytochrome  P450  reductase.  This enzyme is required for
+   electron  transfer  from NADP to cytochrome P450 in microsomes. It can also
+   provide electron transfer to heme oxygenase and cytochrome b5.
+ - Nitrate reductase. It is a key enzyme involved in the first step of nitrate
+   assimilation in plants, fungi and bacteria.
+ - Bacterial  ferredoxin reductase. It transports electrons between flavodoxin
+   or  ferredoxin  and  NADPH.  It  is involved in the reductive activation of
+   cobalamin-independent  methionine  synthase,  pyruvate  formate  lyase  and
+   anaerobic ribonucleotide reductase.
+ - Bacterial  flavohemoprotein.  It is involved in nitric oxide detoxification
+   in an aerobic process, termed nitric oxide dioxygenase (NOD) reaction.
+ - Bacterial  Na(+)-translocating  NADH-quinone reductase (NQR) subunit F. NQR
+   complex  catalyzes  the  reduction  of  ubiquinone-1  to  ubiquinol  by two
+   successive  reactions,  coupled  with  the transport of Na(+) ions from the
+   cytoplasm to the periplasm.
+
+The   profile   we  developed  covers  the  whole  ferredoxin  reductase  type
+FAD-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note:  In  addition  to  the FAD-binding domain, all of the FR family members
+ have an NAD(P)H-binding domain.
+
+-Last update: May 2008 / First entry.
+
+[ 1] Mathews F.S.
+     "New flavoenzymes."
+     Curr. Opin. Struct. Biol. 1:954-967(1991).
+[ 2] Fraaije M.W., Mattevi A.
+     "Flavoenzymes: diverse catalysts with recurrent features."
+     Trends Biochem. Sci. 25:126-132(2000).
+     PubMed=10694883
+[ 3] Mattevi A.
+     "To be or not to be an oxidase: challenging the oxygen reactivity of
+     flavoenzymes."
+     Trends Biochem. Sci. 31:276-283(2006).
+     PubMed=16600599; DOI=10.1016/j.tibs.2006.03.003
+[ 4] Dym O., Eisenberg D.
+     "Sequence-structure analysis of FAD-containing proteins."
+     Protein Sci. 10:1712-1728(2001).
+     PubMed=11514662
+[ 5] Sridhar Prasad G., Kresge N., Muhlberg A.B., Shaw A., Jung Y.S.,
+     Burgess B.K., Stout C.D.
+     "The crystal structure of NADPH:ferredoxin reductase from Azotobacter
+     vinelandii."
+     Protein Sci. 7:2541-2549(1998).
+     PubMed=9865948
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

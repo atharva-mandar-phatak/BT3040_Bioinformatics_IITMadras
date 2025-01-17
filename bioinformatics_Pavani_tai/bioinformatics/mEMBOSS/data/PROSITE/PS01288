@@ -1,0 +1,35 @@
+****************************************************
+* Uncharacterized protein family UPF0027 signature *
+****************************************************
+
+The following uncharacterized proteins have been shown [1] to share regions of
+similarities:
+
+ - Escherichia coli hypothetical protein rtcB.
+ - Mycobacterium tuberculosis hypothetical protein MtCY441.01.
+ - Caenorhabditis elegans hypothetical protein F16A11.2.
+ - Methanococcus jannaschii hypothetical protein MJ0682.
+
+These are  proteins  of  about  400 to 500 amino acid residues that contains a
+number of  conserved  regions,  most  of  which  are  centered  around charged
+residues. As a signature pattern, we selected one of these regions, located in
+the N-terminal region.
+
+-Consensus pattern: Q-[LIVM]-x-N-x-A-x-[LIVM]-P-x-I-x(6)-[LIVM]-P-D-x-H-x-G-x-
+                    G-x(2)-[IV]-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / First entry.
+
+[ 1] Filipowicz W.
+     Unpublished observations (1997).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

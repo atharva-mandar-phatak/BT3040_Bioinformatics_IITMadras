@@ -1,0 +1,47 @@
+*********************************
+* Zinc finger SWIM-type profile *
+*********************************
+
+The zinc finger-like domain SWIM was first identified in the bacterial ATPases
+of  the  SWI2/SNF2  family,  the  plant  MuDR  transposases and vertebrate MEK
+kinase-1.  It  is  represented  in  all  major  lineages  of  prokaryotes  and
+eukaryotes.   It   has   the  signature  of  predicted  zinc-binding  residues
+C-x-C-x(6,25)-C-x-H   surounded  by  two  blocks  of  conserved  residues,  an
+N-terminal  aromatic/hydrophobic  motif  and  a  C-terminal region enriched in
+small   and   hydrophobic   residues.  The  SWIM  domain  appears  to  have  a
+beta-beta-alpha  structure  suggesting  that  it might adopt a fold similar to
+that  of  the  classic C2H2 zinc-finger (see <PDOC00028>). The function of the
+SWIM domain is not yet known [1].
+
+Some of the proteins containing a SWIM-type zinc finger are listed below:
+
+ - Vertebrate  MEKK-1.  It  is  part  of  the mitogen-activated protein kinase
+   cascade.  It interacts  with the cytoskeletal protein alpha-actinin, 14-3-3
+   proteins and c-Jun.
+ - Plant  MuDR transposases. The mutator transposon MuDR is one of the largest
+   families of mobile elements in plants.
+ - Plant nuclear protein FAR1.
+ - Bacterial SWI2/SNF2 ATPases.
+ - Escherichia coli hypothetical protein yehQ.
+
+The profile we developed covers the whole SWIM domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: March 2004 / First entry.
+
+[ 1] Makarova K.S., Aravind L., Koonin E.V.
+     "SWIM, a novel Zn-chelating domain present in bacteria, archaea and
+     eukaryotes."
+     Trends Biochem. Sci. 27:384-386(2002).
+     PubMed=12151216
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

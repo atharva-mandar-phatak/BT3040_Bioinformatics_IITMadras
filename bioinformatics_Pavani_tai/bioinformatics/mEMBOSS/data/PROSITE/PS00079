@@ -1,0 +1,94 @@
+***********************************
+* Multicopper oxidases signatures *
+***********************************
+
+Multicopper oxidases [1,2] are enzymes  that possess  three  spectroscopically
+different copper centers. These centers are called: type  1 (or  blue), type 2
+(or  normal)  and type 3 (or  coupled binuclear).  The  enzymes that belong to
+this family are:
+
+ - Laccase (EC 1.10.3.2)  (urishiol oxidase), an enzyme  found  in  fungi  and
+   plants, which oxidizes many different types of phenols and diamines.
+ - L-ascorbate oxidase (EC 1.10.3.3), a higher plant enzyme.
+ - Ceruloplasmin (EC 1.16.3.1) (ferroxidase), a protein  found in the serum of
+   mammals and birds, which  oxidizes a great variety of inorganic and organic
+   substances. Structurally ceruloplasmin exhibits internal sequence homology,
+   and seem to  have  evolved from the triplication of a copper-binding domain
+   similar to that found in laccase and ascorbate oxidase.
+
+In addition to the above enzymes there are  a number of proteins which, on the
+basis of sequence similarities, can  be said to belong to this  family.  These
+proteins are:
+
+ - Copper resistance protein A (copA)  from a plasmid in Pseudomonas syringae.
+   This protein seems to  be involved in  the resistance of the microbial host
+   to copper.
+ - Blood coagulation factor V (Fa V).
+ - Blood coagulation factor VIII (Fa VIII) [E1].
+ - Yeast FET3 [3], which is required for ferrous iron uptake.
+ - Yeast  hypothetical  protein  YFL041w  and  SpAC1F7.08,  the  fission yeast
+   homolog.
+
+Factors V and VIII act as cofactors in blood coagulation  and are structurally
+similar [4]. Their sequence consists of a triplicated A domain, a B domain and
+a duplicated C domain;  in the following order: A-A-B-A-C-C. The A-type domain
+is related to the multicopper oxidases.
+
+We have developed two signature patterns for these proteins. Both patterns are
+derived  from the  same  region, which  in  ascorbate oxidase, laccase, in the
+third domain of  ceruloplasmin,  and in copA,  contains five residues that are
+known to be involved in the binding of copper centers.  The first pattern does
+not make any assumption  on  the  presence of copper-binding residues and thus
+can detect domains that have lost the ability to bind copper (such as those in
+Fa V and Fa VIII),  while  the  second  pattern  is specific to copper-binding
+domains.
+
+-Consensus pattern: G-x-[FYW]-x-[LIVMFYW]-x-[CST]-x-{PR}-{K}-x(2)-{S}-x-{LFH}-
+                    G-[LM]-x(3)-[LIVMFYW]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for Emericella nidulans laccase.
+-Other sequence(s) detected in Swiss-Prot: 33 other proteins and  Thiobacillus
+ ferrooxidans rusticyanin which is  also  a copper-binding protein,  but which
+ belong to the type-1 copper proteins family (see <PDOC00174>).
+
+-Consensus pattern: H-C-H-x(3)-H-x(3)-[AG]-[LM]
+                    [The first 2 H's are copper type 3 binding residues]
+                    [The C, the third H, and L or M are copper type 1 ligands]
+-Sequences known to belong to this class detected by the pattern: only domains
+ that bind copper.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Messerschmidt A., Huber R.
+     "The blue oxidases, ascorbate oxidase, laccase and ceruloplasmin.
+     Modelling and structural relationships."
+     Eur. J. Biochem. 187:341-352(1990).
+     PubMed=2404764
+[ 2] Ouzounis C., Sander C.
+     "A structure-derived sequence pattern for the detection of type I
+     copper binding domains in distantly related proteins."
+     FEBS Lett. 279:73-78(1991).
+     PubMed=1995346
+[ 3] Askwith C., Eide D., Van Ho A., Bernard P.S., Li L., Davis-Kaplan S.,
+     Sipe D.M., Kaplan J.
+     "The FET3 gene of S. cerevisiae encodes a multicopper oxidase required
+     for ferrous iron uptake."
+     Cell 76:403-410(1994).
+     PubMed=8293473
+[ 4] Mann K.G., Jenny R.J., Krishnaswamy S.
+     "Cofactor proteins in the assembly and expression of blood clotting
+     enzyme complexes."
+     Annu. Rev. Biochem. 57:915-956(1988).
+     PubMed=3052293; DOI=10.1146/annurev.bi.57.070188.004411
+[E1] http://europium.csc.mrc.ac.uk/WebPages/Main/main.htm
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

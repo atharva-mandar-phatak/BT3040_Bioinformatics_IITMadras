@@ -1,0 +1,62 @@
+*********************************************************************
+* Tau and MAP proteins tubulin-binding repeat signature and profile *
+*********************************************************************
+
+Microtubules consist  of tubulins  as well  as a group of  additional proteins
+collectively known as the Microtubule Associated  Proteins (MAP).   MAP's have
+been   classified into  two  classes:  high   molecular  weight  MAP's and Tau
+protein. These   proteins   promote   microtubule   assembly   and   stabilize
+microtubules. The  C-terminal  region of  a  subset of these proteins contains
+three or four tandem repeats  of a conserved domain of about thirty amino acid
+residues which  is  implicated  in  tubulin-binding  and which seems to have a
+stiffening effect  on  microtubules.  The  proteins currently known to contain
+such repeats are:
+
+ - Tau [1], from neurones.
+ - MAP2 [2], a neuronal member of the high molecular weight MAP's.
+ - MAP4 [3], a non-neuronal member of the high molecular weight MAP's. MAP4 is
+   is also expressed in some neurons.
+
+The pattern  we  developed  to  detect  this  repeated  region  spans the last
+thirteen residues  of  the  repeated region. We also developed a profile which
+covers the entire repeat.
+
+-Consensus pattern: G-S-x(2)-N-x(2)-H-x-[PA]-[AG]-G(2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The first repeat of MAP2 is not picked up by the pattern because it has
+ Tyr instead of His in position 8, and Lys instead of Gly in position 11.
+
+-Expert(s) to contact by email:
+           Matus A.; matus@fmi.ch
+
+-Last update: May 2010 / Profile added.
+
+[ 1] Kosik K.S., Orecchio L.D., Bakalis S., Neve R.L.
+     "Developmentally regulated expression of specific tau sequences."
+     Neuron 2:1389-1397(1989).
+     PubMed=2560640
+[ 2] Matus A.
+     "Stiff microtubules and neuronal morphology."
+     Trends Neurosci. 17:19-22(1994).
+     PubMed=7511844
+[ 3] Chapin S.J., Bulinski J.C.
+     "Non-neuronal 210 x 10(3) Mr microtubule-associated protein (MAP4)
+     contains a domain homologous to the microtubule-binding domains of
+     neuronal MAP2 and tau."
+     J. Cell Sci. 98:27-36(1991).
+     PubMed=1905296
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

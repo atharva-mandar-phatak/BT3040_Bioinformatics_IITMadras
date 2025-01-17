@@ -1,0 +1,58 @@
+*****************************************************
+* Tissue inhibitors of metalloproteinases signature *
+*****************************************************
+
+Tissue inhibitors of metalloproteinases (TIMP)  are a family of proteins [1,2,
+3] that can form complexes with extracellular matrix metalloproteinases  (such
+as collagenases)  and irreversibly  inactivate them.   TIMP's  are proteins of
+about 200 amino acid residues, 12 of which are cysteines involved in disulfide
+bonds [4].    The  basic structure of such a type of inhibitor is shown in the
+following schematic representation:
+
+          +-----------------------------+         +--------------+
+        **|**                           |         |              |
+        CxCxCxxxxxxxxxxxxxxxxxCxxxxxxxxxCxxxxxxxCxCxCxCxCxxxxxCxxCxxx
+        |   |                 |                 |   | | |     |
+        |   +-----------------|-----------------+   +-+ +-----+
+        +---------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+As a signature pattern for TIMP's, we chose  the N-terminal extremity of these
+proteins, which includes three conserved cysteines.
+
+-Consensus pattern: C-x-C-x-P-x-H-P-Q-x(2)-[FIV]-C
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Stetler-Stevenson W.G., Krutzsch H.C., Liotta L.A.
+     J. Biol. Chem. 264:17374-17378(1989).
+[ 2] Woessner J.F. Jr.
+     "Matrix metalloproteinases and their inhibitors in connective tissue
+     remodeling."
+     FASEB J. 5:2145-2154(1991).
+     PubMed=1850705
+[ 3] Pavloff N., Staskus P.W., Kishnani N.S., Hawkes S.P.
+     "A new inhibitor of metalloproteinases from chicken: ChIMP-3. A third
+     member of the TIMP family."
+     J. Biol. Chem. 267:17321-17326(1992).
+     PubMed=1512267
+[ 4] Williamson R.A., Marston F.A.O., Angal S., Koklitis P., Panico M.,
+     Morris H.R., Carne A.F., Smith B.J., Harris T.J.R., Freedman R.B.
+     "Disulphide bond assignment in human tissue inhibitor of
+     metalloproteinases (TIMP)."
+     Biochem. J. 268:267-274(1990).
+     PubMed=2163605
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

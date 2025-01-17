@@ -1,0 +1,74 @@
+******************************************************************
+* ATP-dependent serine proteases, lon family, serine active site *
+******************************************************************
+
+The following proteins belongs to a family of proteases which are dependent on
+the hydrolysis  of  ATP  for  their  activity and which have a serine in their
+active site:
+
+ - Bacterial  ATP-dependent  proteases [1,2]. The prototype of those bacterial
+   enzymes is  the  Escherichia coli La protease (EC 3.4.21.53) (gene lon). La
+   is capable   of   hydrolyzing   large  proteins;  it  degrades  short-lived
+   regulatory (such  as  rcsA  and  sulA)  and  abnormal  proteins.  It  is  a
+   cytoplasmic protein  of  87  Kd  that  associates  as  an homotetramer. Its
+   proteolytic activity is stimulated by single-stranded DNA.
+ - Eukaryotic  mitochondrial  matrix  proteases [3,4].  The prototype of these
+   enzymes is the yeast PIM1 protease. It is a mitochondrial matrix protein of
+   120 Kd  that associated as an homohexamer. It catalyzes the initial step of
+   mitochondrial protein degradation.
+ - Haemophilus influenzae lon-B (HI1324), a protein which does not contain the
+   ATP-binding domain,  but possess a slightly divergent form of the catalytic
+   domain.
+
+The region  around  the serine residue involved in the catalytic mechanism [5]
+is perfectly conserved and can be used as a signature pattern.
+
+-Consensus pattern: D-G-[PD]-S-A-[GS]-[LIVMCA]-[TA]-[LIVM]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: Proteins belonging to this family  also contain a copy  of the ATP/GTP-
+ binding motif 'A' (P-loop) (see <PDOC00017>).
+-Note: These proteins belong to family S16 in the classification of peptidases
+ [6,E1].
+
+-Last update: November 1995 / First entry.
+
+[ 1] Thomas C.D., Modha J., Razzaq T.M., Cullis P.M., Rivett A.J.
+     "Controlled high-level expression of the lon gene of Escherichia coli
+     allows overproduction of Lon protease."
+     Gene 136:237-242(1993).
+     PubMed=8294008
+[ 2] Tojo N., Inouye S., Komano T.
+     "The lonD gene is homologous to the lon gene encoding an ATP-dependent
+     protease and is essential for the development of Myxococcus xanthus."
+     J. Bacteriol. 175:4545-4549(1993).
+     PubMed=8331083
+[ 3] van Dyck L., Pearce D.A., Sherman F.
+     J. Biol. Chem. 269:238-242(1994).
+[ 4] Wang N., Gottesman S., Willingham M.C., Gottesman M.M., Maurizi M.R.
+     "A human mitochondrial ATP-dependent protease that is highly
+     homologous to bacterial Lon protease."
+     Proc. Natl. Acad. Sci. U.S.A. 90:11247-11251(1993).
+     PubMed=8248235
+[ 5] Fischer H., Glockshuber R.
+     "ATP hydrolysis is not stoichiometrically linked with proteolysis in
+     the ATP-dependent protease La from Escherichia coli."
+     J. Biol. Chem. 268:22502-22507(1993).
+     PubMed=8226758
+[ 6] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

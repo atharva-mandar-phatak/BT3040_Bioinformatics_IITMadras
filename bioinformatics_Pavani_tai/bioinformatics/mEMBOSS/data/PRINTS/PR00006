@@ -1,0 +1,31 @@
+COFILIN
+Actin is a major component of skeletal muscle thin filaments and rapidly 
+polymerises in vitro when purified, although it is unclear how this is
+regulated in developing muscle cells [1]. Three regulatory proteins have
+been identified in embryonic muscle, where actin is largely unpolymerised,
+one of which is cofilin. Cofilin is an actin-modulating protein present in 
+brain tissue but not muscle cells, and forms intracellular actin/cofilin
+rods in cultured cells exposed to heat shock [2]. It also forms a 1:1
+complex with G-actin (monomers) to inhibit polymerisation, and rapidly
+depolymerises filamentous actin (F-actin).
+
+Destrin is a protein that also depolymerises F-actin and is very similar
+to cofilin, but by contrast is not pH sensitive [3]. Destrin is able to
+interact directly with F-actin protomers and remove actin monomers from 
+the entire region of F-actin. The 2 proteins differ in their interaction 
+with actin, although they are similar in sequence, suggesting that subtle
+differences in amino acid composition, possibly in the C-terminal region,
+are responsible for their functional distinction. Both proteins contain the
+sequence DAIKKK, also found at the C-terminus of tropomyosin, which is
+thought to be involved in actin binding [4].
+
+COFILIN is a 5-element fingerprint that provides a signature for the 
+cofilin/destrin family. The fingerprint was derived from an initial 
+alignment of 4 sequences: motif 4 includes the F-actin binding domain 
+encoded by PROSITE pattern COFILIN_TROPOMYOSIN (PS00325). Two iterations
+on OWL20.0 were required to reach convergence, at which point a true set
+comprising 6 sequences was identified. Three partial matches were also
+found: an actophorin and 2 actin depolymerising factor fragments.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 1
+partial match.

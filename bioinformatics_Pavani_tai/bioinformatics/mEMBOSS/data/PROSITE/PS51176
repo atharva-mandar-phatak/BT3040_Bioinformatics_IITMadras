@@ -1,0 +1,91 @@
+*****************************************************
+* Prephenate/arogenate dehydrogenase domain profile *
+*****************************************************
+
+Dehydrogenases  for  the  biosynthesis of L-tyrosine (Tyr) comprise prephenate
+dehydrogenase (EC 1.3.1.12) (PDH), arogenate dehydrogenase (EC 1.3.1.43) (ADH)
+and   cyclohexadienyl  dehydrogenase  that  can  accept  both  prephenate  and
+arogenate  as  substrate.  These  enzymes  use  a  nicotinamide  nucleotide as
+co-substrate and can be specific for NAD(+), for NADP(+) or can utilize either
+of  these.  Bacteria,  archaea,  plants and fungi possess one or more of these
+enzymes,  which  participate  in two alternative pathways for the synthesis of
+Tyr. Prephenate, the common precursor, is formed from chorismate by chorismate
+mutase.  PDH converts prephenate into p-hydroxyphenylpyruvate, which can yield
+Tyr  according  to  pathway  I.  In  the  alternative  pathway  II, prephenate
+aminotransferase  converts  prephenate into arogenate (meaning 'giving rise to
+aromatics').  Conversion  of  arogenate  can  either  yield  Tyr  by  ADH,  or
+phenylalanine (Phe) by arogenate dehydratase.
+
+PDH in Tyr biosynthesis pathway I:
+
+                 PDH                              Tyr aminotransferase
+prephenate   ---------->   p-hydroxyphenylpyruvate    <==========>    tyrosine
+
+ADH in Tyr biosynthesis pathway II:
+
+          Prephenate aminotransferase                   ADH
+prephenate   <===================>   arogenate   ----------------->   tyrosine
+
+Both  PDH  and  ADH  contain a catalytic PDH/ADH domain, which has a length of
+~180  residues.  A potential NAD(+) binding motif is located in the N-terminal
+part  [1,2].  A  central  conserved  histidine  is important for the catalytic
+activity  in the Escherichia coli PDH [3]. Some PDH/ADH domain proteins have a
+C-terminal extension that may be involved in allosteric regulation [1-4].
+
+Some proteins known to contain a prephenate/arogenate dehydrogenase domain:
+
+ - Bacterial  T-protein encoded by the tyrA gene, a bifunctional enzyme of two
+   catalytic   domains,  chorismate  mutase  (see  <PDOC51167>)  and  PDH  for
+   biosynthesis  of  tyrosine  (Tyr).  Both  enzyme  activities  are  feedback
+   inhibited  by  Tyr. This 'PDH' is NAD(+) specific and can utilize arogenate
+   in vitro, thus technically it is a cyclohexadienyl dehydrogenase.
+ - Cyanobacterial  arogenate  dehydrogenase,  which  seems  to be specific for
+   NADP(+) and feedback inhibited by Tyr [2].
+ - Zymomonas  mobilis  tyrC,  an NAD(+)-specific cyclohexadienyl dehydrogenase
+   that can function as a PDH and as ADH, without feedback inhibition by Tyr.
+ - Yeast   prephenate   dehydrogenase,   an  NADP(+)  specific  PDH  which  is
+   transcriptionally regulated by Phe.
+ - Arabidopsis  thaliana  arogenate  dehydrogenases TyrAAT1 and TyrAAT2, which
+   are  monofunctional  ADH  specific  for  NADP(+),  with strong Tyr feedback
+   regulation. In  plants,  the arogenate pathway seems to be the dominant, or
+   only, pathway for synthesis of both Phe and Tyr [2,4].
+
+The  profile we developed covers the entire prephenate/arogenate dehydrogenase
+domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2005 / First entry.
+
+[ 1] Zhao G., Xia T., Ingram L.O., Jensen R.A.
+     "An allosterically insensitive class of cyclohexadienyl dehydrogenase
+     from Zymomonas mobilis."
+     Eur. J. Biochem. 212:157-165(1993).
+     PubMed=7916685
+[ 2] Bonner C.A., Jensen R.A., Gander J.E., Keyhani N.O.
+     "A core catalytic domain of the TyrA protein family: arogenate
+     dehydrogenase from Synechocystis."
+     Biochem. J. 382:279-291(2004).
+     PubMed=15171683; DOI=10.1042/BJ20031809
+[ 3] Christendat D., Saridakis V.C., Turnbull J.L.
+     "Use of site-directed mutagenesis to identify residues specific for
+     each reaction catalyzed by chorismate mutase-prephenate dehydrogenase
+     from Escherichia coli."
+     Biochemistry 37:15703-15712(1998).
+     PubMed=9843375; DOI=10.1021/bi981412b
+[ 4] Rippert P., Matringe M.
+     "Purification and kinetic analysis of the two recombinant arogenate
+     dehydrogenase isoforms of Arabidopsis thaliana."
+     Eur. J. Biochem. 269:4753-4761(2002).
+     PubMed=12354106
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

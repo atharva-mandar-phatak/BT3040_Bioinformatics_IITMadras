@@ -1,0 +1,74 @@
+*********************************************************
+* Bacterial histone-like DNA-binding proteins signature *
+*********************************************************
+
+Bacteria  synthesize  a set  of  small,  usually  basic proteins  of  about 90
+residues that bind DNA and are known as histone-like proteins [1,2]. The exact
+function of  these proteins is not yet clear but they  are capable of wrapping
+DNA and   stabilizing   it   from  denaturation  under  extreme  environmental
+conditions.  The sequence of a number of different types  of these proteins is
+known:
+
+ - The HU proteins, which, in Escherichia coli, are a dimer of closely related
+   alpha and  beta  chains  and,  in other bacteria, can be dimer of identical
+   chains. HU-type  proteins  have  been  found  in  a  variety of eubacteria,
+   cyanobacteria and archaebacteria, and are also encoded  in  the chloroplast
+   genome of some algae [3].
+ - The integration host factor (IHF), a dimer of  closely related chains which
+   seem to  function  in genetic recombination as well as in translational and
+   transcriptional control [4] in enterobacteria.
+ - The bacteriophage sp01 transcription factor 1 (TF1) which selectively binds
+   to and inhibits  the  transcription  of hydroxymethyluracil-containing DNA,
+   such as sp01 DNA, by RNA polymerase in vitro.
+ - The African Swine fever virus protein A104R (or LMW5-AR) [5].
+
+As a signature pattern for  this family of proteins,  we use a  twenty residue
+sequence which includes three perfectly conserved positions.  According to the
+tertiary structure  of  one  of these proteins [6], this pattern spans exactly
+the first half of the flexible DNA-binding arm.
+
+-Consensus pattern: [GSK]-F-x(2)-[LIVMF]-x(4)-[RKEQA]-x(2)-[RST]-x(1,2)-[GA]-
+                    x-[KN]-P-x-[TN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Drlica K., Rouviere-Yaniv J.
+     "Histonelike proteins of bacteria."
+     Microbiol. Rev. 51:301-319(1987).
+     PubMed=3118156
+[ 2] Pettijohn D.E.
+     "Histone-like proteins and bacterial chromosome structure."
+     J. Biol. Chem. 263:12793-12796(1988).
+     PubMed=3047111
+[ 3] Wang S.L., Liu X.-Q.
+     "The plastid genome of Cryptomonas phi encodes an hsp70-like protein,
+     a histone-like protein, and an acyl carrier protein."
+     Proc. Natl. Acad. Sci. U.S.A. 88:10783-10787(1991).
+     PubMed=1961745
+[ 4] Friedman D.I.
+     "Integration host factor: a protein for all reasons."
+     Cell 55:545-554(1988).
+     PubMed=2972385
+[ 5] Neilan J.G., Lu Z., Kutish G.F., Sussman M.D., Roberts P.C.,
+     Yozawa T., Rock D.L.
+     "An African swine fever virus gene with similarity to bacterial DNA
+     binding proteins, bacterial integration host factors, and the Bacillus
+     phage SPO1 transcription factor, TF1."
+     Nucleic Acids Res. 21:1496-1496(1993).
+     PubMed=8464748
+[ 6] Tanaka I., Appelt K., Dijk J., White S.W., Wilson K.S.
+     "3-A resolution structure of a protein with histone-like properties in
+     prokaryotes."
+     Nature 310:376-381(1984).
+     PubMed=6540370
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,43 @@
+****************************************************
+* Orotidine 5'-phosphate decarboxylase active site *
+****************************************************
+
+Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMPdecase) [1,2] catalyzes
+the last step in the de novo  biosynthesis of pyrimidines, the decarboxylation
+of OMP  into UMP.  In  higher  eukaryotes  OMPdecase  is  part,  with  orotate
+phosphoribosyltransferase, of a bifunctional enzyme, while the prokaryotic and
+fungal OMPdecases are monofunctional protein.
+
+Some parts of the sequence of OMPdecase are well conserved across species. The
+best conserved region  is  located in the N-terminal half of OMPdecases and is
+centered around a lysine residue which is essential for the catalytic function
+of the enzyme. We have used this region as a signature pattern.
+
+-Consensus pattern: [LIVMFTAR]-[LIVMF]-x-D-x-K-x(2)-D-[IV]-[ADGP]-x-T-
+                    [CLIVMNTA]
+                    [K is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2002 / Pattern and text revised.
+
+[ 1] Jacquet M., Guilbaud R., Garreau H.
+     "Sequence analysis of the DdPYR5-6 gene coding for UMP synthase in
+     Dictyostelium discoideum and comparison with orotate phosphoribosyl
+     transferases and OMP decarboxylases."
+     Mol. Gen. Genet. 211:441-445(1988).
+     PubMed=2835631
+[ 2] Kimsey H.H., Kaiser D.
+     "The orotidine-5'-monophosphate decarboxylase gene of Myxococcus
+     xanthus. Comparison to the OMP decarboxylase gene family."
+     J. Biol. Chem. 267:819-824(1992).
+     PubMed=1730672
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

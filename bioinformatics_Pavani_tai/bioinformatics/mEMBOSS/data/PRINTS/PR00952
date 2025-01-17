@@ -1,0 +1,34 @@
+TYPE3IMQPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens, such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest, as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+It is believed that the family of type III inner membrane proteins are 
+used as structural moieties in a complex with several other subunits [4], 
+including the ATPase necessary for driving the secretion system. One such
+set of inner membrane proteins, termed "Q" here for nomenclature purposes,
+includes the Salmonella and Shigella SpaQ, the Yersinia YscS, the Rhizobium 
+Y4YM, and the Erwinia HrcS genes [4]. The flagellar protein FliQ also shares 
+similarity, probably due to evolution of the type III secretion system from
+the flagellar biosynthetic pathway.
+
+TYPE3IMQPROT is a 3-element fingerprint that provides a signature for the
+type III secretion system inner membrane Q protein family. The fingerprint
+was derived from an initial alignment of 9 sequences: the motifs were drawn
+from short conserved regions spanning the full alignment length - motifs 1
+and 3 each encode a putative TM region. Three iterations on OWL30.2 were 
+required to reach convergence, at which point a true set comprising 21
+sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 28 sequences.

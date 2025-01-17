@@ -1,0 +1,82 @@
+INVTBRTCOLOR
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, 
+tick histamine binding proteins and the nitrophorins.
+
+A number of lipocalins act in invertebrate colouration: bilin binding
+protein from the cabbage white butterfly (Pieris brassicae), the closely
+related protein insecticyanin from Manduca sexta (tobacco hornworm) and the
+lobster protein crustacyanin. Like other members of the family, they bind 
+small molecules, and gain their colourant properties from interaction with
+their ligands.
+
+Crustacyanin (meaning 'shell blue') is the general name given to the 
+carotenoprotein complex found in the epicuticle, or calcified outer layer,
+of the lobster carapace [5]. It acts as the dominant pigment of the lobster 
+shell, giving rise to its characteristic blue colour. In solution, 
+crustacyanin exists as an equilibrium mixture between several distinct
+forms, differing in their physical and spectral properties [5]. The native, 
+blue form (alpha-crustacyanin), which predominates in vivo, will, at low 
+ionic strength, form alpha'-crustacyanin; this in turn changes to purple
+beta-crustacyanin on standing. The alpha to alpha' transition is favoured
+by low ionic strength and is reversible, while conversion into beta-
+crustacyanin is irreversible. Native alpha-crustacyanin is an octamer of
+heterodimers, totalling 16 separate polypeptide chains, each dimer binding 
+two molecules of astaxanthin, beta-crustacyanin corresponding to the free 
+heterodimer.
+
+A variety of different bilin pigments, derived from haem-breakdown products,
+are distributed widely in insects. Biliverdin IXy is amongst the most common,
+especially in butterfiies and moths. These pigments are usually associated
+with proteins, and they contribute significantly to colouration in the
+epidermis or inter-lamellar space of the wing. Two insect bilin-binding 
+lipocalins have been studied in great detail: insecticyanin from the tobacco
+hornworm and bilin-binding protein (BBP) from Pieris brassicae [6]. Both are
+blue pigment proteins forming complexes with biliverdin IXy. The precise 
+function of these proteins is unclear; apart from their role as pigments, 
+it has been suggested that they may function in photoreception and 
+protection from photo-induced free radicals. Many of these pigment
+complexes are remarkably stable, and persist, during insect development,
+from their synthesis during the larval stage, through the pupal stage 
+into adulthood.
+
+INVTBRTCOLOR is a 6-element fingerprint that provides a signature for 
+invertebrate colouration proteins. The fingerprint was derived from an 
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 1 spans the
+conserved N-terminal 310 helix and the first strand (this includes the 
+region encoded by PROSITE pattern LIPOCALIN (PS00213) and corresponds to 
+the first LIPOCALIN fingerprint motif); motif 2 encodes loop L1 and the
+anterior part of the second strand; motif 3 spans the posterior half
+of the second strand, loop L2 and the anterior part of the third strand; 
+motif 4 encodes the fifth and sixth strands and corresponds to the second
+LIPOCALIN motif; motif 5, which corresponds to strand 8 and the loop
+connecting it to the main C-terminal alpha-helix, is similar to the third
+LIPOCALIN motif; and motif 6 spans the short strand I and flanking regions.
+Two iterations on SPRT37_10f were required to reach convergence, at which 
+point a true set comprising 7 sequences was identified. Several partial
+matches were also found, all of which are related lipocalins that match
+motifs 1, 4 and 5, the characteristic motifs of the lipocalin signature. 

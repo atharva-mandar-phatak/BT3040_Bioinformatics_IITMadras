@@ -1,0 +1,55 @@
+*********************************************
+* Glycosyl hydrolases family 32 active site *
+*********************************************
+
+It has  been  shown  [1,2]  that  the  following  glycosyl  hydrolases  can be
+classified into a single family on the basis of sequence similarities:
+
+ - Inulinase (EC 3.2.1.7) (or inulase) from the fungi Kluyveromyces marxianus.
+ - Beta-fructofuranosidase (EC 3.2.1.26), commonly known as invertase in fungi
+   and plants and as sucrase in bacteria (gene sacA or scrB).
+ - Raffinose invertase (EC 3.2.1.26) (gene rafD) from Escherichia coli plasmid
+   pRSD2.
+ - Levanase (EC 3.2.1.65) (gene sacC) from Bacillus subtilis.
+
+One of the  conserved regions in  these  enzymes is  located in the N-terminal
+section and contains an  aspartic acid  residue which  has been  shown [3], in
+yeast invertase to be important for the catalytic mechanism. We have used this
+region as a signature pattern.
+
+-Consensus pattern: H-x(2)-[PV]-x(4)-[LIVMA]-N-D-P-N-[GA]
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Henrissat B.; bernie@afmb.cnrs-mrs.fr
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[ 2] Gunasekaran P., Karunakaran T., Cami B., Mukundan A.G., Preziosi L.,
+     Baratti J.
+     "Cloning and sequencing of the sacA gene: characterization of a
+     sucrase from Zymomonas mobilis."
+     J. Bacteriol. 172:6727-6735(1990).
+     PubMed=2254250
+[ 3] Reddy V.A., Maley F.
+     "Identification of an active-site residue in yeast invertase by
+     affinity labeling and site-directed mutagenesis."
+     J. Biol. Chem. 265:10817-10820(1990).
+     PubMed=2113524
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

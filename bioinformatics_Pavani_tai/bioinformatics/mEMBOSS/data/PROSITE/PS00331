@@ -1,0 +1,61 @@
+***************************
+* Malic enzymes signature *
+***************************
+
+Malic enzymes,    or    malate   oxidoreductases,   catalyze   the   oxidative
+decarboxylation of  malate  into  pyruvate  important  for  a  wide  range  of
+metabolic pathways. There are three related forms of malic enzyme [1,2,3]:
+
+ - NAD-dependent malic enzyme (EC 1.1.1.38), which uses preferentially NAD and
+   has the  ability  to  decarboxylate  oxaloacetate  (OAA).  It  is  found in
+   bacteria and insects.
+ - NAD-dependent malic enzyme (EC 1.1.1.39), which uses preferentially NAD and
+   is unable  to decarboxylate OAA. It is found in the mitochondrial matrix of
+   plants and is a heterodimer of highly related subunits.
+ - NADP-dependent  malic enzyme (EC 1.1.1.40), which has a preference for NADP
+   and has  the  ability  to  decarboxylate  OAA.  This form has been found in
+   fungi, animals  and  plants.  In  mammals,  there  are  two  isozymes: one,
+   mitochondrial and  the  other,  cytosolic.  Plants  also have two isozymes:
+   chloroplastic and cytosolic.
+
+There are  two  other proteins which are closely structurally related to malic
+enzymes:
+
+ - Escherichia coli protein sfcA, whose  function  is not yet known  but which
+   could be an NAD or NADP-dependent malic enzyme.
+ - Yeast hypothetical protein YKL029c, a probable malic enzyme.
+
+There are  three  well  conserved regions in the enzyme sequences. Two of them
+seem to be involved in binding NAD or NADP. The significance of the third one,
+located in the central part of the enzymes, is not yet known. We selected this
+region as a signature pattern for these enzymes.
+
+-Consensus pattern: [FM]-x-[DV]-D-x(2)-[GS]-T-[GSA]-x-[IV]-x-[LIVMAT]-[GAST]-
+                    [GASTC]-[LIVMFA]-[LIVMFY]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Artus N.N., Edwards G.E.
+     FEBS Lett. 182:225-233(1985).
+[ 2] Loeber G., Infante A.A., Maurer-Fogy I., Krystek E., Dworkin M.B.
+     "Human NAD(+)-dependent mitochondrial malic enzyme. cDNA cloning,
+     primary structure, and expression in Escherichia coli."
+     J. Biol. Chem. 266:3016-3021(1991).
+     PubMed=1993674
+[ 3] Long J.J., Wang J.-L., Berry J.O.
+     "Cloning and analysis of the C4 photosynthetic NAD-dependent malic
+     enzyme of amaranth mitochondria."
+     J. Biol. Chem. 269:2827-2833(1994).
+     PubMed=8300616
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

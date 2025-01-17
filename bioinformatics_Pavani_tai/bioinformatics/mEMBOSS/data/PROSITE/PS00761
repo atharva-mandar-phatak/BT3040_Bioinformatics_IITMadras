@@ -1,0 +1,97 @@
+**********************************
+* Signal peptidases I signatures *
+**********************************
+
+Signal peptidases (SPases) [1]  (also  known  as leader peptidases) remove the
+signal peptides from secretory proteins.  In prokaryotes three types of SPases
+are known: type I (gene lepB) which is responsible for  the  processing of the
+majority  of  exported pre-proteins;  type II (gene lsp)  which  only  process
+lipoproteins, and a third type involved in the processing of pili subunits.
+
+SPase I (EC 3.4.21.89) is an integral membrane protein that is anchored in the
+cytoplasmic membrane  by  one (in B. subtilis)  or two (in E. coli) N-terminal
+transmembrane domains  with  the  main  part  of the protein  protuding in the
+periplasmic space. Two residues have  been shown [2,3] to be essential for the
+catalytic activity of SPase I: a serine and an lysine.
+
+SPase I  is  evolutionary  related  to  the yeast mitochondrial inner membrane
+protease subunit 1  and 2 (genes IMP1 and IMP2) which  catalyze the removal of
+signal peptides  required for the targeting of proteins from the mitochondrial
+matrix, across the inner membrane, into the inter-membrane space [4].
+
+In eukaryotes the removal  of signal  peptides  is  effected  by an oligomeric
+enzymatic complex composed  of  at  least  five subunits: the signal peptidase
+complex (SPC).  The SPC is located in the endoplasmic  reticulum membrane. Two
+components  of mammalian SPC, the 18 Kd (SPC18) and the 21 Kd (SPC21) subunits
+as well as  the yeast SEC11 subunit  have   been shown [5] to share regions of
+sequence similarity with prokaryotic SPases I and yeast IMP1/IMP2.
+
+We have developed  three  signature  patterns  for  these proteins.  The first
+signature contains  the  putative active site  serine,  the  second  signature
+contains the putative active  site  lysine  which  is not conserved in the SPC
+subunits, and the third signature corresponds to a conserved region of unknown
+biological significance  which  is  located  in  the C-terminal section of all
+these proteins.
+
+-Consensus pattern: [GS]-{PR}-S-M-{RS}-[PS]-[AT]-[LF]
+                    [S is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 30.
+
+-Consensus pattern: K-R-[LIVMSTA](2)-[GA]-x-[PG]-G-[DEQ]-x-[LIVM]-x-[LIVMFY]
+                    [K is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL SPases I
+ from prokaryotes as well as yeast IMP1, but not IMP2.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVMFYW](2)-{NLPA}-{T}-G-D-[NH]-{PIEW}-x(2)-[SND]-x(2)-
+                    [SG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 15.
+
+-Note: These  proteins  belong  to  families  S26 (SPase I and IMP1/2) and S27
+ (SPC) in the classification of peptidases [6,E1].
+
+-Expert(s) to contact by email:
+           von Heijne G.; gunnar@biokemi.su.se
+           Dalbey R.E.; rdalbey@magnus.acs.ohio-state.edu
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Dalbey R.E., Von Heijne G.
+     "Signal peptidases in prokaryotes and eukaryotes--a new protease
+     family."
+     Trends Biochem. Sci. 17:474-478(1992).
+     PubMed=1455520
+[ 2] Sung M., Dalbey R.E.
+     "Identification of potential active-site residues in the Escherichia
+     coli leader peptidase."
+     J. Biol. Chem. 267:13154-13159(1992).
+     PubMed=1618816
+[ 3] Black M.T.
+     "Evidence that the catalytic activity of prokaryote leader peptidase
+     depends upon the operation of a serine-lysine catalytic dyad."
+     J. Bacteriol. 175:4957-4961(1993).
+     PubMed=8394311
+[ 4] Nunnari J., Fox T.D., Walter P.
+     "A mitochondrial protease with two catalytic subunits of
+     nonoverlapping specificities."
+     Science 262:1997-2004(1993).
+     PubMed=8266095
+[ 5] van Dijl J.M., de Jong A., Vehmaanpera J., Venema G., Bron S.
+     EMBO J. 11:2819-2828(1992).
+[ 6] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

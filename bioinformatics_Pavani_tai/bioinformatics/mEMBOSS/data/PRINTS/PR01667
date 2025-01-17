@@ -1,0 +1,41 @@
+NACHANNEL8
+Voltage-dependent sodium channels are transmembrane (TM) proteins
+responsible for the depolarising phase of the action potential in most
+electrically excitable cells [1]. They may exist in 3 states [3]: the
+resting state, where the channel is closed; the activated state, where the
+channel is open; and the inactivated state, where the channel is closed
+and refractory to opening. Several different structurally and functionally
+distinct isoforms are found in mammals, coded for by a multigene family
+[4], these being responsible for the different types of sodium ion currents
+found in excitable tissues.
+                
+The structure of sodium channels is based on 4 internal repeats of a 6-helix
+bundle [2] (in which 5 of the membrane-spanning segments are hydrophobic and
+the other is positively charged), forming a 24-helical bundle. The charged 
+segments are believed to be localised within clusters formed by their 5
+hydrophobic neighbours: it is postulated that the charged domain may be the
+voltage sensor region, possibly moving outward on depolarisation, causing a
+conformational change. This model, proposed by Noda et al. [2], contrasts 
+with that of Sato and Matsumoto [5], in which the TM segments are juxtaposed
+octagonally. The basic structural motif (the 6-helix bundle) is also found
+in potassium and calcium channel alpha subunits.
+
+The gene SCN8A encodes the voltage-gated Na+ channel alpha 8 subunit and is
+strongly expressed in Purkinje cells. Sodium currents are known to generate
+the rising phase and the prolonged plateau phase of cerebellar purkinje cell
+action potentials. Experiments in mice with mutated SCN8A subunits suggest
+its involvement in the persistent sodium current responsible for the
+prolonged plateau phase [6]. The SCN8A gene is abundantly expressed
+throughout the CNS and in the spinal cord. Mutations in mouse SCN8A result
+in a number of neurological disorders, including paralysis, ataxia and
+dystonia [7].
+
+NACHANNEL8 is a 3-element fingerprint that provides a signature for the
+voltage-gated Na+ channel alpha 8 subunit. The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal third of the alignment, focusing on those
+sections that characterise the alpha 8 subunits but distinguish them from
+other members of the voltage-gated Na+ channel superfamily. Two iterations
+on SPTR40_18f were required to reach convergence, at which point a true set
+comprising 7 sequences was identified. Two partial matches were also found,
+both of which are closely related sodium channel proteins.

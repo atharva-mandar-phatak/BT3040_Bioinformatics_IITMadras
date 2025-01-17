@@ -1,0 +1,61 @@
+***************************
+* FtsZ protein signatures *
+***************************
+
+In bacteria,  ftsZ   [1,2] is  an  essential cell division protein involved in
+cytokinesis. It assembles into a ring on the inner surface  of the cytoplasmic
+membrane at the place where division will occur. The ring serves as a scaffold
+that is  disassembled  when  septation  is  completed.  FtsZ  is a GTP binding
+protein with a GTPase activity. It undergoes GTP-dependent polymerization into
+filaments (or  tubules)  that  seem  to form a cytoskeleton involved in septum
+synthesis.
+
+FtsZ is  a  protein  of  about  400  residues  which  is well conserved across
+bacterial species  and  which is also present in the chloroplast of plants [3]
+as well  as  in archaebacteria  [4].  FtsZ  shows  a  limited  similarity with
+eukaryotic tubulins.   This  similarity  is  probably  both  evolutionary  and
+functionally significant.
+
+As signature  patterns  we  selected  two  glycine-rich conserved regions. The
+second region  is  equivalent  to  the  GTP-binding  region  of  tubulins (see
+<PDOC00199>).
+
+-Consensus pattern: N-[ST]-D-x-[QS]-x-L-x(16,18)-G-x-G-[ATVS]-G-[GSAN]-x-P-
+                    x(2)-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [DNHKR]-[LIVMF]-x-[LIVMF](2)-[VSTAC]-[STAC]-G-x-G-[GKN]-G-
+                    T-G-[ST]-G-[GSARC]-[STA]-P-[LIVMFT]-[LIVMF]-[SGAV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Lutkenhaus J.
+     "FtsZ ring in bacterial cytokinesis."
+     Mol. Microbiol. 9:403-409(1993).
+     PubMed=8412689
+[ 2] Erickson H.P.
+     "FtsZ, a prokaryotic homolog of tubulin?"
+     Cell 80:367-370(1995).
+     PubMed=7859278
+[ 3] Osteryoung K.W., Vierling E.
+     "Conserved cell and organelle division."
+     Nature 376:473-474(1995).
+     PubMed=7637778; DOI=10.1038/376473b0
+[ 4] Margolin W., Wang R., Kumar M.
+     "Isolation of an ftsZ homolog from the archaebacterium Halobacterium
+     salinarium: implications for the evolution of FtsZ and tubulin."
+     J. Bacteriol. 178:1320-1327(1996).
+     PubMed=8631708
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

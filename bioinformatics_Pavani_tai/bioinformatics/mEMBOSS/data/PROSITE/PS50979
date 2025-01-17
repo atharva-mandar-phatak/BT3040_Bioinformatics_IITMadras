@@ -1,0 +1,64 @@
+********************************************
+* Biotin carboxylation (BC) domain profile *
+********************************************
+
+Biotin-dependent carboxylase enzymes perform a two step reaction. Enzyme-bound
+biotin is  first  carboxylated  by  bicarbonate and ATP and the carboxyl group
+temporarily  bound  to  biotin  is  subsequently  transferred  to  an acceptor
+substrate such as pyruvate or acetyl-CoA. The first step is mediated by the BC
+domain  common  to all biotin-dependent carboxylases [1]. The BC domain can be
+divided   in  three  subdomains  (N-terminal,  central  and  C-terminal).  The
+N-terminal  region  provides  part  of  the  active  site;  the central region
+corresponds to the ATP-grasp domain (see <PDOC50975>), which is common to many
+ATP-dependent  enzymes involved in macromolecular synthesis [2]. The ATP-grasp
+module  directly  binds the ATP molecule. The C-terminal subdomain is involved
+in dimer formation.
+
+Several  structure  of  the  BC  domain  have  been  solved  (see  for example
+<PDB:1ULZ>)  [3,4].  The central module is splayed significantly away from the
+main  body of the domain and is able to rotate of approximately 45 degree upon
+nucleotide binding thereby closing off the active site pocket [4].
+
+Enzymes known to contain a BC domain are listed below:
+
+ - Pyruvate carboxylase (EC 6.4.1.1).
+ - Acetyl-/propionyl-coenzyme A carboxylase alpha chain (EC 6.4.1.3).
+ - Methylcrotonyl-CoA carboxylase alpha chain (EC 6.4.1.4).
+ - Urea amidolyase (EC 6.3.4.6).
+ - Acetyl-CoA carboxylase (EC 6.4.1.2).
+
+The profile we developed covers the entire BC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Jitrapakdee S., Wallace J.C.
+     "The biotin enzyme family: conserved structural motifs and domain
+     rearrangements."
+     Curr. Protein. Pept. Sci. 4:217-229(2003).
+     PubMed=12769720
+[ 2] Artymiuk P.J., Poirrette A.R., Rice D.W., Willett P.
+     "Biotin carboxylase comes into the fold."
+     Nat. Struct. Biol. 3:128-132(1996).
+     PubMed=8564538
+[ 3] Kondo S., Nakajima Y., Sugio S., Yong-Biao J., Sueda S., Kondo H.
+     "Structure of the biotin carboxylase subunit of pyruvate carboxylase
+     from Aquifex aeolicus at 2.2 A resolution."
+     Acta Crystallogr. D 60:486-492(2004).
+     PubMed=14993673; DOI=10.1107/S0907444904000423
+[ 4] Thoden J.B., Blanchard C.Z., Holden H.M., Waldrop G.L.
+     "Movement of the biotin carboxylase B-domain as a result of ATP
+     binding."
+     J. Biol. Chem. 275:16183-16190(2000).
+     PubMed=10821865; DOI=275/21/16183
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

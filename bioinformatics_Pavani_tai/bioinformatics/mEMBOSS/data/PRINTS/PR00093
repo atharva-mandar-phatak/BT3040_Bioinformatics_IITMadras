@@ -1,0 +1,27 @@
+URICASE
+Uricase is a peroxisomal enzyme that catalyses the oxidation of uric acid
+to allantoin in most vertebrates, although it has been lost in humans and
+some primates, birds and reptiles [1]. It is mainly localised in the liver,
+where it forms a large electron-dense paracrystalline core in many
+peroxisomes [2]. The enzyme exists as a tetramer of identical subunits, 
+each of which has been thought to contain a possible type 2 copper-binding
+site [1]. More recent evidence, however, suggests that the catalytically 
+active enzyme does not in fact contain copper, or any other redox active
+metal [3,4]. In legumes, 2 forms of uricase are found: in the roots, the
+tetrameric form; and, in the uninfected cells of root nodules, a monomeric
+form, which plays an important role in nitrogen-fixation [5].
+
+URICASE is a 5-element fingerprint that provides a signature for uricases.
+The fingerprint was derived from an initial alignment of 5 sequences: the
+motifs largely surround the active site - motif 1 encodes beta-strand 1;
+motif 2 spans alpha-helix 2 and the N-terminus of helix 3, and includes the
+active site threonine; motif 3 encompasses the C-terminus of helix 4 and the
+N-terminus of strand strand 3; and motifs 4 and 5 span the C-terminus of
+strand 7 and the following loop, which includes the region encoded by
+PROSITE pattern URICASE (PS00366), which houses the two other active site
+residues. Two iterations on OWL21.1 were required to reach convergence, at
+which point a true set comprising 14 sequences was identified. Two partial 
+matches were also found, both of which are fragments.
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 3
+partial matches.

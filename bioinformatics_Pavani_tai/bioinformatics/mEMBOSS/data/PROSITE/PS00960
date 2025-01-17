@@ -1,0 +1,66 @@
+*************************
+* BTG family signatures *
+*************************
+
+A novel   family  of  anti-proliferative  proteins  has  been  recently  [1,2]
+characterized:
+
+ - Mammalian  and  avian  protein BTG1. BTG1 seems to negatively regulate cell
+   proliferation.
+ - Mammalian protein BTG2 (also known as PC3 or TIS21).
+ - Mammalian protein BTG3 (also known as TOB5).
+ - Mammalian protein BTG4 (also known as PC3b).
+ - Mammalian  protein  TOB,  an anti-proliferative protein that interacts with
+   the erbb-2 receptor tyrosine kinase [3].
+ - Human protein TOB4.
+ - Xenopus  laevis  maternal  proteins B9.10 and B9.15 (which are probably the
+   orthologs of BTG3).
+
+The proteins  have  from  158 to 363 amino acid residues. BTG2 seems to have a
+signal sequence; while the other proteins may lack such a domain. The sequence
+of the  N-terminal  half  of  these  proteins  is well conserved. As signature
+patterns, we  selected  the  two best conserved regions of these proteins. The
+first signature pattern includes the only conserved cysteine.
+
+-Consensus pattern: Y-x(2)-[HP]-W-[FYH]-[APS]-[DE]-x-P-x-K-G-x-[GA]-[FY]-R-C-
+                    [IV]-[RH]-[IV]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LV]-P-x-[DE]-[LM]-[ST]-[LIVM]-W-[IV]-D-P-x-E-V-[SC]-x-
+                    [RQ]-x-G-[EK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Duret L.; duret@biomserv.univ-lyon1.fr
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Rouault J.-P., Rimokh R., Tessa C., Paranhos G., Ffrench M., Duret L.,
+     Garoccio M., Germain D., Samarut J., Magaud J.-P.
+     "BTG1, a member of a new family of antiproliferative genes."
+     EMBO J. 11:1663-1670(1992).
+     PubMed=1373383
+[ 2] Rouault J.-P., Samarut C., Duret L., Tessa C., Samarut J., Magaud J.-P.
+     "Sequence analysis reveals that the BTG1 anti-proliferative gene is
+     conserved throughout evolution in its coding and 3' non-coding
+     regions."
+     Gene 129:303-306(1993).
+     PubMed=8325512
+[ 3] Matsuda S., Kawamura-Tsuzuku J., Ohsugi M., Yoshida M., Emi M.,
+     Nakamura Y., Onda M., Yoshida Y., Nishiyama A., Yamamoto T.
+     "Tob, a novel protein that interacts with p185erbB2, is associated
+     with anti-proliferative activity."
+     Oncogene 12:705-713(1996).
+     PubMed=8632892
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,27 @@
+LENSMEMPROT
+The epithelial membrane proteins (EMP-1, -2 and -3), peripheral myelin 
+protein 22 (PMP22), and lens fibre membrane intrinsic protein (LMIP)
+comprise a protein family on the basis of sequence and structural 
+similarities [1]. Each family member is a small hydrophobic membrane
+glycoprotein, ~160-170 amino acids in length, and shares a common predicted
+transmembrane (TM) topology of 4 TM domains, with intracellular N- and 
+C-termini [2]. 
+
+LMIP, previously termed MP17, MP18, MP19 and MP20, is expressed at extremely
+high levels in the mammalian eye lens, where it is localised to the thicker
+(16-17nm) cell membrane junctions [3]. Although its function has not been 
+elucidated, it has been shown to co-localise with connexin-46, suggesting 
+that it may be involved in the organisation of junctional plaques [4]. A
+role for LMIP in signal transduction has also been proposed, as it is
+phosphorylated by cAMP-dependent kinase and binds calmodulin [5].
+
+LENSMEMPROT is a 5-element fingerprint that provides a signature for lens
+fibre membrane intrinsic protein (LMIP). The fingerprint was derived from
+an initial alignment of 3 sequences: the motifs were drawn from conserved
+TM and loop regions, focusing on those sections that characterise lens 
+fibre membrane protein LIMP but distinguish it from other family members -
+motifs 1 and 2 reside within the first extracellular loop; motif 3 lies in
+the intracellular loop; motif 4 resides in TM domain 3; and motif 5 lies 
+in the second extracellular loop. A single iteration on SPTR39_14f was 
+required to reach convergence, no further sequences being identified 
+beyond the starting set. 

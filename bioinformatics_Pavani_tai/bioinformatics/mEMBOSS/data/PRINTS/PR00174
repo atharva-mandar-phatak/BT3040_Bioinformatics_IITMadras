@@ -1,0 +1,22 @@
+LACYSMPORT
+Bacteria contain a number of different sugar transporter families,
+including symporters and antiporters [1]. The lacY family of E.coli and
+Klebsiella pneumoniae are proton/beta-galactoside symporters, which, like
+most sugar transporters, are predicted as having 12 transmembrane (TM)
+regions. Also similar to the lacY family are the rafinose (rafB) and
+sucrose (cscB) permeases from E.coli [2].
+
+LACYSMPORT is an 8-element fingerprint that provides a signature for the 
+lacY proton/sugar symporter family. The fingerprint was derived from an
+initial alignment of 4 sequences: motifs were drawn from the TM domains, 
+motifs 1-3 TM regions 3-5, and motifs 4-8 regions 7-11 (TM domains 1, 2, 6 
+and 12 were too poorly conserved to be included in the fingerprint) - 
+motif 1 and motifs 5 and 6 include part of the regions described by PROSITE
+patterns LACY_1 (PS00896) and LACY_2 (PS00897). A single iteration on
+OWL23.2 was required to reach convergence, no new sequences being identified
+beyond the starting set. A single partial match was also found, KPNLAC1, a
+lacY protein fragment from Klebsiella.
+
+An update on SPTR57_40f identified a true set of 137 sequences. Several
+partial matches were also found, all of which are family members that
+fail to make significant matches with 2 or more motifs.

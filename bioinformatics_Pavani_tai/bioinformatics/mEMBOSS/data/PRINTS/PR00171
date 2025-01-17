@@ -1,0 +1,23 @@
+SUGRTRNSPORT
+The sugar transporters belong to a family of membrane proteins responsible 
+for the transport of various sugars in a wide range of prokaryotic and 
+eukaryotic organisms [1]. The similarity between the sugar transporters in 
+such diverse organisms as bacteria and mammals is considered too great to 
+have arisen from convergent evolution. Gene transfer from eukaryotes to 
+their prokaryotic symbionts has been suggested, but it is more likely that 
+the transporters have evolved from an ancient protein present in living 
+organisms before the divergence into prokaryotes and eukaryotes [2]. In 
+mammals, these proteins are expressed in a number of organs [3]. 
+
+SUGRTRNSPORT is a 5-element fingerprint that provides a signature for a 
+superfamily of sugar transporters. The fingerprint was derived from an 
+initial alignment of 12 sequences: the motifs were drawn largely from
+transmembrane (TM) domains (i.e. 1, 4, 7 and 10), motif 5 corresponding to
+the conserved loop between the tenth and eleventh TM regions (the
+remaining TM domains were not sufficiently well conserved to be able to
+characterise the superfamily). Three iterations on OWL11.0 were required
+to reach convergence, at which point a true set comprising 32 sequences
+was identified. 
+
+An update on SPTR37_9f identified a true set of 120 sequences, and 49
+partial matches.

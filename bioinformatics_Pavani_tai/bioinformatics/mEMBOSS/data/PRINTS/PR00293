@@ -1,0 +1,22 @@
+SQUASHINHBTR
+The squash inhibitors form one of a number of serine protease inhibitor
+families. The proteins (found in the seeds of squash, cucumber, balsam
+pear, etc.) are approximately 30 residues in length and contain 6 Cys
+residues, which form 3 disulphide bonds [1]. The inhibitors function by
+being taken up by a serine protease (such as trypsin), which cleaves the
+peptide bond between Arg/Lys and Ile residues in the N-terminal portion of
+the protein [1,2]. 
+
+Structural studies have shown that the inhibitor has an ellipsoidal shape,
+and is largely composed of beta-turns [1]. The fold and Cys connectivity of
+the proteins resembles that of potato carboxypeptidase A inhibitor [2].
+
+SQUASHINHBTR is a 2-element fingerprint that provides a signature for
+squash serine protease inhibitors. The fingerprint was derived from an
+initial alignment of 7 sequences: the motifs span the region encoded by
+PROSITE pattern SQUASH_INHIBITOR (PS00286), which contains the active bond
+and 5 conserved cysteines. Two iterations on OWL25.1 were required to 
+reach convergence, at which point a true set comprising 26 sequences was
+identified. 
+
+An update on SPTR37_9f identified a true set of 20 sequences.

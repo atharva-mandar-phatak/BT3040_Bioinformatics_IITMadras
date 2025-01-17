@@ -1,0 +1,66 @@
+*********************************************************************
+* Ephrin receptor-binding (ephrin RBD) domain signature and profile *
+*********************************************************************
+
+Ephrins are a family of proteins [1] that are ligands of class V (EPH-related)
+receptor protein-tyrosine  kinases  (see <PDOC00629>). Initially identified as
+regulators of  axon pathfinding and neuronal cell migration, the Eph receptors
+and their  ephrin  ligands are now known to have roles in many other cell-cell
+interactions, including  those  of  vascular endothelial cells and specialized
+epithelia [2].
+
+Ephrins are  membrane-attached  proteins  of  205  to 340 residues. Attachment
+appears to be crucial for their normal function. Type-A ephrins  are linked to
+the membrane  via  a  GPI  linkage,  while  type-B ephrins are type-I membrane
+proteins.
+
+The globular  ephrin  receptor-binding  domain  (ephrin  RBD) is a beta barrel
+composed of  eight  strands  arranged  in two sheets around a hydrophobic core
+(see <PDB:1IKO>).  Interspersed between beta strands are two alpha helices and
+one 3(10)  helix.  The  sheets are composed of mixed parallel and antiparallel
+beta strands  arranged  in  a  Greek  key  topology.  Like  other cell-surface
+proteins, ephrins  contain  disulfide  bonds  to enhance stability. Two buried
+disulfide bonds are present: one pair holds together beta strands C and F, and
+the other  pair  anchors  two small helices, E and I, at the top of the barrel
+[2,3].
+
+We developed  both  a  pattern  and  a  profile for the ephrin RBD domain. The
+profile covers the entire ephrin RBD domain.
+
+-Consensus pattern: [KRQ]-[LF]-[CST]-x-K-[IF]-Q-x-[FY]-[ST]-[PA]-x(3)-G-x-E-F-
+                    x(5)-[FY](2)-x(2)-[SA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: October 2011 / Text revised; profile added.
+
+[ 1] Kozlosky C.J., Maraskovsky E., McGrew J.T., Vandenbos T., Teepe M.,
+     Lyman S.D., Srinivasan S., Fletcher F.A., Gayle R.B. III, Cerretti D.P.,
+     Beckmann M.P.
+     "Ligands for the receptor tyrosine kinases hek and elk: isolation of
+     cDNAs encoding a family of proteins."
+     Oncogene 10:299-306(1995).
+     PubMed=7838529
+[ 2] Himanen J.-P., Rajashankar K.R., Lackmann M., Cowan C.A.,
+     Henkemeyer M., Nikolov D.B.
+     "Crystal structure of an Eph receptor-ephrin complex."
+     Nature 414:933-938(2001).
+     PubMed=11780069; DOI=10.1038/414933a
+[ 3] Toth J., Cutforth T., Gelinas A.D., Bethoney K.A., Bard J.,
+     Harrison C.J.
+     "Crystal structure of an ephrin ectodomain."
+     Dev. Cell 1:83-92(2001).
+     PubMed=11703926
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

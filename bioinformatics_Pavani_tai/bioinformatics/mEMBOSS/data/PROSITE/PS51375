@@ -1,0 +1,106 @@
+******************************************
+* Pentatricopeptide (PPR) repeat profile *
+******************************************
+
+Pentatricopeptide repeat (PPR) proteins are characterized by tandem repeats of
+a  degenerate  35 amino  acid  motif  [1]. Most of PPR proteins have roles in
+mitochondria   or   plastid.  PPR  repeats  were  discovered  while  screening
+Arabidopsis  proteins  for  those  predicted to be targeted to mitochondria or
+chloroplast  [1,2].  Some  of these proteins have been shown to play a role in
+post-transcriptional  processes  within  organelles and they are thought to be
+sequence-specific RNA-binding proteins [3,4,5]. Plant genomes have between one
+hundred  to five hundred PPR genes per genome whereas non-plant genomes encode
+two to six PPR proteins.
+
+Although  no PPR structures are yet known, the motif is predicted to fold into
+a  helix-turn-helix  structure similar to those found in the tetratricopeptide
+repeat (TPR) family (see <PDOC50005>) [1].
+
+The  plant PPR protein family has been divided in two subfamilies on the basis
+of their motif content and organization [6,7]:
+
+ - Plant  P-subfamily.  In  the  P-subfamily  the  35  amino  acid repeats are
+   adjacent  to  each  other (i.e. in tandem repeats). This subfamily contains
+   proteins  involved in RNA processing (high chlorophyll fluorescence protein
+   152),  translation (chloroplast  RNA processing protein 1), splicing (PPR4)
+   and RNA stability (ribosome release factor 1b, PGR3).
+ - Plant  combinatorial  and  modular  proteins  (PCMP) subfamily. In the PCMP
+   subfamily  classical  35  amino  acid repeats are found in association with
+   shorter  (31  amino  acids)  and  longer  (36  amino  acids)  repeats. This
+   subfamily  contains  proteins  involved  in  RNA editing (chlororespiratory
+   reduction proteins 4 and 21) and RNA processing (CRR2, RF1).
+
+Some non-plant PPR proteins are listed below:
+
+ - Mammalian  leucine-rich PPR motif-containing (LPPRC) protein. It may play a
+   role  in  translation  or stability of mitochondrially encoded cytochrome c
+   oxidase (COX) subunits.
+ - Drosophila  bicoid  mRNA  stability factor (BSF). BSF binds specifically to
+   bicoid  mRNA  3'-untranslated  region.   BSF  plays  a  role  in bicoid RNA
+   stabilization.
+ - Yeast   Pet309  protein.  It  is  involved  in  translation  of  the  yeast
+   mitochondrial  COX1  gene,  which  encodes  subunit  I  of the cytochrome c
+   oxidase. Pet309 protein is also involved in stabilization of the COX1 mRNA.
+ - Yeast  ATPase  expression protein 3 (Aep3). It stabilizes the mitochondrial
+   bicistronic   mRNA   encoding   ATP6   and   ATP8,   2   subunits   of  the
+   proton-translocating ATP synthase.
+
+The profile we developed covers the entire PPR repeat.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2008 / First entry.
+
+[ 1] Small I.D., Peeters N.
+     "The PPR motif - a TPR-related motif prevalent in plant organellar
+     proteins."
+     Trends Biochem. Sci. 25:46-47(2000).
+     PubMed=10664580
+[ 2] Lurin C., Andres C., Aubourg S., Bellaoui M., Bitton F., Bruyere C.,
+     Caboche M., Debast C., Gualberto J., Hoffmann B., Lecharny A.,
+     Le Ret M., Martin-Magniette M.L., Mireau H., Peeters N., Renou J.P.,
+     Szurek B., Taconnat L., Small I.
+     "Genome-wide analysis of Arabidopsis pentatricopeptide repeat proteins
+     reveals their essential role in organelle biogenesis."
+     Plant Cell 16:2089-2103(2004).
+     PubMed=15269332; DOI=10.1105/tpc.104.022236
+[ 3] Meierhoff K., Felder S., Nakamura T., Bechtold N., Schuster G.
+     "HCF152, an Arabidopsis RNA binding pentatricopeptide repeat protein
+     involved in the processing of chloroplast psbB-psbT-psbH-petB-petD
+     RNAs."
+     Plant Cell 15:1480-1495(2003).
+     PubMed=12782738
+[ 4] Mili S., Pinol-Roma S.
+     "LRP130, a pentatricopeptide motif protein with a noncanonical
+     RNA-binding domain, is bound in vivo to mitochondrial and nuclear
+     RNAs."
+     Mol. Cell. Biol. 23:4972-4982(2003).
+     PubMed=12832482
+[ 5] Delannoy E., Stanley W.A., Bond C.S., Small I.D.
+     "Pentatricopeptide repeat (PPR) proteins as sequence-specificity
+     factors in post-transcriptional processes in organelles."
+     Biochem. Soc. Trans. 35:1643-1647(2007).
+     PubMed=18031283; DOI=10.1042/BST0351643
+[ 6] Lurin C., Andres C., Aubourg S., Bellaoui M., Bitton F., Bruyere C.,
+     Caboche M., Debast C., Gualberto J., Hoffmann B., Lecharny A.,
+     Le Ret M., Martin-Magniette M.L., Mireau H., Peeters N., Renou J.P.,
+     Szurek B., Taconnat L., Small I.
+     "Genome-wide analysis of Arabidopsis pentatricopeptide repeat proteins
+     reveals their essential role in organelle biogenesis."
+     Plant Cell 16:2089-2103(2004).
+     PubMed=15269332; DOI=10.1105/tpc.104.022236
+[ 7] Saha D., Prasad A.M., Srinivasan R.
+     "Pentatricopeptide repeat proteins and their emerging roles in
+     plants."
+     Plant Physiol. Biochem. 45:521-534(2007).
+     PubMed=17560114; DOI=10.1016/j.plaphy.2007.03.026
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,61 @@
+**********************************
+* Endopeptidase Clp active sites *
+**********************************
+
+The endopeptidase Clp (EC 3.4.21.92) from Escherichia coli cleaves peptides in
+various proteins in a process that  requires  ATP  hydrolysis [1,2].  Clp is a
+dimeric protein which consists of a proteolytic subunit (gene clpP) and either
+of two related ATP-binding regulatory subunits (genes clpA and clpX).  ClpP is
+a serine  protease  which  has  a chymotrypsin-like  activity.  Its  catalytic
+activity seems to be  provided by a charge relay system similar to that of the
+trypsin family   of   serine  proteases,  but  which  evolved  by  independent
+convergent evolution.
+
+Proteases highly  similar to ClpP  have been found to be encoded in the genome
+of the chloroplast of plants and seem to be also present in other eukaryotes.
+
+The sequences around two of the  residues  involved  in the catalytic triad (a
+serine and a histidine)  are  highly  conserved  and  can be used as signature
+patterns specific to that category of proteases.
+
+-Consensus pattern: T-x(2)-[LIVMF]-G-x-A-[SAC]-S-[MSA]-[PAG]-[STA]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ three sequences.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Consensus pattern: R-x(3)-[EAP]-x(3)-[LIVMFYT]-[LM]-[LIVM]-H-Q-P
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ two sequences.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Note: These proteins belong to family S14 in the classification of peptidases
+ [3,E1].
+
+-Last update: December 2001 / Patterns and text revised.
+
+[ 1] Maurizi M.R., Clark W.P., Kim S.-H., Gottesman S.
+     "Clp P represents a unique family of serine proteases."
+     J. Biol. Chem. 265:12546-12552(1990).
+     PubMed=2197276
+[ 2] Gottesman S., Maurizi M.R.
+     "Regulation by proteolysis: energy-dependent proteases and their
+     targets."
+     Microbiol. Rev. 56:592-621(1992).
+     PubMed=1480111
+[ 3] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

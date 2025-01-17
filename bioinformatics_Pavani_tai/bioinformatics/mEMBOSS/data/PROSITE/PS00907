@@ -1,0 +1,47 @@
+*********************************************
+* Uroporphyrinogen decarboxylase signatures *
+*********************************************
+
+Uroporphyrinogen decarboxylase (EC 4.1.1.37) (URO-D), the fifth enzyme  of the
+heme biosynthetic pathway,  catalyzes the  sequential  decarboxylation  of the
+four acetyl side chains of uroporphyrinogen to yield coproporphyrinogen [1].
+
+URO-D deficiency  is  responsible  for  the  Human  genetic  diseases familial
+porphyria cutanea tarda (fPCT) and hepatoerythropoietic porphyria (HEP).
+
+The sequence of URO-D has been well conserved throughout evolution.  The  best
+conserved  region is  located  in the N-terminal section; it contains a highly
+conserved hexapeptide.  There  are  two  arginine residues in this hexapeptide
+which could  be  involved  in  the  binding, via salt bridges, to the carboxyl
+groups of the propionate side chains of the substrate. We  used this region as
+a signature  pattern.  A  second  signature pattern is based on a another well
+conserved region which is located in the central section of the protein.
+
+-Consensus pattern: [SP]-[IVCLAM]-W-[LIVMFYC]-[LM]-R-[QR]-[AVS]-G-R
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIMF]-[GAVS]-F-[STAGCV]-[STAGC]-x-[PA]-[FWYV]-T-[LIVM]-
+                    x(2)-Y-x(2,3)-[ADE]-[GK]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Patterns and text revised.
+
+[ 1] Garey J.R., Labbe-Bois R., Chelstowska A., Rytka J., Harrison L.,
+     Kushner J., Labbe P.
+     "Uroporphyrinogen decarboxylase in Saccharomyces cerevisiae. HEM12
+     gene sequence and evidence for two conserved glycines essential for
+     enzymatic activity."
+     Eur. J. Biochem. 205:1011-1016(1992).
+     PubMed=1576986;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

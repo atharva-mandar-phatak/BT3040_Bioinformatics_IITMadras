@@ -1,0 +1,28 @@
+APPLEDOMAIN
+Kallikrein and coagulation factor XI are both plasma proteins that 
+participate in the early phase of the intrinsic blood coagulation pathway
+[1]. These proteins share a high degree of sequence similarity, and there
+is evidence to show that a gene duplication event from a common ancestor
+resulted in the existence of both kallikrein and factor XI [1]. The
+proteins have the same domain topology: an N-terminal region, which contains
+four 90-amino acid tandem repeats; and a C-terminal region, which is similar
+to the trypsin family of serine proteases [2]. The proteins are activated
+by factor XIIa, which cleaves an internal Arg-Ile bond separating the 
+repeat region and the serine protease domain [2].
+
+Each of the N-terminal repeats contains 6 cysteine residues, which form
+three disulphide bonds linking the first and the sixth, the second and the
+fifth, and the third and fourth cysteines [3]. Schematically, this can be
+drawn in the form of an apple, hence the term "apple domain". The fourth
+repeat contains an additional 2 Cys residues between the third and fourth
+cysteines, and these form an extra loop in the domain [3].
+
+APPLEDOMAIN is a 3-element fingerprint that provides a signature for the
+apple domain. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs span the full domain length, motif 1 including the
+second, third and fourth cysteines, motif 2 containing the fifth, and
+motif 3 the sixth cysteine - cf. PROSITE pattern APPLE (PS00495). A single
+iteration on OWL24.0 was required to reach convergence, no further
+sequences being identified beyond the starting set. 
+
+An update on SPTR37_9f identified a true set of 4 sequences.

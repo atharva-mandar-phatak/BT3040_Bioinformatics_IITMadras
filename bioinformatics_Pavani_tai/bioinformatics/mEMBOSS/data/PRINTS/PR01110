@@ -1,0 +1,60 @@
+CHEMOKINER5
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Chemokines are proteins that have important physiological and patho- 
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a 
+4-cysteine motif: the family can be divided according to whether the
+first 2 Cys residues are adjacent (the C-C family), or separated by an
+intervening residue (the C-x-C family). C-C chemokines are chemoattractant
+for monocytes but not for neutrophils. The C-C family includes human
+monocyte chemotactic protein-1 (MCP-1), regulated on activation, normal
+T cell expressed and secreted (RANTES) and macrophage inflammatory 
+proteins (MIP-1a and MIP-1b) [6].
+
+C-C chemokine receptors are found in monocytes, lymphocytes, basophils and
+eosinophils; mRNA is also found in some cell lines [6]. MCP-1 and MIP-1a
+induce activation in low nanomolar concentrations and are highly selective
+relative to C-x-C receptors. Calcium mobilisation has been demonstrated in
+monocytes and in cells expressing the recombinant C-C receptor via an
+uncharacterised G protein; pertussis toxin inhibits some of its actions [6].
+
+A novel chemokine receptor, encoded 18 kilobase pairs downstream of the 
+MCP-1 receptor (CCR2) gene on human chromosome 3p21, has been identified 
+[7]. The deduced amino acid sequence of the receptor, designated CCR5, is
+most similar to CCR2B, sharing 71% identical residues [7]. Transfected cells
+expressing the receptor bind RANTES, MIP-1beta and MIP-1alpha with high
+affinity, and generate inositol phosphates in response to these chemokines.
+The same combination of chemokines has been shown potently to inhibit human
+immunodeficiency virus replication in human peripheral blood leukocytes [7].
+CCR5 is expressed in lymphoid organs, such as thymus and spleen, as well as
+in peripheral blood leukocytes, including macrophages and T cells [7]. 
+
+CHEMOKINER5 is a 5-element fingerprint that provides a signature for type 5
+C-C chemokine receptors. The fingerprint was derived from an initial 
+alignment of 2 sequences: the motifs were drawn from conserved regions 
+spanning virtually the full alignment length, focusing on those sections
+that characterise the type 5 receptors but distinguish them from the rest of
+the C-C chemokine receptor family - motif 1 resides at the N-terminus; 
+motifs 2 and 3 span the second external loop; motif 4 lies within the third
+external loop; and motif 5 resides at the C-terminus. Two iterations on
+SPTR37_9f were required to reach convergence, at which point a true set
+comprising 11 sequences was identified. A single partial match was also
+found, O75303, a CC-chemokine receptor that matches motifs 1 and 2.

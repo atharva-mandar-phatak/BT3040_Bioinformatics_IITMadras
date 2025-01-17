@@ -1,0 +1,32 @@
+TETREPRESSOR
+Several resistance mechanisms have been developed by Gram-negative
+bacteria against the broad-spectrum antibiotic tetracycline (Tc) [1].
+A common mechanism involves a membrane-associated protein (TetA) that
+exports the antibiotic out of the cell before it can attach to ribosomes
+and inhibit polypeptide chain growth. TetA expression is regulated by
+the Tet repressor (TetR). TetR occurs as a homodimer and uses 2 HTH
+motifs to bind tandem DNA operators, thereby blocking the expression
+of the associated genes, TetA and TetR.
+
+The structure of the class D TetR repressor protein [2] involves 10
+alpha-helices, with connecting turns and loops. The 3 N-terminal
+helices constitute the DNA-binding HTH domain, which has an inverse
+orientation compared with HTH motifs in other DNA-binding proteins.
+The core of the protein, formed by helices 5-10, is responsible for
+dimerisation and contains, for each monomer, a binding pocket that
+accommodates Tc in the presence of a divalent cation. 
+
+TETREPRESSOR is a 5-element fingerprint that provides a signature for
+the Tet repressor proteins. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+within both the HTH and Tc-binding domains - motif 1 spans helices 2 and
+3; motif 2 encodes helix 5; motif 3 spans helix 6 and part of helix 7;
+and motifs 4 and 5 include parts of helices 8 and 10 respectively. Two
+iterations on OWL25.2 were required to reach convergence, at which point
+a true set comprising 8 sequences was identified. Three partial matches
+were also found: A40046 is a TetR repressor homologue that fails to make
+a significant match with motif 3; and A26948 and S02668 are TetR protein
+fragments lacking C-terminal portions of sequence bearing the final motifs.
+
+An update on SPTR37_9f identified a true set of 8 sequences, and 2
+partial matches.

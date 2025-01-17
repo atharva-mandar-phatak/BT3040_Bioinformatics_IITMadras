@@ -1,0 +1,68 @@
+******************************************************
+* Purine and other phosphorylases family 2 signature *
+******************************************************
+
+The following phosphorylases belongs to the same family:
+
+ - Purine  nucleoside phosphorylase (EC 2.4.2.1) (PNP) from mammals as well as
+   from some  bacteria  (gene  deoD).  This  enzyme  catalyzes the cleavage of
+   guanosine or  inosine  to  respective bases and sugar-1-phosphate molecules
+   [1].
+ - 5'-methylthioadenosine phosphorylase (EC 2.4.2.28) (MTA phosphorylase) from
+   eukaryotes [2].
+ - Xanthosine  phosphorylase  (EC  2.4.2.-) from Escherichia coli (gene xapA).
+   This enzyme  can  degrade  all  purine  nucleosides  except  adenosine  and
+   deoxyadenosine [3].
+
+This family also includes the following uncharacterized proteins:
+
+ - Yeast hypothetical protein YLR017w.
+ - Fission yeast hypothetical protein SpAC16C9.02c.
+ - Methanococcus jannaschii hypothetical protein MJ0060.
+ - Rhodospirillum rubrum hypothetical protein in petC 3'region.
+
+As a  signature pattern, we selected a conserved region in the central part of
+these enzymes.
+
+-Consensus pattern: [LIVF]-x(3)-[GS]-x(2)-H-x-[LIVMFY]-x(4)-[LIVMF]-x(3)-
+                    [ATV]-x(1,2)-[LIVM]-x-[ATV]-x(4)-[GN]-x(3,4)-[LIVMF](2)-
+                    x(2)-[STN]-[SAGT]-x-G-[GS]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: It  should  be noted that most bacterial PNP as well as archaebacterial
+ MTA phosphorylase  belong  to  a  different  family  of  phosphorylases  (see
+ <PDOC00946>).
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Ealick S.E., Rule S.A., Carter D.C., Greenhough T.J., Babu Y.S.,
+     Cook W.J., Habash J., Helliwell J.R., Stoeckler J.D., Parks R.E. Jr.
+     Chen S.-F., Bugg C.E.
+     "Three-dimensional structure of human erythrocytic purine nucleoside
+     phosphorylase at 3.2 A resolution."
+     J. Biol. Chem. 265:1812-1820(1990).
+     PubMed=2104852
+[ 2] Della Ragione F., Takabayashi K., Mastropietro S., Mercurio C.,
+     Oliva A., Russo G.L., Della Pietra V., Borriello A., Nobori T.,
+     Carson D.A., Zappia V.
+     "Purification and characterization of recombinant human
+     5'-methylthioadenosine phosphorylase: definite identification of
+     coding cDNA."
+     Biochem. Biophys. Res. Commun. 223:514-519(1996).
+     PubMed=8687427
+[ 3] Seeger C., Poulsen C., Dandanell G.
+     "Identification and characterization of genes (xapA, xapB, and xapR)
+     involved in xanthosine catabolism in Escherichia coli."
+     J. Bacteriol. 177:5506-5516(1995).
+     PubMed=7559336
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

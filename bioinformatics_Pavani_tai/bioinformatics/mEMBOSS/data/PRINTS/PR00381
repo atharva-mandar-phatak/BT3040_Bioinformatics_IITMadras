@@ -1,0 +1,32 @@
+KINESINLIGHT
+Kinesins are found in organisms from all the major eukaryotic kingdoms:
+protists, fungi, plants and animals [1]. They are believed to function
+as motors for microtubule-dependent motile phenomena, such as membrane
+transport, and chromosome movement during mitosis and meiosis. The
+common feature of kinesins is a highly-conserved 'motor domain' that
+contains binding sites for ATP and microtubules. Linked to the motor
+domains are 'tail domains' that vary somewhat in amino acid sequence.
+It is believed that tail domains may specify the type of cargo that
+particular kinesins are able to transport along microtubules.
+
+Kinesins contain 2 heavy and 2 light chains. Maintenance of their
+quaternary structure does not require interchain disulphide bonds.
+Details of the structure have been revealed by high-resolution electron
+microscopy [2], showing kinesin to be an asymmetric rod-like molecule
+(~80nm long), with a pair of globular heads located at one end and a
+fan-shaped tail at the other. The light chains and C-termini of the heavy
+chains form the tail domains, which associate with membrane-bound
+organelles. Most kinesin light chains range in predicted size from 58 to
+65kDa and are mildly acidic. The sequences share from 60-90% identity,
+most of the diversity residing in the C-termini. This suggests that these
+regions, at least in part, are responsible for their transport specificity. 
+
+KINESINLIGHT is a 6-element fingerprint that provides a signature for
+kinesin light chains. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the central portion of the alignment. Two iterations on OWL25.2
+were required to reach convergence, at which point a true set comprising
+11 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 10 sequences, and 1
+partial match.

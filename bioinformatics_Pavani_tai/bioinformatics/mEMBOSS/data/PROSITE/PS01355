@@ -1,0 +1,88 @@
+***************************************************
+* Short hematopoietin receptor family 1 signature *
+***************************************************
+
+A number  of  receptors  for  lymphokines,  hematopoietic  growth  factors and
+growth hormone-related  molecules  have  been  found to share a common binding
+domain. These  receptors  are  designated as hematopoietin receptors [1,2] and
+the corresponding ligands as hematopoietins. Further, hematopoietins have been
+subdivided into  two  major  structural  groups:  Large/long  and  small/short
+hematopoietins.
+
+One subset  of  individual receptor chains that are part of receptor complexes
+for small   hematopoietins   are   structurally   related   such   that  their
+extracellular parts   strictly   contain  the  200  amino-acids  hematopoietin
+domain (duplicated  in  IL-3/-5/GM-CSF  beta  chain  receptors  KH97/AIC2B and
+AIC2A). They define a structural subgroup containing the following chains:
+
+ - Interleukin-2 receptor beta chain (IL2RB)
+ - Interleukin-2 receptor common gamma chain (IL2RG)
+ - Interleukin-3 receptor beta chain (AIC2A)
+ - Interleukin-3/-5/GM-CSF receptor common beta chain (KH97/AIC2B)
+ - Interleukin-4 receptor alpha chain (IL4RA)
+ - Interleukin-7 receptor alpha chain (IL7RA)
+ - Interleukin-9 receptor alpha chain (IL9RA)
+
+A schematic representation of the structure of these receptors is shown below:
+
+ +----------------------------------------xxxxxxx---------------------------+
+ | C C       C  C  Extracellular          XXXXXXX   Cytoplasmic             |
+ +-|-|-------|--|-------------------------xxxxxxx---------------------------+
+   | |       |  |                      Transmembrane
+   +-+       +--+
+
+IL4RA, IL7RA  and  IL9RA  are  specific  alpha  chain receptors for IL-4, IL-7
+and IL-9  respectively,  whereas  IL2RB is common to IL-2 and IL-15 (IL2RA and
+IL15RA are  not  members  of the hematopoietin receptor superfamily). IL2RG is
+part of  IL-2,  IL-15,  IL-7,  IL-9  and  IL-4  form I receptor complexes [3].
+KH97/AIC2B chain  is  part  of GM-CSF, IL-3 and IL-5 receptor complexes and in
+the mouse,  AIC2B  can  be  substituted  by AIC2A, an IL-3 specific beta chain
+receptor [4].  Together  with  either  IL13RA1  or IL13RA2, IL4RA is also part
+of the  IL-13  receptor  complex  for  which IL-4 can compete with IL-13 (IL-4
+receptor complex form II) [5].
+
+We have  used  one  pattern  to detect this subfamily. The motif is located at
+the carboxy-terminal part of the 200 amino acid hematopoietin domain.
+
+-Consensus pattern: [LIVF]-x(9)-[LIV]-[RK]-x(9,20)-W-S-x-W-S-x(4)-[FYW]
+-Sequences known to belong to this class detected by the pattern: ALL
+-Other sequence(s) detected in Swiss-Prot: the leptin receptors.
+
+-Expert(s) to contact by email:
+           Boulay J.-L.; Jean-Louis.Boulay@unibas.ch
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Boulay J.-L., Paul W.E.
+     "Hematopoietin sub-family classification based on size, gene
+     organization and sequence homology."
+     Curr. Biol. 3:573-581(1993).
+     PubMed=15335670
+[ 2] Sprang S.R., Bazan J.F.
+     Curr. Opin. Struct. Biol. 3:815-827(1993).
+[ 3] Leonard W.J.
+     "The defective gene in X-linked severe combined immunodeficiency
+     encodes a shared interleukin receptor subunit: implications for
+     cytokine pleiotropy and redundancy."
+     Curr. Opin. Immunol. 6:631-635(1994).
+     PubMed=7946053
+[ 4] Nicola N.A., Metcalf D.
+     "Subunit promiscuity among hemopoietic growth factor receptors."
+     Cell 67:1-4(1991).
+     PubMed=1913811
+[ 5] Hilton D.J., Zhang J.G., Metcalf D., Alexander W.S., Nicola N.A.,
+     Willson T.A.
+     "Cloning and characterization of a binding subunit of the interleukin
+     13 receptor that is also a component of the interleukin 4 receptor."
+     Proc. Natl. Acad. Sci. U.S.A. 93:497-501(1996).
+     PubMed=8552669
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

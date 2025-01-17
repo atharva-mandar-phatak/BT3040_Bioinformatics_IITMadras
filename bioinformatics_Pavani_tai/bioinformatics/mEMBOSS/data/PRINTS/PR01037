@@ -1,0 +1,40 @@
+TCRTETOQM
+Tetracycline binds to the prokaryotic ribosomal 30S subunit and inhibits 
+binding of aminoacyl-tRNAs. The tetracycline resistance (Tcr) proteins 
+tetM/tetO from bacteria such as Campylobacter jejuni, Enterococcus faecalis,
+Streptococcus mutans and Ureaplasma urealyticum, abolish the inhibitory
+effect of tetracycline on protein synthesis [1-4]. Comparison of the amino
+acid sequences of TetO and TetM reveals 76% similarity, and hydropathy
+analyses show almost identical profiles, suggesting that TcR determinants
+in Gram-positive bacteria and in C.jejuni may have a common ancestry [1]. 
+
+The ribosome protection type of tetracycline resistance has been found in a 
+variety of bacterial species. It first appeared that this type of resistance
+emerged recently in evolution and spread among different species of bacteria
+by horizontal transmission. 
+
+The Tcr gene product from Bacteroides, a genus of Gram-negative, obligately 
+anaerobic bacteria that is phylogenetically distant from the diverse species
+in which tetM and tetO have been found, has been shown to be 40% identical 
+to TetM and TetO. The Bacteroides Tcr gene thus defines a new class of
+ribosome protection resistance genes, designated tetQ [4]. Like tetM and 
+tetO, tetQ appears to have spread by horizontal transmission, but only
+within the Bacteroides group [4]. Many human colonic Bacteroides strains
+carry large (greater than 70kbp) self-transmissible chromosomal Tcr
+elements [4]. 
+
+The TetM/TetO group of Tcr proteins shows significant similarity to 
+translational elongation factors of prokaryotes and eukaryotes. 
+
+TCRTETOQM is a 6-element fingerprint that provides a signature for the
+tetracycline resistance TetO/TetQ/TetM family. The fingerprint was derived 
+from an initial alignment of 13 sequences: the motifs were drawn from 
+conserved regions spanning the central portion of the alignment. Three
+iterations on OWL30.2 were required to reach convergence, at which point a
+true set comprising 23 sequences was identified. Several partial matches 
+were also found: TETM_STRLI and S18572 are tetracycline resistance proteins
+from Streptomyces that match 4 motifs; the rest are elongation factors and
+elongation factor-like proteins that match motifs 1-3.
+
+An update on SPTR37_9f identified a true set of 23 sequences, and 4
+partial matches.

@@ -1,0 +1,53 @@
+***************************************
+* Homocysteine-binding domain profile *
+***************************************
+
+The homocysteine (Hcy) binding domain is an ~300-residue module which is found
+in a set of enzymes involved in alkyl transfer to thiols:
+
+ - Prokaryotic   and   eukaryotic  B12-dependent  methionine  synthase  (MetH)
+   (EC 2.1.1.13),  a  large,  modular protein that catalyses the transfer of a
+   methyl group  from  methyltetrahydrofolate  (CH3-H4folate)  to  Hcy to form
+   methionine, using cobalamin as an intermediate methyl carrier.
+ - Mammalian  betaine-homocysteine S-methyltransferase (BHMT) (EC 2.1.1.5). It
+   catalyzes the  transfer  of  a  methyl  group  from glycine betaine to Hcy,
+   forming methionine and dimethylglycine.
+ - Plant selenocysteine methyltransferase (EC 2.1.1.-).
+ - Plant and fungal AdoMet homocysteine S-methyltransferases (EC 2.1.1.10).
+
+The Hcy-binding  domain  utilizes a Zn(Cys)3 cluster to bind and activate Hcy.
+It has  been  shown  to  form a (beta/alpha)8 barrel (see <PDB:1Q7Z>). The Hcy
+binding domain  barrel  is  distorted to form the metal- and substrate-binding
+sites. To accommodate the substrate, strands 1 and 2 of the barrel are loosely
+joined by nonclassic hydrogen bonds; to accommodate the metal, strands 6 and 8
+are drawn  together  and  strand 7 is extruded from the end of the barrel. The
+cysteines ligating  the catalytic zinc atom are located at the C-terminal ends
+of strands 6 and 8 [1,2].
+
+The profile we developed covers the entire Hcy domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2005 / Text revised.
+
+[ 1] Evans J.C., Huddler D.P., Jiracek J., Castro C., Millian N.S.,
+     Garrow T.A., Ludwig M.L.
+     "Betaine-homocysteine methyltransferase: zinc in a distorted barrel."
+     Structure 10:1159-1171(2002).
+     PubMed=12220488
+[ 2] Evans J.C., Huddler D.P., Hilgers M.T., Romanchuk G., Matthews R.G.,
+     Ludwig M.L.
+     "Structures of the N-terminal modules imply large domain motions
+     during catalysis by methionine synthase."
+     Proc. Natl. Acad. Sci. U.S.A. 101:3729-3736(2004).
+     PubMed=14752199; DOI=10.1073/pnas.0308082100
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

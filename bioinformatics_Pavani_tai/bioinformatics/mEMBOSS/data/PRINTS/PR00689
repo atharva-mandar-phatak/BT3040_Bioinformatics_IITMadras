@@ -1,0 +1,27 @@
+ACOABINDINGP
+Acyl-CoA-binding protein (ACBP) is a small (10 Kd) protein that binds medium-
+and long-chain acyl-CoA esters with high affinity, and may act as an intra-
+cellular carrier of acyl-CoA esters. ACBP has a number of important
+physiological and biochemical functions: it is known as a diazepam binding
+inhibitor, as a putative neurotransmitter, as a regulator of insulin
+release from pancreatic cells, and as a mediator in corticotropin-dependent
+adrenal steroidogenesis [1,2]. It is possible that the protein acts as a
+neuropeptide that takes part in the modulation of gamma-aminobutyric
+acid-ergic transmission [1].
+
+The structure of ACBP has been deduced by NMR spectroscopy and has been
+shown to be a mainly-alpha protein, consisting of 5 short alpha-helices
+and 3 connecting beta-strands [2].
+
+ACOABINDINGP is a 4-element fingerprint that provides a signature for
+acyl-CoA-binding proteins. The fingerprint was derived from an initial
+alignment of 15 sequences: the motifs were drawn from conserved regions
+spanning the full alignment length - motif spans helix 1 and most of the
+first loop; motif 2 encodes helix 2 and corresponds to the region
+encoded by PROSITE pattern ACBP (PS00880); motif 3 spans part of the 
+second loop, helix 3 and the N-terminal portion of helix 4; and motif 4
+spans helix 5. Two iterations on OWL29.2 were required to reach convergence,
+at which point a true set comprising 22 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 21 sequences, and 3
+partial matches.

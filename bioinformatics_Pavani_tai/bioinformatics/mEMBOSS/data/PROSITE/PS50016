@@ -1,0 +1,103 @@
+**********************************************
+* Zinc finger PHD-type signature and profile *
+**********************************************
+
+The  Plant  Homeodomain  (PHD)  type  zinc  finger  (C4HC3) [1,E1] is found in
+nuclear  proteins thought to be involved in chromatin-mediated transcriptional
+regulation.  The  PHD  finger  motif  is reminiscent of, but distinct from the
+C3HC4-type RING finger. A general function of the PHD finger is not yet known,
+but in  the CREB-binding protein (CBP) it is an integral part of the enzymatic
+core of  the  acetyltransferase    domain and is also a key contributor to the
+transcriptional activity of CBP.
+
+The 3D   structure  of  Williams-Beuren  Syndrome  transcription  factor  (see
+<PDB:1F62>) reveals  that  the  PHD  finger coordinates two atoms of zinc in a
+cross-braced manner [2]. This atypical conformation is also shared by the FYVE
+(see <PDOC50178>  and  RING  fingers (see <PDOC00449>). The two zinc sites are
+located at opposite ends of a short beta-sheet. This feature is also shared by
+the RING  finger  and  the  FYVE  domain,  but  the  structure  differ  in the
+surrounding loops  that  vary  significantly  in length and sequence and could
+explain the wide variety of functions between these three domains.
+
+Single or multiple PHD fingers are found in the following proteins:
+
+ - Drosophila trithorax protein and the homologous mammalian protein HRX (also
+   known  as  ALL1,  MLL and  Htrx). The trithorax gene is required for proper
+   regulation of  the homeotic genes in flies [3]. The HRX gene is involved in
+   translocations  in  acute  lymphoblastic  leukemia.  Trithorax  has  4  PHD
+   fingers. The most C-terminal one in HRX is degenerated.
+ - Drosophila   Polycomblike,  a  protein  encoded  by a Polycomb-group  gene.
+   Polycomblike  and the   Polycomb-group   genes  are  required  for  correct
+   regulation  of the homeotic  genes  in flies.  These genes  counteract  the
+   effects  of the  trithorax-group  genes  presumably by creating an inactive
+   chromatin structure [4]. Polycomblike has 2 PHD fingers.
+ - Human Xe169 and murine Smcx, proteins encoded by X-linked genes that escape
+   X-chromosome  inactivation.  Murine Smcy is a related gene on the Y chromo-
+   some. Xe169 has 2 PHD fingers.
+ - Human RBP2, a Xe169-related protein thought to bind to the Rb protein.
+ - Human  Br140  (also  known  as  peregrin),  a  protein  which  also  has  a
+   bromodomain.
+ - Medicago sativa Alfin-1, a presumptive transcription factor.
+ - A  group  of  plant homeobox-containg proteins such as Arabidopsis HAT3 and
+   PRHA, maize ZMHOX1a, parsley PRHP.
+ - Human Mi-2 autoantigen.
+ - Drosophila shuttle craft protein.
+ - Human BS69, a protein that binds adenovirus E1A.
+ - Murine CBP  (CREB-binding protein),  the  closely related human E1A binding
+   protein p300, and YNJ1, a related protein from C.elegans
+ - Mammalian zinc-finger protein of the 'requiem' family.
+ - Human TIF1, a putative transcriptional mediator for nuclear receptors.
+
+The consensus pattern we developped start at the first cysteine and end at the
+last one, whereas the profile we developed spans the complete domain.
+
+-Consensus pattern: C-x(1,2)-C-x(5,45)-[VMFLWIE]-x-C-x(1,4)-C-x(1,4)-
+                    [WYFVQHLT]-H-x(2)-C-x(5,45)-[WFLYI]-x-C-x(2)-C
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL,  except
+ for shuttle craft protein.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: The  spacing between  cysteines in the PHD finger is closely related to
+ that in the RING finger. Discrimination between these two domains with either
+ a  pattern  or a  profile  is  therefore difficult, and some rare domains are
+ recognized by both the RING and PHD descriptors.
+
+-Expert(s) to contact by email:
+           Aasland R.; aasland@mbi.uib.no
+
+-Last update: May 2002 / First entry.
+
+[ 1] Aasland R., Gibson T.J., Stewart A.F.
+     "The PHD finger: implications for chromatin-mediated transcriptional
+     regulation."
+     Trends Biochem. Sci. 20:56-59(1995).
+     PubMed=7701562
+[ 2] Pascual J., Martinez-Yamout M., Dyson H.J., Wright P.E.
+     "Structure of the PHD zinc finger from human Williams-Beuren syndrome
+     transcription factor."
+     J. Mol. Biol. 304:723-729(2000).
+     PubMed=11124022; DOI=10.1006/jmbi.2000.4308
+[ 3] Kennison J.A.
+     "Transcriptional activation of Drosophila homeotic genes from distant
+     regulatory elements."
+     Trends Genet. 9:75-79(1993).
+     PubMed=8098166
+[ 4] Paro R.
+     "Mechanisms of heritable gene repression during development of
+     Drosophila."
+     Curr. Opin. Cell Biol. 5:999-1005(1993).
+     PubMed=7907493
+[E1] http://www.uib.no/aasland/phd/PHD-finger.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

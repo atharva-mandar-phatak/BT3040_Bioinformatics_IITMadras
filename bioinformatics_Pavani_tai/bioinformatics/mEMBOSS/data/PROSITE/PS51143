@@ -1,0 +1,65 @@
+******************************
+* MT-A70-like family profile *
+******************************
+
+N6-methyladenosine (m6A)  is  present at internal sites in eukaryotic mRNA. It
+is present  only  within  a defined sequence context that has been shown to be
+conserved across  species  from  plants  to  man.  Despite  its  ubiquity  and
+conserved sequence   specificity,   the   functional   significance   of  this
+modification remains a mystery [1,2].
+
+MT-A70 is   the   S-adenosylmethionine-binding  subunit  of  human  mRNA  [N6-
+adenosine]-methyltransferase (MTase),  an  enzyme  that  sequence-specifically
+methylates adenines  in pre-mRNAs. Proteins with sequence similarity to MT-A70
+have been  identified  in  eukaryotes and prokaryotes. The resulting family is
+defined by  sequence  similarity  in  the  carboxyl-proximal  regions  of  the
+respective proteins. The amino-proximal regions of the eukaryotic proteins are
+highly diverse,  often  Pro-rich,  and  are  conserved  only within individual
+subfamilies [2].  Corresponding regions are not present in prokaryotic members
+of the  family. MT-A70-like proteins contain examples of some of the consensus
+methyltransferase motifs that have been derived from mutational and structural
+studies of   bacterial   DNA  methyltransferases,  including  the  universally
+conserved motif  IV catalytic residues and a proposed motif I (AdoMet binding)
+element [1].  The  MT-A70-like  family comprises four subfamilies with varying
+degrees of  interrelatedness. One subfamily is a small group of bacterial DNA:
+m6A MTases.  The  other three are paralogous eukaryotic lineages, two of which
+have not  been  associated  with  MTase  activity  but  include  proteins that
+regulate mRNA   levels   via   unknown  mechanisms  apparently  not  involving
+methylation [1].
+
+Some proteins known to belong to the MT-A70-like family are listed below:
+
+ - Human N6-adenosine-methyltransferase 70 kDa subunit (MT-A70) (EC 2.1.1.62).
+ - Yeast N6-adenosine-methyltransferase IME4 (EC 2.1.1.62), which is important
+   for induction of sporulation.
+ - Yeast  karyogamy  protein KAR4, a phosphoprotein required for expression of
+   karyogamy-specific genes  during  mating.  It  also acts during mitosis and
+   meiosis. It has been suggested that KAR4 is inactive for methyltransfer and
+   may not even bind AdoMet.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2005 / First entry.
+
+[ 1] Bujnicki J.M., Feder M., Radlinska M., Blumenthal R.M.
+     "Structure prediction and phylogenetic analysis of a functionally
+     diverse family of proteins homologous to the MT-A70 subunit of the
+     human mRNA:m(6)A methyltransferase."
+     J. Mol. Evol. 55:431-444(2002).
+     PubMed=12355263; DOI=10.1007/s00239-002-2339-8
+[ 2] Clancy M.J., Shambaugh M.E., Timpte C.S., Bokar J.A.
+     "Induction of sporulation in Saccharomyces cerevisiae leads to the
+     formation of N6-methyladenosine in mRNA: a potential mechanism for the
+     activity of the IME4 gene."
+     Nucleic Acids Res. 30:4509-4518(2002).
+     PubMed=12384598
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

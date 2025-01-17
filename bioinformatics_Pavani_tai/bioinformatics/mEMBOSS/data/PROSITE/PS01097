@@ -1,0 +1,39 @@
+****************************************************************
+* Hydrogenases expression/synthesis hupF/hypC family signature *
+****************************************************************
+
+Bacterial membrane-bound  nickel-dependent  hydrogenases  require  a number of
+gene products for their  expression  and/or synthesis [1].  Among these genes,
+there is a  group that  codes  for  a family of small proteins (from 80 to 110
+residues). The proteins that are known to belong to this family are:
+
+ - Alcaligenes eutrophus and Azotobacter vinelandii hoxL and hypC.
+ - Rhizobium leguminosarum and Rhodobacter capsulatus hupF and hypC.
+ - Escherichia coli hypC and hybG.
+ - Methanococcus jannaschii hypothetical protein MJ0200.
+
+All these proteins start with a conserved Met-Cys dipeptide.
+
+-Consensus pattern: <M-C-[LIV]-[GA]-[LIV]-P-x-[QKR]-[LIV]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for B.japonicum hupF.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Colbeau A., Richaud P., Toussaint B., Caballero F.J., Elster C.,
+     Delphin C., Smith R.L., Chabert J., Vignais P.M.
+     "Organization of the genes necessary for hydrogenase expression in
+     Rhodobacter capsulatus. Sequence analysis and identification of two
+     hyp regulatory mutants."
+     Mol. Microbiol. 8:15-29(1993).
+     PubMed=8497190
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,18 @@
+SALVRPPROT
+Salmonella typhimurium contains a 90kb plasmid that is associated with
+virulence [1]. This plasmid encodes at least 6 genes needed by the 
+bacterium for invading host macrophages during infection. These include 
+the 70kDa mkaA protein [1], a recognised virulence factor.
+
+Deletion studies into the virulence plasmid have shown that an open reading
+frame encoding a 28kDa protein was needed for successful invasion of the 
+host. This protein, designated mkfA [1], VRP4 [2] or VirA [3] by different
+groups, is utilised by the microbe upon entry into macrophages, although the
+exact mechanism is unclear.  
+
+SALVRPPROT is a 4-element fingerprint that provides a signature for the
+Salmonella virulence-associated 28kDa protein family. The fingerprint was
+derived from an initial alignment of 2 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length (~250 amino 
+acids). Two iterations on SPTR37_10f were required to reach convergence, 
+at which point a true set comprising 4 sequences was identified.

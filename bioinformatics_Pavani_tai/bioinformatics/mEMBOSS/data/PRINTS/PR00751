@@ -1,0 +1,45 @@
+THYROLIBRINR
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Thyrotrophin-releasing hormone (thyroliberin) (TRH) stimulates synthesis
+and release of thyroid-stimulating hormone in the anterior pituitary [6].
+It also stimulates synthesis and release of prolactin. In the CNS, TRH 
+stimulates a number of behavioural and pharmacological actions, including
+increased turnover of catecholamines in the nucleus accumbens [6]. TRH
+receptors are found in high levels in the anterior pituitary, and are also
+found in the retina and in certain areas of the brain [6]. The receptors
+activate phosphoinositide metabolism through a pertussis-toxin-insensitive
+G protein, probably of the Gq/G11 class [6].
+
+THYROLIBRINR is an 11-element fingerprint that provides a signature for
+thyrotrophin-releasing hormone receptors. The fingerprint was derived from
+an initial alignment of 6 sequences: the motifs were drawn from conserved
+sections within either loop or TM regions, focusing on those areas of the
+alignment that characterise the TRH receptors but distinguish them from
+the rest of the rhodopsin-like superfamily - motifs 1 and 2 span the
+N-terminus; motif 3 spans the first external loop; motif 4 spans the second
+external loop; motif 5 lies in the second external loop; motif 6 lies at
+the N-terminus of TM domain 5; motifs 7 and 8 lie in the third cytoplasmic
+loop; motif 9 lies in the third external loop; and motifs 10 and 11 lie at
+the C-terminus. A single iteration on OWL29.4 was required to reach
+convergence, no further sequences being identified beyond the starting set.
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 3
+partial matches.

@@ -1,0 +1,26 @@
+CUDAOXIDASE
+Amiloride binding protein (ABP) is found in a variety of epithelium-rich 
+and hematopoietic tissues [1]. The protein binds amiloride and some of its
+derivatives, including phenamil, benzamil and ethylpropylamiloride [1,2].
+ABP has diamine oxidase (DAO) activity, catalysing the degradation of 
+compounds such as putrescine, histamine, spermine and spermidine [1];
+these substances are involved in a range of activities, including allergic
+and immune responses, cell proliferation, tissue differentiation, tumour
+formation and possibly apoptosis. Placental DAO is thought to play a role
+in the regulation of female reproductive function [2].
+
+The protein acts as a disulphide-linked homodimer. The catalysed reaction, 
+RCH(2)NH(2) + H(2)O + O(2) = RCHO + NH(3) + H(2)O(2), requires copper and 
+topaquinone as cofactors.
+
+CUDAOXIDASE is a 7-element fingerprint that provides a signature for
+copper-containing diamine oxidases. The fingerprint was derived from an
+initial alignment of 4 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif VII contains
+the putative amiloride-binding aspartate and a potential copper-binding
+histidine residue. Two iterations on OWL29.4 were required to reach 
+convergence, at which point a true set comprising 7 sequences was
+identified. A single partial match was found, RNU72632, a rat membrane
+amine oxidase N-terminal fragment.
+
+An update on SPTR37_9f identified a true set of 9 sequences.

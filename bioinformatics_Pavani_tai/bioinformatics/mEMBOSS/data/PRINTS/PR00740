@@ -1,0 +1,29 @@
+GLHYDRLASE27
+O-Glycosyl hydrolases (EC 3.2.1.-) are a widespread group of enzymes that
+hydrolyse the glycosidic bond between two or more carbohydrates, or between
+a carbohydrate and a non-carbohydrate moiety. A classification system for
+glycosyl hydrolases, based on sequence similarity, has led to the definition
+of up to 60 different families [1-4] (http://expasy.hcuge.ch/cgi-bin/lists?
+glycosid.txt). Family 27 encompasses alpha-galactosidases and alpha-N-
+acetylgalactosaminidases.
+
+Alpha-galactosidase (melibiase) catalyses the hydrolysis of melibiose into
+galactose and glucose [5]. In man, deficiency in the enzyme results in
+Fabry's disease (X-linked sphingolipidosis). Alpha-N-acetylgalactosaminidase
+catalyses the hydrolysis of terminal non-reducing N-acetyl-D-galactosamine
+residues in N-acetyl-alpha-D-galactosaminides [6]. Deficiency in this enzyme 
+results in Schindler and Kanzaki diseases. 
+
+GLHYDRLASE27 is a 7-element fingerprint that provides a signature for
+family 27 glycosyl hydrolases. The fingerprint was derived from an initial
+alignment of 9 sequences: the motifs were drawn from conserved regions 
+spanning the first two-thirds of the alignment - motif 2 includes the
+region encoded by PROSITE pattern ALPHA_GALACTOSIDASE (PS00512), which
+contains two conserved Asp residues that may be involved in the catalytic
+mechanism. Two iterations on OWL29.3 were required to reach convergence,
+at which point a true set comprising 22 sequences was identified. A single
+partial match was found, S74222, an alpha-galactosidase that matches motifs
+3 and 4.
+
+An update on SPTR37_9f identified a true set of 20 sequences, and 1
+partial match.

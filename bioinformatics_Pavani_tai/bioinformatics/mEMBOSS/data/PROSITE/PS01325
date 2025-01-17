@@ -1,0 +1,41 @@
+*******************************
+* Lysyl hydroxylase signature *
+*******************************
+
+Lysyl hydroxylase  (EC  1.14.11.4)  [1]  catalyzes the hydroxylation of lysine
+residues in  X-Lys-Gly  sequences  in  collagens. The resulting hydroxylysines
+serve as  sites of attachment for carbohydrate units and are essential for the
+stability of the intermolecular collagen crosslinks.
+
+At least three isoforms of the enzyme are known in vertebrates.
+
+The enzyme  requires  iron,  2-oxoglutarate,  oxygen  and  ascorbate  for  its
+activity. Three  residues,  two histidine and an aspartate, are inolved in the
+binding of  the  iron  ion [2]. As a signature pattern we selected a conserved
+region that contains two of these iron-binding ligands.
+
+-Consensus pattern: P-H-H-D-[SA]-S-T-F
+                    [The first H and the D are iron ligands]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: July 1999 / First entry.
+
+[ 1] Kivirikko K.I., Myllylae R., Pihlajaniemi T.
+     (In) Post-translational modifications of proteins, Crabbe M.C.,
+     Harding J., Eds., pp 1-51, CRC Press, Boca Raton, (1991).
+[ 2] Pirskanen A., Kaimio A.M., Myllylae R., Kivirikko K.I.
+     "Site-directed mutagenesis of human lysyl hydroxylase expressed in
+     insect cells. Identification of histidine residues and an aspartic
+     acid residue critical for catalytic activity."
+     J. Biol. Chem. 271:9398-9402(1996).
+     PubMed=8621606;
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

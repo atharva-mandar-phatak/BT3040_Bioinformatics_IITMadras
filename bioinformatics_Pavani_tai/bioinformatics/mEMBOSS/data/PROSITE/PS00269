@@ -1,0 +1,73 @@
+*********************************
+* Mammalian defensins signature *
+*********************************
+
+Defensins [1   to   5],  also  known  as  alpha-defensins,  are  a  family  of
+structurally related  cysteine-rich peptides active against many Gram-negative
+and Gram-positive bacteria, fungi, and enveloped  viruses.  Some defensins are
+also called corticostatins (CS) because they inhibit  corticotropin-stimulated
+corticosteroid production.  Defensins kills cells by forming voltage-regulated
+multimeric channels   in   the   susceptible  cell's  membrane.  They  play  a
+significant role in innate immunity  to  infection and neoplasia. The peptides
+known to belong to this family are listed below.
+
+ - Rabbit defensins and  corticostatins:  CS-I (NP-3A),  CS-II (NP-3B), CS-III
+   (MCP-1), CS-IV (MCP-2), NP-4, and NP-5.
+ - Guinea-pig neutrophil defensin (GPNP).
+ - Human neutrophil defensins 1 to 4 and intestinal defensins 5 and 6.
+ - Mouse small bowel cryptdins 1 to 5.
+ - Rat NP-1 to NP-4.
+
+All these peptides range in length from 29 to 35 amino acids.  There are seven
+invariant  residues,  including   six  cysteines  all  involved  in intrachain
+disulfide bonds.     A schematic  representation of peptides from the defensin
+family is shown below.
+
+                  +----------------------------+
+                  |****************************|
+                xxCxCxxxxxCxxxxxxxGxCxxxxxxxxxCCxx
+                    |     |         |         |
+                    +-----|---------+         |
+                          +-------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+Our pattern is based on the conserved residues.
+
+-Consensus pattern: C-x-C-x(3,5)-C-x(7)-G-x-C-x(9)-C-C
+                    [The 6 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for mouse cryptdin 4.
+-Other sequence(s) detected in Swiss-Prot: 1.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Lehrer R.I., Ganz T., Selsted M.E.
+     ASM News 56:315-318(1990).
+[ 2] Lehrer R.I., Ganz T., Selsted M.E.
+     "Defensins: endogenous antibiotic peptides of animal cells."
+     Cell 64:229-230(1991).
+     PubMed=1988144
+[ 3] Kagan B.L., Ganz T., Lehrer R.I.
+     "Defensins: a family of antimicrobial and cytotoxic peptides."
+     Toxicology 87:131-149(1994).
+     PubMed=7512758
+[ 4] Lehrer R.I., Lichtenstein A.K., Ganz T.
+     "Defensins: antimicrobial and cytotoxic peptides of mammalian cells."
+     Annu. Rev. Immunol. 11:105-128(1993).
+     PubMed=8476558; DOI=10.1146/annurev.iy.11.040193.000541
+[ 5] White S.H., Wimley W.C., Selsted M.E.
+     "Structure, function, and membrane integration of defensins."
+     Curr. Opin. Struct. Biol. 5:521-527(1995).
+     PubMed=8528769
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

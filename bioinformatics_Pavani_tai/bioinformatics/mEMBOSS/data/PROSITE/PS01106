@@ -1,0 +1,37 @@
+************************************
+* Ribosomal protein L18e signature *
+************************************
+
+A number of eukaryotic  and  archaebacterial ribosomal proteins can be grouped
+on the basis of sequence similarities. One of these families consists of:
+
+ - Vertebrate L18 (known as L14 in Xenopus) [1].
+ - Plant L18.
+ - Yeast L18 (Rp28).
+ - Halobacterium marismortui Hl29.
+ - Sulfolobus acidocaldarius Hl29e.
+
+These proteins have 115 to 187 amino-acid residues. As a signature pattern, we
+selected a stretch of about 13 residues in the first third of these proteins.
+
+-Consensus pattern: [KREWDI]-x-L-x(2)-[PSRG]-[KRS]-x(2)-[RHY]-[PSA]-x-[LIVM]-
+                    [NSA]-[LIVM]-x-[RK]-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Puder M., Barnard G.F., Staniunas R.J., Steele G.D. Jr., Chen L.B.
+     "Nucleotide and deduced amino acid sequence of human ribosomal protein
+     L18."
+     Biochim. Biophys. Acta 1216:134-136(1993).
+     PubMed=8218404
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

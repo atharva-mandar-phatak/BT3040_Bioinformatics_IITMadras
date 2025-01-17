@@ -1,0 +1,42 @@
+RABGDIREP
+Rab proteins constitute a family of small GTPases that serve a regulatory
+role in vesicular membrane traffic [1,2]; C-terminal geranylgeranylation is
+crucial for their membrane association and function. This post-translational
+modification is catalysed by Rab geranylgeranyl transferase (Rab-GGTase), a 
+multi-subunit enzyme that contains a catalytic heterodimer and an accessory
+component, termed Rab escort protein (REP)-1 [1]. REP-1 presents newly-
+synthesised Rab proteins to the catalytic component, and forms a stable
+complex with the prenylated proteins following the transfer reaction. 
+
+The mechanism of REP-1-mediated membrane association of Rab5 is similar
+to that mediated by Rab GDP dissociation inhibitor (GDI). REP-1 and Rab GDI 
+also share other functional properties, including the ability to inhibit the
+release of GDP and to remove Rab proteins from membranes. 
+
+The crystal structure of the bovine alpha-isoform of Rab GDI has been
+determined to a resolution of 1.81A [3]. The protein is composed of two
+main structural units: a large complex multi-sheet domain I, and a smaller
+alpha-helical domain II.
+
+The structural organisation of domain I is closely related to FAD-containing
+monooxygenases and oxidases [3]. Conserved regions common to GDI and the
+choroideraemia gene product, which delivers Rab to catalytic subunits of
+Rab geranylgeranyltransferase II, are clustered on one face of the domain
+[2]. The two most conserved regions form a compact structure at the apex of
+the molecule; site-directed mutagenesis has shown these regions to play a
+critical role in the binding of Rab proteins [3].
+
+RABGDIREP is a 7-element fingerprint that provides a signature for the 
+Rab GDI/REP family. The fingerprint was derived from an initial alignment
+of 8 sequences: the motifs were drawn from short conserved regions spanning
+the N-terminal half of the alignment - motif 1 spans strand 1 and helix 1;
+motif 2 includes the second strand; motif 3 spans helix 4 and strands 4 and
+5; motif 4 spans helices 5 and 6, and strand 6; motif 5 encodes helix 8; 
+motif 6 spans the C-terminus of helix 13, helix 14 and strand 8; and motif
+7 encompasses helix 15 and strand 9. Two iterations on OWL30.2 were required
+to reach convergence, at which point a true set comprising 27 sequences was
+identified. Three partial matches were also found (YSCMRS6A, GDIA_MOUSE and
+A41937), all of which are fragments. 
+
+An update on SPTR37_9f identified a true set of 28 sequences, and 1
+partial match.

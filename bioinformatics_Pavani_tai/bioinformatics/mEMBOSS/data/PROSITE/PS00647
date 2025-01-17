@@ -1,0 +1,53 @@
+****************************************************************
+* Thymidine and pyrimidine-nucleoside phosphorylases signature *
+****************************************************************
+
+Thymidine phosphorylase (EC 2.4.2.4) catalyzes  the  reversible phosphorolysis
+of thymidine, deoxyuridine and  their  analogues to their respective bases and
+2-deoxyribose 1-phosphate. This enzyme regulates the availability of thymidine
+and is therefore essential to nucleic acid metabolism.
+
+In Escherichia coli (gene deoA), the  enzyme  is a dimer of identical subunits
+of about  48  Kd  [1].  In  humans it was first identified as platelet-derived
+endothelial  cell  growth  factor  (PD-ECGF)  before  being  recognized [2] as
+thymidine phosphorylase.
+
+Bacterial pyrimidine-nucleoside  phosphorylase  (EC 2.4.2.2) (gene pdp) [3] is
+an enzyme evolutionary and structurally related to thymidine phosphorylase.
+
+As a  signature pattern for these enzymes, we selected a well conserved region
+of 19 residues located in the N-terminal part of these proteins.
+
+-Consensus pattern: [SA]-[GS]-R-[GA]-[LIV]-x(2)-[TAP]-[GAS]-G-T-x-D-x-[LIVMF]-
+                    [EDS]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Walter M.R., Cook W.J., Cole L.B., Short S.A., Koszalka G.W.,
+     Krenitsky T.A., Ealick S.E.
+     "Three-dimensional structure of thymidine phosphorylase from
+     Escherichia coli at 2.8 A resolution."
+     J. Biol. Chem. 265:14016-14022(1990).
+     PubMed=2199449
+[ 2] Furukawa T., Yoshimura A., Sumizawa T., Haraguchi M., Akiyama S.-I.,
+     Fukui K., Ishizawa M., Yamada Y.
+     "Angiogenic factor."
+     Nature 356:668-668(1992).
+     PubMed=1570012; DOI=10.1038/356668a0
+[ 3] Saxild H.H., Andersen L.N., Hammer K.
+     "Dra-nupC-pdp operon of Bacillus subtilis: nucleotide sequence,
+     induction by deoxyribonucleosides, and transcriptional regulation by
+     the deoR-encoded DeoR repressor protein."
+     J. Bacteriol. 178:424-434(1996).
+     PubMed=8550462
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

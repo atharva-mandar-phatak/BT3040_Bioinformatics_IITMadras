@@ -1,0 +1,27 @@
+PHPHLIPASEA1
+Phospholipases are moieties that allow the generation of secondary 
+messengers for cellular signalling processes, such as diacylglycerols and
+inositol triphosphate. They are classified according to the specific 
+cleavage site of their target phospholipid [1]. Several types exist in 
+different organisms, including prokaryotes [1].
+
+Bacterial phospholipase A1 has attracted some attention as it is expressed 
+in enterobacterial pathogens, such as Escherichia coli and Salmonella
+typhimurium, and is one of the few enzymes situated in the outer membrane 
+[2]. It is speculated that this protein, termed OMPLA (Outer Membrane 
+PhosphoLipase A), may play roles in pathogenicity and maintenance of the
+cell envelope integrity [2]. Its function is tightly regulated to prevent 
+uncontrolled breakdown of the surrounding phospholipids in the plasma 
+membrane [2]. The activity of OMPLA is also heavily dependent on calcium,
+and the protein must dimerise before its main function (bacteriocin 
+secretion) can take place [3].
+
+PHPHLIPASEA1 is an 8-element fingerprint that provides a signature for 
+the bacterial phospholipase A protein family. The fingerprint was derived 
+from an initial alignment of 3 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length (~320 amino
+acids) - motif 4 contains the active site serine. Two iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 8 sequences was identified. A single partial match was also
+found, O25241, a Campylobacter pylori phospholipase A1 precursor
+that matched motifs 6 and 8.

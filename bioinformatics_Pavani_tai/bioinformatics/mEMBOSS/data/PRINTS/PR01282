@@ -1,0 +1,57 @@
+COUPTNFACTOR
+Steroid or nuclear hormone receptors (NRs) constitute an important super-
+family of transcription regulators that are involved in widely diverse 
+physiological functions, including control of embryonic development, cell
+differentiation and homeostasis [1]. Members of the superfamily include the
+steroid hormone receptors and receptors for thyroid hormone, retinoids, 
+1,25-dihydroxy-vitamin D3 and a variety of other ligands. The proteins 
+function as dimeric molecules in nuclei to regulate the transcription of 
+target genes in a ligand-responsive manner [2,3]. In addition to C-terminal
+ligand-binding domains, these nuclear receptors contain a highly-conserved,
+N-terminal zinc-finger that mediates specific binding to target DNA 
+sequences, termed ligand-responsive elements. In the absence of ligand,
+steroid hormone receptors are thought to be weakly associated with nuclear
+components; hormone binding greatly increases receptor affinity.
+
+NRs are extremely important in medical research, a large number of them
+being implicated in diseases such as cancer, diabetes, hormone resistance
+syndromes, etc. [1]. While several NRs act as ligand-inducible transcription
+factors, many do not yet have a defined ligand and are accordingly termed 
+"orphan" receptors. During the last decade, more than 300 NRs have been
+described, many of which are orphans, which cannot easily be named due to 
+current nomenclature confusions in the literature. However, a new system 
+has recently been introduced in an attempt to rationalise the increasingly 
+complex set of names used to describe superfamily members [1].
+
+Chicken ovalbumin upstream promoter-transcription factor (COUP-TF) genes
+encode transcription factors that belong to the orphan group of the
+steroid/thyroid hormone receptor superfamily [4]. COUP-TF binds to the
+ovalbumin promoter and, in conjunction with the S300-II protein, stimulates
+initiation of transcription. The protein binds to both direct repeats and
+palindromes of the 5'-AGGTCA-3' motif.
+
+Murine homologues of members of the COUP-TF family, COUP-TF1, ARP-1 and 
+EAR2, have been isolated and shown to be highly similar to their human
+counterparts [5]. Although these three genes appear to be expressed in
+tissues derived from all three germ layers, COUP-TF1 and ARP-1 have been
+found to be expressed predominantly in the developing central nervous 
+system in mutually exclusive domains [5]. Strong ARP-1 expression has
+also been detected in lung and kidney [5]. Results from such studies
+suggest an important role for the members of the COUP-TF family in the 
+hormonal control of gene expression regulating embryogenesis, and in the
+development and differentiation of the CNS, including the specification
+of diencephalic neuromeres [4].
+
+COUPTNFACTOR is a 9-element fingerprint that provides a signature for 
+the COUP-related transcription factor family. The fingerprint was derived
+from an initial alignment of 7 sequences: the motifs were drawn from 
+conserved regions spanning virtually the full alignment length, focusing on
+those sections that characterise the COUP-related nuclear receptors but
+distinguish them from the rest of the steroid hormone receptor superfamily
+- motifs 1-8 span the putative ligand-binding domain; and motifs 7-9 reside
+within the putative dimerisation domain. Two iterations on SPTR37_10f were
+required to reach convergence, at which point a true set comprising 15 
+sequences was identified. Several partial matches were also found: 
+7UP2_DROME is a Drosophila seven-up type 2 steroid receptor that fails to
+match the C-terminal motifs; O96680 and Q9YGL3 are related sequences that
+match only 2 motifs.

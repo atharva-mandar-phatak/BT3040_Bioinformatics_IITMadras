@@ -1,0 +1,53 @@
+***********************
+* DUSP domain profile *
+***********************
+
+Deubiquitinating enzymes  (DUB)  form a large family of cysteine protease that
+can deconjugate  ubiquitin  or  ubiquitin-like proteins (see <PDOC00271>) from
+ubiquitin-conjugated proteins.  All DUBs contain a catalytic domain surrounded
+by one or more subdomains, some of which contribute to target recognition. The
+~120-residue DUSP  (domain  present in ubiquitin-specific proteases) domain is
+one of  these  specific  subdomains. Single or tandem DUSP domains are located
+both N- and C-terminal  to the ubiquitin carboxyl-terminal hydrolase catalytic
+core domain (see <PDOC00750>) [1].
+
+The DUSP  domain displays a tripod-like AB3 fold with a three-helix bundle and
+a three-stranded anti-parallel beta-sheet ressembling the legs and seat of the
+tripod (see  <PDB:1W6V>).  Conserved  residues  are  predominantly involved in
+hydrophobic packing  interactions  within  the  three  alpha-helices. The most
+conserved DUSP residues, forming the PGPI motif, are flanked by two long loops
+that vary both in length and sequence. The PGPI motif packs against the three-
+helix bundle and is highly ordered [1].
+
+Some proteins known to contain a DUSP domain are listed below:
+
+ - Mammalian ubiquitin carboxyl-terminal hydrolase 4 (USP4) (EC 3.1.2.15).
+ - Mammalian ubiquitin carboxyl-terminal hydrolase 11 (USP11) (EC 3.1.2.15).
+ - Mammalian ubiquitin carboxyl-terminal hydrolase 15 (USP15) (EC 3.1.2.15).
+ - Mammalian ubiquitin carboxyl-terminal hydrolase 20 (USP20) (EC 3.1.2.15).
+ - Mammalian ubiquitin carboxyl-terminal hydrolase 32 (USP32) (EC 3.1.2.15).
+ - Vertebrate ubiquitin carboxyl-terminal hydrolase 33 (USP33) (EC 3.1.2.15).
+ - Vertebrate ubiquitin carboxyl-terminal hydrolase 48 (USP48) (EC 3.1.2.15).
+
+The profile we developed covers the entire DUSP domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2006 / First entry.
+
+[ 1] de Jong R.N., AB E., Diercks T., Truffault V., Daniels M., Kaptein R.,
+     Folkers G.E.
+     "Solution structure of the human ubiquitin-specific protease 15 DUSP
+     domain."
+     J. Biol. Chem. 281:5026-5031(2006).
+     PubMed=16298993; DOI=10.1074/jbc.M510993200
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

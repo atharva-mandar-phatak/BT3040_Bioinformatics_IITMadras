@@ -1,0 +1,21 @@
+BROMODOMAIN
+The bromo domain is a conserved sequence motif of around 70 residues found
+in a variety of mammalian, invertebrate and yeast DNA-binding proteins
+[1-3]. In some proteins, the classical bromo domain has diverged to such an
+extent that parts of the region are either missing or contain an insertion
+(e.g., mammalian protein HRX, C.elegans hypothetical protein ZK783.4, yeast
+protein YTA7). The bromo domain may occur as a single copy, or in duplicate.
+The precise function of the domain is unclear, but it may be involved in
+protein-protein interactions and may play a role in assembly or activity
+of multi-component complexes involved in transcriptional activation.
+
+BROMODOMAIN is a 4-element fingerprint that provides a signature for the
+bromo domain. The fingerprint was derived from an initial alignment of 9
+sequences: the motifs were drawn from short conserved regions spanning
+the full domain length and correspond to the region encoded by PROSITE
+pattern BROMODOMAIN_1 (PS00633). Two iterations on OWL27.1 were required
+to reach convergence, at which point a true set comprising 33 sequences
+was identified. Several partial matches were also found. 
+
+An update on SPTR37_9f identified a true set of 46 sequences, and 16
+partial matches.

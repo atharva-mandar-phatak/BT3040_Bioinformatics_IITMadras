@@ -1,0 +1,20 @@
+COLIPASE
+Colipase, a small protein cofactor from the exocrine pancreas, restores
+the activity of lipase on triacylglycerol substrates when these are covered
+in bile salts and phospholipids [1]: this is achieved possibly by anchoring
+the lipases to the bile salt-coated interfaces [2]. The protein is secreted
+as a propeptide, which is activated by intestinal trypsin-cleavage of a
+VPDPR pentapeptide, together with a C-terminal peptide [1]. It contains 10
+Cys residues, which create 5 disulphide bonds, and several tyrosines, which
+are thought to be involved in the interfacial binding.
+
+COLIPASE is a 4-element fingerprint that provides a signature for the
+colipases. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the full
+alignment length, motif 3 including the region encoded by PROSITE pattern
+COLIPASE (PS00121), which contains 3 Tyr residues implicated in inter-
+facial binding. Two iterations on OWL22.1 were required to reach
+convergence, at which point a true set comprising 7 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 6 sequences.

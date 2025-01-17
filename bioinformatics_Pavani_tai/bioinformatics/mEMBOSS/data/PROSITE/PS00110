@@ -1,0 +1,40 @@
+*****************************************
+* Pyruvate kinase active site signature *
+*****************************************
+
+Pyruvate kinase (EC 2.7.1.40) (PK) [1] catalyzes the final step in glycolysis,
+the conversion  of  phosphoenolpyruvate  to  pyruvate   with  the  concomitant
+phosphorylation of ADP to ATP.  PK requires  both magnesium and potassium ions
+for its activity.  PK is found in all  living organisms.  In vertebrates there
+are four, tissues  specific, isozymes:  L (liver),  R (red cells), M1 (muscle,
+heart, and brain), and M2 (early fetal tissues). In Escherichia coli there are
+two isozymes: PK-I (gene pykF) and PK-II (gene pykA).  All PK isozymes seem to
+be tetramers of identical subunits of about 500 amino acid residues.
+
+As a signature pattern for PK we  selected a  conserved region that includes a
+lysine residue which seems to be the acid/base  catalyst  responsible  for the
+interconversion  of  pyruvate and  enolpyruvate, and a  glutamic  acid residue
+implicated in the binding of the magnesium ion.
+
+-Consensus pattern: [LIVAC]-x-[LIVM](2)-[SAPCV]-K-[LIV]-E-[NKRST]-x-[DEQHS]-
+                    [GSTA]-[LIVM]
+                    [K is the active site residue]
+                    [E is a magnesium ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: 2.
+-Last update: July 1999 / Pattern and text revised.
+
+[ 1] Muirhead H.
+     "Isoenzymes of pyruvate kinase."
+     Biochem. Soc. Trans. 18:193-196(1990).
+     PubMed=2379684
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

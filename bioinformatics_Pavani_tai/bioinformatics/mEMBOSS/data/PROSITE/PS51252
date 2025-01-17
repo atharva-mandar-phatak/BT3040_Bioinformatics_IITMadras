@@ -1,0 +1,84 @@
+**********************************
+* Antistasin-like domain profile *
+**********************************
+
+Antistatin is  a  small,  disulphide  cross-linked  serine  protease inhibitor
+isolated from  the  salivary  glands  of  the  Mexican  leech.  It is a potent
+anticoagulant by virtue of its ability to inhibit factor Xa in the coagulation
+cascade. Antistatin   also  exhibits  a  strong  antimetastatic  activity.  It
+contains internal  repeats  of  a  25-26  amino  acid  sequence  with a highly
+conserved pattern  of  6  cysteine  (Cys)  and  2  glycine  residues [1]. Many
+metazoan proteins  share  sequence  homology with this antistasin-like domain.
+The unique  physical  properties  of these related Cys-rich proteins (protease
+resistance; heat,  chemical resilience) appear to stem from the common six Cys
+loop that is cross-linked by three disulfide bonds [2]. Disulfide linkages are
+between Cys1-Cys4, Cys2-Cys5, and Cys3-Cys6 [3,4].
+
+The antistasin-like domain consists of very short antiparallel beta-sheets and
+interacts with proteinases (see <PDB:1C9T>) [4].
+
+Some proteins known to contain a antistasin-like domain are listed below:
+
+ - Hydra magnipapillata (Hydra)	antistasin, a potent inhibitor of factor Xa.
+ - Haementeria  officinalis  (Mexican leech) antistasin, an anticoagulant that
+   displays proteolytic resistance.
+ - Haementeria  ghilianii  (Amazon  leech)  ghilanten,  a  potent inhibitor of
+   factor Xa.
+ - Hirudo medicinalis (Medicinal leech)	hirustasin, it acts as an inhibitor of
+   tissue kallikrein, trypsin, chymotrypsin and neutrophil cathepsin G.
+ - Hirudo  medicinalis  (Medicinal  leech) bdellastasin, a strong inhibitor of
+   mammalian trypsin, plasmin and acrosin.
+ - Hirudo nipponia (Korean leech) guamerin, it inhibits mammalian elastases.
+ - Hirudo  nipponia  (Korean  leech) piguamerin, it inhibits plasma and tissue
+   kallikrein, and trypsin.
+ - Theromyzon rude cocoon protein (Tcp), a Cys-rich protein that constitutes a
+   major protein component of the cocoon wall.
+ - Theromyzon  testulatum  therostasin,  a  potent  tight-binding inhibitor of
+   mammalian Factor Xa [5].
+ - Caenorhabditis elegans hypothetical protein C08G9.2.
+ - Vertebrate cysteine-rich motor neuron 1 protein.
+
+The profile we developed covers the entire antistasin-like domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: August 2006 / First entry.
+
+[ 1] Holstein T.W., Mala C., Kurz E., Bauer K., Greber M., David C.N.
+     "The primitive metazoan Hydra expresses antistasin, a serine protease
+     inhibitor of vertebrate blood coagulation: cDNA cloning, cellular
+     localisation and developmental regulation."
+     FEBS Lett. 309:288-292(1992).
+     PubMed=1516699
+[ 2] Mason T.A., McIlroy P.J., Shain D.H.
+     "A cysteine-rich protein in the Theromyzon (Annelida: Hirudinea)
+     cocoon membrane."
+     FEBS Lett. 561:167-172(2004).
+     PubMed=15013771; DOI=10.1016/S0014-5793(04)00167-X
+[ 3] Mason T.A., McIlroy P.J., Shain D.H.
+     "Structural model of an antistasin/notch-like fusion protein from the
+     cocoon wall of the aquatic leech, Theromyzon tessulatum."
+     J. Mol. Model. (Online). 0:0-0(2006).
+     PubMed=16523290; DOI=10.1007/s00894-006-0107-1
+[ 4] Rester U., Bode W., Moser M., Parry M.A.A., Huber R., Auerswald E.
+     "Structure of the complex of the antistasin-type inhibitor
+     bdellastasin with trypsin and modelling of the
+     bdellastasin-microplasmin system."
+     J. Mol. Biol. 293:93-106(1999).
+     PubMed=10512718; DOI=10.1006/jmbi.1999.3162
+[ 5] Chopin V., Salzet M., Baert J.-L., Vandenbulcke F., Sautiere P.-E.,
+     Kerckaert J.-P., Malecha J.
+     "Therostasin, a novel clotting factor Xa inhibitor from the
+     rhynchobdellid leech, Theromyzon tessulatum."
+     J. Biol. Chem. 275:32701-32707(2000).
+     PubMed=10852926; DOI=10.1074/jbc.M909217199
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

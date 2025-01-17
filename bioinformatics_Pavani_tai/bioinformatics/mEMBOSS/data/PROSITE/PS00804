@@ -1,0 +1,76 @@
+**********************************
+* Calreticulin family signatures *
+**********************************
+
+Calreticulin [1] (also known as calregulin, CRP55 or HACBP) is a high-capacity
+calcium-binding protein   which   is  present  in  most  tissues  and  located
+at the  periphery  of the  endoplasmic (ER) and the sarcoplamic reticulum (SR)
+membranes.  It probably plays a role in the storage of calcium in the lumen of
+the ER and SR and  it  may  well have other important functions. Structurally,
+calreticulin  is  a protein  of  about 400  amino  acid residues consisting of
+three domains:
+
+ a) An N-terminal, probably globular, domain  of about 180 amino acid residues
+    (N-domain);
+ b) A central domain  of about  70 residues (P-domain)  which  contains  three
+    repeats of an acidic 17 amino acid motif. This region binds calcium with a
+    low-capacity, but a high-affinity;
+ c) A C-terminal domain rich in acidic residues and in lysine (C-domain). This
+    region binds calcium with a high-capacity but a low-affinity.
+
+Calreticulin is evolutionary related to the following proteins:
+
+ - Onchocerca volvulus antigen RAL-1. RAL-1 is highly similar to calreticulin,
+   but  possesses  a  C-terminal  domain rich in lysine and arginine and lacks
+   acidic residues  and  is  therefore  not  expected  to bind calcium in that
+   region.
+ - Calnexin   [2].   A  calcium-binding  protein  that  interacts  with  newly
+   synthesized glycoproteins  in the endoplasmic reticulum. It seems to play a
+   major role  in  the quality control apparatus of the ER by the retention of
+   incorrectly folded proteins.
+ - Calmegin  [3]  (or  calnexin-T),  a testis-specific calcium-binding protein
+   highly similar to calnexin.
+
+We developed three signature  patterns for  this family of proteins. The first
+two patterns are based on conserved regions in the N-domain; the third pattern
+corresponds to positions 4 to 16 of the repeated motif in the P-domain.
+
+-Consensus pattern: [KRHN]-x-[DEQN]-[DEQNK]-x(3)-C-G-G-[AG]-[FY]-[LIVM]-[KN]-
+                    [LIVMFY](2)
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [LIVM](2)-F-G-P-D-x-C-[AG]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [IVM]-x-[DV]-x-[DENST]-x(2)-K-P-[DEH]-D-W-[DEN]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Michalak M., Milner R.E., Burns K., Opas M.
+     "Calreticulin."
+     Biochem. J. 285:681-692(1992).
+     PubMed=1497605
+[ 2] Bergeron J.J.M., Brenner M.B., Thomas D.Y., Williams D.B.
+     "Calnexin: a membrane-bound chaperone of the endoplasmic reticulum."
+     Trends Biochem. Sci. 19:124-128(1994).
+     PubMed=8203019
+[ 3] Watanabe D., Yamada K., Nishina Y., Tajima Y., Koshimizu U.,
+     Nagata A., Nishimune Y.
+     "Molecular cloning of a novel Ca(2+)-binding protein (calmegin)
+     specifically expressed during male meiotic germ cell development."
+     J. Biol. Chem. 269:7744-7749(1994).
+     PubMed=8126001
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

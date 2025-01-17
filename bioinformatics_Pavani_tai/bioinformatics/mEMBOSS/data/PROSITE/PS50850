@@ -1,0 +1,98 @@
+***********************************************
+* Major facilitator superfamily (MFS) profile *
+***********************************************
+
+Transporters can  be  grouped  in two classes, primary and secondary carriers.
+The primary  active  transporters  drive  solute  accumulation or extrusion by
+using ATP    hydrolysis,   photon   absorption,   electron   flow,   substrate
+decarboxylation or methyl transfer. If charged molecules are  unidirectionally
+pumped as  a  consequence  of  the  consumption  of  a primary cellular energy
+source, electron  chemical  potential results. This potential can than be used
+to drive the active transport of additional solutes via secondary carriers.
+
+Among   the   different  transporter  the  two  largest  families  that  occur
+ubiquitously  in all classifications of organisms are the ATP-Binding Cassette
+(ABC)   primary  transporter  superfamily  (see  <PDOC00185>)  and  the  Major
+Facilitator  Superfamily  (MFS).  The  MFS transporters are single-polypeptide
+secondary  carriers  capable only of transporting small solutes in response to
+chemiosmotic  ion  gradients [1,2]. They function as uniporters, symporters or
+antiporters.  In  addition  their  solute  specificity  are  also diverse. MFS
+proteins contain 12 transmembrane regions (with some variations).
+
+The  3D-structure  of  human  GLUT1,  an  archetype  of the  major facilitator
+superfamily  has  been  solved (see <PDB:1JA5>) [3]. Helices 1-5, 8, 10-12 are
+arranged  in  a  9-member barrel-like manner, delimiting a hydrophilic central
+channel.  Helix 7 is located in the center of the channel suggesting a role in
+regulating transport of solutes through the channel.
+
+Some proteins known to belong to the MFS superfamily are listed below:
+
+ - Sugar  transporters. The  largest  family,  they  can  function by uniport,
+   solute-solute  antiport or solute-cation symport depending on the system or
+   conditions (see <PDOC00190>).
+ - Drug:H+  antiporters  or multidrug transporters. The extrusion of cytotoxic
+   drugs from multidrug resistant cells by overexpressed multidrug transporter
+   is  an  important  cause  of failure of the drug-based treatment of patient
+   with  cancers  or infections  by pathogenic  microorganisms [4].
+ - Organophosphate:Pi   antiporters   (OPA).  Small  permeases  restricted  to
+   bacteria.
+ - Oligosaccharide:H+ symporters (OHS). Permeases restricted to bacteria.
+ - Metabolite:H+ symporters (MHS).
+ - Nitrate/nitrite  symporter (NNP). This family is present in bacteria, fungi
+   and plants. It catalyzes either nitrate uptake or nitrite efflux.
+ - Phosphate:H+ symporters (PHS). It is present only in fungi and plants.
+ - Nucleoside:H+ symporters (NHS). Small permeases restricted to Gram-negative
+   bacteria.
+ - Oxalate/formate   antiporters  (OFA).  Present  in  bacteria,  archaea  and
+   eukaryotes.
+ - Sialate:H+    symporters (SHS). Small permeases restricted to Gram-negative
+   bacteria.
+ - Monocarboxylate porters (MCP).
+ - Anion:cation symporters (ACS).
+ - Aromatic   acid:H+  symporters (AAHS). They transport a variety of aromatic
+   acids  as well as cis,cis-muconate. One member of this family (PCAK) serves
+   as a chemoreceptor allowing the bacteria to swim up concentration gradiants
+   of its substrate [5].
+ - Cyanate permeases (CP). Small bacterial proteins of around 400 residues.
+ - Proton-dependent oligopeptide transporters (POT). AAHS and POT are the most
+   divergent MFS families.
+
+The profile we developed covers the 12 transmembrane regions.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2003 / First entry.
+
+[ 1] Pao S.S., Paulsen I.T., Saier M.H. Jr.
+     "Major facilitator superfamily."
+     Microbiol. Mol. Biol. Rev. 62:1-34(1998).
+     PubMed=9529885
+[ 2] Walmsley A.R., Barrett M.P., Bringaud F., Gould G.W.
+     "Sugar transporters from bacteria, parasites and mammals:
+     structure-activity relationships."
+     Trends Biochem. Sci. 23:476-481(1998).
+     PubMed=9868370
+[ 3] Zuniga F.A., Shi G., Haller J.F., Rubashkin A., Flynn D.R.,
+     Iserovich P., Fischbarg J.
+     "A three-dimensional model of the human facilitative glucose
+     transporter Glut1."
+     J. Biol. Chem. 276:44970-44975(2001).
+     PubMed=11571301; DOI=10.1074/jbc.M107350200
+[ 4] Van Veen H.W.
+     Semin. Cell Dev. Biol. 12:239-245(2001).
+[ 5] Harwood C.S., Nichols N.N., Kim M.K., Ditty J.L., Parales R.E.
+     "Identification of the pcaRKF gene cluster from Pseudomonas putida:
+     involvement in chemotaxis, biodegradation, and transport of
+     4-hydroxybenzoate."
+     J. Bacteriol. 176:6479-6488(1994).
+     PubMed=7961399
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

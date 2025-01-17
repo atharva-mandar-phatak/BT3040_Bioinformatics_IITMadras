@@ -1,0 +1,27 @@
+GLYCOHORMONE
+The glycoprotein hormone family includes luteinising hormone (LH), follicle
+stimulating hormone (FSH), thyroid stimulating hormone (TSH), and placental 
+chorionic gonadotrophins hCG and eCG [1], all of which are central to the 
+complex endocrine system that regulates normal growth, sexual development, 
+and reproductive function [2]. The hormones LH, FSH and TSH are secreted
+by the anterior pituitary gland, while hCG and eCG are secreted by the 
+placenta [3]. 
+
+The glycoprotein hormones are dimeric proteins, each containing a common
+alpha subunit (well conserved within species, but differing between them
+[2]), and a unique beta subunit, which confers biological specificity [1].
+Intracellular levels of free alpha subunits are greater than those of the
+mature glycoprotein, implying that hormone assembly is limited by the
+appearance of the specific beta subunits, and hence that synthesis of alpha
+and beta is independently regulated [1].
+
+GLYCOHORMONE is a 4-element fingerprint that provides a signature for
+the glycoprotein hormones. The fingerprint was derived from an initial 
+alignment of 8 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motifs 2 and 4 including
+regions encoded by PROSITE patterns GLYCO_HORMONE_ALPHA_1 (PS00779) and
+GLYCO_HORMONE_ALPHA_2 (PS00780). Two iterations on OWL22.1 were required
+to reach convergence, at which point a true set comprising 23 sequences
+was identified.
+
+An update on SPTR37_9f identified a true set of 34 sequences.

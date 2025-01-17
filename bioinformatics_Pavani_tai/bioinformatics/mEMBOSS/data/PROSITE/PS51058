@@ -1,0 +1,72 @@
+*********************************
+* Zinc finger CXXC-type profile *
+*********************************
+
+Methylation   of  cytosine  within  the  dinucleotide  CpG  is  essential  for
+vertebrate  development and is correlated to gene silencing. Sequence analyses
+on   various   mammalian  proteins  linked  to  DNA  methylation  led  to  the
+identification of a conserved cysteine rich region with the consensus sequence
+C-x(2)-C-x(2)-C-x(5)-C-x(2)-C-x(2)-C,  the  CXXC-type  zinc finger [1,2]. This
+zinc finger can bind specifically to non-methylated CpG DNA but failed to bind
+to methylated CpG motifs [3,4].
+
+Some proteins known to contain a CXXC-type zinc finger are listed below:
+
+ - Mammalian DNA (cytosine-5)-methyltransferase protein 1.
+ - Methyl-CpG binding domain protein 1 (MBD1).
+ - Human Mixed Lineage Leukemia (MLL) protein (also known as all1, htrx, trx1,
+   or  hrx).  The  MLL  gene  is  a frequent target for chromosomal aberration
+   associated with leukemia. In the majority of leukemias with altered MLL the
+   complete C-terminus is removed by chromosomal translocation and replaced in
+   frame  by  a variety of different fusion partners. The N-terminal CXXC-type
+   zinc  finger of MLL is essential for the oncongenic activity of various MLL
+   fusion proteins [4,5].
+ - Human  CpG binding protein hCGBP, an activator of genes residing within CpG
+   islands.
+
+The profile we developed covers the whole CXXC-type zinc finger.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2005 / First entry.
+
+[ 1] Ma Q., Alder H., Nelson K.K., Chatterjee D., Gu Y., Nakamura T.,
+     Canaani E., Croce C.M., Siracusa L.D., Buchberg A.M.
+     "Analysis of the murine All-1 gene reveals conserved domains with
+     human ALL-1 and identifies a motif shared with DNA
+     methyltransferases."
+     Proc. Natl. Acad. Sci. U.S.A. 90:6350-6354(1993).
+     PubMed=8327517
+[ 2] Cross S.H., Meehan R.R., Nan X., Bird A.
+     "A component of the transcriptional repressor MeCP1 shares a motif
+     with DNA methyltransferase and HRX proteins."
+     Nat. Genet. 16:256-259(1997).
+     PubMed=9207790; DOI=10.1038/ng0797-256
+[ 3] Voo K.S., Carlone D.L., Jacobsen B.M., Flodin A., Skalnik D.G.
+     "Cloning of a mammalian transcriptional activator that binds
+     unmethylated CpG motifs and shares a CXXC domain with DNA
+     methyltransferase, human trithorax, and methyl-CpG binding domain
+     protein 1."
+     Mol. Cell. Biol. 20:2108-2121(2000).
+     PubMed=10688657
+[ 4] Birke M., Schreiner S., Garcia-Cuellar M.P., Mahr K., Titgemeyer F.,
+     Slany R.K.
+     "The MT domain of the proto-oncoprotein MLL binds to CpG-containing
+     DNA and discriminates against methylation."
+     Nucleic Acids Res. 30:958-965(2002).
+     PubMed=11842107
+[ 5] Ayton P.M., Chen E.H., Cleary M.L.
+     "Binding to nonmethylated CpG DNA is essential for target recognition,
+     transactivation, and myeloid transformation by an MLL oncoprotein."
+     Mol. Cell. Biol. 24:10470-10478(2004).
+     PubMed=15542854; DOI=10.1128/MCB.24.23.10470-10478.2004
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

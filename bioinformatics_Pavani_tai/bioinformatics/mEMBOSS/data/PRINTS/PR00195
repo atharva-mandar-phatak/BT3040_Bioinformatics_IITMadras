@@ -1,0 +1,18 @@
+DYNAMIN
+Dynamin is a microtubule-associated, force-producing protein involved in
+the production of microtubule bundles [1]. It is structurally related to
+yeast vacuolar sorting protein [2], yeast MGM1 protein [3] and interferon-
+induced Mx proteins [4]. These proteins all hydrolyse GTP, each containing
+motifs common to all GTP-binding proteins towards their N-termini. 
+
+DYNAMIN is a 6-element fingerprint that provides a signature for the
+dynamins and related proteins. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning the N-terminal third of the alignment, motif 2 including the
+region encoded by PROSITE pattern DYNAMIN (PS00410), which lies downstream
+of the ATP/GTP-binding P-loop. Two iterations on OWL25.2 were required to
+reach convergence, at which point a true set comprising 29 sequences was
+identified.
+
+An update on SPTR37_9f identified a true set of 49 sequences, and 2
+partial matches.

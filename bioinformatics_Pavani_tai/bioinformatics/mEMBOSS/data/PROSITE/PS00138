@@ -1,0 +1,119 @@
+****************************************************
+* Serine proteases, subtilase family, active sites *
+****************************************************
+
+Subtilases [1,2] are an extensive family  of  serine proteases whose catalytic
+activity is  provided by a  charge relay system similar to that of the trypsin
+family  of  serine  proteases  but  which  evolved by   independent convergent
+evolution.   The  sequence around the residues involved in the catalytic triad
+(aspartic acid, serine  and histidine) are  completely  different from that of
+the analogous  residues  in  the  trypsin  serine proteases and can be used as
+signatures specific to that category of proteases.
+
+The subtilase family currently includes the following proteases:
+
+ - Subtilisins (EC 3.4.21.62), these alkaline proteases  from various Bacillus
+   species have been the target of numerous studies in the past thirty years.
+
+ - Alkaline elastase YaB from Bacillus sp. (gene ale).
+ - Alkaline serine exoprotease A from Vibrio alginolyticus (gene proA).
+ - Aqualysin I from Thermus aquaticus (gene pstI).
+ - AspA from Aeromonas salmonicida.
+ - Bacillopeptidase F (esterase) from Bacillus subtilis (gene bpf).
+ - C5A peptidase from Streptococcus pyogenes (gene scpA).
+ - Cell envelope-located proteases PI, PII, and PIII from Lactococcus lactis.
+ - Extracellular serine protease from Serratia marcescens.
+ - Extracellular protease from Xanthomonas campestris.
+ - Intracellular serine protease (ISP) from various Bacillus.
+ - Minor extracellular serine protease epr from Bacillus subtilis (gene epr).
+ - Minor extracellular serine protease vpr from Bacillus subtilis (gene vpr).
+ - Nisin leader peptide processing protease nisP from Lactococcus lactis.
+ - Serotype-specific antigene 1 from Pasteurella haemolytica (gene ssa1).
+ - Thermitase (EC 3.4.21.66) from Thermoactinomyces vulgaris.
+
+ - Calcium-dependent protease from Anabaena variabilis (gene prcA).
+ - Halolysin from halophilic bacteria sp. 172p1 (gene hly).
+
+ - Alkaline extracellular protease (AEP) from Yarrowia lipolytica (gene xpr2).
+ - Alkaline proteinase from Cephalosporium acremonium (gene alp).
+ - Cerevisin (EC 3.4.21.48) (vacuolar protease B) from yeast (gene PRB1).
+ - Cuticle-degrading protease (pr1) from Metarhizium anisopliae.
+ - KEX-1 protease from Kluyveromyces lactis.
+ - Kexin (EC 3.4.21.61) from yeast (gene KEX-2).
+ - Oryzin (EC 3.4.21.63) (alkaline proteinase) from Aspergillus (gene alp).
+ - Proteinase K (EC 3.4.21.64) from Tritirachium album (gene proK).
+ - Proteinase R from Tritirachium album (gene proR).
+ - Proteinase T from Tritirachium album (gene proT).
+ - Subtilisin-like protease III from yeast (gene YSP3).
+ - Thermomycolin (EC 3.4.21.65) from Malbranchea sulfurea.
+
+ - Furin  (EC 3.4.21.75),  neuroendocrine convertases 1 to 3 (NEC-1 to -3) and
+   PACE4 protease from mammals,  other  vertebrates,  and invertebrates. These
+   proteases are involved in  the  processing  of  hormone precursors at sites
+   comprised of pairs of basic amino acid residues [3].
+ - Tripeptidyl-peptidase II  (EC 3.4.14.10)  (tripeptidyl aminopeptidase) from
+   Human.
+ - Prestalk-specific proteins tagB and tagC from slime mold [4]. Both proteins
+   consist of  two  domains:  a N-terminal subtilase catalytic domain and a C-
+   terminal ABC transporter domain (see <PDOC00185>).
+
+-Consensus pattern: [STAIV]-{ERDL}-[LIVMF]-[LIVM]-D-[DSTA]-G-[LIVMFC]-x(2,3)-
+                    [DNH]
+                    [D is the active site residue]
+-Sequences known to belong to this class detected by the pattern: the majority
+ of subtilases with a few exceptions.
+-Other sequence(s) detected in Swiss-Prot: 55.
+
+-Consensus pattern: H-G-[STM]-x-[VIC]-[STAGC]-[GS]-x-[LIVMA]-[STAGCLV]-[SAGM]
+                    [H is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for aspA and ssa1 which both seem to lack the histidine active site.
+-Other sequence(s) detected in Swiss-Prot: adenylate cyclase type VIII.
+
+-Consensus pattern: G-T-S-x-[SA]-x-P-x-{L}-[STAVC]-[AG]
+                    [S is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for nisP, tagC and S.marcescens extracellular serine protease.
+-Other sequence(s) detected in Swiss-Prot: 7.
+
+-Note: If a protein includes at least two of the three active site signatures,
+ the probability of  it being  a serine protease from the subtilase  family is
+ 100%
+-Note: These proteins  belong to family S8 in the classification of peptidases
+ [5,E1].
+
+-Expert(s) to contact by email:
+           Brannigan J.; jab5@vaxa.york.ac.uk
+           Siezen R.J.; siezen@nizo.nl
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Siezen R.J., de Vos W.M., Leunissen J.A.M., Dijkstra B.W.
+     "Homology modelling and protein engineering strategy of subtilases,
+     the family of subtilisin-like serine proteinases."
+     Protein Eng. 4:719-737(1991).
+     PubMed=1798697
+[ 2] Siezen R.J.
+     (In) Proceeding subtilisin symposium, Hamburg, (1992).
+[ 3] Barr P.J.
+     Cell 66:1-3(1991).
+[ 4] Shaulsky G., Kuspa A., Loomis W.F.
+     "A multidrug resistance transporter/serine protease gene is required
+     for prestalk specialization in Dictyostelium."
+     Genes Dev. 9:1111-1122(1995).
+     PubMed=7744252
+[ 5] Rawlings N.D., Barrett A.J.
+     "Families of serine peptidases."
+     Methods Enzymol. 244:19-61(1994).
+     PubMed=7845208
+[E1] http://www.expasy.org/cgi-bin/lists?peptidas.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

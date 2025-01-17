@@ -1,0 +1,38 @@
+CHERMTFRASE
+Flagellated bacteria swim towards favourable chemicals and away from
+deleterious ones. Sensing of chemoeffector gradients involves chemotaxis
+receptors, transmembrane (TM) proteins that detect stimuli through their 
+periplasmic domains and transduce the signals via their cytoplasmic domains 
+[1,2]. Signalling outputs from these receptors are influenced both by the
+binding of the chemoeffector ligand to their periplasmic domains and by 
+methylation of specific glutamate residues on their cytoplasmic domains.
+Methylation is catalysed by CheR, an S-adenosylmethionine-dependent methyl-
+transferase [2], which reversibly methylates specific glutamate residues
+within a coiled coil region, to form gamma-glutamyl methyl ester residues
+[2,3]: 
+
+ S-Adenosyl-L-Methionine	       S-Adenosyl-L-Homocysteine
+	  +		       =		  +
+   Protein L-Glutamate		    Protein L-Glutamate Methyl Ester
+
+The structure of the S.typhimurium chemotaxis receptor methyltransferase
+CheR, bound to S-adenosylhomocysteine, has been determined to a resolution
+of 2.0A [2]. The structure reveals CheR to be a two-domain protein, with a 
+smaller N-terminal helical domain linked via a single polypeptide connection
+to a larger C-terminal alpha/beta domain [2]. The C-terminal domain has the
+characteristics of a nucleotide-binding fold, with an insertion of a small
+anti-parallel beta-sheet subdomain [2]. The S-adenosylhomocysteine-binding 
+site is formed mainly by the large domain, with contributions from residues
+within the N-terminal domain and the linker region [2]. 
+
+CHERMTFRASE is a 6-element fingerprint that provides a signature for the
+cheR glutamate methyltransferase family. The fingerprint was derived from 
+an initial alignment of 10 sequences: the motifs were drawn from short
+conserved regions spanning the full alignment length. Two iterations on
+OWL30.2 were required to reach convergence, at which point a true set
+comprising 13 sequences was identified. Several partial matches were also
+found, all of which are fragments or homologues that fail to match one or
+more motifs.
+
+An update on SPTR37_9f identified a true set of 20 sequences, and 8
+partial matches.

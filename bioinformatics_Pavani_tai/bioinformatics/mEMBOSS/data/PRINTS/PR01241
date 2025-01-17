@@ -1,0 +1,53 @@
+GPROTEINAFNG
+Guanine nucleotide binding proteins (G proteins) are a family of membrane-
+associated proteins that couple extracellularly-activated integral-membrane
+receptors to intracellular effectors, such as ion channels and enzymes that
+vary the concentration of second messenger molecules [1-3]. G proteins are
+composed of 3 subunits (alpha, beta and gamma) which, in the resting state,
+associate as a trimer at the inner face of the plasma membrane. The alpha
+subunit has a molecule of guanosine diphosphate (GDP) bound to it:
+stimulation of the G protein by an activated receptor leads to its exchange
+for GTP (guanosine triphosphate). This results in the separation of the
+alpha from the beta and gamma subunits, which always remain tightly
+associated as a dimer. Both the alpha and beta-gamma subunits are then able
+to interact with effectors, either individually or in a cooperative manner.
+The intrinsic GTPase activity of the alpha subunit hydrolyses the bound GTP
+to GDP. This returns the alpha subunit to its inactive conformation and
+allows it to reassociate with the beta-gamma subunit, thus restoring the
+system to its resting state.
+
+G protein alpha subunits are 350-400 amino acids in length and have
+molecular weights in the range 40-45 kDa. Seventeen distinct types of alpha
+subunit have been identified in mammals. These fall into 4 main groups on
+the basis of both sequence similarity and function: alpha-S, alpha-Q,
+alpha-I and alpha-12 [3]. Many alpha subunits are substrates for
+ADP-ribosylation by cholera or pertussis toxins. They are often N-terminally
+acylated, usually with myristate and/or palmitoylate, and these fatty acid
+modifications are probably important for membrane association and high-
+affinity interactions with other proteins. The atomic structure of the 
+alpha subunit of the G protein involved in mammalian vision, transducin,
+has been elucidated in both GTP- and GDB-bound forms, and shows considerable
+similarity in both primary and tertiary structure in the nucleotide-binding
+regions to other G proteins, such as p21-ras and EF-Tu.
+
+A number of fungal alpha subunits have also been identified. In
+S.cerevisiae, the G protein alpha-1 subunit (GP1-alpha) is involved in
+mating factor signal transduction, while the alpha-2 subunit is thought to
+regulate intracellular levels of cyclic AMP [4]. Unlike in mammalian cells,
+in yeast it is the beta-gamma dimer that activates the effector rather than
+the alpha subunit. The sequence identity between different fungal alpha 
+subunits is relatively low and is equivalent to the level of similarity
+observed between mammalian alpha subtypes. The GTP-binding and hydrolysis
+regions, however, show remarkable conservation.
+
+GPROTEINAFNG is a 5-element fingerprint that provides a signature for the
+fungal G protein alpha subunit. The fingerprint was derived from an initial
+alignment of 7 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, focusing on those sections 
+that characterise fungal alpha subunits but distinguish them from other
+G protein alpha subtypes. Two iterations on SPTR37_10f were required to
+reach convergence, at which point a true set comprising 15 sequences was 
+identified. Several partial matches were also found, many of which are
+fungal G protein alpha subunits that lack significant matches with one or
+more motifs; GBI_HOMAM, GBI_LYMST and GB05_DROME are non-fungal alpha-I/O 
+G proteins that match 2 motifs.

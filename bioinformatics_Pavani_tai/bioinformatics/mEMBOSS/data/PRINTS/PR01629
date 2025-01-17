@@ -1,0 +1,47 @@
+TVDCCALPHA1
+Calcium channel proteins are involved in the control of neurotransmitter
+release from neurons [1], and play an important role in the regulation of a
+variety of cellular functions, including membrane excitability, muscle
+contraction and synaptic transmission [2]. Voltage-gated calcium channels
+are classified as T, L, N, P, Q and R, and are distinguished by their
+sensitivity to pharmacological blocks, single-channel conductance kinetics,
+and voltage-dependence. On the basis of their voltage activation
+properties, the voltage-gated calcium classes can be further divided into
+two broad groups: the low (T-type) and high (L, N, P, Q and R-type)
+threshold-activated channels [3].
+
+Generally, the channel proteins are composed of 4 tightly-coupled subunits
+(alpha-1, alpha-2, beta and gamma), the alpha-1 subunit from each creating
+the pore for the import of extracellular calcium ions. The alpha-1 subunit
+shares sequence characteristics with all voltage-dependent cation channels,
+and exploits the same 6-helix bundle structural motif - in both sodium and
+calcium channels, this motif is repeated 4 times within the sequence to give
+a 24-helix bundle. Within each of these repeats, 5 of the transmembrane (TM)
+segments (S1, S2, S3, S5, S6) are hydrophobic and one is positively charged
+(S4) - the latter is characterised by charged amino acids at very third
+position, and probably represents the voltage-sensor.
+
+Several genes encoding alpha-1 subunits have been identified, each forming
+a distinct electrophysiological channel [4]. T-type calcium channels are 
+composed of alpha-1G and alpha-1H subunits [5]. They exhibit unique voltage-
+dependent kinetics, small single channel conductance, rapid inactivation,
+slow deactivation and a relatively high permeability to calcium [6]. They
+are primarily responsible for rebound burst firing in central neurons and
+are implicated in normal brain functions, such as slow wave sleep, and in
+diseased states, such as epilepsy [6]. They also play an important role in
+hormone secretion [7] and smooth muscle excitability [8].
+
+TVDCCALPHA1 is a 5-element fingerprint that provides a signature for the
+T-type voltage-dependent calcium channel alpha-1 subunit. The fingerprint
+was derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length: motif 1 lies in
+the cytoplasmic N-terminus; motif 2 resides in the extracellular region
+between TM domains 1 and 2 of repeat I; motif 3 spans the cytoplasmic region
+between TM domain 6 of repeat I and TM domain 1 of repeat II; motif 4 
+spans part of TM domain 1 of repeat II and the following extracellular
+region; and motif 5 lies in the cytoplasmic region between TM domain 6 of
+repeat III and domain I in repeat IV. Two iterations on SPTR40_18f were
+required to reach convergence, at which point a true set comprising 12
+sequences was identified. A single partial match was also found, Q9W433,
+a family member from Drosophila that fails to make significant matches with 
+motifs 1 and 5.

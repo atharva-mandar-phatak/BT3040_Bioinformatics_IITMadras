@@ -1,0 +1,60 @@
+************************************
+* ATP synthase a subunit signature *
+************************************
+
+ATP synthase (proton-translocating ATPase) (EC 3.6.3.14) [1,2]  is a component
+of the cytoplasmic membrane of eubacteria, the inner membrane of mitochondria,
+and the thylakoid membrane of chloroplasts.  The ATPase complex is composed of
+an oligomeric  transmembrane  sector, called CF(0),  which acts  as  a  proton
+channel, and a catalytic core, termed coupling factor CF(1).
+
+The CF(0) a subunit, also called protein 6,  is  a key component of the proton
+channel; it  may  play  a  direct  role  in  translocating  protons across the
+membrane. It  is  a  highly  hydrophobic  protein  that  has been predicted to
+contain 8 transmembrane regions [3].
+
+Sequence comparison of a subunits from all available sources reveals  very few
+conserved regions.  The  best conserved region is located in what is predicted
+to be    the fifth transmembrane domain.  This region contains three perfectly
+conserved residues:  an  arginine,  a  leucine  and an asparagine. Mutagenesis
+experiments carried  out  in Escherichia coli [4] have shown that the arginine
+is necessary  for  proton  translocation  and  that its replacement by another
+amino acid  results  in  loss of ATPase activity. We selected this region as a
+signature pattern.
+
+-Consensus pattern: [STAGN]-{E}-[STAG]-[LIVMF]-R-L-{LP}-[SAGV]-N-[LIVMT]
+                    [R is important for proton translocation]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for the Mytilus edulis and Trypanosoma brucei subunits.
+-Other sequence(s) detected in Swiss-Prot: 8.
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Futai M., Noumi T., Maeda M.
+     "ATP synthase (H+-ATPase): results by combined biochemical and
+     molecular biological approaches."
+     Annu. Rev. Biochem. 58:111-136(1989).
+     PubMed=2528322; DOI=10.1146/annurev.bi.58.070189.000551
+[ 2] Senior A.E.
+     "ATP synthesis by oxidative phosphorylation."
+     Physiol. Rev. 68:177-231(1988).
+     PubMed=2892214
+[ 3] Lewis M.J., Chang J.A., Simoni R.D.
+     "A topological analysis of subunit alpha from Escherichia coli
+     F1F0-ATP synthase predicts eight transmembrane segments."
+     J. Biol. Chem. 265:10541-10550(1990).
+     PubMed=2162353
+[ 4] Cain B.D., Simoni R.D.
+     "Proton translocation by the F1F0ATPase of Escherichia coli. Mutagenic
+     analysis of the a subunit."
+     J. Biol. Chem. 264:3292-3300(1989).
+     PubMed=2536742
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

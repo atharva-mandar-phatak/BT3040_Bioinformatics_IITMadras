@@ -1,0 +1,130 @@
+**********************************************************************
+* Nuclear hormone receptors DNA-binding domain signature and profile *
+**********************************************************************
+
+Nuclear  hormone  receptors  are  ligand-activated  transcription factors that
+regulate  gene  expression by interacting with specific DNA sequences upstream
+of  their  target  genes.  In  vertebrates,  these  proteins  regulate diverse
+biological  processes  such as pattern formation, cellular differentiation and
+homeostasis [1 to 6].
+
+Classical nuclear hormone receptors contain two conserved regions, the hormone
+binding  domain and a DNA-binding domain (DBD) that is composed of two C4-type
+zinc  fingers.  The  DBD  is  responsible for targeting the receptors to their
+hormone  response  elements  (HRE).  It  binds  as  a  dimer with each monomer
+recognizing  a  six  base  pair  sequence of DNA. The vast majority of targets
+contain  the  same  5'-AGGTCA-3'  consensus sequence [7]. In some cases a less
+conserved  C-terminal  extension  of  the core DBD confers the DNA selectivity
+[8].
+
+The  two zinc fingers fold to form a single structural domain (see <PDB:1HCQ>)
+[9,10].  The  structure consists of two helices perpendicular to each other. A
+zinc ion, coordinated by four conserved cysteines, holds the base of a loop at
+the  N  terminus  of  each  helix.  The  helix  of each monomer makes sequence
+specific contacts in the major groove of the DNA.
+
+Proteins  known  to  contain a nuclear hormone receptor DNA-binding domain are
+listed below:
+
+ - Androgen receptor (AR).
+ - Estrogen receptor (ER).
+ - Glucocorticoid receptor (GR).
+ - Mineralocorticoid receptor (MR).
+ - Progesterone receptor (PR).
+ - Retinoic acid receptors (RARs and RXRs).
+ - Thyroid hormone receptors (TR) alpha and beta.
+ - The  avian  erythroblastosis virus oncogene v-erbA, derived from a cellular
+   thyroid hormone receptor.
+ - Vitamin D3 receptor (VDR).
+ - Insects ecdysone receptor (EcR).
+ - COUP transcription  factor  (also  known  as  ear-3),  and  its  Drosophila
+   homolog seven-up (svp).
+ - Hepatocyte nuclear factor 4 (HNF-4), which binds  to DNA sites required for
+   the transcription of the genes for alpha-1-antitrypsin, apolipoprotein CIII
+   and transthyretin.
+ - Ad4BP, a protein that binds to the Ad4 site found in the promoter region of
+   steroidogenic P450 genes.
+ - Apolipoprotein   AI   regulatory   protein-1   (ARP-1),  required  for  the
+   transcription of apolipoprotein AI.
+ - Peroxisome  proliferator  activated receptors (PPAR), transcription factors
+   specifically activated   by  peroxisome  proliferators.  They  control  the
+   peroxisomal beta-oxidation  pathway  of  fatty acids by activating the gene
+   for acyl-CoA oxidase.
+ - Drosophila  protein  knirps  (kni),  a  zygotic  gap  protein  required for
+   abdominal segmentation of the Drosophila embryo.
+ - Drosophila protein  ultraspiracle (usp) (or chorion factor 1),  which binds
+   to the promoter region of s15 chorion gene.
+ - Human estrogen receptor related genes 1 and 2 (err1 and err2).
+ - Human erbA related gene 2 (ear-2).
+ - Mammalian NGFI-B (NAK1, nur/77, N10).
+ - Mammalian NOT/nurR1/RNR-1.
+ - Drosophila protein embryonic gonad (egon).
+ - Drosophila knirps-related protein (knrl).
+ - Drosophila protein tailless (tll).
+ - Drosophila 20-oh-ecdysone regulated protein E75.
+ - Insects Hr3.
+ - Insects Hr38.
+ - Caenorhabditis elegans cnr-8, cnr-14, and odr-7
+ - Caenorhabditis elegans hypothetical proteins B0280.8, EO2H1.7 and K06A1.4.
+
+As a signature pattern for this family of proteins, we took the most conserved
+residues, the first 27, of the DNA-binding domain. We also developed a profile
+that spans the whole domain.
+
+-Consensus pattern: C-x(2)-C-x(1,2)-[DENAVSPHKQT]-x(5,6)-[HNY]-[FY]-x(4)-C-
+                    x(2)-C-x(2)-F(2)-x-R
+                    [The 4 C's are zinc ligands]
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Gronemeyer H., Laudet V.
+     Protein Prof. 2:1173-1308(1995).
+[ 2] Evans R.M.
+     "The steroid and thyroid hormone receptor superfamily."
+     Science 240:889-895(1988).
+     PubMed=3283939
+[ 3] Gehring U.
+     Trends Biochem. Sci. 12:399-402(1987).
+[ 4] Beato M.
+     "Gene regulation by steroid hormones."
+     Cell 56:335-344(1989).
+     PubMed=2644044
+[ 5] Segraves W.A.
+     "Something old, some things new: the steroid receptor superfamily in
+     Drosophila."
+     Cell 67:225-228(1991).
+     PubMed=1913821
+[ 6] Laudet V., Haenni C., Coll J., Catzeflis F., Stehelin D.
+     "Evolution of the nuclear receptor gene superfamily."
+     EMBO J. 11:1003-1013(1992).
+     PubMed=1312460
+[ 7] Stunnenberg H.G.
+     "Mechanisms of transactivation by retinoic acid receptors."
+     BioEssays 15:309-315(1993).
+     PubMed=8393666
+[ 8] Zhao Q., Khorasanizadeh S., Miyoshi Y., Lazar M.A., Rastinejad F.
+     "Structural elements of an orphan nuclear receptor-DNA complex."
+     Mol. Cell 1:849-861(1998).
+     PubMed=9660968
+[ 9] Schwabe J.W.R., Neuhaus D., Rhodes D.
+     "Solution structure of the DNA-binding domain of the oestrogen
+     receptor."
+     Nature 348:458-461(1990).
+     PubMed=2247153; DOI=10.1038/348458a0
+[10] Schwabe J.W.R., Chapman L., Finch J.T., Rhodes D.
+     Cell 75:567-578(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

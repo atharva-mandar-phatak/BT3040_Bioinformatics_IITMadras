@@ -1,0 +1,63 @@
+*********************************
+* Pterin-binding domain profile *
+*********************************
+
+The ~250-residue pterin-binding domain has been shown to adopt a (beta/alpha)8
+barrel fold  (see  <PDB:1F6Y>),  which  has  the  overall shape of a distorted
+cylinder. It  has  eight  alpha-helices stacked around the outside of an inner
+cylinder of  parallel beta-strands. The pterin ring binds at the bottom of the
+(beta/alpha)8 barrel  in  a  polar  cup-like region that is relatively solvent
+exposed and  fairly  negatively  charged.  The pterin ring is partially buried
+within the  (beta/alpha)8  barrel.  The  pterin  binding  residues  are highly
+conserved and  include  aspartate  and  asparagine  residues located at the C-
+terminus of  the  beta  strands  of  the  barrel,  which are predicted to form
+hydrogen bonds with the nitrogen and oxygen atoms of the pterin ring [1,2,3].
+
+Some proteins known to contain a pterin-binding domain are listed below:
+
+ - Prokaryotic   and   eukaryotic  B12-dependent  methionine  synthase  (MetH)
+   (EC 2.1.1.13),  a  large,  modular protein that catalyzes the transfer of a
+   methyl group  from  methyltetrahydrofolate  (CH3-H4folate)  to  Hcy to form
+   methionine, using cobalamin as an intermediate methyl carrier.
+ - Prokaryotic  and  eukaryotic dihydropteroate synthase (DHPS) (EC 2.5.1.15).
+   It catalyzes  the  condensation  of para-aminobenzoic acid (pABA) with 7,8-
+   dihydropterin-pyrophosphate (DHPPP), eliminating pyrophosphate to form 7,8-
+   dihydropteroate which is subsequently converted to tetrahydrofolate.
+ - Moorella   thermoacetica   5-methyltetrahydrofolate  corrinoid/iron  sulfur
+   protein methyltransferase  (MeTr).  It  transfers  the N5-methyl group from
+   CH3-H4folate to a cob(I)amide center in another protein, the corrinoid iron
+   sulfur protein.
+
+The profile we developed covers the entire pterin-binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: April 2004 / First entry.
+
+[ 1] Doukov T., Seravalli J., Stezowski J.J., Ragsdale S.W.
+     "Crystal structure of a methyltetrahydrofolate- and
+     corrinoid-dependent methyltransferase."
+     Structure 8:817-830(2000).
+     PubMed=10997901
+[ 2] Achari A., Somers D.O., Champness J.N., Bryant P.K., Rosemond J.,
+     Stammers D.K.
+     "Crystal structure of the anti-bacterial sulfonamide drug target
+     dihydropteroate synthase."
+     Nat. Struct. Biol. 4:490-497(1997).
+     PubMed=9187658
+[ 3] Evans J.C., Huddler D.P., Hilgers M.T., Romanchuk G., Matthews R.G.,
+     Ludwig M.L.
+     "Structures of the N-terminal modules imply large domain motions
+     during catalysis by methionine synthase."
+     Proc. Natl. Acad. Sci. U.S.A. 101:3729-3736(2004).
+     PubMed=14752199; DOI=10.1073/pnas.0308082100
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

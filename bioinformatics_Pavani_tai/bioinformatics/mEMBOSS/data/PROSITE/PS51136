@@ -1,0 +1,53 @@
+**********************
+* WAC domain profile *
+**********************
+
+ACF (for   ATP-utilizing  chromatin  assembly  and  remodeling  factor)  is  a
+chromatin-remodeling complex  that  catalyzes  the  ATP-dependent  assembly of
+periodic nucleosome   arrays.   This  reaction  utilizes  the  energy  of  ATP
+hydrolysis by  ISWI,  the  smaller of the two subunits of ACF. Acf1, the large
+subunit of  ACF,  is  essential  for the full activity of the complex. The WAC
+(WSTF/Acf1/cbp146) domain  is  an ~110-residue module present at the N-termini
+of Acf1-related proteins in a variety of organisms. It is found in association
+with other  domains  such  as  the bromodomain (see <PDOC00550>), the PHD-type
+zinc finger  (see <PDOC50016>), DDT (see <PDOC50827>) or WAKS. The DNA-binding
+region of  Acf1  includes the WAC domain, which is necessary for the efficient
+binding of  ACF  complex to DNA. It seems probable that the WAC domain will be
+involved in DNA binding in other related factors [1,2].
+
+Some proteins known to contain a WAC domain are listed below:
+
+ - Drosophila  melanogaster  ATP-dependent  chromatin  assembly  factor  large
+   subunit Acf1.
+ - Human WSTF (Williams syndrome transcription factor).
+ - Mouse cbp146.
+ - Yeast imitation switch two complex protein 1 (ITC1 or YGL133w).
+ - Yeast protein YPL216w.
+
+The profile we developed covers the entire WAC domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2005 / First entry.
+
+[ 1] Ito T., Levenstein M.E., Fyodorov D.V., Kutach A.K., Kobayashi R.,
+     Kadonaga J.T.
+     "ACF consists of two subunits, Acf1 and ISWI, that function
+     cooperatively in the ATP-dependent catalysis of chromatin assembly."
+     Genes Dev. 13:1529-1539(1999).
+     PubMed=10385622
+[ 2] Fyodorov D.V., Kadonaga J.T.
+     "Binding of Acf1 to DNA involves a WAC motif and is important for
+     ACF-mediated chromatin assembly."
+     Mol. Cell. Biol. 22:6344-6353(2002).
+     PubMed=12192034
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,24 @@
+HISTONEH3
+Histone H3 is a small, highly conserved nuclear protein that, together
+with 2 molecules each of histones H2A, H2B and H4, forms the eukaryotic
+nucleosome core [1]; the nucleosome octamer winds ~146 DNA base-pairs.
+
+Several proteins have been found to contain a C-terminal H3-like domain,
+including the mammalian centromeric protein CENP-A (which may act as a core
+histone necessary for the assembly of centromeres) [2]; yeast chromatin-
+associated protein CSE4 [3]; and C.elegans chromosome III proteins 
+YL82_CAEEL and YMH3_CAEEL, whose function is unknown.
+
+HISTONEH3 is a 7-element fingerprint that provides a signature for the
+H3 histones. The fingerprint was derived from an initial alignment of 16
+sequences: the motifs were drawn from short conserved regions spanning
+the full alignment length - motifs 1 and 2 span the N-terminal region
+encoded by PROSITE pattern HISTONE_H3_1 (PS00322), and motif 4 includes
+the central region encoded by PROSITE pattern HISTONE_H3_2 (PS00959). Two
+iterations on OWL29.0 were required to reach convergence, at which point
+a true set comprising 51 sequences was identified. Several partial matches
+were also found: these include the histone H3-related sequences (CSE4_YEAST,
+CENA_HUMAN, CENA_BOVIN, YMH3_CAEEL and YL82_CAEEL) and various fragments.
+
+An update on SPTR37_9f identified a true set of 46 sequences, and 16
+partial matches.

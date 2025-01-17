@@ -1,0 +1,50 @@
+***********************************
+* Ribosomal protein S17 signature *
+***********************************
+
+Ribosomal protein S17 is one of the proteins from the small ribosomal subunit.
+In Escherichia  coli,  S17  is known to bind specifically to the 5' end of 16S
+ribosomal RNA  and is thought to be involved in the recognition of termination
+codons. It  belongs  to  a family of ribosomal proteins which, on the basis of
+sequence similarities [1,2,3], groups:
+
+ - Eubacterial S17.
+ - Plant chloroplast S17 (nuclear encoded).
+ - Red algal chloroplast S17.
+ - Cyanelle S17.
+ - Archaebacterial S17.
+ - Mammalian and plant cytoplasmic S11.
+ - Yeast S18a and S18b (RP41; YS12).
+
+As a  signature pattern, we selected the best conserved regions located in the
+C-terminal section of these proteins.
+
+-Consensus pattern: G-D-x-[LIV]-x-[LIVA]-x-[QEK]-x-[RK]-P-[LIV]-S
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Gantt J.S., Thompson M.D.
+     "Plant cytosolic ribosomal protein S11 and chloroplast ribosomal
+     protein CS17. Their primary structures and evolutionary
+     relationships."
+     J. Biol. Chem. 265:2763-2767(1990).
+     PubMed=2406240
+[ 2] Herfurth E., Hirano H., Wittmann-Liebold B.
+     "The amino-acid sequences of the Bacillus stearothermophilus ribosomal
+     proteins S17 and S21 and their comparison to homologous proteins of
+     other ribosomes."
+     Biol. Chem. Hoppe-Seyler 372:955-961(1991).
+     PubMed=1772592
+[ 3] Otaka E., Hashimoto T., Mizuta K.
+     Protein Seq. Data Anal. 5:285-300(1993).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

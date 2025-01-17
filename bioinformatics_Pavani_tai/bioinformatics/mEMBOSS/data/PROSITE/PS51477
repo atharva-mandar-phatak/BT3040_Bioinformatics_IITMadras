@@ -1,0 +1,62 @@
+**********************
+* PAH domain profile *
+**********************
+
+The paired  amphipathic  helix  (PAH)  domain is a protein-protein interaction
+domain present   in   eukaryotic   proteins  implied  in  transcription  down-
+regulation, such  as the SIN3 family of proteins. This domain occurs generally
+in repeats  at  the  N-terminus of the protein containing it [1]. Sin3a is the
+central component of a transcriptional co-repressor complex that comprises the
+histone deacetylase  (HDAC)  1 and 2. The three PAH domains of Sin3a associate
+with numerous  DNA-binding  proteins  enabling  the  recruitment  of  the Sin3
+complex to  chromatin.  PAH1 is known to interact so far with Opi1, Pf1, NRSF,
+N-CoR and SMRT while PAH2 interacts with a broader range of proteins including
+Mad protein  family  members, Sp1-like repressor proteins, HBP1, Pf1 and yeast
+Ume6 [2,3].
+
+The 3D  structure  of the PAH domain has been determined. The PAH domain folds
+into a   left-handed,   four-helix   bundle   structure  (see  <PDB:2RMS>  and
+<PDB:1G1E>). The  amino  acids  in each of the helices and in the turn regions
+are arranged  in  such a way as to form a hydrophic cleft that constitutes the
+main surface of interaction with the Sin3 interaction domain (SID) amphipathic
+helix of transcription inhibitors such as SAP25 or Mad1 [1,4].
+
+The profile we developed covers the entire PAH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2010 / First entry.
+
+[1]  Sahu S.C., Swanson K.A., Kang R.S., Huang K., Brubaker K.,
+     Ratcliff K., Radhakrishnan I.
+     "Conserved themes in target recognition by the PAH1 and PAH2 domains
+     of the Sin3 transcriptional corepressor."
+     J. Mol. Biol. 375:1444-1456(2008).
+     PubMed=18089292; DOI=10.1016/j.jmb.2007.11.079
+[2]  Le Guezennec X., Vermeulen M., Stunnenberg H.G.
+     "Molecular characterization of Sin3 PAH-domain interactor specificity
+     and identification of PAH partners."
+     Nucleic Acids Res. 34:3929-3937(2006).
+     PubMed=16914451; DOI=10.1093/nar/gkl53
+[3]  Spronk C.A., Tessari M., Kaan A.M., Jansen J.F., Vermeulen M.,
+     Stunnenberg H.G., Vuister G.W.
+     "The Mad1-Sin3B interaction involves a novel helical fold."
+     Nat. Struct. Biol. 7:1100-1104(2000).
+     PubMed=11101889; DOI=10.1038/81944
+[4]  Brubaker K., Cowley S.M., Huang K., Loo L., Yochum G.S., Ayer D.E.,
+     Eisenman R.N., Radhakrishnan I.
+     "Solution structure of the interacting domains of the Mad-Sin3
+     complex: implications for recruitment of a chromatin-modifying
+     complex."
+     Cell 103:655-665(2000).
+     PubMed=11106735
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

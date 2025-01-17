@@ -1,0 +1,47 @@
+BETAAMYLOID
+Beta-amyloid protein (beta-APP) is a 40-residue peptide implicated in the
+pathogenesis of Alzheimer's disease (AD) and aged Down's Syndrome (which is
+promoted by the acquisition of an additional copy of chromosome 21) [1-3].
+The peptide is a proteolytic product of the much larger amyloid precursor
+protein (APP) encoded by a gene on chromosome 21. In AD, pathologically the
+brain is characterised by extracellular amyloid plaques, intraneuronal
+neurofibrillary tangles, and vascular and neuronal damage. The major
+protein found within these deposits is a small, highly aggregating peptide
+(beta-APP), which is thought to be derived from aberrant catabolism of its
+precursor.
+
+The exact function of APP is unknown, but it may mediate cell-cell inter-
+actions. The protein comprises a large extracellular N-terminal domain, and
+a short hydrophobic membrane-spanning domain, followed by a short
+C-terminal region - beta-APP both precedes and forms part of the trans-
+membrane region. Little is known about its structure, but studies on a 
+synthetic peptide have shown that it can express different proportions of 
+alpha-helix and beta-sheet, depending on physiologically relevant environ-
+mental variables, such as ionic strength, pH and hydrophobicity [2]. The 
+extracellular 28-residue region of the peptide is organised in a cross beta-
+structure, while the C-terminal portion is believed to span the membrane
+via a hydrophobic alpha-helical domain. Assemblies of different numbers of
+such synthetic peptides have been shown to form cation-selective ion
+channels across planar lipid bilayers [2].
+
+Brain deposits of beta-APP in amyloid fibrils are common in humans, 
+monkeys, dogs and bears, but similar accumulations are rare in rodent
+brains. The primary sequence of the rodent peptide differs at only 3
+positions compared with its human counterpart, and it is believed that
+these subtle inter-species differences may account for the inability of
+the rodent peptide to form amyloid fibrils in situ. Specifically, the
+human peptide, but not the rodent homologue, is capable of forming a
+beta-sheet structure at low peptide concentration. Thus, a specific
+amino-acid sequence is a critical determinant of amyloidogenesis [3].
+
+BETAAMYLOID is a 3-element fingerprint that provides a signature for the
+beta-amyloid peptide. The fingerprint was derived from an initial alignment
+of 3 sequences: the motifs completely span the 40-residue peptide, the
+first two corresponding to the sheet-forming hydrophilic region, and the
+third to the alpha-helical hydrophobic C-terminus. Two iterations on
+OWL21.1 were required to reach convergence, at which point a true set
+comprising 7 sequences was identified. A single partial match was also
+found, A44017, a beta-APP fragment lacking the portion of sequence bearing 
+motif 1.
+
+An update on SPTR37_9f identified a true set of 10 sequences.

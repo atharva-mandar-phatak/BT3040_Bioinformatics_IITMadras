@@ -1,0 +1,34 @@
+TYPE3OMKPROT
+Secretion of virulence factors in Gram-negative bacteria involves 
+transportation of the protein across two membranes to reach the cell 
+exterior [1]. There have been four secretion systems described in 
+animal enteropathogens such as Salmonella and Yersinia, with further 
+sequence similarities in plant pathogens like Ralstonia and Erwinia [1]. 
+
+The type III secretion system is of great interest as it is used to 
+transport virulence factors from the pathogen directly into the host cell 
+[2] and is only triggered when the bacterium comes into close contact with
+the host. The protein subunits of the system are very similar to those of 
+bacterial flagellar biosynthesis [3]. However, while the latter forms a
+ring structure to allow secretion of flagellin and is an integral part of
+the flagellum itself [3], type III subunits in the outer membrane
+translocate secreted proteins through a channel-like structure.
+
+One of the outer membrane protein subunit families, termed "K" here for
+nomenclature purposes, aids in the structural assembly of the invasion
+complex [4]. It is also described as a lipoprotein. Members of this family 
+include the Salmonella PrgK and SsaJ genes, MxiJ from Shigella, YscJ from
+Yersinia, and from the plant enteropathogens NolT (Rhizobium) and HrcJ 
+(Erwinia). The flagellar M-ring protein FliF also shares a low level of
+similarity, presumably due to evolution of the type III secretion system
+from the flagellar biosynthetic pathway.
+
+TYPE3OMKPROT is a 5-element fingerprint that provides a signature for the
+type III secretion system outer membrane K protein family. The fingerprint
+was derived from an initial alignment of 10 sequences: the motifs were drawn
+from conserved regions spanning the full alignment length (~290 amino acids).
+Two iterations on SPTR37_10f were required to reach convergence, at which
+point a true set comprising 17 sequences was identified. Three partial 
+matches were also found: O84563 and Q9Z778 are Chlamydia YscJ gene products
+that fail to match motifs 3 and 4; and O54239 is a flagellar basal body
+MS-ring protein that matches motifs 4 and 5. 

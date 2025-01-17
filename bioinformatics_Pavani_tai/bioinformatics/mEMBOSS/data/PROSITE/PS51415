@@ -1,0 +1,93 @@
+***********************************
+* Xylose isomerase family profile *
+***********************************
+
+Xylose  isomerase  (EC 5.3.1.5) [1] is an enzyme found in microorganisms which
+catalyzes  the  interconversion  of  an  aldo  sugar  D-xylose to a keto sugar
+D-xylulose.  It  can  also  isomerize  D-ribose to D-ribulose and D-glucose to
+D-fructose.  Xylose  isomerase  seems  to  require magnesium for its activity,
+while cobalt is necessary to stabilize the tetrameric structure of the enzyme.
+
+Xylose  isomerase  also  exists in plants [2] where it is manganese-dependent.
+The enzyme has also been found in anaerobic fungi [3].
+
+A number of residues are conserved in all known xylose isomerases. A histidine
+in  the  N-terminal section of the enzyme has been shown [4] to be involved in
+the catalytic mechanism of the enzyme. Two glutamate residues, a histidine and
+four  aspartate  residues  are  the  metal-binding sites that bind two ions of
+magnesium, cobalt, or manganese [5-7].
+
+Three-dimensional  structures  of  xylose  isomerases show a that each subunit
+contains  a  common  alpha/beta-barrel fold (see <PDB:2GLK; A>) [7] similar to
+that  of  other  divalent metal-dependent TIM barrel enzymes, such as rhamnose
+isomerase  [8]  and  endonuclease  4 (see <PDOC00599>) [1,5,6]. The C-terminal
+smaller  part  forms  an  extended helical fold that seems to be implicated in
+multimerization.
+
+We have developed a profile that covers the entire xylose isomerase structure.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Jenkins J.; jenkins@frira.afrc.ac.uk
+
+-Last update: February 2009 / Text revised; profile added; patterns deleted.
+
+[ 1] Dauter Z., Dauter M., Hemker J., Witzel H., Wilson K.S.
+     "Crystallisation and preliminary analysis of glucose isomerase from
+     Streptomyces albus."
+     FEBS Lett. 247:1-8(1989).
+     PubMed=2651156
+[ 2] Kristo P.A., Saarelainen R., Fagerstrom R., Aho S., Korhola M.
+     "Protein purification, and cloning and characterization of the cDNA
+     and gene for xylose isomerase of barley."
+     Eur. J. Biochem. 237:240-246(1996).
+     PubMed=8620879
+[ 3] Harhangi H.R., Akhmanova A.S., Emmens R., van der Drift C.,
+     de Laat W.T., van Dijken J.P., Jetten M.S., Pronk J.T.,
+     Op den Camp H.J.
+     "Xylose metabolism in the anaerobic fungus Piromyces sp. strain E2
+     follows the bacterial pathway."
+     Arch. Microbiol. 180:134-141(2003).
+     PubMed=12811467; DOI=10.1007/s00203-003-0565-0
+[ 4] Vangrysperre W., Ampe C., Kersters-Hilderson H., Tempst P.
+     "Single active-site histidine in D-xylose isomerase from Streptomyces
+     violaceoruber. Identification by chemical derivatization and peptide
+     mapping."
+     Biochem. J. 263:195-199(1989).
+     PubMed=2604694
+[ 5] Henrick K., Collyer C.A., Blow D.M.
+     "Structures of D-xylose isomerase from Arthrobacter strain B3728
+     containing the inhibitors xylitol and D-sorbitol at 2.5 A and 2.3 A
+     resolution, respectively."
+     J. Mol. Biol. 208:129-157(1989).
+     PubMed=2769749
+[ 6] Chang C., Park B.C., Lee D.S., Suh S.W.
+     "Crystal structures of thermostable xylose isomerases from Thermus
+     caldophilus and Thermus thermophilus: possible structural determinants
+     of thermostability."
+     J. Mol. Biol. 288:623-634(1999).
+     PubMed=10329168; DOI=10.1006/jmbi.1999.2696
+[ 7] Katz A.K., Li X., Carrell H.L., Hanson B.L., Langan P., Coates L.,
+     Schoenborn B.P., Glusker J.P., Bunick G.J.
+     "Locating active-site hydrogen atoms in D-xylose isomerase:
+     time-of-flight neutron diffraction."
+     Proc. Natl. Acad. Sci. U.S.A. 103:8342-8347(2006).
+     PubMed=16707576; DOI=10.1073/pnas.0602598103
+[ 8] Korndoerfer I.P., Fessner W.D., Matthews B.W.
+     "The structure of rhamnose isomerase from Escherichia coli and its
+     relation with xylose isomerase illustrates a change between inter and
+     intra-subunit complementation during evolution."
+     J. Mol. Biol. 300:917-933(2000).
+     PubMed=10891278; DOI=10.1006/jmbi.2000.3896
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,56 @@
+GFCYSKNOT
+The crystal structures of several proteins have been reported as having
+unusual folds, involving intramolecular disulphide bridges. In transforming
+growth factor-beta 2 (TGF-beta2) [1], platelet-derived growth factor (PDGF)
+[2], nerve growth factor (NGF) [3] and human chorionic gonadotropin (hCG)
+[4], 6 conserved cysteines (I to VI in sequence order) form 3 disulphide
+links arranged in a knot-like topology. Cystines [II-V] and [III-VI] form
+a ring of 8 amino acids through which the remaining disulphide bond 
+(Cys[I-IV]) penetrates:
+
+                      __         ___
+                     /  \       /   \
+                     |   !      |    \
+                     |   !      |    |  
+                  II x===S=-S---x V  |
+                     |   !      |   /
+                     |   !      |  /
+                     | I x--S==S===x IV
+                     |   !      |  \
+                     |  /       |   \
+                 III x===S=-S---x VI \
+                     |/         \    |
+                     |           \   |
+                    /|            COOH
+                 H2N |               |
+                     \_______________/
+
+A similar knotted arrangement of disulphide bonds has been noted in the
+structures of some enzyme inhibitors and neurotoxins that bind to voltage-
+gated Ca2+ channels [5]. In those sequences, however, the cystine topology
+differs: Cys[III-VI] penetrates a macrocyclic ring formed by Cys[I-IV] and
+Cys[II-V]. Thus, cystine knots fall into 2 structural classes: growth
+factor type and inhibitor-like cystine knots [6].
+
+All growth factor cystine knots structures have similar topology, with 2
+distorted beta-hairpin loops "above" the knot and a single loop "below".
+The sizes of the hairpin loop vary significantly. Unlike in the inhibitor-
+like variety, there is a distinct amino acid sequence motif to be found in
+the growth factor cystine knot. In PDGF-B and TGF-beta2, there is a 
+CysIII-x-Gly-x-CysIV consensus (in hCG, this is CysII-x-Gly-x-CysIII), while
+in the NGF family, the consensus is CysIII-x-Gly-x-Asp. The conserved Gly
+has positive phi and psi angles, resulting in a bulge of the beta-strand
+to provide space for the disulphide bond passing through the loop [6]. 
+
+GFCYSKNOT is a 2-element fingerprint that provides a signature for the
+growth factor cystine knot family. The fingerprint was derived from an
+initial alignment of 25 sequences - motif 1 spans the CysIII-x-Gly-x-CysIV
+consensus (cf. PROSITE patterns PDGF (PS00249), TGF_BETA (PS00250),
+GLYCO_HORMONE_BETA_1 (PS00261) and NGF (PS00248), and motifs 2 and 3 of 
+signatures GLYCOHORMONE and NGF); and motif 2 spans the CysV-x-CysVI 
+pattern. Four iterations on OWL26.0 were required to reach convergence, at
+which point a true set comprising 192 sequences was identified. Several
+false positives were also identified, most of which are highly biased
+(cyteine-rich) sequences (e.g., metallothioneins and keratins).
+
+An update on SPTR37_9f identified a true set of 198 sequences.

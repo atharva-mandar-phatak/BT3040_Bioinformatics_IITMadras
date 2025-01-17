@@ -1,0 +1,37 @@
+ANNEXINII
+The annexins (or lipocortins) are a family of proteins that bind to
+phospholipids in a calcium-dependent manner [1]. They are distributed
+ubiquitously in different tissues and cell types of higher and lower
+eukaryotes, including mammals, fish, birds, Drosophila melanogaster,
+Xenopus laevis, Caenorhabtidis elegans, Dictyostelium discoideum and
+Neurospora crassa [2,3]. The plant annexins are somewhat distinct from
+those found in other taxa [3].
+
+Several distinct annexin subtypes exist, each of which has an amino-acid
+sequence consisting of an N-terminal 'arm' followed by 4 or 8 copies of a
+conserved domain of 61 residues (only one of these residues, an arginine,
+is conserved between all copies). The calcium-binding sites are found in
+the repeated domains [4]. Individual repeats (sometimes referred to as
+endonexin folds) consist of 5 alpha-helices wound into a right-handed
+superhelix. The biological roles of some annexin subtypes is unclear; the
+family has been linked with inhibition of phospholipase activity, exo-
+cytosis and endoctyosis, signal transduction, organisation of the extra-
+cellular matrix, resistance to reactive oxygen species and DNA replication
+[2]. Type II annexins bind 2 calcium ions, and inhibit phospholipase A2,
+following dephosphorylation by protein kinases involved in the signal
+transduction pathway. They may also cross-link plasma membrane phospholipids
+with actin and the cytoskeleton, and possibly play a part in exocytosis,
+as they are also involved in granule aggregation and membrane fusion.
+
+ANNEXINII is a 6-element fingerprint that provides a signature for type 
+II annexins. The fingerprint was derived from an initial alignment of 6
+sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those areas that characterise type
+II annexins but distinguish them from related annexin subtypes - motifs 1
+and 2 reside in the putative P10 binding site at the N-terminus; motif 3
+lies in the second annexin repeat; motif 4 is located between the second
+and third annexin repeats; motif 5 lies in repeat 3; and motif 6 resides 
+between repeats 3 and 4. Two iterations on SPTR41_24f were required to
+reach convergence, at which point a true set comprising 10 sequences was
+identified. Two partial matches were also found, Q99KH3 and Q804G8, which
+are type II annexin isoforms from mouse and zebrafish respectively.

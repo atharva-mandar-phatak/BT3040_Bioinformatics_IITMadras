@@ -1,0 +1,32 @@
+ERK1ERK2MAPK
+MAP (Mitogen Activated Protein) kinases participate in kinase cascades,  
+whereby at least 3 protein kinases act in series, culminating in activation 
+of MAP kinase [1-2]. MAP kinases are activated by dual phosphorylation 
+on both tyrosine and threonine residues of a conserved TXY motif.
+
+ERKs (Extracellularly Regulated Kinases) belong to the family of MAP 
+kinases. ERK1 and ERK2, proteins of 43 and 41kDa respectively, are ~85% 
+identical, even higher levels of similarity being seen in substrate binding 
+regions [3]. Both are ubiquitously expressed, although levels vary from 
+tissue to tissue. They are activated, for example, by serum, growth factors 
+and cytokines. They phosphorylate both cytoskeletal proteins and 
+transcription factors, resulting ultimately in cell growth. Substrates carry
+a PX(T/S)P motif; other such "docking domains" also exist within ERK, which 
+interact with specific motifs in the substrate: e.g., ERK1 and ERK2 possess 
+2 DXXD docking sites capable of interaction with a Kinase Interaction Motif 
+(KIM), which can be found on activators (MAPKK), inhibitors (PTP-SL and dual
+specificity phosphatases) and substrates (Elk-1) [4].
+
+ERK1ERK2MAPK is a 6-element fingerprint that provides a signature for the 
+ERK1/2 MAP kinases. The fingerprint was derived from an initial alignment of 
+5 sequences: the motifs were drawn from conserved regions spanning virtually
+the full alignment length, focusing on those sections that characterise the 
+ERK1/2 enzymes but distinguish them from the rest of the MAP kinase family
+- motif 1 includes alpha-helix 1 and the N-terminus of beta-strand 1; motif
+2 encodes the N-terminus of helix 4; motif 3 includes helix 6; motif 4 spans
+helix 10; motif 5 includes the N-terminus of helix 12; and motif 6 includes
+helix 17. Two iterations on SPTR40_20f were required to reach convergence,
+at which point a true set comprising 12 sequences was identified. Several 
+partial matches were also found: O35558, murine ERK2, failed to match motifs
+5 and 6 and is probably a fragment; and FUS3_YEAST and ERK1_CANAL are yeast
+MAP kinases that matched only motifs 2 and 6.

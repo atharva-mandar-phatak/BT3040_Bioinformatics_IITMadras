@@ -1,0 +1,108 @@
+**********************************************
+* TetR-type HTH domain signature and profile *
+**********************************************
+
+The  tetR-type  HTH  domain is a DNA-binding, helix-turn-helix (HTH) domain of
+about  60  residues  present  in  the tetR family of prokaryotic transcription
+regulators.  Several of these bacterial regulators are repressors of genes and
+operons  for  membrane transport and cell envelope permeability. The family is
+named  after  the  tetracycline repressor tetR of enterobacteria found on Tn10
+and  other  transposons and plasmids. The 'helix-turn-helix' DNA-binding motif
+is  located  in  the  N-terminal extremity of these transcriptional regulators
+[1]. The C-terminal part of tetR-type regulators contains several regions that
+can  be  involved  in  (1)  binding  of  inducers, which can be drugs, and (2)
+oligomerization.  The tetR and camR proteins are dimers, whilst qacR binds its
+operator  as  a  pair  of dimers and ethR seems to bind as an octamer [2,3,4].
+TetR-type  transcription  regulators  include  several bacterial regulators of
+drug  export  systems  that  protect  pathogenic bacteria against antibiotics,
+antiseptics, disinfectants and host-encoded antimicrobials [3].
+
+Several  crystal  structures  of  tetR-type transcription regulators have been
+resolved  and  their  DNA-binding  domains  are formed by a three-helix bundle
+(H1-H3) and the N-terminal part of the following helix 4, which contributes to
+the  hydrophobic  center  of  the  DNA-binding  domain  and  links  it  to the
+regulatory  domain  [2].  The  helix-turn-helix motif comprises the second and
+third  helices,  the third being called the recognition helix as it binds into
+the  DNA major groove (see <PDB:1JT0>). The recognition helix of the tetR-type
+HTH is shorter than in most HTHs.
+
+Some proteins known to contain a tetR-type HTH domain:
+
+ - Enterobacterial  transposon  and  plasmid  encoded tetR, a repressor of the
+   tetracycline  (Tc) exporting protein tetA. Binding of Tc in complex with Mg
+   to  tetR abolishes DNA binding to two palindromic operator sites tetO, upon
+   which  transcription  of  the tetA and tetR genes is initiated. This is the
+   most common resistance mechanism against the antibiotic Tc in Gram-negative
+   bacteria and commonly used as a gene-regulation tool in eukaryotes.
+ - Staphylococcus  aureus  plasmid encoded qacR, a multidrug binding repressor
+   of  the  qacA  multidrug  resistance  pump,  which  confers  resistance  to
+   antiseptics  and disinfectants such as QACs (quaternary ammonium compounds)
+   [5].
+ - Escherichia  coli acrR, a potential transcription repressor involved in the
+   regulation of drug efflux operon acrAB.
+ - Pseudomonas  putida  plasmid  encoded  camR,  a repressor of the cytochrome
+   P-450cam hydroxylase operon, involved in the degradation of camphor.
+ - Escherichia coli betI, a choline-induced transcription regulator of the bet
+   operon,  involved  in  the  choline-glycine betaine pathway against osmotic
+   stress.
+ - Neisseria  gonorrhoeae  mtrR, a repressor of the mtrCDE-encoded efflux pump
+   system  (for "multiple transferable resistance") and of the farR regulator,
+   involved  in  regulation  of  the  resistance to host-derived antimicrobial
+   hydrophobic agents.
+ - Streptomyces  glaucescens  tcmR,  a repressor of tcmR and tcmA, involved in
+   resistance against the antibiotic tetracenomycin C.
+
+As a signature pattern we selected a conserved region that starts six residues
+before  the  helix-turn-helix  motif  and  ends seven residues after the H-T-H
+motif.  We also developed a profile that covers the entire HTH and DNA-binding
+domain, from the first helix and including the major part of the fourth helix,
+and allows a more sensitive detection.
+
+-Consensus pattern: [GS]-[LIVMFYSP]-x(2,3)-[TS]-[LIVMTA]-x(2)-[LIVM]-x(5)-
+                    [LIVQSA]-[STAGENQH]-x-[GPART]-x-[LIVMFA]-[FYSTNRH]-x-
+                    [HFYRA]-[FVW]-x-[DNSTKAG]-[KQMT]-x(2,3)-[LIVM]
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ 23 sequences.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Robison K.; robison@mpi.com
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Aramaki H., Yagi N., Suzuki M.
+     "Residues important for the function of a multihelical DNA binding
+     domain in the new transcription factor family of Cam and Tet
+     repressors."
+     Protein Eng. 8:1259-1266(1995).
+     PubMed=8869638
+[ 2] Orth P., Schnappinger D., Hillen W., Saenger W., Hinrichs W.
+     "Structural basis of gene regulation by the tetracycline inducible Tet
+     repressor-operator system."
+     Nat. Struct. Biol. 7:215-219(2000).
+     PubMed=10700280; DOI=10.1038/73324
+[ 3] Grkovic S., Brown M.H., Skurray R.A.
+     "Regulation of bacterial drug export systems."
+     Microbiol. Mol. Biol. Rev. 66:671-701(2002).
+     PubMed=12456787
+[ 4] Engohang-Ndong J., Baillat D., Aumercier M., Bellefontaine F.,
+     Besra G.S., Locht C., Baulard A.R.
+     Mol. Microbiol. 51:175-188(2004).
+[ 5] Schumacher M.A., Miller M.C., Grkovic S., Brown M.H., Skurray R.A.,
+     Brennan R.G.
+     "Structural mechanisms of QacR induction and multidrug recognition."
+     Science 294:2158-2163(2001).
+     PubMed=11739955; DOI=10.1126/science.1066020
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

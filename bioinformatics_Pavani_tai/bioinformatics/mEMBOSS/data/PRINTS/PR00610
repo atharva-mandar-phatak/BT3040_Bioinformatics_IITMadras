@@ -1,0 +1,45 @@
+CYTOCHROMEF
+The cytochrome b6f integral membrane protein complex transfers electrons 
+between the two reaction center complexes of oxygenic photosynthetic 
+membranes, and participates in formation of the transmembrane 
+electrochemical proton gradient by also transferring protons from the 
+stromal to the internal lumen compartment [1]. The cytochrome b6f complex 
+contains four polypeptides: cytochrome f (285 aa); cytochrome b6 (215 aa); 
+Rieske iron-sulphur protein (179 aa); and subunit IV (160 aa) [2]. In its 
+structure and functions, the cytochrome b6f complex bears extensive analogy
+to the cytochrome bc1 complex of mitochondria and photosynthetic purple 
+bacteria; cytochrome f (cyt f) plays a role analogous to that of cytochrome
+c1, in spite of their different structures [3]. 
+
+The 3D structure of turnip cyt f has been determined [4]. The lumen-side 
+segment of cyt f includes two structural domains: a small one above a 
+larger one that, in turn, is on top of the attachment to the membrane 
+domain. The large domain consists of an anti-parallel beta-sandwich and a 
+short haem-binding peptide, which form a three-layer structure. The small 
+domain is inserted between beta-strands F and G of the large domain and is 
+an all-beta domain. The haem nestles between two short helices at the 
+N-terminus of cyt f. Within the second helix is the sequence motif for the 
+c-type cytochromes, CxxCH (residues 21-25), which is covalently attached to
+the haem through thioether bonds to Cys-21 and Cys-24. His-25 is the fifth 
+haem iron ligand. The sixth haem iron ligand is the alpha-amino group of 
+Tyr-1 in the first helix [4]. Cyt f has an internal network of water 
+molecules that may function as a proton wire [4]. The water chain appears
+to be a conserved feature of cyt f. 
+
+CYTOCHROMEF is a 13-element fingerprint that provides a signature for cyt f.
+The fingerprint was derived from an initial alignment of 7 sequences: the
+motifs were drawn from conserved regions spanning virtually the full
+alignment length - motif 1 spans the C-terminal portion of the signal 
+sequence and helix A, in which the alpha-amino group of the Tyr serves the
+sixth haem iron ligand; motif 2 encompasses helix B, which includes two 
+invariant Cys residues, which covalently bind the haem group, and a His 
+residue, which provides the fifth haem iron ligand (cf. PROSITE pattern 
+CYTOCHROME_C); motifs 3 and 4 span beta-strands A and B; motif 5 spans
+strands C and D; motif 6 includes helix C and strand C''; motif 7 spans
+strands C' and E; motif 8 includes strand F; motifs 9-11 encompass most of
+the small domain, the C-terminal half of motif 11 corresponding to strand G
+of the large domain; and motif 13 spans a charge-rich region. Two iterations
+on OWL28.1 were required to reach convergence, at which point a true set
+comprising 20 sequences was identified. 
+
+An update on SPTR37_9f identified a true set of 23 sequences.

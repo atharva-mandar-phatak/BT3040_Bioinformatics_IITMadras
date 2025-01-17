@@ -1,0 +1,54 @@
+GPCRSTE3
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+In fungi, the mating of haploid cells is highly regulated. Yeast have a 
+genetically-determined mating type (a and alpha), mating-type specific
+pheromones, pheromone receptors, and a dedicated G protein signalling
+pathway that prevents the mating of identical types. 
+
+Little is known about the structure and function of the STE2 and STE3 
+pheromone receptors. It is believed that they are integral membrane proteins
+that may be involved in the response to mating factors on the cell membrane
+[2-4]. The amino acid sequences of both receptors contain high proportions 
+of hydrophobic residues grouped into 7 domains, in a manner reminiscent of 
+the rhodopsins and other receptors believed to interact with G proteins. 
+However, while a similar 3D framework has been proposed to account for this,
+there is no significant sequence similarity either between STE2 and STE3, or
+between these and the rhodopsin-type family: the receptors thus bear their
+own unique '7TM' signatures.
+
+The STE3 gene in S.cerevisiae is the cell-surface receptor that binds the
+13-residue lipopeptide a-factor. Several related fungal pheromone receptor
+sequences are known: these include pheromone B alpha 1 and B alpha 3, and
+pheromone B beta 1 receptors from Schizophyllum commune; pheromone receptor 
+1 from Ustilago hordei; and pheromone receptors 1 and 2 from Ustilago maydis.
+Members of the family share about 20% sequence identity.
+
+GPCRSTE3 is a 12-element fingerprint that provides a signature for the
+STE3 family of fungal mating factors. The fingerprint was derived from an
+initial alignment of 8 sequences: the motifs were drawn from conserved
+regions spanning the N-terminal half of the alignment - motif 1 spans the
+first TM domain; motif 2 spans the first cytoplasmic loop, leading into TM
+domain 2; motif 3 spans the rest of TM domain 2; motif 4 lies in TM domain
+3; motif 5 lies in the second cytoplasmic loop; motif 6 spans TM domain 4; 
+motif 7 lies in the second external loop; motif 8 spans the C-terminus of
+the second external loop, leading into TM domain 5; motif 9 spans the rest
+of TM domain 5; motif 10 spans the third cytoplasmic loop, leading into TM 
+domain 6; motif 11 lies within TM domain 7; and motif 12 spans the 
+C-terminus of TM domain 7, leading into the C-terminal domain. A single
+iteration on OWL30.1 was required to reach convergence, no further sequences
+being identified beyond the starting set. Two partial matches were found:
+BAR2_SCHCO is a pheromone B alpha-2 receptor fragment that matches motifs 
+1-6, and MAP3_SCHPO is a pheromone M-factor receptor that matches motifs 2-4.
+
+An update on SPTR37_9f identified a true set of 11 sequences, and 1
+partial match.

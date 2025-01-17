@@ -1,0 +1,60 @@
+*****************************************************
+* Tubulin subunits alpha, beta, and gamma signature *
+*****************************************************
+
+Tubulins [1,2], the major  constituent of  microtubules  are dimeric  proteins
+which consist of two closely related subunits (alpha and  beta). Tubulin binds
+two molecules of GTP at two different sites (N and E). At the E (Exchangeable)
+site, GTP is  hydrolyzed during incorporation into the microtubule. Near the E
+site is an invariant region rich in glycines which is found in both chains and
+which is now [3]  said to control the access of the nucleotide  to its binding
+site. We developed a signature pattern from this region.
+
+With the exception of the simple eukaryotes, most species express a variety of
+closely related alpha and beta isotypes.
+
+In most species there is a third member  of the tubulin family: gamma tubulin.
+Gamma tubulin is  found at  microtubule  organizing centers (MTOC) such as the
+spindle poles or the centrosome, suggesting that it  is involved in the minus-
+end nucleation of microtubule assembly [4].
+
+-Consensus pattern: [SAG]-G-G-T-G-[SA]-G
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for maize tubulin beta-2 which has Leu in the first position of the pattern.
+-Other sequence(s) detected in Swiss-Prot: 13.
+
+-Note: The first residue in the pattern is Gly in all alpha and beta tubulins,
+ and is Ala or Ser in gamma-tubulin.
+-Note: This  pattern  is  almost  identical  to  the  GTP-binding  site of the
+ bacterial protein  ftsZ  (see  <PDOC00873>)  whose  role  in  prokaryotes  is
+ probably similar to that of tubulins.
+
+-Last update: November 1995 / Text revised.
+
+[ 1] Cleveland D.W., Sullivan K.F.
+     "Molecular biology and genetics of tubulin."
+     Annu. Rev. Biochem. 54:331-365(1985).
+     PubMed=3896122; DOI=10.1146/annurev.bi.54.070185.001555;
+[ 2] Joshi H.C., Cleveland D.W.
+     "Diversity among tubulin subunits: toward what functional end?"
+     Cell Motil. Cytoskeleton 16:159-163(1990).
+     PubMed=2194680
+[ 3] Hesse J., Thierauf M., Ponstingl H.
+     "Tubulin sequence region beta 155-174 is involved in binding
+     exchangeable guanosine triphosphate."
+     J. Biol. Chem. 262:15472-15475(1987).
+     PubMed=3680207
+[ 4] Joshi H.C.
+     "Gamma-tubulin: the hub of cellular microtubule assemblies."
+     BioEssays 15:637-643(1993).
+     PubMed=8274140
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,75 @@
+
+***********************
+* DOT1 domain profile *
+***********************
+
+The   Dot1  protein  (Dot1p)  is  an  histone-lysine  N-methyltransferase  (EC
+2.1.1.43)  [E1] that methylates lysine 79 (Lys-79) of histone H3. It was first
+identified  as  a  Disruptor  Of  Telomeric  silencing in yeast where Dot1p is
+implicated  in  gene  silencing  and  localization  of  the Silent Information
+Regulator  (SIR)  complex; in higher eukaryotes the methylation carried out by
+this  enzyme  may  be used for differentiating chromatin domains. Unlike other
+histone-lysine  methyltransferases  (HKMTs),  Dot1p  displays  a Rossmann-like
+(Class  I)  S-adenosyl-L-methyionine (SAM)-dependent MT fold (see <PDOC51555>)
+while other HKMTs contain the SET domain (see <PDOC50280>) and hence belong to
+a whole different structural class (see <PDOC51565>) [1,2].
+
+Whereas  most HKMTs, such as Suvar3-9 methylate Lys on the N-terminal tails of
+histones  that  stick  out  from  the  nucleosome,  Dot1p substrate (Lys-79 of
+histone  H3)  is  located  in  the  conserved  histone  core,  in a short turn
+connecting  the  first  and  second  helices,  exposed  on the nucleosome disk
+surface  [1,2].  In  order for Lys-79 of H3 to be methylated by Dot1p, another
+lysine,  Lys-123  of histone H2B, needs to be ubiquitinated. A possible reason
+put forward for this requirement is that the ubiquitination may create a space
+between  adjacent  nucleosomes,  permitting  access  of Dot1p to its substrate
+[1,2].  In  yeast,  different  states  of  methylation on Lys-79 of histone H3
+(unmodified,  mono-,  di- and trimethylated) co-exist at the same time, but no
+clear function is associated with these different methylation states [1].
+
+The strucure of the evolutionary conserved core of Dot1p, the DOT1 domain, has
+first    been    described    for    the   yeast   Dot1p   in   complex   with
+S-adenosyl-L-homocysteine  (AdoHcy)  (see  <PDB:1U2Z>)  and then for the human
+Dot1-like  protein  (Dot1Lp)  in  complex  with SAM (see <PDB:1NW3>). The DOT1
+domain  is  about 300-350 amino acids long and is usually located at either of
+the  extremities  of  the protein sequence: it stands at the C-terminus of the
+yeast  Dot1p  and at the N-terminus of the human Dot1Lp [1,2]. DOT1 displays a
+rather  elongated  structure  and can be subdivided into two parts: the N- and
+the  C-terminal  subdomains  [2]. The N-terminal part is made up of five alpha
+helices  and  two  pairs  of  short  beta strand hairpins. The C-terminal part
+displays   a   Rossmann-like   fold   (see  <PDOC51555>):  it  consists  in  a
+seven-stranded  beta  sheet tucked by five alpha helices (three helices on one
+side  of  the  sheet  and  two  on  the  other),  the sheet contains a central
+topological switchpoint resulting in a deep pocket where SAM is bound. The two
+subdomains  are linked covalently by a loop. Altogether the SAM binding pocket
+is formed by five segments of the DOT1 domain of which four are located in the
+C-terminal substructure of the DOT1 domain and one in the loop connecting both
+parts;   two  of  these  segments  are  conserved  across  different  Class  I
+SAM-dependent MTs (see <PDOC51555>) [2].
+
+The profile we developed covers the entire DOT1 domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: February 2012 / First entry.
+
+[ 1] Sawada K., Yang Z., Horton J.R., Collins R.E., Zhang X., Cheng X.
+     "Structure of the conserved core of the yeast Dot1p, a nucleosomal
+     histone H3 lysine 79 methyltransferase."
+     J. Biol. Chem. 279:43296-43306(2004).
+     PubMed=15292170; DOI=10.1074/jbc.M405902200
+[ 2] Min J., Feng Q., Li Z., Zhang Y., Xu R.M.
+     "Structure of the catalytic domain of human DOT1L, a non-SET domain
+     nucleosomal histone methyltransferase."
+     Cell 112:711-723(2003).
+     PubMed=12628190
+[E1] http://enzyme.expasy.org/EC/2.1.1.43
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

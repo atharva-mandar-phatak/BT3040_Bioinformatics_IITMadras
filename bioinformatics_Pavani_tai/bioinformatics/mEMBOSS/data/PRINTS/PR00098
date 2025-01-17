@@ -1,0 +1,54 @@
+CPSASE
+Carbamoyl-phosphate synthetase (CPSase) is an enzyme of special interest,
+being common to both the arginine and pyrimidine biosynthetic pathways: it
+thus raises the problem of how to regulate pyrimidine and arginine 
+biosynthesis separately. CPSase catalyses the production of carbamoyl-
+phosphate from its precursors, the precursors depending on the pathway 
+involved: in pyrimidine biosynthesis the nitrogen donor is glutamate, the 
+other precursors being ATP and hydrogen carbonate; in arginine biosynthesis
+the precursors are carbon dioxide and an ammonium ion.
+
+E.coli and other bacteria possess only one CPSase enzyme, which produces
+carbamoyl-phosphate for both pathways and has 2 subunits coded for by the 
+genes carA and carB: carA codes for the small subunit, which has glutamine 
+amidotransferase (GATase) activity, and carB codes for the large subunit, 
+which has CPSase activity. These 2 genes are genetically linked as the 
+carAB operon, which is differentially regulated at 2 tandem promoters 
+during transcription by both arginine and UMP, while ornithine stimulates
+activity.
+
+Eukaryotes possess 2 different CPSase enzymes, one for each pathway, both
+of which are comparmentalised and regulated separately. Pyrimidine
+biosynthesis occurs in the cytosol where glutamine is the nitrogen donor,
+and arginine biosynthesis (the urea cycle) occurs in the mitochondria where
+ammonium ions are the nitrogen donors, with N-acetylglutamine acting as an 
+allosteric activator. The arginine-specific CPSase catalyses the same 
+overall reaction and has the same structure as the prokaryotic enzyme, yet
+in S.cerevisiae the 2 genes, CPA1 and CPA2, are unlinked. In this organism,
+the gene URA2 codes for the glutamine-dependent carbamoylphosphate
+synthetase and the ATCase for the pyrimidine biosynthetic pathway. 
+
+Two main CPSases have been identified in mammals: CPSase I is mitochondrial,
+it is found in high levels in the liver and is involved in arginine bio-
+synthesis; CPSase II is cytosolic, it is associated with aspartate
+carbamoyltransferase (ATCase) and dihydroorotase (DHOase) and is involved
+in pyrimidine biosynthesis. In the pyrimidine pathway in most eukaryotes, 
+CPSase is found as a domain in a multi-functional protein, which also has 
+GATase, ACTase and DHOase activity.
+
+CPSASE is a 7-element fingerprint that provides a signature for the 
+carbamoyl-phosphate synthase CPSase domain. The fingerprint was derived 
+from an initial alignment of 5 sequences: motifs 3 and 6 include regions
+encoded by PROSITE patterns CPSASE_1 (PS00866) and CPSASE_2 (PS00867).
+Two iterations on OWL18.0 were required to reach convergence, at which
+point a true set comprising 9 sequences was identified. Three partial
+matches were also found: PYR1_DICDI is a fusion protein containing
+glutamine-dependent CPsase-, ATCase- and DHOase-activity, but the CPSase
+region is incomplete; CARB_METBA is a fragment of the large chain of the
+CPSase protein from Methanosacina barkeri; SCURA2 is a fragment of a yeast
+protein that has been translated from the 5'-region of the URA2 gene for
+carbamoyl-phosphate synthetase and lacks the portion of sequence bearing
+the last 5 motifs.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 1
+partial match.

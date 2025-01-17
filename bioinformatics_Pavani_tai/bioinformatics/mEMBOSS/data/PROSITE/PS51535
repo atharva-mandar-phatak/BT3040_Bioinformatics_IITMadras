@@ -1,0 +1,52 @@
+****************************************************
+* Pestivirus NS3 proteaase (NS3pro) domain profile *
+****************************************************
+
+The genome  of  pestiviruses  [E1]  is a single plus-strand RNA and contains a
+single large  open reading frame (ORF), a 5' untranslated region (5'UTR) and a
+3' untranslated  region  (3'UTR).  The  ORF  encodes  a  polyprotein, which is
+processed by viral and cellular proteases into mature proteins (the structural
+proteins in  the  N-terminal portion of the polyprotein whilst the replicative
+(non-structural or  NS) proteins constitute the remainder). The pestivirus NS3
+protein is  a multifunctional protein possessing serine protease, RNA helicase
+(see <PDOC51192>),   and   a  nucleoside  triphosphatase  (NTPase)  activities
+located in  two  functionally  distinct  domains.  The N-terminal one-third of
+pestiviral NS3   primarily   serves   as  a  protease  to  process  the  viral
+polyprotein. The  helicase  and  NTPase  activities  are  localized  to the C-
+terminal of  NS3  protein.  The NS3 protease (NS3pro) domain is of some 180 aa
+with a  catalytic  triad  of  His-Asp-Ser. Positive regulation (activation) is
+observed by  its  interaction  with  NS4A.  The pestivirus NS3pro domain forms
+peptidase family S31 of clan PA [E2].
+
+The profile we developed covers the entire pestivirus NS3pro domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2011 / First entry.
+
+[ 1] Gorbalenya A.E., Donchenko A.P., Koonin E.V., Blinov V.M.
+     "N-terminal domains of putative helicases of flavi- and pestiviruses
+     may be serine proteases."
+     Nucleic Acids Res. 17:3889-3897(1989).
+     PubMed=2543956
+[ 2] Ryan M.D., Monaghan S., Flint M.
+     "Virus-encoded proteinases of the Flaviviridae."
+     J. Gen. Virol. 79:947-959(1998).
+     PubMed=9603310
+[ 3] Wang P., Wang Y., Zhao Y., Zhu Z., Yu J., Wan L., Chen J., Xiao M.
+     "Classical swine fever virus NS3 enhances RNA-dependent RNA polymerase
+     activity by binding to NS5B."
+     Virus Res. 148:17-23(2010).
+     PubMed=19951725; DOI=10.1016/j.virusres.2009.11.015
+[E1] http://www.expasy.org/viralzone/all_by_species/39.html
+[E2] http://merops.sanger.ac.uk/cgi-bin/famsum?family=s31
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,42 @@
+KCLTRNSPORT1
+The K-Cl co-transporter (KCC) mediates the coupled movement of K+ and Cl- 
+ions across the plasma membrane of many animal cells. This transport is
+involved in the regulatory volume decrease in response to cell swelling in
+red blood cells, and has been proposed to play a role in the vectorial
+movement of Cl- across kidney epithelia. The transport process involves one
+for one electroneutral movement of K+ together with Cl-, and, in all
+known mammalian cells, the net movement is outward [1].
+
+In neurones, it appears to play a unique role in maintaining low intra-
+cellular Cl-concentration, which is required for the functioning of Cl- 
+dependent fast synaptic inhibition, mediated by certain neurotransmitters,
+such as gamma-aminobutyric acid (GABA) and glycine.
+
+Two isoforms of the K-Cl co-transporter have been described, termed KCC1 and
+KCC2, containing 1085 and 1116 amino acids, respectively. They are both 
+predicted to have 12 transmembrane (TM) regions in a central hydrophobic 
+domain, together with hydrophilic N- and C-termini that are likely
+cytoplasmic. Comparison of their sequences with those of other ion-
+tranporting membrane proteins reveals that they are part of a new super-
+family of cation-chloride co-transporters, which includes the Na-Cl and 
+Na-K-2Cl co-transporters. KCC1 is widely expressed in human tissues, while
+KCC2 is expressed only in brain neurones, making it likely that this is the
+isoform responsible for maintaining low Cl- concentration in neurones [2,3].
+
+KCC1 is widely expressed in human tissues, and when heterologously expressed,
+possesses the functional characteristics of the well-studied red blood cell
+K-Cl co-transporter, including stimulation by both swelling and
+N-ethylmaleimide. Several splice variants have also been identified.
+
+KCLTRNSPORT1 is a 4-element fingerprint that provides a signature for the 
+K-Cl co-transporter type 1 isoform. The fingerprint was derived from an 
+initial alignment of 5 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length, focusing on those 
+sections that characterise the K-Cl co-transporter type 1 isoform but
+distinguish it from type 2 - motifs 1 and 2 lie within the putative
+cytoplasmic N-terminus; and motifs 3 and 4 lie near the extremity of the
+presumed cytoplasmic, C-terminal hydrophilic domain. Two iterations on
+OWL31.1 were required to reach converegence, at which point a true set
+comprising 7 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 6 sequences.

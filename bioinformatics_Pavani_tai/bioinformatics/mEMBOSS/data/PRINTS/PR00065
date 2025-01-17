@@ -1,0 +1,23 @@
+TEADOMAIN
+The TEA domain is a DNA-binding region of 66-68 amino acids found in the
+N-termini of certain gene regulatory proteins, such as the SV40 enhancer
+factor TEF-1, yeast trans-acting factor TEC-1 (which is required for TY1
+enhancer activity), and the Aspergillus abaA regulatory gene product [1].
+SV40 and retroviral enhancers, and those to which TEF-1, TEC-1 and abaA
+proteins bind, contain GT-IIC sites: the TEA domain may therefore recognise
+and bind such sites [1].
+
+Secondary structure predictions suggest the presence of 3 helices, but have
+not confirmed the presence of the helix-turn-helix motif characteristic of
+many DNA-binding proteins: DNA-binding may therefore be effected by a
+different mechanism [1].
+
+TEADOMAIN is a 3-element fingerprint that provides a signature for the 
+DNA-binding TEA domain. The fingerprint was derived from an initial
+alignment of 5 sequences: the motifs were drawn from conserved regions
+spanning the full domain length, motifs 2 and 3 encompassing the region
+encoded by PROSITE pattern TEA_DOMAIN (PS00554). Two iterations on OWL25.1
+were required to reach convergence, at which point a true set comprising
+6 sequences was identified.
+
+An update on SPTR37_10f identified a true set of 15 sequences.

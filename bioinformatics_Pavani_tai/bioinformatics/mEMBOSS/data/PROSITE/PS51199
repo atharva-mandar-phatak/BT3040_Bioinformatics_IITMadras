@@ -1,0 +1,99 @@
+*****************************************
+* Superfamily 4 helicase domain profile *
+*****************************************
+
+Helicases  have  been  classified in 5 superfamilies (SF1-SF5) [1]. All of the
+proteins  bind ATP and, consequently, all of them carry the classical Walker A
+(phosphate-binding   loop   or   P-loop)   (see   <PDOC00017>)  and  Walker  B
+(Mg2+-binding  aspartic  acid)  motifs [1]. Superfamily 4 helicase, related to
+bacterial  dnaB  proteins,  comprises  a  relatively  small  compact family of
+proteins  containing,  in addition to Walker A and B, three distinct conserved
+motifs  which  are  not  present  in  other  helicase  superfamilies. SF4 is a
+hexameric  helicase  that  function  mainly  in bacterial or bacteriophage DNA
+replication.   It   is  intimately  associated  with  other  proteins  of  the
+replication fork. The helicase domain assembles into ring-shaped hexamers that
+encircle  the  lagging  strand  of  the replication fork, moving in a 5' to 3'
+direction and displacing the complementary DNA strand in an unwinding reaction
+that is powered by nucleotide hydrolysis [2,3].
+
+Several  bacteriophage  SF4  helicase  domains  have been crystalized (see for
+example  <PDB:1CR0>)  [4].  The  central  core  is  similar  to the alpha-beta
+RecA-like  domain. The functional enzyme is arranged in a ring-shaped hexamer.
+A  nucleotide  binds in the crevice formed between adjacent subunits, where an
+arginine  that  is analogous to the arginine finger motif of GTPase-activating
+proteins  (see  <PDOC50238>)  could  trans-activate  the  bound nucleotide for
+hydrolysis.  This  nucleotide-binding  site  at  the interface of two helicase
+domains  is  also  a  feature  of  other DNA helicase such as PcrA, Rep or NS3
+proteins, and it could be a general mechanism for DNA unwinding activity [4].
+
+Some proteins known to contain an SF4 helicase domain are listed below [5,6]:
+
+ - Bacterial  dnaB protein. It unwinds the DNA duplex ahead of the replication
+   fork  and  is  also  responsible  for  attracting  the  dnaG primase to the
+   replication fork.
+ - Bacteriophage   T7  gp4  and  bacteriophage  T4  gp41  proteins.  They  are
+   bifunctional  primase-helicases  that  unwind duplex DNA at the replication
+   fork  while  initiating  the  synthesis of Okazaki fragments on the lagging
+   strand.
+ - Metazoan  Twinkle  proteins.  In  human, Twinkle  is a helicase involved in
+   mitochondrial DNA replication. It has been implicated in autosomal dominant
+   progressive  external  ophthalmoplegia  (adPEO),  a  mitochondrial disorder
+   characterized by mtDNA deletions [7].
+ - Several  Cryptophyta  and  Viridiplantae  hypothetical  proteins  that also
+   contain a primase domain.
+ - Several  protozoan hypothetical proteins that also contain a primase domain
+   or an exonuclease domain.
+ - Rhodophyta chloroplastic dnaB-like proteins.
+
+The profile we developed covers the entire SF4 helicase domain.
+
+-Last update: May 2006 / First entry.
+
+[ 1] Gorbalenya A.E., and Koonin E.V. .
+     "Helicases: amino acid sequence comparisons and structure-function
+     relationships."
+     Curr. Opin. Struct. Biol. 3:419-429(1993).
+[ 2] LeBowitz J.H., McMacken R.
+     "The Escherichia coli dnaB replication protein is a DNA helicase."
+     J. Biol. Chem. 261:4738-4748(1986).
+     PubMed=3007474
+[ 3] Ahnert P., Patel S.S.
+     "Asymmetric interactions of hexameric bacteriophage T7 DNA helicase
+     with the 5'- and 3'-tails of the forked DNA substrate."
+     J. Biol. Chem. 272:32267-32273(1997).
+     PubMed=9405431
+[ 4] Sawaya M.R., Guo S., Tabor S., Richardson C.C., Ellenberger T.
+     "Crystal structure of the helicase domain from the replicative
+     helicase-primase of bacteriophage T7."
+     Cell 99:167-177(1999).
+     PubMed=10535735
+[ 5] Leipe D.D., Aravind L., Grishin N.V., Koonin E.V.
+     "The bacterial replicative helicase DnaB evolved from a RecA
+     duplication."
+     Genome Res. 10:5-16(2000).
+     PubMed=10645945
+[ 6] Shutt T.E., Gray M.W.
+     "Twinkle, the mitochondrial replicative DNA helicase, is widespread in
+     the eukaryotic radiation and may also be the mitochondrial DNA primase
+     in most eukaryotes."
+     J. Mol. Evol. 62:588-599(2006).
+     PubMed=16612544; DOI=10.1007/s00239-005-0162-8
+[ 7] Spelbrink J.N., Li F.Y., Tiranti V., Nikali K., Yuan Q.P., Tariq M.,
+     Wanrooij S., Garrido N., Comi G., Morandi L., Santoro L., Toscano A.,
+     Fabrizi G.M., Somer H., Croxen R., Beeson D., Poulton J.,
+     Suomalainen A., Jacobs H.T., Zeviani M., Larsson C.
+     "Human mitochondrial DNA deletions associated with mutations in the
+     gene encoding Twinkle, a phage T7 gene 4-like protein localized in
+     mitochondria."
+     Nat. Genet. 28:223-231(2001).
+     PubMed=11431692; DOI=10.1038/90058
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

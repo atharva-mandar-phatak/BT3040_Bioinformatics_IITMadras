@@ -1,0 +1,86 @@
+****************************************
+* Albumin domain signature and profile *
+****************************************
+
+The following  serum  transport  proteins are known to be evolutionary related
+[1,2,3]:
+
+ - Albumin  (ALB), the main protein of plasma. It binds water, cations such as
+   Ca++, Na+,  K+,  fatty  acids,  hormones,  bilirubin  and  drugs.  Its main
+   function is the regulation of the colloidal osmotic pressure of blood.
+ - Alpha-fetoprotein (AFP) (alpha-fetoglobulin). AFP is a fetal plasma protein
+   which also binds various cations, fatty acids and bilirubin.
+ - Vitamin D-binding protein (VDB), also known  as group-specific component or
+   Gc-globulin. VDB binds to  vitamin D and  its metabolites as  well as fatty
+   acids.
+ - Afamin (or alpha-albumin),  a  protein  whose  biochemical  role is not yet
+   characterized.
+
+Structurally, these  proteins  consist  of  two to seven homologous domains of
+about 190  amino acids. Each domain, consisting of 10 alpha-helices, is formed
+by two smaller subdomains and contains five or six internal disulfide bonds as
+shown in the following schematic representation [4].
+
+                    +---+          +----+                        +-----+
+                    |   |          |    |                        |     |
+ xxCxxxxxxxxxxxxxxxxCCxxCxxxxCxxxxxCCxxxCxxxxxxxxxCxxxxxxxxxxxxxxCCxxxxCxxxx
+   |                 |       |      |             |            ***|********
+   +-----------------+       +------+             +---------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+The signature  pattern we derived is based on three conserved cysteines at the
+end of  the domain. We built it in such a way that it can detect all 3 repeats
+in albumin and human afamin, the first two in AFP and the first one in VDB and
+rat afamin.  We  also  developed  a  profile,  which covers the entire albumin
+domain.
+
+-Consensus pattern: [FY]-x(6)-C-C-x(2)-{C}-x(4)-C-[LFY]-x(6)-[LIVMFYW]
+                    [The 3 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: mammalian CD63 antigen.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: March 2009 / Text revised; profile added.
+
+[ 1] Haefliger D.N., Moskaitis J.E., Schoenberg D.R., Wahli W.
+     "Amphibian albumins as members of the albumin, alpha-fetoprotein,
+     vitamin D-binding protein multigene family."
+     J. Mol. Evol. 29:344-354(1989).
+     PubMed=2481749
+[ 2] Schoentgen F., Metz-Boutigue M.-H., Jolles J., Constans J., Jolles P.
+     "Complete amino acid sequence of human vitamin D-binding protein
+     (group-specific component): evidence of a three-fold internal homology
+     as in serum albumin and alpha-fetoprotein."
+     Biochim. Biophys. Acta 871:189-198(1986).
+     PubMed=2423133
+[ 3] Lichenstein H.S., Lyons D.E., Wurfel M.M., Johnson D.A.,
+     McGinley M.D., Leidli J.C., Trollinger D.B., Mayer J.P., Wright S.D.,
+     Zukowski M.M.
+     "Afamin is a new member of the albumin, alpha-fetoprotein, and vitamin
+     D-binding protein gene family."
+     J. Biol. Chem. 269:18149-18154(1994).
+     PubMed=7517938
+[ 4] He X.M., Carter D.C.
+     "Atomic structure and chemistry of human serum albumin."
+     Nature 358:209-215(1992).
+     PubMed=1630489; DOI=10.1038/358209a0
+[ 5] Verboven C., Rabijns A., De Maeyer M., Van Baelen H., Bouillon R.,
+     De Ranter C.
+     "A structural basis for the unique binding features of the human
+     vitamin D-binding protein."
+     Nat. Struct. Biol. 9:131-136(2002).
+     PubMed=11799400; DOI=10.1038/nsb754
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

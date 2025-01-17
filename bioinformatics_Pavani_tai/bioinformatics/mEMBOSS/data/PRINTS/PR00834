@@ -1,0 +1,27 @@
+PROTEASES2C
+The E.coli htrA gene product (or DegP protein) is essential for bacterial
+survival at temperatures above 42 degrees [1,2]. The htrA gene has been 
+sequenced and an open reading frame coding for a protein of 491 amino acids
+identified [1]. The protein has an N-terminal sequence typical of a leader
+peptide. The HtrA protein has been shown to be a specific endopeptidase 
+that is inhibited by diisopropylfluorophosphate, suggesting that HtrA is
+a serine protease [2]. 
+
+The degQ and degS genes of E.coli encode proteins of 455 and 355 residues
+that are homologues of the DegP protease [3]. Purified DegQ protein has the
+properties of a serine endoprotease, and is processed by the removal of a
+27-residue N-terminal signal sequence. Deletion studies suggest that DegQ,
+like DegP, functions as a periplasmic protease in vivo [3].
+
+PROTEASES2C is a 6-element fingerprint that provides a signature for the
+htrA/degQ family of serine proteases. The fingerprint was derived from
+an initial alignment of 12 sequences: the motifs were drawn from conserved
+regions spanning the central portion of the alignment - motif 1 includes
+the catalytic histidine; motif 2 contains the catalytic Asp; and motif 4
+includes the catalytic Ser. Three iterations on OWL30.0 were required to
+reach convergence, at which point a true set comprising 40 sequences was
+identified. Several partial matches were also found, all of which appear
+to be related proteases that fail to match one or more motifs.
+
+An update on SPTR37_9f identified a true set of 41 sequences, and 25
+partial matches.

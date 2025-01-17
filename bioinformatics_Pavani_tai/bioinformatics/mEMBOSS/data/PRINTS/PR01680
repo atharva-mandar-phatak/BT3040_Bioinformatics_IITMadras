@@ -1,0 +1,44 @@
+TNFACTORR6
+Like all apoptotic cell death, T cell receptor (TCR)-mediated death can be
+divided into two phases: an inductive phase and an effector phase. The 
+effector phase includes a sequence of steps that are common to apoptosis in
+many cell types, which, if not interrupted, will lead to cell death. The
+induction phase, which often requires the expression of new genes, consists
+of a set of signals that activate the effector phase. Outside the thymus,
+most, if not all, of the TCR-mediated apoptosis of mature T cells (sometimes
+referred to as activation-induced cell death (AICD)) is induced through the
+surface antigen Fas pathway: activation through the TCR induces expression
+of the Fas (CD95) ligand (FasL); the expression of FasL on either a
+neighbouring cell, or on the Fas-bearing cell, induces trimerisation of Fas,
+which then initiates a signal-transduction cascade, leading to apoptosis of 
+the Fas-bearing cell. This commitment stage requires the activation of key
+death-inducing enzymes, termed caspases, which act by cleaving proteins that
+are essential for cell survival and proliferation [1,2].
+
+Fas is also known to be essential in the death of hyperactivated peripheral
+CD4+ cells: in the absence of Fas, mature peripheral T cells do not die, but
+the activated cells continue to proliferate, producing cytokines that lead
+to grossly enlarged lymph nodes and spleen. Fas belongs to the tumour
+necrosis factor receptor (TNFR) family of cysteine-rich type I membrane
+receptors; its ligand (FasL) is expressed on activated lymphocytes, NK cells,
+platelets, certain immune-privileged cells and some tumour cells [1,3].
+
+Defects in the Fas-FasL system are associated with various disease syndromes.
+Mice with non-functional Fas or FasL display characteristics of lympho-
+proliferative disorder, such as lymphadenopathy, splenomegaly, and elevated 
+secretion of IgM and IgG. These mice also secrete anti-DNA autoantibodies
+and rheumatoid factor [3].
+
+TNFACTORR6 (formerly FASRECEPTOR) is a 5-element fingerprint that provides
+a signature for tumour necrosis factor 6 (FAS/CD95 receptor family). The
+fingerprint was derived from an initial alignment of 6 sequences: the motifs
+were drawn from conserved regions spanning virtually the full alignment
+length - motif 3 spans alpha-helix 1 and beta-strand 1; and motif 4 
+encompasses strand 2. Two iterations on SPTR39_17f were required to reach
+convergence, at which point a true set comprising 18 sequences was
+identified. Three partial matches were also found: Q9XS60 is a Fas antigen
+263-residue splice variant that lacks motif 5; and Q14292 and Q16652 are
+Fas soluble proteins that lack the region of sequence bearing motifs 4 and 5.
+
+An update on SPTR55_38f identified a true set comprising 24 sequences,
+together with 3 partial matches.

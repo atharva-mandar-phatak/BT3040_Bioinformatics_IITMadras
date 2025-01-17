@@ -1,0 +1,45 @@
+RCMT9
+RNA (C5-cytosine) methyltransferases (RCMTs) catalyse the transfer of a 
+methyl group to the 5th carbon of a cytosine base in RNA sequences to 
+produce C5-methylcytosine. RCMTs use the cofactor S-adenosyl-L-methionine 
+(SAM) as a methyl donor [1]. The catalytic mechanism of RCMTs involves an
+attack by the thiolate of a Cys residue on position 6 of the target cytosine
+base to form a covalent link, thereby activating C5 for methyl-group 
+transfer. Following the addition of the methyl group, a second Cys residue
+acts as a general base in the beta-elimination of the proton from the 
+methylated cytosine ring. The free enzyme is restored and the methylated
+product is released [2].
+
+Numerous putative RCMTs have been identified in archaea, bacteria and
+eukaryota [3,4]; most are predicted to be nuclear or nucleolar proteins [5].
+The Escherichia coli Ribosomal RNA Small-subunit Methyltransferase Beta
+(RSMB) FMU (FirMicUtes) represents the first protein identified and
+characterised as a cytosine-specific RNA methyltransferase. RSMB was
+reported to catalyse the formation of C5-methylcytosine at position 967 of
+16S rRNA [6,7].
+
+A classification of RCMTs has been proposed on the basis of sequence
+similarity [3]. According to this classification, RCMTs are divided into
+8 distinct subfamilies [3]. Recently, a new RCMT subfamily, termed RCMT9,
+was identified [4]. Members of the RCMT contain a core domain, responsible
+for the cytosine-specific RNA methyltransferase activity. This 'catalytic'
+domain adopts the Rossmann fold for the accommodation of the cofactor SAM
+[8]. The RCMT subfamilies are also distinguished by N-terminal and
+C-terminal extensions, variable both in size and sequence [3].    
+
+As mentioned above, RCMT9 is a novel subtype of RCMT-related proteins. 
+Putative orthologues of this subfamily have been detected only in
+Viridiplantae, Alveolata, Euglenozoa and Mycetozoa taxa. Members of this
+group are distantly related to the Nuclear protein 1 (NCL1) subfamily [4]. 
+
+RCMT9 is an 3-element fingerprint that provides a signature for  
+RNA (C5-cytosine) methyltransferase subfamily 9. The fingerprint was 
+derived from an initial alignment of 6 sequences: the motifs were drawn
+from conserved regions spanning virtually the full alignment length - 
+motifs 1 and 2 reside at the N-terminus; and motif 3 lies in the core
+'catalytic' region. Two iterations on SPTR57.15_40.15f were required 
+to reach convergence, at which point a true set comprising 14 sequences 
+was identified. Four partial matches were also found, all of which are
+fragments: Q2V2U2_ARATH and Q8W0S4_SORBI lack the portion of sequence
+bearing motif 1; Q9FKW7_ARATH lacks the portion of sequence bearing motif 2;
+and B8AGB7_ORYSI lacks part of the sequence bearing motif 3.

@@ -1,0 +1,39 @@
+************************************
+* FLAP/GST2/LTC4S family signature *
+************************************
+
+The following mammalian proteins are evolutionary related [1]:
+
+ - Leukotriene  C4  synthase  (EC  4.4.1.20)  (gene  LTC4S),  an  enzyme  that
+   catalyzes the production of LTC4 from LTA4.
+ - Microsomal glutathione S-transferase II (EC 2.5.1.18) (GST-II) (gene GST2),
+   an enzyme that can also produces LTC4 fron LTA4.
+ - 5-lipoxygenase  activating  protein (gene FLAP), a protein that seems to be
+   required for the activation of 5-lipoxygenase.
+
+These are  proteins  of  150  to 160 residues that contain three transmembrane
+segments. As  a  signature pattern, we selected a conserved region between the
+first and second transmembrane domains.
+
+-Consensus pattern: G-x(3)-F-E-R-V-[FY]-x-A-[NQ]-x-N-C
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1997 / First entry.
+
+[ 1] Jakobsson P.-J., Mancini J.A., Ford-Hutchinson A.W.
+     "Identification and characterization of a novel human microsomal
+     glutathione S-transferase with leukotriene C4 synthase activity and
+     significant sequence identity to 5-lipoxygenase-activating protein and
+     leukotriene C4 synthase."
+     J. Biol. Chem. 271:22203-22210(1996).
+     PubMed=8703034
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

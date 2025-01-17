@@ -1,0 +1,23 @@
+Y06768FAMILY
+Mycoplasma genitalium has the smallest known genome of any free-living 
+organism. Its complete genome sequence has been determined by whole-
+genome random sequencing and assembly [1]. Only 470 putative coding regions
+were identified, including genes for DNA replication, transcription and
+translation, DNA repair, cellular transport and energy metabolism [1]. 
+One family of hypothetical proteins, which includes products of the
+MG067/MG068/MG395 genes, has been shown to have homologues of similarly
+unknown function in M.pneumoniae [2].
+
+Y06768FAMILY is a 6-element fingerprint that provides a signature for 
+the Mycoplasma MG067/MG068/MG395 family of hypothetical proteins. The
+fingerprint was derived from an initial alignment of 5 sequences: the
+motifs were drawn from short conserved regions spanning the full alignment
+length - motif 5 lies in a region that bears some similarity to the
+conserved serine active site motif of the V8 family of serine proteases
+(cf. PROSITE pattern V8_SER (PS00673)). Two iterations on OWL30.0 were
+required to reach convergence, at which point a true set comprising 9
+sequences was identified. Several partial matches were also found, all
+of which are fragments.
+
+An update on SPTR37_9f identified a true set of 9 sequences, and 10
+partial matches.

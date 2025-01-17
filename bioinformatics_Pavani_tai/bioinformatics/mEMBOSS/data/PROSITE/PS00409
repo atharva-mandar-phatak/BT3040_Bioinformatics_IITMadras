@@ -1,0 +1,90 @@
+*******************************************
+* Prokaryotic N-terminal methylation site *
+*******************************************
+
+A number of bacteria express filamentous adhesins known as pili.  The pili are
+polar flexible filaments of about 5.4 nm diameter and  2500 nm average length;
+they  consist of a single polypeptide chain (called pilin or fimbrial protein)
+arranged in a helical configuration of five subunits per turn in the assembled
+pilus.  Gram-negative  bacteria  produce  pilin which are characterized by the
+presence of a  very  short  leader  peptide  of 6 to 7 residues, followed by a
+methylated N-terminal phenylalanine residue and by a highly conserved sequence
+of about 24 hydrophobic residues.  This class of pilin is often referred to as
+NMePhe or type-4 pili [1,2].
+
+Recently a number  of  bacterial proteins  have been sequenced which share the
+following structural characteristics with type-4 pili [3]:
+
+ a) The N-terminal residue, which  is  methylated, is hydrophobic (generally a
+    phenylalanine or a methionine);
+ b) The leader peptide is hydrophilic, consists of 5 to  10 residues (with two
+    exceptions, see below) and ends with a glycine;
+ c) The fifth residue of the mature  sequence is a glutamate which seems to be
+    required for the methylation step;
+ d) The first twenty residues of the mature sequence are highly hydrophobic.
+
+These proteins are listed below:
+
+ - Four proteins in an operon  involved  in  a general secretion pathway (GSP)
+   for  the export  of  proteins (also called the type II pathway) [4].  These
+   proteins have  been  assigned  a different gene name in each of the species
+   where they have been sequenced:
+
+   Species                     Gene names
+   ------------------------    -------------------------
+   Aeromonas hydrophila        exeG   exeH   exeI   exeJ
+   Erwinia chrysanthemi        outG   outH   outI   outJ
+   Escherichia coli            hofG   hofH   yheH   yheI
+   Klebsiella pneumoniae       pulG   pulH   pulI   pulJ
+   Pseudomonase aeruginosa     xcpT   xcpU   xcpV   xcpW
+   Vibrio cholerae             epsG   epsH   epsI   epsJ
+   Xanthomonas campestris      xpsG   xpsH   xpsI   xpsJ
+
+ - Vibrio cholerae toxin co-regulated pilin (gene tcpA). This pilin has a much
+   longer putative leader peptide (25 residues).
+ - Bacillus subtilis comG competence operon  proteins  3,  4,  and 5 which are
+   involved for the uptake of DNA by competent Bacillus subtilis cells.
+ - ppdA, ppdB and ppdC, three Escherichia coli hypothetical  proteins found in
+   the thyA-recC intergenic region.
+ - ppdA, a  hypothetical  protein  near  the  groeLS  operon  of   Clostridium
+   perfringens. The putative leader peptide is 23 residues long.
+
+We developed a signature  pattern  based on the N-terminal conserved region of
+all these proteins.
+
+-Consensus pattern: [KRHEQSTAG]-G-[FYLIVM]-[ST]-[LT]-[LIVP]-E-[LIVMFWSTAG](14)
+                    [The residue after the G is methylated]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: November 1995 / Text revised.
+
+[ 1] Paranchych W., Frost L.S.
+     "The physiology and biochemistry of pili."
+     Adv. Microb. Physiol. 29:53-114(1988).
+     PubMed=2898203
+[ 2] Dalrymple B., Mattick J.S.
+     "An analysis of the organization and evolution of type 4 fimbrial
+     (MePhe) subunit proteins."
+     J. Mol. Evol. 25:261-269(1987).
+     PubMed=3118043
+[ 3] Hobbs M., Mattick J.S.
+     "Common components in the assembly of type 4 fimbriae, DNA transfer
+     systems, filamentous phage and protein-secretion apparatus: a general
+     system for the formation of surface-associated protein complexes."
+     Mol. Microbiol. 10:233-243(1993).
+     PubMed=7934814
+[ 4] Salmond G.P.C., Reeves P.J.
+     "Membrane traffic wardens and protein secretion in gram-negative
+     bacteria."
+     Trends Biochem. Sci. 18:7-12(1993).
+     PubMed=8438237
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,25 @@
+EGFLAMININ
+Laminins are extracellular proteins whose primary sequences contain regions
+of EGF-like repeats: these differ from both the type I EGF repeats of 
+epidermal and transforming growth factors (see EGFTGF), and the type II 
+EGF-like repeats occurring in coagulation factors, notch proteins, etc. 
+(see EGFBLOOD) - this difference lies primarily in the exact nature of the 
+Cys spacings, thus warranting a further classification of EGF-like motifs, 
+the so-called type IIIs.
+
+The laminins contain an A, a B1 and a B2 chain, each of which display the 
+repeated type III EGF-like motif [1-3]. These domains have been shown to
+contain growth factor activity [3] and, in view of the clear relationship 
+between their amino acid sequences, it is believed they may share a common 
+structural framework with the type I EGF repeat.
+
+EGFLAMININ is a 4-element fingerprint that provides a signature for type 
+III EGF-like repeats. The fingerprint was derived from an initial align-
+ment of 4 sequences: the motifs include a number of cysteines believed to
+be involved in disulphide bond formation, motifs 1 and 2 spanning the region
+encoded by PROSITE pattern EGF (PS00022). Four iterations on OWL12.0 were
+required to reach convergence, at which point a true set of 12 sequences
+was identified. 
+
+An update on SPTR37_9f identified a true set of 22 sequences, and 6
+partial matches.

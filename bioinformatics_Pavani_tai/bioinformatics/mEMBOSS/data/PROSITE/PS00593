@@ -1,0 +1,64 @@
+****************************
+* Heme oxygenase signature *
+****************************
+
+Heme oxygenase  (EC 1.14.99.3) (HO) [1]  is  the  microsomal  enzyme  that, in
+animals, carries out the oxidation of heme, it cleaves the  heme  ring  at the
+alpha methene bridge  to  form biliverdin and  carbon monoxide.  Biliverdin is
+subsequently converted to bilirubin by biliverdin reductase.
+
+In mammals there are three isozymes of heme oxygenase: HO-1 to HO-3. The first
+two isozymes differ in their tissue expression and their inducibility: HO-1 is
+highly inducible by its substrate  heme  and  by  various non-heme substances,
+while HO-2  is  non-inducible.  It  has  been suggested [2] that HO-2 could be
+implicated in  the production of carbon monoxide in the brain where it is said
+to act as a neurotransmitter.
+
+In the  genome  of  the  chloroplast of red algae as well as in cyanobacteria,
+there is  a heme oxygenase (gene pbsA) that is the key enzyme in the synthesis
+of the chromophoric part of the photosynthetic antennae [3]. An heme oxygenase
+is also present in the bacteria Corynebacterium diphtheriae (gene hmuO), where
+it is involved in the acquisition of iron from the host heme [4].
+
+There is,  in  the  central  section of these enzymes, a well conserved region
+centered on  a  histidine  residue.  We  have  used this region as a signature
+pattern.
+
+-Consensus pattern: L-[IV]-A-H-[STACH]-Y-[STV]-[RT]-Y-[LIVM]-G
+                    [H is the heme-binding ligand]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2004 / Text revised.
+
+[ 1] Maines M.D.
+     "Heme oxygenase: function, multiplicity, regulatory mechanisms, and
+     clinical applications."
+     FASEB J. 2:2557-2568(1988).
+     PubMed=3290025
+[ 2] Barinaga M.
+     "Carbon monoxide: killer to brain messenger in one step."
+     Science 259:309-309(1993).
+     PubMed=8093563
+[ 3] Richaud C., Zabulon G.
+     "The heme oxygenase gene (pbsA) in the red alga Rhodella violacea is
+     discontinuous and transcriptionally activated during iron
+     limitation."
+     Proc. Natl. Acad. Sci. U.S.A. 94:11736-11741(1997).
+     PubMed=9326680
+[ 4] Schmitt M.P.
+     "Utilization of host iron sources by Corynebacterium diphtheriae:
+     identification of a gene whose product is homologous to eukaryotic
+     heme oxygenases and is required for acquisition of iron from heme and
+     hemoglobin."
+     J. Bacteriol. 179:838-845(1997).
+     PubMed=9006041
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

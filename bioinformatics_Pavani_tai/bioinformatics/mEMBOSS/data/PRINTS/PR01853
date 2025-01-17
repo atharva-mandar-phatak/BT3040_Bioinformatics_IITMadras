@@ -1,0 +1,40 @@
+YAJCTRNLCASE
+Secretion across the inner membrane in some Gram-negative bacteria occurs 
+via the preprotein translocase pathway. Proteins are produced in the 
+cytoplasm as precursors, and require a chaperone subunit to direct them to 
+the translocase component [1]. From there, the mature proteins are either
+targeted to the outer membrane, or remain as periplasmic proteins [1]. The 
+translocase protein subunits are encoded on the bacterial chromosome. 
+
+The translocase itself comprises 7 proteins, including a chaperone (SecB), 
+ATPase (SecA), an integral membrane complex (SecY, SecE and SecG), and two 
+additional membrane proteins that promote the release of the mature peptide 
+into the periplasm (SecD and SecF) [1]. Other cytoplasmic/periplasmic 
+proteins play a part in preprotein translocase activity, namely YidC and 
+YajC [2]. The latter is bound in a complex to SecD and SecF, and plays a
+part in stabilising and regulating secretion through the SecYEG integral
+membrane component via SecA [2]. 
+
+Homologues of the YajC gene have been found in a range of pathogenic and 
+commensal microbes. Brucella abortis YajC- and SecD-like proteins were shown
+to stimulate a Th1 cell-mediated immune response in mice, and conferred 
+protection when challenged with B.abortis [3]. Therefore, these proteins may
+have an antigenic role as well as a secretory one in virulent bacteria [3].
+A number of previously uncharacterised "hypothetical" proteins also show
+similarity to E.coli YajC, suggesting that this family is wider than first 
+thought [3].
+
+More recently, the precise interactions between the E.coli SecYEG complex, 
+SecD, SecF, YajC and YidC have been studied [4]. Rather than acting 
+individually, the four proteins form a heterotetrameric complex and 
+associate with the SecYEG heterotrimeric complex [4]. The SecF and YajC 
+subunits link the complex to the integral membrane translocase.
+
+YAJCTRNLCASE is a 3-element fingerprint that provides a signature for the
+bacterial YajC preprotein translocases. The fingerprint was derived from an
+initial alignment of 12 sequences: the motifs were drawn from conserved 
+regions spanning virtually the full alignment length. Five iterations on
+SPTR40_20f were required to reach convergence, at which point a true set
+comprising 39 sequences was identified. Six partial matches were also
+found, all of which appear to be related proteins that failed to make a 
+significant match with motif 1.

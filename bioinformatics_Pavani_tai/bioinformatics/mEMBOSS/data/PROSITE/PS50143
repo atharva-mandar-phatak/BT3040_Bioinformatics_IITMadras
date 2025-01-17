@@ -1,0 +1,73 @@
+************************************
+* BIR repeat signature and profile *
+************************************
+
+The 'baculovirus  inhibitior  of  apoptosis  protein  repeat' (BIR) [1,2] is a
+domain of about 70 residues arranged in tandem repeats separated by a variable
+length linker,  that  seems  to  confer  cell death-preventing activity. It is
+found in  proteins  belonging  to  the  IAP  (inhibitor of apoptosis proteins)
+family. The  critical  motifs  required  for  anti-apoptotic  activity  of IAP
+proteins are  the  BIRs.  All IAP proteins contain from one to three BIRs, and
+all known  interactions between IAPs and other proteins are mediated by one or
+more BIRs [3].
+
+The BIR domain has a fold that is stabilized by zinc tetrahedrally coordinated
+by one  histidine  and three cysteine residues (see <PDB:1QBH>). The structure
+consists of  three  short  alpha-helices  and turns with the zinc packed in an
+unusually hydrophobic   environment   created  by  residues  that  are  highly
+conserved among  all  BIRs.  A subclass of repeats, comprising those at the C-
+terminus of  a  series  of  BIR  repeats from IAP proteins bearing RING finger
+domains (see <PDOC00449>), are likely to contain a C-terminal region that form
+an alpha-helix [3].
+
+Proteins that are known to contain this domain are listed below.
+
+ - Baculoviruses apoptosis inhibitors (IAPs).
+ - Mammalian apoptosis inhibitors 1 and 2 (IAP1 and IAP2).
+ - Mammalian X-linked inhibitor of apoptosis protein (X-linked IAP).
+ - Chicken IAP (ITA).
+ - Human neuronal apoptosis inhibitory protein (NAIP).
+ - Drosophila apoptosis inhibitors 1 and 2 (Iap1 and Iap2).
+ - African Swine Fever Virus (ASFV) protein p27.
+
+BIR contains  a  number of perfectly conserved residues including an histidine
+and three  cysteines.  The signature pattern for BIR spans the total length of
+the repeat. We also developed a profile that spans the whole repeat.
+
+-Consensus pattern: [HKEPILVY]-x(2)-R-x(3,7)-[FYW]-x(11,14)-[STAN]-G-[LMF]-x-
+                    [FYHDA]-x(4)-[DESL]-x(2,3)-C-x(2)-C-x(6)-[WA]-x(9)-H-x(4)-
+                    [PRSD]-x-C-x(2)-[LIVMA]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: November 2011 / Text revised.
+
+[ 1] Birnbaum M.J., Clem R.J., Miller L.K.
+     "An apoptosis-inhibiting gene from a nuclear polyhedrosis virus
+     encoding a polypeptide with Cys/His sequence motifs."
+     J. Virol. 68:2521-2528(1994).
+     PubMed=8139034
+[ 2] Liston P., Roy N., Tamai K., Lefebvre C., Baird S., Cherton-Horvat G.,
+     Farahani R., McLean M., Ikeda J.E., MacKenzie A., Korneluk R.G.
+     "Suppression of apoptosis in mammalian cells by NAIP and a related
+     family of IAP genes."
+     Nature 379:349-353(1996).
+     PubMed=8552191
+[ 3] Hinds M.G., Norton R.S., Vaux D.L., Day C.L.
+     "Solution structure of a baculoviral inhibitor of apoptosis (IAP)
+     repeat."
+     Nat. Struct. Biol. 6:648-651(1999).
+     PubMed=10404221; DOI=10.1038/10701
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

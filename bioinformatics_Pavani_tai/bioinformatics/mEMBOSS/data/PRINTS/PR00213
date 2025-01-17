@@ -1,0 +1,27 @@
+MYELINP0
+The myelin sheath is a multi-layered membrane, unique to the nervous system,
+that functions as an insulator to greatly increase the velocity of axonal
+impulse conduction [1]. The P0 glycoprotein, absent in the central nervous
+system [1], is a major component of the myelin sheath in peripheral nerves:
+it comprises a large extracellular N-terminal domain, a single trans-
+membrane (TM) region, and a smaller positively-charged intracellular
+domain. It is postulated that P0 is a structural element in the formation
+and stabilisation of peripheral nerve myelin [2], holding its characteristic
+coil structure together by the interaction of its positively-charged domain
+with acidic lipids in the cytoplasmic face of the opposed bilayer, and by
+interaction between hydrophobic globular 'heads' of adjacent extracellular
+domains [1].
+
+MYELINP0 is a 6-element fingerprint that provides a signature for the P0
+family of myelin proteins. The fingerprint was derived from an initial 
+alignment of 5 sequences: motifs 1-4 were drawn from conserved regions
+spanning most of the extracellular domain; motif 5 encodes the TM region;
+and motif 6 includes the region encoded by PROSITE pattern MYELIN_P0
+(PS00565), which lies in the intracellular domain. Two iterations on OWL23.2
+were required to reach convergence, at which point a true set comprising 6
+sequences was identified. A single partial match was also found, HSMYELIN,
+which matches all but the last motif as a result of an insertion mutation
+in the gene.
+
+An update on SPTR37_9f identified a true set of 6 sequences, and 4
+partial matches.

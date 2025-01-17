@@ -1,0 +1,76 @@
+***********************************************
+* Transcription factor TFIIB repeat signature *
+***********************************************
+
+In eukaryotes the initiation  of  transcription  of protein  encoding genes by
+polymerase II is modulated by general and specific transcription factors.  The
+general transcription  factors operate through common promoters elements (such
+as the TATA box). At  least  seven  different  proteins associates to form the
+general  transcription factors:  TFIIA, -IIB, -IID, -IIE, -IIF, -IIG, and -IIH
+[1].
+
+Transcription factor IIB (TFIIB) plays a central role in the  transcription of
+class II genes,  it  associates  with  a complex of TFIID-IIA bound to DNA (DA
+complex) to form a  ternary  complex TFIID-IIA-IBB (DAB complex) which is then
+recognized by RNA polymerase II [2,3].  TFIIB is a protein of about 315 to 340
+amino acid residues which contains, in its C-terminal part an imperfect repeat
+of a domain of about 75 residues.  This  repeat could contribute an element of
+symmetry to the folded protein.
+
+The following proteins have been shown to be evolutionary related to TFIIB:
+
+ - An  archaebacterial TFIIB  homolog.  In   Pyrococcus  woesei  a  previously
+   undetected  open reading  frame   has  been shown [4] to be  highly related
+   to TFIIB.
+ - Fungal transcription factor IIIB  70 Kd  subunit  (gene PCF4/TDS4/BRF1) [5].
+   This protein  is a general activator  of  RNA polymerase III  transcription
+   and plays a role analogous to that of TFIIB in pol III transcription.
+
+As a signature pattern we selected the central section of the repeated domain,
+which is the most conserved part of that domain.
+
+-Consensus pattern: G-[KR]-x(3)-[STAGN]-{S}-[LIVMYA]-[GSTA](2)-[CSAV]-[LIVM]-
+                    [LIVMFY]-[LIVMA]-[GSA]-[STAC]
+-Sequences known to belong to this class detected by the pattern: ALL. In most
+ cases this pattern is found twice, except in plants and yeast TFIIB where the
+ second copy of the domain is not detected by this pattern.
+-Other sequence(s) detected in Swiss-Prot: 2.
+
+-Expert(s) to contact by email:
+           Ouzounis C.; ouzounis@ebi.ac.uk
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Weinmann R.
+     "The basic RNA polymerase II transcriptional machinery."
+     Gene Expr. 2:81-91(1992).
+     PubMed=1633439
+[ 2] Hawley D.
+     "Transcriptional activation: enter TFIIB."
+     Trends Biochem. Sci. 16:317-318(1991).
+     PubMed=1949150
+[ 3] Ha I., Lane W.S., Reinberg D.
+     "Cloning of a human gene encoding the general transcription initiation
+     factor IIB."
+     Nature 352:689-695(1991).
+     PubMed=1876184; DOI=10.1038/352689a0
+[ 4] Ouzounis C., Sander C.
+     "TFIIB, an evolutionary link between the transcription machineries of
+     archaebacteria and eukaryotes."
+     Cell 71:189-190(1992).
+     PubMed=1423586
+[ 5] Khoo B., Brophy B., Jackson S.P.
+     "Conserved functional domains of the RNA polymerase III general
+     transcription factor BRF."
+     Genes Dev. 8:2879-2890(1994).
+     PubMed=7995525
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,68 @@
+******************************************************
+* Intein DOD-type homing endonuclease domain profile *
+******************************************************
+
+Inteins  (for  INternal  proTEINs)  are  in  frame  intervening sequences that
+disrupt  the  coding  region  of  a  host  gene. They are post-translationally
+excised  from a protein precursor by a self-catalytic protein splicing process
+[1,2,3,E1].  Most  inteins  are  bifunctional  proteins mediating both protein
+splicing and  DNA  cleavage.  The domain involved in splicing is formed by the
+two terminal  splicing  regions  (see  <PDOC00687>),  which are separated by a
+small linker  in  mini-inteins or a 200- to 250-amino-acid homing endonuclease
+in larger inteins [1,3]. Homing endonucleases are rare-cutting enzymes encoded
+by inteins  and  introns. By making a site-specific double-strand break in the
+intronless  or  inteinless alleles, these nucleases create recombinogenic ends
+which engage in a gene conversion process that duplicates the intron or intein
+[4,5]. There are four families of homing endonucleases classified by conserved
+sequence motifs. Homing endonucleases found in inteins generally belong to the
+dodecapetide   (DOD)   family,   but   an  HNH  endonuclease  is  also  found.
+Endonucleases  of  the  DOD  family  contain one or two copies of a 10-residue
+sequence  known  as  a  dodecapeptide or LAGLIDADG motif. They recognize long,
+pseudopalindromic  homing  sites of 14-30 bp in length and cleave their homing
+site  DNA  to  generate  4nt,  3'  extensions.  The DOD endonucleases found in
+inteins  contain 2 dodecapeptide motifs and are active as monomers. Resolution
+of the 3D structure of PI-Sce revealed that the endonuclease domain consist of
+alpha/beta motifs  related  by  pseudo two-fold symmetry (see <PDB:1DFA>). The
+two alpha-helices  containing  the  dodecapeptide  motifs  form  the  axis  of
+symmetry [4,5,E1].
+
+The profile we have developed covers the conserved central intein blocks C, D,
+E and  H.  Blocks  C  and E are the dodecapeptide motifs that are required for
+endonuclease activity and each contains an endonuclease active site Asp or Glu
+[2,E1].
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: May 2002 / First entry.
+
+[ 1] Liu X.-Q.
+     "Protein-splicing intein: Genetic mobility, origin, and evolution."
+     Annu. Rev. Genet. 34:61-76(2000).
+     PubMed=11092822; DOI=10.1146/annurev.genet.34.1.61
+[ 2] Perler F.B., Olsen G.J., Adam E.
+     "Compilation and analysis of intein sequences."
+     Nucleic Acids Res. 25:1087-1093(1997).
+     PubMed=9092614
+[ 3] Perler F.B.
+     "InBase, the Intein Database."
+     Nucleic Acids Res. 28:344-345(2000).
+     PubMed=10592269
+[ 4] Belfort M., Roberts R.J.
+     "Homing endonucleases: keeping the house in order."
+     Nucleic Acids Res. 25:3379-3388(1997).
+     PubMed=9254693
+[ 5] Jurica M.S., Stoddard B.L.
+     "Homing endonucleases: structure, function and evolution."
+     Cell. Mol. Life Sci. 55:1304-1326(1999).
+     PubMed=10487208
+[E1] http://www.neb.com/neb/inteins.html
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

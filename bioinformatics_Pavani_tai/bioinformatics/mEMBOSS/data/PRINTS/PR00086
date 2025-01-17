@@ -1,0 +1,24 @@
+LLDHDRGNASE
+L-Lactate dehydrogenase (LLDH) is the enzyme involved in the last step of 
+anaerobic glycolysis [1], catalysing the NAD-dependent interconversion of 
+lactate and pyruvate [2]. LLDH is a tetrameric enzyme present in prokaryote
+and eukaryote organisms. In vertebrates there are 3 tissue-specific LLDH
+isoenzymes: the M form (LDH-A), found largely in muscle tissue; the H form
+(LDH-B), found in heart muscle; and the X form (LDH-C), found in the 
+spermatozoa of birds and mammals [1]. An evolutionary relationship exists
+between LLDH and L-2-deoxyisocaproate dehydrogenase (L-hicDH), an enzyme
+that catalyses the reversible and stereospecific interconversion between
+2-ketocarboxylic acids and L-2-hydroxycarboxylic acids.
+
+LLDHDRGNASE is a 5-element fingerprint that provides a signature for 
+L-lactate dehydrogenases. The fingerprint was derived from an initial
+alignment of 8 sequences: the motifs surround the active site, motif 5
+including the region encoded by PROSITE pattern L_LDH (PS00064), the
+conserved His of which is essential for the catalytic activity. Two
+iterations on OWL21.1 were required to reach convergence, at which point
+a true set comprising 48 sequences was identified, including an
+L-2-deoxyisocaproate dehydrogenase. Eight partial matches were also
+found, all of which are fragments.
+
+An update on SPTR37_9f identified a true set of 101 sequences, and 5
+partial matches.

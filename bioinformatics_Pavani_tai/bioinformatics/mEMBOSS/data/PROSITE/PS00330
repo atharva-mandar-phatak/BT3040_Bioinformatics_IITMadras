@@ -1,0 +1,58 @@
+***************************************************
+* Hemolysin-type calcium-binding region signature *
+***************************************************
+
+Gram-negative bacteria  produce  a  number of proteins which are secreted into
+the growth medium by a mechanism that  does  not  require a cleaved N-terminal
+signal sequence. These proteins, while having different functions, seem [1] to
+share two properties: they bind calcium  and they contain a variable number of
+tandem repeats consisting of a nine amino acid motif rich in glycine, aspartic
+acid and asparagine. It has been shown [2] that such  a  domain is involved in
+the binding of calcium ions in a parallel beta roll structure.    The proteins
+which are currently known to belong to this category are:
+
+ - Hemolysins from  various  species  of bacteria.   Bacterial  hemolysins are
+   exotoxins that attack blood  cell  membranes  and cause  cell rupture.  The
+   hemolysins which are known to contain such a domain are those from: E. coli
+   (gene hlyA),   A. pleuropneumoniae  (gene appA),   A. actinomycetemcomitans
+   and P. haemolytica (leukotoxin) (gene lktA).
+ - Cyclolysin from Bordetella pertussis (gene cyaA). A multifunctional protein
+   which is both an adenylate cyclase and a hemolysin.
+ - Extracellular zinc proteases: serralysin (EC 3.4.24.40) from Serratia, prtB
+   and prtC from Erwinia chrysanthemi and aprA from Pseudomonas aeruginosa.
+ - Nodulation protein nodO from Rhizobium leguminosarum.
+
+We derived a signature pattern from conserved positions in the sequence of the
+calcium-binding domain.
+
+-Consensus pattern: D-x-[LI]-x(4)-G-x-D-x-[LI]-x-G-G-x(3)-D
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: This pattern  is found once in nodO and the extracellular proteases but
+ up to 5 times in some hemolysin/cyclolysins.
+
+-Last update: October 1993 / Text revised.
+
+[ 1] Economou A., Hamilton W.D.O., Johnston A.W., Downie J.A.
+     "The Rhizobium nodulation gene nodO encodes a Ca2(+)-binding protein
+     that is exported without N-terminal cleavage and is homologous to
+     haemolysin and related proteins."
+     EMBO J. 9:349-354(1990).
+     PubMed=2303029
+[ 2] Baumann U., Wu S., Flaherty K.M., McKay D.B.
+     "Three-dimensional structure of the alkaline protease of Pseudomonas
+     aeruginosa: a two-domain protein with a calcium binding parallel beta
+     roll motif."
+     EMBO J. 12:3357-3364(1993).
+     PubMed=8253063
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

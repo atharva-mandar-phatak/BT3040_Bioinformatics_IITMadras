@@ -1,0 +1,41 @@
+ACONITASE
+Aconitase (aconitate hydratase) catalyses the stereo-specific isomerisation
+of citrate to isocitrate via cis-aconitate in the tricarboxylic acid cycle,
+a non-redox active process [1]. By contrast with the majority of iron-
+sulphur proteins that function as electron carriers, the Fe-S cluster of
+aconitase reacts directly with an enzyme substrate [1,2]. Aconitase has an
+active [4Fe-4S](2+) cluster, which may convert to an inactive [3Fe-4S](1+) 
+form. Three Cys residues have been shown to be ligands of the [4Fe-4S] 
+centre [3]. The iron-responsive element binding protein (IRE-BP) and alpha-
+isopropylmalate isomerase, an enzyme catalysing the second step in the
+biosynthesis of leucine, are known aconitase homologues [4].
+
+Iron regulatory elements (IREs) constitute a family of 28-nucleotide, non-
+coding, stem-loop structures that regulate iron storage, haem synthesis
+and iron uptake. They also participate in ribosome binding, and control
+turnover (degradation). The specific regulator protein, the IRE-BP, binds
+to IREs in both 5' and 3' regions [5], but only to RNA in the apo form,
+without the Fe-S cluster. Expression of IRE-BP in cultured cells has
+revealed that the protein functions either as an active aconitase, when 
+cells are iron-replete, or as an active RNA-binding protein, when cells
+are iron-depleted [6]. Mutant IRE-BPs, in which any or all of the 3 Cys
+residues involved in Fe-S formation are replaced by Ser, have no aconitase
+activity, but retain RNA-binding properties [7].
+
+The 3D-structure of mitochondrial aconitase has been determined [2], and
+has been shown to contain 4 alpha/beta domains: the 3 N-terminal domains
+have similar folds, each with 3 alpha-beta-alpha layers; while the 
+C-terminal domain forms a beta-barrel. 
+
+ACONITASE is a 9-element fingerprint that provides a signature for the
+aconitase family. The fingerprint was derived from an initial alignment of
+18 sequences: the motifs were drawn from conserved regions spanning the N-
+terminal half of the alignment - motif 8 includes the region encoded by
+PROSITE pattern ACONITASE (PS00450), which contains the first conserved
+Cys of the [4Fe-4S] cluster; and motif 9 includes the second and third 
+conserved Cys residues. Two iterations on OWL26.3 were required to reach
+convergence, at which point a true set comprising 32 sequences was
+identified. Five partial matches were also found.
+
+An update on SPTR37_9f identified a true set of 49 sequences, and 21
+partial matches.

@@ -1,0 +1,42 @@
+NITROPHORIN
+The lipocalins are a diverse, interesting, yet poorly understood family of 
+proteins composed, in the main, of extracellular ligand-binding proteins
+displaying high specificity for small hydrophobic molecules [1,2]. Functions
+of these proteins include transport of nutrients, control of cell regula-
+tion, pheromone transport, cryptic colouration, and the enzymatic synthesis
+of prostaglandins.
+ 
+The crystal structures of several lipocalins have been solved and show a 
+novel 8-stranded anti-parallel beta-barrel fold well conserved within the
+family. Sequence similarity within the family is at a much lower level and
+would seem to be restricted to conserved disulphides and 3 motifs, which
+form a juxtaposed cluster that may act as a common cell surface receptor
+site [2]. By contrast, at the more variable end of the fold are found an 
+internal ligand binding site and a putative surface for the formation of 
+macromolecular complexes [4]. The anti-parallel beta-barrel fold is also
+exploited by the fatty acid-binding proteins (which function similarly by
+binding small hydrophobic molecules), by avidin and the closely related
+metalloprotease inhibitors, and by triabin. Similarity at the sequence 
+level, however, is less obvious, being confined to a single short 
+N-terminal motif.
+
+The lipocalin family can be subdivided into kernal and outlier sets. The 
+kernal lipocalins form the largest self-consistent group (see LIPOCALIN
+signature). The outlier lipocalins form several smaller distinct subgroups: 
+the OBPs, the von Ebner's gland proteins, alpha-1-acid glycoproteins, tick
+histamine binding proteins and the nitrophorins.
+  
+The nitrophorins [5,6] are a recently identified group of lipocalin outliers
+that bind nitric oxide. They are present in the saliva of blood sucking 
+insects, where they function as vasodilators and anticoagulent agents. 
+  
+NITROPHORIN is a 6-element fingerprint that provides a signature for the 
+nitrophorins. The fingerprint was derived from an initial alignment of 2
+sequences: the motifs were drawn from short conserved regions spanning
+virtually the full alignment length - motif 1 includes part of the GxW 
+triplet, which resides in the first beta-strand (cf. LIPOCALIN signature
+motif 1 and PROSITE pattern LIPOCALIN (PS00213)); motif 2 contains the haem 
+attachment site; motif 3 encodes strand 4; motif 4 spans strands 7 and 8
+(cf. LIPOCALIN signature motif 2); motif 5 encodes strand 9; and motif 6
+spans helices 2 and 3. Two iterations on SPRT37_10f were required to reach
+convergence, at which point a true set comprising 5 sequences was identified.

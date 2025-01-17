@@ -1,0 +1,27 @@
+TNECROSISFCT
+Tumor necrosis factor (TNF) (or cachectin) is a monocyte-derived cytotoxin
+that has been implicated in tumour regression, septic shock and cachexia
+[1,2]. The protein is synthesised as a prohormone with an unusually long 
+and atypical signal sequence, which is absent from the mature secreted
+cytokine [3]. A short hydrophobic stretch of amino acids serves to anchor 
+the prohormone in lipid bilayers [4]. Both the mature protein and a 
+partially-processed form of the hormone are secreted after cleavage of the
+propeptide [4]. 
+
+The structure of TNF has been determined to 2.9A using X-ray crystallography
+[5]. The protein is trimeric, each subunit consisting of an anti-parallel
+beta-sandwich. The subunits trimerise via a novel edge-to-face packing of
+beta-sheets [5]. Comparison of the subunit fold with that of other proteins
+reveals similarity to the 'jelly-roll' structural motif characteristic of
+viral coat proteins [5]. It is believed that each TNF molecule has three 
+receptor-interaction sites (between the three subunits), thus allowing
+signal transmission by receptor clustering [6]. 
+
+TNECROSISFCT is a 5-element fingerprint that provides a signature for
+tumour necrosis factors. The fingerprint was derived from an initial
+alignment of 21 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length - motif 1 includes beta-strand
+1; motif 2 spans strands 2 and 3; motif 3 encodes strands 6 and 7; motif 4
+spans strands 9 and 10; and motif 5 encodes strand 11. Two iterations on 
+SPTR37_10f were required to reach convergence, at which point a true set
+comprising 30 sequences was identified.

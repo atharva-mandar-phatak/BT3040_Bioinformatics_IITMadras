@@ -1,0 +1,23 @@
+PSTLEXTENSIN
+Extensins are plant cell-wall proteins; they can account for up to 20% of
+the dry weight of the cell wall. They are highly-glycosylated, possibly
+reflecting their interactions with cell-wall carbohydrates. Amongst their 
+functions is cell wall strengthening in response to mechanical stress (e.g.,
+during attack by pests, plant-bending in the wind, etc.).
+
+By contrast with extensin genes, pistil-specific extensin-like genes are
+not induced under stress conditions [1]. Gene expression is organ-specific 
+and temporally regulated during pistil development. After pollination, 
+transcript levels of pistil-specific extensin-like genes change relative to
+levels in unpollinated pistils [1]. The protein sequence is characterised
+by a number of ser-pro-pro-pro-pro pentapeptide repeats.
+
+PSTLEXTENSIN is an 8-element fingerprint that provides a signature for
+pistil-specific extensin-like proteins. The fingerprint was derived from an
+initial alignment of 2 sequences: the motifs were largely drawn from 
+conserved regions spanning the C-terminal half of the alignment - motif 1
+lies towards the N-terminus, while motifs 2-8 reside in the C-terminal
+domain. A single iteration on SPTR37_10f was required to reach convergence, 
+no further sequences being identified beyond the starting set. Two partial
+matches were found, both of which are related proteins that fail to match
+one or more motifs.

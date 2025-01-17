@@ -1,0 +1,70 @@
+MITP450CC24
+P450 enzymes constitute a superfamily of haem-thiolate proteins [1],
+widely distributed in bacteria, fungi, plants and animals. The enzymes
+are involved in metabolism of a plethora of both exogenous and endogenous
+compounds [2]. Usually, they act as terminal oxidases in multi-component
+electron transfer chains, called P450-containing monooxygenase systems. 
+
+P450-containing monooxygenase systems primarily fall into 2 major classes:
+bacterial/mitochondrial (type I); and microsomal (type II). Alternatively,
+P450-containing systems can be classified according to the number of their
+protein components [3]: mitochondrial and most bacterial P450 systems have
+3 components - an FAD-containing flavoprotein (NADPH or NADH-dependent
+reductase), an iron-sulphur protein, and P450; the eukaryotic microsomal 
+P450 system contains 2 components - NADPH:P450 reductase (a flavoprotein
+containing both FAD and FMN) and P450; and a soluble monooxygenase P450BM-3
+from Bacillus megaterium exists as a single polypeptide chain with 2 
+functional parts (the haem and flavin domains), and represents a unique 
+bacterial one-component system - sequence and functional comparisons show
+that these domains are more similar to P450 and the flavoprotein of the
+microsomal 2-component P450 monooxygenase system than to the relevant
+proteins of the 3-component system [4].
+
+Current P450 nomenclature, based on divergent evolution of the P450 
+superfamily, was proposed and developed by Nebert et al. [5]. On the basis 
+of sequence similarity, all P450s can be categorised into 2 main groups, 
+the so-called B- and E-classes: P450 proteins of prokaryotic 3-component 
+systems and fungal P450nor (CYP55) belong to the B-class; all other known 
+P450s from distinct systems are of the E-class. The data suggest that 
+divergence of the P450 superfamily into B- and E-classes, and further 
+divergence into stable P450 groups within the E-class, must be very ancient
+and had occured before the appearance of eukaryotes. 
+
+By contrast with the B-class, containing water-soluble haemoproteins, 
+most E-class P450s are membrane-bound. Membranous P450s can be divided into
+those from the inner mitochondrial membrane (mitochondrial type), and those
+from membranes of the endoplasmic reticulum (ER) (microsomal type). In the
+mitochondrial P450-containing monooxygenase system, P450 can be reduced by
+the 2Fe-2S iron-sulphur protein adrenodoxin, which can accept electrons
+from NADPH-dependent adrenodoxin reductase. Both adrenodoxin and
+adrenodoxin reductase are soluble, and located in the mitochondrial matrix 
+[6]. Microsomal P450s depend on a single NADPH:P450 reductase; the P450s
+and the reductase are located on the cytosolic side of the ER membrane, and
+are anchored to the membrane by hydrophobic amino-terminal segments [7].  
+
+To date, only animal mitochondrial P450s have been sequenced. P450scc
+(CYP11A) is responsible for conversion of cholesterol to pregnenolone [8].
+P450s from the CYP11B subfamily catalyse 11-beta- or 18-hydroxylation of
+steroids [9]. The CYP27 family contain enzymes involved in 25-hydroxylation
+of vitamin D3 and sterol 26- and 27-hydroxylation [10]. P450 from pond
+snail (CYP10) is highly similar to the mitochondrial P450, although its
+cellular location is unknown [11].
+
+A cDNA encoding 25-hydroxyvitamin D3 24-hydroxylase (P450cc24) has been
+isolated from rat kidney [12]. The cDNA contained a 1542bp open reading
+frame encoding 514 amino acids, including an N-terminal presequence typical
+of mitochondrial enzymes [12]. The sequence shows less than 30% similarity 
+to those of other cytochrome P450s, and hence P450cc24 constitutes a novel
+P450 family [12]. The enzyme catalyses the conversion of 25-hydroxyvitamin
+D3 and 1-alpha, 25-dihydroxyvitamin D3 to 24,25-dihydroxyvitamin D3 and
+1,24,25-trihydroxyvitamin D3, respectively [13].
+
+MITP450CC24 is a 5-element fingerprint that provides a signature for the
+mammalian CC24 mitochondrial P450. The fingerprint was derived from an 
+initial alignment of 3 sequences: the motifs were drawn from short conserved 
+regions, focusing on those sections of the alignment that characterise CC24 
+P450s but distinguish them from other mitochondrial P450s. A single
+iteration on SPTR37_10f was required to reach convergence, no further 
+sequences being identifed beyond the starting set. A single partial match
+was found, O73684, a chicken 25-hydroxyvitamin D(3) 24-hydroxylase that
+matches motifs 1,2 and 4.

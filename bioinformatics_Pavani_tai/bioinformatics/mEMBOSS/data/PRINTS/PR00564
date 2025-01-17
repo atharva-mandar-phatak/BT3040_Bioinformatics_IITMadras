@@ -1,0 +1,62 @@
+CXCCHMKINER5
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5].
+
+Chemokines are proteins that have important physiological and patho-
+physiological roles in a wide range of acute and chronic inflammatory
+processes [6]. Their sequences are similar and are characterised by a
+4-cysteine motif: the family can be divided according to whether the first 2
+Cys residues are adjacent (the C-C family), or separated by an intervening
+residue (the C-x-C family).
+
+A novel C-X-C chemokine, named B cell-attracting chemokine 1 (BCA-1), was
+identified through screening of expressed sequence tag data [8]. The
+chemokine was found to be expressed at highest levels in the liver, spleen,
+lymph nodes, appendix and stomach. Lower levels of BCA-1 were also found in
+the salivary and mammary glands. Expression appears to be constitutive in
+lymphoid tissues [8].
+
+The receptor for BCA-1 was found to be a previously identified orphan
+receptor, expressed on B lymphocytes and Burkitt's lymphoma cells. This
+receptor, originally named BLR1 (Burkitt's lymphoma receptor 1), has now
+been renamed CXCR5 (C-X-C chemokine receptor type 5)[8]. B lymphocytes 
+expressing CXCR5 migrate in a concentration dependent manner in response to
+BCA-1. BCA-1 does not induce chemotaxis in T lymphocytes, monocytes or 
+neutrophils. This selectivity for B lymphocytes is unique among the
+chemokines [8]. BCA-l/CXCR5 may be important for the development of B 
+cell areas of secondary lymphoid tissue; deletion of the CXCR5 gene in 
+mice results in animals lacking inguinal lymph nodes and having defective 
+formation of primary follicles and germinal centres of the spleen and Peyer's 
+patches. Receptor-deficient B cells enter T cell areas but do not migrate 
+into B cell areas [8]. The expression of CXCR5 in Burkitt's lymphoma cells 
+also suggests a role for the receptor in lymphomagenesis [7].
+
+CXCCHMKINER5 is an 8-element fingerprint that provides a signature for
+type 5 C-X-C chemokine receptor. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved sections
+within either loop or N- and C-terminal regions, focusing on those areas
+of the alignment that characterise the type 5 C-X-C chemokine receptors but
+distinguish them from the rest of the chemokine receptor family - motifs 1
+and 2 lie at the N-terminus; motif 3 spans the first cytoplasmic loop; motif
+4 spans the second cytoplasmic loop; motif 5 lies in the second external
+loop; motif 6 spans the third cytoplasmic loop; and motifs 7 and 8 lie at
+the C-terminus. A single iteration on SPTR39_15f was required to reach
+convergence, no further sequences being identified beyond the starting set.
+A single partial match was found, O93281, a closely related receptor from
+chicken that matches motifs 3, 4 and 6.

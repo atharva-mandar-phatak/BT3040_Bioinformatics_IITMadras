@@ -1,0 +1,20 @@
+GLABONE
+Bone gamma-carboxyglutamic acid protein (BGP) and matrix gamma- 
+carboxyglutamic acid protein (MGP) are the only vitamin K-dependent 
+proteins that have been isolated from bone. MGP is a 79 residue protein 
+found in bone, dentin and cartilage: it contains 5 gamma-carboxyglutamic 
+acid (Gla) residues (formed by post-translational modification of glutamic 
+acid by vitamin K-dependent carboxylase) and a single disulphide bond. 
+BGP is a 49 residue protein found in bone: it contains 3 Gla residues and 
+a single disulphide bond. There is little similarity between these vitamin 
+K-dependent bone proteins and the blood coagulation proteins, though they 
+are believed to have diverged from a common ancestor [1].
+
+GLABONE is a 2-element fingerprint that provides a signature for the 
+invariant Gla domain of bone protein. The fingerprint was derived from an
+initial alignment of 5 sequences (after Price et al. [1]): the motifs span
+the full length of the Gla domain. Two iterations on OWL11.0 were required
+to reach convergence, at which point a true set comprising 17 sequences
+was identified.
+
+An update on SPTR37_9f identified a true set of 22 sequences.

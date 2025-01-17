@@ -1,0 +1,36 @@
+GDNFRECEPTOR
+Glial cell line-derived neurotrophic factor (GDNF) and its related factors
+neurturin (NTN), artemin (ART) and persephin (PSP), are members of the GDNF
+family of neurotrophic factors. They form a sub-group in the transforming 
+growth factor-beta (TGF-beta) superfamily. These factors are involved in
+the promotion of neurone survival, exerting their effects through specific 
+receptors.
+
+The GDNF family receptors (GFRs) are glycosyl-phosphatidylinositol-linked,
+cell surface receptors [1]. Four receptor subtypes, termed GFRalpha-1 to 4,
+are currently recognised. GFRalpha-1 and 2 are activated by GDNF and NTN 
+respectively, although some degree of ligand promiscuity is thought to 
+occur [2]. Homologues for these receptor subtypes have been cloned from 
+mammalian and avian tissue. The principal ligand for GFRalpha-3 is artemin.
+This receptor subtype is currently described only in mammals [3]. GFRalpha-4
+is activated by persephin and has so far only been found in chicken [4].
+
+Activation of GFR family members triggers their interaction with the 
+membrane-bound receptor kinase Ret. This induces Ret homo-dimerisation, 
+triggering a cascade of intracellular signalling events such as the 
+activation of the Ras-mitogen-activated protein kinase (MAPK), 
+phosphpinositol-3-kinase (PI3K), Jun N-terminal kinase (JNK) and 
+phospholipase C gamma (PLC gamma) dependent pathways [1].
+
+GDNFRECEPTOR is a 6-element fingerprint that provides a signature for the 
+GDNF receptor family. The fingerprint was derived from an initial alignment 
+of 9 sequences: the motifs were drawn from conserved regions spanning
+virtually the full alignment length - motif 1 lies at the end of the first
+globular cysteine-rich domain; motif 2 spans a putative alpha-helix in the
+second globular domain; motifs 3 and 6 lie at the end of the second and
+third globular domains respectively; and motifs 4 and 5 are of unknown
+function. Two iterations on SPTR37_10f were required to reach convergence,
+at which point a true set comprising 20 sequences was identified. Two 
+partial matches were also found, Q9Z2A2 and Q9Z2A3, which are splice 
+variants of the Mus musculus GFRalpha-2 lacking a portion of the N-terminal
+section of the receptor. 

@@ -1,0 +1,44 @@
+TRHRFAMILY
+G protein-coupled receptors (GPCRs) constitute a vast protein family that
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the
+sequence level, on the basis of which they can be separated into distinct
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship,
+but between which there is no statistically significant similarity in
+sequence [1,2]. The currently known clan members include the rhodopsin-like
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+          
+The rhodopsin-like GPCRs themselves represent a widespread protein family
+that includes hormone, neurotransmitter and light receptors, all of 
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+          
+Thyrotropin-releasing hormone (thyroliberin) (TRH) stimulates synthesis and
+release of thyroid-stimulating hormone in the anterior pituitary [6]. It
+also stimulates synthesis and release of prolactin. In the CNS, TRH
+stimulates a number of behavioural and pharmacological actions, including
+increased turnover of catecholamines in the nucleus accumbens [6].
+
+TRHRFAMILY is an 8-element fingerprint that provides a signature for the
+thyrotropin-releasing hormone receptor family. The fingerprint was derived
+from an initial alignment of 8 sequences: the motifs were drawn from
+conserved sections within loop and TM regions, focusing on those areas of
+the alignment that characterise the thyrotropin-releasing hormone receptors
+but distinguish them from the rest of rhodopsin-like superfamily - motif 1
+encodes the C-terminal portion of TM domain 2 and the first external loop;
+motif 2 spans the external and central regions of TM domain 3; motif 3 is
+located in the N-terminal section of TM domain 5; motif 4 resides at the
+C-terminus of TM domain 5; motif 5 encodes the N-terminal portion of TM
+domain 6; motif 6 spans the third external loop; motif 7 resides in the
+external and central sections of TM domain 7; and motif 8 lies in the
+initial portion of the C-terminus. Two iterations on SPTR40_20f were
+required to reach convergence, at which point a true set comprising 14
+sequences was identified. Two partial matches were also found: Q9VDC4 and
+Q95YD7, receptors from D.melanogaster and C.elegans, respectively, that
+are most closely related to the thyrotropin-releasing hormone receptors and
+may be members of the family.

@@ -1,0 +1,55 @@
+CTLANTIGEN4
+T cell-dependent immune processes require cell-surface interactions that
+mediate the initiation, modulation and the ultimate course of the response.
+The specificity of T cell recognition is determined by the engagement of the
+T cell receptor (TCR) on T cells with cognate peptide-MHC complexes 
+presented by antigen presenting cells (APCs). Additional signals are
+required to sustain and enhance T cell activity, the most important of which
+is provided by the engagement of CD28 on T cells with its ligands B7-1
+(CD80) and B7-2 (CD86). By contrast, the interaction of B7 isoforms
+with cytotoxic T lymphocyte-associated molecule-4 CTLA-4, a CD28 homologue 
+receptor on T cells (31% identity), provides inhibitory signals required
+for down-regulation of the response, while it may also prevent T cell 
+activation by weak TCR signals [1-5].
+
+Unlike CD28, which is not expressed on resting T cells, CTLA-4 is not 
+detected on the cell surface until 24 hours after activation. In fact, T
+cell activation leads to both increased CTLA4 gene expression and
+trafficking of CTLA4 protein to the cell surface. In addition, CTLA-4
+exhibits an affinity for the B7 isoforms that is 10 to 100 times that for
+CD28. Covalent dimerisation of CTLA4 is required for its high binding
+avidity, but each monomeric subunit also contains a binding site for CD80
+and CD86. On the basis of these differences in expression patterns and
+affinities, it is likely that CTLA-4 directly competes with CD28 for binding
+B7 and also directs the assembly of inhibitory signalling complexes that
+lead to quiescence or anergy. Thus the balance between the opposing signals 
+elicited by CD28 and CTLA-4 is central to the regulation of T cell
+responsiveness and homeostasis. One mechanism by which CTLA-4 may perform
+this function is by regulating cell-cycle progression; by contrast with 
+CD28, which down-regulates the cell-cycle inhibitor p27kip1, CTLA-4 
+prevents this degradation [2,3,5].
+
+Sequence comparison between human CTLA-4 and CD28 proteins suggests they are
+homologous, with the highest of degree of similarity being in the juxta-
+membrane and cytoplasmic regions. In addition, the cytoplasmic domains
+of human and murine CTLA-4 are identical, suggesting that this region has
+important functional properties [1].
+ 
+Typically, activation of T cells by TCR-engaging peptide-MHC is dramatically 
+enhanced by interaction of the CD28 co-stimulatory receptor with its ligands 
+CD80 (B7-1) and CD86 (B7-2) on the APC surface. Interestingly, CTLA-4 is 
+transported from intracellular stores toward the region of the cell surface 
+receiving activation signals. This suggests that binding of CD28 to its 
+ligand may occur primarily at the centre of the mature immunological synapse, 
+and that CTLA-4 may be transported to this site under certain circumstances 
+to block or reverse this effect [6].
+
+CTLANTIGEN4 is a 6-element fingerprint that provides a signature for the
+cytotoxic T-lymphocyte antigen 4 proteins. The fingerprint was derived from 
+an initial alignment of 6 sequences: the motifs were drawn from conserved
+regions spanning virtually the full alignment length - motif 2 spans the
+first beta-strand; motif 3 encodes the third strand, which contains ligand-
+binding residues; motif 4 encompasses strand 4; motif 5 spans strand 6,
+which contains a glycosylation site; and motif 6 encodes strand 7. Two 
+iterations on SPTR39_17f were required to reach convergence, at which point
+a true set comprising 19 sequences was identified.

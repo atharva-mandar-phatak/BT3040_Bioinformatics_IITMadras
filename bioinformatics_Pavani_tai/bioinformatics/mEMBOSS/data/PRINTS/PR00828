@@ -1,0 +1,26 @@
+FORMIN
+Vertebrate limb formation is an evolutionarily conserved process programmed
+by an array of morphogenetic genes [1]. The formins are a set of protein
+isoforms encoded by the alternatively spliced transcripts arising from the
+murine limb deformity (ld) locus [2]. Mutations in this locus disrupt
+formation of the anteroposterior axis of the embryonic limb.
+
+Formins are found in the adult kidney, testis, limb, ovary, brain, small
+intestine, salivary and harderian glands, and throughout the embryo. In the 
+developing limb bud, the protein is expressed in the apical ectodermal ridge
+and mesenchymal compartment, predominantly in the posterior region [3].
+During kidney morphogenesis, early expression is restricted to the
+epithelial compartment of the pronephros and mesonephros [3].
+
+FORMIN is a 10-element fingerprint that provides a signature for formin
+limb deformity proteins. The fingerprint was derived from an initial
+alignment of 3 sequences: the motifs were drawn from conserved regions
+spanning the C-terminal half of the alignment - motifs 1-3 precede a central
+pro-rich region, and motifs 4-10 lie C-terminal to it. A single iteration
+on OWL30.0 was required to reach convergence, no further sequences being
+identified beyond the starting set. A single partial match was found, 
+DMU34258, a sequence from a Drosophila maternal effect gene (cappuccino)
+that is related to the vertebrate limb deformity locus.
+
+An update on SPTR37_9f identified a true set of 3 sequences, and 1
+partial match.

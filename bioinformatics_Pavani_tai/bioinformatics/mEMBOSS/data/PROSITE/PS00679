@@ -1,0 +1,64 @@
+*****************************
+* Beta-amylase active sites *
+*****************************
+
+Beta-amylase (EC  3.2.1.2)  [1,2]  is  an  enzyme  that  hydrolyzes 1,4-alpha-
+glucosidic linkages in starch-type polysaccharide substrates  so  as to remove
+successive maltose units from the  non-reducing  ends  of  the  chains.  Beta-
+amylase is present in certain bacteria as well as in plants.
+
+Three highly  conserved sequence regions are found in all known beta-amylases.
+The first of these regions is located in the N-terminal section of the enzymes
+and contains an aspartate  which is known [3] to be involved in the catalytic
+mechanism. The  second, located in a more central location, is centered around
+a glutamate  which  is  also involved [4] in the catalytic mechanism.   We use
+both regions as signature patterns.
+
+-Consensus pattern: H-x-C-G-G-N-V-G-D
+                    [D is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: G-x-[SA]-G-E-[LIVM]-R-Y-P-S-Y
+                    [E is an active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: These proteins belong to family 14  in  the  classification of glycosyl
+ hydrolases [5,E1].
+
+-Last update: November 1997 / Text revised.
+
+[ 1] Mikami B., Morita Y., Fukazawa C.
+     "Primary structure and function of beta-amylase."
+     Seikagaku 60:211-216(1988).
+     PubMed=2457058
+[ 2] Friedberg F., Rhodes C.
+     "Segments of amino acid sequence similarity in beta-amylases."
+     Protein Seq. Data Anal. 1:499-501(1988).
+     PubMed=2464171
+[ 3] Nitta Y., Isoda Y., Toda H., Sakiyama F.
+     "Identification of glutamic acid 186 affinity-labeled by
+     2,3-epoxypropyl alpha-D-glucopyranoside in soybean beta-amylase."
+     J. Biochem. 105:573-576(1989).
+     PubMed=2474529
+[ 4] Totsuka A., Nong V.H., Kadokawa H., Kim C.-S., Itoh Y., Fukazawa C.
+     "Residues essential for catalytic activity of soybean beta-amylase."
+     Eur. J. Biochem. 221:649-654(1994).
+     PubMed=8174545
+[ 5] Henrissat B.
+     "A classification of glycosyl hydrolases based on amino acid sequence
+     similarities."
+     Biochem. J. 280:309-316(1991).
+     PubMed=1747104
+[E1] http://www.expasy.org/cgi-bin/lists?glycosid.txt
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

@@ -1,0 +1,60 @@
+************************
+* CHASE domain profile *
+************************
+
+The CHASE  domain  is an extracellular domain of 200-230 amino acids, which is
+found in  transmembrane  receptors from bacteria, lower eukaryotes and plants.
+It has   been  named  CHASE  (Cyclases/Histidine  kinases  Associated  Sensory
+Extracellular) because  of its presence in diverse receptor-like proteins with
+histidine  kinase  and  nucleotide  cyclase  domains. The  CHASE domain always
+occurs N-terminally in extracellular or periplasmic locations, followed by  an
+intracellular tail   housing  diverse  enzymatic  signaling  domains  such  as
+histidine kinase  (see  <PDOC50109>),  adenyl  cyclase,  GGDEF-type nucleotide
+cyclase  and  EAL-type  phosphodiesterase  domains, as  well  as non-enzymatic
+domains such   PAS  (see  <PDOC50112>),  GAF,  phosphohistidine  and  response
+regulatory  domains  (see <PDOC50110>).  The CHASE domain is predicted to bind
+diverse  low  molecular  weight  ligands,  such as  the cytokinin-like adenine
+derivatives  or  peptides, and   mediate   signal   transduction  through  the
+respective receptors [1,2].
+
+The CHASE  domain  has  a  predicted  alpha+beta fold, with two extended alpha
+helices on  both  boundaries  and  two central alpha helices separated by beta
+sheets. The  termini  are less conserved compared with the central part of the
+domain, which shows strongly conserved motifs [1,2].
+
+Some proteins known to contain a CHASE domain are listed below:
+
+ - Arabidopsis thaliana cytokinin receptor (Cre1), which transduces the signal
+   for cell  division  and  differentiation  downstream  of  cytokinins (plant
+   hormones).
+ - Dictyostelium discoideum spore differentiation factor receptor dhkA.
+ - Dictyostelium discoideum receptor-adenylyl cyclase ACG.
+ - Leishmania major hypothetical protein L4768.01.
+ - Synechocystis sp. PCC 7603 hypothetical protein sll0267.
+
+The profile we developed covers the entire CHASE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: June 2003 / First entry.
+
+[ 1] Anantharaman V., Aravind L.
+     "The CHASE domain: a predicted ligand-binding module in plant
+     cytokinin receptors and other eukaryotic and bacterial receptors."
+     Trends Biochem. Sci. 26:579-582(2001).
+     PubMed=11590000
+[ 2] Mougel C., Zhulin I.B.
+     "CHASE: an extracellular sensing domain common to transmembrane
+     receptors from prokaryotes, lower eukaryotes and plants."
+     Trends Biochem. Sci. 26:582-584(2001).
+     PubMed=11590001
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

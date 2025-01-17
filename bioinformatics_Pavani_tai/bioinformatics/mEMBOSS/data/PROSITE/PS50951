@@ -1,0 +1,60 @@
+************************
+* SARAH domain profile *
+************************
+
+The SARAH  (for  Sav/Rassf/Hpo)  domain  is  a C-terminal eukaryotic module of
+approximately 50   residues,   which  is  found  in  three  classes  of  tumor
+suppressor which have given it its name.
+
+In the  Sav  and  Hpo  families,  the  SARAH  domain  mediates  a  heterotypic
+interaction that relays the signal from Hpo via the scaffolding protein Sav to
+the downstream   component  Wts.  In  addition,  SARAH  domains  also  support
+homotypic interactions,  as  the  human  Hpo-ortholog  Mst1  has been shown to
+dimerize via its carboxy-terminal region. The SARAH domain is found associated
+with other  modules,  such as the protein kinase domain (see <PDOC00100>), the
+WW/rsp5/WWP domain (see <PDOC50020>), the C1 domain (see <PDOC00379>), the LIM
+domain (see  <PDOC00382>) or the Ras-associating (RA) domain (see <PDOC50200>)
+[1].
+
+Secondary structure  prediction  programs  suggest a long alpha-helix spanning
+most of the conserved region of the SARAH domain. The carboxy-terminal portion
+of the  SARAH  domain  is  predicted  to  have  a moderate to high coiled-coil
+propensity. The  SARAH domain does not contain any invariant residues, but has
+several highly  conserved  positions.  While  some  of the conservation can be
+explained by  generic  coiled-coil properties, other residues are specifically
+conserved in  the  SARAH  family.  Regulatory  interactions mediated by coiled
+coils usually   involve   relatively  short  helices  capable  of  interacting
+reversibly in  a homotypic and/or heterotypic fashion. As the SARAH domain has
+coiled-coil characteristics   with   an  unusual  heptad  arrangement,  it  is
+conceivable that SARAH is in fact a trimerization domain [1].
+
+Some proteins known to contain a SARAH domain are listed below:
+
+ - Drosophila melanogaster scaffold protein salvador (Sav).
+ - Mammalian salvador homolog 1 protein (SAV1).
+ - Drosophila melanogaster serine/threonine protein kinase hippo (HPO).
+ - Animal  Ras  association (RalGDS/AF-6) domain families of proteins (Rassf).
+   These effectors  of  Ras  and Ras-related GTPases are characterized by a RA
+   domain upstream of the SARAH region.
+
+The profile we developed spans the entire SARAH domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: January 2004 / First entry.
+
+[ 1] Scheel H., Hofmann K.
+     "A novel interaction motif, SARAH, connects three classes of tumor
+     suppressor."
+     Curr. Biol. 13:R899-R900(2003).
+     PubMed=14654011
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

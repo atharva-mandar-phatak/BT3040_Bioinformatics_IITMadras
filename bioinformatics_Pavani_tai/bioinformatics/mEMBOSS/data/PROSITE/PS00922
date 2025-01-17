@@ -1,0 +1,65 @@
+*******************************************
+* Prokaryotic transglycosylases signature *
+*******************************************
+
+Bacterial lytic transglycosylases degrade murein via cleavage of the beta-1,4-
+glycosidic bond between N-acetylmuramic acid and N-acetylglucosamine, with the
+concomitant  formation  of  a  1,6-anhydrobond  in  the  muramic acid residue.
+Escherichia coli  has  at  least  three different lytic transglycosylases: two
+soluble isozymes  of 65 Kd and 35 Kd and a membrane-bound enzyme of 38 Kd. The
+sequence of  the  65 Kd enzyme (gene slt) has been determined [1]. A domain of
+about 90  residues  located  near  the  C-terminal section of slt was recently
+shown [2] to be present in a number of other prokaryotic and phage proteins:
+
+ - Membrane-bound lytic murein transglycosylase C (gene mltC).
+ - Membrane-bound lytic murein transglycosylase D (gene mltD).
+ - Membrane-bound lytic murein transglycosylase E (gene mltE).
+ - Phage  T7  internal  protein  D  which  may be involved in the lysis of the
+   bacterial cell wall during the release of phage progeny.
+ - Phage PRD1 gene 7 protein.
+ - Alteromonas strain M-1 possible tributyltin chloride resistance protein.
+ - Escherichia coli hypothetical protein yfhD.
+
+The domain  shared  by  these  proteins  could  be  involved  in     catalytic
+activity. The  most  conserved part of this domain is its N-terminal extremity
+which we used as a signature pattern. It contains two conserved serines and  a
+glutamate which has been shown [3] to be involved in the catalytic mechanism.
+
+-Consensus pattern: [LIVM]-x(3)-E-S-x(3)-[AP]-x(3)-S-x(5)-G-[LIVM]-[LIVMFYW]-
+                    x-[LIVMFYW]-x(4)-[SAG]
+                    [E is the active site residue]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Expert(s) to contact by email:
+           Dijkstra A.J.; arnoud_jan.dijkstra@roche.com
+
+-Last update: November 1997 / Pattern and text revised.
+
+[ 1] Engel H., Kazemier B., Keck W.
+     "Murein-metabolizing enzymes from Escherichia coli: sequence analysis
+     and controlled overexpression of the slt gene, which encodes the
+     soluble lytic transglycosylase."
+     J. Bacteriol. 173:6773-6782(1991).
+     PubMed=1938883
+[ 2] Koonin E.V., Rudd K.E.
+     "A conserved domain in putative bacterial and bacteriophage
+     transglycosylases."
+     Trends Biochem. Sci. 19:106-107(1994).
+     PubMed=8203016
+[ 3] Thunnissen A.-M.W., Dijkstra A.J., Kalk K.H., Rozeboom H.J., Engel H.,
+     Keck W., Dijkstra B.W.
+     "Doughnut-shaped structure of a bacterial muramidase revealed by X-ray
+     crystallography."
+     Nature 367:750-753(1994).
+     PubMed=8107871; DOI=10.1038/367750a0
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

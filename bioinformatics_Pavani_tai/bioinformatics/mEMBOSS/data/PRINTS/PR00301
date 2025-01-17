@@ -1,0 +1,41 @@
+HEATSHOCK70
+Organisms respond to stress (e.g., increased temperatures, exposure to amino
+acid homologues or metabolic inhibitors, or infection with some DNA tumor
+viruses) by synthesising heat shock proteins [1]. Among this family is a
+group of well-conserved proteins with an approximate molecular weight of
+70 kDa, known as the hsp70 family, most species having several proteins
+belonging to this family. Some of these members are only expressed under 
+stress conditions (strictly inducible), while some are present in cells 
+under normal growth conditions [2] and are not heat-inducible [3] 
+(constitutive or cognate). 
+
+Little is known of the function of hsp70 proteins, although there is some
+evidence to suggest that the constitutive members have a role in the
+disassembly of clathrin cages [2], and may also participate in the post-
+translational transmembrane targetting of proteins to cellular organelles.
+No specific activities or associations have been found for the inducible
+members [2], although it has been suggested that they may accept incoming
+precursor proteins, keep them unfolded, then pass them on to the 
+hsp60/hsp10 (cpn60/cpn10) complex for folding and assembly.
+
+The constitutive forms of hsp70 possess ATPase activity. The ATPase domain 
+exists as 2 lobes of approximately equal size, with a deep cleft between 
+them. The lobes can be subdivided into a lower and an upper domain, the 
+lower domain being composed of 5-stranded beta sheets flanked by alpha-
+helices, and the upper domain comprising a different combination of alpha-
+helices and anti-parallel beta sheets. Although the mechanism of the ATPase
+activity is as yet unknown, the domain is structurally similar to that of 
+yeast hexokinase, suggesting that it may have kinase activity [2].
+
+HEATSHOCK70 is a 9-element fingerprint that provides a signature for the
+70kDa heat shock proteins. The fingerprint was derived from an initial
+alignment of 12 sequences: motif 1 includes the N-terminal pentapeptide
+encoded by PROSITE pattern HSP70_1 (PS00297), and motif 5 spans part of
+the conserved octapeptide encoded by PROSITE pattern HSP70_2 (PS00329). Two
+iterations on OWL17.0 were required to reach convergence, at which point a
+true set comprising 72 sequences was identified, together with 26 partial
+matches, most of which are fragments (the large number of fragments results
+from artificial cDNA clone translations).
+
+An update on SPTR37_9f identified a true set of 285 sequences, and 64
+partial matches.

@@ -1,0 +1,52 @@
+****************************************
+* Integrase DNA binding domain profile *
+****************************************
+
+The  retroviral integrase is the enzyme responsible for the insertion of a DNA
+copy  of  the viral genome into host DNA, an essential step in the replication
+cycle  of  viruses  [1].  Integrases  comprise three functional and structural
+domains:  the  central core domain, which contains the catalytic residues (see
+<PDOC50994>), an N-terminal zinc finger (see <PDOC50876>) and a C-terminal DNA
+binding  domain  [2].  The  DNA  binding  domain displays the same DNA binding
+characteristic  and  affinity for viral and nonspecific double-stranded DNA as
+the intact integrase protein [3].
+
+The structure of the DNA binding domain of HIV-1 integrase has been determined
+(see  <PDB:1IHV>).  The  domain  dimerizes  in  solution,  and each subunit is
+composed  of  a five-stranded beta-barrel with a topology very similar to that
+of  the  SH3  domain.  Dimerization form a large central saddle-shaped groove.
+This  cleft  contains  a  number  of  positively  charged  residues,  and  its
+dimensions are appropriate for accommodating a double-stranded DNA helix [4].
+
+The profile we developed covers the whole integrase DNA binding domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2004 / First entry.
+
+[ 1] Frankel A.D., Young J.A.
+     HIV-1: fifteen proteins and an RNA."
+     "Annu. Rev. Biochem. 67:1-25(1998).
+     PubMed=9759480; DOI=10.1146/annurev.biochem.67.1.1
+[ 2] Esposito D., Craigie R.
+     "HIV integrase structure and function."
+     Adv. Virus. Res. 52:319-333(1999).
+     PubMed=10384240
+[ 3] Van Gent D.C., Elgersma Y., Bolk M.W., Vink C., Plasterk R.H.
+     Nucleic Acids Res. 19:3821-3827(1991).
+[ 4] Chen J.C., Krucinski J., Miercke L.J., Finer-Moore J.S., Tang A.H.,
+     Leavitt A.D., Stroud R.M.
+     "Crystal structure of the HIV-1 integrase catalytic core and
+     C-terminal domains: a model for viral DNA binding."
+     Proc. Natl. Acad. Sci. U.S.A. 97:8233-8238(2000).
+     PubMed=10890912; DOI=10.1073/pnas.150220297
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

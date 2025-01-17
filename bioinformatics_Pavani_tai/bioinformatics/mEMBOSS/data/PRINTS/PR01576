@@ -1,0 +1,35 @@
+PDEFORMYLASE
+Peptide deformylase (PDF) is an essential metalloenzyme required for the 
+removal of the formyl group at the N-terminus of nascent polypeptide chains
+in eubacteria [1]. The enzyme acts as a monomer and binds a single zinc ion,
+catalysing the reaction:
+
+	N-FORMYL-L-METHIONINE + H(2)O = FORMATE + L-METHIONINE
+
+Catalytic efficiency strongly depends on the identity of the bound metal [2]. 
+
+PDF, a member of the zinc metalloproteases family, comprises an active core
+domain of 147 residues and a C-terminal tail of 21 residues [3]. The 3D fold
+of the catalytic core has been determined by X-ray crystallography and NMR
+[1-3]. Overall, the structure contains a series of anti-parallel beta-
+strands that surround two perpendicular alpha-helices [3]. The C-terminal 
+helix contains the characteristic HEXXH motif of metalloenzymes, which is
+crucial for activity. The helical arrangement, and the way the histidine
+residues bind the zinc ion, is reminiscent of other metalloproteases, such
+as thermolysin or metzincins. However, the arrangement of secondary and
+tertiary structures of PDF, and the positioning of its third zinc ligand (a
+cysteine residue), are quite different. These discrepancies, together with 
+notable biochemical differences, suggest that PDF constitutes a new class of
+zinc-metalloproteases [3].
+
+PDEFORMYLASE is a 4-element fingerprint that provides a signature for
+peptide deformylases. The fingerprint was derived from an initial alignment
+of 11 sequences: the motifs were drawn from conserved regions spanning 
+virtually the full alignment length - motif 1 spans the C-terminal two-
+thirds of alpha-helix 2 and beta-strands 1 and 2; motif 2 contains the metal-
+binding cysteine residue; motif 3 includes strand 5; and motif 4 spans
+strand 6 and helix 3, which contains two metal-binding histidine residues.
+Seven iterations on SPTR39.22_17.3f were required to reach convergence, at
+which point a true set comprising 54 sequences was identified. Several 
+partial matches were also found, all of which are putative deformylases that
+fail to match one or more motifs.

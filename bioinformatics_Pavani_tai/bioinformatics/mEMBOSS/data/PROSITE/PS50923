@@ -1,0 +1,101 @@
+********************************
+* Sushi/CCP/SCR domain profile *
+********************************
+
+The  extracellular  sushi  domain  is  characterized  by  a consensus sequence
+spanning  ~60 residues containing four invariant cysteine residues forming two
+disulfide-bridges  (I-III  and  II-IV),  a  highly  conserved  tryptophan, and
+conserved  glycine,  proline,  and hydrophobic residues [1]. Sushi domains are
+known  to  be involved in many recognition processes, including the binding of
+several  complement  factors to fragments C3b and C4b [1]. The sushi domain is
+also  known  as  the  complement  controle  protein  (CCP) module or the short
+consensus repeat (SCR).
+
+Several  structure  of  the  sushi  domain  have  been solved (see for example
+<PDB:1HCC>)  [2].  The sushi domain folds into a small and compact hydrophobic
+core  enveloped  by  six beta-strands and stabilized by two disulfide bridges.
+The relative structural orientation of the Beta-2 and Beta-4 strands is shared
+by  all  the  sushi  structures,  whereas  the  topology  of the other strands
+relative to this central conserved core is variable, especially at the regions
+that form the interfaces with the preceding and following domains [3].
+
+Some proteins known to contain a sushi domain:
+
+ - Mammalian  complement  receptor type 1 and 2. They mediate cellular binding
+   of particles and immune complexes that have activated complement.
+ - Mammalian  C4b-binding  protein  alpha  chain.  It  binds  as a cofactor to
+   C3b/C4b inactivator, which then hydrolyzes the complement fragment C4b.
+ - Mammalian  complement  factor  H-related protein 2. It might be involved in
+   complement regulation.
+ - Mammalian  membrane  cofactor  protein (MCP), an important membrane protein
+   for protecting host cells from damage by complement. MCP possesses cofactor
+   activity for inactivation of C3b and C4b by serum factor I.
+ - Mammalian   complement   decay-accelerating   factor  (DAF).  This  protein
+   recognizes  C4b  and C3b fragments that condense with cell-surface hydroxyl
+   or  amino  groups  when nascent C4b and C3b are locally generated during C4
+   and  C3  activation.  Interaction  of  DAF with cell-associated C4b and C3b
+   polypeptides interferes with their ability to catalyze the conversion of C2
+   and  factor  B  to enzymatically active C2a and Bb and thereby prevents the
+   formation  of  C4b2a  and  C3bBb,  the  amplification  convertases  of  the
+   complement cascade.
+ - Mammalian  beta-2-glycoprotein  I  or apolipoprotein H. It binds to various
+   kinds  of negatively charged substances such as heparin, phospholipids, and
+   dextran   sulfate.  It  may  prevent  activation  of  the  intrinsic  blood
+   coagulation  cascade  by binding to phospholipids on the surface of damaged
+   cells.
+ - Mammalian  P-selectin,  a  Ca(2+)-dependent receptor for myeloid cells that
+   binds  to  carbohydrates  on  neutrophils  and  monocytes.  It mediates the
+   interaction of activated endothelial cells or platelets with leukocytes.
+ - Mammalian  neurocan  core  protein.  It  may modulate neuronal adhesion and
+   neurite  growth  during  development  by  binding  to  neural cell adhesion
+   molecules  (NG-CAM  and  N-CAM).
+ - Mammalian  complement  C2.  It  is  part  of  the  classical pathway of the
+   complement system. It is cleaved by activated factor C1 into two fragments:
+   C2b  and  C2a. C2a, a serine protease, then combines with complement factor
+   4b to generate the C3 or C5 convertase.
+ - Mammalian  mannan-binding lectin serine protease 2. A trypsin protease that
+   presumably plays an important role in the initiation of the mannose-binding
+   lectin  (MBL) complement activation pathway. After activation it cleaves C4
+   generating C4a and C4b.
+ - Mammalian  thyroid  peroxidase,  a  key  enzyme  in  the process of thyroid
+   hormone synthesis.
+ - Mammalian  gamma-aminobutyric  acid  type  B  receptor,  subunit  1 (GABA-B
+   receptor 1).
+ - Mammalian  haptoglobin. It combines with free plasma hemoglobin, preventing
+   loss  of iron through the kidneys and protecting the kidneys from damage by
+   hemoglobin, while making the hemoglobin accessible to degradative enzymes.
+ - Drosophila locomotion-related protein Hikaru genki.
+ - Viral  complement  control  protein. It serves to protect the virus against
+   complement  attack by inhibiting both classical and alternative pathways of
+   complement activation. It binds C3b and C4b.
+
+The profile we developed covers the whole sushi domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: December 2003 / First entry.
+
+[ 1] Reid K.B., Day A.J.
+     "Structure-function relationships of the complement components."
+     Immunol. Today. 10:177-180(1989).
+     PubMed=2751824
+[ 2] Norman D.G., Barlow P.N., Baron M., Day A.J., Sim R.B., Campbell I.D.
+     "Three-dimensional structure of a complement control protein module in
+     solution."
+     J. Mol. Biol. 219:717-725(1991).
+     PubMed=1829116
+[ 3] Gaboriaud C., Rossi V., Bally I., Arlaud G.J., Fontecilla-Camps J.C.
+     "Crystal structure of the catalytic domain of human complement c1s: a
+     serine protease with a handle."
+     EMBO J. 19:1755-1765(2000).
+     PubMed=10775260; DOI=10.1093/emboj/19.8.1755
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

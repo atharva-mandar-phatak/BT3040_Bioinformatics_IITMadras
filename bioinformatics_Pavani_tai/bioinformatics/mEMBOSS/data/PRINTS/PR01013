@@ -1,0 +1,54 @@
+NRPEPTIDEY1R
+G protein-coupled receptors (GPCRs) constitute a vast protein family that 
+encompasses a wide range of functions (including various autocrine, para-
+crine and endocrine processes). They show considerable diversity at the 
+sequence level, on the basis of which they can be separated into distinct 
+groups. We use the term clan to describe the GPCRs, as they embrace a group
+of families for which there are indications of evolutionary relationship, 
+but between which there is no statistically significant similarity in 
+sequence [1,2]. The currently known clan members include the rhodopsin-like 
+GPCRs, the secretin-like GPCRs, the cAMP receptors, the fungal mating
+pheromone receptors, and the metabotropic glutamate receptor family.
+
+The rhodopsin-like GPCRs themselves represent a widespread protein family 
+that includes hormone, neurotransmitter and light receptors, all of
+which transduce extracellular signals through interaction with guanine
+nucleotide-binding (G) proteins. Although their activating ligands vary 
+widely in structure and character, the amino acid sequences of the 
+receptors are very similar and are believed to adopt a common structural 
+framework comprising 7 transmembrane (TM) helices [3-5]. 
+
+Neuropeptide Y (NPY) is one of the most abundant peptides in mammalian
+brain, inducing a variety of behavioural effects (e.g., stimulation of food
+intake, anxiety, facilitation of learning and memory, and regulation of the
+cardiovascular and neuroendocrine systems) [6]. In the periphery, NPY 
+stimulates vascular smooth muscle contraction and modulates hormone
+secretion. NPY has been implicated in the pathophysiology of hypertension, 
+congestive heart failure, affective disorders and appetite regulation [6].
+
+Several pharmacologically distinct neuropeptide Y receptors have been 
+characterised, designated NPY Y1-Y6. The Y1 receptor is present in smooth
+muscle (e.g., intestine and blood vessels), and has also been described
+in cell lines. The receptors are believed to have a predominantly post-
+synaptic location [6], and are involved in the inhibition of adenylyl
+cyclase through a pertussis-toxin-sensitive G protein, probably of the
+G0/Gi class [6]. There is also evidence that NPY can stimulate an increase
+in intracellular calcium independently of the phosphoinositide pathway [6].
+
+NRPEPTIDEY1R is a 7-element fingerprint that provides a signature for
+neuropeptide Y1 receptors. The fingerprint was derived from an initial
+alignment of 6 sequences: the motifs were drawn from conserved sections
+within either loop or TM regions, focusing on those areas of the alignment
+that characterise the Y1 receptors but distinguish them from the rest of
+the neuropeptide Y family - motif 1 lies at the N-terminus, leading into
+TM domain 1; motifs 2 and 3 span the C-terminus of TM domain 4 and the
+second external loop; motif 4 lies in the third cytoplasmic loop; motif 5
+spans the third external loop; and motifs 6 and 7 reside at the C-terminus. 
+A single iteration on OWL30.2 was required to reach convergence, no further
+sequences being identified beyond the starting set. Two partial matches 
+were found: NY6R_MOUSE is a neuropeptide Y6 receptor that matches motifs 2,
+6 and 7; and OAU62122 is an ovine neuropeptide Y1 receptor fragment that 
+matches motifs 2 and 3. 
+
+An update on SPTR37_9f identified a true set of 5 sequences, and 3
+partial matches.

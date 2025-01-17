@@ -1,0 +1,62 @@
+************************
+* PRONE domain profile *
+************************
+
+In plants,  the  small  GTP-binding  proteins  called  Rops work as signalling
+switches that  control  growth,  development  and  plant  responses to various
+environmental stimuli.  Rop  proteins  (Rho  of  plants, Rac-like and atRac in
+Arabidopsis thaliana)  belong  to  the  Rho  family of Ras-related GTP-binding
+proteins that  turn  on  signalling  pathways  by  switching  from a GDP-bound
+inactive to  a  GTP-bound  active  conformation. Activation depends on guanine
+nucleotide exchange  factors  (GEFs)  that  catalyze  the  otherwise  slow GDP
+dissociation for  subsequent GTP binding. The plant-specific RopGEFs represent
+a unique  family  of  exchange  factors  that display no homology to any known
+RhoGEFs from  animals  and  fungi.  They comprise a highly conserved catalytic
+domain termed  PRONE  (plant-specific Rop nucleotide exchanger) with exclusive
+substrate specificity for members of the Rop family. The PRONE domain has been
+shown to  be  necessary  and sufficient to promote nucleotide release from Rop
+[1-3].
+
+The PRONE  domain  can  be  divided  into  three  highly  conserved subdomains
+separated by  two short stretches of variable amino acid residues [1,2]. It is
+~370 residues  in  length  and  displays an almost all alpha-helical structure
+except for  a beta-turn that protrudes from the main body of the molecule (see
+<PDB:2NTX>). The overall structure of the PRONE domain can be divided into two
+subdomains, the  first  one including helices alpha1-5 and alpha13, the second
+alpha6-12 [4].
+
+The profile we developed covers the entire PRONE domain.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+-Last update: October 2007 / First entry.
+
+[ 1] Berken A., Thomas C., Wittinghofer A.
+     "A new family of RhoGEFs activates the Rop molecular switch in plants."
+     Nature 436:1176-1180(2005).
+     PubMed=15980860; DOI=10.1038/nature03883
+[ 2] Gu Y., Li S., Lord E.M., Yang Z.
+     "Members of a novel class of Arabidopsis Rho guanine nucleotide
+     exchange factors control Rho GTPase-dependent polar growth."
+     Plant Cell 18:366-381(2006).
+     PubMed=16415208; DOI=10.1105/tpc.105.036434
+[ 3] Thomas C., Weyand M., Wittinghofer A., Berken A.
+     "Purification and crystallization of the catalytic PRONE domain of
+     RopGEF8 and its complex with Rop4 from Arabidopsis thaliana."
+     Acta Crystallogr. F 62:607-610(2006).
+     PubMed=16754995; DOI=10.1107/S1744309106018689
+[ 4] Thomas C., Fricke I., Scrima A., Berken A., Wittinghofer A.
+     "Structural evidence for a common intermediate in small G protein-GEF
+     reactions."
+     Mol. Cell 25:141-149(2007).
+     PubMed=17218277; DOI=10.1016/j.molcel.2006.11.023
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

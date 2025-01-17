@@ -1,0 +1,65 @@
+**********************************************
+* Zinc finger Dof-type signature and profile *
+**********************************************
+
+The  Dof (DNA-binding with one finger) Cys2/Cys2-type zing finger is an around
+50  amino  acid  motif  found  in  plant transcription factors involved in the
+regulation  of  various  processes.  The  arrangement  of  cysteines  has some
+significant  ressemblance  to  GATA  (see  <PDOC00300>)  and  steroid  hormone
+receptor  (see  <PDOC00031>) zinc fingers [1]. Like other zinc fingers the Dof
+domain  has  a  dual activity: it binds DNA in a sequence-specific manner with
+the core binding site formed by the AAAG sequence [1] and it can also mediates
+protein-protein interaction (see below).
+
+Some of the proteins known to contain a Dof zinc finger are listed below:
+
+ - Maize ZmDof1 protein, an activator of various light-regulated genes.
+ - Pumpkin ascorbate oxidase promoter-binding protein (AOBP).
+ - Arabidopsis  thaliana  OBF  binding protein 1 (OBP1). It interacts with the
+   basic leucine  zipper  transcription  factors OBF4 and OBF5 through its Dof
+   zinc finger to enhance their DNA binding to OCS element sequences [2].
+ - Arabidopsis   thaliana  Dof  affecting  germination  1  protein  (DAG1),  a
+   transcription  factor specifically involved in the maternal control of seed
+   germination.
+ - Tobacco  NtBBF1  protein,  a  regulatory factor of the auxin-inducible rolB
+   gene.
+ - Maize  PBF1 protein, a  transcription factor controlling endosperm specific
+   expression of storage proteins.
+
+The  pattern  we  developed  covers  the whole zinc finger and the first eight
+amino  acids  of  the  conserved  basic  C-terminal tail essential for the DNA
+binding activity [3]. We also developed a profile that spans the whole domain.
+
+-Consensus pattern: C-x(2)-C-x(7)-[CS]-x(13)-C-x(2)-C-x-R-x-W-T-x-G-G
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Sequences known to belong to this class detected by the profile: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: December 2004 / Pattern and text revised.
+
+[ 1] Yanagisawa S.
+     "The Dof family of plant transcription factors."
+     Trends Plant Sci. 7:555-560(2002).
+     PubMed=12475498
+[ 2] Zhang B., Chen W., Foley R.C., Buttner M., Singh K.B.
+     "Interactions between distinct types of DNA binding proteins enhance
+     binding to ocs element promoter sequences."
+     Plant Cell 7:2241-2252(1995).
+     PubMed=8718629; DOI=10.1105/tpc.7.12.2241
+[ 3] Shimofurutani N., Kisu Y., Suzuki M., Esaka M.
+     "Functional analyses of the Dof domain, a zinc finger DNA-binding
+     domain, in a pumpkin DNA-binding protein AOBP."
+     FEBS Lett. 430:251-256(1998).
+     PubMed=9688549
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

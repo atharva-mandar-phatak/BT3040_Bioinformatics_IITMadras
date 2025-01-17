@@ -1,0 +1,38 @@
+LYSYLOXIDASE
+Lysyl oxidase (LOX) is an extracellular enzyme involved in the maturation
+of collagen and elastin [1] - it is responsible for post-translational
+oxidative deamination of peptidyl lysine residues in fibrous collagen and
+elastin precursors. The enzyme exploits a copper cofactor in a reaction
+that catalyses the formation of aldehyde cross-links: 
+peptidyl-L-lysyl-peptide + H2O + O2 = peptidyl-allysyl-peptide + NH3 + H2O2
+
+The amino acid sequences of human and rat LOX have been compared with the
+mouse ras recision gene (RRG) product [3]. The proteins demonstrate a
+high degree of similarity, but the level of conservation is not evenly
+distributed along the molecule [3]: the N-terminus is less well conserved
+than the C-terminus, which contains the putative copper-binding sites and
+is probably the catalytic domain. LOX binds a single copper atom via an
+octahedral co-ordination complex that includes several histidine ligands.
+Four His residues, thought to be involved in copper binding, are clustered
+in a central region of the enzyme that has been termed the 'copper talon'.
+
+The high degree of similarity between the RRG and LOX proteins suggests
+that they are the same gene product and, hence, in addition to cross-
+linking of extracellular matrix proteins, LOX may have a direct role in
+tumour suppression [3]. 
+
+Defects in LOX has been found in three X-linked recessive human connective
+tissue disorders: cutis laxa (formerly Ehlers-Danlos syndrome type IX),
+Menkes syndrome, and Ehlers-Danlos syndrome type V (EDS-V).
+
+LYSYLOXIDASE is a 10-element fingerprint that provides a signature for
+lysyl oxidase. The fingerprint was derived from an initial alignment of 4
+sequences: the motifs were drawn from conserved regions spanning the 
+C-terminal half of the alignment: motif 1 lies in a low-complexity region
+in the central portion of the alignment; and motifs 4 and 5, which include
+the region encoded by PROSITE pattern LYSYL_OXIDASE (PS00926), span the
+copper talon. A single iteration on SPTR37_10f was required to reach
+convergence, no further sequences being identified beyond the starting set.
+Two partial matches were found: Q08397 is a protein-lysine oxidase homologue
+precursor from Homo sapiens that fails to match motif 10; and Q9Z175 is a
+murine lysyl oxidase-related protein that fails to match motifs 1, 3 and 10.

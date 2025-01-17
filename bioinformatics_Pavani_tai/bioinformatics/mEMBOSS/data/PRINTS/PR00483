@@ -1,0 +1,18 @@
+BACPHPHTASE
+Class A bacterial acid phosphatases are a group of related proteins that
+catalyse the conversion of an orthophosphoric monoester and water to an
+alcohol and orthophosphate [1,2]. This reaction is non-specific and occurs
+in the periplasm [1,2]. The enzyme is found as a homotetramer in Proteus
+morganii [1] and possibly as a homodimer in Salmonella typhimurium, where 
+it is regulated by a 2-component regulatory system formed by the products
+of the phoP and phoQ genes [2].
+
+BACPHPHTASE is a 5-element fingerprint that provides a signature for class A
+bacterial acid phosphatases. The fingerprint was derived from an initial
+alignment of 4 sequences: the motifs were drawn from conserved regions
+spanning virtually the full alignment length, motif 3 including the central
+area encoded by PROSITE pattern ACID_PHOSPH_CL_A (PS01157). Two iterations
+on OWL27.0 were required to reach convergence, at which point a true set
+comprising 5 sequences was identified.
+
+An update on SPTR37_9f identified a true set of 7 sequences.

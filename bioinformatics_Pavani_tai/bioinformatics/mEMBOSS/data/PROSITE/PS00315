@@ -1,0 +1,64 @@
+************************
+* Dehydrins signatures *
+************************
+
+A number of proteins are  produced  by  plants  that  experience water-stress.
+Water-stress takes place  when  the  water  available to a plant falls below a
+critical level.  The plant hormone abscisic acid (ABA) appears to modulate the
+response of plant to water-stress. Proteins  that  are expressed during water-
+stress are  called dehydrins [1,2] or LEA group 2 proteins [3].  The  proteins
+that belong to this family are listed below.
+
+ - Arabidopsis thaliana XERO 1, XERO 2 (LTI30), RAB18, ERD10 (LTI45) ERD14 and
+   COR47.
+ - Barley dehydrins B8, B9, B17, and B18.
+ - Cotton LEA protein D-11.
+ - Craterostigma plantagineum dessication-related proteins A and B.
+ - Maize dehydrin M3 (RAB-17).
+ - Pea dehydrins DHN1, DHN2, and DHN3.
+ - Radish LEA protein.
+ - Rice proteins RAB 16B, 16C, 16D, RAB21, and RAB25.
+ - Tomato TAS14.
+ - Wheat dehydrin RAB 15 and cold-shock protein cor410, cs66 and cs120.
+
+Dehydrins share  a  number of  structural features. One  of  the  most notable
+features is the presence, in  their  central  region,  of a continuous  run of
+five to nine serines followed by a cluster of  charged residues. Such a region
+has been  found  in  all  known dehydrins so  far  with  the  exception of pea
+dehydrins. A second  conserved  feature is  the  presence  of  two copies of a
+lysine-rich octapeptide; the  first copy  is  located just after  the  cluster
+of charged residues  that  follows  the poly-serine region and the second copy
+is found at the C-terminal extremity. We have have derived  signature patterns
+for both regions.
+
+-Consensus pattern: S(4)-[SD]-[DE]-x-[DE]-[GVE]-x(1,7)-[GE]-x(0,2)-[KR](4)
+-Sequences known to belong to this class detected by the pattern: ALL,  except
+ for pea dehydrins, Arabidopsis COR47 and XERO2 and wheat cold-shock proteins.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Consensus pattern: [KR]-[LIM]-K-[DE]-K-[LIM]-P-G
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Last update: April 2006 / Pattern revised.
+
+[ 1] Close T.J., Kortt A.A., Chandler P.M.
+     "A cDNA-based comparison of dehydration-induced proteins (dehydrins)
+     in barley and corn."
+     Plant Mol. Biol. 13:95-108(1989).
+     PubMed=2562763
+[ 2] Robertson M., Chandler P.M.
+     Plant Mol. Biol. 19:1031-1044(1992).
+[ 3] Dure L. III, Crouch M., Harada J., Ho T.-H. D., Mundy J., Quatrano R.,
+     Thomas T., Sung Z.R.
+     Plant Mol. Biol. 12:475-486(1989).
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+

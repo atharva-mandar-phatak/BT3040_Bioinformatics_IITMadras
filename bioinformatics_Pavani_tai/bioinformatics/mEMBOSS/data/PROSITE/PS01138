@@ -1,0 +1,60 @@
+***********************************
+* Scorpion short toxins signature *
+***********************************
+
+Scorpion venoms  contain  a variety  of peptides toxic to mammals, insects and
+crustaceans. Among these peptides there  is a family of short toxins (30 to 40
+residues) [1,2] that currently consist of:
+
+ - Inhibitors of calcium-activated and/or voltage-dependent potassium channels
+   such as   charybdotoxin   (ChTX),  iberiotoxin  (IbTX),  kaliotoxin  (KTX),
+   leiurotoxin I (LeTX I), margatoxin (MgTX) or noxiustoxin (NTX)
+ - Inhibitors of chloride channels such as chlorotoxin.
+ - Insect toxins such as insectotoxin I1, insectotoxin I5a and neurotoxin P2.
+
+As shown  in  the following schematic representation, these toxins contain six
+conserved cysteines   involved  in  disulfide  bonds.  Our  signature  pattern
+contains the last five cysteines.
+
+                             +---------------------+
+                             |                     |
+                             |     ************************
+                      xxxxxxxCxxxxxCxxxCxxxxxxxxxxxCxxxxCxCxxx
+                                   |   |                | |
+                                   |   +----------------|-+
+                                   +--------------------+
+
+'C': conserved cysteine involved in a disulfide bond.
+'*': position of the pattern.
+
+-Consensus pattern: C-x(3)-C-x(6,9)-[GAS]-K-C-[IMQT]-x(3)-C-x-C
+                    [The 5 C's are involved in disulfide bonds]
+-Sequences known to belong to this class detected by the pattern: ALL.
+-Other sequence(s) detected in Swiss-Prot: NONE.
+
+-Note: K+  channel  inhibitors have a lysine before the second cysteine in the
+ patterns, while the other toxins have a glutamine.
+
+-Last update: May 2004 / Text revised.
+
+[ 1] Martin B.M., Ramirez A.N., Gurrola G.B., Nobile M., Prestipino G.,
+     Possani L.D.
+     "Novel K(+)-channel-blocking toxins from the venom of the scorpion
+     Centruroides limpidus limpidus Karsch."
+     Biochem. J. 304:51-56(1994).
+     PubMed=7998956
+[ 2] Lippens G., Najib J., Wodak S.J., Tartar A.
+     "NMR sequential assignments and solution structure of chlorotoxin, a
+     small scorpion toxin that blocks chloride channels."
+     Biochemistry 34:13-21(1995).
+     PubMed=7819188
+
++------------------------------------------------------------------------+
+PROSITE is copyright.   It  is  produced  by  the  SIB  Swiss  Institute
+Bioinformatics. There  are no restrictions   on its use by  non-profit
+institutions as long as its  content is in no way modified. Usage by and
+for commercial  entities requires a license agreement.   For information
+about  the  licensing  scheme   send  an  email to license@isb-sib.ch or
+see: http://www.expasy.org/prosite/prosite_license.htm.
++------------------------------------------------------------------------+
+
